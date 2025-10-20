@@ -7,8 +7,8 @@ from datetime import datetime, timedelta, date
 from zoneinfo import ZoneInfo
 from urllib.parse import urlencode, urljoin
 import urllib.request
- 
-from tqdm import tqdm 
+
+from tqdm import tqdm
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -20,21 +20,19 @@ BASE_URL = "https://search.dip.bundestag.de/api/v1/"
 SLEEP_SEC = 0.6                # Пауза между запросами к API (сек.)
 TEXT_DIR = "drucksache_texts"
 
-# Ensure UTF-8 stdout to safely print German text on Windows consoles
 try:
     sys.stdout.reconfigure(encoding="utf-8")  # type: ignore[attr-defined]
 except Exception:
     pass
 
-# Read API key from environment
 def api_key() -> str:
     """Read DIP_API_KEY from environment or raise an error."""
     key = os.environ.get("DIP_API_KEY")
     if not key:
-        raise RuntimeError("Не найден DIP_API_KEY в окружении. Загрузите .env или экспортируйте переменную.")
+        raise RuntimeError(
+            "Не найден DIP_API_KEY в окружении. Загрузите .env или экспортируйте переменную.")
     return key
 
-    # GET JSON helper
 def http_get(url: str, headers: dict) -> dict:
     """Perform GET request and decode JSON response."""
     req = urllib.request.Request(url, headers=headers, method="GET")
@@ -43,17 +41,16 @@ def http_get(url: str, headers: dict) -> dict:
             raise RuntimeError(f"HTTP {resp.status} for {url}")
         return json.loads(resp.read().decode("utf-8"))
 
-# Get single Drucksache text/metadata by id
 def fetch_drucksache_text(drucksache_id: str, key: str) -> dict:
     """
     Возвращает JSON с полным текстом документа.
     Структура ответа включает метаданные и поле с текстом документа.
     """
-    headers = {"Authorization": f"ApiKey {key}", "Accept": "application/json", "User-Agent": UA}
+    headers = {"Authorization": f"ApiKey {key}",
+               "Accept": "application/json", "User-Agent": UA}
     url = urljoin(BASE_URL, f"drucksache-text/{drucksache_id}?format=json")
     return http_get(url, headers)
 
-# Save plain text for one entry if available (API or via PDF fallback)
 def save_drucksache_text(entry: dict, key: str, out_dir: str) -> dict:
     """
     Скачивает JSON по одному документу и сохраняет .txt только если есть плейнтекст.
@@ -68,7 +65,8 @@ def save_drucksache_text(entry: dict, key: str, out_dir: str) -> dict:
         if isinstance(t, str) and t.strip():
             text = t.strip()
 
-    safe_num = (entry.get("dokumentnummer") or f"id_{entry['id']}").replace("/", "_")
+    safe_num = (entry.get("dokumentnummer")
+                or f"id_{entry['id']}").replace("/", "_")
     if text:
         txt_path = os.path.join(out_dir, f"{safe_num}.txt")
         with open(txt_path, "w", encoding="utf-8") as f:
@@ -85,13 +83,13 @@ def save_drucksache_text(entry: dict, key: str, out_dir: str) -> dict:
 
     return entry
 
-# Fetch answers in date range
 def fetch_answers(date_start: date, date_end: date, key: str) -> list[dict]:
     """
     Fetch entries of type 'Antwort' for the given date range.
     Returns a list of document dicts from the DIP API.
     """
-    headers = {"Authorization": f"ApiKey {key}", "Accept": "application/json", "User-Agent": UA}
+    headers = {"Authorization": f"ApiKey {key}",
+               "Accept": "application/json", "User-Agent": UA}
     params = {
         "f.drucksachetyp": "Antwort",
         "format": "json",
@@ -109,7 +107,6 @@ def fetch_answers(date_start: date, date_end: date, key: str) -> list[dict]:
         next_url = (more.get("links") or {}).get("next")
     return docs
 
-# Keep only Kleine/Große Anfrage answers and normalize fields
 def filter_only_ka_ga(docs: list[dict], key: str) -> list[dict]:
     """
     Filter only Kleine/Große Anfrage answers and normalize fields.
@@ -133,7 +130,8 @@ def filter_only_ka_ga(docs: list[dict], key: str) -> list[dict]:
         urh = d.get("urheber") or []
         if isinstance(urh, list) and urh:
             first = urh[0]
-            urheber_str = first.get("titel") or first.get("bezeichnung") or None
+            urheber_str = first.get("titel") or first.get(
+                "bezeichnung") or None
 
         fund = d.get("fundstelle") or {}
         pdf_url = fund.get("pdf_url")
@@ -149,7 +147,6 @@ def filter_only_ka_ga(docs: list[dict], key: str) -> list[dict]:
         })
     return out
 
-# Build short Markdown digest (no local text links)
 def build_md(date_start: date, date_end: date, entries: list[dict]) -> str:
     """
     Build markdown summary (without local text links).
@@ -166,7 +163,8 @@ def build_md(date_start: date, date_end: date, entries: list[dict]) -> str:
     if not entries:
         return head + "_Keine Einträge gefunden._\n"
 
-    entries_sorted = sorted(entries, key=lambda e: (group_key(e.get("urheber")), e.get("datum") or "", e.get("dokumentnummer") or ""))
+    entries_sorted = sorted(entries, key=lambda e: (group_key(
+        e.get("urheber")), e.get("datum") or "", e.get("dokumentnummer") or ""))
     md: list[str] = [head]
     current = None
     for e in entries_sorted:
@@ -187,6 +185,7 @@ def build_md(date_start: date, date_end: date, entries: list[dict]) -> str:
     md.append("")
     md.append(f"_Anzahl Einträge: {len(entries)}._\n")
     return "\n".join(md)
+
 
 def save_texts_for_entries_v2(entries: list[dict], out_dir: str, key: str) -> list[dict]:
     """Идёт по записям и сохраняет .txt только при наличии текста.
@@ -219,7 +218,8 @@ def build_md_week_with_local_texts(date_start: date, date_end: date, entries: li
     if not entries:
         return head + "_Ничего не найдено._\n"
 
-    entries_sorted = sorted(entries, key=lambda e: (group_key(e.get("urheber")), e.get("datum") or "", e.get("dokumentnummer") or ""))
+    entries_sorted = sorted(entries, key=lambda e: (group_key(
+        e.get("urheber")), e.get("datum") or "", e.get("dokumentnummer") or ""))
     md = [head]
     current = None
     for e in entries_sorted:
