@@ -257,21 +257,12 @@ def main() -> None:
     filtered = filter_only_ka_ga(raw, key)
     md = build_md(week_start, today, filtered)
 
-    out_name = f"digest-answers-week-{today.strftime('%Y%m%d')}.md"
-    with open(out_name, "w", encoding="utf-8") as f:
-        f.write(md)
-
     if PRINT_TO_STDOUT:
         print(md)
 
     print(f"Готово. Файл: {out_name}. Ответов: {len(filtered)}")
 
     entries_with_texts = save_texts_for_entries_v2(filtered, TEXT_DIR, key)
-    md_full = build_md_week_with_local_texts(week_start, today, entries_with_texts)
-
-    out_name = f"digest-answers-week-{today.strftime('%Y%m%d')}.md"
-    with open(out_name, "w", encoding="utf-8") as f:
-        f.write(md_full)
 
     print(
         f"Готово. Markdown: {out_name}. Тексты: {sum(1 for e in entries_with_texts if e.get('local_text_path'))} из {len(entries_with_texts)}"
