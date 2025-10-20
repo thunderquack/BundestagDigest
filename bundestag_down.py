@@ -2,25 +2,20 @@ import os
 import sys
 import time
 import json
-import argparse
 from datetime import datetime, timedelta, date
 from zoneinfo import ZoneInfo
 from urllib.parse import urlencode, urljoin
 import urllib.request
 import io
 from dotenv import load_dotenv
-try:
-    from pypdf import PdfReader  # lightweight PDF text extraction
-except Exception:
-    PdfReader = None  # will handle gracefully at runtime
 
 load_dotenv()
 
-PRINT_TO_STDOUT = True         # печатать итоговый markdown в вывод ячейки
-WEEK_DAYS = 7                  # последняя неделя = 7 дней включая сегодня
+PRINT_TO_STDOUT = True         # Печатать краткий дайджест в stdout
+WEEK_DAYS = 7                  # Ширина окна по дням (обычно неделя)
 UA = "dip-digest-bot/weekly/1.0"
 BASE_URL = "https://search.dip.bundestag.de/api/v1/"
-SLEEP_SEC = 0.6                # вежливая пауза между страницами
+SLEEP_SEC = 0.6                # Пауза между запросами к API (сек.)
 TEXT_DIR = "drucksache_texts_week"
 
 # Ensure UTF-8 stdout to safely print German text on Windows consoles
@@ -29,19 +24,24 @@ try:
 except Exception:
     pass
 
+# Read API key from environment
 def api_key() -> str:
+    """Read DIP_API_KEY from environment or raise an error."""
     key = os.environ.get("DIP_API_KEY")
     if not key:
         raise RuntimeError("Не найден DIP_API_KEY в окружении. Загрузите .env или экспортируйте переменную.")
     return key
 
+    # GET JSON helper
 def http_get(url: str, headers: dict) -> dict:
+    """Perform GET request and decode JSON response."""
     req = urllib.request.Request(url, headers=headers, method="GET")
     with urllib.request.urlopen(req, timeout=90) as resp:
         if resp.status != 200:
             raise RuntimeError(f"HTTP {resp.status} for {url}")
         return json.loads(resp.read().decode("utf-8"))
 
+# Get single Drucksache text/metadata by id
 def fetch_drucksache_text(drucksache_id: str, key: str) -> dict:
     """
     Возвращает JSON с полным текстом документа.
@@ -51,6 +51,7 @@ def fetch_drucksache_text(drucksache_id: str, key: str) -> dict:
     url = urljoin(BASE_URL, f"drucksache-text/{drucksache_id}?format=json")
     return http_get(url, headers)
 
+# Save plain text for one entry if available (API or via PDF fallback)
 def save_drucksache_text(entry: dict, key: str, out_dir: str) -> dict:
     """
     Скачивает JSON по одному документу и сохраняет .txt только если есть плейнтекст.
@@ -124,6 +125,7 @@ def save_drucksache_text(entry: dict, key: str, out_dir: str) -> dict:
 
     return entry
 
+# Fetch answers in date range
 def fetch_answers(date_start: date, date_end: date, key: str) -> list[dict]:
     """
     Fetch entries of type 'Antwort' for the given date range.
@@ -147,6 +149,7 @@ def fetch_answers(date_start: date, date_end: date, key: str) -> list[dict]:
         next_url = (more.get("links") or {}).get("next")
     return docs
 
+# Keep only Kleine/Große Anfrage answers and normalize fields
 def filter_only_ka_ga(docs: list[dict], key: str) -> list[dict]:
     """
     Filter only Kleine/Große Anfrage answers and normalize fields.
@@ -186,6 +189,7 @@ def filter_only_ka_ga(docs: list[dict], key: str) -> list[dict]:
         })
     return out
 
+# Build short Markdown digest (no local text links)
 def build_md(date_start: date, date_end: date, entries: list[dict]) -> str:
     """
     Build markdown summary (without local text links).
@@ -241,49 +245,7 @@ def save_texts_for_entries_v2(entries: list[dict], out_dir: str, key: str) -> li
         time.sleep(SLEEP_SEC)
     return enriched
 
-def save_texts_for_entries(entries: list[dict], out_dir: str, key: str) -> list[dict]:
-    """
-    Для каждой записи тянет полный текст и сохраняет в файл.
-    Возвращает список записей, дополненный полем 'local_text_path'.
-    """
-    os.makedirs(out_dir, exist_ok=True)
-    enriched = []
-    for e in entries:
-        ds_id = str(e["id"])
-        try:
-            data = fetch_drucksache_text(ds_id, key)
-            # В JSON-ответе есть поле 'text' или аналогичное с полным телом. Сохраним плейнтекстовую версию.
-            # Если текст вложен глубже, можно адаптировать, оставим универсально:
-            # попробуем распространенные варианты: data.get("text"), data.get("dokumenttext"), data["drucksacheText"]["text"]
-            txt = None
-            if isinstance(data, dict):
-                if "text" in data and isinstance(data["text"], str):
-                    txt = data["text"]
-                elif "dokumenttext" in data and isinstance(data["dokumenttext"], str):
-                    txt = data["dokumenttext"]
-                elif "drucksacheText" in data and isinstance(data["drucksacheText"], dict) and isinstance(data["drucksacheText"].get("text"), str):
-                    txt = data["drucksacheText"]["text"]
-            if not txt:
-                # на всякий случай приведем весь JSON для диагностики
-                raise ValueError("no text field in JSON")
-
-            safe_num = (e.get("dokumentnummer") or f"id_{ds_id}").replace("/", "_")
-            fname = f"{safe_num}.txt"
-            fpath = os.path.join(out_dir, fname)
-            with open(fpath, "w", encoding="utf-8") as f:
-                f.write(txt)
-            e = dict(e)
-            e["local_text_path"] = fpath
-            enriched.append(e)
-        except Exception as ex:
-            # не падаем на одном документе
-            e = dict(e)
-            e["local_text_path"] = None
-            e["text_error"] = str(ex)
-            enriched.append(e)
-        time.sleep(SLEEP_SEC)
-    return enriched
-
+# Legacy save_texts_for_entries removed (use save_texts_for_entries_v2)
 def build_md_week_with_local_texts(date_start: date, date_end: date, entries: list[dict]) -> str:
     def group_key(urheber: str | None) -> str:
         if not urheber:
@@ -358,3 +320,6 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+
+
