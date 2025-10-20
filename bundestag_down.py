@@ -7,6 +7,7 @@ from zoneinfo import ZoneInfo
 from urllib.parse import urlencode, urljoin
 import urllib.request
 import io
+from tqdm import tqdm 
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -229,13 +230,12 @@ def build_md(date_start: date, date_end: date, entries: list[dict]) -> str:
     return "\n".join(md)
 
 def save_texts_for_entries_v2(entries: list[dict], out_dir: str, key: str) -> list[dict]:
-    """
-    Обёртка поверх save_drucksache_text: идём по списку, сохраняем .txt только при наличии текста.
-    Никаких JSON-файлов, при отсутствии текста — text_error.
+    """Идёт по записям и сохраняет .txt только при наличии текста.
+
+    Если текста нет — фиксирует `text_error`. JSON-файлы не создаются.
     """
     enriched: list[dict] = []
-    for e in entries:
-        try:
+    for e in tqdm(entries, total=len(entries), desc="Сохраняю тексты", unit="док"):
             enriched.append(save_drucksache_text(dict(e), key, out_dir))
         except Exception as ex:
             e = dict(e)
@@ -320,6 +320,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
-
-
