@@ -1,3 +1,4 @@
+from __future__ import annotations
 import os
 import sys
 import time
@@ -6,7 +7,7 @@ from datetime import datetime, timedelta, date
 from zoneinfo import ZoneInfo
 from urllib.parse import urlencode, urljoin
 import urllib.request
-import io
+ 
 from tqdm import tqdm 
 from dotenv import load_dotenv
 
@@ -66,43 +67,6 @@ def save_drucksache_text(entry: dict, key: str, out_dir: str) -> dict:
         t = data.get("text")
         if isinstance(t, str) and t.strip():
             text = t.strip()
-        elif isinstance(data.get("dokumenttext"), str) and data["dokumenttext"].strip():
-            text = data["dokumenttext"].strip()
-        else:
-            ds_text = data.get("drucksacheText")
-            if isinstance(ds_text, dict):
-                t2 = ds_text.get("text")
-                if isinstance(t2, str) and t2.strip():
-                    text = t2.strip()
-
-    # Fallback: if no API text found, try extracting text from the PDF
-    if not text:
-        # discover PDF URL either from entry or API response
-        pdf_url = entry.get("pdf_url")
-        if not pdf_url and isinstance(data, dict):
-            fund = data.get("fundstelle")
-            if isinstance(fund, dict):
-                pdf_url = fund.get("pdf_url")
-        if pdf_url and PdfReader is not None:
-            try:
-                # use a browsery UA: some servers are picky for PDF
-                req = urllib.request.Request(pdf_url, headers={"User-Agent": "Mozilla/5.0"})
-                with urllib.request.urlopen(req, timeout=120) as resp:
-                    if resp.status == 200:
-                        pdf_bytes = resp.read()
-                        reader = PdfReader(io.BytesIO(pdf_bytes))
-                        chunks = []
-                        for page in reader.pages:
-                            try:
-                                chunks.append(page.extract_text() or "")
-                            except Exception:
-                                chunks.append("")
-                        pdf_text = "\n\n".join(chunks).strip()
-                        if pdf_text:
-                            text = pdf_text
-            except Exception:
-                # ignore PDF extraction errors; leave text as None
-                pass
 
     safe_num = (entry.get("dokumentnummer") or f"id_{entry['id']}").replace("/", "_")
     if text:
@@ -117,12 +81,7 @@ def save_drucksache_text(entry: dict, key: str, out_dir: str) -> dict:
                     entry["pdf_url"] = fund.get("pdf_url")
     else:
         entry["local_text_path"] = None
-        entry["text_error"] = "no text (API/PDF)"
-        if not entry.get("pdf_url"):
-            if isinstance(data, dict):
-                fund = data.get("fundstelle")
-                if isinstance(fund, dict):
-                    entry["pdf_url"] = fund.get("pdf_url")
+        entry["text_error"] = "no text from drucksache-text API"
 
     return entry
 
@@ -236,6 +195,7 @@ def save_texts_for_entries_v2(entries: list[dict], out_dir: str, key: str) -> li
     """
     enriched: list[dict] = []
     for e in tqdm(entries, total=len(entries), desc="Сохраняю тексты", unit="док"):
+        try:
             enriched.append(save_drucksache_text(dict(e), key, out_dir))
         except Exception as ex:
             e = dict(e)
