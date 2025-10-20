@@ -73,9 +73,33 @@ def save_drucksache_text(entry: dict, key: str, out_dir: str) -> dict:
         if isinstance(t, str) and t.strip():
             text = t.strip()
 
-    safe_num = (entry.get("dokumentnummer") or f"id_{entry['id']}").replace("/", "_")
+    def _safe_filename(name: str) -> str:
+        for ch in ("\\", "/", ":", "*", "?", '"', "<", ">", "|"):
+            name = name.replace(ch, "_")
+        return name.strip()
+
+    # Build filename as "YYYY-MM-DD Nummer"
+    raw_date = entry.get("datum")
+    if not raw_date and isinstance(data, dict):
+        fund = data.get("fundstelle") if isinstance(data.get("fundstelle"), dict) else None
+        if isinstance(fund, dict):
+            raw_date = fund.get("datum")
+    date_str = None
+    if isinstance(raw_date, str) and raw_date:
+        date_str = raw_date[:10]
+        try:
+            # Validate ISO date substring
+            _ = date.fromisoformat(date_str)
+        except Exception:
+            date_str = None
+    if not date_str:
+        date_str = "unknown-date"
+
+    nummer = (entry.get("dokumentnummer") or f"id_{entry['id']}").replace("/", "_")
+    base_name = _safe_filename(f"{date_str} {nummer}")
+
     if text:
-        txt_path = os.path.join(out_dir, f"{safe_num}.txt")
+        txt_path = os.path.join(out_dir, f"{base_name}.txt")
         with open(txt_path, "w", encoding="utf-8") as f:
             f.write(text)
         entry["local_text_path"] = txt_path
