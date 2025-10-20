@@ -7,7 +7,12 @@ from datetime import datetime, timedelta, date
 from zoneinfo import ZoneInfo
 from urllib.parse import urlencode, urljoin
 import urllib.request
+import io
 from dotenv import load_dotenv
+try:
+    from pypdf import PdfReader  # lightweight PDF text extraction
+except Exception:
+    PdfReader = None  # will handle gracefully at runtime
 
 load_dotenv()
 
@@ -17,6 +22,12 @@ UA = "dip-digest-bot/weekly/1.0"
 BASE_URL = "https://search.dip.bundestag.de/api/v1/"
 SLEEP_SEC = 0.6                # вежливая пауза между страницами
 TEXT_DIR = "drucksache_texts_week"
+
+# Ensure UTF-8 stdout to safely print German text on Windows consoles
+try:
+    sys.stdout.reconfigure(encoding="utf-8")  # type: ignore[attr-defined]
+except Exception:
+    pass
 
 def api_key() -> str:
     key = os.environ.get("DIP_API_KEY")
@@ -62,23 +73,54 @@ def save_drucksache_text(entry: dict, key: str, out_dir: str) -> dict:
                 if isinstance(t2, str) and t2.strip():
                     text = t2.strip()
 
+    # Fallback: if no API text found, try extracting text from the PDF
+    if not text:
+        # discover PDF URL either from entry or API response
+        pdf_url = entry.get("pdf_url")
+        if not pdf_url and isinstance(data, dict):
+            fund = data.get("fundstelle")
+            if isinstance(fund, dict):
+                pdf_url = fund.get("pdf_url")
+        if pdf_url and PdfReader is not None:
+            try:
+                # use a browsery UA: some servers are picky for PDF
+                req = urllib.request.Request(pdf_url, headers={"User-Agent": "Mozilla/5.0"})
+                with urllib.request.urlopen(req, timeout=120) as resp:
+                    if resp.status == 200:
+                        pdf_bytes = resp.read()
+                        reader = PdfReader(io.BytesIO(pdf_bytes))
+                        chunks = []
+                        for page in reader.pages:
+                            try:
+                                chunks.append(page.extract_text() or "")
+                            except Exception:
+                                chunks.append("")
+                        pdf_text = "\n\n".join(chunks).strip()
+                        if pdf_text:
+                            text = pdf_text
+            except Exception:
+                # ignore PDF extraction errors; leave text as None
+                pass
+
     safe_num = (entry.get("dokumentnummer") or f"id_{entry['id']}").replace("/", "_")
     if text:
         txt_path = os.path.join(out_dir, f"{safe_num}.txt")
         with open(txt_path, "w", encoding="utf-8") as f:
             f.write(text)
         entry["local_text_path"] = txt_path
-        if not entry.get("pdf_url") and isinstance(data, dict):
-            fund = data.get("fundstelle")
-            if isinstance(fund, dict):
-                entry["pdf_url"] = fund.get("pdf_url")
+        if not entry.get("pdf_url"):
+            if isinstance(data, dict):
+                fund = data.get("fundstelle")
+                if isinstance(fund, dict):
+                    entry["pdf_url"] = fund.get("pdf_url")
     else:
         entry["local_text_path"] = None
-        entry["text_error"] = "no text field in JSON"
-        if not entry.get("pdf_url") and isinstance(data, dict):
-            fund = data.get("fundstelle")
-            if isinstance(fund, dict):
-                entry["pdf_url"] = fund.get("pdf_url")
+        entry["text_error"] = "no text (API/PDF)"
+        if not entry.get("pdf_url"):
+            if isinstance(data, dict):
+                fund = data.get("fundstelle")
+                if isinstance(fund, dict):
+                    entry["pdf_url"] = fund.get("pdf_url")
 
     return entry
 
@@ -89,7 +131,7 @@ def fetch_answers(date_start: date, date_end: date, key: str) -> list[dict]:
     """
     headers = {"Authorization": f"ApiKey {key}", "Accept": "application/json", "User-Agent": UA}
     params = {
-        "drucksachetyp": "Antwort",
+        "f.drucksachetyp": "Antwort",
         "format": "json",
         "size": 1000,
         "f.datum.start": date_start.strftime("%Y-%m-%d"),
@@ -111,6 +153,9 @@ def filter_only_ka_ga(docs: list[dict], key: str) -> list[dict]:
     """
     out: list[dict] = []
     for d in docs:
+        # enforce Antwort type, even if server ignored filter
+        if (d.get("drucksachetyp") or d.get("typ")) != "Antwort":
+            continue
         vbez = d.get("vorgangsbezug") or []
         has_ka_ga = False
         for vb in vbez:
@@ -279,33 +324,37 @@ def build_md_week_with_local_texts(date_start: date, date_end: date, entries: li
     return "\n".join(md)
 
 
-tz = ZoneInfo("Europe/Berlin")
-today = datetime.now(tz).date()
-week_start = today - timedelta(days=WEEK_DAYS - 1)
-key = api_key()
+def main() -> None:
+    tz = ZoneInfo("Europe/Berlin")
+    today = datetime.now(tz).date()
+    week_start = today - timedelta(days=WEEK_DAYS - 1)
+    key = api_key()
 
-print(f"Загружаем ответы с {week_start} по {today}...")
-raw = fetch_answers(week_start, today, key)
-filtered = filter_only_ka_ga(raw, key)
-md = build_md(week_start, today, filtered)
+    print(f"Загружаем ответы с {week_start} по {today}...")
+    raw = fetch_answers(week_start, today, key)
+    filtered = filter_only_ka_ga(raw, key)
+    md = build_md(week_start, today, filtered)
 
-out_name = f"digest-answers-week-{today.strftime('%Y%m%d')}.md"
-with open(out_name, "w", encoding="utf-8") as f:
-    f.write(md)
+    out_name = f"digest-answers-week-{today.strftime('%Y%m%d')}.md"
+    with open(out_name, "w", encoding="utf-8") as f:
+        f.write(md)
 
-if PRINT_TO_STDOUT:
-    print(md)
+    if PRINT_TO_STDOUT:
+        print(md)
 
-print(f"Готово. Файл: {out_name}. Ответов: {len(filtered)}")
+    print(f"Готово. Файл: {out_name}. Ответов: {len(filtered)}")
+
+    entries_with_texts = save_texts_for_entries_v2(filtered, TEXT_DIR, key)
+    md_full = build_md_week_with_local_texts(week_start, today, entries_with_texts)
+
+    out_name = f"digest-answers-week-{today.strftime('%Y%m%d')}.md"
+    with open(out_name, "w", encoding="utf-8") as f:
+        f.write(md_full)
+
+    print(
+        f"Готово. Markdown: {out_name}. Тексты: {sum(1 for e in entries_with_texts if e.get('local_text_path'))} из {len(entries_with_texts)}"
+    )
 
 
-key = api_key()
-entries_with_texts = save_texts_for_entries_v2(filtered, TEXT_DIR, key)
-
-md_full = build_md_week_with_local_texts(week_start, today, entries_with_texts)
-
-out_name = f"digest-answers-week-{today.strftime('%Y%m%d')}.md"
-with open(out_name, "w", encoding="utf-8") as f:
-    f.write(md_full)
-
-print(f"Готово. Markdown: {out_name}. Тексты: {sum(1 for e in entries_with_texts if e.get('local_text_path'))} из {len(entries_with_texts)}")
+if __name__ == "__main__":
+    main()
