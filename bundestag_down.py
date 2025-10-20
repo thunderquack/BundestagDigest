@@ -40,6 +40,103 @@ def fetch_drucksache_text(drucksache_id: str, key: str) -> dict:
     url = urljoin(BASE_URL, f"drucksache-text/{drucksache_id}?format=json")
     return http_get(url, headers)
 
+def fetch_answers(date_start: date, date_end: date, key: str) -> list[dict]:
+    """
+    Fetch entries of type 'Antwort' for the given date range.
+    Returns a list of document dicts from the DIP API.
+    """
+    headers = {"Authorization": f"ApiKey {key}", "Accept": "application/json", "User-Agent": UA}
+    params = {
+        "drucksachetyp": "Antwort",
+        "format": "json",
+        "size": 1000,
+        "f.datum.start": date_start.strftime("%Y-%m-%d"),
+        "f.datum.end": date_end.strftime("%Y-%m-%d"),
+    }
+    url = urljoin(BASE_URL, "drucksache") + "?" + urlencode(params)
+    data = http_get(url, headers)
+    docs = data.get("documents") or []
+    next_url = (data.get("links") or {}).get("next")
+    while next_url:
+        more = http_get(next_url, headers)
+        docs.extend(more.get("documents") or [])
+        next_url = (more.get("links") or {}).get("next")
+    return docs
+
+def filter_only_ka_ga(docs: list[dict], key: str) -> list[dict]:
+    """
+    Filter only Kleine/Große Anfrage answers and normalize fields.
+    """
+    out: list[dict] = []
+    for d in docs:
+        vbez = d.get("vorgangsbezug") or []
+        has_ka_ga = False
+        for vb in vbez:
+            vt = (vb.get("vorgangstyp") or "").lower()
+            if "kleine anfrage" in vt or "große anfrage" in vt or "grosse anfrage" in vt:
+                has_ka_ga = True
+                break
+        if not has_ka_ga:
+            continue
+
+        urheber_str = None
+        urh = d.get("urheber") or []
+        if isinstance(urh, list) and urh:
+            first = urh[0]
+            urheber_str = first.get("titel") or first.get("bezeichnung") or None
+
+        fund = d.get("fundstelle") or {}
+        pdf_url = fund.get("pdf_url")
+
+        out.append({
+            "id": d.get("id"),
+            "titel": d.get("titel"),
+            "dokumentnummer": d.get("dokumentnummer"),
+            "drucksachetyp": d.get("drucksachetyp") or d.get("typ"),
+            "datum": d.get("datum") or fund.get("datum"),
+            "pdf_url": pdf_url,
+            "urheber": urheber_str,
+        })
+    return out
+
+def build_md(date_start: date, date_end: date, entries: list[dict]) -> str:
+    """
+    Build markdown summary (without local text links).
+    """
+    def group_key(urheber: str | None) -> str:
+        if not urheber:
+            return "Unbekannt"
+        return urheber.strip() or "Unbekannt"
+
+    head = (
+        f"# Antworten der Bundesregierung auf Kleine/Große Anfragen\n"
+        f"## Zeitraum: {date_start.strftime('%Y-%m-%d')} - {date_end.strftime('%Y-%m-%d')}\n\n"
+    )
+    if not entries:
+        return head + "_Keine Einträge gefunden._\n"
+
+    entries_sorted = sorted(entries, key=lambda e: (group_key(e.get("urheber")), e.get("datum") or "", e.get("dokumentnummer") or ""))
+    md: list[str] = [head]
+    current = None
+    for e in entries_sorted:
+        g = group_key(e.get("urheber"))
+        if g != current:
+            md.append(f"## {g}\n")
+            current = g
+        line = f"- **{e.get('titel') or 'Ohne Titel'}**"
+        if e.get("dokumentnummer"):
+            line += f" · BT-Drucksache {e['dokumentnummer']}"
+        if e.get("drucksachetyp"):
+            line += f" · {e['drucksachetyp']}"
+        if e.get("datum"):
+            line += f" · {e['datum']}"
+        if e.get("pdf_url"):
+            line += f" · [PDF]({e['pdf_url']})"
+        md.append(line)
+    md.append("")
+    md.append(f"_Anzahl Einträge: {len(entries)}._\n")
+    return "\n".join(md)
+
 def save_texts_for_entries(entries: list[dict], out_dir: str, key: str) -> list[dict]:
     """
     Для каждой записи тянет полный текст и сохраняет в файл.
