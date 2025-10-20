@@ -40,6 +40,48 @@ def fetch_drucksache_text(drucksache_id: str, key: str) -> dict:
     url = urljoin(BASE_URL, f"drucksache-text/{drucksache_id}?format=json")
     return http_get(url, headers)
 
+def save_drucksache_text(entry: dict, key: str, out_dir: str) -> dict:
+    """
+    Скачивает JSON по одному документу и сохраняет .txt только если есть плейнтекст.
+    JSON-файл не создаётся. В запись добавляются поля 'local_text_path' или 'text_error'.
+    """
+    os.makedirs(out_dir, exist_ok=True)
+    data = fetch_drucksache_text(str(entry["id"]), key)
+
+    text = None
+    if isinstance(data, dict):
+        t = data.get("text")
+        if isinstance(t, str) and t.strip():
+            text = t.strip()
+        elif isinstance(data.get("dokumenttext"), str) and data["dokumenttext"].strip():
+            text = data["dokumenttext"].strip()
+        else:
+            ds_text = data.get("drucksacheText")
+            if isinstance(ds_text, dict):
+                t2 = ds_text.get("text")
+                if isinstance(t2, str) and t2.strip():
+                    text = t2.strip()
+
+    safe_num = (entry.get("dokumentnummer") or f"id_{entry['id']}").replace("/", "_")
+    if text:
+        txt_path = os.path.join(out_dir, f"{safe_num}.txt")
+        with open(txt_path, "w", encoding="utf-8") as f:
+            f.write(text)
+        entry["local_text_path"] = txt_path
+        if not entry.get("pdf_url") and isinstance(data, dict):
+            fund = data.get("fundstelle")
+            if isinstance(fund, dict):
+                entry["pdf_url"] = fund.get("pdf_url")
+    else:
+        entry["local_text_path"] = None
+        entry["text_error"] = "no text field in JSON"
+        if not entry.get("pdf_url") and isinstance(data, dict):
+            fund = data.get("fundstelle")
+            if isinstance(fund, dict):
+                entry["pdf_url"] = fund.get("pdf_url")
+
+    return entry
+
 def fetch_answers(date_start: date, date_end: date, key: str) -> list[dict]:
     """
     Fetch entries of type 'Antwort' for the given date range.
@@ -136,6 +178,23 @@ def build_md(date_start: date, date_end: date, entries: list[dict]) -> str:
     md.append("")
     md.append(f"_Anzahl Einträge: {len(entries)}._\n")
     return "\n".join(md)
+
+def save_texts_for_entries_v2(entries: list[dict], out_dir: str, key: str) -> list[dict]:
+    """
+    Обёртка поверх save_drucksache_text: идём по списку, сохраняем .txt только при наличии текста.
+    Никаких JSON-файлов, при отсутствии текста — text_error.
+    """
+    enriched: list[dict] = []
+    for e in entries:
+        try:
+            enriched.append(save_drucksache_text(dict(e), key, out_dir))
+        except Exception as ex:
+            e = dict(e)
+            e["local_text_path"] = None
+            e["text_error"] = str(ex)
+            enriched.append(e)
+        time.sleep(SLEEP_SEC)
+    return enriched
 
 def save_texts_for_entries(entries: list[dict], out_dir: str, key: str) -> list[dict]:
     """
@@ -241,7 +300,7 @@ print(f"Готово. Файл: {out_name}. Ответов: {len(filtered)}")
 
 
 key = api_key()
-entries_with_texts = save_texts_for_entries(filtered, TEXT_DIR, key)
+entries_with_texts = save_texts_for_entries_v2(filtered, TEXT_DIR, key)
 
 md_full = build_md_week_with_local_texts(week_start, today, entries_with_texts)
 
