@@ -90,21 +90,34 @@ def fetch_answers(date_start: date, date_end: date, key: str) -> list[dict]:
     """
     headers = {"Authorization": f"ApiKey {key}",
                "Accept": "application/json", "User-Agent": UA}
-    params = {
-        "f.drucksachetyp": "Antwort",
+    # The API returns up to 100 items per page and a 'cursor' for the next page.
+    base_params = {
         "format": "json",
-        "size": 1000,
         "f.datum.start": date_start.strftime("%Y-%m-%d"),
         "f.datum.end": date_end.strftime("%Y-%m-%d"),
+        # Limit to Antworten on the server side to reduce payload.
+        "f.drucksachetyp": "Antwort",
     }
-    url = urljoin(BASE_URL, "drucksache") + "?" + urlencode(params)
-    data = http_get(url, headers)
-    docs = data.get("documents") or []
-    next_url = (data.get("links") or {}).get("next")
-    while next_url:
-        more = http_get(next_url, headers)
-        docs.extend(more.get("documents") or [])
-        next_url = (more.get("links") or {}).get("next")
+
+    docs: list[dict] = []
+    cursor: str | None = None
+    last_cursor: str | None = None
+    # Guard to avoid accidental infinite loops (very generous upper bound)
+    for _ in range(10000):
+        params = dict(base_params)
+        if cursor:
+            params["cursor"] = cursor
+        url = urljoin(BASE_URL, "drucksache") + "?" + urlencode(params)
+        data = http_get(url, headers)
+        page_docs = data.get("documents") or []
+        if page_docs:
+            docs.extend(page_docs)
+        last_cursor, cursor = cursor, data.get("cursor")
+        # Stop when cursor stops changing, per OpenAPI spec.
+        if not cursor or cursor == last_cursor:
+            break
+        # Be polite to the API
+        time.sleep(SLEEP_SEC)
     return docs
 
 def filter_only_ka_ga(docs: list[dict], key: str) -> list[dict]:
