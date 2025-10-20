@@ -260,12 +260,12 @@ def main() -> None:
     if PRINT_TO_STDOUT:
         print(md)
 
-    print(f"Готово. Файл: {out_name}. Ответов: {len(filtered)}")
+    print(f"Готово. Ответов: {len(filtered)}")
 
     entries_with_texts = save_texts_for_entries_v2(filtered, TEXT_DIR, key)
 
     print(
-        f"Готово. Markdown: {out_name}. Тексты: {sum(1 for e in entries_with_texts if e.get('local_text_path'))} из {len(entries_with_texts)}"
+        f"Готово. Тексты: {sum(1 for e in entries_with_texts if e.get('local_text_path'))} из {len(entries_with_texts)}"
     )
 
 
