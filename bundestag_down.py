@@ -18,7 +18,7 @@ WEEK_DAYS = 7                  # Ширина окна по дням (обычн
 UA = "dip-digest-bot/weekly/1.0"
 BASE_URL = "https://search.dip.bundestag.de/api/v1/"
 SLEEP_SEC = 0.6                # Пауза между запросами к API (сек.)
-TEXT_DIR = "drucksache_texts_week"
+TEXT_DIR = "drucksache_texts"
 
 # Ensure UTF-8 stdout to safely print German text on Windows consoles
 try:
