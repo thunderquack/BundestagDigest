@@ -1,0 +1,306 @@
+Deutscher Bundestag Drucksache 21/1263
+21. Wahlperiode 18.08.2025
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Ruben Rupp, Robin Jünger, Alexander 
+Arpaschi, Sebastian Maack, Tobias Ebenberger, Lars Haise, Edgar Naujok, 
+Steffen Janich, Leif-Erik Holm, Raimond Scheirich, Dr. Malte Kaufmann und der 
+Fraktion der AfD
+– Drucksache 21/1106 –
+Zum aktuellen und künftigen Energiebedarf einer deutschen KI-
+Recheninfrastruktur
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die fortschreitende Digitalisierung des öffentlichen, wirtschaftlichen und
+privaten Lebens hat praktisch alle Bereiche der modernen Gesellschaft erfasst. 
+Mittels Glasfasernetzen und 5G-Mobilfunknetzen lassen sich rasch wachsende 
+Datenpakete in kurzer Zeit übertragen und in Rechenzentren verarbeiten; diese 
+Kapazitäten werden durch Videoanwendungen, Streamingdienste, das Internet 
+der vernetzten Dinge, durch autonomes Fahren und durch Anwendungen der 
+Smart Cities nachgefragt. Größte Treibkraft der Digitalisierung ist die
+Künstliche Intelligenz (KI), die seit der Veröffentlichung von ChatGPT im November 
+2022 das Labor verlassen hat und sich auf Milliarden privater Rechner und 
+Telefone wiederfindet, in die Steuerungszentralen der Unternehmen
+eingezogen ist und auch die Verwaltung, die Schulen und Arbeitsplätze verändern 
+wird.
+Dabei ist keine Anwendung der Daten- und Digitalindustrie so energieintensiv 
+wie KI. Ein Bericht der Internationalen Energie Agentur (IEA) kommt zum 
+Ergebnis, dass Rechenzentren, die für die Verarbeitung von KI-Anwendungen 
+unerlässlich sind, bereits für 1,5 Prozent des weltweiten Stromverbrauches 
+verantwortlich sind (vgl. https://iea.blob.core.windows.net/assets/601eaec9-ba
+91-4623-819b-4ded331ec9e8/EnergyandAI.pdf, hier S. 37). Ein KI-
+spezifisches Rechenzentrum kommt dem Bericht zufolge auf eine Kapazität von 
+100 MW, was dem Stromverbrauch 100 000 privater Haushalte entspricht 
+(ebd., hier S. 38).
+Große Hyperscaler wie Google, Microsoft und Amazon setzen zum Stillen des 
+Energiehungers ihrer Rechenzentren in den USA zunehmend auf Kernkraft 
+(vgl. www.heise.de/news/Microsofts-KI-Stromhunger-US-Atomkraftwerk-sol
+l-vorzeitig-reaktiviert-werden-10463412.html). Für die global operierenden 
+Konzerne ist diese Form der Energiegewinnung offenbar attraktiv, weil sie die 
+nachgefragten Mengen zu akzeptablen Preisen, in definierten Volumina und 
+ohne saisonale Schwankungen zu liefern imstande ist. Die derzeit in
+Deutschland an das Stromnetz angeschlossenen Datenzentren werden ihren Energiebe-
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Digitales und 
+Staatsmodernisierung vom 15. August 2025 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+darf Schätzungen zufolge bis zum Jahr 2037 knapp verdoppeln (vgl. www.hei
+se.de/news/Regierung-Stromverbrauch-von-Rechenzentren-duerfte-sich-bis-2
+037-verdoppeln-10194665.html). Derzeit liegt der Anteil der Rechenzentren 
+am Strombedarf der deutschen Industrie bei knapp 10 Prozent (vgl. https://de.s
+tatista.com/statistik/daten/studie/236757/umfrage/stromverbrauch-nach-sektor
+en-in-deutschland/) bei tendenziell steigender Tendenz.
+Die Bundesregierung hat im Koalitionsvertrag zwischen CDU, CSU und SPD 
+das Ziel formuliert, „Deutschland als KI-Nation“ zu etablieren. Das bedeute 
+„massive Investitionen in die Cloud- und KI-Infrastruktur sowie in die
+Verbindung von KI und Robotik“ (www.koalitionsvertrag2025.de/sites/www.koalitio
+nsvertrag2025.de/files/koav_2025.pdf, hier S. 4). Über Rechenzentren heißt es 
+im Text: „Durch eine Digitalisierungsoffensive bei Stromnetzbetreibern und 
+mehr Transparenz über Netzanschlusskapazitäten erleichtern wir die Planung 
+und Integration von Rechenzentren in das Stromnetz“ (ebd., hier S. 68).
+Derzeit ist der Wirtschaftsstandort Deutschland unattraktiv für den Aufbau 
+und den Betrieb von KI-tauglichen Rechenzentren im Vergleich zu anderen 
+Standorten. Nicht nur sind laut Medien die Baukosten für Rechenzentren im 
+Vergleich zu anderen europäischen Ländern in Deutschland mit die höchsten, 
+auch die deutschen Strompreise, die rund 60 Prozent der Betriebskosten eines 
+Rechenzentrums ausmachen, sind doppelt so hoch wie in den USA (vgl. 
+www.handelsblatt.com/politik/international/nvidia-nvidia-chef-kommt-nach-b
+erlin-das-steckt-hinter-der-werbetour/100134592.html).
+ 1. Wie hoch schätzt die Bundesregierung den jährlichen Investitionsbedarf 
+in eine KI-taugliche Recheninfrastruktur, damit Deutschland eine „KI-
+Nation“ werden kann (siehe Vorbemerkung der Fragesteller)?
+a) Wie hoch wird nach Auffassung der Bundesregierung der Anteil 
+staatlicher Fördergelder inklusive Subventionen hieran sein, und auf 
+welche Einzelpläne des Haushaltsentwurfs 2025 verteilt sich dieser 
+(bitte ausführen)?
+b) Wie hoch wird nach Auffassung der Bundesregierung der Anteil
+privater beziehungsweise unternehmerischer Investitionen hieran sein?
+Die Fragen 1 bis 1b werden gemeinsam beantwortet.
+Es gibt keine fest definierte Schwelle an KI-tauglicher Recheninfrastruktur, ab 
+der das Zielbild einer „KI-Nation“ automatisch erreicht wäre und die
+verfügbare Rechenleistung kann hier auch bestenfalls ein Teilindikator sein. Daher
+existiert innerhalb der Bundesregierung auch kein Schätzwert dazu. Grundsätzlich 
+sollten Investitionen in Recheninfrastruktur in erster Linie unternehmerisch
+getrieben sein.
+ 2. Wie hoch wird nach Einschätzung der Bundesregierung der
+Energieverbrauch deutscher KI-tauglicher Rechenzentren in zehn Jahren sein
+(gemessen in Gigawatt), und aus welchen Energiequellen soll nach den
+Vorstellungen der Bundesregierung deren Stromversorgung erfolgen (bitte 
+ausführen)?
+Der Bundesregierung liegen keine Informationen vor, wie hoch der
+Energieverbrauch deutscher KI-tauglicher Rechenzentren in zehn Jahren sein könnte. Ein 
+Gutachten des Bundesministeriums für Wirtschaft und Energie (BMWE) 
+schätzt, dass der Stromverbrauch aller Rechenzentren in Deutschland im Jahr 
+2035 bei ca. 42 TWh pro Jahr liegen könnte.
+Das Energieeffizienzgesetz schreibt vor, dass Betreiber von Rechenzentren 
+ihren Stromverbrauch in ihren Rechenzentren bilanziell ab dem 1. Januar 2027 
+zu 100 Prozent durch Strom aus erneuerbaren Energien decken.
+ 3. Ist die Bundesregierung der Auffassung, dass eine stabile
+Stromversorgung unerlässlich ist, um in Deutschland KI-taugliche Rechenzentren 
+wirtschaftlich zu betreiben?
+a) Wenn ja, ist nach Auffassung der Bundesregierung das deutsche 
+Stromnetz grundsätzlich auf den absehbar wachsenden Energiebedarf 
+der Daten- und Digitalwirtschaft in Deutschland ausgelegt?
+b) Wenn ja, was unternimmt die Bundesregierung, um die
+Stromversorgung in Deutschland stabil und sicher zu halten?
+c) Wenn ja, leistet für die Bundesregierung auch die Kernkraft, speziell 
+jene Small Modular Reactors (SMR) der jüngsten Generation,
+perspektivisch einen Beitrag zur Schaffung und zum Erhalt einer
+stabilen und sicheren Stromversorgung?
+d) Wenn nein, warum nicht?
+Die Fragen 3 bis 3d werden gemeinsam beantwortet.
+Die Bundesregierung ist sich der Bedeutung einer stabilen Stromversorgung für 
+KI-taugliche Rechenzentren bewusst. Das deutsche Stromnetz zählt bereits 
+heute zu den stabilsten Stromnetzen der Welt. Die Bundesregierung steht im 
+kontinuierlichen Austausch mit den Stromübertragungsnetzbetreibern, die die 
+Aufgabe haben, das Stromsystem stabil und das Netz sicher und robust zu
+halten. Sie stellt durch verschiedene Maßnahmen sicher, dass die
+Übertragungsnetzbetreiber (ÜNB) in der Lage sind, ihrer Aufgabe nachzukommen.
+Beispielhaft kann auf die Roadmap Systemstabilität oder auf den
+Systemstabilitätsbericht gemäß § 12 i Energiewirtschaftsgesetz verwiesen werden. Ende 2023
+hatte die Bundesregierung die (vom damaligen Bundesministerium für Wirtschaft 
+und Klimaschutz mit Beteiligung der Bundesnetzagentur, von Übertragungs- 
+und Verteilnetzbetreibern, Anlagenherstellern, Verbänden, Normungsgremien 
+und der Wissenschaft entwickelte) Roadmap Systemstabilität beschlossen. Die 
+Roadmap identifiziert alle Prozesse und Prozess-Weiterentwicklungen, die für 
+die Systemstabilität relevant sind, benennt die verantwortlichen Akteure und 
+gibt an, bis wann die jeweilige Umsetzung erfolgen muss. Mit dem
+Systemstabilitätsbericht 2025 stellen die deutschen Übertragungsnetzbetreiber den
+aktuellen Stand der einzelnen Stabilitätsaspekte des Stromsystems dar.
+Die Bundesnetzagentur führt zudem fortlaufend ein Monitoring der
+Versorgungssicherheit in Deutschland durch. Der 2023 von der Bundesnetzagentur 
+vorgelegte und veröffentlichte „Versorgungssicherheitsbericht Strom“ bezieht 
+sich dabei auf die aktuellen Planungen der Bundesregierung und sieht die 
+Stromversorgung im Berichtszeitraum bis 2031 weiterhin auf hohem Niveau 
+gewährleistet. Zusätzlich stehen dem System auch Reservekapazitäten zur
+Verfügung, um die Absicherung auch in außergewöhnlichen Situationen zu
+gewährleisten. Darüber hinaus bereitet das BMWE die Ausschreibung von
+Gaskraftwerken und die Einführung eines technologieneutralen, umfassenden
+Kapazitätsmechanismus vor.
+Der Einsatz von Small Modular Reactors würde der geltenden Rechtslage
+widersprechen. Zudem gibt es bislang keine in Produktivbetrieb befindlichen
+solchen Reaktoren und auch keine zeitlich belastbare Perspektive für eine
+mögliche Errichtung.
+ 4. Verfügt die Bundesregierung über Erkenntnisse zu Auswirkungen von 
+KI-tauglichen Rechenzentren auf die Stabilität von Stromnetzen, und 
+wenn ja, welche, und wie bezieht sie diese Erkenntnisse in ihrer
+Energiepolitik mit ein (bitte ausführen)?
+Die Bundesregierung verfügt über keine gesonderten Erkenntnisse zu
+Auswirkungen von KI-tauglichen Rechenzentren auf die Stabilität von Stromnetzen.
+ 5. Wie hoch sind nach Kenntnis der Bundesregierung die
+durchschnittlichen Baukosten für ein KI-taugliches Rechenzentrum in Deutschland, 
+und wie stellen sich diese Kosten im internationalen Vergleich dar?
+Der Bundesregierung liegen keine fundierten Informationen über die
+durchschnittlichen Baukosten für ein KI-taugliches Rechenzentrum in Deutschland 
+vor. Dies ist im Einzelfall stark abhängig von der Größe und der Art des
+Rechenzentrums sowie der Anzahl an verbauter KI-Rechenhardware.
+ 6. Ist die Bundesregierung der Auffassung, dass ein international
+wettbewerbsfähiger Strompreis unerlässlich ist, um in Deutschland KI-
+taugliche Rechenzentren wirtschaftlich zu betreiben?
+a) Wenn ja, welche – steuerlichen, technischen, administrativen –
+Maßnahmen ergreift die Bundesregierung konkret, um den Strompreis in 
+Deutschland auf einem international wettbewerbsfähigen Niveau zu 
+halten?
+b) Wenn nein, warum nicht?
+Die Fragen 6 bis 6b werden gemeinsam beantwortet.
+Der Bundesregierung ist bewusst, dass Strompreise der Hauptkostenblock im 
+Betrieb von Rechenzentren sind und damit auch, welche Bedeutung der
+Strompreis bei der Wettbewerbsfähigkeit des Standorts Deutschland, als aktuell
+größter Rechenzentrumsstandort in Europa, hat.
+Der Koalitionsausschuss hat am 2. Juli 2025 ein umfassendes Sofortprogramm 
+zur Senkung der Energiepreise beschlossen. Darin ist unter anderem ein
+Zuschuss zu den Netzkosten in Höhe von 6,5 Mrd. Euro vorgesehen. Von dieser 
+Maßnahme profitieren alle Verbraucherinnen und Verbraucher. Die Strompreise 
+sinken dadurch um bis zu 3 Cent pro Kilowattstunde. Die Wirkung im
+Einzelfall hängt davon ab, wie und wann der Kunde Strom verbraucht und in
+welchem Verteilernetz er angeschlossen ist.
+Rechenzentren profitieren weiterhin von der Fortsetzung der Finanzierung der 
+EEG-Kosten aus dem Bundeshaushalt. Die hierüber erwirkte Entlastung liegt 
+derzeit bei ca. 5 ct/kWh.
+ 7. Kann die Bundesregierung in den in Deutschland geltenden
+Strompreisen für die Industrie ein Markteintrittshemmnis für deutsche und
+auswärtige Planer, Entwickler und Betreiber KI-tauglicher Rechenzentren
+erkennen, und wenn ja, bitte ausführen (siehe Vorbemerkung der
+Fragesteller)?
+Für Investitionen in KI-Rechenzentren stellen die Strompreise einen
+Standortfaktor unter vielen dar. Viele maßgebliche Standortfaktoren sind in Deutschland 
+positiv ausgeprägt, darunter ein passender regulatorischer Rahmen, die Dichte 
+an Internetknoten, Kunden und Daten, aber auch das Engagement für
+erneuerbare Energien. Dies trägt dazu bei, dass Deutschland der größte
+Rechenzentrumsstandort in Europa ist. Gerade für latenzkritische KI-Anwendungen sind 
+diese positiven Standortfaktoren deutlich relevanter als Strompreise.
+ 8. Simuliert die Bundesregierung angesichts des stark wachsenden
+Energiebedarfs der Daten- und Digitalindustrie in Deutschland einen möglichen 
+– auch partiellen wie befristeten – Ausfall der Stromversorgung für
+Unternehmen, Gemeinden und Bürger?
+a) Wenn ja, mit welchem Ergebnis, und mit welchen Konsequenzen?
+b) Wenn nein, warum nicht?
+Die Fragen 8 bis 8b werden gemeinsam beantwortet.
+Gemäß § 11 Absatz 1 Energiewirtschaftsgesetz
+(EnWG) sind Betreiber von Energieversorgungsnetzen verpflichtet, ein
+sicheres, zuverlässiges und leistungsfähiges Energieversorgungsnetz
+diskriminierungsfrei zu betreiben, zu warten und bedarfsgerecht zu optimieren, zu
+verstärken und auszubauen, soweit es wirtschaftlich zumutbar ist. Damit einher geht 
+auch die Verantwortung, möglicherweise steigenden Energiebedarf durch
+erforderliche Maßnahmen wie beispielsweise Netzverstärkung und Netzausbau 
+sicherzustellen.
+Gemäß § 12 Abs. 1 EnWG haben insbesondere „Betreiber von
+Übertragungsnetzen […] mit der Bereitstellung und dem Betrieb ihrer Übertragungsnetze 
+[…] zu einem sicheren und zuverlässigen Elektrizitätsversorgungssystem in 
+ihrer Regelzone und damit zu einer sicheren Energieversorgung beizutragen.“ 
+Unabhängig vom stark wachsenden Energiebedarf der Daten- und
+Digitalindustrie in Deutschland gehören Stromausfälle grundsätzlich auch zu den
+unterschiedlichen Szenarien, mit denen sich die ÜNB im Rahmen ihrer
+Systemverantwortung beschäftigen.
+Im Rahmen des Risikovorsorgeplans Strom, der auf der Internetseite des 
+BMWE veröffentlicht ist, werden präventive und kurative Maßnahmen für die 
+Stromversorgungssicherheit ausgeführt. Eine rechtzeitige und bedarfsgerechte 
+Planung des Netzausbaus auf Übertragungs- und Verteilernetzebene sowie ihre 
+zeitgerechte Umsetzung sorgen für ein hohes Sicherheitsniveau beim
+Netzbetrieb. Sie trägt dazu bei, mögliche Engpässe im Netz frühzeitig zu identifizieren 
+und stellt einen transparenten Prozess zur Verfügung, um prognostizierbaren 
+Engpässen durch Optimierung, Verstärkung und Ausbau des Netzes
+entgegenzuwirken. Damit dienen der bedarfsgerechte Netzausbau und die zugrunde
+liegende Netzausbauplanung sowohl der Verhinderung von Krisen als auch der 
+Vorbereitung auf Krisen. Des Weiteren führen die ÜNB eine kontinuierliche 
+Systembeobachtung und periodische Analyseverfahren hinsichtlich potenzieller 
+Risiken für die technische Netz- und Systemsicherheit durch, um diese
+identifizieren zu können.
+Der Beobachtungsraum erstreckt sich dabei sowohl über technische
+Eigenschaften (unter anderem Spannung, Strom, Frequenz), den Cyberraum als auch 
+Wetterbedingungen sowie sonstige Umgebungseinflüsse. Tritt eine Gefährdung 
+der Sicherheit oder Zuverlässigkeit des elektrischen
+Energieversorgungssystems im Sinne des § 13 Abs. 4 EnWG auf oder ist eine solche Gefährdung zu 
+besorgen, entscheiden die ÜNB, durch Anwendung welcher operativer
+Maßnahmen sie der Gefährdung begegnen. Den ÜNB stehen insofern die
+Maßnahmen nach dem EnWG zur Verfügung.
+ 9. Befindet sich die Bundesregierung hinsichtlich des wachsenden
+Strombedarfs der Daten- und Digitalindustrie im Austausch mit Ländern, die 
+bei ihrer Energieversorgung primär auf Kernkraft setzen, etwa mit
+Frankreich?
+a) Wenn ja, mit welchem Ergebnis, und mit welchen Konsequenzen?
+b) Wenn nein, warum nicht?
+Die Fragen 9 bis 9b werden gemeinsam beantwortet.
+Die Bundesregierung befindet sich auf EU-Ebene mit allen Mitgliedstaaten zu 
+diversen Energiethemen im ständigen Austausch.
+10. Hat die Bundesregierung bereits mit der im Koalitionsvertrag zwischen 
+CDU, CSU und SPD angekündigten „Digitalisierungsoffensive bei 
+Stromnetzbetreibern“ begonnen, um „die Planung und Integration von 
+Rechenzentren in das Stromnetz“ zu erleichtern (siehe Vorbemerkung der 
+Fragesteller)?
+a) Wenn ja, mit welchen Zielen und gegebenenfalls ersten Ergebnissen?
+b) Wenn nein, wann ist mit dem Beginn einer derartigen
+„Digitalisierungsoffensive“ zu rechnen?
+11. Hat die Bundesregierung, wie im Koalitionsvertrag zwischen CDU, CSU 
+und SPD angekündigt, bereits für „mehr Transparenz über
+Netzanschlusskapazitäten“ gesorgt, um „die Planung und Integration von
+Rechenzentren in das Stromnetz“ zu erleichtern (siehe Vorbemerkung der 
+Fragesteller)?
+a) Wenn ja, mit welchen Zielen und gegebenenfalls ersten Ergebnissen?
+b) Wenn nein, wann ist mit der Schaffung von mehr „Transparenz über 
+Netzanschlusskapazitäten“ zu rechnen?
+Die Fragen 10 bis 11b werden gemeinsam beantwortet.
+Maßnahmen für mehr Transparenz über vorhandene Netzanschlusskapazitäten 
+sowie für eine konsequente Digitalisierung des Anschlussverfahrens hat das 
+BMWE im Rahmen des Branchendialogs „Beschleunigung von
+Netzanschlüssen“ auf Fachebene erarbeitet. Die daraus abgeleiteten Regelungen sollen im 
+Lichte der Ergebnisse des Energiewende-Monitorings fortentwickelt werden.
+12. Liegen der Bundesregierung Informationen darüber vor, ob Unternehmen 
+ihre Planungen zur Errichtung KI-tauglicher Rechenzentren in
+Deutschland zurückgestellt beziehungsweise gestrichen haben, weil ihnen die 
+beim Betrieb der Rechenzentren anfallenden Strompreise als zu hoch
+erschienen sind (bitte ausführen)?
+Der Bundesregierung liegen diesbezüglich keine Informationen vor.
+13. Wird die Bundesregierung die nationale KI-Strategie (www.ki-strategie-
+deutschland.de/) dahingehend aktualisieren, dass es ein separates Kapitel 
+zum wachsenden Verbrauch von Energie durch KI-Anwendungen sowie 
+zur Notwendigkeit ihrer verlässlichen und kostengünstigen
+Bereitstellung geben wird?
+a) Wenn ja, wann wird mit einer dergestalt skizzierten Aktualisierung 
+der nationalen KI-Strategie zu rechnen sein?
+b) Wenn nein, warum nicht?
+Die Fragen 13 bis 13b werden gemeinsam beantwortet.
+Die in der KI-Strategie der Bundesregierung formulierten übergreifenden Ziele 
+haben weiterhin Bestand und werden von der Bundesregierung weiter intensiv 
+bearbeitet; etwa im Rahmen der Hightech Agenda Deutschland.
+14. Wird die Bundesregierung die Digitalstrategie (Bundestagsdrucksache 
+20/3329) dahingehend aktualisieren, dass es ein separates Kapitel zum 
+wachsenden Verbrauch von Energie durch die Digitalisierung sowie zur 
+Notwendigkeit ihrer verlässlichen und kostengünstigen Bereitstellung 
+geben wird?
+a) Wenn ja, wann wird mit einer dergestalt skizzierten Aktualisierung 
+der Digitalstrategie zu rechnen sein?
+b) Wenn nein, warum nicht?
+15. Wird die Bundesregierung die Datenstrategie (Bundestagsdrucksache 
+19/26450) dahingehend aktualisieren, dass es ein separates Kapitel zum 
+wachsenden Verbrauch von Energie durch die Verarbeitung digitaler
+Daten sowie zur Notwendigkeit ihrer verlässlichen und kostengünstigen
+Bereitstellung geben wird?
+a) Wenn ja, wann wird mit einer dergestalt skizzierten Aktualisierung 
+der Datenstrategie zu rechnen sein?
+b) Wenn nein, warum nicht?
+Die Fragen 14 bis 15b werden gemeinsam beantwortet.
+Die Digitalstrategie ebenso wie die Datenstrategie der Bundesregierung waren 
+Projekte in der 20. Legislaturperiode. Eine Aktualisierung der Strategien ist im 
+Koalitionsvertrag nicht vorgesehen.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

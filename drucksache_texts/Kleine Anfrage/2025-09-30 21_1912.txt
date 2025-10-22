@@ -1,0 +1,201 @@
+Deutscher Bundestag Drucksache 21/1912
+21. Wahlperiode 30.09.2025
+Kleine Anfrage
+der Abgeordneten Stella Merendino, Anne-Mieke Bremer, Nicole Gohlke, Doris 
+Achelwilm, Dr. Michael Arndt, Maik Brückner, Mandy Eißing, Kathrin Gebel, 
+Christian Görke, Ates Gürpinar, Maren Kaminski, Ina Latendorf, Sonja Lemke, 
+Sören Pellmann, Evelyn Schötz, Julia-Christina Stange, Donata Vogtschmidt und 
+der Fraktion Die Linke
+Die elektronische Patientenakte – Verhinderung unbefugter Datenweitergabe, 
+differenzierte Zuteilung von Zugriffsrechten und barrierefreie Nutzung für die 
+Patientinnen und Patienten
+Die Einführung der elektronischen Patientenakte (ePA) ist in vollem Gange, ab 
+dem 1. Oktober ist ihre Nutzung verpflichtend. Nach wie vor sind nach Ansicht 
+der Fragestellenden eine Reihe von datenschutzrechtlichen Bedenken rund um 
+die ePA jedoch nicht ausreichend geklärt oder entkräftet, insbesondere betreffs 
+der differenzierten Steuerung von Zugriffsrechten durch die Versicherten, der 
+möglichen unbefugten Datenweitergabe sowie der inklusiven,
+diskriminierungsfreien und barrierefreien Nutzung der ePA. Besonders schwer wiegt das 
+Risiko, dass in der ePA abgespeicherte Daten an ausländische Behörden
+weitergegeben werden könnten. Der Betrieb der ePA erfolgt u. a. durch die IBM 
+Deutschland GmbH (Tochter der US-amerikanischen IBM Corp.) und das
+österreichische Unternehmen RISE GmbH. Unabhängig von der deutschen ePA 
+und der hieran beteiligten Unternehmen erklärte am 10. Juni 2025 der
+Chefjustiziar von Microsoft Frankreich, Anton Carniaux, vor dem Senat des
+französischen Parlaments betreffend Daten, die Microsoft von der französischen
+zentralen Beschaffungsstelle des öffentlichen Sektors für Schulen, Rathäuser und 
+kommunale Verwaltungen erhalte, er könne für Microsoft nicht unter Eid
+garantieren, dass Kundinnen- und Kundendaten aus der EU nicht auf
+Anforderung an US-Behörden übermittelt werden, weil das Unternehmen der
+extraterritorialen Wirkung von US-Recht unterliege (https://datenschutzticker.de/2025/0
+7/keine-gewaehr-dass-die-usa-keine-daten-von-microsoft-erhalten/). Diese 
+Aussagen werfen nach Auffassung der Fragestellenden grundlegende Zweifel 
+daran auf, ob die ePA den Datenschutz der Patientinnen und Patienten
+gewährleisten kann. Datenschutzrechtliche Bedenken bestehen nach ihrer Ansicht 
+außerdem weiterhin in Bezug auf das Opt-Out-Verfahren sowie auf die
+Möglichkeit der Nutzerinnen und Nutzer, den Zugriff auf ihre Daten feingranular zu 
+beschränken. Schließlich ist es unerlässlich, dass die Patientinnen und Patienten 
+die ePA barriere- und diskriminierungsfrei und selbstbestimmt führen können. 
+Vor diesem Hintergrund wird um die Beantwortung folgender Fragen zur
+Umsetzung der ePA gebeten.
+Wir fragen die Bundesregierung:
+ 1. a) Inwiefern ist nach Auffassung der Bundesregierung auszuschließen, 
+dass IBM und RISE im Falle eines behördlichen Auskunftsersuchens 
+gemäß US-amerikanischem bzw. österreichischem Recht
+personenbezogene Daten aus der ePA an Behörden außerhalb Deutschlands 
+oder der EU übermitteln?
+b) Welche konkreten technischen, organisatorischen und vertraglichen 
+Maßnahmen wurden mit IBM und RISE vereinbart, um die
+Weitergabe von Gesundheitsdaten aus der ePA an ausländische Stellen zu
+verhindern, und inwiefern ist dies unter Berücksichtigung extraterritorial 
+wirkenden Rechts überhaupt vollständig sicherzustellen?
+ 2. Plant die Bundesregierung eine eigenständige Überprüfung der
+Abhängigkeiten öffentlicher IT-Infrastrukturen von außereuropäischen Anbietern 
+und deren potenziellen Auskunftspflichten gegenüber ausländischen
+Behörden?
+ 3. Sind seitens des Bundesministeriums für Gesundheit oder der gematik
+zukünftige Evaluationen zum Opt-Out-Verfahren der elektronischen
+Patientenakte geplant?
+a) Wenn ja, in welchem Umfang, mit welchem methodischen Ansatz und 
+in welchem zeitlichen Turnus sollen diese erfolgen?
+b) Gibt es dazu bereits abgestimmte Regelungen oder Vereinbarungen 
+mit den Krankenkassen?
+ 4. Welche Daten werden nach Kenntnis der Bundesregierung von Gesetzes 
+wegen in die ePA eingestellt, sofern die Patientinnen und Patienten nicht 
+widersprochen haben?
+ 5. Welche Daten können nach Kenntnis der Bundesregierung in die ePA
+eingestellt werden, wenn die Patientinnen und Patienten dies wünschen?
+ 6. Wie lange werden die Daten der ePA nach Kenntnis der Bundesregierung 
+gespeichert?
+ 7. Welche Maßnahmen und Vorhaben sind vorgesehen, um die
+Wahrnehmung von Betroffenenrechten im Rahmen der ePA u. a. hinsichtlich der 
+Einsichtnahme, Auskunftsersuchen, Berichtigung und Löschung von
+Daten zu evaluieren?
+ 8. Aus welchen Gründen ist es Patientinnen und Patienten aktuell nicht
+möglich, über die ePA eigeninitiativ den Kontakt zu Ärztinnen und Ärzten
+herzustellen?
+a) Welche rechtlichen, technischen oder organisatorischen Erwägungen 
+stehen dieser Funktion entgegen?
+b) Plant das Bundesministerium für Gesundheit, diese Art der
+Kontaktaufnahme zu ermöglichen?
+ 9. Wie wird gewährleistet, dass die ePA für Menschen mit Seh- oder
+Hörbehinderungen, motorischen Einschränkungen oder geringen
+Deutschkenntnissen in all ihren Funktionen barrierefrei nutzbar ist?
+10. Welche Maßnahmen plant die Bundesregierung, um auch Patientinnen 
+und Patienten ohne Smartphone oder Internetzugang den sicheren Zugang 
+zur und die Nutzung der ePA zu ermöglichen sowie dort Zugriffsrechte zu 
+verwalten?
+11. Wie wird nach Kenntnis der Bundesregierung evaluiert, ob der Zugang 
+zur ePA z. B. in Arztpraxen, Krankenhäusern oder Apotheken tatsächlich 
+in der Praxis besteht und inwieweit er angenommen wird?
+12. Welche Vergütungen sind nach Kenntnis der Bundesregierung jeweils für 
+die Leistungserbringenden vorgesehen, wenn sie den Patientinnen und
+Patienten Zugang zu ihrer ePA ermöglichen?
+13. Inwiefern besteht nach Kenntnis der Bundesregierung die Möglichkeit für 
+die Patientinnen und Patienten, in Niederlassungen von Krankenkassen 
+Einsicht in ihre ePA zu nehmen (bitte Anzahl bestehender oder geplanter 
+Terminals angeben)?
+14. Wie viele Krankenkassen haben nach Kenntnis der Bundesregierung
+Ombudsstellen zur Unterstützung der Versicherten bei der Führung der ePA 
+eingerichtet?
+15. Wie häufig wurden nach Kenntnis der Bundesregierung die gesetzlichen 
+Krankenkassen um Unterstützung bei der ePA von den Versicherten
+angefragt, und wie wird überprüft, in welcher Art und in welchem Umfang 
+diese den Unterstützungspflichten nachkommen?
+16. Wie ist nach Kenntnis der Bundesregierung der Umsetzungsstand eines 
+Desktop-Clients für die eigenständige Verwaltung der ePA durch die
+Patientinnen und Patienten?
+17. a) Inwiefern wird nach Kenntnis der Bundesregierung erhoben, wie viele 
+ePA von den Versicherten aktiv geführt werden (Zugriff, Einstellen 
+von Dokumenten, Veränderung von Zugriffsrechten etc.)?
+b) Sind die Krankenkassen verpflichtet, entsprechende Daten
+anonymisiert zu erheben und zusammenzuführen?
+18. Welche Möglichkeiten der differenzierten Verwaltung von Zugriffsrechten 
+für die ePA gibt es nach Kenntnis der Bundesregierung für die
+Versicherten?
+a) Können einzelne Dokumente für einzelne Leistungserbringende
+unsichtbar gemacht werden?
+b) Können die Versicherten den Zeitraum für die mögliche
+Einsichtnahme in ihre ePA durch Leistungserbringende frei wählen?
+c) Können alle Hinweise auf eine Erkrankung (z. B. auch
+Arzneimittelverordnungen, Krankenkassendaten, Arztbriefe, Atteste etc.)
+unkompliziert „mit einem Klick“ für bestimmte oder alle nichtbeteiligten 
+Leistungserbringende verborgen werden?
+d) Können einzelne Arzneimittelverordnungen nach Kenntnis der
+Bundesregierung für einzelne Leistungserbringende unsichtbar gemacht 
+werden?
+e) Ist es nach Kenntnis der Bundesregierung so, dass die Einsicht der
+Beschäftigten z. B. einer Apotheke oder einer Zahnarztpraxis in
+bestimmte Dokumente mit Diagnosen oder Therapien nur dann
+verhindert werden kann, wenn diese Dokumente für alle
+Leistungserbringenden gesperrt werden oder der ePA ganz widersprochen wird?
+f) Können einzelne Dokumente in der ePA nach Kenntnis der
+Bundesregierung nur für diejenigen Leistungserbringenden sichtbar gemacht 
+werden, die mit der Behandlung der jeweiligen Erkrankung befasst 
+sind (z. B. nur Psychotherapeutinnen und Psychotherapeuten sowie 
+Psychiaterinnen und Psychiater etc.)?
+g) Welche Möglichkeiten haben Patientinnen und Patienten,
+Zugriffsrechte in Echtzeit anzupassen, insbesondere in Notfallsituationen?
+19. Wie häufig wurden in den Testläufen oder im späteren Regelbetrieb der 
+ePA Zugriffs- bzw. Einsichtsrechte für bestimmte Dokumente durch die 
+Patientinnen und Patienten verändert?
+20. Welche Möglichkeiten haben die Patientinnen und Patienten nach
+Kenntnis der Bundesregierung, um nachzuvollziehen, wer genau in welchem 
+Zeitraum auf welche Daten in ihrer ePA zugegriffen hat?
+a) Können die Patientinnen und Patienten nach Kenntnis der
+Bundesregierung nachvollziehen, wer bei größeren Einrichtungen wie
+Medizinischen Versorgungszentren oder Krankenhäusern auf ihre ePA
+zugegriffen hat?
+b) Wie lange können die einzelnen Leistungserbringenden jeweils
+Einsicht in die gesamte ePA nehmen, wenn die Gesundheitskarte
+eingelesen wurde?
+c) In welchem Umfang können medizinische Fachkräfte auf Daten
+zugreifen, die nicht unmittelbar für die aktuelle Behandlung relevant 
+sind?
+21. Welche Erkenntnisse liegen der Bundesregierung zu Befürchtungen vor, 
+dass die Speicherung psychiatrischer Diagnosen in der ePA zu einer
+Verschlechterung der individuellen medizinischen Versorgung oder zu
+sozialer Ausgrenzung führen könnte?
+22. Wie bewertet die Bundesregierung das Risiko, dass psychiatrische
+Diagnosen in der ePA zum Nachteil der Patientinnen und Patienten Einfluss 
+auf andere medizinische Entscheidungen, Versicherungsleistungen oder 
+das Arzt-Patienten-Verhältnis nehmen könnten?
+a) Wie wird gewährleistet, dass Patientinnen und Patienten mit
+psychischen Erkrankungen gezielt steuern können, welche psychiatrischen 
+oder anderen sensiblen Befunde oder Behandlungsdaten in ihrer ePA 
+für welche Leistungserbringenden sichtbar sind?
+b) Welche Vorkehrungen bestehen, um zu verhindern, dass Diagnosen 
+aus der Psychiatrie in der ePA zu Stigmatisierung oder
+Benachteiligung führen?
+c) Welche Erkenntnisse liegen der Bundesregierung zu
+Missbrauchsfällen von Gesundheitsdaten aus der ePA vor, differenziert nach
+Fachbereichen?
+d) Wie wird dokumentiert, wer wann auf eine ePA zugegriffen hat, und 
+wie lange werden diese Zugriffsprotokolle gespeichert?
+23. Aus welchen Erwägungen heraus wurde die frühere feingranulare
+Steuerung der ePA ab 2025 durch eine nur noch grobe Steuerbarkeit ersetzt?
+24. In welcher Form werden Patientinnen und Patienten über ihre Rechte und 
+Möglichkeiten der Datenfreigabe bei der ePA aufgeklärt?
+a) Welche besonderen Aufklärungsmaßnahmen gibt es für vulnerable 
+Gruppen, etwa Patientinnen und Patienten in psychiatrischer
+Behandlung, Menschen mit Sprachbarrieren oder eingeschränkter digitaler 
+Kompetenz?
+b) Ist aus Sicht der Bundesregierung sichergestellt, dass die Patientinnen 
+und Patienten darüber informiert werden, dass ihre Krankenkassen 
+ebenfalls Dokumente mit Abrechnungen, aus denen auch Diagnosen 
+und Behandlungen hervorgehen, in die ePA einstellen, und wenn ja, 
+wie?
+25. Wie wird sichergestellt, dass Notaufnahmen schnell und vollständig auf 
+relevante medizinische Informationen zugreifen können, ohne gegen
+Datenschutzbestimmungen zu verstoßen?
+26. Welche Maßnahmen werden ergriffen, um sicherzustellen, dass
+psychiatrische Notfallinformationen (z. B. Medikation, Krisenpläne) in der ePA
+hinterlegt und im Notfall abrufbar sind?
+27. Wie bewertet die Bundesregierung den Nutzen der ePA für die
+sektorenübergreifende Versorgung zwischen Psychiatrie, somatischer Medizin und 
+ambulanter Versorgung?
+Berlin, den 15. September 2025
+Heidi Reichinnek, Sören Pellmann und Fraktion
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

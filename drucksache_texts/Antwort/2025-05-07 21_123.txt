@@ -1,0 +1,83 @@
+Deutscher Bundestag Drucksache 21/123
+21. Wahlperiode 07.05.2025
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten René Springer, Ulrike Schielke-Ziesing, 
+Robert Teske, Tobias Matthias Peterka und der Fraktion der AfD
+– Drucksache 21/63 –
+Cyberangriff auf die Bundesagentur für Arbeit
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Ende März 2025 wurden die eServices der Bundesagentur für Arbeit (BA) 
+zum Ziel eines Cyberangriffs. Die BA berichtete in ihrer Presseinformation 
+Nummer 15 vom 28. März 2025, dass „Unbekannte sich Zugriff auf Online-
+Profile von Kundinnen und Kunden verschafft [hatten]“. Weiter habe „[d]ie 
+BA […] dies bemerkt und die identifizierten Online-Profile deaktiviert“. Die 
+BA betont ferner, dass „[d]ie Zugangsdaten über kompromittierte private
+Endgeräte abgegriffen [wurden], nicht über Systeme der BA“, und spricht von
+betroffenen Profilen „im dreistelligen Bereich“ (vgl. www.arbeitsagentur.de/pres
+se/2025-15-online-accounts-der-ba-aktuell-nur-eingeschraenkt-nutzbar).
+Ziel des Angriffs war es laut BA, die Kontodaten der Accounts zu ändern 
+(ebd.).
+1. Ist es zutreffend, dass es den Cyberangriff auf die BA gegeben hat, bei 
+dem Kundendaten – im Speziellen die Kontodaten der Kunden – geändert 
+wurden, von dem die BA am 28. März 2025 berichtete?
+Der Bericht der Bundesagentur für Arbeit ist zutreffend. Nach Kenntnis der 
+Bundesregierung haben sich Unbekannte Zugriff auf Online-Accounts des
+Portals der Bundesagentur für Arbeit verschafft. Die Zugangsdaten wurden über 
+kompromittierte private Endgeräte abgegriffen, nicht über Systeme der
+Bundesagentur für Arbeit.
+2. Wie viele Nutzerkonten von Leistungsempfängern waren nach Kenntnis 
+der Bundesregierung von diesem Cyberangriff auf die BA betroffen (bitte 
+nach insgesamt, Leistungsempfängern nach dem Zweiten Buch
+Sozialgesetzbuch (SGB II) und Leistungsempfängern nach dem Dritten Buch 
+Sozialgesetzbuch (SGB III) differenzieren)?
+In Summe wurden 831 Online-Accounts durch Dritte angegriffen. In 121
+Online-Accounts davon wurde die Internationale Bankkontonummer (IBAN) ge-
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Arbeit und Soziales
+vom 7. Mai 2025 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+ändert. Von diesen 121 Online-Accounts befanden sich vier in einem laufenden, 
+aktiven Leistungsbezug (zwei im Rechtskreis des Zweiten Buches
+Sozialgesetzbuch (SGB II) und zwei im Rechtskreis des Dritten Buches
+Sozialgesetzbuch (SGB III)).
+3. Wie hoch ist nach Kenntnis der Bundesregierung der Schaden, der durch 
+den Cyberangriff insgesamt entstanden ist?
+Nach derzeitigem Kenntnisstand ist der Bundesagentur für Arbeit und den
+leistungsbeziehenden Personen kein Schaden entstanden.
+4. Von wie vielen der vom Cyberangriff betroffenen Konten wurden nach 
+Kenntnis der Bundesregierung Zahlungen an unberechtigte Dritte
+weitergeleitet (bitte nach insgesamt, Konten von Leistungsempfängern nach 
+SGB II und Konten von Leistungsempfängern nach SGB III
+differenzieren)?
+5. Wie hoch war nach Kenntnis der Bundesregierung die Summe der
+Zahlungen, die infolge des Cyberangriffs entwendet wurden (bitte nach
+insgesamt, Zahlungen an SGB-II-Leistungsempfänger und Zahlungen an 
+SGB-III-Leistungsempfänger differenzieren)?
+6. Wie hoch war nach Kenntnis der Bundesregierung die Summe der infolge 
+des Cyberangriffs entwendeten Zahlungen für Regelbedarf, Mehrbedarfe 
+und Kosten der Unterkunft sowie Sozialversicherungsleistungen (bitte
+jeweils getrennt ausweisen)?
+7. Wie hoch war nach Kenntnis der Bundesregierung die Summe der
+Arbeitslosengeldzahlungen, die infolge des Cyberangriffs entwendet
+wurden?
+Die Fragen 4 bis 7 werden gemeinsam beantwortet.
+Die Bundesagentur für Arbeit hat alle von dem Cyberangriff umfassten Profile 
+deaktiviert und verhindert, dass es zu unrechtmäßigen Zahlungen an Dritte
+gekommen ist.
+8. Sind der Bundesregierung die Urheber der Cyberattacke auf die BA
+bekannt, und wenn ja, sind diese der organisierten Kriminalität zuzuordnen?
+Die Bundesagentur für Arbeit hat eine Strafanzeige erstattet. Erkenntnisse aus 
+dem Ermittlungsverfahren liegen der Bundesagentur für Arbeit nicht vor.
+9. Welche Vorkehrungen wird die Bundesregierung treffen, um ähnliche
+Cyberangriffe auf die digitale Infrastruktur der BA wie am 28. März 2025 in 
+Zukunft zu verhindern?
+Die Bundesagentur für Arbeit kann grundsätzlich nicht verhindern, dass
+unbekannte Dritte Zugangsdaten bei Nutzenden des Online-Portals entwenden. Seit 
+dem 24. April 2025 sind Online-Änderungen der Bankverbindung jedoch nur 
+noch mit der BundID (Vertrauensniveau: substanziell) möglich. Seit dem 
+29. April 2025 müssen alle Online-Accounts verpflichtend einen zweiten
+Faktor (BundID, Passkey oder Time-based one-time password (TOTP)) für die
+Anmeldung im Portal der Bundesagentur für Arbeit nutzen.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

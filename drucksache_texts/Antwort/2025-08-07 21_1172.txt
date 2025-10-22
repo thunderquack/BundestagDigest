@@ -1,0 +1,622 @@
+Deutscher Bundestag Drucksache 21/1172
+21. Wahlperiode 07.08.2025
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Evelyn Schötz, Dr. Michael Arndt, 
+Violetta Bock, Anne-Mieke Bremer, Maik Brückner, Mandy Eißing, Katrin Fey, 
+Christian Görke, Jan Köstering, Ina Latendorf, Sonja Lemke, Stella Merendino, 
+Sören Pellmann, Julia-Christina Stange, Donata Vogtschmidt und der Fraktion 
+Die Linke 
+– Drucksache 21/854 –
+Berichte über Bedenken gegen die Datenerfassung und Datenspeicherung zu 
+Menschen mit psychischen Erkrankungen durch Sicherheitsbehörden
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Im Dezember 2024 sprach sich Carsten Linnemann, Generalsekretär der CDU, 
+für einen Austausch der Sicherheitsbehörden untereinander und auch mit
+Psychiatrie, mit Psychotherapeutinnen und Psychotherapeuten und vielem mehr 
+aus (www.deutschlandfunk.de/debatte-um-ausweisungsrecht-interview-carste
+n-linnemann-cdu-generalsekretaer-dlf-7b43985c-100.html). Er forderte ein 
+Register für psychisch Kranke als Lehre aus dem Anschlag auf den
+Magdeburger Weihnachtsmarkt (ebd.).
+Diese Forderung steht nach Ansicht der Fragesteller in direktem Widerspruch 
+zu menschenrechtlichen Standards, insbesondere zur UN-
+Behindertenrechtskonvention (UN-BRK), die Deutschland 2009 ratifiziert hat. Artikel 14 UN-
+BRK betont, dass Menschen mit Behinderungen – einschließlich psychischer 
+Erkrankungen – das Recht auf Freiheit und Sicherheit der Person
+gleichberechtigt mit anderen genießen müssen. Auch die Allgemeine Erklärung der 
+Menschenrechte sowie die Datenschutz-Grundverordnung (DSGVO)
+untersagen die pauschale Erfassung sensibler Gesundheitsdaten ohne individuelle, 
+rechtlich überprüfbare Grundlage.
+Derartige Forderungen bergen nach Einschätzung der Fragestellenden
+erhebliche Missbrauchs- und Diskriminierungsgefahren. Die Vorstellung, Menschen 
+mit psychischen Erkrankungen in einem zentralen Register zu erfassen und sie 
+pauschal als sicherheitsrelevantes Risiko einzustufen, verstößt nach
+Einschätzung der Fragesteller nicht nur gegen medizinische Erkenntnisse, sondern 
+auch gegen rechtsstaatliche Prinzipien wie die Unschuldsvermutung, das
+Verhältnismäßigkeitsprinzip und das Recht auf informationelle
+Selbstbestimmung.
+Die Forderung Carsten Linnemanns korrespondiert mit dem Einsatz einer 
+plattformübergreifenden Analysesoftware VeRA (Verfahrensübergreifende 
+Recherche- und Analyseplattform) der US-amerikanischen Firma Palantir. 
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern
+vom 7. August 2025 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+Deren Einsatz wurde vom Bundesverfassungsgericht Grenzen gesetzt und der 
+Einsatz in Hessen und Hamburg für verfassungswidrig erklärt (www.bundesve
+rfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/02/rs20230216_1b
+vr154719.html). Insbesondere die Befugnis zur automatisierten Datenanalyse 
+wurde wegen unverhältnismäßig weitgehender Eingriffe und einer Verletzung 
+des Zweckbindungsgrundsatzes für nichtig erklärt.
+Trotzdem hat der Bundesrat mehrheitlich im März 2025 „die kurzfristige
+zentrale Bereitstellung einer gemeinsam betriebenen Datenanalyseplattform, wie 
+sie bei einigen Landespolizeien im Einsatz ist“, gefordert (dserver.bundesta
+g.de/brd/2025/0058-25B.pdf). Es ist nach Ansicht der Fragesteller
+offenkundig, dass hier der Einsatz der US-Software aus dem Hause Palantir gemeint ist 
+(www.zeit.de/digital/datenschutz/2025-03/palantir-us-software-analyse-polize
+i-sicherheit). Auch auf der Konferenz der Gesundheitsministerinnen und
+Gesundheitsminister im Juni 2025 betonten die Länder die „Notwendigkeit eines 
+ganzheitlichen Ansatzes zur Verhinderung von Gewalttaten durch psychisch 
+erkrankte Personen“ (www.tmasgff.de/medienservice/artikel/gesundheitsminis
+terkonferenz-2025).
+Die Forderung nach einer übergreifenden Datenanalyse ist nicht neu (Antrag 
+Unionsfraktion: dserver.bundestag.de/btd/20/094/2009495.pdf, Antrag AfD-
+Fraktion: dserver.bundestag.de/btd/20/095/2009509.pdf). Neu ist allerdings 
+die Verbindung zu Menschen mit psychischen Erkrankungen, die pauschal als 
+potenzielle Gewalttäterinnen und Gewalttäter angesehen werden und
+Gegenstand eines Rasters, also einer anlasslosen Erfassung und Überwachung
+werden sollen (vgl. o. g. Äußerungen von Carsten Linnemann). Auch im
+Beschluss des Bundesrates beginnt die erste Feststellung mit der Aussage, dass 
+„oftmals Personen mit psychischen Auffälligkeiten als Täter von Gewalttaten 
+in Erscheinung getreten sind. Um solche schweren Straftaten besser erkennen 
+und erfassen zu können, müssen personenbezogene Verhaltensmuster und
+Risiken rechtzeitig festgestellt, analysiert und bewertet werden. Hierzu bedarf es 
+eines gezielten und ganzheitlichen Ansatzes und es muss eine bundesweite 
+Vernetzung der Erkenntnisse zwischen Sicherheits-, Gesundheits-, Waffen- 
+und gegebenenfalls Ausländerbehörden sichergestellt werden“ (a. a. O.).
+Offen ist hierbei noch, ob für diesen Zweck Anwendungen zur automatisierten 
+Analyse von Daten genutzt werden sollen, bei denen jedenfalls bislang allein 
+polizeiliche Datenbanken und in Zusammenhang mit Ermittlungsverfahren
+erhobene Daten (aus Telekommunikationsüberwachung, Serverüberwachungen 
+etc.) zum Einsatz kommen sollen. Ein solcher Schritt wäre jedenfalls
+naheliegend. Bereits heute wird in Personendatensätzen innerhalb der polizeilichen 
+Fahndungs- und Vorgangsbearbeitungssysteme der „personenbezogene
+Hinweis“ (PHW) „Psychische und Verhaltensstörung“ vergeben. Die
+Antidiskriminierungsstelle des Bundes wies in ihrem Bericht „Polizei und
+Diskriminierung“ darauf hin, dass solche PHW auch zu sogenanntem Overpolicing führen 
+können, also zu „einer niedrigeren Hemmschwelle zur Durchführung
+polizeilicher Maßnahmen und zur Anwendung polizeilicher Gewalt“ (ebd., S. 47).
+Zugleich berichteten Interviewpartner aus der Polizei im Rahmen von Interviews 
+für diesen Bericht von einer großen Frustration vieler Polizistinnen und
+Polizisten, die „mit den Konsequenzen der unzureichenden psychiatrischen
+Versorgung konfrontiert seien“ (ebd., S. 48).
+Die Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik 
+und Nervenheilkunde (DGPPN) stellt in Reaktion auf die Forderung eines
+Registers für psychisch kranke Menschen klar: „Menschen mit psychischen
+Erkrankungen sind nicht generell gewalttätiger als Menschen ohne psychische 
+Erkrankungen. […] Auch in der Gruppe der terroristischen Gewalttäter ist der 
+Anteil der psychisch Kranken nicht höher als in der Allgemeinbevölkerung“ 
+(www.dgppn.de/presse/pressemitteilungen/pressemitteilungen-2025/kein-zent
+ralregister-fuer-menschen-mit-psychischen-erkrankungen.html).
+Im Zusammenhang mit der Einführung eines Registers für psychisch
+erkrankte Personen besteht die Sorge, dass die bisherige Entstigmatisierung der
+Betroffenen beeinträchtigt werden könnte (ebd.). Personen, die sich bewusst für 
+medizinische und therapeutische Unterstützung entscheiden, könnten
+zukünftig von der Inanspruchnahme entsprechender Hilfsangebote absehen. Eine
+generelle Erfassung könnte dazu führen, dass Betroffene aus Sorge um ihre
+Datenvertraulichkeit auf Hilfeleistungen verzichten, um nicht in einem für Dritte 
+zugänglichen Register erfasst zu werden (netzpolitik.org/2025/psychische-erkr
+ankungen-polizeiliche-erfassung-bringt-stigmatisierung-statt-schutz/).
+ 1. Welche Möglichkeiten für die Speicherung von Hinweisen auf die
+psychische Gesundheit gibt es heute nach Kenntnis der Bundesregierung für 
+Polizeibeamtinnen und Polizeibeamte bzw. Sicherheitsbehörden?
+Die Befugnis zur Speicherung von Hinweisen auf die psychische Gesundheit 
+von Personen ist in der jeweiligen gesetzlichen Grundlage für die
+Sicherheitsbehörden des Bundes geregelt.
+Für das Bundeskriminalamt (BKA) ist die Vergabe eines personengebundenen 
+Hinweises (PHW) im Verbundsystem INPOL gem. § 16 Abs. 6 Nr. 1
+Bundeskriminalamtgesetz (BKAG) bzw. § 29 Abs. 4 i. V. m. § 16 Abs. 6 Nr. 1 BKAG 
+geregelt; die entsprechende Rechtsgrundlage für die Bundespolizei ergibt sich 
+aus § 29 Abs. 2 S. 3 Nr. 1 Bundespolizeigesetz (BPolG). INPOL-Zentral (IN-
+POL-Z) ist eine beim BKA betriebene Datenbank, die als zentrales
+Informationssystem der Polizeibehörden dient. Ein PHW kann vergeben werden, wenn 
+zu einer Person bereits Daten im Verbundsystem eingestellt sind und der PHW 
+zum Schutz dieser Person und/oder zur Eigensicherung von Polizeibediensteten 
+erforderlich ist. Für die Vergabekriterien wird auf die Antwort zur Frage 8
+verwiesen.
+Soweit nicht besondere Regelungen im Bundesverfassungsschutzgesetz 
+(BVerfSchG) entgegenstehen, darf das Bundesamt für Verfassungsschutz (BfV) 
+nach § 8 Abs. 1 Satz 1 BVerfSchG die zur Erfüllung seiner Aufgaben
+erforderlichen Informationen einschließlich personenbezogener Daten verarbeiten.
+Soweit die Kenntnis von Informationen über die psychische Gesundheit eines
+Betroffenen für die Erfüllung seiner Aufgaben erforderlich ist, darf das BfV nach 
+§ 10 Abs. 1 BVerfSchG diese Angaben auch in seinen Dateien speichern,
+verändern und nutzen. Dies schließt eine Speicherung in das zur Erfüllung der
+gegenseitigen Unterrichtungspflichten der Verfassungsschutzbehörden nach § 6 
+Abs. 1 BVerfSchG betriebene gemeinsame nachrichtendienstliche
+Informationssystem (NADIS) ein. Die Speicherung erfolgt in Form eines allgemeinen, 
+personenbezogenen Hinweises, soweit die betreffende Angabe für die
+Beurteilung der Gefährlichkeit oder der Gefährdung eines Betroffenen relevant ist.
+Der Bundesnachrichtendienst (BND) darf personenbezogene Daten nach § 6 
+Bundesnachrichtendienstgesetz (BNDG) i. V. m. § 10 BVerfSchG speichern, 
+verändern und nutzen, soweit es zur Erfüllung seiner Aufgaben erforderlich ist. 
+Eine systematische Befassung von Hinweisen auf psychische Erkrankungen im 
+Sinne der Fragestellung erfolgt nicht.
+ 2. Welche Sicherheitsbehörden und Nachrichtendienste können
+grundsätzlich nach Kenntnis der Bundesregierung Einsicht in diese Hinweise oder 
+zu mit diesen Hinweisen gelisteten Personen erhalten oder selbst
+Merkmale hinzufügen?
+Auf die im INPOL-Z gespeicherten Datensätze können nur die INPOL-
+Teilnehmer (BKA, Bundespolizei (BPOL), Zollkriminalamt (ZKA) und die Polizeien 
+der Länder) zugreifen, diese einsehen und Änderungen an den Datensätzen 
+(z. B. Hinzufügen von PHW) vornehmen. Die Informationen in INPOL-Z
+werden durch die einzelnen Polizeibehörden erhoben und über INPOL-Z mit den 
+anderen INPOL-Teilnehmern geteilt.
+Soweit das BfV Hinweise über die psychische Gesundheit eines Betroffenen in 
+seinen behördeneigenen Dateien speichert, geht der Zugriff auf diese Daten 
+nicht über den auf die jeweilige Datei zugangsberechtigten Kreis der
+Mitarbeiter der Behörde hinaus. Die Speicherung entsprechender Hinweise im NADIS 
+ist grundsätzlich von allen auf das NADIS zugriffsberechtigten Mitarbeiter 
+möglich, und innerhalb des Verfassungsschutzbundes und des Militärischen 
+Abschirmdienstes bei entsprechendem Datenabruf sichtbar. Die Möglichkeit, 
+entsprechende Hinweise in den genannten Dateien vorzunehmen,
+korrespondiert mit den vorgenannten jeweiligen Zugriffsrechten.
+Auf die behördeneigenen Datenbanken des BND hat grundsätzlich nur der
+zugangsberechtigte Kreis der Mitarbeiter der Behörde im Rahmen ihrer
+Aufgabenerfüllung Zugriff.
+ 3. Von wie vielen Menschen sind nach Kenntnis der Bundesregierung 
+Merkmale mit Bezug auf psychische Gesundheit (inklusive Suizidgefahr, 
+Abhängigkeitserkrankung etc.) polizeilich gespeichert (bitte einzeln für 
+das jeweilige Merkmal auflisten)?
+Mit Stand 15. Juli 2025 ergab eine INPOL-Auswertung der vergebenen PHW 
+„Psychische und Verhaltensstörung“ (PSYV), „Betäubungsmittelkonsument“ 
+(BTMK) und „Freitodgefahr“ (FREI) folgende Daten:
+– 16 043 Personendatensätze in INPOL mit PHW PSYV
+– 417 229 Personendatensätze in INPOL mit PHW BTMK
+– 3 810 Personendatensätze in INPOL mit PHW FREI.
+Die genannten PHW können hinsichtlich einer Person kumulativ vorliegen.
+ 4. Welche Rechte haben betroffene Personen zur Auskunft, Berichtigung 
+oder Löschung gespeicherter Merkmale mit Bezug zur psychischen
+Gesundheit bei Polizeibehörden, wie viele dieser Auskunftsanfragen
+wurden seit 2020 gestellt, und wie viele wurden auf Wunsch der Betroffenen 
+geändert oder gelöscht?
+Das BKA erteilt auf Antrag der betroffenen Person Auskunft zur Verarbeitung 
+personenbezogener Daten im polizeilichen Informationsverbund gemäß § 84 
+Abs. 1 Satz 1 BKAG i. V. m. § 57 BDSG.
+Die Auskunftserteilung dient dem Ziel, den Betroffenen über die zu seiner
+Person gespeicherten Daten zu informieren, um ihn in die Lage zu versetzen, zu 
+überprüfen, ob die verantwortliche Stelle rechtmäßig Daten zu seiner Person 
+verarbeitet. Verantwortliche Stelle ist der Verbundteilnehmer, der die Daten
+unmittelbar erfasst hat, § 31 Abs. 2 Satz 1 BKAG. Daran anknüpfend hat der
+Betroffene das Recht, fehlerhafte Daten zu korrigieren, zu ergänzen, unrechtmäßig 
+gespeicherte Daten löschen zu lassen oder ihre Verarbeitung zu beschränken. 
+Dies inkludiert auch eventuelle PHW in INPOL-Z.
+Grundsätzlich beinhaltet jedes Auskunfts- und/oder Löschungsersuchen gemäß 
+§ 84 BKAG i. V. m. §§ 57, 58 BDSG die Verbunddatei INPOL-Z und damit 
+auch alle PHWs. Inwieweit in der Vergangenheit Auskunftsersuchen gestellt 
+wurden, die sich explizit auf die Löschung des PHW „Psychische und
+Verhaltensstörung“ bezogen haben, kann durch das BKA nicht ermittelt werden. Eine 
+entsprechende Kategorisierung findet nicht statt. Ebenso wenig wird erhoben, 
+wie viele PHW „Psychische und Verhaltensstörung“ auf Grund hier
+vorliegender Ersuchen durch die jeweiligen Datenbesitzer geändert oder gelöscht
+wurden.
+Der Bundesregierung liegen mithin keine Informationen zur Teilfrage, wie 
+„viele dieser Auskunftsanfragen […] seit 2020 gestellt und wie viele wurden 
+auf Wunsch der Betroffenen geändert oder gelöscht“ wurden, vor.
+ 5. Welche Beschränkungen gibt es beim Zugriff auf diese Daten, und wie 
+wird insbesondere verhindert, dass Gesundheitsdaten von Beamtinnen 
+und Beamten oder Dritten gelesen werden, die das nicht im
+Zusammenhang mit dem Kontakt zu den von der Datenspeicherung betroffenen
+Personen bzw. konkreten Ermittlungen tun?
+In Bezug auf das BKA wird auf die Antwort zur Frage 1 verwiesen. Aus den 
+einschlägigen Rechtsgrundlagen (§ 16 Abs. 6 Nr. 1 BKAG und § 29 Abs. 2 
+Satz 3 Nr. 1 BPolG) ergibt sich zunächst eine klare Zweckbegrenzung: Die 
+PHW dürfen nur dann weiterverarbeitet werden, wenn sie zum Schutz dieser 
+Person oder zur Eigensicherung von Beamten erforderlich sind. Die PHW
+können in diesem Rahmen bei INPOL-Abfragen ausschließlich von berechtigten 
+Personen im Rahmen der gesetzlichen Bestimmungen und der jeweiligen
+Rechte- und Rollensysteme sowie weiterer technisch-organisatorischer Maßnahmen 
+der Teilnehmer eingesehen werden.
+In Bezug auf das BfV wird auf die Antwort zu Frage 2 verwiesen. Darüber
+hinaus unterliegen die Zugriffe auf die dort genannten Dateiverfahren einer
+Autorisierung und Authentifikation des Nutzers und einer Protokollierung der
+jeweils getätigten Transaktionen wie bspw. Datenabrufe. Die Einsicht auf die
+gespeicherten Informationen unterliegt den allgemeinen Sichtberechtigungen der 
+jeweiligen Nutzers. Dabei beschränkt sich die jeweilige Sichtberechtigung nach 
+§ 6 Abs. 2 Satz 7 BVerfSchG auf Personen, die diese zur unmittelbaren
+Erfüllung ihrer Aufgaben benötigen.
+Für den BND wird auf die Antwort zu Frage 2 verwiesen.
+ 6. Welche rechtlichen Möglichkeiten oder Beschränkungen gibt es nach 
+Kenntnis der Bundesregierung, um jeweils einen Datenaustausch
+zwischen Sicherheitsbehörden und
+a) Psychiatrie oder andere Fachrichtungen (Klinik oder Praxis bzw.
+medizinisches Versorgungszentrum (MVZ)),
+b) Psychotherapie,
+c) Gerichten mit Daten zu psychiatrischer Unterbringung oder
+Zwangsbehandlung,
+d) rechtlichen Betreuerinnen und Betreuern,
+e) Drogen- und Suchthilfe,
+f) Einrichtungen des Straf- oder Maßregelvollzugs,
+g) Krankenkassen, privaten Krankenversicherungen,
+Pflegeversicherungen, Rentenversicherungen etc.,
+h) dem Öffentlichen Gesundheitsdienst (sozialpsychiatrische Dienste 
+etc.),
+i) Jugendämtern, Sozialämtern oder weiteren Behörden ohne direkten 
+Bezug zu Strafverfolgung,
+j) weiteren Institutionen oder Menschen mit Kenntnis um die
+psychische Gesundheit oder psychiatrische Diagnosen Dritter (bitte
+auflisten)
+umzusetzen?
+Das Recht auf informationelle Selbstbestimmung aus Art. 2 Abs. 1 in
+Verbindung mit Art. 1 Abs. 1 Grundgesetz (GG) garantiert, dass jede Person selbst 
+über die Preisgabe und Verwendung eigener Daten bestimmen kann. Der 
+Schutz sensibler personenbezogener Daten – insbesondere personenbezogener 
+Gesundheitsdaten – ist in Deutschland durch die Datenschutz-
+Grundverordnung (DSGVO) und durch das BDSG geregelt. Eine Verarbeitung und damit 
+auch eine Übermittlung dieser Daten ist nur unter strengen Anforderungen
+zulässig.
+Ein Datenaustausch zwischen Sicherheitsbehörden und anderen Institutionen 
+erfordert nach Art. 9 Abs. 2 Buchstabe g) DSGVO immer eine ausdrückliche 
+gesetzliche Grundlage, die die Datenverarbeitung präzise regelt und eine
+sorgfältige Abwägung zwischen dem öffentlichen Interesse an dem Schutz der
+Bevölkerung und den Persönlichkeitsrechten der Betroffenen vornimmt.
+Im Bereich der Psychiatrie sind zumeist die Psychisch-Kranken-Gesetze 
+(PsychKG) der Länder einschlägig. Diese bestimmen, unter Beachtung der
+Vorgaben der DSGVO, unter welchen Voraussetzungen und in welchen engen 
+Grenzen Daten, die im Rahmen einer psychiatrischen Unterbringung oder
+Behandlung gesammelt wurden, Behörden übermittelt werden dürfen.
+Beschränkungen bestehen etwa dahingehend, dass ein Datenaustausch nur 
+möglich ist, soweit ein ausdrücklich geregelter Ausnahmefall vorliegt (strenge 
+Zweckbindung) und die ärztliche Schweigepflicht beachtet wird und dass nur 
+das notwendige Maß an Daten für den jeweiligen (legitimen) Zweck übermittelt 
+werden darf (Grundsatz der Datenminimierung). Viele datenschutzrechtliche 
+Eingriffe, insbesondere im Bereich Psychiatrie, Jugendhilfe oder
+Maßregelvollzug, regeln die Länder in eigenen Fachgesetzen. Diese Gesetze setzen hohe 
+Schwellen für einen Datenaustausch. Die Regelungen der einzelnen
+Landesgesetze hierzu können unterschiedlich sein. Weitere Regelungen zu
+Datenübermittlungen, denen ebenfalls strenge bereichsspezifische Güterabwägungen
+zugrunde liegen, sind beispielsweise in den Sozialgesetzbüchern für Sozialdaten 
+enthalten (vgl. z. B. die §§ 68 ff. SGB X); dies betrifft zum Beispiel die unter 
+Frage 6g) genannten gesetzlichen Sozialversicherungsträger. Möglichkeiten für 
+einen Datenaustausch ergeben sich zudem bspw. bezüglich der PsychKG der 
+Länder insbesondere aus einer (unmittelbaren) Gefährdung der öffentlichen
+Sicherheit (Fremdgefährdung) – in der Regel bedarf es einer Gefahr für Leib,
+Leben oder bedeutende Rechtsgüter – oder für den Betroffenen selbst
+(Eigengefährdung).
+Im Übrigen vermittelt das Parlamentarische Frage- und Informationsrecht
+keinen Anspruch auf Abgabe einer rechtlichen Bewertung. Eine Verpflichtung der 
+Bundesregierung zur Beantwortung parlamentarischer Fragen besteht
+grundsätzlich nur dann, wenn durch die begehrte Auskunft ein
+Informationsvorsprung der Bundesregierung gegenüber dem Parlament ausgeglichen werden 
+soll, damit der Deutsche Bundestag und seine Abgeordneten in die Lage
+versetzt werden, über die zur Erfüllung ihrer Aufgaben notwendigen
+Sachinformationen zu verfügen. Es dient aber nicht dazu, der Bundesregierung eine
+umfassende Aufzählung rechtlicher Möglichkeiten oder Beschränkungen der
+verschiedenen Rechtsbereiche, die für einen Datenaustausch zwischen
+Sicherheitsbehörden und anderen Stellen in Frage kommen, aufzuerlegen. Diese
+Regelungen sind in den einschlägigen Gesetzen einsehbar.
+ 7. Welche Überlegungen gibt es in der Bundesregierung, den
+Datenaustausch zwischen welchen der in den Fragen 6a bis 6j genannten
+Akteurinnen und Akteure zum Zwecke der Strafverfolgung oder
+Gefahrenabwehr zu ermöglichen oder auszubauen?
+Die im Auftrag der Innenministerkonferenz (IMK) tätige Bund-Länder-
+Arbeitsgruppe „Früherkennung und Bedrohungsmanagement“ befasst sich auch mit 
+Fragen der ressortübergreifenden Netzwerkarbeit und des Datenaustauschs.
+Die Beratungen dieser Bund-Länder-Arbeitsgruppe dauern an.
+Im Hinblick auf den Kernbereich exekutiver Eigenverantwortung der
+Bundesregierung wird darauf hingewiesen, dass die Überlegungen der
+Bundesregierung zur Frage geeigneter Maßnahmen zur Prävention von Gewaltdelikten von 
+Menschen mit psychischen Erkrankungen noch nicht abgeschlossen sind.
+ 8. Welche Kriterien müssen nach Kenntnis der Bundesregierung erfüllt 
+sein, damit in der Polizeidatenbank INPOL oder in einer anderen
+Polizeidatenbank eine Person mit dem Zusatz „Psychische und
+Verhaltensstörung“ oder „Freitodgefahr“, „Betäubungsmittelkonsument“ oder andere 
+Merkmale mit Bezug auf psychische Gesundheit versehen werden darf 
+(bitte die Voraussetzungen jeweils auflisten)?
+Ein PHW kann vergeben werden (gem. § 16 Abs. 6 Nr. 1 BKAG bzw. bzw. 
+§ 29 Abs. 4 i. V. m. § 16 Abs. 6 Nr. 1 BKAG), wenn zu einer Person bereits 
+Daten im Verbundsystem eingestellt sind und der PHW zum Schutz dieser
+Person und/oder zur Eigensicherung von Polizeibediensteten erforderlich ist.
+Die Vergabe eines PHW hat im Rahmen einer Einzelfallprüfung zu erfolgen. 
+Dabei sind in jedem Falle die Erforderlichkeit, Geeignetheit und die
+Verhältnismäßigkeit im engeren Sinne nachzuweisen. Die getroffene Entscheidung ist zu 
+dokumentieren. Sofern die Voraussetzungen für die Vergabe entfallen sind, ist 
+der PHW zu löschen.
+Die Voraussetzungen zur Vergabe der oben genannten PHW lauten wie folgt:
+– PHW „Psychische und Verhaltensstörung“ (PSYV)
+Der PHW „Psychische und Verhaltensstörung“ darf nur vergeben werden, 
+wenn ärztlich festgestellt ist, dass die betroffene Person an einer
+psychischen Erkrankung leidet und daraus Gefahren für sie selbst oder andere,
+insbesondere für Polizeibedienstete, resultieren können.
+Die Information über das Vorliegen einer solchen Erkrankung muss in 
+schriftlicher Form vorliegen (z. B. Attest, Gutachten).
+Der PHW dient dem Schutz der einschreitenden Polizeibediensteten und 
+Dritten.
+– PHW „Freitodgefahr“ (FREI)
+Der PHW „Freitodgefahr“ darf nur vergeben werden, wenn Anhaltspunkte 
+dafür vorliegen, dass die betroffene Person den Freitod suchen könnte,
+wobei für die Prognose ein zurückliegender Freitodversuch von Bedeutung 
+sein kann.
+Der PHW dient dem Schutz der Betroffenen und der einschreitenden
+Polizeibediensteten.
+– PHW „Betäubungsmittelkonsument“ (BTMK)
+Der PHW „Betäubungsmittelkonsument“ darf nur vergeben werden, wenn 
+Anhaltspunkte dafür vorliegen, dass die betroffene Person missbräuchlich 
+Stoffe gemäß den gültigen Anlagen des Betäubungsmittelgesetzes (BtMG),
+den Stoffgruppen des Neue-psychoaktive-Stoffe-Gesetz (NpSG) oder
+Ausweichmittel/Ersatzstoffe konsumiert und daraus
+– nicht unerhebliche Gesundheitsgefahren für sie selbst oder
+– Gefahren (z. B. durch die für den Konsum genutzten Geräte oder
+unvorhersehbare Verhaltensweisen) für andere, insbesondere für
+Polizeibedienstete, resultieren können.
+Unter nicht unerheblicher Gesundheitsgefahr ist hier zu verstehen, dass sich 
+BtM-Konsumenten durch die Art der BtM oder des BtM-Konsums
+regelmäßig in die Gefahr einer lebensbedrohlichen Situation begeben.
+Erfasst werden sollen ausschließlich BtM-Konsumenten, bei denen die
+Gefahr existiert, dass sich die einschreitenden Polizeibediensteten z. B. bei 
+Durchsuchungen Verletzungen durch ein Fixerbesteck zuziehen können 
+oder durch Betäubungsmittel bedingte unvorhersehbare Verhaltensweisen 
+gefährdet werden. Der PHW dient dem Schutz der Betroffenen und der
+einschreitenden Polizeibediensteten.
+ 9. Bei wie vielen Menschen liegt für den Zusatz „Psychische und
+Verhaltensstörung“ oder „Freitodgefahr“ kein ärztliches oder
+psychotherapeutisches Gutachten für die Diagnose vor (bitte absolute und relative Zahlen 
+angeben)?
+Hierzu liegen der Bundesregierung keine Informationen vor. Bezüglich der
+Vergabe des PHW PSYV ist das schriftliche Vorliegen von Informationen über 
+eine solche Erkrankung Voraussetzung; insofern ist grundsätzlich davon
+auszugehen, dass diese bei Vergabe des PHW PSYV erfüllt war. Eine Überprüfung in 
+INPOL kann nicht abschließend durchgeführt werden, da eine Vorlage der
+Informationen bei Polizeibehörden nicht mit einer Speicherung in INPOL
+gleichzusetzen ist.
+Bezüglich der Vergabe des PHW Freitodgefahr ist das schriftliche Vorliegen 
+von Informationen nicht Voraussetzung. Eine Überprüfung in INPOL kann 
+nicht abschließend durchgeführt werden, da eine Auswertung für jeden
+Datensatz einzeln bei den für die Vergabe des jeweiligen PHW verantwortlichen 
+Dienststellen durchgeführt werden müsste.
+10. Auf welche bundes- oder landesrechtlichen Grundlagen stützt sich nach 
+Kenntnis der Bundesregierung die Speicherung psychischer Merkmale in 
+INPOL oder anderen Polizeidatenbanken?
+Die Rechtsgrundlage für die Speicherung psychischer Merkmale im Sinne der 
+PHW ist für das BKA in § 16 Abs. 6 Nr. 1 BKAG geregelt. Diese
+Rechtsgrundlage gilt auch für Speicherungen im polizeilichen Informationsverbund durch 
+die an diesem Verbund teilnehmenden Behörden entsprechend (§ 29 Abs. 4 
+i. V. m. § 16 Abs. 6 Nr. 1 BKAG).
+Die landesrechtlichen Regelungen sind in den einschlägigen Gesetzen
+einsehbar. Es ist nicht Bestandteil der parlamentarischen Kontrollfunktion des
+Deutschen Bundestages, frei verfügbare Informationen durch die Bundesregierung 
+zusammentragen und anschaulich aufbereiten zu lassen. Insoweit wird auch auf 
+die Antwort zu Frage 6 verwiesen.
+In Bezug auf das polizeiliche Datenverarbeitungssystem @ruts-Bund erfolgt 
+die Speicherung psychischer Merkmale – wie auch in INPOL-BPOL – auf der 
+Grundlage von § 29 Abs. 2 Satz 3 Nr. 1 BPolG (zur Eigensicherung von
+Polizeidienstkräften oder zum Schutz von Betroffenen).
+11. Wie ist derzeit die Haltung der Bundesregierung zur Nutzung von
+Anwendungen des US-amerikanischen Softwareherstellers Palantir wie die 
+„Verfahrensübergreifende Recherche- und Analyseplattform“ (VeRA) 
+auch durch Behörden des Bundes, und welche Maßnahmen plant die 
+Bundesregierung ggf. in diesem Zusammenhang?
+Die Bundesregierung hält den Einsatz von Datenanalysesystemen, wie sie von 
+unterschiedlichen Herstellern angeboten werden, in verschiedenen Bereichen, 
+zum Beispiel bei den Polizeien des Bundes im Geschäftsbereich des
+Bundesministeriums des Innern sowie in verschiedenen Organisationseinheiten der 
+Zollverwaltung, für denkbar. Hierbei wird ausgehend von dem fachlichen
+Bedarf die Geeignetheit eines Produkts und seiner Anwendung unter
+Berücksichtigung aller relevanten Aspekte geprüft und bewertet, wie zum Beispiel der 
+Aspekt des Geheim- und Datenschutzes, des Ziels der digitalen Souveränität 
+und der verfassungsrechtlichen Vorgaben.
+12. Welche Erkenntnisse hat die Bundesregierung oder welche Erkenntnisse 
+liegen ihr vor, ob die Verarbeitung der von VeRA oder anderen
+Anwendungen von Palantir ggf. genutzten gesundheitsbezogenen Daten
+vollständig überprüfbar und nachvollziehbar ist?
+a) Kann die Bundesregierung ausschließen, dass die Daten für andere 
+Zwecke verarbeitet oder Dritten zugänglich gemacht werden?
+b) Welche Rolle spielt dabei für die Bundesregierung insbesondere, ob 
+Sicherheitsbehörden der USA gegebenenfalls Zugang zu den Daten 
+haben können?
+Die Fragen 12 bis 12b werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Nach Kenntnis der Bundesregierung wird die verfahrensübergreifende
+Recherche- und Analysesoftware „VeRA“ ausschließlich in den Rechenzentren des 
+Auftraggebers betrieben, nur der Auftraggeber hat Zugang zu seinen Daten und 
+der Auftraggeber entscheidet, welche Datenquellen an die Softwarelösung
+angeschlossen werden, wobei die Quellenanbindung unter Beachtung der
+(verfassungs-)rechtlichen Vorgaben erfolgt.
+13. Welche Rolle spielt bei den Einschätzungen der Bundesregierung der 
+konkrete Hintergrund des Unternehmens Palantir, das für seine
+Verknüpfung zur US-amerikanischen Regierung bekannt ist und dessen Gründer 
+und Großaktionär Peter Thiel unter anderem die DSGVO mit der
+Berliner Mauer vergleicht (www.faz.net/pro/digitalwirtschaft/peter-thiel-dsgv
+o-ist-wie-berliner-mauer-15625405.html)?
+Es wird auf die Antwort zur Frage 11 verwiesen.
+14. In welchen Bundesländern wird die Palantir-Software bzw. werden
+darauf basierende Anwendungen momentan nach Kenntnis der
+Bundesregierung angewendet (inklusive Testbetrieb)?
+Die Beauskunftung zu eingesetzten Software-Produkten und deren
+Einsatzzwecken der Länder obliegt nicht der Bundesregierung.
+15. Welche Informationen hat die Bundesregierung darüber, dass bei der
+Anwendung der Palantir-Software in Deutschland bereits Daten über die 
+psychische Gesundheit der Betroffenen verarbeitet worden sind?
+Die Bundesregierung liegen keine Informationen im Sinne der Frage vor.
+16. Welche Evaluationen sind geplant, um die Auswirkungen des Registers 
+und der Software VeRA transparent und objektiv unter anderem auf das 
+Leben für Menschen mit psychischen Erkrankungen oder PHW mit
+Bezug zu psychischer Gesundheit, aber ohne ärztliche bzw.
+psychotherapeutische Diagnose zu überprüfen?
+VeRA ist bei Bundesbehörden aktuell nicht im Einsatz. Deshalb sind keine
+entsprechenden Evaluationen möglich und damit auch nicht geplant.
+Des Weiteren ist die Entscheidungsfindung innerhalb der Bundesregierung in 
+Bezug auf mögliche Maßnahmen zur Prävention von Gewaltdelikten von
+Menschen mit psychischen Erkrankungen noch nicht abgeschlossen. Im Übrigen 
+wird auf die Antwort zu den Fragen 17 und 18 verwiesen.
+17. Wie steht die Bundesregierung grundsätzlich zu einem Register für
+psychisch erkrankte Menschen, das mit weiteren Datensätzen, z. B. den in 
+Frage 6 genannten, verknüpft werden kann?
+18. Wie steht die Bundesregierung konkret zu einem Register für „psychisch 
+kranke Gewalttäter“ (siehe Vorbemerkung der Fragesteller: Interview mit 
+Carsten Linnemann)?
+Die Fragen 17 und 18 werden wegen des Sachzusammenhangs gemeinsam
+beantwortet.
+Die Bundesregierung hat gemäß Koalitionsvertrag den Auftrag, den
+Datenaustausch unter den Sicherheitsbehörden sowie mit zivilen Behörden grundlegend 
+zu verbessern. Um Risikopotenziale bei Personen mit psychischen
+Auffälligkeiten frühzeitig zu erkennen, soll gemäß Koalitionsvertrag eine gemeinsame 
+Risikobewertung und ein integriertes behördenübergreifendes
+Risikomanagement eingeführt werden.
+Der Erörterungsprozess zur Bewertung und Entwicklung geeigneter
+Maßnahmen wurde vom Bundesministerium des Innern (BMI) und vom
+Bundesministerium für Gesundheit (BMG) mit den Ländern gemäß den Beschlüssen der 
+Ständigen Konferenz der Innenminister und -senatoren der Länder (IMK) und 
+der Gesundheitsministerkonferenz (GMK) begonnen. Dabei ist
+selbstverständlich den Datenschutzanforderungen in Bezug auf die besonders geschützten 
+Gesundheitsdaten vollständig Rechnung zu tragen und die besondere
+Vulnerabilität von psychisch erkrankten Personen umfänglich zu berücksichtigen. Der 
+Bundesregierung ist der Schutz der Personen mit psychischen Erkrankungen 
+ein wichtiges Anliegen, das bei der Abwägung geeigneter Maßnahmen
+Beachtung finden wird. In das Bewertungs- und Erörterungsverfahren werden die 
+diesbezüglichen Beschlüsse und Stellungnahmen der Fachministerkonferenzen 
+sowie die Stellungnahmen der Fachverbände einbezogen. Das Ergebnis des 
+Prozesses bleibt abzuwarten.
+19. Welche diesbezüglichen Äußerungen von Datenschutzbeauftragten der 
+Länder oder des Bundes sind der Bundesregierung allgemein und in
+Bezug auf die konkrete Palantir-Software bekannt?
+Stellungnahmen von Datenschutzbeauftragten zu Registern im Sinne der 
+Frage 18 bzw. zur Verwendung der Software der Firma Palantir im Kontext 
+eines in Frage 18 genannten Registers sind der Bundesregierung nicht bekannt.
+20. In welchem Maße berücksichtigt die Bundesregierung dabei die
+historischen Erfahrungen mit der Erfassung psychisch erkrankter Personen 
+während der NS-Zeit (www.bundesarchiv.de/im-archiv-recherchieren/arc
+hivgut-recherchieren/nach-themen/euthanasie-im-dritten-reich/#c51831)?
+Die Bundesregierung wird die besonderen Schutzbedürfnisse und Belange von 
+Menschen mit psychischen Erkrankungen in dem in der Antwort zu den
+Fragen 17 und 18 genannten Erörterungsprozess berücksichtigen.
+21. Welche Einschätzung hat die Bundesregierung zur Vereinbarkeit eines 
+Registers psychisch erkrankter Personen mit Artikel 9 der DSGVO,
+insbesondere im Hinblick auf das Verbot der Verarbeitung besonderer
+Kategorien personenbezogener Daten?
+Die Verarbeitung von Gesundheitsdaten, einschließlich Angaben zur
+psychischen Gesundheit, unterliegt den Anforderungen des Art. 9 Abs. 1 DSGVO. 
+Danach ist die Verarbeitung besonderer Kategorien personenbezogener Daten 
+grundsätzlich untersagt, sofern nicht eine der in Art. 9 Abs. 2 DSGVO
+genannten Ausnahmen greift. Für eine etwaige Erfassung oder Speicherung
+entsprechender Daten im Rahmen eines Registers wäre insbesondere eine
+ausdrückliche gesetzliche Grundlage erforderlich, die den Anforderungen des Art. 9 
+Abs. 2 Buchstabe g DSGVO genügt (Verarbeitung aus Gründen eines
+erheblichen öffentlichen Interesses). Diese müsste konkrete Zwecke des Registers und 
+die für die Zweckerreichung erforderlichen Daten benennen, geeignete
+Schutzmaßnahmen zur Wahrung der Grundrechte und Interessen der betroffenen
+Person vorsehen und insgesamt verhältnismäßig ausgestaltet sein. Die Bewertung 
+eines solchen Registers erfordert daher eine sorgfältige Prüfung unter
+Berücksichtigung datenschutzrechtlicher und verfassungsrechtlicher Maßgaben.
+22. Was wurde konkret bei der Konferenz der Gesundheitsministerinnen und 
+Gesundheitsminister im Juni 2025 in Weimar zur „Inneren Sicherheit 
+und Prävention bei Gewaltdelikten von Menschen mit psychischen
+Erkrankungen beschlossen“ (www.tmasgff.de/medienservice/artikel/gesun
+dheitsministerkonferenz-2025), und welche Position vertrat die
+Bundesregierung bei den Beratungen?
+Der diesbezügliche Beschluss der GMK ist unter folgendem Link abrufbar: 
+www.gmkonline.de/Beschluesse.html?id=1712&jahr=2025. Das BMG hat 
+diese Position grundsätzlich unterstützt.
+23. Welche Maßnahmen ergreift die Bundesregierung, um einer
+gesellschaftlichen Stigmatisierung psychisch erkrankter Menschen
+entgegenzuwirken, insbesondere im Lichte öffentlicher Forderungen nach deren
+Erfassung in sicherheitsbehördlichen Registern?
+Die Bundesregierung setzt sich bereits seit Jahren intensiv für die
+Entstigmatisierung von psychischen Erkrankungen ein. Aktuell fördert das BMG acht
+Forschungsvorhaben im Rahmen eines Förderschwerpunkts zur Entstigmatisierung 
+psychischer Erkrankungen mit einem Gesamtfördervolumen von 2,5 Mio. 
+Euro. Zudem fördert das BMG derzeit mit ca. 522 000 Euro ein
+Verbundvorhaben zur Evaluation und Weiterentwicklung der Aktionswochen für Seelische 
+Gesundheit, die ein zentrales Instrument zur niederschwelligen Information der 
+Öffentlichkeit über psychische Erkrankungen und zur Enttabuisierung und
+Entstigmatisierung darstellen. Die Bundesregierung misst der Entstigmatisierung 
+psychischer Erkrankungen auch weiterhin einen hohen Stellenwert zu und wird 
+sich in dem in der Antwort zu Frage 17 und 18 genannten Erörterungsprozess 
+für die angemessene Berücksichtigung der besonderen Schutzbedürfnisse und 
+Belange von Menschen mit psychischen Erkrankungen einsetzen. Darüber
+hinaus werden Verbände gefördert, die ebenfalls die Zielsetzung der
+Entstigmatisierung psychischer Erkrankung verfolgen.
+24. Welche Informationen liegen der Bundesregierung darüber vor, ob und 
+inwieweit psychische Erkrankungen im Kontext von asyl- und
+aufenthaltsrechtlichen Verfahren (z. B. Asylverfahren, Ausweisungen,
+Anordnung von Abschiebungshaft) punktuell oder systematisch erfasst oder
+gespeichert werden?
+Der Bundesregierung liegen keine Erkenntnisse im Sinne der Fragestellung vor. 
+Im Asylverfahren werden Daten über psychische Erkrankungen durch das
+Bundesamt für Migration und Flüchtlinge (BAMF) weder punktuell noch
+systematisch statistisch erfasst. Inwieweit Angaben zu psychischen Erkrankungen
+Bestandteil der Ausländerakte sind, liegt in der jeweiligen Zuständigkeit der
+aktenführenden Ausländerbehörde.
+25. Inwiefern wurden bisher Betroffene und Akteurinnen und Akteure z. B. 
+aus der Gesundheitsversorgung oder Sozialarbeit in die Überlegungen zu 
+einem Register für psychisch erkrankte Menschen eingebunden, und in 
+welchem Rahmen werden ihre Expertise und Einschätzungen angehört?
+Es wird auf die Antwort zu den Fragen 17 und 18 verwiesen.
+26. Welche Maßnahmen sind der Bundesregierung heute bekannt, um die 
+Situation von Menschen mit psychischen Erkrankungen nachhaltig zu 
+verbessern, und wie bewertet die Bundesregierung den Zugang zum
+Versorgungssystem für Hilfe suchende Menschen?
+In Deutschland besteht ein ausdifferenziertes, umfassendes und vielfältiges 
+System, um Menschen mit psychischen Erkrankungen zu unterstützen und zu 
+behandeln. Dabei handelt es sich um eine gesamtgesellschaftliche Aufgabe, die 
+von Bund, Ländern und Kommunen und weiteren Akteuren der
+Zivilgesellschaft übernommen wird. Einzelne Ansätze können daher hier nur beispielhaft 
+angeführt werden.
+Es ist der Bundesregierung ein wichtiges Anliegen, dass Menschen mit
+behandlungsbedürftigen psychischen Erkrankungen die bedarfsgerechte Diagnostik, 
+Behandlung und Rehabilitation erhalten. Das BMG setzt sich für eine
+kontinuierliche Weiterentwicklung der psychiatrisch-psychotherapeutischen
+Versorgung im Rahmen der gesetzlichen Krankenversicherung (Fünftes Buch
+Sozialgesetzbuch) ein. Die Bundesregierung verfolgt dabei das Ziel einer
+patientenzentrierten, sektorenübergreifenden und flexiblen Versorgung von Menschen 
+mit psychischen Erkrankungen.
+So wurde in den letzten Jahren von Seiten der Bundesregierung, des
+Gesetzgebers und vor allem auch seitens der gemeinsamen Selbstverwaltung im
+Gesundheitswesen gemeinsam die Angebotspalette der psychiatrisch-
+psychotherapeutischen Versorgung stark erweitert: Online-Beratungsangebote wurden
+ausgebaut, psychotherapeutische Sprechstunden wie auch Psychotherapie per
+Telefon oder Video, auch in der Gruppentherapie und in der Akutbehandlung
+ermöglicht. Die Zahl psychologischer und ärztlicher Psychotherapeutinnen und 
+Psychotherapeuten ist in den letzten Jahren erheblich gestiegen.
+In Umsetzung des Koalitionsvertrages beabsichtigt die Bundesregierung das 
+bereits breit angelegte, niedrigschwellig zugänglich und ausdifferenzierte
+Versorgungsangebot für die Behandlung psychischer Erkrankungen in Deutschland 
+zu verbessern.
+Der Bundesregierung ist es insbesondere wichtig, den Zugang für Kinder und 
+Jugendliche sowie Versicherte zu verbessern, die einen erschwerten Zugang zur 
+Versorgung haben. Auch die Verringerung von Wartezeiten ist ein Ziel der
+Bundesregierung. Konkrete Schritte zur Umsetzung der im Koalitionsvertrag
+verabredeten Maßnahmen werden geprüft.
+Um den besonderen Versorgungsbedürfnissen von Kindern und Jugendlichen 
+beim Zugang zur psychotherapeutischen Versorgung Rechnung zu tragen, ist 
+im Koalitionsvertrag vereinbart, die Voraussetzungen für die gesonderte
+Bedarfsplanung psychotherapeutisch tätiger Ärztinnen und Ärzte sowie
+Psychotherapeutinnen und Psychotherapeuten, die überwiegend oder ausschließlich 
+Kinder und Jugendliche behandeln, anzupassen. Mit diesem Vorhaben können 
+weitere Niederlassungsmöglichkeiten für Kinder- und
+Jugendlichenpsychotherapeutinnen und -therapeuten entstehen und Wartezeiten auf ein wohnortnahes 
+Therapieangebot verringert werden.
+Bereits umgesetzt ist eine Änderung der Zulassungsverordnung für
+Vertragsärzte (BGBl. 2025 I Nr. 40). Mit der am 20. Februar 2025 in Kraft getretenen
+Änderung werden Patientinnen und Patienten, die einen besonders erschwerten 
+Zugang zur psychotherapeutischen Versorgung haben, dabei unterstützt, einen 
+Behandlungsplatz zu erhalten. Aufgenommen wurde ein zusätzlicher
+Tatbestand zur Ermächtigung von Psychotherapeutinnen und Psychotherapeuten
+sowie Ärztinnen und Ärzten zur ambulanten psychotherapeutischen und
+psychiatrischen Versorgung von besonders vulnerablen Patientengruppen (§ 31
+Absatz 1 Satz 3 und 4 der Zulassungsverordnung für Vertragsärzte). Damit können 
+zusätzliche Behandlungskapazitäten für die psychotherapeutische und
+psychiatrische Behandlung von besonders vulnerablen Menschen geschaffen werden, 
+die z. B. intellektuell beeinträchtigt sind oder aufgrund eines erheblich
+eingeschränkten Funktionsniveaus sozial benachteiligt sind. Auch Kinder und 
+Jugendliche können zu dieser Patientengruppe gehören.
+Zudem leisten die Psychosozialen Zentren für Flüchtlinge und Folteropfer 
+(PSZ) einen wichtigen Beitrag zur psychosozialen Versorgung von
+Geflüchteten. Die Bundesregierung fördert diese.
+Auch die Länder setzen sich kontinuierlich dafür ein, die
+Unterstützungsangebote für Menschen mit psychischen Erkrankungen und umfassendem
+Hilfebedarf bedarfsgerecht anzupassen. Die GMK setzt sich intensiv auch mit
+Fragestellungen zur Versorgung von Menschen mit schweren psychischen
+Erkrankungen und auffälligem Verhalten auseinander.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

@@ -1,0 +1,182 @@
+Deutscher Bundestag Drucksache 21/2137
+21. Wahlperiode 09.10.2025
+Kleine Anfrage
+der Abgeordneten Jan Köstering, Clara Bünger, Doris Achelwilm, Violetta Bock, 
+Anne-Mieke Bremer, Katrin Fey, Dr. Gregor Gysi, Luke Hoß, Ferat Koçak, Sonja 
+Lemke, Tamara Mazzi, Bodo Ramelow, David Schliesing, Aaron Valent, Donata 
+Vogtschmidt, Christin Willnat und der Fraktion Die Linke
+Sachstand und Gesetzgebungsvorhaben zur Fluggastdatenspeicherung 
+in Deutschland
+Seit 2017 werden in Deutschland sogenannte PNR (Passenger Name Records)-
+Daten, also Fluggastdaten mit einem weiten Datenkranz, zu allen Flügen von 
+und in die EU sowie für ausgewählte Flugstrecken innerhalb der EU von Flug- 
+und Reiseunternehmern an die Fluggastdatenzentralstelle übertragen. Diese 
+gleicht die Daten mit polizeilichen Fahndungsmitteilungen und Mustern ab, die 
+eine frühzeitige Erkennung von terroristischen und schwerkriminellen
+Flugreisenden ermöglichen sollen. Durch die Rechtsprechung des Europäischen
+Gerichtshofs (EuGH) wurde die Verarbeitung und Speicherung insoweit
+eingeschränkt, als es keine anlasslose Vorratsdatenspeicherung dieser Fluggastdaten 
+geben soll (Urteil in der Rechtssache C-817/19), die Anwendung des
+Fluggastdatengesetzes (FlugDaG) wurde entsprechend angepasst (Antwort zu Frage 11 
+auf Bundestagsdrucksache 20/11869). Dies bedeutet unter anderem, dass für 
+intra-EU-Flüge nur noch auf dafür bestimmten Strecken Fluggastdaten vorab 
+übermittelt werden müssen.
+Von den PNR-Daten zu unterscheiden sind die API (Advanced Passenger 
+Information)-Daten. Diese enthalten die Flugverbindung und die Angaben aus 
+den mitgeführten Identitätsdokumenten sowie deren Dokumentennummer. 
+Diese Daten werden seit 2008 von der Bundespolizei zu einzeln bestimmten 
+Linien von den Flugunternehmen angefordert, um sie vor Eintreffen des Flugs 
+gegen polizeiliche Fahndungsdaten zu prüfen (§ 31a des Bundespolizeigesetzes 
+(BPolG)). Mit dem Referentenentwurf des Bundesministeriums des Innern 
+(BMI) eines Gesetzes zur Modernisierung des Bundespolizeigesetzes soll diese 
+Regelung in einen neuen § 52 überführt werden und zudem die Beschränkung 
+auf ausgesuchte Flüge oder Linien entfallen. Für Flüge von außerhalb der EU 
+in die Bundesrepublik Deutschland müssen dann zusätzlich zu den PNR-Daten 
+an die Fluggastdatenzentralstelle auch die API-Daten an die Bundespolizei 
+übermittelt werden. Damit steigt das Volumen der in Zusammenhang mit einem 
+einzigen Flug an staatliche Behörden übermittelten Daten und damit die
+grundrechtliche Belastung der Bürgerinnen und Bürger und der ausländischen
+Flugreisenden weiter an, ohne dass aus Sicht der Fragestellenden ein irgendwie zu 
+den aufgewendeten Ressourcen im Verhältnis stehender Sicherheitsgewinn zu 
+erreichen wäre. Dies auch mit Blick darauf, dass Reisende auf Privatflügen 
+weiterhin nicht von dieser Form der flächendeckenden und anlasslosen
+Datenverarbeitung betroffen wären.
+Wir fragen die Bundesregierung:
+ 1. Wie viele und welche Luftfahrtunternehmen sowie Reiseveranstalter (bitte 
+getrennt angeben) sind derzeit an das Fluggastdateninformationssystem 
+angeschlossen, wie viele davon übermitteln tatsächlich Fluggastdaten an 
+das Fluggastdateninformationssystem, und bei wie vielen und welchen 
+Luftfahrtunternehmen sowie Reiseunternehmen steht diese Anbindung 
+weiterhin aus?
+ 2. Wie hoch ist der Anteil der Luftfahrtunternehmen, die an das
+Fluggastdateninformationssystem angeschlossen sind, am gesamten
+Flugpassagieraufkommen in der Bundesrepublik Deutschland nach Kenntnis der
+Bundesregierung?
+ 3. Wie ist der Umgang mit Fluggastdaten von Passagieren von
+Privatflugzeugen, die also nicht (oder jedenfalls nicht behördlich bekannt)
+unternehmerisch Fluggäste transportieren und die zu einem Teil sehr kurzfristig in 
+die EU einfliegen, und wie groß schätzt die Bundesregierung die Zahl
+dieser Fluggäste, die jährlich ohne Übermittlung von Fluggastdaten in die 
+Bundesrepublik Deutschland einreisen?
+ 4. Mit welchen Datenbeständen erfolgt derzeit ein Abgleich der
+Fluggastdaten durch die Fluggastdatenzentralstelle?
+ 5. In welchen Datenbeständen, Informationssystemen, Fall- und
+Vorgangsbearbeitungssystemen etc. welcher Behörden erfolgt derzeit eine
+Weiterverarbeitung der Fluggastdaten, etwa im Falle eines Treffers aufgrund 
+einer Ausschreibung zur Aufenthaltsermittlung, verdeckten Fahndung 
+etc.?
+ 6. Wie viele Fluggastdatensätze wurden im Jahr 2024 an die
+Fluggastdatenzentralstelle bzw. das Fluggastdateninformationssystem übermittelt?
+a) Wie viele dieser Datensätze wurden mit den in Frage 4 genannten
+Datenbeständen abgeglichen?
+b) Wie viele technische Treffer gab es im Jahr 2024 beim Abgleich mit 
+Datenbeständen und Mustern (bitte getrennt auflisten)?
+c) Wie viele technische Treffer wurden 2024 durch die
+Fluggastdatenzentralstelle fachlich überprüft?
+d) Wie viele dieser technischen Treffer wurden 2024 fachlich positiv von 
+der Fluggastdatenzentralstelle überprüft und an die zuständigen
+Behörden ausgeleitet?
+e) Welche Arten von Ausschreibungen in den polizeilichen
+Fahndungssystemen lagen den Überprüfungen der Fluggastdatenzentralstelle
+zugrunde, und welche Maßnahmen konnten daraufhin durchgeführt
+werden?
+f) In wie vielen Fällen wurde im Rahmen der Folgemaßnahmen zu 
+einem echt-positiven Treffer und dem Antreffen der gesuchten Person 
+bei der Einreise eine Festnahme vorgenommen, in wie vielen Fällen 
+betraf dies Intra-EU-Flüge?
+ 7. a) Wie viele retrograde Recherchen wurden im Jahr 2024 in den Daten 
+des Fluggastdatenzentralsystems vorgenommen, und in wie vielen
+Fällen waren hierzu Fluggastdaten vorhanden (bitte nach den
+ersuchenden Behörden auflisten)?
+b) Wie viele der im Fluggastdatenzentralsystem vorhandenen Datensätze 
+wurden im Jahr 2024 gemäß § 4 Absatz 5 Satz 1 des
+Fluggastdatengesetzes (FlugDaG) an welche inländischen Behörden übermittelt?
+c) Wie viele der im Fluggastdatenzentralsystem vorhandenen Datensätze 
+wurden im Jahr 2024 gemäß § 4 Absatz 5 Satz 2 FlugDaG an welche 
+inländischen Behörden übermittelt?
+d) Wie viele der aus einem Abgleich resultierenden Fluggastdatensätze 
+wurden 2024 gemäß § 6 Absatz 1 FlugDaG an welche inländischen 
+Behörden übermittelt?
+e) Wie viele der aus einem Abgleich resultierenden Fluggastdatensätze 
+wurden 2024 gemäß § 6 Absatz 2 FlugDaG an welche inländischen 
+Behörden übermittelt?
+f) Wie viele der im Fluggastdatenzentralsystem vorhandenen Daten
+wurden im Jahr 2024 gemäß § 7 FlugDaG an welche Behörden der EU-
+Mitgliedstaaten übermittelt?
+g) Wie viele der im Fluggastdatenzentralsystem vorhandenen Daten
+wurden im Jahr 2024 gemäß § 9 FlugDaG an Europol übermittelt?
+h) Wie viele der im Fluggastdatenzentralsystem vorhandenen Daten
+wurden im Jahr 2024 gemäß § 10 FlugDaG an welche Behörden von 
+Nicht-EU-Mitgliedstaaten übermittelt?
+ 8. Hat die Fluggastdatenzentralstelle beim Bundeskriminalamt (BKA) an
+gemeinsamen Verfahren der systematischen Zusammenarbeit mit anderen 
+Fluggastdatenzentralstellen der EU-Mitgliedstaaten nach § 8 FlugDaG 
+teilgenommen, und welchen konkreten Zweck verfolgte diese
+Zusammenarbeit?
+ 9. Wie viele Muster nach § 4 Absatz 2 Nummer 2 i. V. m. § 4 Absatz 3 Flug-
+DaG sind derzeit in der Fluggastdatenzentralstelle in der Anwendung, und 
+von welchen der in § 6 Absatz 1 FlugDaG benannten Behörden rühren 
+diese Muster her?
+10. Über welchen Zeitraum waren oder sind die in Frage 9 genannten Muster 
+in Anwendung (bitte nach Länge des Zeitraums summarisch auflisten)?
+11. a) Wie viele Datensätze wurden im Jahr 2024 aufgrund des Erreichens 
+der Sechs-Monats-Frist gelöscht oder depersonalisiert?
+b) In wie vielen Fällen wurde eine retrograde Recherche in den
+Datensätzen richterlich angeordnet?
+c) Zu wie vielen ausgewählten Intra-EU-Flügen wurden im Jahr 2024 
+Daten verarbeitet, und wie viele Intra-EU-Flüge betraf dies monatlich 
+im Schnitt (bitte nach Monaten auflisten)?
+12. Wie ist der derzeitige Stand der SOLL/IST-Stellenbesetzung in der
+Fluggastdatenzentralstelle und der zuständigen Arbeitseinheit für die
+technische Bereitstellung der Fluggastdaten im Bundesverwaltungsamt?
+13. Welche Ausgaben wurden im Jahr 2024 für den Betrieb der
+Arbeitseinheiten für die technische Bereitstellung der Daten im Bundesverwaltungsamt 
+(BVA) und die Fluggastdatenzentralstelle im BKA getätigt?
+14. Mit welchen zusätzlichen Kosten rechnet die Bundesregierung für die
+Implementierung der technischen Prozesse zur Umsetzung der neuen API-
+Verordnungen der EU (Vorschläge auf COM(2022)729, COM(2022)731; 
+Erstbeschaffung Hard- und Softwarekomponenten, Installation etc.), und 
+wie hoch schätzt sie die jährlichen zusätzlichen Kosten im laufenden
+Betrieb, wird die Bundesregierung hierfür Mittel der EU abrufen, und wenn 
+ja, in welcher Höhe?
+15. In welchem Umfang wurden API-Daten 2024 durch deutsche
+Grenzbehörden verarbeitet, und wie hoch war die Zahl der Personen- und
+Sachfahndungstreffer (bitte getrennt angeben)?
+16. Welche Anpassungen sind nach Kenntnis der Bundesregierung bei
+Inkrafttreten der API-Verordnungen der EU (VO 2025/12 und VO 2025/13) 
+im deutschen Recht vorzunehmen?
+17. Wird es dabei auch Anpassungsbedarf an der Regelung des
+Referentenentwurfs „Entwurf eines Gesetzes zur Modernisierung des
+Bundespolizeigesetzes“ (BPolG-RefE) im dort vorgesehenen § 52 BPolG-RefE geben, und 
+wenn ja, welchen?
+18. Falls Änderungsbedarf bereits jetzt absehbar ist, warum sieht der Entwurf 
+hierzu nicht bereits eine Übergangsregelung vor, die insbesondere die 
+neuen EU-Rechtsgrundlagen für die Übermittlung von Fluggastdaten
+berücksichtigt?
+19. Wie weit ist nach Kenntnis der Bundesregierung der Stand beim Aufbau 
+der Router-Infrastruktur zur Verteilung der API-Daten an die
+Mitgliedstaaten (Artikel 11 VO 2025/12 respektive Artikel 9 VO 2025/13), und in 
+welcher Art und Weise bringen sich Stellen des Bundes in den
+entsprechenden Konzeptionierungs- und Planungsprozess ein?
+20. Wie ist nach Kenntnis der Bundesregierung der Stand bei der Prüfung der 
+Durchführbarkeit einer Unionsregelung zur Verpflichtung von Betreibern 
+von Privatflügen zur Übermittlung von API-Daten an die Grenzbehörden 
+(vgl. EG7 VO 2025/12 respektive EG7 VO 2025/13), und warum nutzt 
+die Bundesregierung die so lange bestehende Möglichkeit zu
+entsprechenden nationalen Regelungen nicht, welche Erkenntnisse zur Nutzung von 
+Privatflügen als Modus Operandi in den Kriminalitätsbereichen
+Geldwäsche, Menschenhandel, Handel mit Betäubungsmitteln, Waffenschmuggel 
+liegen der Bundesregierung vor?
+21. Unterstützt die Bundesregierung den Einsatz der Kommission zu einem 
+regelmäßigen Meinungsaustausch über die Einschätzungen zu inner-EU-
+Flugrouten, die von den Mitgliedstaaten für einen Abruf von PNR- und 
+API-Daten ausgewählt wurden (Artikel 13 VO 2025/13 i. V. m. Artikel 2 
+RL (EU) 2016/681), tauschen sich die Bundesregierung oder die
+zuständigen Stellen mit anderen Mitgliedstaaten respektive den dort zuständigen 
+Behörden über die Erstellung und Anwendung von Reisemustern aus, 
+wenn ja, mit wie vielen und welchen?
+Berlin, den 1. Oktober 2025
+Heidi Reichinnek, Sören Pellmann und Fraktion
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
