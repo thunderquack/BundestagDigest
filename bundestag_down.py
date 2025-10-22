@@ -241,7 +241,7 @@ def save_texts_grouped_by_type(entries: list[dict], base_out_dir: str, key: str)
 def main() -> None:
     tz = ZoneInfo("Europe/Berlin")
     today = datetime.now(tz).date()
-    week_start = today - timedelta(days=WEEK_DAYS - 1)
+    week_start = today - timedelta(days=170 - 1)
     key = api_key()
 
     print(f"Fetching Drucksachen from {week_start} to {today}...")
