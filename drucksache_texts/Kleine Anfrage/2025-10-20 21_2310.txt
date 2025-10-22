@@ -1,0 +1,393 @@
+Deutscher Bundestag Drucksache 21/2310
+21. Wahlperiode 20.10.2025
+Kleine Anfrage
+der Abgeordneten Sonja Lemke, Clara Bünger, Anne-Mieke Bremer, Katrin 
+Fey, Dr. Gregor Gysi, Luke Hoß, Ferat Koçak, Jan Köstering, Bodo Ramelow, 
+David Schliesing, Aaron Valent, Donata Vogtschmidt, Christin Willnat und 
+der Fraktion Die Linke
+Einsatz Künstlicher Intelligenz im Geschäftsbereich der Bundesregierung
+Am 1. August 2024 ist nach langen Verhandlungen das Europäische Parlament 
+die KI-Verordnung (im Folgenden KI-VO) in Kraft getreten (www.europarl.eur
+opa.eu/news/de/press-room/20240308IPR19015/gesetz-uber-kunstliche-intellig
+enz-parlament-verabschiedet-wegweisende-regeln).
+Bis spätestens 2. August 2025 hätte die Bundesregierung veröffentlichen
+müssen, wie die zuständigen Behörden und die zentrale Anlaufstelle auf
+elektronischem Wege kontaktiert werden können (Artikel 70 Absatz 2 S. 2 KI-VO), und 
+sie hätte der Europäischen Kommission über den Sachstand bezüglich der
+finanziellen Mittel und des Personals der zuständigen nationalen Behörden
+berichten müssen. Ein Gesetz, mit dem in Deutschland die erforderlichen
+Strukturen zur Durchsetzung der KI-VO geschaffen werden, insbesondere zuständige 
+Behörden benannt und mit ausreichenden finanziellen und personellen
+Ressourcen ausgestattet werden, liegt bisher noch nicht einmal in Form eines
+Regierungsentwurfes vor. Im Haushaltsentwurf 2026 sind dafür bisher keine Mittel 
+vorgesehen.
+Gleichzeitig will die Bundesregierung ausweislich ihres Koalitionsvertrages 
+(www.koalitionsvertrag2025.de/sites/www.koalitionsvertrag2025.de/files/koa
+v_2025.pdf) u. a. mit Hilfe von Künstlicher Intelligenz eine
+Verwaltungsrevolution schaffen (Zeilen 2258–2262). Der Einsatz Künstlicher Intelligenz soll 
+Effizienzpotentiale in der Verwaltung heben (Z. 1642), konkret sollen
+Sicherheitsbehörden für bestimmte Zwecke eine Befugnis zur Vornahme einer
+automatisierten (KI-basierten) Datenanalyse erhalten (Z. 2850 ff.), bei der
+Registermodernisierung und der Bereitstellung einer Deutschland-ID und der EUDI-
+Wallet soll umfassend KI genutzt werden (Z. 2166–2168), mit Künstlicher
+Intelligenz soll die Finanzverwaltung gestärkt werden (Z. 1530) und für Familien 
+sollen hilfreiche digitale Services bereit gestellt werden (Z. 3169). Der Einsatz 
+künstlicher Intelligenz soll auch in der Justiz (Z. 2030) sowie in der 
+Behandlungs- und Pflegedokumentation (Z. 3500) ermöglicht werden. Die 
+Bundesregierung will laut zwei Referentenentwürfen zur Stärkung digitaler
+Ermittlungsbefugnisse in der Polizeiarbeit sowohl den Einsatz von KI-Systemen 
+in der Ermittlungsarbeit als auch das Training solcher Systeme mit Echtdaten 
+für Bundespolizei und Bundeskriminalamt ermöglichen (https://netzpolitik.org/
+2025/gesichtserkennung-und-ki-innenminister-dobrindt-plant-neues-sicherheits
+paket/#2025-06-26_BMI_RefE_Staerkung-Digitale-Befugnisse-Polizei_Gese
+tz-1; https://netzpolitik.org/2025/gesichtserkennung-und-ki-innenminister-dobri
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+ndt-plant-neues-sicherheitspaket/#2025-06-26_BMI_RefE_Staerkung-Digitale-
+Befugnisse-Polizei_Gesetz-2).
+All dies sind grundrechtssensible Bereiche, in denen häufig hochsensible
+personenbezogene Daten von Bürger*innen verarbeitet werden, sowohl zum
+Training entsprechender Systeme als auch in der Anwendung. Die damit
+unterstützten staatlichen Entscheidungen können schwerwiegende Folgen für die
+betroffenen Personen haben. Entsprechend müssen solche KI-Systeme höchste
+Qualitätsanforderungen erfüllen und ihr Einsatz darf nur nach einer sorgfältigen
+Risiko–Nutzen–Bewertung erfolgen, bei der die betroffenen Grundrechte aller
+betroffenen Personen adäquat berücksichtigt wurden.
+Beim Einsatz von KI wird häufig fälschlicherweise davon ausgegangen, dass 
+technische Lösungen neutral und weniger fehleranfällig als menschliche
+Entscheidungsprozesse sind. Doch KI-Lösungen werden weder frei von
+partikularen Interessen entwickelt und eingesetzt, noch sind die genutzten Daten, mit 
+denen KI-Systeme vorweg bzw. fortlaufend trainiert werden, neutral, denn 
+diese Daten sind häufig geprägt von gesellschaftlichen Vorurteilen und
+Stereotypen (s. u. a. https://dl.acm.org/doi/pdf/10.1145/3415186). Wir wissen aus 
+diversen Beispielen und Untersuchungen, dass KI-Systeme regelmäßig die
+Diskriminierung ohnehin schon benachteiligter Gruppen verstärken und
+verfestigen (https://ai.hdm-stuttgart.de/downloads/student-white-paper/Winter-2223/Di
+skriminierende_KI.pdf; https://duepublico2.uni-due.de/servlets/MCRFileNode
+Servlet/duepublico_derivate_00083002/Bath_KI_und_Diskriminierung_UNIK
+ATE_62.pdf; www.bpb.de/lernen/bewegtbild-und-politische-bildung/556762/di
+skriminierung/). Frauen, Schwarze Menschen, queere Menschen, Menschen mit 
+Beeinträchtigungen und andere Gruppen werden systematisch von KI-
+Systemen benachteiligt.
+Der Einsatz von KI durch die Bundesverwaltung setzt höchste Standards in
+Bezug auf Antidiskriminierung und Nachvollziehbarkeit der
+Entscheidungsfindung voraus. Aufgrund des hohen Risikopotentials muss die Bundesverwaltung 
+im Rahmen der Risiko-Nutzen-Bewertung immer auch prüfen, ob es weniger 
+eingriffsintensive bzw. risikoärmere Alternativen gibt.
+Ein hohes Maß an Transparenz über Einsatz und Funktionsweise der
+eingesetzten KI-Systeme ist essenziell, weil ansonsten die Akzeptanz für diese
+Technologie nicht geschaffen werden kann und damit das Vertrauen in staatliche
+Institutionen insgesamt sinkt.
+Wie bereits mehrere Kleine Anfragen der Fraktion Die Linke bzw. der Gruppe 
+Die Linke im Bundestag in den Jahren 2022, 2023 und 2024 gezeigt haben, 
+(siehe Bundestagsdrucksache 20/12191, Bundestagsdrucksache 20/11648,
+Bundestagsdrucksache 20/8495, Bundestagsdrucksache 20/6862,
+Bundestagsdrucksache 20/9685, Bundestagsdrucksache 20/9419 und
+Bundestagsdrucksache 20/430), werden im Geschäftsbereich der Bundesregierung Methoden der 
+Künstlichen Intelligenz bereits seit Jahren eingesetzt.
+Die letzte Anfrage der Gruppe Die Linke im Bundestag im Januar 2024 ergab, 
+dass sich bereits über 200 KI-Anwendungen im Geschäftsbereich der
+Bundesregierung im Einsatz befinden (siehe Antwort der Bundesregierung auf
+Bundestagsdrucksache 20/12191), ohne dass die zahlreichen
+Handlungsempfehlungen für den öffentlichen Sektor des Abschlussberichts der Enquete-
+Kommission KI (siehe Bundestagsdrucksache 19/23700), der Datenethik-
+Kommission sowie der Plattform Lernende Systeme hinsichtlich der
+Entwicklung und Anwendung eines Risikoklassenmodells sowie weiterer
+Kritikalitätsbewertungen Anwendung fanden.
+Nach Auffassung der Fragestellenden verfestigt sich dadurch der
+Gesamteindruck, dass der KI-Einsatz im Geschäftsbereich der Bundesregierung ohne sys-
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+tematische Risikoabwägungen, Schutz vor Diskriminierung und Evaluation in 
+Bezug auf Effizienz, Grundrechtsschutz sowie etwaiger „Nebenwirkungen“
+erfolgt und die nötige Sorgfalt zum Schutz von Einzelnen oder Gruppen nicht 
+erbracht wird. Diese Entwicklung ist besonders beim Einsatz von Hochrisiko-
+Anwendungen besorgniserregend.
+Die Fragestellenden sind weiterhin der Auffassung, dass in der aktuellen
+Debatte rund um den Einsatz von KI der hohe Energieverbrauch für das Training 
+sowie den Betrieb von KI-Modellen insgesamt zu wenig öffentlich adressiert 
+wird – auch vonseiten der Bundesregierung. Dieser Aspekt gewinnt jedoch
+insbesondere dann an Bedeutung, wenn davon ausgegangen wird, dass KI-
+Anwendungen voraussichtlich in immer mehr Geschäftsbereichen der
+Bundesregierung Einzug halten werden.
+Der rapide wachsende Trend zu zunehmend komplexeren Maschine-Learning-
+Modellen sowie der wachsende Bedarf an Rechenleistung für das Training
+moderner KI-Systeme erfordert daher eine intensive Begleitung durch eine
+belastbare Datengrundlage, die den Ressourcenverbrauch veranschaulichen kann. 
+Diese Daten sind elementar für Kosten-Nutzen-Analysen sowie die
+Berücksichtigung von Klimaauswirkungen und den CO2-Abdruck der Bundesregierung.
+Bei der Nutzung eigener KI-Systeme oder KI-Anwendungen sollte die
+Bundesregierung daher als Vorbild fungieren, um mehr Transparenz und ein
+zusätzliches Bewusstsein für nachhaltiges maschinelles Lernen zu schaffen. Dies 
+könnte beispielsweise durch die Einführung verpflichtender Herstellerangaben 
+zum Energieverbrauch und den Treibhausgasemissionen während der
+Entwicklung und Anwendung von KI-Modellen erfolgen. Diese Angaben sollten als 
+verpflichtendes Kriterium bei der Beschaffung von KI-Systemen und
+Anwendungen berücksichtigt werden und ein selbstverständliches und überprüftes 
+Kriterium bei der Vergabe von Fördermitteln für KI-Projekte sein.
+Wir fragen die Bundesregierung:
+ 1. Welche Bundesministerien (inklusive Bundeskanzleramt sowie
+nachgeordnete Behörden) setzen aktuell auf (teil-)automatisierte
+Entscheidungsprozesse und Mustererkennungen sowie Künstliche Intelligenz (inklusive 
+generativer KI) und in welchen dortigen Abteilungen kommen diese
+konkret und wofür zur Anwendung (bitte die Antworten auf alle Fragen zum 
+besseren Verständnis jeweils für jedes Bundesministerium inklusive
+Bundeskanzleramt sowie nachgeordneten Behörden separat nach
+Geschäftsbereich aufführen, wie in Bundestagsdrucksache 20/12191)?
+a) In welchen Bundesministerien (inklusive Bundeskanzleramt sowie
+jeweils nachgeordnete Behörden) und wofür findet der Einsatz mit 
+einem oder mehreren der besagten Verfahren statt und wo sowie wofür 
+ist der Einsatz zukünftig geplant?
+b) Welche Verfahren kommen dabei jeweils zum Einsatz?
+c) Welches Problem soll das jeweilige Verfahren lösen?
+d) Inwiefern wurden bei der jeweiligen Wahl des jeweiligen Verfahrens 
+die Kosten ins Verhältnis zum jeweiligen Einsatzzweck gesetzt und 
+abgewogen?
+e) Inwiefern wurden bei der jeweiligen Wahl des jeweiligen Verfahrens 
+alternative Lösungen in Betracht gezogen, die nicht mit den genannten 
+KI-spezifischen Diskriminierungsrisiken behaftet sind?
+f) Inwiefern wurde bei der Wahl des Systems geprüft, ob bereits an
+anderer Stelle in der Bundesverwaltung eingesetzte Systeme nachgenutzt 
+werden können?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+g) Welche Art von Ergebnissen wird von o. g. Systemen bzw.
+Anwendungen produziert (breit interpretiert, aber z. B. Entscheidung,
+Entscheidungsvorschlag/Empfehlung, Bewertung z. B. von Risiken,
+Mustererkennung, etc.) und werden etwaige Entscheidungen
+vollautomatisiert oder durch einen Menschen getroffen (bitte nach Anwendung 
+bzw. System in jeweiligen Abteilungen in Ministerien, inklusive
+Bundeskanzleramt sowie nachgeordneten Behörden auflisten)?
+h) Auf welcher Datenbasis werden dabei jeweils welche Ergebnisse
+produziert, bzw. auf Grundlage welcher Daten werden besagte
+Anwendungen trainiert?
+i) Sind die Systeme bzw. Anwendungen intern oder extern entwickelt 
+und trainiert worden (bitte nach System bzw. Anwendung,
+Auftraggeber, Auftragnehmer, Jahr sowie Kosten und Umfang der Leistung
+aufschlüsseln), falls extern, wurden die genannten Systeme bzw.
+Anwendungen ausgeschrieben (wenn nein, bitte begründen)?
+j) Wurden die Daten für die im Einsatz befindlichen automatisierten
+Entscheidungsprozesse, Mustererkennungen und/oder Künstliche
+Intelligenz (KI) unter Berücksichtigung der gesetzlichen Zweckbindung
+erhoben, sofern eine rechtliche Zweckbindung erforderlich ist und falls 
+nicht, aus welcher oder welchen anderen Quellen stammen die Daten?
+k) Wie wurde in Hinblick auf die Zweckbestimmung der sich im Einsatz 
+befindlichen automatisierten Entscheidungsprozesse,
+Mustererkennungen und bzw. oder Künstliche Intelligenz sichergestellt, dass die
+zugrunde gelegten Daten relevant, hinreichend repräsentativ und so weit 
+wie möglich fehlerfrei und vollständig sind?
+l) Inwieweit werden oder wurden beim Training des genutzten Systems 
+personenbezogene Daten verwendet, und wie kontrolliert die
+Bundesregierung eine rechtmäßige Verarbeitung dieser Daten bei der
+Auswahl von KI-Systemen?
+m) Inwieweit werden oder wurden beim Training des genutzten Systems 
+urheberrechtlich geschützte Materialien oder Daten verwendet, und 
+wie kontrolliert die Bundesregierung eine rechtmäßige Verwendung 
+von urheberrechtlich geschützten Materialien oder Daten bei der
+Auswahl von KI-Systemen?
+n) Inwieweit werden oder wurden beim Training des genutzten Systems 
+lokal angemessene (Mindest-) Löhne gezahlt sowie notwendige
+Arbeitsschutzmaßnahmen eingehalten und wie wird dies bei der Auswahl 
+von KI-Systemen von der Bundesregierung kontrolliert?
+o) Wie wurden die Entscheidenden über die oben genannten Systeme
+sowie Anwender*innen geschult, um das jeweilige System auswählen, 
+bewerten und anwenden zu können?
+Welche Kompetenzen werden hierfür vorausgesetzt?
+p) Wie wurden die Nutzenden der oben genannten Systeme bzw.
+Anwendungen geschult, um das System auswählen, bewerten und anwenden 
+zu können?
+q) Inwiefern wird der Energieverbrauch und/oder andere
+Nachhaltigkeitskriterien bei der Auswahl der oben genannten Systeme bzw.
+Anwendungen erfasst und in welchen Fällen werden derartige Kriterien 
+verpflichtend berücksichtigt (bitte jedes oben genannten System bzw. 
+für jede Anwendung die einzelnen Nachhaltigkeitskriterien nennen 
+und jeweils explizit angeben, wenn keine derartigen Kriterien erfasst 
+bzw. berücksichtigt wurden)?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+ 2. Wie wurden Risiken beim Einsatz der in Frage 1 abgefragten KI-
+Anwendungen bewertet, insbesondere:
+a) Für welche der KI-Anwendungen gilt die KI-Verordnung aus Sicht der 
+Bundesregierung (soweit KI-Verordnung nicht gilt, bitte Gründe
+angeben)?
+b) Soweit die KI-Verordnung auf die KI-Anwendungen Anwendung
+findet, in welche Risikoklasse nach der KI-Verordnung ordnet die
+Bundesregierung die jeweilige KI-Anwendung ein?
+c) Mit welchem weiteren Risikoklassenmodell bewertet die
+Bundesregierung darüber hinaus Risiken von KI-Anwendungen, insbesondere bei 
+solchen, die nicht von der KI-Verordnung erfasst werden (bitte das 
+verwendete Modell explizit benennen und eine Beschreibung
+beifügen)?
+d) Welche Klassifizierung wurde entsprechend dem verwendeten
+Risikoklassenmodell für das System vorgenommen?
+e) Falls zutreffend: welche andere Art der Technikfolgenabschätzung 
+wurde mit welchem Ergebnis vorgenommen?
+f) Falls kein Risikoklassenmodell verwendet und keine Klassifizierung 
+und/oder keine Technikfolgenabschätzung vorgenommen wurde, bitte 
+explizit begründen, wieso nicht?
+g) Haben Risikobewertungen zu einer Anpassung des geplanten
+Einsatzes oder zum Nicht-Einsatz von KI-Anwendungen im Bereich der 
+Bundesbehörden geführt, (wenn ja, bitte die Fälle kurz beschreiben?
+h) In welcher Weise und nach welchem Prozess werden Informationen 
+und Daten zu Risikobewertungen von KI-Modellen durch
+Bundesbehörden und ihre jeweiligen Ergebnisse so dokumentiert, dass die
+Erkenntnisse auch anderen zur Verfügung stehen?
+i) Wie wurde das Risiko untersucht und bewertet, dass die jeweilige KI-
+Anwendung zur Diskriminierung von einzelnen Gruppen, wie z. B. 
+Frauen, Schwarzen Menschen, Menschen mit Beeinträchtigung, armen 
+Menschen und anderen beitragen könnte?
+j) Welche Maßnahmen ergreift die Bundesregierung jeweils konkret, um 
+die Risiken der Diskriminierung soweit möglich zu minimieren?
+ 3. In welchen obersten Bundesbehörden existieren Dienstanweisungen und 
+Handreichungen zum Einsatz von KI, und was ist jeweils der zentrale
+Regelungsgehalt der Dienstanweisungen bzw. Gegenstand der
+Handreichungen?
+ 4. Welche KI-Anwendungen wurden seit Inkrafttreten der KI-Verordnung 
+am 1. August 2024 beendet oder deren Entwicklung oder Pilotierung
+gestoppt, weil sie verbotene Praktiken gemäß Artikel 5 KI-VO darstellten?
+ 5. Wie und in welchen Anwendungen finden Evaluierungen der 
+algorithmen-basierten Entscheidungen, automatisierten
+Mustererkennungen und KI (inklusive generativer KI) statt (bitte nach Bundesministerien 
+und nachgelagerten Behörden, Angabe zur Evaluierung bzw.
+Evaluationsergebnis in wesentlichen Punkten sowie Angabe zur Veröffentlichung
+tabellarisch aufschlüsseln, siehe Bundestagsdrucksache 20/12191)?
+a) Wer hat die Evaluierung durchgeführt?
+b) Welche Aspekte wurden evaluiert und welche Kriterien wurden dabei 
+angelegt?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+c) Wurde oder wird das vollständige Ergebnis der Evaluierung
+veröffentlicht, und wenn ja, wo ist es zu finden?
+d) Falls keine Evaluierung durchgeführt wird, warum nicht (bitte
+ausführlich begründen)?
+ 6. Wie plant die Bundesregierung ein ausreichendes Niveau an KI-
+Kompetenz gemäß Artikel 4 KI-VO bei allen Mitarbeitenden, die mit dem 
+Betrieb und der Nutzung von KI‑Systemen befasst sind, sicherzustellen?
+Welche Kompetenzen sind aus Sicht der Bundesregierung hier jeweils 
+aufzubauen?
+ 7. An welchen weiteren Forschungsvorhaben, Pilotprojekten und
+Reallaboren zur Thematik (teil-)automatisierter Entscheidungsprozesse sowie
+automatisierter Mustererkennungen und KI (inklusive generativer KI)
+beteiligen sich die Bundesministerien (inklusive Bundeskanzleramt und
+nachgeordnete Behörden) bzw. initiieren oder unterstützen diese seit dem 1.
+Januar 2024 (bitte tabellarisch aufschlüsseln für jedes Bundesministerium, 
+inklusive Bundeskanzleramt sowie nachgeordneten Behörden, nach
+Forschungsvorhaben, Pilotprojekt und bzw. oder Reallabor, Kosten und
+Gesamtkosten sowie Jahr (Beginn und Ende), wie in Bundestagsdrucksache 
+20/430), und inwiefern sind Nachhaltigkeitskriterien und
+Nachhaltigkeitsinformationen wie die Abschätzung und Dokumentierung möglicher 
+schädlicher Klimawirkungen durch den Einsatz von KI eine verbindliche 
+Förderbedingung?
+ 8. Welche Haushaltsmittel stehen im Jahr 2025 für die Förderung und den 
+Einsatz von KI (bitte aufgeschlüsselt je Ressort die Gesamtsumme
+verfügbarer Fördermittel und die Gesamtsumme verfügbarer Mittel für den
+Einsatz von bzw. für Bundesbehörden angeben) zur Verfügung?
+ 9. Welche Mittel dieser Gesamtsumme sind zum Zeitpunkt der Anfrage seit 
+dem 1. Januar 2025 hierfür schon abgeflossen (bitte aufgeschlüsselt je 
+Ressort die Gesamtsumme verfügbarer Fördermittel und die
+Gesamtsumme verfügbarer Mittel für den Einsatz von bzw. für Bundesbehörden
+angeben)?
+10. Mit welchen Programmen und Mitteln fördern das BMG, das BMI, das 
+BMFTR sowie das BMDS KI-Projekte, -Pilotprojekte, -Einsätze oder
+Einsatzplanungen (inklusive generativer KI) in den Ländern (inklusive
+Kommunen) seit dem 1. April 2024 (bitte nach Programm, bzw. Maßnahme, 
+Fördermittelumfang sowie Bundesland auflisten)?
+11. Hält die Bundesregierung an der bestehenden Strategie Künstliche
+Intelligenz (www.bundeswirtschaftsministerium.de/Redaktion/DE/Publikatione
+n/Technologie/strategie-kuenstliche-intelligenz-fortschreibung-2020.pdf
+?__blob=publicationFile&v=1) fest oder plant sie aktuell eine Anpassung 
+oder Fortschreibung und wie ist in diesem Fall der Arbeitsstand?
+12. Wie lautet der aktuelle Umsetzungsstand der Bundesregierung hinsichtlich 
+Einrichtungen, die den Einsatz von KI in der Verwaltung unterstützen
+sollen, (bitte jeweils Stand beschreiben, bereits eingesetzte und im Jahr 2025 
+oder darüber hinaus verfügbare Ressourcen nach dem aktuellen
+Haushaltsentwurf der Bundesregierung für 2026 unterteilt nach Stellen und 
+Haushaltsmitteln angeben, die Governance bzw. Organisationsstruktur
+beschreiben – was genau wird dort konkret aufgebaut, z. B. eine Web-
+Plattform, ein Referat, eine eigenständige Behörde und wer ist konkret
+zuständig bzw. hat die Federführung inne (soweit sich die Zuständigkeit im 
+Rahmen neuer Ministerialzuschnitte ändert, bitte angeben)),
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+a) hinsichtlich des Beratungs- und Evaluierungszentrums für Künstliche 
+Intelligenz (Arbeitstitel „BeKI“) (siehe Frage 43 der Abgeordneten 
+Anke Domscheit-Berg auf Bundestagsdrucksache 20/13684)?
+b) hinsichtlich der Algorithmenbewertungsstelle für Behörden und
+Organisationen mit Sicherheitsaufgaben (Projekt „ABOS“, siehe Antwort 
+der Bundesregierung auf Frage 83 der Abgeordneten Anke 
+Domscheit-Berg auf Bundestagsdrucksache 20/1355 bzw.
+Bundestagsdrucksache 20/3020)?
+c) hinsichtlich der vom ITZ-Bund betreuten KI-Plattform für die
+Bundesverwaltung (KIPITZ)?
+d) hinsichtlich des in der Datenstrategie angekündigten Aufbaus eines 
+KI-Kompetenzzentrums für die öffentliche Verwaltung?
+13. Plant die Bundesregierung weitere zentrale Einrichtungen, die sich mit 
+dem Einsatz von KI-Anwendungen in der Bundesverwaltung beschäftigen 
+sollen? Wenn ja, welche mit welchen Aufgaben (bitte die in Frage 12
+abgefragten Angaben für jede dieser Einrichtungen ergänzen)?
+14. Wie lautet der aktuelle Stand der Test- bzw. Untersuchungsphase, in der 
+KI-Potenziale im Bereich der obersten Bundesbehörden geprüft werden 
+sollen und deren Bestandteil auch explizit die Entwicklung passender
+Risikoklassenmodelle ist (s. Antwort der Bundesregierung auf Frage 9 auf 
+Bundestagdrucksache 20/3020 vom August 2022 und gleichlautende
+Antwort auf Frage 9 auf Bundestagsdrucksache 20/6862 vom Mai 2023)?
+a) Was hat die Prüfung der KI-Potenziale im Bereich der obersten
+Bundesbehörde in den vergangenen zwei Jahren ergeben?
+Gibt es Prüfberichte, und wenn ja, sind sie öffentlich verfügbar bzw. 
+können sie den Fragestellenden zur Verfügung gestellt werden?
+b) Wer ist innerhalb der Bundesregierung verantwortlich für die
+Entwicklung passender Risikoklassenmodelle und wie erfolgt die
+behördenübergreifende Koordinierung der Prüfung der KI-Potenziale?
+c) Was ist der Zeitplan für die Prüfung der KI-Potenziale für den Bund?
+Wann soll diese Prüfung abgeschlossen sein und gibt es Meilensteine 
+bis dahin?
+d) Welche Zwischenergebnisse zur Entwicklung passender
+Risikomodelle gibt es seit der ersten Antwort der Bundesregierung aus dem Jahr 
+2022?
+Wurden verschiedene Modelle entwickelt und/oder getestet und wenn 
+ja, mit welchem Ergebnis und bei welchen Vorhaben?
+e) Ab wann wird bzw. werden ein (oder mehrere) Risikoklassenmodelle 
+für den Einsatz von KI in Bundesbehörden zur Verfügung stehen?
+Wird die Anwendung eines Risikoklassenmodells vor dem Einsatz 
+neuer KI-Systeme verpflichtend sein?
+15. Zu welchem Ergebnis ist die Bundesregierung bei der Evaluation etwaiger 
+Auswirkungen der gesetzlichen Risikoklassifizierung für den KI-Einsatz 
+in der Bundesverwaltung gekommen (siehe Antwort der Bundesregierung 
+auf Frage Nr. 11 auf Bundestagsdrucksache 20/12191)?
+16. Plant die Bundesregierung, ggf. auf Basis des derzeit freiwilligen KI-
+Transparenzregisters (https://maki.beki.bund.de/a/bmi-makimo-app/tab
+elle), im Sinne transparenten Verwaltungshandelns die Einrichtung eines 
+vollständigen, verpflichtend zu führenden KI-Registers für KI-
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+Anwendungen im staatlichen Einsatz, z. B. entsprechend dem Vorschlag 
+von Algorithmewatch e. V. (https://algorithmwatch.org/de/ki-transparenzr
+egister-dtl/)
+a) bundesweit und für jeglichen KI-Einsatz durch staatliche Stellen, also 
+auch für andere föderale Ebenen?
+b) nur für den KI-Einsatz im Auftrag des Bundes bzw. bei und durch 
+Bundesbehörden?
+c) weder noch (bitte begründen, warum kein KI-Register geplant ist)?
+17. Wie stellt die Bundesregierung sicher, dass es nicht zu Parallel- und
+Doppelentwicklungen von KI-Anwendungen in verschiedenen
+Geschäftsbereichen kommt, und dass jede Entwicklung von KI-Anwendungen der
+gesamten Bundesverwaltung zur Nachnutzung zur Verfügung gestellt wird?
+18. Wie ist der Umsetzungsstand hinsichtlich des Beschlusses des IT-
+Planungsrates vom 13. November 2024, den KI-Marktplatz auch für die 
+Länder pilotweit zu öffnen?
+Hat die Bundesregierung die erforderlichen Zugänge in Q1 2025
+bereitgestellt (wenn nein, bitte begründen)?
+19. Welchen Zeitplan hat die Bundesregierung für die Verabschiedung eines 
+Gesetzes zur Umsetzung der KI-Verordnung und den Aufbau
+entsprechender Aufsichtsstrukturen?
+Wie ist der aktuelle Arbeitsstand?
+20. Hat die Bundesregierung bis zum 2. August 2025 der EU-Kommission 
+eine Bericht gemäß Artikel 70 Absatz 6 KI-Verordnung übermittelt und 
+welchen Inhalt hatte dieser Bericht?
+Berlin, den 7. Oktober 2025
+Heidi Reichinnek, Sören Pellmann und Fraktion
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.

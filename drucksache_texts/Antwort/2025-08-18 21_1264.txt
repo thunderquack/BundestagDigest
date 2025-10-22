@@ -1,0 +1,215 @@
+Deutscher Bundestag Drucksache 21/1264
+21. Wahlperiode 18.08.2025
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Ruben Rupp, Robin Jünger, Alexander 
+Arpaschi, Sebastian Maack, Tobias Ebenberger, Lars Haise, Edgar Naujok, 
+Steffen Janich und der Fraktion der AfD
+– Drucksache 21/940 –
+Zur Abhängigkeit deutscher Unternehmen von den Clouddiensten ausländischer 
+Anbieter
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Der Branchenverband Bitkom hat Anfang Juni 2025 seinen „Cloud Report 
+2025“ vorgestellt. Für diese Erhebung wurden nach Darstellung des Verbandes 
+gut 600 Unternehmen in Deutschland mit mehr als 20 Beschäftigen befragt 
+(hierzu und im Folgenden www.bitkom.org/Presse/Presseinformation/Wirtsch
+aft-ruft-nach-deutscher-Cloud). Demnach sind drei von vier Unternehmen der 
+Auffassung, dass die deutsche Wirtschaft zu abhängig sei von den Diensten 
+sogenannter Hyperscaler aus den USA. Die Unternehmen Amazon, Google 
+und Microsoft dominieren seit Jahren den globalen Markt (de.statista.com/stat
+istik/daten/studie/150979/umfrage/marktanteile-der-fuehrenden-
+unternehmenim-bereich-cloud-computing/) und sind auch in Deutschland überaus präsent.
+Neun von zehn der befragten Unternehmen nutzen generell Clouddienste, sie 
+lagern also ihre Daten teilweise aus und lassen sie von externen Unternehmen 
+speichern und verarbeiten (siehe www.bitkom.org/Presse/Presseinformation/
+Wirtschaft-ruft-nach-deutscher-Cloud). Seit dem Beginn der zweiten
+Amtsperiode von Donald Trump als Präsident der Vereinigten Staaten von Amerika 
+im Januar dieses Jahres sähen sich demnach rund 50 Prozent der befragten 
+Unternehmen gezwungen, ihre bisherige Cloudstrategie, wozu zentral die 
+Wahl eines vertrauenswürdigen Anbieters zählt, zu überdenken. Neben dem 
+Preis und der Funktionalität würde immer wieder das Kriterium der Sicherheit 
+der Daten genannt, wenn es um einen möglichen Anbieterwechsel geht (ebd.). 
+Die ist gerade bei den genannten US-Unternehmen nicht grundsätzlich
+gegeben, sind diese doch durch den Clarifying Lawful Overseas Use of Data Act 
+(CLOUD Act) der US-Regierung von 2018 verpflichtet, die auch im Ausland 
+verarbeiteten Kundendaten auf Anfrage den Sicherheitsbehörden zur
+Verfügung zu stellen, ohne dass es dafür eines richterlichen Beschlusses bedürfte 
+(vgl. Die europäische Cloudlücke, in: Frankfurter Allgemeine Zeitung, 13.
+Juni 2025, S. 22).
+Die Nachfrage der Nutzung von Clouddiensten wird nach Ansicht des Bitkom 
+in den kommenden Jahren weiter zunehmen, zu den Treibern dieser
+Entwicklung zählen die emergenten Anwendungen Künstlicher Intelligenz (KI).
+Derzeit werden allein in Deutschland auf dem Cloudmarkt rund 30 Mrd. Euro 
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Digitales und
+Staatsmodernisierung vom 15. August 2025 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+jährlich umgesetzt (vgl. Raus aus der US-Cloud, in: Frankfurter Allgemeine 
+Zeitung, 12. Juni 2025, S. 22). Von einer digitalen Souveränität Deutschlands 
+könne derzeit keine Rede sein, so der Bitkom-Präsident (ebd.).
+Der Bitkom-Präsident führt weiter aus: „Deutschland muss sich aus
+einseitigen Abhängigkeiten lösen, auch bei digitaler Infrastruktur. Das wird eine
+zentrale Aufgabe der neuen Bundesregierung sein“ (www.bitkom.org/Presse/Pres
+seinformation/Wirtschaft-ruft-nach-deutscher-Cloud).
+Die Bundesregierung und die sie tragenden Parteien äußern sich bislang eher 
+allgemein, wenn es um die Cloudnutzung und den perspektivischen Ausbau 
+der damit einhergehenden Recheninfrastruktur geht: „Wir etablieren
+Deutschland als KI-Nation. Das bedeutet massive Investitionen in die Cloud- und KI-
+Infrastruktur sowie in die Verbindung von KI und Robotik“ (www.koalitionsv
+ertrag2025.de/sites/www.koalitionsvertrag2025.de/files/koav_2025.pdf, hier 
+S. 4). Das neu geschaffene Bundesministerium für Digitales und
+Staatsmodernisierung (BMDS) setzt ebenfalls allgemein „auf den Ausbau einer
+leistungsfähigen deutschen Cloud-Infrastruktur“ (bmds.bund.de/themen/digitale-souver
+aenitaet).
+1. Sieht es die Bundesregierung als Teil ihrer Aufgaben an, Deutschland und 
+seine Unternehmen aus möglichen Abhängigkeiten bei der digitalen
+Infrastruktur zu lösen (siehe Vorbemerkung der Fragesteller)?
+a) Wenn ja, unter welchen Umständen ist für die Bundesregierung ggf. 
+eine Abhängigkeit bei der digitalen Infrastruktur gegeben?
+b) Wenn ja, welche Maßnahmen erscheinen der Bundesregierung als
+geeignet, eine mögliche Abhängigkeit aufzuheben beziehungsweise zu 
+reduzieren?
+4. Mit welcher Arbeitsdefinition des Begriffes „digitale Souveränität“
+arbeitet die Bundesregierung (vgl. Koalitionsvertrag zwischen CDU, CSU und 
+SPD, S. 70)?
+a) Ist die Bundesrepublik Deutschland anhand dieser Definition in den 
+Augen der Bundesregierung gegenwärtig digital souverän?
+b) Welche Maßnahmen ergreift die Bundesregierung, um die digitale 
+Souveränität Deutschlands zu erreichen beziehungsweise zu erhalten 
+(bitte ausführen)?
+5. Welche finanziellen, administrativen, organisatorischen Maßnahmen plant 
+die Bundesregierung zum „Ausbau einer leistungsfähigen deutschen 
+Cloud-Infrastruktur“ (siehe Vorbemerkung der Fragesteller), und wie 
+lange wird ein solcher Ausbau nach Einschätzung der Bundesregierung 
+dauern (bitte ausführen)?
+Die Fragen 1 bis 1b, 4 bis 4b und 5 werden aufgrund des Sachzusammenhangs 
+gemeinsam beantwortet.
+Die Stärkung der digitalen Souveränität Deutschlands und Europas, gerade 
+auch im Bereich der digitalen Infrastruktur, ist ein Kernanliegen des
+Koalitionsvertrags und der Bundesregierung.
+Gemäß Beschluss Nr. 2020/19 des IT-Planungsrats beschreibt digitale
+Souveränität „die Fähigkeiten und Möglichkeiten von Individuen und Institutionen, ihre 
+Rolle(n) in der digitalen Welt selbstständig, selbstbestimmt und sicher ausüben 
+zu können“. An einer Überprüfung und, falls sinnvoll, Aktualisierung und
+Präzisierung der aktuell geltenden Definition wird derzeit gearbeitet.
+Da diese Definition eine Reihe von Akteuren und unterschiedliche
+Technikbereiche und Sektoren betrifft, lässt sich nicht pauschal beantworten, ob die
+Bundesrepublik Deutschland digital souverän ist.
+Nach Einschätzung der Bundesregierung gibt es einige Technologiebereiche, in 
+denen Deutschland von einzelnen ausländischen Anbietern abhängig ist, etwa 
+bei Cloud-Infrastruktur, Betriebssystemen und Netzwerktechnik. Dies will die 
+Bundesregierung reduzieren und europäischen Unternehmen die Chance geben, 
+sich stärker im Wettbewerb um sichere und leistungsstarke Infrastrukturen zu 
+positionieren.
+Für das Haushaltsjahr 2025 sind folgende Maßnahmen, Projekte und
+Investitionen vorgesehen bzw. bereits beauftragt, die zur Stärkung der digitalen
+Souveränität geeignet sind:
+– Weiterentwicklung und Etablierung von openDesk;
+– Grundbetrieb der Plattform openCode;
+– Proof of Concept zur Integration der Deutschen Verwaltungscloud in open-
+Code;
+– Mitgliedschaft Deutschlands im geplanten Digital Commons EDIC (unter 
+Voraussetzung der Zustimmung der EU-KOM zur Gründung des DC-
+EDIC);
+– Fortgeführte Finanzierung der Arbeit der Sovereign Tech Agency,
+einschließlich Bug-Resilience-Projekt;
+– Fortführung der Fördermaßnahme IPCEI-CIS (IPCEI Next Generation 
+Cloud Infrastructure and Services) und Unterstützung der aus dem IPCEI-
+CIS hervorgegangenen 8ra Initiative.
+2. Sieht es die Bundesregierung als Problem an, dass der deutsche Markt für 
+Cloudlösungen für Unternehmen seit Jahren von wenigen US-Konzernen 
+dominiert wird (siehe Vorbemerkung der Fragesteller), wenn ja, warum 
+genau, und wenn nein, warum nicht (bitte ausführen)?
+Die Bundesregierung ist sich bewusst, dass auf dem deutschen (wie auch dem 
+europäischen) Markt für Cloudlösungen einige US-Konzerne (sog.
+„Hyperscaler“) hohe Marktanteile verzeichnen. Daraus ergeben sich auch Abhängigkeiten 
+von diesen Anbietern. Einseitige Abhängigkeiten bringen Risiken mit sich.
+Daher sieht es die Bundesregierung als ihre Aufgabe an, diese Risiken zu
+adressieren und u vermeiden.
+3. In welcher Höhe und über welchen Zeitraum werden sich die „massive[n] 
+Investitionen in die Cloud- und KI-Infrastruktur“, die die Bundesregierung 
+angekündigt hat, bewegen (siehe Vorbemerkung der Fragesteller), zu
+welchen Teilen werden diese Investitionen aus dem Kernhaushalt finanziert 
+werden, und zu welchen Teilen aus dem ausgangs der 20. Legislatur durch 
+eine Änderung des Grundgesetzes ermöglichten sogenannten
+Sondervermögen (vgl. www.deutschlandfunk.de/deutschland-bundeswehr-infrastruk
+tur-schuldenbremse-sondervermoegen-102.html)?
+Im Zuständigkeitsbereich des Bundesministeriums für Forschung, Technologie 
+und Raumfahrt (BMFTR) erfolgen Investitionen in die KI-Recheninfrastruktur 
+im Rahmen der KI-Servicezentren, der Initiative der AI Factories sowie des 
+Ausbaus des Hoch- und Höchstleistungsrechnens. Diese erfolgen aus dem 
+Kernhaushalt. Die Mittel für zukünftige Investitionen des BMFTR in KI-
+Infrastruktur werden im Rahmen des laufenden, noch nicht abgeschlossenen
+Haushaltsaufstellungsverfahrens festgelegt.
+Durch das Bundesministerium für Wirtschaft und Energie wird zudem aktuell 
+ein „Important Project of Common European Interest“ für Edge Compute
+Infrastruktur (IPCEI-ECI) vorbereitet. Hierfür sollen, vorbehaltlich des laufenden 
+Haushaltsaufstellungsverfahrens, im Rahmen des Sondervermögens
+Infrastruktur und Klimaschutz Haushaltsmittel bereitgestellt werden.
+Projektbewilligungen werden überwiegend 2027 erfolgen.
+Neben den bereits genannten Maßnahmen wird die Bundesregierung die
+Förderung im Rahmen des IPCEI Cloud fortsetzen. In diesem werden hochinnovative 
+Softwarelösungen für Cloud-Architekturen entwickelt und weitgehend als Free 
+Open Source zur Verfügung gestellt. Die Projekte laufen überwiegend bis 2027.
+6. Nutzt die Bundesregierung oder eine ihr nachgeordnete Behörde
+Clouddienste der großen Hyperscaler aus den USA (siehe Vorbemerkung der 
+Fragesteller), und wenn ja, um welche Bundesministerien und oder
+Behörden handelt es sich?
+Es wird auf die Antwort der Bundesregierung auf Bundestagdrucksache 
+20/15138 Anlage 8 verwiesen, aus der sich Nutzungen von Clouddiensten der 
+Bundesministerien und einzelner nachgeordneter Behörden in den
+Geschäftsbereichen ergeben.
+Zudem bestehen von Seiten des Beschaffungsamtes vier
+Rahmenvereinbarungen, aus denen Clouddienste von Amazon, Google und Microsoft bezogen
+werden können. Drei dieser Vereinbarungen sind zum 1. Juli 2025 gestartet; daher 
+liegen der Bundesregierung derzeit keine Informationen zu etwaigen Abrufen 
+vor. Aus der vierten Rahmenvereinbarung haben bislang das ITZ Bund und die 
+Deutsche Rentenversicherung Bund Leistungen abgerufen.
+7. Liegen der Bundesregierung Informationen darüber vor, ob Daten
+deutscher Unternehmen, die auf deutschen Speicherplätzen US-amerikanischer 
+Unternehmen liegen beziehungsweise lagen, unter Bezug auf den CLOUD 
+Act den US-Sicherheitsbehörden zur Verfügung gestellt wurden (siehe 
+Vorbemerkung der Fragesteller), und wenn ja, welche?
+a) Wenn ja, um welche (oder welches) Unternehmen handelt es sich
+dabei?
+b) Wenn ja, zu welchem Zeitpunkt geschah die Weitergabe der genannten 
+Daten an die US-Sicherheitsbehörden?
+c) Wenn ja, wie schätzt die Bundesregierung den möglichen Schaden 
+ein?
+d) Wenn ja, wie kommt die Bundesregierung an diese Information?
+Die Fragen 7 bis 7d werden gemeinsam beantwortet.
+Der Bundesregierung liegen keine diesbezüglichen Informationen vor.
+8. Ist die Bundesregierung der Auffassung, dass die auch in Deutschland
+angebotenen und von deutschen Unternehmen genutzten Clouddienste US-
+amerikanischer Unternehmen, die prinzipiell dem CLOUD Act der US-
+Regierung verpflichtet sind (vgl. www.ionos.de/digitalguide/websites/onli
+ne-recht/cloud-act/), mit dem erklärten Ziel einer digitalen Souveränität 
+Deutschlands vereinbar sind (bitte begründen)?
+Die Frage nach digitaler Souveränität ist, entsprechend der oben genannten 
+Definition, eine komplexe Entscheidung im Einzelfall, die sich nicht mit Blick 
+auf einzelne Faktoren bejahen oder verneinen lässt. Aus Sicht der
+Bundesregierung sollte jedoch eine Zugriffsmöglichkeit einer Regierung aus dem Nicht-
+EU-Ausland, sofern eine solche tatsächlich vorliegen sollte, in der
+Gesamtbewertung eines Angebots als ein Faktor betrachtet werden, der der digitalen
+Souveränität nicht zuträglich ist.
+9. Betrachtet die Bundesregierung die Clouddienste, die deutsche
+Unternehmen zum Speichern und Verarbeiten ihrer Daten nutzen, als Teil der
+kritischen Infrastruktur (bitte begründen)?
+Gemäß Anhang 4 Teil 3 der BSI-Kritisverordnung gelten im Sektor
+Informationstechnik und Telekommunikation unter anderem Rechenzentren (Nr. 2.1.1) 
+sowie Serverfarmen (Nr. 2.2.1) als kritischer Anlagen, sofern sie die für die
+Anlagenkategorie jeweils maßgeblichen Versorgungsschwellenwert überschreiten. 
+Von diesen Anlagenkategorien können grundsätzlich auch Clouddienste erfasst 
+werden.
+Für alle derzeit nach der BSI-KritisV regulierten Unternehmen gilt, dass diese 
+verpflichtet sind, einen Rahmen zu schaffen, der Risiken für die
+Informationssicherheit erkennt, bewertet und minimiert. Dies schließt regelmäßige
+Überprüfungen der eigenen Systeme und Prozesse ein und auch die Abhängigkeit von 
+Dienstleistern, wie z. B. Cloud-Anbietern.
+Mit der Verordnung EU 2022/2555 (NIS-2) und dem zugehörigen
+Durchführungsrechtsakt für „Anbieter Digitale Dienste (hierzu gehören auch Anbieter 
+von Cloud-Computing-Diensten)“ hat die Kommission die Vorschriften für
+Unternehmen konkretisiert und verschärft. Im Rahmen der nationalen Umsetzung 
+der NIS2 werden diese Anforderungen ebenfalls in Deutschland implementiert.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

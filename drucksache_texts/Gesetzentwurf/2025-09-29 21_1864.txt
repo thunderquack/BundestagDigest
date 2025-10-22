@@ -1,0 +1,1387 @@
+Deutscher Bundestag Drucksache 21/1864 
+21. Wahlperiode 29.09.2025 
+Gesetzentwurf 
+der Bundesregierung 
+Entwurf eines Gesetzes zur Anpassung nationaler Rechtsvorschriften an die 
+europäische Systematik der Wirtschaftszweige NACE Revision 2.1 
+A. Problem und Ziel 
+Aufgabe der amtlichen Statistik ist es, Informationen in übersichtlicher, d. h. im 
+Allgemeinen in zusammengefasster Form darzustellen. Zuverlässige und
+vergleichbare Statistiken können nur dann erstellt und den Nutzerinnen und Nutzern 
+zur Verfügung gestellt werden, wenn es gemeinsame statistische Normen gibt.  
+Die NACE* ist die „Statistische Systematik der Wirtschaftszweige in der
+Europäischen Gemeinschaft“ und Gegenstand einer Rechtsvorschrift auf Ebene der
+Europäischen Union, die die allgemeine Anwendung der Systematik in allen
+Mitgliedstaaten zur Pflicht macht. Die zuvor geltende Version NACE Revision 2 
+wurde zuletzt 2006 durch die Verordnung (EG) Nr. 1893/2006 des Europäischen 
+Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der
+statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der 
+Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG 
+über bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006, S. 1), die
+zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) 
+geändert worden ist, revidiert und wurde seit dem 1. Januar 2008 von den
+Mitgliedstaaten angewendet. 
+Um neusten strukturellen, wissenschaftlichen und technischen Entwicklungen 
+Rechnung zu tragen, fasste der Ausschuss für das Europäische Statistische System 
+im Mai 2019 den Beschluss, die aktuell geltende NACE zu überarbeiten. Die neue 
+NACE, die sogenannte NACE Revision 2.1, wurde in Form eines Delegierten 
+Rechtsaktes am 10. Oktober 2022 durch die Europäische Kommission
+angenommen und am 20. Januar 2023 als Delegierte Verordnung (EU) 2023/137 der
+Kommission vom 10. Oktober 2022 zur Änderung der Verordnung (EG) 
+Nr. 1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 
+2006 zur Aufstellung der statistischen Systematik der Wirtschaftszweige NACE 
+Revision 2 (ABl. L 19 vom 20.1.2023, S. 5; L, 2024/90539, 6.9.2024), die durch 
+die Delegierte Verordnung (EU) 2025/471 (ABl. L, 2025/471, 11.3.2025)
+geändert wurde, offiziell im Amtsblatt der Europäischen Union veröffentlicht. Die 
+neue NACE-Systematik wird für alle Datenübermittlungen an die Europäische 
+Kommission (Eurostat) zu Statistiken, die nach Wirtschaftszweigen gegliedert 
+sind, Geltung erlangen, wobei ihr Inkrafttreten nach Artikel 2 der Delegierten 
+ 
+*  NACE ist das Akronym aus „Nomenclature statistique des activités économiques dans la Communauté 
+européenne“.
+Verordnung (EU) 2023/137 nach Statistikbereich gestaffelt ab dem 1. Januar 2025 
+bis zum 1. Januar 2030 erfolgt.  
+Die Wirtschaftsstatistiken in Deutschland basieren nicht unmittelbar auf der 
+NACE, sondern auf der daraus abgeleiteten, tiefer gegliederten nationalen
+„Klassifikation der Wirtschaftszweige“ (WZ). Die Revision der NACE erfordert
+dementsprechend eine Anpassung der aktuell geltenden WZ 2008. Die neu erarbeitete 
+WZ 2025 wurde am 19. September 2024 offiziell von der Europäischen
+Kommission (Eurostat) genehmigt und gilt ebenfalls ab dem 1. Januar 2025.  
+Sowohl die neue NACE Revision 2.1 als auch die neue WZ 2025 haben
+unmittelbare Auswirkungen auf die Bundesstatistik und erfordern eine entsprechende
+Anpassung nationaler Statistikgesetze. Das Ziel der Artikel 1 bis 10 des vorliegenden 
+Gesetzes ist die Anpassung der betroffenen nationalen Rechtsvorschriften an die 
+sich aus der NACE Revision 2.1 und der WZ 2025 ergebenden
+wirtschaftssystematischen Vorgaben und an die sich aus den Änderungen der Rechtsvorschriften 
+der Europäischen Union auf dem Gebiet der Unionsstatistik ergebenden
+geänderten Berichtspflichten gegenüber der Europäischen Union. Dabei sind für struktur- 
+und konjunkturstatistische Erhebungen unterschiedliche Zeitpunkte des
+Inkrafttretens der neuen NACE Revision 2.1 zu berücksichtigen. 
+Mit der Änderung des Handels- und Dienstleistungsstatistikgesetzes wird darüber 
+hinaus eine rechtliche Klarstellung zur Lieferung von Daten vorgenommen. 
+Im Hinblick auf eine möglichst effiziente sowie belastungsarme
+Statistikproduktion werden Möglichkeiten für weitere Entlastungen für die Auskunftspflichtigen 
+mitgedacht. So ist die amtliche Statistik gesetzlich zur möglichst umfassenden 
+Nutzung von Verwaltungsdaten bei der Erstellung von Statistiken verpflichtet 
+(§ 5a des Bundesstatistikgesetzes – BStatG). Die Änderungen des
+Verwaltungsdatenverwendungsgesetzes (Artikel 9) umfassen neben den erforderlichen
+Anpassungen aufgrund der revidierten Wirtschaftszweigklassifikationen daher auch die 
+Ermächtigung sowohl der Bundesanstalt für Finanzdienstleistungsaufsicht als 
+auch der Deutschen Bundesbank, dem Statistischen Bundesamt weitere
+Verwaltungsdaten zur Verfügung zu stellen, sofern diese Daten vorliegen. 
+Die vorgesehenen Änderungen des UBRegG dienen zum einen dazu, die
+weitergehende Nutzung der bundeseinheitlichen Wirtschaftsnummer (beWiNr.) nach 
+dem Gesetz zur Errichtung und Führung eines Registers über
+Unternehmensbasisdaten und zur Einführung einer bundeseinheitlichen Wirtschaftsnummer für 
+Unternehmen (Unternehmensbasisdatenregistergesetz – UBRegG) zu
+ermöglichen. Dazu soll die Nutzbarkeit dieser spezifischen Identifikationsnummer durch 
+die an das Register über Unternehmensbasisdaten angeschlossenen Register
+breiter gefasst und perspektivisch die Umsetzung des Once-Only-Prinzips unterstützt 
+werden. Darüber hinaus werden die Identifikatoren erweitert, die im Register über 
+Unternehmensbasisdaten gespeichert werden dürfen sowie eine Klarstellung
+vorgenommen, dass öffentliche Stellen mittels Rechtsverordnung für die
+Datenübermittlung an die und von der Registerbehörde benannt werden können. 
+B. Lösung 
+Änderung der die Wirtschaftsstatistiken betreffenden nationalen statistischen 
+Rechtsvorschriften, auf die sich die NACE Revision 2.1 und die Änderungen der 
+Rechtsvorschriften der Europäischen Union auf dem Gebiet der Unionsstatistik 
+auswirken. Die Änderungen umfassen sowohl redaktionelle Anpassungen als 
+auch in Bezug auf das Verwaltungsdatenverwendungsgesetz eine Ermächtigung 
+zur erweiterten Datenweitergabe durch die Bundesanstalt für
+Finanzdienstleistungsaufsicht sowie die Deutsche Bundesbank an das Statistische Bundesamt,
+sofern die Daten vorliegen. 
+Die Staffelung der Zeitpunkte, ab denen die neue NACE-Systematik in den
+Erhebungen anzuwenden ist, wird durch gesonderte Artikel umgesetzt. Das betrifft
+jeweils die konjunktur- und strukturstatistischen Erhebungen im Handels- und 
+Dienstleistungsstatistikgesetz und im Gesetz über die Statistik im Produzierenden 
+Gewerbe. Im Handels- und Dienstleistungsstatistikgesetz und im Gesetz über die 
+Statistik im Produzierenden Gewerbe wurden Möglichkeiten zur Entlastung
+geprüft. So wurden Meldeschwellen an die Inflation angepasst und angehoben,
+insoweit es im Hinblick auf die Qualität der Ergebnisse vertretbar war. 
+Für die Nutzbarkeit der bundeseinheitlichen Wirtschaftsnummer regelt die
+Änderung des UBRegG nach Artikel 11 dieses Gesetzes, dass die öffentlichen Stellen 
+i. S. v. § 4 Absatz 1 und § 5 Absatz 1 UBRegG die bundeseinheitliche
+Wirtschaftsnummer an weitere öffentliche Stellen weitergeben können, sofern dies für 
+die Aufgabenerfüllung beider Seiten erforderlich ist. Darüber hinaus wird die 
+Liste der Identifikatoren erweitert, die im Register über Unternehmensbasisdaten 
+gespeichert werden dürfen. Zudem wird klargestellt, dass öffentliche Stellen per 
+Rechtsverordnung für die Datenübermittlung an die und von der Registerbehörde 
+benannt werden können. 
+C. Alternativen 
+Keine. Die neue NACE-Systematik wird für alle Datenübermittlungen an die
+Europäische Kommission (Eurostat) zu Statistiken, die nach Wirtschaftszweigen
+gegliedert sind, Geltung erlangen, wobei ihr Inkrafttreten nach Artikel 2 der
+Delegierten Verordnung (EU) 2023/137 nach Statistikbereich gestaffelt ab dem 1.
+Januar 2025 bis zum 1. Januar 2030 erfolgt. Liegt die entsprechende Anpassung 
+nationaler Statistikgesetze nicht rechtzeitig vor, könnte die Datenlieferung nicht 
+nach der neuen Klassifikation erfolgen und Deutschland würde gegen EU-
+Vorgaben verstoßen. 
+Ohne die Regelung zum UBRegG entfällt die Möglichkeit der Weitergabe der 
+bundeseinheitlichen Wirtschaftsnummer zur Aufgabenerledigung durch
+angebundene öffentliche Stellen.  
+D. Haushaltsausgaben ohne Erfüllungsaufwand 
+Für die Wahrnehmung der Aufgaben des Statistischen Bundesamtes in Bezug auf 
+eine Anpassung nationaler Rechtsvorschriften an die neue europäische
+Systematik der Wirtschaftszweige NACE Revision 2.1 entstehen – sofern ersichtlich – 
+keine jährlichen Mehraufwände. Es entsteht jedoch ein einmaliger
+Umstellungsaufwand in Höhe von 459 541 Euro für befristetes Personal (Zeitverträge). Dieser 
+einmalige Erfüllungsaufwand für die Bundesverwaltung geht auf eine Eins-
+zueins-Umsetzung von EU-Recht zurück. 
+Der einmalige Mehraufwand des Statistischen Bundesamtes ist finanziell
+innerhalb der geltenden Haushalts- und Finanzplanansätze des Einzelplans 06 Kapitel 
+0614 auszugleichen.  
+Die einmaligen Kosten der Statistischen Ämter der Länder belaufen sich auf 
+6 199 119 Euro Personalkosten sowie 55 082 Euro Materialkosten.
+E. Erfüllungsaufwand 
+E.1 Erfüllungsaufwand für Bürgerinnen und Bürger 
+Für Bürgerinnen und Bürger entsteht kein Erfüllungsaufwand. 
+E.2 Erfüllungsaufwand für die Wirtschaft 
+Der jährliche Erfüllungsaufwand der Wirtschaft reduziert sich um rund 2 185 000 
+Euro. 
+Davon Bürokratiekosten aus Informationspflichten 
+Davon entfallen -2 185 000 Euro auf Bürokratiekosten aus Informationspflichten. 
+Der laufende Erfüllungsaufwand für die Wirtschaft unterliegt vollständig der 
+One-in-one-out-Regel. Damit ergibt sich insgesamt ein „Out" in Höhe von 
+2 185 000 Euro. 
+E.3 Erfüllungsaufwand der Verwaltung 
+Der Verwaltung entsteht ein einmaliger Erfüllungsaufwand in Höhe von rund 5,2 
+Millionen Euro. Der Bundesverwaltung entsteht dabei ein einmaliger
+Erfüllungsaufwand in Höhe von rund 463 000 Euro. Den Ländern entsteht ein einmaliger 
+Erfüllungsaufwand in Höhe von rund 4,7 Millionen Euro.  
+Soweit der unter Abschnitt E.3 dargestellte Erfüllungsaufwand des Bundes
+haushaltswirksam wird und nicht unter Abschnitt „D. Haushaltsausgaben ohne
+Erfüllungsaufwand“ aufgeführt ist, wird er im jeweils betroffenen Einzelplan
+gegenfinanziert. 
+F. Weitere Kosten 
+Keine.
+  BUNDESREPUBLIK DEUTSCHLAND 
+DER BUNDESKANZLER 
+ 
+ 
+Berlin, 29. September 2025 
+An die 
+Präsidentin des  
+Deutschen Bundestages  
+Frau Julia Klöckner 
+Platz der Republik 1 
+11011 Berlin 
+Sehr geehrte Frau Bundestagspräsidentin, 
+ 
+hiermit übersende ich den von der Bundesregierung beschlossenen 
+ 
+Entwurf eines Gesetzes zur Anpassung nationaler Rechtsvorschriften an die  
+europäische Systematik der Wirtschaftszweige NACE Revision 2.1  
+ 
+mit Begründung und Vorblatt (Anlage 1). 
+ 
+Ich bitte, die Beschlussfassung des Deutschen Bundestages herbeizuführen. 
+ 
+Federführend ist das Bundesministerium für Wirtschaft und Energie.  
+ 
+Die Stellungnahme des Nationalen Normenkontrollrates gemäß § 6 Absatz 1 NKRG ist als 
+Anlage 2 beigefügt. 
+ 
+Der Gesetzentwurf ist dem Bundesrat am 5. September 2025 als besonders eilbedürftig
+zugeleitet worden. 
+ 
+Die Stellungnahme des Bundesrates zu dem Gesetzentwurf sowie die Auffassung der
+Bundesregierung zu der Stellungnahme des Bundesrates werden unverzüglich nachgereicht. 
+ 
+Mit freundlichen Grüßen 
+ 
+Friedrich Merz
+Entwurf eines Gesetzes zur Anpassung nationaler Rechtsvorschriften an die 
+europäische Systematik der Wirtschaftszweige NACE Revision 2.1 
+Vom … 
+Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen: 
+Artikel 1 
+Änderung des Handels- und Dienstleistungsstatistikgesetzes 
+Das Handels- und Dienstleistungsstatistikgesetz vom 22. Februar 2021 (BGBl. I S. 266), das zuletzt durch 
+Artikel 2 des Gesetzes vom 27. Februar 2025 (BGBl. 2025 I Nr. 71) geändert worden ist, wird wie folgt geändert: 
+1. § 2 Nummer 5 wird durch die folgende Nummer 5 ersetzt: 
+5. „ „Wirtschaftszweige“ solche nach der Untergliederung gemäß des Anhangs I der Verordnung (EG) 
+Nr. 1893/2006 in Verbindung mit der vom Statistischen Bundesamt daraus erstellten Klassifikation 
+der Wirtschaftszweige; dabei gilt für Berichtszeiträume ab dem 1. Januar 2025 die Klassifikation der 
+Wirtschaftszweige 2025, abweichend davon gilt für konjunkturstatistische Erhebungen nach Abschnitt 
+2 für Berichtszeiträume bis zum Ablauf des 31. Dezember 2027 die Klassifikation der
+Wirtschaftszweige 2008;“. 
+2. § 3 Absatz 2 Nummer 2 wird durch die folgende Nummer 2 ersetzt: 
+2. „ für strukturstatistische Erhebungen: 
+a) Abschnitt G – Handel, 
+b) Abschnitt H – Verkehr und Lagerei, 
+c) Abschnitt I – Gastgewerbe, 
+d) Abschnitt J – Verlagswesen, Rundfunk sowie Erstellung und Verbreitung von Medieninhalten, 
+e) Abschnitt K – Telekommunikation, Softwareentwicklung, IT-Beratung und Erbringung sonstiger 
+Dienstleistungen der Informationstechnologie und der Computerinfrastruktur, 
+f) Abschnitt L, Gruppe 66.2 – Mit Versicherungsdienstleistungen und Pensionskassen verbundene 
+Tätigkeiten, 
+g) Abschnitt M – Grundstücks- und Wohnungswesen, 
+h) Abschnitt N – Erbringung von wissenschaftlichen und technischen Dienstleistungen, 
+i) Abschnitt O – Erbringung von sonstigen wirtschaftlichen Dienstleistungen, 
+j) Abschnitt Q – Erziehung und Unterricht, 
+k) Abschnitt R – Gesundheits- und Sozialwesen mit Ausnahme der Gruppe 86.2 – Arzt- und
+Zahnarztpraxen – und der Unterklasse 86.93.0 – Erbringung von Dienstleistungen von
+Psychotherapeutinnen und -therapeuten, klinischen und Gesundheitspsychologinnen und -psychologen, ohne 
+ärztliche Therapien, 
+l) Abschnitt S – Kunst, Sport und Erholung, 
+Anlage 1
+m) Abschnitt T, Abteilung 95 – Reparatur und Instandhaltung von Datenverarbeitungsgeräten und 
+Gebrauchsgütern sowie von Kraftwagen und Krafträdern, sowie 
+n) Abschnitt T, Abteilung 96 – Erbringung von überwiegend persönlichen Dienstleistungen.“ 
+3. § 4 Absatz 3 wird gestrichen. 
+4. § 6 Absatz 1 wird wie folgt geändert: 
+a) Satz 1 Nummer 2 wird durch die folgende Nummer 2 ersetzt: 
+2. „ Zahl der in der Erhebungseinheit tätigen Personen insgesamt sowie Zahl der in der
+Erhebungseinheit im Handels- und Dienstleistungsbereich tätigen Personen gegliedert nach Bundesländern, 
+jeweils zum Ende des Berichtsmonats,“. 
+b) Nach Satz 4 wird der folgende Satz eingefügt: 
+„Bei Erhebungseinheiten, die einen Jahresumsatz von mindestens 250 Millionen Euro erzielen und 
+mehr als ein Geschäftsfeld haben, wird die Zahl der tätigen Personen der Erhebungseinheit insgesamt 
+nach Art der Tätigkeit erhoben.“ 
+5. § 7 Absatz 3 wird gestrichen. 
+6. § 9 Absatz 4 wird durch den folgenden Absatz 4 ersetzt: 
+(4) „ Die Angaben nach Absatz 1 Nummer 3 Buchstabe b und c werden nur bei Erhebungseinheiten mit 
+20 und mehr tätigen Personen wie folgt erfasst: 
+1. jährlich für die Wirtschaftszweige 
+a) des Abschnitts J, Gruppe 58.2 – Verlegen von Software, 
+b) des Abschnitts K, Abteilung 62 – Erbringung von Dienstleistungen der Informationstechnologie, 
+c) des Abschnitts K, Abteilung 63 – Datenverarbeitung, Hosting und Erbringung sonstiger
+Informationsdienstleistungen, 
+d) des Abschnitts N, Gruppe 73.1 – Werbung, 
+e) des Abschnitts O, Abteilung 78 – Vermittlung und Überlassung von Arbeitskräften; 
+2. alle zwei Jahre, beginnend mit dem Berichtsjahr 2025 für die Wirtschaftszweige 
+a) des Abschnitts N, Gruppe 71.1 – Tätigkeiten von Architektur- und Ingenieurbüros, 
+b) des Abschnitts N, Gruppe 71.2 – Technische, physikalische und chemische Untersuchung, 
+c) des Abschnitts N, Gruppe 73.2 – Markt- und Meinungsforschung; 
+3. alle zwei Jahre, beginnend mit dem Berichtsjahr 2026 für die Wirtschaftszweige 
+a) des Abschnitts N, Gruppe 69.1 – Rechtsberatung, 
+b) des Abschnitts N, Gruppe 69.2 – Wirtschaftsprüfung und Steuerberatung; Buchführung, 
+c) des Abschnitts N, Gruppe 70.2 – Unternehmensberatung.“ 
+7. Abschnitt 5 wird gestrichen.
+Artikel 2 
+Weitere Änderung des Handels- und Dienstleistungsstatistikgesetzes zum 1. Januar 2028 
+Das Handels- und Dienstleistungsstatistikgesetz, das zuletzt durch Artikel 1 dieses Gesetzes geändert
+worden ist, wird wie folgt geändert: 
+1. § 2 Nummer 5 wird durch die folgende Nummer 5 ersetzt: 
+5. „ „Wirtschaftszweige“ solche nach der Untergliederung gemäß des Anhangs I der Verordnung (EG) 
+Nr. 1893/2006 in Verbindung mit der vom Statistischen Bundesamt daraus erstellten Klassifikation 
+der Wirtschaftszweige;“. 
+2. § 3 Absatz 2 Nummer 1 wird durch die folgende Nummer 1 ersetzt:  
+1. „ für konjunkturstatistische Erhebungen für die Berichtszeiträume ab dem Berichtsmonat Januar 2028: 
+a) Abschnitt G – Handel 
+aa) Abteilung 46, mit mindestens 20 Millionen Euro Jahresumsatz oder mindestens 100 tätigen 
+Personen, 
+bb) Abteilung 47, mit mindestens 550 000 Euro Jahresumsatz, 
+b) Abschnitt H – Verkehr und Lagerei mit mindestens 15 Millionen Euro Jahresumsatz oder
+mindestens 250 tätigen Personen, 
+c) Abschnitt I – Gastgewerbe mit mindestens 200 000 Euro Jahresumsatz, 
+d) Abschnitt J – Verlagswesen, Rundfunk sowie Erstellung und Verbreitung von Medieninhalten 
+mit mindestens 15 Millionen Euro Jahresumsatz oder mindestens 250 tätigen Personen, 
+e) Abschnitt K – Telekommunikation, Softwareentwicklung, IT-Beratung und Erbringung sonstiger 
+Dienstleistungen der Informationstechnologie und der Computerinfrastruktur mit mindestens 
+15 Millionen Euro Jahresumsatz oder mindestens 250 tätigen Personen, 
+f) Abschnitt M – Grundstücks- und Wohnungswesen mit mindestens 15 Millionen Euro
+Jahresumsatz oder mindestens 250 tätigen Personen, 
+g) Abschnitt N – Erbringung von wissenschaftlichen und technischen Dienstleistungen mit
+Ausnahme der Gruppe 70.1 – Verwaltung und Führung von Unternehmen und Betrieben und der 
+Abteilungen 72 – Forschung und Entwicklung und 75 – Veterinärwesen mit mindestens 15
+Millionen Euro Jahresumsatz oder mindestens 250 tätigen Personen sowie 
+h) Abschnitt O – Erbringung von sonstigen wirtschaftlichen Dienstleistungen mit mindestens 
+15 Millionen Euro Jahresumsatz oder mindestens 250 tätigen Personen;“.
+Artikel 3 
+Änderung des Gesetzes über die Statistik im Produzierenden Gewerbe 
+Das Gesetz über die Statistik im Produzierenden Gewerbe in der Fassung der Bekanntmachung vom 
+21. März 2002 (BGBl. I S. 1181), das zuletzt durch Artikel 7 des Gesetzes vom 22. Februar 2021 (BGBl. I S. 266) 
+geändert worden ist, wird wie folgt geändert: 
+1. Nach § 1 wird der folgende § 1a eingefügt: 
+„§ 1a 
+Auswahl der Berichtseinheiten 
+Die Auswahl der Berichtseinheiten für die Erhebungen nach diesem Gesetz erfolgt auf Grundlage der 
+Klassifizierungen des Anhangs I der Verordnung (EG) Nr. 1893/2006 in Verbindung mit der vom
+Statistischen Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige. Für Berichtszeiträume ab dem 
+1. Januar 2025 gilt die Klassifikation der Wirtschaftszweige 2025. Abweichend von Satz 2 gilt für die
+Erhebungen nach § 4 Buchstabe A Ziffer III, Buchstabe B und C Ziffer I Nummer 2 und Ziffer II für die
+Berichtszeiträume bis zum Ablauf des 31. Dezember 2026 und für die Erhebungen nach den §§ 2 und 3
+Buchstabe A Ziffer I und II, § 4 Buchstabe A Ziffer I und II, Buchstabe C Ziffer I Nummer 1, § 6 Buchstabe A 
+und § 6a Buchstabe A für die Berichtszeiträume bis zum Ablauf des 31. Dezember 2027 die Klassifikation 
+der Wirtschaftszweige 2008.“ 
+2. § 12 wird gestrichen. 
+Artikel 4 
+Weitere Änderung des Gesetzes über die Statistik im Produzierenden Gewerbe zum 1. Januar 2027 
+Das Gesetz über die Statistik im Produzierenden Gewerbe, das zuletzt durch Artikel 3 dieses Gesetzes
+geändert worden ist, wird wie folgt geändert:  
+§ 4 wird wie folgt geändert: 
+1. In Buchstabe A wird nach der Angabe „ausbaugewerbliche Betriebe“ die Angabe „und Bauträger“
+gestrichen. 
+2. In Buchstabe B wird nach der Angabe „ausbaugewerbliche Betriebe“ die Angabe „und Bauträger“
+gestrichen. 
+3. Buchstabe C wird wie folgt geändert: 
+a) Nach der Angabe „der anderen Unternehmen“ wird die Angabe „und bei Bauträgern“ gestrichen. 
+b) In der römischen Nummer I Nummer 1 wird nach der Angabe „vierteljährlich“ die Angabe „für
+Berichtszeiträume bis zum 31. Dezember 2027 auch bei Bauträgern“ eingefügt.
+Artikel 5 
+Änderung des Verdienststatistikgesetzes 
+Das Verdienststatistikgesetz vom 21. Dezember 2006 (BGBl. I S. 3291), das zuletzt durch Artikel 1 des
+Gesetzes vom 12. August 2020 (BGBl. I S. 1872) geändert worden ist, wird wie folgt geändert: 
+§ 4 Absatz 2 wird durch den folgenden Absatz 2 ersetzt: 
+(2) „ Die Erhebung erstreckt sich auf die Wirtschaftszweige nach Anhang I der Verordnung (EG) 
+Nr. 1893/2006 in Verbindung mit der vom Statistischen Bundesamt daraus erstellten Klassifikation der
+Wirtschaftszweige mit Ausnahme von 
+1. Abschnitt P – Öffentliche Verwaltung, Verteidigung; Sozialversicherung, 
+2. Abschnitt U – Private Haushalte mit Hauspersonal sowie Herstellung von Waren und Erbringung von
+Dienstleistungen durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt, 
+3. Abschnitt V – Exterritoriale Organisationen und Körperschaften.“ 
+Artikel 6 
+Änderung des Gesetzes über Kostenstrukturstatistik 
+Das Gesetz über Kostenstrukturstatistik in der im Bundesgesetzblatt Teil III, Gliederungsnummer 708-3, 
+veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 2 des Gesetzes vom 22. Februar 2021 (BGBl. I 
+S. 266) geändert worden ist, wird wie folgt geändert: 
+1. § 1 Absatz 1 wird durch den folgenden Absatz 1 ersetzt: 
+(1) „ In den Wirtschaftsbereichen „Arzt- und Zahnarztpraxen“ sowie „Erbringung von Dienstleistungen 
+von Psychotherapeutinnen und -therapeuten, klinischen und Gesundheitspsychologinnen und -psychologen, 
+ohne ärztliche Therapien“ werden jährlich Kostenstrukturerhebungen als Bundesstatistik durchgeführt. Die 
+Erhebungen erstrecken sich auf die folgenden Wirtschaftsklassen bzw. -unterklassen nach Anhang I der
+Verordnung (EG) Nr. 1893/2006 in Verbindung mit der vom Statistischen Bundesamt daraus erstellten
+Klassifikation der Wirtschaftszweige: 
+1. 86.21.0 – Arztpraxen für Allgemeinmedizin, 
+2. 86.22.0 – Facharztpraxen, 
+3. 86.23.0 – Zahnarztpraxen, 
+4. 86.93.0 – Erbringung von Dienstleistungen von Psychotherapeutinnen und -therapeuten, klinischen und 
+Gesundheitspsychologinnen und -psychologen, ohne ärztliche Therapien.“ 
+2. In § 3 Absatz 1 Nummer 1 Buchstabe b wird nach der Angabe „Sachanlagen“ die Angabe „und immaterielle 
+Vermögensgegenstände“ gestrichen.
+Artikel 7 
+Änderung des Beherbergungsstatistikgesetzes 
+Das Beherbergungsstatistikgesetz vom 22. Mai 2002 (BGBl. I S. 1642), das zuletzt durch Artikel 11 des 
+Gesetzes vom 28. Juli 2015 (BGBl. I S. 1400) geändert worden ist, wird wie folgt geändert: 
+§ 3 Absatz 2 Nummer 1 wird durch die folgende Nummer 1 ersetzt: 
+1. „ folgende Wirtschaftsgruppen des Anhangs I der Verordnung (EG) Nr. 1893/2006 in Verbindung mit der 
+vom Statistischen Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige: 
+a) 55.1 – Hotels, Gasthöfe und Pensionen, 
+b) 55.2 – Ferienunterkünfte und ähnliche Beherbergungsstätten, 
+c) 55.3 – Campingplätze, 
+d) 55.4 – Vermittlungstätigkeiten für Beherbergungsdienstleistungen;“. 
+Artikel 8 
+Änderung des Verwaltungsdatenverwendungsgesetzes 
+Das Verwaltungsdatenverwendungsgesetz vom 4. November 2010 (BGBl. I S. 1480), das zuletzt durch
+Artikel 2 des Gesetzes vom 20. Dezember 2022 (BGBl. I S. 2727) geändert worden ist, wird wie folgt geändert: 
+1. § 3a Satz 1 wird durch den folgenden Satz ersetzt: 
+„Die Bundesanstalt für Finanzdienstleistungsaufsicht übermittelt dem Statistischen Bundesamt folgende
+Daten der unter Bundesaufsicht stehenden Unternehmen der Wirtschaftsgruppen 64.2 –
+Beteiligungsgesellschaften und Finanzierungs-Conduits, 64.3 – Treuhand- und sonstige Fonds und ähnliche
+Finanzinstitutionen, 65.1 – Versicherungen, 65.2 – Rückversicherungen und 65.3 – Pensionskassen und Pensionsfonds, 
+66.3 – Fondsmanagement nach Anhang I der Verordnung (EG) Nr. 1893/2006 in Verbindung mit der vom 
+Statistischen Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige, soweit sie der Bundesanstalt 
+für Finanzdienstleistungsaufsicht vorliegen: 
+1. Name und Anschrift, 
+2. Rechtsform, 
+3. Wirtschaftszweig, 
+4. Ort und Nummer der Eintragung in das Handelsregister, 
+5. Legal Entity Identifier, 
+6. die erfassten Daten der Formblätter zur Bilanz und Gewinn- und Verlustrechnung sowie die
+Nachweisungen zu den formgebundenen Erläuterungen der Gliederung der in bestimmten Aufwandsposten der 
+Gewinn- und Verlustrechnung ausgewiesenen Aufwendungen nach Aufwandsarten, den Investitionen 
+in selbst erstellte Anlagen sowie Anzahl der Beschäftigten und der Erträge aus den Kapitalanlagen und 
+Aufwendungen für die Kapitalanlagen, bei Pensionsfonds einschließlich Kapitalanlagen für Rechnung 
+und Risiko von Arbeitnehmern und Arbeitgebern.“
+2. § 3b Satz 1 wird durch den folgenden Satz ersetzt: 
+„Die Deutsche Bundesbank übermittelt dem Statistischen Bundesamt jährlich folgende Daten der zu den 
+Wirtschaftsgruppen 64.1 – Zentralbanken und Kreditinstitute, 64.9 – Sonstige Finanzierungsinstitutionen, 
+66.1 – Mit Finanzdienstleistungen verbundene Tätigkeiten und 66.3 – Fondsmanagement gehörenden
+rechtlichen Einheiten nach Anhang I der Verordnung (EG) Nr. 1893/2006 in Verbindung mit der vom
+Statistischen Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige, soweit sie der Deutschen
+Bundesbank vorliegen: 
+1. Name, Anschrift, 
+2. Rechtsform, 
+3. Wirtschaftszweig, 
+4. Ort und Nummer der Eintragung in das Handelsregister, 
+5. Legal Entity Identifier, 
+6. die Daten zur Bilanz und Gewinn- und Verlustrechnung sowie die erfassten Daten des
+Personalbestands.“ 
+Artikel 9 
+Änderung der Gewerbeordnung 
+Die Gewerbeordnung in der Fassung der Bekanntmachung vom 22. Februar 1999 (BGBl. I S. 202), die
+zuletzt durch Artikel 9 des Gesetzes vom 27. Dezember 2024 (BGBl. 2024 I Nr. 438) geändert worden ist, wird wie 
+folgt geändert: 
+§ 14 Absatz 13 Satz 7 wird durch den folgenden Satz ersetzt: 
+„Ferner dürfen sie nähere Angaben zu der angemeldeten Tätigkeit unmittelbar bei den Auskunftspflichtigen
+erfragen, soweit die gemeldete Tätigkeit sonst den Wirtschaftszweigen nach Anhang I der Verordnung (EG) 
+Nr. 1893/2006 in Verbindung mit der vom Statistischen Bundesamt daraus erstellten Klassifikation der
+Wirtschaftszweige nicht zugeordnet werden kann.“ 
+Artikel 10 
+Änderung des Gesetzes über die Statistik zu globalen Wertschöpfungsketten 
+Das Gesetz über die Statistik zu globalen Wertschöpfungsketten vom 17. Januar 2024 (BGBl. 2024 I Nr. 13) 
+wird wie folgt geändert: 
+§ 2 Nummer 4 wird durch die folgende Nummer 4 ersetzt: 
+4. „ „Wirtschaftszweige“ solche nach der Untergliederung gemäß des Anhangs I der Verordnung (EG) 
+Nr. 1893/2006 in Verbindung mit der vom Statistischen Bundesamt daraus erstellten Klassifikation der 
+Wirtschaftszweige.“
+Artikel 11 
+Änderung des Unternehmensbasisdatenregistergesetzes 
+Das Unternehmensbasisdatenregistergesetz vom 9. Juli 2021 (BGBl. I S. 2506), das zuletzt durch Artikel 3 
+des Gesetzes vom 27. Februar 2025 (BGBl. 2025 I Nr. 71) geändert worden ist, wird wie folgt geändert: 
+1. § 2 Absatz 3 Satz 1 wird durch den folgenden Satz ersetzt: 
+„Die öffentlichen Stellen nach § 4 Absatz 1 und § 5 Absatz 1 dürfen die bundeseinheitliche
+Wirtschaftsnummer für Unternehmen in ihren Registern oder sonstigen Datenbeständen speichern, verwenden und an
+öffentliche Stellen weitergeben, soweit dies für ihre eigene Aufgabenerfüllung und die Aufgabenerfüllung der 
+empfangenden öffentlichen Stelle erforderlich ist.“ 
+2. § 3 Absatz 3 wird wie folgt geändert: 
+a) In Nummer 9 wird die Angabe „Abgabenordnung und“ durch die Angabe „Abgabenordnung,“ ersetzt. 
+b) In Nummer 10 wird die Angabe „(ABl. L 87 vom 31.3.2017, S. 449).“ durch die Angabe „(ABl. L 87 
+vom 31.3.2017, S. 449),“ ersetzt. 
+c) Nach Nummer 10 werden die folgenden Nummern 11 und 12 eingefügt: 
+11. „ das Kennzeichen, das zur Organisation der Datenbestände einer öffentlichen Stelle verwendet 
+wird, welche aufgrund einer nach § 10 Nummer 6 erlassenen Rechtsverordnung Daten an die 
+Registerbehörde übermittelt, und 
+12. die EUID gemäß Nummer 9 des Anhangs Technische Spezifikationen und Verfahren der
+Durchführungsverordnung (EU) 2021/1042.“ 
+3. In § 5 Absatz 1 Satz 1 Nummer 10 wird die Angabe „,für Bau und Heimat“ gestrichen. 
+4. § 10 Satz 1 Nummer 5 und 6 wird durch die folgenden Nummern 5 bis 7 ersetzt: 
+„5. die Festlegung technischer und organisatorischer Standards der Datenübermittlungen nach den §§ 4 
+und 5, 
+6. die Bestimmung einzelner öffentlicher Stellen, die Daten an die Registerbehörde zum Aufbau und zur 
+Pflege des Basisregisters übermitteln, einschließlich der von diesen zu übermittelnden Daten und 
+7. die Bestimmung einzelner öffentlicher Stellen, die Daten von der Registerbehörde zur Erfüllung ihrer 
+gesetzlichen Aufgaben übermittelt bekommen, einschließlich der an diese zu übermittelnden Daten.“ 
+Artikel 12 
+Inkrafttreten 
+(1) Das Gesetz tritt vorbehaltlich der Absätze 2 und 3 am 1. Januar 2026 in Kraft. 
+(2) Artikel 4 und 5 treten am 1. Januar 2027 in Kraft. 
+(3) Artikel 2 tritt am 1. Januar 2028 in Kraft.
+EU-Rechtsakte 
+1. Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der 
+statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung (EWG) Nr. 3037/90 des 
+Rates sowie einiger Verordnungen der EG über bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006, S. 1), die zuletzt 
+durch die Delegierte Verordnung (EU) 2023/137 (ABl. L 19 vom 20.1.2023, S. 5; L, 2024/90539, 06.09.2024) geändert
+worden ist 
+2. Durchführungsverordnung (EU) 2021/1042 der Kommission vom 18. Juni 2021 mit Durchführungsbestimmungen zur
+Richtlinie (EU) 2017/1132 des Europäischen Parlaments und des Rates in Bezug auf technische Spezifikationen und Verfahren für 
+das System der Registervernetzung und zur Aufhebung der Durchführungsverordnung (EU) 2020/2244 der Kommission (ABl. 
+L 225 vom 25.6.2021, S. 7)
+Begründung 
+A. Allgemeiner Teil 
+I. Zielsetzung und Notwendigkeit der Regelungen 
+Die Delegierte Verordnung (EU) 2023/137 der Kommission vom 10. Oktober 2022 zur Änderung der Verordnung 
+(EG) Nr. 1893/2006 des Europäischen Parlaments und des Rates zur Aufstellung der statistischen Systematik der 
+Wirtschaftszweige NACE Revision 2 (ABl. L 19 vom 20.1.2023, S. 5; L 2024/90539, 6.9.2024), die durch die 
+Delegierte Verordnung (EU) 2025/471 (ABl. L, 2025/471, 11.3.2025) geändert wurde, beinhaltet in ihrem
+Anhang die revidierte NACE-Systematik, die sogenannte NACE Revision 2.1, die in die Verordnung (EG) 
+Nr. 1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der
+statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung (EWG) 
+Nr. 3037/90 des Rates sowie einiger Verordnungen der EG über bestimmte Bereiche der Statistik (ABl. L 393 
+vom 30.12.2006, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2023/137 (ABl. L 19 vom 20.1.2023, 
+S. 5; L, 2024/90539, 6.9.2024) geändert worden ist, inkorporiert wird. Diese neue Systematik NACE 2.1 wird 
+künftig für alle Datenübermittlungen an die Europäische Kommission (Eurostat) zu Statistiken zugrunde gelegt, 
+welche nach Wirtschaftszweigen gegliedert sind. Das Inkrafttreten der Delegierten Verordnung (EU) 2023/137 
+erfolgt gemäß Artikel 2 nach Statistikbereich gestaffelt ab dem 1. Januar 2025 bis zum 1. Januar 2030. Die
+Revision der europäischen NACE-Systematik machte eine Überarbeitung der aus der NACE abgeleiteten, tiefer
+gegliederten nationalen „Klassifikation der Wirtschaftszweige“ (WZ) erforderlich. Die neu erarbeitete WZ 2025 
+wurde am 19. September 2024 offiziell von der Kommission (Eurostat) genehmigt und gilt ebenfalls ab dem 1. 
+Januar 2025. Mit den Artikeln 1 bis 10 dieses Gesetzes werden notwendige Anpassungen bei den betroffenen 
+nationalen Wirtschaftsstatistikgesetzen vorgenommen. 
+Die Änderung des Unternehmensbasisdatenregistergesetzes (UBRegG) in Artikel 11 dieses Gesetzes dient
+perspektivisch der Umsetzung des Once-Only-Prinzips für Unternehmen im Kontakt mit der öffentlichen
+Verwaltung. Um dieses Ziel zu realisieren, ist es notwendig, dass die bundeseinheitliche Wirtschaftsnummer möglichst 
+breit verwendet werden kann. 
+II. Wesentlicher Inhalt des Entwurfs 
+In Artikel 1 und 2 wird das Handels- und Dienstleistungsstatistikgesetz (HdlDlStatG), in Artikel 3 und 4 das
+Gesetz über die Statistik im Produzierenden Gewerbe (ProdGewStatG), in Artikel 5 das Verdienststatistikgesetz 
+(VerdStatG), in Artikel 6 das Gesetz über die Kostenstrukturstatistik (KoStrukStatG), in Artikel 7 das
+Beherbergungsstatistikgesetz (BeherbStatG), in Artikel 8 das Verwaltungsdatenverwendungsgesetz (VwDVG), in
+Artikel 9 die Gewerbeordnung (GewO) und in Artikel 10 das Gesetz über die Statistik zu globalen
+Wertschöpfungsketten (GWStatG) im Hinblick auf die revidierten Wirtschaftszweigklassifikationen nach der europäischen NACE 
+Revision 2.1 und der nationalen WZ 2025 angepasst, sodass EU-Lieferverpflichtungen im Kontext der
+europäischen Unternehmensstatistik ordnungsgemäß und fristgerecht erfüllt werden können. Die europäischen Vorgaben 
+für die Umstellung der Datenlieferungen an die EU auf die revidierte Wirtschaftszweigklassifikation
+unterscheiden sich dabei nach der Art der Statistik. Im Wesentlichen gilt: Für die Umstellung der Strukturstatistiken auf die 
+NACE Revision 2.1 gibt die EU das Berichtsjahr 2025 vor, für die Umstellung der Konjunkturstatistiken dagegen 
+das Berichtsjahr 2028. 
+Für die Nutzbarkeit der bundeseinheitlichen Wirtschaftsnummer regelt die Änderung des UBRegG in Artikel 11 
+dieses Gesetzes, dass die öffentlichen Stellen i. S. v. § 4 Absatz 1 und § 5 Absatz 1 UBRegG die
+bundeseinheitliche Wirtschaftsnummer an weitere öffentliche Stellen weitergeben können, sofern dies für die
+Aufgabenerfüllung beider Seiten erforderlich ist.
+III. Exekutiver Fußabdruck 
+Es haben keine Interessenvertreter oder beauftragte Dritte wesentlich zum Inhalt des Entwurfs beigetragen. 
+IV. Alternativen 
+Keine. Die gesetzlichen Anpassungen sind für die Datenübermittlungen an die Europäische Kommission
+(Eurostat) erforderlich. Ohne die Regelung zum UBRegG entfällt die Möglichkeit der Weitergabe der
+bundeseinheitlichen Wirtschaftsnummer zur Aufgabenerledigung durch angebundene öffentliche Stellen. 
+V. Gesetzgebungskompetenz 
+Die ausschließliche Gesetzgebungskompetenz des Bundes für das HdlDlStatG, ProdGewStatG, VerdStatG, 
+KoStrukStatG, BeherbStatG, VwDVG und GWStatG folgt aus Artikel 73 Absatz 1 Nummer 11 des
+Grundgesetzes. Für die GewO und das UBRegG kann sich der Bund auf seine konkurrierende Gesetzgebungskompetenz für 
+das Recht der Wirtschaft gemäß Artikel 74 Absatz 1 Nummer 11 in Verbindung mit Artikel 72 Absatz 2 des 
+Grundgesetzes stützen. Eine bundesgesetzliche Regelung ist erforderlich, da die Ziele der Wahrung der Rechts- 
+und Wirtschaftseinheit ohne die vorgesehene bundesgesetzliche Regelung nicht hinreichend erreichbar wären. Im 
+Hinblick auf die Anpassung der GewO muss erforderlich, der Verweis auf die EU-Verordnung und die darauf 
+basierende Klassifikation der Wirtschaftszweige bundeseinheitlich erfolgen, um die Vergleichbarkeit zu
+gewährleisten.  
+Bei der Änderung des UBRegG könnte ohne eine bundesrechtliche Regelung die bundesweite einheitliche
+Verwendung der bundeseinheitlichen Wirtschaftsnummer nicht gesichert werden. Auch könnte die Vollständigkeit 
+und Einheitlichkeit der Daten im Basisregister nicht gewährleistet werden, wodurch es nicht den zugedachten 
+Zweck erfüllen könnte. Ebenso ist eine Bundesregelung zur Wahrung der Wirtschaftseinheit erforderlich.
+Länderspezifische Regelungen könnten zu uneinheitlichen Unternehmensbasisdaten und einem unterschiedlichen
+Umgang damit führen. Auf dieser Kompetenzgrundlage kann der Bund den Betrieb des Basisregisters umfassend 
+regeln. Denn nur auf diese Weise kann – wie oben dargelegt – der Zweck der bundeseinheitlichen
+Wirtschaftsnummer für Unternehmen und des Basisregisters erreicht werden. 
+VI. Vereinbarkeit mit dem Recht der Europäischen Union und völkerrechtlichen Verträgen 
+Der Gesetzentwurf ist mit dem Recht der Europäischen Union und völkerrechtlichen Verträgen vereinbar. 
+VII. Gesetzesfolgen 
+Mit dem vorliegenden Gesetzentwurf werden betroffene nationale Rechtsvorschriften im Hinblick auf die
+revidierten Wirtschaftszweigklassifikationen (NACE Revision 2.1 und WZ 2025) angepasst, sodass
+Datenübermittlungen an die Europäische Kommission (Eurostat) gemäß der jeweils geltenden Fassung der Verordnung (EG) 
+Nr. 1893/2006, die verpflichtend von den Mitgliedstaaten umzusetzen ist, erfolgen können. 
+1. Rechts- und Verwaltungsvereinfachung 
+Die Anpassungen in der nationalen Rechtsgrundlage für die Wirtschaftsstatistiken schaffen Rechtssicherheit und 
+dienen somit insgesamt der Verwaltungsvereinfachung. 
+2. Nachhaltigkeitsaspekte 
+Der Entwurf steht im Einklang mit den Leitgedanken der Bundesregierung zur nachhaltigen Entwicklung im 
+Sinne der Deutschen Nachhaltigkeitsstrategie, die der Umsetzung der Agenda 2030 für nachhaltige Entwicklung 
+der Vereinten Nationen dient. Das Regelungsvorhaben steht insbesondere mit den UN-Nachhaltigkeitszielen 
+(sustainable development goals/SDGs) SDG 7 „Bezahlbare und saubere Energie“, SDG 8 „Menschenwürdige
+Arbeit und Wirtschaftswachstum“ sowie SDG 17 „Partnerschaften zur Erreichung der Ziele“ im Einklang. Die 
+Anwendung von nationalen und europäischen Wirtschaftszweigklassifikationen ermöglicht es, dass Statistiken 
+auf nationaler und europäischer Ebene vergleichbar dargestellt und sinnvoll analysiert werden können. Die
+revidierten Wirtschaftszweigklassifikationen (NACE Revision 2.1 und WZ 2025) berücksichtigen veränderte
+wirtschaftliche Gegebenheiten. So wird beispielsweise nicht nur der Bereich der Informationstechnologie detaillierter 
+als bisher erfasst, auch im Bereich der Elektrizitäts- und Gaserzeugung wurde eine Unterscheidung zwischen 
+erneuerbaren und nicht erneuerbaren Energieträgern vorgenommen. 
+3. Haushaltsausgaben ohne Erfüllungsaufwand 
+Für die Wahrnehmung der Aufgaben des Statistischen Bundesamtes in Bezug auf eine Anpassung nationaler 
+Rechtsvorschriften an die neue europäische Systematik der Wirtschaftszweige NACE Revision 2.1 entstehen
+sofern ersichtlich keine jährlichen Mehraufwände. Es entsteht jedoch ein einmaliger Umstellungsaufwand in Höhe 
+von 459 541 Euro für befristetes Personal (Zeitverträge). Dieser einmalige Erfüllungsaufwand für die
+Bundesverwaltung geht auf eine Eins-zu-eins-Umsetzung von EU-Recht zurück. Die einmaligen Mehraufwände werden 
+finanziell im Einzelplan 06 Kapitel 0614 ausgeglichen. Die einmaligen Kosten der Statistischen Ämter der Länder 
+belaufen sich auf 6 199 119 Euro Personalkosten sowie 55 082 Euro Materialkosten. 
+4. Erfüllungsaufwand 
+Der jährliche Erfüllungsaufwand der Wirtschaft verringert sich um rund 2,2 Millionen Euro. Für die Verwaltung 
+entsteht ein einmaliger Erfüllungsaufwand von rund 5,2 Millionen Euro, wobei rund 463 000 auf die Bundesebene 
+entfällt.  
+Erfüllungsaufwand der Wirtschaft: 
+lfd. Nr. 
+Artikel
+Regelungsentwurf; Norm 
+(§§);
+Bezeichnung der
+Vorgabe 
+IP 
+Jährliche 
+Fallzahl 
+und Einheit 
+Jährlicher 
+Aufwand pro 
+Fall
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Wirtschaftszweig) + 
+Sachkosten 
+in Euro) 
+Jährlicher
+Erfüllungsaufwand (in 
+Tsd. Euro) 
+oder
+„geringfügig“
+(Begründung) 
+Einmalige 
+Fallzahl 
+und Einheit 
+Einmaliger 
+Aufwand pro 
+Fall
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Wirtschaftszweig) + 
+Sachkosten 
+in Euro) 
+Einmaliger
+Erfüllungsaufwand (in 
+Tsd. Euro) 
+oder
+„geringfügig“
+(Begründung) 
+4.2.1 
+§ 3 Abs. 2 
+Nr. 1 HdlDl-
+StatG;
+Konjunkturstatistik 
+im Handels- 
+und
+Dienstleistungsbereich 
+Ja 
+-7.800
+Erhebungseinheiten 
+25 Euro 
+= (30 / 60 * 
+50,00 Euro/h 
+(WZ: A-S)) 
+-195       
+4.2.1 
+§ 3 Abs. 2 
+Nr. 1 HdlDl-
+StatG;
+Konjunkturstatistik 
+im Handels- 
+und
+Dienstleistungsbereich 
+Ja 
+477.600
+Erhebungseinheiten 
+-4,2 Euro 
+= (-5 / 60 * 
+50,00 Euro/h 
+(WZ: A-S)) 
+-1.990       
+ Summe 
+(in Tsd. Euro)    -2 185   0 
+ davon aus
+Informationspflichten (IP) 
+ 
+  
+-2 185
+Erfüllungsaufwand der Verwaltung: 
+lfd. Nr. 
+Artikel
+Regelungsentwurf; 
+Norm (§§);
+Bezeichnung der 
+Vorgabe 
+Bund/
+Land 
+Jährliche 
+Fallzahl 
+und Einheit 
+Jährlicher 
+Aufwand pro 
+Fall
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) + 
+Sachkosten 
+in Euro) 
+Jährlicher
+Erfüllungsaufwand (in 
+Tsd. Euro) 
+oder
+„geringfügig“
+(Begründung)“ 
+Einmalige 
+Fallzahl 
+und Einheit 
+Einmaliger 
+Aufwand pro 
+Fall
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) + 
+Sachkosten 
+in Euro) 
+Einmaliger
+Erfüllungsaufwand (in 
+Tsd. Euro) 
+oder
+„geringfügig“
+(Begründung) 
+4.3.1 
+§ 15 HdlD-
+lStatG;
+Durchführung der
+strukturstatistischen
+Erhebungen im 
+Handels- 
+und
+Dienstleistungsbereich 
+(StBA);  
+id-ip: 
+202105251
+3090201 
+Bund       
+1
+Statistisches
+Bundesamt 
+315.258 Euro 
+= (297.600 / 
+60 * 63,56 
+Euro/h (8 % 
+mD; 5 % gD; 
+87 % hD)) 
+315 
+4.3.2 
+§ 5 Nr. II 
+Prod
+GewStatG;
+Erhebungen im
+Produzierenden
+Gewerbe 
+(StBA);  
+id-ip: 
+202105251
+4015001 
+Bund       
+1
+Statistisches
+Bundesamt 
+108.587,4 
+Euro 
+= (126.240 / 
+60 * 51,61 
+Euro/h (18 % 
+mD; 36 % 
+gD; 46 % 
+hD)) 
+109 
+4.3.3 
+§ 4 Verd-
+StatG;
+Durchführung der
+Verdiensterhebung 
+(StBA) 
+Bund       
+1
+Statistisches
+Bundesamt 
+3.232 Euro 
+= (4.800 / 60 
+* 40,40 
+Euro/h 
+(100 % gD)) 
+3 
+4.3.4 
+§ 7 
+KoStruk-
+StatG;
+Kostenstrukturstatistik 
+(StBA);  
+id-ip: 
+202105251
+3181001 
+Bund       
+1
+Statistisches
+Bundesamt 
+4.320 Euro 
+= (4.800 / 60 
+* 54,00 
+Euro/h (50 % 
+gD; 50 % 
+hD)) 
+4
+lfd. Nr. 
+Artikel
+Regelungsentwurf; 
+Norm (§§);
+Bezeichnung der 
+Vorgabe 
+Bund/
+Land 
+Jährliche 
+Fallzahl 
+und Einheit 
+Jährlicher 
+Aufwand pro 
+Fall
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) + 
+Sachkosten 
+in Euro) 
+Jährlicher
+Erfüllungsaufwand (in 
+Tsd. Euro) 
+oder
+„geringfügig“
+(Begründung)“ 
+Einmalige 
+Fallzahl 
+und Einheit 
+Einmaliger 
+Aufwand pro 
+Fall
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) + 
+Sachkosten 
+in Euro) 
+Einmaliger
+Erfüllungsaufwand (in 
+Tsd. Euro) 
+oder
+„geringfügig“
+(Begründung) 
+4.3.5 
+§ 2
+BeherbStatG;
+Durchführung der
+Beherberungsstatistik (StBA) 
+Bund       
+1
+Statistisches
+Bundesamt 
+4.320 Euro 
+= (4.800 / 60 
+* 54,00 
+Euro/h (50 % 
+gD; 50 % 
+hD)) 
+4 
+4.3.6 
+§ 1 Abs. 1 
+VwDVG; 
+Empfang 
+sowie
+Speicherung 
+und
+Prüfung der 
+gelieferten
+Verwaltungsdaten 
+für die
+Statistik der
+Versicherungen,
+Pensionskassen und
+Pensionsfonds
+(Statistisches
+Bundesamt); id-ip: 
+201809101
+5075301 
+Bund       
+1
+Statistisches
+Bundesamt 
+19.456 Euro 
+= (19.200 / 
+60 * 60,80 
+Euro/h (25 % 
+gD; 75 % 
+hD)) 
+19 
+4.3.7 
+§ 14
+Absatz 13 
+GewO;
+Durchführung der 
+Statistik 
+über die
+Gewerbeanzeigen 
+(StBA) 
+Bund       
+1
+Statistisches
+Bundesamt 
+3.232 Euro 
+= (4.800 / 60 
+* 40,40 
+Euro/h 
+(100 % gD)) 
+3 
+4.3.8 
+§ 2 
+GWStatG; 
+Statistik zu 
+globalen
+Wertschöpfungsketten; id-ip: 
+202311161
+0115201 
+Bund       
+1
+Statistisches
+Bundesamt 
+4.320 Euro 
+= (4.800 / 60 
+* 54,00 
+Euro/h (50 % 
+gD; 50 % 
+hD)) 
+4
+lfd. Nr. 
+Artikel
+Regelungsentwurf; 
+Norm (§§);
+Bezeichnung der 
+Vorgabe 
+Bund/
+Land 
+Jährliche 
+Fallzahl 
+und Einheit 
+Jährlicher 
+Aufwand pro 
+Fall
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) + 
+Sachkosten 
+in Euro) 
+Jährlicher
+Erfüllungsaufwand (in 
+Tsd. Euro) 
+oder
+„geringfügig“
+(Begründung)“ 
+Einmalige 
+Fallzahl 
+und Einheit 
+Einmaliger 
+Aufwand pro 
+Fall
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) + 
+Sachkosten 
+in Euro) 
+Einmaliger
+Erfüllungsaufwand (in 
+Tsd. Euro) 
+oder
+„geringfügig“
+(Begründung) 
+4.3.9 
+Artikel 1-
+Artikel 12;
+Durchführung
+dezentraler
+Erhebungen
+(Statistische
+Ämter der 
+Länder) 
+[vorläufige 
+Schätzung] 
+Land       
+1
+Statistischer
+Verbund (hier: 
+Statistische 
+Ämter der 
+Länder) 
+4.739.603,1 
+Euro 
+= (8.553.600 
+/ 60 * 32,86 
+Euro/h (85 % 
+mD; 13 % 
+gD; 2 % hD) 
++55.081,5 
+Euro) 
+4.740 
+4.3.10 
+Artikel 11; 
+§3 Abs. 3 
+Nr. 12 
+UBRegG;
+Speicherung von 
+EUID 
+Bund   0   0 
+ 
+Summe 
+(in Tsd. 
+Euro) 
+   
+- 
+  
+5 202 
+ 
+davon auf
+Bundesebene 
+   
+- 
+  
+463 
+ 
+davon auf
+Landesebene
+(inklusive
+Kommunen) 
+   
+- 
+  
+4 740 
+4.1. Erfüllungsaufwand der Bürgerinnen und Bürger nach Vorgaben 
+Für Bürgerinnen und Bürger entsteht kein Erfüllungsaufwand. 
+4.2 Erfüllungsaufwand der Wirtschaft nach Vorgaben 
+Im Folgenden wird die Schätzung des Erfüllungsaufwands der Wirtschaft für die einzelnen Vorgaben dargestellt. 
+Vorgabe 4.2.1 (Informationspflicht): Konjunkturstatistik im Handels- und Dienstleistungsbereich; § 3
+Absatz 2 Nummer 1 HdlDlStatG 
+Für die konjunkturstatistische Erhebung werden die Meldeschwellenwerte im Abschnitt G – Handel Abteilung 47 
+von 450 000 Euro auf 550 000 Euro Jahresumsatz und im Abschnitt I – Gastgewerbe von 165 000 Euro auf 
+200 000 Euro Jahresumsatz angehoben. Auch dadurch reduziert sich der Kreis der Erhebungseinheiten. Durch die 
+Schätzung der bereichsspezifischen Preisentwicklungen bis 2028 wird im Abschnitt G – Handel Abteilung 47 
+vermieden, dass ab 2028 zusätzlich circa 500 Einheiten befragt werden, im Abschnitt I – Gastgewerbe wären es 
+etwa 150 Einheiten.
+Insgesamt werden durch die Änderung in § 3 Absatz 2 Nummer 1 des Handels- und
+Dienstleistungsstatistikgesetzes somit ab 2028 circa 650 Einheiten nicht zu den betreffenden Konjunkturerhebungen herangezogen. Die 
+Erhebungen werden monatlich durchgeführt, so dass die jährliche Anzahl bei circa 7 800 Fällen liegen wird. 
+Eine weitere Anhebung der bereits sehr hohen Meldeschwellen in § 3 Absatz 2 Buchstabe b Nummer 2a, 2c ist 
+nicht möglich, weil dann die Repräsentativität und insbesondere die Zuverlässigkeit der betreffenden
+Konjunkturstatistiken erheblich beeinträchtigt wären, die auch auf der Grundlage von Sekundärdaten erstellt werden. 
+Laut Onlinedatenbank des Erfüllungsaufwands liegt der Zeitaufwand bei 30 Minuten pro Fall und der aktuelle 
+Lohnsatz bei 50,00 Euro pro Stunde. Der jährliche Erfüllungsaufwand reduziert sich also um rund 195 000 Euro. 
+Durch die Erweiterung des § 6 Absatz 1 um Satz 5 werden von den circa 40 000 auskunftspflichtigen
+Erhebungseinheiten zusätzlich etwa 39 800 Einheiten pro Monat um etwa 5 Minuten entlastet, da sie nicht mehr zum
+Merkmal „Zahl der tätigen Personen der Erhebungseinheit insgesamt nach Art der Tätigkeit“ melden müssen, weil sie 
+entweder einen Jahresumsatz von unter 250 Millionen Euro erzielen oder nur ein Geschäftsfeld haben. 
+Bei einem Lohnsatz von 50,00 Euro pro Stunde reduziert sich der jährliche Erfüllungsaufwand um weitere 
+1 990 000 Euro. 
+Insgesamt reduziert sich der jährliche Erfüllungsaufwand für die Konjunkturstatistik im Handels- und
+Dienstleistungsbereich also um circa 2 185 000 Euro. 
+4.3 Erfüllungsaufwand der Verwaltung nach Vorgaben 
+Im Folgenden wird die Schätzung des Erfüllungsaufwands der Verwaltung für die einzelnen Vorgaben dargestellt. 
+Vorgabe 4.3.1: Durchführung der strukturstatistischen Erhebungen im Handels- und
+Dienstleistungsbereich (StBA); § 15 HdlDlStatG; Bund 
+Dem Statistischen Bundesamt entsteht durch die Änderung der Wirtschaftszweigsystematik aufgrund von
+Anpassungsarbeiten der Erhebungs-, Daten- und Auswertungsgrundlagen einmaliger Erfüllungsaufwand. In
+Verbindung mit dem Handels- und Dienstleistungsstatistikgesetz entsteht ein einmaliger Zeitaufwand von 620
+Arbeitstagen. Dabei entfallen 540 Arbeitstage auf den höheren Dienst, 30 Tage auf den gehobenen Dienst und 50 Tage 
+auf den mittleren Dienst.  
+Nach Berücksichtigung der entsprechenden standardisierten Lohnkostensätze auf Bundesebene gemäß Leitfaden 
+zur Ermittlung und Darstellung des Erfüllungsaufwands in Regelungsvorhaben der Bundesregierung (siehe
+Anhang 9) ist demnach mit einem gewichteten Lohnkostensatz von 63,56 Euro pro Stunde zu rechnen.  
+Dadurch ergibt sich ein einmaliger Erfüllungsaufwand in Höhe von rund 315 000 Euro. 
+Vorgabe 4.3.2: Erhebungen im Produzierenden Gewerbe (StBA); § 5 Nummer II ProdGewStatG; Bund 
+Analog zu Vorgabe 4.3.1 entsteht in Verbindung mit dem Gesetz über die Statistik im Produzierenden Gewerbe 
+ein einmaliger Zeitaufwand von 263 Arbeitstagen. Dabei entfallen 120 Arbeitstage auf den höheren, 95 Tage auf 
+den gehobenen und 48 Tage auf den mittleren Dienst. Demzufolge errechnet sich ein gewichteter Lohnkostensatz 
+von 51,61 Euro pro Stunde.  
+Der einmalige Erfüllungsaufwand liegt somit bei rund 109 000 Euro.  
+Vorgabe 4.3.3: Durchführung der Verdiensterhebung (StBA); § 4 VerdStatG; Bund 
+Analog zu Vorgabe 4.3.1 entsteht in Verbindung mit dem Verdienststatistikgesetz ein einmaliger Zeitaufwand 
+von zehn Arbeitstagen. Die Arbeiten übernimmt dabei der gehobene Dienst, weshalb ein Lohnkostensatz von 
+40,40 Euro pro Stunde für die weitere Berechnung angesetzt werden kann.  
+Der einmalige Erfüllungsaufwand liegt somit bei rund 3 000 Euro. 
+Vorgabe 4.3.4: Kostenstrukturstatistik (StBA); § 7 KoStrukStatG; Bund 
+Analog zu Vorgabe 4.3.1 entsteht in Verbindung mit der Kostenstrukturstatistik ein einmaliger Zeitaufwand von 
+zehn Arbeitstagen. Dabei entfallen fünf Arbeitstage auf den höheren und fünf Tage auf den gehobenen Dienst. 
+Demzufolge errechnet sich ein gewichteter Lohnkostensatz von 54,00 Euro pro Stunde.
+Der einmalige Erfüllungsaufwand liegt somit bei rund 4 000 Euro. 
+Vorgabe 4.3.5: Durchführung der Beherbergungsstatistik (StBA); § 2 BeherbStatG; Bund 
+Analog zu Vorgabe 4.3.1 entsteht in Verbindung mit dem Beherbergungsstatistikgesetz ein einmaliger
+Zeitaufwand von zehn Arbeitstagen. Dabei entfallen fünf Arbeitstage auf den höheren und fünf Tage auf den gehobenen 
+Dienst. Demzufolge errechnet sich ein gewichteter Lohnkostensatz von 54,00 Euro pro Stunde.  
+Der einmalige Erfüllungsaufwand liegt somit bei rund 4 000 Euro. 
+Vorgabe 4.3.6: Empfang sowie Speicherung und Prüfung der gelieferten Verwaltungsdaten für die Statistik 
+der Versicherungen, Pensionskassen und Pensionsfonds (Statistisches Bundesamt); § 1 Absatz 1 VwDVG; 
+Bund 
+Analog zu Vorgabe 4.3.1 entsteht in Verbindung mit dem Verwaltungsdatenverwendungsgesetz ein einmaliger 
+Zeitaufwand von 40 Arbeitstagen. Dabei entfallen 30 Arbeitstage auf den höheren und zehn Tage auf den
+gehobenen Dienst. Demzufolge errechnet sich ein gewichteter Lohnkostensatz von 60,80 Euro pro Stunde.  
+Der einmalige Erfüllungsaufwand liegt somit bei rund 19 000 Euro. 
+Vorgabe 4.3.7: Durchführung der Statistik über die Gewerbeanzeigen (StBA); § 14 Absatz 13 GewO; Bund 
+Analog zu Vorgabe 4.3.1 entsteht in Verbindung mit der Gewerbeordnung ein einmaliger Zeitaufwand von zehn 
+Arbeitstagen. Die Arbeiten übernimmt dabei der gehobene Dienst, weshalb ein Lohnkostensatz von 40,40 Euro 
+pro Stunde für die weitere Berechnung angesetzt werden kann.  
+Der einmalige Erfüllungsaufwand liegt somit bei rund 3 000 Euro. 
+Vorgabe 4.3.8: Statistik zu globalen Wertschöpfungsketten; § 2 GWStatG; Bund 
+Analog zu Vorgabe 4.3.1 entsteht in Verbindung mit dem Gesetz über die Statistik zu globalen
+Wertschöpfungsketten ein einmaliger Zeitaufwand von zehn Arbeitstagen. Dabei entfallen fünf Arbeitstage auf den höheren und 
+fünf Tage auf den gehobenen Dienst. Demzufolge errechnet sich ein gewichteter Lohnkostensatz von 54,00 Euro 
+pro Stunde.  
+Der einmalige Erfüllungsaufwand liegt somit bei rund 4 000 Euro. 
+Vorgabe 4.3.9: Durchführung dezentraler Erhebungen nach Artikel 1 bis Artikel 12 (Statistische Ämter 
+der Länder) 
+Laut Gesetzesfolgenabschätzung der Statistischen Ämter der Länder entsteht diesen ein einmaliger Zeitaufwand 
+von insgesamt etwa 17 820 Arbeitstagen (entspricht 89,10 Mitarbeitendenkapazitäten, wobei 75,94 MAK auf den 
+mittleren Dienst, 11,49 MAK auf den gehobenen Dienst und 1,67 MAK auf den höheren Dienst entfallen).  
+Dieser Aufwand entsteht vorrangig durch die Anpassung von Fachverfahren und die manuelle Nachqualifizierung 
+der Wirtschaftszweige von Einheiten im Unternehmensregister.  
+Hinzu kommen einmalige Sachkosten in Höhe von etwa 55 000 Euro, die unter anderem aufgrund von
+Schulungen und Druckkosten anfallen. 
+Insgesamt entsteht den Statistischen Ämtern der Länder ein einmaliger Erfüllungsaufwand in Höhe von rund 4,7 
+Millionen Euro. 
+Vorgabe 4.3.10: Artikel 12 (Änderung des Unternehmensbasisdatenregistergesetzes) 
+Einerseits handelt es sich um inhaltliche Konkretisierungen: Es soll klargestellt werden, dass die Quellregister 
+nicht nur die Stammdaten, sondern auch das identifizierende Merkmal übermitteln sollen. Anderseits kann die 
+ergänzte Identifikationsnummer nach § 3 Absatz 3 Nummer 12 (EUID) über den bereits angebundenen
+Justizdatenstrom abgegriffen werden. Da es sich um Sekundärdaten handelt, die über bereits etablierte Kanäle übermittelt 
+werden können, bleibt der Erfüllungsaufwand insgesamt unverändert. 
+Soweit der unter Abschnitt 4.3 dargestellte Erfüllungsaufwand des Bundes haushaltswirksam wird und nicht unter 
+Abschnitt „3. Haushaltsausgaben ohne Erfüllungsaufwand“ aufgeführt ist, wird er im jeweils betroffenen
+Einzelplan gegenfinanziert.
+5. Weitere Kosten 
+Außer dem unter Punkt 4 dargestellten Erfüllungsaufwand entstehen keine weiteren Kosten. Auswirkungen auf 
+Einzelpreise und das Preisniveau sind nicht zu erwarten. 
+6. Weitere Gesetzesfolgen 
+Gleichstellungspolitische Auswirkungen  
+Im Zuge der nach § 2 der Gemeinsamen Geschäftsordnung der Bundesministerien (GGO) vorzunehmenden
+Relevanzprüfung sind unter Berücksichtigung der unterschiedlichen Lebenssituationen von Frauen und Männern 
+keine Auswirkungen erkennbar, die gleichstellungspolitischen Zielen zuwiderlaufen. 
+Mit den Revisionen der europäischen Systematik der Wirtschaftszweige (NACE Revision 2.1) sowie der aus ihr 
+abgeleiteten nationalen Klassifikation der Wirtschaftszweige (WZ 2025) werden neuesten strukturellen,
+wissenschaftlichen und technischen Entwicklungen Rechnung getragen. Regelmäßige Aktualisierungen dieser
+Klassifikationen und die daraus folgende erforderliche Anpassung betroffener nationaler Rechtsgrundlagen
+gewährleisten, dass zuverlässige und vergleichbare Statistiken erstellt und den Nutzerinnen und Nutzern zur Verfügung
+gestellt werden können. 
+VIII. Befristung; Evaluierung 
+Für die vorgesehenen Anpassungen sind weder eine Befristung noch eine Evaluierung vorgesehen. Die
+Änderungen sind auf Dauer erforderlich, um zuverlässige und vergleichbare Statistiken zur Verfügung stellen zu können. 
+Darüber hinaus ist mit diesem Gesetz kein dauerhafter Erfüllungsaufwand verbunden. 
+B. Besonderer Teil 
+Zu Artikel 1 (Änderung des Handels- und Dienstleistungsstatistikgesetzes) 
+Zu Nummer 1 
+Die Ergänzung dient der Klarstellung, dass die strukturstatistischen Erhebungen die jeweils gültige Fassung der 
+NACE verwenden. Mit Inkrafttreten der Gesetzesänderung ist dies ab dem Berichtsjahr 2025 die NACE Revision 
+2.1, die in Anhang I zur Verordnung (EU) 2023/137 beschrieben ist. Zur weiteren Klarstellung wird auf die neue 
+nationale Klassifikation der Wirtschaftszweige WZ 2025 verwiesen, die national verwendet wird und sich aus der 
+europäischen NACE Revision 2.1 ableitet. Die WZ 2025 stimmt mit Ausnahme der tiefsten Gliederungsebene 
+(fünfstellig kodierte Unterklassen, sog. Fünfsteller-Ebene) mit der europäischen NACE (deren tiefste
+Gliederungsebene die Viersteller-Ebene ist) vollständig überein. Analog leitet sich aus der NACE Revision 2 die
+Klassifikation der Wirtschaftszweige WZ 2008 ab, die bis zum Jahresende 2027 weiterhin in den
+konjunkturstatistischen Erhebungen verwendet wird.  
+Zu Nummer 2 
+Es wurden redaktionelle Anpassungen an die Bezeichnungen der NACE Revision 2.1 vorgenommen. 
+Zu Nummer 3 
+Streichung, da der erste Berichtsmonat Januar 2021 war und es sich damit um eine laufende monatliche Erhebung 
+handelt und der erste Berichtsmonat nicht mehr relevant ist.  
+Zu Nummer 4 
+Die Anpassungen dienen der Klarstellung, welche konjunkturstatistischen Merkmale zu den tätigen Personen in 
+der Erhebung befragt werden. Eine Aufteilung nach Länder muss für den Handel und den Dienstleistungsbereich 
+zur Erfüllung der nationalen Anforderungen an diesen Konjunkturindikator erfolgen. Eine Ungenauigkeit in der 
+Formulierung wurde nun klargestellt und entsprechend der Formulierung in § 6 Absatz 1 Nummer 1
+vereinheitlicht. Zur Vereinfachung wird die Meldung der Art der Tätigkeit eingegrenzt. Die Zahl der tätigen Personen der
+Erhebungseinheit insgesamt nach Art der Tätigkeit wird somit nur noch bei Erhebungseinheiten, die einen
+Jahresumsatz von mindestens 250 Millionen Euro erzielen und mehr als ein Geschäftsfeld haben, erhoben. 
+Zu Nummer 5 
+Streichung, da das erste Berichtsjahr 2021 war und es sich damit um eine laufende jährliche Erhebung handelt 
+und das erste Berichtsjahr nicht mehr relevant ist. 
+Zu Nummer 6 
+Redaktionelle Anpassungen an die Bezeichnungen der NACE Revision 2.1. 
+Zu Nummer 7 
+Streichung, da keine Übergangsregelung benötigt wird. Die Erhebung existiert seit Berichtsjahr 2021 und wird 
+fortgeführt. 
+Zu Artikel 2 (Weitere Änderung des Handels- und Dienstleistungsstatistikgesetzes zum 1. Januar 2028) 
+Zu Nummer 1 
+Nach Beendigung des Übergangszeitraums wird die Übergangsvorschrift aufgehoben. 
+Zu Nummer 2 
+Die Anpassung dient der Klarstellung, dass die konjunkturstatistischen Erhebungen die jeweils gültige Fassung 
+der NACE verwendet. Mit vollständigem Inkrafttreten der Gesetzesänderung ist dies für die Berichtszeiträume ab 
+dem Berichtsmonat Januar 2028 für alle Wirtschaftszweige die NACE Revision 2.1.  
+Eine weitergehende Anhebung der Meldeschwellen ist nicht möglich, weil dadurch zu viele kleinere Unternehmen 
+mit ihren dynamischeren Umsatzentwicklungen ausgeschlossen wären, so dass die Repräsentativität der
+betreffenden Konjunkturstatistiken erheblich beeinträchtigt würde. 
+Zu Artikel 3 (Änderung des Gesetzes über die Statistik im Produzierenden Gewerbe) 
+Zu Nummer 1 
+Die Anpassung dient der Klarstellung, dass alle Erhebungen des konjunkturstatistischen Berichtssystems zunächst 
+weiterhin die aus der NACE Revision 2 abgeleitete Klassifikation der Wirtschaftszweige WZ 2008 verwenden. 
+Für die strukturstatistischen Berichtssysteme ist für die Berichtszeiträume ab Januar 2025 die aus der NACE
+Revision 2.1 abgeleitete Klassifikation der Wirtschaftszweige WZ 2025 zu verwenden.  
+Zu Nummer 2 
+Die Übergangsregelung bezog sich auf einen zurückliegenden Zeitraum und kann daher entfallen. 
+Zu Artikel 4 (Weitere Änderung des Gesetzes über die Statistik im Produzierenden Gewerbe zum 
+1. Januar 2027) 
+Der Zusatz Bauträger wird gestrichen, da der Wirtschaftszweig der Bauträger in der neuen NACE Revision 2.1 
+zukünftig nicht mehr in den Bereich des ProdGewStatG fällt. Die Anpassung unter der Nummer 3 Buchstabe b 
+(Berichtszeitraum) ist notwendig, um die Heranziehung der Bauträger bis zum Ende des Berichtsjahres 2027 zu 
+gewährleisten. 
+Zu Artikel 5 (Änderung des Verdienststatistikgesetzes) 
+Die Anpassung dient der Klarstellung, dass die Erhebung der Arbeitsverdienste die jeweils gültige Fassung der 
+NACE verwendet. Mit Inkrafttreten der Gesetzesänderung ist dies die NACE Revision 2.1, die in Anhang I zur 
+Verordnung (EU) 2023/137 beschrieben ist.  
+Zudem werden die Bezeichnungen der Abschnitte, in denen keine Arbeitsverdienste erhoben werden, auf
+diejenigen gemäß NACE Revision 2.1 angepasst.
+Zu Artikel 6 (Änderung des Gesetzes über Kostenstrukturstatistik) 
+Zu Nummer 1 
+Redaktionelle Anpassungen an die Bezeichnungen des Abschnitts R der NACE Revision 2.1. 
+Zu Nummer 2 
+In § 3 Absatz 1 Nummer 1 Buchstabe b kann auf eine Erhebung von Daten über Investitionen in immaterielle 
+Vermögenswerte bei ausgewählten Gruppen von Unternehmen und Einrichtungen zur Ausübung einer
+freiberuflichen Tätigkeit für Praxen von Ärzten, Zahnärzten und psychologischen Psychotherapeuten verzichtet werden, 
+da für dieses Merkmal für den Abschnitt R der NACE Revision 2.1 keine europäische Lieferverpflichtung besteht. 
+Zu Artikel 7 (Änderung des Beherbergungsstatistikgesetzes) 
+Durch die Änderung wird die EU-Rechtsgrundlage auf die gültige Fassung aktualisiert.  
+Die Liste der zu berücksichtigenden Wirtschaftsgruppen wird weiter differenziert und die in der NACE Revision 
+2.1 neu eingeführte Gruppe 55.4 „Vermittlungstätigkeiten für Beherbergungsdienstleistungen“ aufgenommen. 
+Dies soll Rechtssicherheit hinsichtlich der Auskunftspflicht von Betrieben schaffen, die sich primär als
+Vermittlungsdienstleister definieren und gleichzeitig als Beherbergungsbetriebe im Sinne von § 1 in Verbindung mit § 3 
+Absatz 1 des Beherbergungsstatistikgesetzes operieren. Der Umfang und die Struktur des Berichtskreises der
+Beherbergungsstatistik werden dadurch gegenüber dem Status quo ante nicht verändert. 
+Zu Artikel 8 (Änderung des Verwaltungsdatenverwendungsgesetzes) 
+Zu Nummer 1 
+Die Ergänzung wird vorgenommen, um eine erweiterte Datenlieferung der Bundesanstalt für
+Finanzdienstleistungsaufsicht zu ermöglichen, sofern die Daten vorliegen. Zudem wird der Verweis auf die geänderte Verordnung 
+zur NACE aktualisiert. 
+Zu Nummer 2 
+Es wird eine redaktionelle Änderung vorgenommen, da die erstmalige Datenlieferung zum Berichtsjahr 2021 in 
+der Vergangenheit liegt und seitdem eine jährliche Datenlieferung erfolgt. Außerdem wird eine Ergänzung
+vorgenommen, um eine erweiterte Datenlieferung der Deutschen Bundesbank zu ermöglichen, sofern die Daten
+vorliegen. Darüber hinaus wird mittels einer redaktionellen Änderung der Verweis auf die geänderte Verordnung zur 
+NACE aktualisiert. 
+Zu Artikel 9 (Änderung der Gewerbeordnung) 
+Die Anpassung dient der Klarstellung, dass die angemeldeten Tätigkeiten, die an die Statistischen Ämter der 
+Länder für die Zwecke der Erstellung einer Bundesstatistik über die Gewerbeanzeigen übermittelt werden, die 
+jeweils gültige Fassung der NACE verwendet. Mit Inkrafttreten der Gesetzesänderung ist dies die NACE Revision 
+2.1, die in Anhang I zur Verordnung (EU) 2023/137 beschrieben ist. 
+Zu Artikel 10 (Änderung des Gesetzes über die Statistik zu globalen Wertschöpfungsketten) 
+Die Anpassung dient der Klarstellung, dass die Erhebung nach dem Gesetz über die Statistik zu globalen
+Wertschöpfungsketten (GWStatG), die jeweils gültige Fassung der NACE verwendet. Mit Inkrafttreten der
+Gesetzesänderung ist dies die NACE Revision 2.1, die in Anhang I zur Verordnung (EU) 2023/137 beschrieben ist. 
+Zu Artikel 11 (Änderung des Unternehmensbasisdatenregistergesetzes) 
+Zu Nummer 1 
+Mit der Einführung der bundeseinheitlichen Wirtschaftsnummer durch das Register über
+Unternehmensbasisdaten wurde ein registerübergreifender Identifikator im Sinne des Unternehmensbasisdatenregistergesetzes
+geschaffen. Dieser dient nach § 2 Absatz 2 UBRegG dazu, im Basisregister geführte Unternehmen registerübergreifend 
+identifizieren zu können. Gemäß Zielsetzung des UBRegG dient diese Nummer perspektivisch der Umsetzung 
+des Once-Only-Prinzips für Unternehmen im Kontakt mit der öffentlichen Verwaltung. Um dieses Ziel zu
+realisieren, ist es notwendig, dass die bundeseinheitliche Wirtschaftsnummer möglichst breit verwendet werden kann.
+Zum jetzigen Zeitpunkt regelt § 2 Absatz 3 Satz 1, dass die empfangenden Register die bundeseinheitliche
+Wirtschaftsnummer speichern und verwenden dürfen, soweit dies für die Aufgabenerfüllung erforderlich ist. Nach der 
+bisherigen Formulierung darf das Statistische Bundesamt als Registerbehörde als Empfänger bzw. Übermittler 
+der bundeseinheitlichen Wirtschaftsnummer von bzw. an öffentliche Stellen auftreten. Die hier bewirkte
+Gesetzesänderung führt dazu, dass angebundene öffentliche Stellen die bundeseinheitliche Wirtschaftsnummer auch 
+weitergeben dürfen, sofern dies für die Aufgabenerledigung sowohl der übermittelnden Stelle als auch der
+empfangenden Stelle notwendig ist. Hiermit sollen die Ausbreitung und Verwendbarkeit der bundeseinheitlichen 
+Wirtschaftsnummer gefördert werden.  
+Zu Nummer 2 
+§ 3 Absatz 3 regelt, welche Identifikatoren im Register über Unternehmensbasisdaten gespeichert werden dürfen. 
+Durch die Regelung in § 10 Satz 1 Nummer 6 und Nummer 7 können aufgrund der
+Rechtsverordnungsermächtigung weitere öffentliche Stellen für Datenübermittlungen an bzw. durch die Registerbehörde mittels
+Rechtsverordnung bestimmt werden. Um in Zukunft auch die zugehörigen Identifikationsnummern speichern zu dürfen, 
+wird § 3 Absatz 3 um Nummer 11 ergänzt. 
+Die europäische Identifikationsnummer (EU ID) ist ein Identifikator, der für die zweifelsfreie Identifikation des 
+Unternehmens im europäischen Unternehmenskontext benötigt wird. Diese Identifikationsnummer wird im
+Rahmen der Umsetzung der eIDAS Verordnung der europäischen Union eine zentrale Rolle im entsprechenden
+Ökosystem digitaler Identitäten einnehmen. Aufgrund dessen ist eine eindeutige Zuordnung von EU ID und
+bundeseinheitlicher Wirtschaftsnummer erforderlich; dies macht es erforderlich diese Identifikationsnummer im
+Basisregister zu führen. 
+Zu Nummer 3 
+Die Bezeichnung des Bundesministeriums des Innern wird an die seit dem Organisationserlass des
+Bundeskanzlers vom 6. Mai 2025 kürzere Fassung angepasst, indem ein Änderungsbefehl zur Streichung der Worte „für Bau 
+und Heimat“ in § 5 Absatz 1 Nummer 10 UBRegG aufgenommen wird.  
+Zu Nummer 4 
+Die Regelung in § 10 Satz 1 Nummer 6 muss aufgrund der nicht eindeutigen Formulierung angepasst werden. Sie 
+machte nicht ganz zweifelsfrei deutlich, dass durch die Verordnung nach § 10 zum einen öffentliche Stellen
+bestimmt werden können, um Daten an die Registerbehörde zu übermitteln, und zum anderen öffentliche Stellen 
+bestimmt werden können, um Daten von der Registerbehörde übermittelt zu bekommen (kumulativ oder
+alternativ). Diese uneindeutige „sowohl als auch“-Formulierung in der bisherigen Fassung des § 10 Satz 1 Nummer 6 
+wird nun durch die Regelung in Nummern 6 und 7 ersetzt. Hierbei handelt es sich um die Klarstellung, dass 
+öffentliche Stellen mittels Rechtsverordnung für die Datenübermittlung an die (Nummer 6) und von der
+(Nummer 7) Registerbehörde benannt werden können, wobei beide Konstellationen alternativ oder kumulativ vorliegen 
+können. 
+Zu Artikel 12 (Inkrafttreten) 
+Artikel 12 regelt das Inkrafttreten des Gesetzes.
+Anlage 2 
+Stellungnahme des Nationalen Normenkontrollrates (NKR) gem. § 6 Abs. 1 NKRG 
+Entwurf eines Gesetzes zur Anpassung nationaler Rechtsvorschriften an die
+europäische Systematik der Wirtschaftszweige NACE Revision 2.1 (NKR-Nr. 7739, BMWE) 
+Der Nationale Normenkontrollrat hat den Regelungsentwurf vom 15.08.2025 mit folgendem 
+Ergebnis geprüft: 
+I Zusammenfassung 
+Bürgerinnen und Bürger keine Auswirkungen 
+Wirtschaft  
+Jährlicher Erfüllungsaufwand (Entlastung): rund – 2,2 Mio. Euro 
+davon aus Bürokratiekosten (Entlastung): rund – 2,2 Mio. Euro 
+Verwaltung  
+Bund  
+Einmaliger Erfüllungsaufwand: rund 460 000 Euro 
+Länder  
+Einmaliger Erfüllungsaufwand: rund 4,7 Mio. Euro 
+„One in, one out”-Regel 
+ 
+Im Sinne der „One in, one out“-Regel der 
+Bundesregierung stellt der jährliche
+Erfüllungsaufwand der Wirtschaft in diesem
+Regelungsvorhaben ein „Out“ von 2,2 Mio. 
+Euro dar. 
+Umsetzung von EU-Recht  Dem NKR liegen keine Anhaltspunkte dafür 
+vor, dass bei den europarechtlich
+veranlassten Regelungen (Überarbeitung der 
+Wirtschaftsklassifikationen) über eine 1:1-
+Umsetzung von EU-Recht hinausgegangen 
+wird.  
+Über die Umsetzung von EU-Recht hinaus 
+sieht der Entwurf nationale entlastende 
+Maßnahmen vor. 
+Nutzen des Vorhabens Das Ressort hat keinen Nutzen dargestellt. 
+Digitalcheck Das Ressort hat Möglichkeiten zum
+digitalen Vollzug der Neuregelung
+(Digitaltauglichkeit) geprüft und hierzu einen
+Digitalcheck mit nachvollziehbarem Ergebnis 
+durchgeführt.
+Der Nationale Normenkontrollrat begrüßt, dass das Vorhaben, neben der Umsetzung von 
+EU-Recht, auch nationale Maßnahmen zur Entlastung der Wirtschaft von Statistikpflichten 
+vorsieht. Der NKR empfiehlt der Bundesregierung zeitnah weitere Entlastungspotenziale 
+zu heben (z. B. durch Anhebung der Meldeschwellen, Verringerung der
+Befragungshäufigkeit und Stichprobengrößen, Nachnutzung bestehender Daten). Dabei sieht der NKR 
+insbesondere in folgenden Statistiken großes Entlastungspotenzial: 
+• Außenhandelsstatistik, insbesondere bei der Erhebung zum „Extrahandel“
+(Warenverkehr mit Drittländern) 
+• Monatliche Produktionserhebung im Bereich Verarbeitendes Gewerbe, Bergbau und 
+Gewinnung von Steinen und Erden 
+• Strukturstatistik im Handels- und Dienstleistungsbereich  
+• Konjunkturstatistik für den Einzelhandel und das Gastgewerbe 
+Die Darstellung der Regelungsfolgen ist nachvollziehbar und methodengerecht. Der NKR 
+erhebt hiergegen im Rahmen seines gesetzlichen Auftrags keine Einwände.  
+II Regelungsvorhaben 
+Zur Durchführung der Delegierte Verordnung (EU) 2023/1371 sieht der vorliegende
+Gesetzentwurf die Anpassung nationaler Statistikregelungen an die neue europäische Klassifikation 
+der Wirtschaftszweige – NACE Revision 2.1 vor. Die NACE bildet den Rahmen für die
+Sammlung und Darstellung einer breiten Palette statistischer, nach Wirtschaftszweigen
+untergliederter Daten aus dem Bereich Wirtschaft (z. B. Produktion, Beschäftigung,
+Volkswirtschaftliche Gesamtrechnungen) und aus anderen Bereichen.  
+Über die Umsetzung von EU-Recht hinaus (Umsetzung der neuen
+Wirtschaftszweigklassifikation) sieht der Entwurf folgende Maßnahmen zur Entlastung von statistischen
+Berichtspflichten vor: 
+• Anhebung von Meldeschwellen an die Inflation 
+• Vereinfachung zur Lieferung von Daten 
+III Bewertung 
+III.1 Erfüllungsaufwand 
+Wirtschaft 
+Das Regelungsvorhaben entlastet die Wirtschaft von jährlichen Bürokratiekosten in Höhe von 
+rund 2,2 Mio. Euro. Die Entlastungen resultieren aus den folgenden nationalen Vorgaben: 
+• Wegfall der Meldung zur „Zahl der tätigen Personen nach Art der Tätigkeit“ 
+Die Zahl der tätigen Personen der Erhebungseinheit insgesamt nach Art der Tätigkeit wird 
+künftig nur noch bei Erhebungseinheiten, die einen Jahresumsatz von mindestens 250 Mio. 
+Euro erzielen und mehr als ein Geschäftsfeld haben, erhoben. Hieraus resultiert eine jährliche 
+Entlastung in Höhe von rund 2 Mio. Euro. Diese stellt das Ressort unter der Annahme, dass 
+rund 40 000 Betrieben jeweils ein monatlicher Zeitaufwand von rund 5 Minuten entfällt,
+nachvollziehbar dar.  
+ 
+1 Delegierte Verordnung (EU) 2023/137 der Kommission vom 10. Oktober 2022 zur Änderung der Verordnung (EG) Nr. 1893/2006 
+des Europäischen Parlaments und des Rates zur Aufstellung der statistischen Systematik der Wirtschaftszweige NACE Revision 2: 
+https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=OJ:L:2023:019:FULL (S. 7 ff.)
+• Erhöhung der Meldeschwellen für Betriebe im Handel- und Gastgewerbe 
+In der konjunkturstatistischen Erhebung werden die Meldeschwellen von 450 000 Euro auf 
+550 000 Euro Jahresumsatz angehoben. In der Folge werden künftig 650 Unternehmen nicht 
+mehr zu den monatlichen Konjunkturerhebungen herangezogen und somit von insgesamt 
+jährlichen Bürokratiekosten in Höhe von knapp 200 000 Euro entlastet. 
+Verwaltung 
+Der Verwaltung entsteht einmaliger Erfüllungsaufwand in Höhe von rund 5,2 Mio. Euro. Dieser 
+fällt zu einem Großteil bei den Statistischen Landesämtern an. 
+• Länder (Statistischen Ämter der Länder): 
+Bei den Statistischen Landesämtern werden Anpassungsarbeiten in den Fachanwendungen 
+sowie eine manuelle Nachqualifizierung der Wirtschaftszweige im Unternehmensregister
+erforderlich. Hierfür werden lt. Ressort 17 800 Arbeitstage (entspricht knapp 90
+Mitarbeiterkapazitäten) v. a. des mittleren Dienstes benötigt. Hinzu kommen einmalige Sachkosten von 
+55 000 Euro. Insgesamt ergibt sich daraus ein einmaliger Erfüllungsaufwand von rund 4,6 
+Mio. Euro. 
+• Bund (Statistisches Bundesamt): 
+Auf Bundesebene entsteht einmaliger Erfüllungsaufwand in Höhe von rund 460 000 Euro. 
+Dieser resultiert aus den folgenden Vorgaben: 
+Vorgabe 
+Einmaliger
+Erfüllungsaufwand (in Tsd. 
+Euro) 
+Anpassung der Erhebungs-, Daten- und Auswertungsgrundlagen beim 
+Statistischen Bundesamt 315 
+Anpassung bei Erhebungen im Produzierenden Gewerbe beim
+Statistischen Bundesamt 109 
+Empfang sowie Speicherung und Prüfung der gelieferten
+Verwaltungsdaten für die Statistik der Versicherungen, Pensionskassen und
+Pensionsfonds  
+  19 
+Verschiedene Anpassung der Erhebungs-, Daten- und
+Auswertungsgrundlagen in weiteren Statistikbereichen, kumuliert   16 
+Summe 463 
+Lutz Goebel Garrelt Duin 
+Vorsitzender Berichterstatter für das  
+Bundesministerium für Wirtschaft 
+und Energie 
+ 
+
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

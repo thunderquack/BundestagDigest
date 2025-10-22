@@ -1,0 +1,520 @@
+Bundesrat Drucksache  419/25 
+ 
+  
+  
+ 
+04.09.25 
+ In  
+ 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln 
+Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de 
+ISSN 0720-2946 
+Verordnung 
+des Bundesministeriums  
+des Innern 
+ 
+Verordnung zur Umsetzung des Gesetzes über die 
+Selbstbestimmung in Bezug auf den Geschlechtseintrag im 
+Meldewesen 
+A. Problem und Ziel 
+Mit dieser Änderungsverordnung werden im Bereich des Meldewesens die Erste
+Bundesmeldedatenübermittlungsverordnung (1. BMeldDÜV), die Zweite
+Bundesmeldedatenübermittlungsverordnung (2. BMeldDÜV), die Bundesmeldedatenabrufverordnung 
+(BMeldDAV) und die Bundesmeldedatendigitalisierungsverordnung (BMeldDigiV)
+geändert. 
+Behörden nutzen für die (registerübergreifende) Identifikation einer Person deren
+Grunddaten (Vorname, Nachname, Geburtsdatum, Anschrift, Geschlecht usw.). Der Name einer 
+Person ist dabei ein wesentliches Merkmal, Datensätze zweifelsfrei und dauerhaft der 
+richtigen Person zuzuordnen. Deshalb gibt es aufgrund gesetzlicher Vorschriften
+zwischen wichtigen Registern der Verwaltung Änderungsmitteilungen, wenn sich wesentliche 
+Daten der Person wie z.B. Name, Anschrift, Geschlecht, etc. ändern. So wird
+gewährleistet, dass diese Register stets über die aktuellen Daten zu der Person verfügen. 
+Die Anpassung erfolgt, da mit dem Inkrafttreten des Gesetzes über die Selbstbestimmung 
+in Bezug auf den Geschlechtseintrag (SBGG) am 1. November 2024 Personen im Inland 
+die Möglichkeit haben, gegenüber dem Standesamt zu erklären, dass die Angabe zu
+ihrem Geschlecht in einem deutschen Personenstandseintrag geändert werden soll. 
+Gleichzeitig sind mit der Erklärung auch die Vornamen zu bestimmen, die die Person
+zukünftig führen will und die dem gewählten Geschlechtseintrag entsprechen. 
+Der zuständigen Meldebehörde wird von dem Standesamt, das eine Beurkundung über 
+die Angabe des Geschlechts oder die Änderung eines Namens vornimmt oder mangels 
+Eintragungsmöglichkeit in ein nicht vorhandenes Personenstandsregister auch nur
+entgegennimmt, gemäß § 57 Absatz 4 Nummer 4, § 58 Absatz 2 Nummer 4, § 59 Absatz 2 
+Nummer 4 sowie § 62 Absatz 1 Nummer 1 der Personenstandsverordnung (PStV) die 
+Änderung mitgeteilt. Die Meldebehörden schreiben nach der Mitteilung des Standesamtes 
+über die erfolgte Änderung von Geschlechtseintrag und Vornamen das Melderegister fort. 
+Um die weitere Nachverfolgbarkeit einer Person nach einer Änderung des
+Geschlechtseintrags und der Vornamen zu gewährleisten, informiert sodann die zuständige 
+Meldebehörde aufgrund der einschlägigen Rechtsvorschriften die weiteren Behörden, die 
+für ihre Aufgabenerledigung die Informationen benötigen (z. B. Datenstelle der
+Rentenversicherung und Bundeszentralamt für Steuern, §§ 6 und 9 der 2. BMeldDÜV).
+Neben dem neuen Geschlechtseintrag muss dabei auch der bisherige Geschlechtseintrag 
+übermittelt werden. Das ist erforderlich, damit die betroffenen Personen, die in den
+verschiedenen amtlichen Registern und amtlichen Informationssystemen noch mit den
+früheren Vornamen und dem früheren Geschlechtseintrag registriert sind, von den
+Datenempfängern identifiziert werden können und ihre Identität nachvollziehbar ist. § 13 Absatz 1 
+Satz 2 Nummer 1 SBGG regelt, dass das Offenbarungsverbot gemäß § 13 Absatz 1 Satz 
+1 SBGG nicht gilt, wenn amtliche Register oder amtliche Informationssysteme
+personenbezogene Daten zu der betroffenen Person enthalten und im Rahmen der jeweiligen
+Aufgabenerfüllung von öffentlichen Stellen die Verarbeitung dieser Daten nach anderen 
+Rechtsvorschriften erforderlich ist. Die bis zur Änderung des Geschlechtseintrags und der 
+Vornamen eingetragenen Angaben dürfen nach § 13 Absatz 3 SBGG zu diesen Zwecken 
+weiterhin verarbeitet werden. 
+B. Lösung 
+Geschlechtseintrags- und Namensänderungen nach dem SBGG sind an alle Behörden 
+und sonstige öffentliche Stellen zu übermitteln, die im Rahmen der bestehenden
+rechtlichen Regelungen Daten zu Vornamen und zur Geschlechtsangabe erhalten dürfen und 
+bei denen die Änderung dieser Daten ein Auslöser der Datenübermittlung ist. Dies gilt 
+auch für Datenabrufe aus den Registern. 
+Hierfür wurden in den Datensatz für das Meldewesen (Einheitlicher Bundes-/Länderteil) – 
+DSMeld – mit Wirksamkeit zum 1. April 2025 drei neue Datenblätter zum früheren
+Geschlechtseintrag aufgenommen, die die Speicherung des Geschlechtseintrags vor der 
+Änderung nach § 2 SBGG (Datenblatt 0702), das Datum der Änderung des
+Geschlechtseintrags (Datenblatt 0703) sowie die Behörde, die die Änderung des
+Geschlechtseintrags vorgenommen hat und das Aktenzeichen (Datenblatt 0704) festlegen. 
+Entsprechend sind diese Datenblätter auch in die Rechtsverordnungen zum
+Bundesmeldegesetz aufzunehmen, um eine Übermittlung im technischen Standard XMeld zu
+ermöglichen. 
+Die Änderung ist erforderlich, damit Personen, die ihren Geschlechtseintrag und ihre
+Vornamen geändert haben, in verschiedenen amtlichen Registern und amtlichen
+Informationssystemen weiterhin identifiziert werden können und ihre Identität nachvollziehbar ist. 
+C. Alternativen 
+Keine. 
+D. Haushaltsausgaben ohne Erfüllungsaufwand 
+Keine. 
+E. Erfüllungsaufwand 
+E.1 Erfüllungsaufwand für Bürgerinnen und Bürger 
+Bürgerinnen und Bürgern entsteht kein zusätzlicher Erfüllungsaufwand. 
+E.2 Erfüllungsaufwand für die Wirtschaft 
+Der Wirtschaft entsteht kein zusätzlicher Erfüllungsaufwand.
+Davon Bürokratiekosten aus Informationspflichten 
+Durch die Neuregelungen werden keine Informationspflichten gegenüber der Wirtschaft 
+neu eingeführt oder geändert. 
+E.3 Erfüllungsaufwand der Verwaltung 
+Für die Verwaltung ergeben sich keine Änderungen des laufenden Erfüllungsaufwands. 
+Den Ländern kann in einzelnen Fällen ein geringfügiger Umstellungsaufwand infolge der 
+Anpassung bestehender Fachverfahren entstehen. 
+F. Weitere Kosten 
+Auswirkungen auf Einzelpreise und das Preisniveau, insbesondere auf das
+Verbraucherpreisniveau, sind nicht zu erwarten. 
+ 
+ 
+
+Bundesrat Drucksache  419/25 
+ 
+  
+  
+ 
+04.09.25 
+ In  
+ 
+ 
+Verordnung 
+des Bundesministeriums  
+des Innern 
+ 
+Verordnung zur Umsetzung des Gesetzes über die 
+Selbstbestimmung in Bezug auf den Geschlechtseintrag im 
+Meldewesen 
+Bundeskanzleramt           Berlin, 2. September 2025 
+Staatsminister beim Bundeskanzler 
+An die 
+Präsidentin des Bundesrates 
+Frau Ministerpräsidentin 
+Anke Rehlinger 
+ 
+Sehr geehrte Frau Bundesratspräsidentin, 
+hiermit übersende ich die vom Bundesministerium des Innern zu erlassende 
+ Verordnung zur Umsetzung des Gesetzes über die Selbstbestimmung  
+in Bezug auf den Geschlechtseintrag im Meldewesen  
+mit Begründung und Vorblatt. 
+Ich bitte, die Zustimmung des Bundesrates aufgrund des Artikels 80  
+Absatz 2 des Grundgesetzes herbeizuführen. 
+Mit freundlichen Grüßen 
+Dr. Michael Meister 
+ 
+ 
+Verordnung zur Umsetzung des Gesetzes über die Selbstbestimmung 
+in Bezug auf den Geschlechtseintrag im Meldewesen 
+Vom ... 
+Das Bundesministerium des Innern verordnet aufgrund des § 56 Absatz 1 Nummer 1 
+bis 4 des Bundesmeldegesetzes vom 3. Mai 2013 (BGBl. I S. 1084), das zuletzt durch
+Artikel 6 des Gesetzes vom 23. Oktober 2024 (BGBl. 2024 I Nr. 323) geändert worden ist, in 
+Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 
+(BGBl. I S. 3165), das zuletzt durch Artikel 7 der Verordnung vom 31. August 2015 (BGBl. 
+I S. 1474) geändert worden ist sowie dem Organisationserlass vom 8. Dezember 2021 
+(BGBl. I S. 5176) und dem Organisationserlass vom 6. Mai 2025 (BGBl. 2025 I Nr. 131): 
+Artikel 1 
+Änderung der Ersten
+Bundesmeldedatenübermittlungsverordnung 
+Die Erste Bundesmeldedatenübermittlungsverordnung vom 1. Dezember 2014 
+(BGBl. I S. 1945), die zuletzt durch Artikel 1 der Verordnung vom 22. Januar 2025 (BGBl. 
+2025 I Nr. 23) geändert worden ist, wird wie folgt geändert: 
+1. § 4 Absatz 1 wird wie folgt geändert:
+a) In Nummer 3 wird die Angabe „0301 bis 0303,“ durch die Angabe „0301 bis 0305,“
+ersetzt.
+b) In Nummer 7 wird die Angabe „0701,“ durch die Angabe „0701 bis 0704,“ ersetzt.
+c) In Nummer 9 wird die Angabe „0917 bis 0919,“ durch die Angabe „0916 bis 0919,“
+ersetzt.
+2. § 6 Absatz 1 Satz 2 wird wie folgt geändert:
+a) In Nummer 3 wird die Angabe „0301 bis 0303,“ durch die Angabe „0301 bis 0305,“
+ersetzt.
+b) In Nummer 7 wird die Angabe „0701,“ durch die Angabe „0701 bis 0704,“ ersetzt.
+c) In Nummer 10 wird die Angabe „1005,“ gestrichen.
+d) In Nummer 18 wird die Angabe „1801 bis 1804,“ durch die Angabe „1801 bis 1802,“
+ersetzt.
+Artikel 2 
+Änderung der Zweiten
+Bundesmeldedatenübermittlungsverordnung 
+Die Zweite Bundesmeldedatenübermittlungsverordnung vom 1. Dezember 2014 
+(BGBl. I S. 1950), die zuletzt durch Artikel 2 der Verordnung vom 22. Januar 2025 (BGBl. 
+2025 I Nr. 23) geändert worden ist, wird wie folgt geändert: 
+1. In § 6 Absatz 1 Satz 2 Nummer 6 wird die Angabe „0701,“ durch die Angabe „0701 bis
+0704,“ ersetzt.
+2. In § 9 Absatz 1 Satz 1 Nummer 6 wird nach der Angabe „0701,“die Angabe „0702,“
+eingefügt.
+Artikel 3 
+Änderung der Bundesmeldedatenabrufverordnung 
+Die Bundesmeldedatenabrufverordnung vom 27. Juli 2021 (BGBl. I S. 3209), die
+zuletzt durch Artikel 3 der Verordnung vom 22. Januar 2025 (BGBl. 2025 I Nr. 23) geändert 
+worden ist, wird wie folgt geändert: 
+1. In § 4 Absatz 1 Satz 1 Nummer 2 Buchstabe b Doppelbuchstabe dd wird nach der
+Angabe „0701,“ die Angabe „0702,“ eingefügt.
+2. In § 5 Absatz 1 Satz 1 Nummer 7 wird die Angabe „0701,“ durch die Angabe „0701 bis
+0704,“ ersetzt.
+3. § 7 wird wie folgt geändert:
+a) In Absatz 1 Nummer 7 wird nach der Angabe „0701,“ die Angabe „0702,“ eingefügt.
+b) Nach Absatz 3 Satz 5 wird folgender Satz eingefügt:
+„Eine Suche zur Erstellung einer Ergebnisliste, die ausschließlich Personen 
+anzeigt, die ihren Geschlechtseintrag geändert haben, ist ausgeschlossen.“  
+4. In § 8 Absatz 1 Satz 1 Nummer 7 wird nach der Angabe „0701,“ die Angabe „0702,“
+eingefügt.
+Artikel 4 
+Änderung der Bundesmeldedatendigitalisierungsverordnung 
+Die Bundesmeldedatendigitalisierungsverordnung vom 20. April 2022 (BGBl. I S. 683), 
+die zuletzt durch Artikel 4 der Verordnung vom 22. Januar 2025 (BGBl. 2025 I Nr. 23)
+geändert worden ist, wird wie folgt geändert:
+1. In § 5 Absatz 2 Satz 1 Nummer 6 wird nach der Angabe „0701,“ die Angabe „0702,“
+eingefügt.
+2. § 7 Absatz 1 Satz 1 wird wie folgt geändert:
+a) In der Angabe vor Nummer 1 wird die Angabe „Verordnung (EU) 2016/679 des
+Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz
+natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien
+Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG
+(Datenschutzgrundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom
+23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35)“ durch die Angabe „Verordnung (EU)
+2016/679“ ersetzt.
+b) In Nummer 7 wird die Angabe „0701,“ durch die Angabe „0701 bis 0704,“ ersetzt.
+3. § 9 wird wie folgt geändert:
+a) Absatz 1 Satz 1 wird wie folgt geändert:
+aa) In Nummer 3 wird die Angabe „0301 bis 0303,“ durch die Angabe „0301 bis
+0305,“ ersetzt. 
+bb) In Nummer 7 wird die Angabe „0701,“ durch die Angabe „0701 bis 0704,“
+ersetzt. 
+cc) In Nummer 9 wird nach der Angabe „0001,“ die Angabe „0916,“ eingefügt.
+b) Absatz 2 Satz 1 wird wie folgt geändert:
+aa) In Nummer 4 wird die Angabe „1306.“ durch die Angabe „1306,“ ersetzt.
+bb) Nach Nummer 4 wird folgende Nummer 5 eingefügt:
+„5. Auskünfte der meldepflichtigen Person nach § 25 Nummer 1 des
+Bundesmeldegesetzes.“ 
+c) Nach Absatz 3 wird folgender Absatz 4 eingefügt:
+„(4) Die Absätze 1 bis 3 gelten auch beim Bezug einer Nebenwohnung und 
+beim Wiederzuzug aus dem Ausland.“ 
+Artikel 5 
+Inkrafttreten 
+Diese Verordnung tritt am 1. November 2026 in Kraft. 
+Der Bundesrat hat zugestimmt. 
+EU-Rechtsakte: 
+Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz
+natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur 
+Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 
+22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35)
+Begründung 
+A. Allgemeiner Teil 
+I. Zielsetzung und Notwendigkeit der Regelungen 
+Die Anpassung der Rechtsverordnungen im Meldewesen ist notwendig, da seit dem
+Inkrafttreten des SBGG am 1. November 2024 für Personen im Inland die Möglichkeit besteht, 
+durch Erklärung gegenüber dem Standesamt die Geschlechtsangabe und die Vornamen in 
+einem deutschen Personenstandseintrag zu ändern. Deutschen mit gewöhnlichem
+Aufenthalt im Ausland steht im Übrigen die Möglichkeit offen, die Erklärung durch eine deutsche 
+Auslandsvertretung öffentlich beglaubigen und an das zuständige Standesamt übermitteln 
+zu lassen. Mit dieser Erklärung wird künftig neben dem neuen Geschlechtseintrag auch der 
+bisherige Geschlechtseintrag an das Meldewesen übermittelt. Das ist erforderlich, damit 
+Personen in verschiedenen amtlichen Registern und amtlichen Informationssystemen von 
+Datenempfängern identifiziert werden können und ihre Identität nachvollziehbar ist. Dies 
+bedeutet, dass die bis zur Änderung des Geschlechtseintrags und der Vornamen
+eingetragenen Angaben verarbeitet werden dürfen. Gleichzeitig sind mit der Erklärung auch die 
+Vornamen zu bestimmen, die die Person zukünftig führen will und die dem gewählten
+Geschlechtseintrag entsprechen. 
+II. Wesentlicher Inhalt des Entwurfs 
+Mit dieser Änderungsverordnung werden im Bereich des Meldewesens die 1. BMeldDÜV, 
+die 2. BMeldDÜV, die BMeldDAV und die BMeldDigiV geändert.  
+Die Anpassung erfolgt, da seit dem Inkrafttreten des SBGG am 1. November 2024 für
+Personen im Inland die Möglichkeit besteht, durch Erklärung gegenüber dem Standesamt die 
+Geschlechtsangabe in einem deutschen Personenstandseintrag zu ändern. Gleichzeitig 
+sind mit der Erklärung auch die Vornamen zu bestimmen, die die Person zukünftig führen 
+will und die dem gewählten Geschlechtseintrag entsprechen.  
+Der zuständigen Meldebehörde wird von dem Standesamt, das eine Beurkundung über die 
+Angabe des Geschlechts oder die Änderung eines Namens vornimmt oder mangels
+Eintragungsmöglichkeit in ein nicht vorhandenes Personenstandsregister auch nur
+entgegennimmt, gemäß § 57 Absatz 4 Nummer 4, § 58 Absatz 2 Nummer 4, § 59 Absatz 2 Nummer 
+4 sowie § 62 Absatz 1 Nummer 1 der Personenstandsverordnung (PStV) die Änderung 
+mitgeteilt. Die Meldebehörden schreiben nach der Mitteilung des Standesamtes über die 
+erfolgte Änderung von Geschlechtseintrag und Vornamen das Melderegister fort. 
+Um die weitere Nachverfolgbarkeit einer Person nach einer Änderung des
+Geschlechtseintrags und der Vornamen zu gewährleisten, informiert sodann die zuständige Meldebehörde 
+aufgrund der einschlägigen Rechtsvorschriften die weiteren Behörden, die für ihre
+Aufgabenerledigung die Informationen benötigen (z. B. Datenstelle der Rentenversicherung und 
+Bundeszentralamt für Steuern, §§ 6 und 9 der 2. BMeldDÜV). 
+Neben dem neuen Geschlechtseintrag muss dabei auch der bisherige Geschlechtseintrag 
+übermittelt werden. Das ist erforderlich, damit die betroffenen Personen, die in den
+verschiedenen amtlichen Registern und amtlichen Informationssystemen noch mit den
+früheren Vornamen und dem früheren Geschlechtseintrag registriert sind, von den
+Datenempfängern identifiziert werden können und ihre Identität nachvollziehbar ist. § 13 Absatz 1 Satz 
+2 Nummer 1 SBGG regelt, dass das Offenbarungsverbot gemäß § 13 Absatz 1 Satz 1
+SBGG nicht gilt, wenn amtliche Register oder amtliche Informationssysteme
+personenbezogene Daten zu der betroffenen Person enthalten und im Rahmen der jeweiligen
+Aufgabenerfüllung von öffentlichen Stellen die Verarbeitung dieser Daten nach anderen
+Rechtsvorschriften erforderlich ist. Die bis zur Änderung des Geschlechtseintrags und der
+Vornamen eingetragenen Angaben dürfen nach § 13 Absatz 3 SBGG zu diesen Zwecken
+weiterhin verarbeitet werden. 
+Hierfür wurden in den Datensatz für das Meldewesen (Einheitlicher Bundes-/Länderteil) – 
+DSMeld – mit Wirksamkeit zum 1. April 2025 drei neue Datenblätter zum früheren
+Geschlechtseintrag aufgenommen, die die Speicherung des Geschlechtseintrags vor der
+Änderung nach § 2 SBGG (Datenblatt 0702), das Datum der Änderung des
+Geschlechtseintrags (Datenblatt 0703) sowie die Behörde, die die Änderung des Geschlechtseintrags
+vorgenommen hat, und das Aktenzeichen (Datenblatt 0704) festlegen. Entsprechend sind 
+diese Datenblätter auch in die Rechtsverordnungen zum Bundesmeldegesetz
+aufzunehmen, um eine Übermittlung im technischen Standard XMeld zu ermöglichen. 
+Die Änderung ist erforderlich, damit Personen, die ihren Geschlechtseintrag und ihre
+Vornamen geändert haben, in verschiedenen amtlichen Registern und amtlichen
+Informationssystemen identifiziert werden können und ihre Identität nachvollziehbar ist. 
+III. Exekutiver Fußabdruck 
+Keiner. 
+IV. Alternativen 
+Keine. 
+Seit dem 1. November 2024 besteht die Möglichkeit, durch Erklärung gegenüber dem
+Standesamt die Geschlechtsangabe und die Vornamen in einem deutschen
+Personenstandseintrag zu ändern. Die Änderung der Rechtsverordnungen ist erforderlich, damit Personen 
+mit einem früheren Geschlechtseintrag in verschiedenen amtlichen Registern und
+amtlichen Informationssystemen von Datenempfängern identifiziert werden können und ihre 
+Identität nachvollziehbar ist. 
+V. Regelungskompetenz 
+Die Regelungskompetenz des Bundesministeriums des Innern ergibt sich aus § 56 Absatz 
+1 Nummer 1 bis 4 des Bundesmeldegesetzes. 
+VI. Vereinbarkeit mit dem Recht der Europäischen Union und völkerrechtlichen 
+Verträgen 
+Die Verordnung ist mit dem Recht der Europäischen Union und den völkerrechtlichen
+Verträgen, die die Bundesrepublik Deutschland abgeschlossen hat, vereinbar. 
+VII. Regelungsfolgen 
+1. Rechts- und Verwaltungsvereinfachung 
+Mit der vorliegenden Änderungsverordnung werden notwendige Anpassungen in vier
+Verordnungen des Meldewesens vorgenommen. Eine Vereinfachung für Bürgerinnen und
+Bürger geht damit nicht unmittelbar einher. Die Änderungen sind Voraussetzung dafür, dass 
+im Bereich des Meldewesens ab dem 1. November 2026 Änderungen in Bezug auf den 
+Geschlechtseintrag im technischen Standard XMeld übermittelt werden können. 
+2. Nachhaltigkeitsaspekte 
+Der Verordnungsentwurf steht im Einklang mit dem Leitgedanken der Bundesregierung zur 
+nachhaltigen Entwicklung im Sinne der Nationalen Nachhaltigkeitsstrategie. Die
+Managementregeln und Schlüsselindikatoren der Deutschen Nachhaltigkeitsstrategie –
+Aktualisierung 2018 – wurden geprüft und beachtet. 
+So tragen die beabsichtigten Rechtsänderungen zu einer nachhaltigen Entwicklung bei,
+indem sie die elektronische Kommunikation für die Verwaltung weiter fördern,
+Papiervorgänge vermeiden und so helfen, die Transportintensität (Indikatorenbereich 11.2.a
+„Mobilität“) zu senken sowie Treibhausgase (Indikatorenbereich 13.1.a „Klimaschutz“) und
+Entwaldungen (Indikatorenbereich 15.3. „Wälder“) zu reduzieren. 
+3. Haushaltsausgaben ohne Erfüllungsaufwand 
+Keine. 
+4. Erfüllungsaufwand 
+4.1 Erfüllungsaufwand der Bürgerinnen und Bürger nach Vorgaben 
+Für Bürgerinnen und Bürger entsteht kein Erfüllungsaufwand. 
+4.2 Erfüllungsaufwand der Wirtschaft nach Vorgaben 
+Der Wirtschaft entsteht kein zusätzlicher Erfüllungsaufwand. Durch die Neuregelungen
+werden keine Informationspflichten gegenüber der Wirtschaft neu eingeführt oder geändert. 
+4.3 Erfüllungsaufwand der Verwaltung nach Vorgaben 
+Durch das Regelungsvorhaben entstehen keine neuen laufenden Mitteilungspflichten.
+Bereits zu übermittelnde Daten werden um die Informationen über Geschlechtseintrags- und 
+Namensänderungen nach dem SBGG erweitert. Die Übermittlung der Daten erfolgt bereits 
+heute im Standard OSCI-XMeld als automatisierte Datenübermittlung. Insofern entsteht 
+durch die Neuregelungen kein zusätzlicher jährlicher Erfüllungsaufwand für die Verwaltung. 
+Zur Umsetzung der Neuregelungen ist eine Anpassung der Fachanwendungen nach dem 
+Standard OSCI-XMeld erforderlich, welche im Rahmen laufender Wartungsverträge mit den 
+Betreibern umgesetzt werden kann. Erforderliche Anpassungen am Standard, die
+außerhalb der üblichen Softwareverträge für die Wartung entstehen, werden den Meldebehörden 
+von den jeweiligen Fachverfahrensherstellern gesondert berechnet und unterliegen den
+jeweiligen Vertragsgrundlagen der Kommunen mit den Fachverfahrensherstellern. Insofern 
+können geringfügige einmalige Umstellungsaufwände für die Länder im Einzelfall nicht
+ausgeschlossen werden. 
+5. Weitere Kosten 
+Auswirkungen auf Einzelpreise und das Preisniveau, insbesondere auf das
+Verbraucherpreisniveau, sind nicht zu erwarten.
+6. Weitere Regelungsfolgen 
+Die Regelungen sind inhaltlich geschlechtsneutral. Sie unterstützen die
+gleichstellungspolitische Bedeutung der Selbstbestimmung in Bezug auf die Geschlechtsidentität. Die
+Änderung der Verordnungen trägt dem Anspruch der betroffenen Person nach § 10 Absatz 1 
+SBGG Rechnung, Angaben zu Geschlecht und Vornamen in anderen amtlichen Registern 
+als dem Personenstandsregister ändern zu lassen, indem die Änderung im
+Personenstandsregister automatisch in weiteren Registern nachvollzogen wird. 
+Das Regelungsvorhaben hat im Hinblick auf die Gleichwertigkeit der Lebensverhältnisse, 
+unterschiedliche regionale Entwicklungen und den demografischen Wandel keine
+Auswirkungen. 
+VIII. Befristung; Evaluierung 
+Eine Befristung oder Evaluierung sind nicht erforderlich. Eine Befristung scheidet aus, da 
+eine auf Dauer angelegte Regelung benötigt wird. 
+B. Besonderer Teil 
+Zu Artikel 1 (Änderung der Ersten Bundesmeldedatenübermittlungsverordnung) 
+Zu Nummer 1 
+Zu Buchstabe a 
+§ 4 der 1. BMeldDÜV regelt, welche Daten im Fall eines Umzugs einer Person von der 
+Wegzugsmeldebehörde für die Anmeldung mit vorausgefülltem Meldeschein zum Abruf
+bereitzuhalten sind. Die Übermittlung des früheren Vornamens (DSMeld-Blatt 0303) erfolgt 
+bereits mit dem Inkrafttreten der Verordnung zur Bereinigung der Namensschreibweise im 
+Meldewesen sowie weiterer Änderungen (BGBl. 2025 I Nr. 23 vom 29.01.2025) am 1.
+November 2025. Für den Austausch zwischen den Meldebehörden werden in Bezug auf den 
+Vornamen künftig auch die DSMeld-Datenblätter 0304 und 0305 als Hinweisblätter zum 
+früheren Vornamen eingefügt. Dies ist notwendig, damit Änderungen des Vornamens auf 
+Grund des SBGG erkannt werden können. Nur so ist es der Meldebehörde möglich, das 
+Offenbarungsverbot in § 13 Absatz 1 Satz 1 SBGG zu beachten und ihre Aufgaben
+entsprechend zu erfüllen. Der frühere Vorname, der bei der Zuzugsmeldebehörde nach einem 
+Umzug einer betroffenen Person bekannt sein muss, wird in den vorausgefüllten
+Meldeschein aufgenommen. Gleiches gilt für Meldebehörden von Nebenwohnungen. 
+Zu Buchstabe b 
+§ 4 der 1. BMeldDÜV regelt, welche Daten im Fall eines Umzugs einer Person von der 
+Wegzugsmeldebehörde für die Anmeldung mit vorausgefülltem Meldeschein zum Abruf
+bereitzuhalten sind. Für den Austausch zwischen den Meldebehörden werden die DSMeld-
+Datenblätter 0702, 0703 und 0704 eingefügt. Die Verarbeitungsbefugnis ergibt sich aus §§ 
+23 Absatz 2, 3 iVm. § 3 Absatz 1 Nummer 7 Bundesmeldegesetz (BMG) und § 13 Absatz 
+3 Satz 2 SBGG. Durch diese Erweiterungen werden zudem Änderungen des
+Geschlechtseintrags auf Grund des SBGG durch die Zuzugsmeldebehörde erkennbar und 
+diese in die Lage versetzt, das Offenbarungsverbot nach § 13 Absatz 1 Satz 1 SBGG zu 
+beachten und ihre Aufgaben entsprechend zu erfüllen. Der frühere Geschlechtseintrag, der 
+bei der Zuzugsmeldebehörde nach einem Umzug einer betroffenen Person bekannt sein 
+muss, wird in den vorausgefüllten Meldeschein aufgenommen. Gleiches gilt für
+Meldebehörden von Nebenwohnungen.
+Zu Buchstabe c 
+Es wird ein gesetzgeberisches Versehen korrigiert. Das DSMeld-Datenblatt 0916 ist in § 6 
+der 1. BMeldDÜV (Rückmeldung) bereits enthalten und muss daher auch in § 4 der 1. 
+BMeldDÜV und § 9 BMeldDigiV ergänzt werden, damit auch beim Abruf des vorausgefüllten 
+Meldescheins dieses Datum übermittelt wird. So ist der jeweils aktuell zuständigen
+Meldebehörde erkennbar, wann die gesetzliche Vertretung endet. 
+Zu Nummer 2 
+Zu Buchstabe a 
+§ 6 der 1. BMeldDÜV regelt, welche Daten im Fall eines Umzugs einer Person von der 
+Zuzugsmeldebehörde an die Wegzugsmeldebehörde zu übermitteln sind (Rückmeldung). 
+Dies dient dem notwendigen Informationsaustausch zwischen den Meldebehörden, um die 
+Richtigkeit und Aktualität des Melderegisters herzustellen. In Bezug auf den Vornamen
+werden künftig auch die Hinweisdaten 0304 und 0305 eingefügt. 
+Zu Buchstabe b 
+Es werden die DSMeld-Datenblätter 0702, 0703 und 0704 eingefügt und in die
+Rückmeldung aufgenommen. Damit ist gewährleistet, dass die Daten einer Person bei der aktuell 
+zuständigen Meldebehörde vorliegen. 
+Zu Buchstabe c 
+Das DSMeld-Datenblatt 1005 (Staatsangehörigkeit - Keine Unionsbürgerschaft -) wurde 
+zum 1. Januar 2021 aufgehoben, da es aufgrund des Ausscheidens des Vereinigten
+Königreichs aus der Europäischen Union ohne Funktion ist. Eine bislang übersehene
+Streichung in der 1. BMeldDÜV als Folgeänderung wird nunmehr nachgeholt. 
+Zu Buchstabe d 
+Aufgrund einer Änderung des § 44 BMG (Inkrafttreten am 26. November 2019) wurden die 
+DSMeld-Datenblätter 1803 (Einwilligung – Erklärung der generellen Einwilligung zur
+Datenübermittlung für Zwecke der Werbung oder des Adresshandels gemäß § 44 Absatz 3 Satz 
+2 BMG) und 1804 (Einwilligung – Datum der Einwilligungserklärung gemäß § 44 Absatz 3 
+Satz 2 BMG) aufgehoben und aus dem DSMeld entfernt. Eine bislang übersehene
+Streichung in der 1. BMeldDÜV als Folgeänderung wird nunmehr nachgeholt. 
+Zu Artikel 2 (Änderung der Zweiten Bundesmeldedatenübermittlungsverordnung) 
+Zu Nummer 1 
+Es werden die DSMeld-Datenblätter 0702, 0703 und 0704 eingefügt. Die Meldebehörden 
+teilen der Datenstelle der Rentenversicherung den früheren Geschlechtseintrag und die 
+Hinweisdaten zur Änderung des Geschlechtseintrags (Datum sowie Behörde und
+Aktenzeichen) mit. Bereits nach aktuellem Recht erhält die Datenstelle eine Mitteilung bei einer
+Änderung des Geschlechtseintrags. Die zusätzlichen Daten sind erforderlich, um Fälle nach 
+dem SBGG eindeutig zu identifizieren und sie beispielsweise von Korrekturen aufgrund von 
+Fehleintragungen abgrenzen zu können.  
+Zu Nummer 2 
+Es wird das DSMeld-Datenblatt 0702 eingefügt. Das Bundeszentralamt für Steuern benötigt 
+für seine Aufgabenerfüllung nach § 139b Absatz 6, 7 Satz 1 und 2 und Absatz 8 der
+Abgabenordnung in Verbindung mit § 13 Absatz 3 Satz 2 SBGG im IdNr-Verfahren das frühere
+Geschlecht. Nach der Systematik des SBGG ist das Bundeszentralamt für Steuern für den 
+Schutz der entsprechenden Fälle im Sinne des Offenbarungsverbots gemäß § 13 Absatz 1 
+SBGG verantwortlich. Die Änderungshistorie allein wird für die Gewährleistung des
+Offenbarungsverbots nicht ausreichen, da Änderungen des Geschlechtseintrags nicht
+ausschließlich aufgrund des SBGG erfolgen. Es kann zum Beispiel auch vorkommen, dass das 
+Geschlecht fehlerhaft erfasst wurde und im Nachgang korrigiert wird. 
+Zu Artikel 3 (Änderung der Bundesmeldedatenabrufverordnung) 
+Zu Nummer 1 
+Es wird das DSMeld-Datenblatt 0702 eingefügt. Von der abrufenden Stelle kann alternativ 
+zum aktuellen Geschlechtseintrag (DSMeld-Blatt 0701) auch der frühere
+Geschlechtseintrag (DSMeld-Datenblatt 0702) als Auswahldatum für die Personensuche übermittelt
+werden. Eine Suche erfolgt künftig von der Auskunft gebenden Stelle entweder mit dem
+aktuellen oder mit dem früheren Geschlechtseintrag. Dies ist davon abhängig, welche Daten 
+dem Anfragenden vorliegen. Damit wird der bisherige Geschlechtseintrag als
+Auswahldatum zulässig und auch notwendig, damit automatisierte Abrufe von Meldedaten
+funktionieren. Andernfalls würde die Person nicht gefunden werden, wenn der abrufenden Stelle nicht 
+bekannt ist, dass die Person ihren Geschlechtseintrag geändert hat. 
+Zu Nummer 2 
+Zu einer namentlich bestimmten Person (Personensuche) werden die DSMeld-Datenblätter 
+0702, 0703 und 0704 in den Katalog der Daten, die abgerufen werden können (Abrufdaten) 
+aufgenommen, damit auch der frühere Geschlechtseintrag abgerufen werden kann, wenn 
+dies notwendig ist, damit Änderungen des Geschlechtseintrags auf Grund des SBGG von 
+den abrufenden Stellen erkannt werden können. Nur so können sie das Offenbarungsverbot 
+in § 13 Absatz 1 Satz 1 SBGG beachten. 
+Zu Nummer 3 
+Zu Buchstabe a 
+Es wird das DSMeld-Datenblatt 0702 eingefügt, damit auch der frühere Geschlechtseintrag 
+als Auswahldatum in der freien Suche verwendet werden kann. Die abrufende Stelle muss 
+als Auswahldatum die aktuelle oder inaktuelle Geschlechtsbezeichnung verwenden
+können, da sie nicht weiß, welcher Geschlechtseintrag aktuell besteht.  
+Zu Buchstabe b 
+Mit dieser Regelung wird die Erzeugung von Listen von Personen, die ihren
+Geschlechtseintrag geändert haben, klarstellend (siehe bereits § 34a Absatz 1 BMG)
+ausgeschlossen.  
+Zu Nummer 4 
+Es wird das DSMeld-Datenblatt 0702 eingefügt, damit auch der frühere Geschlechtseintrag 
+abgerufen werden kann, wenn es zur Aufgabenerfüllung der abrufenden Behörde
+erforderlich ist.   
+Zu Artikel 4 (Änderung der Bundesmeldedatendigitalisierungsverordnung) 
+Zu Nummer 1 
+Es wird das DSMeld-Datenblatt 0702 eingefügt. Somit steht der frühere Geschlechtseintrag 
+der betroffenen Person als Abrufdatum für die Meldebescheinigung zur Verfügung.
+Zu Nummer 2 
+Zu Buchstabe a 
+Es wird eine Anpassung an die neuen Zitierregeln für EU-Rechtsakte vorgenommen. 
+Zu Buchstabe b 
+Es werden die DSMeld-Datenblätter 0702, 0703 und 0704 eingefügt. Sie können künftig 
+von Verwaltungsportalen für die elektronische Erteilung einer Selbstauskunft aus dem
+Melderegister durch die zuständige Meldebehörde beauskunftet werden. 
+Zu Nummer 3 
+Zu Buchstabe a 
+Zu Doppelbuchstabe aa 
+Für den Austausch zwischen den Meldebehörden werden in Bezug auf den Vornamen
+künftig auch die DSMeld-Datenblätter 0304 und 0305 zum früheren Vornamen eingefügt. Im 
+Übrigen wird auf die Begründung zu Artikel 1 Nummer 1 Buchstabe a verwiesen. 
+Zu Doppelbuchstabe bb 
+Es werden die DSMeld-Datenblätter 0702, 0703 und 0704 eingefügt. Der frühere
+Geschlechtseintrag muss bei der Zuzugsmeldebehörde nach einem Umzug bekannt sein und 
+wird daher in den vorausgefüllten Meldeschein für die elektronische Anmeldung
+aufgenommen. Im Übrigen wird auf die Begründung zu Artikel 1 Nummer 1 Buchstabe b verwiesen. 
+Zu Doppelbuchstabe cc 
+Es wird auf die Begründung zu Artikel 1 Nummer 1 Buchstabe c verwiesen. 
+Zu Buchstabe b 
+Mit dem Inkrafttreten dieser Verordnung soll im Onlinedienst „elektronische
+Wohnsitzanmeldung“ auch die Anmeldung von Nebenwohnungen sowie der Statuswechsel im Rahmen 
+von Umzügen ermöglicht werden. Hierfür benötigt die Meldebehörde zusätzliche Angaben 
+der meldepflichtigen Person, um die Hauptwohnung bestimmen zu können. Diese von der 
+meldepflichtigen Person im Rahmen des Anmeldeprozesses getätigten Angaben müssen 
+der Meldebehörde vom Verwaltungsportal übermittelt werden. Daher wird eine Ergänzung 
+in § 9 Absatz 2 Satz 1 BMeldDigiV um diese Daten vorgesehen. 
+Zu Buchstabe c 
+Es handelt sich um eine klarstellende Regelung. Da § 4 Absatz 5 der 1. BMeldDÜV eine 
+gleichlautende Klarstellung bei der Anmeldung mit persönlichem Erscheinen der
+meldepflichtigen Person enthält, sollte diese auch bei der elektronischen Anmeldung in § 9 BMeld-
+DigiV aufgenommen werden, um zu verdeutlichen, dass bezüglich der Anmeldung von
+Nebenwohnungen und beim Wiederzuzug aus dem Ausland kein unterschiedlicher
+Regelungsgehalt besteht. 
+Zu Artikel 5 (Inkrafttreten) 
+Die Vorschrift regelt das Inkrafttreten dieser Verordnung zum 1. November 2026.
+Für die Umsetzung des Regelungsvorhabens im Standard XMeld wird ein zeitlicher Vorlauf 
+von mehreren Monaten benötigt, um die technischen Voraussetzungen zu schaffen. Derzeit 
+besteht noch keine Möglichkeit, die Änderung eines Geschlechtseintrags standardisiert an 
+Datenempfänger des Meldewesens zu übermitteln. Die technischen Vorarbeiten hierfür 
+werden bereits getroffen und sind bis zum 1. November 2026 abgeschlossen. Bis dahin 
+muss die Übermittlung außerhalb des Standards XMeld erfolgen. 
+- 11 - Drucksache 419/25

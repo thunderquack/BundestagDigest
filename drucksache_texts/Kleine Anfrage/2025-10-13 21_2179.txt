@@ -1,0 +1,135 @@
+Deutscher Bundestag Drucksache 21/2179
+21. Wahlperiode 13.10.2025
+Kleine Anfrage
+der Abgeordneten Anne-Mieke Bremer, Stella Merendino, Donata Vogtschmidt, 
+Clara Bünger, Violetta Bock, Mandy Eißing, Katrin Fey, Nicole Gohlke, Dr. Gregor 
+Gysi, Mareike Hermeier, Luke Hoß, Ferat Koçak, Jan Köstering, Sonja Lemke, 
+Tamara Mazzi, Bodo Ramelow, David Schliesing, Evelyn Schötz, Aaron Valent, 
+Christin Willnat und der Fraktion Die Linke
+Die elektronische Patientenakte (ePA) – Sicherheit, Abhängigkeiten und 
+Umsetzung des Europäischen Gesundheitsdatenraums (EHDS)
+Die elektronische Patientenakte (ePA) und die Telematikinfrastruktur sind
+zentrale Bausteine der Digitalisierung des Gesundheitswesens. Mit deren
+Einführung gehen hohe Anforderungen an Sicherheit, Datenschutz und Verfügbarkeit 
+einher. In den vergangenen Jahren wurden mehrfach Sicherheitslücken bekannt. 
+Zugleich rücken Lieferkettenabhängigkeiten, geopolitische Risiken und die 
+Rolle einzelner Unternehmen in den Fokus. Neben der zivilen elektronischen 
+Patientenakte sind eigene Lösungen für den militärischen Bereich angekündigt, 
+was zusätzliche Fragen nach Sicherheit, Trennung und Zuständigkeiten
+aufwirft. Zugleich gewinnt die Umsetzung des Europäischen
+Gesundheitsdatenraums (EHDS) an Bedeutung. Gegenwärtig lässt sich aus Sicht der
+Fragestellenden nicht eindeutig erkennen, wie weit die EHDS-Anpassungsbemühungen 
+gediehen sind und wo noch Handlungsbedarf besteht.
+Wir fragen die Bundesregierung:
+ 1. Wie wird durch die Bundesregierung sichergestellt, dass die Lieferketten 
+für sicherheitsrelevante Komponenten der Telematikinfrastruktur wie 
+Konnektoren und Lesegeräte zur Authentifizierung und Identifikation von 
+Zugriffsberechtigten auf die elektronische Patientenakte gegen
+Manipulationen, Ausfälle oder unautorisierte Zugriffe gesichert sind?
+a) Unternehmen aus welchen Staaten sind derzeit in die Herstellung,
+Lieferung oder Wartung dieser Komponenten eingebunden?
+b) Welche Vorkehrungen trifft die Bundesregierung mit Blick auf
+zukünftige geopolitische Spannungen oder unterbrochene
+Handelsbeziehungen, um die Versorgungssicherheit und Integrität dieser Komponenten 
+dauerhaft zu gewährleisten?
+ 2. Welche kryptographischen Maßnahmen zum Schutz der
+Telematikinfrastruktur, insbesondere der ePA, gegen Angriffe mithilfe von
+Quantencomputern sind derzeit implementiert, welche geplant, und existiert eine
+umfassende Strategie der Bundesregierung zur Einführung von Post-
+Quanten-Kryptographie in besonders sicherheitsrelevanten Bereichen der 
+öffentlichen IT-Infrastruktur?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+ 3. Wie sieht nach Kenntnis der Bundesregierung die von der Gematik
+vorgenommene Neubewertung der vom Chaos Computer Club (CCC)
+dargestellten Schwachstelle (www.bundesgesundheitsministerium.de/presse/pre
+ssemitteilungen/epa-sicherheitsluecke-geschlossen-pm-30-04-25.html) bei 
+der Erstellung von Berechtigungstokens durch simulierte elektronische 
+Gesundheitskarten aus und inwiefern wurde eine unabhängige
+sicherheitstechnische Überprüfung vorgenommen?
+ 4. Sind sämtliche Einrichtungen und beteiligte Unternehmen vom Entwurf 
+des NIS-2-Umsetzungsgesetzes (Drucksache 21/1501) sowie vom Kritis-
+Dachgesetz laut Kabinettsbeschluss (www.bmi.bund.de/SharedDocs/press
+emitteilungen/DE/2025/09/kritis-dg-kabinett.html) als besonders wichtige 
+Einrichtungen beziehungsweise als Betreiber kritischer Anlagen erfasst, 
+die in die Telematikinfrastruktur und die ePA eingebunden sind und wenn 
+nein, welche Einrichtungen oder Dienstleistungen sind davon
+ausgenommen oder könnten davon über Öffnungsklauseln ausgenommen werden?
+ 5. Hat das Bundesministerium für Gesundheit zur sicherheitspolitischen
+Bewertung der Vergabe und technischen Umsetzung der ePA die
+sicherheitsrelevante Expertise der zuständigen Bundesinstitutionen eingeholt,
+insbesondere des Bundesamts für Sicherheit in der Informationstechnik (BSI), 
+des Bundesnachrichtendienstes (BND), des Militärischen
+Abschirmdienstes (MAD), des Bundesamts für Verfassungsschutz (BfV), des
+Bundeskriminalamts (BKA), der Zentralen Stelle für Informationstechnik im
+Sicherheitsbereich (ZITiS), des Cyber-Abwehrzentrums sowie des
+Bundesministeriums des Innern und für Heimat (BMI), und wenn ja, wann und in
+welcher Form wurden diese Stellen jeweils einbezogen und mit welchen
+Ergebnissen?
+ 6. Sind für Angehörige sicherheitsrelevanter Berufsgruppen und
+Geheimnisträgerinnen und Geheimnisträger besondere Schutzmaßnahmen geplant im 
+Rahmen der ePA, um die erhöhte Schutzbedürftigkeit ihrer
+Gesundheitsdaten zu berücksichtigen?
+ 7. Aus welchen Gründen plant die Bundeswehr eine eigenständige ePA zu 
+entwickeln bzw. einzusetzen, statt die bestehende zivile ePA-Infrastruktur 
+zu nutzen und welche sicherheitstechnischen, organisatorischen oder 
+rechtlichen Erwägungen stehen einer gemeinsamen Nutzung entgegen?
+a) Wird derzeit geprüft, eine technisch abgeschottete Spezialanwendung 
+auf Basis der zivilen ePA zu beauftragen?
+b) Soll die ePA der Bundeswehr vollständig getrennt von der zivilen 
+Telematikinfrastruktur betrieben werden?
+c) Welche Bundesbehörden, sicherheitsrelevanten Stellen und welche 
+Unternehmen sind in die Konzeption und sicherheitstechnische
+Prüfung der elektronischen Patientenakte für die Bundeswehr
+eingebunden?
+d) Welche besonderen sicherheitstechnischen Anforderungen gelten für 
+die ePA der Bundeswehr im Vergleich zur zivilen ePA und inwiefern 
+unterscheiden sich Architektur, Zugriffskontrolle, Datenhaltung und 
+Verschlüsselungstechnologien im militärischen Kontext?
+e) Wird es eine Widerspruchsmöglichkeit geben?
+ 8. Wurde bei der Entwicklung und Programmierung der ePA ein Threat-
+Modell zur systematischen Bedrohungsanalyse eingesetzt und falls ja, 
+welches Modell wurde verwendet und aus welchen Gründen und falls 
+nein, aus welchen Erwägungen wurde darauf verzichtet?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+ 9. Wurde im Rahmen der Entwicklung der ePA ein Architecture Decision 
+Record geführt, um zentrale Architekturentscheidungen nachvollziehbar 
+zu dokumentieren und falls ja, ist dieser öffentlich einsehbar bzw. wird 
+eine Offenlegung gegenüber dem Parlament geprüft?
+10. Welchen Zeitplan verfolgt die Bundesregierung bezüglich der Umsetzung 
+der Verordnung über den europäischen Gesundheitsdatenraum (EHDS-
+Verordnung)?
+a) Welcher Anpassungsbedarf ergibt sich aus Sicht der Bundesregierung 
+bezogen auf die ePA und ihre rechtlichen Grundlagen aus der EHDS-
+Verordnung (und soweit dies noch Gegenstand von Prüfungen ist, auf 
+welche Aspekte beziehen sich diese Prüfungen und bis wann plant die 
+Bundesregierung, sie abzuschließen)?
+b) Hat die Bundesregierung Kenntnis von aus Sicht der Fragestellenden 
+möglichen Überlegungen, den EHDS mit der EU-Digital Identity
+Wallet nach eIDAS zu verknüpfen, und hat sich die Bundesregierung eine 
+Auffassung dazu gebildet, wie sie eine mögliche Verknüpfung
+bewerten würde?
+c) Welche Ausnahmen vom Opt-Out zur Sekundärnutzung im Rahmen 
+des EHDS sind der Bundesregierung bekannt, wie bewertet sie deren 
+Reichweite, und wie definiert sie diese Ausnahmen?
+11. Welche Verträge über welche Dienstleistungen und in welchem
+finanziellen Umfang wurden zu welchen Daten zwischen der Gematik und Arvato 
+Systems geschlossen?
+a) Welche Maßnahmen der Qualitätssicherung ergreift die Gematik in 
+Bezug auf die von Arvato Systems übernommenen Leistungen?
+b) Welche Störungen der Telematikinfrastruktur gab es seit ihrer
+Einführung, welche Gründe hatten die Störungen und wurden sie so behoben, 
+dass sie in dieser Form nicht wieder auftreten können?
+c) Wurden weitere Unternehmen von der Gematik mit Leistungen zur 
+Telematikinfrastruktur beauftragt und wenn ja, welche Unternehmen, 
+welche Verträge und welches Auftragsvolumen liegen jeweils vor?
+Berlin, den 6. Oktober 2025
+Heidi Reichinnek, Sören Pellmann und Fraktion
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
