@@ -11,7 +11,7 @@ MAX_CHARS = 8000
 
 # 1) Немецкая суммаризация
 SUM_MODEL = "deutsche-telekom/mt5-small-sum-de-mit-v1"
-sum_tokenizer = AutoTokenizer.from_pretrained(SUM_MODEL)
+sum_tokenizer = AutoTokenizer.from_pretrained(SUM_MODEL, use_fast=False)
 sum_model = AutoModelForSeq2SeqLM.from_pretrained(SUM_MODEL)
 
 # 2) Перевод de -> ru через NLLB-200 distilled 600M
@@ -23,6 +23,7 @@ nllb_translator = pipeline(
     tokenizer=NLLB_MODEL,
     src_lang="deu_Latn",
     tgt_lang="rus_Cyrl",
+    use_fast=False,
 )
 
 def summarize_de(text_de: str) -> str:
