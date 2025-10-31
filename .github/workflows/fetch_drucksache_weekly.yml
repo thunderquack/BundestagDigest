@@ -35,11 +35,12 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Run weekly fetcher
+      - name: Run weekly fetcher + summarize
         env:
           DIP_API_KEY: ${{ secrets.DIP_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          python bundestag_down.py
+          python fetch_and_summarize.py
 
       - name: Commit and push changes
         run: |
