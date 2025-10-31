@@ -53,35 +53,24 @@ def summarize_files(paths: List[str]) -> int:
         return 0
 
     os.makedirs(REPORTS_DIR, exist_ok=True)
-    model_env = os.environ.get("OPENAI_MODEL")
+    model = os.environ.get("OPENAI_MODEL") or "gpt-4o-mini"
 
     count = 0
+    # Import once to use its prompt/instructions
+    try:
+        import openai_summarization as osum  # type: ignore
+    except Exception as ex:
+        print(f"Cannot import openai_summarization: {ex}. Skipping summarization.")
+        return 0
+
     for p in tqdm(paths, total=len(paths), desc="Summarizing", unit="file"):
         try:
+            text = osum.read_text_file(p, max_chars=None)
+            md = osum.call_openai_markdown(text, model=model, temperature=0.2)
             base = os.path.splitext(os.path.basename(p))[0]
             report_path = os.path.join(REPORTS_DIR, f"{base}-Report.md")
-
-            # Run the summarizer CLI so its own prompt/instructions are used
-            cmd = [sys.executable, "openai_summarization.py", p]
-            if model_env:
-                cmd += ["--model", model_env]
-
-            res = subprocess.run(
-                cmd,
-                capture_output=True,
-                text=True,
-                env=os.environ.copy(),
-            )
-            if res.returncode != 0:
-                stderr = (res.stderr or "").strip()
-                print(f"Summarizer failed for {p}: rc={res.returncode} {stderr}")
-                continue
-            output = (res.stdout or "").strip()
-            if not output:
-                print(f"Summarizer produced empty output for {p}")
-                continue
             with open(report_path, "w", encoding="utf-8") as f:
-                f.write(output)
+                f.write(md)
             count += 1
         except Exception as ex:
             print(f"Failed to summarize {p}: {ex}")
