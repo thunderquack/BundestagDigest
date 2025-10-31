@@ -44,6 +44,21 @@ def run_fetch() -> None:
     subprocess.run(cmd, check=True)
 
 
+def _unwrap_markdown_fence(text: str) -> str:
+    """If text is wrapped in a fenced code block (``` or ```markdown), unwrap it."""
+    s = text.strip()
+    if s.startswith("```"):
+        # remove first line (```[lang]) and last closing fence
+        first_nl = s.find("\n")
+        if first_nl != -1:
+            body_plus = s[first_nl + 1 :]
+            last_fence = body_plus.rfind("```")
+            if last_fence != -1:
+                inner = body_plus[:last_fence]
+                return inner.strip()
+    return text
+
+
 def summarize_files(paths: List[str]) -> int:
     if not paths:
         return 0
@@ -67,6 +82,7 @@ def summarize_files(paths: List[str]) -> int:
         try:
             text = osum.read_text_file(p, max_chars=None)
             md = osum.call_openai_markdown(text, model=model, temperature=0.2)
+            md = _unwrap_markdown_fence(md)
             base = os.path.splitext(os.path.basename(p))[0]
             report_path = os.path.join(REPORTS_DIR, f"{base}-Report.md")
             with open(report_path, "w", encoding="utf-8") as f:
