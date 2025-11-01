@@ -4,6 +4,7 @@ import os
 import sys
 import subprocess
 from typing import Dict, Tuple, List
+import hashlib
 import time
 
 from dotenv import load_dotenv
@@ -15,8 +16,16 @@ ANTWORT_DIR = os.path.join(TEXT_DIR, "Antwort")
 REPORTS_DIR = os.path.join("reports", "Antwort")
 
 
-def snapshot_antwort_txts() -> Dict[str, Tuple[int, float]]:
-    out: Dict[str, Tuple[int, float]] = {}
+def _sha256_file(path: str) -> str:
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(1024 * 1024), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+
+def snapshot_antwort_txts() -> Dict[str, Tuple[int, str]]:
+    out: Dict[str, Tuple[int, str]] = {}
     if not os.path.isdir(ANTWORT_DIR):
         return out
     for name in os.listdir(ANTWORT_DIR):
@@ -25,13 +34,15 @@ def snapshot_antwort_txts() -> Dict[str, Tuple[int, float]]:
         p = os.path.join(ANTWORT_DIR, name)
         try:
             st = os.stat(p)
-            out[p] = (st.st_size, st.st_mtime)
+            # Size helps for quick diffs; hash ensures content-based detection
+            file_hash = _sha256_file(p)
+            out[p] = (st.st_size, file_hash)
         except OSError:
             continue
     return out
 
 
-def detect_new_or_changed(prev: Dict[str, Tuple[int, float]], curr: Dict[str, Tuple[int, float]]) -> List[str]:
+def detect_new_or_changed(prev: Dict[str, Tuple[int, str]], curr: Dict[str, Tuple[int, str]]) -> List[str]:
     out: List[str] = []
     for p, meta in curr.items():
         if p not in prev or prev[p] != meta:
