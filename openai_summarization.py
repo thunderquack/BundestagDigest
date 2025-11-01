@@ -94,7 +94,7 @@ def call_openai_structured(
     - author: str|null (фракция или отправитель, если указан)
     - date: str|null (ISO-8601 YYYY-MM-DD, если можно однозначно определить)
     - title: str (одно короткое предложение по-русски)
-    - description: str (2–3 абзаца по-русски, по делу)
+    - description: str (2–3 абзаца по-русски, по делу, что спрашивают депутаты и как отвечает правительство)
     """
     try:
         from openai import OpenAI  # type: ignore
@@ -113,8 +113,8 @@ def call_openai_structured(
     user_instruction = (
         "Верни строго JSON по схеме без лишних ключей. "
         "number — номер документа без слова 'Drucksache'; author — фракция/отправитель; "
-        "date — ISO дата YYYY-MM-DD при наличии; title — одно короткое предложение по-русски; "
-        "description — 2–3 абзаца по-русски. Если поле невозможно извлечь, установи значение null."
+        "date — ISO дата YYYY-MM-DD при наличии; title — одно короткое предложение по-русски без вводных слов 'Ответ на' или 'Запрос о'; "
+        "description — 2–3 абзаца по-русски, что спрашивают депутаты и как отвечает правительство. Если поле невозможно извлечь, установи значение null."
     )
 
     messages = [
@@ -141,7 +141,7 @@ def call_openai_structured(
                 "number": {"type": ["string", "null"], "description": "Номер без слова 'Drucksache'"},
                 "author": {"type": ["string", "null"], "description": "Фракция/отправитель, если указан"},
                 "date": {"type": ["string", "null"], "description": "Дата в формате YYYY-MM-DD"},
-                "title": {"type": "string", "description": "Одно короткое предложение по-русски"},
+                "title": {"type": "string", "description": "Одно короткое предложение по-русски без вводных слов 'Ответ на' или 'Запрос о'"},
                 "description": {"type": "string", "description": "2–3 абзаца по-русски"},
             },
             "required": ["title", "description", "number", "date", "author"],

@@ -83,14 +83,13 @@ def _md_from_structured(data: Dict[str, Any]) -> str:
         return s if s else "не указано"
 
     lines: List[str] = []
-    lines.append(f"- номер: {_v('number')}")
-    lines.append(f"- дата: {_v('date')}")
-    lines.append(f"- автор: {_v('author')}")
-    lines.append("")
     title_text = _v("title")
     if title_text and title_text != "не указано":
-        lines.append(title_text)
-        lines.append("")
+        lines.append(f"# {title_text}")
+    lines.append(f"## {_v('author')}")
+    lines.append("")
+    lines.append(f"__{_v('number')} от {_v('date')}__")
+    lines.append("")
     desc_text = _v("description")
     if desc_text and desc_text != "не указано":
         lines.append(desc_text)
