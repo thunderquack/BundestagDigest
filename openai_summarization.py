@@ -3,7 +3,7 @@ from __future__ import annotations
 import argparse
 import os
 import sys
-from typing import Optional
+from typing import Optional, Any, Dict
 
 from dotenv import load_dotenv
 
@@ -20,22 +20,14 @@ def build_prompt_ru() -> str:
     # Короткий, "щадящий" системный промпт: минимум инструкций, без жёстких требований.
     return (
         "Ты помощник-референт на русском языке. Тебе дают текст официального документа. "
-        "Нужно кратко оформить ответ в Markdown и ничего лишнего. "
-        "Если в тексте чего-то нет — так и пиши: 'не указано'. "
-        "Выводи чистый Markdown без обрамления в кодовые блоки (без ``` и указания языка)."
+        "Отвечай только по-русски. Если в тексте чего-то нет — указывай null, а не домысливай."
     )
 
 
 def build_user_instruction_ru() -> str:
     return (
-        "Извлеки из текста и оформи в Markdown:") + (
-        "\n- номер без слова Drucksache"  # номер документа
-        "\n- дату"  # дата документа
-        "\n- кто отправитель запроса: фракция, если указана"  # автор запроса
-        "\n\nЗатем дай 2–3 абзаца суть документа кратко и по делу. "
-        "Пиши только по-русски. Без прелюдий и заключений, только результат. "
-        "Текст документа может быть частично усечён — опирайся на доступную часть; если чего-то нет, пиши 'не указано'. "
-        "Не оборачивай ответ в тройные кавычки и кодовые блоки — нужен чистый Markdown."
+        "Извлеки из текста: номер (без слова 'Drucksache'), дату, автора (фракция, если указана). "
+        "Затем кратко изложи суть (2–3 абзаца) на русском. Если чего-то нет в тексте, верни null."
     )
 
 
@@ -91,6 +83,100 @@ def call_openai_markdown(text: str, model: str, temperature: float) -> str:
     return content
 
 
+def call_openai_structured(
+    text: str,
+    model: str,
+    temperature: float = 0.1,
+) -> Dict[str, Any]:
+    """
+    Use OpenAI structured outputs to extract fields into a JSON object:
+    - number: str (без слова "Drucksache"), может быть вида "20/1234"; если отсутствует — null
+    - author: str|null (фракция или отправитель, если указан)
+    - date: str|null (ISO-8601 YYYY-MM-DD, если можно однозначно определить)
+    - abstract: str (1–2 предложения по-русски)
+    - description: str (2–3 абзаца по-русски, по делу)
+    """
+    try:
+        from openai import OpenAI  # type: ignore
+    except Exception as ex:  # pragma: no cover
+        raise RuntimeError(
+            "OpenAI SDK is not installed. Add 'openai' to requirements and install."
+        ) from ex
+
+    api_key = getenv_str("OPENAI_API_KEY")
+    if not api_key:
+        raise RuntimeError("OPENAI_API_KEY is missing. Put it into .env or environment.")
+
+    client = OpenAI(api_key=api_key)
+
+    system_prompt = build_prompt_ru()
+    user_instruction = (
+        "Верни строго JSON по схеме без лишних ключей. "
+        "number — номер документа без слова 'Drucksache'; author — фракция/отправитель; "
+        "date — ISO дата YYYY-MM-DD при наличии; abstract — 1–2 предложения; description — 2–3 абзаца. "
+        "Если поле невозможно извлечь, установи значение null."
+    )
+
+    messages = [
+        {"role": "system", "content": system_prompt},
+        {
+            "role": "user",
+            "content": (
+                f"{user_instruction}\n\n"
+                "<документ>\n"
+                f"{text}\n"
+                "</документ>"
+            ),
+        },
+    ]
+
+    schema = {
+        "name": "drucksache_summary",
+        "strict": True,
+        "schema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "additionalProperties": False,
+            "properties": {
+                "number": {"type": ["string", "null"], "description": "Номер без слова 'Drucksache'"},
+                "author": {"type": ["string", "null"], "description": "Фракция/отправитель, если указан"},
+                "date": {"type": ["string", "null"], "description": "Дата в формате YYYY-MM-DD"},
+                "abstract": {"type": "string", "description": "1–2 предложения по-русски"},
+                "description": {"type": "string", "description": "2–3 абзаца по-русски"},
+            },
+            "required": ["abstract", "description", "number", "date", "author"],
+        },
+    }
+
+    resp = client.chat.completions.create(
+        model=model,
+        messages=messages,
+        temperature=temperature,
+        response_format={
+            "type": "json_schema",
+            "json_schema": schema,
+        },
+    )
+
+    choice = resp.choices[0]
+    # Prefer parsed if SDK provides it; fallback to JSON in content
+    parsed = getattr(choice.message, "parsed", None)
+    if parsed is not None:
+        if not isinstance(parsed, dict):
+            raise RuntimeError("Structured response not a dict.")
+        return parsed
+
+    import json
+
+    content = (choice.message.content or "").strip()
+    if not content:
+        raise RuntimeError("Empty response from OpenAI.")
+    try:
+        return json.loads(content)
+    except Exception as ex:  # pragma: no cover
+        raise RuntimeError(f"Failed to parse JSON content: {content[:200]}...") from ex
+
+
 def main(argv: list[str]) -> int:
     load_dotenv()
 
@@ -117,6 +203,11 @@ def main(argv: list[str]) -> int:
         default=None,
         help="Макс. символов из файла для отправки в модель (опционально)",
     )
+    parser.add_argument(
+        "--structured-json",
+        action="store_true",
+        help="Вернуть структурированный JSON (number, author, date, abstract, description) вместо Markdown",
+    )
 
     args = parser.parse_args(argv)
 
@@ -131,10 +222,16 @@ def main(argv: list[str]) -> int:
             print("Файл пустой после чтения.", file=sys.stderr)
             return 3
 
-        md = call_openai_markdown(text, args.model, args.temperature)
         # Печатаем результат в stdout
         sys.stdout.reconfigure(encoding="utf-8")  # type: ignore[attr-defined]
-        print(md)
+        if args.structured_json:
+            data = call_openai_structured(text, args.model, args.temperature)
+            import json
+
+            print(json.dumps(data, ensure_ascii=False, indent=2))
+        else:
+            md = call_openai_markdown(text, args.model, args.temperature)
+            print(md)
         return 0
     except KeyboardInterrupt:
         return 130

@@ -81,6 +81,7 @@ def summarize_files(paths: List[str]) -> int:
 
     os.makedirs(REPORTS_DIR, exist_ok=True)
     model = os.environ.get("OPENAI_MODEL") or "gpt-4o-mini"
+    structured = (os.environ.get("SUMMARY_STRUCTURED", "").strip().lower() in ("1", "true", "yes"))
     try:
         default_max = int(os.environ.get("SUMMARY_MAX_CHARS", "20000"))
     except ValueError:
@@ -99,12 +100,20 @@ def summarize_files(paths: List[str]) -> int:
         for attempt in range(4):
             try:
                 text = osum.read_text_file(p, max_chars=max_chars)
-                md = osum.call_openai_markdown(text, model=model, temperature=0.2)
-                md = _unwrap_markdown_fence(md)
                 base = os.path.splitext(os.path.basename(p))[0]
-                report_path = os.path.join(REPORTS_DIR, f"{base}-Report.md")
-                with open(report_path, "w", encoding="utf-8") as f:
-                    f.write(md)
+                if structured:
+                    data = osum.call_openai_structured(text, model=model, temperature=0.1)
+                    import json
+
+                    report_path = os.path.join(REPORTS_DIR, f"{base}-Report.json")
+                    with open(report_path, "w", encoding="utf-8") as f:
+                        json.dump(data, f, ensure_ascii=False, indent=2)
+                else:
+                    md = osum.call_openai_markdown(text, model=model, temperature=0.2)
+                    md = _unwrap_markdown_fence(md)
+                    report_path = os.path.join(REPORTS_DIR, f"{base}-Report.md")
+                    with open(report_path, "w", encoding="utf-8") as f:
+                        f.write(md)
                 count += 1
                 time.sleep(0.6)
                 break
