@@ -4,6 +4,7 @@ import os
 import sys
 import subprocess
 from typing import Dict, Tuple, List
+import time
 
 from dotenv import load_dotenv
 from tqdm import tqdm
@@ -69,6 +70,10 @@ def summarize_files(paths: List[str]) -> int:
 
     os.makedirs(REPORTS_DIR, exist_ok=True)
     model = os.environ.get("OPENAI_MODEL") or "gpt-4o-mini"
+    try:
+        default_max = int(os.environ.get("SUMMARY_MAX_CHARS", "20000"))
+    except ValueError:
+        default_max = 20000
 
     count = 0
     # Import once to use its prompt/instructions
@@ -79,17 +84,34 @@ def summarize_files(paths: List[str]) -> int:
         return 0
 
     for p in tqdm(paths, total=len(paths), desc="Summarizing", unit="file"):
-        try:
-            text = osum.read_text_file(p, max_chars=None)
-            md = osum.call_openai_markdown(text, model=model, temperature=0.2)
-            md = _unwrap_markdown_fence(md)
-            base = os.path.splitext(os.path.basename(p))[0]
-            report_path = os.path.join(REPORTS_DIR, f"{base}-Report.md")
-            with open(report_path, "w", encoding="utf-8") as f:
-                f.write(md)
-            count += 1
-        except Exception as ex:
-            print(f"Failed to summarize {p}: {ex}")
+        max_chars = default_max
+        for attempt in range(4):
+            try:
+                text = osum.read_text_file(p, max_chars=max_chars)
+                md = osum.call_openai_markdown(text, model=model, temperature=0.2)
+                md = _unwrap_markdown_fence(md)
+                base = os.path.splitext(os.path.basename(p))[0]
+                report_path = os.path.join(REPORTS_DIR, f"{base}-Report.md")
+                with open(report_path, "w", encoding="utf-8") as f:
+                    f.write(md)
+                count += 1
+                time.sleep(0.6)
+                break
+            except Exception as ex:
+                msg = str(ex).lower()
+                too_large = (
+                    "rate_limit_exceeded" in msg
+                    or "request too large" in msg
+                    or "tpm" in msg
+                    or "context_length" in msg
+                    or "maximum context length" in msg
+                )
+                if too_large and max_chars > 2500 and attempt < 3:
+                    max_chars = max(2500, max_chars // 2)
+                    time.sleep(2.0)
+                    continue
+                print(f"Failed to summarize {p}: {ex}")
+                break
     return count
 
 
