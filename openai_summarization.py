@@ -93,7 +93,7 @@ def call_openai_structured(
     - number: str (без слова "Drucksache"), может быть вида "20/1234"; если отсутствует — null
     - author: str|null (фракция или отправитель, если указан)
     - date: str|null (ISO-8601 YYYY-MM-DD, если можно однозначно определить)
-    - abstract: str (1–2 предложения по-русски)
+    - title: str (одно короткое предложение по-русски)
     - description: str (2–3 абзаца по-русски, по делу)
     """
     try:
@@ -113,8 +113,8 @@ def call_openai_structured(
     user_instruction = (
         "Верни строго JSON по схеме без лишних ключей. "
         "number — номер документа без слова 'Drucksache'; author — фракция/отправитель; "
-        "date — ISO дата YYYY-MM-DD при наличии; abstract — 1–2 предложения; description — 2–3 абзаца. "
-        "Если поле невозможно извлечь, установи значение null."
+        "date — ISO дата YYYY-MM-DD при наличии; title — одно короткое предложение по-русски; "
+        "description — 2–3 абзаца по-русски. Если поле невозможно извлечь, установи значение null."
     )
 
     messages = [
@@ -141,10 +141,10 @@ def call_openai_structured(
                 "number": {"type": ["string", "null"], "description": "Номер без слова 'Drucksache'"},
                 "author": {"type": ["string", "null"], "description": "Фракция/отправитель, если указан"},
                 "date": {"type": ["string", "null"], "description": "Дата в формате YYYY-MM-DD"},
-                "abstract": {"type": "string", "description": "1–2 предложения по-русски"},
+                "title": {"type": "string", "description": "Одно короткое предложение по-русски"},
                 "description": {"type": "string", "description": "2–3 абзаца по-русски"},
             },
-            "required": ["abstract", "description", "number", "date", "author"],
+            "required": ["title", "description", "number", "date", "author"],
         },
     }
 
@@ -206,7 +206,7 @@ def main(argv: list[str]) -> int:
     parser.add_argument(
         "--structured-json",
         action="store_true",
-        help="Вернуть структурированный JSON (number, author, date, abstract, description) вместо Markdown",
+        help="Вернуть структурированный JSON (number, author, date, title, description) вместо Markdown",
     )
 
     args = parser.parse_args(argv)

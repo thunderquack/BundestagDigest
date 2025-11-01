@@ -3,7 +3,7 @@ from __future__ import annotations
 import os
 import sys
 import subprocess
-from typing import Dict, Tuple, List
+from typing import Dict, Tuple, List, Any
 import hashlib
 import time
 
@@ -71,6 +71,32 @@ def _unwrap_markdown_fence(text: str) -> str:
     return text
 
 
+def _md_from_structured(data: Dict[str, Any]) -> str:
+    """Render Markdown based on structured JSON fields.
+    Expects keys: number, author, date, title, description.
+    """
+    def _v(key: str) -> str:
+        val = data.get(key)
+        if val is None:
+            return "не указано"
+        s = str(val).strip()
+        return s if s else "не указано"
+
+    lines: List[str] = []
+    lines.append(f"- номер: {_v('number')}")
+    lines.append(f"- дата: {_v('date')}")
+    lines.append(f"- автор: {_v('author')}")
+    lines.append("")
+    title_text = _v("title")
+    if title_text and title_text != "не указано":
+        lines.append(title_text)
+        lines.append("")
+    desc_text = _v("description")
+    if desc_text and desc_text != "не указано":
+        lines.append(desc_text)
+    return "\n".join(lines).strip() + "\n"
+
+
 def summarize_files(paths: List[str]) -> int:
     if not paths:
         return 0
@@ -81,7 +107,6 @@ def summarize_files(paths: List[str]) -> int:
 
     os.makedirs(REPORTS_DIR, exist_ok=True)
     model = os.environ.get("OPENAI_MODEL") or "gpt-4o-mini"
-    structured = (os.environ.get("SUMMARY_STRUCTURED", "").strip().lower() in ("1", "true", "yes"))
     try:
         default_max = int(os.environ.get("SUMMARY_MAX_CHARS", "20000"))
     except ValueError:
@@ -101,19 +126,11 @@ def summarize_files(paths: List[str]) -> int:
             try:
                 text = osum.read_text_file(p, max_chars=max_chars)
                 base = os.path.splitext(os.path.basename(p))[0]
-                if structured:
-                    data = osum.call_openai_structured(text, model=model, temperature=0.1)
-                    import json
-
-                    report_path = os.path.join(REPORTS_DIR, f"{base}-Report.json")
-                    with open(report_path, "w", encoding="utf-8") as f:
-                        json.dump(data, f, ensure_ascii=False, indent=2)
-                else:
-                    md = osum.call_openai_markdown(text, model=model, temperature=0.2)
-                    md = _unwrap_markdown_fence(md)
-                    report_path = os.path.join(REPORTS_DIR, f"{base}-Report.md")
-                    with open(report_path, "w", encoding="utf-8") as f:
-                        f.write(md)
+                data = osum.call_openai_structured(text, model=model, temperature=0.1)
+                md = _md_from_structured(data)
+                report_path = os.path.join(REPORTS_DIR, f"{base}-Report.md")
+                with open(report_path, "w", encoding="utf-8") as f:
+                    f.write(md)
                 count += 1
                 time.sleep(0.6)
                 break
