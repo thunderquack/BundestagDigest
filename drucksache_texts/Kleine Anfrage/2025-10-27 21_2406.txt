@@ -4,7 +4,7 @@ Kleine Anfrage
 der Abgeordneten Tobias Matthias Peterka, Ulrich von Zons, Lukas Rehm, 
 Manfred Schiller, Tobias Teich, Gerold Otten, Dr. Rainer Kraft, Jan Wenzel 
 Schmidt, Thomas Korell, Dr. Paul Schmidt, Robin Jünger, Dr. Malte Kaufmann, 
-Dr. Daniel Zerbin, Mirko Hanker, Reinhard Mixl, Dr. Michael Blos, Carolin 
+Dr. Daniel Zerbin, Mirco Hanker, Reinhard Mixl, Dr. Michael Blos, Carolin 
 Bachmann, Stefan Keuter, Knuth Meyer-Soltau, Claudia Weiss, Marc Bernhard, 
 Dr. Christina Baum, Dr. Maximilian Krah, Julian Schmidt, Achim Köhler, Edgar 
 Naujok, Kay-Uwe Ziegler, Joachim Bloch, Udo Theodor Hemmelgarn, Stefan 
@@ -21,27 +21,25 @@ Auch der Bundesrechnungshof warnt vor eklatanten Sicherheitslücken in den
 Rechenzentren und Netzen des Bundes (www.spiegel.de/politik/deutschland/cy
 bersicherheit-rechnungshof-warnt-vor-mangelndem-schutz-der-bundes-it-a-6ba
 acfe5-2e6b-4e8b-a64b-e10d9cf2585e). Unter anderem bemängelt der
-Bundesrechnungshof, dass weniger als zehn Prozent der mehr als 100
-Bundesrechenzentren die Mindeststandards erfüllen, dass die Notstromversorgung in
-Krisenlagen vielfach unzureichend ist, und dass kritische IT-Dienste oft nicht
-georedundant verfügbar sind (s. o.). Nach aktuellen Berichten hat die
-Bundesregierung im Bereich IT-Sicherheit Stellen abgebaut (www.security-insider.de/
-bundreduziert-it-sicherheitsstellen-a-508f57e078fd32fa7cd1a915db00c76e/).
+Bundesrechnungshof, dass weniger als 10 Prozent der mehr als 100
+Bundesrechenzentren die Mindeststandards erfüllen, dass die Notstromversorgung in Krisenlagen 
+vielfach unzureichend ist und dass kritische IT-Dienste oft nicht georedundant 
+verfügbar sind (s. o.). Nach aktuellen Berichten hat die Bundesregierung im 
+Bereich IT-Sicherheit Stellen abgebaut (www.security-insider.de/bund-reduzier
+t-it-sicherheitsstellen-a-508f57e078fd32fa7cd1a915db00c76e/).
 Für das Bundesministerium für Wirtschaft und Energie (BMWE) ist die
 Cybersicherheit besonders wichtig, um vertrauliche Daten und
 Entscheidungsprozesse wirksam zu schützen. Angriffe auf interne Systeme könnten nicht nur die 
-Arbeitsfähigkeit des Ministeriums einschränken, sondern auch sensible
-Informationen über wirtschaftspolitische Strategien gefährden. Da das BMWE in 
-ständigem Austausch mit Unternehmen steht, ist der Schutz von
-Kommunikationswegen und Daten entscheidend, um Wirtschaftspartnern Sicherheit und
-Verlässlichkeit zu garantieren. Besonders der Energiesektor ist aufgrund seiner
+Arbeitsfähigkeit des Bundesministeriums einschränken, sondern auch sensible 
+Informationen über wirtschaftspolitische Strategien gefährden. Da das BMWE 
+in ständigem Austausch mit Unternehmen steht, ist der Schutz von
+Kommunikationswegen und Daten entscheidend, um Wirtschaftspartnern Sicherheit und 
+Verlässlichkeit zu garantieren. Besonders der Energiesektor ist aufgrund seiner 
 systemrelevanten Bedeutung anfällig für Cyberangriffe, deren Folgen
-weitreichende Auswirkungen auf Wirtschaft und Versorgungssicherheit haben können. Da 
-das BMWE eng mit Energieunternehmen, Netzbetreibern und anderen
-Akteuren des Energiesektors zusammenarbeitet, ist ein geschützter Austausch
-sensibler Daten unerlässlich.
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+weitreichende Auswirkungen auf die Wirtschaft und Versorgungssicherheit haben 
+können. Da das BMWE eng mit Energieunternehmen, Netzbetreibern und
+anderen Akteuren des Energiesektors zusammenarbeitet, ist ein geschützter
+Austausch sensibler Daten unerlässlich.
 Wir fragen die Bundesregierung:
  1. Über wie viele Rechenzentren verfügt das BMWE aktuell, und wie viele 
 davon erfüllen nachweislich die geltenden Mindeststandards für IT-
@@ -51,15 +49,15 @@ funktionsfähige Notstromversorgung, die auch längerfristige (über mehrere Stu
 oder Tage) Krisenlagen abdecken kann?
  3. An welchen Standorten des BMWE sind kritische IT-Dienste
 georedundant verfügbar, und wie wird die Ausfallsicherheit regelmäßig überprüft?
- 4. Welche Investitionen hat das BMWE in den Jahren 2022 bis 2025 konkret 
-für den Ausbau und die Absicherung seiner IT-Infrastruktur
+ 4. Welche Investitionen hat das BMWE in den Jahren von 2022 bis 2025 
+konkret für den Ausbau und die Absicherung seiner IT-Infrastruktur
 (einschließlich Rechenzentren, Netze, Cloudlösungen) getätigt?
  5. In welchem Umfang hat das BMWE in den vergangenen fünf Jahren
-Sicherheitsüberprüfungen (z. B. durch das BSI oder unabhängige
+Sicherheitsüberprüfungen (z. B. durch das BSI oder durch unabhängige 
 Dienstleister) durchführen lassen, und mit welchen Ergebnissen?
  6. Welche organisatorischen Zuständigkeiten für Cybersicherheit bestehen 
-innerhalb des BMWE (z. B. eigenes CERT, IT-Sicherheitsreferate,
-Zusammenarbeit mit dem BSI)?
+innerhalb des BMWE (z. B. eigenes Computer Emergency Response 
+Team [CERT], IT-Sicherheitsreferate, Zusammenarbeit mit dem BSI)?
  7. Welche konkreten Aufgabenbereiche decken die IT-Sicherheitsstellen im 
 BMWE ab (z. B. Netzwerksicherheit, Kryptografie, Incident Response, 
 Schutz kritischer Infrastrukturen, IT-Forensik)?
@@ -74,14 +72,14 @@ Austausch mit Unternehmen und Akteuren der Energiebranche vor
 Cyberangriffen geschützt ist?
 11. Wie viele Sicherheitsvorfälle oder Cyberangriffe wurden in den letzten 
 fünf Jahren im Zuständigkeitsbereich des BMWE registriert, und wie
-wurde jeweils darauf reagiert (bitte nach Jahr, Anzahl der Vorfälle
+wurde jeweils darauf reagiert (bitte nach Jahr und Anzahl der Vorfälle
 aufschlüsseln)?
 12. Welche Schulungs- und Sensibilisierungsmaßnahmen zum Thema
 Cybersicherheit wurden für Mitarbeiter des BMWE seit 2020 durchgeführt?
 13. Welche konkreten Schritte plant das BMWE, um bis spätestens 2030 die 
 vollständige Einhaltung der vom Bundesrechnungshof geforderten
 Mindeststandards (inklusive Notstromversorgung und georedundanter
-Systeme sicherzustellen) sicherzustellen (vgl. Vorbemerkung der Fragesteller)?
+Systeme) sicherzustellen (vgl. Vorbemerkung der Fragesteller)?
 14. Wie viele Stellen im Bereich IT-Sicherheit existieren derzeit im
 Geschäftsbereich des BMWE (bitte nach Behörden und Besoldungsgruppen 
 aufschlüsseln)?
@@ -90,28 +88,22 @@ entwickelt (bitte jährlich angeben und nach Behörden differenzieren)?
 16. Wurden in den Jahren 2022, 2023 und 2024 Stellen im Bereich IT-
 Sicherheit im Geschäftsbereich des BMWE abgebaut, umgewidmet oder 
 neu geschaffen, und wenn ja, in welchem Umfang?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 17. Wie viele dieser Stellen (vgl. Frage 16) sind derzeit unbesetzt, und wie 
 lange bleiben offene Stellen im Durchschnitt vakant?
 18. Welche besonderen Schwierigkeiten sieht die Bundesregierung bei der 
 Gewinnung von IT-Sicherheitsfachkräften im Geschäftsbereich des 
 BMWE, und welche Maßnahmen werden ergriffen, um diese
 Herausforderungen zu bewältigen?
-19. Welche Rolle spielt das Informationszentrum Bund (ITZBund) in Bezug 
-auf IT-Sicherheit für das BMWE, und wie entwickelt sich dort die
-Personalausstattung in diesem Bereich?
-20. Welche Maßnahmen ergreift das BMWE, um Resilienz seiner besonders 
-sensiblen Systeme trotz möglicher Personalknappheit im Bereich IT-
+19. Welche Rolle spielt das Informationstechnikzentrum Bund (ITZBund) in 
+Bezug auf die IT-Sicherheit für das BMWE, und wie entwickelt sich dort 
+die Personalausstattung in diesem Bereich?
+20. Welche Maßnahmen ergreift das BMWE, um die Resilienz seiner
+besonders sensiblen Systeme trotz möglicher Personalknappheit im Bereich IT-
 Sicherheit sicherzustellen?
 21. Plant die Bundesregierung, die IT-Sicherheitskapazitäten im BMWE
-mittelfristig auszubauen, mit welchem zeitlichen Horizont?
-Berlin, den 28.10.2025 (Feldfunktion, bitte prüfen)
+mittelfristig auszubauen, und mit welchem zeitlichen Horizont?
+Berlin, den 22. Oktober 2025
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.

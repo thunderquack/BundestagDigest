@@ -4,7 +4,7 @@ Kleine Anfrage
 der Abgeordneten Tobias Matthias Peterka, Andreas Paul, Ulrich von Zons, 
 Lukas Rehm, Manfred Schiller, Tobias Teich, Gerold Otten, Dr. Rainer Kraft, 
 Jan Wenzel Schmidt, Thomas Korell, Dr. Paul Schmidt, Robin Jünger, Dr. Malte 
-Kaufmann, Dr. Daniel Zerbin, Dr. Christina Baum, Mirko Hanker, Reinhard Mixl, 
+Kaufmann, Dr. Daniel Zerbin, Dr. Christina Baum, Mirco Hanker, Reinhard Mixl, 
 Marc Bernhard, Dr. Michael Blos, Carolin Bachmann, Stefan Keuter, Knuth Meyer-
 Soltau, Claudia Weiss, Julian Schmidt, Dr. Maximilian Krah, Achim Köhler, Edgar 
 Naujok, Kay-Uwe Ziegler, Joachim Bloch, Udo Theodor Hemmelgarn, Stefan 
@@ -31,18 +31,16 @@ Der Bundesrechnungshof hat vor eklatanten Sicherheitslücken in den
 Rechenzentren und Netzen des Bundes gewarnt (www.spiegel.de/politik/deutschland/c
 ybersicherheit-rechnungshof-warnt-vor-mangelndem-schutz-der-bundes-it-a-6b
 aacfe5-2e6b-4e8b-a64b-e10d9cf2585e). Unter anderem bemängelt der
-Bundesrechnungshof, dass weniger als zehn Prozent der mehr als 100
-Bundesrechenzentren die Mindeststandards erfüllen, dass die Notstromversorgung in
-Krisenlagen vielfach unzureichend ist, und dass kritische IT-Dienste oft nicht
-georedundant verfügbar sind (s. o.).
+Bundesrechnungshof, dass weniger als 10 Prozent der mehr als 100
+Bundesrechenzentren die Mindeststandards erfüllen, dass die Notstromversorgung in Krisenlagen 
+vielfach unzureichend ist und dass kritische IT-Dienste oft nicht georedundant 
+verfügbar sind (s. o.).
 Angesichts der von der ehemaligen Bundesregierung selbst als
 „besorgniserregend“ beschriebenen Cybersicherheitslage (www.security-insider.de/bund-redu
-ziert-it-sicherheitsstellen-a-508f57e078fd32fa7cd1a915db00c76e/), stellt sich 
-den Fragestellern u. a. die Frage für die Gründe dieser Schwerpunktsetzung. 
-Gleichzeitig stellen sich ihnen Fragen, wie die neuen Stellen im BMVg strate-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-gisch eingebunden, mit Kompetenzen ausgestattet und im internationalen
+ziert-it-sicherheitsstellen-a-508f57e078fd32fa7cd1a915db00c76e/) stellt sich 
+den Fragestellern u. a. die Frage nach den Gründen dieser Schwerpunktsetzung. 
+Gleichzeitig stellen sich ihnen Fragen, wie die neuen Stellen im BMVg
+strategisch eingebunden, mit Kompetenzen ausgestattet und im internationalen
 Vergleich bewertet werden.
 Wir fragen die Bundesregierung:
  1. Wie viele Stellen im Bereich IT-Sicherheit wurden seit 2022 im
@@ -55,11 +53,11 @@ Kooperationen)?
  3. Wie werden die neuen Stellen (vgl. Frage 1) organisatorisch im BMVg 
 und in der Bundeswehr (z. B. Cyber- und Informationsraum [CIR],
 Bundesamt für Ausrüstung, Informationstechnik und Nutzung der
-Bundeswehr (BAAINBw), IT-Dienstleistungen) verortet?
+Bundeswehr [BAAINBw], IT-Dienstleistungen) verortet?
  4. Welche konkreten Gründe lagen der Entscheidung über den
-Stellenzuwachs im militärischen Bereich zugrunde und welche operativen und
-strategischen Ziele werden mit dem Stellenzuwachs von rund 163 Stellen im 
-Bereich Cyber- und IT-Sicherheit verfolgt (vgl. Vorbemerkung der
+Stellenzuwachs im militärischen Bereich zugrunde, und welche operativen und 
+strategischen Ziele werden mit dem Stellenzuwachs von rund 163 Stellen 
+im Bereich Cyber- und IT-Sicherheit verfolgt (vgl. Vorbemerkung der
 Fragesteller)?
  5. Inwiefern wurden bei der Entscheidung über den Stellenzuwachs im
 militärischen Bereich Bedrohungslagen wie staatlich gesteuerte Cyberangriffe, 
@@ -69,8 +67,8 @@ Infrastrukturen berücksichtigt?
 fünf Jahren im Zuständigkeitsbereich des BMVg registriert, und wie
 wurde jeweils darauf reagiert (bitte nach Jahr, Anzahl der Zwischenfälle,
 Behörde und Art der Angriffe differenzieren)?
- 7. Welche Rolle spielt das CIR bei der Umsetzung des Personalzuwachses 
-im IT-Sicherheitsbereich und inwiefern wird die personelle Verstärkung 
+ 7. Welche Rolle spielt der CIR bei der Umsetzung des Personalzuwachses 
+im IT-Sicherheitsbereich, und inwiefern wird die personelle Verstärkung 
 im Bereich Cyber- und IT-Sicherheit mit der Gesamtstrategie des BMVg 
 für den Cyber- und Informationsraum abgestimmt?
  8. Wie hoch ist die aktuelle Zahl unbesetzter IT-Sicherheitsstellen im
@@ -90,29 +88,23 @@ vorgesehen?
 multilateralen Strukturen (NATO, EU, bilaterale Partnerschaften) ihre 
 Rolle als verlässlicher Partner im Bereich Cyber- und Informationsraum 
 stärken kann?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 13. Welche konkreten Auswirkungen erwartet die Bundesregierung durch den 
 Stellenzuwachs (vgl. Vorbemerkung der Fragesteller) auf die Fähigkeit der 
-Bundeswehr, Cyber-Angriffe abzuwehren und offensive sowie defensive 
+Bundeswehr, Cyberangriffe abzuwehren und offensive sowie defensive 
 Cyberoperationen durchzuführen?
 14. Welche Bedeutung misst die Bundesregierung der personellen
 Verstärkung im BMVg (vgl. Vorbemerkung der Fragesteller) für die
 gesamtstaatliche Cybersicherheitsarchitektur bei, und wie wird eine Verzahnung mit 
-anderen Ressorts und Behörden (z. B. BSI, BMI, Auswärtiges Amt)
-sichergestellt?
+anderen Ressorts und Behörden (z. B. BSI, Bundesministerium des Innern 
+[BMI], Auswärtiges Amt) sichergestellt?
 15. Wie bewertet die Bundesregierung die strategische Bedeutung der
 Cybersicherheit im Geschäftsbereich des BMVg für die Verteidigungsfähigkeit 
 Deutschlands?
-16. Plant die Bundesregierung, die gewonnenen Erkenntnisse und Strukturen 
-aus dem militärischen Bereich auch für den zivilen Bereich nutzbar zu 
-machen, um dortigen Kapazitätsabbau auszugleichen?
-Berlin, den 28.10.2025
+16. Plant die Bundesregierung, die gewonnenen Erkenntnisse und die
+Strukturen aus dem militärischen Bereich auch für den zivilen Bereich nutzbar zu 
+machen, um den dortigen Kapazitätsabbau auszugleichen?
+Berlin, den 22. Oktober 2025
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.

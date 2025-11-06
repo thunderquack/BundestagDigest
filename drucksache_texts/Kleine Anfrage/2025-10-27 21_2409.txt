@@ -11,44 +11,42 @@ Naujok, Kay-Uwe Ziegler, Joachim Bloch, Udo Theodor Hemmelgarn, Stefan
 Henze, Uwe Schulz, Sascha Lensing, Rocco Kever, Volker Scheurell, Otto Strauß, 
 Tobias Ebenberger und der Fraktion der AfD
 Cybersicherheit und Stellenabbau im Bereich IT-Sicherheit im Geschäftsbereich 
-des Bundesministeriums des Innern und für Heimat
+des Bundesministeriums des Innern
 Cybersicherheit ist eine zentrale Zukunftsaufgabe, die gesamtstaatlich gedacht 
 und umgesetzt werden muss. Nach aktuellen Berichten wurden im
-Geschäftsbereich des Bundesministeriums des Innern und für Heimat (BMI) rund 344
-Stellen im Bereich IT-Sicherheit gestrichen, betroffen sind damit auch zentrale
-Behörden wie das Bundesamt für Sicherheit in der Informationstechnik (BSI) und 
-möglicherweise weitere nachgeordnete Behörden (www.security-insider.de/bun
-d-reduziert-it-sicherheitsstellen-a-508f57e078fd32fa7cd1a915db00c76e/).
+Geschäftsbereich des Bundesministeriums des Innern (BMI) rund 344 Stellen im Bereich 
+IT-Sicherheit gestrichen, betroffen sind damit auch zentrale Behörden wie das 
+Bundesamt für Sicherheit in der Informationstechnik (BSI) und möglicherweise 
+weitere nachgeordnete Behörden (www.security-insider.de/bund-reduziert-it-si
+cherheitsstellen-a-508f57e078fd32fa7cd1a915db00c76e/).
 Angesichts der von der ehemaligen Bundesregierung selbst als
 „besorgniserregend“ beschriebenen Cybersicherheitslage erscheint dieser Stellenabbau den 
 Fragestellern widersinnig (s. o.).
 Der Stellenabbau im Geschäftsbereich des BMI erscheint ihnen
-widersprüchlich, da gerade das BMI eine Kernverantwortung für die zivile Cybersicherheit, 
-den Schutz kritischer Infrastrukturen sowie die Koordinierung der
+widersprüchlich, weil gerade das BMI eine Kernverantwortung für die zivile
+Cybersicherheit, den Schutz kritischer Infrastrukturen sowie die Koordinierung der
 gesamtstaatlichen Abwehrmaßnahmen trägt. Im Hinblick auf die zunehmende
-Bedrohungslage durch Cyberoperationen staatlicher und nichtstaatlicher Akteure (www.bsi.
-bund.de/DE/Service-Navi/Publikationen/Lagebericht/lagebericht_node.html#:
-~:text=2.,verwundbar%20waren%20zudem%20Android%2DSysteme) ist ein 
-Abbau von Ressourcen in diesem sicherheitskritischen Bereich nach
-Auffassung der Fragesteller erklärungsbedürftig.
-Auch mit Blick auf die Warnung des Bundesrechnungshofs vor eklatanten
+Bedrohungslage durch Cyberoperationen staatlicher und nichtstaatlicher Akteure 
+(www.bsi.bund.de/DE/Service-Navi/Publikationen/Lagebericht/lagebericht_no
+de.html#:~:text=2.,verwundbar%20waren%20zudem%20Android%2DSys
+teme) ist ein Abbau von Ressourcen in diesem sicherheitskritischen Bereich 
+nach Auffassung der Fragesteller erklärungsbedürftig.
+Auch mit Blick auf die Warnung des Bundesrechnungshofes vor eklatanten
 Sicherheitslücken in den Rechenzentren und Netzen des Bundes (www.spiege
 l.de/politik/deutschland/cybersicherheit-rechnungshof-warnt-vor-
-mangelndemschutz-der-bundes-it-a-6baacfe5-2e6b-4e8b-a64b-e10d9cf2585e), ist der 
-Stellenabbau in den Augen der Fragesteller fragwürdig. Unter anderem
-bemängelt der Bundesrechnungshof, dass weniger als zehn Prozent der mehr als 100 
-Bundesrechenzentren die Mindeststandards erfüllen, dass die
-Notstromversorgung in Krisenlagen vielfach unzureichend sei, und dass kritische IT-Dienste 
-oft nicht georedundant verfügbar seien (s. o.).
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-Die Sicherheitsbehörden des Bundesministeriums des Innern und für Heimat 
-(BMI) – darunter das Bundesamt für Sicherheit in der Informationstechnik 
-(BSI), das Bundeskriminalamt (BKA), das Bundesamt für Verfassungsschutz 
-(BfV), die Bundespolizei sowie die Zentrale Stelle für Informationstechnik im 
-Sicherheitsbereich (ZITiS) – sind in besonderem Maße mit der Abwehr,
-Aufklärung und Bekämpfung von Cyberangriffen sowie mit der Absicherung der 
-eigenen Informations- und Kommunikationssysteme befasst.
+mangelndemschutz-der-bundes-it-a-6baacfe5-2e6b-4e8b-a64b-e10d9cf2585e) ist der
+Stellenabbau in den Augen der Fragesteller fragwürdig. Unter anderem bemängelt 
+der Bundesrechnungshof, dass weniger als 10 Prozent der mehr als 100
+Bundesrechenzentren die Mindeststandards erfüllen, dass die Notstromversorgung 
+in Krisenlagen vielfach unzureichend sei und dass kritische IT-Dienste oft nicht 
+georedundant verfügbar seien (s. o.).
+Die Sicherheitsbehörden des Bundesministeriums des Innern – darunter das 
+Bundesamt für Sicherheit in der Informationstechnik, das Bundeskriminalamt 
+(BKA), das Bundesamt für Verfassungsschutz (BfV), die Bundespolizei sowie 
+die Zentrale Stelle für Informationstechnik im Sicherheitsbereich (ZITiS) – sind 
+in besonderem Maße mit der Abwehr, Aufklärung und Bekämpfung von
+Cyberangriffen sowie mit der Absicherung der eigenen Informations- und
+Kommunikationssysteme befasst.
 Vor diesem Hintergrund ist es in den Augen der Fragesteller von besonderem 
 Interesse, wie das BMI organisatorisch, personell und technisch aufgestellt ist, 
 um solchen Bedrohungen wirksam zu begegnen zu können. Gleichzeitig stellen 
@@ -77,22 +75,20 @@ Aufgaben wie Abwehr, Monitoring, Krisenreaktion, Prävention?
 Stellenabbau Fähigkeiten eingeschränkt werden könnten (z. B. bei größeren
 Cybervorfällen)?
  9. Wurden durch das BMI bereits konkrete Leistungseinbußen gegenüber 
-Dritten (Ministerien, nachgeordnete Behörden, KRITIS-Betreiber)
-festgestellt und diagnostiziert?
+Dritten (Bundesministerien, nachgeordnete Behörden, KRITIS-Betreiber 
+[KRITIS = kritische Infrastrukturen]) festgestellt und diagnostiziert?
 10. Wie viele unbesetzte Stellen im Bereich IT-Sicherheit (nach
 Eingruppierung) existieren aktuell im Geschäftsbereich des BMI?
 11. Wie haben sich offene Positionen (inklusive langdauernde Vakanz) im IT-
-Sicherheitsbereich über die Jahre 2022 bis 2025 entwickelt?
+Sicherheitsbereich über die Jahre von 2022 bis 2025 entwickelt?
 12. Welche Maßnahmen unternimmt das BMI, um Fachkräfte für IT-
 Sicherheit zu gewinnen, zu binden und ggf. neu aufzubauen?
 13. Verfolgt das BMI einen mittelfristigen Personalplan, um den Rückgang im 
-IT-Sicherheitsbereich zu stoppen oder umzukehren, insbesondere, falls die 
-Bedrohungslage zunimmt?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-14. Gibt es Szenarien oder Triggerpunkte (z. B. bei bestimmten bei
-bestimmten Cybervorfällen, Bedrohungsindizes), bei denen das BMI
-personalpolitisch reagiert (z. B. Rückbaustop, Neueinstellungen)?
+IT-Sicherheitsbereich zu stoppen oder umzukehren, insbesondere wenn 
+die Bedrohungslage zunimmt?
+14. Gibt es Szenarien oder Triggerpunkte (z. B. bei bestimmten
+Cybervorfällen, Bedrohungsindizes), bei denen das BMI personalpolitisch reagiert 
+(z. B. Rückbaustopp, Neueinstellungen)?
 15. Welche Rolle spielen externe Kooperationen (z. B. mit Ländern, EU,
 Privatwirtschaft) zur Kompensation von Personaldefiziten im Bereich IT-
 Sicherheit, in welchem Umfang greifen das BMI und die genannten
@@ -100,8 +96,8 @@ Sicherheitsbehörden auf externe Dienstleister im Bereich IT-Sicherheit
 zurück, und welche Risiken sieht die Bundesregierung dabei ggf. für die 
 Vertraulichkeit, Integrität und Sicherheit der Arbeitsprozesse?
 16. Wie hat das BMI gegenüber anderen Ressorts, Behörden und externen 
-Akteuren (z. B. Kritische Infrastruktur-Betreiber [KRITIS], IT-
-Dienstleister) den Stellenabbau begründet und kommuniziert?
+Akteuren (z. B. KRITIS-Betreiber, IT-Dienstleister) den Stellenabbau
+begründet und kommuniziert?
 17. Über wie viele Rechenzentren verfügt das BMI aktuell, und wie viele
 davon erfüllen nachweislich die geltenden Mindeststandards für IT-
 Sicherheit?
@@ -110,22 +106,22 @@ funktionsfähige Notstromversorgung, die auch längerfristige (über mehrere
 Stunden oder Tage) Krisenlagen abdecken kann?
 19. An welchen Standorten des BMI sind kritische IT-Dienste georedundant 
 verfügbar, und wie wird die Ausfallsicherheit regelmäßig überprüft?
-20. Welche Investitionen hat das BMI in den Jahren 2020 bis 2025 konkret für 
-den Ausbau und die Absicherung seiner IT-Infrastruktur (einschließlich 
-Rechenzentren, Netze, Cloudlösungen) getätigt?
+20. Welche Investitionen hat das BMI in den Jahren von 2020 bis 2025
+konkret für den Ausbau und die Absicherung seiner IT-Infrastruktur
+(einschließlich Rechenzentren, Netze, Cloudlösungen) getätigt?
 21. In welchem Umfang hat das BMI in den vergangenen fünf Jahren
 Sicherheitsüberprüfungen (z. B. durch das BSI oder unabhängige Dienstleister) 
 durchführen lassen, und mit welchen Ergebnissen?
 22. Welche organisatorischen Zuständigkeiten für Cybersicherheit bestehen 
 innerhalb des BMI (z. B. eigenes Computer Emergency Response Team 
-(CERT), IT-Sicherheitsreferate, Zusammenarbeit mit dem BSI)?
+[CERT], IT-Sicherheitsreferate, Zusammenarbeit mit dem BSI)?
 23. Welche Maßnahmen hat das BMI seit 2020 ggf. ergriffen, um auf die
 Kritikpunkte des Bundesrechnungshofes im Bereich IT-Sicherheit zu
 reagieren?
 24. Wie viele Sicherheitsvorfälle oder Cyberangriffe wurden in den letzten 
 fünf Jahren im Zuständigkeitsbereich des BMI registriert, und wie wurde 
-jeweils darauf reagiert (bitte differenzieren nach Jahr, Anzahl der
-Zwischenfälle, Behörde und Art der Angriffe)?
+jeweils darauf reagiert (bitte nach Jahr, Anzahl der Zwischenfälle,
+Behörde und Art der Angriffe differenzieren)?
 25. Welche Bedrohungsanalysen zu Cyberangriffen auf die genannten
 Sicherheitsbehörden des BMI liegen dem BMI vor?
 26. Welche technischen und organisatorischen Maßnahmen wurden seit 2018 
@@ -134,13 +130,9 @@ Cyberangriffe abzusichern?
 27. Welche konkreten Schritte plant das BMI ggf., um bis spätestens 2030 die 
 vollständige Einhaltung der vom Bundesrechnungshof geforderten
 Mindeststandards (inklusive Notstromversorgung und georedundanter
-Systeme sicherzustellen) sicherzustellen?
-Berlin, den 28.10.2025 (Feldfunktion, bitte prüfen)
+Systeme) sicherzustellen?
+Berlin, den 22. Oktober 2025
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.

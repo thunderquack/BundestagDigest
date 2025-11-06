@@ -21,27 +21,25 @@ Auch der Bundesrechnungshof warnt vor eklatanten Sicherheitslücken in den
 Rechenzentren und Netzen des Bundes (www.spiegel.de/politik/deutschland/cy
 bersicherheit-rechnungshof-warnt-vor-mangelndem-schutz-der-bundes-it-a-6ba
 acfe5-2e6b-4e8b-a64b-e10d9cf2585e). Unter anderem bemängelt der
-Bundesrechnungshof, dass weniger als zehn Prozent der mehr als 100
-Bundesrechenzentren die Mindeststandards erfüllen, dass die Notstromversorgung in
-Krisenlagen vielfach unzureichend ist, und dass kritische IT-Dienste oft nicht
-georedundant verfügbar sind (s. o.). Nach aktuellen Berichten hat die
-Bundesregierung im Bereich IT-Sicherheit Stellen abgebaut (www.security-insider.de/
-bundreduziert-it-sicherheitsstellen-a-508f57e078fd32fa7cd1a915db00c76e/).
-Das Bundesministerium der Finanzen (BMF) ist in Hinblick auf die Sicherheit 
-seiner IT-Infrastruktur besonders exponiert. Das Ministerium betreibt komplexe 
-IT-Systeme zur Steuerung von Haushalts- und Finanzströmen, zur
-Kommunikation mit anderen Ressorts, Behörden und internationalen Partnern sowie zur
-internen Verwaltungsarbeit. Ein erfolgreicher Angriff auf die interne IT des BMF 
-kann nicht nur zu erheblichen Funktionsstörungen im Ministerium selbst
-führen, sondern auch Kettenreaktionen im föderalen Finanzgefüge auslösen – bis 
-hin zu Einschränkungen bei Steuereinnahmen, Haushaltsvollzug und
-internationaler Finanzkooperation. Das BMF ist daher in besonderem Maße auf
-funktionsfähige und sichere IT-Infrastrukturen angewiesen – sei es im Bereich der 
-Finanzverwaltung, bei sensiblen Zahlungsverkehrssystemen, im Zoll oder in 
-nachgeordneten IT-Dienstleistern wie dem Informationstechnikzentrum Bund 
-(ITZBund).
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+Bundesrechnungshof, dass weniger als 10 Prozent der mehr als 100
+Bundesrechenzentren die Mindeststandards erfüllen, dass die Notstromversorgung in Krisenlagen 
+vielfach unzureichend ist und dass kritische IT-Dienste oft nicht georedundant 
+verfügbar sind (s. o.). Nach aktuellen Berichten hat die Bundesregierung im 
+Bereich IT-Sicherheit Stellen abgebaut (www.security-insider.de/bund-reduzier
+t-it-sicherheitsstellen-a-508f57e078fd32fa7cd1a915db00c76e/).
+Das Bundesministerium der Finanzen (BMF) ist im Hinblick auf die Sicherheit 
+seiner IT-Infrastruktur besonders exponiert. Das Bundesministerium betreibt 
+komplexe IT-Systeme zur Steuerung von Haushalts- und Finanzströmen, zur 
+Kommunikation mit anderen Ressorts, Behörden und internationalen Partnern 
+sowie zur internen Verwaltungsarbeit. Ein erfolgreicher Angriff auf die interne 
+IT des BMF kann nicht nur zu erheblichen Funktionsstörungen im
+Bundesministerium selbst führen, sondern auch Kettenreaktionen im föderalen
+Finanzgefüge auslösen – bis hin zu Einschränkungen bei Steuereinnahmen, des
+Haushaltsvollzugs und der internationalen Finanzkooperation. Das BMF ist daher in 
+besonderem Maße auf funktionsfähige und sichere IT-Infrastrukturen
+angewiesen – sei es im Bereich der Finanzverwaltung, bei sensiblen
+Zahlungsverkehrssystemen, beim Zoll oder bei nachgeordneten IT-Dienstleistern wie dem
+Informationstechnikzentrum Bund (ITZBund).
 Wir fragen die Bundesregierung:
  1. Über wie viele Rechenzentren verfügt das BMF aktuell, und wie viele
 davon erfüllen die geltenden Mindeststandards für IT-Sicherheit?
@@ -50,30 +48,30 @@ funktionsfähige Notstromversorgung, die auch längerfristige (über mehrere Stu
 oder Tage) Krisenlagen abdecken kann?
  3. An welchen Standorten des BMF sind kritische IT-Dienste georedundant 
 verfügbar, und wie wird die Ausfallsicherheit regelmäßig überprüft?
- 4. Welche Investitionen hat das BMF in den Jahren 2022 bis 2025 konkret 
-für den Ausbau und die Absicherung seiner IT-Infrastruktur
+ 4. Welche Investitionen hat das BMF in den Jahren von 2022 bis 2025
+konkret für den Ausbau und die Absicherung seiner IT-Infrastruktur
 (einschließlich Rechenzentren, Netze, Cloudlösungen) getätigt?
  5. In welchem Umfang hat das BMF in den vergangenen fünf Jahren
-Sicherheitsüberprüfungen (z. B. durch das BSI oder unabhängige Dienstleister) 
-durchführen lassen, und mit welchen Ergebnissen?
+Sicherheitsüberprüfungen (z. B. durch das BSI oder durch unabhängige
+Dienstleister) durchführen lassen, und mit welchen Ergebnissen?
  6. Welche organisatorischen Zuständigkeiten für Cybersicherheit bestehen 
-innerhalb des BMF (z. B. eigenes CERT, IT-Sicherheitsreferate,
-Zusammenarbeit mit dem BSI)?
+innerhalb des BMF (z. B. eigenes Computer Emergency Response Team 
+[CERT], IT-Sicherheitsreferate, Zusammenarbeit mit dem BSI)?
  7. Welche Maßnahmen hat das BMF seit 2020 ergriffen, um auf die
 Kritikpunkte des Bundesrechnungshofes im Bereich IT-Sicherheit zu reagieren?
  8. Wie viele Sicherheitsvorfälle oder Cyberangriffe wurden in den letzten 
 fünf Jahren im Zuständigkeitsbereich des BMF registriert, und wie wurde 
-jeweils darauf reagiert (bitte aufschlüsseln nach Jahr, Anzahl der
-Vorfälle)?
+jeweils darauf reagiert (bitte nach Jahr und Anzahl der Vorfälle
+aufschlüsseln)?
  9. Welche Schulungs- und Sensibilisierungsmaßnahmen zum Thema
 Cybersicherheit wurden für Mitarbeiter des BMF seit 2020 durchgeführt?
 10. Welche konkreten Schritte plant das BMF, um bis spätestens 2030 die 
 vollständige Einhaltung der vom Bundesrechnungshof geforderten
 Mindeststandards (inklusive Notstromversorgung und georedundanter
-Systeme sicherzustellen) sicherzustellen?
+Systeme) sicherzustellen?
 11. Wie viele Stellen im Bereich IT-Sicherheit existieren derzeit im
-Geschäftsbereich des BMF (bitte aufschlüsseln nach Behörden und
-Besoldungsgruppen)?
+Geschäftsbereich des BMF (bitte nach Behörden und Besoldungsgruppen 
+aufschlüsseln)?
 12. Wie hat sich die Zahl der IT-Sicherheitsstellen im BMF seit 2020
 entwickelt (bitte jährlich angeben und nach Behörden differenzieren)?
 13. Wurden in den Jahren 2022, 2023 und 2024 Stellen im Bereich IT-
@@ -88,26 +86,19 @@ offene Stellen im Durchschnitt vakant?
 der Gewinnung von IT-Sicherheitsfachkräften im Geschäftsbereich des 
 BMF, und welche Maßnahmen werden ggf. ergriffen, um diese
 Herausforderungen zu bewältigen?
-17. Welche Rolle spielt das Informationszentrum Bund (ITZBund) in Bezug 
-auf IT-Sicherheit für das BMF, und wie entwickelt sich dort die
-Personalausstattung in diesem Bereich?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-Inwiefern sind ggf. Finanzverwaltung und Zoll im Hinblick auf ihre IT-
-Sicherheitskapazitäten durch Fachkräftemangel oder Stellenkürzungen
-betroffen?
-18. Welche Maßnahmen ergreift das BMF ggf., um Resilienz seiner besonders 
-sensiblen Systeme (z. B. Zahlungsverkehr, Steuereinzug, Zollabwicklung) 
-trotz möglicher Personalknappheit im Bereich IT-Sicherheit
+17. Welche Rolle spielt das Informationstechnikzentrum Bund (ITZBund) in 
+Bezug auf die IT-Sicherheit für das BMF, wie entwickelt sich dort die
+Personalausstattung in diesem Bereich, und inwiefern sind ggf.
+Finanzverwaltung und Zoll im Hinblick auf ihre IT-Sicherheitskapazitäten durch 
+Fachkräftemangel oder Stellenkürzungen betroffen?
+18. Welche Maßnahmen ergreift das BMF ggf., um die Resilienz seiner
+besonders sensiblen Systeme (z. B. Zahlungsverkehr, Steuereinzug,
+Zollabwicklung) trotz möglicher Personalknappheit im Bereich IT-Sicherheit 
 sicherzustellen?
 19. Plant die Bundesregierung, die IT-Sicherheitskapazitäten im BMF
 mittelfristig auszubauen, und wenn ja, mit welchem zeitlichen Horizont?
-Berlin, den 28.10.2025 (bitte prüfen, Feldfunktion)
+Berlin, den 22. Oktober 2025
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
