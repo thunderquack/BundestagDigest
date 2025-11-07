@@ -1,0 +1,2157 @@
+Bundesrat Drucksache  627/25 
+ 
+  
+  
+ 
+05.11.25 
+ Fz - AIS - FSFJ - In 
+ 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln 
+Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de 
+ISSN 0720-2946 
+Verordnung 
+des Bundesministeriums  
+der Finanzen 
+ 
+Verordnung zum Abruf von Kindergelddaten durch 
+Sozialleistungsträger (Sozialleistungsträger-Datenabruf-
+Verordnung - SozKiGAbV) 
+A. Problem und Ziel 
+Für eine Vielzahl an Sozialleistungen ist es von Bedeutung, ob für ein Kind ein Anspruch 
+auf Kindergeld nach dem Einkommensteuergesetz besteht. So knüpft der Anspruch auf 
+den erhöhten Leistungssatz für Entgeltersatzleistungen nach § 149 des Dritten Buches 
+Sozialgesetzbuch an das Vorliegen der Voraussetzungen des § 32 Absatz 1, 3 bis 5 des 
+Einkommensteuergesetzes an, und das Kindergeld stellt für Leistungen der
+Grundsicherung für Arbeitsuchende nach § 19a Absatz 2 des Ersten Buches Sozialgesetzbuch
+gemäß § 11 Absatz 1 Satz 5 des Zweiten Buches Sozialgesetzbuch, aber auch bei
+Leistungen der Sozialhilfe nach § 28 des Ersten Buches Sozialgesetzbuch i. V. m. § 82 des 
+Zwölften Buches Sozialgesetzbuch Einkommen dar. Kindergeld nach dem
+Bundeskindergeldgesetz kann gemäß § 25 Absatz 1 Satz 1 des Ersten Buches Sozialgesetzbuch nur in 
+Anspruch genommen werden, wenn kein Anspruch auf Kindergeld nach dem
+Einkommensteuergesetz besteht. Personen erhalten gemäß § 6b Absatz 1 Satz 1 des
+Bundeskindergeldgesetzes Leistungen für Bildung und Teilhabe für ein Kind, wenn sie neben 
+weiteren Voraussetzungen für dieses Kind einen Anspruch auf Kindergeld nach dem
+Einkommensteuergesetz haben. Für den Unterhaltsvorschuss ergibt sich eine Minderung der 
+Unterhaltsleistung aus § 2 Absatz 2 des Unterhaltsvorschussgesetzes, wenn ein
+Anspruch auf Kindergeld nach dem Einkommensteuergesetz besteht. Die Information, ob für 
+ein Kind ein Anspruch auf Kindergeld besteht, liegt der Familienkasse der Bundesagentur 
+für Arbeit vor. Eine Datennachnutzung auch durch andere Stellen sieht das geltende 
+Recht bisher nicht vor. 
+B. Lösung 
+Mit dieser Verordnung wird es der Familienkasse der Bundesagentur für Arbeit
+ermöglicht, die Daten aus den IT-Fachverfahren der Familienkasse, die dem Steuergeheimnis 
+unterliegen, auch für die Leistungen der Arbeitsförderung nach § 19 des Ersten Buches 
+Sozialgesetzbuch, für Leistungen der Grundsicherung für Arbeitsuchende nach § 19a des 
+Ersten Buches Sozialgesetzbuch, für Kindergeld nach dem Bundeskindergeldgesetz, für 
+Leistungen für Bildung und Teilhabe und für Leistungen der Sozialhilfe nach § 28 des
+Ersten Buches Sozialgesetzbuch und für den Unterhaltsvorschuss nach dem
+Unterhaltsvorschussgesetz zur Verfügung zu stellen. Zu diesem Zweck wurde mit § 68 Absatz 5 des 
+Einkommensteuergesetzes eine Rechtsgrundlage zum Datenaustausch geschaffen, so 
+dass das Steuergeheimnis dem Datenaustausch nicht entgegensteht. Die Beantragung 
+und Bearbeitung dieser Leistungen kann dadurch vereinfacht und entbürokratisiert
+werden. Eltern, die eine dieser Leistungen beziehen, müssen Informationen zum
+Kindergeldbezug nicht erneut angeben. Damit wird ein wichtiger Schritt zur Entbürokratisierung
+ermöglicht und sowohl die Familien als auch die Verwaltung entlastet. Zudem wird die 
+missbräuchliche Inanspruchnahme dieser Leistungen wirksamer verhindert. 
+Auch den Kinderzuschlag erhalten Eltern nur für ein Kind, für das auch ein Anspruch auf 
+Kindergeld besteht. Die Nachnutzung der Kindergelddaten für Zwecke der Bearbeitung 
+des Kinderzuschlags ist bereits in der Verordnung zur Datenübermittlung zwischen den 
+für das Kindergeld nach dem Einkommensteuergesetz und den für den Kinderzuschlag 
+zuständigen Stellen (BGBl. 2023 I Nr. 376) geregelt worden. Diese bleibt unberührt. 
+C. Alternativen 
+Keine. Eine einwilligungsbasierte Weitergabe von Informationen als Alternative zu einem 
+automatisierten Datenabruf wäre nicht geeignet, die Digitalisierung und
+Entbürokratisierung nennenswert voranzubringen. 
+D. Haushaltsausgaben ohne Erfüllungsaufwand 
+Die Ausgaben für die Einrichtung der Schnittstellen bei der Familienkasse der
+Bundesagentur für Arbeit haben keine Auswirkungen auf den Einzelplan des BMF. Mit den
+laufenden Verwaltungskostenerstattungen sind diese Kosten abgegolten. 
+Die Ausgaben für die Anbindung an diese Schnittstelle werden für die Jobcenter aus dem 
+Einzelplan des BMAS und für die Agenturen aus dem Haushalt der Bundesagentur für 
+Arbeit finanziert. Die Ausgaben für die Einrichtung der Schnittstelle für die Jobcenter
+würden sich auf Basis der maßgeblichen Sach- und Personalkostensätze rund 0,5 Mio. Euro, 
+für die Agenturen auf rund 1,7 Mio. Euro belaufen. Für die jährlichen Betriebskosten
+ergeben sich für die Jobcenter geringfügige Kosten, für die Agentur für Arbeit rund 0,1 Mio. 
+Euro. 
+E. Erfüllungsaufwand 
+E.1 Erfüllungsaufwand für Bürgerinnen und Bürger 
+Für Bürgerinnen und Bürger reduziert sich der jährliche Zeitaufwand um rund 98 000 
+Stunden und der jährliche Sachaufwand um rund 57 000 Euro. Einmaliger Zeitaufwand 
+und Sachaufwand fallen nicht an. 
+E.2 Erfüllungsaufwand für die Wirtschaft 
+Für die Wirtschaft fällt kein zusätzlicher Erfüllungsaufwand an. 
+E.3 Erfüllungsaufwand der Verwaltung 
+Für die Verwaltung erhöht sich der jährliche Erfüllungsaufwand insgesamt um rund 
+488 000 Euro. Für den Bund erhöht sich der jährliche Erfüllungsaufwand um rund 1,1
+Millionen Euro. Demgegenüber steht eine Entlastung der Länder (inkl. Kommunen) um rund 
+622 000 Euro.  
+Der einmalige Erfüllungsaufwand beträgt rund 26,4 Millionen Euro. Davon entfallen etwa 
+8,1 Millionen Euro an einmaligem Erfüllungsaufwand auf den Bund und 18,3 Millionen 
+Euro auf die Länder (inkl. Kommunen).
+F. Weitere Kosten 
+Für die Wirtschaft einschließlich der mittelständigen Wirtschaft entstehen keine weiteren 
+Kosten. 
+Auswirkungen auf Einzelpreise und das Preisniveau, insbesondere das
+Verbraucherpreisniveau, sind durch das Regelungsvorhaben nicht zu erwarten. 
+ 
+ 
+
+Bundesrat Drucksache  627/25 
+ 
+  
+  
+ 
+05.11.25 
+ Fz - AIS - FSFJ - In 
+ 
+ 
+Verordnung 
+des Bundesministeriums  
+der Finanzen 
+ 
+Verordnung zum Abruf von Kindergelddaten durch 
+Sozialleistungsträger (Sozialleistungsträger-Datenabruf-
+Verordnung - SozKiGAbV) 
+Bundeskanzleramt            Berlin, 4. November 2025 
+Staatsminister beim Bundeskanzler 
+An den 
+Präsidenten des Bundesrates 
+Herrn Bürgermeister 
+Dr. Andreas Bovenschulte 
+ 
+Sehr geehrter Herr Bundesratspräsident, 
+hiermit übersende ich die vom Bundesministerium der Finanzen zu erlassende 
+Verordnung zum Abruf von Kindergelddaten durch Sozialleistungsträger 
+(Sozialleistungsträger-Datenabruf-Verordnung – SozKiGAbV)  
+mit Begründung und Vorblatt. 
+Ich bitte, die Zustimmung des Bundesrates aufgrund des Artikels 80 Absatz 2 des 
+Grundgesetzes herbeizuführen. 
+Die Stellungnahme des Nationalen Normenkontrollrates gemäß § 6 Absatz 1 
+NKRG ist als Anlage beigefügt. 
+Mit freundlichen Grüßen 
+Dr. Michael Meister 
+ 
+ 
+Verordnung zum Abruf von Kindergelddaten durch
+Sozialleistungsträger 
+(Sozialleistungsträger-Datenabruf-Verordnung – SozKiGAbV) 
+Vom ...
+Das Bundesministerium der Finanzen verordnet auf Grund des § 68 Absatz 5 des
+Einkommensteuergesetzes in der Fassung der Bekanntmachung vom 8. Oktober 2009 
+(BGBl. I S. 3366, 3862), das zuletzt durch Artikel 1 des Gesetzes vom 14. Juli 2025 (BGBl. 
+2025 I Nr. 161) geändert worden ist:
+§ 1 
+Anwendungsbereich 
+(1) Diese Verordnung gilt für den automatisierten Abruf von Daten durch die folgenden 
+abrufberechtigten Stellen: 
+1. die Leistungsträger, die nach § 19 Absatz 2 des Ersten Buches Sozialgesetzbuch für 
+Leistungen der Arbeitsförderung zuständig sind,
+2. die Leistungsträger, die nach § 19a Absatz 2 des Ersten Buches Sozialgesetzbuch für 
+Leistungen der Grundsicherung für Arbeitsuchende zuständig sind,
+3. die Familienkasse, soweit sie für das Kindergeld nach dem Bundeskindergeldgesetz 
+zuständig ist,
+4. die Leistungsträger, die nach § 25 Absatz 3 des Ersten Buches Sozialgesetzbuch in 
+Verbindung mit § 7 Absatz 3 des Bundeskindergeldgesetzes für Leistungen für Bildung 
+und Teilhabe zuständig sind,
+5. die Leistungsträger, die nach § 28 Absatz 2 des Ersten Buches Sozialgesetzbuch für 
+Leistungen der Sozialhilfe zuständig sind, und
+6. die für den Vollzug des Unterhaltsvorschussgesetzes zuständigen Stellen
+(Unterhaltsvorschussstellen).
+(2) Daten nach Absatz 1 sind Daten,
+1. die bei den für das Kindergeld nach dem zehnten Abschnitt des
+Einkommensteuergesetzes zuständigen Stellen der Familienkasse der Bundesagentur für Arbeit
+(datenliefernde Stelle) gespeichert sind, und
+2. die den für eine Kindergeldzahlung maßgebenden Sachverhalt betreffen.
+Abrufberechtigung
+(1) Der automatisierte Abruf von Daten nach § 1 bedarf einer Abrufberechtigung. Eine 
+Abrufberechtigung wird Personen erteilt, die als Beschäftigte der in § 1 Absatz 1 genannten 
+Stellen tätig sind. Die Abrufberechtigung erteilt die datenliefernde Stelle. Eine
+Abrufberechtigung kann von der abrufberechtigten Stelle auch für automatisierte Abrufe durch
+entscheidungsvorbereitende Systeme und Entscheidungssysteme genutzt werden.
+(2) Beschäftigte nach Absatz 1 sind Amtsträger nach § 7 der Abgabenordnung oder 
+gleichgestellte Personen nach § 30 Absatz 3 Nummer 1 der Abgabenordnung, die über den 
+Anspruch auf die jeweilige Leistung unter Verwendung personenbezogener
+Kindergelddaten zu entscheiden haben.
+§ 3
+Verfahren und Umfang des Datenabrufs
+(1) Beschäftigte, denen eine Abrufberechtigung nach § 2 Absatz 1 erteilt worden ist, 
+haben für jeden Datenabruf folgende Angaben zu dem Kind oder zu der
+kindergeldberechtigten Person mitzuteilen:
+1. die Identifikationsnummer nach § 139b der Abgabenordnung und
+2. den Tag der Geburt.
+(2) Die datenliefernde Stelle ergänzt den Datensatz nach Absatz 1 um die Daten, die 
+für die abrufberechtigte Stelle zur Anspruchsprüfung und Bemessung der jeweiligen
+Leistung erforderlich sind. Der Datenabruf ist zu beschränken
+1. auf folgende Daten des Kindes: 
+a) die Identifikationsnummer nach § 139b der Abgabenordnung, 
+b) die Vornamen und den Nachnamen sowie frühere Namen, 
+c) den Tag der Geburt, 
+d) das Geschlecht, 
+e) die gegenwärtige oder die letzte bekannte Anschrift und 
+f) die Vornamen und den oder die Nachnamen sowie frühere Namen der Eltern; 
+2. auf folgende Daten der Personen, denen Kindergeld zusteht oder ohne
+Berücksichtigung des § 64 des Einkommensteuergesetzes zustehen würde: 
+a) die Identifikationsnummer nach § 139b der Abgabenordnung, 
+b) die Vornamen und den Nachnamen sowie frühere Namen, 
+c) den Tag der Geburt, 
+d) das Geschlecht,
+e) die gegenwärtige oder die letzte bekannte Anschrift und
+f) die Staatsangehörigkeit, soweit der Datenabruf durch eine Stelle nach § 1
+Absatz 1 Nummer 3 erfolgt; 
+3. auf folgende Daten zur Kindergeldfestsetzung und -erhebung: 
+a) den Tag der Antragstellung, 
+b) den Tag des Bescheides der Kindergeldfestsetzung, 
+c) den Tag des Bescheides der Aufhebung der Kindergeldfestsetzung, 
+d) den Zeitraum der Kindergeldfestsetzung und den Zeitraum, für den die
+Kindergeldfestsetzung aufgehoben wurde, 
+e) den Tag der Auszahlung und 
+f) die Höhe des ausgezahlten Kindergeldes, soweit der Datenabruf durch eine
+abrufberechtigte Stelle nach § 1 Absatz 1 Nummer 1, 2, 5 oder 6 erfolgt.
+(3) Die datenliefernde Stelle setzt geeignete technische und organisatorische
+Maßnahmen um zum Schutz der personenbezogenen Daten und zum Nachweis, dass die
+Verarbeitung dieser Daten im Einklang mit der Verordnung (EU) 2016/679 steht.
+(4) Es sind dem jeweiligen Stand der Technik gemäß der Richtlinien des
+Bundesamtes für Sicherheit in der Informationstechnik entsprechende technische und
+organisatorische Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die 
+insbesondere die Verfügbarkeit, die Vertraulichkeit und die Integrität der Daten sowie die 
+Authentisierung der abrufenden Stelle gewährleisten. Bei der Nutzung allgemein
+zugänglicher Netze sind angemessene und wirksame Verschlüsselungsverfahren zu verwenden. 
+Die datenliefernde Stelle bestimmt das einzusetzende Verschlüsselungsverfahren, das 
+dem jeweiligen Stand der Technik entsprechen muss.
+§ 4
+Prüfungs- und Dokumentationspflichten
+Zur Wahrung des Steuergeheimnisses und zur Sicherstellung von Datenschutz und 
+Datensicherheit beim Abrufverfahren sind § 2 Absatz 1 und die §§ 5 bis 8 der Steuerdaten-
+Abrufverordnung entsprechend anzuwenden.
+§ 5 
+Inkrafttreten 
+Diese Verordnung tritt am 1. Januar 2026 in Kraft.
+Der Bundesrat hat zugestimmt.
+EU-Rechtsakte:
+Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz
+natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur
+Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 
+22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35)
+Begründung 
+A. Allgemeiner Teil
+I. Zielsetzung und Notwendigkeit der Regelungen
+Für eine Vielzahl an Sozialleistungen ist es von Bedeutung, ob für ein Kind ein Anspruch 
+auf Kindergeld nach dem Einkommensteuergesetz besteht. So knüpft der Anspruch auf den 
+erhöhten Leistungssatz für Entgeltersatzleistungen nach § 149 des Dritten Buches
+Sozialgesetzbuch an das Vorliegen der Voraussetzungen des § 32 Absatz 1, 3 bis 5 des
+Einkommensteuergesetzes an und das Kindergeld stellt für Leistungen der Grundsicherung für
+Arbeitsuchende nach § 19a Absatz 2 des Ersten Buches Sozialgesetzbuch gemäß § 11
+Absatz 1 Satz 5 des Zweiten Buches Sozialgesetzbuch, aber auch bei Leistungen der
+Sozialhilfe nach § 28 des Ersten Buches Sozialgesetzbuch i. V. m. § 82 des Zwölften Buches 
+Sozialgesetzbuch Einkommen dar. Kindergeld nach dem Bundeskindergeldgesetz kann 
+gemäß § 25 Absatz 1 Satz 1 des Ersten Buches Sozialgesetzbuch nur in Anspruch
+genommen werden, wenn kein Anspruch auf Kindergeld nach dem Einkommensteuergesetz
+besteht. Personen erhalten gemäß § 6b Absatz 1 Satz 1 des Bundeskindergeldgesetzes
+Leistungen für Bildung und Teilhabe für ein Kind, wenn sie, neben der Erfüllung weiterer
+Voraussetzungen, für dieses Kind einen Anspruch auf Kindergeld nach dem
+Einkommensteuergesetz haben. Für den Unterhaltsvorschuss ergibt sich eine Minderung der
+Unterhaltsleistung aus § 2 Absatz 2 des Unterhaltsvorschussgesetzes, wenn ein Anspruch auf
+Kindergeld nach dem Einkommensteuergesetz besteht. Leistungen, die Kindergeld
+anrechnen, benötigen die Informationen auch zur Sicherstellung von Erstattungsansprüchen, 
+wenn bei der Leistungsbewilligung unklar ist, ob und ab wann ein Kindergeldanspruch
+besteht. Die Information, ob für ein Kind ein Anspruch auf Kindergeld besteht, liegt der
+Familienkasse der Bundesagentur für Arbeit vor. Eine Datennachnutzung sieht das geltende 
+Recht bisher nicht vor. Auch den Kinderzuschlag erhalten Eltern nur für ein Kind, für das 
+auch ein Anspruch auf Kindergeld besteht. Die Nachnutzung der Kindergelddaten für
+Zwecke der Bearbeitung des Kinderzuschlags ist bereits in der Verordnung zur
+Datenübermittlung zwischen den für das Kindergeld nach dem Einkommensteuergesetz und den für den 
+Kinderzuschlag zuständigen Stellen (BGBl. 2023 I Nr. 376) geregelt worden. Diese bleibt 
+unberührt.
+II. Wesentlicher Inhalt des Entwurfs
+Mit dieser Verordnung werden die Voraussetzungen festgelegt, unter denen ein Datenabruf 
+erfolgen darf. Außerdem wird der Umfang der abrufbaren Daten beschränkt.
+III. Exekutiver Fußabdruck
+Es haben keine Interessenvertreter sowie beauftragte Dritte zum Inhalt des Entwurfs
+beigetragen.
+IV. Alternativen
+Keine. Eine einwilligungsbasierte Weitergabe von Informationen als Alternative zu einem 
+automatisierten Datenabruf wäre nicht geeignet, die Digitalisierung und Entbürokratisierung 
+nennenswert voranzubringen.
+V. Regelungskompetenz
+Die Ermächtigung ergibt sich aus § 68 Absatz 5 Satz 2 des Einkommensteuergesetzes.
+VI. Vereinbarkeit mit dem Recht der Europäischen Union und völkerrechtlichen 
+Verträgen
+Die Verordnung ist mit dem Recht der Europäischen Union und völkerrechtlichen Verträgen, 
+die die Bundesrepublik Deutschland geschlossen hat, vereinbar.
+VII. Regelungsfolgen
+1. Rechts- und Verwaltungsvereinfachung
+Der Informationsaustausch zwischen der Familienkasse hinsichtlich der Kindergeldakten 
+nach dem Einkommensteuergesetz und den Leistungsträgern für Zwecke der Bemessung 
+von Leistungen der Arbeitsförderung, für Leistungen der Grundsicherung für
+Arbeitsuchende, für Kindergeld nach dem Bundeskindergeldgesetz, für Leistungen für Bildung und 
+Teilhabe, für Leistungen der Sozialhilfe und für Unterhaltsvorschuss wird vereinfacht. 
+Dadurch wird die Voraussetzung dafür geschaffen, die Bürgerinnen und Bürger sowie die 
+Verwaltung von Bürokratie zu entlasten. Die vorgesehenen Datenübermittlungen bilden die 
+Grundlage, damit im nächsten Schritt Verfahrensvereinfachungen bei der Beantragung und 
+der Verwaltung dieser Leistungen etabliert werden können.
+2. Nachhaltigkeitsaspekte
+Die Rechtsverordnung steht im Einklang mit der Deutschen Nachhaltigkeitsstrategie, indem 
+sie den Zugang zu Leistungen der Grundsicherung für Arbeitsuchende und zu Leistungen 
+für Bildung und Teilhabe erleichtert. Damit werden die Indikatorenbereiche 1.1 (Armut
+begrenzen) und 4.1 (Bildung und Qualifikation kontinuierlich verbessern) unterstützt. Eine 
+Nachhaltigkeitsrelevanz bezüglich anderer Indikatoren ist nicht gegeben.
+3. Haushaltsausgaben ohne Erfüllungsaufwand
+Die Ausgaben für die Einrichtung der Schnittstellen bei der Familienkasse der
+Bundesagentur für Arbeit haben keine Auswirkungen auf den Einzelplan des BMF. Mit den laufenden 
+Verwaltungskostenerstattungen sind diese Kosten abgegolten.
+Die Ausgaben für die Anbindung an diese Schnittstelle werden für die Jobcenter aus dem 
+Einzelplan des BMAS und für die Agenturen aus dem Haushalt der Bundesagentur für
+Arbeit finanziert. Die Ausgaben für die Einrichtung der Schnittstelle für die Jobcenter würden 
+sich auf Basis der maßgeblichen Sach- und Personalkostensätze rund 0,5 Mio. Euro, für 
+die Agenturen auf rund 1,7 Mio. Euro belaufen. Für die jährlichen Betriebskosten ergeben 
+sich für die Jobcenter geringfügige Kosten, für die Agentur für Arbeit rund 0,1 Mio. Euro.
+4. Erfüllungsaufwand
+4.1 Erfüllungsaufwand für Bürgerinnen und Bürger 
+Für die Bürgerinnen und Bürger reduziert sich der jährliche Zeitaufwand um rund 98 000 
+Stunden und die jährlichen Sachkosten um 57 000 Euro. Die Entlastung entsteht dadurch, 
+dass die Zeit für das Heraussuchen der Kindergeldnummer sowie das Heraussuchen und 
+Beifügen des Kindergeldbescheids zukünftig entfällt.
+lfd. 
+Nr. 
+Norm (§§);
+Bezeichnung der Vorgabe
+Jährliche 
+Fallzahl 
+und 
+Einheit 
+Jährlicher 
+Aufwand 
+pro Fall  
+(in Minuten 
+bzw. Euro) 
+Jährlicher
+Erfüllungsaufwand (in 
+Stunden 
+bzw. Tsd. 
+Euro) oder
+„geringfügig“
+(Begründung) 
+Einmalige 
+   
+ 
+Fallzahl 
+und  
+Einheit 
+Einmaliger 
+Aufwand 
+pro Fall  
+(in Minuten 
+bzw. Euro) 
+Einmaliger
+Erfüllungsaufwand (in 
+Stunden 
+bzw. Tsd. 
+Euro) oder
+„geringfügig“
+(Begründung) 
+1.1 § 323 Abs. 1 | SGB 3; 
+Antrag auf
+Arbeitslosengeld 
+   
+ 
+ 
+  
+ 
+ 
+ (Änderung: id-ip 
+200805271417311) (a*)
+514 000 
+Anträge
+Zeitaufwand: 
+-4 Minuten
+Zeitaufwand: 
+-34 267 
+Stunden
+ 
+ 
+  
+ 
+ 
+ 
+  
+1.2 § 19 Abs. 1 i. V. m. § 37 
+SGB 2; 
+Antrag auf Leistungen 
+zur Sicherung des
+Lebensunterhalts nach 
+dem SGB II 
+(Änderung: id-ip 
+200805271418051) (b*)
+467 000 
+Anträge
+Zeitaufwand: 
+-4 Minuten
+Zeitaufwand: 
+-31 133 
+Stunden
+ 
+   
+    
+  
+ 
+ 
+ 
+1.3 § 19 Absatz 1 i. V. m. 
+§ 37 SGB 2; 
+Antrag auf Leistungen 
+zur Sicherung des
+Lebensunterhalts nach 
+dem SGB II 
+(Änderung: id-ip 
+200805271418051) (c*)
+23 350
+postalische
+Nachweise 
+des
+Kindergeld
+bescheids
+Sachaufwand: 
+-1,2 Euro
+Sachkosten: 
+-28 Tsd. 
+Euro
+ 
+  
+    
+ 
+  
+ 
+ 
+ 
+1.4 § 19 Absatz 1 i. V. m. 
+§ 37 SGB 2; 
+Antrag auf Leistungen 
+zur Sicherung des
+Lebensunterhalts nach 
+dem SGB II 
+(Änderung: id-ip 
+200805271418051) (d*)
+155 667 
+Anträge
+Zeitaufwand: 
+-4 Minuten
+Zeitaufwand: 
+-10 378 
+Stunden
+ 
+  
+    
+ 
+ 
+  
+ 
+1.5 § 19 Absatz 1 i. V. m. 
+§ 37 SGB 2; 
+Antrag auf Leistungen 
+zur Sicherung des
+Lebensunterhalts nach 
+dem SGB II 
+(Änderung: id-ip 
+200805271418051) 
+(e*)
+7 783
+postalische
+Nachweise 
+der
+Kindergeld
+bescheide
+Sachaufwand: 
+-1,2 Euro
+Sachkosten: 
+-9 Tsd. Euro
+   
+ 
+ 
+  
+ 
+ 
+ 
+1.6 § 9 Absatz 1 Uh
+VorschG; 
+Antrag auf
+Unterhaltsvorschuss und damit 
+einhergehende Pflicht,
+Anspruchsvoraussetzungen nachzuweisen
+323 392 
+Anträge
+Zeitaufwand: 
+-4 Minuten
+Zeitaufwand: 
+-21 559 
+Stunden
+lfd. 
+Nr. 
+Norm (§§);
+Bezeichnung der Vorgabe
+Jährliche 
+Fallzahl 
+und 
+Einheit 
+Jährlicher 
+Aufwand 
+pro Fall  
+(in Minuten 
+bzw. Euro) 
+   
+ 
+Jährlicher
+Erfüllungsaufwand (in 
+Stunden 
+bzw. Tsd. 
+Euro) oder
+„geringfügig“
+(Begründung) 
+Einmalige 
+Fallzahl 
+und  
+ Einheit
+Einmaliger 
+Aufwand 
+ pro Fall 
+(in Minuten 
+ bzw. Euro)
+Einmaliger
+Erfüllungsaufwand (in 
+Stunden 
+bzw. Tsd. 
+Euro) oder
+„geringfügig“
+ (Begründung)
+ 
+(Änderung: id-ip 
+200611060845581) (f*)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     1.7 § 9 Absatz 1 Uh
+VorschG; Antrag auf
+Unterhaltsvorschuss und
+damit einhergehende 
+Pflicht,
+Anspruchsvoraussetzungen
+nachzuweisen (Änderung: id-ip 
+200611060845581) (g*)
+16 170
+postalische
+Nachweise 
+der
+Kindergeld
+bescheide
+Sachaufwand: 
+-1,2 Euro
+Sachkosten: 
+-19 Tsd. 
+Euro
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+    1.8 § 44 SGB 12; Antrag auf 
+Grundsicherung im
+Alter und bei
+Erwerbsminderung (Änderung: id-ip 
+2020061009082703) 
+(h*)
+6 000 
+Anträge
+Zeitaufwand: 
+-4 Minuten
+Zeitaufwand:
+Stunden
+ 
+  
+ 
+  
+ 
+ 
+ 
+    1.9 § 44 SGB 12; 
+Antrag auf
+Grundsicherung im Alter und bei
+Erwerbsminderung 
+(Änderung: id-ip 
+2020061009082703) 
+(i*)
+300
+postalische
+Nachweise 
+der
+Kindergeld
+bescheide
+Sachaufwand: 
+-1,2 Euro
+„geringfügig“ (geringe 
+Fallzahl und
+geringfügiger Aufwand 
+pro Fall)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+    1.1
+§§ 20, 21 SGB 4; 
+Antrag auf
+Übergangsgeld 
+(Änderung) (l*)
+1 500 
+Anträge
+„geringfügig“ (geringe 
+Fallzahl und
+geringfügiger Aufwand 
+pro Fall)
+ Summe Zeitaufwand 
+ (in Stunden)
+  
+ -97 737
+  
+ -
+ Summe Sachaufwand 
+ (in Tsd. Euro)
+ -
+ 
+ 
+ 
+*Spiegelvorgaben werden in der Spalte 'Artikel Regelungsentwurf; Norm (§§); Bezeichnung 
+der Vorgabe' einheitlich gekennzeichnet.
+4.2 Erfüllungsaufwand für die Wirtschaft 
+Für die Wirtschaft ergibt sich im Rahmen dieser Verordnung keine Änderung des
+Erfüllungsaufwands.
+4.3 Erfüllungsaufwand der Verwaltung 
+Für die Verwaltung ergibt sich insgesamt neuer jährlicher Erfüllungsaufwand um rund 
+488 000 Euro. Auf Bundesebene ergibt sich eine Erhöhung des Aufwands durch die Pflege
+der Schnittstelle zum Abruf um rund 1,1 Millionen. Dem gegenüber steht eine Entlastung 
+auf Landesebene durch das Abrufverfahren von rund 622 000 Euro.
+Der hohe einmalige Erfüllungsaufwand von 26,4 Millionen Euro ist auf die entstehenden 
+Kosten der jeweiligen IT-Umstellungen bei den Sozialleistungsträgern sowie der
+Bundesagentur für Arbeit zurückzuführen.
+lfd. 
+Nr. 
+Norm (§§);
+Bezeichnung der 
+Vorgabe 
+Bund/
+Land 
+Jährliche 
+Fallzahl 
+und
+Einheit 
+Jährlicher 
+Aufwand 
+pro Fall 
+   
+ 
+  
+ 
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) 
++
+Sachkosten in Euro) 
+Jährlicher
+Erfüllungsaufwand 
+(in Tsd. 
+Euro) oder
+„geringfügig“
+(Begründung)“
+Einmalige
+Fallzahl und 
+ Einheit
+Einmaliger 
+Aufwand 
+pro Fall 
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) 
++
+ Sachkosten in Euro)
+Einmaliger
+Erfüllungsaufwand 
+(in Tsd. 
+Euro) oder
+„geringfügig“
+ (Begründung)
+ 
+ 
+ 
+       
+ 
+ 
+ 3.1 § 68
+Absatz 5 EStG; 
+IT-
+Entwicklung der
+Familienkasse 
+und
+Umsetzung von
+Schnittstellen (Neu)
+Bund
+Familienkasse der 
+BA
+2 181 587 
+Euro 
+= (1 936 320 
+/ 60 * 67,60 
+Euro/h 
+(100% hD))
+2 182
+ 
+ 
+ 
+ 
+ 
+ 
+       3.2 § 68
+Absatz 5 EStG; 
+IT-Wartung 
+und
+Unterhalt durch 
+die
+Familienkasse 
+(Neu)
+Bund
+Familienkasse der 
+BA
+249 849,60 
+Euro 
+= (221 760 / 
+60 * 67,60 
+Euro/h 
+(100% hD))
+  3.3 § 68
+Absatz 5 EStG i. 
+V. m. § 4 
+SozKiGAbV; 
+Erstellung 
+und
+Verwaltung der
+Zugangsbe
+rechtigungen durch 
+die
+Familienkasse 
+(Neu)
+Bund 10,1 PT 55 136 Euro 
+= (96 000 / 
+60 * 34,46 
+Euro/h (90% 
+mD; 10% 
+gD))
+3.4 § 68
+Absatz 5 EStG; 
+IT-Schulung 
+der
+Mitarbeiterinnen 
+und
+Mitarbeiter (Neu)
+Land Anzahl
+Sozialleis
+tungsträger
+12.409 
+Anzahl
+Sozialleis
+tungsträger
+66,6 Euro 
+= (90 / 60 * 
+44,40 
+Euro/h 
+(100% gD))
+Drucksache 627/25- 9 -
+lfd. 
+Nr. 
+Norm (§§);
+Bezeichnung der 
+Vorgabe 
+Bund/
+Land 
+Jährliche 
+Fallzahl 
+und
+Einheit 
+Jährlicher 
+Aufwand 
+pro Fall 
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) 
+   
+ 
++
+Sachkosten in Euro) 
+Jährlicher
+Erfüllungsaufwand 
+(in Tsd. 
+Euro) oder
+„geringfügig“
+(Begründung)“
+Einmalige
+Fallzahl und 
+Einheit 
+Einmaliger 
+Aufwand 
+pro Fall 
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) 
++
+ Sachkosten in Euro)
+Einmaliger
+Erfüllungsaufwand 
+(in Tsd. 
+Euro) oder
+„geringfügig“
+ (Begründung)
+ 
+ 
+ 
+  
+  
+  
+  
+ 3.5 § 68
+Absatz 5 EStG i. 
+V. m. § 1 
+Abs. 1 
+SozKiGAbV; 
+Anbindung 
+der
+Bundesagentur für 
+Arbeit an 
+die
+Schnittstelle der 
+Famka 
+(Neu)
+Bund BA 500 000 
+Euro
+500 BA 4 250 000 
+Euro
+4 250
+   
+  
+   
+ 
+ 
+  3.6 § 68
+Absatz 5 EStG, 
+i. V. m. § 3 
+SozKiGAbV; 
+IT-Aufwand 
+für
+Anpassungen im 
+Rahmen des 
+Antrags auf
+Arbeitslosengeld
+Bund BA 75 000 Euro 75 BA 1 562 500 
+Euro
+1 563
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 3.7 § 68
+Absatz 5 EStG, 
+i. V. m. § 3 
+SozKiGAbV; 
+IT-Aufwand 
+im Rahmen 
+des Antrags 
+auf
+Bürgergeld
+(gemeinsame
+Einrichtungen – gE)
+Land Jobcenter
+gemeinsame
+Einrichtungen - 
+gE
+2 000 Euro 2 Jobcenter 
+-
+gemeinsame
+Einrichtungen - gE
+104 000 
+Euro
+  3.8 § 68
+Absatz 5 EStG, 
+i.V. m. § 3 
+SozKiGAbV; 
+IT-Aufwand 
+im Rahmen 
+des
+Antragverfahrens 
+auf
+Bürgergeld
+Land 104 
+Jobcenter
+zugelassene
+kommunale 
+Träger - 
+zkT
+16 350 Euro 1 700
+lfd. 
+Nr. 
+Norm (§§);
+Bezeichnung der 
+Vorgabe 
+Bund/
+Land 
+Jährliche 
+Fallzahl 
+und
+Einheit 
+Jährlicher 
+Aufwand 
+pro Fall 
+(Minuten *
+Lohnkosten pro 
+   
+ 
+Stunde
+(Hierarchieebene) 
++
+Sachkosten in Euro) 
+Jährlicher
+Erfüllungsaufwand 
+(in Tsd. 
+Euro) oder
+„geringfügig“
+(Begründung)“
+Einmalige
+Fallzahl und 
+ Einheit
+Einmaliger 
+Aufwand 
+pro Fall 
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) 
++
+ Sachkosten in Euro)
+Einmaliger
+Erfüllungsaufwand 
+(in Tsd. 
+Euro) oder
+„geringfügig“
+ (Begründung)
+(zugelassene
+kommunale
+Träger – zkT) 
+(Neu)
+ 
+ 
+     
+  
+ 3.9 § 68
+Absatz 5 EStG, 
+i. V. m. § 3 
+SozKiGAbV; 
+IT-Aufwand 
+im Rahmen 
+des Antrags 
+auf
+Übergansgeld 
+(Neu)
+Bund BA 6 250 Euro 6 BA 125 000 
+Euro
+  3.1
+§ 68
+Absatz 5 EStG, 
+i. V. m. § 3 
+SozKiGAbV; 
+IT-Aufwand 
+im Rahmen 
+des Antrags 
+auf
+Unterhaltsvorschuss (Neu)
+Land 559
+Jugendämter
+16 350 Euro 9 140
+ 
+ 
+        
+ 
+  3.1
+§ 68
+Absatz 5 des 
+EStG, i.V. 
+mit § 3 
+SozKiGAbV; 
+IT-Aufwand 
+für
+Sozialhilfe (Neu)
+Land 401
+Sozialhilfeträger
+16 350 Euro 6 556
+ 
+       
+ 
+ 
+ 
+ 
+3.1
+§ 2 
+SozKiGAbV i. 
+V. m. § 323 
+Abs. 1 SGB 
+3;
+Bearbeitung von 
+Anträgen 
+für
+Arbeitslosengeld 
+(Änderung) 
+(a*)
+Bund 360 000 
+Online-
+Anträge 
+ALG - BA
+-0,8 Euro 
+= (-1 / 60 * 
+46,30 
+Euro/h 
+(100% gD))
+Drucksache 627/25- 11 -
+lfd. 
+Nr. 
+Norm (§§);
+Bezeichnung der 
+Vorgabe 
+Bund/
+Land 
+Jährliche 
+Fallzahl 
+und
+Einheit 
+   
+ 
+Jährlicher 
+Aufwand 
+pro Fall 
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) 
++
+Sachkosten in Euro) 
+Jährlicher
+Erfüllungsaufwand 
+(in Tsd. 
+Euro) oder
+„geringfügig“
+(Begründung)“
+Einmalige
+Fallzahl und 
+ Einheit
+Einmaliger 
+Aufwand 
+pro Fall 
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) 
++
+ Sachkosten in Euro)
+Einmaliger
+Erfüllungsaufwand 
+(in Tsd. 
+Euro) oder
+„geringfügig“
+ (Begründung)
+ 
+ 
+ 
+ 
+ 
+       3.1
+§ 19 Abs. 1 i. 
+V. m. § 37 
+SGB 2;
+Bearbeitung von 
+Anträgen 
+auf
+Leistungen zur
+Sicherung des
+Lebensunterhalts 
+nach dem 
+SGB II
+(Änderung:
+idip 
+2016022511
+553901) 
+(b*)
+Land 116 750 
+Anträge
+- 1,79 Euro = 
+(-2,5 / 60 * 
+42,90 
+Euro/h 
+(100% gD))
+       3.1
+§ 19 Abs. 1 i. 
+V. m. § 37 
+SGB 2;
+Bearbeitung von 
+Anträgen 
+auf
+Leistungen zur
+Sicherung des
+Lebensunterhalts 
+nach dem 
+SGB II
+(Änderung:
+idip 
+2016022511
+553901) (c*)
+Land 23 350 
+Anträge
+- 2,13 Euro = 
+(-3 / 60 * 
+42,90 
+Euro/h 
+(100% gD)) + 
+(-1,2 Euro)
+3.1
+§ 19 Abs. 1 i. 
+V. m. § 37 
+SGB 2;
+Bearbeitung von 
+Anträgen 
+auf
+Leistungen zur
+Sicherung des
+Lebensunterhalts 
+nach dem 
+SGB II
+(Änderung:
+idip 
+2016022511
+553901) 
+(d*)
+Land 38 917 
+Anträge
+-1,8 Euro 
+= (-2,5 / 60 * 
+42,20 
+Euro/h 
+(100% gD))
+Drucksache 627/25 - 12 -
+lfd. 
+Nr. 
+Norm (§§);
+Bezeichnung der 
+Vorgabe 
+Bund/
+Land 
+Jährliche 
+Fallzahl 
+und
+Einheit 
+Jährlicher 
+Aufwand 
+pro Fall 
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) 
++
+Sachkosten in Euro) 
+Jährlicher
+Erfüllungsaufwand 
+(in Tsd. 
+Euro) oder
+„geringfügig“
+(Begründung)“
+Einmalige
+Fallzahl und 
+ Einheit
+Einmaliger 
+Aufwand 
+pro Fall 
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) 
++
+ Sachkosten in Euro)
+Einmaliger
+Erfüllungsaufwand 
+(in Tsd. 
+Euro) oder
+„geringfügig“
+ (Begründung)
+ 
+       
+ 
+ 
+ 
+  
+ 
+3.1
+§ 19 Abs. 1 i. 
+V. m. § 37 
+SGB 2; 
+Bearbeitung 
+von
+Anträgen auf
+Leistungen zur 
+Sicherung 
+des
+Lebensunterhalts 
+nach dem 
+SGB II
+(Änderung:
+idip 
+2016022511
+553901) 
+(e*)
+Land 7 783 
+Anträge
+-3,3 Euro 
+= (-3 / 60 * 
+42,20 
+Euro/h 
+(100% gD) -
+1,2 Euro)
+3.1
+§ 9 Abs. 2 
+UhVorschG; 
+Bearbeitung 
+des Antrags 
+auf
+Unterhaltsvorschuss
+(Änderung:
+idip 
+2012011810
+211610) (f*)
+Land 80 848 
+Anträge
+-1,8 Euro 
+= (-2,5 / 60 * 
+42,20 
+Euro/h 
+(100% gD))
+3.1
+§ 9 Abs. 2 
+UhVorschG; 
+Bearbeitung 
+des Antrags 
+auf
+Unterhaltsvorschuss
+(Änderung:
+idip 
+2012011810
+211610) (g*)
+Land 16 170 
+Anträge
+-3,3 Euro 
+= (-3 / 60 * 
+42,20 
+Euro/h 
+(100% gD) -
+1,2 Euro)
+3.1
+§ 44 i. V. m. 
+§ 82a Abs. 3 
+SGB 12; 
+Bearbeitung 
+von
+Anträgen auf
+Grundsicherung im
+Land 1 500 
+Anträge
+-1,8 Euro 
+= (-2,5 / 60 * 
+42,20 
+Euro/h 
+(100% gD))
+Drucksache 627/25- 13 -
+lfd. 
+Nr. 
+Norm (§§);
+Bezeichnung der 
+Vorgabe 
+Bund/
+Land 
+Jährliche 
+Fallzahl 
+und
+Einheit 
+Jährlicher 
+Aufwand 
+pro Fall 
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) 
++
+Sachkosten in Euro) 
+Jährlicher
+Erfüllungsaufwand 
+(in Tsd. 
+Euro) oder
+„geringfügig“
+(Begründung)“
+Einmalige
+Fallzahl und 
+Einheit 
+Einmaliger 
+Aufwand 
+pro Fall 
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) 
++
+ Sachkosten in Euro)
+Einmaliger
+Erfüllungsaufwand 
+(in Tsd. 
+Euro) oder
+„geringfügig“
+ (Begründung)
+ 
+ 
+ 
+ 
+ 
+Alter und 
+bei
+Erwerbsminderung
+(Änderung:
+id-ip
+2020061009
+115902)
+(h*)
+ 
+ 
+ 
+ 
+        
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+3.2 § 44 i. V. m. Land 300 -3,1 Euro
+SGB 12; Anträge
+Bearbeitung 
+von Anträ-
+Grundsicherung im
+Alter und bei
+Erwerbsminderung
+(Änderung:
+id-ip
+2020061009
+115902) (i*)
+gen auf
+§ 82a Abs. 3
+(100% gD) -1 
+Euro)
+42,20
+Euro/h
+= (-3 / 60 *
+ 
+ 
+ 
+ 
+        
+ 
+ 
+ 
+  
+ 
+ 
+ 
+   
+ 
+3.2 §§ 52, 61, Land 1 633
+SGB 12; Anträge
+Bearbeitung 
+von Leistun-
+Kapitel (SGB
+XII) -
+Sozialhilfe
+(Änderung) (j*)
+gen nach 
+dem 5. bis 9
+67, 70-74
+(100% gD))
+42,20
+Euro/h
+-1,8 Euro
+= (-2,5 / 60 *
+2
+SGB 12; Anträge
+Bearbeitung 
+von
+Leistungen nach 
+dem 5. bis 9
+Kapitel (SGB
+XII) -
+Sozialhilfe
+(Änderung) (k*)
+-3,3 Euro
+(100% gD) -
+1,2 Euro)
+42,20
+Euro/h
+= (-3 / 60 *
+327Land§§ 52, 61,3.2
+67, 70-74
+lfd. 
+Nr. 
+Norm (§§);
+Bezeichnung der 
+Vorgabe 
+Bund/
+Land 
+Jährliche 
+Fallzahl 
+und
+Einheit 
+Jährlicher 
+Aufwand 
+pro Fall 
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) 
++
+Sachkosten in Euro) 
+Jährlicher
+Erfüllungsaufwand 
+(in Tsd. 
+Euro) oder
+„geringfügig“
+(Begründung)“
+Einmalige
+Fallzahl und 
+Einheit 
+Einmaliger 
+Aufwand 
+pro Fall 
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) 
++
+ Sachkosten in Euro)
+Einmaliger
+Erfüllungsaufwand 
+(in Tsd. 
+Euro) oder
+„geringfügig“
+ (Begründung)
+  
+ 
+       
+ 
+ 
+ 
+ 
+   3.2 § 2 Bund -2,3 Euro
+3 SozKiGAbV i. 
+V. m. § 37 
+SGB 2;
+Bearbeitung der
+„geringfü-
+= (-3 / 60 * 
+Anträge auf
+Übergangsgeld
+(Änderung)
+46,30 
+Euro/h 
+(100% gD))
+Aufwand 
+pro Fall)
+gig“
+(geringe
+Fallzahl und
+geringfügiger
+ 
+        
+ 
+ 
+ 
+ 
+ 
+  
+ 
+3.2 § 28 Abs. 7 Land 7 572
+4 SGB 2; 
+Bearbeitung 
+eines
+Antrages auf
+Leistungen zur 
+Teilhabe an 
+Sport,
+Kultur, Kunst 
+und Freizeit 
+(Änderung: 
+id-ip 
+2022011910
+133901)
+Anträge
+-0,7 Euro
+= (-1 / 60 * 
+40,70 
+Euro/h 
+(100%
+Durchschnitt))
+3.2 Land 20 429
+5 SGB 2; 
+Bearbeitung 
+eines
+Antrages auf
+Leistungen in 
+der
+Mittagsverpflegung 
+(Änderung: 
+id-ip 
+2022011913
+530301)
+Anträge
+-0,7 Euro
+= (-1 / 60 * 
+40,70 
+Euro/h 
+(100%
+Durchschnitt))
+§ 28 Abs. 6 -14
+ 
+        
+ 
+ 
+ 
+   
+ 
+§ 28 Abs. 5 5 160
+6 SGB 2; 
+Bearbeitung 
+eines
+Antrages auf
+Leistungen für 
+die
+Lernförderung
+(Änderung: id-
+Anträge
+-0,7 Euro
+= (-1 / 60 * 
+40,70 
+Euro/h 
+(100%
+Durchschnitt))
+3.2 -4Land
+lfd. 
+Nr. 
+Norm (§§);
+Bezeichnung der 
+Vorgabe 
+Bund/
+Land 
+Jährliche 
+Fallzahl 
+und
+Einheit 
+Jährlicher 
+Aufwand 
+pro Fall 
+(Minuten * 
+Lohnkos-
+   
+ 
+ten pro 
+Stunde
+(Hierarchieebene) 
++
+Sachkosten in Euro) 
+Jährlicher
+Erfüllungsaufwand 
+(in Tsd. 
+Euro) oder
+„geringfügig“
+(Begründung)“
+Einmalige
+Fallzahl und 
+ Einheit
+Einmaliger 
+Aufwand 
+pro Fall 
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) 
++
+ Sachkosten in Euro)
+Einmaliger
+Erfüllungsaufwand 
+(in Tsd. 
+Euro) oder
+„geringfügig“
+ (Begründung)
+ 
+ 
+ip
+2022011913
+472401)
+ 
+ 
+ 
+        
+ 
+ 
+  
+ 
+ 
+ 
+   
+ 
+3.2 § 28 Abs. 2 Land 7 491 -0,7 Euro
+7 Nr. 1 SGB 2; Anträge
+Bearbeitung 
+eines
+Antrages auf Leis-
+Schulausflüge
+(Änderung: id-ip
+2022011914
+032601)
+tungen für
+Euro/h 
+(100%
+Durchschnitt))
+= (-1 / 60 *
+40,70
+ 
+ 
+ 
+        
+ 
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+3.2 § 28 Abs. 2 Land 3 488
+Bearbeitung 
+eines
+Antrages auf Leis-
+Klassenfahrten
+(Änderung: 
+id-ip
+2022011910
+281701)
+tungen für
+Anträge
+Euro/h 
+(100%
+Durchschnitt))
+Nr. 2 SGB 2;
+40,70
+-0,7 Euro
+= (-1 / 60 *
+Land
+9 BKGG i. V. 
+m. § 28
+Anträge
+Bearbeitung 
+eines
+Antrages auf
+Leistungen für 
+die
+Ausstattung mit
+persönlichem
+II;
+Durchschnitt))
+Abs. 3 SGB
+(100%
+-0,7 Euro
+Euro/h
+= (-1 / 60 * 
+40,70
+§ 6b Abs. 2 -83.2 11 361
+lfd. 
+Nr. 
+Norm (§§); 
+Bezeich-
+   
+ 
+nung der 
+Vorgabe 
+Bund/
+Land 
+Jährliche 
+Fallzahl 
+und
+ Einheit
+Jährlicher 
+Aufwand 
+pro Fall 
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) 
++
+ Sachkosten in Euro)
+Jährlicher
+Erfüllungsaufwand 
+(in Tsd. 
+Euro) oder
+„geringfügig“
+(Begründung)“
+Einmalige
+Fallzahl und 
+ Einheit
+Einmaliger 
+Aufwand 
+pro Fall 
+(Minuten *
+Lohnkosten pro 
+Stunde
+(Hierarchieebene) 
++
+ Sachkosten in Euro)
+Einmaliger
+Erfüllungsaufwand 
+(in Tsd. 
+Euro) oder
+„geringfügig“
+ (Begründung)
+ 
+Schulbedarf 
+(Änderung: 
+id-ip 
+2022011914
+523801)
+ 
+       
+  
+ 
+ 
+ 
+3.3
+§ 28 Abs. 4 
+SGB 2; 
+Bearbeitung 
+eines
+Antrages auf
+Leistungen für 
+die
+Schülerbeförderung 
+(Änderung: 
+id-ip 
+2022011914
+083601)
+Land 3 150 
+Anträge
+-0,7 Euro 
+= (-1 / 60 * 
+40,70 
+Euro/h 
+(100%
+Durchschnitt))
+Summe (in 
+ Tsd. Euro)
+ 26 446
+ 
+davon auf
+ Bundesebene
+ 
+   
+  
+ 
+ 
+1.110
+ 
+ 
+ 
+8.119
+  
+  
+ 
+davon auf
+Landesebene
+(inklusive
+Kommunen)
+Drucksache 627/25- 17 -
+18 327
+*Spiegelvorgaben werden in der Spalte 'Artikel Regelungsentwurf; Norm (§§); Bezeichnung der Vorgabe'
+einheitlich gekennzeichnet.
+5. Weitere Kosten
+Mit dem Regelungsvorhaben entstehen über den zum Erfüllungsaufwand sowie zu den
+finanziellen Auswirkungen dargestellten Aufwand hinaus keine weiteren Kosten für die
+Wirtschaft einschließlich der mittelständischen Wirtschaft. Auswirkungen auf Einzelpreise und 
+das Preisniveau, insbesondere das Verbraucherpreisniveau, sind durch das
+Regelungsvorhaben nicht zu erwarten.
+6. Weitere Regelungsfolgen
+Es sind weder demografische Auswirkungen erkennbar, noch solche, die
+gleichstellungspolitischen Zielen gemäß § 2 der Gemeinsamen Geschäftsordnung der Bundesministerien 
+unter Berücksichtigung der unterschiedlichen Lebenssituation von Frauen und Männern
+zuwiderlaufen.
+VIII. Befristung; Evaluierung
+Die Zuständigkeit der Familienkasse der Bundesagentur für Arbeit für das Kindergeld nach 
+dem Einkommensteuergesetz und das Erfordernis des Informationsaustausches sind auf 
+Dauer angelegt. Die Regelung ist daher für eine Befristung ungeeignet. Eine Evaluierung 
+ist nicht angezeigt, weil diese Verordnung lediglich das Gesetz gegen illegale
+Beschäftigung und Sozialleistungsmissbrauch vom 11. Juli 2019 (BGBl. I. S. 1066) konkretisiert.
+B. Besonderer Teil 
+Zu § 1 (Anwendungsbereich) 
+Zu Absatz 1
+Die Regelung bestimmt den Anwendungsbereich der Verordnung. In Absatz 1 wird
+hinsichtlich der abrufenden Stellen unterschieden. Die Aufzählung orientiert sich an der Aufzählung 
+in § 68 Absatz 5 Satz 1 des Einkommensteuergesetzes. Die Nachnutzung der
+Kindergelddaten für Zwecke der Bearbeitung des Kinderzuschlags ist bereits in der Verordnung zur 
+Datenübermittlung zwischen den für das Kindergeld nach dem Einkommensteuergesetz 
+und den für den Kinderzuschlag zuständigen Stellen (BGBl. 2023 I Nr. 376) bleibt
+unberührt. Für die Elterngeldstelle ist kein Datenabruf vorgesehen, weil die Familienkasse keine 
+für das Elterngeld relevanten Kindergelddaten liefern kann, die die Elterngeldstelle nicht 
+bereits nach § 25 des Bundeselterngeld- und Elternzeitgesetzes vom Standesamt abfragen 
+könnte.
+Zu Nummer 1
+Nummer 1 bestimmt den Anwendungsbereich für die Leistungsträger, die für Leistungen 
+der Arbeitsförderung nach § 19 Absatz 2 des Ersten Buches Sozialgesetzbuch zuständig 
+sind. Bei diesen Leistungen handelt es sich um Leistungen zur Aktivierung und beruflichen 
+Eingliederung, zur Berufswahl und Berufsausbildung, zur beruflichen Weiterbildung, zur 
+Aufnahme einer Erwerbstätigkeit, zum Verbleib in Beschäftigung, der Teilhabe behinderter 
+Menschen am Arbeitsleben sowie um Arbeitslosengeld, Teilarbeitslosengeld,
+Arbeitslosengeld bei Weiterbildung und Insolvenzgeld. Zuständig sind die Agenturen für Arbeit und die 
+sonstigen Dienststellen der Bundesagentur für Arbeit.
+Zu Nummer 2
+Nummer 2 bestimmt den Anwendungsbereich für die Leistungsträger, die für Leistungen 
+der Grundsicherung für Arbeitsuchende nach § 19a Absatz 2 des Ersten Buches
+Sozialgesetzbuch zuständig sind. Bei diesen Leistungen handelt es sich um Leistungen zur
+Eingliederung in Arbeit und Leistungen zur Sicherung des Lebensunterhalts. Zuständig sind die 
+Agenturen für Arbeit und die sonstigen Dienststellen der Bundesagentur für Arbeit, sowie 
+die kreisfreien Städte und Kreise, soweit durch Landesrecht nicht andere Träger bestimmt 
+sind. In den Fällen des § 6a des Zweiten Buches Sozialgesetzbuch ist abweichend davon 
+der zugelassene kommunale Träger zuständig.
+Zu Nummer 3
+Nummer 3 bestimmt den Anwendungsbereich für die Familienkassen, soweit sie für das 
+Kindergeld nach dem Bundeskindergeldgesetz zuständig sind. Dies sind die dafür
+zuständigen Stellen der Familienkassen der Bundesagentur für Arbeit.
+Zu Nummer 4
+Nummer 4 bestimmt den Anwendungsbereich für die Leistungsträger, die für Leistungen 
+für Bildung und Teilhabe nach § 6b des Bundeskindergeldgesetzes zuständig sind. Die
+Bildungs-und-Teilhabe-Stellen benötigen für Ihre Aufgabenerfüllung gegenüber Familien, die 
+Wohngeld beziehen oder aus sonstigen Gründen einen Anspruch auf Bildungs- und
+Teilhabeleistungen haben können, eine Bestätigung über den Kindergeldbezug zumindest
+eines Kindes der Familie für das Bildungs-und-Teilhabe-Leistungen beantragt wurde.
+Zuständig sind nach § 25 Absatz 3 des Ersten Buches Sozialgesetzbuch in Verbindung mit § 7 
+Absatz 3 des Bundeskindergeldgesetzes die Länder.
+Zu Nummer 5
+Nummer 5 bestimmt den Anwendungsbereich für die Leistungsträger, die für Leistungen 
+der Sozialhilfe nach § 28 Absatz 2 des Ersten Buches Sozialgesetzbuch zuständig sind. 
+Dies sind die Kreise und kreisfreien Städte, die überörtlichen Träger der Sozialhilfe und für 
+besondere Aufgaben die Gesundheitsämter; sie arbeiten mit den Trägern der freien
+Wohlfahrtspflege zusammen.
+Zu Nummer 6
+Nummer 6 bestimmt den Anwendungsbereich für die für den Vollzug des
+Unterhaltsvorschussgesetzes zuständigen Stellen. Dies sind die durch Landesrecht bestimmten Stellen.
+Zu Absatz 2
+Die Regelung legt den Anwendungsbereich bezüglich der abzurufenden Daten bei der
+datenliefernden Stelle fest.
+Zu Nummer 1
+Der Anwendungsbereich umfasst das Kindergeld nach dem X. Abschnitt des
+Einkommensteuergesetzes. Nicht umfasst ist das Kindergeld nach dem Bundeskindergeldgesetz.
+Zuständig ist die Stelle der Familienkasse der Bundesagentur Arbeit, die mit der Bearbeitung 
+des Kindergeldes nach dem X. Abschnitt des Einkommensteuergesetzes befasst ist.
+Zu Nummer 2
+Der Anwendungsbereich umfasst die den für eine Kindergeldzahlung maßgebenden
+Sachverhalt. Die bei der Familienkasse der Bundesagentur Arbeit ebenfalls geführten
+Kinderzuschlagsakten sind nicht umfasst.
+Zu § 2 (Abrufberechtigung)
+Zu Absatz 1
+Die Regelung bestimmt die Erteilung einer Abrufberechtigung. Eine Abrufberechtigung 
+kommt für die Beschäftigten in den nach § 1 Absatz 1 genannten Stellen in Betracht. Soweit 
+eine der in § 1 Absatz 1 genannten Stellen keine Abrufberechtigung erhalten möchte,
+besteht keine Pflicht zur Erteilung einer Abrufberechtigung. Insbesondere die
+Entscheidungshoheit der Trägerversammlung nach § 44c des Zweiten Buches Sozialgesetzbuch bleibt 
+unberührt.
+Die Abrufberechtigung erteilt die Stelle der Familienkasse, die mit der Bearbeitung des
+Kindergeldes nach dem X. Abschnitt des Einkommensteuergesetzes befasst ist. Die jeweiligen 
+regionalen Familienkassen der Bundesagentur für Arbeit sind datenschutzrechtlich
+verantwortlich im Sinne des Artikels 4 Nummer 7 Verordnung (EU) 2016/679.
+Die Familienkasse kann die Erteilung einer Abrufberechtigung an eine in § 1 Absatz 1
+genannten Stelle nicht ablehnen, wenn diese Stelle Interesse an einem Datenabruf bekundet. 
+Die Familienkasse kann jedoch aufgrund der Vielzahl der abrufberechtigten Stellen nach 
+§ 1 Absatz 1 unter Berücksichtigung der vorhandenen Ressourcen Prioritäten setzen und 
+Abrufberechtigungen für einzelne Nummern des § 1 oder für einzelne Stellen zeitversetzt 
+erteilen, soweit dies angemessen erscheint. Somit haben nicht alle nach § 1 Absatz 1
+abrufberechtigten Stellen zeitgleich zum Inkrafttreten der Verordnung einen Anspruch auf
+Erteilung einer Abrufberechtigung. Vielmehr können die Abrufberechtigungen in mehreren 
+Umsetzungsstufen nacheinander erteilt werden (vergleiche Begründung zu § 5).
+Mittels einer Abrufberechtigung kann eine unbegrenzte Anzahl an Datenabrufen erfolgen. 
+Es kann sich dabei um einen einzelnen Abruf eines in der Sachbearbeitung oder
+Rechtsbehelfsbearbeitung Beschäftigten zur Prüfung eines konkreten Einzelfalls handeln oder um 
+Sammelauskunftsersuchen des Leiters oder einer anderen zentral verantwortlichen Person 
+eines konkreten Leistungsträgers. Im Fall von Sammelauskünften muss zu jedem Kind oder 
+zu jeder kindergeldberechtigten Person der Datenabruf die Anforderungen des § 3 Absatz 1 
+erfüllen. Ein Abruf des Gesamtdatenbestands der Familienkasse ist unzulässig.
+Die Abrufberechtigung des Leiters oder einer anderen zentral verantwortlichen Person
+eines konkreten Leistungsträgers kann auch verwendet werden, um den Abruf
+vollautomatisiert durch ein technisches System durchzuführen, das entscheidungsvorbereitende
+Systeme oder Entscheidungssysteme beinhaltet, um manuelle Arbeitsschritte zu reduzieren. 
+Ob und inwieweit ein solches System zur Anwendung kommt, obliegt dem jeweiligen
+konkreten Leistungsträger.
+Zu Absatz 2
+In Absatz 2 sind die abrufberechtigten Personen festgelegt. Es muss sich dabei um
+Personen handeln, die bei einem der Leistungsträger nach § 1 Absatz 1 mit der Entscheidung 
+über die Gewährung oder Bemessung der in der jeweiligen Nummer des § 1 Absatz 1
+genannten Leistungen beschäftigt sind.
+Zu § 3 (Verfahren und Umfang des Datenabrufs)
+Zu Absatz 1
+Die Regelung bestimmt die Angaben, die für die Anfrage notwendig sind, die der jeweilige 
+Leistungsträger im Sinne des § 1 Absatz 1 bei der für das Kindergeld nach § 1 Absatz 2 
+zuständigen Stelle der Familienkasse der Bundesagentur für Arbeit stellt. An diese Stelle 
+ist die Anfrage zu richten.
+Für die konkrete Zuordnung des Kindes bzw. der kindergeldberechtigten Person und die 
+Prüfung der Zulässigkeit der Informationsweitergabe ist die Steuer-Identifikationsnummer 
+nach § 139b der Abgabenordnung des Kindes bzw. der kindergeldberechtigten Person zu 
+verwenden. Die Erfahrungen aus anderen Datenabrufverfahren haben gezeigt, dass ein 
+Datenabruf unter Verwendung von Daten wie Name und Geburtstag, die ggf. mehrfach 
+existieren, sehr fehleranfällig ist und irrtümliche Zuordnungen herbeiführen. Dies gilt
+besonders in großen Datenbeständen, wie es bei der Familienkasse mit über 10 Mio. Berechtigten 
+und rund 18 Mio. Kindern der Fall ist. Auch die Kindergeldnummer wäre ungeeignet, um 
+eine eindeutige Fallzuordnung zu ermöglichen, da sich die Kindergeldnummer ändert, wenn 
+beispielsweise der Kindergeldanspruch von einem Elternteil auf den anderen Elternteil 
+übergeht oder wenn eine andere Familienkasse zuständig wird. Da die Familienkassen
+soweit sie für das Kindergeld nach dem Einkommensteuergesetz zuständig sind,
+Finanzbehörden sind, ist die Steuer-Identifikationsnummer in den Kindergeldakten bereits enthalten.
+Die abrufenden Stellen haben teilweise bereits aufgrund anderer steuerlicher
+Verpflichtungen (insbesondere § 32b Absatz 3 des Einkommensteuergesetzes) Kenntnis von der
+Identifikationsnummer nach § 139b der Abgabenordnung. Sollten die Leistungsträger nach § 1 
+Absatz 1 auf anderem Wege Kenntnis von der Steuer-Identifikationsnummer erlangt haben, 
+kann diese für eine Anfrage an die Familienkasse ebenfalls verwendet werden, soweit dem 
+kein Gesetz entgegensteht. Eine Verarbeitung einschließlich einer Zweckänderung bzw. 
+soweit erforderlich eine Erhebung der Steuer-Identifikationsnummer bei den Bürginnen und 
+Bürgern ist insoweit grundsätzlich gemäß § 139b Absatz 2 Satz 2 der Abgabenordnung
+sowie § 67c Absatz 2 bzw. § 67a des Zehnten Buches Sozialgesetzbuch zulässig. Zur
+Vermeidung einer unzulässigen Informationsweitergabe (beispielsweise aufgrund von
+Tippfehlern) ist zusätzlich der Tag der Geburt dieser Person mitzuteilen.
+Zu Absatz 2
+Die Regelung legt fest, dass die Familienkasse die in den jeweiligen Nummern und
+Buchstaben angeführten Informationen bereitstellt, die zur Prüfung des Anspruchs und die
+Bemessung der jeweiligen Leistung im Sinne des § 1 Absatz 1 erforderlich sind. Erforderlich 
+im Sinne der Vorschrift sind alle Daten, die geeignet sind, eine zutreffende Entscheidung 
+über den Anspruch und die Höhe der in § 1 Absatz 1 genannten Leistungen zu ermöglichen. 
+Der Datenabruf umfasst nur die Daten, die in der jeweiligen Kindergeldakte vorliegen. Es 
+besteht keine Pflicht zur (Nach-)Erfassung der aufgezählten Daten, sofern diese von der 
+Familienkasse noch beschafft werden müssten.
+Die zu übermittelnden Daten umfassen die Personendaten der jeweiligen Person. Potentiell 
+kindergeldberechtigte Personen meint Personen im Sinne des § 62 des
+Einkommensteuergesetzes. Dies sind in der Regel beide Eltern sowie ggf. Großeltern, Pflegeeltern oder
+Stiefeltern. Daten des Kindes meint das jeweilige Kind im Sinne des § 63 des
+Einkommensteuergesetzes. Im Sinne der Datensparsamkeit werden nur erforderliche Daten übermittelt. Da 
+nicht alle Leistungsträger einen vollständig identischen Datenumfang benötigen, erfolgt
+insoweit partiell eine Eingrenzung. Dies betreffen insbesondere die Daten zur
+Staatsangehörigkeit, welche die Stellen nach § 1 Absatz 1 Nummer 3 für die Prüfung des Anspruchs
+benötigen (vergleiche § 1 Absatz 1 Nummer 4 des Bundeskindergeldgesetzes). Die
+Übermittlung der Staatsangehörigkeit an die anderen Leistungsträger ist mangels Erforderlichkeit 
+nicht zulässig. Auch benötigen nicht alle Stellen Daten über die Kindergeldhöhe. Durch
+diese Einschränkungen wird gewährleistet, dass nur erforderliche Daten übermittelt
+werden.
+Die Leistungsdaten beziehen sich nicht lediglich auf eine Momentaufnahme zum Zeitpunkt 
+der Kindergeldfestsetzung oder der Aufhebung der Kindergeldfestsetzung. Auch der
+gesamte Zeitraum, für den ein Anspruch auf Kindergeld festgesetzt oder die
+Kindergeldfestsetzung aufgehoben wurde, ist mitzuteilen. Dabei kann es sich um detaillierte Angaben für 
+einzelne Anspruchsmonate oder um offene Angaben (zum Beispiel eine Festsetzung, die 
+sich unbefristet in die Zukunft richtet) handeln. Unabhängig von der für alle Kinder
+einheitlichen Kindergeldhöhe gemäß § 66 Absatz 1 des Einkommensteuergesetzes bedarf es
+einer Übermittlung der Betragshöhe um insbesondere Nachzahlungsfälle identifizieren und 
+zutreffende Leistungsmessungen vornehmen zu können. Bezüglich des
+Auszahlungszeitpunktes teilt die Familienkasse nur die Daten mit, die ihr vorliegen. Ob unter
+Berücksichtigung der üblichen Dauer einer Überweisung der Tag des Zuflusses errechnet bzw.
+geschätzt wird, obliegt der Verantwortung der abrufenden Stelle. Die Familienkasse ist nicht 
+verpflichtet, den genauen Tag des Zuflusses des Kindergeldes zu speichern und für den 
+Datenabruf bereitzustellen.
+Zu Absatz 3
+Die Regelung legt fest, dass die Bereitstellung der technischen Einrichtungen der am
+automatisierten Abrufverfahren beteiligten Familienkasse obliegt.
+Zu Absatz 4
+Die Regelung konkretisiert die allgemeinen Anforderungen der Verordnung (EU) 2016/678 
+und legt fest, dass die jeweils geltenden Standards des Bundesamtes für die Sicherheit in 
+der Informationstechnik zu beachten sind. Die Vertraulichkeit der Datenübertragung kann 
+nur durch den Einsatz von Verschlüsselungsverfahren sichergestellt werden.
+Zu § 4 (Prüfungs- und Dokumentationspflichten)
+Durch den Verweis auf § 2 Absatz 1 der Steuerdatenabrufverordnung (StDAV) wird
+geregelt, dass die allgemeinen technischen und organisatorischen Maßnahmen zur Wahrung 
+des Steuergeheimnisses, die nach dem jeweiligen Stand der Technik zu bestimmen und 
+jeweils fortzuentwickeln sind, auch für das vorgehend beschriebene Verfahren zu ergreifen 
+sind.
+Die im steuerlichen Bereich geltenden Vorgaben zur Prüfung der Abrufbefugnis (§ 5 StDAV) 
+gelten entsprechend. Gemeint ist damit die Art der technischen und organisatorischen
+Maßnahmen, die einen berechtigten Datenabruf sicherstellen. Das Verfahren ist in Abhängigkeit 
+von den technischen Voraussetzungen von der Familienkasse zu bestimmen. Die
+automatisierte Prüfung der Abrufberechtigung bezieht sich sowohl auf den Aufbau der
+Datenverbindung, als auch auf den Umfang des Abrufrechts. Unberechtigte und fehlerhafte
+Abrufversuche werden aufgezeichnet, ggf. abgebrochen und die Datenverbindung gesperrt, 
+wenn die zulässige Anzahl von Fehlversuchen erreicht ist.
+Die §§ 6 bis 8 StDAV gelten ebenfalls entsprechend. Dies ist zum einen für die
+Aufzeichnung von Abrufen und die inhaltliche Prüfung ihrer Zulässigkeit notwendig. Zum anderen 
+sind bei der Einrichtung des Verfahrens die in § 8 StDAV geforderten Regelungen zu
+treffen. Den Vorgaben für Verfahren im steuerlichen Bereich entsprechend sind im Interesse 
+der Transparenz für Betroffene und Anwender des Verfahrens die getroffenen
+Festlegungen und Regelungen zu dokumentieren.
+Zu § 5 (Inkrafttreten)
+Die Verordnung soll zum 1. Januar 2026 in Kraft treten. Somit besteht bereits frühzeitig die 
+Möglichkeit, aber nicht die Verpflichtung, zur Teilnahme am Datenabruf. Dies gewährleistet 
+jeder abrufenden Stelle hinreichend Vorlaufzeit zur individuellen technischen Umsetzung. 
+Die technische Umsetzung kann in mehreren Ausbaustufen erfolgen (vergleiche
+Begründung zu § 2 Absatz 1).
+Stellungnahme des Nationalen Normenkontrollrates (NKR) gem. § 6 Abs. 1 NKRG 
+Entwurf einer Verordnung zum Abruf von Kindergelddaten durch Sozialleistungsträger 
+(SozKiGAbV, NKR-Nr. 7774, BMF) 
+Der Nationale Normenkontrollrat hat den Regelungsentwurf mit folgendem Ergebnis geprüft: 
+ 
+I. Zusammenfassung 
+Bürgerinnen und Bürger  
+Jährlicher Zeitaufwand (Entlastung): rund - 98 000 Stunden (- 2,4 Mio. Euro) 
+Jährliche Sachkosten (Entlastung): rund - 58 000 Euro 
+Verwaltung  
+Bund  
+Jährlicher Erfüllungsaufwand: rund 1,1 Mio. Euro 
+Einmaliger Erfüllungsaufwand: rund 8,1 Mio. Euro 
+Länder  
+Jährlicher Erfüllungsaufwand (Entlastung): rund – 622 000 Euro 
+Einmaliger Erfüllungsaufwand: rund 18,3 Mio. Euro 
+Nutzen des Vorhabens Das Ressort hat den Nutzen des Vorhabens 
+im Vorblatt des Regelungsentwurfs wie 
+folgt beschrieben:  
+Vereinfachung und Entbürokratisierung 
+der Beantragung und Bearbeitung
+staatlicher Leistungen
+Digitaltauglichkeit (Digitalcheck) 
+ 
+Das Ressort hat Möglichkeiten zum
+digitalen Vollzug der Neuregelung
+(Digitaltauglichkeit) geprüft und hierzu einen
+Digitalcheck mit nachvollziehbarem Ergebnis 
+durchgeführt. 
+Regelungsfolgen 
+Die Darstellung der Regelungsfolgen ist nachvollziehbar und methodengerecht. Der
+Nationale Normenkontrollrat erhebt hiergegen im Rahmen seines gesetzlichen Auftrags keine 
+Einwände.  
+Der NKR begrüßt, dass mit diesem Vorhaben ein Zugewinn für das Once-Only-Prinzip
+geschaffen wird und empfiehlt, den Anschluss an das National-Once-Only-Technical-
+System (NOOTS) zu prüfen. 
+ 
+II. Regelungsvorhaben 
+Die Verordnung zum Abruf von Kindergelddaten durch Sozialleistungsträger (SozKiGAbV) soll 
+der Familienkasse der Bundesagentur für Arbeit (BA) ermöglichen, Kindergelddaten nach dem 
+Einkommensteuergesetz (EStG), die grundsätzlich dem Steuergeheimnis unterliegen, auch
+anderen Behörden bzw. Leistungsträgern zur Verfügung zu stellen.  
+Kindergelddaten sind für die Berechnung anderer staatlicher Leistungen von Bedeutung und
+sollen zukünftig für folgende Leistungen übermittelt werden können: 
+• Leistungen der Arbeitsförderung, 
+• Leistungen der Grundsicherung für Arbeitssuchende, 
+• Kindergeld nach dem Bundeskindergeldgesetz, 
+• Leistungen für Bildung und Teilhabe, 
+• Leistungen der Sozialhilfe und 
+• Unterhaltsvorschüsse. 
+ 
+III. Bewertung 
+III.1. Erfüllungsaufwand 
+Bürgerinnen und Bürger 
+Die Bürgerinnen und Bürger werden jährlich von rund 98 000 Stunden (2,4 Mio. Euro) und rund 
+58 000 Euro Sachaufwand entlastet.1  
+Dieser Erfüllungsaufwand resultiert aus vereinfachten Antragstellungen, indem das
+Heraussuchen der Kindergeldnummer sowie das Heraussuchen und Beifügen der Kindergeldbescheide 
+entfallen.  
+ 
+1 Für den Zeitaufwand der Bürgerinnen und Bürger nimmt der NKR einen Stundensatz von 25 Euro an.
+ Verwaltung 
+Für die Verwaltung erhöht sich der jährliche Erfüllungsaufwand im Saldo um rund 488 000 Euro. 
+Für den Bund erhöht sich der jährliche Erfüllungsaufwand um rund 1,1 Mio. Euro.
+Demgegenüber steht eine Entlastung der Länder (inkl. Kommunen) in Höhe von rund 622 000 Euro. Der 
+einmalige Erfüllungsaufwand beträgt rund 26,4 Millionen Euro. Davon entfallen etwa 8,1 Mio. 
+Euro an einmaligem Erfüllungsaufwand auf den Bund und 18,3 Mio. Euro auf die Länder (inkl. 
+Kommunen).  
+Bund 
+• Entwicklung und Betrieb des automatisierten Verfahrens durch die Familienkasse 
+Für die Einrichtung des automatisierten Verfahrens entstehen nach Informationen der BA
+einmalig rund 1,9 Mio. Euro Entwicklungsaufwand. Wartung und Unterhalt des automatisierten 
+Verfahrens werden nach Angaben der BA rund 250 000 Euro laufenden Erfüllungsaufwand
+auslösen. Die Erstellung und Verwaltung der Zugangsberechtigungen verursacht rund 557 000 Euro 
+laufenden Erfüllungsaufwand.  
+• Anbindung der Bundesagentur für Arbeit an die Schnittstelle der Familienkasse 
+Nach Angaben der BA entstehen für die Bereitstellung der zentralen Anbindung einmalige
+Sachkosten in Höhe von 4,25 Mio. Euro und für den laufenden Unterhalt jährlich rund 500 000 Euro. 
+• IT-Aufwände für Anpassungen im Rahmen der Antragsverfahren  
+Die BA muss die bestehenden Fachverfahren für das Arbeitslosengeld sowie die zugehörigen
+Online-Antragsprozesse anpassen, was einmaligen Erfüllungsaufwand in Höhe von rund 
+1,5 Mio. Euro, sowie jährlichen Erfüllungsaufwand in Höhe von rund 75 000 Euro auslöst. Die 
+IT-Anpassungen beim Antragsverfahren zum Übergangsgeld führen zu einmalig rund 
+125 000 Euro und laufend rund 6 000 Euro Erfüllungsaufwand.  
+• Erleichterte Bearbeitung von Anträgen  
+Durch den automatisierten Datenabruf zum Kindergeldbezug wird die BA bei der Bearbeitung 
+von Anträgen auf Arbeitslosengeld um jährlich rund 277 000 Euro entlastet. 
+Land 
+• IT-Schulungen für die abrufenden Stellen 
+Die einmalige IT-Schulung der Mitarbeiterinnen und Mitarbeiter in den abrufenden Stellen der 
+Sozialleistungsträger kostet einmaligen Erfüllungsaufwand in Höhe von rund 826 000 Euro.
+• IT-Aufwände für Anpassungen im Rahmen der Antragsverfahren  
+Die IT-Anpassungen beim Antragsverfahren auf Bürgergeld kosten die gemeinsamen
+Einrichtungen einmalig rund 104 000 Euro und laufend rund 2 000 Euro Erfüllungsaufwand, sowie die 
+kommunalen Träger einmalig rund 1,7 Mio. Euro. Die IT-Anpassungen beim Antragsverfahren 
+auf Unterhaltsvorschuss kosten einmalig rund 9,1 Mio. Euro und beim Antragsverfahren auf
+Sozialhilfe einmalig rund 6,5 Mio. Euro. 
+• Erleichterte Bearbeitung von Anträgen  
+Durch den automatisierten Datenabruf zum Kindergeldbezug werden Länder und Kommunen in 
+den von ihnen durchgeführten Antragsverfahren (z. B. Bearbeitung von Anträgen auf
+Unterhaltsvorschuss oder für Leistungen für Bildung und Teilhabe) um jährlich insgesamt rund 
+625 000 Euro entlastet. 
+III.2. Digitaltauglichkeit 
+Das Ressort hat die Möglichkeiten zum digitalen Vollzug (Digitaltauglichkeit) geprüft und einen 
+Digitalcheck mit nachvollziehbarem Ergebnis durchgeführt: 
+• Bedürfnisse der Betroffenen wurden durch Gespräche mit Ressorts, Vollzugsbehörden, 
+Datenschutzbeauftragten und Verbänden berücksichtigt, unter anderem durch einen 
+vorhergehenden Diskussionsentwurf. 
+• Die Regelung schafft Voraussetzungen für eine Wiederverwendung von Daten und eine 
+Automatisierung, da Daten der Familienkasse auch in anderen Behörden
+medienbruchfrei weiterverwendet können. 
+Der NKR begrüßt, dass das Ressort den Grundsatz der Datensparsamkeit konsequent vorantreibt 
+und mit diesem Vorhaben einen Zugewinn für das Once-Only-Prinzip schafft. Um die Daten 
+möglichst bürokratiearm für die Bereitstellung weiterer Verwaltungsleistungen zur Verfügung 
+zu stellen, empfiehlt der NKR, den Anschluss an das NOOTS zu prüfen. Dieses gemeinsame,
+informationstechnische System aus IT-Komponenten, Schnittstellen und Standards soll
+perspektivisch den Datenaustausch zwischen öffentlichen Stellen automatisiert und bürokratiearm
+ermöglichen. 
+30. September 2025 
+   
+Lutz Goebel Ulla Ihnen 
+Vorsitzender Berichterstatterin für das 
+ Bundesministerium der Finanzen 
+Drucksache 627/25 - 4 -
