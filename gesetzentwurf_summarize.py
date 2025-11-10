@@ -86,6 +86,19 @@ def extract_sections_ae(text: str) -> Dict[str, str]:
     return out
 
 
+def extract_header_before_a(text: str) -> str:
+    """Return everything before the first A.* heading (Problem und Ziel)."""
+    # Build detection regex for the first A heading using the same variants as above
+    alts = ["Problem und Ziel"]
+    pat = re.compile(rf"^\s*A[\.)]\s*(?:{'|'.join(map(re.escape, alts))})\b.*$", re.IGNORECASE | re.MULTILINE)
+    m = pat.search(text)
+    if not m:
+        return ""
+    start = m.start()
+    header = text[:start]
+    return header.strip()
+
+
 def trim_sections(sections: Dict[str, str], max_chars_per_section: int) -> Dict[str, str]:
     out: Dict[str, str] = {}
     for key, raw in sections.items():
@@ -96,7 +109,7 @@ def trim_sections(sections: Dict[str, str], max_chars_per_section: int) -> Dict[
     return out
 
 
-def _build_messages_for_openai(sections: Dict[str, str]) -> List[Dict[str, str]]:
+def _build_messages_for_openai(sections: Dict[str, str], header: str) -> List[Dict[str, str]]:
     # System and user content in Russian as requested by the user
     system_prompt = (
         "Ты аналитик, который структурирует законопроекты Бундестага. "
@@ -106,17 +119,24 @@ def _build_messages_for_openai(sections: Dict[str, str]) -> List[Dict[str, str]]
     )
 
     user_instruction = (
-        "Проанализируй разделы A–E и верни JSON со следующими полями: "
+        "Проанализируй заголовочную часть (текст до раздела A) и разделы A–E. "
+        "Верни строго JSON со следующими полями: "
         "number (строка|null, номер Drucksache), date (строка|null, ISO YYYY-MM-DD), "
-        "title (строка|null, официальный заголовок, если очевиден из разделов), "
-        "initiator (строка|null, кто внес: Bundesregierung, Fraktion, Länder, Bundesrat и/или конкретные субъекты), "
-        "goal (строка|null, краткая цель), solution (строка|null), alternatives (строка|null), "
-        "budget_wo_fulfillment (строка|null, из D), fulfillment_costs (строка|null, из E), "
-        "overall_summary (строка, 2–3 предложения по сути). Если данных нет — ставь null."
+        "title (строка|null, официальный заголовок), initiator (строка|null, кто внес), "
+        "goal (строка|null, краткая цель, по-русски), solution (строка|null, по-русски), alternatives (строка|null, по-русски), "
+        "budget_wo_fulfillment (строка|null, по-русски, из D), fulfillment_costs (строка|null, по-русски, из E), "
+        "overall_summary (строка, по-русски, 2–3 предложения по сути). "
+        "Все текстовые поля должны быть на русском языке (кратко перефразуй по смыслу, сохраняя факты/цифры). "
+        "Если сведений нет — ставь null. Ничего не выдумывай."
     )
 
     # Assemble a single user message that contains the sections
-    parts: List[str] = [user_instruction, "", "<SECTIONS>"]
+    parts: List[str] = [user_instruction, "", "<HEADER>"]
+    if header:
+        parts.append(header)
+    parts.append("</HEADER>")
+    parts.append("")
+    parts.append("<SECTIONS>")
     for key, title in SECTIONS:
         content = sections.get(key.upper())
         if content:
@@ -133,6 +153,7 @@ def _build_messages_for_openai(sections: Dict[str, str]) -> List[Dict[str, str]]
 
 def call_openai_structured_ae(
     sections: Dict[str, str],
+    header: str,
     model: str,
     temperature: float = 0.1,
 ) -> Dict[str, Any]:
@@ -149,7 +170,7 @@ def call_openai_structured_ae(
 
     client = OpenAI(api_key=api_key)
 
-    messages = _build_messages_for_openai(sections)
+    messages = _build_messages_for_openai(sections, header)
 
     schema = {
         "name": "gesetzentwurf_summary",
@@ -278,9 +299,24 @@ def summarize_file(
     sections_raw = extract_sections_ae(text)
     if not sections_raw:
         raise RuntimeError("Не удалось найти секции A–E в файле.")
+    header = extract_header_before_a(text)
     sections_trimmed = trim_sections(sections_raw, max_chars_per_section)
 
-    data = call_openai_structured_ae(sections_trimmed, model=model, temperature=temperature)
+    data = call_openai_structured_ae(sections_trimmed, header, model=model, temperature=temperature)
+
+    # Normalize string placeholders "null" -> None on optional fields
+    for k in [
+        "title",
+        "initiator",
+        "goal",
+        "solution",
+        "alternatives",
+        "budget_wo_fulfillment",
+        "fulfillment_costs",
+    ]:
+        v = data.get(k)
+        if isinstance(v, str) and v.strip().lower() == "null":
+            data[k] = None
 
     md = _md_from_json(data)
 
@@ -294,10 +330,10 @@ def summarize_file(
     if out_json is None:
         out_json = os.path.join(reports_dir, f"{base}-Report.json")
 
-    with open(out_md, "w", encoding="utf-8") as f:
+    with open(out_md, "w", encoding="utf-8-sig") as f:
         f.write(md)
     import json as _json
-    with open(out_json, "w", encoding="utf-8") as f:
+    with open(out_json, "w", encoding="utf-8-sig") as f:
         _json.dump(data, f, ensure_ascii=False, indent=2)
 
     return out_md, out_json
@@ -359,3 +395,4 @@ def main(argv: List[str]) -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main(sys.argv[1:]))
+
