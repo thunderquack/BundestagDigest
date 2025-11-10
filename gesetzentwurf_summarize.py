@@ -122,10 +122,14 @@ def _build_messages_for_openai(sections: Dict[str, str], header: str) -> List[Di
         "Проанализируй заголовочную часть (текст до раздела A) и разделы A–E. "
         "Верни строго JSON со следующими полями: "
         "number (строка|null, номер Drucksache), date (строка|null, ISO YYYY-MM-DD), "
-        "title (строка|null, официальный заголовок), initiator (строка|null, кто внес), "
-        "goal (строка|null, краткая цель, по-русски), solution (строка|null, по-русски), alternatives (строка|null, по-русски), "
-        "budget_wo_fulfillment (строка|null, по-русски, из D), fulfillment_costs (строка|null, по-русски, из E), "
-        "overall_summary (строка, по-русски, 2–3 предложения по сути). "
+        "title_original (строка|null, официальный немецкий заголовок), title_ru (строка|null, перевод названия на русский, кратко), "
+        "initiator (строка|null, кто внес), "
+        "goal (строка|null, 4–6 предложений по-русски, суть проблемы и цели из A), "
+        "solution (строка|null, 4–6 предложений по-русски из B), "
+        "alternatives (строка|null, по-русски из C), "
+        "budget_wo_fulfillment (строка|null, по-русски из D), "
+        "fulfillment_costs (строка|null, по-русски из E), "
+        "overall_summary (строка, по-русски, 2–3 предложения по сути документа). "
         "Все текстовые поля должны быть на русском языке (кратко перефразуй по смыслу, сохраняя факты/цифры). "
         "Если сведений нет — ставь null. Ничего не выдумывай."
     )
@@ -182,7 +186,8 @@ def call_openai_structured_ae(
             "properties": {
                 "number": {"type": ["string", "null"], "description": "Номер Drucksache"},
                 "date": {"type": ["string", "null"], "description": "Дата ISO YYYY-MM-DD"},
-                "title": {"type": ["string", "null"], "description": "Название законопроекта"},
+                "title_original": {"type": ["string", "null"], "description": "Оригинальное название (DE)"},
+                "title_ru": {"type": ["string", "null"], "description": "Название на русском"},
                 "initiator": {"type": ["string", "null"], "description": "Кем внесен"},
                 "goal": {"type": ["string", "null"], "description": "Цель (из A)"},
                 "solution": {"type": ["string", "null"], "description": "Решение (из B)"},
@@ -193,9 +198,7 @@ def call_openai_structured_ae(
             },
             "required": [
                 "overall_summary",
-                "number",
-                "date",
-                "title",
+                "number", "date", "title_original", "title_ru",
                 "initiator",
                 "goal",
                 "solution",
@@ -239,7 +242,7 @@ def _md_from_json(data: Dict[str, Any]) -> str:
         return str(v).strip()
 
     lines: List[str] = []
-    title = vv("title")
+    title = (vv("title_ru") or vv("title") or vv("title_original"))
     if title:
         lines.append(f"# {title}")
     else:
@@ -252,9 +255,11 @@ def _md_from_json(data: Dict[str, Any]) -> str:
         meta_parts.append(vv("date"))
     if meta_parts:
         lines.append(" ".join(meta_parts))
+    if vv("title_original") and vv("title_ru") or (vv("title_original") and not vv("title_ru") and not vv("title")):
+        lines.append(f"Оригинальное название: {vv('title_original')}")
 
     if vv("initiator"):
-        lines.append(f"Initiator: {vv('initiator')}")
+        lines.append(f"Инициатор: {vv('initiator')}")
 
     if vv("overall_summary"):
         lines.append("")
@@ -264,23 +269,23 @@ def _md_from_json(data: Dict[str, Any]) -> str:
     if any(vv(k) for k in ("goal", "solution", "alternatives", "budget_wo_fulfillment", "fulfillment_costs")):
         lines.append("")
     if vv("goal"):
-        lines.append("## Ziel")
+        lines.append("## Цель")
         lines.append(vv("goal"))
     if vv("solution"):
         lines.append("")
-        lines.append("## Lösung")
+        lines.append("## Решение")
         lines.append(vv("solution"))
     if vv("alternatives"):
         lines.append("")
-        lines.append("## Alternativen")
+        lines.append("## Альтернативы")
         lines.append(vv("alternatives"))
     if vv("budget_wo_fulfillment"):
         lines.append("")
-        lines.append("## Haushaltsausgaben ohne Erfüllungsaufwand")
+        lines.append("## Бюджет без исполнит. затрат")
         lines.append(vv("budget_wo_fulfillment"))
     if vv("fulfillment_costs"):
         lines.append("")
-        lines.append("## Erfüllungsaufwand")
+        lines.append("## Исполнительские затраты")
         lines.append(vv("fulfillment_costs"))
 
     return "\n".join(lines).strip() + "\n"
