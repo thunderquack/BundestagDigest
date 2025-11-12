@@ -17,10 +17,11 @@ def getenv_str(name: str) -> Optional[str]:
 
 
 def build_prompt_ru() -> str:
-    # Короткий, "щадящий" системный промпт: минимум инструкций, без жёстких требований.
     return (
-        "Ты помощник-референт на русском языке. Тебе дают текст официального документа. "
-        "Отвечай только по-русски. Если в тексте чего-то нет — указывай null, а не домысливай."
+        "Ты помощник-референт. Тебе дают текст официального документа. "
+        "Отвечай строго структурированным JSON по запрошенной схеме. "
+        "В полях, оканчивающихся на _ru — пиши по‑русски, в _de — по‑немецки. "
+        "Если в тексте чего-то нет — указывай null, без домыслов."
     )
 
 
@@ -94,7 +95,8 @@ def call_openai_structured(
     - author: str|null (фракция или отправитель, если указан)
     - date: str|null (ISO-8601 YYYY-MM-DD, если можно однозначно определить)
     - title: str (одно короткое предложение по-русски)
-    - description: str (2–3 абзаца по-русски, по делу, что спрашивают депутаты и как отвечает правительство)
+    - description_ru: str|null (2–3 абзаца по‑русски: что спрашивают депутаты и как отвечает правительство)
+    - description_de: str|null (2–3 Absätze auf Deutsch: was die Abgeordneten fragen und wie die Bundesregierung antwortet)
     """
     try:
         from openai import OpenAI  # type: ignore
@@ -114,7 +116,9 @@ def call_openai_structured(
         "Верни строго JSON по схеме без лишних ключей. "
         "number — номер документа без слова 'Drucksache'; author — фракция/отправитель; "
         "date — ISO дата YYYY-MM-DD при наличии; title — одно короткое предложение по-русски без вводных слов 'Ответ на' или 'Запрос о'; "
-        "description — 2–3 абзаца по-русски, что спрашивают депутаты и как отвечает правительство. Если поле невозможно извлечь, установи значение null."
+        "description_ru — 2–3 абзаца по‑русски (что спрашивают депутаты и как отвечает правительство); "
+        "description_de — 2–3 Absätze auf Deutsch (was gefragt wird und wie die Bundesregierung antwortet). "
+        "Если поле невозможно извлечь, установи значение null."
     )
 
     messages = [
@@ -142,9 +146,10 @@ def call_openai_structured(
                 "author": {"type": ["string", "null"], "description": "Фракция/отправитель, если указан"},
                 "date": {"type": ["string", "null"], "description": "Дата в формате YYYY-MM-DD"},
                 "title": {"type": "string", "description": "Одно короткое предложение по-русски без вводных слов 'Ответ на' или 'Запрос о'"},
-                "description": {"type": "string", "description": "2–3 абзаца по-русски"},
+                "description_ru": {"type": ["string", "null"], "description": "2–3 абзаца по‑русски"},
+                "description_de": {"type": ["string", "null"], "description": "2–3 Absätze auf Deutsch"},
             },
-            "required": ["title", "description", "number", "date", "author"],
+            "required": ["title", "description_ru", "description_de", "number", "date", "author"],
         },
     }
 
@@ -206,7 +211,9 @@ def main(argv: list[str]) -> int:
     parser.add_argument(
         "--structured-json",
         action="store_true",
-        help="Вернуть структурированный JSON (number, author, date, title, description) вместо Markdown",
+        help=(
+            "Вернуть структурированный JSON (number, author, date, title, description_ru, description_de) вместо Markdown"
+        ),
     )
 
     args = parser.parse_args(argv)
