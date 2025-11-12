@@ -3,6 +3,8 @@ from __future__ import annotations
 import os
 import sys
 import subprocess
+import json
+from datetime import date
 from typing import Dict, Tuple, List, Any
 import hashlib
 import time
@@ -14,6 +16,8 @@ from tqdm import tqdm
 TEXT_DIR = "drucksache_texts"
 ANTWORT_DIR = os.path.join(TEXT_DIR, "Antwort")
 REPORTS_DIR = os.path.join("reports", "Antwort")
+REPORTS_JSON_DIR = os.path.join("reports", "json")
+KLEINE_ANFRAGE_DB = os.path.join(REPORTS_JSON_DIR, "kleine-anfrage.json")
 
 
 def _sha256_file(path: str) -> str:
@@ -110,6 +114,19 @@ def summarize_files(paths: List[str]) -> int:
         return 0
 
     os.makedirs(REPORTS_DIR, exist_ok=True)
+    os.makedirs(REPORTS_JSON_DIR, exist_ok=True)
+
+    # Step 1: try to load existing JSON pseudo-DB; if absent — start with empty dict
+    db: Dict[str, Any] = {}
+    try:
+        if os.path.isfile(KLEINE_ANFRAGE_DB):
+            with open(KLEINE_ANFRAGE_DB, "r", encoding="utf-8") as fdb:
+                db = json.load(fdb) or {}
+            if not isinstance(db, dict):
+                db = {}
+    except Exception:
+        # If file is corrupt or unreadable, proceed with a fresh dict
+        db = {}
     model = os.environ.get("OPENAI_MODEL") or "gpt-4o-mini"
     try:
         default_max = int(os.environ.get("SUMMARY_MAX_CHARS", "20000"))
@@ -135,6 +152,15 @@ def summarize_files(paths: List[str]) -> int:
                 report_path = os.path.join(REPORTS_DIR, f"{base}-Report.md")
                 with open(report_path, "w", encoding="utf-8") as f:
                     f.write(md)
+                # Step 2: append structured data into JSON DB keyed by Drucksache number
+                # Also add current date field
+                key = (str(data.get("number")) if data.get("number") not in (None, "") else base)
+                record = dict(data)
+                record["saved_date"] = date.today().isoformat()
+                db[key] = record
+                # Step 3: save DB after each update
+                with open(KLEINE_ANFRAGE_DB, "w", encoding="utf-8") as fdb:
+                    json.dump(db, fdb, ensure_ascii=False, indent=2)
                 count += 1
                 time.sleep(0.6)
                 break
