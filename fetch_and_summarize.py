@@ -73,7 +73,8 @@ def _unwrap_markdown_fence(text: str) -> str:
 
 def _md_from_structured(data: Dict[str, Any]) -> str:
     """Render Markdown based on structured JSON fields.
-    Expects keys: number, author, date, title, description.
+    Expects keys: number, author, date, title, description_ru (preferred).
+    Falls back to legacy key `description` if `description_ru` is absent.
     """
     def _v(key: str) -> str:
         val = data.get(key)
@@ -90,7 +91,11 @@ def _md_from_structured(data: Dict[str, Any]) -> str:
     lines.append("")
     lines.append(f"__{_v('number')} от {_v('date')}__")
     lines.append("")
-    desc_text = _v("description")
+    # Prefer Russian description if present; fallback to legacy 'description'
+    desc_val = data.get("description_ru")
+    if desc_val is None and "description" in data:
+        desc_val = data.get("description")
+    desc_text = _v("description_ru") if desc_val is not None else _v("description")
     if desc_text and desc_text != "не указано":
         lines.append(desc_text)
     return "\n".join(lines).strip() + "\n"
