@@ -18,6 +18,7 @@ ANTWORT_DIR = os.path.join(TEXT_DIR, "Antwort")
 REPORTS_DIR = os.path.join("reports", "Antwort")
 REPORTS_JSON_DIR = os.path.join("reports", "json")
 KLEINE_ANFRAGE_DB = os.path.join(REPORTS_JSON_DIR, "kleine-anfrage.json")
+KLEINE_ANFRAGE_RECENT = os.path.join(REPORTS_JSON_DIR, "kleine-anfrage-recent.json")
 
 
 def _sha256_file(path: str) -> str:
@@ -182,6 +183,28 @@ def summarize_files(paths: List[str]) -> int:
     return count
 
 
+def write_recent_kleineanfrage(limit: int = 25) -> int:
+    """Load DB and write last N (by saved_date desc) entries to a separate JSON.
+    Returns the number of entries written.
+    """
+    if not os.path.isfile(KLEINE_ANFRAGE_DB):
+        return 0
+    try:
+        with open(KLEINE_ANFRAGE_DB, "r", encoding="utf-8") as fdb:
+            db = json.load(fdb) or {}
+        if not isinstance(db, dict):
+            return 0
+        items = [v for v in db.values() if isinstance(v, dict) and v.get("saved_date")]
+        items.sort(key=lambda r: str(r.get("saved_date")), reverse=True)
+        recent = items[: max(0, int(limit))]
+        os.makedirs(REPORTS_JSON_DIR, exist_ok=True)
+        with open(KLEINE_ANFRAGE_RECENT, "w", encoding="utf-8") as fout:
+            json.dump(recent, fout, ensure_ascii=False, indent=2)
+        return len(recent)
+    except Exception:
+        return 0
+
+
 def main(argv: list[str]) -> int:
     load_dotenv()
 
@@ -192,6 +215,8 @@ def main(argv: list[str]) -> int:
     print(f"New/changed Antwort files: {len(delta)}")
     made = summarize_files(delta)
     print(f"Reports generated: {made} -> {REPORTS_DIR}")
+    # After summarization, build a recent list JSON (top 25 by saved_date)
+    write_recent_kleineanfrage(25)
     return 0
 
 
