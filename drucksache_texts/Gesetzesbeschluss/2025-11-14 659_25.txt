@@ -1,0 +1,542 @@
+Bundesrat Drucksache  659/25 
+ 
+  
+  
+ 
+14.11.25 
+ In  
+ 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln 
+Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de 
+ISSN 0720-2946 
+ 
+Gesetzesbeschluss 
+des Deutschen Bundestages 
+B
+R
+Fu
+ss 
+Gesetz zur Umsetzung der NIS-2-Richtlinie und zur Regelung 
+wesentlicher Grundzüge des
+Informationssicherheitsmanagements in der Bundesverwaltung 
+ 
+ 
+ 
+Der Deutsche Bundestag hat in seiner 40. Sitzung am 13. November 2025  
+aufgrund der Beschlussempfehlung und des Berichtes des Innenausschusses  
+– Drucksache 21/2782 – den von der Bundesregierung eingebrachten 
+ 
+Entwurf eines Gesetzes zur Umsetzung der NIS-2-Richtlinie und zur  
+Regelung wesentlicher Grundzüge des
+Informationssicherheitsmanagements in der Bundesverwaltung 
+– Drucksachen 21/1501, 21/2072 – 
+ 
+mit beigefügten Maßgaben, im Übrigen unverändert angenommen. 
+ 
+ 
+Fristablauf: 05.12.25 
+Erster Durchgang: Drs. 369/25 
+ 
+ 
+ 
+ 
+1. Artikel 1 wird wie folgt geändert: 
+a) § 1 Satz 3 wird durch den folgenden Satz ersetzt: 
+„Seine Aufgaben führt das Bundesamt auf Grundlage wissenschaftlich-technischer 
+Erkenntnisse durch.“ 
+b) § 2 wird wie folgt geändert: 
+aa) Nummer 23 wird durch die folgende Nummer 23 ersetzt: 
+23. „ „kritische Komponenten“ IKT-Produkte, die in einer Rechtsverordnung aufgrund 
+von § 56 Absatz 7 und 8 als kritische Komponenten bestimmt werden;“. 
+bb) Nummer 27 wird durch die folgende Nummer 27 ersetzt: 
+27. „ „NIS-2-Richtlinie“ die Richtlinie (EU) 2022/2555 in der jeweils geltenden 
+Fassung;“. 
+c) § 3 Absatz 1 Satz 2 wird wie folgt geändert: 
+aa) Nummer 18 wird wie folgt geändert: 
+aaa) In Buchstabe a wird nach der Angabe „Bundes“ die Angabe „und der Länder“ 
+eingefügt. 
+bbb) Buchstabe b wird durch den folgenden Buchstaben b ersetzt: 
+b) „ der Verfassungsschutzbehörden des Bundes und der Länder und des 
+Militärischen Abschirmdienstes bei der Auswertung und Bewertung von 
+Informationen, die bei der Beobachtung von Bestrebungen anfallen, die 
+gegen die freiheitliche demokratische Grundordnung, den Bestand des 
+Staates oder die Sicherheit des Bundes oder eines Landes gerichtet sind, 
+oder die bei der Beobachtung sicherheitsgefährdender oder 
+geheimdienstlicher Tätigkeiten im Rahmen der gesetzlichen Befugnisse 
+nach den Verfassungsschutzgesetzen des Bundes und der Länder 
+beziehungsweise dem MAD-Gesetz anfallen,“. 
+bb) In Nummer 20 wird nach der Angabe „Bundesverwaltung“ die Angabe „, die Länder“ 
+eingefügt. 
+d) § 5 wird wie folgt geändert: 
+aa) Absatz 3 wird durch den folgenden Absatz 3 ersetzt: 
+(3) „ Zur Erfüllung seiner Aufgaben nach § 3 Absatz 1 Satz 1 gibt das Bundesamt 
+die Informationen zu den nach Absatz 2 gemeldeten Schwachstellen unverzüglich an 
+den verantwortlichen Hersteller oder Produktverantwortlichen zum Zwecke der 
+Schließung der Schwachstelle weiter, sofern diese nicht bereits öffentlich bekannt ist. 
+Das Bundesamt soll die gemäß Absatz 2 gemeldeten Informationen nutzen, um 
+1. Dritte über bekannt gewordene Schwachstellen, Schadprogramme oder erfolgte 
+oder versuchte Angriffe auf die Sicherheit in der Informationstechnik zu 
+informieren, soweit dies zur Wahrung ihrer Sicherheitsinteressen erforderlich ist,
+2. die Öffentlichkeit oder betroffene Kreise gemäß § 13 zu warnen und zu 
+informieren, 
+3. Einrichtungen der Bundesverwaltung gemäß § 4 Absatz 2 Nummer 2 über die sie 
+betreffenden Informationen zu unterrichten, 
+4. besonders wichtige Einrichtungen und wichtige Einrichtungen gemäß § 40 
+Absatz 3 Nummer 4 Buchstabe a über die sie betreffenden Informationen zu 
+unterrichten, 
+5. seine Aufgaben als zuständige Behörde, CSIRT und zentrale Anlaufstelle im Sinne 
+der NIS-2-Richtlinie wahrzunehmen.“ 
+bb) Nach Absatz 5 wird der folgende Absatz 6 eingefügt: 
+(6) „ Das Bundesamt veröffentlicht am … [einsetzen: Datum des Tages und Monats 
+des Inkrafttretens nach Artikel 30 dieses Gesetzes sowie die Jahreszahl des auf das 
+Inkrafttreten folgenden Jahres] eine Verfahrensbeschreibung zur Durchführung der 
+Absätze 1 bis 3.“ 
+e) § 15 wird wie folgt geändert: 
+aa) Absatz 1 wird durch den folgenden Absatz 1 ersetzt: 
+(1) „ Das Bundesamt kann im Rahmen seiner Aufgabe nach § 3 Absatz 1 Satz 2 
+Nummer 1 zur Detektion von bekannten Schwachstellen und anderen 
+Sicherheitsrisiken Abfragen an den Schnittstellen öffentlich erreichbarer 
+informationstechnischer Systeme zu öffentlichen Telekommunikationsnetzen 
+durchführen, 
+1. um festzustellen, ob diese Schnittstellen unzureichend geschützt und dadurch in 
+ihrer Sicherheit oder Funktionsfähigkeit gefährdet sein können, oder  
+2. wenn die Einrichtungen der Bundesverwaltung, der besonders wichtigen oder der 
+wichtigen Einrichtungen darum ersuchen. 
+Erlangt das Bundesamt dabei Informationen, die durch Artikel 10 des Grundgesetzes 
+geschützt sind, darf es diese nur zum Zwecke der Übermittlung nach § 8 Absatz 6 
+und 7 verarbeiten. Sofern die Voraussetzungen des § 8 Absatz 6 und 7 nicht vorliegen, 
+sind Informationen, die durch Artikel 10 des Grundgesetzes geschützt sind, 
+unverzüglich zu löschen.“ 
+bb) Absatz 2 wird durch den folgenden Absatz 2 ersetzt: 
+(2) „ Wird durch Abfragen gemäß Absatz 1 Satz 1 eine Schwachstelle oder ein 
+anderes Sicherheitsrisiko eines informationstechnischen Systems erkannt, informiert 
+das Bundesamt als allgemeine Meldestelle für die Sicherheit in der 
+Informationstechnik nach § 5 darüber unverzüglich die für das 
+informationstechnische System Verantwortlichen. Gehört das informationstechnische 
+System zu einer Einrichtung der Bundesverwaltung, sind zugleich die 
+Informationssicherheitsbeauftragten der betroffenen Einrichtung der 
+Bundesverwaltung nach § 45 und des übergeordneten Ressorts nach § 46 zu
+informieren. Das Bundesamt soll dabei auf bestehende Möglichkeiten zur Abhilfe des 
+Sicherheitsrisikos hinweisen. Sind dem Bundesamt die Verantwortlichen nicht 
+bekannt oder ist ihre Identifikation nur mit unverhältnismäßigem Aufwand oder über 
+eine Bestandsdatenabfrage nach § 12 möglich, so ist hilfsweise der betreibende 
+Dienstleister des jeweiligen Netzes oder Systems unverzüglich zu benachrichtigen, 
+wenn überwiegende Sicherheitsinteressen nicht entgegenstehen.“ 
+f) § 16 wird durch den folgenden § 16 ersetzt:  
+„§ 16 
+Anordnungen von Maßnahmen des Bundesamtes gegenüber Anbietern von 
+Telekommunikationsdiensten 
+(1) Zur Abwehr erheblicher Gefahren für die in Absatz 3 genannten Schutzgüter kann 
+das Bundesamt anordnen, dass ein Anbieter von öffentlich zugänglichen 
+Telekommunikationsdiensten im Sinne des Telekommunikationsgesetzes  
+1. die in § 169 Absatz 6 und 7 des Telekommunikationsgesetzes bezeichneten 
+Maßnahmen trifft oder 
+2. technische Befehle zur Bereinigung von einem konkret benannten Schadprogramm an 
+betroffene informationstechnische Systeme verteilt, 
+sofern und soweit der Anbieter von öffentlich zugänglichen Telekommunikationsdiensten 
+dazu technisch in der Lage und es ihm wirtschaftlich zumutbar ist. Vor der Anordnung 
+der Maßnahmen nach Satz 1 Nummer 1 oder 2 durch das Bundesamt ist die 
+Bundesnetzagentur ins Benehmen zu setzen. Vor der Anordnung der Maßnahme nach 
+Satz 1 Nummer 2 durch das Bundesamt ist zusätzlich Einvernehmen mit der oder dem 
+Bundesbeauftragten für den Datenschutz und die Informationsfreiheit herzustellen. Die 
+Daten, auf die mit der Maßnahme nach Satz 1 Nummer 2 zugegriffen werden soll, sind in 
+der Anordnung zu benennen. § 8 Absatz 8 Satz 2 bis 8 gilt entsprechend. Widerspruch 
+und Anfechtungsklage gegen die Anordnungen nach Satz 1 haben keine aufschiebende 
+Wirkung. 
+(2) Zur Abwehr erheblicher Gefahren für die in Absatz 3 genannten Schutzgüter kann 
+das Bundesamt technische Befehle zur Bereinigung von einem konkret benannten 
+Schadprogramm an betroffene informationstechnische Systeme verteilen. Absatz 1 Satz 2 
+und 3 gilt entsprechend. Der betroffene Diensteanbieter ist verpflichtet, das Bundesamt bei 
+der Umsetzung nach Satz 1 zu unterstützen und insbesondere alle notwendigen Auskünfte 
+zu erteilen, die zur Erstellung und Verteilung des Befehls notwendig sind. 
+(3) Schutzgüter gemäß Absatz 1 Satz 1 sind die Verfügbarkeit, Integrität oder 
+Vertraulichkeit 
+1. der Kommunikationstechnik des Bundes, einer besonders wichtigen Einrichtung oder 
+einer wichtigen Einrichtung, 
+2. von Informations- oder Kommunikationsdiensten oder
+3. von Informationen, sofern deren Verfügbarkeit, Unversehrtheit oder Vertraulichkeit 
+durch unerlaubte Zugriffe auf eine erhebliche Anzahl von telekommunikations- oder 
+informationstechnischen Systemen von Nutzern eingeschränkt wird. 
+(4) Ordnet das Bundesamt eine Maßnahme nach Absatz 1 Satz 1 Nummer 1 an, so 
+kann es gegenüber dem Anbieter von öffentlich zugänglichen 
+Telekommunikationsdiensten auch anordnen, den Datenverkehr an eine vom Bundesamt 
+benannte Anschlusskennung umzuleiten. 
+(5) Das Bundesamt darf Daten, die von einem Anbieter von öffentlich zugänglichen 
+Telekommunikationsdiensten nach Absatz 1 Satz 1 Nummer 1 und Absatz 4 umgeleitet 
+wurden, verarbeiten, um Informationen über Schadprogramme oder andere 
+Sicherheitsrisiken in informationstechnischen Systemen zu erlangen. Die übermittelten 
+Daten dürfen durch das Bundesamt so lange gespeichert werden, wie dies für die 
+Erfüllung des in Satz 1 genannten Zwecks erforderlich ist, längstens jedoch für drei 
+Monate. § 8 Absatz 8 Satz 2 bis 8 gilt entsprechend. Das Bundesamt unterrichtet die 
+Bundesbeauftragte oder den Bundesbeauftragten für den Datenschutz und die 
+Informationsfreiheit jeweils bis zum 30. Juni des Folgejahres über die Gesamtzahl der 
+angeordneten Datenumleitungen.“ 
+g) In § 28 Absatz 5 Satz 4 wird die Angabe „vernachlässigbar ist“ durch die Angabe „eine 
+Nebentätigkeit darstellt“ ersetzt. 
+h) § 29 Absatz 2 Satz 2 wird gestrichen. 
+i) § 33 wird wie folgt geändert: 
+aa) Absatz 2 wird durch den folgenden Absatz 2 ersetzt: 
+(2) „ Betreiber kritischer Anlagen übermitteln mit den Angaben nach Absatz 1 die 
+kritische Dienstleistung, die bei ihnen zum Einsatz kommenden Typen von kritischen 
+Komponenten, die öffentlichen IP-Adressbereiche der von ihnen betriebenen Anlagen 
+sowie die für die von ihnen betriebenen kritischen Anlagen ermittelte 
+Anlagenkategorie und die ermittelten Versorgungskennzahlen gemäß der 
+Rechtsverordnung nach § 56 Absatz 4 sowie den Standort der Anlagen und eine 
+Kontaktstelle. Die Betreiber stellen sicher, dass sie über ihre in Satz 1 genannte 
+Kontaktstelle jederzeit erreichbar sind.“ 
+bb) Absatz 5 wird durch den folgenden Absatz 5 ersetzt: 
+(5) „ Bei Änderungen der nach Absatz 1 oder 2 zu übermittelnden Angaben sind 
+dem Bundesamt geänderte Versorgungskennzahlen sowie Änderungen der bei 
+Betreibern kritischer Anlagen zum Einsatz kommenden Typen von kritischen 
+Komponenten einmal jährlich zu übermitteln und alle anderen Angaben unverzüglich, 
+spätestens jedoch zwei Wochen ab dem Zeitpunkt, zu dem die Einrichtung Kenntnis 
+von der Änderung erhalten hat, zu übermitteln.“
+j) § 41 wird durch den folgenden § 41 ersetzt: 
+„§ 41 
+Untersagung des Einsatzes von kritischen Komponenten 
+(1) Das Bundesministerium des Innern kann gegenüber dem Betreiber kritischer 
+Anlagen den Einsatz von kritischen Komponenten eines Herstellers im Benehmen mit 
+dem Bundesministerium für Wirtschaft und Energie im Sektor Energie, dem 
+Bundesministerium für Wirtschaft und Energie sowie dem Bundesministerium für 
+Forschung, Technologie und Raumfahrt im Sektor Weltraum, dem Bundesministerium für 
+Digitales und Staatsmodernisierung in den Sektoren Informationstechnik und 
+Telekommunikation, dem Bundesministerium für Verkehr in den Sektoren Transport und 
+Verkehr, dem Bundesministerium für Gesundheit im Sektor Gesundheit, dem 
+Bundesministerium für Ernährung und Landwirtschaft im Sektor Ernährung, dem 
+Bundesministerium der Finanzen im Sektor Finanzwesen, dem Bundesministerium für 
+Arbeit und Soziales in den Sektoren Sozialversicherungsträger sowie Grundsicherung für 
+Arbeitsuchende und dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und 
+nukleare Sicherheit in den Sektoren Wasser sowie Siedlungsabfallentsorgung sowie dem 
+Auswärtigen Amt untersagen oder Anordnungen dazu erlassen, wenn der Einsatz die 
+öffentliche Ordnung oder Sicherheit der Bundesrepublik Deutschland voraussichtlich 
+beeinträchtigt. 
+(2) Hat das Bundesministerium des Innern einem Betreiber kritischer Anlagen den 
+Einsatz einer kritischen Komponente untersagt oder eine Anordnung dazu erlassen, kann 
+es im Benehmen mit dem in Absatz 1 genannten Bundesministerium 
+1. dem Betreiber kritischer Anlagen auch den zukünftigen Einsatz weiterer kritischer 
+Komponenten desselben Herstellers und desselben Komponententyps untersagen oder 
+Anordnungen dazu erlassen, 
+2. allen Betreibern kritischer Anlagen den Einsatz derselben kritischen Komponente 
+desselben Herstellers sowie von weiteren kritischen Komponenten desselben 
+Komponententyps desselben Herstellers untersagen oder Anordnungen dazu erlassen.  
+Die Entscheidung nach Satz 1 Nummer 2 ergeht als Allgemeinverfügung. 
+(3) Widerspruch und Klage gegen eine Untersagung oder Anordnung nach den 
+Absätzen 1 und 2 Satz 1 haben keine aufschiebende Wirkung. 
+(4) Bei der Prüfung einer voraussichtlichen Beeinträchtigung der öffentlichen 
+Ordnung oder Sicherheit nach Absatz 1 kann insbesondere berücksichtigt werden, ob  
+1. der Hersteller unmittelbar oder mittelbar von der Regierung, einschließlich sonstiger 
+staatlicher Stellen oder Streitkräfte, eines Drittstaates kontrolliert wird oder zur 
+Zusammenarbeit mit staatlichen Stellen oder Streitkräften eines Drittstaates 
+verpflichtet ist oder von dem Drittstaat hierzu verpflichtet werden kann,
+2. der Hersteller an Aktivitäten beteiligt war oder ist, die geeignet waren oder sind, 
+nachteilige Auswirkungen auf die öffentliche Ordnung oder Sicherheit der 
+Bundesrepublik Deutschland oder eines anderen Mitgliedstaates der Europäischen 
+Union, der Europäischen Freihandelsassoziation oder des Nordatlantikvertrages oder 
+auf deren Einrichtungen zu haben, 
+3. hinreichende Anhaltspunkte dafür bestehen, dass der Hersteller aus sonstigen 
+Gründen nicht vertrauenswürdig ist, 
+4. der Einsatz der kritischen Komponente im Einklang mit den sicherheitspolitischen 
+Interessen der Bundesrepublik Deutschland, der Europäischen Union oder des 
+Nordatlantikvertrages steht. 
+(5) Der Betreiber kritischer Anlagen ist zur Mitwirkung bei der Ermittlung des 
+Sachverhalts verpflichtet. Dafür hat er auf Verlangen alle für das Verfahren erheblichen 
+Tatsachen vollständig und wahrheitsgemäß mitzuteilen und die ihm bekannten 
+Beweismittel anzugeben.“ 
+k) In § 43 Absatz 1 Satz 2 wird die Angabe „Absatz 1“ durch die Angabe „Satz 1“ ersetzt. 
+l) § 44 wird durch den folgenden § 44 ersetzt: 
+„§ 44 
+Vorgaben des Bundesamtes 
+(1) Die Einrichtungen der Bundesverwaltung müssen Mindestanforderungen zum 
+Schutz der in der Bundesverwaltung verarbeiteten Informationen erfüllen. Die 
+Mindestanforderungen ergeben sich aus den BSI-Standards und dem 
+Grundschutzkompendium (IT-Grundschutz) sowie aus den Mindeststandards für die 
+Sicherheit in der Informationstechnik des Bundes (Mindeststandards) in den jeweils 
+geltenden Fassungen. Die jeweils geltenden Fassungen werden auf der Internetseite des 
+Bundesamtes veröffentlicht. Die Mindeststandards legt das Bundesamt im Benehmen mit 
+den Ressorts und weiteren obersten Bundesbehörden fest. Der IT-Grundschutz und die 
+Mindeststandards werden durch das Bundesamt regelmäßig evaluiert und entsprechend 
+dem Stand der Technik sowie unter Berücksichtigung der Erfahrungen aus der Praxis und 
+aus der Beratung und Unterstützung nach Absatz 3 fortentwickelt; dabei wird der 
+Umsetzungsaufwand soweit möglich minimiert. Das Bundesamt wird den IT-Grundschutz 
+bis zum 1. Januar 2026 modernisieren und fortentwickeln. Für die Verpflichtung nach 
+Satz 1 gelten die Ausnahmen nach § 7 Absatz 6 und 7 entsprechend. 
+(2) Durch die Umsetzung der Mindestanforderungen nach Absatz 1 Satz 1 ist die 
+Erfüllung der Vorgaben nach § 30 gewährleistet, soweit nicht die Europäische 
+Kommission einen Durchführungsrechtsakt gemäß Artikel 21 Absatz 5 Unterabsatz 2 der 
+NIS-2-Richtlinie erlässt, in dem die technischen und methodischen Anforderungen über 
+die Mindestanforderungen aus Absatz 1 Satz 1 hinausgehen. Falls eine Einrichtung des 
+Bundes gleichzeitig ein Betreiber kritischer Anlagen ist und die Anforderungen des IT-
+Grundschutzes und der Mindeststandards den Anforderungen nach § 30 Absatz 9 und 
+§ 31 widersprechen, genießen Letztere Vorrang. 
+(3) Das Bundesamt berät die Einrichtungen der Bundesverwaltung auf Ersuchen bei 
+der Umsetzung und Einhaltung der Mindestanforderungen nach Absatz 1 Satz 1, stellt 
+Hilfsmittel zur Verfügung und unterstützt die Bereitstellung entsprechender Lösungen 
+durch die IT-Dienstleister des Bundes über den gesamten Lebenszyklus. 
+(4) Das Bundesamt stellt im Rahmen seiner Aufgaben nach § 3 Absatz 1 Satz 2 
+Nummer 10 technische Richtlinien und Referenzarchitekturen bereit, die von den 
+Einrichtungen der Bundesverwaltung als Rahmen für die Entwicklung sachgerechter 
+Anforderungen an Auftragnehmer – im Sinne einer Eignung – und IT-Produkte – im Sinne 
+einer Spezifikation – für die Durchführung von Vergabeverfahren berücksichtigt werden. 
+Die Vorschriften des Vergaberechts und des Geheimschutzes bleiben unberührt. 
+(5) Für die Einrichtungen der Bundesverwaltung kann das Bundesministerium des 
+Innern im Einvernehmen mit den anderen Ressorts festlegen, dass sie verpflichtet sind, 
+nach § 19 bereitgestellte IT-Sicherheitsprodukte beim Bundesamt abzurufen. 
+Eigenbeschaffungen der Einrichtungen der Bundesverwaltung sind in diesem Fall nur 
+zulässig, wenn das spezifische Anforderungsprofil den Einsatz abweichender Produkte 
+erfordert. Dies gilt nicht für die in § 2 Nummer 21 genannten Gerichte und 
+Verfassungsorgane sowie die Auslandsinformations- und -kommunikationstechnik 
+gemäß § 7 Absatz 6.“ 
+m) § 48 wird durch den folgenden § 48 ersetzt: 
+„§ 48 
+Amt des Koordinators für Informationssicherheit 
+(1) Die Leitung des Bundesamtes für Sicherheit in der Informationstechnik nimmt die 
+Aufgaben der Koordinatorin oder des Koordinators der Bundesregierung für 
+Informationssicherheit wahr. Die Fachaufsicht über das Bundesamt in Bezug auf seine 
+Rolle als Koordinatorin oder Koordinator für Informationssicherheit liegt beim 
+Bundesministerium für Digitales und Staatsmodernisierung. 
+(2) Die Koordinatorin oder der Koordinator koordiniert das operative 
+Informationssicherheitsmanagement des Bundes. Im Benehmen mit den obersten 
+Bundesbehörden entwickelt sie oder er Programme zur Gewährleistung der 
+Informationssicherheit des Bundes und schreibt diese fort. 
+(3) Auf Basis der durch das Bundesamt erhaltenen Informationen wahrt die 
+Koordinatorin oder der Koordinator den Überblick über den Stand der 
+Informationssicherheit in der Bundesverwaltung. Auf dieser Grundlage beaufsichtigt sie 
+oder er die Umsetzung der Programme zur Gewährleistung der Informationssicherheit des 
+Bundes.
+(4) Die Koordinatorin oder der Koordinator unterstützt die Ressorts bei der 
+Umsetzung der Vorgaben nach diesem Gesetz und wirkt gemeinsam mit dem 
+Bundesministerium für Digitales und Staatsmodernisierung im Benehmen mit dem 
+Bundesministerium des Innern auf ein angemessenes Verhältnis zwischen dem Einsatz 
+von Informationstechnik und Informationssicherheit hin. 
+(5) Zur Wahrnehmung ihrer oder seiner Aufgaben hat die Koordinatorin oder der 
+Koordinator ein direktes halbjährliches Vortragsrecht vor den zuständigen Ausschüssen 
+des Deutschen Bundestages zu den in den Absätzen 1 bis 3 benannten Themen. 
+(6) Die Koordinatorin oder der Koordinator wird bei allen Gesetzes-, Verordnungs- 
+und sonstigen wichtigen Vorhaben beteiligt, soweit sie Fragen der Informationssicherheit 
+berühren.“ 
+n) § 56 wird wie folgt geändert: 
+aa) Nach Absatz 6 werden die folgenden Absätze 7 und 8 eingefügt: 
+(7) „ Das Bundesministerium des Innern kann durch Rechtsverordnungen, die 
+nicht der Zustimmung des Bundesrates bedürfen, für jeweils einen der in § 2 Nummer 
+24 aufgeführten Sektoren im Einvernehmen mit dem in § 41 Absatz 1 für den 
+jeweiligen Sektor genannten Bundesministerium kritische Komponenten im Sinne des 
+§ 2 Nummer 23 bestimmen. In der Rechtsverordnung kann eine Komponente als 
+kritische Komponente bestimmt werden, wenn 
+1. es sich bei der Komponente um ein IKT-Produkt handelt, 
+2. die Komponente in kritischen Anlagen eingesetzt wird, 
+3. die Komponente eine kritische Funktion realisiert und 
+4. eine Störung der Verfügbarkeit, Integrität, Authentizität oder Vertraulichkeit der 
+Komponente zu einer Beeinträchtigung der Funktionsfähigkeit kritischer Anlagen 
+oder zu anderen Beeinträchtigungen der öffentlichen Ordnung oder Sicherheit 
+führen könnte. 
+(8)  Die in § 41 Absatz 1 genannten Bundesministerien können dem 
+Bundesministerium des Innern einen Vorschlag für den Erlass einer Rechtsverordnung 
+im Sinne des Absatzes 7 vorlegen. Das Vorschlagsrecht betrifft nur den Sektor im 
+Sinne des § 2 Nummer 24, für den das jeweilige Bundesministerium in § 41 Absatz 1 
+genannt wird.“ 
+o) § 58 wird wie folgt geändert: 
+aa) In Absatz 4 wird die Angabe „erstmals zum 18. Januar 2025 und in der Folge alle drei 
+Monate“ durch die Angabe „jeweils zum 18. Januar, 18. April, 18. Juli und zum 
+18. Oktober eines jeden Jahres“ ersetzt.  
+bb) In Absatz 5 wird die Angabe „erstmals“ gestrichen und wird die Angabe „2025“ durch 
+die Angabe „2027“ ersetzt.
+p) § 65 wird durch den folgenden § 65 ersetzt: 
+„§ 65 
+Bußgeldvorschriften 
+(1) Ordnungswidrig handelt, wer entgegen § 39 Absatz 1 Satz 1 in Verbindung mit 
+einer Rechtsverordnung nach § 56 Absatz 4 Satz 1 einen Nachweis nicht richtig oder nicht 
+vollständig erbringt. 
+(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig 
+1. einer vollziehbaren Anordnung nach 
+a) § 11 Absatz 6, § 16 Absatz 1 Satz 1 Nummer 1, auch in Verbindung mit Absatz 3, 
+Nummer 2, § 17 Satz 1 oder § 39 Absatz 1 Satz 5,  
+b) § 14 Absatz 2 Satz 1, 
+c) den §§ 18, 40 Absatz 5 Satz 1 oder nach § 61 Absatz 3 Satz 1 oder Absatz 6 Satz 1 
+oder 3 oder Absatz 7 Satz 1 oder 3 oder Absatz 8, jeweils auch in Verbindung mit 
+§ 62, oder 
+d) § 35 Absatz 1 Satz 1 oder § 36 Absatz 2 Satz 1 
+zuwiderhandelt, 
+2. entgegen § 30 Absatz 1 Satz 1 eine dort genannte Maßnahme nicht, nicht richtig, nicht 
+vollständig oder nicht rechtzeitig ergreift, 
+3. entgegen § 30 Absatz 1 Satz 3 die Einhaltung der Verpflichtung nicht, nicht richtig 
+oder nicht vollständig dokumentiert, 
+4. entgegen § 32 Absatz 1 Satz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder 
+nicht rechtzeitig macht, 
+5. entgegen § 32 Absatz 2 Satz 2 eine Abschlussmeldung nicht, nicht richtig, nicht 
+vollständig oder nicht rechtzeitig vorlegt, 
+6. entgegen § 33 Absatz 1 oder 2 Satz 1, jeweils auch in Verbindung mit einer 
+Rechtsverordnung nach § 56 Absatz 4 Satz 1, oder entgegen § 34 Absatz 1 eine Angabe 
+nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt, 
+7. entgegen § 33 Absatz 2 Satz 2 nicht sicherstellt, dass er erreichbar ist, 
+8. entgegen § 34 Absatz 2 das Bundesamt nicht, nicht richtig, nicht vollständig oder 
+nicht rechtzeitig unterrichtet, 
+9. entgegen § 35 Absatz 2 Satz 1, auch in Verbindung mit Satz 2, eine Mitteilung nicht, 
+nicht richtig, nicht vollständig oder nicht rechtzeitig macht, 
+10. entgegen § 39 Absatz 1 Satz 1 in Verbindung mit einer Rechtsverordnung nach § 56 
+Absatz 4 Satz 1 einen Nachweis nicht oder nicht rechtzeitig erbringt,
+11. entgegen § 41 Absatz 5 Satz 2 eine Mitteilung oder Angabe nicht, nicht richtig, nicht 
+vollständig, oder nicht rechtzeitig macht, 
+12. entgegen § 49 Absatz 3 Satz 1 eine dort genannte Vorgabe oder ein dort genanntes 
+Verfahren nicht vorhält, 
+13. entgegen § 49 Absatz 3 Satz 2 oder Absatz 4 eine dort genannte Vorgabe, ein dort 
+genanntes Verfahren oder Daten nicht, nicht in der vorgeschriebenen Weise oder nicht 
+rechtzeitig zugänglich macht, 
+14. entgegen § 50 Absatz 1 Satz 1 einen Zugang nicht oder nicht rechtzeitig gewährt, 
+15. entgegen § 52 Absatz 2 Satz 4, § 53 Absatz 1 Satz 4, § 54 Absatz 6 Satz 2 oder § 55 
+Absatz 4 Satz 1 ein dort genanntes Zertifikat, eine dort genannte Erklärung oder ein 
+dort genanntes Kennzeichen verwendet, 
+16. entgegen § 53 Absatz 3 Satz 2 oder § 54 Absatz 2 Satz 2 tätig wird oder 
+17. entgegen § 61 Absatz 5 Satz 3 das Betreten eines dort genannten Raums nicht gestattet, 
+eine dort genannte Aufzeichnung, ein dort genanntes Schriftstück oder eine dort 
+genannte Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt 
+oder eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt. 
+(3) Ordnungswidrig handelt, wer eine in Absatz 1 bezeichnete Handlung fahrlässig 
+begeht. 
+(4) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2019/881 in der Fassung 
+vom 19. Dezember 2024 verstößt, indem er vorsätzlich oder fahrlässig 
+1. entgegen Artikel 55 Absatz 1 eine dort genannte Angabe nicht, nicht richtig, nicht 
+vollständig oder nicht binnen eines Monats nach Ausstellung zugänglich macht oder 
+2. entgegen Artikel 56 Absatz 8 Satz 1 eine Information nicht, nicht richtig, nicht 
+vollständig oder nicht unverzüglich nach Feststellung einer Sicherheitslücke oder 
+Unregelmäßigkeit gibt. 
+(5) Die Ordnungswidrigkeit kann geahndet werden: 
+1. in den Fällen des Absatzes 2 Nummer 1 Buchstabe d, Nummer 2 bis 5 und 9, 
+a) bei besonders wichtigen Einrichtungen nach § 28 Absatz 1 Satz 1 mit einer 
+Geldbuße bis zu zehn Millionen Euro, 
+b) bei wichtigen Einrichtungen im Sinne des § 28 Absatz 2 Satz 1 mit einer 
+Geldbuße bis zu sieben Millionen Euro, 
+2. in den Fällen des Absatzes 2 Nummer 11 mit einer Geldbuße bis zu fünf Millionen 
+Euro, 
+3. in den Fällen des Absatzes 2 Nummer 1 Buchstabe a mit einer Geldbuße bis zu zwei 
+Millionen Euro, 
+4. in den Fällen des Absatzes 1 und des Absatzes 2 Nummer 10 mit einer Geldbuße bis 
+zu einer Million Euro,
+5. in den Fällen des Absatzes 2 Nummer 1 Buchstabe c, Nummer 6, 8, 12 bis 16 und des 
+Absatzes 4 mit einer Geldbuße bis zu fünfhunderttausend Euro und  
+6. in den Fällen des Absatzes 2 Nummer 1 Buchstabe b, Nummer 7 und 17 und des 
+Absatzes 3 mit einer Geldbuße bis zu hunderttausend Euro. 
+In den Fällen des Satzes 1 Nummer 3 und 4 ist § 30 Absatz 2 Satz 3 des Gesetzes über 
+Ordnungswidrigkeiten anzuwenden. 
+(6) Gegenüber einer besonders wichtigen Einrichtung im Sinne des § 28 Absatz 1 
+Satz 1 mit einem Gesamtumsatz von mehr als 500 Millionen Euro kann abweichend von 
+Absatz 5 Satz 1 Nummer 1 Buchstabe a, auch in Verbindung mit § 30 Absatz 2 Satz 2 des 
+Gesetzes über Ordnungswidrigkeiten, eine Ordnungswidrigkeit in den Fällen des Absatzes 
+2 Nummer 1 Buchstabe d, Nummer 2 bis 5 und 9 mit einer Geldbuße bis zu 2 Prozent des 
+Gesamtumsatzes geahndet werden.  
+(7) Gegenüber einer wichtigen Einrichtung im Sinne des § 28 Absatz 2 Satz 1 mit 
+einem Gesamtumsatz von mehr als 500 Millionen Euro kann abweichend von Absatz 5 
+Satz 1 Nummer 1 Buchstabe b, auch in Verbindung mit § 30 Absatz 2 Satz 2 des Gesetzes 
+über Ordnungswidrigkeiten, eine Ordnungswidrigkeit in den Fällen des Absatzes 2 
+Nummer 1 Buchstabe d, Nummer 2 bis 5 und 9 mit einer Geldbuße bis zu 1,4 Prozent des 
+Gesamtumsatzes geahndet werden.  
+(8) Gesamtumsatz im Sinne der Absätze 6 und 7 ist die Summe aller Umsatzerlöse, 
+die das Unternehmen, dem die besonders wichtige Einrichtung oder die wichtige 
+Einrichtung angehört, in dem der Behördenentscheidung vorausgegangenen Geschäftsjahr 
+weltweit erzielt hat. Der Gesamtumsatz kann geschätzt werden. 
+(9) § 17 Absatz 2 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des 
+Absatzes 5 Satz 1 Nummer 1 sowie der Absätze 6 und 7 nicht anzuwenden. 
+(10) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über 
+Ordnungswidrigkeiten ist  
+1. in den Fällen des Absatzes 2 Nummer 11 das Bundesministerium des Innern und 
+2. in den Fällen der Absätze 1, 3 und 4 sowie in den Fällen des Absatzes 2, die nicht in 
+Nummer 1 genannt sind, das Bundesamt. 
+(11) Verhängen die in Artikel 55 oder 56 der Verordnung (EU) 2016/679 genannten 
+Aufsichtsbehörden gemäß Artikel 58 Absatz 2 Buchstabe i der Verordnung (EU) 2016/679 
+eine Geldbuße, so darf eine weitere Geldbuße für einen Verstoß nach diesem Gesetz, der 
+sich aus demselben Verhalten ergibt wie jener Verstoß, der Gegenstand der Geldbuße nach 
+Artikel 58 Absatz 2 Buchstabe i der Verordnung (EU) 2016/679 war, nicht verhängt 
+werden.“ 
+2. In Artikel 8 Nummer 8 wird Buchstabe b durch den folgenden Buchstaben b ersetzt: 
+b) ‚ Absatz 1 wird wie folgt geändert: 
+aa) In der Angabe vor Nummer 1 wird die Angabe „Finanz- und Versicherungswesen“ 
+durch die Angabe „Finanzwesen“ und die Angabe „§ 10 Absatz 1 Satz 1 des BSI-
+Gesetzes“ durch die Angabe „§ 56 Absatz 4 in Verbindung mit § 2 Nummer 24 des 
+BSI-Gesetzes“ ersetzt. 
+bb) In Nummer 4 wird die Angabe „Derivatgeschäften;“ durch die Angabe 
+„Derivatgeschäften.“ ersetzt. 
+cc) Nummer 5 wird gestrichen.‘ 
+3. Artikel 17 wird wie folgt geändert: 
+a) Nummer 2 wird wie folgt geändert: 
+aa) Nach § 5c Absatz 6 Satz 2 werden die folgenden Sätze eingefügt:  
+„Die Befugnis der Bundesnetzagentur nach Satz 1 besteht bis zum Erlass einer 
+Rechtsverordnung nach § 56 Absatz 7 des BSI-Gesetzes für den Sektor Energie fort. 
+Eine von der Bundesnetzagentur auf der Grundlage von Satz 1 oder auf der Grundlage 
+von § 11 Absatz 1a Satz 2 des Energiewirtschaftsgesetzes in der am … [einsetzen: 
+Datum des Tages vor dem Inkrafttreten nach Artikel 30 dieses Gesetzes] geltenden 
+Fassung erlassene Allgemeinverfügung ist mit dem Inkrafttreten einer 
+Rechtsverordnung nach § 56 Absatz 7 des BSI-Gesetzes, für Energieversorgungnetze 
+und Energieanlagen aufzuheben.“ 
+b) Nummer 6 Buchstabe b wird durch den folgenden Buchstaben b ersetzt: 
+b) ‚ Absatz 2 wird durch die folgenden Absätze 2 bis 8 ersetzt: 
+(2) „ Die Ordnungswidrigkeit kann geahndet werden: 
+1. in den Fällen des Absatzes 1 Nummer 3b bis 3e 
+a) bei besonders wichtigen Einrichtungen nach § 28 Absatz 1 Satz 1 des BSI-
+Gesetzes mit einer Geldbuße bis zu zehn Millionen Euro und 
+b) bei wichtigen Einrichtungen nach § 28 Absatz 2 Satz 1 des BSI-Gesetzes mit 
+einer Geldbuße bis zu sieben Millionen Euro, 
+2. in den Fällen des Absatzes 1 Nummer 3i bis 3l mit einer Geldbuße bis zu fünf 
+Millionen Euro, 
+3. in den Fällen des Absatzes 1 Nummer 1a, 1d, 3 Buchstabe b, Nummer 4 und 5 
+Buchstabe b, der Absätze 1b und 1c Nummer 2 und 6 mit einer Geldbuße bis zu 
+einer Millionen Euro, 
+4. in den Fällen des Absatzes 1 Nummer 5 Buchstabe f mit einer Geldbuße bis zu 
+dreihunderttausend Euro, 
+5. in den Fällen des Absatzes 1 Nummer 1, 1b, 1c, 2a, 2b, 3 Buchstabe a, Nummer 
+3a, 3f bis 3h, 4a bis 4c und 5 Buchstabe c und d, des Absatzes 1a Nummer 1, des 
+Absatzes 1c Nummer 1, 3 bis 5 und 9 und der Absätze 1d und 1e mit einer 
+Geldbuße bis zu hunderttausend Euro, 
+6. in den Fällen des Absatzes 1 Nummer 2 und 5 Buchstabe e mit einer Geldbuße 
+bis zu fünfzigtausend Euro und
+7. in den Fällen des Absatzes 1 Nummer 5 Buchstabe a, des Absatzes 1a Nummer 2 
+und des Absatzes 1c Nummer 7 und 8 mit einer Geldbuße bis zu zehntausend 
+Euro. 
+(3) Gegenüber einer besonders wichtigen Einrichtung im Sinne des § 28 
+Absatz 1 Satz 1 des BSI-Gesetzes mit einem Gesamtumsatz von mehr als 500 
+Millionen Euro kann abweichend von Absatz 2 Nummer 1 Buchstabe a, auch in 
+Verbindung mit § 30 Absatz 2 Satz 2 des Gesetzes über Ordnungswidrigkeiten, eine 
+Ordnungswidrigkeit in den Fällen des Absatzes 1 Nummer 3b bis 3e mit einer 
+Geldbuße bis zu 2 Prozent des Gesamtumsatzes geahndet werden.  
+(4) Gegenüber einer wichtigen Einrichtung im Sinne des § 28 Absatz 2 Satz 1 
+des BSI-Gesetzes mit einem Gesamtumsatz von mehr als 500 Millionen Euro kann 
+abweichend von Absatz 2 Nummer 1 Buchstabe b, auch in Verbindung mit § 30 
+Absatz 2 Satz 2 des Gesetzes über Ordnungswidrigkeiten, eine Ordnungswidrigkeit in 
+den Fällen des Absatzes 1 Nummer 3b bis 3e mit einer Geldbuße bis zu 1,4 Prozent 
+des Gesamtumsatzes geahndet werden. 
+(5) Gegenüber einem Transportnetzbetreiber oder einem vertikal integrierten 
+Unternehmen mit einem Gesamtumsatz von mehr als zehn Millionen Euro kann 
+abweichend von Absatz 2 Nummer 3, auch in Verbindung mit § 30 Absatz 2 Satz 2 
+des Gesetzes über Ordnungswidrigkeiten, eine Ordnungswidrigkeit in den Fällen des 
+Absatzes 1 Nummer 3 Buchstabe b mit einer Geldbuße von bis zu 10 Prozent des 
+Gesamtumsatzes geahndet werden. 
+(6) Gegenüber einem Transportnetzbetreiber oder einem vertikal integrierten 
+Unternehmen mit einem Gesamtumsatz von mehr als 1 Million Euro kann 
+abweichend von Absatz 2 Nummer 5, auch in Verbindung mit § 30 Absatz 2 Satz 2 
+des Gesetzes über Ordnungswidrigkeiten, eine Ordnungswidrigkeit in den Fällen des 
+Absatzes 1e mit einer Geldbuße von bis zu 10 Prozent des Gesamtumsatzes abzüglich 
+der Umlagen nach § 12 des Energiefinanzierungsgesetzes geahndet werden. 
+(7) Gesamtumsatz im Sinne der Absätze 3 bis 6 ist die Summe aller 
+Umsatzerlöse, die das Unternehmen, dem die besonders wichtige Einrichtung oder 
+die wichtige Einrichtung angehört, der Transportnetzbetreiber oder das vertikal 
+integrierte Unternehmen in dem der Behördenentscheidung vorausgegangenen 
+Geschäftsjahr weltweit erzielt hat. Der Gesamtumsatz kann geschätzt werden. 
+(8) § 17 Absatz 2 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des 
+Absatzes 2 Nummer 1 sowie der Absätze 3 und 4 nicht anzuwenden.“ ‘ 
+4. Artikel 25 Nummer 12 wird durch die folgende Nummer 12 ersetzt: 
+12. ‚ § 167 wird wie folgt geändert: 
+a) Absatz 1 Satz 1 Nummer 2 wird wie folgt geändert: 
+aa) Die Angabe „§ 2 Absatz 13 Satz 1 Nummer 3 Buchstabe b des BSI-Gesetzes“ wird 
+durch die Angabe „§ 2 Nummer 23 Buchstabe c Doppelbuchstabe bb des BSI-
+Gesetzes“ ersetzt.
+bb) Die Angabe „§ 2 Absatz 13 des BSI-Gesetzes“ wird durch die Angabe „§ 2 
+Nummer 23 des BSI-Gesetzes“ ersetzt. 
+b) Nach Absatz 1 wird der folgende Absatz 2 eingefügt: 
+(2) „ Die Befugnis der Bundesnetzagentur nach Absatz 1 Nummer 2 besteht bis 
+zum Erlass einer Rechtsverordnung nach § 56 Absatz 7 des BSI-Gesetzes für den 
+Sektor Informationstechnik und Telekommunikation im Sinne des § 2 Nummer 24 
+fort. Eine von der Bundesnetzagentur auf der Grundlage von Absatz 1 Satz 1 Nummer 
+2 erlassene Allgemeinverfügung ist mit dem Inkrafttreten einer Rechtsverordnung 
+nach § 56 Absatz 7 des BSI-Gesetzes für den Sektor Informationstechnik und 
+Telekommunikation aufzuheben.“ 
+c) Der bisherige Absatz 2 wird zu Absatz 3.‘ 
+ 
+Drucksache 659/25- 15 -
