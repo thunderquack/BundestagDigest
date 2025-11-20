@@ -1,5 +1,32 @@
 [
   {
+    "number": "21/2795",
+    "author": "Fraktion Die Linke",
+    "date": "2025-11-11",
+    "title": "Политически мотивированная преступность - право",
+    "description_ru": "Депутаты интересуются количеством случаев политически мотивированной преступности правого толка в Германии за третий квартал 2025 года и их распределением по федеральным землям. Правительство отвечает, что в июле 2025 года было зарегистрировано 1313 преступлений, из которых 38 были насильственными. В августе количество преступлений возросло до 1446, а в сентябре составило 1171, с соответствующими данными о насильственных преступлениях. Правительство также предоставляет статистику по различным видам преступлений, связанным с политической мотивацией.",
+    "description_de": "Die Abgeordneten fragen nach der Anzahl der politisch motivierten Straftaten rechts im dritten Quartal 2025 in Deutschland und deren Verteilung auf die Bundesländer. Die Bundesregierung antwortet, dass im Juli 2025 insgesamt 1313 Straftaten registriert wurden, darunter 38 Gewalttaten. Im August stieg die Zahl der Straftaten auf 1446, und im September betrug sie 1171, mit entsprechenden Daten zu Gewalttaten. Die Bundesregierung liefert auch Statistiken zu verschiedenen Arten von politisch motivierten Straftaten.",
+    "saved_date": "2025-11-20"
+  },
+  {
+    "number": "21/2807",
+    "author": "Die Linke",
+    "date": "2025-11-11",
+    "title": "Жилищные расходы студентов",
+    "description_ru": "Депутаты интересуются, какова текущая ситуация с жилищными расходами студентов в Германии, особенно в свете роста цен на аренду. Они подчеркивают, что многие студенты вынуждены работать, чтобы покрыть свои расходы на жилье, и запрашивают информацию о количестве студентов, проживающих в общежитиях, а также о развитии цен на жилье с 2015 года. Правительство отвечает, что ситуация с жильем для студентов сильно варьируется в зависимости от региона, и что оно предпринимает меры для увеличения доступного жилья через программы социальной застройки и специальные инициативы для молодежи.",
+    "description_de": "Die Abgeordneten fragen nach der aktuellen Situation der Wohnkosten für Studierende in Deutschland, insbesondere angesichts der steigenden Mietpreise. Sie betonen, dass viele Studierende arbeiten müssen, um ihre Wohnkosten zu decken, und bitten um Informationen über die Anzahl der Studierenden in Wohnheimen sowie über die Entwicklung der Mietpreise seit 2015. Die Bundesregierung antwortet, dass die Wohnsituation für Studierende regional sehr unterschiedlich ist und dass sie Maßnahmen ergreift, um den Wohnungsbau durch soziale Wohnungsbauprogramme und spezielle Initiativen für junge Menschen zu fördern.",
+    "saved_date": "2025-11-20"
+  },
+  {
+    "number": "21/2796",
+    "author": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
+    "date": "2025-11-13",
+    "title": "Планы правительства в области космической отрасли",
+    "description_ru": "Депутаты интересуются планами правительства по развитию космической отрасли, включая интеграцию ответственности за космическую политику в Министерство науки и технологий. Правительство сообщает, что интеграция находится на завершающей стадии, и новая структура будет способствовать дальнейшему развитию космической политики. Также обсуждаются вопросы финансирования и участия в международных проектах, таких как сотрудничество с Францией и участие в конференции ESA в ноябре 2025 года.",
+    "description_de": "Die Abgeordneten fragen nach den Plänen der Bundesregierung zur Entwicklung des Raumfahrtsektors, einschließlich der Integration der Zuständigkeit für Raumfahrt in das Bundesministerium für Forschung, Technologie und Raumfahrt. Die Bundesregierung antwortet, dass die Integration in der finalen Umsetzung ist und die neue Struktur die Weiterentwicklung der Raumfahrtpolitik unterstützen wird. Zudem werden Fragen zur Finanzierung und zur Teilnahme an internationalen Projekten, wie der Zusammenarbeit mit Frankreich und der ESA-Ministerratskonferenz im November 2025, erörtert.",
+    "saved_date": "2025-11-20"
+  },
+  {
     "number": "21/2734",
     "author": "Fraktion der AfD",
     "date": "2025-11-11",
@@ -196,32 +223,5 @@
     "description_ru": "Депутаты интересуются, как аспекты кибербезопасности интегрированы в деятельность Федерального министерства экономического сотрудничества и развития (BMZ) и как развивалась численность кадров в этой области за последние годы. Правительство отвечает, что киберугрозы становятся все более профессиональными и агрессивными, и подчеркивает важность поддержания эффективной архитектуры кибербезопасности. Однако многие вопросы остаются без ответа из-за необходимости защиты государственной тайны.",
     "description_de": "Die Abgeordneten fragen, inwieweit Cybersicherheitsaspekte in den Verantwortungsbereich des BMZ integriert sind und wie sich die personelle Ausstattung in den letzten Jahren entwickelt hat. Die Bundesregierung antwortet, dass Cyberbedrohungen zunehmend professionell und aggressiv werden und die Notwendigkeit einer funktionierenden Cybersicherheitsarchitektur betont. Viele Fragen können jedoch aufgrund der Geheimhaltungsbedürftigkeit nicht beantwortet werden.",
     "saved_date": "2025-11-15"
-  },
-  {
-    "number": "21/2692",
-    "author": "Fraktion der AfD",
-    "date": "2025-11-10",
-    "title": "Кибербезопасность и развитие кадров в области ИТ-безопасности",
-    "description_ru": "Депутаты интересуются состоянием кибербезопасности в Германии и тем, как правительство реагирует на критику со стороны Федерального счетной палаты о недостатках в области ИТ-безопасности. В частности, они спрашивают о количестве центров обработки данных, которые соответствуют минимальным стандартам безопасности, и о том, как правительство планирует улучшить ситуацию. Правительство отвечает, что не может предоставить полную информацию из-за соображений государственной безопасности, однако подчеркивает, что киберугрозы становятся все более серьезными, и необходимо поддерживать высокие стандарты безопасности.",
-    "description_de": "Die Abgeordneten fragen nach dem Stand der Cybersicherheit in Deutschland und wie die Bundesregierung auf die Kritik des Bundesrechnungshofs an den Mängeln in der IT-Sicherheit reagiert. Insbesondere wird nach der Anzahl der Rechenzentren gefragt, die die Mindeststandards für Sicherheit erfüllen, und wie die Regierung plant, die Situation zu verbessern. Die Bundesregierung antwortet, dass sie aufgrund von Staatswohl keine vollständigen Informationen bereitstellen kann, betont jedoch, dass die Cyberbedrohungen zunehmend ernsthafter werden und hohe Sicherheitsstandards aufrechterhalten werden müssen.",
-    "saved_date": "2025-11-15"
-  },
-  {
-    "number": "21/2693",
-    "author": "Fraktion der AfD",
-    "date": "2025-11-10",
-    "title": "Кибербезопасность и развитие кадров в области ИТ-безопасности",
-    "description_ru": "Депутаты задают вопросы о состоянии кибербезопасности в Германии, указывая на критику со стороны Федерального счетной палаты о недостаточной защите ИТ-инфраструктуры. Они интересуются количеством центров обработки данных, которые соответствуют минимальным стандартам безопасности, и о том, как правительство реагирует на кибератаки. Правительство отвечает, что не может предоставить полную информацию из-за соображений государственной безопасности, подчеркивая, что защита ИТ-инфраструктуры является приоритетом для обеспечения функционирования государства.",
-    "description_de": "Die Abgeordneten stellen Fragen zur Cybersicherheitslage in Deutschland und weisen auf die Kritik des Bundesrechnungshofs an der unzureichenden IT-Sicherheit hin. Sie erkundigen sich nach der Anzahl der Rechenzentren, die die Mindeststandards erfüllen, und wie die Regierung auf Cyberangriffe reagiert. Die Bundesregierung antwortet, dass sie aufgrund von Geheimhaltungsinteressen keine vollständigen Informationen bereitstellen kann und betont, dass der Schutz der IT-Infrastruktur oberste Priorität hat, um die Funktionsfähigkeit des Staates zu gewährleisten.",
-    "saved_date": "2025-11-15"
-  },
-  {
-    "number": "21/2647",
-    "author": "AfD",
-    "date": "2025-11-05",
-    "title": "Кибербезопасность и развитие кадров в области ИТ-безопасности",
-    "description_ru": "Депутаты интересуются, как кибербезопасность интегрирована в ответственность Федерального министерства по делам жилья, городского развития и строительства, и как развивалась численность персонала в этой области за последние годы. Правительство отвечает, что киберугрозы становятся все более профессиональными и агрессивными, и что необходимо поддерживать работоспособность кибербезопасной архитектуры. Также подчеркивается, что информация о мерах безопасности должна оставаться конфиденциальной, чтобы не облегчить работу потенциальным злоумышленникам.",
-    "description_de": "Die Abgeordneten fragen, inwieweit Cybersicherheitsaspekte in den Verantwortungsbereich des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen integriert sind und wie sich die personelle Ausstattung in den letzten Jahren entwickelt hat. Die Bundesregierung antwortet, dass Cyberbedrohungen zunehmend professionell und aggressiv werden und dass die Funktionsfähigkeit der Cybersicherheitsarchitektur aufrechterhalten werden muss. Zudem wird betont, dass Informationen über Sicherheitsmaßnahmen vertraulich bleiben müssen, um potenziellen Angreifern keine Vorteile zu verschaffen.",
-    "saved_date": "2025-11-12"
   }
 ]
