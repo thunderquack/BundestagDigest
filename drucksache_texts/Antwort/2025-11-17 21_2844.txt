@@ -1,0 +1,287 @@
+Deutscher Bundestag Drucksache 21/2844
+21. Wahlperiode 17.11.2025
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Tobias Matthias Peterka, Ulrich von 
+Zons, Lukas Rehm, weiterer Abgeordneter und der Fraktion der AfD
+– Drucksache 21/2406 –
+Cybersicherheit und Stellenentwicklung im Bereich IT-Sicherheit im 
+Geschäftsbereich des Bundesministeriums für Wirtschaft und Energie
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Cybersicherheitslage in Deutschland wird von der Bundesregierung und 
+dem Bundesamt für Sicherheit in der Informationstechnik (BSI) regelmäßig 
+als „angespannt bis kritisch“ beschrieben (www.tuev-verband.de/pressemitteil
+ungen/angespannt-bis-kritisch-die-cybersicherheitslage-in-deutschland#:~:tex
+t=Lagebericht%20des%20BSI:%20Cybersicherheit%20in%20Deutschlan
+d%20).
+Auch der Bundesrechnungshof warnt vor eklatanten Sicherheitslücken in den 
+Rechenzentren und Netzen des Bundes (www.spiegel.de/politik/deutschland/c
+ybersicherheit-rechnungshof-warnt-vor-mangelndem-schutz-der-bundes-it-a-6
+baacfe5-2e6b-4e8b-a64b-e10d9cf2585e). Unter anderem bemängelt der
+Bundesrechnungshof, dass weniger als 10 Prozent der mehr als 100
+Bundesrechenzentren die Mindeststandards erfüllen, dass die Notstromversorgung in 
+Krisenlagen vielfach unzureichend ist und dass kritische IT-Dienste oft nicht 
+georedundant verfügbar sind (s. o.). Nach aktuellen Berichten hat die
+Bundesregierung im Bereich IT-Sicherheit Stellen abgebaut (www.security-inside
+r.de/bund-reduziert-it-sicherheitsstellen-a-508f57e078fd32fa7cd1a915db00c
+76e/).
+Für das Bundesministerium für Wirtschaft und Energie (BMWE) ist die
+Cybersicherheit besonders wichtig, um vertrauliche Daten und
+Entscheidungsprozesse wirksam zu schützen. Angriffe auf interne Systeme könnten nicht nur 
+die Arbeitsfähigkeit des Bundesministeriums einschränken, sondern auch
+sensible Informationen über wirtschaftspolitische Strategien gefährden. Da das 
+BMWE in ständigem Austausch mit Unternehmen steht, ist der Schutz von 
+Kommunikationswegen und Daten entscheidend, um Wirtschaftspartnern
+Sicherheit und Verlässlichkeit zu garantieren. Besonders der Energiesektor ist 
+aufgrund seiner systemrelevanten Bedeutung anfällig für Cyberangriffe, deren 
+Folgen weitreichende Auswirkungen auf die Wirtschaft und
+Versorgungssicherheit haben können. Da das BMWE eng mit Energieunternehmen,
+Netzbetreibern und anderen Akteuren des Energiesektors zusammenarbeitet, ist ein 
+geschützter Austausch sensibler Daten unerlässlich.
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Wirtschaft und Energie vom 
+13. November 2025 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Cyberkriminelle und staatliche Akteure professionalisieren ihre Arbeitsweise. 
+Sie sind technisch auf dem neuesten Stand und agieren aggressiv. Deutschland 
+setzt der Bedrohung eine tragfähige Cybersicherheitsarchitektur entgegen. 
+Diese Cybersicherheitsarchitektur muss unbedingt funktionsfähig bleiben.
+Das Bundesamt für Sicherheit in der Informationstechnik (BSI) beobachtet die 
+Sicherheitslage in den fünf Dimensionen Bedrohung, Angriffsfläche,
+Gefährdung, Schadwirkung und Resilienz, wobei die Resilienz den vier anderen
+Dimensionen positiv entgegenwirkt (vgl. www.bsi.bund.de/DE/Service-Navi/Publ
+ikationen/Lagebericht/lagebericht_node.html). In allen Dimensionen hat sich 
+die IT-Sicherheitslage deutlich verschärft: Zum einen führt der russische
+Angriffskrieg auf die Ukraine zu vermehrten Angriffen auf Verbündete der
+Ukraine (u. a. Deutschland) durch russlandfreundliche Cybergruppierungen oder 
+mutmaßlich staatliche Stellen. Dabei müssen auch Sekundäreffekte zur
+Zerstörung von IT-Infrastruktur berücksichtigt werden. Die stetig wachsende
+Komplexität der IT-Landschaft mit zunehmender Vernetzung von Behörden
+untereinander, mit Unternehmen, Bürgern sowie Cloud-Diensten erweitert die
+Wirkungsbreite von Angriffen auf einzelne Institutionen. Gleichzeitig erwartet die
+Bevölkerung zu Recht einen auch mit IT funktionierenden Rechtsstaat und einen 
+Fortschritt der Digitalisierung der öffentlichen Verwaltung.
+Mit der Expertise des BSI, der Strafverfolgungsbehörden und den
+Verantwortlichen für Informationssicherheit in der Bundesverwaltung wird der oben
+dargestellten Gefährdungslage effektiv entgegengewirkt.
+Die Bundesregierung beantwortet die im Rahmen des parlamentarischen
+Fragerechts angefragten Sachverhalte gegenüber dem Deutschen Bundestag
+grundsätzlich öffentlich, transparent und vollständig, um dem verfassungsrechtlich 
+verbrieften Aufklärungs- und Informationsanspruch des Deutschen
+Bundestages zu entsprechen. Soweit erfragte Informationen Umstände betreffen, die 
+aus Gründen des Staatswohls geheimhaltungsbedürftig sind, hat die
+Bundesregierung zu prüfen, ob und auf welche Weise die Geheimhaltungsbedürftigkeit 
+mit dem parlamentarischen Informationsanspruch in Einklang gebracht werden 
+kann, und gegebenenfalls alternative Formen der Informationsvermittlung zu 
+suchen, die das Informationsinteresse des Parlaments unter Wahrung der
+berechtigen Geheimhaltungsinteressen der Regierung befriedigen (BVerfGE 124, 
+161,193).
+Nach sorgfältiger Abwägung ist die Bundesregierung zu der Auffassung
+gelangt, dass die Beantwortung der Kleinen Anfrage nicht durchgängig
+vollständig erfolgen kann. Die Fragen 1, 3, 4, 5, 11, 13, 14, 15 und 16 können nach 
+sorgfältiger Prüfung und Abwägung auch in eingestufter Form nicht oder nur 
+teilweise beantwortet werden.
+Die IT-Infrastruktur der Bundesregierung ist jeden Tag Angriffen ausgesetzt. 
+Zur Aufrechterhaltung der Staats- und Regierungsfunktion ist diese
+Infrastruktur angemessen zu schützen. Durch die Veröffentlichung sensibler
+Informationen wäre die in langjährigen Prozessen erarbeitete Resilienz der
+Informationstechnik des Bundes erheblich gefährdet.
+Informationen zu Anzahl, Ort und Ausstattung von Rechenzentren des
+Bundesministeriums für Wirtschaft und Energie (BMWE), Ergebnissen technischer
+Sicherheitsüberprüfungen, Anzahl registrierter Sicherheitsvorfälle oder
+Cyberangriffe, ergriffener und in Planung befindlicher technischer und
+organisatorischer Maßnahmen gegen Cyberangriffe, der Anzahl von Stellen in der IT-
+Sicherheit und deren Entwicklung beziehen sich unmittelbar auf die Fähigkeiten 
+der Abwehr von Cybergefährdungen der Bundesbehörden. Ein Bekanntwerden 
+der detaillierten Information würde das Staatswohl gefährden, denn damit
+würde es etwaigen Angreifern ermöglicht, konkrete Hinweise zu den im BMWE 
+eingesetzten Schutzmaßnahmen zu erhalten. Unter Kenntnis der durch das 
+BMWE eingesetzten Produkte könnten Angreifer Angriffspunkte ausmachen 
+und diese gezielt ausnutzen. Das hätte aufgrund der Vernetzung des BMWE mit 
+anderen Behörden auch potentiell erhebliche Auswirkungen auf die
+Informationssicherheit der Bundesverwaltung und könnte unmittelbar die
+Handlungsfähigkeit der Bundesverwaltung gefährden.
+Die Geheimhaltungsbedürftigkeit der Informationen ist sorgfältig abgewogen 
+worden. Eine VS-Einstufung und Hinterlegung der angefragten Informationen 
+in der Geheimschutzstelle des Deutschen Bundestages würde ihrer erheblichen 
+Brisanz im Hinblick auf die Aufgabenerfüllung des BMWE nicht ausreichend 
+Rechnung tragen, weil insoweit auch ein geringfügiges Risiko des
+Bekanntwerdens unter keinen Umständen hingenommen werden kann (vgl. BVerfGE 124, 
+78 [139]). Schon die Angabe, wie das BMWE den Cybergefahren begegnet, 
+welche Angriffe es erkannt hat, wie viele Personen welche IT-
+Sicherheitsaufgaben ausführen, könnte zu einer Analyse der Verwundbarkeiten und Änderung 
+des Angriffsverhaltens führen, die eine weitere Abwehr der Cybergefahren
+vereiteln könnte. Würden potentielle Angreifer detaillierte Kenntnis über
+vorgenannte Informationen erhalten, wäre ein Angriff auf das BMWE deutlich
+einfacher zu gestalten und mit höherer Erfolgsaussicht verbunden.
+Aus dem Vorgesagten ergibt sich, dass die erbetenen Informationen derart 
+schutzbedürftige Geheimhaltungsinteressen berühren, dass das Staatswohl
+gegenüber dem parlamentarischen Informationsrecht überwiegt. Insofern muss 
+ausnahmsweise das Fragerecht der Abgeordneten gegenüber der Pflicht zur 
+Aufrechterhaltung der Staats- und Regierungsfunktion der Bundesrepublik 
+Deutschland zurückstehen.
+ 1. Über wie viele Rechenzentren verfügt das BMWE aktuell, und wie viele 
+davon erfüllen nachweislich die geltenden Mindeststandards für IT-
+Sicherheit?
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen, nach der die 
+Beantwortung der Frage nicht erfolgen kann, weil die erbetenen Informationen 
+derart schutzbedürftige Geheimhaltungsinteressen berühren, dass das
+Staatswohl gegenüber dem parlamentarischen Informationsrecht überwiegt.
+ 2. Welche dieser Rechenzentren (vgl. Frage 1) verfügen über eine
+funktionsfähige Notstromversorgung, die auch längerfristige (über mehrere 
+Stunden oder Tage) Krisenlagen abdecken kann?
+Alle Rechenzentren verfügen über eine funktionsfähige Notstromversorgung.
+ 3. An welchen Standorten des BMWE sind kritische IT-Dienste
+georedundant verfügbar, und wie wird die Ausfallsicherheit regelmäßig überprüft?
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen, nach der die 
+Beantwortung der Frage nicht erfolgen kann, weil die erbetenen Informationen 
+derart schutzbedürftige Geheimhaltungsinteressen berühren, dass das
+Staatswohl gegenüber dem parlamentarischen Informationsrecht überwiegt.
+ 4. Welche Investitionen hat das BMWE in den Jahren von 2022 bis 2025 
+konkret für den Ausbau und die Absicherung seiner IT-Infrastruktur
+(einschließlich Rechenzentren, Netze, Cloudlösungen) getätigt?
+IT-Sicherheit ist IT-Betriebsziel, sodass alle Investitionen in den IT-Betrieb 
+grundsätzlich in den Ausbau und die Absicherung der IT-Infrastruktur fließen. 
+Im Übrigen wird auf die Vorbemerkung der Bundesregierung verwiesen, nach 
+der die Beantwortung der Frage nicht erfolgen kann, weil die erbetenen
+Informationen derart schutzbedürftige Geheimhaltungsinteressen berühren, dass das 
+Staatswohl gegenüber dem parlamentarischen Informationsrecht überwiegt.
+ 5. In welchem Umfang hat das BMWE in den vergangenen fünf Jahren
+Sicherheitsüberprüfungen (z. B. durch das BSI oder durch unabhängige 
+Dienstleister) durchführen lassen, und mit welchen Ergebnissen?
+Es findet eine regelmäßige Beratung mit dem BSI auf Basis seiner
+Zuständigkeiten für die Abwehr von Gefahren für die Sicherheit der Informationstechnik 
+des Bundes gemäß § 3 Absatz 1 Satz 2 Nummer 1 Gesetz über das Bundesamt 
+für Sicherheit in der Informationstechnik (BSIG) sowie im Speziellen für die 
+Durchführung von technischen Prüfungen zum Schutz amtlich geheim
+gehaltener Informationen nach § 4 des Sicherheitsüberprüfungsgesetzes gegen die 
+Kenntnisnahme durch Unbefugte gemäß § 3 Absatz 1 Satz 2 Nummer 9 BSIG 
+statt. Im Übrigen wird auf die Vorbemerkung der Bundesregierung verwiesen, 
+nach der die Beantwortung der Frage nicht erfolgen kann, weil die erbetenen 
+Informationen derart schutzbedürftige Geheimhaltungsinteressen berühren, 
+dass das Staatswohl gegenüber dem parlamentarischen Informationsrecht
+überwiegt.
+ 6. Welche organisatorischen Zuständigkeiten für Cybersicherheit bestehen 
+innerhalb des BMWE (z. B. eigenes Computer Emergency Response 
+Team [CERT], IT-Sicherheitsreferate, Zusammenarbeit mit dem BSI)?
+Organisatorische Zuständigkeiten sind dem Organigramm des BMWE zu
+entnehmen.
+ 7. Welche konkreten Aufgabenbereiche decken die IT-Sicherheitsstellen im 
+BMWE ab (z. B. Netzwerksicherheit, Kryptografie, Incident Response, 
+Schutz kritischer Infrastrukturen, IT-Forensik)?
+Alle für den grundsätzlich sicheren IT-Betrieb notwendigen Aufgaben werden 
+abgedeckt.
+ 8. Welche Maßnahmen hat das BMWE seit 2020 ergriffen, um auf die
+Kritikpunkte des Bundesrechnungshofes im Bereich IT-Sicherheit zu
+reagieren (vgl. Vorbemerkung der Fragesteller)?
+Das IT-Sicherheitsniveau im BMWE wird durch einen kontinuierlichen
+Verbesserungsprozess aufrechterhalten. Die Kritikpunkte des Bundesrechnungshofes 
+werden in diesem Prozess berücksichtigt.
+ 9. In welcher Form findet eine Zusammenarbeit des BMWE mit
+Energieversorgern, Netzbetreibern und Unternehmen der Wirtschaft zur Abwehr 
+von Cyberbedrohungen statt?
+Das BMWE ist in verschiedenen Gremien und Formaten im Austausch mit
+Vertretern der Energiebranche u. a. auch zu den Themen der Cybersicherheit. So 
+findet ein regelmäßiger Austausch mit Betreibern kritischer Infrastruktur im 
+Energiesektor im UP KRITIS statt. (www.bsi.bund.de/DE/Themen/Regulierte-
+Wirtschaft/Kritische-Infrastrukturen/UP-KRITIS/up-kritis_node.html)
+In den letzten Jahren wurde auch mit Hilfe der Deutschen Energie-Agentur 
+GmbH (dena) die Branchenplattform Cybersicherheit unterhalten, die den
+Austausch zwischen Experten und kleinen und mittleren Unternehmen der
+Energiebranche zur Cybersicherheit ermöglicht und verbessert hat. Darüber hinaus ist 
+das BMWE im aktiven Austausch mit den Verbänden zu dem besagten Thema.
+10. Welche Verfahren bestehen, um sicherzustellen, dass der vertrauliche 
+Austausch mit Unternehmen und Akteuren der Energiebranche vor
+Cyberangriffen geschützt ist?
+Das BMWE kommuniziert in Abhängigkeit vom Schutzbedarf der
+ausgetauschten Informationen mithilfe sicherer technischer Verfahren, die starke 
+Kryptographie nutzen, mit externen Akteuren, wie Unternehmen der
+Energiebranche.
+11. Wie viele Sicherheitsvorfälle oder Cyberangriffe wurden in den letzten 
+fünf Jahren im Zuständigkeitsbereich des BMWE registriert, und wie 
+wurde jeweils darauf reagiert (bitte nach Jahr und Anzahl der Vorfälle 
+aufschlüsseln)?
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen, nach der die 
+Beantwortung der Frage nicht erfolgen kann, weil die erbetenen Informationen 
+derart schutzbedürftige Geheimhaltungsinteressen berühren, dass das
+Staatswohl gegenüber dem parlamentarischen Informationsrecht überwiegt.
+12. Welche Schulungs- und Sensibilisierungsmaßnahmen zum Thema
+Cybersicherheit wurden für Mitarbeiter des BMWE seit 2020 durchgeführt?
+Die Beschäftigten des BMWE und dessen Geschäftsbereich nehmen
+regelmäßig Angebote für Schulungen und Fortbildungen – auch zum Thema
+Cybersicherheit – wahr.
+13. Welche konkreten Schritte plant das BMWE, um bis spätestens 2030 die 
+vollständige Einhaltung der vom Bundesrechnungshof geforderten
+Mindeststandards (inklusive Notstromversorgung und georedundanter
+Systeme) sicherzustellen (vgl. Vorbemerkung der Fragesteller)?
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen, nach der die 
+Beantwortung der Frage nicht erfolgen kann, weil die erbetenen Informationen 
+derart schutzbedürftige Geheimhaltungsinteressen berühren, dass das
+Staatswohl gegenüber dem parlamentarischen Informationsrecht überwiegt.
+14. Wie viele Stellen im Bereich IT-Sicherheit existieren derzeit im
+Geschäftsbereich des BMWE (bitte nach Behörden und Besoldungsgruppen 
+aufschlüsseln)?
+Alle Stellen im Information Security Management System (ISMS) des BMWE 
+sowie im IT-Betrieb haben auch das Ziel der Verbesserung der IT-Sicherheit. 
+Im Übrigen wird auf die Vorbemerkung der Bundesregierung verwiesen, nach 
+der die Beantwortung der Frage nicht erfolgen kann, weil die erbetenen
+Informationen derart schutzbedürftige Geheimhaltungsinteressen berühren, dass das 
+Staatswohl gegenüber dem parlamentarischen Informationsrecht überwiegt.
+15. Wie hat sich die Zahl der IT-Sicherheitsstellen im BMWE seit 2020
+entwickelt (bitte jährlich angeben und nach Behörden differenzieren)?
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen, nach der die 
+Beantwortung der Frage nicht erfolgen kann, weil die erbetenen Informationen 
+derart schutzbedürftige Geheimhaltungsinteressen berühren, dass das
+Staatswohl gegenüber dem parlamentarischen Informationsrecht überwiegt.
+16. Wurden in den Jahren 2022, 2023 und 2024 Stellen im Bereich IT-
+Sicherheit im Geschäftsbereich des BMWE abgebaut, umgewidmet oder 
+neu geschaffen, und wenn ja, in welchem Umfang?
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen, nach der die 
+Beantwortung der Frage nicht erfolgen kann, weil die erbetenen Informationen 
+derart schutzbedürftige Geheimhaltungsinteressen berühren, dass das
+Staatswohl gegenüber dem parlamentarischen Informationsrecht überwiegt.
+17. Wie viele dieser Stellen (vgl. Frage 16) sind derzeit unbesetzt, und wie 
+lange bleiben offene Stellen im Durchschnitt vakant?
+Vakante Stellen im Bereich IT-Sicherheit, für deren Nachbesetzung die
+notwendigen Voraussetzungen erfüllt sind, werden innerhalb weniger Wochen geeignet 
+vergeben. Derzeit ist keine Stelle dieser Art vakant.
+18. Welche besonderen Schwierigkeiten sieht die Bundesregierung bei der 
+Gewinnung von IT-Sicherheitsfachkräften im Geschäftsbereich des 
+BMWE, und welche Maßnahmen werden ergriffen, um diese
+Herausforderungen zu bewältigen?
+Aufgrund des hinlänglich bekannten allgemeinen Fachkräftemangels wegen der 
+allgemeinen Marktlage und dem Wettbewerbsdruck (u. a. aufgrund Besoldung 
+und tarifrechtlicher Vergütung) sowie der demographischen Entwicklungen 
+steht die Personalgewinnung für den öffentlichen Dienst und somit auch bei 
+den Geschäftsbereichsbehörden insgesamt vor größeren Herausforderungen als 
+noch vor einigen Jahren. Es gibt allerdings keine Anzeichen dafür, dass gerade 
+die Gewinnung von IT-Sicherheitsfachkräften darüber hinausgehenden
+besonderen Schwierigkeiten begegnet oder solche Stellen sogar über lange Zeiträume 
+unbesetzt bleiben. Zur Verbesserung der Bewerberlage stehen verschiedene
+Instrumente, so u. a. spezialisierte Ausschreibungen, der Besuch von Fachmessen 
+zwecks Akquise, die Gewährung von Fachkräftezulagen sowie Verbeamtungen 
+zur stärkeren Bindung, zur Verfügung.
+19. Welche Rolle spielt das Informationstechnikzentrum Bund (ITZBund) in 
+Bezug auf die IT-Sicherheit für das BMWE, und wie entwickelt sich dort 
+die Personalausstattung in diesem Bereich?
+Das ITZBund als IT-Dienstleister der Bundesverwaltung und das BMWE
+arbeiten eng und vertrauensvoll zusammen. Wie in der Zusammenarbeit mit allen 
+IT-Dienstleistern des BMWE ist IT-Sicherheit auch hierbei ein elementares IT-
+Betriebsziel. Hinsichtlich der Personalsituation wird auf die Antwort zu 
+Frage 17 verwiesen.
+20. Welche Maßnahmen ergreift das BMWE, um die Resilienz seiner
+besonders sensiblen Systeme trotz möglicher Personalknappheit im Bereich IT-
+Sicherheit sicherzustellen?
+Das BMWE hat Maßnahmen der IT-Konsolidierung durchgeführt und den IT-
+Betrieb ausgewählter IT-Dienste ins ITZBund verlagert. Die Maßnahmen
+ergeben sich aus dem Kabinettbeschluss zur IT-Konsolidierung und sind
+veröffentlicht.
+21. Plant die Bundesregierung, die IT-Sicherheitskapazitäten im BMWE
+mittelfristig auszubauen, und mit welchem zeitlichen Horizont?
+Das BMWE prüft regelmäßig die Angemessenheit der eingesetzten personellen 
+Kapazitäten gegenüber den anfallenden Aufgaben. Bei den Kapazitäten zur IT-
+Sicherheit haben gesetzliche Verpflichtungen Priorität und führen neue
+Regelungen zu Anpassungen in den eingesetzten Ressourcen.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
