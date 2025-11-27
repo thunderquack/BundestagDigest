@@ -20,64 +20,63 @@ Informationen, sondern insbesondere persönliche Daten und Verhaltensmuster
 aus Apps und Diensten, bei denen die Nutzenden in die Weitergabe der Daten 
 beispielsweise zum Zweck des Marketings vermeintlich eingewilligt haben. 
 Der Datenabfluss erfolgt dann häufig über Softwarepakete Dritter (SDKs), aber 
-auch beim Ausspielen personalisierter Onlinewerbung selbst können
-personenbezogene Daten während des „Real Time Bidding“ massenhaft in die Hände 
-von Werbetreibenden oder auch von Data Brokers gelangen (https://netzpolitik.
-org/2025/databroker-files-im-dschungel-der-datenhaendler/). Wie groß das 
-Ausmaß dieses Datenhandels weitgehend abseits der öffentlichen
+auch beim Ausspielen personalisierter Online-Werbung selbst können
+personenbezogene Daten während des „Real Time Bidding“ massenhaft in die 
+Hände von Werbetreibenden oder auch von Data Brokern gelangen (https://netz
+politik.org/2025/databroker-files-im-dschungel-der-datenhaendler/). Wie groß 
+das Ausmaß dieses Datenhandels weitgehend abseits der öffentlichen
 Wahrnehmung ist, zeigten Recherchen unter anderem von Netzpolitik.org in den
 vergangenen Jahren: Allein die Angebotsliste des Datenmarktplatzes Xandr enthielt 
 im Jahr 2021 die Zuordnung einer unbekannten Anzahl einzelner Personen in 
 mehr als 650 000 Kategorien persönlicher Eigenschaften. 3,6 Milliarden
 Standortdaten von 11 Millionen Handys aus Deutschland aus einem Zeitraum von 
-nur 2 Monaten erhielten BR/ARD und Netzpolitik.org während einer
-gemeinsamen Recherche als Preview von einem Datenhändler, vermittelt über
-Datarade im Jahr 2024. Datarade sieht sich selbst nicht als datenverarbeitender
-Datenhändler, sondern als Datenmarktplatz, der lediglich als Vermittlungsplattform 
-zwischen Data Brokers und Interessenten operiert. Das Unternehmen erhielt 
-unter anderem Mittel vom Bundeswirtschaftsministerium im Rahmen des 
-High-Tech Gründerfonds (https://fragdenstaat.de/anfrage/antwort-des-staatssek
-retaers-sven-giegold-auf-eine-frage-der-abgeordneten-martina-renner-zur-foerd
-erung-des-unternehmens-datarade/960450/anhang/10-390-renner-anlageeinstuf
-ungaufgehoben.pdf).
+nur zwei Monaten erhielten BR/ARD und Netzpolitik.org während einer
+gemeinsamen Recherche als Preview von einem Datenhändler, vermittelt über 
+Datarade im Jahr 2024. Datarade sieht sich selbst nicht als datenverarbeitender 
+Datenhändler, sondern als Datenmarktplatz, der lediglich als
+Vermittlungsplattform zwischen Data Brokern und Interessenten operiert. Das Unternehmen
+erhielt unter anderem Mittel vom Bundesministerium für Wirtschaft und Energie 
+im Rahmen des High-Tech-Gründerfonds (https://fragdenstaat.de/anfrage/antw
+ort-des-staatssekretaers-sven-giegold-auf-eine-frage-der-abgeordneten-
+martinarenner-zur-foerderung-des-unternehmens-datarade/960450/anhang/10-390-renn
+er-anlageeinstufungaufgehoben.pdf).
 Nach Ansicht der Fragestellenden mehren sich bereits seit den Enthüllungen 
 Edward Snowdens im Jahr 2013 Hinweise darauf, dass Sicherheitsbehörden 
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 einen nachfrageseitigen Faktor beim kommerziellen Handel mit
 personenbezogenen Daten darstellen. 2017 wurde von Forschenden der Begriff
 „advertisingbased intelligence“ (ADINT) geschaffen, um das Phänomen zu beschreiben 
-(https:// a d i n t . c s . w a s h i n g t o n .edu), dass Anbieter von Überwachungs-
-Dienstleistungen für Sicherheitsbehörden tätig sind und Material von Data
-Brokers für diese Zwecke aufbereiten und analysieren. Ein direkter Erwerb der 
-Rohdaten durch die Interessenten ist somit nicht unbedingt erforderlich. Aus 
-den USA ist bekannt, dass staatliche Stellen in erheblichem Umfang auf
-Angebote von Datenhändlern und Dienste von ADINT-Firmen zurückgreifen.
-Mindestens seit 2020 nutzen US-amerikanische Behörden für Einwanderung und 
-Grenzschutz Handy-Standortdaten der Werbeindustrie, bereitgestellt über den 
-Dienstleister Venntel (www.wsj.com/articles/federal-agencies-use-cellphone-lo
-cation-data-for-immigration-enforcement-11581078600). Einem Medienbericht 
-zufolge geschieht dies auch in den Niederlanden (www.bnr.nl/nieuws/technolo
-gie/10537256/nederlandse-telefoons-online-stiekem-te-volgen-extreem-veiligh
-eidsrisico). Konkret in Deutschland geht aus der Gesetzesbegründung zu § 10a 
-im Entwurf des BND-Gesetzes (Bundestagsdrucksache 20/8627) hervor, dass 
-die Bundesregierung den Ankauf von Werbedaten zumindest hinsichtlich des 
-Bundesnachrichtendienstes als ein mögliches Szenario erwähnt.
+(https://adint.cs.washington.edu), dass Anbieter von
+Überwachungsdienstleistungen für Sicherheitsbehörden tätig sind und Material von Data Brokern für 
+diese Zwecke aufbereiten und analysieren. Ein direkter Erwerb der Rohdaten 
+durch die Interessenten ist somit nicht unbedingt erforderlich. Aus den USA ist 
+bekannt, dass staatliche Stellen in erheblichem Umfang auf Angebote von
+Datenhändlern und Dienste von ADINT-Firmen zurückgreifen. Mindestens seit 
+2020 nutzen US-amerikanische Behörden für Einwanderung und Grenzschutz 
+Handy-Standortdaten der Werbeindustrie, bereitgestellt über den Dienstleister 
+Venntel (www.wsj.com/articles/federal-agencies-use-cellphone-location-data-f
+or-immigration-enforcement-11581078600). Einem Medienbericht zufolge 
+geschieht dies auch in den Niederlanden (www.bnr.nl/nieuws/technologie/1053
+7256/nederlandse-telefoons-online-stiekem-te-volgen-extreem-veiligheidsri
+sico). Konkret in Deutschland geht aus der Gesetzesbegründung zu § 10a im 
+Entwurf des BND-Gesetzes (BND = Bundesnachrichtendienst;
+Bundestagsdrucksache 20/8627) hervor, dass die Bundesregierung den Ankauf von
+Werbedaten zumindest hinsichtlich des Bundesnachrichtendienstes als ein mögliches 
+Szenario erwähnt.
 Indes stellt der Datenhandel gleichzeitig ein Sicherheitsrisiko für die Staaten 
 selbst dar. So gelang es BR/ARD und Netzpolitik.org allein anhand der über 
-Datarade vermittelten Vorschau-Daten, Bewegungsprofile einem hohen
-Beamten mit Sicherheitsaufgaben sowie einem Mitarbeiter eines deutschen
+Datarade vermittelten Vorschaudaten, Bewegungsprofile einem hohen Beamten 
+mit Sicherheitsaufgaben sowie einem Mitarbeiter eines deutschen
 Geheimdienstes zuzuordnen und diese zu identifizieren (https://netzpolitik.org/2024/dat
 abroker-files-wie-datenhaendler-deutschlands-sicherheit-gefaehrden/). Auch 
 für Militäreinrichtungen (www.tagesschau.de/investigativ/br-recherche/militaer
 einrichtungen-standortdaten-sicherheitsrisiko-100.html) und kritische
-Infrastruktur geht ein erhebliches Risiko von Data Brokers aus.
+Infrastruktur geht ein erhebliches Risiko von Data Brokern aus.
 Wir fragen die Bundesregierung:
  1. Hält es die Bundesregierung grundsätzlich zur Erfüllung ihrer Aufgaben 
 für angemessen, kommerziell erwerbliche Handy-Standortdaten oder
 andere personenbezogene Daten von Datenhändlern oder anderen Anbietern 
-zu beziehen (bitte nach Ressorts einschließlich Bundeskanzleramt
-aufschlüsseln und nachgeordneter Behörden inklusive Geheimdienste
+zu beziehen (bitte nach Ressorts einschließlich Bundeskanzleramt und 
+nachgeordneter Behörden inklusive der Geheimdienste aufgeschlüsselt
 beantworten)?
  2. Wird systematisch erfasst und für interne Analysen aufbereitet, wie oft 
 und in welchem Kontext die Bundesregierung derartige Quellen
@@ -95,9 +94,7 @@ aus kommerziellen Quellen die Rechtmäßigkeit der Erhebung dieser
 Daten (bitte gegebenenfalls auf behördenspezifische Unterschiede
 eingehen)?
  5. Bezieht oder bezog die Bundesregierung Handy-Standortdaten oder
-andere personenbezogene Daten von den Unternehmen Datarade, Datastream
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+andere personenbezogene Daten von den Unternehmen Datarade, Datastream 
 Group, Datasys, Gravy Analytics, Unacast, Irys, Huq Industries, Gap-
 Maps, Azira, Start.io, Sovereign Intelligence, PREDIK, Quadrant, Veraset 
 oder anderen Unternehmen der Online-Werbeindustrie und
@@ -105,40 +102,39 @@ Datenhändlern, und wenn ja, welche Behörden
 a) beziehen oder bezogen Daten welcher Unternehmen,
 b) bezogen Daten in welchem Zeitraum,
 c) nutzten die Daten in welchem Zeitraum und
-d) wendeten welche Geldbeträge für den Bezug der Daten auf (bitte nach 
-Ressorts einschließlich Bundeskanzleramt aufschlüsseln und
-nachgeordneter Behörden exklusive der Geheimdienste beantworten)?
+d) wendeten welche Geldbeträge für den Bezug der Daten auf
+(bitte nach Ressorts einschließlich Bundeskanzleramt und nachgeordneter 
+Behörden exklusive der Geheimdienste aufgeschlüsselt beantworten)?
  6. Nutzt oder nutzte die Bundesregierung Angebote zur Aufbereitung von 
 Handy-Standortdaten oder anderen personenbezogenen Daten,
 insbesondere Tangles (Penlink/Cobwebs), Webloc (Penlink/Cobwebs), Sherlock 
 (Insanet), Locate X (Babel Street), Cognyte (Bsightful), Echo (Rayzone), 
 AdHoc (Intelos), Havoc (Intelos), Horizon Investigate (ShadowDragon) 
-oder von anderen Unternehmenn, und wenn ja, welche Behörden
-a) nutzen oder nutzen derartige Angebote welcher Unternehmen,
+oder von anderen Unternehmen, und wenn ja, welche Behörden
+a) nutzen oder nutzten derartige Angebote welcher Unternehmen,
 b) nutzen Angebote in welchem Zeitraum,
-c) wendeten welche Geldbeträge für Nutzung der aufbereiteten Daten auf 
-(bitte nach Ressorts einschließlich Bundeskanzleramt und
-nachgeordneter Behörden exklusive der Geheimdienste beantworten
-aufschlüsseln)?
+c) wendeten welche Geldbeträge für Nutzung der aufbereiteten Daten auf
+(bitte nach Ressorts einschließlich Bundeskanzleramt und nachgeordneter 
+Behörden exklusive der Geheimdienste aufgeschlüsselt beantworten)?
  7. Nimmt oder nahm die Bundesregierung Dienste von Unternehmen in
 Anspruch, die die Nutzung von Handy-Standortdaten oder anderen
 personenbezogenen Daten ermöglichen, insbesondere von Penlink, Cobwebs,
 Babel Street, ShadowDragon, Insanet, Intelos, Rayzone, Bsightful,
-Anomaly 6, Venntel, X-Mode oder von anderen Unternehmen und wenn ja, 
+Anomaly 6, Venntel, X-Mode oder von anderen Unternehmen, und wenn ja, 
 welche Behörden
-a) nutzen oder nutzen derartige Dienste welcher Unternehmen,
+a) nutzen oder nutzten derartige Dienste welcher Unternehmen,
 b) nutzen diese Dienste in welchem Zeitraum,
 c) haben sich über Angebote welcher dieser Dienste informiert,
-d) wendeten welche Geldbeträge für Nutzung dieser Dienste auf (bitte 
-nach Ressorts einschließlich Bundeskanzleramt aufschlüsseln und 
-nachgeordneter Behörden exklusive der Geheimdienste beantworten)?
+d) wendeten welche Geldbeträge für Nutzung dieser Dienste auf
+(bitte nach Ressorts einschließlich Bundeskanzleramt und nachgeordneter 
+Behörden exklusive der Geheimdienste aufgeschlüsselt beantworten)?
  8. Welche Kontakte hatte die Bundesregierung (bitte nach Ressorts
-einschließlich Bundeskanzleramt aufschlüsseln und nachgeordneter
-Behörden exklusive der Geheimdienste beantworten) zu jeweils welchem
+einschließlich Bundeskanzleramt und nachgeordneter Behörden exklusive 
+der Geheimdienste aufgeschlüsselt beantworten) zu jeweils welchem
 Zeitpunkt seit der 20. Wahlperiode mit Unternehmen, die Handy-
 Standortdaten oder andere personenbezogene Daten kommerziell anbieten 
-(bitte den Anlass des Kontaktes danach sortierten, ob es um Interesse der 
-Bundesregierung an Angeboten dieser Unternehmen ging, oder ob es 
+(bitte den Anlass des Kontaktes danach sortieren, ob es um Interesse der 
+Bundesregierung an Angeboten dieser Unternehmen ging oder ob es
 Kontakte ohne derartige Absichten waren)?
  9. Ist nach Auffassung der Bundesregierung der Handel mit
 personenbezogenen Daten zum Selbstzweck, also deren Nutzung als Handelsware, mit 
@@ -146,19 +142,16 @@ dem Datenschutzrecht unvereinbar, so wie es das Bundesministerium für
 Umwelt und Verbraucherschutz im Juli 2024 gegenüber Netzpolitik.org 
 äußerte (https://netzpolitik.org/2024/databroker-files-us-senator-schaltet-p
 entagon-ein-bundesministerium-fordert-eu-gesetze/)?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 10. Welche Maßnahmen plant die Bundesregierung, um die Wahrung der
-informationellen Selbstbestimmung hinsichtlich des Handels
-personenbezogener Daten zu Werbezwecken zu verbessern?
+informationellen Selbstbestimmung hinsichtlich des Handels mit
+personenbezogenen Daten zu Werbezwecken zu verbessern?
 11. Welche Maßnahmen ergriff oder gedenkt die Bundesregierung zu
-ergreifen seit Bekanntwerden der eingangs beschriebenen Recherchen von 
-BR/ARD und Netzpolitik.org, um einer möglichen Gefährdung der
-nationalen Sicherheit durch Data Broker entgegenzuwirken?
+ergreifen seit Bekanntwerden der in der Vorbemerkung der Fragesteller
+beschriebenen Recherchen von BR/ARD und Netzpolitik.org, um einer 
+möglichen Gefährdung der nationalen Sicherheit durch Data Broker
+entgegenzuwirken?
 Berlin, den 5. November 2025
 Heidi Reichinnek, Sören Pellmann und Fraktion
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
