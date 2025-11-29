@@ -1,0 +1,760 @@
+Deutscher Bundestag Drucksache 21/2892
+21. Wahlperiode 21.11.2025
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Sonja Lemke, Clara Bünger, 
+Anne-Mieke Bremer, weiterer Abgeordneter und der Fraktion Die Linke
+– Drucksache 21/2310 –
+Einsatz Künstlicher Intelligenz im Geschäftsbereich der Bundesregierung
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Am 1. August 2024 ist nach langen Verhandlungen das Europäische Parlament 
+die KI-Verordnung (KI-VO; KI = Künstliche Intelligenz) in Kraft getreten 
+(www.europarl.europa.eu/news/de/press-room/20240308IPR19015/gesetz-ube
+r-kunstliche-intelligenz-parlament-verabschiedet-wegweisende-regeln).
+Bis spätestens 2. August 2025 hätte die Bundesregierung veröffentlichen
+müssen, wie die zuständigen Behörden und die zentrale Anlaufstelle auf
+elektronischem Wege kontaktiert werden können (Artikel 70 Absatz 2 Satz 2 KI-VO), 
+und sie hätte der Europäischen Kommission über den Sachstand bezüglich der 
+finanziellen Mittel und des Personals der zuständigen nationalen Behörden
+berichten müssen. Ein Gesetz, mit dem in Deutschland die erforderlichen
+Strukturen zur Durchsetzung der KI-VO geschaffen werden, insbesondere
+zuständige Behörden benannt und mit ausreichenden finanziellen und personellen
+Ressourcen ausgestattet werden, liegt bisher noch nicht einmal in Form eines
+Regierungsentwurfes vor. Im Haushaltsentwurf 2026 sind dafür bisher keine
+Mittel vorgesehen.
+Gleichzeitig will die Bundesregierung ausweislich ihres Koalitionsvertrages 
+zwischen CDU, CSU und SPD (www.koalitionsvertrag2025.de/sites/www.koa
+litionsvertrag2025.de/files/koav_2025.pdf) u. a. mithilfe von Künstlicher 
+Intelligenz eine Verwaltungsrevolution schaffen (Zeilen 2258 bis 2262). Der 
+Einsatz Künstlicher Intelligenz soll Effizienzpotenziale in der Verwaltung
+heben (Zeile 1642), konkret sollen Sicherheitsbehörden für bestimmte Zwecke 
+eine Befugnis zur Vornahme einer automatisierten (KI-basierten)
+Datenanalyse erhalten (Zeile 2850 ff.), bei der Registermodernisierung und der
+Bereitstellung einer Deutschland-ID und der EUDI-Wallet (EUDI = European Digital 
+Identity) soll umfassend KI genutzt werden (Zeilen 2166 ff.), mit Künstlicher 
+Intelligenz soll die Finanzverwaltung gestärkt werden (Zeile 1530) und für
+Familien sollen hilfreiche digitale Services bereit gestellt werden (Zeile 3169). 
+Der Einsatz Künstlicher Intelligenz soll auch in der Justiz (Zeile 2030) sowie 
+in der Behandlungs- und Pflegedokumentation (Zeile 3500) ermöglicht
+werden. Die Bundesregierung will laut zwei Referentenentwürfen zur Stärkung 
+digitaler Ermittlungsbefugnisse in der Polizeiarbeit sowohl den Einsatz von 
+KI-Systemen in der Ermittlungsarbeit als auch das Training solcher Systeme 
+mit Echtdaten für die Bundespolizei und das Bundeskriminalamt ermöglichen 
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Digitales und
+Staatsmodernisierung vom 21. November 2025 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+(https://netzpolitik.org/2025/gesichtserkennung-und-ki-innenminister-dobrind
+t-plant-neues-sicherheitspaket/#2025-06-26_BMI_RefE_Staerkung-Digitale-B
+efugnisse-Polizei_Gesetz-1; https://netzpolitik.org/2025/gesichtserkennung-un
+d-ki-innenminister-dobrindt-plant-neues-sicherheitspaket/#2025-06-26_BMI_
+RefE_Staerkung-Digitale-Befugnisse-Polizei_Gesetz-2).
+All dies sind grundrechtssensible Bereiche, in denen häufig hochsensible
+personenbezogene Daten von Bürgerinnen und Bürgern verarbeitet werden,
+sowohl zum Training entsprechender Systeme als auch in der Anwendung. Die 
+damit unterstützten staatlichen Entscheidungen können schwerwiegende
+Folgen für die betroffenen Personen haben. Entsprechend müssen solche KI-
+Systeme höchste Qualitätsanforderungen erfüllen und ihr Einsatz darf nur nach 
+einer sorgfältigen Risiko-Nutzen-Bewertung erfolgen, bei der die betroffenen 
+Grundrechte aller betroffenen Personen adäquat berücksichtigt wurden.
+Beim Einsatz von KI wird häufig fälschlicherweise davon ausgegangen, dass 
+technische Lösungen neutral und weniger fehleranfällig als menschliche
+Entscheidungsprozesse sind. Doch KI-Lösungen werden weder frei von
+partikularen Interessen entwickelt und eingesetzt noch sind die genutzten Daten, mit 
+denen KI-Systeme vorweg bzw. fortlaufend trainiert werden, neutral, denn 
+diese Daten sind häufig geprägt von gesellschaftlichen Vorurteilen und
+Stereotypen (siehe https://dl.acm.org/doi/pdf/10.1145/3415186). Die Fragestellenden 
+wissen aus diversen Beispielen und Untersuchungen, dass KI-Systeme
+regelmäßig die Diskriminierung ohnehin schon benachteiligter Gruppen verstärken 
+und verfestigen (https://ai.hdm-stuttgart.de/downloads/student-white-paper/Wi
+nter-2223/Diskriminierende_KI.pdf; https://duepublico2.uni-due.de/servlets/
+MCRFileNodeServlet/duepublico_derivate_00083002/Bath_KI_und_Diskrimi
+nierung_UNIKATE_62.pdf; www.bpb.de/lernen/bewegtbild-und-politische-bi
+ldung/556762/diskriminierung/). Frauen, Schwarze Menschen, queere
+Menschen, Menschen mit Beeinträchtigungen und andere Gruppen werden
+systematisch von KI-Systemen benachteiligt.
+Der Einsatz von KI durch die Bundesverwaltung setzt höchste Standards in 
+Bezug auf Antidiskriminierung und Nachvollziehbarkeit der
+Entscheidungsfindung voraus. Aufgrund des hohen Risikopotenzials muss die
+Bundesverwaltung im Rahmen der Risiko-Nutzen-Bewertung immer auch prüfen, ob es 
+weniger eingriffsintensive bzw. risikoärmere Alternativen gibt.
+Ein hohes Maß an Transparenz über den Einsatz und die Funktionsweise der 
+eingesetzten KI-Systeme ist essenziell, weil ansonsten die Akzeptanz für diese 
+Technologie nicht geschaffen werden kann und damit das Vertrauen in
+staatliche Institutionen insgesamt sinkt.
+Wie bereits mehrere Kleine Anfragen der Fraktion Die Linke bzw. der Gruppe 
+Die Linke im Bundestag in den Jahren 2022, 2023 und 2024 gezeigt haben 
+(siehe Bundestagsdrucksachen 20/12191, 20/8495, 20/6862, 20/9685, 20/9419 
+und 20/430), werden im Geschäftsbereich der Bundesregierung Methoden der 
+Künstlichen Intelligenz bereits seit Jahren eingesetzt.
+Die letzte Kleine Anfrage der Gruppe Die Linke im Bundestag im Januar 
+2024 ergab, dass sich bereits über 200 KI-Anwendungen im Geschäftsbereich 
+der Bundesregierung im Einsatz befinden (siehe Antwort der Bundesregierung 
+zu auf Bundestagsdrucksache 20/12191), ohne dass die zahlreichen
+Handlungsempfehlungen für den öffentlichen Sektor des Abschlussberichts der
+Enquete-Kommission KI (siehe Bundestagsdrucksache 19/23700), der
+Datenethik-Kommission sowie der Plattform Lernende Systeme hinsichtlich der 
+Entwicklung und Anwendung eines Risikoklassenmodells sowie weiterer
+Kritikalitätsbewertungen Anwendung fanden.
+Nach Auffassung der Fragestellenden verfestigt sich dadurch der
+Gesamteindruck, dass der KI-Einsatz im Geschäftsbereich der Bundesregierung ohne 
+systematische Risikoabwägungen, Schutz vor Diskriminierung und Evaluation 
+in Bezug auf Effizienz, Grundrechteschutz sowie etwaige „Nebenwirkungen“ 
+erfolgt und die nötige Sorgfalt zum Schutz von Einzelnen oder Gruppen nicht 
+erbracht wird. Diese Entwicklung ist besonders beim Einsatz von Hochrisiko-
+Anwendungen besorgniserregend.
+Die Fragestellenden sind weiterhin der Auffassung, dass in der aktuellen
+Debatte rund um den Einsatz von KI der hohe Energieverbrauch für das Training 
+sowie den Betrieb von KI-Modellen insgesamt zu wenig öffentlich adressiert 
+wird – auch vonseiten der Bundesregierung. Dieser Aspekt gewinnt jedoch 
+insbesondere dann an Bedeutung, wenn davon ausgegangen wird, dass KI-
+Anwendungen voraussichtlich in immer mehr Geschäftsbereichen der
+Bundesregierung Einzug halten werden.
+Der rapide wachsende Trend zu zunehmend komplexeren Machine-Learning-
+Modellen sowie der wachsende Bedarf an Rechenleistung für das Training 
+moderner KI-Systeme erfordern daher eine intensive Begleitung durch eine 
+belastbare Datengrundlage, die den Ressourcenverbrauch veranschaulichen 
+kann. Diese Daten sind elementar für Kosten-Nutzen-Analysen sowie die
+Berücksichtigung von Klimaauswirkungen und den CO2-Abdruck der
+Bundesregierung.
+Bei der Nutzung eigener KI-Systeme oder KI-Anwendungen sollte die
+Bundesregierung daher als Vorbild fungieren, um mehr Transparenz und ein
+zusätzliches Bewusstsein für nachhaltiges maschinelles Lernen zu schaffen. Dies 
+könnte beispielsweise durch die Einführung verpflichtender Herstellerangaben 
+zum Energieverbrauch und zu den Treibhausgasemissionen während der
+Entwicklung und Anwendung von KI-Modellen erfolgen. Diese Angaben sollten 
+als verpflichtendes Kriterium bei der Beschaffung von KI-Systemen und KI-
+Anwendungen berücksichtigt werden und ein selbstverständliches und
+überprüftes Kriterium bei der Vergabe von Fördermitteln für KI-Projekte sein.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Künstliche Intelligenz (KI) spielt als Querschnittsthema zunehmend in vielen 
+Forschungsvorhaben, Pilotprojekten etc. eine Rolle. Eine trennscharfe
+Abgrenzung dieser Vorhaben und die Ermittlung der erfragten Angaben für alle diese 
+Vorhaben ist nicht vollumfänglich möglich. Die Bundesregierung beantwortet 
+die im Rahmen des parlamentarischen Fragerechts angefragten Sachverhalte 
+gegenüber dem Deutschen Bundestag grundsätzlich öffentlich, transparent und 
+vollständig, um dem verfassungsrechtlich verbrieften Aufklärungs- und
+Informationsanspruch des Deutschen Bundestages zu entsprechen. Soweit erfragte 
+Informationen Umstände betreffen, die aus Gründen des Staatswohls
+geheimhaltungsbedürftig sind, hat die Bundesregierung zu prüfen, ob und auf welche 
+Weise die Geheimhaltungsbedürftigkeit mit dem parlamentarischen
+Informationsanspruch in Einklang gebracht werden kann, und gegebenenfalls
+alternative Formen der Informationsvermittlung zu suchen, die das
+Informationsinteresse des Parlaments unter Wahrung der berechtigten
+Geheimhaltungsinteressen der Regierung befriedigen (BVerfGE 124, S. 161, 193). Nach
+sorgfältiger Abwägung des Aufklärungs- und Informationsrechts der Abgeordneten mit 
+dem Wohl des Bundes (Staatswohl), das durch Bekanntwerden
+geheimhaltungsbedürftiger Informationen gefährdet werden könnte, äußert sich die
+Bundesregierung nicht, wenn dies die Wirksamkeit sicherheitsbehördlicher
+Tätigkeit gefährden kann. Evident geheimhaltungsbedürftige Informationen muss 
+die Bundesregierung nach der Rechtsprechung des Bundesverfassungsgerichts 
+nicht offenlegen (BVerfGE 124, 161, 193 f.).
+Nach sorgfältiger Abwägung ist die Bundesregierung zu der Auffassung
+gelangt, dass eine Beantwortung der Fragen 1 bis 9 bezüglich der
+Strafverfolgungs-, Ermittlungs- und Gefahrenabwehrbehörden des Bundes sowie der 
+Nachrichtendienste des Bundes und des Geschäftsbereiches des
+Bundesministeriums der Verteidigung aufgrund entgegenstehender überwiegender Belange 
+des Staatswohls mit Ausnahme der insoweit in der Antwort zu diesen
+Fragen angegebenen Angaben nicht erfolgen kann, auch nicht in eingestufter 
+Form.
+Das verfassungsrechtlich verbürgte Frage- und Informationsrecht des
+Deutschen Bundestages gegenüber der Bundesregierung wird durch das gleichfalls 
+Verfassungsrang genießende schutzwürdige Interesse des Staatswohls sowie 
+durch das Interesse der verfassungsrechtlichen Gewährleistung einer
+funktionsgerechten und organadäquaten Aufgabenwahrnehmung durch die
+Strafverfolgungsbehörden begrenzt. Im Falle der Weitergabe von Informationen zu
+Fähigkeiten und eingesetzten Produkten i. S. der Fragestellung wäre eine
+entsprechende Auskunft geeignet, die Arbeit der Strafverfolgungsbehörden, sowie
+Ermittlungsmaßnahmen zu erschweren oder gar zu vereiteln.
+Für den Bereich des Bundesnachrichtendienstes (BND), des Militärischen
+Abschirmdienstes (MAD) sowie des Bundesamtes für Verfassungsschutz (BfV) 
+betrifft die Beantwortung der Fragen solche Informationen, die in besonders 
+hohem Maße das Staatswohl berühren und daher selbst in eingestufter Form 
+nicht beantwortet werden können.
+Insbesondere betrifft die Beantwortung der Fragen solche Informationen, die in 
+besonders hohem Maße die Methoden und Fähigkeiten der Nachrichtendienste 
+im Bereich der Datenverarbeitung berühren. Eine weitgehende Offenlegung der 
+angefragten Informationen birgt die Gefahr, dass Einzelheiten zur konkreten 
+Methodik und gleichsam in hohem Maße schutzwürdigen spezifischen
+technischen Fähigkeiten der Dienste bekannt würden. So könnten Auskünfte zum 
+konkreten Einsatzzweck von KI, den eingesetzten Verfahren und der Art der 
+Ergebnisse in zu tiefgehender Weise nachrichtendienstliche Vorgehensweisen 
+offenlegen oder Rückschlüsse auf spezifische Vorgehensweisen und
+Fähigkeiten der Dienste und ihres Personals ermöglichen. Dadurch würde die
+Arbeitsfähigkeit und Aufgabenerfüllung der Dienste gefährdet.
+Einsatzzwecke wie „Bilderkennung“ oder „Texterkennung“ würden
+grundsätzlich zwar keine überraschenden Erkenntnisse bringen, aber die Konkretisierung 
+der eingesetzten Verfahren und die Ergebnisarten würden zusammen mit dem 
+Zusatz der angewandten Datenbasis und deren Herkunft einen zu detaillierten 
+Einblick in die Zielrichtung des KI-Einsatzes und in die konkreten
+Arbeitsweisen der Nachrichtendienste ermöglichen. Wenn die Datenherkunft und -
+basis bekannt wäre, könnten beispielsweise käuflich erworbene Daten ggf. vor 
+dem Kauf und Einsatz durch die Nachrichtendienste bewusst verfälscht werden, 
+um die Wirksamkeit der KI zu beeinflussen oder bestimmte Ergebnisse
+tendenziös zu verfälschen. Wenn die KI unzuverlässige Unterstützungsleistungen
+erbringt, würde dies wiederum dazu führen, auf konventionelle Arbeitsweisen
+zurückgreifen zu müssen, die im Zweifelsfall mehr Zeit und oder Personal
+erfordern würden. Dadurch würde letztlich die Arbeitsfähigkeit und
+Aufgabenerfüllung der Nachrichtendienste negativ beeinflusst und erschwert werden. Eine 
+Preisgabe dieser sensiblen Informationen würde sich also auf die staatliche 
+Aufgabenwahrnehmung der nachrichtendienstlichen Informationsbeschaffung 
+außerordentlich nachteilig auswirken. Auch könnten auf den erlangten
+Erkenntnissen aufbauende Aktionen anderer Nachrichten- oder Geheimdienste gegen 
+die deutschen Nachrichtendienste folgenschwere Einschränkungen der
+Datenverarbeitungsfähigkeiten der Dienste zur Folge haben. Damit könnte letztlich 
+ihr jeweiliger gesetzlicher Auftrag nicht mehr sachgerecht erfüllt werden.
+Auch das Bundesverfassungsgericht sieht beispielsweise für den BND die 
+wirksame und zugleich rechtstaatlich eingehegte Auslandsaufklärung als einen 
+unverzichtbaren Beitrag zum Schutz von Rechtsgütern von überragendem
+verfassungsrechtlichem Gewicht an; namentlich der verfassungsmäßigen Ordnung, 
+den Bestand und die Sicherheit des Bundes oder der Länder sowie für Leib, 
+Leben und Freiheit (BVerfGE 154, 152 bis 312, 163). Sofern solche
+Informationen entfallen oder wesentlich zurückgehen sollten, wäre der Beitrag der
+Auslandsaufklärung zum Schutz der o. g. Rechtsgüter gefährdet.
+Selbst eine VS-Einstufung und Hinterlegung der angefragten Informationen in 
+der Geheimschutzstelle des Deutschen Bundestages würde ihrer erheblichen 
+Bedeutung für die Aufgabenerfüllung der Nachrichtendienste nicht ausreichend 
+Rechnung tragen. Die angefragten Inhalte der Frage beschreiben zum Teil die 
+Fähigkeiten und Arbeitsweisen der Dienste so detailliert, dass eine
+Bekanntgabe auch gegenüber einem begrenzten Kreis von Empfängern ihrem
+Schutzbedürfnis nicht Rechnung tragen kann. Hierunter fällt insbesondere auch die 
+Frage, ob der Einsatz oder die Entwicklung einer Technologie, die von
+nachrichtendienstlicher Bedeutung sein könnte, stattgefunden hat oder stattfindet. 
+Bei einem Bekanntwerden der schutzbedürftigen Information wäre derzeit kein 
+Ersatz durch andere Instrumente der Datenverarbeitung möglich.
+Darüber hinaus wäre auch die zusätzliche Nennung des möglichen
+Auftragnehmers, also Herstellers der KI, besonders schützenswert. Dies gilt zum einen, 
+weil auch beim Hersteller – offen durch Ansprache oder verdeckt durch
+Einschleusung von Personal oder Angriffe auf dessen Infrastruktur – versucht
+werden könnte, dessen Produkte zu verfälschen, zu verändern oder so zu
+manipulieren, dass die Daten nicht brauchbar wären oder die Daten oder die
+Infrastruktur der Dienste gefährdet sein könnten. Ebenso könnten Rückschlüsse auf den 
+konkreten Einsatzzweck erfolgen und damit Gegenmaßnahmen getroffen
+werden. Auch dadurch würde letztlich die Arbeitsfähigkeit und Aufgabenerfüllung 
+der Nachrichtendienste des Bundes negativ beeinflusst und erschwert werden. 
+Eine Preisgabe dieser sensiblen Informationen würde sich also auf die
+staatliche Aufgabenwahrnehmung der nachrichtendienstlichen
+Informationsbeschaffung außerordentlich nachteilig auswirken.
+Zudem würde das Bekanntwerden von Evaluierungen des Einsatzes von KI 
+klare Anwendungsgebiete und ggf. konkrete Beobachtungsobjekte und -
+subjekte, die nicht im Verfassungsschutzbericht genannt werden, erkennen lassen. 
+Auch ansonsten wäre die Nennung von externen Mitwirkenden, die mit einer 
+Evaluierung beauftragt worden sein könnten, besonders schutzwürdig, da die 
+externen Mitwirkenden tiefe Einblicke in die sensible Arbeitsweise und
+Methodik der Nachrichtendienste des Bundes bekommen hätten. Denn das
+Bekanntwerden einer solchen Mitwirkung würde diese externen Personen einer
+besonderen Gefährdung für Ausspähversuche aussetzen. Auch dieser Gefahr muss 
+vorgebeugt werden. Hieraus ergibt sich, dass die erbetenen Informationen in 
+ihrer Detailtiefe derart schutzbedürftige Geheimhaltungsinteressen berühren, 
+dass das Staatswohl sowie das öffentliche Interesse an einem wirksamen Schutz 
+der o. g. Rechtsgüter gegenüber dem parlamentarischen Informationsrecht in 
+diesem besonderen Einzelfall wesentlich überwiegen. Insofern muss
+ausnahmsweise das Fragerecht der Abgeordneten gegenüber dem
+Geheimhaltungsinteresse der Bundesregierung zurückstehen.
+Darüber hinaus birgt die Offenlegung der Informationen die Gefahr, dass
+Einzelheiten über die künftige Arbeitsfähigkeit und Aufgabenerfüllung der
+Bundeswehr bekannt würden. Mittels dieser Informationen ließe sich ein derart
+detailliertes Lagebild über den KI-basierten Fähigkeitsaufbau im Militär ableiten, 
+dass durch die Preisgabe dieser Informationen potentielle Gegner Rückschlüsse 
+auf die Einsatzbereitschaft und Kampfkraft der Bundeswehr ziehen könnten.
+Auch eine Einstufung als Verschlusssache und Hinterlegung der angefragten 
+Informationen in der Geheimschutzstelle des Deutschen Bundestages würde 
+ihrer erheblichen Brisanz im Hinblick auf die Bedeutung für die
+Aufgabenerfüllung und Funktionsfähigkeit der Bundeswehr nicht ausreichend Rechnung 
+tragen. Die angefragten Inhalte geben einen detaillierten Hinweis auf aktuelle 
+und zukünftige Fähigkeiten der Bundeswehr und lassen Rückschlüssen auf den 
+Stand der Digitalisierung der Bundeswehr zu. Dies erhöht das Risiko, dass sich 
+potentielle Gegner hierauf ausrichten und diese Erkenntnisse gezielt zur
+Entwicklung von Angriffen gegen die Bundesrepublik Deutschland nutzen. Dies
+birgt ein derart hohes Risiko für das Staatswohl in sich, dass eine Bekanntgabe 
+auch gegenüber einem nur begrenzten Kreis von Empfängern ihrem
+Schutzbedürfnis nicht Rechnung tragen kann.
+Aus dem Vorgesagten ergibt sich, dass die erbetenen Informationen derart 
+schutzbedürftige Geheimhaltungsinteressen berühren, dass das Staatswohl
+gegenüber dem parlamentarischen Informationsrecht wesentlich überwiegt.
+Insofern muss ausnahmsweise das Fragerecht der Abgeordneten für den Anteil GB 
+BMVg gegenüber dem Geheimhaltungsinteresse der Bundesregierung
+zurückstehen.
+ 1. Welche Bundesministerien (inklusive Bundeskanzleramt sowie
+nachgeordnete Behörden) setzen aktuell auf (teil)automatisierte
+Entscheidungsprozesse und Mustererkennungen sowie Künstliche Intelligenz (inklusive 
+generativer KI), und in welchen dortigen Abteilungen kommen diese 
+konkret und wofür zur Anwendung (bitte die Antworten auf alle
+Fragen zum besseren Verständnis jeweils für jedes Bundesministerium
+inklusive Bundeskanzleramt sowie nachgeordnete Behörden separat nach 
+Geschäftsbereich aufführen, wie auf Bundestagsdrucksache 20/12191)?
+a) In welchen Bundesministerien (inklusive Bundeskanzleramt sowie 
+jeweils nachgeordnete Behörden) und wofür findet der Einsatz mit 
+einem oder mehreren der besagten Verfahren statt, und wo sowie
+wofür ist der Einsatz zukünftig geplant?
+b) Welche Verfahren kommen dabei jeweils zum Einsatz?
+c) Welches Problem soll das jeweilige Verfahren lösen?
+d) Inwiefern wurden bei der jeweiligen Wahl des jeweiligen Verfahrens 
+die Kosten ins Verhältnis zum jeweiligen Einsatzzweck gesetzt und 
+abgewogen?
+e) Inwiefern wurden bei der jeweiligen Wahl des jeweiligen Verfahrens 
+alternative Lösungen in Betracht gezogen, die nicht mit den
+genannten KI-spezifischen Diskriminierungsrisiken behaftet sind?
+f) Inwiefern wurde bei der Wahl des Systems geprüft, ob bereits an
+anderer Stelle in der Bundesverwaltung eingesetzte Systeme
+nachgenutzt werden können?
+g) Welche Art von Ergebnissen wird von o. g. Systemen bzw.
+Anwendungen produziert (breit interpretiert, aber z. B. Entscheidung,
+Entscheidungsvorschlag bzw. Empfehlung, Bewertung z. B. von
+Risiken, Mustererkennung etc.), und werden etwaige Entscheidungen 
+vollautomatisiert oder durch einen Menschen getroffen (bitte nach 
+Anwendung bzw. System in den jeweiligen Abteilungen in
+Bundesministerien, inklusive Bundeskanzleramt sowie nachgeordneten
+Behörden auflisten)?
+h) Auf welcher Datenbasis werden dabei jeweils welche Ergebnisse 
+produziert bzw. auf Grundlage welcher Daten werden besagte
+Anwendungen trainiert?
+i) Sind die Systeme bzw. Anwendungen intern oder extern entwickelt 
+und trainiert worden (bitte nach System bzw. Anwendung,
+Auftraggeber, Auftragnehmer, Jahr sowie Kosten und Umfang der Leistung 
+aufschlüsseln), und wenn extern, wurden die genannten Systeme 
+bzw. Anwendungen ausgeschrieben (wenn nein, bitte begründen)?
+j) Wurden die Daten für die im Einsatz befindlichen automatisierten 
+Entscheidungsprozesse, Mustererkennungen und bzw. oder
+Künstliche Intelligenz unter Berücksichtigung der gesetzlichen
+Zweckbindung erhoben, sofern eine rechtliche Zweckbindung erforderlich ist, 
+und wenn nein, aus welcher Quelle oder welchen anderen Quellen 
+stammen die Daten?
+k) Wie wurde im Hinblick auf die Zweckbestimmung der im Einsatz 
+befindlichen automatisierten Entscheidungsprozesse,
+Mustererkennungen und bzw. oder Künstlichen Intelligenz sichergestellt, dass die 
+zugrunde gelegten Daten relevant, hinreichend repräsentativ und so 
+weit wie möglich fehlerfrei und vollständig sind?
+l) Inwieweit werden oder wurden beim Training des genutzten Systems 
+personenbezogene Daten verwendet, und wie kontrolliert die
+Bundesregierung eine rechtmäßige Verarbeitung dieser Daten bei der 
+Auswahl von KI-Systemen?
+m) Inwieweit werden oder wurden beim Training des genutzten Systems 
+urheberrechtlich geschützte Materialien oder Daten verwendet, und 
+wie kontrolliert die Bundesregierung eine rechtmäßige Verwendung 
+von urheberrechtlich geschützten Materialien oder Daten bei der 
+Auswahl von KI-Systemen?
+n) Inwieweit werden oder wurden beim Training des genutzten Systems 
+lokal angemessene (Mindest-)Löhne gezahlt sowie notwendige
+Arbeitsschutzmaßnahmen eingehalten, und wie wird dies bei der
+Auswahl von KI-Systemen von der Bundesregierung kontrolliert?
+o) Wie wurden die Entscheidenden über die oben genannten Systeme 
+sowie die Anwenderinnen und Anwender geschult, um das jeweilige 
+System auswählen, bewerten und anwenden zu können, und welche 
+Kompetenzen werden hierfür vorausgesetzt?
+p) Wie wurden die Nutzenden der oben genannten Systeme bzw.
+Anwendungen geschult, um das System auswählen, bewerten und
+anwenden zu können?
+q) Inwiefern wird der Energieverbrauch und bzw. oder werden andere 
+Nachhaltigkeitskriterien bei der Auswahl der oben genannten
+Systeme bzw. Anwendungen erfasst, und in welchen Fällen werden
+derartige Kriterien verpflichtend berücksichtigt (bitte für jedes oben
+genannte System bzw. für jede Anwendung die einzelnen
+Nachhaltigkeitskriterien nennen und jeweils explizit angeben, wenn keine
+derartigen Kriterien erfasst bzw. berücksichtigt wurden)?
+Bezüglich der in den Fragen 1a bis 1c sowie 1g bis 1h geforderten Angaben 
+wird auf die in dem Marktplatz der KI-Möglichkeiten (MaKI) bestehende
+Eintragungen verwiesen, abrufbar unter www.kimarktplatz.bund.de.
+Die Fragen 1d bis 1f sowie 1i bis 1q werden gemeinsam beantwortet und
+beziehen sich auf im MaKI erfasste KI-Systeme der Bundesverwaltung mit dem
+Status „In Verkehr/In Betrieb“ und in „In Planung/In Vorstudio (PoC)“. Die
+Angaben sind den Tabellen der Anlagen 1 bis 3 zu entnehmen.* Diese Angaben 
+beziehen sich auf solche Anwendungsfälle, die aktuell auf (teil-)automatisierte 
+Entscheidungsprozesse, Mustererkennungen oder Künstliche Intelligenz (inkl. 
+generativer KI) setzen und im MaKI mit dem Status „In Verkehr/In Betrieb“ 
+und in „In Planung/In Vorstudio (PoC)“ versehen sind. Heutzutage greifen viele 
+Systeme zunehmend auch auf KI-Komponenten zurück (z. B. IT-
+Sicherheitskomponenten wie Firewalls, Softwareanwendungen zur Textverarbeitung und 
+für sonstige Bürotätigkeiten). Eine vollständige Angabe aller in den
+Bundesministerien oder nachgeordneten Behörden eingesetzten KI-Komponenten ist 
+daher nicht möglich. Ebenso werden keine Angaben zu geplanten KI-Einsätzen 
+gemacht, bei denen es sich aktuell um bloße Überlegungen handelt oder deren 
+Planung und Umsetzung sich in einem so frühen Stadium befinden, dass die 
+Beantwortung der Fragen nicht möglich ist.
+* Von einer Drucklegung der Anlage wird abgesehen. Diese ist auf Bundestagsdrucksache 21/2892 auf der Internetseite des Deutschen Bundestages abrufbar.
+ 2. Wie wurden Risiken beim Einsatz der in Frage 1 erfragten KI-
+Anwendungen bewertet, insbesondere:
+a) Für welche der KI-Anwendungen gilt die KI-Verordnung aus Sicht 
+der Bundesregierung (soweit die KI-Verordnung nicht gilt, bitte 
+Gründe angeben)?
+Die KI-Verordnung gilt für alle KI-Anwendungen der Bundesverwaltung, die 
+KI-Systeme i. S. d. Artikel 3 Absatz 1 KI-VO, sind.
+b) Soweit die KI-Verordnung auf die KI-Anwendungen Anwendung
+findet, in welche Risikoklasse nach der KI-Verordnung ordnet die
+Bundesregierung die jeweilige KI-Anwendung ein?
+Die Risikoklasse der KI-Systeme der Bundesverwaltung sind im MaKI
+einsehbar.
+c) Mit welchem weiteren Risikoklassenmodell bewertet die
+Bundesregierung darüber hinaus Risiken von KI-Anwendungen, insbesondere bei 
+solchen, die nicht von der KI-Verordnung erfasst werden (bitte das 
+verwendete Modell explizit benennen und eine Beschreibung
+beifügen)?
+d) Welche Klassifizierung wurde entsprechend dem verwendeten
+Risikoklassenmodell für das System vorgenommen?
+e) Wenn zutreffend, welche andere Art der Technikfolgenabschätzung 
+wurde mit welchem Ergebnis vorgenommen?
+f) Wenn kein Risikoklassenmodell verwendet und keine Klassifizierung 
+und bzw. oder keine Technikfolgenabschätzung vorgenommen wurde, 
+bitte explizit begründen, wieso nicht?
+g) Haben Risikobewertungen zu einer Anpassung des geplanten
+Einsatzes oder zum Nicht-Einsatz von KI-Anwendungen im Bereich der 
+Bundesbehörden geführt (wenn ja, bitte die Fälle kurz beschreiben)?
+h) In welcher Weise und nach welchem Prozess werden Informationen 
+und Daten zu Risikobewertungen von KI-Modellen durch
+Bundesbehörden und ihre jeweiligen Ergebnisse so dokumentiert, dass die
+Erkenntnisse auch anderen zur Verfügung stehen?
+i) Wie wurde das Risiko untersucht und bewertet, dass die jeweilige KI-
+Anwendung zur Diskriminierung von einzelnen Gruppen, wie z. B. 
+Frauen, Schwarzen Menschen, Menschen mit Beeinträchtigung, armen 
+Menschen und anderen, beitragen könnte?
+j) Welche Maßnahmen ergreift die Bundesregierung jeweils konkret, um 
+die Risiken der Diskriminierung so weit wie möglich zu minimieren?
+Die Antworten auf die Fragen 2c bis j können der Anlage 4 entnommen
+werden.* Ein Teil der Antwort kann aufgrund entgegenstehender überwiegender 
+Belange des Staatswohls nicht erfolgen, auch nicht in eingestufter Form.
+Hierzu wird auf die Vorbemerkung der Bundesregierung verwiesen.
+ 3. In welchen obersten Bundesbehörden existieren Dienstanweisungen und 
+Handreichungen zum Einsatz von KI, und was ist jeweils der zentrale 
+Regelungsgehalt der Dienstanweisungen bzw. Gegenstand der
+Handreichungen?
+Am 27. März 2025 wurden die Leitlinien für den Einsatz Künstlicher
+Intelligenz in der Bundesverwaltung (KI-Leitlinien) veröffentlicht. Sie setzen allge-
+* Von einer Drucklegung der Anlage wird abgesehen. Diese ist auf Bundestagsdrucksache 21/2892 auf der Internetseite des Deutschen Bundestages abrufbar.
+meine Leitplanken für die Nutzung von KI in der Bundesverwaltung (BMI – 
+Publikationen – Leitlinien für den Einsatz Künstlicher Intelligenz in der
+Bundesverwaltung). In den in der Anlage 5 genannten obersten Bundesbehörden 
+bestehen darüber hinaus Dienstanweisungen/Handreichungen mit dem dort
+genannten Inhalt.*
+ 4. Welche KI-Anwendungen wurden seit Inkrafttreten der KI-Verordnung 
+am 1. August 2024 beendet oder deren Entwicklung oder Pilotierung
+gestoppt, weil sie verbotene Praktiken gemäß Artikel 5 KI-VO darstellten?
+Die Bundesregierung ist entschlossen, die Vorgaben der KI‑Verordnung strikt 
+umzusetzen. Die Bundesverwaltung nutzt keine KI-Anwendungen, sofern sie 
+verbotene Praktiken gemäß Artikel 5 KI-VO darstellen.
+ 5. Wie und in welchen Anwendungen finden Evaluierungen der
+Algorithmen-basierten Entscheidungen, automatisierten Mustererkennungen und 
+KI (inklusive generativer KI) statt (bitte nach Bundesministerien und 
+nachgelagerten Behörden, Angabe zur Evaluierung bzw. zum
+Evaluationsergebnis in wesentlichen Punkten sowie Angabe zur Veröffentlichung 
+tabellarisch aufschlüsseln, siehe Bundestagsdrucksache 20/12191)?
+a) Wer hat die Evaluierung durchgeführt?
+b) Welche Aspekte wurden evaluiert, und welche Kriterien wurden
+dabei angelegt?
+c) Wurde oder wird das vollständige Ergebnis der Evaluierung
+veröffentlicht, und wenn ja, wo ist es zu finden?
+d) Wenn keine Evaluierung durchgeführt wird, warum nicht (bitte
+ausführlich begründen)?
+Für die Beantwortung von Frage 5 wird auf die Anlage 6 verwiesen.*
+ 6. Wie plant die Bundesregierung, ein ausreichendes Niveau an KI-
+Kompetenz gemäß Artikel 4 KI-VO bei allen Mitarbeitenden, die mit dem
+Betrieb und der Nutzung von KI-Systemen befasst sind, sicherzustellen, 
+und welche Kompetenzen sind aus Sicht der Bundesregierung hier
+jeweils aufzubauen?
+Die Bundesakademie für öffentliche Verwaltung im Bundesministerium des
+Innern (BAköV) hat als Sensibilisierungs- und Qualifizierungsprogramm den 
+Lernpfad „Kompetenzaufbau zum Einsatz von KI in der öffentlichen
+Verwaltung“ aufgelegt. Dieser Lernpfad wird seitdem stetig weiterentwickelt und
+verbindet Fortbildungsveranstaltungen mit On-Demand-Fortbildungsmaßnahmen. 
+Die BAköV unterstützt mit ihren Präsenz- und Online-Maßnahmen die
+Bundesbehörden bei der Sicherstellung eines ausreichenden Niveaus an KI-Kompetenz 
+der eigenen Mitarbeitenden und greift dazu im Lernpfad verschiedene
+Anforderungsprofile auf, um die erforderlichen Kompetenzen passend zum jeweiligen 
+Tätigkeitsprofil der Beschäftigten zuzuordnen.
+* Von einer Drucklegung der Anlage wird abgesehen. Diese ist auf Bundestagsdrucksache 21/2892 auf der Internetseite des Deutschen Bundestages abrufbar.
+ 7. An welchen weiteren Forschungsvorhaben, Pilotprojekten und
+Reallaboren zur Thematik (teil)automatisierter Entscheidungsprozesse sowie 
+automatisierter Mustererkennungen und KI (inklusive generativer KI) 
+beteiligen sich die Bundesministerien (inklusive Bundeskanzleramt und 
+nachgeordnete Behörden) bzw. initiieren oder unterstützen diese seit dem 
+1. Januar 2024 (bitte tabellarisch für jedes Bundesministerium, inklusive 
+Bundeskanzleramt sowie nachgeordnete Behörden, nach
+Forschungsvorhaben, Pilotprojekt und bzw. oder Reallabor, Kosten und Gesamtkosten 
+sowie Jahr [Beginn und Ende], wie in Bundestagsdrucksache 20/430, 
+aufschlüsseln), und inwiefern sind Nachhaltigkeitskriterien und
+Nachhaltigkeitsinformationen wie die Abschätzung und Dokumentierung
+möglicher schädlicher Klimawirkungen durch den Einsatz von KI eine
+verbindliche Förderbedingung?
+ 8. Welche Haushaltsmittel stehen im Jahr 2025 für die Förderung und den 
+Einsatz von KI (bitte aufgeschlüsselt je Ressort die Gesamtsumme
+verfügbarer Fördermittel und die Gesamtsumme verfügbarer Mittel für den 
+Einsatz von bzw. für Bundesbehörden angeben) zur Verfügung?
+ 9. Welche Mittel dieser Gesamtsumme sind zum Zeitpunkt der Kleinen
+Anfrage seit dem 1. Januar 2025 hierfür schon abgeflossen (bitte
+aufgeschlüsselt je Ressort die Gesamtsumme verfügbarer Fördermittel und die 
+Gesamtsumme verfügbarer Mittel für den Einsatz von bzw. für
+Bundesbehörden angeben)?
+Die Fragen 7, 8 und 9 werden gemeinsam beantwortet.
+Die Antworten der Fragen 7, 8 und 9 können der Anlage 7 entnommen
+werden.*
+10. Mit welchen Programmen und Mitteln fördern das Bundesministerium 
+für Gesundheit (BMG), das Bundesministerium des Innern (BMI), das 
+Bundesministerium für Forschung, Technologie und Raumfahrt 
+(BMFTR) sowie das Bundesministerium für Digitales und
+Staatsmodernisierung (BMDS) KI-Projekte, KI-Pilotprojekte, KI-Einsätze oder
+Einsatzplanungen (inklusive generativer KI) in den Ländern (inklusive 
+Kommunen) seit dem 1. April 2024 (bitte nach Programm bzw.
+Maßnahme, Fördermittelumfang sowie Bundesland auflisten)?
+Seit dem 1. April 2024 hat das BMG die folgenden Projekte begonnen zu
+fördern:
+Projekt Fördermittelumfang 
+Laufzeit
+Bundesland
+ELISEplus 147.006,00 € Niedersachsen
+Unite 260.098,00 € Berlin
+Im Übrigen sind der Bundesregierung keine Förderungen bekannt.
+* Von einer Drucklegung der Anlage wird abgesehen. Diese ist auf Bundestagsdrucksache 21/2892 auf der Internetseite des Deutschen Bundestages abrufbar.
+11. Hält die Bundesregierung an der bestehenden Strategie Künstliche
+Intelligenz (www.bundeswirtschaftsministerium.de/Redaktion/DE/Publikatio
+nen/Technologie/strategie-kuenstliche-intelligenz-fortschreibung-2020.p
+df?__blob=publicationFile&v=1) fest oder plant sie aktuell eine
+Anpassung oder Fortschreibung, und wie ist in diesem Fall der Arbeitsstand?
+Die in der KI-Strategie der Bundesregierung formulierten übergreifenden Ziele 
+haben Bestand und werden von der Bundesregierung weiter intensiv bearbeitet 
+bspw. im Rahmen der Hightech Agenda Deutschland.
+12. Wie lautet der aktuelle Umsetzungsstand der Bundesregierung
+hinsichtlich Einrichtungen, die den Einsatz von KI in der Verwaltung
+unterstützen sollen, (bitte jeweils Stand beschreiben, bereits eingesetzte und im 
+Jahr 2025 oder darüber hinaus verfügbare Ressourcen nach dem
+aktuellen Haushaltsentwurf der Bundesregierung für 2026 unterteilt nach 
+Stellen und Haushaltsmitteln angeben, die Governance bzw.
+Organisationsstruktur beschreiben – was genau wird dort konkret aufgebaut, z. B. 
+eine Web-Plattform, ein Referat, eine eigenständige Behörde, und wer ist 
+konkret zuständig bzw. hat die Federführung inne [soweit sich die
+Zuständigkeit im Rahmen neuer Ministerialzuschnitte ändert, bitte
+angeben]),
+a) hinsichtlich des Beratungs- und Evaluierungszentrums für Künstliche 
+Intelligenz (Arbeitstitel „BeKI“; siehe Frage 43 der Abgeordneten 
+Anke Domscheit-Berg auf Bundestagsdrucksache 20/13684)?
+Mit dem im Aufbau befindlichen Beratungszentrum für Künstliche Intelligenz 
+(„BeKI“) hat das Bundesministerium des Innern und für Heimat (BMI) eine 
+zentrale Anlauf- und Koordinierungsstelle für KI-Vorhaben in der
+Bundesverwaltung geschaffen. Der Aufbau des BeKI erfolgte durch die im BMI
+eingerichtete Projektgruppe Künstliche Intelligenz (PG KI). Für die Wahrnehmung 
+der Gesamtaufgaben der PG KI waren im Jahr 2024 elf Vollzeitäquivalente
+eingeplant. Die PG KI wird in das Referat DS I 7 „KI Bund“ im BMDS
+übergehen. Dies betrifft auch die Aufgabe zum weiteren Aufbau des BeKI.
+Der Regierungsentwurf zum Haushaltsplan 2026 sieht beim Titel 06 532 10, 
+Digitale Gesellschaft und Datenpolitik, für den Untertitel „Beratungs- und
+Evaluierungszentrum für Künstliche Intelligenz (BeKI)“ Ausgaben in Höhe von 
+2.400.000 Euro vor und damit in gleicher Höhe wie der Haushaltsplan 2025. 
+Das parlamentarische Verfahren zur Aufstellung des Haushaltsplans 2026 ist 
+noch nicht abgeschlossen.
+Das BeKI soll der Bundesverwalutung Expertise zur verantwortungsvollen 
+Nutzung von KI in Form eines Beratungsangebots zur Verfügung stellen,
+gezielt den sektor- und ebenenübergreifenden Austausch und die Vernetzung
+relevanter Stakeholder fördern sowie zukünftig zu Fortbildungsmaßnamen zu KI 
+beraten und deren (Weiter-)Entwicklung anstoßen. Die Tätigkeitsfelder des Be-
+KI sind Beratung, Vernetzung, Kompetenzaufbau, Wissensmanagement und die 
+Koordinierung übergreifender KI-Themen. Dabei wird auf bereits gewonnenen 
+Erfahrungen aufgebaut und werden etablierte Strukturen und Formate
+einbezogen, um diese durch koordinative Unterstützung des BeKI zu stärken. Um 
+einen unmittelbaren Mehrwert für die Bundesverwaltung sicherzustellen, führt 
+das KI Bund Referat im Rahmen des Aufbaus des BeKI bereits mehrere
+Vorhaben durch: Der online verfügbare Marktplatz der KI-Möglichkeiten dient als 
+KI-Transparenzregister und Matching-Plattform für KI-Systeme der deutschen 
+Verwaltung. Er ermöglicht einen umfassenden und transparenten Überblick 
+über den KI-Einsatz, fördert den Austausch sowie Kooperationen und
+erschließt Nachnutzungspotentiale bestehender KI-Systeme. Das KI-System KI-
+PITZ ist die zentrale Plattform für den sicheren und effizienten Einsatz von
+generativer KI in der Bundesverwaltung. Durch den Einsatz KI-basierter
+Anwendungsfälle, die auf die Anforderungen der öffentlichen Verwaltung
+zugeschnitten sind, bietet KIPITZ Beschäftigten der Bundesverwaltung Unterstützung bei 
+den alltäglichen Verwaltungsaufgaben. Das BeKI stellt ebenfalls KI-Leitlinien 
+als Handlungsempfehlungen für einen verantwortungsvollen KI-Einsatz in der 
+Bundesverwaltung bereit.
+b) hinsichtlich der Algorithmenbewertungsstelle für Behörden und
+Organisationen mit Sicherheitsaufgaben (Projekt „ABOS“; siehe Antwort 
+der Bundesregierung zu Frage 83 der Abgeordneten Anke Domscheit-
+Berg auf Bundestagsdrucksache 20/1355 bzw.
+Bundestagsdrucksache 20/3020)?
+Die Bundesregierung treibt die Prüfung und den Aufbau der ABOS,
+insbesondere vor dem Hintergrund der europäischen KI-Verordnung, weiter voran. Das 
+Projekt ist noch nicht abgeschlossen. Im Übrigen wird auf die Antworten der 
+Bundesregierung auf die in der Fragestellung genannten parlamentarischen
+Anfragen verwiesen.
+c) hinsichtlich der vom ITZBund betreuten KI-Plattform für die
+Bundesverwaltung (KIPITZ)?
+Es wird auf die Anlage 8 verwiesen.* Die Frage 12c wurde dahingehend
+ausgelegt und beantwortet, dass Ressourcen und Haushaltsmittel für die
+Bereitstellung von KIPITZ erfragt werden. Der Antwortbeitrag beinhaltet daher ITZ-
+Bund-eigene Haushaltsmittel und Ressourcen, aber auch durch Kunden zur 
+Auftragserfüllung dem ITZBund überlassene Haushaltsmittel.
+d) hinsichtlich des in der Datenstrategie angekündigten Aufbaus eines 
+KI-Kompetenzzentrums für die öffentliche Verwaltung?
+Das „KI-Kompetenzcenter der Bundesverwaltung (KI-KC)“ wurde als
+Maßnahme der Datenstrategie der Bundesregierung der 20. Legislaturperiode bei 
+der Bundesdruckerei (BDr) eingerichtet, um Kompetenzen im Bereich der 
+Künstlichen Intelligenz zu bündeln und der unmittelbaren Bundesverwaltung 
+zur Verfügung zu stellen. Mit Proof-of-Values (PoV) sollten niedrigschwellig 
+Mehrwerte der Nutzung von KI in der BV identifiziert werden. Im Unterschied 
+zum vom BMI eingerichteten „Beratungszentrum für Künstliche Intelligenz 
+(BeKI)“ stellte das KI-KC technisches Know-How zur Verfügung, um dieses in 
+agilen Projekten für die Entwicklung von Prototypen zu nutzen. Im Juni 2023 
+wurde ein Rahmenvertrag für die unmittelbare Bundesverwaltung zum Aufbau 
+und zur Nutzung des KI-KC zwischen BMF und Bundesdruckerei geschlossen. 
+PoVs konnten über Einzelprojektverträge mit der BDr vereinbart werden. Für 
+2024 wurden rund 9,5 Mio. € zur Verfügung gestellt, 2025 wurden rund 
+1,3 Mio. € (bis zum Februar 2025) aufgewendet. Die Bundesdruckerei betreibt 
+seitdem das KI-KC eigenständig fort: die unmittelbare Bundesverwaltung kann 
+mittels des Rahmenvertrags bis Ende 2025 und mit eigenen Haushaltsmitteln 
+PoV-, Projekte beauftragen. Das KI-KC betreute acht Projekte aus den Mitteln 
+des KoPa, zu den Projektpartnern gehörten BMWSB, BMWK und die
+Bundesfinanzverwaltung mit dem BMF. Der überwiegende Fokus lag in der
+Nutzbarmachung generativer KI.
+* Von einer Drucklegung der Anlage wird abgesehen. Diese ist auf Bundestagsdrucksache 21/2892 auf der Internetseite des Deutschen Bundestages abrufbar.
+13. Plant die Bundesregierung weitere zentrale Einrichtungen, die sich mit 
+dem Einsatz von KI-Anwendungen in der Bundesverwaltung
+beschäftigen sollen, und wenn ja, welche mit welchen Aufgaben (bitte die in 
+Frage 12 erfragten Angaben für jede dieser Einrichtungen ergänzen)?
+Die Bundesregierung plant nach derzeitigem Kenntnisstand keine weiteren
+zentralen Einrichtungen für den Einsatz von KI-Anwendungen in der
+Bundesverwaltung.
+14. Wie lautet der aktuelle Stand der Test- bzw. Untersuchungsphase, in der 
+KI-Potenziale im Bereich der obersten Bundesbehörden geprüft werden 
+sollen und deren Bestandteil auch explizit die Entwicklung passender
+Risikoklassenmodelle ist (siehe Antwort der Bundesregierung zu Frage 9 
+auf Bundestagdrucksache 20/3020 und gleichlautende Antwort zu 
+Frage 9 auf Bundestagsdrucksache 20/6862)?
+a) Was hat die Prüfung der KI-Potenziale im Bereich der obersten
+Bundesbehörde in den vergangenen zwei Jahren ergeben, gibt es
+Prüfberichte, und wenn ja, sind sie öffentlich verfügbar bzw. können sie den 
+Fragestellenden zur Verfügung gestellt werden?
+b) Wer ist innerhalb der Bundesregierung verantwortlich für die
+Entwicklung passender Risikoklassenmodelle, und wie erfolgt die
+behördenübergreifende Koordinierung der Prüfung der KI-Potenziale?
+c) Wie ist der Zeitplan für die Prüfung der KI-Potenziale für den Bund, 
+wann soll diese Prüfung abgeschlossen sein, und gibt es Meilensteine 
+bis dahin?
+d) Welche Zwischenergebnisse zur Entwicklung passender
+Risikomodelle gibt es seit der ersten Antwort der Bundesregierung aus dem 
+Jahr 2022, wurden verschiedene Modelle entwickelt und bzw. oder 
+getestet,wenn ja, mit welchem Ergebnis, und bei welchen Vorhaben?
+e) Ab wann wird bzw. werden ein oder mehrere Risikoklassenmodelle 
+für den Einsatz von KI in Bundesbehörden zur Verfügung stehen, 
+und wird die Anwendung eines Risikoklassenmodells vor dem
+Einsatz neuer KI-Systeme verpflichtend sein?
+Fragen 14 a) und c) werden zusammen beantwortet: Geschäftsprozesse werden 
+durch den Einsatz von KI spürbar erleichtert. Die Nutzung und Verbreitung von 
+KI-Anwendungen in der gesamten Bundesverwaltung sollen weiter ausgebaut 
+werden und auch anspruchsvollere Fachaufgaben unterstützen.
+Die KI-Potenziale des Bundes werden fortlaufend geprüft und finden sich auch 
+in der Modernisierungsagenda wieder. Aufgrund der rasanten Entwicklung der 
+Technologie ist eine fortlaufende Evaluierung erforderlich. Dies betrifft
+beispielsweise auch die Potentiale von AgenticAI in der Bundes-, Landes- und 
+Kommunalverwaltung.
+Die Fragen 14 b), d) und e) werden zusammen beantwortet: Derzeit führt jede 
+Behörde individuell eine Prüfung und Einstufung ihrer KI-Systeme nach der 
+KI-VO durch. Die Risikomodelle der KI-VO sind hierfür im Rahmen der
+gesetzlichen Anforderungen maßgeblich. Die BNetzA bietet mit ihrem KI-
+Service Desk eine Unterstützung für Unternehmen, Behörden und Organisationen 
+bei der Umsetzung der KI-Verordnung. Teil des KI-Service Desk ist ebenso 
+eine Hilfe zur Einstufung des KI-Systems nach der in der KI-Verordnung
+genannten Risikoklassen. Darüber hinaus unterstützt das sich im Aufbau
+befindliche Beratungszentrum für Künstliche Intelligenz explizit als Ansprechpartner 
+bei rechtlichen Fragen zur richtigen Eingruppierung in die Risikoklassen,
+wobei der Schwerpunkt auf verwaltungsspezifischen Anforderungen der KI-
+Verordnung liegt.
+15. Zu welchem Ergebnis ist die Bundesregierung bei der Evaluation
+etwaiger Auswirkungen der gesetzlichen Risikoklassifizierung für den KI-
+Einsatz in der Bundesverwaltung gekommen (siehe Antwort der
+Bundesregierung zu Frage 11 auf Bundestagsdrucksache 20/12191)?
+Es wird auf die Antwort zu Fragen 14 b), d) und e) verwiesen.
+16. Plant die Bundesregierung, ggf. auf Basis des derzeit freiwilligen KI-
+Transparenzregisters (https://maki.beki.bund.de/a/bmi-makimo-app/tab
+elle), im Sinne transparenten Verwaltungshandelns die Einrichtung eines 
+vollständigen, verpflichtend zu führenden KI-Registers für KI-
+Anwendungen im staatlichen Einsatz, z. B. entsprechend dem Vorschlag von
+Algorithmewatch e. V. (https://algorithmwatch.org/de/ki-transparenzregiste
+r-dtl/),
+a) bundesweit und für jeglichen KI-Einsatz durch staatliche Stellen, 
+also auch für andere föderale Ebenen?
+b) nur für den KI-Einsatz im Auftrag des Bundes bzw. bei und durch 
+Bundesbehörden?
+c) weder noch (bitte begründen, warum kein KI-Register geplant ist)?
+Die Fragen 16 a)-c) werden gemeinsam beantwortet.
+Der zunächst im BMI und nunmehr im BMDS unter aktiver Mitwirkung und 
+Abstimmung im Ressortkreis entwickelte, öffentlich verfügbare „Marktplatz 
+der KI-Möglichkeiten“ (MaKI, www.kimarktplatz.bund.de) ist die zentrale 
+Matching-Plattform für KI-Systeme in der Verwaltung und bringt Ministerien 
+und Behörden mit passenden KI-Systemen und Bedarfen zueinander.
+Gleichzeitig dient der MaKI als Grundlage eines nationalen KI-Transparenzregisters 
+für die gesamte Verwaltung. Um ein möglichst umfassendes Spektrum an KI-
+Systemen in vergleichbar hoher Datenqualität abzubilden, wurden basierend 
+auf dem Auftrag des IT-Rats im Ressortkreis „Regelungen für die Eintragung 
+von KI-Systemen“ (MaKI – Startseite – Regelungen zur Eintragung von KI-
+Systemen) ressortübergreifend entwickelt und gemeinsam abgestimmt. Dabei 
+wurden Anliegen der Ressorts bspw. zu erforderlichen Ausnahmen von der 
+Eintragung aus Sicherheits- oder Geheimschutzgründen aufgenommen und
+berücksichtigt. Die Regelungen zur Eintragung haben weiterhin Bestand und sind 
+wichtig für die Erreichung der Ziele der Bundesregierung zur Förderung des 
+KI-Einsatzes in der Verwaltung. Im Übrigen wird auf die Antwort zu Frage 18 
+verwiesen.
+17. Wie stellt die Bundesregierung sicher, dass es nicht zu Parallel- und
+Doppelentwicklungen von KI-Anwendungen in verschiedenen
+Geschäftsbereichen kommt, und dass jede Entwicklung von KI-Anwendungen der 
+gesamten Bundesverwaltung zur Nachnutzung zur Verfügung gestellt 
+wird?
+Das BMDS erhält gem. Organisationserlass des Bundeskanzlers vom 6. Mai 25 
+einen Zustimmungsvorbehalt für wesentliche IT-Ausgaben der unmittelbaren 
+Bundesverwaltung. Der BMDS-Zustimmungsvorbehalt ist Bestandteil der
+Modernisierungsagenda für Staat und Verwaltung (Bund) (Siehe BMDS (2025): 
+Modernisierungsagenda für Staat und Verwaltung (Bund), Seite 32. URL: 
+https://bmds.bund.de/fileadmin/BMDS/Dokumente/Modernisierungsagenda_ba
+rrierefrei-neu.pdf).
+Der BMDS-Zustimmungsvorbehalt dient dem Ziel, ressortübergreifend Mittel 
+für die Digitalisierung der unmittelbaren Bundesverwaltung effektiver und
+effizienter einzusetzen. Hierzu gehört unter anderem auch als Ziel,
+Doppelstrukturen zu vermeiden sowie auf Wiederverwendbarkeit zu prüfen.
+Der Marktplatz der KI-Möglichkeiten (MaKI) dient darüber hinaus als KI-
+Transparenzregister und innovative Matching-Plattform für KI-Systeme in der 
+gesamten öffentlichen Verwaltung. Hier finden sich zahlreiche Informationen 
+rund um die Nutzung des MaKI. Der MaKI soll dazu beitragen,
+Doppelentwicklungen zu vermeiden, Ressourcen bei der Entwicklung von KI-Systemen 
+durch Nachnutzung oder das Teilen von Best-Practices zu schonen, und
+Synergiepotenziale zu nutzen. Er soll den Austausch und die Kooperation zwischen 
+Bürgerinnen und Bürgern, Wirtschaft, Forschung sowie Ministerien und
+Behörden ermöglichen. Der MaKI adressiert auch Forderungen aus der
+Zivilgesellschaft zum transparenten, ethischen Einsatz von KI durch die Verwaltung, und 
+schafft so Vertrauen.
+18. Wie ist der Umsetzungsstand hinsichtlich des Beschlusses des IT-
+Planungsrates vom 13. November 2024, den KI-Marktplatz auch für die 
+Länder pilotweit zu öffnen, und hat die Bundesregierung die
+erforderlichen Zugänge im ersten Quartal 2025 bereitgestellt (wenn nein, bitte 
+begründen)?
+Der MaKI wurde in Umsetzung des Beschlusses des IT-Planungsrates vom 
+13. November 2024 in fünf Bundesländern (Baden-Württemberg, Hamburg, 
+Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen) sowie
+einigen Kommunen erfolgreich und plangemäß pilotiert. Mit der aktuellen Version 
+wird erstmals die Einbindung der Länder- und Kommunalverwaltung für den 
+Austausch und die Eintragung von KI-Systemen technisch ermöglicht; ein 
+wichtiger Meilenstein auf dem Weg zum bundesweiten Roll-out. Zudem enthält 
+das Update Funktionen und Optimierungen auf Basis des bisherigen
+Nutzungsfeedbacks. Zunächst werden sich die pilotierenden Länder und Kommunen auf 
+dem MaKI registrieren, und sukzessive erste KI-Systeme eintragen.
+19. Welchen Zeitplan hat die Bundesregierung für die Verabschiedung eines 
+Gesetzes zur Umsetzung der KI-Verordnung und den Aufbau
+entsprechender Aufsichtsstrukturen, und wie ist der aktuelle Arbeitsstand?
+Der Referentenentwurf für das Gesetz zur Durchführung der KI-Verordnung 
+hat die Ressortabstimmung bis zum 24. September 2025 und die Länder- und 
+Verbändeanhörung bis zum 10. Oktober 2025 durchlaufen. Das für die KI-
+Verordnung federführende BMDS konsolidiert derzeit den Referentenentwurf. Das 
+Vorhaben unterliegt hoher Priorität der Bundesregierung, die intensiv daran
+arbeitet, die Ressortabstimmung so zügig wie möglich zu finalisieren und den 
+Referentenentwurf dem Kabinett vorzulegen.
+20. Hat die Bundesregierung bis zum 2. August 2025 der EU-Kommission 
+einen Bericht gemäß Artikel 70 Absatz 6 der KI-Verordnung übermittelt, 
+und welchen Inhalt hatte dieser Bericht?
+Die Bundesregierung übermittelte der EU-Kommission bis zum 2. August 2025 
+einen Bericht über die Durchführung der KI-Verordnung in Deutschland, der 
+auch Ausführungen über den Sachstand bezüglich der finanziellen Mittel und 
+des Personals der zuständigen nationalen Behörden gemäß Artikel 70 Absatz 6 
+KI-Verordnung enthielt. Die Bundesregierung teilte der EU-Kommission mit, 
+dass der erforderliche personelle und finanzielle Aufwand für eine
+angemessene Ausstattung der Marktüberwachungsbehörden und der einzubeziehenden
+Behörden derzeit ermittelt werde und im parlamentarischen Haushaltsverfahren 
+festgelegt werden müsse. Es sei zum damaligen Zeitpunkt daher nicht möglich, 
+genauere Angaben, etwa zu den hierfür anvisierten Stellen oder dem
+bereitgestellten Haushaltsbudget, zu machen. Ziel bei der Ausstattung werde aber eine 
+effiziente und ressourcenschonende Durchführung sein.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
