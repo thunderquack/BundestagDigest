@@ -1,0 +1,2737 @@
+Deutscher Bundestag Drucksache 21/2999
+21. Wahlperiode 01.12.2025 
+Gesetzentwurf 
+der Bundesregierung 
+Entwurf eines Gesetzes zur Neuregelung des Rechtsrahmens für intelligente 
+Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu anderen 
+Verkehrsträgern und die Datenbereitstellung über den Nationalen Zugangspunkt 
+A. Problem und Ziel
+Mit der Richtlinie 2010/40/EU des Europäischen Parlaments und des Rates vom
+7. Juli 2010 über den Rahmen für die Einführung intelligenter Verkehrssysteme
+im Straßenverkehr und deren Schnittstellen zu anderen Verkehrsträgern (ABl. L
+207 vom 6.8.2010, S. 1) wurde ein europaweiter Rechtsrahmen geschaffen. In
+Deutschland erfolgt die nationale Umsetzung durch das Intelligente-
+Verkehrssysteme-Gesetz (IVSG).
+Die Richtlinie 2010/40/EU (IVS-Richtlinie) wurde mit der Richtlinie (EU) 
+2023/2661 vom 22. November 2023 grundlegend überarbeitet. Die wesentlichen 
+Änderungen der Überarbeitung der Richtlinie sind: 
+1. Erweiterter Geltungsbereich: Neu aufgenommen wurden u. a. die
+zeitnahe Aktualisierung von Mobilitätsdaten für multimodale Informations-
+, Buchungs- und Ticketing-Apps sowie Maßnahmen zur Entwicklung
+und Implementierung kooperativer intelligenter Verkehrssysteme –
+insbesondere zur Unterstützung vernetzter und automatisierter Mobilität.
+Zudem wird die EU-weite Einführung des ersten IVS-Dienstes zur
+„Bereitstellung sicherheitsrelevanter Straßenverkehrsinformationen“
+angestrebt.
+2. Verbesserte Interoperabilität: Die Verfügbarkeit, Qualität und
+Interoperabilität von Systemen Daten und Dienste sollen erhöht werden.
+3. Digitalisierungsziele: Vorgesehen ist die Digitalisierung von Prozessen
+zur Bereitstellung verkehrsrechtlicher Anordnungen sowie die
+Digitalisierung bestehender Datenbestände.
+4. Aktualität von Verkehrsdaten: Die Richtlinie fordert die Ausweitung auf
+ein breiteres Spektrum relevanter Echtzeitdaten, um z. B. die Genauigkeit
+von Routenplanern und Fahrerassistenzsystemen zu verbessern.
+5. Arbeitsprogramm: Zur Weiterentwicklung der Spezifikationen wird ein
+Arbeitsprogramm mit einer Laufzeit von fünf Jahren eingeführt.
+Diese Änderungen der Richtlinie zielen darauf ab, die Einführung intelligenter 
+Verkehrssysteme zu beschleunigen, die Effizienz sowie Sicherheit im Verkehr zu 
+erhöhen und die Bürokratieaufwendungen zur Umsetzung zu reduzieren. Hierzu 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+werden neue Verpflichtungen für die Mitgliedstaaten eingeführt. Beispielsweise 
+ist im Bereich des gemäß Verordnung (EU) 2024/1679 vom 13. Juni 2024
+definierten transeuropäischen Kern- und Gesamtstraßennetzes der Dienst zur
+Bereitstellung sicherheitsrelevanter Straßenverkehrsinformationen (z. B. zu
+Falschfahrern, glatter Fahrbahn, Hindernissen oder Personen auf der Fahrbahn) bis
+spätestens 31. Dezember 2026 einzuführen. Darüber hinaus sind bis zum 31. Dezember 
+2025 neue oder geänderte statische und dynamische Informationen – etwa zu
+Geschwindigkeitsbegrenzungen, Brücken- und Tunnelnutzbarkeit, Baustellen oder 
+Straßensperrungen – als maschinenlesbare Daten über den nationalen
+Zugangspunkt (Mobilithek) bereitzustellen. Bereits vorhandene Informationen zu diesen 
+Datenarten sind innerhalb von zwei Jahren zu digitalisieren und ebenfalls
+bereitzustellen. Ziel dieser Verpflichtungen ist es, sicherzustellen, dass bestehende
+sowie neue Regelungen für bestimmte geografische Anwendungsbereiche als
+wiederverwendbare Daten verfügbar sind. Die Richtlinie verpflichtet jedoch weder 
+zur Erhebung zusätzlicher Informationen noch soll sie dazu führen, dass bisher 
+über die Mobilithek bereitgestellte Daten nicht mehr bereitgestellt und bei
+Änderung nicht mehr aktualisiert werden.  
+Mit dem hiesigen Gesetzesentwurf sollen die neuen Vorgaben aus der IVS-
+Richtlinie umgesetzt werden. Neben der Umsetzung der revidierten IVS-Richtlinie
+gewährleistet das Gesetz die Durchführung der der Verordnung 2023/1804 über den 
+Aufbau der Infrastruktur für alternative Kraftstoffe (Alternative Fuels
+Infrastructure Regulation, kurz AFIR), die Bereitstellungspflicht bereits erfasster
+Fahrzeugauslastungsdaten im Linienverkehr und konkretisiert die Regelungen zur
+Einbeziehung der Daten über Verkehrspläne, Verkehrsvorschriften und -
+beschränkungen sowie befristete Verkehrsmanagementmaßnahmen in die von Dienstanbietern 
+angebotenen Diensten. 
+B. Lösung
+Die Umsetzung der Änderungen der IVS-Richtlinie in nationales Recht erfordert 
+eine grundlegende Überarbeitung des IVSG und damit dessen Neufassung. Die 
+Umsetzung der Dienste- und Datenbereitstellungsverpflichtungen macht die
+Einrichtung einer Koordinierungsstelle bei der Nationalen Stelle erforderlich, um die 
+harmonisierte Umsetzung durch die verschiedenen Verpflichteten (z. B.
+Straßenbetreiber, Verkehrsunternehmen, im Bereich der Verkehrsinformationen tätige 
+Rundfunkanbieter und Diensteanbieter) sicherzustellen. Regelungen zur
+Organisation und zur Nutzung des Nationalen Zugangspunkts sowie zur
+Qualitätssicherung und zur Unterstützung der Berichterstattung an die Europäische Kommission 
+sind ebenfalls erforderlich. 
+Mit dem neugefassten IVSG wird eine nationale gesetzliche Regelung geschaffen, 
+die an geeigneten Stellen direkt auf die grundlegenden Bestimmungen der IVS-
+Richtlinie sowie der delegierten Rechtsakte verweist. Dadurch kann bei weiteren 
+Änderungen im EU-Recht – insbesondere bei Änderungen der Anlagen zur IVS-
+Richtlinie – auf eine gesetzliche Anpassung weitgehend verzichtet werden.
+Solche Revisionen sind zeitnah zu erwarten. 
+Auch wird bei der Umsetzung gewährleistet, dass die bereits existierenden
+Landes- und Kommunalsysteme weiterhin als Datenmittler zur Nationalen Stelle
+genutzt werden können, wodurch keine neuen Strukturen geschaffen oder
+bestehende Systeme ersetzt werden müssen. Das bedeutet: Es entsteht kein zusätzlicher 
+Aufwand für die Entwicklung neuer technischer Lösungen, da bewährte Systeme 
+weiterhin eingebunden bleiben.  
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Zudem werden die Regelungen der Delegierten Verordnungen zur IVS-Richtlinie 
+zur Ab-gabe von Erklärungen konkretisiert und hierüber zugleich sichergestellt, 
+dass größtenteils erforderliche Angaben zu den bereitgestellten Daten für die
+Berichterstattung nach Art. 17 der IVS-Richtlinie erhoben werden, so dass die
+Informationen der Eigenerklärungen durch die Nationale Stelle in Bezug auf die
+geographischen Abdeckungen durch Erweiterung des Bundesinformationssystem 
+Straße (BISStra) ausgewertet und für die Berichterstattung zusammengeführt 
+werden können. Dies bedeutet: Es entsteht bei vielen Dateninhabern keine
+Notwendigkeit die in Anhang III der IVS-Richtlinie verwendeten geographischen
+Abdeckungen in ihren technischen Lösungen zu implementieren, um selbst die
+erforderlichen Auswertungen zu den bereitgestellten Daten bezogen auf die
+geographische Abdeckung für die Erstellung der Fachbeiträge für die Berichterstattung 
+durchzuführen.  
+Neben der Umsetzung der revidierten IVS-Richtlinie wird mit dem hiesigen
+Gesetz auch die Durchführung der Verordnung 2023/1804 über den Aufbau der
+Infrastruktur für alternative Kraftstoffe , eine weitere Regelung aus den Delegierten 
+Verordnungen konkretisiert und die Bereitstellungspflicht von bereits erfassten 
+Daten zur Auslastung der Fahrzeuge im Linienverkehr gewährleistet, wobei auch 
+Folgeänderungen, wie im Personenbeförderungsgesetzes (PBefG), notwendig 
+sind. 
+C. Alternativen
+Keine. Es besteht eine Pflicht zur nationalen Umsetzung der Revision der
+Richtlinie 2010/40/EU durch die Richtlinie (EU) 2023/2661 bis zum 21. Dezember 
+2025 als auch zur effektiven Durchführung der AFIR. 
+D. Haushaltsausgaben ohne Erfüllungsaufwand
+Für den Bundeshaushalt entstehen Mehrausgaben für den Betrieb des Nationalen 
+Zugangspunkts, die Ausstattung der Nationalen Stelle, die Entwicklung eines
+Systems zur Datenqualitätsverbesserung sowie für Qualitätssicherung und EU-
+Berichtspflichten und die Daten- und Dienstebereitstellung durch die
+Bundesfernstraßenverwaltung. Einnahmen sind nicht zu erwarten. 
+Dem Bundesministerium für Verkehr (BMV) entstehen jährliche Personalkosten 
+in der Höhe von 322 889 Euro, jährliche Sacheinzelkosten in der Höhe von 2 060 
+000 Euro sowie jährliche Gemeinkosten von 884 052 Euro zusätzlich infolge der 
+neuen Aufgaben für den Betrieb der Mobilithek, die u.a. die Aufgaben des
+Nationalen Zugangspunktes wahrnimmt. Zudem muss die Mobilithek für die neuen 
+Anforderungen der Datenbereitstellung angepasst werden. Hierfür entstehen
+zusätzlich einmalige Personalkosten in der Höhe von 161 445 Euro,
+Sacheinzelausgaben in der Höhe von 3 250 000 Euro sowie Gemeinkosten von 1 265 646 Euro. 
+Gemäß den Ergebnissen zur Ermittlung und Darstellung des Erfüllungsaufwands 
+sind für die Wahrnehmung der Fachaufgaben insgesamt auf Dauer Planstellen
+erforderlich (eine im höheren Dienst (hD) und eine im gehobenen Dienst (gD))
+sowie temporär eine Planstelle (0,5 hD). Soweit sich das BMV für den fachlichen 
+und technisch administrativen Betrieb einer nachgeordneten Behörde bedient 
+(z.B. BASt) sind die entsprechenden Bedarfe zu verschieben. Für die
+Haushaltsjahre ab dem Jahr 2026 stellt sich der Stellen- und Sachmittelbedarf wie folgt dar: 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Personalmittel: 
+2026: Einrichtung von 8 Planstellen, davon drei volle und temporär 
+drei halbe hD-Stellen und eine volle und temporär eine halbe 
+gD-Stellen) 
+ab 2027: Weiternutzung 4 Planstellen (drei hD-Stellen und eine gD-
+Stelle) 
+Sachmittel (ohne Gemeinkosten): 
+2026: 3 185 000 Euro (für Betrieb 2 060 000 Euro und Anpassung der 
+Software 1.125.000 Euro) 
+2027: 3 185 000 Euro (für Betrieb 2 060 000 Euro und Anpassung der 
+Software 1.125.000 Euro) 
+2028: 3 060 000 Euro (für Betrieb 2 060 000 Euro und Anpassung der 
+Software  
+1 000 000 Euro) 
+Ab 2029: 2 060 000 Euro 
+Der Bundesanstalt für Straßenwesen (BASt), werden mit dem IVS-G für die
+Nationale Stelle (bisher 0,5 DP) zusätzliche Aufgaben größeren Umfangs
+zugewiesen. Zudem wird zur Aufgabenwahrnehmung der Nationalen Stelle ein neues IT-
+System zur Datenqualitätsverbesserung benötigt sowie ein zweites, bereits
+vorhandenes IT-System für die Auswertung von Eigenerklärungen zur Erstellung von 
+Beiträgen für die Berichterstellung angepasst. Für die Wahrnehmung der
+Fachaufgaben der Nationale Stelle entstehen jährliche Personalkosten in Höhe von
+insgesamt 2 983 000 Euro, jährliche Sacheinzelkosten in Höhe von 830 000 Euro 
+sowie jährliche Gemeinkosten in Höhe von 877 000 Euro. Zudem entstehen
+zusätzlich einmalige Sacheinzelausgaben in der Höhe von 2 500 000 Euro sowie 
+Gemeinkosten von 735 000 Euro. Gemäß den Ergebnissen zur Ermittlung und 
+Darstellung des Erfüllungsaufwands sind für die Wahrnehmung der
+Fachaufgaben insgesamt 26,12 Planstellen erforderlich (23,12 im höheren Dienst (hD) und 
+drei im gehobenen Dienst (gD)).Für die Haushaltsjahre ab dem Jahr 2026 stellt 
+sich der Stellen- und Sachmittelbedarf wie folgt dar:  
+Personalmittel: 
+2026: Einrichtung von 15 Planstellen (vier für den HH 2026 bereits 
+angemeldet), davon 12 hD-Stellen und 3 gD-Stelle) 
+ab 2027: Beantragung weiterer 11,12 Planstellen (hD-Stellen)) 
+Sachmittel (ohne Gemeinkosten): 
+2026:  2 330 000 Euro (für Betrieb 830 000 Euro und neue bzw.
+Anpassung vorhandener Software 1 500 000 Euro) 
+2027: 1 830 000 Euro (für Betrieb 830 000 Euro und neue bzw.
+Anpassung vorhandener Software 1 000 000 Euro)  
+Ab 2028: 830 000 Euro 
+Ergänzende Hinweise: 
+Soweit die BASt von der Möglichkeit Gebrauch machen würde, einen Dritten mit 
+den Aufgaben der Nationale Stelle zur Koordinierung der Datenbereitstellung
+gemäß Art. 20 AFIR-VO zu beauftragen, würden sich die jährlichen Personalmittel 
+der BASt um 387 000 Euro (4 hD-Stellen) auf 2 596 000 Euro reduzieren. Die 
+Sachkosten wären entsprechend zu erhöhen und die Gemeinkosten anzupassen.  
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Sollte es nicht möglich sein, die BASt mit den danach noch erforderlichen 22,12 
+Personalstellen zur Wahrnehmung der IVS-Aufgaben auszustatten, d.h. nach  
+Auslagerung der Koordinierungsaufgaben zur Datenbereitstellung gemäß AFIR – 
+4 hD-Stellen,  so würden im Minimum mindestens 9 hD Stellen und 1 gD-Stellen 
+bei entsprechendem Anwuchs der Sachkosten um ca. 2 500 000 Euro/Jahr für die 
+Einbindung Dritter benötigt. Die Nationale Stelle wäre hierzu mit folgenden
+zusätzlichen Personalressourcen auszustatten: eine hD-Stelle E 15 für Leitung,  eine 
+hD-Stelle E 14 für IT-Architektur, eine hD-Stelle E 14 für Produkt Management 
+und Auftragnehmersteuerung IT-Systeme, drei hD-Stellen E 13 für Community 
+Management, drei hD-Stellen E 14 für Datenmodelle und Datenanalyse und eine 
+gD-Stelle E 11 für Assistenz und Vergabe externer Dienstleistungen. Hierdurch 
+würde sich der jährlichen Personalmittelbedarf der BASt auf 992 000 Euro
+reduzieren. Die Sachkosten wären entsprechend zu erhöhen und die Gemeinkosten 
+anzupassen. 
+Für die Bundesfernstraßenverwaltung (die Autobahn GmbH des Bundes,
+Auftragsverwaltung des Bundes durch die Länder) fallen Kosten für die Daten- und 
+Dienstebereitstellung an. 
+Für die Autobahn GmbH des Bundes entstehen zusätzliche Sach- und
+Personalkosten, die zunächst nur für die Anpassung und den Betrieb von zwei
+Softwareanwendungen abgeschätzt werden können. 
+Personalmittel: 
+ab 2026: Einrichtung von 3 Planstellen, davon 1 hD-Stelle und 2 gD-
+Stellen) 
+Sachmittel (ohne Gemeinkosten): 
+2026/2027: insgesamt ca. 4 000 000 Euro für die Anpassung vorhandener 
+Software zur Datenbereitstellung 
+ab 2028: 1 000 000 Euro 
+Über die genannten Aufwände hinaus wird der Haushaltsbedarf wesentlich vom 
+den künftig zu definierenden zusätzlichen IVS-Diensten und
+Qualitätsanforderungen abhängig sein, für deren Erfüllung Investitionen in eine Verbesserung und 
+Verdichtung der noch sehr heterogen ausgeprägten Verkehrsdatenerfassung
+sowie ein erhöhter betrieblicher Aufwand (Personal und Investitionen) zu
+veranschlagen sind. 
+Für die Auftragsverwaltung des Bundes durch die Länder entstehen einmalige 
+Sachkosten in Höhe von 1 362 000  Euro sowie jährliche Sachkosten in Höhe von 
+26 000 Euro. Zusätzlich sind Gemeinkosten in Höhe von 29,4 % auf Personal- 
+und Sachkosten anzusetzen.  
+Länder tragen Aufwände für die Integration ihrer Landessysteme, die sie auch den 
+Kommunen zur Nutzung bereitstellen, sowie die Aggregation von Daten,
+Eigenerklärungen und Fachbeiträgen für die Berichterstattung. Es entstehen einmalige 
+Sachkosten in Höhe von 6 638 000 Euro sowie jährliche Sachkosten in Höhe von 
+1 992 000 Euro. Zusätzlich sind Gemeinkosten in Höhe von 29,4 % auf Personal- 
+und Sachkosten anzusetzen. Die Mitwirkung an Verwaltungsvereinbarungen
+verursacht ebenfalls Aufwand. 
+Kommunen sind betroffen, wenn sie als Dateninhaber auftreten. In diesem Fall 
+entstehen Aufwände für die Digitalisierung und für die maschinenlesbare
+Aufbereitung vorhandener Informationen. Es entstehen jedoch keine zusätzlichen Sach-
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+kosten, da geeignete Tools von den Ländern bereitgestellt werden. Gemeinkosten 
+sind ggf. nicht quantifizierbar. Die Regelungen fördern zugleich die digitale
+Modernisierung und sind so ausgestaltet, dass bestehende Strukturen genutzt werden 
+können. 
+Für den Bund entstehende Mehrausgaben an Sach- und Personalkosten sind im 
+Einzelplan 12 auszugleichen. 
+E. Erfüllungsaufwand
+E.1 Erfüllungsaufwand für Bürgerinnen und Bürger
+Keine Veränderung.
+E.2 Erfüllungsaufwand für die Wirtschaft
+Für die Wirtschaft erhöht sich der jährliche Erfüllungsaufwand um 50 794 000 
+Euro. Es entsteht ein einmaliger Erfüllungsaufwand von rund 33 702 000 Euro. 
+Davon entfallen einmalig 29 070 000 Euro und jährlich 7 264 000 Euro auf
+Bürokratiekosten aus Informationspflichten. 
+Die Erhöhung des laufenden Erfüllungsaufwands der Wirtschaft ergibt sich aus 
+der Umsetzung der EU-Vorgaben von Artikel 6a und Artikel 17 der IVS-
+Richtlinie sowie gemäß Artikel 5 Absatz 4 der Delegierten Verordnung (EU) 2017/1926. 
+Gemäß den vom Bundeskabinett beschlossenen Eckpunkten zur weiteren
+Entlastung der mittelständischen Wirtschaft vom 11.12.2014 stellt die 1:1 Umsetzung 
+von EU-Vorgaben eine Ausnahme der „One-in, one- out“-Regelung dar.  
+Die eigentlich anfallenden Bürokratiekosten aus Informationspflichten zur
+Abgabe einer unbestimmten Anzahl von Erklärungen zur Erfüllung der Delegierten 
+Verordnungen zur IVS-Richtlinie und zur Lieferung von Fachbeträgen für die
+Berichterstattung nach Artikel 17 der IVS-Richtlinie werden soweit möglich durch 
+die Mehrfachnutzung gemeldeter Daten auf das unbedingt Notwendige reduziert. 
+E.3 Erfüllungsaufwand der Verwaltung
+Für die Verwaltung erhöht sich der jährliche Erfüllungsaufwand um rund 12 909 
+000 Euro. Davon entfallen 7 880 000 Euro an jährlichen Erfüllungsaufwand auf 
+den Bund und 5 029 000 Euro auf die Länder (inkl. Kommunen).  
+Der einmalige Erfüllungsaufwand beträgt rund 18 593 000 Euro. Davon entfallen 
+9 947 000 Euro an einmaligem Erfüllungsaufwand auf den Bund und 8 646 000 
+Euro auf die Länder (inkl. Kommunen). 
+F. Weitere Kosten
+Keine.
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+ BUNDESREPUBLIK DEUTSCHLAND 
+DER BUNDESKANZLER 
+Berlin, 1. Dezember 2025 
+An die 
+Präsidentin des  
+Deutschen Bundestages 
+Frau Julia Klöckner 
+Platz der Republik 1 
+11011 Berlin 
+Sehr geehrte Frau Bundestagspräsidentin, 
+hiermit übersende ich den von der Bundesregierung beschlossenen 
+Entwurf eines Gesetzes zur Neuregelung des Rechtsrahmens für intelligente 
+Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu anderen 
+Verkehrsträgern und die Datenbereitstellung über den Nationalen Zugangspunkt 
+mit Begründung und Vorblatt (Anlage 1). 
+Ich bitte, die Beschlussfassung des Deutschen Bundestages herbeizuführen. 
+Federführend ist das Bundesministerium für Verkehr.  
+Die Stellungnahme des Nationalen Normenkontrollrates gemäß § 6 Absatz 1 NKRG 
+ist als Anlage 2 beigefügt. 
+Der Gesetzentwurf ist dem Bundesrat am 7. November 2025 als besonders 
+eilbedürftig zugeleitet worden. 
+Die Stellungnahme des Bundesrates zu dem Gesetzentwurf sowie die Auffassung 
+der Bundesregierung zu der Stellungnahme des Bundesrates werden unverzüglich 
+nachgereicht. 
+Mit freundlichen Grüßen 
+Friedrich Merz  
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Anlage 1 
+Entwurf eines Gesetzes zur Neuregelung des Rechtsrahmens für intelligente 
+Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu anderen 
+Verkehrsträgern und die Datenbereitstellung über den Nationalen Zugangspunkt1 
+Vom ... 
+Der Bundestag hat das folgende Gesetz beschlossen: 
+Artikel 1 
+Gesetz über intelligente Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu anderen 
+Verkehrsträgern und über die Datenbereitstellung über den Nationalen Zugangspunkt 
+(Intelligente-Verkehrssysteme-Gesetz – IVSG) 
+§ 1
+Anwendungsbereich 
+(1) Dieses Gesetz ist anzuwenden auf intelligente Verkehrssysteme im Straßenverkehr und deren
+Schnittstellen zu anderen Verkehrsträgern und bei der Datenbereitstellung über den Nationalen Zugangspunkt. 
+(2) Es dient der Umsetzung der Richtlinie 2010/40/EU und der Durchführung
+1. der Delegierten Verordnung (EU) Nr. 305/2013 unter Beachtung des Beschlusses Nr. 585/2014/EU,
+2. der Delegierten Verordnung (EU) Nr. 885/2013,
+3. der Delegierten Verordnung (EU) Nr. 886/2013,
+4. der Delegierten Verordnung (EU) 2017/1926,
+5. der Delegierten Verordnung (EU) 2022/670 sowie
+6. des Artikels 20 Absatz 2 der Verordnung (EU) 2023/1804 sowie der in Bezug auf die dort geregelte Pflicht 
+erlassenen delegierten Rechtsakte und Durchführungsrechtsakte.
+(3) Dieses Gesetz gilt nicht für intelligente Verkehrssysteme, die der öffentlichen Sicherheit oder der
+Verteidigung dienen. 
+§ 2
+Begriffsbestimmungen 
+Im Sinne dieses Gesetzes bezeichnet der Begriff 
+1. intelligente Verkehrssysteme (IVS): Systeme, bei denen Informations- und Kommunikationstechnologien 
+im Straßenverkehr für das Verkehrs- und Mobilitätsmanagement und an Schnittstellen zu anderen
+Verkehrsträgern eingesetzt werden, wobei sich der Einsatz im Straßenverkehr auf die Infrastrukturen, Fahrzeuge oder 
+Teilnehmer beziehen kann;
+1 Artikel 1 dieses Gesetzes dient der Umsetzung der Richtlinie 2010/40/EU des Europäischen Parlaments und des Rates vom 7. Juli 2010 
+zum Rahmen für die Einführung intelligenter Verkehrssysteme im Straßenverkehr und für deren Schnittstellen zu anderen Verkehrsträgern 
+(ABl. L 207 vom 6.8.2010, S. 1). 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+2. IVS-Anwendung: ein technisches System, ein Verfahren oder ein Gerät für den Einsatz von IVS;
+3. IVS-Dienst: die Bereitstellung einer IVS-Anwendung innerhalb eines bestimmten organisatorischen,
+operativen und technischen Rahmens;
+4. zuständige Stellen: juristische Personen, Behörden oder sonstige öffentliche oder private Stellen, die nach 
+den Rechtsakten nach § 1 Absatz 2 Nummer 1 bis 6 für die Bereitstellung von Daten, die Einführung oder 
+den Betrieb von IVS-Anwendungen oder IVS-Diensten in einer bestimmten geografischen Abdeckung
+zuständig sind;
+5. zugrunde liegende Informationen: alle von der Richtlinie 2010/40/EU erfassten Informationen, die für die 
+Generierung der zum Betrieb von IVS erforderlichen Daten nützlich sind;
+6. Daten: maschinenlesbare Daten im Bereich der IVS, etwa Straßen-, Verkehrs- und Reisedaten, sowie die 
+dazugehörigen Metadaten, jeweils in spezifizierten Formaten, und maschinenlesbare Daten nach Artikel 20 
+Absatz 2 Satz 2 der Verordnung (EU) 2023/1804;
+7. Dateninhaber: eine natürliche oder juristische Person, Behörde oder sonstige öffentliche oder private Stelle, 
+die nach Unionsrecht oder nationalem Recht verpflichtet ist, Zugang zu Daten zu gewähren oder sie
+weiterzugeben;
+8. Datennutzer: eine natürliche oder juristische Person, Behörde oder sonstige öffentliche oder private Stelle, 
+die Zugang zu Daten erlangt und diese verarbeitet;
+9. Datenmittler: eine natürliche oder juristische Person, Behörde oder sonstige öffentliche oder private Stelle, 
+der von einem Dateninhaber Daten bereitgestellt werden, um diese an den Nationalen Zugangspunkt
+weiterzuleiten, wobei der Datenmittler sowohl technische als auch organisatorische Aufgaben zur Sicherstellung 
+der Datenübermittlung und der Transparenz gegenüber dem Empfänger der Daten übernehmen kann;
+10. Spezifikation: die verbindliche Festlegung von Anforderungen, Verfahren oder sonstigen Bestimmungen für 
+die Implementierung und den Betrieb intelligenter Verkehrssysteme im Sinne des Artikels 6 der Richtlinie 
+2010/40/EU;
+11. Nationaler Zugangspunkt: eine zentrale digitale Schnittstelle für den Zugang zu Daten im Sinne der
+Spezifikationen;
+12. Nationale Stelle: eine unparteiische und unabhängige Stelle, die bei der bundesweiten Zusammenführung 
+von Daten im Nationalen Zugangspunkt kommunikative, koordinierende und technische Aufgaben
+übernimmt und die Einhaltung der Spezifikationen durch die Dateninhaber prüft;
+13. Landessystem: ein System eines Landes oder mehrerer Länder, das allein oder auch dem Zweck dient, Daten 
+zusammenzuführen und über eine digitale Schnittstelle als Datenmittler zur Verfügung zu stellen;
+14. Schnittstelle: eine technische Einrichtung zwischen Systemen, die deren Verbindung und der
+Kommunikation zwischen diesen Systemen dient;
+15. Interoperabilität: die Fähigkeit von Systemen und der ihnen zugrunde liegenden Geschäftsabläufe, auf 
+Grundlage gemeinsamer Spezifikationen Daten auszutauschen und Informationen weiterzugeben, um die 
+Kontinuität von IVS-Diensten zu gewährleisten;
+16. Kontinuität: die Fähigkeit der IVS-Dienste zur unionsweiten nahtlosen Bereitstellung ihrer Dienste in
+Verkehrsnetzen.
+§ 3
+Einführung intelligenter Verkehrssysteme 
+(1) Bei der Einführung von IVS-Anwendungen und IVS-Diensten haben die zuständigen Stellen die nach 
+Artikel 6 in Verbindung mit Anhang II der Richtlinie 2010/40/EU erlassenen Grundsätze für die Spezifikationen 
+zu beachten. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+(2) Die zuständigen Stellen haben sicherzustellen, dass die in Anhang IV der Richtlinie 2010/40/EU
+aufgeführten IVS-Dienste für die geografischen Abdeckungen, für die sie jeweils zuständig sind, so früh wie möglich 
+und spätestens bis zu den in Anhang IV der Richtlinie 2010/40/EU festgelegten Zeitpunkten eingeführt werden. 
+§ 4
+Vorrangige Bereiche 
+Die Einführung von IVS-Diensten einschließlich der Verfügbarkeit der für die IVS-Dienste benötigten Daten 
+sind vorrangig in den folgenden Bereichen vorgesehen: 
+1. Informations- und Mobilitätsdienste,
+2. Dienste des Reise-, Transport- und Verkehrsmanagements,
+3. Dienste für die Straßenverkehrssicherheit und
+4. Dienste für kooperative, vernetzte und automatisierte Mobilität.
+§ 5
+Pflicht zur Datenbereitstellung 
+(1) Die zuständigen Stellen haben Daten nach den in § 1 Absatz 2 Nummer 2 bis 6 bezeichneten
+Rechtsakten über den Nationalen Zugangspunkt bereitzustellen. Die Bestimmungen des Artikels 10 der Verordnung (EU) 
+2021/782 bleiben hiervon unberührt. 
+(2) Zum Zweck der Bereitstellung haben die zuständigen Stellen zu gewährleisten, dass die zugrunde
+liegenden Informationen in Daten gemäß den spezifizierten Formaten transformiert werden, wobei 
+1. neue und geänderte zugrunde liegende Informationen zu Datenarten nach Anhang III der Richtlinie 
+2010/40/EU für die jeweilige geografische Abdeckung spätestens zu dem in Spalte 3 des Anhangs III der 
+Richtlinie 2010/40/EU bezeichneten Zeitpunkt als Daten über den Nationalen Zugangspunkt bereitzustellen 
+sind und
+2. bereits vorhandene zugrunde liegende Informationen zu Datenarten nach Anhang III der Richtlinie 
+2010/40/EU für die jeweilige geografische Abdeckung spätestens bis zu dem in Spalte 4 des Anhangs III der 
+Richtlinie 2010/40/EU bezeichneten Zeitpunkt als Daten über den Nationalen Zugangspunkt bereitzustellen 
+sind.
+(3) Die zuständigen Stellen haben bis zum 31. Oktober 2026 mitzuteilen, ob sie beabsichtigen, von der 
+Möglichkeit gemäß Anhang III der Richtlinie 2010/40/EU Gebrauch zu machen, für die geographische
+Abdeckung der Städte im Zentrum von Städtischen Knoten gemäß der Verordnung (EU) 2024/1679 die Verpflichtung 
+zur Datenbereitstellung gemäß Absatz 2 Nummer 1 auf Straßen mit einem durchschnittlichen
+Tagesverkehrsaufkommen im Jahr von mehr als 7 000 Fahrzeugen zu beschränken. 
+(4) Die Bereitstellungspflicht erfasst die Daten nach Artikel 5 Absatz 4 der Delegierten Verordnung (EU) 
+2017/1926. Zu den dynamischen Daten zum Auslastungsgrad der Fahrzeuge von straßengebundenen und von 
+schienengebundenen Linienverkehrsdiensten über den Nationalen Zugangspunkt müssen die bereitzustellenden 
+Daten auch umfassen: 
+1. Daten zur Auslastung von Vorrangplätzen für Menschen mit Behinderungen und
+2. Daten zu Stellflächen für Hilfsmittel.
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+§ 6
+Art der Datenbereitstellung 
+(1) Dateninhaber haben für die Bereitstellung von Daten nach § 5 über den Nationalen Zugangspunkt die 
+Vorgaben der Nationalen Stelle gemäß § 9 Absatz 1 Nummer 3 zu beachten. 
+(2) Dateninhaber sind berechtigt, die Daten über einen Datenmittler bereitzustellen. Der Datenmittler hat 
+die ihm bereitgestellten Daten unverzüglich an den Nationalen Zugangspunkt weiterzuleiten und der Nationalen 
+Stelle Folgendes mitzuteilen: 
+1. den Namen des Dateninhabers und des Datenmittlers,
+2. den Zeitpunkt der erstmaligen Datenbereitstellung durch den Datenmittler,
+3. die betroffenen Datenarten nach den in § 1 Absatz 2 Nummer 2 bis 6 bezeichneten Rechtsakten und
+4. die geografische Abdeckung, auf die sich die Daten beziehen.
+Der Datenmittler hat der Nationalen Stelle Änderungen der nach Satz 2 Nummer 1 bis 4 zu machenden Angaben 
+unverzüglich mitzuteilen. Absatz 1 gilt entsprechend. 
+(3) Ist Datenmittler nach Absatz 2 der Betreiber eines Landessystems, so hat er auf die Einhaltung der 
+Qualität der bereitgestellten Daten hinzuwirken. Das Nähere regelt die Verwaltungsvereinbarung nach 
+§ 8 Absatz 3.
+§ 7
+Nationaler Zugangspunkt 
+(1) Das Bundesministerium für Verkehr betreibt den Nationalen Zugangspunkt.
+(2) Der Nationale Zugangspunkt hat den Zugang zu den Daten zu ermöglichen. Er hat zu diesem Zweck 
+insbesondere die Möglichkeit zur Datenbereitstellung, Datenübermittlung und Datenweiterverwendung zu
+gewährleisten.  
+(3) Das Bundesministerium für Verkehr kann andere Stellen mit der Wahrnehmung der Aufgabe nach 
+Absatz 1 beauftragen. 
+(4) Das Bundesministerium für Verkehr kann juristischen Personen des privaten Rechts durch Beleihung 
+die Befugnis übertragen, die Aufgabe nach Absatz 1 im eigenen Namen und in den Handlungsformen des
+öffentlichen Rechts wahrzunehmen, sofern sie die Gewähr für eine sachgerechte Aufgabenerfüllung bieten und die 
+Beleihung im öffentlichen Interesse liegt. Die Übertragung ist im Bundesanzeiger bekanntzumachen. Die
+Beliehene unterliegt der Rechts- und Fachaufsicht des Bundesministeriums für Verkehr. Im Falle der Staatshaftung 
+wegen Ansprüchen Dritter kann der Bund gegenüber einer beliehenen juristischen Person des Privatrechts bei 
+Vorliegen von Vorsatz oder grober Fahrlässigkeit Rückgriff nehmen. 
+§ 8
+Datennutzung, Lizenzen 
+(1) Die Bereitstellung und die Nutzung der Daten über den Nationalen Zugangspunkt sind unentgeltlich.
+(2) Daten, die über den Nationalen Zugangspunkt bereitgestellt werden, dürfen für jeden kommerziellen 
+oder nichtkommerziellen Zweck genutzt werden. Die Bedingungen für die Datennutzung müssen
+nichtdiskriminierend sein. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+(3) Dateninhaber können die Bedingungen für die Datennutzung über Lizenzvereinbarungen regeln. Die 
+Vorschriften zu Standardlizenzen in der nach § 14 Absatz 2 Nummer 4 erlassenen Rechtsverordnung sind
+einzuhalten. 
+(4) Datennutzer haben Daten, die über den Nationalen Zugangspunkt bereitgestellt werden, gemäß Artikel 
+5 Absatz 4 und Artikel 6 Absatz 4 der Delegierten Verordnung (EU) 2022/670 unverzüglich und vollständig in 
+die von ihnen bereitgestellten IVS-Dienste einzubeziehen. 
+§ 9
+Nationale Stelle 
+(1) Die Bundesanstalt für Straßen- und Verkehrswesen nimmt folgende Aufgaben als Nationale Stelle 
+wahr: 
+1. Identifizierung und Ansprache von Dateninhabern und Datennutzern;
+2. Beratung der Dateninhaber zu den Vorgaben für die Datenbereitstellung, zu den Prozessen der
+Dokumentation und der Verbesserung der Datenqualität sowie zur Anbindung an den Nationalen Zugangspunkt;
+3. Ausarbeitung und Veröffentlichung von Leitlinien zu Datenstandards, Mindestprofilen, Qualitätsstandards 
+und weiteren technischen Einzelheiten hinsichtlich der Bereitstellung und der Nutzung von Daten;
+4. regelmäßige stichprobenartige Überprüfung der Quantität und der Qualität der bereitgestellten Daten sowie 
+der Einhaltung der Vorgaben für die Datenbereitstellung;
+5. Ansprache der Dateninhaber im Falle der Nichteinhaltung der Vorgaben für die Datenbereitstellung und der 
+sonstigen Nichterfüllung von Pflichten nach diesem Gesetz;
+6. Sicherstellung der Abgabe von Eigenerklärungen nach § 10;
+7. regelmäßige Durchführung von Analysen der Datennutzung und der Einhaltung der Vorgaben für die
+Datennutzung;
+8. Ansprache der Datennutzer im Falle der Nichterfüllung von Pflichten nach diesem Gesetz;
+9. automatisierte Entgegennahme von Hinweisen der Datennutzer zur Qualität und Rechtskonformität der
+bereitgestellten Daten und Weiterleitung dieser Hinweise an die betreffenden Dateninhaber;
+10. Beratung der Datennutzer zum Zugang zu und zur Nutzung von über den Nationalen Zugangspunkt
+bereitgestellten Daten;
+11. Unterstützung des Bundesministeriums für Verkehr bei der Berichterstattung nach Artikel 17 der Richtlinie 
+2010/40/EU, insbesondere in Bezug auf Einholung der erforderlichen Informationen bei den zuständigen 
+Stellen;
+12. Sicherstellung der Interoperabilität und Kontinuität der IVS-Dienste in Zusammenarbeit mit den Betreibern 
+der Nationalen Zugangspunkte anderer Mitgliedstaaten der Europäischen Union und mit weiteren Stellen, 
+soweit dies erforderlich oder zweckmäßig ist.
+(2) Die Bundesanstalt für Straßen- und Verkehrswesen kann mit Zustimmung des Bundesministeriums für 
+Verkehr juristischen Personen des privaten Rechts durch Beleihung die Befugnis übertragen, Aufgaben nach 
+Absatz 1 im eigenen Namen und in den Handlungsformen des öffentlichen Rechts wahrzunehmen. § 7 Absatz 3 
+gilt entsprechend. 
+(3) Die Einzelheiten der Zusammenarbeit zwischen der Nationalen Stelle und den Betreibern der
+Landessysteme regeln das Bundesministerium für Verkehr und die Länder in einer Verwaltungsvereinbarung. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+§ 10
+Eigenerklärungen 
+(1) Die Dateninhaber sind verpflichtet, in folgenden Fällen gegenüber der Nationalen Stelle auf
+elektronischem Wege eine Eigenerklärung abzugeben: 
+1. auf Verlangen der Nationalen Stelle und
+2. bei jeder Änderung der in der Eigenerklärung mitzuteilenden Angaben nach Absatz 2.
+(2) Die Eigenerklärungen enthalten insbesondere Angaben über
+1. die Einhaltung der Datenlieferpflichten nach § 5,
+2. die nach den Spezifikationen gemäß § 1 Absatz 2 Nummer 2 bis 5 bereitgestellten Datenarten,
+3. die nach den Spezifikationen gemäß § 1 Absatz 2 Nummer 2 bis 5 einzuhaltenden Anforderungen und
+4. die nach den Spezifikationen gemäß § 1 Absatz 2 Nummer 2 bis 5 mitzuteilenden Informationen.
+(3) Die Nationale Stelle hat
+1. nach dem Zufallsprinzip die übermittelten Eigenerklärungen der Dateninhaber auf die Einhaltung der
+Anforderungen nach den Absätzen 1 und 2 zu prüfen und
+2. zu prüfen, ob die Erhebung, die Zugänglichkeit die Verfügbarkeit, der Austausch, die Weiterverwendung, 
+die Aktualisierung, das Format der Daten, das Qualitätsmanagement und der Inhalt der Daten den
+Anforderungen der Spezifikationen entspricht.
+Bei Nichteinhaltung der Anforderungen kann die Nationale Stelle den betreffenden Dateninhaber zur
+Nachbesserung auffordern. Der Dateninhaber ist verpflichtet, dieser Aufforderung unverzüglich Folge zu leisten. 
+(4) Die Nationale Stelle kann die Form bestimmen, in der die Eigenerklärungen elektronisch abgegeben 
+werden. Sie kann eine Online-Plattform zur Abgabe der Eigenerklärungen einrichten. Hat sie eine solche
+Plattform eingerichtet, so haben die Dateninhaber diese für die Abgabe der Eigenerklärungen zu verwenden. 
+(5) Sofern sich der Dateninhaber eines Datenmittlers bedient, ist der Datenmittler für die Entgegennahme 
+der Eigenerklärungen zuständig. Der Datenmittler hat die entgegengenommenen Eigenerklärungen auszuwerten 
+und die Auswertung an die Nationale Stelle weiterzuleiten. Der Datenmittler hat auf die Qualität der von ihm 
+entgegen genommenen Eigenerklärungen hinzuwirken. Absatz 4 Satz 3 gilt entsprechend. 
+(6) Die Nationale Stelle wird ermächtigt, im Wege der Allgemeinverfügung ergänzende Vorgaben zu den 
+Absätzen 1 und 2 gegenüber Dateninhabern und Datenmittlern, soweit diese an der Bereitstellung der Daten nach 
+§ 6 beteiligt sind, zum Inhalt, zur Übermittlung und zur Struktur der Eigenerklärungen zu machen. Die
+Allgemeinverfügung ist im Verkehrsblatt bekannt zu machen.
+(7) Zur Erfüllung von Pflichten, die sich aus den in § 1 Absatz 2 Nummer 1 und 6 genannten Rechtsakten 
+und Vorschriften ergeben, sind keine Eigenerklärungen abzugeben. 
+§ 11
+Maßnahmen zur Verbesserung der Datenqualität 
+(1) Die Nationale Stelle hat für die Dateninhaber, Datenmittler und die Datennutzer ein automatisiertes 
+System zur Verbesserung der Datenqualität bereitzustellen. 
+(2) Das System nach Absatz 1 hat Folgendes zu ermöglichen:
+1. die Eingabe der Feststellung von Fehlern und Ungenauigkeiten sowie von Korrekturvorschlägen,
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+2. die automatisierte Weiterleitung der eingegebenen Informationen nach Nummer 1 an die Dateninhaber und 
+Datenmittler zur Prüfung sowie
+3. die Aufnahme der Ergebnisse der Prüfung nach Absatz 3 Satz 1.
+(3) Dateninhaber haben die über das System nach Absatz 1 eingegebenen Informationen nach 
+Absatz 2 Nummer 1, die sie betreffen, zu prüfen und das Ergebnis dieser Prüfung über dasselbe System zu
+melden. Sind die Beanstandungen zutreffend, haben die Dateninhaber die bereitgestellten Daten unverzüglich zu
+korrigieren. Die Meldung nach Satz 1 und die Korrekturen nach Satz 2 können auch über einen Datenmittler erfolgen. 
+§ 12
+Berichtspflichten gegenüber der Europäischen Kommission 
+(1) Zuständig für die Erfüllung der Berichtspflicht nach Artikel 17 Absatz 1 und 3 der Richtlinie 
+2010/40/EU ist das Bundesministerium für Verkehr. Das Bundesministerium für Verkehr hat zur Wahrnehmung 
+der Berichtspflicht nach Satz 1 die erforderlichen Informationen, insbesondere Eigenerklärungen, Fachbeiträge 
+und Zuarbeiten der Nationalen Stelle, bei den zuständigen Stellen einzuholen.  
+(2) Das Bundesministeriums für Verkehr hat die Berichte auf seiner Internetseite zu veröffentlichen.
+§ 13
+Verarbeitung personenbezogener Daten 
+(1) Personenbezogene Daten im Sinne von Artikel 4 Nummer 1 der Verordnung (EU) 2016/679 dürfen für 
+die in diesem Gesetz festgelegten Zwecke nur verarbeitet werden, soweit ihre Verarbeitung erforderlich ist, damit 
+die in Anhang I der Richtlinie 2010/40/EU genannten IVS-Anwendungen, IVS-Dienste und IVS-Maßnahmen im 
+Hinblick auf die Gewährleistung der Verkehrssicherheit und eines erweiterten Verkehrs-, Mobilitäts- und
+Störungsmanagements funktionieren. 
+(2) Betreffen gemäß Artikel 6 der Richtlinie 2010/40/EU erlassene Spezifikationen die Verarbeitung von 
+personenbezogenen Daten im Sinne von Artikel 4 Nummer 1 der Verordnung (EU) 2016/679, so sind geeignete 
+Vorkehrungen zum Schutz dieser Daten gemäß der Verordnung (EU) 2016/679 und der Richtlinie 2002/58/EG 
+zu treffen.  
+(3) Ist eine Anonymisierung der Daten nach Absatz 1 möglich und können die Zwecke der
+Datenverarbeitung mit anonymisierten Daten erreicht werden, so werden anonymisierte Daten verwendet. 
+(4) Ist eine Anonymisierung nicht möglich oder können die Zwecke der Datenverarbeitung mit
+anonymisierten Daten nicht erreicht werden, so werden die Daten pseudonymisiert, sofern die Pseudonymisierung möglich 
+ist und die Zwecke der Datenverarbeitung mit der Nutzung pseudonymisierter Daten erreicht werden können.  
+§ 14
+Verordnungsermächtigungen 
+(1) Das Bundesministerium für Verkehr wird ermächtigt, zum Zweck der Gewährleistung der
+Funktionsfähigkeit intelligenter Verkehrssysteme und des Schutzes öffentlicher Interessen, insbesondere der
+Verkehrssicherheit, der Datenintegrität und der Interoperabilität, durch Rechtsverordnung ohne Zustimmung des
+Bundesrates Vorschriften zur Durchführung und Ergänzung der in § 1 Absatz 2 genannten Rechtsakte zu erlassen. 
+(2) Eine Rechtsverordnung nach Absatz 1 kann insbesondere Regelungen enthalten über:
+1. die Anforderungen an die Struktur, den Inhalt, die Formate und die technischen Standards für die
+Transformation und Bereitstellung von Daten über den Nationalen Zugangspunkt,
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+2. die Pflichten von Stellen, die Aufgaben nach diesem Gesetz wahrnehmen, insbesondere im Hinblick auf die 
+Gewährleistung von Interoperabilität, Qualität, Aktualität, Zugänglichkeit und Sicherheit von Daten und 
+IVS-Diensten,
+3. die Ausgestaltung und den Betrieb
+a) des Nationalen Zugangspunkts und
+b) von Landessystemen,
+4. die Festlegung, welche Standardlizenzen nach § 8 Absatz 3 Dateninhaber zu verwenden haben,
+5. die Aufgaben und Befugnisse der Nationalen Stelle einschließlich der technischen und organisatorischen 
+Anforderungen an die Datenprüfung, Qualitätssicherung und Fehlerkorrektur,
+6. weitere Anforderungen an Inhalt, Form, Übermittlung und Prüfung von Eigenerklärungen nach § 10 sowie 
+die Verfahren zur Nachbesserung von Eigenerklärungen,
+7. die Ausgestaltung und den Betrieb des automatisierten Systems zur Verbesserung der Datenqualität nach 
+§ 11, einschließlich der Pflichten der Beteiligten zur Prüfung und Korrektur,
+8. die Zusammenarbeit und den Informationsaustausch mit anderen zuständigen Stellen auf nationaler und
+europäischer Ebene und
+9. die Erweiterung der geografischen Abdeckungen über die Festlegungen der in § 1 Absatz 2 aufgeführten 
+Rechtsakte hinaus.
+(3) Rechtsverordnungen nach Absatz 2 Nummer 1, 2, 3 Buchstabe b, Nummer 4 und 9 bedürfen
+abweichend von Absatz 1 der Zustimmung des Bundesrates. Rechtsverordnungen nach Absatz 2 Nummer 4 sind im 
+Einvernehmen mit dem Bundesministerium für Digitales und Staatsmodernisierung zu erlassen. 
+§ 15
+Evaluierung 
+(1) Dieses Gesetz ist fünf Jahre nach Inkrafttreten zu evaluieren. Der Evaluationsbericht wird dem
+Deutschen Bundestag und dem Bundesrat zugeleitet und veröffentlicht. 
+(2) Der Evaluierungsbericht enthält insbesondere Aussagen zu
+1. der Wirksamkeit des Zusammenspiels zwischen den in § 1 Absatz 2 genannten Rechtsakten und diesem
+Gesetz,
+2. der Nutzung und Funktionalität des Nationalen Zugangspunkts,
+3. der Qualität der bereitgestellten Daten,
+4. der Gewährleistung von Interoperabilität und Kontinuität,
+5. der Wirksamkeit der Eigenerklärungen und des Systems zur Fehlerkorrektur nach § 10,
+6. dem Aufwand für Dateninhaber, Datennutzer, Länder und Kommunen und
+7. etwaigen unbeabsichtigten Nebenfolgen und Vollzugsproblemen, insbesondere in Bezug auf die
+Erforderlichkeit von Sanktionsvorschriften bei Nichteinhaltung der Vorgaben dieses Gesetzes.
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Artikel 2 
+Änderung der Mobilitätsdatenverordnung 
+Die Mobilitätsdatenverordnung vom 20. Oktober 2021 (BGBl. I S. 4728), die zuletzt durch Artikel 1 der 
+Verordnung vom 1. Juli 2022 (BGBl. I S. 1039) geändert worden ist, wird wie folgt geändert: 
+§ 9 wird durch den folgenden § 9 ersetzt:
+„§ 9 
+Außerkrafttreten 
+Diese Verordnung tritt mit Ablauf des 1. Dezember 2028 außer Kraft.“ 
+Artikel 3 
+Folgeänderungen 
+(1) Die BSI-Kritisverordnung vom 22. April 2016 (BGBl. I S. 958), die zuletzt durch Artikel 1 der
+Verordnung vom 29. November 2023 (BGBl. 2023 I Nr. 339) geändert worden ist, wird wie folgt geändert: 
+In Anhang 7 Nummer 1.22 wird die Angabe „§ 2 Nummer 1 des Intelligente Verkehrssysteme Gesetz“ durch die 
+Angabe „§ 2 Nummer 1 des Intelligente-Verkehrssysteme-Gesetzes“ ersetzt. 
+(2) Das Personenbeförderungsgesetz in der Fassung der Bekanntmachung vom 8. August 1990 (BGBl. I S. 
+1690), das zuletzt durch Artikel 7 Absatz 4 des Gesetzes vom 11. April 2024 (BGBl. 2024 I Nr. 119) geändert 
+worden ist, wird wie folgt geändert: 
+1. § 1 Absatz 3, § 2 Absatz 1b und die §§ 3a bis 3c werden gestrichen.
+2. § 57 Absatz 1 wird wie folgt geändert:
+a) In Nummer 11 wird die Angabe „können;“ durch die Angabe „können.“ ersetzt.
+b) Nummer 12 wird gestrichen.
+(3) Das Bundesfernstraßenmautgesetz vom 12. Juli 2011 (BGBl. I S. 1378), das zuletzt durch Artikel 3 des 
+Gesetzes vom 21. November 2023 (BGBl. 2023 I Nr. 315) geändert worden ist, wird wie folgt geändert: 
+In § 9 Absatz 7 wird die Angabe „Nummer 11 des Intelligente Verkehrssysteme Gesetzes vom 11. Juni 2013 
+(BGBl. I S. 1553), das zuletzt durch Artikel 1 des Gesetzes vom 17. Juni 2017 (BGBl. I S. 2690) geändert worden 
+ist,“ durch die Angabe „Nummer 11 des Intelligente-Verkehrssysteme-Gesetzes“ ersetzt. 
+Artikel 4 
+Außerkrafttreten 
+Das Intelligente Verkehrssysteme Gesetz vom 11. Juni 2013 (BGBl. I S. 1553), das zuletzt durch Artikel 1 
+des Gesetzes vom 17. Juli 2017 (BGBl. I S. 2640) geändert worden ist, tritt mit Ablauf des ... [einsetzen: Datum 
+des Tages der Verkündung dieses Gesetzes] außer Kraft. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Artikel 5 
+Inkrafttreten 
+Dieses Gesetz tritt vorbehaltlich des Satzes 2 am Tag nach der Verkündung in Kraft. Artikel 3 Absatz 2 tritt 
+am 1. Dezember 2028 in Kraft. 
+EU-Rechtsakte: 
+1. Richtlinie 2010/40/EU des Europäischen Parlaments und des Rates vom 7. Juli 2010 zum Rahmen für die Einführung
+intelligenter Verkehrssysteme im Straßenverkehr und für deren Schnittstellen zu anderen Verkehrsträgern (ABl. L 207 vom 6.8.2010, 
+S. 1), die zuletzt durch die Richtlinie (EU) 2023/2661 vom 22.11.2023 (ABl. L, 2023/2661, 30.11.2023) geändert wurde
+2. Delegierte Verordnung (EU) Nr. 305/2013 der Kommission vom 26. November 2012 zur Ergänzung der Richtlinie 
+2010/40/EU des Europäischen Parlaments und des Rates in Bezug auf die harmonisierte Bereitstellung eines interoperablen 
+EU-weiten eCall-Dienstes (ABl. L 91 vom 3.4.2013, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2024/1084 vom 
+6.02.2024 (ABl. L, 2024/1084, 12.4.2024) geändert wurde
+3. Beschluss Nr. 585/2014/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 über die Einführung des
+interoperablen EU-weiten eCall-Dienstes (ABl. L 164 vom 3.6.2014, S. 6)
+4. Delegierte Verordnung (EU) Nr. 885/2013 der Kommission vom 15. Mai 2013 zur Ergänzung der IVS-Richtlinie 2010/40/EU 
+des Europäischen Parlaments und des Rates in Bezug auf die Bereitstellung von Informationsdiensten für sichere Parkplätze 
+für Lastkraftwagen und andere gewerbliche Fahrzeuge (ABl. L 247 vom 18.9.2013, S. 1)
+5. Delegierte Verordnung (EU) Nr. 886/2013 der Kommission vom 15. Mai 2013 zur Ergänzung der Richtlinie 2010/40/EU des 
+Europäischen Parlaments und des Rates in Bezug auf Daten und Verfahren für die möglichst unentgeltliche Bereitstellung 
+eines Mindestniveaus allgemeiner für die Straßenverkehrssicherheit relevanter Verkehrsinformationen (ABl. L 247 vom 
+18.9.2013, S. 6)
+6. Delegierte Verordnung (EU) 2017/1926 der Kommission vom 31. Mai 2017 zur Ergänzung der Richtlinie 2010/40/EU des 
+Europäischen Parlaments und des Rates hin-sichtlich der Bereitstellung EU-weiter multimodaler Reiseinformationsdienste 
+(ABl. L 272 vom 21.10.2017, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2024/490 vom 29. November 2023 
+(ABl. L, 2024/490, 13.2.2024) geändert wurde
+7. Delegierte Verordnung (EU) 2022/670 der Kommission vom 2. Februar 2022 zur Ergänzung der Richtlinie 2010/40/EU des 
+Europäischen Parlaments und des Rates hinsichtlich der Bereitstellung EU-weiter Echtzeit-Verkehrsinformationsdienste (ABl. 
+L 122 vom 25.4.2022, S. 1)
+8. Verordnung (EU) 2023/1804 des Europäischen Parlaments und des Rates vom 13. September 2023 über den Aufbau der
+Infrastruktur für alternative Kraftstoffe und zur Aufhebung der Richtlinie 2014/94/EU (ABl. L 234 vom 22.9.2023, S. 1)
+9. Durchführungsbeschluss (EU) 2025/264 der Kommission vom 11. November 2024 zur Festlegung des Musters einschließlich 
+wesentlicher Leistungsindikatoren für die Berichterstattung durch die Mitgliedstaaten nach der Richtlinie 2010/40/EU des 
+Europäischen Parlaments und des Rates (ABl. L, 2025/264,  10.2.2025)
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Begründung 
+A. Allgemeiner Teil
+Mit dem vorliegenden Gesetz wird ein neuer nationaler Rechtsrahmen für die Einführung, den Betrieb und die 
+Qualitätssicherung intelligenter Verkehrssysteme (IVS) im Straßenverkehr sowie deren Schnittstellen zu anderen 
+Verkehrsträgern geschaffen. Ziel ist es, die Digitalisierung des Verkehrssektors zu fördern, die Verkehrssicherheit 
+zu erhöhen, die Effizienz des Verkehrsmanagements zu verbessern und die Interoperabilität von
+Mobilitätsdiensten zu gewährleisten und in der Folge auch die negativen Umweltauswirkungen durch Verkehr zu verringern. 
+Das Gesetz dient der Umsetzung der Richtlinie 2010/40/EU des Europäischen Parlaments und des Rates über den 
+Rahmen für die Einführung von IVS im Straßenverkehr sowie der Durchführung mehrerer delegierter
+Verordnungen der Europäischen Kommission. Es schafft die Voraussetzungen für die einheitliche Bereitstellung,
+Nutzung und Qualitätssicherung von Mobilitätsdaten über den Nationalen Zugangspunkt. Neben der Umsetzung der 
+revidierten IVS-Richtlinie gewährleistet das Gesetz die Durchführung der der Verordnung 2023/1804 über den 
+Aufbau der Infrastruktur für alternative Kraftstoffe (AFIR-VO), die Bereitstellungspflicht bereits erfasster
+Fahrzeugauslastungsdaten im Linienverkehr und konkretisiert die Regelungen zur Einbeziehung der Daten über
+Verkehrspläne, Verkehrsvorschriften und -beschränkungen sowie befristete Verkehrsmanagementmaßnahmen in die 
+von Dienstanbietern angebotenen Dienste 
+I. Zielsetzung und Notwendigkeit der Regelungen
+Das Gesetz über Intelligente Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu anderen
+Verkehrsträgern (IVSG) wurde am 11. Juni 2013 erstmals verabschiedet, vgl. BGBl. I S. 1553. Es dient der Umsetzung 
+der Richtlinie 2010/40/EU des Europäischen Parlaments und des Rates vom 7. Juli 2010 (ABl. L 207 vom 
+6.8.2010, S. 1), die einen Rahmen für die Einführung von IVS im Straßenverkehr und deren Schnittstellen zu 
+anderen Verkehrsträgern vorsieht. Das Gesetz wurde zuletzt durch Artikel 1 des Gesetzes vom 17. Juli 2017 
+geändert (vgl. BGBl. I S. 2640). Das bisherige IVSG legt die Rahmenbedingungen für den Einsatz von IVS im 
+Straßenverkehr fest und fördert die Interoperabilität und die Nutzung verschiedener Verkehrsträger. Ziel ist es, 
+den Straßenverkehr sicherer, effizienter und umweltfreundlicher zu gestalten. 
+1. Die Richtlinie 2010/40/EU (IVS-Richtlinie) wurde mit der Richtlinie (EU) 2023/2661 des Europäischen 
+Parlaments und des Rates vom 22. November 2023 zur Änderung der Richtlinie 2010/40/EU zum
+Rahmen für die Einführung intelligenter Verkehrssysteme im Straßenverkehr und für deren Schnittstellen zu 
+anderen Verkehrsträgern grundlegend überarbeitet:
+2. Erweiterter Geltungsbereich: Die Richtlinie umfasst nun auch die Anforderungen an die
+Datenbereitstellung für multimodale Informations-, Buchungs- und Ticketing-Apps. Diese Erweiterung soll die
+Integration verschiedener Verkehrsträger in solche Dienste erleichtern und den Nutzern eine nahtlose Mobilität 
+ermöglichen. Beispielsweise sollen Apps standardisiert bereitgestellte digitale Informationen über
+verschiedene Verkehrsmittel kombinieren und Buchungen sowie Ticketkäufe für eine gesamte Reise
+erleichtern können. Die Richtlinie umfasst auch Dienste zur Unterstützung des autonomen und vernetzten
+Fahrens.
+3. Verbesserte Interoperabilität: Es wird angestrebt, die Verfügbarkeit und Qualität digitaler Daten zu
+verbessern und sicherzustellen, dass eine effiziente Datennutzung von Diensten und Systemen ermöglicht 
+wird. Hiermit wird erreicht, dass verschiedene Systeme und Dienste nahtlos zusammenarbeiten können, 
+somit interoperabel sind und eine bessere Koordination im Verkehrswesen ermöglicht wird. Dies ist
+besonders wichtig für die Integration automatisierter Fahrzeuge und die Echtzeitüberwachung des
+Verkehrsflusses sowie Echtzeitinformationen über Reiseverbindungen unter Berücksichtigung von
+Verspätungen und Verzögerungen.
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+4. Digitalisierungsziele: Die Richtlinie setzt spezifische Ziele für die Digitalisierung von
+Verkehrsinformationen wie Geschwindigkeitsbegrenzungen und Straßenbaustellen oder Zugangsknoten (Haltestellen) für 
+die Nutzung von Linienverkehren (z.B. Busse, Straßenbahn, U-Bahn, Zug, Fähren). Diese Informationen 
+sollen in einer standardisierten, maschinenlesbaren Form verfügbar gemacht werden. Dies erleichtert die 
+Verbreitung und Nutzung dieser Daten durch verschiedene Anwendungen und Dienste, die zur
+Verbesserung der Verkehrssicherheit und Effizienz beitragen.
+5. Echtzeitinformationen: Die Richtlinie erweitert die Verfügbarkeit der Echtzeitinformationen und soll
+Datengenauigkeit verbessern. Dies ermöglicht Fahrerinnen und Fahrern präzisere und aktuellere
+Informationen über Verkehrsbedingungen, Gefahren und andere relevante Faktoren zur Verfügung zu stellen, was 
+zur Erhöhung der Verkehrssicherheit beiträgt. Intelligente Geschwindigkeitsassistenten können
+beispielsweise besser auf plötzliche Änderungen der Verkehrssituation reagieren.
+Diese Änderungen der Richtlinie zielen darauf ab, die Effizienz, Sicherheit und Nachhaltigkeit des
+Verkehrssystems in der EU zu verbessern und die Integration neuer Technologien zu erleichtern. 
+Die Umsetzung der vorgenannten Änderungen der Richtlinie 2010/40/EU in nationales Recht erfordert eine 
+grundlegende Überarbeitung des bisherigen IVSG im Rahmen einer Neufassung des Gesetzes. Für die Umsetzung 
+der Datenbereitstellungsverpflichtung aus der Richtlinie 2010/40/EU ist die Bereitstellung von Daten über den 
+nationalen Zugangs-punkt sicherzustellen, einschließlich der Digitalisierung und Bereitstellung neuer und
+geänderter Informationen. Hierfür wird die Nationale Stelle, die bei der BASt betrieben wird, mit koordinierenden 
+Aufgaben betraut. Diese Aufgaben betreffen die Unterstützung der Daten-inhaber durch Erstellung von Leitfäden, 
+Beantwortung von Fragen sowie zur Durchführung von Maßnahmen zur Qualitätssicherung. Es sind zudem
+Regelungen zur Organisation und Nutzung des Nationalen Zugangspunktes, zur Qualitätssicherung sowie zur
+Zusammenarbeit von Bund und Ländern/Kommunen sowie zur Zusammenarbeit mit den anderen Mitgliedsstaaten 
+zur einheitlichen Interpretation und Umsetzung der Vorgaben aus den Delegierten Verordnungen erforderlich. 
+Neben der Umsetzung der revidierten IVS-Richtlinie wird mit dem hiesigen Gesetz auch die Durchführung der 
+Verordnung 2023/1804 über den Aufbau der Infrastruktur für alternative Kraftstoffe (AFIR-VO) und die
+Bereitstellungspflicht von bereits erfassten Daten zur Auslastung der Fahrzeuge im Linienverkehr gewährleistet, wobei 
+auch Folgeänderungen, wie im Personenbeförderungsgesetzes (PBefG), notwendig sind. 
+II. Wesentlicher Inhalt des Entwurfs
+Der Gesetzesentwurf schafft einen neuen nationalen Rechtsrahmen für die Einführung, den Betrieb und die
+Qualitätssicherung von IVS im Straßenverkehr sowie deren Schnittstellen zu anderen Verkehrsträgern. Ziel ist es, die 
+unionsrechtlichen Vorgaben der Richtlinie 2010/40/EU und der dazugehörigen delegierten Verordnungen in
+nationales Recht umzusetzen und die digitale Transformation des Verkehrssektors zu fördern. 
+Das Gesetz enthält u.a. 
+• Begriffsbestimmungen für IVS, IVS-Anwendungen, IVS-Dienste, Dateninhaber, Datennutzer, Nationale 
+Stelle und weitere zentrale Akteure (§ 2),
+• Pflichten zur Einführung von IVS-Diensten durch zuständige Stellen in bestimmten
+Anwendungsbereichen (§§ 3–4),
+• Verpflichtungen zur Datenbereitstellung durch Dateninhaber über den Nationalen Zugangspunkt,
+einschließlich Fristen und technischer Anforderungen (§§ 5–6),
+• Regelungen zum Betrieb des Nationalen Zugangspunkts durch das Bundesministerium für Verkehr sowie 
+zur Möglichkeit der Beleihung und Beauftragung Dritter sowie zur Datennutzung und Lizenzen (§§ 7-8), 
+• Aufgaben der Nationalen Stelle, insbesondere zur Qualitätssicherung, Beratung, Überwachung und
+Koordination der Datenbereitstellung (§ 9),
+• Verpflichtung zur Abgabe von Eigenerklärungen durch Dateninhaber zur Einhaltung der
+unionsrechtlichen Spezifikationen sowie deren Prüfung durch die Nationale Stelle (§ 10),
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+• Einführung eines automatisierten Systems zur Verbesserung der Datenqualität, das eine strukturierte
+Fehlerkorrektur durch Dateninhaber und Datennutzer ermöglicht (§ 11), 
+• Berichtspflichten des Bundesministeriums für Verkehr ggü. der Europäischen Kommission (§ 12),  
+• Regelungen zur Verarbeitung von personenbezogenen Daten (§ 13)  
+• eine umfassende Rechtsverordnungsermächtigung, die es dem Bundesministerium für Verkehr
+ermöglicht, technische organisatorische Regelungen zur Durchführung des Gesetzes zu erlassen (§ 14). 
+Das Gesetz fördert die Interoperabilität, Transparenz und Effizienz im Verkehrssektor, stärkt die Datenqualität 
+und schafft klare Zuständigkeiten für die Umsetzung europäischer Vorgaben im Bereich IVS. 
+III. Exekutiver Fußabdruck 
+Im Rahmen der Revision der IVS-Richtlinie und der Erarbeitung des Gesetzesentwurfs wurden Vertreterinnen 
+und Vertreter der Länder, kommunale Spitzenverbände, Betreiber von Landessysteme für , Verkehrsverbände 
+sowie technische Dienstleister über den  ITS-Beirat Digitalisierung der Mobilität eingebunden. Die BASt war als 
+künftige Nationale Stelle ebenfalls beteiligt. Die Berechnung des Erfüllungsaufwands erfolgte mit Unterstützung 
+des Statistischen Bundesamtes. 
+Die Rückmeldungen dieser Akteure hatten wesentlichen Einfluss auf die Ausgestaltung der Datenbereitstellung, 
+die Einführung von Eigenerklärungen, die Aufgaben der Nationalen Stelle sowie das System zur Fehlerkorrektur. 
+Die Ergebnisse führten zu praxistauglichen, technisch anschlussfähigen und föderal kompatiblen Regelungen. 
+IV. Alternativen 
+Keine. 
+V. Gesetzgebungskompetenz 
+Die Gesetzgebungskompetenz für das IVSG liegt beim Bund. Diese Kompetenz folgt aus Artikel 73 Absatz 1 6a 
+des Grundgesetzes, Artikel 74 Absatz 1 Nummern 11, 21, 22 und 23 in Verbindung mit Artikel 72 Absatz 2 des 
+Grundgesetzes. Eine bundesgesetzliche Regelung ist zur Wahrung der Rechts- und Wirtschaftseinheit im
+gesamtstaatlichen Interesse erforderlich. Die Einführung von IVS-Anwendungen und IVS-Diensten erfolgt regelmäßig 
+über die Grenzen eines Bundeslandes hinaus. Zur Wahrung gleicher Rechtsvoraussetzungen ist daher eine
+bundesgesetzliche Regelung erforderlich.  
+VI. Vereinbarkeit mit dem Recht der Europäischen Union und völkerrechtlichen Verträgen 
+Der Gesetzesentwurf ist mit dem Recht der Europäischen Union und völkerrechtlichen Verträgen, die die
+Bundesrepublik Deutschland abgeschlossen hat, vereinbar. 
+VII. Gesetzesfolgen 
+Der Gesetzesentwurf hat Auswirkungen auf die digitale Organisation des Verkehrssektors. Er schafft klare
+rechtliche Rahmenbedingungen für die Bereitstellung, Nutzung und Qualitätssicherung von Daten und Diensten und 
+fördert die Interoperabilität von IVS. Unbeabsichtigte Nebenwirkungen sind derzeit nicht ersichtlich, können
+jedoch im Zuge der technischen Umsetzung insbesondere bei kleineren Dateninhabern in Form von
+Umstellungsaufwänden auftreten. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+1. Rechts- und Verwaltungsvereinfachung
+Die Neufassung des IVSG schafft eine rechtlich und administrativ verein-fachte Grundlage für die Bereitstellung 
+und Nutzung von Daten im Bereich von IVS und AFIR – sowohl für Dateninhaber und Datennutzer als auch für 
+die zuständigen Behörden.  
+Durch die Einführung einheitlicher Begriffe, klarer Zuständigkeiten und standardisierter Verfahren zur
+Datenbereitstellung und -prüfung wird die Verwaltungspraxis erheblich erleichtert. Die zentrale Bereitstellung über den 
+Nationalen Zugangspunkt (NAP) reduziert redundante Prozesse und verbessert die Nachvollziehbarkeit. Die 
+Möglichkeit zur elektronischen Eigenerklärung und automatisierten Fehlerkorrektur entlastet zusätzlich die
+Verwaltung und die Datenbereitsteller.  
+Für Dateninhaber wird die Erfüllung ihrer Pflichten durch die technisch koordinierende Rolle der Nationalen 
+Stelle unterstützt. Darüber hinaus trägt die Einbindung bereits bestehender Datenmittler, etwa in Form von
+Landessystemen, dazu bei, sowohl die Dateninhaber als auch die Nationale Stelle bei der Umsetzung der Vorgaben 
+aus dem EU-Recht wirksam zu entlasten.  
+Datennutzer profitieren von klaren und einheitlichen Nutzungsbedingungen. Die Vorgabe von Standardlizenzen 
+in einer Rechtsverordnung ersetzt individuelle Verhandlungen mit einzelnen Dateninhabern und erleichtert den 
+Zugang zu Daten. 
+Die im IVSG zusammengeführten Regelungen zu allen relevanten Datenarten ermöglichen eine konsistente und 
+effiziente Umsetzung durch die zuständigen Stellen. Alle Akteure, die Daten an den Nationalen Zugangspunkt 
+(NAP) liefern oder daraus nutzen, unterliegen den Vorgaben des IVSG. Die klar definierten
+Nutzungsbedingungen und die einheitliche Lizenzierung vereinfachen die Verwaltung und fördern eine reibungslose Nutzung der 
+bereitgestellten Datenangebote. 
+2. Nachhaltigkeitsaspekte
+Der Entwurf trägt zur Umsetzung der Deutschen Nachhaltigkeitsstrategie bei, insbesondere in den Bereichen 
+„Nachhaltige Mobilität“, „Digitale Verwaltung“ und „Ressourceneffizienz“. Durch die Förderung digitaler
+Verkehrssteuerung und datenbasierter Mobilitätsdienste werden Verkehrsflüsse optimiert, umweltfreundliche
+Verkehrsträger gestärkt und in der Folge Emissionen reduziert. Die Regelungen entsprechen den Zielen des eNAP 
+(elektronische Nachhaltigkeitsprüfung) und unterstützen die Indikatoren „Treibhausgasemissionen im Verkehr“ 
+und „Zugang zu nachhaltiger Mobilität“. 
+3. Haushaltsausgaben ohne Erfüllungsaufwand
+Für den Bundeshaushalt entstehen Mehrausgaben für den Betrieb des Nationalen Zugangspunkts, die Ausstattung 
+der Nationalen Stelle, die Entwicklung eines Systems zur Datenqualitätsverbesserung sowie für
+Qualitätssicherung und EU-Berichtspflichten und die Daten- und Dienstebereitstellung durch die Bundesfernstraßenverwaltung. 
+Einnahmen sind nicht zu erwarten. 
+Dem Bundesministerium für Verkehr (BMV) entstehen jährliche Personalkosten in der Höhe von 322 889 Euro, 
+jährliche Sacheinzelkosten in der Höhe von 2 060 000 Euro sowie jährliche Gemeinkosten von 884 052 Euro 
+zusätzlich infolge der neuen Aufgaben für den Betrieb der Mobilithek, die u.a. die Aufgaben des Nationalen
+Zugangspunktes wahrnimmt. Zudem muss die Mobilithek für die neuen Anforderungen der Datenbereitstellung
+angepasst werden. Hierfür entstehen zusätzlich einmalige Personalkosten in der Höhe von 161 445 Euro,
+Sacheinzelausgaben in der Höhe von 3 250 000 Euro sowie Gemeinkosten von 1 265 646 Euro. Gemäß den Ergebnissen 
+zur Ermittlung und Darstellung des Erfüllungsaufwands sind für die Wahrnehmung der Fachaufgaben insgesamt 
+auf Dauer Planstellen erforderlich (eine im höheren Dienst (hD) und eine im gehobenen Dienst (gD)) sowie
+temporär eine Planstelle (0,5 hD). Soweit sich das BMV für den fachlichen und technisch administrativen Betrieb 
+einer nachgeordneten Behörde bedient (z.B. BASt) sind die entsprechenden Bedarfe zu verschieben. Für die
+Haushaltsjahre ab dem Jahr 2026 stellt sich der Stellen- und Sachmittelbedarf wie folgt dar:  
+Personalmittel: 
+2026: Einrichtung von 8 Planstellen, davon drei volle und temporär drei halbe hD-Stellen und eine 
+volle und temporär eine halbe gD-Stellen) 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+ab 2027:  Weiternutzung 4 Planstellen (drei hD-Stellen und eine gD-Stelle) 
+Sachmittel (ohne Gemeinkosten): 
+2026: 3 185 000 Euro (für Betrieb 2 060 000 Euro und Anpassung der Software 1.125.000 Euro) 
+2027: 3 185 000 Euro (für Betrieb 2 060 000 Euro und Anpassung der Software 1.125.000 Euro) 
+2028: 3 060 000 Euro (für Betrieb 2 060 000 Euro und Anpassung der Software 1 000 000 Euro) 
+Ab 2029: 2 060 000 Euro 
+Der Bundesanstalt für Straßenwesen (BASt), werden mit dem IVS-G für die Nationale Stelle (bisher 0,5 DP) 
+zusätzliche Aufgaben größeren Umfangs zugewiesen. Zudem wird zur Aufgabenwahrnehmung der Nationalen 
+Stelle ein neues IT-System zur Datenqualitätsverbesserung benötigt sowie ein zweites, bereits vorhandenes IT-
+System für die Auswertung von Eigenerklärungen zur Erstellung von Beiträgen für die Berichterstellung
+angepasst. Für die Wahrnehmung der Fachaufgaben der Nationale Stelle entstehen jährliche Personalkosten in Höhe 
+von insgesamt 2 983 000 Euro, jährliche Sacheinzelkosten in Höhe von 830 000 Euro sowie jährliche
+Gemeinkosten in Höhe von 877 000 Euro. Zudem entstehen zusätzlich einmalige Sacheinzelausgaben in der Höhe von 2 
+500 000 Euro sowie Gemeinkosten von 735 000 Euro. Gemäß den Ergebnissen zur Ermittlung und Darstellung 
+des Erfüllungsaufwands sind für die Wahrnehmung der Fachaufgaben insgesamt 26,12 Planstellen erforderlich 
+(23,12 im höheren Dienst (hD) und drei im gehobenen Dienst (gD)).Für die Haushaltsjahre ab dem Jahr 2026 
+stellt sich der Stellen- und Sachmittelbedarf wie folgt dar:  
+Personalmittel: 
+2026: Einrichtung von 15 Planstellen (vier für den HH 2026 bereits angemeldet), davon 12 hD-Stellen 
+und 3 gD-Stelle) 
+ab 2027: Beantragung weiterer 11,12 Planstellen (hD-Stellen)) 
+Sachmittel (ohne Gemeinkosten): 
+2026:   2 330 000 Euro (für Betrieb 830 000 Euro und neue bzw. Anpassung vorhandener Software 1 
+500 000 Euro)  
+2027:  1 830 000 Euro (für Betrieb 830 000 Euro und neue bzw. Anpassung vorhandener Software 1 
+000 000 Euro)  
+Ab 2028:  830 000 Euro 
+Ergänzende Hinweise: 
+Soweit die BASt von der Möglichkeit Gebrauch machen würde, einen Dritten mit den Aufgaben der Nationale 
+Stelle zur Koordinierung der Datenbereitstellung gemäß Art. 20 AFIR-VO zu beauftragen, würden sich die
+jährlichen Personalmittel der BASt um 387 000 Euro (4 hD-Stellen) auf 2 596 000 Euro reduzieren. Die Sachkosten 
+wären entsprechend zu erhöhen und die Gemeinkosten anzupassen.  
+Sollte es nicht möglich sein, die BASt mit den danach noch erforderlichen 22,12 Personalstellen zur
+Wahrnehmung der IVS-Aufgaben auszustatten, d.h. nach  Auslagerung der Koordinierungsaufgaben zur
+Datenbereitstellung gemäß AFIR – vier hD-Stellen,  so würden im Minimum mindestens neun hD Stellen und eine gD-Stelle bei 
+entsprechendem Anwuchs der Sachkosten um ca. 2 500 000 Euro/Jahr für die Einbindung Dritter benötigt. Die 
+Nationale Stelle wäre hierzu mit folgenden zusätzlichen Personalressourcen auszustatten: eine hD-Stelle E 15 für 
+Leitung,  eine hD-Stelle E 14 für IT-Architektur, eine hD-Stelle E 14 für Produkt Management und
+Auftragnehmersteuerung IT-Systeme, drei hD-Stellen E 13 für Community Management, drei hD-Stellen E 14 für
+Datenmodelle und Datenanalyse und eine gD-Stelle E 11 für Assistenz und Vergabe externer Dienstleistungen. Hierdurch 
+würde sich der jährlichen Personalmittelbedarf der BASt auf 992 000 Euro reduzieren. Die Sachkosten wären 
+entsprechend zu erhöhen und die Gemeinkosten anzupassen. 
+ 
+Für die Bundesfernstraßenverwaltung (die Autobahn GmbH des Bundes, Auftragsverwaltung des Bundes durch 
+die Länder) fallen Kosten für die Daten- und Dienstebereitstellung an. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Für die Autobahn GmbH des Bundes entstehen zusätzliche Sach- und Personalkosten, die zunächst nur für die 
+Anpassung und den Betrieb von zwei Softwareanwendungen abgeschätzt werden können. 
+Personalmittel: 
+ab 2026: Einrichtung von 3 Planstellen, davon 1 hD-Stelle und 2 gD-Stellen) 
+Sachmittel (ohne Gemeinkosten): 
+2026/2027: insgesamt ca. 4 000 000 Euro für die Anpassung vorhandener Software zur Datenbereitstellung  
+ab 2028:  1 000 000 Euro 
+Über die genannten Aufwände hinaus wird der Haushaltsbedarf wesentlich vom den künftig zu definierenden 
+zusätzlichen IVS-Diensten und Qualitätsanforderungen abhängig sein, für deren Erfüllung Investitionen in eine 
+Verbesserung und Verdichtung der noch sehr heterogen ausgeprägten Verkehrsdatenerfassung sowie ein erhöhter 
+betrieblicher Aufwand (Personal und Investitionen) zu veranschlagen sind. 
+Für die Auftragsverwaltung des Bundes durch die Länder entstehen einmalige Sachkosten in Höhe von 1 362 000  
+Euro sowie jährliche Sachkosten in Höhe von 26 000 Euro. Zusätzlich sind Gemeinkosten in Höhe von 29,4 % 
+auf Personal- und Sachkosten anzusetzen.  
+Länder tragen Aufwände für die Integration ihrer Landessysteme, die sie auch den Kommunen zur Nutzung
+bereitstellen, sowie die Aggregation von Daten, Eigenerklärungen und Fachbeiträgen für die Berichterstattung. Es 
+entstehen einmalige Sachkosten in Höhe von 6 638 000 Euro sowie jährliche Sachkosten in Höhe von 1 992 000 
+Euro. Zusätzlich sind Gemeinkosten in Höhe von 29,4 % auf Personal- und Sachkosten anzusetzen. Die
+Mitwirkung an Verwaltungsvereinbarungen verursacht ebenfalls Aufwand. 
+Kommunen sind betroffen, wenn sie als Dateninhaber auftreten. In diesem Fall entstehen Aufwände für die
+Digitalisierung und maschinenlesbare Aufbereitung vorhandener Informationen. Es entstehen jedoch keine
+zusätzlichen Sachkosten, da geeignete Tools von den Ländern bereitgestellt werden oder bereits vorhanden sind.
+Gemeinkosten sind ggf. nicht quantifizierbar. Die Regelungen fördern zugleich die digitale Modernisierung und sind so 
+ausgestaltet, dass bestehende Strukturen genutzt werden können. 
+Für den Bund entstehende Mehrausgaben an Sach- und Personalkosten sind im Einzelplan 12 auszugleichen. 
+4. Erfüllungsaufwand
+Die Zeitwerte der Verwaltung resultieren aus Befragungen des Bundesministeriums für Verkehr sowie der BASt. 
+4.1. Erfüllungsaufwand für Bürgerinnen und Bürger 
+Keine Veränderung. 
+4.2. Erfüllungsaufwand für die Wirtschaft 
+lfd. 
+Nr. 
+Artikel
+Regelungsentwurf; 
+Norm (§§);
+Bezeichnung der 
+Vorgabe 
+IP 
+Jährliche 
+Fallzahl 
+und
+Einheit 
+Jährlicher 
+Aufwand 
+pro Fall 
+(Minuten * 
+Lohnkosten 
+pro Stunde
+(Wirtschaftszweig) + 
+Sachkosten 
+in Euro) 
+Jährlicher
+Erfüllungsaufwand (in 
+Tsd. Euro) 
+oder
+„geringfügig“
+(Begründung) 
+Einmalige 
+Fallzahl 
+und
+Einheit 
+Einmaliger 
+Aufwand 
+pro Fall
+(Minuten * 
+Lohnkosten 
+pro Stunde
+(Wirtschaftszweig) +
+Sachkosten 
+in Euro) 
+Einmaliger
+Erfüllungsaufwand (in 
+Tsd. Euro) 
+oder
+„geringfügig“
+(Begründung) 
+2.1a 
+Art. 1 IVSG; § 5 
+i.V.m. § 6 
+IVSG; Datenlie-
+ 298,6
+2.779,2 
+Euro 
+= (4.320 / 60 
+830 717 
+3.860 Euro 
+= (6.000 / 60 
+* 38,60
+2.768 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+lfd. 
+Nr. 
+Artikel
+Regelungsentwurf; 
+Norm (§§);
+Bezeichnung der 
+Vorgabe 
+IP 
+Jährliche 
+Fallzahl 
+und
+Einheit 
+Jährlicher 
+Aufwand 
+pro Fall 
+(Minuten * 
+Lohnkosten 
+pro Stunde
+(Wirtschaftszweig) + 
+Sachkosten 
+in Euro) 
+Jährlicher
+Erfüllungsaufwand (in 
+Tsd. Euro) 
+oder
+„geringfügig“
+(Begründung) 
+Einmalige 
+Fallzahl 
+und
+Einheit 
+Einmaliger 
+Aufwand 
+pro Fall
+(Minuten * 
+Lohnkosten 
+pro Stunde
+(Wirtschaftszweig) + 
+Sachkosten 
+in Euro) 
+Einmaliger
+Erfüllungsaufwand (in 
+Tsd. Euro) 
+oder
+„geringfügig“
+(Begründung) 
+ferung über den 
+Nationalen
+Zugangspunkt 
+* 38,60 
+Euro/h (WZ: 
+A-S ohne 
+O)) 
+Euro/h (WZ: 
+A-S ohne 
+O)) 
+2.1b 
+Art. 1 IVSG; § 5 
+Abs. 4
+(Auslastungsdaten), 
+ 342 
+545 Euro   = 
+(240 / 60 
+*136,25 
+Euro/h 
+186 342 
+5.450 Euro   
+= (2.400 / 60 
+*136,25 
+Euro/h 
+1.864 
+2.2 
+Art. 1 IVSG; § 
+10 IVSG;
+Erbringung von
+Eigenerklärungen 
+Ja 47.047 
+154,4 Euro 
+= (240 / 60 * 
+38,60 
+Euro/h (WZ: 
+A-S ohne 
+O)) 
+7.264 47.047 
+617,6 Euro 
+= (960 / 60 * 
+38,60 
+Euro/h (WZ: 
+A-S ohne 
+O)) 
+29.070  
+2.3 
+Art. 1 IVSG; § 
+11 IVSG;
+Meldungen zur
+Verbesserung der 
+Datenqualität 
+ 550.410 
+77,2 Euro 
+= (120 / 60 * 
+38,60 
+Euro/h (WZ: 
+A-S ohne 
+O)) 
+42.514       
+ Summe (in Tsd. 
+Euro)    50.794   33.702 
+ davon aus
+Informations-
+pflichten (IP) 
+ 
+  
+7.264   29.070 
+*Spiegelvorgaben werden in der Spalte 'Artikel Regelungsentwurf; Norm (§§); Bezeichnung der Vorgabe'
+einheitlich gekennzeichnet. 
+Ein möglicherweise höherer Aufwand für die Wirtschaft aus den unmittelbaren Vorgaben der AFIR-VO
+(Verordnung (EU) 2023/1804 wird hier nicht beziffert, da sich die Verpflichtungen nicht aus dem Bundesrecht, sondern 
+unmittelbar aus europäischen Regelungen ergeben. 
+Durch die Regelungen sind folgende Bereiche betroffen: 
+WZ2008/ 
+4steller / 
+Klasse Bezeichnung Inhalt (Beispiele) 
+Anzahl 
+insgesamt 
+Anzahl
+Unternehmen mit 
+<150
+Beschäftigten 
+Anzahl
+Unternehmen mit >= 
+150
+Beschäftigte 
+47.30 
+Einzelhandel mit
+Motorenkraftstoffen
+(Tankstellen)  
+Agenturtankstellen und Freie
+Tankstellen 6.321 6.315 6 
+49.10 Personenbeförderung im 
+Eisenbahnfernverkehr 
+Personenbeförderung im
+Schienenverkehr 44 37 7 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+49.31 
+Personenbeförderung im 
+Nahverkehr zu Lande 
+(ohne Taxis) 
+Personenbeförderungen im Orts- und 
+Nahverkehr zu Lande. Verschiedene 
+Verkehrsmittel können zum Einsatz 
+kommen, z.B. Omnibusse,
+Straßenbahnen, Oberleitungsbusse, U-Bahnen, 
+Hochbahnen, Nahverkehrszüge usw. 
+2.693 2.438 255 
+49.32 Betrieb von Taxis Personenbeförderung mit Taxis 22.086 22.075 11 
+49.39 
+Sonstige
+Personenbeförderung im Landverkehr a. 
+n. g. 
+Linienmäßiger Omnibusfernverkehr 3.235 3.176 59 
+50.10 
+Personenbeförderung in 
+der See- und
+Küstenschifffahrt 
+Personenbeförderungen in der See- und 
+Küstenschifffahrt, im Linien- oder
+Gelegenheitsverkehr = Betrieb von
+Ausflugs- und Kreuzfahrschiffen, Fähren, 
+Wassertaxis usw. 
+201 195 6 
+50.30 Personenbeförderung in 
+der Binnenschifffahrt 
+Personenbeförderung auf Flüssen,
+Kanälen, Seen und anderen
+Binnengewässern sowie innerhalb von Häfen 
+413 410 3 
+51.10 Personenbeförderung in 
+der Luftfahrt 
+ - Personenbeförderung im
+Linienflugverkehr 
+ - Personenbeförderung im
+Charterflugverkehr 
+ - Durchführung von Rundflügen 
+ - Betrieb von Lufttaxis 
+563 546 17 
+52.21 
+Erbringung von sonstigen 
+Dienstleistungen für den 
+Landverkehr 
+ - Betrieb von Parkplätzen und
+Parkhäusern, Fahrradstellplätzen 
+ - Betrieb von Straßen , Brücken ,
+Tunneln 
+ - Betrieb von Bahnhöfen für den
+Personenverkehr einschließlich
+Omnibusbahnhöfe 
+ - Betrieb von Eisenbahninfrastrukturen 
+und damit verbundene Tätigkeiten wie 
+Weichenstellen und Rangieren 
+2.632 2.616 16 
+52.22 
+Erbringung von sonstigen 
+Dienstleistungen für die 
+Schifffahrt 
+ - Betrieb von Kanälen, Schleusen, 
+Schiffshebewerken usw. 
+ - Betrieb von
+Abfertigungseinrichtungen wie Häfen und Anlagestellen 
+875 854 21 
+52.23 
+Erbringung von sonstigen 
+Dienstleistungen für die 
+Luftfahrt 
+Betrieb von Flughäfen und
+Landeplätzen für Luftfahrzeuge 639 577 62 
+77.11 
+Vermietung von
+Kraftwagen mit einem
+Gesamtgewicht von 3,5 t oder
+weniger 
+Vermietung und Operating-Leasing von 
+Personenkraftwagen und anderen
+Kraftwagen mit einem Gesamtgewicht von 
+3,5 t oder weniger ohne Fahrer
+(beinhaltet auch Car-Sharing-Unternehmen) 
+3.946 3.921 25 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+77.12 
+Vermietung von
+Kraftwagen mit einem
+Gesamtgewicht von mehr als 3,5 t 
+Lastkraftwagen, Nutzanhänger und
+andere Kraftwagen mit einem
+Gesamtgewicht von mehr als 3,5 t ohne Fahren 
+ - Campingbusse 
+1.395 1.391 4 
+  - Bikesharing 
+Quelle: Technische Universität
+München  
+(https://media-
+tum.ub.tum.de/doc/1610026/document.
+pdf) 
+800 780 20 
+77.34 Vermietung von
+Wasserfahrzeugen   703 703 0 
+77.35 Vermietung von
+Luftfahrzeugen   371 371 0 
+77.39 E-Scooter-Sharing 
+eigene Schätzung (In Deutschland sind 
+aktuell sechs größere Anbieter aktiv, 
+Circ, Lime, Tier, Voi, Jump und Bird, 
+sowie einige kleinere Anbieter.) 
+20 14 6 
+ - 
+Rundfunksender, die
+Verkehrsnachrichten
+ausstrahlen 
+- Schätzung 110 100 10 
+ -  Ladesäulenbetreiber BNetzA 2004 7.994     
+    Summe 55.041   
+ 
+Es wird davon ausgegangen, dass die Tätigkeiten der Wirtschaft vom Arbeitsablauf her weitestgehend denen der 
+Verwaltung entsprechen und es nur wenige Unterschiede bei der Bearbeitung gibt. Folglich wurden für die
+Wirtschaft in der Regel die Zeitwerte der Verwaltung übernommen. 
+Lfd. Nr. 2.1a: Datenlieferung über den Nationalen Zugangspunkt; § 5 i.V.m. § 6 IVSG 
+Die hier veranschlagten Aufwände beziehen sich insbesondere auf die Datenbereitstellungsverpflichtungen
+infolge IVS-Richtlinie (§ 5 Absatz 2 IVSG), da die Anzahl der Unternehmen, die unter § 5 Absatz 1 IVSG fallen 
+unbekannt und nicht abschätzbar ist. 
+Die Fallzahl ergibt sich aus der prozentualen Neugründungsquote im Bereich Verkehr und Lagerei (Destatis 2022) 
+sowie der Annahme, dass 5% des Bestands betroffen sind 
+Lfd. Nr. 2.1b: Auslastungsdaten von öffentlichen Eisenbahnverkehrsunternehmen im Personenverkehr (§ 
+5 Absatz 4 IVSG) 
+Mit § 5 Absatz 4 wird für den Schienenverkehr die Pflicht eingeführt, dynamische Auslastungsdaten
+bereitzustellen. Diese Daten werden von den Eisenbahnverkehrsunternehmen im Personenverkehr (EVU) im normalen
+Betrieb bereits regulär erhoben und sind verfügbar.  
+Dynamische Auslastungsinformationen sind bereits nach dem Personenbeförderungsgesetz (§ 3a Absatz 1
+Nummer 1 Buchstabe b und Nummer 2 Buchstabe b PBefG) über den Nationalen Zugangspunkt verpflichtend
+bereitzustellen. Dies betrifft jedoch ausschließlich die Verkehre im Anwendungsbereich des PBefG (§ 1 Absatz 1 Satz 
+1 PBefG: Beförderung von Personen mit Straßenbahnen, mit Oberleitungsomnibussen (Obussen) und mit
+Kraftfahrzeugen). Somit ist diese Regelung neu nur für den Schienenverkehr.  
+Im Sinne des § 5 Absatz 4 zählen zum Schienenverkehr Eisenbahnverkehrsunternehmen im Personenverkehr 
+(EVU), d. h. Schienenpersonennahverkehr (SPNV) und Schienenpersonenfernverkehr (SPFV), nicht der
+Schienengüterverkehr (SGV). Für die Erfüllung der Verpflichtungen müssen die EVU ihre vorhandenen Schnittstellen 
+anpassen. Andere Akteure, insbesondere der öffentliche Personennahverkehr (ÖPNV), waren bereits von den
+Regelungen im PBefG betroffen (siehe hierzu die Begründung zu § 5 Abs. 4), so dass diesen kein zusätzlicher
+Auswand entsteht. Diese Regelungen werden lediglich in IVSG überführt. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Nach Angaben des Eisenbahn-Bundesamts (EBA) gibt es aktuell 342 öffentliche EVU mit einer
+Betriebsgenehmigung (Stand 14.10.2025; EBA - Homepage - Öffentliche EVU).  Für die Programmierung der Schnittstelle 
+durch IT-Experten wird ein Zeitaufwand von fünf Programmiertagen zugrunde gelegt (= 1/3 des Standardwerts 
+aus der entsprechenden Tabelle „Anpassung bestehender Fachverfahren“), da der Aufwand als „minimalinvasiv“ 
+eingeschätzt wird. Als „Durchschnittliche Kosten für einen Programmiertag“ werden, entsprechend der
+Standardwerttabelle, mit 1 090 Euro d.h. 136,25 Euro/h angesetzt.  
+Zusätzlich entsteht durch die Übermittlung von dynamischen Auslastungsdaten und die Pflege der Schnittstellen 
+ein jährlicher Erfüllungsaufwand. Dieser Erfüllungsaufwand wird auf vier Stunden pro Jahr, d.h. 0,5 PT/Jahr 
+geschätzt. Der Berechnung wird ebenfalls zugrunde gelegt, dass die Pflege der Schnittstellen für die Bereitstellung 
+von Auslastungsdaten von IT-Spezialisten durchgeführt wird. 
+Lfd. Nr. 2.2 ( Informationspflicht): Erbringung von Eigenerklärungen; § 10 IVSG 
+Die Fallzahl ergibt sich aus der Anzahl der verpflichteten Dateninhaber nach § 5 Absatz 2 (ohne Berücksichtigung 
+von § 1 Abs 2 Nr. 6) sowie den bisher nach Personenbeförderungsgesetz zur Datenbereitstellung verpflichteten 
+Unternehmen.  
+Eigentlich wären bereits heute Erklärungen nach den Delegierten Verordnungen gem. § 1 Absatz 2 Nr. 2 bis 5 
+ohne bzw. mit Aufforderung durch die Nationale Stelle abzugeben, sobald Daten über den Nationalen
+Zugangspunkt bereitgestellt werden. Da jedoch bisher nur sehr wenige Erklärungen bei der Nationalen Stelle vorgelegt 
+wurden, wird davon ausgegangen, dass mindestens ein einmaliger Aufwand bei allen verpflichteten
+Dateninhabern anfallen kann sowie anschließend ein jährlicher Aufwand für notwendige Aktualisierungen entsteht.  
+Lfd. Nr. 2.3: Meldungen zur Verbesserung der Datenqualität; § 11 IVSG 
+Bei der Fallzahl würde äquivalent zur Verwaltung derselbe Anteil an Betroffenen aus der Grundgesamtheit aller 
+Dateninhaber angenommen, da angenommen wird, dass sich der Arbeitsablauf nicht von der Verwaltung
+unterscheidet. Es gilt die Annahme, dass diese jeweils 10 Meldungen pro Jahr tätigen, die viele der Unternehmen nur 
+für wenige Datenarten zuständig sind und daher auch durchschnittlich die potentielle Fehlerquote geringer sein 
+wird. Für die Bearbeitung werden durchschnittlich 2 Stunden veranschlagt, da hierfür weniger Überprüfungen vor 
+Ort notwendig sein werden, als zur Überprüfung verkehrsrechtlicher Anordnungen.   
+4.3. Erfüllungsaufwand der Verwaltung 
+lfd. 
+Nr. 
+Artikel
+Regelungsentwurf; Norm 
+(§§);
+Bezeichnung 
+der Vorgabe 
+Bund/
+Land
+Jährliche
+Fallzahl und 
+Einheit 
+Jährlicher 
+Aufwand pro 
+Fall (Minuten 
+* Lohnkosten 
+pro Stunde
+(Hierarchieebene) + 
+Sachkosten 
+in Euro) 
+Jährlicher
+Erfüllungsaufwand (in 
+Tsd. Euro) 
+oder
+„geringfügig“
+(Begründung)“ 
+Einmalige 
+Fallzahl 
+und
+Einheit 
+Einmaliger 
+Aufwand 
+pro Fall 
+(Minuten * 
+Lohnkosten 
+pro Stunde
+(Hierarchieebene) + 
+Sachkosten 
+in Euro) 
+Einmaliger
+Erfüllungsaufwand (in 
+Tsd. Euro) 
+oder
+„geringfügig“
+(Begründung) 
+3.1 
+Art. 1 
+IVSG; § 3 
+Abs. 2 
+IVSG;
+Dienstebereitstel
+lungsverpflichtung 
+Bund 
+12
+Verwaltung 
+(bzw. 
+BASt) 
+ 
+7.748,3 Euro 
+= (960 / 60 * 
+67,60 Euro/h 
+(100% hD) 
++6.666,67 
+Euro)  
+93       
+3.2a 
+Art. 1 
+IVSG; § 5 
+i.V.m. § 6 
+IVSG;
+Datenlieferung 
+über den 
+Nationalen 
+Bund 1
+Verwaltung 
+ 
+2.239.810,7 
+Euro 
+= (4.320 / 60 
+* 40,40 
+Euro/h 
+(100% gD) + 
+2.240 1
+Verwaltung 
+4.004.040 
+Euro 
+= (6.000 / 
+60 * 40,40 
+Euro/h 
+(100% gD) 
++ 4.000.000 
+Euro) 
+4.004 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+lfd. 
+Nr. 
+Artikel
+Regelungsentwurf; Norm 
+(§§);
+Bezeichnung 
+der Vorgabe 
+Bund/
+Land
+Jährliche
+Fallzahl und 
+Einheit 
+Jährlicher 
+Aufwand pro 
+Fall (Minuten 
+* Lohnkosten 
+pro Stunde
+(Hierarchieebene) + 
+Sachkosten 
+in Euro) 
+Jährlicher
+Erfüllungsaufwand (in 
+Tsd. Euro) 
+oder
+„geringfügig“
+(Begründung)“ 
+Einmalige 
+Fallzahl 
+und
+Einheit 
+Einmaliger 
+Aufwand 
+pro Fall 
+(Minuten * 
+Lohnkosten 
+pro Stunde
+(Hierarchieebene) + 
+Sachkosten 
+in Euro) 
+Einmaliger
+Erfüllungsaufwand (in 
+Tsd. Euro) 
+oder
+„geringfügig“
+(Begründung)
+Zugangspunkt 
+283.800 / 60 
+* 49,47 
+Euro/h 
+(66,7% gD; 
+33,3 % hD)  
++1.000.000 
+Euro)  
+3.2b 
+Art. 1 
+IVSG; § 5 
+i.V.m. § 6 
+IVSG;
+Datenlieferung 
+über den 
+Nationalen
+Zugangspunkt 
+ 
+Land 94
+Verwaltung 
+28.570,32 
+Euro 
+= (4.320 / 60 
+* 42,20 
+Euro/h 
+(100% gD) + 
+25.531.92 
+Euro) 
+2.686 94
+Verwaltung 
+89.326,38 
+Euro 
+= (6.000 / 
+60 * 42,20 
+Euro/h 
+(100% gD) 
++ 85.106,38 
+Euro) 
+8.397 
+3.3a 
+Art. 1 
+IVSG; § 9 
+IVSG;
+Aufgaben der 
+Nationalen 
+Stelle 
+Bund 1 BASt 
+2.408.141 
+Euro 
+= (1.655.500 
+/ 60 * 63,72 
+Euro/h (14% 
+gD; 86%hD) 
++ 650.000 
+Euro)  
+2.408   
+750.000 
+Euro 
+= (0 
++750.000 
+Euro) 
+750 
+3.3b 
+Art. 1 
+IVSG; § 9 
+IVSG;
+Aufgaben der 
+Nationalen 
+Stelle
+infolge Art. 
+20 AFIR-
+VO) 
+Bund 1
+Verwaltung 
+340.560  
+Euro 
+= (378.400 / 
+60 * 54,00 
+Euro/h (50% 
+gD; 50% 
+hD)) 
+341     
+3.4a 
+Art. 1 
+IVSG; § 10 
+IVSG;
+Erbringung 
+von
+Eigenerklärungen 
+Bund 1
+Verwaltung  
+161,6 Euro 
+= (240 / 60 * 
+40,40 Euro/h 
+(100% gD)) 
+1 1
+Verwaltung 
+646,4 Euro 
+= (960 / 60 * 
+40,40 
+Euro/h 
+(100% gD)) 
+1 
+3.4b 
+Art. 1 
+IVSG; § 10 
+IVSG;
+Erbringung 
+von
+Eigenerklärungen 
+Land 369
+Verwaltung 
+168,8 Euro 
+= (240 / 60 * 
+42,20 Euro/h 
+(100% gD)) 
+62 369
+Verwaltung 
+675,2 Euro 
+= (960 / 60 
+* 42,20 
+Euro/h 
+(100% gD)) 
+249 
+3.5a 
+Art. 1 
+IVSG; § 11 
+IVSG;
+Meldungen zur 
+Verbesse-
+Bund 25
+Verwaltung 
+161,6 Euro 
+= (240 / 60 * 
+40,40 Euro/h 
+(100% gD)) 
+1       
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+lfd. 
+Nr. 
+Artikel
+Regelungsentwurf; Norm 
+(§§);
+Bezeichnung 
+der Vorgabe 
+Bund/
+Land
+Jährliche
+Fallzahl und 
+Einheit 
+Jährlicher 
+Aufwand pro 
+Fall (Minuten 
+* Lohnkosten 
+pro Stunde
+(Hierarchieebene) + 
+Sachkosten 
+in Euro) 
+Jährlicher
+Erfüllungsaufwand (in 
+Tsd. Euro) 
+oder
+„geringfügig“
+(Begründung)“ 
+Einmalige 
+Fallzahl 
+und
+Einheit 
+Einmaliger 
+Aufwand 
+pro Fall 
+(Minuten * 
+Lohnkosten 
+pro Stunde
+(Hierarchieebene) + 
+Sachkosten 
+in Euro) 
+Einmaliger
+Erfüllungsaufwand (in 
+Tsd. Euro) 
+oder
+„geringfügig“
+(Begründung) 
+rung der
+Datenqualität 
+3.5b 
+Art. 1 
+IVSG; § 11 
+IVSG;
+Meldungen zur
+Verbesserung der
+Datenqualität 
+Land 
+10.975
+Verwaltung 
+168,8 Euro 
+= (240 / 60 * 
+42,20 Euro/h 
+(100% gD)) 
+1853       
+3.6 
+Art. 1 
+IVSG; § 11 
+IVSG;
+Unterhaltung 
+eines
+Systems zur
+Verbesserung der
+Datenqualität  
+Bund 1 BASt 
+564.976 Euro 
+= (432.000 / 
+60 * 64,58 
+Euro/h (11% 
+gD; 89% hD) 
++100.000 
+Euro) 
+565 1 BASt 
+1.750.000 
+Euro 
+= (0 + 
+1.750.000 
+Euro) 
+1.750 
+3.7a 
+Art. 1 
+IVSG; § 12 
+IVSG
+Berichtspflichten
+gegenüber der
+Europäischen
+Kommission;  
+Bund 1
+Verwaltung 
+ 864 Euro 
+= (960 / 60 * 
+54,00 Euro/h 
+(50% gD; 
+50% hD) 
+1    
+3.7b 
+Art. 1 
+IVSG; § 12 
+IVSG
+Berichtspflichten
+gegenüber der
+Europäischen
+Kommission;  
+Land 475
+Verwaltung 
+ 900,16 Euro 
+= (960 / 60 * 
+56,26 Euro/h 
+(50% gD; 
+50% hD) 
+428    
+3.8 
+Art. 1 
+IVSG; § 7 
+IVSG;
+Unterhaltung 
+des
+nationalen
+Zugangspunktes 
+Bund 1 BMV 
+2.230.280 
+Euro 
+= (189.200 / 
+60 * 54,00 
+Euro/h (50% 
+gD; 50% hD) 
++2.060.000 
+Euro) 
+2.230 1 BMV 
+3.441.722,7 
+Euro 
+= (189.200 / 
+60 *60,80  
+Euro/h 
+(25% gD; 
+75% hD) 
++3.250.000 
+Euro) 
+3.442 
+ Summe (in 
+Tsd. Euro) 
+   12.909   18.593 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+lfd. 
+Nr. 
+Artikel
+Regelungsentwurf; Norm 
+(§§);
+Bezeichnung 
+der Vorgabe 
+Bund/
+Land
+Jährliche
+Fallzahl und 
+Einheit 
+Jährlicher 
+Aufwand pro 
+Fall (Minuten 
+* Lohnkosten
+pro Stunde
+(Hierarchieebene) + 
+Sachkosten 
+in Euro) 
+Jährlicher
+Erfüllungsaufwand (in 
+Tsd. Euro) 
+oder
+„geringfügig“
+(Begründung)“ 
+Einmalige 
+Fallzahl 
+und
+Einheit 
+Einmaliger 
+Aufwand 
+pro Fall 
+(Minuten * 
+Lohnkosten 
+pro Stunde
+(Hierarchieebene) + 
+Sachkosten 
+in Euro) 
+Einmaliger
+Erfüllungsaufwand (in 
+Tsd. Euro) 
+oder
+„geringfügig“
+(Begründung) 
+davon auf
+Bundesebene 
+7.880 9.947 
+davon auf
+Landesebene
+(inklusive 
+Kommunen) 
+5.029 8.646 
+*Spiegelvorgaben werden in der Spalte 'Artikel Regelungsentwurf; Norm (§§); Bezeichnung der Vorgabe' einheitlich
+gekennzeichnet.
+Die Fallzahlen ergeben sich aus Annahmen des Ressorts sowie der BASt und wurden mittels vergleichbarer
+Vorgaben hiermit verwandter Regelungsvorhaben plausibilisiert. 
+Lfd. Nr. 3.1: Dienstebereitstellungsverpflichtung; § 1 Absatz 2 IVSG 
+Zur Integration von fahrzeuggenerierten sicherheitsrelevanten Daten (DFRS) in den bereits seit Jahren etablierten 
+Verkehrswarndienst (SRTI) ist das derzeit im Aufbau befindliche IT-System zur Datenaufbereitung dauerhaft zu 
+betreiben. 
+Lfd. Nr. 3.2a und 3.2b: Datenlieferung über den Nationalen Zugangspunkt; § 5 i.V.m. § 6 IVSG 
+Die hier veranschlagten Aufwände beziehen sich insbesondere auf die Datenbereitstellungsverpflichtungen
+infolge IVS-Richtlinie (§ 5 Absatz 2 IVSG), da die Anzahl der öffentlichen Verwaltungen, die unter § 5 Absatz 1 
+IVSG fallen unbekannt und nicht abschätzbar ist. 
+Unter die Verpflichtungen nach IVS-RL Artikel 6a i.V.m. Anhang III fallen 95 öffentliche Stellen als Datengeber 
+(Die Autobahn des Bundes, 16 Länder (ca. 99 % Auftragsverwaltung des Bundes) und 78 Städtische Knoten). 
+Aufgrund der Erfahrungen aus einen vergleichbaren Projekt und unter der Berücksichtigung, dass bereits ein Teil 
+der Informationen digitalisiert vorliegt, wird davon ausgegangen, dass der einmalige Erfassungs- bzw.
+Digitalisierungsaufwand bei ca. 100 h liegt und der für die jährliche Aktualisierung bei ca. 72 Std/Jahr. 
+Hinzu kommen Sachkosten für Datenerfassungs- und Datenpflegesoftware. Es wird davon ausgegangen, dass für 
+die bereits in Betrieb befindlichen Datenmittler keine Schnittstellenanpassung zur Entgegennahme von Daten 
+bzw. zur Bereitstellung der aggregierten Daten beim Nationalen Zugangspunkt erforderlich wird. Da die
+Bundesländer teilweise ihren Kommunen geeignete Software-Tools bereitstellen, muss nicht jeder behördliche
+Datengeben eine eigene Software beschaffen. Teilweise wird auch hier schon erforderliche Software vorhanden sein. Es 
+wird davon ausgegangen, dass je Bundesland einmalig 500.000 Euro für die Softwarebeschaffung bzw. -
+anpassung sowie jährliche Betriebskosten in der Höhe von 150.000 Euro anfallen. 
+Die Autobahn GmbH wird mindestens an zwei Softwareanwendungen Anpassungen bzw. Ergänzungen
+vornehmen müssen. Hierfür wurden einmalig Sachkosten sowie für den jährlichen Betrieb Sach- und Personalkosten 
+abgeschätzt.  
+Lfd. Nr. 3.3a: Aufgaben der Nationalen Stelle; § 9 IVSG 
+Mit § 9 IVSG werden der Nationalen Stelle gegen über heute (0,5 Dienstposten – nur stichprobenartige Prüfung 
+von Erklärungen) zusätzliche dauerhafte Aufgaben größeren Umfangs zugewiesen.  
+Auch wenn zu Beginn zunächst der Schwerpunkt in der Kontaktaufnahme, Beschreibung von Profilen und in der 
+Erstellung benötigter Leitfäden steht so werden danach mit der zunehmenden Datenbereitstellung auch die
+Arbeiten zur Qualitätssicherung zunehmen, die parallel zu hinzukommenden neuen Datenbereitstellern oder weite-
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+ren Daten dauerhaft anfallen werden. Ebenfalls dauerhaft anfallen werden die Aufgaben zur Mitarbeit in
+internationalen und nationalen Gremien zur Fortschreibung von Standards und Spezifikationen, die Fortschreibung von 
+Profilen und Leitfäden, die Unterstützung des BMV bei der Fortschreibung und dem Betrieb des Nationalen
+Zugangspunktes und die Stichprobenartige Prüfung der Eigenerklärungen. Alle drei Jahre ist unter geringer
+Aufgabenrückstellung der zuvor genannten Aufgaben das BMV bei der Berichterstattung unter Anwendung des
+Durchführungsbeschlusses (EU) 2025/264 zu unterstützen. Hierzu sind die Eigenerklärungen zur Datenbereitstellung 
+bezogen auf die geographischen Abdeckungen auszuwerten, Fachbeiträge bei den zuständigen Stellen zu IVS-
+Gesetzen, IVS-Strategien, IVS-Maßnahmenplänen und IVS-Projekten einzuholen und auszuwerten sowie die
+Berichtsteile zum Nationalen Zugangspunkt sowie zu der Arbeit der Nationalen Stellen aufgrund der Delegierten 
+Verordnungen zur IVS-Richtlinie zu erstellen. Sämtliche Berichtsteile sind zu einem Berichtsentwurf
+zusammenzufügen.  
+Für die Durchführung dieser Aufgaben werden zusätzlich 17,5 VZÄ benötigt, hiervon zwei VZÄ als IT-Architekt, 
+zwei VZÄ für Datenanalysen, drei VZÄ zur Datenmodellierung, sechs VZÄ für Communitymanagement, ein 
+VZÄ für das Produktmanagement, ein VZÄ für die Projektleitung, 0,5 VZÄ  für IT Administration und zwei VZÄ 
+für Sachbearbeitung.  
+Für die Unterstützung des BMV für die Berichterstattung ist beabsichtigt, die notwendigen Auswertungen zur 
+Datenbereitstellung mit Bezug zu den geographischen Abdeckungen zentral unter Nutzung der Informationen aus 
+den Eigenerklärungen durchzuführen, um die Dateninhaber und Datenmittler soweit möglich von der Erstellung 
+und Lieferung entsprechender Fachbeiträge einschl. ggf. notwendiger Softwareanpassungen zu entlasten. Zur
+Ermöglichung der zentralen Auswertung mit Bezug auf die geographischen Abdeckungen ist das
+Bundesinformationssystem Straße (BISStra) anzupassen, um das bereits darin abgebildete Straßennetz der Bundesfern- und
+Landesstraßen (bisher noch keine Kommunalstraßen) sowie weitere Informationen für die Erstellung der benötigten 
+Fachbeiträge für die Berichterstattung nutzen zu können. Für die Entwicklung und Einführung eines IT-
+Werkzeugs zur Unterstützung der nach der IVS-Richtlinie geforderten Berichterstattung zur Minimierung der für die 
+Berichterstattung bei Bund, Ländern und ggf. Kommunen anfallenden Personal- und Sachkosten werden
+mindestens Sachkosten in Höhe von 750.000 € anfallen. Es werden jährliche Sachkosten in Höhe von 650.000 € für die 
+Pflege dieses Softwaretools sowie Dienstleistungen zur externen Unterstützung mit IT-Expertise in den Bereichen 
+Individualverkehr, Öffentlicher Verkehr und Geoinformationen benötigt.  
+Lfd. Nr. 3.3b: Aufgaben der Nationalen Stelle infolge AFIR-VO; § 9 IVSG 
+Es sollte angestrebt werden, die eigentlich von der BASt wahrzunehmenden Aufgaben zur Koordinierung der 
+Datenbereitstellung gemäß § 1 Absatz 2 Nummer 6 (Artikel 20 AFIR-VO) bei einem Dritten, z.B. der NOW, 
+durch Beleihung gemäß § 9 Absatz 2 anzusiedeln. Es wird davon ausgegangen, dass hierfür vier Personalstellen, 
+d.h. ein VZÄ für die Datenanalyse, ein VZÄ für Datenmodellierung und zwei VZÄ für Communitymanagement, 
+benötigt werden. Analog zu Lfd. Nr. Nr. 3.3a fallen die Arbeiten dauerhaft an. Mit dem zunehmenden Ausbau 
+der Ladeinfrastruktur nimmt auch der Umfang der Datenbereitstellung zu. Mittelfristig werden die Maßnahmen 
+zur Qualitätssicherung überwiegen. Es sind mittelfristig Profilbeschreibungen und erstellte Leitfäden
+fortzuschreiben. Zudem ist die Mitarbeit in internationalen und nationalen Gremien wie NAPCORE, etc. zur
+Fortschreibung von Standards und Spezifikationen sowie der Anforderungen an die Datenqualität sicherzustellen.
+Lfd. Nr. 3.4a und 3.4b: Erbringung von Eigenerklärungen; § 11 IVSG 
+Die Anzahl der verpflichteten Dateninhaber nach § 5 Absatz 2 wurden einschl. Die Autobahn GmbH des Bundes 
+(Bund) auf 440 geschätzt (294 Kreise + 107 Kreisfreie Städte + 16 Landesbetriebe + Die Autobahn des Bundes + 
+22 andere Behörden).  
+Eigentlich wären bereits heute Erklärungen nach den Delegierten Verordnungen gem. § 1 Absatz 2 Nr. 2 bis 5 
+ohne bzw. mit Aufforderung durch die Nationale Stelle abzugeben, sobald Daten über den Nationalen
+Zugangspunkt bereitgestellt werden. Da jedoch bisher nur sehr wenige Erklärungen bei der Nationalen Stelle vorgelegt 
+wurden, wird davon ausgegangen, dass mindestens ein einmaliger Aufwand bei allen verpflichteten
+Dateninhabern anfallen kann sowie anschließend ein jährlicher Aufwand für notwendige Aktualisierungen entsteht.  
+Es wird davon ausgegangen, dass für die Aggregation der Erklärungen bei den derzeit drei bekannten
+Datenmittlern ca. zehnmal so viel Zeit benötigt, wie durchschnittlich für die Abgabe einer Erklärung durch den
+Dateninhaber.  
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Lfd. Nr. 3.5a und 3.5b: Meldungen zur Verbesserung der Datenqualität; § 11 IVSG 
+Die Anzahl der verpflichteten Dateninhaber entspricht der Vorgabe 3.4a und 3.4b. Es gilt die Annahme, dass diese 
+jeweils 25 Meldungen pro Jahr tätigen und für die Bearbeitung durchschnittlich 4 Stunden benötigt werden. In 
+dem Ansatz sind unter anderem enthalten, ggf. Arbeiten eines ggf. an der Klärung beteiligten Datenmittlers,
+erforderliche Abstimmungen des Dateninhabers mit anderen an einer verkehrsrechtlichen Anordnung Beteiligten 
+einschl. notwendiger Überprüfungen eines an der Straße stehenden Verkehrszeichens 
+Lfd. Nr. 3.6: Unterhaltung eines Systems zur Verbesserung der Datenqualität; § 7 IVSG 
+Personal- und Sachaufwände für die Beschaffung und fortlaufende Weiterentwicklung und Pflege eines IT-
+Werkzeuges für das Management der Datenqualität 
+Hierfür werden dauerhaft € 4 VZÄ E 14 für die Datenanalyse sowie 0,5 VZÄ E12 für die IT-Administration und 
+Sachkosten von 100.000 Euro für die fortlaufende Weiterentwicklung und Pflege des IT-Werkzeugs sowie der 
+Datenpflege zu den geographischen Abdeckungen benötigt. 
+Lfd. Nr. 3.7a und 3.7b: Berichtspflichten gegenüber der Europäischen Kommission; § 12 IVSG 
+Die Aufwände der Nationalen Stelle zur Unterstützung des BMV bei der Berichterstattung sind in Lfd. Nr. 3.3a 
+berücksichtigt. Für die Berichterstattung sind von den zuständigen Behörden in Ergänzung zu den verwertbaren 
+Daten aus den Eigenerklärungen alle drei Jahre Fachbeiträge zu erstellen und ggf. für den Fachbeitrag an die 
+Nationale Stelle zusammenzuführen. Es wird davon ausgegangen, dass für die Zusammenführung der 16
+Fachbeiträge (Länder) ca. dreimal so viel Zeit benötigt, wie durchschnittlich für die Erstellung (ca. 48 Std/Bericht – 
+16 Std/Jahr) eines der 440 Fachbeiträge.  
+Lfd. Nr. 3.8: Unterhaltung des nationalen Zugangspunktes; § 7 IVSG 
+Da der Nationale Zugangspunkt (Mobilithek) bereits besteht und betrieben wird, werden lediglich die einmaligen 
+Aufwände zur Anpassung der Mobilithek an die Anforderungen der IVS-Richtlinie (drei 0,5 hD-Stellen und eine 
+0,5 gD-Stelle sowie 3.000.000 €) sowie für die Datenbereitstellung von AFIR-Daten (§ 5 Absatz 1 i.V.m. §1 
+Absatz 2 Nummer 6; 250.000 €) sowie der geschätzte zusätzliche Mehraufwand für die Softwares Pflege und 
+Wartung sowie Weiterentwicklung des NAP, d.h. der Mobilithek, (1 hD-Stelle und 1 gD-Stelle sowie 2.000.000 
+€ + 60.000 €) veranschlagt. 
+ 
+5. Weitere Kosten 
+Keine. 
+6. Weitere Gesetzesfolgen 
+Der Gesetzesentwurf hat mittelbare positive Auswirkungen auf Verbraucherinnen und Verbraucher, insbesondere 
+durch: 
+• verbesserte Verkehrsinformationen in Echtzeit, 
+• erhöhte Verkehrssicherheit durch präzisere Datenlage, 
+• bessere Planbarkeit und Verlässlichkeit multimodaler Mobilitätsangebote, 
+• mehr Transparenz über Verkehrs- und Infrastrukturdaten, 
+• besserer Nutzen von kostenfreien, qualitativ hochwertigen, digitalen Daten bei Planung, Bau und Betrieb 
+von Verkehrsinfrastrukturen. 
+Gleichstellungspolitische Auswirkungen sind nicht zu erwarten, da das Gesetz technik- und datenbezogen
+ausgestaltet ist. Es enthält keine Regelungen, die sich geschlechtsspezifisch oder demografisch differenzierend
+auswirken. 
+Das Gesetz trägt zur Wahrung und Förderung gleichwertiger Lebensverhältnisse bei, indem es die Verfügbarkeit 
+von Mobilitätsdaten auch in strukturschwachen Regionen verbessert und die Grundlage für bedarfsgerechte Ver-
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+kehrsangebote schafft. Das IVSG fördert die Bereitstellung und Nutzung digitaler Datenangebote und trägt damit 
+zur Verbesserung der Mobilität in städtischen wie ländlichen Regionen bei. Bürgerinnen und Bürger erhalten 
+Zugang zu besser vernetzten digitalen Informationen über Mobilitätsangebote, was die Nutzung öffentlicher und 
+multimodaler Verkehrsdienstleistungen erleichtert. 
+Gerade in ländlichen Räumen können digitale Datenangebote dazu beitragen, die Erreichbarkeit von
+Infrastrukturen und Dienstleistungen zu verbessern und bestehende Mobilitätslücken zu schließen. Die positiven Effekte 
+betreffen kommunale, regionale und bundesweite Ebenen gleichermaßen. 
+Die Einbindung bereits bestehender Datenmittler, etwa in Form von Landessystemen, entlastet sowohl die
+Dateninhaber als auch die Nationale Stelle bei der Umsetzung der Vorgaben aus dem EU-Recht. Die zentrale
+Bereitstellung über den Nationalen Zugangspunkt (NAP) reduziert redundante Prozesse und verbessert die
+Nachvollziehbarkeit. Die Möglichkeit zur elektronischen Eigenerklärung und automatisierten Fehlerkorrektur entlastet
+zusätzlich die Verwaltung und die Datenbereitsteller – insbesondere kleinere Kommunen und
+Verkehrsunternehmen, die in ländlichen Räumen häufig besonders stark von bürokratischen Anforderungen betroffen sind. 
+Die Möglichkeit zur Weiterentwicklung besteht jedoch über die Rechtsverordnungsermächtigung. 
+VIII. Befristung; Evaluierung 
+Eine Befristung kommt nicht in Betracht, da das Gesetz der dauerhaften Umsetzung unionsrechtlicher Vorgaben 
+(Richtlinie 2010/40/EU und delegierte Verordnungen), die keinen zeitlich begrenzten Anwendungsbereich
+vorsehen, dient. Die Regelungen betreffen den erweiterten Aufbau und Betrieb einer langfristig angelegten digitalen 
+Infrastruktur für IVS. Eine Befristung würde der erforderlichen Planungssicherheit für Bund, Länder, Kommunen 
+und private Akteure widersprechen. 
+Es erfolgt jedoch eine Evaluierung innerhalb von 5 Jahren nach dem Inkrafttreten, da das Gesetz als wesentlich 
+einzustufen ist. Laut Beschluss des St-Ausschusses Bürokratieabbau vom 23.01.2013 sowie vom 30.09.2024 sind 
+alle wesentlichen Regelungsvorhaben zu evaluieren. Als wesentlich gelten danach Regelungsentwürfe, bei denen 
+ein jährlicher Erfüllungsaufwand von mindestens a) 5 Millionen Euro Sachkosten oder 500 000 Stunden Aufwand 
+für Bürgerinnen und Bürger oder b) 5 Millionen Euro für die Wirtschaft oder c) 5 Millionen Euro für die
+Verwaltung aufgrund der Ex ante-Abschätzung zu erwarten ist. Diese Grenzen werden durch den hiesigen
+Gesetzesentwurf überschritten. Im Rahmen der Evaluierung wird auch geprüft, inwieweit die Vorgaben, die durch dieses 
+Gesetz entstehen, tatsächlich umgesetzt werden und ob Sanktionsvorschriften erlassen werden müssen, um die 
+Verpflichtungen, die sich aus diesem Gesetz ergeben, durchzusetzen. 
+B. Besonderer Teil 
+Zu Artikel 1 (Gesetz über intelligente Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu 
+anderen Verkehrsträgern und zur Durchführung weiterer Pflichten zur Datenbereitstellung über den 
+Nationalen Zugangspunkt) 
+Zu § 1 (Anwendungsbereich) 
+Zu Absatz 1 
+§ 1 definiert den Geltungsbereich des Gesetzes. Das Gesetz enthält Regelungen über die Einführung von IVS im 
+Straßenverkehr und deren Schnittstellen zu anderen Verkehrsträgern. 
+Zu Absatz 2 
+Delegierte Verordnungen, die in Absatz 2 aufgelistet sind, sind bei der Umsetzung und Anpassung der Richtlinie 
+2010/40/EU zu beachten. Sie ermöglichen es der Europäischen Kommission, technische Spezifikationen und 
+Standards für IVS zu entwickeln und zu aktualisieren. Diese Verordnungen stellen sicher, dass die IVS-Richtlinie 
+flexibel bleibt und sich an technologische Fortschritte und neue Anforderungen anpassen kann. Gleichzeitig 
+schränken die Delegierten Verordnungen die nationale Umsetzung ein, da sie klare Rahmenbedingungen der
+verschiedenen Informationsdienste vorgeben. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Mit dem Gesetz wird auch Artikel 20 der Verordnung 2023/1804 über den Aufbau der Infrastruktur für alternative 
+Kraftstoffe (AFIR-VO) durchgeführt, die Datenbereitstellung über den Nationalen Zugangspunkt vorschreibt und 
+Bezüge zur Delegierten Verordnung 2022/670 aufweist. Somit wird sichergestellt, dass die Aufgaben der
+Nationalen Stelle sich auch auf die Datenarten nach AFIR-VO erstrecken. 
+Zu Absatz 3 
+In Absatz 3 wird klargestellt, dass IVS der öffentlichen Sicherheit und der Verteidigung von den Regelungen 
+ausgenommen sind. 
+Zu § 2 (Begriffsbestimmungen) 
+§ 2 enthält die maßgeblichen Begriffsbestimmungen. Dabei wurden weitgehend die in der Richtlinie 2010/40/EU 
+enthaltenden Definitionen übernommen und ergänzt. 
+Zu § 3 (Einführung intelligenter Verkehrssysteme) 
+§ 3 enthält die Grundsätze für die Einführung von IVS. Die Einführung erfolgt durch die zuständigen Stellen auf 
+Bundes- oder Landesebene. Zuständige Stellen können alle national für die Bereitstellung von Daten, die
+Einführung oder den Betrieb von IVS-Anwendungen und IVS-Diensten in einem festgelegten geographischen
+Anwendungsbereich zuständigen juristische Personen, Behörden oder sonstige öffentliche und private Einrichtungen 
+sein. In den jeweils für den spezifischen Anwendungsbereich geltenden Delegierten Verordnungen sind die
+jeweils zuständigen Stellen aufgeführt. 
+Zu Absatz 1 
+Absatz 1 stellt klar, dass die zuständigen Stellen bei der Einführung von IVS-Anwendungen und IVS-Diensten 
+die von der Europäischen Kommission gemäß Artikel 6 der Richtline 2010/40/EU angenommenen
+Spezifikationen unter Berücksichtigung der in Anhang II fest-gelegten Grundsätze beachten müssen. 
+Zu Absatz 2 
+Gemäß Absatz 2 sind die zuständigen Stellen dafür verantwortlich, die in Anhang IV der Richtlinie 2010/40/EU 
+aufgeführten IVS-Dienste innerhalb der festgelegten geografischen Gebiete so schnell wie möglich einzuführen. 
+Anhang IV der Richtlinie enthält spezifische Dienste und Technologien, die umgesetzt und angewendet werden 
+sollen, sowie die entsprechenden Fristen für deren Einführung. Dies dient dazu, eine einheitliche und rechtzeitige 
+Umsetzung von IVS-Diensten in der gesamten Europäischen Union zu gewährleisten. Die zuständigen Stellen 
+müssen daher sicherstellen, dass diese Dienste spätestens bis zu den in Anhang IV genannten Fristen
+implementiert und in Betrieb genommen werden. Gemäß der revidierten Richtlinie 2010/40/EU ist bisher nur der Dienst 
+zur Bereitstellung eines Mindestniveaus allgemeiner für die Straßenverkehrssicherheit relevanter
+Verkehrsmeldungen, gemäß Anhang I Vorrangiger Bereich III Nummer 3.3 in der nach Spalte 2 des An-hangs IV bezeichneten 
+geografischen Abdeckung bis zum 31.12.2026 bereitzustellen. Die Formulierung in Absatz 2 ist daher so gewählt, 
+dass auch künftig in Anhang IV aufgeführte Dienste von der Verpflichtung in § 3 einbezogen werden, ohne dass 
+das IVS-Gesetz nochmal geändert werden müsste. 
+Zu § 4 (Vorrangige Bereiche) 
+§ 4 benennt die vorrangigen Anwendungsbereiche für die Einführung von IVS in Deutschland. Die Aufzählung 
+orientiert sich an Anhang I der Richtlinie 2010/40/EU und dient der strategischen Ausrichtung der nationalen 
+IVS-Politik. Sie soll insbesondere den zuständigen Behörden, Planungsträgern und politischen
+Entscheidungsträgern als Orientierung für die Priorisierung von Maßnahmen und Investitionen dienen: 
+1. IVS-Informations- und Mobilitätsdienste: Dazu gehören multimodale digitale Mobilitäts-dienste,
+Straßenverkehrsinformations- und Navigationsdienste, die Echtzeitinformationen über verschiedene
+Verkehrsmittel bereitstellen. 
+2. IVS-Dienste für Reise-, Transport- und Verkehrsmanagement: Diese umfassen Systeme zur
+Verkehrssteuerung und -überwachung, die zur Verbesserung des Verkehrs-flusses und zur Reduzierung von
+Störungen z.B. Staus oder zur Unterstützung der Güterverkehrslogistik beitragen.  
+3. IVS-Dienste für die Straßenverkehrssicherheit: Hierzu zählen Warnsysteme über gefährliche
+Straßenverhältnisse, Unfälle und andere sicherheitsrelevante Ereignisse, zur Ausstattung und Verfügbarkeit von si-
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+cheren und gesicherten Parkplätzen für LKW und andere gewerbliche Fahrzeuge als auch eines Dienstes 
+zur Beschleunigung der Rettungskette. 
+4. IVS-Dienste für kooperative, vernetzte und automatisierte Mobilität: Diese beinhalten Technologien, die 
+eine Kommunikation zwischen Fahrzeugen oder zwischen Fahrzeugen und der Verkehrsinfrastruktur
+ermöglichen und damit automatisierte Mobilitäts-dienste unterstützen, um die Effizienz und
+Verkehrssicherheit zu erhöhen. 
+Die vier genannten Bereiche spiegeln die europäischen Zielsetzungen wider und sollen zur Verbesserung von 
+Effizienz, Sicherheit und Nachhaltigkeit im Straßenverkehr beitragen. 
+Die Regelung begründet keine unmittelbaren Rechtsansprüche für einzelne Marktteilnehmer auf die Einführung 
+bestimmter IVS-Dienste. Vielmehr handelt es sich um eine steuernde Festlegung, die eine einheitliche Umsetzung 
+der IVS-Richtlinie in der gesamten EU fördern und die nationale IVS-Strategie strukturieren soll. 
+Zu § 5 (Pflicht zur Datenbereitstellung) 
+Die Revision der IVS-Richtlinie durch die Richtlinie (EU) 2023/2661 enthält Bestimmungen zur Verfügbarkeit 
+von Daten, die in der vorherigen Version der Richtlinie nicht enthalten waren. Diese Änderungen zielen darauf 
+ab, die europaweite Verfügbarkeit von Mobilitäts-daten in standardisierter Form sicherzustellen und deren
+Integration in IVS und IVS-Dienste zu verbessern. Die Mitgliedstaaten müssen zum einen sicherstellen, dass
+bestimmte Daten, wie Echtzeit-Verkehrsinformationen, öffentlich zugänglich sind. Zum anderen müssen die Daten 
+in einem standardisierten und maschinenlesbaren Format bereitgestellt werden, um die Interoperabilität zwischen 
+verschiedenen IVS-Diensten und Verkehrsträgern zu gewährleisten. Weiterhin legt die Richtlinie fest, dass
+bestimmte Daten für bestimmte geografische Gebiete verfügbar sein müssen, um eine umfassendere Abdeckung zu 
+ermöglichen. Maßnahmen zur Erhebung zusätzlicher Informationen sind hiermit nicht verbunden. 
+§ 5 setzt die Vorgaben der Richtlinie hinsichtlich der Verfügbarkeit der Daten, die in An-hang III der der Richtlinie 
+2010/40/EU aufgelistet sind, so um, dass auch künftig in Anhang III neu aufgeführte Daten von der Verpflichtung 
+einbezogen werden, ohne dass das IVS-Gesetz nochmal geändert werden müsste. Anwendbare Zeitpunkte für die 
+Bereitstellung der zugrundeliegenden Informationen können auch durch weitere delegierte Rechtsakte der
+Europäischen Kommission festgelegt werden, die dann dementsprechend zu beachten sind. 
+Absatz 1 regelt die allgemeine Bereitstellungspflicht. § 5 Absatz 1 Satz 2 stellt klar, dass die Daten, die von der 
+VO 2021/782 erfasst sind, nicht unter das IVSG fallen. Die Verordnung 2021/782 regelt bereits die
+Datenbereitstellung von den in Anhang II der Verordnung aufgezählten Daten. Diese werden auf vertraglicher Grundlage und 
+sofern vereinbart gegen eine verhältnismäßige Entschädigung zur Verfügung gestellt. Dies geschieht nicht über 
+einen zentralen Datenzugangspunkt, sondern Marktteilnehmer gewähren einander Zugang. Ziel der Regelung ist 
+Erleichterung von Bahnreisen. Datenzugang erhalten andere Eisenbahnverkehrsunternehmen,
+Fahrkartenverkäufer und Reiseveranstalter. 
+Die Regelung in Absatz 2 1. Halbsatz stellt sicher, dass die Bereitstellung von Daten über den Nationalen
+Zugangspunkt erfolgt und den Vorgaben der Nationalen Stelle entspricht. Dies gewährleistet, dass die verschiedenen 
+zuständigen Stellen die Daten nach einheitlichen Vorgaben und standardisiert bereitstellen, um die effiziente
+Nutzung und Integration intelligenter Verkehrssysteme zu unterstützen. Auch Daten, die nicht in den Delegierten 
+Verordnungen gemäß § 1 Absatz 2 aufgeführt sind, müssen diesen Vorgaben entsprechen, um eine umfassende, 
+standardisierte und konsistente Datenbasis zu schaffen. 
+Die Pflichten zur Bereitstellung von Informationen nach Absatz 2 Nummer 1 und Nummer 2 betreffen gemäß 
+den Vorgaben der Revision in der Richtlinie (EU) 2023/2261 in Artikel 6a in Verbindung mit Anhang III auch 
+nicht digitalisierte Informationen. Demnach müssen nämlich die Mitgliedstaaten sicherstellen, dass alle
+relevanten Daten, unabhängig von ihrem ursprünglichen Format, digitalisiert und über den Nationalen Zugangspunkt 
+zugänglich gemacht werden. Dies umfasst sowohl neue als auch bereits vorhandene Informationen, die für die 
+Umsetzung intelligenter Verkehrssysteme notwendig sind. Die Digitalisierung dieser Informationen ist
+entscheidend, um eine einheitliche und effiziente Nutzung der IVS-Dienste zu gewährleisten und die Interoperabilität 
+zwischen verschiedenen Verkehrsträgern und Systemen zu ermöglichen. Daher werden die zuständigen Stellen 
+nach § 5 verpflichtet, die in ihrem Bereich betroffenen Informationen auch entsprechend zu digitalisieren.  
+Die Regelung in Absatz 2 Nummer 1 stellt dabei sicher, dass neue und geänderte Informationen zu den in Anhang 
+III der Richtlinie 2010/40/EU aufgeführten Datenarten für den jeweiligen geografischen Anwendungsbereich spä-
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+testens bis zu den in Spalte 3 des Anhangs III festgelegten Fristen über den Nationalen Zugangspunkt bereitgestellt 
+werden müssen. 
+Bereits vorhandene Informationen zu den in Anhang III der Richtlinie 2010/40/EU aufgeführten Datenarten sind 
+für den jeweiligen geografischen Anwendungsbereich gemäß der Regelung in Absatz 2 Nummer 2 spätestens 
+bis zu den in Spalte 4 des Anhangs III festgelegten Fristen über den Nationalen Zugangspunkt bereitzustellen. 
+Absatz 3 regelt die nationale Umsetzung einer Option aus Anhang III der Richtlinie 2010/40/EU, wonach
+Mitgliedstaaten die geografische Abdeckung der Datenbereitstellung in Städten im Zentrum von städtischen Knoten 
+gemäß der Verordnung (EU) 2024/1679 auf Straßen mit einem durchschnittlichen Tagesverkehrsaufkommen von 
+mehr als 7.000 Fahrzeugen pro Jahr beschränken können. Diese Möglichkeit dient der Verhältnismäßigkeit und 
+Effizienz bei der Umsetzung der EU-Vorgaben zur Datenbereitstellung, insbesondere in urbanen Räumen mit 
+heterogener Verkehrsstruktur. Die zur Spezifizierung der geografischen Abdeckung herangezogene Richtlinie 
+2010/40/EU verweist erst in der konsolidierten Fassung nach Änderung durch die Richtlinie (EU) 2023/2661 auf 
+das TEN-V und nennt als Rechtsgrundlage die Verordnung (EU) Nr. 1315/2013. Diese wurde mittlerweile durch 
+die Verordnung (EU) 2024/1679 abgelöst. 
+Die Regelung verpflichtet die zuständigen Stellen, bis zum 31. Oktober 2026 gegenüber dem BMV zu erklären, 
+ob sie von dieser Option Gebrauch machen wollen. Die Mitteilung ist erforderlich, damit Deutschland fristgerecht 
+gegenüber der Europäischen Kommission berichten kann, wie es die Richtlinie vorsieht. 
+Die Möglichkeit zur Einschränkung der Datenbereitstellung trägt dazu bei, lokale Verwaltungsressourcen zu 
+schonen, ohne die Zielsetzungen der Richtlinie zu gefährden. Sie erlaubt eine flexible Umsetzung, die der
+tatsächlichen verkehrlichen Bedeutung der Straßen in den jeweiligen Städten im Zentrum des städtischen Knoten
+Rechnung trägt und stellt sicher, dass die Datenbereitstellungsverpflichtungen nicht zwangsläufig für öffentliche
+Straßen mit geringer verkehrlicher Bedeutung angewandt werden müssen, wobei die Entscheidungshoheit zu Gunsten 
+einer Ausnahme bei der zuständigen Stelle verbleibt. Gleichzeitig wird durch die Fristsetzung sichergestellt, dass 
+die nationale Berichterstattung gegenüber der Kommission gemäß den Anforderungen des EU-Rechts vollständig 
+und rechtzeitig erfolgen kann 
+Absatz 4 setzt Artikel 5 Absatz 4 der Delegierten Verordnung (EU) 2017/1926 um, nach der den Mitgliedstaaten 
+die Option eingeräumt wird, eine Verpflichtung zur Bereitstellung von dynamischen Auslastungsinformationen 
+über den Nationalen Zugangspunkt einzuführen. Dabei sind die Anforderungen der Delegierten Verordnung (EU) 
+2017/1926 einzuhalten. Für die Nutzung dieser Option spricht die Möglichkeit zahlreicher Anwendungsfälle für 
+diese Daten, sei es für die Fahrgastinformation oder als Datengrundlage für die Planung und Steuerung von
+Verkehren. Zusätzlich zur Pflicht nach Absatz 1 und 2 werden somit Dateninhaber im Bereich straßen- und
+schienengebundene Linienverkehre zur Bereitstellung von dynamischen Daten zum Auslastungsgrad der Fahrzeuge
+verpflichtet. Damit sind straßen- und schienengebundene Linienverkehrsdienste sowohl im Personennahverkehr als 
+auch im Personenfernverkehr erfasst. Technische Anforderungen an dynamische Auslastungsdaten im
+Linienverkehr legt die Nationale Stelle in den Leitlinien nach § 9 Absatz 1 Nummer 3 fest. Dynamische Daten zum
+Auslastungsgrad der Fahrzeuge, die nach Absatz 3 bereitzustellen sind, müssen auch Daten zur Auslastung von
+Vorrangplätzen für Menschen mit Behinderungen und Daten zu Stellflächen für Hilfsmittel umfassen. Es handelt sich 
+dabei um die Pflicht zur Bereitstellung von Daten, die bereits im digital maschinenlesbaren Format vorhanden 
+sind. 
+Dynamische Auslastungsinformationen sind bereits nach dem Personenbeförderungsgesetz (§ 3a Absatz 1
+Nummer 1 Buchstabe b und Nummer 2 Buchstabe b PBefG) über den Nationalen Zugangspunkt verpflichtend
+bereitzustellen. Dies betrifft jedoch ausschließlich die Verkehre im Anwendungsbereich des PBefG (§ 1 Absatz 1 Satz 
+1 PBefG: Beförderung von Personen mit Straßenbahnen, mit Oberleitungsomnibussen (Obussen) und mit
+Kraftfahrzeugen). Der Schienenpersonenverkehr beispielsweise ist davon nicht betroffen. Mit § 6 Absatz 2 wird die 
+durch die Delegierte Verordnung (EU) 2017/1926 eingeräumte Option genutzt und die Pflicht zur Bereitstellung 
+dynamischer Auslastungsinformationen nun auf den Schienenpersonenverkehr ausgeweitet. Die Bereitstellung 
+von dynamischen Daten zum Auslastungsgrad der Fahrzeuge wird für alle straßen- und schienengebundenen
+Linienverkehre verpflichtend vorgeschrieben. Die Vorschriften des PBefG werden damit entbehrlich und daher
+aufgehoben. 
+Das PBefG hat bei der Bereitstellung von Auslastungsinformationen nicht zwischen einzelnen Formen des
+Gelegenheitsverkehrs unterschieden und alle Gelegenheitsverkehre zur Bereitstellung von Auslastungsinformationen 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+in Echtzeit verpflichtet. Allerdings besitzen die Echtzeit-Auslastungsdaten einen unterschiedlichen Wert für
+unterschiedliche Anwendungsfälle je nach Verkehrsträger. So sind – anders als im Linienverkehr – die
+Auslastungsdaten von dynamisch durch Algorithmen gesteuerten gebündelten Bedarfsverkehren (On-Demand-Angebote von 
+Pooling) und vom Linienbedarfsverkehr für Fahrplanauskünfte nicht nutzbar. Aus diesem Grund wird darauf
+verzichtet, diese Anbieter zur Bereitstellung von dynamischen Auslastungsinformationen zu verpflichten.  
+Im Ergebnis wird damit im Bereich der Linienverkehre im Vergleich zur bisherigen Regelung im PBefG
+zusätzlich die Bereitstellung von dynamischen Auslastungsinformationen für den Schienenverkehr vorgeschrieben. Im 
+Bereich des Gelegenheitsverkehrs fällt die Bereitstellungspflicht von Echtzeit-Auslastungsinformationen weg. 
+Mit dem Absatz wird folglich die unionsrechtlich geregelte Option zur Bereitstellung dynamischer Daten zum 
+Auslastungsgrad verpflichtend. Das Gesetz verpflichtet nicht zur Bereitstellung personenbezogener Daten und 
+führt daher an dieser Stelle keine Ermächtigungsgrundlage zur Verarbeitung personenbezogener Daten ein,
+sondern verweist auf die zu beachtenden unionsrechtlichen Vorgaben, insbesondere auf Artikel 4 Absatz 6 und
+Artikel 5 Absatz 7 der Delegierten Verordnung (EU) 2017/1926.  
+Zu § 6 (Art der Datenbereitstellung) 
+Zu Absatz 1 
+Die Regelung in Absatz 1 stellt sicher, dass die Bereitstellung von Daten über den Nationalen Zugangspunkt den 
+Vorgaben der Nationalen Stelle entspricht. Dies gewährleistet, dass die verschiedenen zuständigen Stellen die 
+Daten nach einheitlichen Vorgaben und standardisiert bereitstellen, um die effiziente Nutzung und Integration 
+intelligenter Verkehrssysteme zu unterstützen. Auch Daten, die nicht unter § 5 Nummern 1 und 2 fallen, jedoch 
+in den Delegierten Verordnungen gemäß § 1 Absatz 2 aufgeführt sind, müssen diesen Vorgaben entsprechen, um 
+eine umfassende, standardisierte und konsistente Datenbasis zu schaffen. 
+Zu Absatz 2 
+Absatz 2 ermöglicht es Dateninhabern, ihre Daten über einen Datenmittler bereitzustellen. Dies erleichtert die 
+Datenbereitstellung und erhöht die Flexibilität für Dateninhaber. Der Datenmittler ist verpflichtet, die ihm
+bereitgestellten Daten unverzüglich an den Nationalen Zugangspunkt weiterzuleiten. Die Nationale Stelle wird über 
+den Namen des Dateninhabers und des beauftragten Datenmittlers, den Zeitpunkt der erstmaligen
+Datenbereitstellung, die betroffenen Datenarten und den geografischen Anwendungsbereich informiert. Diese Transparenz 
+ist notwendig, um die Nachverfolgbarkeit der Datenbereitstellung durch die jeweils zuständige Stelle und die 
+Qualität der bereitgestellten Daten sicherzustellen. 
+Zu Absatz 3 
+Absatz 3 regelt, dass sofern Landessysteme, die als Datenmittler fungieren, existieren, die Betreiber dieser
+Systeme auf die Qualität der ihnen bereitgestellten Daten hinwirken müssen. Dies ist entscheidend, um die
+Zuverlässigkeit und Genauigkeit der Daten zu gewährleisten. Eine Verwaltungsvereinbarung nach § 9 Absatz 3 legt die 
+näheren Details zur Qualitätssicherung fest, um klare und verbindliche Standards zu schaffen. 
+Zu § 7 (Nationaler Zugangspunkt) 
+Das Bundesministerium für Verkehr nimmt weiterhin die Aufgaben des Nationalen Zugangspunktes wahr. Der 
+Nationale Zugangspunkt für Mobilitätsdaten in Deutschland ist die Mobilithek. Diese Plattform wird vom
+Bundesministerium für Verkehr betrieben und erfüllt die Anforderungen der Richtlinie 2010/40/EU und ihrer
+delegierten Verordnungen. Sie stellt die notwendigen Informationen, Schnittstellen und Werkzeuge zur Nachnutzung 
+von Daten bereit. Für die Weiterverwendung der Daten können diese über die von der Mobilithek bereitgestellten 
+Schnittstellen direkt beim Datenbereitsteller (Dateninhaber oder Datenmittler) abgerufen werden. Die Mobilithek 
+ermöglicht keine Datenauswertung.    
+Zu § 8 (Datennutzung, Lizenzen) 
+Zu Absatz 1 
+Damit die Daten, die über den Nationalen Zugangspunkt bereitgestellt werden, von Dienstanbietern, Start-ups, 
+Forschenden und Behörden für ihre Dienste, für Entwicklung neuer Geschäftsmodelle, für Dateninnovationen 
+und für die Aufgabenerfüllung genutzt werden können, müssen sie leicht zugänglich und einfach nutzbar sein. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Bessere Nutzbarkeit der Daten wird auch durch die revidierte Richtlinie 2010/40/EU als notwendig angesehen, 
+um die Verkehrsketten nachhaltiger, sicherer, effizienter und resilienter zu machen.  
+Ein wichtiger Schritt im Bürokratieabbau ist, die bereitgestellten Daten auch rechtlich einfach verfügbar zu
+machen. Durch einfache, klare Regelung zur Datenbereitstellung und -nutzung werden Entlastungen in Bezug auf 
+individuelle Verhandlungen, Rechtsprüfungen und mögliche Gerichtsverfahren erzielt. Regeln zu standardisierten 
+Lizenzen statt individuell ausgehandelter Lizenzvereinbarungen und zur Entgeltfreiheit der bereitgestellten Daten 
+können den Aufwand sowohl für Dateninhaber als auch Datennutzer verringern. Bei Behörden auf allen föderalen 
+Ebenen würden diese Entlastungen sowohl in der Rolle als Dateninhaber wie als Datennutzer spürbar werden. 
+Auch die Arbeit der Nationalen Stelle und der Landessysteme würden dadurch vereinfacht werden.  
+Aus diesen Gründen müssen die über den Nationalen Zugangspunkt bereitgestellten Daten nach Absatz 1 für 
+Datennutzer kostenlos verfügbar sein. Gerade in der Phase der Entscheidung, ob ein Projekt gestartet oder ein 
+Produkt umgesetzt werden kann, ist der einfache Zugriff auf Daten entscheidend über Fortsetzung oder Abbruch 
+des Vorhabens. 
+Mehrere einschlägige EU-Rechtsakte schreiben vor oder suggerieren, dass u. a. sicherheitskritische und
+umfassende Daten zur Verkehrssteuerung kostenlos bereitgestellt werden (vgl. Artikel 3 Buchstabe c der IVS-Richtlinie, 
+Artikel 1 der Delegierten Verordnung (EU) Nr. 886/2013, Artikel 5 Absatz 4 der Delegierten Verordnung (EU) 
+2022/670 sowie Artikel 20 Absatz 2 der Verordnung (EU) 2023/1804). Die Delegierte Verordnung (EU) 
+2017/1926 erlaubt lediglich, Kosten für die Bereitstellung und Verbreitung anzusetzen, nicht aber für die deutlich 
+kostenintensivere Erhebung der Daten. Die Kosten für die Verbreitung – also die erhöhten technischen Kosten 
+für häufige Abrufe durch zahlreiche Datennutzer – können für die Dateninhaber entfallen, indem sie ihre Daten 
+über den Nationalen Zugangspunkt bereitstellen und dieser die Verbreitung der Daten auf eigene Kosten
+übernimmt. Die gesetzliche Einschränkung der Rechte der Dateninhaber nach der Delegierten Verordnung (EU) 
+2017/1926 ist gerechtfertigt, weil es sich bei den alternativ nach dem EU-Recht zulässigen Zahlungen an die 
+Dateninhaber lediglich um geringe Beträge verbunden mit hohem Verwaltungsaufwand handeln würde. Hinzu 
+kommt, dass Dateninhaber, die Mobilitätsdaten unentgeltlich bereitstellen müssen, Daten von anderen
+Dateninhabern auch unentgeltlich aus dem NAP beziehen können und damit eigene Geschäftsmodelle, Plattformen usw. 
+einrichten und verbessern können. 
+Letztlich trägt die Entgeltfreiheit auch zum Bürokratieabbau bei. Durch eine einfache, klare Regelung zur
+Datenbereitstellung und -nutzung werden Entlastungen in Bezug auf Verhandlungen, Rechtsprüfungen und mögliche 
+Verfahren erzielt (so auch die Argumentation aus dem Telekommunikations-Netzausbau-Beschleunigungs-
+Gesetz, vgl. Sonderbericht der Bundesregierung – Bessere Rechtsetzung und Bürokratieabbau in der 20.
+Legislaturperiode, S. 46, 54). 
+Den Vorgaben zur Unentgeltlichkeit unterliegen alle Daten im Sinne dieses Gesetzes, d. h. alle Reise-, Verkehrs- 
+und Straßendaten. Im Fahrzeug erzeugte Daten, die nach Artikel 6 Absatz 5 und Artikel 7 Absatz 3 der Delegierten 
+Verordnung (EU) 2022/670 auf Verlangen von Straßenverkehrsbehörden und Straßenbetreibern zur Verfügung 
+gestellt werden müssen, sind keine Daten im Sinne dieses Gesetzes und unterliegen daher nicht dieser Regelung 
+zur Entgeltfreiheit. 
+Zu Absatz 2 
+Daten im Sinne dieses Gesetzes dürfen für jeden kommerziellen und nichtkommerziellen Zweck genutzt werden. 
+Diese Regelung ist angelehnt an § 4 Absatz 1 des Datennutzungsgesetzes und soll einfache Datennutzung
+begünstigen. Die Nutzungsbedingungen sollen für alle Datennutzer, die Mobilitätsdaten über den Nationalen
+Zugangspunkt beziehen, gleich sein. 
+Zu Absatz 3 
+Dateninhaber haben die Möglichkeit, Lizenzvereinbarungen für die Datenbereitstellung einzusetzen. Die
+Delegierte Verordnung (EU) 2017/1926 als auch die Delegierte Verordnung (EU) 2022/670 sehen die Möglichkeit 
+vor, Lizenzvereinbarungen für die Nutzung der bereitzustellenden Daten abzuschließen. Bei einer
+Lizenzvereinbarung für die Nutzung der Mobilitätsdaten über den Nationalen Zugangspunkt sind die Vorgaben der
+Rechtsverordnung nach § 14 Absatz 2 Nummer 4 zu beachten, mit denen Standardlizenzen festgelegt werden, um einen 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+möglichst geringen Verwaltungsaufwand zu schaffen. Das Ziel ist dabei die bisher uneinheitliche Praxis mit
+individuellen Nutzungsvereinbarungen zu vereinheitlichen und die Hürden für die Datennutzung niedrig zu halten. 
+Zu Absatz 4 
+Die Delegierte Verordnung (EU) 2022/670 verpflichtet Diensteanbieter, Daten über Vorschriften und
+Beschränkungen sowie Daten über den Zustand des Netzes, die in digital maschinenlesbarem Format über den NAP
+bereitgestellt werden, in ihre Dienste einzubeziehen (Artikel 5 Absatz 4 und Artikel 6 Absatz 4). Nach Artikel 2 
+Nummer 12 der Delegierten Verordnung (EU) 2022/670 ist Diensteanbieter ein öffentlicher oder privater Anbieter 
+von Echtzeit-Verkehrsinformationsdiensten, der kein bloßer Übermittler von Daten an Datennutzer ist.  Mit dieser 
+Vorschrift werden Diensteanbieter, die z. B. Navigationsdienste anbieten, verpflichtet,
+Verkehrsmanagementrelevante Daten, die über den NAP bereitgestellt werden, in ihre Dienste einzubeziehen. 
+Mit diesem Absatz werden die Pflichten der Diensteanbieter konkretisiert – die Einbeziehung der Mobilitätsdaten 
+in ihre Dienste hat unverzüglich und vollständig zu erfolgen. 
+Zu § 9 (Nationale Stelle) 
+Die Aufgaben der Nationalen Stelle werden weiterhin von der BASt wahrgenommen. Neben der bisherigen
+Aufgabe der Überprüfung der abgegebenen Eigenerklärungen auf Konformität mit den Anforderungen der jeweiligen 
+delegierten Verordnung und der bedarfsweisen Forderung von Maßnahmen zur Verbesserung der Qualität der zur 
+Verfügung gestellten Daten und Informationen werden die Aufgaben der Nationalen Stelle erheblich erweitert. 
+Zu Absatz 1 
+In Absatz 1 werden die Aufgaben der Nationalen Stelle aufgelistet. Diese Aufgaben erweitern die
+Verantwortlichkeiten der Nationalen Stelle erheblich und zielen darauf ab, die Effizienz und Qualität der Datenbereitstellung 
+sowie deren Verwendung als auch die europaweite Interoperabilität der IVS-Dienste, wie durch das europäischen 
+Rahmenrecht vorgegeben, zu verbessern. 
+Zu Nummer 1 
+Die Aufgabe der Identifizierung und Ansprache von Dateninhabern und Datennutzern ist notwendig, um eine 
+umfassende Bereitstellung und effiziente Nutzung der bereitgestellten Daten zu gewährleisten. Durch die
+proaktive Kontaktaufnahme können potenzielle Datenquellen erschlossen, Verpflichtete an die Datenbereitstellung
+erinnert und die Nutzung der Daten durch verschiedene Akteure gefördert werden. 
+Zu Nummer 2 
+Die Beratung der Dateninhaber zur technischen Anbindung an den Nationalen Zugangspunkt und zur Einhaltung 
+der Vorgaben zur Datenbereitstellung ist notwendig, um technische Hürden zu überwinden und die
+Datenbereitstellung zu erleichtern. 
+Zu Nummer 3 
+Die Erstellung und Veröffentlichung von Leitlinien zu Datenstandards, Mindestprofilen und Qualitätsstandards 
+sowie weiteren technischen Standards ist notwendig, um klare und einheitliche Vorgaben für die
+Datenbereitstellung zu schaffen. Diese Leitlinien dienen als Referenz für Dateninhaber und -nutzer und fördern die
+Interoperabilität der Daten. 
+Zu Nummer 4 
+Die regelmäßige stichprobenartige Überprüfung der Quantität und Qualität der bereitgestellten Daten sowie der 
+Einhaltung der Vorgaben ist notwendig, um die Zuverlässigkeit und Genauigkeit der Daten sicherzustellen. Diese 
+Überprüfungen helfen, Abweichungen frühzeitig zu erkennen und zu korrigieren. Die regelmäßige
+stichprobenartige Überprüfung der Quantität und der Qualität der bereitgestellten Daten sowie der Einhaltung der Vorgaben 
+für die Datenbereitstellung kann auch automatisiert erfolgen. 
+Zu Nummer 5 
+Die Ansprache der Dateninhaber bei festgestellten Abweichungen und rechtswidrigem Verhalten ist notwendig, 
+um die Einhaltung der Vorgaben sicherzustellen und gegebenen-falls Maßnahmen zur Korrektur zu ergreifen. 
+Zu Nummer 6 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Die Abgabe von Eigenerklärungen über eine Online-Plattform ist notwendig, um die Einhaltung der gesetzlichen 
+Vorgaben zu dokumentieren und die Transparenz zu erhöhen. Im Übrigen wird das Verfahren dadurch erheblich 
+vereinfacht. 
+Zu Nummer 7 
+Die regelmäßige Durchführung von Analysen der Datennutzung und der Einhaltung der Vorgaben durch
+Datennutzer ist notwendig, um die Effektivität der Datenbereitstellung zu bewerten und gegebenenfalls Anpassungen 
+vorzunehmen. 
+Zu Nummer 8 
+Die Ansprache der Datennutzer bei Nichteinhaltung der Pflichten nach diesem Gesetz ist notwendig, um die
+Einhaltung der gesetzlichen Vorgaben sicherzustellen. 
+Zu Nummer 9 
+Die automatisierte Entgegennahme von Hinweisen der Datennutzer zur Qualität und Rechtskonformität der
+bereitgestellten Daten und deren Weiterleitung an Dateninhaber ist notwendig, um eine schnelle und effiziente
+Bearbeitung von Hinweisen zu gewährleisten. 
+Zu Nummer 10 
+Die Beratung der Datennutzer zum Zugang und zur Nutzung der bereitgestellten Daten ist notwendig, um die 
+Nutzung der Daten zu fördern und technische Hürden zu überwinden. 
+Zu Nummer 11 
+Die Unterstützung des Bundesministeriums für Verkehr bei der Berichterstattung gemäß Artikel 17 der Richtlinie 
+2010/40/EU ist notwendig, um die Einhaltung der Berichtspflichten sicherzustellen und die Fortschritte bei der 
+Umsetzung der Richtlinie zu dokumentieren.  
+Zu Nummer 12 
+Die Sicherstellung der einheitlichen europaweiten Interoperabilität und Kontinuität der IVS-Dienste ist von
+zentraler Bedeutung für die effiziente, sichere und nachhaltige Mobilität innerhalb der Europäischen Union. Nur durch 
+eine enge Zusammenarbeit zwischen den Nationalen Zugangspunkten der Mitgliedstaaten sowie weiteren
+relevanten Stellen kann gewährleistet werden, dass Verkehrsinformationen grenzüberschreitend konsistent, aktuell 
+und nutzbar bereitgestellt werden. 
+Zu Absatz 2 
+Die Möglichkeit, Aufgaben an externe juristische Personen des privaten Rechts zu delegieren, erhöht die
+Flexibilität der Nationalen Stelle. Dies ermöglicht eine bessere Anpassung an sich ändernde Anforderungen im EU-Recht 
+und an technologische Entwicklungen. Die Übertragung von Aufgaben an externe Stellen entlastet die öffentliche 
+Verwaltung und ermöglicht es ihr, sich auf Kernaufgaben zu konzentrieren. 
+Die Regelung stellt dabei analog zu § 7 Absatz 3 sicher, dass nur solche juristischen Personen beauftragt werden, 
+die die Gewähr für eine sachgerechte und unparteiische Erfüllung der ihnen übertragenen Aufgaben bieten. Dies 
+gewährleistet eine hohe Qualität der Aufgabenerfüllung. 
+Die Bekanntgabe der Übertragung der Aufgabenwahrnehmung im Bundesanzeiger und die Aufsicht durch die 
+BASt sorgen für Transparenz und ermöglichen eine effektive Kontrolle der beauftragten Stellen. 
+Zu Absatz 3 
+Einzelheiten der Zusammenarbeit zwischen der Nationalen Stelle und den Landessystemen können durch eine 
+Verwaltungsvereinbarung zwischen dem Bundesministerium für Verkehr und den Ländern geregelt werden. Eine 
+klare Regelung der Zusammenarbeit stellt sicher, dass die Aktivitäten der Nationalen Stelle und der
+Landessysteme gut koordiniert und aufeinander abgestimmt sind. Durch die Zusammenarbeit können Ressourcen effizient 
+genutzt und Doppelarbeit vermieden werden. Dies trägt zur Kosteneffizienz und zur besseren Nutzung
+vorhandener Kapazitäten bei.  
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Die Verwaltungsvereinbarung ermöglicht zudem die Festlegung einheitlicher Standards und Verfahren, die für 
+die Bereitstellung und Nutzung von Daten gelten. Dies fördert die Interoperabilität und die Qualität der Daten, 
+schafft Rechtssicherheit für alle beteiligten Akteure und stellt sicher, dass die gesetzlichen Vorgaben eingehalten 
+werden. 
+Zu § 10 (Eigenerklärungen) 
+Im Vergleich zum bisher geltenden IVSG gibt es mehrere wesentliche Änderungen und Erweiterungen in den 
+Regelungen zur Abgabe und Prüfung von Eigenerklärungen. 
+Die neuen Regelungen konkretisieren die Regelungen aus in  § 1 Abs. 2 Nr. 2 bis 5 genannten Delegierten
+Verordnungen zur Abgabe von Erklärungen dahingehend, dass die Eigenerklärungen auf Verlangen der Nationalen 
+Stelle elektronisch abgegeben werden müssen. Auch bei jeder Änderung der in der Eigenerklärung abgegebenen 
+Informationen, müssen diese neu abgegeben werden. Dies stellt sicher, dass die Angaben in der Eigenerklärung 
+kontinuierlich dem aktuellen Stand entsprechen. Der Inhalt der Eigenerklärungen wird nun klarer definiert und 
+basiert auf den in § 1 Absatz 2 Nr. 2 bis 5 benannten Spezifikationen sowie dem Durchführungsbeschluss (EU) 
+2025/264, um die für die Berichterstattung nach Art. 17 der IVS-Richtlinie benötigten Informationen zu den
+bereitgestellten Daten zu erheben Die Nationale Stelle gewährleistet, dass die Eigenerklärungen elektronisch
+abgegeben werden und stellt ein Muster für die Eigenerklärungen zur Verfügung, um Einheitlichkeit und
+Vergleichbarkeit zu fördern. Sie kann dazu auch eine Online-Plattform einrichten. 
+Die stichprobenartige Prüfung durch die Nationale Stelle umfasst nun spezifische Aspekte wie Erhebung,
+Zugänglichkeit, Verfügbarkeit, Austausch, Weiterverwendung, Aktualisierung, Format der Daten,
+Qualitätsmanagement und Inhalt. Dies erhöht die Genauigkeit und Zuverlässigkeit der Prüfungen.  
+Die Regelung, dass Landessysteme die Eigenerklärungen der angeschlossenen Dateninhaber entgegennehmen, 
+auswerten und die Auswertung an die Nationale Stelle weiterleiten, fördert die Effizienz und Qualitätssicherung. 
+Die regelmäßige Weiterleitung der Auswertungen stellt sicher, dass die Nationale Stelle stets über die
+bereitgestellten Daten und den aktuellen Stand der Datenqualität informiert ist. Die Betreiber der Landessysteme haben 
+dann zumindest auf die Qualität der Eigenerklärungen hinzuwirken, indem Sie sich bei festgestellten Mängeln an 
+die zuständigen Dateninhaber wenden sollen.  
+Die Ermächtigung der Nationalen Stelle, weitere Vorgaben hinsichtlich des Inhalts, der Übermittlung und der 
+Struktur der Eigenerklärungen zu machen, ist notwendig, um flexibel auf neue Anforderungen und technologische 
+Entwicklungen reagieren zu können. Diese Regelung ermöglicht es der Nationalen Stelle, die Vorgaben
+kontinuierlich anzupassen und zu verbessern. Von der Verpflichtung zu Abgabe von Eigenerklärungen sind Fälle des § 1 
+Absatz 2 Nummer 1 und Nummer 6 ausgenommen weil die Delegierte Verordnung 2013/305 (eCALL-Dienst) 
+keine Regelung zur Datenbereitstellung und folglich auch keine zur Abgabe einer Erklärung zur
+Datenbereitstellung enthält. Vergleichbares gilt für Artikel 20 Absatz 2 der Verordnung (EU) 2023/1804 (AFIR-VO). Dieser 
+enthält keine Vorgabe zur Abgabe einer Erklärung, keine Vorgabe zur Erstellung eines Berichtes zur AFIR-
+Datenbereitstellung. Informationen zur Datenbereitstellung infolge AFIR-VO sind auch nicht Gegenstand der
+Berichterstattung nach Artikel 17 der IVS-Richtlinie. 
+Zu § 11 (Maßnahmen zur Verbesserung der Datenqualität) 
+Ziel der Regelung ist es, ein automatisiertes System zu etablieren, das die Zusammenarbeit zwischen
+Dateninhabern, Datenmittlern und Datennutzern unterstützt, um die Korrektur fehlerhafter Daten zu erleichtern, damit diese 
+aktualisiert vom Dateninhaber über den Nationalen Zugangspunkt bereit gestellt werden. Um die Datenqualität 
+zu verbessern, wird daher die Nationale Stelle verpflichtet, ein automatisiertes System einzuführen, das folgende 
+Funktionen erfüllt: 
+1. Eingabe von festgestellten Fehlern, Ungenauigkeiten und Korrekturvorschlägen. 
+2. Automatisierte Weiterleitung der eingegebenen Informationen an die Dateninhaber: Die gemeldeten
+Informationen werden automatisch an die zuständigen Dateninhaber auch über etwaige Datenmittler
+weitergeleitet, die für die Prüfung und Aktualisierung der über den Nationalen Zugangspunkt bereitgestellten 
+Daten verantwortlich sind.  
+3. Aufnahme der Ergebnisse der Prüfung: Die Dateninhaber melden die Ergebnisse ihrer Prüfungen und die 
+vorgenommenen Korrekturen zurück an das System, wodurch eine transparente und nachvollziehbare 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Dokumentation von der eingegebenen Meldung bis zur Beendigung der Bearbeitung der Meldung
+gewährleistet wird. 
+Nach Absatz 3 sind Dateninhaber verpflichtet, die über das System gemeldeten Fehler und Ungenauigkeiten zu 
+überprüfen und gegebenenfalls die über den Nationalen Zugangspunkt bereitgestellten Daten unverzüglich zu 
+korrigieren. Dies fördert eine kontinuierliche Verbesserung der Datenqualität und stärkt das Vertrauen in die
+bereitgestellten Informationen sowie in die von den Dateninhabern bereitgestellte Datenqualität. 
+Zu § 12 (Berichtspflichten gegenüber der Europäischen Kommission) 
+Die Regelung dient der Umsetzung der in Artikel 17 der Richtlinie 2010/40/EU vorgesehenen Berichtspflichten. 
+Gemäß Artikel 17 war erster Bericht bis zum 21. März 2025 vorzulegen Danach ist das Bundesministerium für 
+Verkehr verpflichtet, alle drei Jahre jeweils bis zum 21. März einen Fortschrittsbericht zur Umsetzung der
+Richtlinie sowie der darauf basierenden delegierten Rechtsakte an die Europäische Kommission zu übermitteln.  
+Die inhaltlichen Anforderungen an diese Berichte ergeben sich aus dem Durchführungsbeschluss (EU) 2025/264 
+der Kommission vom 11. November 2024 zur Festlegung des Musters einschließlich wesentlicher
+Leistungsindikatoren für die Berichterstattung durch die Mitgliedstaaten nach der Richtlinie 2010/40/EU des Europäischen 
+Parlaments und des Rates (ABl. L 2025/264 vom 10. Februar 2025). Dieser legt die Struktur sowie die
+wesentlichen Leistungsindikatoren fest, die in den Berichten enthalten sein müssen, um eine einheitliche und vergleichbare 
+Bewertung der Fortschritte bei der Umsetzung der IVS-Richtlinie zu gewährleisten. Zur Erstellung der Berichte 
+sind die erforderlichen Informationen bei den zuständigen Stellen einzuholen. Die Datengrundlage bilden
+insbesondere Eigenerklärungen, Fachbeiträge und Zuarbeiten der Nationalen Stelle (Absatz 2).  
+Zur Optimierung des Verwaltungsaufwandes werden die für die Berichterstattung erforderlichen Angaben zu den 
+bereitgestellten Daten, soweit möglich, durch Auswertung der Eigenerklärungen nach § 10 in Bezug auf die
+geographischen Abdeckungen durch Nutzung einer Erweiterung des Bundesinformationssystem Straße (BISStra)
+ermittelt.  
+Zur Förderung von Transparenz und Nachvollziehbarkeit werden die Berichte auf der Internetseite des
+Bundesministeriums für Verkehr veröffentlicht (Absatz 3). 
+Zu § 13 (Verarbeitung personenbezogener Daten) 
+§ 13 dient der Umsetzung der spezifischen Vorgaben der Richtlinie 2010/40/EU zum Datenschutz. Falls die
+Verarbeitung personenbezogener Daten (z.B. Metadaten, Fahrzeugdaten) im Zusammenhang mit IVS-Anwendungen 
+und -Diensten erfolgen sollte, muss diese den Unionsvorschriften zum Schutz der Grundrechte und
+Grundfreiheiten natürlicher Personen entsprechen. Dies umfasst insbesondere die Bestimmungen der Datenschutz-
+Grundverordnung (DSGVO) und der Richtlinie 2002/58/EG über den Datenschutz bei der elektronischen Kommunikation. 
+Es sollen nur die personenbezogenen Daten verarbeitet werden, die für die jeweilige Anwendung oder den Dienst 
+unbedingt erforderlich sind. Dies soll sicherstellen, dass die Datenverarbeitung auf das notwendige Minimum 
+beschränkt bleibt. Betroffene Personen müssen über die Verarbeitung ihrer Daten informiert werden. Dies umfasst 
+Informationen über den Zweck der Datenverarbeitung, die Rechtsgrundlage, die Empfänger der Daten und die 
+Rechte der betroffenen Personen. Zudem müssen geeignete technische und organisatorische Maßnahmen
+getroffen werden, um die Sicherheit der verarbeiteten personenbezogenen Daten zu gewährleisten und sie vor
+unbefugtem Zugriff, Verlust oder Zerstörung zu schützen. 
+Zu § 14 (Verordnungsermächtigungen) 
+§ 14 enthält die erforderliche Rechtsverordnungsermächtigung gemäß Artikel 80 Absatz 1 Satz 2 des
+Grundgesetzes. Sie dient der Umsetzung und Ergänzung der in § 1 Absatz  2 genannten delegierten Rechtsakte der
+Europäischen Union sowie der Richtlinie 2010/40/EU. Die Vorschrift schafft die Grundlage für die nähere Ausgestaltung 
+technischer, organisatorischer und verfahrensbezogener Anforderungen an die Bereitstellung, Nutzung und
+Qualität von Daten und Diensten im Rahmen intelligenter Verkehrssysteme.
+Absatz 1 benennt das Bundesministerium für Verkehr als zuständige Stelle für den Erlass von
+Rechtsverordnungen. Die Zustimmung des Bundesrates ist grundsätzlich, abgesehen von den Bestimmungen in Absatz 3 Satz 1, 
+nicht erforderlich, da es sich um technische und organisatorische Regelungen handelt, die keine wesentlichen 
+politischen Entscheidungen oder Eingriffe in die Rechte der Länder enthalten. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Absatz 2 konkretisiert Inhalt und Umfang der Ermächtigung. Die Aufzählung ist nicht abschließend, aber
+exemplarisch und orientiert sich an den zentralen Regelungsbereichen des Gesetzes. 
+Nach Absatz 2 Nr. 4 wird das Bundesministerium für Verkehr ermächtigt, mit einer Rechtsverordnung ohne
+Zustimmung des Bundesrats Standardlizenzen festzulegen, die von Dateninhabern genutzt werden müssen. Bei der 
+Erstellung der Rechtsverordnung ist zu beachten, dass mehrere Standardlizenzen für unterschiedliche
+Datenkategorien festgelegt werden können. Eine Unterscheidung bei der Festlegung der Standardlizenzen wäre
+beispielsweise für statische Mobilitätsdaten einerseits und für dynamische Mobilitätsdaten andererseits denkbar. In jedem 
+Fall muss die Rechtsverordnung bei der Festlegung der Standardlizenzen die Anforderungen der einschlägigen 
+unionsrechtlichen Rechtsakte einhalten, insbesondere die öffentliche Zugänglichkeit der Daten sowie möglichst 
+geringe Einschränkungen für die Weiterverwendung. Es soll verhindert werden, dass Lizenzbestimmungen
+genutzt werden, um die Bereitstellungspflicht zu umgehen. Eine solche Rechtsverordnung muss im Einvernehmen 
+mit dem Bundesministerium für Digitales und Staatsmodernisierung erfolgen. 
+Zu § 15 (Evaluierung) 
+Laut Beschluss des St-Ausschusses Bürokratieabbau vom 23.01.2013 sowie vom 30.09.2024 sind alle
+wesentlichen Regelungsvorhaben zu evaluieren. Als wesentlich gelten danach Regelungsentwürfe, bei denen ein jährlicher 
+Erfüllungsaufwand von mindestens a) 5 Millionen Euro Sachkosten oder 500 000 Stunden Aufwand für
+Bürgerinnen und Bürger oder b) 5 Millionen Euro für die Wirtschaft oder c) 5 Millionen Euro für die Verwaltung 
+aufgrund der Ex ante- Abschätzung zu erwarten ist2.  
+Die hiesige Evaluierungsvorschrift dient der systematischen Überprüfung der Wirksamkeit und Zielerreichung 
+des Gesetzes über intelligente Verkehrssysteme. Sie stellt sicher, dass die Umsetzung der unionsrechtlichen
+Vorgaben sowie die Funktionalität der nationalen Dateninfrastruktur regelmäßig überprüft und gegebenenfalls
+angepasst werden kann. 
+Die Evaluierung erfolgt 5 Jahre nach Inkrafttreten. Sie berücksichtigt qualitative und quantitative Indikatoren zur 
+Nutzung, Datenqualität, Interoperabilität und zum Vollzugsaufwand. Die Einbindung der Nationalen Stelle sowie 
+weiterer betroffener Akteure gewährleistet eine praxisnahe und fachlich fundierte Bewertung. 
+Zu Artikel 2 (Änderung des Intelligente Verkehrssysteme Gesetzes) 
+Zeitgleich mit dem Inkrafttreten des hiesigen Gesetzes tritt das intelligente Verkehrssysteme Gesetz vom 11. Juni 
+2013 (BGBl. I S. 1553), das zuletzt durch Artikel 1 des Gesetzes vom 17. Juli 2017 (BGBl. I S. 2640) geändert 
+worden ist, außer Kraft. 
+Zu Artikel 4 (Folgeänderungen) 
+Es müssen Verweise auf das IVSG in anderen Gesetzen und Verordnungen, die sich aufgrund der Neufassung des 
+IVSG ergeben, angepasst werden. 
+Außerdem müssen die Vorschriften des Personenbeförderungsgesetzes und die Mobilitätsdatenverordnung, die 
+wegen des Inkrafttretens der Fortschreibung der Delegierten Verordnung (EU) 2017/1926 sowie der Vorgaben 
+des IVSG entbehrlich sind, zum 1. Dezember 2028 aufgehoben werden. Zu diesem Zeitpunkt werden alle
+Vorgaben der Delegierten Verordnung (EU) 2017/1926 in Kraft treten. 
+Zu Artikel 5 (Inkrafttreten) 
+Das Inkrafttreten dieses Gesetzes wird auf den Tag nach der Verkündung  bestimmt. Die Revision der Richtlinie 
+2010/40/EU durch die Richtlinie (EU) 2023/2661 sieht vor, dass die Mitgliedstaaten die neuen Bestimmungen bis 
+spätestens zum 21. Dezember 2025 in das nationale Recht umsetzen müssen. 
+2 https://www.destatis.de/DE/Themen/Staat/Buerokratiekosten/Methoden/Downloads/Evaluierung.pdf?__blob=publicationFile (Zuletzt aufgerufen 
+am 22.01.2025). 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Anlage 2 
+Stellungnahme des Nationalen Normenkontrollrates (NKR) gem. § 6 Abs. 1 NKRG 
+Entwurf eines Gesetzes zur Neufassung des Gesetzes über Intelligente Verkehrssysteme im 
+Straßenverkehr und deren Schnittstellen zu anderen Verkehrsträgern (NKR-Nr. 7759, BMV) 
+Der Nationale Normenkontrollrat hat den Regelungsentwurf vom 22. Oktober 2025 mit folgendem 
+Ergebnis geprüft: 
+I. Zusammenfassung
+Bürgerinnen und Bürger keine Auswirkungen 
+Wirtschaft 
+Jährlicher Erfüllungsaufwand: rund 50,8 Mio. Euro 
+davon aus Bürokratiekosten: rund 8,1 Mio. Euro 
+Einmaliger Erfüllungsaufwand: rund 33,7 Mio. Euro 
+davon aus Bürokratiekosten: rund 31,8 Mio. Euro 
+Verwaltung 
+Bund 
+Jährlicher Erfüllungsaufwand: rund 7,9 Mio. Euro 
+Einmaliger Erfüllungsaufwand: rund 9,9 Mio. Euro 
+Länder 
+Jährlicher Erfüllungsaufwand: rund 5 Mio. Euro 
+Einmaliger Erfüllungsaufwand: rund 8,6 Mio. Euro 
+„One in, one out”-Regel Der jährliche Erfüllungsaufwand in diesem 
+Regelungsvorhaben stellt im Sinne der „One 
+in, one out“-Regel der Bundesregierung 
+kein „In“ dar, da er allein aus der
+Umsetzung von EU-Recht resultiert.  
+Evaluierung Die Neuregelung wird fünf Jahre nach
+Inkrafttreten evaluiert.  
+Ziele: • Verbesserung der Verfügbarkeit und
+Qualität digitaler Verkehrsdaten
+• Ermöglichung einer effizienten
+Datennutzung
+Kriterien/Indikatoren: Nicht näher präzisierte qualitative und 
+quantitative Indikatoren zur Nutzung,
+Datenqualität und Interoperabilität. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Datengrundlage: Befragung der Nationalen Stelle sowie
+weiterer betroffener Akteure 
+Ausführungen zur Rechts- und
+Verwaltungsvereinfachung  
+Schaffung einer rechtlich und administrativ 
+vereinfachten Grundlage für die
+Bereitstellung und Nutzung von Verkehrsdaten 
+Umsetzung von EU-Recht Mit dem Vorhaben werden mehrere EU-
+Rechtsakte gebündelt umgesetzt. Dem NKR 
+liegen keine Anhaltspunkte dafür vor, dass 
+dabei über eine 1:1-Umsetzung von EU-
+Recht hinausgegangen wird.  
+Der NKR sieht jedoch in der Forderung von 
+Eigenerklärungen eine unnötig
+bürokratische Regelung und empfiehlt der
+Bundesregierung, auf EU-Ebene auf eine Abschaffung 
+hinzuwirken. 
+Nutzen des Vorhabens Das Ressort hat den Nutzen des Vorhabens 
+wie folgt beschrieben:  
+• Förderung von Innovationen
+• Verbesserung der Effizienz, Sicherheit
+und Nachhaltigkeit des
+Verkehrssystems
+Digitaltauglichkeit (Digitalcheck) Das Ressort hat Möglichkeiten zum
+digitalen Vollzug der Neuregelung
+(Digitaltauglichkeit) geprüft und hierzu einen
+Digitalcheck mit nachvollziehbarem Ergebnis 
+durchgeführt. 
+Regelungsfolgen 
+Der NKR beanstandet, dass das Ressort eine vollständige Darstellung der Regelungsfolgen 
+erst wenige Tage vor Kabinettbefassung vorgelegt hat. Nach der in diesem kurzen
+Zeitraum nur kursorisch möglichen Prüfung durch den NKR scheint die Darstellung der
+Regelungsfolgen nachvollziehbar und methodengerecht. 
+Digitaltauglichkeit 
+Der NKR begrüßt die grafischen Darstellungen der wesentlichen Prozesse des
+Regelungsvorhabens durch das Ressort. Dadurch lässt sich die künftige Zusammenarbeit der
+verschiedenen Stakeholder sehr gut nachvollziehen. 
+II. Regelungsvorhaben
+Mit der vorliegenden Neufassung des Intelligente-Verkehrssysteme-Gesetzes (IVSG) soll ein
+einheitlicher rechtlicher Rahmen zur Bereitstellung von Verkehrsdaten geschaffen werden. Hierzu werden 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+die grundlegend überarbeitete europäische IVS-Richtlinie3 sowie weitere EU-Verordnungen
+gebündelt im IVSG umgesetzt bzw. durchgeführt. Zudem wird das ursprünglich als separates
+Rechtsetzungsverfahren geplantes Mobilitätsdatengesetz ebenfalls in das IVSG integriert.  
+Konkret sieht die Neufassung des IVSG u. a. folgende Maßnahmen vor: 
+• Erweiterung der Aufgaben der Nationalen Stelle (Qualitätssicherung, Beratung,
+Überwachung und Koordination)
+• Einführung eines automatisierenden Systems zur Verbesserung der Datenqualität
+• Verpflichtungen zur Datenbereitstellung über den Nationalen Zugangspunkt
+• Verpflichtungen zur Abgabe von Eigenerklärungen durch Dateninhaber
+• Berichtspflichten des BMV gegenüber der Europäischen Kommission
+III. Bewertung
+III.1. Erfüllungsaufwand
+Bürgerinnen und Bürger 
+Keine Auswirkungen. 
+Wirtschaft 
+Die Wirtschaft wird mit jährlichem Erfüllungsaufwand in Höhe von rund 50,8 Mio. Euro (davon 
+8,1 Mio. Euro durch Bürokratiekosten) und einmaligem Erfüllungsaufwand in Höhe von rund 33,7 
+Mio. Euro belastet. Diese Aufwände resultieren aus den folgenden Vorgaben: 
+Vorgabe Art der Vorgabe 
+Jährlicher
+Erfüllungsaufwand (in 
+Tsd. Euro) 
+Einmaliger 
+Erfüllungsaufwand 
+(in Tsd. Euro) 
+Datenlieferungen über den
+Nationalen Zugangspunkt  Informationspflicht 830 2 768 
+Schnittstellenanpassungen weitere Vorgabe 186 1 864 
+Erbringung von
+Eigenerklärungen Informationspflicht 7 264 29 070 
+Bearbeitung der Meldungen zur 
+Verbesserung der
+Datenqualität 
+weitere Vorgabe 42 514 0 
+Summe 50 794 33 702 
+3 Richtlinie (EU) 2023/2661 des Europäischen Parlaments und des Rates vom 22. November 2023 zur Änderung der
+Richtlinie 2010/40/EU zum Rahmen für die Einführung intelligenter Verkehrssysteme im Straßenverkehr und für deren 
+Schnittstellen zu anderen Verkehrsträgern. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+davon aus Bürokratiekosten 8 094 
+Für die Ermittlung der Aufwände geht das Ressort zunächst davon aus, dass künftig rund 55 000
+Dateninhaber von den Regelungen betroffen sein werden. Das Ressort stellt weiter dar, dass ein
+Großteil der 55 000 Dateninhaber bereits nach geltender Rechtslage zu der Bereitstellung von Daten 
+verpflichtet ist. Neue Verpflichtungen ergeben sich mitunter für Linienverkehre. So wird z. B. für den 
+Schienenverkehr die Pflicht eingeführt, dynamische Auslastungsdaten bereitzustellen. Diese Daten 
+werden nach Darstellung des Ressorts bereits von den Eisenbahnverkehrsunternehmen erhoben, 
+jedoch nicht über den Nationalen Zugangspunkt bereitgestellt, sodass hier insbesondere
+Schnittstellanpassungen erforderlich sind.  
+Mit der Neuregelung ist zudem vorgesehen, dass die Dateninhaber Eigenerklärungen bei der
+Nationalen Stelle elektronisch abzugeben haben (u. a. Angaben zu den bereitgestellten Datenarten,
+einzuhaltenden Anforderungen und mitzuteilenden Informationen). Die Vorgabe in der nationalen
+Neuregelung beschränkt sich auf die 47 000 der insgesamt 55 000 Dateninhaber, für die auch nach
+delegierten EU-Verordnungen die Abgabe von Eigenerklärungen vorgesehen ist. 
+Alle 55 000 Dateninhaber müssen künftig Meldungen zur Verbesserung der Datenqualität über 
+ein bereitgestelltes automatisiertes System prüfen und ggf. Daten korrigieren. Das Ressort nimmt je 
+Dateninhaber zehn zu bearbeitende Meldungen pro Jahr an. 
+Verwaltung 
+Die Verwaltung wird mit jährlichem Erfüllungsaufwand in Höhe von rund 12,9 Mio. Euro
+belastet. Davon entfallen 7,9 Mio. Euro auf den Bund und rund 5 Mio. Euro auf die Länder. Darüber hinaus 
+entsteht einmaliger Erfüllungsaufwand in Höhe von rund 18,6 Mio. Euro, wovon rund 9,9 Mio. 
+Euro auf den Bund und rund 8,6 Mio. Euro auf die Länder entfallen. Die Belastungen ergeben sich im 
+Wesentlichen aus den folgenden Vorgaben: 
+Vorgabe
+Verwaltungsebene 
+Jährlicher
+Erfüllungsaufwand 
+(in Tsd. Euro) 
+Einmaliger
+Erfüllungsaufwand (in Tsd. 
+Euro) 
+Datenlieferung (Autobahn GmbH des 
+Bundes) über den Nationalen
+Zugangspunkt  
+Bund 2 240 4 004 
+Datenlieferung (16 Länder und 78 
+städtische Knoten) über den
+Nationalen Zugangspunkt 
+Land 2 686 8 397 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Aufgaben der Nationalen Stelle (17,5 
+zusätzliche Personalstellen beim 
+BASt) 
+Bund 2 749 750 
+Erbringung von Eigenerklärungen 
+(294 Kreise + 107 Kreisfreie Städte + 
+16 Landesbetriebe) 
+Land 62 249 
+Bearbeitung der Meldungen zur
+Verbesserung der Datenqualität Land 1 853 0 
+Unterhaltung eines Systems zur
+Verbesserung der Datenqualität (BASt) Bund 565 1 750 
+Unterhaltung eines Systems zur
+Verbesserung der Datenqualität – 
+(BMV) 
+Bund 2 230 3 442 
+Berichtspflichten gegenüber der
+Europäischen Kommission
+(Fachbeiträge der Länder) 
+Land 428 0 
+Dienstebereitstellungsverpflichtung 
+(BASt)  Bund 93 0 
+Summe 12 906 18 592 
+davon auf Bundesebene 7 877 9 946 
+davon auf Landesebene 5 029 8 646 
+III.2. Digitaltauglichkeit
+Der NKR begrüßt, dass das Ressort die wesentlichen Prozesse visuell dargestellt hat (siehe Anlage).
+Dadurch wurde schon jetzt konkret die Prüfung durch den NKR erleichtert. Um solche Prozess-
+Darstellungen zukünftig auch dem Parlament und der allgemeinen Öffentlichkeit zugänglich zu machen,
+empfiehlt der NKR diese in das Vorhaben der E-Gesetzgebung zu integrieren und im digitalen
+Gesetzgebungskreislauf gemäß der Modernisierungsagenda Bund zu berücksichtigen.
+27. Oktober 2025
+Lutz Goebel Gudrun Grieser 
+Vorsitzender Berichterstatterin für das 
+Bundesministerium für Verkehr 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Anlage – Visualisierung zum Digitalcheck 
+Prozessdarstellungen der Bereitstellung von Daten ohne und über Datenmittler 
+ 
+  
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Prozessdarstellungen der Abgabe von Eigenerklärungen ohne und über Datenmittler 
+ 
+ 
+ 
+  
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Prozessdarstellungen der Verbesserung der Datenqualität ohne und über Datenmittler 
+ 
+ 
+ 
+ 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
