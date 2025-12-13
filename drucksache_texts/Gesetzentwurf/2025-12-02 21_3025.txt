@@ -8,46 +8,44 @@ Adam Balten, Dr. Christoph Birghan, Joachim Bloch, Dr. Michael Blos, Erhard
 Brucker, Boris Gamanov, Udo Theodor Hemmelgarn, Stefan Henze, Dr. Malte 
 Kaufmann, Rocco Kever, Kurt Kleinschmidt, Heinrich Koch, Achim Köhler, Manuel 
 Krauthausen, Reinhard Mixl, Edgar Naujok, Arne Raue, Carina Schießl, Manfred 
-Schiller, Jan Wenzel Schmidt, Thomas Stephan, Jörg Zirwes und der Fraktion der 
-AfD 
+Schiller, Jan Wenzel Schmidt, Thomas Stephan, Jörg Zirwes und der Fraktion 
+der AfD 
 Entwurf eines Gesetzes zur Änderung der Abgabenordnung 
-A. Problem
+A. Problem 
 Rechtsanwältinnen und Rechtsanwälte sind seit dem 01.01.2022 verpflichtet, das 
 besondere elektronische Anwaltspostfach (beA) in der Kommunikation mit allen 
 Gerichten aktiv zu nutzen. Passivnutzungspflicht besteht bereits seit dem Jahr 
 2016. Darüber hinaus besteht die Berufspflicht, im beA eingehende Nachrichten 
-gem. § 31a Abs. 6 BRAO zur Kenntnis zu nehmen. Die
+gemäß § 31a Abs. 6 BRAO zur Kenntnis zu nehmen. Die
 Bundesrechtsanwaltskammer ist gemäß § 20 Abs. 1 RAVPV gehalten, das beA auf der Grundlage des 
 OSCI-Protokollstandards zu betreiben, um die Kommunikation mit Gerichten, 
 Behörden, Unternehmen, Organisationen sowie Bürgerinnen und Bürgern zu
-gewährleisten. OSCI ist der Übermittlungsstandard, den die Koordinierungsstelle 
-für IT-Standards (KoSIT) im Auftrag des IT-Planungsrats für den Bereich des E-
-Governments betreibt. Gemäß § 19 Abs. 2 RAVPV kann das besondere
-elektronische Anwaltspostfach auch der elektronischen Kommunikation mit anderen 
-Personen oder Stellen dienen. Innerhalb der EGVP-Infrastruktur ist die
-Kommunikation zwischen den verschiedenen besonderen elektronischen Postfächern
-vorgesehen. § 6 Abs. 2 Nr. 2 ERVV regelt ausdrücklich, dass das besondere
-elektronische Behördenpostfach für andere Inhaber von besonderen elektronischen
-Postfächern adressierbar sein muss. Eine Beschränkung auf gerichtliche Verfahren 
-sieht diese Vorschrift gerade nicht vor.  
-Steuerberater sind seit dem 1.1.2023, vgl. insoweit klarstellend BFH, XI B 101/22 
-(Beschluss vom 24.03.2022), ebenfalls uneingeschränkt zur aktiven Nutzung des 
-besonderen elektronischen Steuerberaterpostfachs (beSt) im Rechtsverkehr mit 
-den Finanzgerichten verpflichtet. Die Kommunikation mit den Finanzbehörden 
-über die Steuerberaterplattform (beSt) ist gem. § 11 Absatz 2 StBPPV für
-Steuerberater allerdings ausgeschlossen. Die Bundessteuerberaterkammer forderte im 
-Sommer 2024 diesbezüglich Gleichbehandlung mit den Rechtsanwälten und
-folglich die Möglichkeit der beSt-Kommunikation mit den Finanzbehörden.   
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+gewährleisten. Der OSCI ist der Übermittlungsstandard, den die
+Koordinierungsstelle für IT-Standards (KoSIT) im Auftrag des IT-Planungsrats für den Bereich 
+des E-Governments betreibt. Gemäß § 19 Abs. 2 RAVPV kann das besondere 
+elektronische Anwaltspostfach auch der elektronischen Kommunikation mit
+anderen Personen oder Stellen dienen. Innerhalb der EGVP-Infrastruktur ist die 
+Kommunikation zwischen den verschiedenen besonderen elektronischen
+Postfächern vorgesehen. § 6 Abs. 2 Nr. 2 ERVV regelt ausdrücklich, dass das besondere 
+elektronische Behördenpostfach für andere Inhaber von besonderen
+elektronischen Postfächern adressierbar sein muss. Eine Beschränkung auf gerichtliche 
+Verfahren sieht diese Vorschrift gerade nicht vor.  
+Steuerberater sind seit dem 01.01.2023, vgl. insoweit klarstellend BFH, XI 
+B 101/22 (Beschluss vom 24.03.2022), ebenfalls uneingeschränkt zur aktiven 
+Nutzung des besonderen elektronischen Steuerberaterpostfachs (beSt) im
+Rechtsverkehr mit den Finanzgerichten verpflichtet. Die Kommunikation mit den
+Finanzbehörden über die Steuerberaterplattform (beSt) ist gemäß § 11 Absatz 2 
+StBPPV für Steuerberater allerdings ausgeschlossen. Die
+Bundessteuerberaterkammer forderte im Sommer 2024 diesbezüglich Gleichbehandlung mit den
+Rechtsanwälten und folglich die Möglichkeit der beSt-Kommunikation mit den 
+Finanzbehörden.   
 Mit dem Jahressteuergesetz 2024 wurde in der Abgabenordnung (AO) stattdessen 
-§ 87 Abs. 1 S. 2 implementiert, der die elektronische Kommunikation mit der
-Finanzverwaltung nur noch über das System ELSTER bzw. die Schnittstelle ERiC
-ermöglicht. Die besonderen elektronischen Anwalts- und Steuerberaterpostfächer
-(beA bzw. beSt), deren Nutzung im finanzgerichtlichen Verfahren verpflichtend
+§ 87 Abs. 1 S. 2 implementiert, der die elektronische Kommunikation mit der 
+Finanzverwaltung nur noch über das System ELSTER bzw. die Schnittstelle ERiC 
+ermöglicht. Die besonderen elektronischen Anwalts- und Steuerberaterpostfächer 
+(beA bzw. beSt), deren Nutzung im finanzgerichtlichen Verfahren verpflichtend 
 ist, vgl. insoweit § 52d FGO, werden seitdem von der elektronischen
-Kommunikation mit den Finanzbehörden gesetzlich ausgeschlossen.
+Kommunikation mit den Finanzbehörden gesetzlich ausgeschlossen. 
 Der mit dem Jahressteuergesetz 2024 eingeführte einseitige Ausschluss der
 Kommunikation über die besonderen elektronischen Postfächer mit den
 Finanzbehörden widerspricht der Idee eines einheitlichen elektronischen Rechtsverkehrs und 
@@ -55,7 +53,7 @@ benachteiligt Anwälte, Steuerberater und deren unternehmerische wie private
 Mandanten. Er widerspricht außerdem Beschlüssen der
 Justizministerkonferenzen, die aktive und passive Nutzungspflichten des elektronischen Rechtsverkehrs 
 auf weitere Akteure ausweiten will. 
-B. Lösung; Nutzen
+B. Lösung; Nutzen 
 Der § 87a AO (Elektronische Kommunikation) ist in die unmittelbar vor dem 
 06.12.2024 geltende Fassung zurückzuversetzen, indem S. 2 der aktuellen
 Fassung des § 87a AO gestrichen wird.  
@@ -67,32 +65,26 @@ gerichtliche elektronische Kommunikationsverkehr zudem vereinheitlicht. In
 diesem Zusammenhang ist außerdem beachtlich, dass einige Steuerverwaltungen den 
 Telefaxkommunikationsweg zwischenzeitlich abgeschaltet haben, teils
 flächendeckend, so zum Beispiel in Niedersachsen ab dem 30.06.2025. 
-C. Alternativen
-Keine.
-D. Kosten
+C. Alternativen 
+Keine. 
+D. Kosten 
 Kurzfristig sind geringe Anschaffungs- und Implementierungskosten auf Seiten 
 von Bund, Ländern und Gemeinden zu erwarten, deren genauer Umfang nicht 
 beziffert werden kann. Mittel- und langfristig sind durch die Maßnahme positive 
-Haushaltseffekte sowie volkswirtschaftlicher Gesamtnutzen zu erwarten.  
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-Entwurf eines Gesetzes zur Änderung der Abgabenordnung 
+Haushaltseffekte sowie volkswirtschaftlicher Gesamtnutzen zu erwarten.
+Entwurf eines Gesetzes zur Änderung der Abgabenordnung  
 Vom … 
 Der Bundestag hat das folgende Gesetz beschlossen: 
 Artikel 1 
 Änderung der Abgabenordnung 
-Die Abgabenordnung in der Fassung der Bekanntmachung vom 23. Januar 2025 (BGBl. 2025 I Nr. 24) wird wie 
-folgt geändert: 
-In § 87a Absatz 1 wird Satz 2 gestrichen. 
+Die Abgabenordnung in der Fassung der Bekanntmachung vom 23. Januar 2025 (BGBl. 2025 I Nr. 24) wird 
+wie folgt geändert: 
+§ 87a Absatz 1 Satz 2 wird gestrichen. 
 Artikel 2 
 Inkrafttreten 
-Das Gesetz tritt am Tag seiner Verkündung in Kraft. 
+Dieses Gesetz tritt am Tag der Verkündung in Kraft. 
 Berlin, den 2. Dezember 2025 
-Dr. Alice Weidel, Tino Chrupalla und Fraktion 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Dr. Alice Weidel, Tino Chrupalla und Fraktion
 Begründung 
 A. Allgemeiner Teil 
 I. Zielsetzung und Notwendigkeit der Regelungen 
@@ -132,26 +124,23 @@ Soweit bekannt, besteht die Möglichkeit der technischen Anbindung des besondere
 Behördenpostfachs der Steuerverwaltung an die finanzamtsinternen IT-Verfahren. Technische Lösungen für den Anschluss 
 von Verfahren über ein OSCI-Protokoll stehen zur Verfügung und werden in anderen Behörden bereits genutzt. 
 Sie sind im Interesse eines einheitlichen elektronischen Rechtsverkehrs auf Basis des OSCI-Protokolls unbedingt 
-vorzugswürdig. Folglich wären diese Wege weiterzuverfolgen statt weiter mit der mit dem Jahressteuergesetz 
-2024 eingeführten Beschränkung des § 87a Abs. 1 S. 2 zu operieren. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+vorzugswürdig. Folglich wären diese Wege weiterzuverfolgen statt weiter mit der mit dem
+Jahressteuergesetz 2024 eingeführten Beschränkung des § 87a Abs. 1 S. 2 zu operieren.
 Die Aufhebung dieser Vorschrift durch das vorliegende Gesetz eröffnet einen erprobten weiteren Kontaktweg, ist 
 unternehmer-, bürger- und verwaltungsfreundlich sowie mittel- und langfristig die kostengünstigste Art der
 Kommunikation für alle Beteiligten. 
 Insoweit ist die entsprechende Vorschrift zu streichen. 
-III. Alternativen
-Keine.
-IV. Gesetzgebungskompetenz
-Der Bund hat die ausschließliche Gesetzgebungskompetenz gem. Art. 105 Abs. 1 Grundgesetz.
-V. Vereinbarkeit mit dem Recht der Europäischen Union und völkerrechtlichen Verträgen
-Recht der Europäischen Union und völkerrechtlichen Verträge stehen dem Gesetzentwurf nicht entgegen.
-VI. Gesetzesfolgen
+III. Alternativen 
+Keine. 
+IV. Gesetzgebungskompetenz 
+Der Bund hat die ausschließliche Gesetzgebungskompetenz gemäß Art. 105 Abs. 1 des Grundgesetzes. 
+V. Vereinbarkeit mit dem Recht der Europäischen Union und völkerrechtlichen Verträgen 
+Recht der Europäischen Union und völkerrechtlichen Verträge stehen dem Gesetzentwurf nicht entgegen. 
+VI. Gesetzesfolgen 
 Das Gesetz führt zu Verwaltungsvereinfachung, Verzahnung von Wirtschaft, Exekutive und Legislative, stärkt 
 die Rechtsanwaltschaft und ihre Mandanten. Mittel- und langfristig sind positive Kosteneffekte mit
 gesamtwirtschaftlicher Bedeutung zu erwarten. 
-B. Besonderer Teil
+B. Besonderer Teil 
 Zu Artikel 1 
 Die Streichung von S. 2 des § 87a Abs. 1 AO eröffnet Rechtsanwälten die Möglichkeit, mit den
 Finanzverwaltungen mittels besonderem elektronischen Anwaltspostfach (beA) zu kommunizieren. Demnach würde im
@@ -161,6 +150,8 @@ eröffnet. Diese Verzahnung führt zu Effizienzsteigerungen und Verfahrensbeschl
 Zudem wird dadurch weitestgehende Technologieoffenheit gewährleistet.  
 Zu Artikel 2 
 Die Vorschrift regelt das Inkrafttreten. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+
+
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
