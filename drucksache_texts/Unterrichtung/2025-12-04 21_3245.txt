@@ -1,0 +1,3762 @@
+Deutscher Bundestag Drucksache 21/3245 
+21. Wahlperiode 04.12.2025
+Unterrichtung 
+durch die Bundesregierung 
+Sechster Bericht der Bundesregierung über die Fortschritte zur Entwicklung der 
+verschiedenen Felder des Geoinformationswesens im nationalen, 
+europäischen und internationalen Kontext  
+(6. Geo-Fortschrittsbericht)  
+Zugeleitet mit Schreiben des Bundesministeriums des Innern vom 3. Dezember 2025 gemäß Beschluss vom 
+15. Februar 2001 auf Bundestagsdrucksache 14/5323.
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+1
+Inhalt
+Einleitung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Digitalisierung und Nachhaltigkeit  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+1. Digitaler Zwilling Deutschland . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+2. SKD / Servicestelle Fernerkundung  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+3. Landbedeckung für Deutschland –Cop4ALL-DE . . . . . . . . . . . . . . . . . . 11
+4. Innovative Fernerkundung für die Bundesverwaltung . . . . . . . . . . . . . 14
+5. Waldschadenserkennung in Deutschland:
+Innovative Erfassung und Überwachung mit Sentinel-2-
+Satellitendaten. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+6. Möglichkeiten des Einsatzes von Künstlicher Intelligenz und
+Fernerkundungsmethoden in der Stadtentwicklung – ein
+Blick auf aktuelle Forschungsprojekte des Bundes . . . . . . . . . . . . . . . . 19
+7. Modellprojekte Smart Cities – Geobasierte
+Dateninfrastrukturen und digitale Anwendungen in der
+integrierten Stadtentwicklung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+8. BIM Deutschland –Digitales Planen und BIM  . . . . . . . . . . . . . . . . . . . . 24
+9. Digitale Geosysteme. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 1 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+2
+Sicherheit und Krisen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+1. Die Bedeutung des Digitalen Zwillings Deutschland
+(DigiZ-DE) des BKG für die Bundeswehr  . . . . . . . . . . . . . . . . . . . . . . . . . 27
+2. Starkregen-Gefahrenbereiche bundesweit präzise
+identifizieren: Die Hinweiskarte Starkregengefahren des BKG . . . . . . 31
+3. Starkregenprodukte und -portale des DWD . . . . . . . . . . . . . . . . . . . . . . 35
+Zugang zu  Geoinformationen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+1. Hochwertige (Geo-)Datensätze – eine wichtige Neuerung in
+der EU-Daten gesetz gebung findet seit Juni 2024 Anwendung. . . . . . 37
+2. Nationale Geoinformationsstrategie 2.0  . . . . . . . . . . . . . . . . . . . . . . . . . 38
+3. Schwerpunkt Vorsitz GDI-DE Bund 2023–24 . . . . . . . . . . . . . . . . . . . . . 41
+4. Dynamische Agrarwetterindikatoren zur
+Extremwetterprognose in der Landwirtschaft  . . . . . . . . . . . . . . . . . . . . 42
+5. Marine Forecast als Planungshilfe für Aktivitäten an und auf See . . . 44
+6. Umwelt.info – ein Portal für Umwelt- und
+Naturschutzinformationen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+7. Datensatz UNESCO-Welterbestätten. . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+Internationale  Zusammenarbeit  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+1. Gründung des Exzellenzzentrums der Geodäsie der
+Vereinten Nationen (UN-GGCE). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+2. Geodaten für Entwicklung – Unterstützung des GEO-LDN
+Flagship, um den Verlust von Böden zu stoppen . . . . . . . . . . . . . . . . . . 51
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 2 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Schlusswort  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+Abkürzungs verzeichnis  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+Abbildungs verzeichnis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 3 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+4
+Geoinformationen sind von zentraler
+Bedeutung – in der Vergangenheit, in der Gegenwart 
+und in der Zukunft. Ob in der Mobilität,
+Landwirtschaft oder Stadtentwicklung, bei der
+Energiewende oder im Katastrophenschutz: Die
+Frage nach dem „Wo“ ist jederzeit entscheidend für 
+zielgerichtetes Planen und Handeln. Das
+Bewusstsein für die Nutzung von
+Geoinformationen in Anwendungen sowie die Notwendigkeit 
+hierfür ist inzwischen in allen
+Gesellschaftsbereichen tief verankert. Aktuelle und zuverlässige 
+raumbezogene Daten helfen uns, komplexe
+Zusammenhänge besser zu verstehen und
+fundierte Entscheidungen zu treffen. Die
+Bundesverwaltung nutzt diese Informationen auf vielfältige 
+und immer umfassendere Weise, um die
+Lebensqualität der Bürgerinnen und Bürger zu steigern, 
+Verwaltungsprozesse effizienter zu gestalten und 
+Deutschland zukunftsfähig zu machen.
+Mit modernen Methoden wie der
+Fernerkundung können wir heute Veränderungen der
+Erdoberfläche nahezu in Echtzeit erfassen. Dabei 
+fallen große Datenmengen an, deren
+Auswertung eine große Herausforderung für die stetig 
+wachsende Zahl von Anwendungen darstellt. 
+Zur Bewältigung dieser Herausforderung wird 
+zunehmend Künstliche Intelligenz (KI) genutzt. 
+Damit wird nicht nur die kontinuierliche
+Aktualisierung klassischer Produkte wie
+topographische Karten optimiert, sondern es werden 
+auch völlig neue Möglichkeiten eröffnet,
+Informationen zu gewinnen und zu verknüpfen. Die 
+Bundesverwaltung nutzt diese Möglichkeiten 
+in zahlreichen Anwendungen und Projekten. 
+Im Kapitel „Digitalisierung und Nachhaltigkeit“ 
+werden einige herausragende
+Leuchtturmprojekte vorgestellt, die durch den Einsatz digitaler 
+Geoinformationen zu einer innovativen,
+nachhaltigen Verwaltung beitragen. So nutzen wir 
+schon heute Satellitenbilder, um automatisiert 
+den Zustand von Ökosystemen abzuleiten,
+innerstädtische Potenzialflächen zu detektieren 
+oder Rettungskräfte in Krisensituationen mit 
+hochaktuellen Karten zu unterstützen. 
+Mithilfe von Geoinformationen sind auch
+Simulationen zukünftiger Ereignisse zur
+Unterstützung politischer Entscheidungsprozesse
+möglich. Dadurch leisten sie einen direkten Beitrag 
+zur Sicherheit der Bevölkerung – sei es durch die 
+Ermittlung von Hochwassergefahren oder durch 
+die Bereitstellung von Informationen für die 
+Einsatzplanung der Bundespolizei oder
+Bundeswehr, wie im Kapitel „Sicherheit und Krisen“
+anschaulich dargestellt wird.
+Im Kapitel „Zugang zu  Geoinformationen“ wird 
+anhand einer Auswahl von Projekten und
+Entwicklungen gezeigt, wie sich die Bereitstellung 
+der Geoinformationen verändert. Ein
+signifikanter und wachsender Anteil der
+Geoinformationen wird heute als Open Data zur Verfügung
+gestellt. Der offene Zugang zu Geoinformationen 
+spielt eine zentrale Rolle bei der Förderung
+technischer und wirtschaftlicher Innovationen in 
+Einleitung
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 4 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+5
+raumbezogenen Anwendungen, etwa bei der
+satellitengestützten Steuerung von
+Erntemaschinen. Die breite Verfügbarkeit hochwertiger
+Geoinformationen eröffnet Verwaltung, Wirtschaft 
+und Forschung neue Anwendungs- und
+Innovationsmöglichkeiten. Dadurch werden die
+vorhandenen Geoinformationen immer stärker für 
+die bestehenden Bedürfnisse genutzt und
+gleichzeitig werden immer mehr Anwendungsfelder 
+mit konkreten Anwendungen versorgt. Auch die 
+Bürgerinnen und Bürger profitieren unmittelbar 
+von der freien Verfügbarkeit und den damit
+verbundenen Anwendungen, wie z. B. Geoportal.de 
+oder dem Deutschlandatlas. Durch die
+kostenlose Bereitstellung dieser Daten wird die
+Verfügbarkeit von Informationen verbessert und damit 
+die Lebensqualität erhöht und der Alltag
+erleichtert. Mit Geoinformationen lassen sich
+beispielsweise Fragen beantworten wie: „Wie weit ist die 
+nächste Grundschule entfernt?“ oder „Gibt es 
+ausreichend Grünflächen in der Stadt?“
+Die Bedeutung von Geoinformationen endet
+jedoch nicht an nationalen Grenzen. Globale
+Herausforderungen wie der Klimawandel und der 
+Verlust natürlicher Ressourcen erfordern
+gemeinsames Handeln. Eine enge internationale 
+Zusammenarbeit ermöglicht es uns,
+Veränderungen auf der Erde (wie z. B. den Anstieg des 
+Meeresspiegels und seine Folgen) besser zu
+verstehen, gemeinsame Lösungen zu entwickeln 
+und den globalen Austausch von Wissen und 
+Technologien zu fördern. Im Kapitel
+„Internationale  Zusammenarbeit“ werden zwei Projekte 
+mit herausragender internationaler
+Zusammenarbeit vorgestellt.
+Geoinformationen sind in der Gegenwart und 
+für die Zukunft von zentraler Bedeutung – auch 
+für die Bundesregierung. Deshalb ist die
+Bundesregierung verpflichtet, dem Deutschen
+Bundestag regelmäßig über den Fortschritt des 
+Geoinformationswesens zu berichten
+(Bundestagsdrucksachen 14/5323 und 15/809). Seit der 
+Vorlage des ersten Geo-Fortschrittsberichts am 
+27. Juni 2005 (Bundestagsdrucksache 15/5834) 
+geschieht dies kontinuierlich. Der sechste Geo-
+Fortschrittsbericht legt den Schwerpunkt auf 
+den Einsatz von Geoinformationen zur
+Entwicklung einer modernen und resilienten
+Gesellschaft. Da nahezu alle Lebensbereiche einen 
+Raumbezug haben, würde eine vollständige 
+Darstellung der Entwicklungen im
+Geoinformationswesen den Rahmen dieses Berichts
+sprengen. Stattdessen werden innovative
+Leuchtturmprojekte präsentiert, die einen Überblick 
+über die Fortschritte der letzten Jahre geben. Die 
+öffentlichen Haushalte werden durch den
+vorliegenden Bericht nicht präjudiziert. Etwaige 
+Mehrbedarfe, die sich aus den genannten
+Maßnahmen ergeben, sind – unter der
+Voraussetzung einer Bundeskompetenz – aus den
+jeweiligen Einzelplänen im Rahmen der geltenden 
+Haushaltsansätze zu decken.
+Dieser Bericht zeigt die vielfältigen
+Einsatzmöglichkeiten von Geoinformationen in der
+Bundesverwaltung und verdeutlicht, wie sie dazu 
+beitragen, eine resiliente, nachhaltige und
+moderne Gesellschaft zu gestalten.
+Geoinformationen sind der Schlüssel zu einer zukunftsfähigen 
+Verwaltung – und damit zu einer besseren
+Zukunft für alle.
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 5 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+6
+In einer Welt, die sich zunehmend den
+Herausforderungen des demografischen Wandels, der 
+Ressourcenknappheit, des Klimawandels und 
+des Verlusts der Biodiversität stellen muss, ist die 
+Forderung nach Nachhaltigkeit allgegenwärtig. 
+Gleichzeitig schreitet die Digitalisierung rasant
+voran und eröffnet nie dagewesene Möglichkeiten, 
+diesen komplexen Herausforderungen zu
+begegnen. Dabei bietet die Digitalisierung ein enormes 
+Potenzial für eine zukunftsorientierte und
+resiliente Verwaltung, die unsere Gesellschaft durch 
+die dringend notwendigen Veränderungen leitet. 
+Geoinformationen stehen dabei im Zentrum der 
+Transformation hin zu mehr Nachhaltigkeit. Sie
+ermöglichen es, räumliche und zeitliche Phänomene 
+zu veranschaulichen und präzise zu analysieren, 
+um datenbasierte Entscheidungen zu treffen.
+Moderne Methoden der Datenerfassung,
+insbesondere der Fernerkundung in Kombination mit 
+Künstlicher Intelligenz (KI) ermöglichen es, große 
+Datenmengen in kurzer Zeit zu sammeln, zu
+verarbeiten und gegebenenfalls auszutauschen. Dies 
+trägt nicht nur zur Effizienzsteigerung in
+Verwaltungsprozessen bei, sondern schafft auch neue 
+Möglichkeiten, die digitale Transformation unserer 
+Gesellschaft gezielt zu fördern. Das Einsatzgebiet 
+ist vielfältig und wird durch die Förderung neuer 
+Innovationsprojekte, welche die universitäre
+Forschung in Anwendungen der Bundesverwaltung 
+integrieren, stetig erweitert. Aktuelle Projekte
+reichen von der Ableitung der Landbedeckung für 
+das gesamte Bundesgebiet mittels KI-gestützter 
+Auswertung von Luftbildern über das Monitoring 
+spezieller Ökosysteme oder die Detektion
+innerstädtischer Potenzialflächen bis hin zur schnellen 
+Bereitstellung aktueller Geoinformationen für die 
+Bundesverwaltung in Krisensituationen. 
+Die erhobenen Geoinformationen werden
+beispielsweise genutzt, um digitale Zwillinge zu 
+erstellen, die als virtuelle Abbildungen
+unserer realen Welt zur Beantwortung
+verschiedener Frage stellungen beitragen. Digitale Zwillinge 
+unterstützen durch die Verknüpfung von
+interdisziplinären Daten und die Simulation
+komplexer raumbezogener Prozesse eine datengestützte 
+politische Entscheidungsfindung. Der Maßstab 
+solcher digitalen Abbildungen reicht von
+einzelnen Gebäuden im Kontext des Building
+Information Modeling (BIM) über Smart Cities bis hin zum 
+dreidimensionalen digitalen Zwilling des
+Bundesamts für Kartographie und Geodäsie (BKG) für 
+ganz Deutschland. Auch die Digitalisierung
+konkreter Fachanwendungen, wie beispielsweise
+digitale Geosysteme als Werkzeuge für
+geowissenschaftliche Anwendungen zur Unterstützung der 
+Energiewende, trägt zu einer modernen
+Bundesverwaltung bei. 
+Diese innovativen Ansätze ermöglichen es der
+Verwaltung, flexibel und proaktiv auf die komplexen 
+Herausforderungen der Gegenwart und der
+Zukunft zu reagieren. Die Digitalisierung in der
+Verwaltung ist somit ein Schlüsselfaktor für eine
+resiliente, nachhaltige und bürgerorientierte Zukunft.
+Digitalisierung und 
+Nachhaltigkeit
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 6 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+7
+1. Digitaler Zwilling Deutschland
+Das Bundesamt für Kartographie und Geodäsie 
+(BKG) entwickelt mit dem „Digitalen Zwilling 
+Deutschland (DigiZ-DE)“ eine Analyse- und
+Simulationsplattform. Die Grundlage hierfür
+bilden 3D-Daten aus Laserscanbefliegungen, die 
+ein hochauflösendes Abbild von Deutschland 
+liefern. Der DigiZ-DE unterstützt die
+Bundesverwaltung dabei, nachhaltige Entscheidungen 
+bei allen raum- und geobezogenen Aufgaben zu 
+treffen. Konkrete Anwendungsbeispiele wie die 
+Walderfassung, die Hinderniserkennung für die 
+Deutsche Flugsicherung und ein begehbares
+Digitallabor werden bereits getestet. 
+Das Bundesamt für Kartographie und Geodäsie 
+(BKG) hat als Geodatenkompetenz- und
+dienstleistungszentrum des Bundes ein wegweisendes 
+Projekt zur Analyse und Simulation gestartet: Im 
+Jahr 2024 wurde mit der dreidimensionalen
+Erfassung der Landoberfläche Deutschlands
+begonnen. Im Jahr 2025 wird diese hochauflösende und 
+dreidimensionale Aufnahme abgeschlossen sein. 
+Der Digitale Zwilling Deutschland ermöglicht 
+Anwenderinnen und Anwendern aus
+Bundesbehörden wertvolle und erkenntnisfördernde
+Simulationen aus Umwelt, Sicherheit, Verkehr oder 
+anderen Bereichen. Anhand dieses
+dreidimensionalen Abbildes der Wirklichkeit können
+verschiedenste Szenarien untersucht werden. Konkrete 
+Fragen zu Naturschutz, Klimawandel und
+Nachhaltigkeit können visualisiert und realistisch
+bewertet werden, um so die Planung und
+Entscheidungsfindung wirkungsvoll zu unterstützen.
+Der Digitale Zwilling Deutschland 
+unterstützt die Bundesverwaltung dabei, 
+die politischen Ziele der Bundesregierung 
+zu erreichen.
+Das Projekt „Digitaler Zwilling Deutschland“
+gliedert sich in drei Teilprojekte: Aufbau der DigiZ-
+DE-Plattform, Aufbau des Datenangebots und 
+schließlich Umsetzung der Bedarfe und
+Anwendungsfälle der Bundesverwaltung. Die DigiZ-DE-
+Plattform wird Komponenten zum
+Datenmanagement, zur Datenanalyse und -transformation, 
+zur Datenbereitstellung sowie
+Entwicklungsumgebungen für die Erstellung nutzerspezifischer 
+Anwendungen enthalten. Für den Aufbau des 
+Datenangebots sind 3D-Daten notwendig, welche 
+aus Luftaufnahmen gewonnen werden. Zur
+Beschaffung dieser Datengrundlage wurden
+Laserscanbefliegungen in ganz Deutschland beauftragt. 
+Die Umsetzung von Anwendungsfällen erfolgt
+anhand der Bearbeitung konkreter Fragestellungen 
+und wird kontinuierlich ausgebaut.
+Der Digitale Zwilling Deutschland eröffnet die 
+Möglichkeit, die Vegetationsstruktur im
+gesamten Bundesgebiet detailliert zu erfassen und so 
+potenziell innovative Ansätze zur Überwachung 
+des Waldzustands zu entwickeln. Zu den
+Anwendungsfällen, die bisher untersucht wurden,
+gehört die Verbesserung und Generalisierung der 
+3D-Baumkronensegmentierung. Das Thünen-
+Institut hat einen Algorithmus implementiert, der 
+es ermöglicht, in Laub- und
+Nadelwaldbeständen einzelne Bäume zu erkennen. Das BKG prüft 
+und optimiert dieses Verfahren mit Daten aus der 
+Metropolregion Hamburg. Zukünftig soll dieses 
+Verfahren zur Walderfassung auf größeren
+Flächen angewendet werden. Das Thünen-Institut 
+hat zudem einen Förderantrag beim Deutschen 
+Zentrum für Luft- und Raumfahrt (DLR) für das 
+Leuchtturmprojekt „ForestPulse“ eingereicht,
+welchen das BKG als assoziierter Partner mit einer
+Absichtserklärung (Letter of Intent – LoI) unterstützt.
+Deutschland ist verpflichtet, Daten zu möglichen 
+Flughindernissen zu veröffentlichen – eine
+Aufgabe, die der Deutschen Flugsicherung (DFS)
+übertragen wurde. Verschiedene Zonen legen fest, ab 
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 7 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+8
+welcher Höhe ein Objekt als Flughindernis gilt, 
+wobei jede Zone ihre eigenen Kriterien hat.
+Flughindernisse können beispielsweise Gebäude oder 
+Windkraftanlagen sein. Die automatisierte
+Erkennung solcher Hindernisse stellt eine große
+Herausforderung dar. Derzeit wird untersucht, ob der 
+Digitale Zwilling Deutschland zukünftig genutzt 
+werden könnte, um bundesweit Objekte als
+Flughindernisse zu identifizieren und zu
+kategorisieren. Aktuell wird ein „Proof of Concept“ in
+Zusammenarbeit mit dem Bundesministerium für 
+Digitales und Verkehr (BMDV) erstellt.
+Im Digitallabor wird der Digitale Zwilling 
+Deutschland durch eine 270-Grad-Projektion
+begehbar und sorgt für ein realistisches
+Raumerlebnis. Nutzerinnen und Nutzer können im
+Digitallabor in eine virtuelle Welt eintauchen, wobei die 
+Navigation über Gesten erfolgt und ein
+intuitives Erforschen der Daten ermöglicht. Das System 
+wird im BKG weiter erprobt und steht künftig den 
+Projektpartnern für verschiedene Bereiche zur 
+Verfügung. Die freie Navigation im
+dreidimensionalen Raum erlaubt es beispielsweise,
+Sichtbarkeiten und Blickachsen zu simulieren, was
+insbesondere für Sicherheitsbehörden von Bedeutung ist.
+Abbildung 1: Einzelbaumerkennung und die anschließende Ableitung von Merkmalen der Einzelbäume.
+Abbildung 2: Die Elbphilharmonie Hamburg als potenzielles Flughindernis?
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 8 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+9
+Der Digitale Zwilling Deutschland ist ein
+umfangreiches Leuchtturmprojekt, für dessen
+Realisierung das BKG auf enge Kooperationen mit 
+Partnerorganisationen wie der Metropolregion 
+Hamburg oder dem Thünen-Institut setzt.
+Zukünftig sind auch internationale Kooperationen 
+geplant, um auch in den Grenzregionen mit den 
+Nachbarstaaten präzise Simulationen zu
+ermöglichen. Das Institut national de l‘information 
+géographique et forestière (Nationales Institut 
+für geografische und forstwirtschaftliche
+Informationen von Frankreich, IGN-Frankreich) 
+führt derzeit ebenfalls nationale 3D-
+Befliegungen in Frankreich durch. Daher findet ein
+intensiver Wissens- und Datenaustausch zwischen 
+dem BKG und IGN-Frankreich statt, um den
+gemeinsamen Interessen an der Nutzung
+hochauflösender Daten für grenzüberschreitende oder 
+grenznahe Anwendungen gerecht zu werden.
+Mit dem Digitalen Zwilling Deutschland setzt 
+das BKG als Geodienstleister der
+Bundesverwaltung eine neue zukunftsorientierte 
+Dienstleistung auf. Diese Dienstleistung wird 
+Bundeseinrichtungen unterstützen,
+Handlungsalternativen und Zukunftsszenarien 
+umfassend durchzuspielen und zu
+simulieren, bevor Realisierungsentscheidungen
+getroffen werden. Damit unterstützt der Digitale 
+Zwilling Deutschland die Bundesverwaltung 
+dabei, den politischen Zielen der
+Bundesregierung wie der Schaffung gleichwertiger 
+Lebensverhältnisse, der Bekämpfung des
+Klimawandels, dem Erhalt der Biodiversität und 
+dem Umgang mit dem demografischen
+Wandel effektiv zu begegnen.
+Abbildung 3: Das Digitallabor kann Planerinnen und Planern sowie Entscheidungsträgerinnen und Entscheidungsträgern helfen, ihre Szenarien 
+räumlich abzubilden.
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 9 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+10
+2. SKD / Servicestelle Fernerkundung
+Naturkatastrophen, Großveranstaltungen und 
+politische Gipfel haben mehrere
+Gemeinsamkeiten: Das Ereignis findet in einem definierten 
+Gebiet statt und es sind Menschen davon
+betroffen, die geschützt oder gerettet werden müssen. 
+Es ist Aufgabe der Bundesverwaltung, sich mit 
+diesen Ereignissen auseinanderzusetzen.
+Geoinformationen und die Dienstleistungen des BKG 
+sind dabei nicht mehr wegzudenken. Seit über 
+zehn Jahren unterstützt das BKG mit seinem
+Satellitengestützten Krisen- und Lagedienst (SKD) 
+Entscheidungsträgerinnen und
+Entscheidungsträger im Bund in Form von spezifischer
+Beratung und individuellen kartographischen
+Produkten. Im Jahr 2021 wurde das Portfolio nach 
+sorgfältigen Vorbereitungen um situative
+Analyseprodukte basierend auf
+Fernerkundungsdaten erweitert. Hier stehen den Nutzerinnen 
+und Nutzern des Bundes eigenständig
+entwickelte Werkzeuge und Fachberatung sowie eine 
+Copernicus-Komponente des Kerndienstes
+Sicherheit zur Verfügung. Seit 2022 wurde das 
+Portfolio um den Zugriff auf kommerzielle
+Satellitenbilddaten erweitert. Auch Innovationen 
+zur schnelleren Informationsgewinnung
+werden vorangetrieben. Mit dem 25-köpfigen Team 
+des SKD steht für die Bundesverwaltung ein 
+kompetenter und zuverlässiger Service – täglich 
+von 8.00 bis 20.00 Uhr – bereit.
+Zur Erstellung von
+Geoinformationsprodukten hat der SKD eine Vielzahl an Daten zur 
+Verfügung. Diese reichen von amtlichen
+topographischen Daten über Geofachdaten bis hin 
+zu tagesaktuellen Satellitenbildern. Bei
+Bedarf werden auch neue Geodaten erzeugt,
+beispielsweise über Kartierungen oder (halb-)
+automatisierte Analysen. Welche dieser Daten 
+und Analysen in ein Produkt einfließen, wird 
+in einem Beratungsgespräch gemeinsam mit 
+den Nutzerinnen und Nutzern der anfragenden 
+Behörden erörtert. In der Umsetzung der
+angeforderten Geoinformationsprodukte
+zeichnet den SKD vor allem die Schnelligkeit in der 
+Beschaffung und Aufbereitung der benötigten 
+Daten aus. Dabei greift das SKD-Team auf
+satellitengestützte Fernerkundungsmethoden, 
+Geoinformationssystem-Technologie und
+kartographisches Know-how zurück. Nicht nur 
+bei den Inhalten setzt der SKD auf
+Individualität: Auch die Wahl des Mediums – z. B.
+gedruckte Karte, Webservice oder interaktive 
+Anwendung – orientiert sich an den Bedarfen 
+der Nutzerinnen und Nutzer. Die Bearbeitung 
+von als „Verschlusssache – Nur für den
+Dienstgebrauch“ (VS-NfD) eingestuften Anfragen ist 
+ebenso möglich. Über 80 
+Bundeseinrichtungen aus 14 Ressorts fragen die Dienstleistungen 
+des SKD regelmäßig an. Mit fast 400 erfolgreich 
+umgesetzten Aufträgen wird für das Jahr 2023 
+die bisher höchste jährliche Auftragsanzahl
+erreicht. Damit hat sich der Trend der
+vergangenen Jahre fortgesetzt.
+Seit Beginn des Jahres 2021 ist der SKD der
+zivile „Point of Contact“ (PoC, zentraler
+Ansprechpartner) in Deutschland für den Copernicus 
+SESA (Service on Support to EU External and 
+Security Actions) - ehemals Copernicus SEA 
+(Service on Support to EU External Actions). 
+Damit ist der SKD befugt, Produkte aus
+Geoinformationen und Satellitenbilddaten für
+Nutzende aus der Bundesverwaltung beim
+Europäischen Satellitenzentrum SatCen anzufordern. 
+Hintergrund ist immer ein Anwendungsfall mit 
+Sicherheitsbezug. Da Copernicus SESA –
+ähnlich wie der SKD – vor allem situative Produkte 
+auf Basis von Satellitenbilddaten erstellt, wird 
+hierdurch die Kapazität für hochspezifische 
+Anfragen beim SKD indirekt verstärkt.
+Copernicus SESA reiht sich somit passgenau in die 
+anderen Services des SKD ein. Bisher wurden 
+21 Aufträge über den zivilen PoC Copernicus 
+SESA beim SKD abgewickelt.
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 10 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+11
+Ein weiteres, wesentliches
+Alleinstellungsmerkmal des SKD ist der Zugriff auf über 50 zivile, z. T. 
+höchstauflösende Satellitensysteme. Dieser
+umfasst die Recherche in Bilddatenarchiven vom
+aktuellen Tag bis zu 25 Jahre in die Vergangenheit. 
+Darüber hinaus beauftragt der SKD bei Bedarf auch 
+weltweit Neuaufnahmen von akuten oder
+planbaren Ereignissen. Seit Mitte 2022 können
+Bundeseinrichtungen über die von der Servicestelle
+Fernerkundung im SKD bereitgestellten, webbasierten 
+Portale auch selbstständig in den Archiven der 
+Satellitenbild-Provider recherchieren und
+Fernerkundungsdaten für eigene Zwecke
+herunterladen. Dabei steht die Servicestelle Fernerkundung 
+stets beratend zur Seite, plant gemeinsam mit der 
+anfragenden Behörde Neuaufnahmen, koordiniert 
+bei größeren Anfragen die einzelnen Bedarfe oder 
+beschafft neue Daten. Diese werden stets mit einer 
+Bundeslizenz versehen, sodass die Nachnutzung 
+der Satellitenbilder durch andere
+Bundesbehörden gewährleistet wird. 2023 konnten bereits über 
+80 Projekte des Bundes von den Leistungen der 
+Servicestelle Fernerkundung profitieren. 
+Der SKD entwickelt seine Services stetig weiter 
+und treibt Innovationen voran. Die Grundlage 
+hierfür liefern in regelmäßigen Abständen
+durchgeführte Befragungen im Bundesbereich, wie
+zuletzt die Umfrage zu den SKD-Dienstleistungen im 
+Herbst 2023. Nach Auswertung der Ergebnisse hat 
+sich der SKD beispielsweise zum Ziel gesetzt, den 
+Zugriff auf bereits beschaffte Satellitenbilddaten 
+zu vereinfachen. Mit den aus der Umfrage
+abgeleiteten Bedarfen sieht sich der SKD darin bestärkt, 
+seine bereits begonnenen Vorhaben, wie z. B. den 
+Aufbau einer Referenzdatenbank zum Einsatz 
+Künstlicher Intelligenz (KI) für
+Fernerkundungsdatenanalysen fortzuführen und weiter auszubauen. 
+Mit Einführung des „Rapid-Imaging-Verfahrens“ 
+geht der SKD auf den in der Umfrage geäußerten 
+Bedarf nach einer noch schnelleren Bereitstellung 
+von Produkten ein, indem Datenflüsse und
+Datenprozessierungen beschleunigt werden.
+Um auch die Bundesbehörden auf dem aktuellen 
+Stand der SKD-Services zu halten und mit 
+neuen Nutzerinnen und Nutzern ins Gespräch 
+zu kommen, veranstaltet der SKD regelmäßig 
+Informationsveranstaltungen. Im vierten Quartal 
+2024 hat das „SKD-Forum“ bereits zum dritten 
+Mal statt gefunden.
+3. Landbedeckung für Deutschland –
+Cop4ALL-DE
+Die Arbeitsgemeinschaft der
+Vermessungsverwaltungen der Länder der Bundesrepublik 
+Deutschland (AdV) wird voraussichtlich bis Mitte 
+des Jahres 2025 die Landbedeckung für
+Deutschland mittels Künstlicher Intelligenz
+klassifizieren und unter Open-Data-Kriterien bereitstellen. 
+Dieses Produkt wird im Vergleich zu bisher
+verfügbaren Landbedeckungsdaten eine sehr kleine 
+Mindestkartierfläche von 100 m2 aufweisen. Die 
+Ableitung der Landbedeckung erfolgt
+hochautomatisiert und basiert grundlegend auf aktuellem 
+Bildmaterial (Copernicus Sentinel-2 und
+Orthofotos der Länder). Der Datensatz soll jährlich
+aktualisiert werden und ist für viele Behörden auf 
+Landes- und Bundesebene von Interesse.
+Insbesondere stellen die Landbedeckungsdaten für die 
+Bereiche Flächenstatistik und
+Umweltmonitoring eine optimale Grundlage dar.
+Im Jahr 2018 hat die Arbeitsgemeinschaft der
+Vermessungsverwaltungen der Länder der
+Bundesrepublik Deutschland (AdV) die Einführung von 
+Landbedeckung und Landnutzung beschlossen. 
+Die Landbedeckung soll dabei möglichst
+automatisiert aus Fernerkundungsdaten abgeleitet werden.
+Das Land Nordrhein-Westfalen (NRW), vertreten 
+durch die Bezirksregierung Köln, Geobasis NRW und 
+das BKG, wurde Ende des Jahres 2022 beauftragt, 
+eine Technische Betriebsstelle „Landbedeckung“ 
+einzurichten, um die Landbedeckung bundesweit an 
+zentraler Stelle abzuleiten und bereitzustellen.
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 11 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+12
+Das Verfahren zur Ableitung der
+Landbedeckung nennt sich Cop4ALL-DE (Cop4ALL steht 
+dabei für „Copernicus für alle“) und basiert auf 
+dem in NRW entwickelten Verfahren Cop4ALL 
+NRW. Dabei wird die Landbedeckung gemäß dem 
+Datenmodell der AdV dargestellt. Das
+Anwendungsschema Landbedeckung umfasst dabei im 
+Grunddatenbestand 15 Landbedeckungsklassen 
+bzw. Objektarten mit entsprechender
+Attribuierung, um die physische und biologische
+Bedeckung der Erdoberfläche, einschließlich
+künstlicher Flächen, landwirtschaftlicher Flächen, 
+Wälder, natürlicher und naturnaher Gebiete, 
+Feuchtgebiete und des Wasserkörpers abzubilden: 
+• Hochbau
+• Tiefbau
+• Festgestein
+• Lockermaterial
+• Krautige Vegetation (differenziert nach den drei
+Vegetationsmerkmalen Gras, Röhricht/Schilf
+sowie Getreide/Staudengewächse/Farne)
+• Holzige Vegetation (differenziert nach den drei
+Vegetationsmerkmalen Bäume (weitere
+Unterscheidung nach der Blattform Laub und Nadel),
+Gehölz sowie Büsche/Sträucher)
+• Meer
+• Binnengewässer (differenziert nach der
+Fließeigenschaft fließend und stehend)
+• Eis
+Zur Berechnung der Landbedeckung werden 
+maßgeblich frei verfügbare Sentinel-2-
+Satellitendaten des europäischen
+Erdbeobachtungsprogramms Copernicus sowie die von den
+Bundesländern erstellten Orthofotos verwendet. Diese 
+Fernerkundungsdaten werden mithilfe von
+Verfahren der Künstlichen Intelligenz (KI)
+ausgewertet. Bestandsdaten aus dem Liegenschaftskataster 
+(ALKIS) und/oder der Geotopographie (ATKIS) 
+werden sowohl zum automatisierten Training 
+der neuronalen Netze als auch zum Post-
+Processing verwendet.
+Das ursprünglich für NRW maßgeschneiderte 
+Verfahren muss für die bundesweite Berechnung 
+der Landbedeckung an die Gegebenheiten aller 
+Bundesländer angepasst werden. Des Weiteren 
+müssen die in NRW nicht vorkommenden
+Landbedeckungsklassen Festgestein, Meer und Eis
+berücksichtigt und detektiert werden.
+Abbildung 4 zeigt die abgeleitete Landbedeckung 
+exemplarisch für einen Ausschnitt Baden-
+Württembergs. Um die vorkommenden Rebflächen 
+verlässlich erkennen zu können, wurde im
+Rahmen der Weiterentwicklung des Verfahrens eine 
+zusätzliche Bildklasse definiert. Die
+detektierten Flächen werden schließlich der
+Landbedeckungsklasse Holzige Vegetation mit dem
+Vegetationsmerkmal Büsche/Sträucher zugeordnet.
+Ziel des aktuellen Vorhabens ist es, die
+Landbedeckung qualitätsgesichert und flächendeckend 
+für Deutschland Mitte 2025 über die Zentrale 
+Stelle Geotopographie, die beim BKG angesiedelt 
+ist, bereitzustellen. Die Mindestkartierfläche
+beträgt dabei generell 100 m2. Hochbauten werden 
+bereits ab einer Größe von 10 m ausgegeben. Für 
+die meisten Objektarten wird eine
+Nutzergenauigkeit von ca. 90 % angestrebt. Die Detektion der 
+Landbedeckungsklassen Festgestein und
+Lockermaterial bzw. ihre Abgrenzung zueinander stellt 
+aufgrund der Diversität von Lockermaterial
+(gemäß Definition u. a. Geröll, Schotter, Abfall, Sand) 
+eine große Herausforderung dar. Daher wird hier 
+zunächst eine geringere Nutzergenauigkeit von 
+etwa 70 % erwartet.
+Der Mehrwert für Deutschland besteht u. a. in der 
+jährlichen Aktualisierung des Datensatzes.
+Weiterhin stellt die kleine Mindestkartierfläche von 
+100 m2 bzw. bei Hochbauten von 10 m2 eine sehr 
+hohe Auflösung der Landbedeckung dar, von der 
+viele Landes- und Bundesbehörden profitieren 
+können, z. B. im Hinblick auf die Modellierung 
+von Flächenverbrauch und Bodenversiegelung. 
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 12 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+13
+Hier sind insbesondere das Statistische
+Bundesamt mit der Flächenstatistik und das
+Umweltbundesamt mit dem Umweltmonitoring zu 
+nennen. Die Vermessungsverwaltungen der
+Bundesländer bündeln zusammen mit dem BKG in 
+dem Vorhaben Cop4ALL-DE ihre Ressourcen, um 
+einen bundesweiten, flächendeckenden sowie 
+einheitlichen Datensatz zu erzeugen.
+Das Produkt „Landbedeckung für
+Deutschland“ wird eine sehr kleine
+Mindestkartier fläche von 100 m2 aufweisen, die in 
+einer hochautomatisierten Auswertung 
+entstanden ist.
+Beeinflusst wurde das Vorhaben durch die immer 
+stärkere Nutzung der KI im
+Geoinformationsbereich. Die Entwicklung des Verfahrens wird
+nutzerorientiert und in der AdV abgestimmt
+durchgeführt, so dass ein qualitätsgesicherter Datensatz 
+entsteht. Die Landbedeckung stellt somit eine 
+Basisinformation dar, die dann auch in digitalen 
+Zwillingen verwendet werden kann.
+Mittels KI­Analyse wird die Landbedeckung 
+für Deutschland klassifiziert.
+Die Ergebnisse des Projekts Cop4ALL-DE werden 
+frei und kostenlos als Open Data veröffentlicht. 
+Geplant ist die Bereitstellung über einen Web 
+Map Service, welcher die direkte Einbindung in 
+ein Geoinformationssystem ermöglicht.
+Zusätzlich werden die Ergebnisse aber auch als Geo
+Package per Download zur Verfügung gestellt. Dies 
+ermöglicht auch die Nutzung der zusätzlichen 
+Attribute, wie beispielsweise die Genauigkeit der 
+Klassifikation.
+Die Landbedeckung für Deutschland wird der 
+Öffentlichkeit voraussichtlich Mitte des
+Jahres 2025 erstmals durch die AdV zentral zur 
+Verfügung gestellt und in einem jährlichen 
+Rhythmus aktualisiert. Durch die sehr hohe 
+Auflösung des Datensatzes von 100 m2 stellt 
+er eine wertvolle Grundlage für viele
+Anwendungen (beispielsweise Flächenstatistik und 
+Umweltmonitoring) von Landes- und
+Bundesbehörden dar. Durch die Klassifizierung 
+Abbildung 4: Abgeleitete Landbedeckung für ein Weinanbaugebiet in Baden-Württemberg. 
+Hochbau
+Tiefbau
+Festgestein
+Lockermaterial
+Holzige Vegetation, Bäume, Nadel
+Holzige Vegetation, Gehölz
+Holzige Vegetation, Büsche/Sträucher
+Holzige Vegetation, Bäume, Laub
+MeerEis
+Krautige Vegetation, Gras
+Krautige Vegetation, Röhricht/Schilf
+Krautige Vegetation, Getreide/Staudengewächse/Farne
+Gewässer, fließend Gewässer, stehend
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 13 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+14
+mittels Künstlicher Intelligenz wird eine hohe 
+thematische Genauigkeit erreicht. Nicht
+zuletzt aufgrund der riesigen Datenmengen, die 
+verarbeitet werden müssen, ist das Vorhaben 
+hochambitioniert und sehr herausfordernd.
+4. Innovative Fernerkundung für die 
+Bundesverwaltung
+Anwendungspotenziale der Fern er kundung 
+speziell für Bundesbehörden auszuloten 
+und für ihre konkreten Aufgaben nutzbar 
+zu machen oder zu erweitern, ist das Ziel des 
+Rahmen vertrags „Innovative Fernerkundung 
+für die Bundesverwaltung – IF-Bund“. Das 
+Bundes ministerium des Innern (BMI) hat den 
+IF-Bund mit dem Deutschen Zentrum für Luft- 
+und Raumfahrt (DLR) mit Gültigkeit für die 
+gesamte Bundesverwaltung geschlossen. Seit 
+Beginn des IF-Bund im Jahr 2021 bis Ende des 
+Jahres 2024 sind daraus 14 Innovationsprojekte 
+entstanden, die zusammen mit
+unterschiedlichen Bundesbehörden entwickelt wurden.
+Diese haben inhaltlich eine große Bandbreite: von 
+der KI-gestützten Auswertung von Satelliten-, 
+Luft- und Drohnenbilddaten, z. B. für
+Anwendungen der Krisenvorsorge und -reaktion oder 
+der Landbedeckungsklassifikation, bis hin zur 
+Unterwasserdatenerfassung und Unterstützung 
+des Gebäude- und Wohnungsregisters.
+Ausgewählte Ergebnisse werden in den folgenden
+Absätzen erläutert.
+Globaler Wandel, nachhaltige Entwicklung
+unseres Lebensraums, Bewältigung von
+Krisensituationen und Minderung der Risiken, die von 
+natürlichen, technologischen und kriminellen 
+Gefahren ausgehen, stellen uns vor große
+Herausforderungen. Die Beobachtung der Erde
+mittels Fernerkundungssensoren hilft uns, diese 
+Aufgaben zu meistern. Sie ist heute für Politik, 
+Wirtschaft und Gesellschaft von strategischer 
+und operativer Bedeutung.
+Bereits jetzt kommen in der Bundesverwaltung 
+Erdbeobachtungsdaten für
+unterschiedlichste Anwendungsfelder zum Einsatz (z. B. über die 
+Servicestelle Fernerkundung des BKG).
+Darüber hinaus zielt der IF-Bund auf die Erarbeitung 
+neuer oder ergänzender Informationsprodukte 
+für die Bundesverwaltung sowie den
+regelmäßigen Transfer von wissenschaftlicher
+Fernerkundungsexpertise in die Verwaltung. Somit können 
+die wachsenden Anforderungen an Schnelligkeit, 
+Aktualität und Qualität miteinander verbunden 
+werden. Der Rahmenvertrag IF-Bund ist für alle 
+Bundesbehörden offen. Daraus sind
+Innovationsprojekte entstanden, die eine nutzungsorientierte 
+Entwicklung mit unterschiedlichen
+Schwerpunkten, z. B. aus den Bereichen Sicherheit, Statistik 
+und Planung, beinhalten und nun anhand von 
+drei Beispielen exemplarisch vorgestellt werden.
+Der Einsatz von Fernerkundungsverfahren 
+für behördliche Aufgaben nimmt stetig zu, 
+hat aber noch großes Potenzial.
+Beispiel 1: „Fernerkundungsdaten und
+Künstliche Intelligenz für den Registerzensus“: Im 
+Zuge der Konzeption des Registerzensus prüft das 
+Statistische Bundesamt (StBA), inwieweit neue 
+digitale Daten künftig die Ermittlung und
+Qualitätssicherung der Zensusergebnisse ergänzen 
+können. Im Zensus werden Angaben zu
+Gebäuden mit Wohnraum, bewohnten behelfsmäßigen 
+Unterkünften und den darin befindlichen
+Wohnungen erhoben. Diese Informationen müssen 
+geprüft und qualitätsgesichert werden. Ziel ist 
+es, dafür Verfahren zu nutzen, mit denen Daten 
+weitgehend automatisiert aufbereitet und
+manuelle Arbeiten reduziert werden können. Im
+bisherigen amtlichen Gebäudemodell sind per
+definitionem keine kleinen Nebengebäude wie z. B. 
+Gartenhäuser, Wohncontainer o. ä. vorgesehen. 
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 14 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+15
+Allerdings muss die Statistik sicherstellen, auch 
+Angaben zu solchen Gebäuden zu erheben,
+sofern diese relevant für den Zensus sind. Im
+Projekt „Sat4GWR_IF-Bund – Fernerkundung & KI 
+für den Registerzensus“ (Projektlaufzeit 10/2021–
+12/2024) sollen mittels automatisierter KI-
+Verfahren Gebäude und Unterkünfte aus
+Satelliten- bzw. Luftbildern erfasst und anschließend 
+bestimmte Gebäudemerkmale abgeleitet werden.
+Der zu erwartende Mehrwert der
+Fernerkundungsergebnisse für den Registerzensus besteht 
+darin, die bislang avisierten Prozesse bei der
+Ermittlung der Gebäude- und Wohnungsdaten zu 
+ergänzen und damit die Qualität der
+Gebäudedaten im Registerzensus entscheidend zu
+verbessern. Durch die im Projekt entwickelten
+Verfahren wird die Qualitätssicherung der Daten 
+unterstützt, die perspektivisch aus einem noch 
+aufzubauenden Gebäude- und
+Wohnungsregister (GWR) gewonnen werden. Abbildung 5
+visualisiert Teilergebnisse des IF-Bund-Projekts 
+Sat4GWR, das versucht, für das StBA Gebäude 
+mittels KI deutschlandweit zu detektieren und zu 
+charakterisieren. Dargestellt ist ein Luftbild, das 
+von verschiedenen klassifizierten Gebäudetypen 
+farblich überlagert wird. 
+Beispiel 2: „Neuer Ansatz zur Abgrenzung
+zwischen Stadt und Land in Deutschland“: Bislang 
+werden Siedlungsstrukturen in Deutschland
+zumeist anhand von administrativen Einheiten wie 
+Gemeinden und Kreisen beschrieben und
+verglichen. Bei diesem Ansatz können z. B. Städte nur 
+bedingt von ihrem Umland abgegrenzt werden, da 
+die Grenzverläufe an die Kreis-/
+Gemeindegrenzen gebunden sind. In mehreren gemeinsamen 
+einjährigen Projekten haben Beteiligte vom
+Bundesinstitut für Bau-, Stadt- und Raumforschung 
+(BBSR) und dem Bundesinstitut für
+Bevölkerungsforschung (BiB) sowie dem Deutschen Zentrum 
+für Luft- und Raumfahrt (DLR) deshalb alternative 
+Ansätze untersucht. Anstelle von administrativen 
+Daten werden verschiedene Fernerkundungs- und 
+weitere Geodatensätze sowie Statistiken genutzt, 
+um konsistente Raumeinheiten zu erzeugen, mit 
+denen Siedlungsstrukturen räumlich
+differenzierter beschrieben werden können. 
+Zur Veranschaulichung zeigt Abbildung 6 links 
+eine übliche Einteilung in Stadt und Land auf 
+Basis der administrativen Einheit „Gemeinde“ 
+in Abhängigkeit von der Einwohnerzahl
+entweder größer (rot) oder kleiner (grün) als 5.000
+Einwohner. Auf der rechten Seite ist einer der
+alternativen Ansätze basierend auf Informationen 
+über die Gebäudedichte und -typen sowie
+Bevölkerungsdaten in einem 100 m × 100 m
+Raster abgebildet. Hier sind neben der Unterteilung 
+in Stadt und Land auch Übergangsbereiche und 
+Abbildung 5: Teilergebnisse des Projekts Sat4GWR.
+Einfamilien- und 
+Doppelhaus
+Reihenhaus und 
+Blockbrandbebauung
+Mehrfamilienhaus
+Gebäudekomplex und 
+Halle
+Sakralbau
+Nebengebäude
+Gebäudeklassifikation-
+Beispiel
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 15 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+16
+eine höhere räumliche Differenzierung
+möglich. Die Ergebnisse des Projekts tragen dazu bei, 
+dass gesellschaftliche Faktoren wie etwa
+Bevölkerungsveränderungen, Pendlerbeziehungen und 
+Suburbanisierung in einem bestimmten Raum 
+auf Grundlage dieser neuen Gebietsabgrenzung 
+präziser analysiert werden können.
+Beispiel 3: „KI-basierte Methoden zur Erstellung 
+des Landbedeckungsmodells (LBM-DE) und 
+Datenmanagementsystem (DMS)“: Alle drei
+Jahre wird die Landbedeckung/-nutzung
+deutschlandweit auf Basis von Satellitenbildern in einem 
+Landbedeckungsmodell (LBM-DE) durch das BKG 
+erfasst. Diese Datengrundlage wird z. B. durch das 
+Umweltbundesamt genutzt, um
+Umweltveränderungen wie den Verlust von Waldflächen
+systematisch zu beobachten. Die in diesem IF-Bund 
+Projekt (DatKI4BKG) entwickelten KI-Methoden 
+sollen die bisherige aufwendige Erstellung des 
+LBM-DE beschleunigen und u. a. auf
+unterschiedliche Satellitendaten anwendbar sein.
+Um große Mengen an Fernerkundungsdaten 
+nachhaltig analysieren und bereitstellen zu 
+können, ist ein entsprechendes Datenmanage-
+Abbildung 6: Teilergebnisse des Projekts 
+Fe4ErSSiGG.
+Abbildung 7: Teilergebnisse des Projekts DatKI4BKG.
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 16 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+17
+ment, z. B. mithilfe von sogenannten DataCubes, 
+notwendig. Hierdurch können beispiels weise 
+KI- Modelle auf die Bilddaten automatisiert
+zugreifen und diese analysieren. Abschließend 
+werden der entwickelte DMS-Prototyp und die 
+KI- Modelle gemeinsam getestet und an das BKG 
+übergeben. Abbildung 7 visualisiert
+sinnbildlich die gewünschte deutschlandweite Ableitung 
+des Landbedeckungsmodells LBM-DE aus
+Satellitendaten. Das Modell zeigt ein Deutschland- 
+Mosaik aus Satellitenbildern, das sukzessive 
+nach Süden hin mit dem LBM-DE überlagert 
+wird. Für einen kleinen Ausschnitt des
+Schweriner Sees wird deutlich, wie Landschaftselemente 
+in verschiedene Klassen zusammengefasst
+werden. Im Norden erkennbar ist das Satellitenbild 
+mit ca. 5 m Auflösung und im Süden – mit
+Überblendung – Ergebnisse einer Klassifikation
+mittels KI-Verfahren für das LBM-DE (z. B. rot:
+Bebauung; hellblau: Wasserfläche).
+Behördliche Nutzerinnen und Nutzer
+benötigen einen einfachen Zugang zu
+Fernerkundungsdaten mit unabhängiger und
+kompetenter Beratung über die verfügbaren Angebote 
+sowie Schulungen. Ein wichtiges Element ist 
+hierbei der zentrale Satellitendatenkauf sowie 
+die Beratung durch das BKG, den Dienstleister 
+für die gesamte Bundesverwaltung im Bereich 
+Geoinformation. Darüber hinaus können
+Forschungsergebnisse in passgenaue Lösungen 
+für Behörden über Rahmenverträge wie den 
+IF-Bund transferiert werden. Dieses
+ergänzende Element erleichtert es, die Potenziale
+chancenreicher Fernerkundungstechnologie in 
+Bundesbehörden zu heben und in die
+behördliche Praxis zu überführen.
+1: Reinosch, E., Backa, J., Adler, P., Deutscher, J., Eisnecker, P., Hoffmann, K., Langner, N., Puhm, M., Rüetschi, M., Straub, C., Waser, L. T., 
+Wiesehahn, J., Oehmichen, K. (2024): Detailed validation of large-scale Sentinel-2-based forest disturbance maps across Germany. Forestry: An 
+International Journal of Forest Research, 2024; cpae038, doi.org/10.1093/forestry/cpae038
+5. Waldschadenserkennung in Deutschland: 
+Innovative Erfassung und Überwachung mit 
+Sentinel-2-Satellitendaten
+Unsere Wälder leiden seit mehreren Jahren
+unter den zunehmenden Belastungen durch
+Stürme, extreme Dürre und die dadurch
+verursachte Borkenkäfer-Massenvermehrung. Besonders 
+gravierend waren die Waldschäden in den
+Jahren 2017 und 2018. Sie waren der Anlass, am 
+Thünen-Institut für Waldökosysteme ein
+innovatives, fernerkundungsbasiertes
+Erfassungssystem für Schadflächen zu entwickeln. Das 
+Projekt FNEWs (www.fnews-wald.de) zielt darauf 
+ab, Waldschäden effizient und präzise zu
+entdecken und zu überwachen. Das
+Monitoringsystem und die technische Infrastruktur wurden 
+durch ein internationales Projektkonsortium 
+aus den Bereichen Technologie, Fernerkundung, 
+Ökonomie und der forstlichen Forschung mit 
+Anwendungsbezug entwickelt und aufgebaut.
+Das Monitoringsystem umfasst die
+Datenvorprozessierung und eine Zeitreihenanalyse mit 
+Sentinel-2-Satellitenbilddaten und liefert als 
+Ergebnis Schadflächenkarten und -statistiken 
+zu abgestorbenen Waldflächen und
+Schadholzmengen für die vier farbig dargestellten
+Untersuchungsgebiete (Abbildung 8). Die Methodik 
+und das Verfahren wurden innerhalb dieser
+Untersuchungsgebiete entwickelt. Die Genauigkeit 
+und Aussagekraft der Ergebnisse wurden
+umfassend validiert1. Damit steht ein weitgehend 
+automatisiertes System bereit, welches durch 
+biotische und abiotische Schadereignisse
+entstandene, abgestorbene Waldflächen aus
+Satellitenbilddaten erkennt und ausweist. Das FNEWs-
+Jahresprodukt (Abbildung 9) und weitere 
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 17 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+18
+Projektergebnisse können über das Geoportal 
+des Thünen-Instituts abgerufen werden.2
+Aufgrund des dringenden Bedarfs an
+Informationen zu Waldschäden ist ein fortlaufendes
+flächendeckendes Waldschadensmonitoring
+unabdingbar. Anfang 2024 wurde das Thünen-Institut für 
+Waldökosysteme deshalb beauftragt, das
+erfolgreich getestete System bundesweit zu
+implementieren. Dieser Übergang in den operationellen 
+Einsatz bringt verschiedene Herausforderungen 
+mit sich. Die Umstellung der im Projekt auf
+Untersuchungsgebietsebene entwickelten Prozesse 
+und Algorithmen auf die Fläche Deutschlands
+erfordert softwaretechnische Anpassungen sowie 
+die Beschaffung und Aufbereitung der benötigten 
+Daten. Die bestehende IT-Struktur muss für die 
+deutlich gestiegenen Rechen- und
+Speicheranforderungen erweitert und für eine langfristige
+Nutzung umgebaut werden.
+2: atlas.thuenen.de/atlanten/waldatlas
+Abbildung 8: Untersuchungsgebiete des Projekts 
+FNEWs.
+Abbildung 9: Ausschnitt des FNEWs-Jahresproduktes am Huzenbacher See, hinterlegt mit einem 
+Luftbildausschnitt aus dem Jahr 2021.
+2018
+2019
+2020
+2021
+2022
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 18 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+19
+6. Möglichkeiten des Einsatzes von Künstlicher
+Intelligenz und Fernerkundungsmethoden
+in der Stadtentwicklung – ein Blick auf
+aktuelle Forschungsprojekte des Bundes
+Die öffentliche Verwaltung wird immer
+digitaler. Im Bereich der Raum- und
+Stadtplanung zeigt sich dies schon lange sehr deutlich 
+an den öffentlich zugänglichen
+Geoinformationssystemen. Zukünftig können auch
+digitale Potenzialflächenkataster ein weiteres 
+hilf reiches Instrument der Stadtentwicklung 
+sein, deren Bedeutung im Hinblick auf die 
+Frage, wie dem unverändert zunehmenden 
+Flächendruck begegnet werden kann, immer 
+mehr in den Fokus rückt.
+Im 5. Geo-Fortschrittsbericht von 2021 wurde 
+bereits über zahlreiche Beispiele für digitale
+Anwendungen und Entwicklungen auf Bundes- 
+und Landesebene informiert. Insbesondere in der 
+Stadtentwicklung und in der Stadtplanung ist die 
+Digitalisierung von großem Nutzen und der
+Gebrauch von Geoinformationssystemen weit
+verbreitet. Die vielfältigen Möglichkeiten und die 
+beständige Weiterentwicklung digitaler
+Anwendungen können gerade im Bereich des
+Planungsrechts nachhaltig genutzt werden. Dieser Bedarf 
+wird nicht zuletzt durch die Flächenkonkurrenz 
+zwischen Siedlungsbereichen und Freiflächen, 
+den mangelnden Wohnraum, die Auswirkungen 
+des Klimawandels auf die Umwelt und den
+Menschen selbst (wie etwa Starkregenereignisse,
+Dürre, gefährdete Biodiversität) und die
+Notwendigkeiten des Ausbaus der technischen Infrastruktur 
+noch verstärkt.
+Der Einsatz von Künstlicher Intelligenz und 
+von Fernerkundungsmethoden birgt für die 
+Stadtentwicklung große Potenziale und kann 
+diese langfristig und nachhaltig unterstützen. 
+Grenzen bestehen dennoch.
+Daher liegt es im Interesse des Bundes, die
+Verbreitung digitaler Anwendungen insbesondere in 
+den Kommunen zu fördern und diese sowohl in 
+der Stadtentwicklung als auch in der konkreten 
+Vorhabenplanung noch
+anwendungsfreundlicher und unterstützender zu gestalten. Hier liegt 
+ein Forschungsfeld des Bundesinstituts für Bau-, 
+Stadt- und Raumforschung (BBSR). Das BBSR
+leitet unter Begleitung des Bundesministeriums für 
+Wohnen, Stadtentwicklung und Bauwesen zwei 
+Forschungsprojekte zur Erstellung digitaler
+Flächenkataster. Ein Projekt konnte bereits
+abgeschlossen werden.
+Forschungsprojekt „Methodenstudie zum
+Monitoring von Potenzialflächen für Brachen, 
+Baulücken und Nachverdichtung in der
+Regionalstatistik und mit Methoden der
+Fernerkundung/KI“ [7/2023–11/2024]. Im Herbst 2023 
+wurde eine Methodenstudie zum Monitoring 
+von Potenzialflächen für Brachen, Baulücken 
+und Nachverdichtung in der Regionalstatistik 
+mit Methoden der Fernerkundung und KI auf 
+den Weg gebracht. Langfristiges Ziel ist, auf
+kommunaler Ebene ein luftbildgestütztes
+Baulandkataster für das Monitoring von Potenzialflächen 
+aufzubauen, mit dem sich brachliegende Flächen, 
+Baulücken und für die Nachverdichtung
+potenziell geeignete Flächen automatisiert erfassen 
+lassen. Diese Informationen sollen die Grundlage 
+für ein detailliertes Potenzialflächenkataster
+bilden. Hierfür wurden zunächst die bereits
+vorhandenen Angebote für die Erstellung von Katastern 
+untersucht und ausgewertet, und aufbauend auf 
+diesen Erkenntnissen wird aktuell erforscht und 
+ausgewertet, welche Möglichkeiten insbesondere 
+der voll automatisierte Einsatz von
+Fernerkundungsmethoden und KI zusätzlich bieten kann.
+Gegenwärtig werden Potenzialflächen
+überwiegend durch kommunale Mitarbeiterinnen 
+und Mitarbeiter vor Ort erhoben, etwa durch 
+die Nutzung der Geoinformationssysteme 
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 19 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+20
+(z. B. Aus wertung der Bebauungspläne und
+Luftbilder), den Abgleich mit Baugenehmigungen 
+und Ortsbegehungen. Ein standardisiertes
+Verfahren gibt es hierfür nicht. Elf Bundesländer 
+bieten ihren Kommunen (halbautomatisierte) 
+Anwendungen an, die den Aufbau von
+Potenzialkatastern erleichtern, darunter beispielsweise 
+Rheinland-Pfalz, Hessen, Niedersachsen und die 
+Stadtstaaten. Etwa ein Drittel der Kommunen 
+nutzt diese Angebote. Die Praxis zeigt dabei: Je 
+höher der Grad der technologischen
+Unterstützung ist und damit einhergehend eine
+Reduzierung des personellen Aufwands, desto höher ist 
+die Bereitschaft zum Aufbau und zur Pflege
+entsprechender Kataster. Eine Überprüfung der
+Flächenerkundung und Auswertung der Vorauswahl 
+bleibt jedoch bestehen, um fehlerhaft ermittelte 
+„Potenziale“ auszusortieren.
+Welche Möglichkeiten bietet also der Einsatz 
+von Fernerkundungsmethoden und KI
+darüber hinaus?
+Fernerkundungsmethoden liefern Luftbilder, 
+etwa als digitale Orthofotos (DOP) oder als
+Satellitenbilder. 
+Satellitenbilder stehen bundesweit, z. B. über
+Sentinel-2-Satelliten, kostenfrei zur Verfügung und 
+bieten den Vorteil, dass sie im Abstand weniger 
+Tage erneuert werden. Ein Nachteil ist jedoch die 
+geringe Auflösung der Aufnahmen, die zwar eine 
+Veränderung der Fläche erkennen lässt, aber keine 
+zuverlässigen Rückschlüsse auf die Art der
+Veränderung zulässt (Abbildung 10). Allerdings erhöhen 
+jahreszeitliche Vergleiche die Klassifikationsgüte. 
+DOP hingegen stehen detailscharf zur Verfügung 
+und ermöglichen daher eine sehr gute
+Beurteilung einer Fläche. Diese sind jedoch in der Regel 
+nicht kostenfrei verfügbar und können gerade 
+für finanzschwache Kommunen eine erhebliche 
+Belastung darstellen. Daher wird eine Befliegung 
+für DOP nur in größeren zeitlichen Abständen 
+in Auftrag gegeben. Einige Bundesländer
+stellen DOP über Geoportale hingegen kostenfrei 
+zur Verfügung, so dass Kommunen diese für ihre 
+Geoinformationssysteme nutzen können.
+Eine weitere Unterstützung in der Beurteilung 
+von Flächen und baulichen Nutzungen können 
+Schrägluftbilder oder aus Luftbild- oder
+Laserscanbefliegungen erzeugte 3D-Oberflächen-
+Abbildung 10: Gegenüberstellung der Luftbildqualitäten der DOP und der Sentinel-2-Satellitenbilder 
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 20 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+21
+modelle (z. B. 3D-Meshs) bieten, die
+dreidimensionale Strukturen anschaulich darstellen. 
+Insbesondere im Zusammenhang mit der Frage, 
+welches Maß der Bebauung zulässig sein kann, 
+sind solche Daten sehr hilfreich.
+Automatisierte KI-Verfahren verarbeiten große 
+Datenmengen wie etwa Luftbilder und können 
+lernen. Ergibt sich daraus auch eine Verbesserung 
+der Ergebnisse?
+Ja – aber nicht in dem Ausmaß, wie man es
+vielleicht erwarten könnte. 
+Das Luftbild in Abbildung 11 verdeutlicht dies. Es 
+zeigt einige Polygone, die von der KI als Brachen 
+klassifiziert wurden, korrekt an, allerdings auch 
+andere, die gar keine sind.
+Eine unterbleibende Überprüfung der
+automatisierten Ergebnisse würde zu einer größeren Zahl 
+von Fehleinträgen von Flächen im
+Potenzialregister führen, mit der Folge einer Fehlannahme 
+der Bebaubarkeit dieser Flächen. Daher sind eine 
+Überprüfung und Verbesserung der
+Klassifikation, etwa mit Referenzdaten, erforderlich. 
+Als Ergebnis des Forschungsprojekts lässt sich
+festhalten, dass automatisierte Verfahren eine
+deutliche Unterstützung und Arbeitsentlastung bei der 
+Erfassung von Potenzialen darstellen. Eine
+Endkontrolle der ermittelten Flächen durch die Kommune 
+ist jedoch auch beim Einsatz von KI weiterhin
+erforderlich, da das Ergebnis nicht in allen Fällen der 
+realen Nutzung/Nichtnutzung entspricht. 
+Das Forschungsprojekt wurde im November 2024 
+abgeschlossen. Weitere Informationen zu den 
+Ergebnissen und der Methodenbeschreibung 
+können über den folgenden Link abgerufen 
+werden: www.bbsr.bund.de/BBSR/DE/forschung/
+programme/exwost/jahr/2023/monitoring-
+vonpotenzialflaechen.
+Thematisch daran anknüpfend wird in einem 
+neuen Modellprojekt für Kommunen die
+Entwicklung von automatisierten Verfahren zum Aufbau 
+eines Baupotenzialregisters gefördert. Ziel ist u. a., 
+die dabei entwickelten Software-Lösungen
+bundesweit auch auf andere Kommunen übertragen 
+zu können.
+Modellprojekt „Baupotenzialregister“ [Laufzeit 
+1–12/2025]. Bei diesem Modellprojekt handelt es 
+sich um ein Parlamentsförderprogramm, welches 
+der Umsetzung einer Vereinbarung des
+Koalitionsvertrages 2021 dient, Kommunen bei der
+Einführung von Potenzialflächenregistern zu
+unterstützen. Der Förderaufruf wurde im August 2024 
+gestartet. Aus 19 Interessenbekundungen wurden 
+im Dezember 2024 acht Kommunen mit
+unterschiedlichen Projektideen ausgewählt.
+Das Projekt richtet sich an Kommunen mit
+erhöhtem Wohnraumbedarf. Diese sollen die finanzielle 
+Unterstützung erhalten, ein digitales
+Baupotenzialregister nach ihren individuellen
+Zielsetzungen zu entwickeln, das Baulücken, Brachflächen 
+und sonstige Potenziale weitgehend
+automatisiert erfasst, einer stadtplanerischen Bewertung 
+Abbildung 11: Beispielhafte Darstellung der KI-generierten
+Klassifizierung von Brachflächen.
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 21 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+22
+zugänglich macht und mit Informationen zu
+Bebauungsmöglichkeiten (etwa aus einem
+Bebauungsplan) verknüpft. Der Inhalt eines solchen
+Registers sollte, soweit rechtlich möglich, auch für 
+die Öffentlichkeit zugänglich sein.  
+Über ein einfaches Nutzungsrecht für den Bund 
+wird gewährleistet, dass die entwickelte Software 
+auch anderen interessierten Kommunen zur
+Verfügung gestellt werden kann.
+Ziel beider Projekte ist es, Flächenpotenziale im 
+Innenbereich automatisiert erfassen und mit den 
+planungsrechtlichen Vorgaben in einem digitalen 
+Kataster verknüpfen zu können. Damit sollen
+aktuelle Informationen über die vorhandenen
+Bebauungsmöglichkeiten verfügbar gemacht und
+Bedarfe vorrangig ohne Inanspruchnahme von Flächen 
+außerhalb der Ortslagen realisiert werden.
+Die bisherigen Ergebnisse des
+Forschungsprojekts zeigen, dass eine voll automatisierte
+Flächenprüfung und -erfassung nicht zu 100 % 
+korrekte Ergebnisse liefern kann. Der Bereich 
+der KI und der Fernerkundung entwickelt sich 
+jedoch ständig weiter, und das gerade
+gestartete Modellprojekt soll es ermöglichen, in dieses 
+Feld tiefer einzusteigen. „Passgenaue
+Lösungen“ für Kommunen sollen so weit wie
+möglich realisiert werden, um sie dann als Open-
+Source-Lösung weiterverbreiten zu können.
+Durch diesen Fokus auf ungenutzte Flächen 
+im Siedlungsbereich werden Potenziale
+vergleichbar ermittelt und transparent gemacht. 
+Das spart den Kommunen Kosten – sowohl 
+für ausgleichpflichtige Planungen „auf der 
+grünen Wiese“ als auch für die Schaffung 
+neuer Infrastruktur durch die Nutzung
+bereits bestehender. In der Regel senkt das auch 
+die Baukosten für Vorhabenträger und dient 
+nicht zuletzt der Einhaltung des 30-ha-Ziels 
+und dem Schutz der Umwelt.
+7. Modellprojekte Smart Cities – Geobasierte
+Dateninfrastrukturen und digitale
+Anwendungen in der integrierten
+Stadtentwicklung
+Das Förderprogramm „Modellprojekte Smart
+Cities“ unterstützt seit 2019 über 70 Städte, Kreise, 
+Gemeinden und interkommunale
+Kooperationen, die Digitalisierung in Verfahren und
+kommunalen Handlungsfeldern voranzutreiben. 
+Auch wenn dies nicht explizit Fördergegenstand 
+des Programms ist, nimmt die Ausweitung der 
+Erhebung, Haltung und Verarbeitung
+georeferenzierter Daten in vielen der Modellprojekte 
+eine zentrale Rolle ein. Als zentrale
+Anwendungen erweisen sich in diesem Zusammenhang der 
+Aufbau und Ausbau georeferenzierter
+Sensordaten sowie digitaler urbaner Datenplattformen 
+bzw. Zwillinge.
+Neben vielen anderen Modellprojekten
+verfolgt z. B. die Stadt Freiburg das Ziel, über 
+den Aufbau eines digitalen Datenraums (DA-
+TEN:RAUM:FREIBURG) sowohl eine
+fachbereichsübergreifende Dateninfrastruktur für die 
+Kommune aufzubauen als auch Daten u. a. des 
+lokalen Geodatenportals für Bürgerinnen und 
+Bürger, Unternehmen sowie
+Wissenschaftlerinnen und Wissenschaftler zugänglich zu machen. 
+Ein im Aufbau befindlicher urbaner Digitaler 
+Zwilling unterstützt die Stadt Regensburg darin, 
+das ambitionierte Ziel einer stadtweiten
+Klimaneutralität bis zum Jahr 2035 zu erreichen.
+Hierfür befindet sich ein geodatenbasiertes
+Stadtmodell im Aufbau, das u. a. unterschiedliche 
+Energiebedarfe auf der Basis von
+Gebäudetypologien und weiteren Eingabeparametern
+objektscharf abbildet. Im Rahmen der strategischen 
+Wärmeplanung der Stadt bildet das
+Gebäudemodell dabei potenziell die Grundlage für eine 
+Kopplung mit einem komplementären Modell 
+der leitungsgebundenen Wärmeinfrastruktur. 
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 22 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+23
+Perspektivisch könnten hiermit sowohl die
+Auswirkungen umfassender energetischer
+Modernisierungen des Gebäudebestandes der Stadt als 
+auch unterschiedliche Deckungsgrade des
+künftigen Energiebedarfs aus erneuerbaren Energien 
+simuliert werden. Ausgehend von einem
+Pilotquartier wird das Modell in späteren Stufen auf 
+die gesamte Stadt ausgeweitet und umfasst dann 
+zusätzliche Bausteine wie z. B. ein 3D-
+Solarpotenzialkataster und Geothermiedaten.
+Über den Bereich der energetischen Sanierung 
+von Bestandsquartieren hinaus sind
+georeferenzierte urbane Digitale Zwillinge, u. a. in den 
+Handlungsfeldern Energieversorgung (z. B.
+Verbandsgemeinde Fuchstal),
+Klimafolgenanpassung (z. B. Stadt Wuppertal, Landkreis Hof), 
+lokale Wirtschaftsförderung (z. B. Stadt Halle) 
+und städtischer Verkehr (z. B. Stadt Mannheim), 
+in der Entwicklung.
+Abbildung 12: Prototyp des Sanierungszwillings der 
+Stadt Regensburg.
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 23 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+24
+8. BIM Deutschland –
+Digitales Planen und BIM
+Building Information Modeling (BIM)
+bezeichnet eine kooperative Arbeitsmethodik, mit der die 
+relevanten Informationen und Daten eines
+Bauwerks auf der Grundlage digitaler Modelle
+konsistent erfasst, verwaltet und in einer transparenten 
+Kommunikation zwischen den Beteiligten
+ausgetauscht oder für die weitere Bearbeitung
+übergeben werden. Ein wesentlicher Vorteil der BIM-
+Methode ist die digitale Datenverfügbarkeit über 
+alle Planungs-, Bau- und Bewirtschaftungsphasen 
+eines Bauwerks hinweg. Die Betrachtung des
+gesamten Lebenszyklus steht dabei im Mittelpunkt. 
+BIM trägt dazu bei, dass es bei der Planung, dem 
+Bau, Betrieb sowie dem Um-/Rückbau zu einer 
+enormen Verbesserung der Ressourcenplanung 
+und -verwendung kommt. Bereits in der
+Planungsphase kann festgelegt werden, welche
+Ressourcen zum Einsatz kommen und beim
+Rückbau recycelbar sind. Die Ökobilanzierung ist 
+leichter umsetzbar, die CO2-Bilanz schneller
+errechnet. Die Digitalisierung kann so einen
+wesentlichen Beitrag zur Erreichung der
+Klimaziele im Bausektor leisten und einen Mehrwert für 
+unsere gebaute Umwelt schaffen.
+Die Zusammenarbeit in der Methodik BIM
+erfordert von den Beteiligten ein gemeinsames
+Verständnis, welche Informationen verfügbar sind 
+und wie diese zwischen den beteiligten
+Akteuren ausgetauscht werden. Um die
+Kompatibilität der Informationen zu gewährleisten, müssen 
+alle Beteiligten das gleiche Vokabular
+verwenden. Dadurch wird sichergestellt, dass die
+ausgetauschten Informationen direkt für die korrekte 
+Ausführung einer spezifizierten Aufgabe
+verwendet werden können.
+BIM trägt zu einer Erhöhung der Termin-,
+Qualitäts- und Kostentreue bei.
+Für eine Reihe von Prozessen im Lebenszyklus 
+eines Bauwerks fördert die kooperative
+Arbeitsmethode auf Basis von Daten aus den Bereichen 
+BIM und der Geodäsie enorme Potenziale.
+Beispielhaft zu nennen ist hier die Bauvermessung 
+sowohl planungsbegleitend als auch während der 
+Bauausführung, die bei einer kooperativen
+Arbeitsmethode Effizienzsteigerungen ermöglicht. 
+Die Integration von BIM-Daten eines Bauwerks 
+in Stadtmodelle ebnet den Weg für noch
+detailliertere Simulationen für smarte Städte und
+Regionen. Daher muss auch in Zukunft die
+Verknüpfung der digitalen Arbeitsmethoden stärker in 
+den Fokus gerückt werden. Der Runde Tisch GIS 
+e. V. unterstützt dies z. B. mit der 2024
+aktualisierten Auflage des „Leitfaden Geodäsie und BIM“.
+Die Initiative BIM Deutschland unterstützt ein 
+einheitliches und abgestimmtes Vorgehen bei der 
+BIM-Implementierung im Bundesbau sowie der 
+gesamten Wertschöpfungskette Bau. Die
+Initiative wird vom Bundesministerium für Digitales 
+und Verkehr (BMDV), dem Bundesministerium 
+für Wohnen, Stadtentwicklung und Bauwesen 
+(BMWSB) und dem Bundesministerium der
+Verteidigung (BMVg seit 2024) getragen. Seit dem 
+Start der Initiative im Jahr 2020 werden das
+Informations- und Beratungsangebot, die
+Bereitstellung von Services und die
+Öffentlichkeitsarbeit kontinuierlich ausgebaut. 
+Ein Schwerpunkt der Arbeit von BIM
+Deutschland ist die Entwicklung und Bereitstellung des 
+BIM-Portals des Bundes, das im Oktober 2022 von 
+der Bundesbauministerin und dem
+Bundesverkehrsminister mit dem ersten Modul
+„Merkmale“ öffentlich freigeschaltet wurde. Im Jahr 2024 
+wurde dann das Modul „AIA“
+(Auftraggeberinformationsanforderung/
+Austauschinformationsanforderungen) veröffentlicht. Das BIM-Portal des 
+Bundes ist ein Leuchtturmprojekt der
+Digitalstrategie Deutschland. Die Entwicklung weiterer 
+Funktionalitäten des BIM-Portals ist geplant.
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 24 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+25
+Damit unterstützt das BIM-Portal öffentliche 
+Auftraggeber bei der BIM-gerechten
+Definition ihres Informationsbedarfs bei BIM-
+Projekten sowie deren Auftragnehmer bei der
+qualitätsgesicherten Übermittlung entsprechender 
+Informationsmodelle. Durch die Verwendung 
+von abgestimmten Informationsanforderungen 
+erhalten Auftragnehmer eindeutige und
+konsistente Leistungsbeschreibungen. Der
+Informationsbedarf umfasst insbesondere Angaben 
+darüber, wer, wann, in welchem
+Detaillierungsgrad und in welchem Format die
+angeforderten Daten zu liefern hat. Die Informationen im 
+BIM-Portal stehen allen Marktteilnehmenden 
+zur Verfügung. 
+Parallel zur Entwicklung des BIM-Portals werden 
+nutzerspezifische Informationen und
+Beratungsangebote für öffentliche Auftraggeber
+bereitgestellt. In regelmäßigen Online-Fachdialogen
+können sich die Akteure im Bauwesen austauschen 
+und vernetzen und so Synergieeffekte in ihrer 
+Projektarbeit erzielen. In diesem Rahmen sind 
+auch Veranstaltungen zum Thema BIM in der 
+Geotechnik durchgeführt worden bzw. in
+Planung. BIM Deutschland begleitet und fördert die 
+Standardisierung und Normung auf nationaler 
+und internationaler Ebene.
+Ein Beirat, der sich aus Vertreterinnen und
+Vertretern verschiedener Bereiche des Bauwesens, 
+der Forschung, Bauverwaltungen und anderen 
+relevanten Akteuren zusammensetzt, übernimmt 
+eine beratende Funktion bei der fachlich-
+strategischen Ausrichtung von BIM Deutschland. Aus 
+allen Bereichen der Wertschöpfungskette Bau
+informiert er über die (technischen) Entwicklungen 
+und weist auf relevante und neue
+Handlungsfelder hin. Der Beirat ist damit der Impulsgeber und 
+zeigt die Potenziale der Digitalisierung auf,
+insbesondere der Methode BIM. Darüber hinaus gibt 
+er Hinweise zu Handlungsnotwendigkeiten aus 
+Sicht der Praxis. 
+Über die Etablierung von offenen und 
+harmonisierten Standards für den 
+Datenaustausch unterstützt BIM Deutschland 
+neben der Einführung und Anwendung von 
+BIM in der Wertschöpfungskette Bau auch die 
+Verfügbarkeit digitaler Daten mit Blick auf das 
+Zusammenwirken von BIM, GIS 
+(Geoinformationssystem) und Smart Cities. 
+9. Digitale Geosysteme
+Mit dem Voranschreiten der Energiewende 
+gewinnen digitale Geosysteme für die
+nachhaltige Nutzung des unterirdischen Raumes 
+zunehmend an Bedeutung, beispielsweise im 
+Bereich der geothermischen
+Energiegewinnung oder der Speicherung von
+Energieträgern im geologischen Untergrund.
+Um die in unterirdischen Geosystemen
+ablaufenden Reaktionen besser verstehen und
+bewerten zu können, ist eine genauere Kenntnis 
+des Aufbaus erforderlich, die nur durch
+Tiefbohrungen und aufwendige geophysikalische 
+Erkundungen gewonnen werden kann. Diese 
+Untersuchungen sind kostspielig und liefern 
+zumeist örtlich begrenzte Informationen.
+Numerische Modellierungen unterirdischer
+Geosysteme stellen hierzu eine vergleichsweise 
+kostengünstige und standortunabhängigere
+Alternative dar. Gleichzeitig ermöglichen digitale 
+Modelle, die im geologischen Untergrund
+ablaufenden Prozesse abzuschätzen.
+Abbildung 13: Logo der Initiative BIM Deutschland.
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 25 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+26
+Um den Digitalisierungsprozess in den
+Geowissenschaften zu beschleunigen, hat das
+Bundesministerium für Bildung und Forschung (BMBF) 
+daher die Förderinitiative „Digitale Geosysteme: 
+Virtuelle Methoden und digitale Werkzeuge für 
+geowissenschaftliche Anwendungen“ entwickelt. 
+In den ab 2024 laufenden Forschungsprojekten 
+wird über einen Zeitraum von drei Jahren eine 
+neue Generation numerischer
+Simulationswerkzeuge entwickelt sowie bestehende Werkzeuge 
+verknüpft und erweitert. Mit der BMBF-
+Förderung werden Grundlagen geschaffen, deren
+Anwendungspotenzial in nahezu allen Bereichen 
+der geotechnischen Untergrundnutzung liegt. 
+Damit leistet dieser Themenschwerpunkt einen 
+wichtigen Beitrag zur Umsetzung der
+Energiewende im Untergrund.
+Die Projekte bearbeiten ein breites Spektrum von 
+Forschungsansätzen, welche von der
+Weiterentwicklung und Verbesserung von Arbeitsabläufen 
+bis zur Erstellung sogenannter digitaler
+Zwillinge für verschiedene Anwendungen reichen. Ein 
+Anwendungsbereich ist die Tiefengeothermie: 
+Neue digitale Werkzeuge sollen helfen, die
+Ausbreitung von Rissen und möglichen seismischen 
+Folgeereignissen zu überwachen, um deutlich 
+mehr Planungssicherheit zu erzielen. Ferner soll 
+ein virtuelles Untergrundlabor erstellt werden, 
+um das Fündigkeitsrisiko (Risiko, ein
+geothermisches Reservoir mit einer oder mehreren
+Bohrungen in nicht ausreichender Quantität oder 
+Qualität zu erschließen) sowie die
+Explorationskosten von Geothermieprojekten zu verringern. 
+Ein weiteres Anwendungsfeld ist der Einsatz von 
+Methoden der Künstlichen Intelligenz sowie die 
+Entwicklung digitaler Zwillinge zur
+Überwachung und Bewirtschaftung bergbaulicher
+Hohlräume. Hierfür werden numerische Werkzeuge 
+zur Visualisierung geotechnischer Eingriffe in 
+den Untergrund und zum Monitoring
+gefluteter Bergwerksbereiche erstellt. Die
+Bereitstellung kombinierbarer numerischer Instrumente 
+(Workbench) und die Entwicklung
+automatisierter Prüfabläufe zur Qualitätssicherung
+geowissenschaftlicher Prozesssimulationen
+(Benchmarking) bilden weitere Arbeitsschwerpunkte. 
+Außerdem ist die Entwicklung einer digital
+gestützten Trassenplanung für unterirdische
+Energieinfrastrukturen vorgesehen.
+Digitale Geosysteme leisten einen wichtigen 
+Beitrag zur Umsetzung der Energiewende.
+Zur Evaluierung der neu entwickelten Modelle 
+und Werkzeuge werden neu erfasste Messwerte 
+und vorhandene Daten aus nationalen und
+internationalen Forschungsarbeiten zu Testzwecken 
+genutzt. Aufgrund der quelloffenen
+Programmierung und kostenfreien Bereitstellung über
+Repositorien lassen sich die Instrumente für individuelle 
+Anwendungen adaptieren. Ein Großteil der
+beteiligten Community ist zudem aktiv in den Ausbau 
+nationaler Geodateninfrastrukturen eingebunden.
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 26 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+27
+Unsere Welt ist derzeit von vielfältigen, komplexen 
+Krisen geprägt. Seit dem russischen Angriff auf die 
+Ukraine herrscht wieder Krieg in Europa. Die 2022 
+ausgerufene Zeitenwende verdeutlicht die
+Dringlichkeit, mit der die Politik daran arbeitet, den
+Zustand der Bundeswehr zu verbessern, um
+Deutschland im Ernstfall verteidigen zu können. Auch der 
+fortschreitende Klimawandel und die damit
+einhergehende Zunahme von
+Extremwetterereignissen stellen potenzielle Sicherheitsrisiken für die 
+Bevölkerung dar, wie die Flutkatastrophe im
+Ahrtal 2021 auf tragische Weise gezeigt hat.
+Ob kriegerische Auseinandersetzungen,
+Extremwetterereignisse oder andere unvorhersehbare 
+Krisen – die Fähigkeit, solche Ereignisse
+frühzeitig zu erkennen und sich darauf vorzubereiten, ist 
+essenziell für den Schutz der Bevölkerung. Hier 
+spielen Geoinformationen eine zentrale Rolle: Sie 
+helfen, die Welt in ihren räumlichen
+Zusammenhängen besser zu verstehen, Risiken zu bewerten 
+und Maßnahmen zu planen. 
+Krisen beschränken sich in der Regel nicht auf 
+einzelne administrative Einheiten wie z. B.
+Bundesländer; daher sind bundesweit einheitliche 
+Datensätze notwendig, um
+länderübergreifende Szenarien realitätsnah abzubilden und so eine 
+optimale Vorbereitung sicherzustellen. Mit dem 
+Digitalen Zwilling Deutschland wird u. a. der 
+Bundeswehr zukünftig erstmals ein bundesweit 
+einheitlicher Datensatz als Grundlage für
+Planungen und Simulationen zur Verfügung stehen. 
+Um die räumlichen Auswirkungen von
+Starkregenereignissen zukünftig besser einschätzen 
+und rechtzeitig Schutzmaßnahmen ergreifen zu 
+können, arbeitet das Bundesamt für Kartographie 
+und Geodäsie (BKG) derzeit an einer
+einheitlichen und flächendeckenden Zusammenstellung 
+von Hinweiskarten zu Starkregengefahren für 
+Deutschland.
+Mit validen und aktuellen Geoinformationen 
+können die Herausforderungen unserer Zeit
+gemeistert werden – von sicherheitspolitischen
+Planungen bis hin zur Bewältigung der Folgen des 
+Klimawandels.
+1. Die Bedeutung des Digitalen Zwillings
+Deutschland (DigiZ-DE) des BKG für die
+Bundeswehr
+Die Verantwortung für Geobasisdaten liegt in 
+Deutschland bei den Bundesländern.
+Unterschiedliche Verfahren zur Geodatenerhebung 
+und unterschiedliche Grundlagendaten führen 
+zu Inkonsistenzen in den Geodaten und zu einem 
+heterogenen bundesweiten Datensatz. Mit dem 
+Digitalen Zwilling Deutschland (DigiZ-DE) des 
+Bundesamts für Kartographie und Geodäsie (BKG) 
+wird ab 2027 erstmals ein bundesweit
+einheitlicher Datensatz mit einheitlichen Erfassungs- und 
+Qualitätsmerkmalen zur Verfügung stehen.
+Nach einem erfolgreichen Test in der
+Metropolregion Hamburg arbeitet das BKG derzeit an der 
+Sicherheit 
+und Krisen
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 27 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+28
+Erstellung des DigiZ-DE, dessen Basis ein
+hochpräzises 3D-Modell bilden wird (vgl. Bericht
+Seite 7). Für den Test wurde die Metropolregion 
+Hamburg bewusst gewählt, weil sie neben der 
+Stadt Hamburg auch Teile von Niedersachsen, 
+Schleswig-Holstein und Mecklenburg-
+Vorpommern enthält und sich somit auch
+grenzüberschreitende Fragestellungen bearbeiten lassen. 
+Ein bundesweit einheitlicher Datensatz
+ermöglicht Planungen und Simulationen über 
+die Grenzen der Bundesländer hinweg.
+Ziel des Projekts DigiZ-DE ist es nun, eine
+bundeseinheitliche Analyse- und Simulationsplattform 
+als kontinuierliche Dienstleistung für die gesamte 
+Bundesverwaltung anzubieten. Dazu soll der
+DigiZ-DE ein intelligentes, räumliches, digitales und 
+skalierbares Abbild des Bundesgebietes enthalten 
+und es Behörden ermöglichen, Prozesse
+unterschiedlichster Art zu analysieren, zu simulieren 
+und zu visualisieren. Grundlage wird ein
+redaktionell gepflegtes Datenangebot sein, das Zugang 
+zu relevanten Geoinformationen für Deutschland 
+bietet. Dieses Datenangebot wird um ein aus einer 
+LiDAR (Light Detection and Ranging)-Befliegung 
+gewonnenes skalierbares Abbild von Deutschland 
+erweitert, das neben einer 3D-Punktwolke auch 
+daraus abgeleitete Objekte, wie z. B. Einzelbäume 
+oder Gebäudegeometrien enthält. 
+Das Zentrum für Geoinformationswesen der
+Bundeswehr (ZGeoBw) ist seit Beginn als Beobachter 
+am Projekt Digitaler Zwilling Deutschland
+(DigiZ-DE) beteiligt, um die militärischen und
+technischen Nutzungsmöglichkeiten des DigiZ-DE für 
+die Bundeswehr zu identifizieren und mögliche 
+Anwendungsfälle zu eruieren.
+Aufgrund der aktuellen politischen Lage und der 
+damit einhergehenden Refokussierung auf die 
+Landes- und Bündnisverteidigung (LV/BV) sieht 
+sich auch die Bundeswehr mit neuen
+Aufgabenschwerpunkten konfrontiert. Aus Sicht der
+Bundeswehr bietet der DigiZ-DE die Möglichkeit, die 
+bereitgestellten Daten mit militärisch relevanten 
+Informationen anzureichern und so eigene
+militärische digitale Zwillinge aufzubauen – mit großem 
+Potenzial für die LV/BV. 
+Einen deutlichen Mehrwert bietet der DigiZ-DE 
+als Planungsgrundlage für die nationale
+territoriale Verteidigung im Spannungs- und
+Verteidigungsfall ebenso wie für die Amts- und
+Katastrophenhilfe. Mit seinem digitalen Abbild des 
+Bundesgebietes ermöglicht der DigiZ-DE,
+strategische und operative Planungen in einem
+virtuellen Abbild der realen Welt durchzuführen.
+Insbesondere im Hinblick auf die Aufmarschführung 
+nationaler Streitkräfte sowie der neuen
+Aufgaben Deutschlands als Drehscheibe für die
+Verlegung alliierter Truppen (Drehscheibe DEU) kann 
+der DigiZ-DE künftig eine essenzielle
+Planungsgrundlage darstellen. 
+Für die Verteidigung Deutschlands ist ein stets 
+aktuelles bundesweites Lagebild unverzichtbar. 
+Vor dem Hintergrund der LV/BV und der
+Rolle Deutschlands als Drehscheibe DEU wächst 
+auch der Bedarf an aktuellen, präzisen
+Verkehrsinfrastrukturdaten. Dazu wird im Rahmen der 
+GeoInfo-Datenbasis Bundeswehr ein
+Verkehrsinfrastrukturdatenbestand aufgebaut, bei dem 
+Bestandsdaten ergänzt und verdichtet werden.
+Der DigiZ­DE bildet eine unverzichtbare
+Planungs­ und Simulationsdatenbasis für die 
+Bundeswehr.
+Durch die Abbildung der realen Welt und die 
+Überlagerung mit militärischen
+Zusatzinformationen stellt der DigiZ-DE, insbesondere vor dem 
+Hintergrund der Sicherstellung der
+Drehscheibe DEU, für die Bundeswehr eine
+unverzichtbare Simulationsdatenbasis dar. So können die 
+vorhandenen Bestandsdaten des militärischen 
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 28 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+29
+Marschwegenetzes (z. B. Brückenzustandsdaten) 
+bundes- und bundeswehrweit einheitlich
+eingepflegt und aktualisiert werden – nicht nur
+ländersondern auch teilstreitkraftübergreifend. Ergänzt 
+durch Logistikdaten entsteht eine umfassende 
+Planungsgrundlage für Truppenbewegungen.
+Diese Fähigkeit schafft Informationsvorteile und
+gewinnt aufgrund der politischen Lage an Relevanz.
+Für den Bereich Heimatschutz und
+Nationale Territoriale Verteidigung bieten militärische 
+Digitale Zwillinge die Möglichkeit der
+Identifikation und des Monitorings kritischer bzw.
+verteidigungswichtiger Infrastruktur.
+Insbesondere im urbanen Gelände bietet die Kombination 
+aus hochaufgelösten Daten und ergänzenden 
+Informationen einen großen Mehrwert für die 
+Operationsplanung: Straßen, Flughäfen, Häfen, 
+Bahnstrecken und S- und U-Bahn-Netze können 
+genauso gut abgebildet und überwacht werden 
+wie Stromtrassen, Kanalisationsnetze,
+Atomkraftwerke und Staudämme.
+Diese Daten könnten mit weiteren
+hochaktuellen Informationen ergänzt werden. Zur
+Datenverdichtung stehen dem ZGeoBw künftig
+luftgestützte Sensoren (drohnengebunden) sowie 
+fahrzeuggebundene Sensoren zur Verfügung. 
+Auch Daten und Informationen anderer
+Teilstreitkräfte können problemlos in das System 
+eingepflegt und verarbeitet werden.
+Für die Unterstützung im Katastrophenfall (z. B. 
+Naturkatastrophen, Industrieunfälle oder
+Anschläge auf die Infrastruktur) können die Daten 
+des DigiZ-DE mit Zahlen des
+Einwohnermeldeamts verschnitten werden. So stehen nicht nur 
+Karten der entsprechenden Gebiete und
+Infrastrukturen zur Verfügung, sondern auch
+Informationen über die Anzahl der betroffenen 
+Personen und damit der benötigten Rettungs-, 
+Transport- und medizinischen Kapazitäten. Die 
+Zusammenarbeit zwischen Behörden und
+Institutionen, aber auch das Zusammenspiel
+innerhalb der Bundeswehr wird durch die
+einheitliche Datengrundlage deutlich vereinfacht. Hätte 
+der digitale Zwilling im Juli 2021 schon zur
+Verfügung gestanden, so hätte er sein volles
+Leistungsspektrum bei der Flutkatastrophe im
+Ahrtal unter Beweis stellen können. Dort wurden 
+unmittelbar nach der Überschwemmung durch 
+die Bundeswehr Geoinformationen bereitgestellt 
+Abbildung 14: Drehscheibe DEU – Militärkonvoi auf einer deutschen Autobahn.
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 29 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+30
+sowie Personal und Gerät zur Hilfeleistung
+eingesetzt. Unter anderem haben Luftfahrzeuge 
+der Bundeswehr das Ahrtal beflogen und
+hochauflösende Luftbilder erstellt, die anschließend 
+auch den zivilen Rettungs- und
+Bergungskräften zur Verfügung gestellt wurden. Mit diesen 
+hochaktuellen Daten wäre es möglich gewesen, 
+einen digitalen Zwilling anzureichern, sodass
+allen Kräften ein einheitliches Einsatz- und
+Lagebild als Basis für ein gemeinsames, koordiniertes 
+Handeln zur Verfügung gestanden hätte
+(„Operating off the same map“). 
+Der DigiZ-DE des BKG bietet der Bundeswehr 
+ab 2027 eine umfangreiche Datengrundlage 
+für auf den militärischen Bedarf
+zugeschnittene eigene digitale Zwillinge, die die Geo-
+Info-Datenbasis der Bundeswehr weiter
+verdichten, die Beurteilung von Geofaktoren 
+verbessern und somit eine qualitativ
+hochwertige Planungsgrundlage für
+unterschiedlichste militärische Anwendungsfälle im
+Rahmen der LV/BV bilden können. 
+Abbildung 15: Mosaik aus hochaufgelösten Luftbildaufnahmen des Ahrtals, aufgenommen von einem RECCE Tornado der Bundeswehr und 
+Detailaufnahmen von Altenburg bei Altenahr. 
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 30 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+31
+2. Starkregen-Gefahrenbereiche bundesweit
+präzise identifizieren: Die Hinweiskarte
+Starkregengefahren des BKG
+Infolge des Klimawandels treten extreme 
+Wetterereignisse wie Starkregen mit den
+jeweiligen Folgen nachweislich häufiger und 
+intensiver auf. Zum bestmöglichen Schutz 
+von Bevölkerung und Sachgütern ist eine 
+optimale Vorbereitung des Staates
+unerlässlich, auch auf Grundlage konkreter
+Gefahren- und Folgenabschätzungen. Hierbei
+haben Geodaten wie Geländehöhen, Bebauung 
+oder meteorologische Beobachtungsdaten 
+eine entscheidende Bedeutung. Vor dem 
+Hintergrund zunehmender Gefahren durch 
+Starkregen erstellt das Bundesamt für 
+Karto graphie und Geodäsie (BKG) in einem 
+großen Kooperationsprojekt mit weiteren 
+Bundesbehörden und den Ländern eine für 
+ganz Deutschland einheitliche
+Hinweiskarte über Starkregengefahren. Diese wird 
+bis Ende 2025 sukzessive fertiggestellt und 
+der Politik, der Verwaltung sowie der
+gesamten Bevölkerung als Open Data frei
+zugänglich gemacht.
+Aktuelle Studien zum Klimawandel in Europa 
+zeigen einen zunehmenden Trend in der
+Häufigkeit von Extremwetterereignissen. Neben
+längeren, warmen Trockenperioden zählen dazu auch 
+Unwetter mit Niederschlägen hoher Intensität, 
+die auch als Starkregen bezeichnet werden.
+Solche Starkregenereignisse sind in den vergangenen 
+Jahren vermehrt aufgetreten und haben zu
+schweren Schäden geführt. Beispielhaft sei hier das
+Ereignis im Ahrtal im Juli 2021 zu nennen, welches 
+in den nachfolgenden Jahren immer wieder als 
+Referenz für weiterführende Untersuchungen 
+und zur Prävention herangezogen wurde. Vor 
+dem Hintergrund der zunehmenden Häufigkeit 
+von Starkregenereignissen ist es für die
+Schadensminderung und den Bevölkerungsschutz von
+besonderer Bedeutung, die Hochwassergefährdung 
+durch Starkregen praxisnah abzuschätzen.
+Starkregenereignisse und ihre Folgen
+machen nicht an administrativen Grenzen halt. 
+Daher ist eine Karte mit vergleichbaren
+Gefahrenhinweisen für das gesamte
+Bundesgebiet unerlässlich.
+Bereits ab 2019 ließ das Bundesamt für
+Kartographie und Geodäsie (BKG) eine
+Hinweiskarte zu Starkregengefahren in Nordrhein-
+Westfalen erstellen. Für die Weiterführung des Projekts 
+„Starkregengefahrenhinweise“ werden seit
+Anfang 2023 für das BKG die Gebiete mehrerer
+Bundesländer bearbeitet. Für zehn Bundesländer, also 
+die Gebiete Berlin und Brandenburg, Sachsen und 
+Thüringen, Sachsen-Anhalt, Mecklenburg-
+Vorpommern, Bremen und Niedersachsen, Hamburg 
+und Schleswig-Holstein werden ausgehend von 
+den vorliegenden Daten qualifizierte
+Bewertungen der Überflutungsgefahren aus
+Starkregenereignissen erarbeitet. Die Veröffentlichung dieser 
+Bewertungen soll bis Ende 2024 erfolgen.
+Für das Landesgebiet Rheinland-Pfalz wurden 
+vergleichbare bestehende Daten durch das Land 
+bereitgestellt, die vom BKG in den bundesweiten 
+Dienst integriert werden. In Vorbereitung einer 
+dritten Projektphase sind die Abstimmungen 
+mit den Fachbehörden der Bundesländer
+Baden-Württemberg, Bayern, Hessen und Saarland 
+bereits weit fortgeschritten. Der Abschluss der 
+Kartierungen dieser Landesgebiete wird bis Ende 
+2025 angestrebt.
+Ziel dieses BKG-Projekts ist die einheitliche und 
+flächendeckende Erstellung bzw.
+Zusammenstellung von Hinweiskarten zu Starkregengefahren 
+für Deutschland. 
+Das derzeit laufende Projekt zur Erstellung 
+der Hinweiskarte wird partnerschaftlich durch 
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 31 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+32
+einen fachlichen Projektbeirat, bestehend aus 
+Länder-Fachbehörden mit Schwerpunkt in der 
+Wasserwirtschaft, begleitet. Dieser hat sich zu 
+Projektbeginn aus dem Kreis der Bund/Länder-
+Arbeitsgemeinschaft Wasser (LAWA) konstituiert 
+und liefert wertvolle Unterstützung bei der
+Ausgestaltung einer fachlich korrekten Umsetzung.
+Die zunehmende Häufigkeit von
+Starkregenereignissen führt zu einer spürbar zunehmenden 
+gesellschaftlichen Relevanz. Deshalb entstehen 
+in der Bundesverwaltung derzeit Projekte, die 
+sich mit der Systematisierung von
+Gefahrenhinweisen und Folgemaßnahmen befassen. In 
+diesem Kontext gibt es einen regelmäßigen
+Erfahrungsaustausch mit den zuständigen
+Fachreferaten der Bundesanstalt für Gewässerkunde 
+(BfG), dem Umweltbundesamt (UBA) sowie dem 
+Bundesministerium für Umwelt, Naturschutz, 
+nukleare Sicherheit und Verbraucherschutz 
+(BMUV). Dieser dient in erster Linie zur
+Schaffung und Nutzung von Synergien im
+Themenbereich Starkregen risikomanagement. 
+Überdies planen zahlreiche Ressorts sowie 
+nachgeordnete Behörden des Bundes und der 
+Länder seit der Veröffentlichung der
+Hinweiskarte Starkregengefahren für das
+Landesgebiet Nordrhein-Westfalen die Nachnutzung der 
+Daten zur fachbezogenen Gefahrenermittlung. 
+Insbesondere mit den Behörden des Bundes hat 
+sich eine partnerschaftliche Zusammenarbeit 
+hinsichtlich der Erfordernisse und
+Möglichkeiten der Hinweiskarte entwickelt. Die
+Bundesanstalt für Straßenwesen (BASt) und das
+Deutsche Zentrum für Schienenverkehrsforschung 
+(DZSF) beim Eisenbahnbundesamt (EBA)
+erarbeiten derzeit auf Grundlage der Karten
+Risikoabschätzungen für Verkehrswege.
+Im Rahmen des Aufbaus des Naturgefahrenportals 
+durch den Deutschen Wetterdienst (DWD)
+arbeiten BKG und DWD gemeinsam an der Übernahme 
+der bundesweiten Hinweiskarte in den
+Warnbereich Starkregen, wo diese die Grundlage der
+bundesweiten Gefährdungsbeschreibung bilden wird.
+In der Zusammenarbeit mit diesen und allen 
+weiteren Partnern berät das BKG bei der
+Datenbereitstellung und insbesondere auch
+hinsichtlich der Aussagekraft bzw. der Kommunikation 
+der Hinweiskarte.
+Hinweiskarten und Gefahrenkarten bilden
+unterschiedliche Qualitätsstufen der
+Starkregenvorsorge ab. Die Hinweiskarten dienen in der Regel 
+nicht der Planung konkreter z. B. baulicher
+Maßnahmen und stellen aufgrund generalisierter
+Annahmen nur eine vergleichsweise grobe
+Grundlage dar. Sie erreichen jedoch eine bundesweite 
+flächenhafte Abdeckung und geben erste
+Hinweise auf Bereiche, die im Hinblick auf das
+Starkregenrisikomanagement besondere
+Aufmerksamkeit erfordern, z. B. in Form nachgeschalteter 
+detaillierterer Untersuchungen wie der
+Erstellung von sogenannten Gefahrenkarten. 
+Eine deutlich höhere Qualitätsstufe sind
+Gefahrenkarten, die auf einem sehr umfangreichen, 
+oftmals lokalspezifischem, Datenbestand
+beruhen und eine wichtige planungsrelevante
+Grundlage darstellen. Diese Karten werden mit
+Unterstützung der Bundesländer aktuell sukzessive 
+durch die Kommunen erstellt. Da der Fokus aus 
+nachvollziehbaren Gründen auf Siedlungen und 
+siedlungsnahen Bereichen liegt, wird derzeit und 
+voraussichtlich auf absehbare Zeit keine
+Flächendeckung erreicht. Die Gefahrenkarten zeigen 
+ein hohes räumliches Detail und
+berücksichtigen weitere prozessbeeinflussende
+Gebietseigenschaften, z. B. zum Siedlungswassermanagement 
+(Kanalsysteme etc.).
+Hinweiskarten dienen als Grundlage des
+Starkregenrisikomanagements der Sensibilisierung von 
+Politik und Gesellschaft, während Gefahrenkarten 
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 32 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+33
+der Ableitung konkreter, lokal angepasster
+Maßnahmen dienen. Beide Kartenwerke tragen somit 
+gemeinsam auf Basis ihrer jeweiligen Stärken zu
+einem wirksamen Starkregenrisikomanagement bei. 
+Die hydrodynamisch-numerische
+zweidimensionale Simulation basiert auf dem
+umfangreichen Geodatenbestand des Bundes und der
+Länder zur Landoberfläche und zu abflussrelevanten 
+Bauwerken. Wesentliche Grundlage des
+Modellaufbaus ist das Digitale Geländemodell der
+Vermessungsverwaltungen der Länder mit einer 
+Gitterweite von einem Meter (DGM1). Diese
+Datensätze wurden zu Beginn des Projekts als Open 
+Data oder zweckgebunden bereitgestellt. Aus den 
+Höheninformationen des DGM1 abgeleitete
+Gewässereinzugsgebiete bilden die hydrologische 
+Grundlage der Abflusssimulationen. Zur
+Simulation eines möglichst realistischen Abflusses 
+wird das DGM1 hydrologisch angepasst;
+Straßendurchlässe unterschiedlicher Dimensionen sowie 
+Pump- und Schöpfwerke werden integriert. 
+Aus dem Datenbestand des Amtlichen
+Liegenschaftskatasterinformationssystems (ALKIS) 
+werden Gebäude und die zugehörigen
+Dachformen als 3D-Modelle in das DGM übernommen. 
+Gebäude stellen somit in der Modellierung ein 
+Fließhindernis dar, die Dachformen sorgen bei 
+Beregnung für einen zielgerichteten Abfluss. 
+Die Daten des Landbedeckungsmodells (LBM-
+DE) dienen der Definition der Rauigkeit der
+Geländeoberfläche. So wird eine Anpassung der 
+Fließgeschwindigkeit an unterschiedliche
+Oberflächen in der Simulation möglich.
+Der öffentliche Zugang zur Hinweiskarte 
+Starkregengefahren ermöglicht eine
+niedrigschwellige Nutzung zur Gefahrenerfassung 
+und zur Schutzmaßnahmenableitung für
+Bevölkerung und Sachgüter.
+Der zur freien Nutzung als Open Data
+bereitstehende Datensatz „Koordinierte
+Starkniederschlagsregionalisierung und -auswertung des 
+DWD“ (KOSTRA-DWD) wird als eine
+Beregnungsgrundlage in der Modellierung verwendet. 
+Seit mehr als 30 Jahren bereitet der DWD
+regelmäßig Informationen zur Niederschlagshöhe in 
+Abhängigkeit von der Niederschlagsdauer und 
+der Jährlichkeit auf. Der daraus resultierende
+Datensatz dient der Hinweiskarte als
+Grundlagendatensatz zur Einschätzung einer regionalisierten 
+Niederschlagshöhe in Bezug auf die Jährlichkeit. 
+Die Nutzung eines regionalisierten
+Datensatzes ist insofern hilfreich, als die
+Niederschlagsmengen eines Ereignisses mit einer konkreten 
+Wiederkehrzeit unter anderem von den
+geographischen Gegebenheiten vor Ort abhängen. So 
+unterscheidet sich die Niederschlagsmenge eines 
+Ereignisses mit gleicher Wiederkehrzeit im
+Alpenvorland von der in den Marschlandschaften 
+Norddeutschlands und hat demzufolge auch eine 
+Auswirkung auf das Überflutungsbild sowie das 
+damit verbundene Gefahrenpotenzial.
+Die Hinweiskarte Starkregengefahren zeigt
+realistische Simulationsereignisse zu möglichen 
+Überflutungsszenarien, die dem
+Starkregenindex nach Schmitt et al. (2018)3 folgen.
+Basierend auf einem außergewöhnlichen 100-
+Jährlichen und einem extremen Starkregenereignis 
+mit einem Niederschlag von 100 mm/h werden 
+Überflutungstiefen (Abbildung 16),
+Strömungsgeschwindigkeiten (Abbildung 17) und
+Strömungsrichtungen dargestellt. Die Hinweiskarte 
+Starkregengefahren kann somit eine initiale
+Einschätzung eines Risikopotenzials liefern, welche 
+dann in Kombination mit bestehendem
+Fachwissen vor Ort die Maßnahmenplanung erheblich 
+vereinfachen soll. Sie dient damit als wichtiges 
+3: Schmitt, T. G. et al. (2018): Einheitliches Konzept zur Bewertung 
+von Starkregenereignissen mittels Starkregenindex. KA
+Korrespondenz Abwasser, Abfall, 2018 (65), Nr. 2, S. 113-120.
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 33 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+34
+Instrument, um durch Starkregen gefährdete
+Bereiche zu identifizieren. Kommunen, Planern und 
+Einsatzkräften wird es damit bundesweit
+ermöglicht, adäquate Maßnahmen abzuleiten, sowohl 
+präventiv als auch im akuten Katastrophenfall.
+Das Projekt der Hinweiskarte
+Starkregengefahren deckt sich mit dem Ziel der
+Bundesregierung, die notwendigen Maßnahmen 
+für die Klimaanpassung Deutschlands aktiv 
+voranzutreiben. Der Koalitionsvertrag 2021 
+sieht bundesweite Standards zur Erstellung 
+von Kartenwerken vor, die einer
+einheitlichen Bewertung von Starkregenrisiken als 
+Voraussetzung zugrunde liegen. Mit dem
+Projekt des BKG und der partnerschaftlichen
+Zusammenarbeit zu diesem Themenbereich 
+über Ressortgrenzen hinweg kann die
+Bundesregierung dieses Ziel bis zum Ende der
+Legislaturperiode erreichen.
+Die Veröffentlichung der Hinweiskarte für das 
+Landesgebiet Nordrhein-Westfalen als Open 
+Data bewirkt schon jetzt eine breite
+Nachnutzung und Weiterentwicklung für
+fachspezifische Anwendungen aus den Bereichen 
+Analyse und Anpassung an
+Extremwetterereignisse, wie vielfältige Rückmeldungen aus 
+Abbildung 16: Überflutungstiefen für ein außergewöhnliches (l.) und extremes (r.) Starkregenereignis.
+Abbildung 17: Fließgeschwindigkeiten für ein außergewöhnliches (l.) und extremes (r.) Starkregenereignis.
+Wasserhöhen
+max.
+Fließgeschwindigkeit
+<0.1 m
+< 0,2 m/s
+0,1-0,5 m
+0,2-0,5 m/s
+0,5-1 m
+0,5-2 m/s
+1-2 m
+> 2,0 m
+2-4 m
+> 4 m
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 34 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+35
+Verwaltung, Wirtschaft und Gesellschaft
+belegen. Das große Interesse und die häufigen 
+Nachfragen nach der Erweiterung auf das 
+gesamte Bundesgebiet zeigen den hohen
+Bedarf und die hohe Akzeptanz bei den
+Interessensgruppen im Hinblick auf die Nutzung der 
+Karte als Grundlage optimaler Vorbereitung 
+auf Krisenfälle.
+Das BKG berücksichtigt bereits im
+Planungsprozess zur Hinweiskarte Starkregengefahren 
+die Möglichkeit, Verarbeitungsdaten von den 
+Dienstleistern zu erhalten, da diese als
+Grundlage für weiterführende Untersuchungen (z. B. 
+Gefahrenkarten) dienen können. Diese Hoheit 
+über alle Ergebnisdatensätze und vor allem 
+auch über die zugrunde liegenden Daten des 
+Bundes und der Länder trägt dazu bei, die
+Erstellung der Hinweiskartierung und ihre
+Weiterentwicklung zu ermöglichen.
+Als Ergänzung zur szenarienbasierten,
+bundesweit einheitlichen Hinweiskarte arbeitet 
+das BKG an der Entwicklung einer
+Fachanwendung zur dynamischen und präventiven 
+Kartierung von Starkregenereignissen.
+Grundlage dafür ist der Digitale Zwilling
+Deutschland – ein hochaufgelöstes, mit Geofachdaten 
+angereichertes digitales Abbild Deutschlands. 
+Der Digitale Zwilling Deutschland soll als 
+Werkzeug für Simulationen in den
+Themenfeldern Umwelt, Sicherheit und Verkehr
+eingesetzt werden, um beispielsweise
+Auswirkungen von Hochwasser und Starkregen oder von 
+Planungsentscheidungen auf die reale Welt 
+zu simulieren. Auf dieser Basis plant das BKG, 
+ereignisbezogene Kartierungen umzusetzen, 
+die basierend auf regionalen Starkregen-
+Vorhersagen über Ort, Dauer und Intensität des 
+Ereignisses automatisiert und kurzfristig
+Hinweise zu Überflutungstiefen und
+Fließverhältnissen liefern. Zuständigen Behörden sowie 
+dem Katastrophenschutz stehen diese
+Fachinformationen dann kurzfristig für die
+Einsatzplanung zur Verfügung.
+3. Starkregenprodukte und -portale des DWD
+Der Deutsche Wetterdienst (DWD) erbringt
+meteorologische und klimatologische
+Dienstleistungen, auch für die Wasserwirtschaft einschließlich 
+des vorbeugenden Hochwasserschutzes. Dies
+umfasst verschiedene aufbereitete
+Niederschlagsprodukte für seine Partner und in seinem Open-
+Data-Angebot, beispielsweise die rasterbasierte 
+Starkniederschlagsauswertung KOSTRA, die
+klimatologisch aufbereiteten Radardaten
+(Datensatz RADKLIM) oder den
+Starkregenereigniskatalog CatRaRE. Die KOSTRA-Daten gehören zu den 
+elementaren Datengrundlagen der im Geo-
+Fortschrittsbericht erläuterten Hinweiskarten
+Starkregengefahren des BKG.
+Die Produkte des DWD sind auch Grundlage für 
+Informationsplattformen, die gemeinsam mit 
+Partnern entwickelt werden. Das jüngste
+Beispiel ist das in Zusammenarbeit mit der Bund-/
+Länder-Arbeitsgemeinschaft Wasser (LAWA) 
+entwickelte LAWA-Starkregenportal. Es bietet 
+Informationen zu vergangenen und aktuellen 
+Niederschlagsereignissen und zur Vorsorge
+sowie die Möglichkeit, Starkregenschäden zu
+dokumentieren. Als Datengrundlage dienen hierzu 
+die Niederschlagsmessungen aus dem DWD-
+Radarverbund und die daraus abgeleiteten
+Produkte RADKLIM und der Starkregenereigniskatalog 
+CatRaRE. Die Daten des DWD und der LAWA
+informieren im Wesentlichen über die
+Starkregenereignisse selbst, während das BKG u. a. mit den 
+Daten des DWD potenzielle
+Überflutungsszenarien aufgrund von Starkregen simuliert. 
+Im Jahr 2018 wurde die Bund/Länder-
+Arbeitsgemeinschaft Wasser (LAWA) durch einen Beschluss 
+der Umweltministerkonferenz beauftragt, beste-
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 35 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+36
+hende bundesweite Ansätze zur Dokumentation 
+von Starkregenereignissen zu prüfen und
+Handlungsempfehlungen für den Aufbau einer
+belastbaren Datengrundlage zu entwickeln.
+Unter der Führung der Kleingruppe „Aufbau 
+einer Plattform zur Starkregendokumentation“ 
+des ständigen LAWA-Ausschusses
+„Hochwasserschutz und Hydrologie“ (LAWA-AH) mit
+Beteiligung des DWD wurden von einem Konsortium 
+aus drei Unternehmen bestehende Ansätze zur 
+Dokumentation von aktuellen und
+vergangenen Starkregenereignissen und dadurch
+entstandener Schäden zusammengeführt und ein 
+Konzept zum Zugriff auf diese Informationen 
+erstellt. Darauf aufbauend wurde zunächst ein 
+Prototyp des LAWA-Starkregenportals
+entwickelt. Nach einer etwa einjährigen Testphase ist 
+das Portal seit Mai 2024 online.
+Neben den aktuellen operationellen
+Niederschlagsdaten des DWD-Radarverbunds liefern 
+der klimatologisch aufbereitete Radardatensatz 
+(RADKLIM) und der daraus resultierende
+Starkregenereigniskatalog (CatRaRE) ausführliche
+Informationen zu den Niederschlagsereignissen in 
+Deutschland seit 2001.
+Nutzende haben die Möglichkeit, im Katalog
+bestimmte Ereignisse nach ausgewählten Kriterien, 
+z. B. dem Bundesland, der Dauerstufe oder einem
+Auftrittszeitraum, zu filtern, tabellarisch
+aufzulisten und in einer Karte anzeigen zu lassen. Von
+der Übersichtsseite gelangen Nutzende mit
+einem Mausklick auf ein ausgewähltes Ereignis zu
+einer Detailseite, auf der Einzelheiten zum
+Starkregenereignis dargestellt werden.
+Des Weiteren bietet das Portal die Möglichkeit, 
+über die Auswahl eines Gebiets, Zeitraums und 
+eines Niederschlagsschwellenwertes selbst
+Ereignisse zu definieren.
+Neben der eigentlichen
+Niederschlagsauswertung von Ereignissen ermöglicht das LAWA-
+Starkregenportal auch, entstandene Schäden zu 
+dokumentieren. Hierfür wurde ein kurzer
+Fragebogen entwickelt, in dem ein Nutzender
+Angaben zu Ort und Zeit des Auftretens und zu den 
+Auswirkungen eines Ereignisses, z. B.
+Überflutungen, Sach- oder Gebäudeschäden, machen 
+kann. Diese Informationen sollen insbesondere 
+Bundes- und Landesbehörden sowie dem
+Katastrophenschutz eine bessere Übersicht über
+schadensträchtige Ereignisse ermöglichen.
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 36 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+37
+Der Zugang zu Geoinformationen ist von
+zentraler Bedeutung für die Gesellschaft, die Verwaltung 
+und die Wirtschaft. Offene Geoinformationen
+tragen dazu bei, Transparenz zu schaffen,
+Innovationen zu erleichtern und Entscheidungsprozesse in 
+den verschiedensten Bereichen durch bessere
+Planungsgrundlagen effizienter zu gestalten. Wenn 
+Geoinformationen öffentlich zugänglich gemacht 
+werden, profitieren nicht nur Unternehmen und 
+Forschungseinrichtungen, sondern auch
+Bürgerinnen und Bürger in ihrem täglichen Leben. Ein 
+offener Zugang zu diesen Daten fördert die
+Entwicklung neuer Dienste und Anwendungen, die 
+unsere Lebensqualität steigern, und bietet
+zugleich das Potenzial, aktuelle Herausforderungen 
+wie den Klimawandel oder die Mobilitätswende 
+besser zu bewältigen.
+Die Ansätze und Initiativen, die den Zugang zu 
+Geoinformationen in Deutschland verbessern 
+und weiterentwickeln, sind vielfältig. Sie umfassen 
+europäische Vorgaben, wie die (neue)
+Verpflichtung zur Bereitstellung hochwertiger Datensätze 
+durch öffentliche Stellen, um die Verfügbarkeit 
+und die Qualität von Daten im öffentlichen
+Sektor zu erhöhen. Auf nationaler Ebene wird mit der 
+Nationalen Geoinformationsstrategie 2.0 (NGIS 
+2.0) der Fokus verstärkt auf die
+Nutzerorientierung und die Weiterentwicklung der
+Geodateninfrastruktur Deutschland (GDI-DE) gelegt, um 
+den Herausforderungen der kommenden Jahre 
+gerecht zu werden. Zudem existieren
+nutzungsbezogene Portale, die den Zugang zu spezifischen
+Informationen erleichtern: So werden im Rahmen 
+des Projektes „DynAWI“ dynamische
+Agrarwetterindikatoren entwickelt, um die Auswirkungen von 
+Extremwetterereignissen auf die Landwirtschaft 
+besser abschätzen zu können. Das Bundesamt für 
+Seeschifffahrt und Hydrographie bietet mit
+„Marine Forecast“ ein Werkzeug zur Planung von
+Aktivitäten auf See. Das Portal „umwelt.info“ vereint 
+öffentlich verfügbare Daten und Informationen 
+zu Umwelt- und Naturschutzthemen und soll zur 
+ersten Anlaufstelle für Umweltfragen werden. 
+Auch das kulturelle Erbe wird durch die
+Aufnahme der UNESCO-Welterbestätten als „Points of 
+Interest“ dokumentiert und so der Öffentlichkeit 
+zugänglich gemacht.
+Diese vielfältigen Beispiele zeigen, dass die
+Bundesverwaltung kontinuierlich daran arbeitet,
+Geoinformationen breit verfügbar zu machen und 
+innovative Nutzungsmöglichkeiten zu fördern – 
+für eine nachhaltige, transparente und
+zukunftsorientierte Gesellschaft.
+1. Hochwertige (Geo-)Datensätze – eine
+wichtige Neuerung in der EU-Daten
+gesetzgebung findet seit Juni 2024 Anwendung
+Die Europäische Kommission hat im Rahmen der 
+PSI-Richtlinie4 (in Deutschland umgesetzt durch 
+das Datennutzungsgesetz) die Durchführungsver-
+4: Richtlinie (EU) 2019/1024 über offene Daten und die
+Weiterverwendung von Informationen des öffentlichen Sektors
+Zugang zu 
+ Geoinformationen
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 37 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+38
+ordnung (EU) 2023/138 zur Festlegung
+bestimmter hochwertiger Datensätze und der Modalitäten 
+ihrer Veröffentlichung und Weiterverwendung
+erlassen. Sie ist am 9. Februar 2023 in Kraft getreten, 
+und sämtliche öffentliche Stellen müssen seit dem 
+9. Juni 2024 die sich hieraus ergebenden
+Bereitstellungspflichten erfüllen. 
+Die Bereitstellung hochwertiger
+Datensätze (HVD) ist seit Sommer 2024 für öffentliche 
+Stellen verpflichtend und ein wichtiger Schritt 
+zur Verbesserung der Verfügbarkeit und
+Qualität von Daten in der EU.
+Die Durchführungsverordnung sieht vor, dass
+öffentliche Stellen hochwertige Datensätze (HVD) in 
+maschinenlesbarem Format und kostenlos (unter 
+offenen Lizenzen) über Application Programming 
+Interfaces (API) und Massendownloads zur
+Verfügung stellen. Als HVD erfasst sind derzeit Daten aus 
+sechs Kategorien, deren Weiterverwendung
+wichtige Vorteile für die Gesellschaft, die Umwelt und die 
+Wirtschaft hat. Durch die Bereitstellung von HVD 
+sollen die Markteintrittsbarrieren für den
+europäischen datengesteuerten Markt erheblich
+verringert, die Zahl der wiederverwendeten Datensätze 
+erhöht und die Schaffung neuer digitaler Dienste 
+sowie die Verbesserung bestehender
+Dienstleistungen oder Geschäftsprozesse gefördert werden.
+HVD bieten ein großes Potenzial für die
+Wirtschaft, insbesondere für KMU und Start­ups, 
+indem sie den Zugang zu hochwertigen (Geo­)
+Daten des öffentlichen Sektors erleichtern.
+In den Kategorien Georaum, Erdbeobachtung und 
+Umwelt sowie Mobilität sind viele Geodaten von 
+der HVD-Durchführungsverordnung betroffen, 
+wodurch sich die Verfügbarkeit von offenen
+Geodaten in Europa nachhaltig verändern wird.
+Offene Fragen bei der Umsetzung werden aktuell 
+intensiv diskutiert. Über das Portal GovData gibt 
+es für datenhaltende Stellen eine umfangreiche 
+FAQ-Seite zur Umsetzung, die unter anderem in 
+Zusammenarbeit mit der GDI-DE erstellt
+wurde: www.govdata.de/informationen/
+hochwertigedatensaetze.
+Im Rahmen eines vom BMF finanzierten
+Projekts werden Kommunen bei der Einführung der 
+HVD-DVO bis Ende 2024 begleitet. Die
+Projektverantwortlichen bieten dazu verschiedene
+offene Workshops zu den Themenschwerpunkten 
+„Regulatorischer Kontext“, „Inventur, Standards, 
+Lizenzen“, „HVD-Daten bei Bund, Ländern und 
+Kommunen“ und „HVD – Use Cases –
+voneinander lernen“ an. Außerdem werden Arbeitshilfen zu 
+diesen Themen angeboten. Mehr Informationen 
+sind unter www.pd-g.de/hvd-kommunal verfügbar. 
+2. Nationale Geoinformationsstrategie 2.0
+Die Nationale Geoinformationsstrategie 2.0 
+(NGIS 2.0) baut auf den Erfahrungen aus der
+Errichtung der Geodateninfrastruktur
+Deutschland (GDI-DE) auf und stellt die GDI-DE auf die 
+absehbaren Herausforderungen der
+kommenden zehn Jahre ein (www.gdi-de.org/NGIS).
+Dabei rückt die nutzerorientierte Bereitstellung 
+der Geoinformationen von Bund, Ländern und 
+Kommunen in den Vordergrund. Dies deckt sich 
+mit dem seitens der Europäischen Union
+formulierten Ziel, den Anwendungsbereich der 
+Geoinformationen weiter auszubauen. Konkret 
+formuliert die NGIS 2.0 sieben technische bzw. 
+organisatorische Schwerpunkte und
+verschneidet die Schwerpunkte mit grundlegenden
+gesellschaftlichen Herausforderungen. Die
+Umsetzungsstrategie der NGIS 2.0, die auf konkret 
+festzulegende Umsetzungsprojekte aufbaut, und 
+das Rollenverständnis der Akteure der GDI-DE 
+runden das Bild ab.
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 38 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+39
+Das Lenkungsgremium Geodateninfrastruktur 
+Deutschland (LG GDI-DE) hat am 24.11.2022 die 
+AG Umsetzung NGIS mit der Fortschreibung der 
+NGIS beauftragt. Die Ausarbeitung erfolgte unter 
+dem Leitgedanken „Geoinformationen einfach 
+nutzen. Bereitstellen – Vernetzen – Anwenden“.
+Zur Fortschreibung der NGIS 1.0 wurde zu
+Beginn der Arbeiten ein Kommunikationsplan 
+erstellt und ein Schwerpunktpapier zur NGIS 
+2.0 erarbeitet. Im Kern benennt dieses sieben 
+Schwerpunktthemen (Abbildung 18). Um eine 
+breite Beteiligung am Bearbeitungsprozess der 
+NGIS 2.0 zu erreichen, sind zwei
+Onlinebeteiligungsverfahren durchgeführt worden.
+Im Juni 2023 erfolgte eine erste
+Onlinebeteiligung innerhalb der GDI-DE-Gremien. Das
+Ergebnis der Beteiligung waren zahlreiche und
+vielfältige Vorschläge für die Umsetzung der NGIS 
+2.0. Ergänzend wurden strukturierte Interviews 
+durchgeführt.
+Basierend auf den Ergebnissen der Online-
+Beteiligung aller Akteure der GDI-DE und den
+Erkenntnissen aus den durchgeführten Interviews 
+wurde das Schwerpunktepapier NGIS 2.0
+entwickelt. Des Weiteren wurde das Rollenverständnis 
+der Akteure der GDI-DE unter deren Beteiligung 
+fortgeschrieben und in die NGIS 2.0 integriert. 
+Weitere Bestandteile der NGIS 2.0 sind die
+Verknüpfung der Schwerpunkte mit den aktuellen 
+gesellschaftlichen Entwicklungen sowie eine 
+Umsetzungsstrategie.
+Bei der Ausarbeitung der NGIS 2.0 wurde auf
+aktuelle Schlagwörter verzichtet und auf
+technikoffene Formulierungen geachtet. Dies soll dazu 
+beitragen, dass die NGIS 2.0 über einen Zeitraum 
+von zehn Jahren tragfähig ist. Zukünftig soll die 
+NGIS 2.0 sukzessive durch konkrete
+Umsetzungsprojekte ausgestaltet werden. Diese
+Umsetzungsprojekte sollen sich aus der Verschneidung der 
+Schwerpunkte mit den aktuellen
+gesellschaftlichen Entwicklungen ableiten (Abbildung 19).
+Abbildung 18: Schwerpunkte der NGIS 2.0.
+4
+Netzwerk 
+ausbauen
+1
+Vielfalt des  
+Datenangebots 
+erhöhen
+5
+Geokompetenz 
+stärken
+2
+Zugriff auf 
+Geinofrmationen 
+ermöglichen
+6
+Nutzer orientierung 
+verbessern
+3
+Bereitstellung und  
+Qualität der
+Geoinformationen ausbauen
+7
+Bedarfsorientierung 
+ ausbauen
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 39 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+40
+Neo-Ökologie
+Konnektivität
+Mobilität
+Urbanisierung
+Gesundheit
+Globalisierung
+Wissenskultur
+Sicherheit
+Daseinsvorsorge
+V
+ielfalt des D
+atenangebots der G
+D
+I-D
+E ausbauen
+Zugriff auf G
+eoinform
+ationen erm
+öglichen
+G
+eokom
+petenz stärken
+Bereitstellung und Q
+ualität der G
+eoinform
+ationen ausbauen
+N
+utzerorientierung als ein w
+esentliches Prinzip verbessern
+N
+etzw
+erk ausbauen
+Bedarfsorientierung ausbauen
+Abbildung 19: Gesellschaftliche Herausforderungen vs. Schwerpunkte der NGIS 2.0.
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 40 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+41
+Das LG GDI-DE fasste im Mai 2024 den
+Beschluss zur NGIS 2.0 und löste damit die NGIS 
+1.0 ab. Der bisherige Fokus der GDI-DE lag auf 
+dem technischen und organisatorischen
+Aufbau einer Geodateninfrastruktur. Mit dem
+Beschluss der NGIS 2.0 rückt die
+Nutzerorientierung in den Vordergrund der GDI-DE.
+Die zweite Onlinebeteiligung im ersten
+Quartal 2024 richtete sich an die (Fach-)
+Öffentlichkeit. Ziel war es, eine Priorisierung der
+Umsetzungskategorien nach den Bedürfnissen der 
+Nutzerinnen und Nutzer zu erhalten.
+Unterstützt durch eine intensive kommunikative
+Begleitung, unter anderem in Form einer
+Präsentation bei der Veranstaltungsreihe „Die FITKO 
+stellt vor“ sowie durch regelmäßige
+Informationen bei LinkedIn, konnten ca. 450
+Teilnehmende erreicht werden. Ein Großteil von ihnen 
+gehörte der öffentlichen Verwaltung an. Die am 
+höchsten priorisierte Umsetzungskategorie ist 
+die „Stärkere Betrachtung aus Sicht der
+Endnutzer“. Zusätzlich wird ein größerer Beitrag 
+der GDI-DE zur Digitalisierung der Verwaltung 
+gewünscht. Hierfür ist eine stärkere
+Einbeziehung der Kommunen entscheidend.
+Die NGIS 2.0 benennt die
+Arbeitsschwerpunkte der kommenden Jahre und dient als 
+Orientierung bis zum Jahr 2034 für die
+GDIDE. Im Vordergrund steht die
+nutzerorientierte Bereitstellung der Geoinformationen 
+des Bundes, der Länder und Kommunen 
+Projekte und Informationen zur Umsetzung 
+der NGIS 2.0 werden auf der Homepage der 
+GDI-DE bekannt gegeben. Die
+unterschiedlichen Akteure der GDI-DE sind angehalten, 
+Umsetzungsprojekte für die NGIS 2.0
+vorzuschlagen und aktiv zu einer Umsetzung der 
+NGIS 2.0 beizutragen.
+Das Lenkungsgremium GDI-DE hat die NGIS 
+2.0 in der Frühjahrssitzung 2024
+beschlossen und berichtet dazu dem IT-Planungsrat 
+als übergeordnetem Gremium. Bereits
+Mitte 2024 wurde das erste Umsetzungsprojekt 
+für die NGIS 2.0 vom Lenkungsgremium 
+GDI-DE beschlossen. Die mit dem Beschluss 
+gestartete Nutzer- und Bedarfsanalyse soll 
+insbesondere belastbare Aussagen zu
+praxisrelevanten Lücken in der Bereitstellung und 
+Harmonisierung von Geodaten und -
+diensten erbringen und so den zielgenaueren
+Einsatz der begrenzten Ressourcen ermöglichen.
+3. Schwerpunkt Vorsitz GDI-DE Bund 2023–24
+Als Schwerpunktthema für die Zeit des
+Vorsitzes im Lenkungsgremium der
+Geodateninfrastruktur Deutschland (GDI-DE) haben das 
+Bundesministerium des Innern (BMI) und das 
+Bundesministerium für Digitales und Verkehr 
+(BMDV) gemeinsam einen Beitrag der GDI-DE 
+zur Mobilitätswende in Deutschland gesetzt. 
+Dabei ging es um die zielgerichtete Vernetzung 
+der GDI-DE mit der Mobilithek des BMDV und 
+um ein Nationales Datenschema für die
+Radverkehrsinfrastruktur.
+Im Projekt „Vernetzung der GDI-DE“ mit der 
+Mobilithek konnte ein automatisiertes
+Verfahren zum regelmäßigen und zielgerichteten 
+Austausch von relevanten Inhalten zwischen 
+der Mobilithek und Geoportal.de realisiert
+werden. Hierdurch ist es jetzt möglich, direkt in 
+der Mobilithek wichtige, qualitativ
+hochwertige räumliche Daten der GDI-DE zu finden und 
+diese einfach für Vorhaben der
+Mobilitätswende einzusetzen. Des Weiteren besteht nun über 
+Geoportal.de Zugriff auf neue, interessante
+Angebote aus dem Mobilitätsbereich, welche viel 
+Potenzial zur Verknüpfung mit den
+vorhandenen Ressourcen der GDI-DE bieten.
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 41 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+42
+Das Nationale Datenschema für Geodaten zur 
+Radverkehrsinfrastruktur, entwickelt vom
+Bundesamt für Logistik und Mobilität (BALM) in 
+Zusammenarbeit mit der GDI-DE, dient als 
+zentrales Referenzschema für das gesamte
+Radverkehrswegenetz Deutschlands. Es bildet die 
+Grundlage für Anwendungen wie Routing,
+Planung und Analyse von Radverkehrswegen. Mit 
+dem Nationalen Datenschema wird eine
+praktisch bedeutsame Spezifikationslücke
+geschlossen und ein Beitrag zur Mobilitätswende in 
+Deutschland geleistet.
+Diese Themen sind gelebte Beispiele für die
+Zusammenarbeit innerhalb der GDI-DE und über 
+die GDI-DE hinaus; sie stehen für die erfolgreiche 
+Schaffung von Mehrwert aus dem Verschneiden 
+von Geoinformationen und Fachdaten. Im
+Rahmen eines Hackathons Ende 2024 an der
+Hochschule Mainz hat der akademische
+Fachkräftenachwuchs die Chance, die Schwerpunktthemen 
+kreativ in neue Ideen für Geoinformations-
+Anwendungen umgesetzt.
+4. Dynamische Agrarwetterindikatoren
+zur Extremwetterprognose in der
+Landwirtschaft
+Das Projekt „DynAWI“ entwickelt dynamische 
+Agrarwetterindikatoren, um die Auswirkungen 
+von Extremwetterereignissen auf die
+Landwirtschaft besser zu verstehen und Ertragsverluste 
+zu minimieren. Der DynAWI-MapViewer
+ermöglicht dabei die Berechnung und
+Visualisierung historischer und aktueller Wetterdaten in 
+Echtzeit und bietet Nutzerinnen und Nutzer die 
+Möglichkeit, individuelle
+Agrarwetterindikatoren zu erstellen und potenzielle
+Ertragsverluste abzuschätzen. Die Anwendung unterstützt 
+Landwirtinnen und Landwirte,
+Beratungskräfte und Behörden dabei, sich auf die
+wachsenden Herausforderungen durch den
+Klimawandel vorzubereiten. Sie wird kontinuierlich 
+erweitert, unter anderem um Funktionen zur 
+Erosions risikoabschätzung.
+Der Klimawandel stellt die Landwirtschaft vor 
+immer größere Herausforderungen.
+Extremwetterereignisse wie Trockenheit, Hitze, Starkregen 
+und Hagel führen zu erheblichen
+Ertragsausfällen und Qualitätseinbußen bei Kulturpflanzen. 
+Um diesen abiotischen Stressfaktoren mit neuen 
+passenden Klimaanpassungsstrategien
+entgegenzuwirken, benötigen alle Akteure in der
+Landwirtschaft zielführende und leicht zugängliche 
+Informationen. 
+DynAWI bietet eine zukunftsfähige Lösung, 
+um flexibel auf sich ändernde
+Informationsbedarfe reagieren zu können.
+Im vom Bundesministerium für Ernährung und 
+Landwirtschaft (BMEL) seit 2021 geförderten
+Projekt „DynAWI“ (dynawi.julius-kuehn.de) wurde 
+daher eine online frei zugängliche MapViewer- 
+Anwendung für Agrarwetterindikatoren
+entwickelt und bereitgestellt. Die dabei zugrunde 
+liegende Prozesskette zur Geodatenintegration 
+und -analyse basiert auf skalierbaren JKI-
+Geodateninfrastrukturen und nutzt Methoden der 
+Künstlichen Intelligenz. Damit können
+Auswirkungen von Extremwettersituationen auf die 
+landwirtschaftliche Produktion sowohl
+historisch als auch aktuell in Echtzeit parametrisiert 
+und analysiert werden. Im Gegensatz zu
+„klassischen“ Viewern werden die Ergebnisse nicht nur 
+als passive Karten bereitgestellt, sondern es gibt 
+auch die Möglichkeit, eigenständig
+nutzerspezifische Agrarwetterindikatoren für eine beliebige 
+Fläche in Echtzeit zu berechnen und
+Ertragsprognosen durchzuführen. Derzeit stehen den
+Nutzerinnen und Nutzern drei verschiedene
+Funktionalitäten zur Verfügung
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 42 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+43
+Abbildung 20: Darstellung der Nutzeroberfläche des Online-Dienstes (sf.julius-kuehn.de/mapviewer/dynawi).
+Abbildung 21: Historische Verteilung der Agrarwetterindikatoren (AWI-Atlas).
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 43 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+44
+• „AWI-Atlas“: Klassische Karten zur
+retrospektiven Darstellung von Agrarwetterindikatoren ab
+dem Jahr 1993
+• „Dynamischer AWI-Konfigurator“: Freie
+Konfiguration nutzerspezifischer dynamischer
+Agrarwetterindikatoren in Echtzeit durch eine
+raum-zeitliche Verknüpfung von relevanten
+agrarmeteorologischen Parametern, wie z. B.
+Bodenfeuchte, Tagesniederschlag und
+Bodentemperatur, mit phänologischen Stadien und dem
+Setzen von nutzerspezifischen Schwellenwerten
+• „Potenzielle Ertragsverluste“: Abschätzung 
+von potenziellen Ertragseinbußen durch
+Extrem wettersituationen mit einem durch
+Experten wissen vorparametrisierten Modell 
+(historisch und aktuell)
+Ein besonderer Mehrwert ist die Möglichkeit, 
+eigene Agrarwetterindikatoren interaktiv zu 
+erstellen, die an den Standort angepasst
+werden können.
+Die technische Umsetzung erfolgt durch die
+Nutzung des JKI-Data Cubes, mit dem ein effizienter 
+und vielfältiger Zugriff auf
+multidimensionale Georasterdaten möglich ist. Diese
+innovative Technologie bildet auch die Basis für rechen- 
+und datenintensive Dienste, da auch komplexere 
+raum-zeitliche Abfragen direkt in der Datenbank 
+effizient durchgeführt werden können. Darüber 
+hinaus wurde das Verfahren im Verlauf des
+Projekts vom Pilotbetrieb in den Produktivbetrieb 
+überführt und ist nun ein zentraler Bestandteil 
+der Geodateninfrastruktur. Dies gewährleistet 
+auch in Zukunft flexible Lösungen für die sich 
+wandelnden Anforderungen an Informationen 
+verschiedenster Nutzergruppen.
+Mit dem DynAWI-MapViewer wurde ein
+niedrigschwelliges Angebot geschaffen, welches 
+durch die Verbindung von Rasterdatenbanken 
+und KI-Vorhersagen eine präzise Bewertung 
+der Ertragswirksamkeit von
+Extremwetterereignissen ermöglicht. Die Analyse von
+historischen und aktuellen
+Extremwettereignissen unterstützt die Landwirtschaft bei der 
+Entwicklung geeigneter Handlungsstrategien. 
+Insbesondere die landwirtschaftliche Praxis, 
+Beratungskräfte, Versicherungen, Politik und 
+Behörden können von den frei verfügbaren 
+dynamischen Agrarwetterindikatoren und 
+Modellierungsergebnissen des Projekts
+profitieren. Damit können sich die Nutzerinnen 
+und Nutzer auf die künftigen
+Herausforderungen, die durch häufiger auftretende
+extreme Wetterbedingungen entstehen, gezielt
+vorbereiten. Der besondere Mehrwert liegt dabei 
+in der interaktiven Möglichkeit, eigene
+Agrarwetterindikatoren zu erstellen und so gezielt 
+maßgeschneiderte Informationen für den
+individuellen Bedarf zu generieren.
+Die Anwendung ist unter sf.julius-kuehn.de/
+mapviewer/dynawi zu erreichen und wird 
+kontinuierlich erweitert und aktualisiert. 
+So ist geplant, bis zum Projektende 
+im Dezember 2024 eine zusätzliche 
+Funktionalität zur Erosionsrisikoabschätzung 
+von landwirtschaftlich genutzten 
+Flächen zu ergänzen und die potenziellen 
+Ertragseinbußen als leicht verständliche 
+Risikokarten darzustellen. 
+5. Marine Forecast als Planungshilfe für
+Aktivitäten an und auf See
+Mit der Internetapplikation Marine Forecast 
+stellt das Bundesamt für Seeschifffahrt und 
+Hydrographie (BSH) ein Werkzeug zur Planung 
+von Aktivitäten auf See zur Verfügung. Als 
+Ziel gruppen von Marine Forecast wurden 
+unter anderem Freizeitsegelnde,
+Wassersport treibende, Windparkbetreibende sowie 
+Reedereien identifiziert. 
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 44 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+45
+Von Anfang an stand bei der Entwicklung der 
+Anwendernutzen im Mittelpunkt. So wurden bei 
+der Auswahl geeigneter Inhalte neben den Daten 
+des BSH auch meteorologische und
+ozeanographische Mess- und Vorhersagedaten des
+Deutschen Wetterdienstes (DWD) berücksichtigt.
+Die technische Umsetzung erfolgte mit dem 
+Open-Source-Geoviewer Masterportal. Mit der 
+Portal-Anwendung können internationale und 
+nationale Standards umgesetzt und somit eine 
+hohe Interoperabilität gewährleistet werden. 
+Zusätzlich lassen sich standardisierte
+Geodienste einbinden und themenübergreifend 
+zusammenstellen.
+Durch vordefinierte Spezialkarten, wie z. B. 
+„Seewetter Aktuell“, können Anwenderinnen 
+und Anwendern themenspezifische
+Informationen schnell abrufen. 
+Marine Forecast (marineforecast.bsh.de) ist eine 
+Internetanwendung des BSH, die
+nutzungsorientiert aktuelle Daten und Informationen 
+sowie Vorhersagen aus dem meteorologischen 
+und ozeanographischen Bereich bereitstellt. Die 
+Anwendung unterstützt Aktivitäten und deren 
+Planung an und auf See. Die Zielgruppen sind 
+u. a. Wassersporttreibende wie Badende,
+Segelnde, Surfende, Kanusporttreibende aber auch
+Windparkbetreibende und Reedereien.
+Marine Forecast bietet eine Reihe von
+Spezialkarten an, um Anwendergruppen einen
+schnelleren Zugang zu den benötigten Daten und 
+Informationen zu geben. In der Spezialkarte 
+„Seewetter Aktuell“ sind alle für die Planung 
+und Durchführung eines Segeltörns relevanten 
+Themen wie Windrichtung,
+Windgeschwindigkeit, Luftdruck, Regenradar usw.
+zusammengefasst (Abbildung 22). Darüber hinaus können 
+eigene Themen über standardisierte
+Kartendienste (engl. „Web Map Services“, WMS)
+hinzugefügt werden. 
+Für viele Nutzergruppen ist die Spezialkarte 
+„Meeresinformationen“ eine wichtige
+Informationsquelle. Auch hier werden Informationen 
+aus dem BSH mit denen des DWD kombiniert 
+(Abbildung 23). Die Anwendung stellt für
+derzeit über 80 Standorte an der Nord- und Ostsee 
+sowie an der Weser und Elbe Vorhersagen zum 
+Wasserstand, der Wasser- und Lufttemperatur, 
+Windrichtung und -geschwindigkeit sowie zu 
+den Auf- und Untergangszeiten von Sonne und 
+Mond bereit.
+Durch die Applikation Marine Forecast wird 
+die Planung von Aktivitäten auf See
+erleichtert und die Sicherheit auf See erhöht.
+Die technische Grundlage für Marine Forecast 
+ist das Masterportal, welches der Hamburger 
+Landesbetrieb Geoinformation und Vermessung 
+(LGV) bereits seit 2014 erfolgreich entwickelt. 
+Im Jahr 2019 wurde mit der Firma Dataport eine 
+Kooperation vereinbart, um die Digitalisierung 
+in Hamburg und der Metropolregion weiter
+voranzutreiben. Dazu gehört auch die Verbindung 
+zur Digitalisierungsplattform Online-Service-
+Infrastruktur (OSI) von Dataport. Durch diese
+Verbindung lässt sich das Masterportal in digitale 
+Verwaltungsprozesse integrieren. Die OSI ist das 
+technische Herzstück bei der Umsetzung des 
+Online-Zugangsgesetzes und wird
+datenschutzkonform von der Firma Dataport in ihrem vom 
+Bundesamt für Sicherheit in der
+Informationstechnik zertifizierten Rechenzentrum betrieben. 
+Das Masterportal ist ein von der Verwaltung für 
+die Verwaltung entwickelter Open-Source-
+Geoviewer mit dem sich standardisierte
+Geodatenformate und -dienste anzeigen lassen. Dabei 
+spielen die vom „Open Geospatial Consortium“ 
+(OGC) erarbeiteten Standards „Web Map Service“ 
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 45 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+46
+(WMS) und „Web Feature Service“ (WFS) eine 
+tragende Rolle. Das Masterportal stellt darüber 
+hinaus ein Framework zur Verfügung, das auf 
+modernen Web-Technologien basiert und
+mithilfe von JavaScript-Webframeworks
+individuell konfiguriert oder auch um zusätzlich
+erstellte Module mittels vue.js erweitert werden kann. 
+Dank des Masterportals konnte Marine Forecast 
+ansprechend gestaltet und benutzerfreundlich 
+aufgebaut werden.
+Durch die standardisierten OGC-Web-Dienste 
+kann ad hoc über eine Schnittstelle auf aktuelle 
+Geodaten und ihre Geodatenbeschreibungen
+(Metadaten) zugegriffen werden. Geodaten sind dank 
+des Standards interoperabel nutzbar und können 
+beliebig miteinander kombiniert werden. Mehrere 
+Sprachpakete, u. a. Englisch, Italienisch und
+Spanisch, machen das Masterportal auch
+international bzw. für Anwenderinnen und Anwender mit 
+nicht deutschen Sprachkenntnissen nutzbar.
+Abbildung 22: Spezialkarte 
+Seewetter mit Regenradar, 
+ Windgeschwindigkeit, 
+-richtung und Luftdruck.
+Abbildung 23: Spezialkarte 
+„Meeresinformationen“ mit 
+Regenradar, Pegelstationen 
+Nordsee und Ostsee und 
+Warnungen Küste.
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 46 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+47
+Die Datenbereitstellung ist dezentral aufgebaut, 
+sodass BSH und DWD die volle Kontrolle und 
+Hoheit über ihre Daten behalten. Das bedeutet, 
+sie können jederzeit entscheiden, welche Daten 
+unter welchen Bedingungen zur Verfügung
+gestellt werden.
+Die enge Zusammenarbeit zwischen dem DWD 
+und dem BSH in Hamburg hat eine lange
+Tradition, bezog sich bisher aber vor allem auf den
+Bereich Küstenschutz. Marine Forecast erweitert 
+diese Zusammenarbeit durch die Integration von 
+allgemeinen DWD-Diensten wie „Warndienst 
+Küste“ und „Regenradar“ oder speziell für das BSH 
+erstellte bzw. angepasste Dienste wie z. B.
+„Totaler Seegang“, „Windgeschwindigkeit“, „Dünung“ 
+(langwelliger Anteil des Seegangs, der dem Wind 
+vorauseilt) und „Windsee“ (Anteil des Seegangs, 
+der unmittelbar vom Wind angetrieben wird).
+Die interdisziplinäre Zusammenarbeit und 
+Vernetzung des Bundesamts für
+Seeschifffahrt und Hydrographie mit dem Deutschen 
+Wetterdienst erzeugt einen gesell
+schaftlichen Mehrwert. 
+Bei den Daten handelt es sich um aktuelle Mess- 
+und Vorhersagedaten zu unterschiedlichen
+marinen und meteorologischen Themen. Bei der 
+Auswahl der Themen stand der
+Anwendernutzen im Mittelpunkt. In unserem Fall sind dies 
+alle Anwenderinnen und Anwender, die am oder 
+auf dem Wasser aktiv sind, egal ob zu beruflichen 
+Zwecken oder in der Freizeit. So haben
+beispielsweise Freizeitsegelnde die Möglichkeit, sich über 
+das aktuelle Wettergeschehen zu informieren 
+und sich Windrichtung, Windstärke, Luftdruck, 
+Seegang, Warngebiete und Regenradar auf einer 
+Karte anzeigen zu lassen. 
+Marine Forecast unterliegt einer
+kontinuierlichen Weiterentwicklung, um das
+Anwendererlebnis stetig zu verbessern. Dafür werden
+Anwenderumfragen durchgeführt und ausgewertet.
+Einer der nächsten Entwicklungsschritte wird 
+die Umstellung auf die Version 3 des
+Masterportals sein. Die neue Version verfügt über eine neu 
+gestaltete und intuitivere Benutzeroberfläche, ist 
+besser für mobile Endgeräte geeignet und bietet 
+deutlich bessere Suchmöglichkeiten nach
+Diensten und deren Datenebenen.
+Geplant sind außerdem weitere Spezialkarten. 
+Eine Spezialkarte soll die Betreiber von
+Offshore-Windparks bei der Wartung und dem Betrieb 
+ihrer Anlagen auf hoher See mit Wind- und
+Seegangsvorhersagedaten unterstützen. Eine weitere 
+Spezialkarte wird die aktuelle Eiskarte mit
+Informationen zur Eisdicke und Eiskonzentration in 
+Nord- und Ostsee darstellen.
+Mit Marine Forecast stellt das BSH ein
+flexibles und anpassbares Werkzeug für
+verschiedene Benutzergruppen zur Verfügung. Es
+erleichtert die Planung von Aktivitäten im und 
+am Meer und leistet damit einen wichtigen 
+Beitrag zur Verbesserung der Sicherheit auf 
+See. Durch die enge interdisziplinäre
+Zusammenarbeit zwischen BSH und DWD gelingt es, 
+mit dem Informationsgehalt der
+ozeanographischen und meteorologischen Daten einen 
+Mehrwert zu generieren.
+6. Umwelt.info – ein Portal für Umwelt- und
+Naturschutzinformationen
+Die Außenstelle des Umweltbundesamts in
+Merseburg – das Nationale Zentrum für Umwelt- 
+und Naturschutzinformationen – entwickelt 
+und betreibt umwelt.info als Schaufenster in die 
+deutsche Umweltinformationslandschaft.
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 47 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+48
+Über das Portal „umwelt.info“ bündelt das 
+Zentrum öffentlich verfügbare Daten- und 
+Informationsangebote aus dem Kontext Umwelt 
+und Naturschutz. Dazu kooperieren sie mit den 
+Bereitstellenden der Daten, identifizieren die
+umweltrelevanten Angebote, referenzieren deren
+Metadaten und erstellen zielgruppengerechte
+Beiträge und Anwendungen. 
+Die Vision ist, dass umwelt.info als Suchmaschine 
+die erste Anlaufstelle für Fragen im Umwelt- und 
+Naturschutzbereich wird. Dazu bringt das
+Nationale Zentrum für Umwelt- und
+Naturschutzinformationen ein Netzwerk an Akteuren zusammen, 
+die Daten bereitstellen oder sich für Open Data im 
+Umweltbereich engagieren. umwelt.info inspiriert 
+dazu, in diesem Informationsangebot zu stöbern.
+Eine erste Minimalversion, die seit Juni 2024 zum 
+Testen zur Verfügung steht, bietet den
+Nutzerinnen und Nutzern bereits eine Suchmaschine zu 
+bundesweit öffentlich verfügbarem
+Umweltwissen sowie erste redaktionelle Beiträge. 
+Auch die ersten Quellen aus dem Geoportal und 
+den ersten Ländern sind bereits angebunden. Eine 
+Inbetriebnahme des Datenportals in dieser frühen 
+Phase der Produktentwicklung ermöglicht es, die 
+nächsten Entwicklungsschritte gezielt an den
+Bedarfen der Nutzerinnen und Nutzer auszurichten.  
+Interessierte können die Entwicklung
+dieses Open-Source-Projekts auf OpenCoDE 
+(opencode.de/de) öffentlich einsehen.
+Die Entwicklung schreitet zügig voran und die 
+Präsentation und Veröffentlichung der
+umfassenden Basisversion ist für Januar 2025
+terminiert. www.umwelt.info bietet schon jetzt einen 
+Überblick über den aktuellen Entwicklungsstand 
+des Projekts.
+7. Datensatz UNESCO-Welterbestätten
+Im Zuge der fortlaufenden Bemühungen, das
+kulturelle Erbe Deutschlands zu dokumentieren und 
+einer breiten Öffentlichkeit zugänglich zu
+machen, hat eine Abstimmung zwischen der
+Kultusministerkonferenz (KMK), dem Auswärtigen Amt 
+(AA) und den Referaten Informationsgewinnung 
+und Ausbildung sowie der Koordinierungsstelle 
+der Geodateninfrastruktur Deutschland (GDI-
+DE) im Bundesamt für Kartographie und
+Geodäsie (BKG) stattgefunden. Dabei wurde der Bedarf 
+formuliert, die UNESCO-Welterbestätten in den 
+Datensatz „Points of Interest Bund“ (POI-Bund) 
+des BKG aufzunehmen.
+Alle UNESCO-Weltkultur- und
+Weltnaturerbestätten in Deutschland sind im Datensatz POI-
+Bund als Punkte dargestellt. Sofern eine
+Welterbestätte mehrere Bestandteile hat, sind auch diese 
+aufgenommen. Bei flächenhaften
+Welterbestätten, wie z. B. weitläufige Schutzgebiete oder Parks, 
+werden diese über adressgenaue Punkte wie
+Nationalparkzentren oder Museen repräsentiert.
+Sofern auf oder in unmittelbarer Nähe einer Fläche 
+kein repräsentatives Objekt vorhanden ist, wird 
+der Mittelpunkt der Fläche verwendet.
+Ziel ist es, eine einheitliche Karte zum UNESCO-
+Welterbe in Deutschland zu erstellen, die nicht 
+nur effizient und ressourcenschonend umgesetzt 
+wird, sondern auch auf amtlich verifizierten
+Daten basiert. Die Initiative für einen Datensatz der 
+UNESCO-Welterbestätten in Deutschland ist Teil 
+der Heimatpolitik des Bundesministeriums des 
+Innern und für Heimat (BMI) und zielt langfristig 
+darauf ab, den Datensatz mit flächen- bzw.
+linienhaften Geoinformationen zu den Welterbestätten 
+auszubauen und auch INSPIRE-konform
+zugänglich zu machen.
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 48 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+49
+Unsere Erde unterliegt ständigen
+Veränderungen: Sei es durch natürliche geodynamische 
+Prozesse wie Plattentektonik und
+Gezeitenkräfte oder durch anthropogene Einflüsse wie 
+den Verlust natürlicher Ressourcen und den 
+Klimawandel. Diese komplexen Phänomene 
+treten global auf und beeinflussen zahlreiche 
+Lebensbereiche – auch bei uns in Deutschland. 
+Um sie zu verstehen, ist eine ganzheitliche
+Betrachtung der Erde notwendig.
+Geoinformationen spielen hierbei eine Schlüsselrolle, da sie 
+es ermöglichen, Veränderungen der
+Erdoberfläche präzise zu erfassen. Sie sind
+unverzichtbar, um fundierte Entscheidungen zu treffen 
+und die Auswirkungen menschlicher Eingriffe 
+in natürliche Systeme zu bewerten. Nur durch 
+gemeinsames Handeln können wir diesen
+komplexen Herausforderungen wirksam begegnen. 
+Eine enge internationale Zusammenarbeit ist 
+daher der einzige Weg, um globale Lösungen 
+für eine nachhaltige und widerstandsfähige
+Zukunft für alle Menschen zu finden.
+Auf europäischer Ebene trägt das Copernicus-
+Programm der Europäischen Union durch die 
+Bereitstellung von Erdbeobachtungsdaten zur 
+Überwachung von Umweltveränderungen und 
+zum Krisenmanagement bei. Die INSPIRE-
+Richtlinie harmonisiert Geoinformationen in 
+Europa und verbessert den Zugang zu
+raumbezogenen Informationen. Auch wenn
+Copernicus und INSPIRE in diesem Bericht nicht
+ausführlich behandelt werden, sind sie bedeutende 
+europäische Initiativen, die den Zugang zu
+Geoinformationen und die internationale
+Zusammenarbeit fördern.
+Der Globale Geodätische Referenzrahmen 
+(GGRF) ermöglicht Nutzerinnen und Nutzern, 
+die Standorte auf der Erde genau zu
+bestimmen sowie Veränderungen der Erde in Raum 
+und Zeit zu quantifizieren. Er bildet somit die 
+Grundlage für die Sammlung, Integration und 
+Nutzung aller Geoinformationen. 2023
+wurde auf dem UN-Campus in Bonn das United 
+Nations Global Geodetic Centre of Excellence 
+(UN-GGCE) gegründet, um die Erstellung des 
+globalen Referenzrahmens langfristig zu
+sichern und insbesondere Entwicklungsländer 
+beim Aufbau einer geodätischen Infrastruktur 
+zu unterstützen. Diese geodätische
+Infrastruktur bildet auch die Grundlage für die Land
+Degradation Neutrality Initiative (GEO-LDN), die 
+darauf abzielt, mithilfe von Geoinformationen 
+den Verlust von Böden zu stoppen. Durch den 
+vereinfachten Zugang zu
+Erdbeobachtungsinformationen, Analysewerkzeugen und
+Wissenstransfer können Länder ihre Strategien zur 
+Landnutzung nachhaltiger gestalten. Des
+Weiteren können Fortschritte beim Schutz und der 
+Wiederherstellung von Böden effektiv
+nachverfolgt sowie fundierte Entscheidungen zur
+zukünftigen Landnutzung getroffen werden.
+Diese Projekte verdeutlichen eindrucksvoll, 
+wie eine internationale Zusammenarbeit im 
+Internationale 
+ Zusammenarbeit
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 49 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+50
+Bereich der Geoinformation zur Lösung
+zentraler globaler Herausforderungen beitragen kann. 
+Internationale Kooperation ist nicht nur
+wünschenswert – sie ist der Schlüssel für eine
+nachhaltige Zukunft.
+1. Gründung des Exzellenzzentrums der
+Geodäsie der Vereinten Nationen
+(UN-GGCE)
+Um Katastrophensituationen besser verstehen, 
+vorhersagen und managen zu können,
+werden Erdbeobachtungsdaten benötigt, um z. B. 
+Veränderungen des Meeresspiegels oder
+Bewegungen der Erdkruste zu beschreiben. Das 
+Expertenkomitee „UN Global Geospatial
+Information Management (UN GGIM)“ der
+Vereinten Nationen koordiniert seit 2011 Themen 
+der Geoinformation und Geodäsie zwischen 
+den Mitgliedstaaten (ggim.un.org). Die dort
+entwickelten Strategien und Maßnahmen tragen 
+zur besseren Verwendung von aktuellen und 
+amtlichen Erdbeobachtungsdaten (Geodaten) 
+zusammen mit anderen Fachdaten (z. B. aus der 
+Statistik) bei. Sie dienen auch der Kontrolle, um 
+die Ziele der UN-Nachhaltigkeitsstrategie
+Agenda 2030 zu erreichen. 
+Solche Erdbeobachtungen erfordern eine
+hochgenaue Positionsbestimmung, die in allen UN-
+Mitgliedstaaten in gleicher Qualität verfügbar 
+sein muss. Nur so können Länder und
+Hilfsorganisationen in Katastrophensituationen effizient 
+und effektiv handeln, ohne durch
+unterschiedliche staatliche Zuständigkeiten, heterogene 
+Datenquellen oder unterschiedliche
+Berechnungsmethoden ins Hintertreffen zu geraten. 
+Hochgenaue Positionsbestimmungen sind Teil 
+der Geodäsie, der Wissenschaft von der
+Vermessung und Abbildung der Erdoberfläche.
+Im Jahr 2015 wurde in der UN-
+Generalversammlung die UN-GGIM-Resolution zum Globalen 
+Geodätischen Referenzrahmen (GGRF)
+verabschiedet, in der die Bedeutung des GGRF als 
+Grundlage für eine nachhaltige Entwicklung
+eines Staates sowie für die Sammlung, Integration 
+und Nutzung aller Geoinformationen
+hervorgehoben wird. Eine Maßnahme zur Umsetzung 
+dieser Resolution war der Aufbau eines UN-
+Zentrums für die Geodäsie. 2020 hat Deutschland 
+den Zuschlag für die Einrichtung des „United
+Nations Global Geodetic Centre of Excellence (UN-
+GGCE)“ (ggim.un.org/UNGGCE) erhalten. 
+Am 29.03.2023 wurde das UN-GGCE auf dem 
+UN-Campus in Bonn feierlich von der
+Staatssekretärin des BMI, Juliane Seifert, eröffnet.
+Finanziert wird es aus dem Haushalt des Bundesamts 
+für Kartographie und Geodäsie (BKG). 
+Die Hauptaufgabe des UN-GGCE ist die
+Koordination einer dauerhaft weltweit abgestimmten 
+Geodäsie-Lieferkette. Diese Lieferkette umfasst 
+Beobachtungsstationen auf der ganzen Welt, die 
+Aufgaben der Daten- und Analysezentren sowie 
+den geodätischen Referenzrahmen. Eine
+funktionsfähige Geodäsie-Lieferkette bildet die
+Grundlage für sicherheitskritische Anwendungen, die 
+nationale Sicherheit, die Überwachung des
+Klimawandels, für mobile Dienste und industrielle 
+Anwendungen wie Luftfahrt, Landwirtschaft,
+Infrastrukturentwicklung und Verkehr. Kein
+Mitgliedstaat kann alle Anforderungen dieser
+Geodäsie-Lieferkette alleine erfüllen.
+Abbildung 24: Logo des United Nations Global Geodetic Centre of 
+Excellence (UN-GGCE).
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 50 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+51
+Die Hauptziele des UN-GGCE unter dem Motto 
+„Stronger.Together“ sind: 
+• Unterstützung der UN-Mitgliedstaaten und
+geodätischen Organisationen bei der Planung von
+Maßnahmen zur Stärkung der Zusammenarbeit
+• Koordination der Investitionen in die globale
+Geodäsie-Lieferkette
+• Erleichterung des Zugangs zu geodätischen
+Daten, der Standardisierung von Abläufen der
+globalen Geodäsie sowie bei der regionalen und
+lokalen Verdichtung der geodätischen
+Infrastruktur
+• Technische Unterstützung im Fachbereich der
+Geodäsie, insbesondere beim Kapazitätsaufbau
+in Entwicklungsländern
+Deutschland ist bestrebt, einen dauerhaften
+Betrieb des UN-GGCE in Bonn sicherzustellen.
+Daher wurde die Vereinbarung mit den Vereinten 
+Nationen am 12. Februar 2025 um weitere fünf 
+Jahre (2026–2030) verlängert.
+2. Geodaten für Entwicklung – Unterstützung
+des GEO-LDN Flagship, um den Verlust von
+Böden zu stoppen
+Die Land Degradation Neutrality Initiative 
+der Group on Earth Observations (GEO-LDN) 
+unterstützt Länder dabei, den Verlust von
+Böden bis 2030 zu stoppen. Die Initiative
+wurde 2018 ins Leben gerufen, um die Beschlüsse 
+des internationalen „Übereinkommens der 
+Vereinten Nationen zur Bekämpfung der
+Desertifikation“ (UNCCD) umzusetzen. Im
+Auftrag des Bundesministeriums für
+wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) 
+stellt die Deutsche Gesellschaft für
+Internationale Zusammenarbeit (GIZ) GmbH seit 2022 
+das GEO-LDN-Sekretariat. Das Engagement 
+Deutschlands für GEO-LDN wird international 
+anerkannt – sowohl von den UNCCD-
+Vertragsparteien als auch von den 115 Mitgliedstaaten 
+der Group on Earth Observations, die GEO-
+LDN zum GEO-Flagship ernannt haben.
+Abbildung 25: Feierliche Eröffnung des UN-GGCE durch Staatssekretärin Juliane Seifert am 29. März 2023.
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 51 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+52
+Auf Grundlage eines klaren politischen
+Mandats der UNCCD-Vertragsparteien (Beschluss 9/
+COP 13) wurde 2018 in Kyoto die GEO-LDN-
+Initiative von der Group on Earth Observations 
+(GEO) gegründet. Die UNCCD-
+Vertragsparteien würdigten den Beitrag der GEO-LDN-
+Initiative sowohl bei der COP 14 (New Delhi 2019), als 
+auch bei der COP 15 (Abidjan 2022) und
+bekräftigten den Auftrag zur Unterstützung bei der
+Berichterstattung zu LDN. Gleichzeitig stärkten sie 
+die Initiative in ihren Aufgaben, das LDN-
+Monitoring für die Planung und Umsetzung von LDN 
+nutzbar zu machen und die politische Relevanz 
+von Erdbeobachtungsdaten und -tools zu
+erhöhen. Bei der Umsetzung von LDN geht es um das 
+Prinzip, dass keine weitere Verschlechterung der 
+Landflächen im Vergleich zum Ausgangszustand 
+im Jahr 2000 erfolgen soll. Sieben Beschlüsse der 
+COP 15 (Abidjan 2022) beziehen sich direkt auf 
+GEO-LDN und äußern teilweise sehr konkrete 
+Bedürfnisse der Vertragsstaaten.
+GEO-LDN arbeitet eng mit der UN-Konvention 
+zur Bekämpfung der Desertifikation (UNCCD) 
+zusammen und hat bedeutende Fortschritte bei 
+der Unterstützung der Berichterstattung zum 
+Nachhaltigkeitsziel SDG 15.3.1 und seinen
+Unterindikatoren erzielt. Durch das Engagement 
+des Bundesministeriums für wirtschaftliche
+Zusammenarbeit und Entwicklung (BMZ) wurde 
+die „GEO Land Degradation Neutrality“ Initiative 
+(GEO-LDN) im Rahmen des neuen GEO-
+Arbeitsprogramms zu einem Vorzeigeprojekt („Flagship 
+Initiative“) der „GEO aufgewertet.
+Die GEO­LDN­Initiative trägt ent
+scheidend zur Erreichung von SDG 15 „Leben 
+an Land“ bei.
+GEO-LDN unterstützt Partnerländer dabei, bis 
+2030 weiteren Verlust produktiver Landflächen 
+zu stoppen. Durch den vereinfachten Zugang zu 
+Erdbeobachtungsinformationen,
+Analysewerkzeugen und dem zugehörigen Aufbau von
+Kompetenzen zur Auswertung der Daten können 
+diese Länder ihre Strategien zur Landnutzung 
+nachhaltiger gestalten, Fortschritte beim Schutz 
+und der Wiederherstellung von Böden effektiv 
+nachverfolgen und fundierte Entscheidungen 
+zur zukünftigen Landnutzung treffen.
+Durch die Förderung der GEO-LDN-
+Initiative unterstützt Deutschland den Kampf gegen 
+Landdegradation.
+Das Sekretariat für die Initiative ist in
+Deutschland bei der GIZ am Standort Bonn angesiedelt. 
+Die GIZ stellt eine der drei GEO-LDN Ko-
+Vorsitzenden. Zudem gibt es vier Facharbeitsgruppen: 
+Aufbau von Kompetenzen, Datenqualität-
+Standards, Datenanalyse und Entscheidungshilfen, 
+die politische Akteure darin unterstützen,
+fundierte Entscheidungen zur Landnutzung und 
+-bewirtschaftung zu treffen. 
+Die LDN-Toolbox, eine Sammlung relevanter 
+und frei verfügbarer Software, Datensätze und 
+Methoden zur Messung von Degradation und 
+Planung von Ausgleichsmaßnahmen, unterstützt 
+Länder dabei, den Anteil an degradierten
+Flächen zu stabilisieren oder zu verringern. 
+GEO-LDN stärkt den Wissenstransfer und den 
+Kompetenzaufbau in den Partnerländern. Dazu 
+gehören u. a. eine Reihe von Online-Seminaren 
+sowie E-Learnings, die in Zusammenarbeit mit 
+der FAO und der UNCCD angeboten werden. Des 
+Weiteren wurde der erste Postgraduierten-
+Studiengang zu LDN mit Unterstützung der
+University for Energy and Natural Resources (UENR) in 
+Sunyani, Ghana, entwickelt. Der Studiengang soll 
+Modellcharakter haben.
+Mit der Unterstützung von GEO-LDN können die 
+Partnerregierungen Interventionen priorisieren, 
+Ergebnisse überwachen, die Bewirtschaftung ihres 
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 52 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+53
+Landes verbessern und den Umsetzungsstand an 
+die UNCCD berichten, um so zum Monitoring der 
+Erreichung der nachhaltigen Entwicklungsziele 
+(SDG) beizutragen. In Dialogveranstaltungen
+sowie durch den Online-Support entwickelt GEO-
+LDN gemeinsam mit den Partnerländern
+Lösungen für nationale Anwendungsfälle im Bereich 
+Landnutzung. Dies umfasst z. B. die Entwicklung 
+einer flächenschonenden Raumplanung,
+nachhaltiges Wald- und Weidemanagement oder die 
+Planung von Maßnahmen zur Wiederherstellung 
+von Ackerland, Weideland, Wäldern und
+Flusslandschaften. Ein zentrales Prinzip dabei ist, dass 
+Lösungen von Anfang an gemäß den „Digital
+Development Principles“ (Design with people) in
+enger Zusammenarbeit mit den betroffenen
+Nutzerinnen und Nutzern entwickelt werden.
+Die GEO­LDN­Initiative fördert globale 
+Umwelt ziele und deutsche
+Entwicklungsprioritäten.
+Ein anschauliches Beispiel für die erfolgreiche 
+Unterstützung der UNCCD-Vertragsstaaten ist 
+der Anwendungsfall zur Reduzierung der
+Entwaldung und der damit verbundenen
+Bodenerosion im Einzugsgebiet des Lake Baringo in Kenia. 
+Eine Arbeitsgruppe, bestehend aus
+Vertreterinnen und Vertretern von Ministerien,
+Universitäten und Nicht-Regierungsorganisationen, hat 
+mithilfe von Geoinformationen die besonders 
+stark von Landdegradation betroffenen
+Gebiete kartiert und geeignete Standorte für die
+Wiederaufforstung mit passenden einheimischen 
+Baumarten identifiziert. GEO-LDN unterstützte 
+das Team bei der Auswahl relevanter
+raumbezogener Daten und stellte ein
+benutzerfreundliches, webbasiertes Geoinformationssystem zur 
+Entscheidungsunterstützung bereit. Das Team 
+verteilt nun Setzlinge an Schulen in den
+ausgewählten Gebieten und plant, Satellitendaten 
+auch für das Monitoring des Erfolgs der
+Wiederaufforstungsmaßnahmen zu nutzen.
+Der nächste Meilenstein für GEO-LDN ist die 
+16. Vertragsstaatenkonferenz (UNCCD COP 16)
+der UNCCD im Dezember 2024 in Riad, Saudi-
+Arabien. Auf der COP 16 wird GEO gemeinsam
+mit GEO-LDN einen Pavillon präsentieren und
+auf hochrangigen Side Events zeigen, wie die
+Nutzung von Geodaten dazu beitragen kann,
+Landressourcen zu überwachen und nationale
+Entscheidungen sowie Planungen zu verbessern.
+Ein besonderer Schwerpunkt liegt dabei auf der
+Integration dieser Überlegungen in den nächsten
+Strategierahmen der UNCCD.
+Deutschland ist maßgeblich an der GEO-
+Flagship-Initiative zur „Land Degradation 
+Neutrality“ (GEO-LDN) beteiligt und stellt das 
+Sekretariat der Initiative in Bonn. Mit der
+finanziellen Unterstützung des BMZ in Höhe 
+von 6,2 Millionen Euro über viereinhalb Jahre 
+wird die Initiative gestärkt, um den Zugang 
+zu Erdbeobachtungsdaten zu erleichtern und 
+Kapazitäten für nachhaltiges
+Landmanagement aufzubauen.
+GEO-LDN unterstützt die Umsetzung des 
+Nachhaltigkeitsziels SDG 15.3.1, das darauf 
+abzielt, den Anteil degradierter Landflächen 
+bis 2030 zu stabilisieren oder zu verringern. 
+Die Initiative hilft den Ländern, die
+Fortschritte beim Schutz und bei der
+Wiederherstellung von Böden nachzuverfolgen 
+und fundierte Entscheidungen zur
+Landnutzung zu treffen.
+Mit der Unterstützung von GEO-LDN
+leistet Deutschland einen wichtigen Beitrag zur 
+Umsetzung globaler Umweltagenden und der 
+UNCCD-Beschlüsse. GEO-LDN arbeitet an der 
+Schnittstelle der drei Rio-Konventionen und 
+des Sendai-Rahmenwerks und unterstützt
+digitale und multilaterale Ansätze in der
+deutschen Entwicklungszusammenarbeit.
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 53 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+54
+Dieser Bericht verdeutlicht anhand zahlreicher 
+Leuchtturmprojekte die zentrale Rolle von
+Geoinformationen in unserer Gesellschaft. Sie sind 
+heute in nahezu allen Lebensbereichen präsent 
+und unverzichtbar. Geoinformationen helfen 
+uns, den Raum, in dem wir leben, zu verstehen, 
+Informationen zu bündeln und zu verknüpfen, 
+um auf dieser Basis fundierte Entscheidungen 
+für zukunftsfähige Lösungen zu treffen. Ob in 
+der Mobilität, der Stadtplanung, im Klimaschutz 
+oder der Sicherheitsvorsorge – raumbezogene 
+Daten liefern den entscheidenden Mehrwert, 
+um komplexe Zusammenhänge zu erfassen und 
+nachhaltig zu handeln. So können wir unsere 
+Gesellschaft fortwährend modernisieren und
+resilienter gestalten.
+Geoinformationen sind heute in
+nahezu allen Lebensbereichen präsent 
+und unverzichtbar.
+Neben klassischen Produkten wie
+topografischen Karten und Navigationsdiensten
+ermöglicht der technische Fortschritt heute
+Anwendungen, die früher undenkbar waren. 
+Wesentliche Treiber dieser Entwicklung sind der 
+vermehrte Einsatz moderner
+Datenerfassungsmethoden, insbesondere der Fernerkundung, 
+kombiniert mit der fortschreitenden
+Digitalisierung. Die rasanten Entwicklungen erlauben es 
+uns, große Bereiche unseres Landes innerhalb 
+kürzester Zeit flächendeckend zu erfassen. 
+Schlusswort
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 54 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+55
+Dabei entstehen enorme Datenmengen, deren 
+Auswertung und Sicherstellung der
+Datenqualität große Herausforderungen mit sich bringen. 
+Diesen begegnen wir mit modernen
+Methoden zur Datenanalyse, -verknüpfung und -
+darstellung. Insbesondere der zunehmende
+Einsatz Künstlicher Intelligenz (KI) ermöglicht eine 
+schnelle und effiziente Datenverarbeitung.
+Technologische Innovationen wie Building
+Information Modeling (BIM) und Digitale Zwillinge
+eröffnen völlig neue Möglichkeiten, um räumliche 
+Prozesse mit Informationen unterschiedlichster 
+Disziplinen zu verknüpfen, sie zu simulieren und 
+besser zu verstehen. Diese Trends prägen nicht 
+nur den aktuellen Fortschritt, sondern werden 
+auch künftige Innovationen in nahezu allen
+Lebensbereichen beeinflussen.
+Geoinformationen sind die räumliche
+Klammer und bilden einen Rahmen für
+Informationen und Simulationen.
+Es liegt auf der Hand, dass Geoinformationen 
+weiterhin von zentraler Bedeutung bleiben –
+sowohl auf nationaler als auch auf globaler Ebene. 
+Sie bilden die räumliche Klammer für eine
+Vielzahl verknüpfbarer Informationen, dienen als 
+Rahmen für Simulationen sowie als Basis für 
+Lösungen und Entscheidungen. Die
+Herausforderung besteht darin, diese Daten sinnvoll zu 
+nutzen, um die drängendsten Fragen unserer 
+Zeit zu beantworten, sei es in Bezug auf den
+Klimawandel, den Schutz natürlicher Ressourcen 
+oder die Sicherung der Lebensqualität. 
+Geoinformationen werden für die
+Gestaltung unserer Gesellschaft eine
+Schlüsselrolle einnehmen.
+Die Zukunft im Bereich der Geoinformationen 
+bleibt spannend. Die dynamische Entwicklung 
+bietet uns viele Chancen, die die Akteure im
+Geoinformationswesen sicherlich ergreifen werden, 
+um eine moderne, nachhaltige und resiliente
+Gesellschaft zu gestalten. Geoinformationen
+werden dabei eine Schlüsselrolle spielen – für eine
+sichere, vernetzte und zukunftsorientierte Welt.
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 55 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+56
+AA  . . . . . . . . . . . . . .  Auswärtiges Amt
+AdV . . . . . . . . . . . . .  Arbeitsgemeinschaft der Vermessungsverwaltungen 
+der Länder der Bundesrepublik Deutschland
+ALKIS . . . . . . . . . . .  Amtliches Liegenschaftskatasterinformationssystem
+API . . . . . . . . . . . . . .  Application Programming Interface
+ATKIS . . . . . . . . . . .  Amtliches Topographisch-Kartographisches Informationssystem
+BALM . . . . . . . . . . .  Bundesamt für Logistik und Mobilität
+BASt  . . . . . . . . . . . .  Bundesanstalt für Straßenwesen
+BBSR . . . . . . . . . . . .  Bundesinstitut für Bau-, Stadt- und Raumforschung
+BfG . . . . . . . . . . . . . .  Bundesanstalt für Gewässerkunde
+BiB . . . . . . . . . . . . . .  Bundesinstitut für Bevölkerungsforschung
+BKG . . . . . . . . . . . . .  Bundesamt für Kartographie und Geodäsie
+BMDV . . . . . . . . . . .  Bundesministerium für Digitales und Verkehr
+BMEL . . . . . . . . . . .  Bundesministerium für Ernährung und Landwirtschaft
+BMI . . . . . . . . . . . . .  Bundesministerium des Innern
+BMUV . . . . . . . . . . .  Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und 
+Verbraucherschutz
+BMWSB . . . . . . . . .  Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen
+BMZ . . . . . . . . . . . . .  Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung
+COP . . . . . . . . . . . . .  Conference of the Parties
+DFS  . . . . . . . . . . . . .  Deutsche Flugsicherung
+DGM . . . . . . . . . . . .  Digitales Geländemodell
+DigiZ-DE . . . . . . . .  Digitaler Zwilling Deutschland
+DLR . . . . . . . . . . . . .  Deutsches Zentrum für Luft- und Raumfahrt
+DMS  . . . . . . . . . . . .  Datenmanagementsystem
+DOP . . . . . . . . . . . . .  Digitales Orthofoto
+DVO . . . . . . . . . . . . .  Durchführungsverordnung
+DWD . . . . . . . . . . . .  Deutscher Wetterdienst
+DZSF . . . . . . . . . . . .  Deutsche Zentrum für Schienenverkehrsforschung
+FAQ . . . . . . . . . . . . .  Frequently Asked Questions
+GDI-DE  . . . . . . . . .  Geodateninfrastruktur Deutschland
+GEO . . . . . . . . . . . . .  Group on Earth Observations
+GEO-LDN . . . . . . .  Land Degradation Neutrality Initiative der Group on Earth Observations
+Abkürzungsverzeichnis
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 56 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+57
+GGRF  . . . . . . . . . . .  Globaler Geodätischer Referenzrahmen
+GIS . . . . . . . . . . . . . .  Geoinformationssystem
+GIZ . . . . . . . . . . . . . .  Deutsche Gesellschaft für Internationale Zusammenarbeit
+HVD  . . . . . . . . . . . .  High Value Datasets
+IF-Bund . . . . . . . . .  Innovative Fernerkundung für die Bundesverwaltung
+JKI  . . . . . . . . . . . . . .  Julius Kühn-Institut
+KI . . . . . . . . . . . . . . .  Künstliche Intelligenz
+KMK . . . . . . . . . . . .  Kultusministerkonferenz
+KOSTRA-DWD . .  Koordinierte Starkniederschlagsregionalisierung und -auswertung des DWD
+LAWA . . . . . . . . . . .  Bund/Länder-Arbeitsgemeinschaft Wasser
+LBM-DE . . . . . . . . .  Digitales Landbedeckungsmodell für Deutschland
+LG GDI-DE . . . . . .  Lenkungsgremium Geodateninfrastruktur Deutschland
+LGV . . . . . . . . . . . . .  Hamburger Landesbetrieb Geoinformation und Vermessung
+LiDAR . . . . . . . . . . .  Light Detection and Ranging
+LV/BV . . . . . . . . . . .  Landes- und Bündnisverteidigung
+NGIS . . . . . . . . . . . .  Nationale Geoinformationsstrategie
+NRW . . . . . . . . . . . .  Nordrhein-Westfalen
+OGC . . . . . . . . . . . . .  Open Geospatial Consortium
+OSI . . . . . . . . . . . . . .  Online-Service-Infrastruktur
+PoC  . . . . . . . . . . . . .  Point of Contact
+SatCen  . . . . . . . . . .  European Union Satellite Centre
+SDG . . . . . . . . . . . . .  Sustainable Development Goal
+SEA  . . . . . . . . . . . . .  Service in Support to EU External and Security Actions
+SESA . . . . . . . . . . . .  Service in Support to EU External Actions
+SKD . . . . . . . . . . . . .  Satellitengestützter Krisen- und Lagedienst
+StBA . . . . . . . . . . . . .  Statistisches Bundesamt
+UBA . . . . . . . . . . . . .  Umweltbundesamt
+UENR . . . . . . . . . . .  University for Energy and Natural Resources
+UNCCD . . . . . . . . .  United Nations Convention to Combat Desertification
+UNESCO . . . . . . . .  United Nations Educational Scientific and Cultural Organization
+UN-GGCE . . . . . . .  United Nations Global Geodetic Centre of Excellence
+VS-NfD . . . . . . . . . .  Verschlusssache – Nur für den Dienstgebrauch
+WFS . . . . . . . . . . . . .  Web Feature Service
+WMS . . . . . . . . . . . .  Web Map Service
+ZGeoBw . . . . . . . . .  Zentrum für Geoinformationswesen der Bundeswehr
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 57 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+58
+Abbildung 1: 
+Einzelbaumerkennung und die  
+anschließende Ableitung von  
+Merkmalen der Einzelbäume  . . . . . . . . . . . . . . . . . .  8
+Abbildung 2: 
+Die Elbphilharmonie Hamburg als 
+potenzielles Flughindernis?  . . . . . . . . . . . . . . . . . . . .  8
+Abbildung 3: 
+Das Digitallabor kann Planerinnen und 
+Planern sowie Entscheidungsträgerinnen 
+und Entscheidungsträgern helfen, ihre 
+Szenarien räumlich abzubilden  . . . . . . . . . . . . . . . .  9
+Abbildung 4: 
+Abgeleitete Landbedeckung für ein 
+Weinanbaugebiet in Baden-Württemberg  . . . . . 13
+Abbildung 5: 
+Teilergebnisse des Projekts Sat4GWR. 
+(Quelle: Geobasis NRW)  . . . . . . . . . . . . . . . . . . . . . . . 15
+Abbildung 6: 
+Teilergebnisse des Projekts Fe4ErSSiGG  . . . . . . . 16
+Abbildung 7: 
+Teilergebnisse des Projekts DatKI4BKG 
+(Quelle: LBM-DE © GeoBasis-DE/BKG 
+(2015); LBM-DE Ausschnitt © DLR (2023))  . . . . . 16
+Abbildung 8: 
+Untersuchungsgebiete des Projekts  
+FNEWs (Quelle: Thünen-Institut)  . . . . . . . . . . . . . 18
+Abbildung 9: 
+Ausschnitt des FNEWs-Jahresproduktes 
+am Huzenbacher See, hinterlegt mit einem 
+Luftbildausschnitt aus dem Jahr 2021  
+(Quelle: Thünen-Institut)  . . . . . . . . . . . . . . . . . . . . . 18
+Abbildung 10: 
+Gegenüberstellung der Luftbildqualitäten 
+der DOP und der Sentinel-2-Satellitenbilder 
+(Quelle: Vision Impulse GmbH 2024; DOP 
+© Geobasis-DE/BKG (2024), Sentinel-2 © 
+Copernicus (2024), Polygone © OSM (2023))  . . . 20
+Abbildung 11: 
+Beispielhafte Darstellung der KI-generierten 
+Klassifizierung von Brachflächen  
+(Quelle: Vision Impulse GmbH 2024; Bilder 
+© 2024 Airbus, Geobasis-DE/BKG, Maxar 
+Technologies, Kartendaten © 2024 GeoBasis-
+DE/BKG © 2009, Google)  . . . . . . . . . . . . . . . . . . . . . . 21
+Abbildung 12: 
+Prototyp des Sanierungszwillings der 
+Stadt Regensburg (Quelle: Amt für 
+Stadtentwicklung, Regensburg)  . . . . . . . . . . . . . . . 23
+Abbildungsverzeichnis
+Drucksache 21/3245 Deutscher Bundestag – 21. Wahlperiode– 58 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+59
+Abbildung 13: 
+Logo der Initiative BIM Deutschland, 
+© www.bimdeutschland.de  . . . . . . . . . . . . . . . . . . . 25
+Abbildung 14: 
+Drehscheibe DEU – Militärkonvoi 
+auf einer deutschen Autobahn, 
+© Bundeswehr/Marco Dorow  . . . . . . . . . . . . . . . . . 29
+Abbildung 15: 
+Mosaik aus hochaufgelösten
+Luftbildaufnahmen des Ahrtals, aufgenommen von 
+einem RECCE Tornado der Bundeswehr und 
+Detailaufnahmen von Altenburg bei Altenahr. 
+(Quelle: ZGeoBw)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Abbildung 16: 
+Überflutungstiefen für ein 
+außergewöhnliches (l.) und extremes (r.) 
+Starkregenereignis  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Abbildung 17: 
+Fließgeschwindigkeiten für ein 
+außergewöhnliches (l.) und extremes (r.) 
+Starkregenereignis  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Abbildung 18: 
+Schwerpunkte der NGIS 2.0  . . . . . . . . . . . . . . . . . . . 39
+Abbildung 19: 
+Gesellschaftliche Herausforderungen vs. 
+Schwerpunkte der NGIS 2.0  . . . . . . . . . . . . . . . . . . . 40
+Abbildung 20: 
+Darstellung der Nutzeroberfläche des 
+Online-Dienstes (sf.julius-kuehn.de/
+mapviewer/dynawi)  . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+Abbildung 21: 
+Historische Verteilung der 
+Agrarwetterindikatoren (AWI-Atlas)  . . . . . . . . . . 43
+Abbildung 22: 
+Spezialkarte Seewetter mit Regenradar, 
+Windgeschwindigkeit, -richtung und 
+Luftdruck, © BSH, 2024  . . . . . . . . . . . . . . . . . . . . . . . 46
+Abbildung 23: 
+Spezialkarte „Meeresinformationen“ mit 
+Regenradar, Pegelstationen Nordsee und 
+Ostsee und Warnungen Küste, © BSH, 2024  . . . 46
+Abbildung 24: 
+Logo des United Nations Global Geodetic 
+Centre of Excellence (UN-GGCE), © UN  . . . . . . . 50
+Abbildung 25: 
+Feierliche Eröffnung des UN-GGCE 
+durch Staatssekretärin Juliane Seifert am 
+29. März 2023, © BKG  . . . . . . . . . . . . . . . . . . . . . . . . . 51
+Drucksache 21/3245Deutscher Bundestag – 21. Wahlperiode – 59 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
