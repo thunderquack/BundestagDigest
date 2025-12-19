@@ -7,9 +7,9 @@ Sascha Lensing, Markus Matzerath, Arne Raue, Dr. Christian Wirth und
 der Fraktion der AfD
 Lagebericht 2025 des Bundesamtes für Sicherheit in der Informationstechnik
 Der aktuelle jährliche Bericht zur Lage der IT-Sicherheit in Deutschland wurde 
-vom Bundesminister des Innern Alexander Dobrindt und der Präsidentin des 
-Bundesamtes für Sicherheit in der Informationstechnik (BSI) am 11. November 
-2025 in der Bundespressekonferenz vorgestellt (www.youtube.com/watch?
+vom Bundesminister des Innern, Alexander Dobrindt, und der Präsidentin des 
+Bundesamtes für Sicherheit in der Informationstechnik (BSI) am 11.
+November 2025 in der Bundespressekonferenz vorgestellt (www.youtube.com/watch?
 v=WbVwPTbFZGY). Der Bericht bezieht sich auf den Zeitraum von 1. Juli 
 2024 bis 30. Juni 2025 (https://medien.bsi.bund.de/lagebericht/de/).
 Bei seiner Ansprache kündigte der Bundesinnenminister über den Inhalt des 
@@ -22,8 +22,8 @@ allerdings kein Hackback. […] Uns geht es darum, die rechtlichen Grundlagen zu
 schaffen, dass wir die digitalen Systeme der Angreifer, die Server und die
 Software, stören und zerstören können, um Gefahren abzuwehren. Bisher sind die 
 rechtlichen Grundlagen dafür nicht ausreichend. Wir werden diese rechtlichen 
-Grundlagen schaffen“ (vgl. Link YouTube oben, Minute 7:50 bis 9:35).
-Wie schon im Bericht 2024, wird die IT-Sicherheitslage anhand der fünf
+Grundlagen schaffen“ (vgl. Link YouTube a. a. O., Minute 7:50 bis 9:35).
+Wie schon im Bericht 2024 wird die IT-Sicherheitslage anhand der fünf
 Kriterien Bedrohungen, Angriffsfläche, Gefährdungen, Schadwirkungen und
 Resilienz beschrieben. Die Anzahl der Diagramme und Tabellen soll sich nach
 eigenen Angaben mit über 70 mehr als verdoppelt haben, während die Texte
@@ -34,39 +34,37 @@ Evidenz des Berichts suggeriert werden, die es aufgrund der Interpretierbarkeit
 deskriptiver Statistik und des hohen Dunkelfeldes jedoch nicht geben kann.
 Nach Auffassung der Fragesteller ist ferner auffällig, dass trotz des
 Berichtstitels „IT-Sicherheit“ in dem Handout durchgängig von „Cybersicherheit“ die 
-Rede ist und auch der Volltext diesbezüglich nicht hinreichend trennscharf
-formuliert.
+Rede und auch der Volltext diesbezüglich nicht hinreichend trennscharf
+formuliert ist.
 Der Bericht ist im Gegensatz zu seinen Vorgängerberichten nicht als ein
-vollumfängliches pdf-Dokument verfügbar, sondern ist lediglich als online-Version 
-einsehbar, ergänzt um ein siebenseitiges pdf-„Handout“, das „ausgewählte
-statistische Diagramme, Daten und Fakten“ enthält (www.bsi.bund.de/SharedDoc
-s/Downloads/DE/BSI/Publikationen/Lageberichte/Lagebericht2025_Achtseite
-r.pdf).
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+vollumfängliches PDF-Dokument verfügbar, sondern ist lediglich als
+Onlineversion einsehbar, ergänzt um ein siebenseitiges PDF-„Handout“, das „ausgewählte 
+statistische Diagramme, Daten und Fakten“ enthält (www.bsi.bund.de/SharedD
+ocs/Downloads/DE/BSI/Publikationen/Lageberichte/Lagebericht2025_Achtseit
+er.pdf).
 So führt laut Bericht die sich weiter zuspitzende geopolitische Lage zu einer 
 unverändert angespannten IT-Sicherheitslage (https://medien.bsi.bund.de/lage-
 bericht/de/zusammenfassung-und-bewertung/). Insbesondere Web-
 Angriffsflächen würden nach wie vor einen besorgniserregenden Zustand
 zeigen. Der Bericht beschreibt einen Trend weg von großen, aufwendigen
 Angriffen hin zu vielen kleinen, einfach durchzuführenden Angriffen, die sich gegen 
-KMU richten und 80 Prozent der angezeigten Angriffe ausmachen würden 
-(ebenda). Bei Datenleaks wurden die durchschnittlich höchsten Lösegelder seit 
-Beginn der Aufzeichnungen festgestellt (www.bsi.bund.de/SharedDocs/Downl
-oads/DE/BSI/Publikationen/Lageberichte/Lagebericht2025_Achtseiter.pdf, 
-S. 3). Gleichzeitig stellt der Bericht die These auf, dass die Summe der
-insgesamt gezahlten Lösegelder zurückgegangen sei, da Cyberangreifer mehr und 
-mehr auch mittlere, kleine und Kleinstunternehmen mit schwach geschützten 
-Angriffsflächen angreifen, auch wenn diese je Fall weniger Lösegeld erwarten 
-lassen würden (https://medien.bsi.bund.de/lagebericht/de/zusammenfassung-
-und-bewertung/).
+kleine und mittlere Unternehmen (KMU) richten und 80 Prozent der
+angezeigten Angriffe ausmachen würden (ebd.). Bei Datenleaks wurden die
+durchschnittlich höchsten Lösegelder seit Beginn der Aufzeichnungen festgestellt 
+(www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Lagebericht
+e/Lagebericht2025_Achtseiter.pdf, S. 3). Gleichzeitig stellt der Bericht die 
+These auf, dass die Summe der insgesamt gezahlten Lösegelder
+zurückgegangen sei, da Cyberangreifer mehr und mehr auch mittlere, kleine und
+Kleinstunternehmen mit schwach geschützten Angriffsflächen angreifen, auch wenn 
+diese je Fall weniger Lösegeld erwarten lassen würden (https://medi-
+en.bsi.bund.de/lagebericht/de/zusammenfassung-und-bewertung/).
 Im Hinblick auf Resilienz stellt der Bericht fest, dass die meldepflichtigen 
-KRITIS-Betreiber stetig Fortschritte erzielen, wirksame Maßnahmen,
-insbesondere bei politiknahen Institutionen oder Verbrauchern jedoch überwiegend noch 
-ausbeleiben (https://medien.bsi.bund.de/lagebericht/de/zusammenfassung-und-
-bewertung/).
+KRITIS (kritische Infrastrukturen)-Betreiber stetig Fortschritte erzielen,
+wirksame Maßnahmen, insbesondere bei politiknahen Institutionen oder
+Verbrauchern jedoch überwiegend noch ausbleiben (https://medien.bsi.bund.de/lageberi
+cht/de/zusammenfassung-und-bewertung/).
 Mit der weiteren Aussage „Kleine und mittlere Unternehmen: Alle sind
-gefährdet“ (ebenda) zeigt der Bericht nach Auffassung der Fragesteller eine weitere 
+gefährdet“ (ebd.) zeigt der Bericht nach Auffassung der Fragesteller eine weitere
 gravierende Unschärfe in den Begrifflichkeiten, da eine „Gefährdung“ nach der 
 BSI-eigenen Systematik erst dann entsteht, wenn „eine Bedrohung,
 beispielsweise ein Schadprogramm, auf eine Angriffsfläche, zum Beispiel einen
@@ -76,33 +74,31 @@ lagebericht/de/systematik-der-lagebewertung/). Auf Basis der BSI-eigenen
 Systematik wäre nach Auffassung der Fragesteller vielmehr die Aussage „Alle sind 
 bedroht“ zutreffend.
 Nach Auffassung der Fragesteller benennt der Bericht trotz seines statistischen 
-Darstellungsaufwandes bei weitem nicht hinreichend differenziert genug, 
-welche Arten von Klein- und Mittelständischen Unternehmen (KMU) sich im 
-Fokus von Cyberangriffen befinden. So sind nach Angaben des Statistischen 
-Bundesamtes (www.destatis.de/DE/Themen/Branchen-Unternehmen/Unterneh
-men/Kleine-Unternehmen-Mittlere-Unternehmen/aktuell-beschaeftigte.html#:
-~ : t e x t = M i t % 2 03 Prozent2C2 Prozent20 Millionen%20z%C3
+Darstellungsaufwandes bei Weitem nicht hinreichend differenziert genug, 
+welche Arten von kleinen und mittleren Unternehmen sich im Fokus von
+Cyberangriffen befinden. So sind nach Angaben des Statistischen Bundesamtes 
+(www.destatis.de/DE/Themen/Branchen-Unternehmen/Unternehmen/Kleine-U
+nternehmen-Mittlere-Unternehmen/aktuell-beschaeftigte.html#:~:text=Mit%
+2 03 Prozent2C2 Prozent20 Millionen%20z%C3
 ProzentA4hlte,rund%2021 Prozent20500 Prozent20als%20Gro%C3 Prozent9
 Funternehmen) im Jahr 2023 600 000 Unternehmen als KMU im engeren Sinne
 einzuordnen, während 2,6 Millionen Unternehmen als Kleinstunternehmen gelten. 
-Letztere verfügen lediglich über maximal neun Beschäftigte und maximal zwei 
-Millionen Euro Jahresumsatz, während es bei KMU im engeren Sinne bis zu 
-249 Beschäftigte und 50 Mio. Euro Jahresumsatz sind (www.destatis.de/DE/Th
-emen/Branchen-Unternehmen/Unternehmen/Kleine-Unternehmen-Mittlere-Unt
-ernehmen/Glossar/kmu.html). Auf welche KMU-Gruppierung sich der Bericht 
-bezieht bleibt nach Auffassung der Fragesteller größtenteils offen.
+Letztere verfügen lediglich über maximal neun Beschäftigte und maximal 
+2 Mio. Euro Jahresumsatz, während es bei KMU im engeren Sinne bis zu 249 
+Beschäftigte und 50 Mio. Euro Jahresumsatz sind (www.destatis.de/DE/Theme
+n/Branchen-Unternehmen/Unternehmen/Kleine-Unternehmen-Mittlere-Unterne
+hmen/Glossar/kmu.html). Auf welche KMU-Gruppierung sich der Bericht
+bezieht, bleibt nach Auffassung der Fragesteller größtenteils offen.
 Neben der fehlenden Betrachtung dieser Größenunterschiede von KMU bleibt 
 nach Auffassung der Fragesteller ebenfalls unbeleuchtet und damit für die
 Ableitung effizienter und effektiver Sicherheitsmaßnahmen ungenügend, wie die 
 Lage in den sehr unterschiedlichen KMU-Branchen ist, z. B. im Verarbeitenden 
-oder im Gast-Gewerbe, in der Wasserversorgung, im Handel oder in sonstigen 
+oder im Gastgewerbe, in der Wasserversorgung, im Handel oder in sonstigen 
 Dienstleistungsbranchen wie Kunst und Unterhaltung.
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Nach Auffassung der Fragesteller besteht durch eine solch undifferenzierte 
-Berichterstattung die Gefahr von Fehlanreizen für ein Kosten-
-Nutzensuboptimales Zuviel an zahlungswirksamen IT-Sicherheitsmaßnahmen, gerade 
-bei der weit überwiegenden Anzahl an Kleinstunternehmen.
+Berichterstattung die Gefahr von Fehlanreizen für ein Kosten-Nutzen
+suboptimales Zuviel an zahlungswirksamen IT-Sicherheitsmaßnahmen, gerade bei der 
+weit überwiegenden Anzahl an Kleinstunternehmen.
 Als eine Schlussfolgerung sieht der Bericht für das Jahr 2026 den Schutz der 
 Angriffsflächen als entscheidendes Element für die Verbesserung der
 Cybersicherheit (www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/L
@@ -114,22 +110,22 @@ zusammenfassung-und-bewertung/).
 Wir fragen die Bundesregierung:
  1. Steht die Aussage des Berichts, dass die sich weiter zuspitzende
 geopolitische Lage zu einer unverändert angespannten IT-Sicherheitslage führt 
-(vgl. Vorbemerkung), in Zusammenhang mit dem Säulendiagramm „APT-
-Gruppen 2025 nach Zielland (Top 10)“ (https://medien.bsi.bund.de/lagebe
-richt/de/apt-gruppen/), wenn ja, in welchem?
+(vgl. Vorbemerkung der Fragesteller), in Zusammenhang mit dem
+Säulendiagramm „APT-Gruppen 2025 nach Zielland (Top 10)“ (https://medien.b
+si.bund.de/lagebericht/de/apt-gruppen/), und wenn ja, in welchem?
 a) Inwieweit steht die Erläuterung zum Säulendiagramm, dass es sich bei 
 Deutschland und Großbritannien um zwei westeuropäische Länder 
 handele, in Zusammenhang mit einer sich weiter zuspitzenden
 geopolitischen Lage, warum weist nach Kenntnis der Bundesregierung 
-Großbritannien einen 20 Prozent geringeren Wert als Deutschland auf 
+Großbritannien einen 20 Prozent geringeren Wert als Deutschland auf, 
 und warum weist Frankreich nach Kenntnis der Bundesregierung 
 einen offenbar nochmals deutlich geringeren Wert als Deutschland 
-auf, da es sich nicht in den TOP10 befindet?
-b) Steht die Anzahl der in einem Zielland operierenden APT‑Gruppen 
-mit dem Ausmaß zwischenstaatlicher Spannungen des Ziellandes in 
-Zusammenhang, wenn ja, wie ist es nach Kenntnis der
-Bundesregierung zu interpretieren, dass Japan einen höheren Wert als Deutschland 
-aufweist?
+auf, da es sich nicht in den Top Ten befindet?
+b) Steht die Anzahl der in einem Zielland operierenden APT (Advanced 
+Persistent Threats)‑Gruppen mit dem Ausmaß zwischenstaatlicher 
+Spannungen des Ziellandes in Zusammenhang, und wenn ja, wie ist es 
+nach Kenntnis der Bundesregierung zu interpretieren, dass Japan einen 
+höheren Wert als Deutschland aufweist?
 c) Aus welchen Gründen beinhaltet der Bericht an dieser Stelle lediglich 
 die Anzahl der APT-Gruppen in einem Zielland, nicht jedoch der
 Anzahl von APT-Angriffskampagnen auf ein Zielland?
@@ -148,12 +144,11 @@ wirkungsvolles Angriffsflächenmanagement in Form einer robusten
 Cybersicherheits-Governance-Struktur umzusetzen (https://medi-
 en.bsi.bund.de/lagebericht/de/web-angriffsflaechen-
 derbundesverwaltung/)?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 a) Wird dieses Vorhaben mit einer spezifischen Projektstruktur verfolgt, 
-wenn ja, sind dieser bereits die notwendigen Ressourcen zugeordnet?
+und wenn ja, sind dieser bereits die notwendigen Ressourcen
+zugeordnet?
 b) Haben Maßnahmen zur Zielerreichung bereits begonnen, wenn ja, 
-wann und mit welchem Ergebnis, wenn nein, warum nicht?
+wann, und mit welchem Ergebnis, und wenn nein, warum nicht?
 c) Aus welchen Gründen existieren im Jahr 2025 überhaupt noch
 veraltete, nicht aktualisierte Systeme der Web-Angriffsfläche der
 Bundesverwaltung?
@@ -164,104 +159,98 @@ quantifizieren (https://medien.bsi.bund.de/lagebericht/de/gefaehrdungslag
 e-der-kleinen-und-mittleren-unternehmen/)?
 a) Handelt es sich bei diesen „KMU“ um die ca. 600 000 KMU im
 engeren Sinne oder auch um die ca. 2,6 Millionen Kleinstunternehmen 
-(vgl. Vorbemerkung)?
+(vgl. Vorbemerkung der Fragesteller)?
 b) Liegen der Bundesregierung Kenntnisse über die
-Branchenzugehörigkeiten dieser „KMU“ vor, wenn ja, welche?
-c) Handelt es sich bei der Aussage „Auch im aktuellen Berichtszeitraum 
-besitzen „viele“ Unternehmen nach Erfahrung des BSI weder eine 
-ausreichende Kenntnis über die allgemeine Cyberbedrohungslage 
-noch über das eigene Risikoprofil“ um empirische Befunde oder um 
-anekdotische Evidenz und wie kann diese Aussage quantifiziert
+Branchenzugehörigkeiten dieser „KMU“ vor, und wenn ja, welche?
+c) Handelt es sich bei der Aussage, „(a)uch im aktuellen
+Berichtszeitraum besitzen ‚viele‘ Unternehmen nach Erfahrung des BSI weder 
+eine ausreichende Kenntnis über die allgemeine Cyberbedrohungslage 
+noch über das eigene Risikoprofil“, um empirische Befunde oder um 
+anekdotische Evidenz, und wie kann diese Aussage quantifiziert
 werden?
 d) Handelt es sich bei der Aussage, dass IT-affine KMU „teils
 feststellen“, dass es in ihrer Region entweder zu wenig qualifizierte
 Dienstleister gibt oder nur solche, die nicht zu ihrer eigenen
-Unternehmensgröße passen um empirische Befunde oder um anekdotische Evidenz 
+Unternehmensgröße passen, um empirische Befunde oder um anekdotische Evidenz, 
 und wie kann diese Aussage quantifiziert werden (ebd.)?
  4. Wie begründet die Bundesregierung die These des Berichts (vgl.
-Vorbemerkung), dass Cyberangreifer mehr und mehr auch mittlere, kleine und 
-Kleinstunternehmen mit schwach geschützten Angriffsflächen angreifen, 
-auch wenn diese je Fall weniger Lösegeld erwarten lassen würden?
-a) Ist dieser Trend quantifizierbar, wenn ja, aus welchen Gründen wurde 
-kein entsprechendes Diagramm für diesen Zusammenhang erstellt?
+Vorbemerkung der Fragesteller), dass Cyberangreifer mehr und mehr auch
+mittlere, kleine und Kleinstunternehmen mit schwach geschützten
+Angriffsflächen angreifen, auch wenn diese je Fall weniger Lösegeld erwarten lassen 
+würden?
+a) Ist dieser Trend quantifizierbar, und wenn ja, aus welchen Gründen 
+wurde kein entsprechendes Diagramm für diesen Zusammenhang
+erstellt?
 b) Sieht die Bundesregierung diese These im Widerspruch zu der von ihr 
 im Bericht zitierten Sicherheitsfirma Chainanalysis, die in ihrem 
 X‑Tweet vom 30. Juli 2024 von dem immer deutlicher werdenden 
 Trend zur Großwildjagd bei Cybererpressungen spricht, wonach 
 „weniger Attacken auf größere Ziele mit tieferen Taschen“ zu
 verzeichnen sind (www.bleepingcomputer.com/news/security/
-darkangels-ransomware-receives-record-breaking-75-million-ransom/)
+darkangels-ransomware-receives-record-breaking-75-million-ransom/)?
  5. Ist die Aussage des Berichts, die öffentliche Verwaltung meldete vor allem 
 DDoS-Angriffe mit „geringer“ technischer Schadwirkung näher
 quantifizierbar, wenn ja, wie hoch ist die Schadwirkung (https://medien.bsi.bun
 d.de/lagebericht/de/geschaedigte-in-gesellschaft-wirtschaft-und-oeffentlic
 her-verwaltung/)?
-a) Ist die Aussage des Berichts, dass längerfristige Schäden durch 
-DDoS‑Angriffe allein „selten“ seien näher quantifizierbar, wenn ja, 
-wie oft ist selten?
+a) Ist die Aussage des Berichts, dass längerfristige Schäden durch DDoS 
+(Distributed Denial of Service)‑Angriffe allein „selten“ seien, näher 
+quantifizierbar, und wenn ja, wie oft ist „selten“?
 b) Ist die Aussage des Berichts, bei DDoS‑Angriffen handele es sich um 
-ein „beliebtes“ Werkzeug für Cyberhacktivismus näher quantifizier-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-bar, wenn ja, wie viele der im aktuellen Berichtszeitraum erfolgten 
-196 Meldungen und wie viele der davon als externer Angriff
+ein „beliebtes“ Werkzeug für Cyberhacktivismus näher
+quantifizierbar, und wenn ja, wie viele der im aktuellen Berichtszeitraum
+erfolgten 196 Meldungen und wie viele der davon als externer Angriff
 eingeschätzten 64 Vorfälle sind auf Cyberhacktivisten zurückzuführen?
 c) Aus welchem Grund wird als einziges Beispiel für Cyberhacktivismus 
-die russische Gruppe NoName057(16) vorgestellt und welchen Anteil 
+die russische Gruppe NoName057(16) vorgestellt, und welchen Anteil 
 haben nach Erkenntnis der Bundesregierung umwelt-, religiös- oder 
 sozioökonomisch motivierte deutsche Hacktivistengruppen an
 Cyberangriffen in Deutschland?
- 6. Betrachtet die Bundesregierung die Begriffe IT-Sicherheit und
-Cybersicherheit als synonym und, wenn ja, wie begründet die Bundesregierung 
-ihre Auffassung und, wenn nein, worin bestehen nach Auffassung der 
+ 6. Betrachtet die Bundesregierung die Begriffe „IT-Sicherheit“ und
+„Cybersicherheit“ als synonym, wenn ja, wie begründet die Bundesregierung ihre 
+Auffassung, und wenn nein, worin bestehen nach Auffassung der
 Bundesregierung Unterschiede?
  7. Aus welchen Gründen wurde auf die Erstellung eines vollumfänglichen 
-pdf-Formats zusätzlich zur Lagebericht-Website verzichtet?
+PDF-Formats zusätzlich zur Lageberichtwebsite verzichtet?
  8. Wie hoch waren die Kosten für die Erstellung der Website zum
 Lagebericht 2025?
-a) Wie viele Personentage wurden für die Erstellung des Lageberichts 
-2025 aufgebracht (bitte aufschlüsseln nach BSI, BMI und
-Dienstleistern)?
+a) Wie viele Personentage wurden für die Erstellung des
+Lageberichts 2025 aufgebracht (bitte nach BSI, BMI und Dienstleistern
+aufschlüsseln)?
 b) Wie viele Personen waren hauptsächlich mit der Erstellung des
 Lageberichts 2025 beschäftigt?
 c) Wie hoch waren die Kosten für die Erstellung der Lageberichte der 
-Jahre 2020 bis 2024 und welchen Umfang hatten diese Berichte
+Jahre 2020 bis 2024, und welchen Umfang hatten diese Berichte
 jeweils?
- 9. Ist es geplant, den Berichtstext aufgrund des, mit nur geringem Aufwand 
-änderbaren online-Formats dynamisch fortzuschreiben bis zur Erstellung 
+ 9. Ist es geplant, den Berichtstext aufgrund des mit nur geringem Aufwand 
+änderbaren Onlineformats dynamisch fortzuschreiben bis zur Erstellung 
 des nächstjährigen Lageberichts?
-10. Ist er Lagebericht 2025 für einen spezifischen Adressatenkreis formuliert, 
-z. B. Wissenschaft, Wirtschaft, Verbraucher und unterscheidet er sich
-darin von früheren BSI-Lageberichten?
+10. Ist der Lagebericht 2025 für einen spezifischen Adressatenkreis
+formuliert, z. B. Wissenschaft, Wirtschaft, Verbraucher, und unterscheidet er 
+sich darin von früheren BSI-Lageberichten?
 11. Welche Initiativen werden von der Bundesregierung ergriffen oder sind in 
 Planung, um der Einschätzung des Berichts nachzukommen, im Jahr 2026 
 sei der Schutz der Angriffsflächen das entscheidende Element für die
-Verbesserung der Cybersicherheit in Deutschland (vgl. Vorbemerkung)?
+Verbesserung der Cybersicherheit in Deutschland (vgl. Vorbemerkung der 
+Fragesteller)?
 12. Welche Initiativen werden von der Bundesregierung ggf. ergriffen oder 
 sind in Planung, um der Einschätzung des Berichts nachzukommen,
 Vorgaben für die Cyberresilienz der Institutionen, die die politische
 Willensbildung in Deutschland tragen, sollten dringend gesetzlich geregelt
-werden (vgl. Vorbemerkung)?
+werden (vgl. Vorbemerkung der Fragesteller)?
 13. Wie ist die Ankündigung des Bundesinnenministers zu verstehen,
 rechtliche Grundlagen dafür zu schaffen, digitale Infrastruktur von Angreifern 
 auch außerhalb der Bundesrepublik Deutschland zerstören zu können, 
-ohne dass es sich dabei um einen Hackback handele (vgl. Vorbemerkung)?
+ohne dass es sich dabei um einen Hackback handele (vgl. Vorbemerkung 
+der Fragesteller)?
 a) Ist die Bezugnahme auf die Gefahrenabwehr als Ankündigung
 weiterer Befugnisse für Bundespolizei und BSI zu verstehen?
 b) Werden die angekündigten gesetzlichen Grundlagen auch in das 
 Grundgesetz eingreifen?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 c) Wann ist mit einer entsprechenden parlamentarischen Initiative zu 
 rechnen?
 Berlin, den 8. Dezember 2025
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
