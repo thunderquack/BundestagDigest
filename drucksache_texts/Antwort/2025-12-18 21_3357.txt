@@ -1,0 +1,455 @@
+Deutscher Bundestag Drucksache 21/3357
+21. Wahlperiode 18.12.2025
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Ayşe Asar, Dr. Andrea Lübcke, Claudia 
+Müller, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+– Drucksache 21/3063 –
+Strategien und Maßnahmen der Bundesregierung zur Nutzung künstlicher 
+Intelligenz in Forschung und Wissenschaft
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Europäische Kommission hat am 8. Oktober 2025 „A European Strategy 
+for Artificial Intelligence in Science – Paving the way for the Resource for AI 
+Science in Europe (RAISE)“ vorgestellt (https://eur-lex.europa.eu/legal-conte
+nt/ES/TXT/?uri=COM:2025:724:FIN). Diese sieht ein virtuelles europäisches 
+Institut vor, das Rechenkapazitäten, Daten, Exzellenz bzw. Talente und
+Forschungsförderung bündelt. Für die Pilotphase von RAISE sind 108 Mio. Euro 
+aus Horizon Europe vorgesehen; der Start ist auf dem AI in Science Summit 
+am 3. bis 4. November 2025 in Kopenhagen angekündigt. In ihrem
+Strategiepapier benennt die Kommission zentrale strukturelle Herausforderungen: die 
+Fragmentierung von Ressourcen und Forschungsanstrengungen, den
+unzureichenden Zugang zu Rechenkapazitäten und Datensätzen sowie den
+zunehmenden globalen Wettbewerb um wissenschaftliche Talente insbesondere im
+Bereich der künstlichen Intelligenz (KI). Eine gemeinwohlorientierte und
+grundrechtsschonende KI-Forschung braucht offene Standards, transparent
+ausgestaltete Modelle und verlässliche öffentliche Recheninfrastrukturen statt einer 
+zunehmenden Abhängigkeit von proprietären Angeboten einzelner
+außereuropäischer Big-Tech-Konzerne. Der Einsatz von KI in Wissenschaft und
+Forschung ist daher auch eine Frage digitaler Souveränität, da Zugang zu
+europäischen Datenräumen und vertrauenswürdigen Modellen zunehmend darüber 
+entscheidet, wie unabhängig und zukunftsfähig der Forschungsstandort ist.
+Jedoch liegt der Anteil der EU an der weltweiten KI-Rechenkapazität laut der 
+Kommission bei unter 5 Prozent (USA: 75 Prozent, China: 15 Prozent). Vor 
+diesem Hintergrund gewinnt auch in Deutschland die Diskussion über den 
+Einsatz von KI in der Wissenschaft an strategischer und gesellschaftlicher
+Bedeutung. Laut der internationalen Umfrage „Researcher of the Future“ nutzen 
+inzwischen 58 Prozent der Forschenden KI-Tools – im Jahr 2024 waren es erst 
+37 Prozent –, jedoch verfügt nur rund ein Drittel der Befragten über
+institutionelle Strukturen einer guten KI-Governance, und lediglich 27 Prozent fühlen 
+sich im Umgang mit KI ausreichend geschult (https://assets.ctfassets.net/o78e
+m1y1w4i4/137SmnpRSP2mSu-DxtFdls/72a1777e8a72f3c60748956037f7643
+3/Researcher-Of-The-Future.pdf). Das Vertrauen in KI variiert international 
+stark: Während in China 68 Prozent der Forschenden KI als Chance begreifen, 
+sind es in Deutschland 37 Prozent und in den USA 29 Prozent; als größten 
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Forschung, Technologie und 
+Raumfahrt vom 17. Dezember 2025 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+Nutzen sehen 58 Prozent eine Zeitersparnis, zugleich bestehen erhebliche 
+Zweifel an der Zuverlässigkeit und ethischen Entwicklung von KI-Tools. 
+Diese Ergebnisse verdeutlichen, dass Fragen von Governance, Qualifizierung 
+und Vertrauen zentrale Voraussetzungen für eine gemeinwohlorientierte und 
+verantwortungsvolle Nutzung von KI in der Wissenschaft sind. KI gilt als 
+Schlüsseltechnologie für die Wettbewerbsfähigkeit der europäischen
+Wissenschaft, stellt aber zugleich eine Herausforderung für Forschungsethik,
+Dateninfrastruktur und wissenschaftliche Integrität dar. Die ehemalige
+Bundesregierung hat in der vergangenen Legislaturperiode im Rahmen einer KI-Strategie 
+sowie durch Programme wie die Nationale Initiative für Künstliche Intelligenz 
+und Datenökonomie eine Reihe von Maßnahmen zur Förderung
+vertrauenswürdiger KI und offener Forschungsdatenstrukturen eingeleitet. Diese zielten 
+auf eine bessere Integration der nationalen und europäischen KI-
+Forschungslandschaften ab. Aus Sicht der Fragestellerinnen und Fragesteller bleibt
+bislang unklar, wie die aktuelle Bundesregierung sicherstellen will, dass deutsche 
+Forschungseinrichtungen ausreichende Rechenkapazitäten, Datenzugänge und 
+Förderinstrumente erhalten, um im internationalen Wettbewerb Schritt zu
+halten. Ebenso fehlen belastbare Konzepte, wie Start-ups, wissenschaftliche
+Ausgründungen und öffentliche Forschungseinrichtungen ausreichend Zugang zu 
+KI-Ressourcen erhalten sollen. Künstliche Intelligenz in der Wissenschaft ist 
+aus Sicht der Fragestellerinnen nicht nur eine Technologiefrage, sondern eine 
+gesellschaftspolitische Gestaltungsaufgabe. Ziel muss eine
+gemeinwohlorientierte, grundrechtsschonende, nachhaltige und europäisch eingebettete KI-
+Forschungspolitik sein, die wissenschaftliche Exzellenz mit Transparenz,
+Grundrechtsschutz, Datenverantwortung und offener Innovationskultur verbindet. 
+Nur durch eine enge Verzahnung von nationalen und europäischen Strategien, 
+den Ausbau öffentlicher Recheninfrastruktur und die Stärkung offener
+Forschungsdatenökosysteme kann Deutschland seine Rolle als
+innovationsgetriebener Wissenschaftsstandort sichern und zugleich zu einer europäischen KI-
+Souveränität beitragen.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Künstliche Intelligenz (KI) spielt als Schlüsseltechnologie und vielseitiges 
+Werkzeug in einer zunehmenden Anzahl wissenschaftlicher Disziplinen in 
+zahlreichen Forschungsvorhaben eine wichtige Rolle. Eine trennscharfe
+Abgrenzung von Vorhaben, die KI für wissenschaftliche Zwecke nutzen, und die 
+Ermittlung der erfragten Angaben für alle diese Vorhaben ist nicht möglich.
+Der Einsatz von KI-Verfahren für konkrete wissenschaftliche Fragestellungen 
+erfolgt innerhalb der wissenschaftlichen Disziplinen problemspezifisch auf
+Basis der entsprechenden Daten und geht somit deutlich über die Nutzung
+verbreiteter KI-Werkzeuge für Endverbraucher hinaus. Ein KI-Werkzeug mit
+allgemeinem Verwendungszweck für den wissenschaftlichen Erkenntnisgewinn existiert 
+aktuell nicht. Dementsprechend erfolgt auch die Förderung von KI in
+Forschung und Wissenschaft im Rahmen der Fördermaßnahmen für die jeweiligen 
+Forschungsdisziplinen. Ebenso erfolgt auch der Austausch der
+Bundesregierung zum Einsatz von KI innerhalb der jeweiligen Forschungsdisziplinen mit 
+den jeweils relevanten Akteuren.
+Die Bundesregierung bringt sich konstruktiv in die europäischen Diskussionen 
+zur Nutzung von KI in Forschung und Wissenschaft ein. Der Rat der
+Europäischen Union hat am 23. Mai 2025 Schlussfolgerungen mit dem Titel „Auf dem 
+Weg zur EU-Strategie zu KI in der Wissenschaft“ gebilligt. Darin fordert er 
+eine umfassende Strategie, mit der die Verbreitung von KI in der Wissenschaft 
+gefördert und gleichzeitig ein ethischer, nachhaltiger, inklusiver und auf den 
+Menschen ausgerichteter Ansatz verfolgt wird. Die Bundesregierung hat sich 
+bei den Beratungen zu diesen Ratsschlussfolgerungen aktiv eingebracht und 
+auch im Rahmen des sich anschließenden Konsultationsverfahrens für die EU-
+Strategie zu KI in der Wissenschaft beteiligt, die die Europäische Kommission
+am 8. Oktober 2025 veröffentlicht hat. Die Bundesregierung legt in ihrer
+Positionierung großen Wert darauf, dass sich regionale, nationale und EU-
+Aktivitäten ergänzen. Maßnahmen auf EU-Ebene sollten nur dort erfolgen, wo ein
+echter europäischer Mehrwert gegeben ist. Dopplungen sollen vermieden werden. 
+Über die Teilnahme der deutschen Wissenschaft an der ERA action zu KI in der 
+Wissenschaft ist die Bundesregierung regelmäßig und kontinuierlich über die 
+Pläne und Initiativen der EU-Kommission sowie die Ansätze anderer
+Mitgliedstaaten im Bereich KI in der Wissenschaft informiert.
+Die Hochschulen liegen gemäß der föderalen Kompetenzverteilung in der
+Zuständigkeit der Länder.
+Die außeruniversitären Forschungseinrichtungen (namentlich Helmholtz-
+Gemeinschaft (HGF), Leibniz-Gemeinschaft (WGL), Max-Planck-Gesellschaft 
+(MPG), Fraunhofer-Gesellschaft (FHG)), die vom Bundesministerium für
+Forschung, Technologie und Raumfahrt (BMFTR) und den Ländern institutionell 
+gefördert werden, sind rechtlich selbständig.
+Über die Nutzung von KI-Systemen entscheiden die Hochschulen und die
+außeruniversitären Forschungseinrichtungen bzw. deren Einrichtungen
+grundsätzlich in eigener Verantwortung.
+Der Wissenschaftsrat, der die Bundesregierung und die Regierungen der
+Länder in Fragen der inhaltlichen und strukturellen Entwicklung der Wissenschaft 
+und der Forschung einschließlich der Hochschulen berät, wird Anfang 2026 
+eine Arbeitsgruppe zu „KI in der Forschung“ konstituieren, die sich mit der 
+Rolle von Künstlicher Intelligenz in der wissenschaftlichen Forschung befassen 
+und dazu Empfehlungen erarbeiten soll.
+Im Rahmen der Hightech Agenda Deutschland wird die Bundesregierung die 
+Erforschung, Entwicklung und Nutzung von KI zudem in enger Abstimmung 
+mit den Ländern, der EU und weiteren Akteuren aus Wissenschaft, Wirtschaft, 
+Politik und Gesellschaft gezielt vorantreiben.
+ 1. Welche Initiativen oder Förderprogramme des Bundes adressieren
+explizit den Einsatz und die Entwicklung von KI in Forschung und
+Wissenschaft?
+ 2. Welche konkreten Maßnahmen der Bundesregierung sind geplant, um 
+die Fragmentierung der KI-Forschungsförderung zwischen Bund,
+Ländern und verschiedenen Forschungsorganisationen zu überwinden?
+ 3. Welche Maßnahmen ergreift die Bundesregierung, um die Koordination 
+insbesondere mit den Ländern zu verbessern?
+Die Fragen 1 bis 3 werden im Zusammenhang beantwortet.
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen.
+ 4. Wie werden Start-ups, Spin-offs und Ausgründungen im Bereich KI in 
+der Wissenschaft von der Bundesregierung unterstützt, insbesondere bei 
+Zugang zu Daten und Rechenleistung?
+ 5. Welche Maßnahmen aufseiten der Bundesregierung sind vorgesehen, um 
+privates Kapital in diesem Bereich zu mobilisieren?
+ 6. Plant die Bundesregierung die Einführung von Fast-Track-
+Förderinstrumenten für KI-Forschung mit deutlich verkürzten Antragsprozessen 
+(z. B. drei bis sechs Monate von Antrag bis Bewilligung), wie genau
+sollen die Förderprogramme ausgestaltet sein, mit welchem Zeitplan und 
+Finanzvolumen?
+Die Fragen 4 bis 6 werden im Zusammenhang beantwortet.
+Im Rahmen der Umsetzung der Hightech Agenda Deutschland wird die
+Bundesregierung im Jahr 2026 auch Gespräche mit Stakeholdern aus der
+Finanzbranche führen. Aufbauend darauf wird die Bundesregierung Venture Capital 
+u. a. für den Bereich KI hebeln und somit zusätzliche
+Finanzierungsmöglichkeiten erschließen.
+Die Bundesagentur für Sprunginnovation (SPRIND) verfügt mit ihren
+Innovationswettbewerben (Challenges) über ein Förderinstrument mit klarem Fokus auf 
+technologischen Durchbrüchen in Themenfeldern mit herausragender
+Bedeutung für künftige Wertschöpfung in Deutschland. Ein wichtiges Element der 
+SPRIND-Challenges sind schnelle und unbürokratische Prozesse, um
+Innovationstalente z. B. aus Start-ups anzuziehen, die sich sonst nicht auf öffentliche 
+Förderung bewerben. Bei Förderungen im Rahmen von SPRIND-Challenges 
+liegt die Zeit zwischen Bewerbung und Unterzeichnung des
+Finanzierungsvertrags im Durchschnitt bei nur 14 Tagen.
+Privates Kapital mobilisiert die SPRIND insbesondere bei der Unterstützung 
+von Start-ups mit Eigenkapital. Die Grenzen des europäischen Beihilferechts 
+bleiben gewahrt.
+Die SPRIND hat bereits in der Vergangenheit Challenges zu KI durchgeführt. 
+Im Übrigen erteilt die Bundesregierung grundsätzlich nur Auskünfte zu bereits 
+abgeschlossenen Vorgängen. Laufende Verwaltungsvorgänge und
+Entscheidungsvorbereitungen sind Teil des Kernbereichs exekutiver
+Eigenverantwortung.
+ 7. Welche Rolle wird Deutschland in der europäischen RAISE-Initiative 
+übernehmen, und wie plant die Bundesregierung, die nationale
+Forschungslandschaft mit RAISE zu verzahnen?
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen.
+ 8. Das EU-Papier zu RAISE unterscheidet explizit zwischen der
+methodischen Erforschung von KI-Systemen („Science for AI“) und der
+Anwendung von KI in anderen Wissenschaftsdisziplinen („AI for Science“), 
+teilt die Bundesregierung diese konzeptionelle Unterscheidung, und 
+wenn ja, welcher Anteil der nationalen KI-Forschungsförderung entfällt 
+jeweils auf „Science for AI“ (Grundlagenforschung zu KI-Methoden,
+Architekturen, Lernverfahren) und auf „AI for Science“ (KI-Anwendung in 
+Medizin, Materialwissenschaften, Klimaforschung etc.)?
+Die Bundesregierung teilt die Unterscheidung auf konzeptioneller Ebene, ohne 
+sich organisatorisch die Überlegungen zu eigen zu machen. Im Übrigen wird 
+auf die Vorbemerkung der Bundesregierung verwiesen.
+ 9. Plant die Bundesregierung den gezielten Ausbau von Kapazitäten für 
+„Science for AI“ in Deutschland, um sicherzustellen, dass Europa nicht 
+nur bestehende KI-Modelle anwendet, sondern eigene methodische 
+Durchbrüche erzielt, und wenn ja, mit welchen konkreten Maßnahmen 
+und welchem Finanzvolumen bis 2029?
+Die Bundesregierung erteilt grundsätzlich nur Auskünfte zu bereits
+abgeschlossenen Vorgängen. Laufende Verwaltungsvorgänge und
+Entscheidungsvorbereitungen sind Teil des Kernbereichs exekutiver Eigenverantwortung. Im Übrigen 
+wird für geplante Aktivitäten der Bundesregierung, um methodische
+Durchbrüche zu erzielen, auf die Hightech Agenda Deutschland verwiesen.
+10. Durch welche konkreten Förderinstrumente und in Abstimmung mit den 
+Ländern stellt die Bundesregierung sicher, dass KI-Methodenforschung 
+(„Science for AI“) und Fachwissenschaften („AI for Science“)
+systematisch zusammenarbeiten, damit KI-Entwicklungen bedarfsorientiert und 
+nicht als „Produkt von der Stange“ in verschiedene
+Wissenschaftsdisziplinen transferiert werden?
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen.
+11. Plant die Bundesregierung die Einrichtung einer zentralen
+Koordinierungsstruktur nach dem Vorbild von RAISE zur Bündelung von KI-
+Ressourcen (Rechenkapazitäten, Daten, Talente, Forschungsförderung) für 
+die wissenschaftliche Forschung, und wenn ja, mit welchem Zeitplan und 
+welchen Ressourcen?
+12. Plant die Bundesregierung die Schaffung thematischer
+Exzellenznetzwerke für KI in verschiedenen Wissenschaftsdisziplinen (analog zu den 
+„Thematic Networks of Excellence“ der EU), und wenn ja, für welche 
+Disziplinen, und mit welcher Finanzierung?
+Die Fragen 11 und 12 werden im Zusammenhang beantwortet.
+Im Rahmen der Exzellenzstrategie von Bund und Ländern wird ab Januar 2026 
+das Exzellenzcluster „Reasonable Artificial Intelligence“ an der Technischen 
+Universität Darmstadt für die kommenden sieben Jahre gefördert.
+Im Übrigen wird auf die Vorbemerkung der Bundesregierung sowie auf die 
+Antwort der Bundesregierung auf Frage 12 der Kleinen Anfrage der Fraktion 
+der CDU/CSU auf Bundestagsdrucksache 20/12749 verwiesen.
+13. Wie ermittelt die Bundesregierung den aktuellen und künftigen Bedarf an 
+KI-Anwendungen und Rechenkapazitäten für Forschung und
+Wissenschaft in Deutschland?
+Die Bedarfsermittlung für bundesseitig geförderte Rechenkapazitäten für
+Forschung und Wissenschaft erfolgt im Austausch mit den relevanten
+Personengruppen sowie einer Analyse der bestehenden und prognostizierten Nachfrage 
+nach diesen Rechenkapazitäten.
+Im Übrigen wird auf die Vorbemerkung der Bundesregierung verwiesen.
+14. Welche Bedeutung misst die Bundesregierung einer erfolgreichen
+deutschen Bewerbung um eine AI Gigafactory bei, und welche Investitionen 
+sind im Erfolgsfall vorgesehen?
+Souveräne Rechenkapazitäten in Deutschland und Europa auf internationalem 
+Spitzenniveau sind angesichts der hohen Bedeutung von KI wichtig für die 
+künftige Wettbewerbsfähigkeit der Wirtschaft in Deutschland. Eine erfolgreiche 
+deutsche Bewerbung um mindestens eine der europäischen AI Gigafactories 
+kann hier einen entscheidenden Beitrag leisten.
+Die europäische Kommission rechnet mit Investitionen von drei bis fünf Mrd. 
+Euro für Aufbau und Betrieb einer Gigafactory, welche zum größten Teil von 
+dem privaten Betreiberkonsortium aufgebracht werden muss.
+15. Welche Anbindung wird die Wissenschaft an den geplante AI Factories 
+in Stuttgart und Jülich haben?
+Die AI Factories HammerHAI und JAIF sind am
+Höchstleistungsrechenzentrum der Universität Stuttgart und am Forschungszentrum Jülich geplant.
+Sowohl durch die Verortung an Wissenschaftseinrichtungen als auch durch die 
+Möglichkeit für Wissenschaftlerinnen und Wissenschaftler, an den AI Factories 
+Rechenkapazität zu nutzen, ist eine enge Anbindung an die Wissenschaft
+sichergestellt.
+16. Welche Maßnahmen ergreift die Bundesregierung, um Akteure in der KI-
+Forschung systematisch zu vernetzen und langfristig zu finanzieren, um 
+kritische Masse in strategisch wichtigen Bereichen zu erreichen?
+Es wird auf die Antwort auf Frage 12 verwiesen.
+17. Welcher konkrete Anteil der für die Hightech Agenda vorgesehenen
+Mittel ist spezifisch für KI in der Wissenschaft vorgesehen?
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen.
+18. Welche Maßnahmen unternimmt die Bundesregierung, um ein stabiles, 
+interoperables und vertrauenswürdiges Forschungsdaten-Ökosystem in 
+Deutschland zu schaffen?
+Zur Verbesserung der Zugänglichkeit und der Qualität von Forschungsdaten in 
+Deutschland fördert die Bundesregierung gemeinsam mit den Ländern seit dem 
+Jahr 2019 den Aufbau und Betrieb der Nationalen
+Forschungsdateninfrastruktur (NFDI). Gegenstand der Förderung ist es, wertvolle Datenbestände von 
+Wissenschaft und Forschung für das gesamte deutsche Wissenschaftssystem 
+systematisch zu erschließen, zu vernetzen und in qualitativ hochwertiger Form 
+für Forscherinnen und Forscher nutzbar zu machen.
+Die Bundesregierung fördert mit Datentreuhandmodellen zudem weitere
+sichere Lösungen für die bessere Zugänglichkeit zu und den Austausch von Daten.
+An den Universitätskliniken baut die durch das BMFTR geförderte
+Medizininformatik-Initiative gemeinsam mit dem Netzwerk Universitätsmedizin
+dezentrale und vernetzte Dateninfrastrukturen in Deutschland auf, um die
+Interoperabilität und Harmonisierung von Daten aus der klinischen
+Gesundheitsversorgung und der biomedizinischen Forschung zu gewährleisten und
+datenschutzgerecht für die medizinische Forschung bereitzustellen.
+19. Inwiefern bezieht das geplante Forschungsdatengesetz die Nutzung und 
+Weitergabe von Daten für KI-Anwendungen in der Wissenschaft mit ein?
+Das Forschungsdatengesetz soll die Nutzung von sensiblen und
+personenbezogenen Daten der öffentlichen Hand für konkrete Forschungsvorhaben regeln. 
+Eine Regelung speziell zur Nutzung und Weitergabe von Daten für KI-
+Anwendungen in der Wissenschaft sieht das Forschungsdatengesetz nicht vor.
+20. Welche konkreten Maßnahmen ergreift die Bundesregierung, um
+international KI-Forscherinnen und KI-Forscher für den
+Wissenschaftsstandort Deutschland zu gewinnen (z. B. gezielte Rückkehrerprogramme,
+beschleunigte Visaverfahren, kompetitive Startpakete), und mit welchem 
+Finanzvolumen sind diese Bemühungen konkret ausgestattet?
+Finanziert aus Mitteln des BMFTR vergibt die Alexander von Humboldt-
+Stiftung (AvH) mit der Alexander von Humboldt-Professur für Künstliche
+Intelligenz Forschungspreise im Bereich KI an international führende
+Wissenschaftlerinnen und Wissenschaftler aus dem Ausland, um diese dauerhaft für 
+Deutschland zu gewinnen. Dies schließt die Rückgewinnung von
+Spitzenforscherinnen und Spitzenforschern ein, die ihren akademischen Lebenslauf in 
+Deutschland begonnen haben und jetzt an den Top-Forschungsorten im
+Ausland tätig sind.
+Von den Jahren 2020 bis 2024 wurden 20 Humboldt-Professuren auf dem
+Gebiet der Künstlichen Intelligenz besetzt. Damit trägt die Fördermaßnahme u. a. 
+zur Schaffung neuer KI-Lehrstühle in Deutschland bei. Von den Jahren 2020 
+bis 2025 wurden die Alexander von Humboldt-Professuren für Künstliche
+Intelligenz mit ca. 45 Mio. Euro finanziert, für die Jahre 2026 bis 2031 sind
+weitere Preisgeldzahlungen in Höhe von ca. 40 Mio. Euro vorgesehen – also
+insgesamt ca. 85 Mio. Euro. Die Gesamtausstattung der Zuwendung des BMFTR für 
+die Alexander von Humboldt-Professur für Künstliche Intelligenz im Zeitraum 
+2020 bis 2031 ist in Höhe von ca. 92 Mio. Euro vorgesehen.
+Darüber hinaus fördert die Bundesregierung das Programm „Konrad Zuse 
+Schools of Excellence in Artificial Intelligence“ über die Jahre 2021 bis 2027 
+mit ca. 25 Mio. Euro. Der Deutsche Akademische Austauschdienst (DAAD) 
+koordiniert das Programm, welches die Etablierung von drei
+Graduiertenschulen („Zuse Schools“) für eine exzellente, forschungsbasierte Ausbildung
+nationaler und insbesondere internationaler, herausragender KI-Talente auf Master- 
+und Promotionsebene fördert. Langfristiges Ziel ist es, das für eine produktive 
+Entwicklung der KI-Forschung und -Anwendung in Deutschland erforderliche 
+Personal auszubilden sowie in Deutschland zu halten bzw. aus dem Ausland für 
+Deutschland zu gewinnen. Bisher wurden insgesamt 420 Masterstudentinnen 
+und -studenten und PhD-Kandidatinnen und -Kandidaten im Programm
+gefördert. Rund 58 Prozent der im Jahr 2024 Geförderten besaßen eine ausländische 
+Staatsbürgerschaft; diese kamen aus 53 Ländern.
+Mit dem im Jahr 2020 gestarteten, ebenfalls BMFTR-finanzierten Programm 
+Postdoc-NeT-AI adressiert der DAAD zudem vielversprechende, im Ausland 
+tätige fortgeschrittene Promotionsstudentinnen und -studenten und Postdocs 
+mit dem Ziel, sie für den Wissenschaftsstandort Deutschland zu gewinnen. Das 
+Programm ermöglicht virtuelle Informations- und Austauschformate sowie 
+Kurzbesuche bei deutschen Institutionen im Rahmen einer einwöchigen
+Informationsreise (zur Identifizierung gemeinsamer Forschungsinteressen).
+Insgesamt wurden 537 Forscherinnen und Forscher über das Programm gefördert. 
+Seit dem Jahr 2024 können sich Geförderte für gemeinsame
+Forschungsprojekte von bis zu drei Monaten Dauer an einer Institution in Deutschland bewerben. 
+Hier erhielten bislang 28 Projekte mit einer Gesamtlaufzeit von 66 Monaten 
+eine Förderung. Darüber hinaus haben mindestens 23 Geförderte im Anschluss 
+an ihre Aufenthalte eine längerfristige Stelle in Deutschland angetreten. Im Jahr 
+2025 betragen die Programmausgaben 216.803 Euro.
+Im Visumverfahren werden Anträge hochqualifizierter Fachkräfte auf nationale 
+Visa an allen Auslandsvertretungen prioritär bearbeitet.
+21. Über welche Daten verfügt die Bundesregierung zur Abwanderung von 
+in Deutschland ausgebildeten KI-Expertinnen und KI-Experten ins
+Ausland (insbesondere USA, Großbritannien, Schweiz, China), und welche 
+konkreten Schlussfolgerungen zieht sie daraus für Reformen beim
+Wissenschaftszeitvertragsgesetz (WissZeitVG), Mittelbaustrategie, Ausbau 
+von Tenure-Track-Stellen, Tandemprofessuren und verbesserten
+Forschungsbedingungen?
+Die Bundesregierung verfügt über keine Daten zur Abwanderung von in 
+Deutschland ausgebildeten KI-Expertinnen und -Experten ins Ausland.
+22. Welche Bestrebungen unternimmt die Bundesregierung, den Frauenanteil 
+in der KI-Forschung zu erhöhen?
+Strukturelle Barrieren in Wissenschaft und Forschung müssen grundsätzlich 
+identifiziert und beseitigt werden. Ein gleichstellungsfördernder und
+geschlechtergerechter Kulturwandel muss weiter gestärkt werden. Das unterstützen Bund 
+und Länder insbesondere mit dem Professorinnenprogramm 2030.
+Das BMFTR fördert unterschiedliche Initiativen und Förderrichtlinien, um 
+mehr Frauen für den KI-Bereich sowie den MINT-Bereich zu gewinnen. Die 
+Förderrichtlinie „MissionMINT – Frauen gestalten Zukunft“ hat beispielsweise 
+zum Ziel, mehr junge Frauen für MINT zu begeistern, und konzentriert sich auf 
+die wichtigen Übergänge von der Schule zur Hochschule und von der
+Hochschule in den Arbeitsmarkt.
+Im Bereich der Forschung zu KI unterstützt das BMFTR die Erhöhung des 
+Frauenanteils durch zwei Bekanntmachungen zur Förderung von
+Nachwuchsforschungsgruppen unter Leitung von Frauen. In diesem Rahmen wurden und 
+werden 28 Leiterinnen von Nachwuchsforschungsgruppen gefördert.
+Im Rahmen des Programms „Konrad Zuse Schools of Excellence in Artificial 
+Intelligence“ (vgl. Antwort auf Frage 20) werden von den Zuse Schools
+spezielle Maßnahmen zur Gewinnung weiblicher Geförderter umgesetzt. Dies sind 
+beispielsweise zusätzliche Leistungsstipendien oder Preise für besonders
+qualifizierte Studentinnen, Mentoringprogramme, oder die verstärkte Verbreitung 
+der Stipendienausschreibung in Netzwerken für Studentinnen und
+Forscherinnen. An einer der Zuse Schools lag der Anteil von Stipendiatinnen im Jahr 
+2024 beispielsweise bei 45 Prozent.
+23. Inwiefern bestehen aus Sicht der Bundesregierung Risiken hinsichtlich 
+des zunehmenden Einsatzes von KI in der Wissenschaft?
+24. Inwiefern besteht aus Sicht der Bundesregierung die Notwendigkeit, das 
+Vertrauen gegenüber dem Einsatz von KI in der Wissenschaft zu stärken, 
+und wenn ja, welche Maßnahmen ergreift sie dafür gemeinsam mit der 
+Wissenschaft?
+Die Fragen 23 und 24 werden im Zusammenhang beantwortet.
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen, insbesondere 
+zum regelmäßigen Austausch der Bundesregierung mit den jeweils relevanten 
+Akteuren der verschiedenen wissenschaftlichen Disziplinen sowie dem
+problemspezifischen Einsatz von KI auf Basis der entsprechenden Daten.
+Die Deutsche Forschungsgemeinschaft (DFG) hat bereits im Jahr 2023
+Leitlinien zur Verwendung von generativen KI-Modellen im Rahmen der geltenden 
+Standards zur guten wissenschaftlichen Praxis formuliert. Hiernach ist die
+entsprechend gekennzeichnete Verwendung generativer KI-Modelle bei der
+öffentlichen Zugänglichmachung von Forschungsergebnissen ausdrücklich zulässig.
+Am 11. Dezember 2025 wurde von der DFG eine zusätzliche Leitlinie
+beschlossen, die die Zulässigkeit der Nutzung generativer KI-Modelle regelt. 
+Diese Leitlinie definiert insbesondere den Einsatzzweck der Nutzung von
+generativer KI in einem unterstützenden Sinne und macht deutlich, dass die 
+menschliche Analyse und wissenschaftliche Einordnung des Antrags
+Kernbestandteil der Begutachtung ist und bleibt.
+Ebenso wurden im Rahmen der #FactoryWisskomm, der strategischen
+Diskursplattform des BMFTR für die zukunftsorientierte Weiterentwicklung von
+Wissenschaftskommunikation in Deutschland, Handlungsempfehlungen für den 
+Einsatz von generativer KI in der Wissenschaftskommunikation entwickelt und 
+im Mai 2025 veröffentlicht. Den Handlungsempfehlungen liegt das Verständnis 
+zugrunde, dass generative KI-Modelle die Vermittlung wissenschaftlicher
+Erkenntnisse an die Bevölkerung erleichtern können, dass mit einer intensiven 
+Nutzung generativer KI jedoch auch Risiken einher gehen.
+25. Welche Rolle kann dabei eine zügige Umsetzung der KI-Verordnung mit 
+einer starken und effektiven Aufsichtsstruktur spielen?
+Eine zügige Umsetzung der KI-Verordnung sollte für Forschung und
+Wissenschaft Rechtssicherheit schaffen, Vertrauen stärken, Innovation beschleunigen, 
+sensible Anwendungen schützen sowie den Transfer in die Praxis erleichtern. 
+Entscheidend ist, dass die Umsetzung forschungs- und innovationsfreundlich 
+sowie ohne übermäßige Bürokratie erfolgt. Die Bundesregierung setzt sich
+daher u. a. für eine Klarstellung der Reichweite der Forschungsausnahme in
+Artikel 2 Absatz 6 und Absatz 8 der KI-VO ein. Die Angebote der als zentrale 
+Marktüberwachungs- und Aufsichtsbehörde für die KI-VO bestimmten
+Bundesnetzagentur sollen auch Forschung und Wissenschaft zur Verfügung stehen.
+26. Wie bewertet die Bundesregierung die Abhängigkeit deutscher
+Wissenschaftlerinnen und Wissenschaftler von proprietären, überwiegend
+außereuropäischen Anbietern von KI-Modellen (z. B. OpenAI, Google,
+Anthropic)?
+27. Welche Strategie verfolgt die Bundesregierung zur Entwicklung von 
+(Open-Source-)KI-Modellen „Made in Germany“ oder „Made in
+Europe“ für wissenschaftliche Zwecke?
+Die Fragen 26 und 27 werden im Zusammenhang beantwortet.
+Wie in der Vorbemerkung der Bundesregierung dargelegt, erfolgt der Einsatz 
+von KI in der Wissenschaft disziplinspezifisch und geht über eine reine
+Nutzung verbreiteter KI-Werkzeuge für Endverbraucher deutlich hinaus.
+Im Übrigen ist für die Hochschulen die Bereitstellung digitaler Infrastruktur, 
+inklusive der Voraussetzungen für die Nutzung leistungsfähiger und
+datenschutzkonformer KI-Anwendungen, Bestandteil der von den Ländern zu
+leistenden Grundfinanzierung.
+Mit den KI-Servicezentren schafft das BMFTR bereits Zugang zu
+leistungsstarker Recheninfrastruktur und Spitzenforschung im Bereich KI, auch für
+Wissenschaft und Hochschulen bundesweit. Im Jahr 2025 ist die zweite Förderphase 
+der KI-Servicezentren gestartet. Im Rahmen der Hightech Agenda Deutschland 
+soll das Netzwerk, auch unter Einbeziehung der AI Factories in Deutschland 
+und den anderen EU-Mitgliedstaaten, weiterentwickelt werden.
+Das BMFTR wird überdies im Rahmen der etablierten Bund-Länder-Formate 
+zur gemeinsamen Förderung von Recheninfrastruktur – wie dem Verbund 
+Nationales Hochleistungsrechnen (NHR) – auch den Aufbau KI-geeigneter
+Recheninfrastruktur weiter vorantreiben.
+28. Wie bewertet die Bundesregierung den hohen Energie- und
+Ressourcenbedarf für das Training und die Anwendung von KI in der Wissenschaft?
+Es wird auf die Vorbemerkung der Bundesregierung bzgl. der in der
+Wissenschaft verwendeten KI-Systeme verwiesen. Im Übrigen fördert die
+Bundesregierung die Forschung zur Verbesserung bestehender und Entwicklung neuer 
+KI-Methoden, um den Energie- und Ressourcenbedarf von KI-Anwendungen 
+zu reduzieren.
+29. Welche konkreten Maßnahmen zur Forschungssicherheit sind geplant, 
+um Know-how-Abfluss in sicherheitsrelevanten KI-Bereichen zu
+verhindern, ohne die internationale wissenschaftliche Zusammenarbeit zu
+behindern?
+Es wird auf die Antwort der Bundesregierung auf die Kleine Anfrage
+„Maßnahmen zur Forschungssicherheit und Aufbau einer nationalen Plattform für 
+Forschungssicherheit“ der Fraktion Die Linke auf Bundestagsdrucksache 
+21/2448 verwiesen.
+30. Wie stellt die Bundesregierung sicher, dass ethische,
+verfassungsrechtliche, sicherheitspolitische und forschungspolitische Aspekte in der
+nationalen und europäischen KI-Förderung miteinander abgestimmt werden?
+31. Inwiefern evaluiert die Bundesregierung den Einsatz von KI in der
+Forschung gemeinsam mit der Wissenschaft, und welche
+Schlussfolgerungen zieht sie daraus?
+Die Fragen 30 und 31 werden im Zusammenhang beantwortet.
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
