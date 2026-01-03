@@ -1,0 +1,166 @@
+Deutscher Bundestag Drucksache 21/3419
+21. Wahlperiode 23.12.2025
+Kleine Anfrage
+der Abgeordneten Donata Vogtschmidt, Desiree Becker, Gökay Akbulut, 
+Janina Böttger, Maik Brückner, Mirze Edis, Katrin Fey, Vinzenz Glaser, Ates 
+Gürpinar, Jan Köstering, Stella Merendino, Charlotte Antonia Neuhäuser, Cansu 
+Özdemir, Lea Reisner, Zada Salihović, Ulrich Thoden, Christin Willnat und 
+der Fraktion Die Linke
+Einsatz von KI-gestützten Zielsystemen im militärischen Kontext und 
+völkerrechtliche Implikationen
+Die gegenwärtige Kriegsführung ist zunehmend durch den Einsatz von
+Künstlicher Intelligenz (KI), Big Data und algorithmischer
+Entscheidungsunterstützung geprägt. Recherchen zum System „Lavender“, das von der israelischen 
+Armee im Rahmen des Gaza-Krieges eingesetzt wurde, zeigen exemplarisch, 
+wie solche Technologien zur automatisierten Zielidentifikation und -verfolgung 
+genutzt werden und welche völkerrechtlichen und ethischen Probleme sich aus 
+dem Einsatz solcher Systeme ergeben (Abraham 2024, www.972mag.com/lave
+nder-ai-israeli-army-gaza/; Andersin 2025, https://doi.org/10.1163/18781527-bj
+a10119; Gray 2024, https://doi.org/10.1007/978-3-031-81501-0_4).
+Das System wurde unter anderem durch die Einheit 8200 des israelischen
+Militärgeheimdienstes entwickelt. Es verarbeitete umfangreiche personenbezogene 
+Daten von bis zu 2,3 Millionen Bewohner:innen des Gazastreifens, darunter 
+Kommunikations-, Bewegungs-, Verhaltens- und Social-Media-Daten. Auf
+dieser Grundlage berechnete das System einen algorithmischen „militant score“, 
+anhand dessen Personen als potenzielle Zielpersonen eingestuft wurden. Diese 
+Kategorisierung erfolgte automatisiert und konnte bereits auf indirekten oder 
+statistischen Verhaltensmustern beruhen. Nach Recherchen von +972 Magazine 
+und Associated Press wurden durch Lavender mehr als 37 000 Personen als
+potenzielle Ziele klassifiziert. Dabei sollen außerdem bei niedrig eingestuften
+sogenannten „Junior Targets“ bis zu 15 zivile Opfer und bei höher priorisierten 
+„Senior Targets“ über 100 zivile Opfer als akzeptabel einkalkuliert worden 
+sein.
+Ergänzt wird das System durch weitere KI-gestützte Anwendungen wie
+„Where is Daddy?“, „The Gospel“ und „Fire Factory“, die unter anderem der
+Lokalisierung von Zielpersonen im Familienumfeld, der Gebäudeklassifikation und 
+der algorithmischen Munitionsplanung dienen (Gray 2024). Die
+Entscheidungsprozesse sind teilweise hochautomatisiert. Laut Medienberichten
+verbleiben menschlichen Operator:innen häufig lediglich rund 20 Sekunden zur
+möglichen Intervention, was die Gefahr eines sogenannten „automation bias“ 
+birgt – also der Tendenz, automatisierten Systemen übermäßig zu vertrauen und 
+deren Entscheidungen ohne ausreichende kritische Prüfung zu übernehmen.
+Bis Juli 2025 wurden laut UN-Angaben über 40 000 Menschen im Gazastreifen 
+getötet – ein erheblicher Teil davon Zivilist:innen. Nach Auffassung der Frage-
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+stellenden steht der Einsatz solcher Systeme in einem schwerwiegenden
+Spannungsverhältnis zu den völkerrechtlichen Grundprinzipien der Unterscheidung 
+und Verhältnismäßigkeit.
+Zudem liefern große Technologiekonzerne wie Microsoft, Google, Amazon 
+und Palantir grundlegende Infrastruktur für diese Anwendungen – etwa im 
+Rahmen von „Project Nimbus“, das Cloud-Dienste für israelische
+Sicherheitsbehörden bereitstellt (Business & Human Rights Resource Centre 2023, www.b
+usiness-humanrights.org/de/neuste-meldungen/israels-leading-arms-makers-req
+uired-to-use-google-amazon-cloud-services/). Auch in Deutschland beteiligen 
+sich Forschungseinrichtungen und Rüstungsunternehmen an der Entwicklung 
+KI-gestützter Systeme zur Entscheidungsunterstützung im Sicherheits- und 
+Verteidigungsbereich.
+Der EU-AI Act (Verordnung [EU] 2024/1689) schließt laut Artikel 2 Absatz 3 
+den militärischen Bereich explizit vom Anwendungsbereich aus. Angesichts 
+der dokumentierten Risiken solcher Technologien für die Einhaltung des
+humanitären Völkerrechts halten die Fragestellenden diese Regelung für
+unzureichend.
+Wir fragen die Bundesregierung:
+ 1. Welche Kenntnisse hat die Bundesregierung über das KI-gestützte
+Zielidentifikationssystem „Lavender“, das nach Medienberichten von den
+israelischen Streitkräften im Gazastreifen zur Identifikation und Tötung 
+mutmaßlicher Hamas-Mitglieder eingesetzt wurde?
+a) Welche Informationen liegen der Bundesregierung über Zweck,
+Datenquellen und Entscheidungslogik dieses Systems vor?
+b) Welche Kenntnisse bestehen über etwaige Kooperationen,
+Exportbeziehungen oder gemeinsame Entwicklungsprojekte mit Drittstaaten 
+oder Unternehmen?
+ 2. Welche Kenntnisse hat die Bundesregierung über weitere KI-gestützte 
+Systeme der israelischen Streitkräfte, insbesondere „Where is Daddy?“, 
+„Fire Factory“ und „The Gospel“?
+a) Welche Informationen liegen der Bundesregierung über Zweck,
+Datenbasis und Funktionsweise dieser Systeme vor?
+b) Welche dieser Systeme kommen nach Kenntnis der Bundesregierung 
+bei der Identifikation, Lokalisierung oder Priorisierung von
+Zielpersonen und -objekten zum Einsatz?
+c) Liegen der Bundesregierung Informationen über eine Beteiligung
+internationaler Technologieunternehmen oder militärischer
+Partnerstaaten an der Entwicklung oder Anwendung dieser Systeme vor, und 
+wenn ja, welche?
+ 3. Verfügt die Bundesregierung über Informationen zur Datenbasis,
+Algorithmusentwicklung oder zur angegebenen Genauigkeitsrate dieser
+Systeme, und wenn ja, welche?
+ 4. Welche Kenntnisse hat die Bundesregierung über den Einsatz
+biometrischer Erkennungstechnologien, insbesondere Gesichtserkennung, durch 
+das israelische Militär im Gazastreifen?
+ 5. Welche deutschen Unternehmen oder deren Tochtergesellschaften sind 
+nach Kenntnis der Bundesregierung direkt oder indirekt an digitalen
+Infrastrukturprojekten beteiligt, die im Rahmen von „Project Nimbus“ oder 
+ähnlichen Programmen mit Bezug zu militärischen KI-Systemen stehen?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+ 6. Welche Kenntnisse hat die Bundesregierung über die Rolle von Microsoft 
+Deutschland, Amazon Web Services Deutschland oder Palantir
+Technologies Germany bei der Bereitstellung technischer Infrastruktur, Cloud-
+Dienste oder Analyseplattformen für israelische Sicherheitsbehörden oder 
+Streitkräfte?
+a) Welche Formen der Kooperation oder Lizenzierung sind der
+Bundesregierung bekannt?
+b) Inwiefern wurden diese Aktivitäten durch staatliche
+Förderprogramme, Steuervergünstigungen oder Exportmaßnahmen unterstützt?
+ 7. In welchem Umfang wurden in den vergangenen fünf Jahren
+Exportgenehmigungen für KI-bezogene Hard- oder Softwareprodukte an
+Unternehmen erteilt, die in Verbindung mit den in den Fragen 5 und 6 genannten 
+Projekten (Project Nimbus, Lavender, The Gospel u. a.) stehen, angesichts 
+der Tatsache, dass der EU AI Act gemäß Artikel 2 Absatz 3 nicht auf
+militärische Systeme Anwendung findet?
+a) Welche Genehmigungen wurden erteilt (bitte aufschlüsseln nach
+Produktart, Antragssteller, Zielland und Verwendungszweck)?
+b) Wurden diese Exporte als Rüstungsgüter oder Dual‑Use‑Güter
+klassifiziert?
+c) Inwiefern wurden menschenrechtliche oder völkerrechtliche Bedenken 
+im Genehmigungsverfahren berücksichtigt?
+ 8. Existieren nach Kenntnis der Bundesregierung personelle, institutionelle 
+oder projektbezogene Überschneidungen zwischen deutschen
+Forschungseinrichtungen (z. B. Bundeswehruniversitäten, Fraunhofer‑Institute) und 
+der israelischen Militäreinheit 8200?
+a) Welche Projekte oder Austauschprogramme bestehen in diesem
+Zusammenhang?
+b) Welche Maßnahmen ergreift die Bundesregierung, um eine
+völkerrechtliche und ethische Bewertung solcher Kooperationen
+sicherzustellen?
+ 9. Wie bewertet die Bundesregierung den Einsatz KI‑gestützter
+Zielidentifikationssysteme im Lichte der völkerrechtlichen Prinzipien der
+Verhältnismäßigkeit und der Unterscheidung zwischen Zivilpersonen und
+Kombattanten?
+a) Hält die Bundesregierung die (teil-)automatisierte Delegation letaler 
+Zielentscheidungen an algorithmische Systeme für mit dem
+humanitären Völkerrecht vereinbar?
+b) Welche Mindestanforderungen sieht die Bundesregierung für eine
+völkerrechtskonforme Nutzung solcher Systeme?
+10. Welche Position vertritt die Bundesregierung hinsichtlich der zulässigen 
+Höhe ziviler Kollateralschäden bei Angriffen, an denen KI‑basierte
+Entscheidungsunterstützungssysteme (AI‑DSS) beteiligt sind?
+a) Teilt die Bundesregierung die Einschätzung, dass die bewusste
+Inkaufnahme von bis zu 100 zivilen Opfern pro Angriff völkerrechtswidrig 
+ist?
+b) Welche Kriterien legt sie bei der Bewertung der Verhältnismäßigkeit 
+in solchen Fällen zugrunde?
+11. Inwiefern hält die Bundesregierung eine rein algorithmische Definition 
+der Kategorie „militant“ durch KI-Systeme ohne menschliche Verifikation
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+für vereinbar mit den Prinzipien des humanitären Völkerrechts und 
+welche Risiken sieht sie in der Kategorisierung von Personen auf Basis 
+von Metadaten oder Verhaltensmustern ohne individuelle Verifizierung?
+12. Welche Maßnahmen unterstützt oder ergreift die Bundesregierung zur 
+internationalen Kontrolle und rechtlichen Bewertung KI‑gestützter 
+Kriegstechnologien?
+a) Existieren nach Kenntnis der Bundesregierung Mechanismen auf UN‑ 
+oder EU‑Ebene zur Überprüfung solcher Systeme im Hinblick auf das 
+humanitäre Völkerrecht?
+b) Sieht die Bundesregierung Bedarf für verbindliche Prüf‑ und
+Kontrollmechanismen im Forschungs‑ und Einsatzprozess solcher Systeme 
+und wie wird dieser umgesetzt?
+Berlin, den 17. Dezember 2025
+Heidi Reichinnek, Sören Pellmann und Fraktion
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
