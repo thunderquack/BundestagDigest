@@ -8,21 +8,22 @@ Agile Arbeitsmethoden mit Fremdpersonaleinsatz bei IT-Großprojekten in Finanz-
 und Sozialbehörden des Bundes
 Der Einsatz von Fremdpersonal in der Bundesverwaltung hat in den
 vergangenen Jahren erheblich zugenommen. Insbesondere der Bereich IT-
-Dienstleistungen hat sich zu einem Milliardenmarkt entwickelt (vgl. Freelance-
-Now.de, 8. September 2025, „Fremdpersonal in Behörden: Ein Milliardenmarkt 
-im Schatten“; www.freelance-now.de/magazine/insights/fremdpersonal-in-beho
-erden-ein-milliardenmarkt-im-schatten).
-In zahlreichen IT-Großprojekten mit Fremdpersonaleinsatz der
-Bundesministerien der Finanzen (BMF) und für Arbeit und Soziales (BMAS) sowie den ihnen 
-unterstellten Körperschaften des öffentlichen Rechts, darunter die Deutsche 
-Rentenversicherung Bund (DRV Bund) und die Bundesagentur für Arbeit 
-(BA), wird Fremdpersonal mit agilen Arbeitsmethoden (z. B. Scrum oder
-Kanban) eingesetzt (ebd.).
+Dienstleistungen (IT = Informationstechnik) hat sich zu einem Milliardenmarkt 
+entwickelt (vgl. Freelance-Now.de, 8. September 2025, „Fremdpersonal in
+Behörden: Ein Milliardenmarkt im Schatten“, www.freelance-now.de/magazine/in
+sights/fremdpersonal-in-behoerden-ein-milliardenmarkt-im-schatten).
+In zahlreichen IT-Großprojekten mit Fremdpersonaleinsatz des
+Bundesministeriums der Finanzen (BMF) und des Bundesministeriums für Arbeit und
+Soziales (BMAS) sowie den ihnen unterstellten Körperschaften des öffentlichen 
+Rechts, darunter die Deutsche Rentenversicherung Bund (DRV Bund) und die 
+Bundesagentur für Arbeit (BA), wird Fremdpersonal mit agilen
+Arbeitsmethoden (z. B. Scrum [Vorgehensmodell des Projekt- und Produktmanagements] 
+oder Kanban [Methode der Produktionsprozesssteuerung]) eingesetzt (ebd.).
 Bei diesen können Risiken für rechtswidrige Beschäftigungsverhältnisse durch 
 Subunternehmerketten entstehen, insbesondere Scheinselbstständigkeit oder 
 Verstöße gegen das Arbeitnehmerüberlassungsgesetz (AÜG), wie
 Branchenkenner betonen (vgl. Noerr, 31. März 2017, Neue AÜG-Reform 2017: Wie 
-kann die IT-Branche noch legal und wirtschaftlich Fremdpersonal einsetzen?; 
+kann die IT-Branche noch legal und wirtschaftlich Fremdpersonal einsetzen?, 
 www.noerr.com/de/insights/neue-aug-reform-2017-wie-kann-die-it-branche-no
 ch-legal-und-wirtschaftlich-fremdpersonal-einsetzen).
 Trotz des gesteigerten öffentlichen Interesses fehlt es nach Ansicht der
@@ -30,19 +31,17 @@ Fragesteller an Transparenz über konkrete Vergaben, Prüfungen und Ergebnisse i
 den genannten öffentlichen Institutionen.
 Wir fragen die Bundesregierung:
  1. Welche Arbeitsdefinitionen und Verwaltungsvorschriften gelten
-hinsichtlich von Werksverträgen, Dienstverträgen und
-Arbeitnehmerüberlassungen in Bundesministerien, Bundesbehörden und Körperschaften des
-öffentlichen Rechts (bitte kurz die wesentlichen Regelungen erläutern)?
+hinsichtlich Werksverträgen, Dienstverträgen und Arbeitnehmerüberlassungen in 
+Bundesministerien, Bundesbehörden und Körperschaften des öffentlichen 
+Rechts (bitte kurz die wesentlichen Regelungen erläutern)?
  2. Welche Rahmenvereinbarungen für IT-Dienstleistungen oder IT-Projekte 
-mit Fremdpersonaleinsatz wurden vom Bundesministerium der Finanzen 
-(BMF), dem Bundesministerium für Arbeit und Soziales (BMAS), der 
-Bundeszollverwaltung, der Deutschen Rentenversicherung Bund (DRV 
-Bund) und der Bundesagentur für Arbeit (BA) seit 2024 ausgeschrieben 
-und vergeben (Bitte um Nennung jeweils der fünf Projekte mit dem größ-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-ten Auftragsvolumen und Angabe des Projekttitels für jede Vergabe, die 
-Vergabenummer sowie die zugehörige Behörde)?
+mit Fremdpersonaleinsatz wurden vom Bundesministerium der Finanzen, 
+Bundesministerium für Arbeit und Soziales, von der
+Bundeszollverwaltung, der Deutschen Rentenversicherung Bund und der Bundesagentur für 
+Arbeit seit 2024 ausgeschrieben und vergeben (bitte jeweils die fünf
+Projekte mit dem größten Auftragsvolumen nennen und den Projekttitel für 
+jede Vergabe, die Vergabenummer sowie die zugehörige Behörde
+angeben)?
  3. Welche Vor-Ort-Prüfkontrollen der Finanzkontrolle Schwarzarbeit (FKS) 
 fanden seit 2024 im Zusammenhang mit den genannten Behörden und 
 Körperschaften des öffentlichen Rechts (BMF, BMAS, DRV Bund, BA, 
@@ -57,24 +56,25 @@ c) festgestellte Verstöße und eingeleitete Verfahren)?
 ggf. von Mitarbeitern der DRV Bund begleitet, nach welchen dieser
 möglichen FKS-Prüfkontrollen wurden im Anschluss ggf.
 Statusfeststellungsverfahren anhand der Kriterien der DRV Bund (Formular C0031)
-eingeleitet und mit welchen Ergebnissen?
+eingeleitet, und mit welchen Ergebnissen?
  5. Welche Erkenntnisse hat die Bundesregierung seit 2024 ggf. zu Risiken 
 von Scheinselbstständigkeit oder verdeckter Arbeitnehmerüberlassung in 
 der Bundesverwaltung (bitte ggf. nach Fällen, Prüfinstanz, Ergebnis und 
 Maßnahmen auflisten)?
  6. Was ist das Ergebnis der in der Antwort der Bundesregierung auf die
 Kleine Anfrage „IT-Modernisierung bei der Deutschen Rentenversicherung 
-Bund und der Einsatz von IT-Fremdpersonal“ (Bundestagsdrucksache 
-20/14844) erwähnten Überprüfung, zu der die Bundesregierung in der
-Beantwortung der Frage 7 äußerte, dass hinsichtlich fragwürdiger Klauseln 
-in EVB-IT-Dienstverträgen der DRV Bund eine aufsichtsrechtliche
-Überprüfung stattfände (bitte einzeln angeben den Stand der Prüfung, also
-abgeschlossen oder laufend, Abschlussdatum, wesentliche Beanstandungen 
-[abstrakt)], ergriffene organisatorische Maßnahmen)?
+Bund und der Einsatz von IT-Fremdpersonal“ auf
+Bundestagsdrucksache 20/14844 erwähnten Überprüfung, zu der die Bundesregierung in 
+der Beantwortung der Frage 7 äußerte, dass hinsichtlich fragwürdiger 
+Klauseln in EVB-IT-Dienstverträgen (EBV = Ergänzende
+Vertragsbedingungen) der DRV Bund eine aufsichtsrechtliche Überprüfung stattfände 
+(bitte einzeln den Stand der Prüfung, also abgeschlossen oder laufend, das 
+Abschlussdatum, wesentliche Beanstandungen [abstrakt], ergriffene
+organisatorische Maßnahmen angeben)?
  7. Wurden seit dem 1. Januar 2025 Inhalte von BMAS-Webseiten zu den 
-Themen Work4Germany und agiler Projektarbeit depubliziert, und wenn 
-ja, aus welchen Gründen (bitte ggf. Titel, URL, Datum, Begründung
-angeben)?
+Themen Work4Germany und agile Projektarbeit depubliziert, und wenn 
+ja, aus welchen Gründen (bitte ggf. Titel, URL [Webadresse], Datum,
+Begründung angeben)?
  8. Sind der Bundesregierung Verfahrenshinweise, Leitlinien, Weisungen 
 oder Aufsichtsfeststellungen bekannt, die eine unterschiedliche
 Entscheidungspraxis in Statusfeststellungsverfahren nach Typ des Auftraggebers 
@@ -84,40 +84,35 @@ und wenn ja, welche?
 der von Medien kolportierten Anwendung von Doppelstandards bei
 Statusfeststellungsverfahren der DRV Bund in Abhängigkeit davon, ob es 
 sich beim Auftraggeber bzw. Auftragnehmer um ein privates
-Unternehmen oder um eine „öffentliche Institution (z. B. Ministerium,
-Verfassungsorgan)“ handelt (vgl. Berliner Zeitung, 11. Dezember 2025, „Bevorzugt 
-die Rentenversicherung den Staat – zulasten von Freiberuflern?“; www.be
-rliner-zeitung.de/wirtschaft-verantwortung/interne-papiere-bevorzugt-
-dierentenversicherung-den-staat-zulasten-von-freiberuflern-li.10009576)?
-10. Hat sich die Bundesregierung zum Vorwurf einer Fachanwältin für
-Sozialrecht auf der Plattform LinkedIn (LinkedIn-Beitrag, 26. November 2025; 
-www.linkedin.com/posts/kathi-gesa-klafke-67bb57298_
-rechtsstaatsgebotakteneinsicht-drv-activity-7399430053731799040-j4Po), wonach DRV-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-Akten vor der Herausgabe an Betroffene sowie an Gerichte bereinigt
-würden, und DRV-Mitarbeiter in Fällen, bei denen öffentliche Institutionen 
-beteiligt sind, verpflichtet seien, ihre Entscheidungen vorab mit dem
+Unternehmen oder um eine „öffentliche Institution (z. B. Bundesministerium,
+Verfassungsorgan)“ handelt (vgl. Berliner Zeitung, 11. Dezember 2025,
+„Bevorzugt die Rentenversicherung den Staat – zulasten von Freiberuflern?“, 
+www.berliner-zeitung.de/wirtschaft-verantwortung/interne-papiere-bevorz
+ugt-die-rentenversicherung-den-staat-zulasten-von-freiberuflern-li.1000
+9576)?
+10. Hat sich die Bundesregierung zu dem Vorwurf einer Fachanwältin für
+Sozialrecht auf der Plattform LinkedIn (LinkedIn-Beitrag, 26. November 
+2025, www.linkedin.com/posts/kathi-gesa-klafke-67bb57298_rechtsstaats
+gebot-akteneinsicht-drv-activity-7399430053731799040-j4Po), wonach 
+DRV-Akten vor der Herausgabe an Betroffene sowie an Gerichte bereinigt 
+würden, und DRV-Mitarbeiter in Fällen, bei denen öffentliche
+Institutionen beteiligt sind, verpflichtet seien, ihre Entscheidungen vorab mit dem 
 zuständigen Bereichsleiter abzustimmen (vgl. Berliner Zeitung, 11.
-Dezember 2025, „Bevorzugt die Rentenversicherung den Staat – zulasten von 
-Freiberuflern?“; www.berliner-zeitung.de/wirtschaft-verantwortung/intern
-e-papiere-bevorzugt-die-rentenversicherung-den-staat-zulasten-von-freibe
-ruflern-li.10009576) eine eigene Auffassung gebildet, und wenn ja, wie 
-lautet diese?
+Dezember 2025, „Bevorzugt die Rentenversicherung den Staat – zulasten 
+von Freiberuflern?“, www.berliner-zeitung.de/wirtschaft-verantwortung/i
+nterne-papiere-bevorzugt-die-rentenversicherung-den-staat-zulasten-von-f
+reiberuflern-li.10009576) eine eigene Auffassung gebildet, und wenn ja, 
+wie lautet diese?
 11. Was plant die Bundesregierung ggf., um die Rechtssicherheit bei agilen 
 Arbeitsweisen, insbesondere bei IT-Dienstleistungen, zu erhöhen (z. B. 
 Konkretisierung von Eingliederungskriterien,
 Musterleistungsbeschreibungen, Schwellenwerte)?
-12. Wann beabsichtigt die Bundesregierung, den im Koalitionsvertrag 2025 
-angekündigten Gesetzentwurf zur Reform des
-Statusfeststellungsverfahrens vorzulegen (bitte Meilensteine, Ressortabstimmung,
-Verbändeanhörung, Kabinettszieltermin anführen)?
+12. Wann beabsichtigt die Bundesregierung, den im Koalitionsvertrag
+zwischen CDU, CSU und SPD 2025 angekündigten Gesetzentwurf zur
+Reform des Statusfeststellungsverfahrens vorzulegen (bitte Meilensteine, 
+Ressortabstimmung, Verbändeanhörung, Kabinettszieltermin anführen)?
 Berlin, den 5. Januar 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
