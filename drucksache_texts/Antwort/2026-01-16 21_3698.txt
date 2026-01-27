@@ -1,0 +1,195 @@
+Deutscher Bundestag Drucksache 21/3698
+21. Wahlperiode 16.01.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Adam Balten, Dr. Malte Kaufmann, Marc 
+Bernhard, weiterer Abgeordneter und der Fraktion der AfD
+– Drucksache 21/3388 –
+Mögliche Belastung des 50-Herz-Stromnetzes durch Wind- und Solarenergie
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die sogenannte Energiewende stellt einen zentralen Pfeiler der
+Bundesregierung dar und wird mit hohen Investitionen in den Ausbau erneuerbarer
+Energien vorangetrieben. Im ersten Halbjahr 2025 deckten Wind- und Solarenergie 
+etwa 54 Prozent des Stromverbrauchs ab (www.cleanenergywire.org/news/ren
+ewables-share-slightly-down-germany-first-half-2025-wind-expansion-gains-s
+team), wobei die Photovoltaik mit 16 Gigawatt (GW; www.agora-energiewen
+de.de/fileadmin/Projekte/2025/2024-18_DE_JAW24/A-EW_351_JAW24_W
+EB.pdf) einen Ausbaurekord erreichte und die Windenergie an Land rund 
+49 Milliarden Kilowattstunden (kWh; www.fachagentur-wind-solar.de/filead
+min/Veroeffentlichungen/Wind/Daten/FA_Wind_Solar_Status_des_Windener
+gieausbaus_an_Land_Halbjahr_2025.pdf) erzeugte. Dennoch kann die
+wetterabhängige und schwankungsintensive Natur dieser Energieträger zu
+erheblichen Belastungen des 50Herz(Hz)-Stromnetzes führen, insbesondere durch 
+Frequenzabweichungen, die die Systemstabilität gefährden.
+Vor dem Hintergrund der steigenden geopolitischen Abhängigkeit von stabiler 
+Energieversorgung ist die Fähigkeit, das Netz vor Instabilitäten und
+Externalitäten zu schützen, von zentraler Bedeutung. Die Nationale Sicherheitsstrategie 
+hebt die kritische Rolle der Energieinfrastruktur hervor. Besonders
+alarmierend ist in den Augen der Fragesteller ein Vorfall am 19. und 20. März 2025, 
+bei dem es zu beispiellosen Schwankungen der Netzfrequenz kam, nämlich zu 
+Abweichungen auf unter 49,90 Hz, die massive Eingriffe der Netzbetreiber
+erforderten, welche einen Blackout nur knapp verhinderten (www.windkraft-jou
+rnal.de/2025/08/16/die-juengsten-ereignisse-im-deutschen-stromnetz-haben-ei
+ne-deutliche-warnung-ausgesprochen/215262). Solche Ereignisse
+unterstreichen nach Auffassung der Fragesteller die Risiken der rasanten
+Transformation ohne ausreichende gleichzeitige Stabilisierungsmaßnahmen und führen zu 
+höheren Strompreisen für Industrie und Privathaushalte durch Abregelungen 
+von Anlagen (www.mdr.de/nachrichten/deutschland/wirtschaft/strompreise-ne
+tzentgelt-windrad-stromnetz-128.html).
+Die Bundesregierung hat in ihrer Roadmap Systemstabilität die
+Notwendigkeit betont, den Netzbetrieb bei vollständiger Erzeugung aus erneuerbaren 
+Energien zu sichern, doch der Systemstabilitätsbericht 2025 (https://data.bund
+esnetzagentur.de/Bundesnetzagentur/SharedDocs/Downloads/DE/Sachgebiet
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Wirtschaft und Energie vom 
+15. Januar 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+e/Energie/Unternehmen_Institutionen/NEP/Strom/Systemstabilitaet/2025.pdf) 
+warnt vor anhaltenden Herausforderungen durch fehlende Trägheit
+konventioneller Kraftwerke. Angesichts der hohen Investitionen, der Netzausbau allein 
+kostet Milliarden, und der steigenden strategischen Relevanz stellt sich den 
+Fragestellern die Frage nach einer effizienten Nutzung und nach den
+Synergien zwischen erneuerbaren und stabilisierenden Systemen.
+Intelligente Messsysteme (sog. Smart Meter) werden häufig als unverzichtbare 
+Infrastruktur für eine stärkere Digitalisierung und Steuerung des
+Stromverbrauchs dargestellt. Der TAB-Endarbeitsbericht (TAB = Technische
+Anschlussbedingungen) zum Thema „Moderne Stromnetze als Schlüsselelement 
+einer nachhaltigen Energieversorgung“ nimmt für Deutschland eine kritische 
+Kosten-Nutzen-Bewertung vor und identifiziert zentrale Voraussetzungen, die 
+für eine erfolgreiche und von der Bevölkerung akzeptierte Einführung erfüllt 
+sein müssen (https://publikationen.bibliothek.kit.edu/1000102257). Die für 
+Deutschland im Jahr 2013 vorgelegte offizielle Kosten-Nutzen-Analyse 
+(KNA) kam zu dem Ergebnis, dass ein flächendeckender Rollout von Smart 
+Metern gemäß dem EU-Szenario weder gesamt- noch einzelwirtschaftlich
+vorteilhaft ist. Der Bericht unterstreicht die Sensitivität solcher Analysen
+gegenüber den zugrundeliegenden Annahmen, indem er das Beispiel Österreichs
+anführt, wo zwei separate KNA trotz identischer Ausgangslage zu diametral
+entgegengesetzten Schlussfolgerungen hinsichtlich der Wirtschaftlichkeit eines 
+Rollouts kamen.
+1. Wie bewertet die Bundesregierung die aktuelle Situation bezüglich
+Frequenzstabilität im 50-Hz-Netz im Kontext der möglichen Belastungen 
+durch den Ausbau von Wind- und Solarenergie, wie sie im Blackout auf 
+der Iberischen Halbinsel am 28. April 2025 exemplarisch zutage traten, 
+bei dem ein plötzlicher Verlust von 15 Gigawatt zu massiven
+Frequenzinstabilitäten und einem flächendeckenden Ausfall führte (www.entsoe.eu/pu
+blications/blackout/28-april-2025-iberian-blackout/#:~:text=The%20report
+%20highlights%20the%20exceptional,steps%20of%20the%20restoration
+%20phase), sowie unter Berücksichtigung vergleichbarer Risiken im
+deutschen Stromnetz?
+Bei der Beantwortung der Frage wird davon ausgegangen, dass mit dem Begriff 
+„50-Hz-Netz“ nicht nur die Regelzone des Übertragungsnetzbetreibers 50Hertz 
+gemeint ist, sondern das gesamte deutsche Stromnetz. Die Frequenzstabilität ist 
+gegeben. Es stehen in ausreichendem Maße Möglichkeiten zur Verfügung, die 
+Frequenzstabilität aufrechtzuerhalten. Dies geschieht im europäischen
+Verbundnetz unter anderem durch Momentanreserve und Regelleistung
+(sogenannte Systemdienstleistungen). Damit wird die Frequenz im Normalbereich,
+zwischen 49,80 und 50,20 Hz, stabil gehalten. Auch an den von den Fragestellern 
+angesprochenen Tagen, 19. und 20. März 2025, lag die Frequenz in diesem
+Bereich. Entgegen der Einschätzung der Fragesteller, welche auf die Website des 
+Windkraft-Journals verweisen, gab es keine Situation, bei dem ein „Blackout 
+nur knapp“ verhindert wurde.
+Zusätzlich zu den Maßnahmen, um die Netzfrequenz im Normalbereich zu
+halten, haben die Übertragungsnetzbetreiber den sogenannten gemeinsamen
+Systemschutzplan entwickelt, um auch in kritischen Situationen die Netz- und
+Systemsicherheit aufrecht zu halten. Dieser beschreibt einen Rahmen mit einer 
+Übersicht der Notfallmaßnahmen und deren Notwendigkeit. Er ist einsehbar 
+unter www.netztransparenz.de/xspproxy/api/staticfiles/ntp-relaunch/dokument
+e/strommarktdesign/er-verordnung/ver%C3 ProzentB6ffentlichung-systemschu
+tzplan/20240620_systemschutzplan_der_%C3 ProzentBCnb_2024.pdf.
+Grundlage für die beschriebenen Maßnahmen ist § 13 des Energiewirtschaftsgesetzes 
+(EnWG).
+Im Rahmen der Veränderungen bei der Stromversorgung, die mit der
+Energiewende einhergehen, verändert sich auch der Betrieb des Stromnetzes in 
+Deutschland. Netzbetriebskonzepte und technische Eigenschaften von
+Anlagen werden weiterentwickelt. Für diese Zwecke hat die Bundesregierung im 
+Dezember 2023 die Roadmap Systemstabilität beschlossen. Diese zeigt einen 
+Fahrplan zur Gewährleistung eines sicheren und robusten Stromsystembetriebs 
+auf, egal bei welcher Zusammensetzung der Einspeiser und Verbraucher in der 
+jeweiligen Situation. Sie widmet sich u. a. der Erbringung von
+Systemdienstleistungen sowie weiteren erforderlichen Maßnahmen zur Gewährleistung der 
+Stabilität des Stromsystems für einen sicheren Betrieb des Stromnetzes.
+Bezüglich der Frequenzstabilität ist insbesondere auf Abschnitt 5.2.1 („Frequenz“) 
+der Roadmap Systemstabilität zu verweisen. Dort werden die Prozesse
+beschrieben, die im Zuge der Erarbeitung der Roadmap zur Sicherstellung der 
+Frequenzstabilität identifiziert wurden. Die Roadmap Systemstabilität ist
+abrufbar unter www.bundeswirtschaftsministerium.de/Redaktion/DE/Publikationen/
+Energie/20231204-roadmap-systemstabilitaet.pdf?__blob=publicationFile&
+v=14. Auch das Forum Netztechnik/Netzbetrieb im VDE (FNN), der
+technische Regelsetzer für die Stromnetze in Deutschland, entwickelt seine Regeln 
+mit dem Ziel eines sicheren Betriebs des Stromnetzes, u. a. auch zum Thema 
+Frequenzstabilität, permanent weiter.
+2. Welche Kriterien wendet die Bundesregierung an, um mögliche
+Belastungen des Netzes durch erneuerbare Energien zu definieren und zu messen, 
+und welche primären Gründe sieht die Bundesregierung für diese
+Belastungen?
+Die Bundesregierung misst keine spezifischen „Belastungen“ des Stromnetzes 
+durch einzelne Anlagen. Jede Stromerzeugung hat Einfluss auf den Betrieb 
+eines Stromnetzes. Erneuerbare Energien stützen bereits heute das Stromnetz, 
+z. B. durch Spannungshaltung. Zukünftig werden sie noch mehr zur Stabilität 
+des Stromsystems beitragen (siehe Frage 3).
+3. Hat die Bundesregierung Schlüsselkomponenten und Schlüsselindustrien 
+identifiziert, die für die Stabilisierung des 50-Hz-Netzes von
+grundlegender Bedeutung sind?
+Für den stabilen Betrieb eines Wechselstromnetzes sind netzbildende
+Anlagen essenziell. Bislang waren dies vor allem Synchrongeneratoren
+konventioneller Kraftwerke. Zukünftig werden dies insbesondere netzbildende
+Stromrichter von Batterien und EE-Anlagen sein. Dementsprechend identifiziert die 
+Roadmap Systemstabilität des Bundesministeriums für Wirtschaft und Energie 
+(BMWE) netzbildende Stromrichter als Schlüsseltechnologie.
+Insoweit wird auch auf die Antwort der Bundesregierung vom 23. Oktober 
+2025 auf die Kleine Anfrage auf Bundestagsdrucksache 21/2131 zum Thema 
+„Sicherung der Stromversorgung in Deutschland“ verwiesen.
+4. Wie bewertet die Bundesregierung den Einfluss auf die Stabilität unseres 
+ohnehin schon in den Spitzenzeiten überlasteten Stromnetzes im Hinblick 
+auf den massiven Ausbau von zusätzlichen Windkraft- und
+Photovoltaikanlagen?
+Windenergie- und Photovoltaikanlagen stützen bereits heute das Stromnetz, 
+z. B. durch Spannungshaltung. Zukünftig werden sie noch mehr zur Stabilität 
+des Stromsystems beitragen (siehe auch Frage 3).
+Bezüglich der Auswirkungen von Wind- und Solaranlagen liegt der Frage
+möglicherweise ein technisches Missverständnis zugrunde. Diese Anlagen sind über 
+Stromrichter (leistungselektronische Komponenten) an das Stromnetz
+angeschlossen. Diese Stromrichter können grundsätzlich Systemdienstleistungen – 
+wie Spannungs- und Frequenzstabilisierung – bereitstellen und machen dies 
+heute auch schon auf Basis der aktuellen technischen Anforderungen.
+Zukünftig werden diese Anlagen mehr Systemdienstleistungen bereitstellen.
+Stromrichter können prinzipiell die benötigten Systemdienstleistungen bereitstellen. 
+Hierfür wurden und werden bspw. im Forum Netztechnik/Netzbetrieb im VDE 
+(FNN) die dementsprechenden Regelwerke weiterentwickelt.
+5. Welche Szenarien und Abläufe sieht die Bundesregierung im Falle eines 
+kontrollierten oder unkontrollierten Lastabwurfs vor, um einen
+flächendeckenden Blackout zu verhindern, und nach welchen Kriterien erfolgt die 
+Priorisierung der Lastabwürfe?
+Die Verpflichtung, ein sicheres, zuverlässiges und leistungsfähiges Netz zu
+betreiben, obliegt nach § 11 EnWG den Netzbetreibern. Ein Lastabwurf stellt nur 
+eine Möglichkeit der Netzbetreiber dar, um auf eine Gefährdung des
+Stromnetzes zu reagieren. Gemäß § 13 EnWG zählen dazu auch noch weitere
+verschiedene Maßnahmen. Für diese sieht das Gesetz eine gestufte Reihenfolge – nach 
+dem Grundsatz der Verhältnismäßigkeit – vor. Ein Lastabwurf darf erst bei 
+Ausschöpfung aller eingriffsmilderen Maßnahmen (z. B. Einsatz von
+Regelenergie und Reservekraftwerken) durchgeführt werden darf. Auf die Antwort 
+der Bundesregierung auf die Schriftliche Frage Nr. 10/0088 vom 20. Oktober 
+2025 wird verwiesen.
+6. In welchen Gebieten oder Regionen Deutschlands besteht bei einem
+drohenden Netzzusammenbruch die besondere Gefahr, als erste vom Netz
+genommen zu werden?
+Es lassen sich keine Gebiete oder Regionen Deutschlands identifizieren, für die 
+eine besondere Gefahr besteht, als erste vom Netz getrennt zu werden.
+Vielmehr kommt es auf die spezifische konkrete Situation an, insbesondere Ort und 
+Ursache der Störung.
+7. Welchen aktuellen Stand haben die damals angekündigten zentralen
+Verordnungen (insbesondere die Messsystemverordnung und die Rollout-
+Verordnung: www.bundeswirtschaftsministerium.de/Redaktion/DE/Textsam
+mlungen/Energie/smart-meter.html), die die technischen
+Mindestanforderungen und die Einbauverpflichtungen sowie deren zeitliche Organisation 
+festlegen sollten?
+Die genannten Verordnungen wurden vollständig durch das 2016 in Kraft
+getretene Gesetz über den Messstellenbetrieb und die Datenkommunikation in
+intelligenten Energienetzen (Messstellenbetriebsgesetz – MsbG) ersetzt. Das
+Gesetz wurde seitdem mehrfach novelliert, zuletzt mit dem am 23. Dezember 
+2025 in Kraft getretenen Gesetz zur Änderung des Energiewirtschaftsrechts zur 
+Stärkung des Verbraucherschutzes im Energiebereich. Vorgaben zu den
+technischen Mindestanforderungen und den zeitlich gestaffelten
+Einbauverpflichtungen finden sich in den §§ 19 – 45 MsbG.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
