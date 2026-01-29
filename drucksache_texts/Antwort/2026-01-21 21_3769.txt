@@ -1,0 +1,859 @@
+Deutscher Bundestag Drucksache 21/3769
+21. Wahlperiode 21.01.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Dr. Janosch Dahmen, Simone 
+Fischer, Dr. Armin Grau, weiterer Abgeordneter und der Fraktion 
+BÜNDNIS 90/DIE GRÜNEN
+– Drucksache 21/3428 –
+Zum derzeitigen Stand der elektronischen Patientenakte und der digitalen 
+Infrastruktur im Gesundheitswesen
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die elektronische Patientenakte (ePA) soll das Kernstück der Digitalisierung 
+der Gesundheitsversorgung in Deutschland bilden. Mit dem Digitalgesetz 
+(DigiG) und dem Gesundheitsdatennutzungsgesetz (GDNG) hat die
+Bundesregierung in der 20. Wahlperiode die gesetzliche Grundlage geschaffen, um ab 
+2025 für alle gesetzlich Versicherten automatisch eine ePA nach dem Opt-out-
+Prinzip bereitzustellen. Damit verbunden ist der Anspruch, Gesundheitsdaten 
+sektorenübergreifend verfügbar, interoperabel nutzbar und sicher zugänglich 
+zu machen.
+Gleichzeitig sind Gesundheitsdaten hochsensible Informationen, deren
+(unfreiwillige) Offenlegung zu Stigmatisierung, Diskriminierung und
+gesundheitlichen Folgen führen kann. Daher unterliegen sie nach Artikel 9 der
+Datenschutz-Grundverordnung (DSGVO) einem besonders strengen Schutz. Nur 
+wenn Versicherte transparent, wirksam und jederzeit die Kontrolle über die 
+Verarbeitung ihrer Gesundheitsdaten behalten, kann Vertrauen in die digitale 
+Infrastruktur des Gesundheitswesens entstehen. Dieses Vertrauen ist
+entscheidend, um die Akzeptanz der ePA zu stärken und ihr Potenzial als Instrument 
+zur Verbesserung der Versorgung vollständig zu entfalten. Vor diesem
+Hintergrund ist die IT- und grundrechtssichere Ausgestaltung der ePA zentral. Zur 
+Wahrung der Patientensouveränität und der informationellen
+Selbstbestimmung sind darüber hinaus umfassende Rechte der Versicherten im Umgang 
+mit ihren Daten notwendig.
+Mit dem Gesetz zur Befugniserweiterung und Entbürokratisierung in der
+Pflege (BEEP) wurde bereits eine wichtige Ausnahmeregelung zur
+Befüllungsverpflichtung geschaffen. Sie trägt Fallkonstellationen Rechnung, in denen die 
+Einsichtnahme in konkrete Gesundheitsdaten über die ePA für Patientinnen 
+und Patienten oder Dritte nachteilig sein kann. Um das grundgesetzlich
+geschützte Recht auf informationelle Selbstbestimmung jedoch umfassend zu 
+sichern – insbesondere für Kinder und Jugendliche – sind weitere
+regulatorische Differenzierungen notwendig.
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Gesundheit vom 21. Januar 
+2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+Trotz der Fortschritte bei der Bereitstellung der ePA bestehen weiterhin
+erhebliche strukturelle und technische Herausforderungen. Die bisherige Multi-
+Provider-Struktur der ePA führt zu Fragmentierung und Reibungsverlusten. 
+Unterschiedliche technische Architekturen, redundante Infrastruktur und
+fehlende zentrale Steuerung erschweren die Durchsetzung einheitlicher
+Standards. Die gematik GmbH ist zwar als Standardgeberin und Koordinatorin
+beauftragt, verfügt jedoch bislang nur begrenzt über Durchgriffsrechte
+gegenüber ePA-Providern, Krankenkassen und Softwareherstellern. In der Folge 
+kommt es regelmäßig zu Verzögerungen bei der Entwicklung und Freigabe 
+von Spezifikationen sowie beim Roll-out verbindlicher Funktionen.
+Das Gesundheitsdigitalagenturgesetz (GDAG), das eine institutionelle
+Bündelung der Digitalsteuerung im Gesundheitswesen vorsah, blieb vor dem Ende 
+der vergangenen Legislatur unvollendet. Offene Fragen bestehen auch
+hinsichtlich künftiger Aufgabenverteilung zwischen dem Bundesministerium für 
+Gesundheit (BMG), der gematik und einer möglichen neuen Digitalagentur. 
+Eine schlagkräftige Führung und gute Koordination der zahlreichen
+beteiligten Akteure sind aber Voraussetzung, um sowohl die ePA-Roadmap als auch 
+die in §§ 306 ff. des Fünften Buches Sozialgesetzbuch (SGB V) verankerten 
+Digitalisierungsziele umzusetzen.
+Hinzu treten Herausforderungen bei der Sicherheit und Funktionsfähigkeit der 
+Telematikinfrastruktur (TI). Die geplante Umstellung des bisherigen
+Verschlüsselungsverfahrens RSA 2048 auf elliptische Kurvenkryptografie (ECC) 
+musste wegen Markt- und Kommunikationsversäumnissen, insbesondere
+wegen schleppender Austauschprozesse einzelner Hersteller (z. B. Medisign), um 
+mehrere Monate verschoben werden. Parallel dazu verändern europäische
+Regelwerke wie der Data Act (Verordnung (EU) 2023/2854, anwendbar seit 
+12. September 2025) und der European Health Data Space (EHDS)
+(verabschiedet 2025, gestufte Anwendung ab 2027) die Rahmenbedingungen für
+Interoperabilität, Datenzugang und Patientenrechte. Der Data Act schafft neue 
+Ansprüche auf maschinenlesbare Datenexporte auch für verschlüsselte
+Systeme, während der EHDS verbindliche Zertifizierungs- und
+Schnittstellenpflichten für elektronische Gesundheitsakten einführt. Beide Regelungen erfordern 
+frühzeitige Anpassungen der nationalen Architektur und Rechtsgrundlagen.
+Insgesamt bleibt der Nutzen der ePA für viele Versicherte bisher gering. Die 
+umständlichen Ident- und Login-Verfahren, fehlende Integration in
+Betriebssystem-Ökosysteme und heterogene und nutzerunfreundliche Oberflächen 
+führen dazu, dass die angelegten Akten selten aktiv genutzt werden. Die
+Änderung im Gesetz zur Befugniserweiterung und Entbürokratisierung in der 
+Pflege (BEEP) zur Ergänzung der Bestätigung der Identität der Versicherten 
+durch Video-Ident-Verfahren durch die Krankenkassen ist ein notwendiger 
+erster Schritt, um die Hürden bei den Versicherten zur Aktivierung der ePA zu 
+senken. (vgl. Bundestagsdrucksache 21/2641).
+Auch aufseiten der Leistungserbringer bestehen weiterhin teils erhebliche
+Defizite. Strukturiert auswertbare Datentypen (etwa Laborwerte, radiologische 
+Befunde, Impf-, Mutter- und Vorsorgepässe) sind bislang nur teilweise
+standardisiert. Die gematik-Roadmap 3.1 sieht schrittweise Erweiterungen vor, 
+verbindliche Termine fehlen jedoch. Zugleich sind cloudbasierte
+Krankenhaus- und Praxisinformationssysteme in Deutschland weiterhin die
+Ausnahme, obwohl sie internationale Voraussetzung für Skalierbarkeit und
+Interoperabilität darstellen.
+Schließlich mangelt es bis heute an einer grundsätzlichen und verbindlichen 
+Ausstattung mit einer digitalen Heilberufe-ID, die eine personenbezogene,
+revisionssichere Protokollierung sämtlicher ePA-Zugriffe ermöglicht. Nach 
+§ 311 Absatz 1a SGB V soll diese Identität erst ab 2030 verpflichtend
+eingeführt werden. Bis dahin ist keine eindeutige Zuordnung jeder einzelnen Person 
+innerhalb einer Institution möglich, die Zugriff auf ePA-Daten nimmt – was 
+ein erhebliches Sicherheits- und Haftungsrisiko darstellt.
+Die Kleine Anfrage zielt darauf ab, Transparenz über den Stand und die
+Planungen der Bundesregierung zu diesen Kernpunkten zu schaffen:
+Vereinheitlichung des ePA-Backends, Beschleunigung der Spezifikationen, Sicherstellung 
+der Kryptografie-Umstellung, Förderung cloudfähiger Primärsysteme,
+Entwicklung nutzerfreundlicher Frontends, auch hinsichtlich der Gewährleistung 
+von IT-Sicherheit und Datensouveränität, sowie Schließung der Identitäts- und 
+Governance-Lücken.
+ 1. Welche Optionen prüft die Bundesregierung aktuell zur
+Vereinheitlichung des ePA-Backends unter zentraler Steuerung durch die gematik 
+oder eine bundeseigene Digitalagentur, wird in dem Prozess die
+Expertise der Bundesbeauftragten für Datenschutz und Informationsfreiheit 
+(BfDI) einbezogen, und in welchem Zeitrahmen sollen Entscheidungen 
+hierüber getroffen werden?
+ 2. Welche Analysen oder Gutachten liegen der Bundesregierung zur
+Bewertung von Vorteilen und Risiken eines zentralisierten Providersystems
+gegenüber einer Multi-Provider-Architektur vor, und aus welchen Gründen 
+hält das BMG gegebenenfalls an einem Multi-Provider-Ansatz fest?
+Die Fragen 1 und 2 werden aufgrund des Sachzusammenhangs gemeinsam
+beantwortet.
+Die Bundesregierung prüft zurzeit verschiedene Optionen zur Fortentwicklung 
+der Telematikinfrastruktur, einschließlich der elektronischen Patientenakte. Die 
+BfDI ist bei der Erstellung von Spezifikationen im Benehmen zu beteiligen. 
+Konkrete Maßnahmen und Zeitpläne liegen aktuell nicht vor.
+ 3. Wann soll die gematik verbindliche Vorgaben zu einer einheitlichen
+Backend-Architektur vorlegen, und welche rechtlichen oder
+haushaltsrechtlichen Schritte sind hierzu vorgesehen?
+Die gematik hat keinen solchen Auftrag.
+ 4. Welche externen Beratungs-, Evaluations- oder Prüfaufträge hat das 
+BMG seit Februar 2025 erteilt, um Prozesse der gematik
+(Spezifikationen, Release-Zyklen, Qualitätssicherung) zu verbessern, und welche
+Ergebnisse liegen vor?
+Die gematik prüft gemeinsam mit ihren Gesellschaftern fortlaufend ihre
+Prozesse auf mögliche Verbesserungen. Das Bundesministerium für Gesundheit 
+(BMG) hat seit Februar 2025 keine externen Beratungs-, Evaluations- oder 
+Prüfaufträge erteilt.
+ 5. Angesichts der Zielsetzung des gescheiterten Gesundheits-
+Digitalagentur-Gesetzes der vergangenen Legislaturperiode, die Steuerungs- und 
+Durchgriffsrechte des Bundes im Bereich der digitalen
+Gesundheitsinfrastruktur zu stärken, welche konkreten Maßnahmen plant die
+Bundesregierung, um der gematik künftig erweiterte Steuerungs- und
+Eingriffsrechte gegenüber ePA-Providern und Primärsystemherstellern im
+ambulanten und stationären Bereich einzuräumen, um die angestrebte
+einheitliche, sichere und effiziente Umsetzung der TI zu gewährleisten?
+ 7. Wie will die Bundesregierung sicherstellen, dass künftig alle Provider 
+stärker nach denselben einheitlichen Schnittstellen- und höchsten
+Sicherheitsstandards arbeiten, und welche Rolle spielt die gematik bei der 
+Überwachung dieser Vorgaben?
+Die Fragen 5 und 7 werden aufgrund des Sachzusammenhangs gemeinsam
+beantwortet.
+Bereits mit dem am 26. März 2024 in Kraft getretenen Digitalgesetz wurden 
+neue und wirkungsvolle Maßnahmen getroffen, um erweiterte Steuerungs- und 
+Eingriffsrechteder gematik gegenüber Primärsystemherstellern sowohl im
+ambulanten als auch stationären Bereich durchzusetzen. So müssen Hersteller
+informationstechnischer Systeme immer dann ein
+Konformitätsbewertungsverfahren (KOB) gemäß § 387 Fünftes Buch Sozialgesetzbuch (SGB V)
+durchlaufen, wenn verbindliche Interoperabilitätsanforderungen festgelegt wurden.
+Setzen sie diese nicht um, ist ein Inverkehrbringen oder -halten dieser nicht
+konformen Systeme untersagt (siehe § 388 SGB V). Hersteller können sodann von 
+anderen Akteuren auf dem Markt auf Unterlassen des Inverkehrbringens in
+Anspruch genommen werden. Im Kontext des ersten durchgeführten KOB-
+Verfahrens Anfang 2025 bedeutet dies, dass Hersteller ihre „ePA-Readiness“ durch 
+den positiven Abschluss des KOB-Verfahrens nachweisen mussten. Zukünftig 
+ist eine Erweiterung des Anwendungsbereichs des KOB-Verfahrens (aktuell 
+ausschließlich Interoperabilität) auf funktionale Anforderungen inklusive
+solcher, die die IT-Sicherheit von Systemen betreffen, geplant. Den Rahmen für 
+das Verfahren gibt die gematik vor, sodass diese informationstechnischen
+Systeme gegenüber Primärsystemherstellern sowohl im ambulanten als auch
+stationären Bereich durchzusetzen.
+Darüber hinaus wurden Regelungen im Gesetz zur Befugniserweiterung und 
+Entbürokratisierung in der Pflege (BEEP) getroffen, um die Rolle der gematik 
+weiter zu stärken. Weitere Maßnahmen zur Stabilisierung des Betriebs und
+ergänzenden Kompetenzen im Bereich IT-Sicherheit sind in Vorbereitung.
+ 6. Hat das BMG Kenntnis darüber, welche Krankenkassen im Zeitraum von 
+2025 bis 2027 Neuausschreibungen ihrer ePA-Provider vornehmen, und 
+inwieweit wird dieser Umstand und Zeitpunkt von BMG oder gematik 
+genutzt werden, um zum Beispiel neue oder angepasste technische und 
+vertragliche Mindestanforderungen (z. B. Interoperabilität, FHIR-Profile, 
+Datenmigration, Service Level Agreements) vorzuschreiben?
+Der Bundesregierung liegen keine Informationen zu Ausschreibungsverfahren 
+der Krankenkassen vor.
+ 8. Welche Fristen gelten für die Umsetzung bereits bestehender Vorgaben 
+bei bestehenden Providern, wie werden Verstöße sanktioniert, und 
+welche Konsequenzen zieht die Bundesregierung für zukünftige
+Ausschreibungen daraus?
+Im Rahmen der Vergabe von Aufträgen für die Erbringung von
+Betriebsleistungen werden Vorgaben an die Provider durch die gematik gemacht, die
+entsprechend der Leistungsvereinbarung umzusetzen sind. Änderungsanforderungen 
+können gemäß vertraglich vereinbarten Konditionen in der Regel innerhalb 
+weniger Monate umgesetzt werden.
+Im Rahmen von Beauftragungen werden Verstöße gegen definierte
+Anforderungen mit Vertragsstrafen durch die gematik belegt. Der Entzug der Zulassung ist 
+ein Mittel, welches in Abwägung mit der Auswirkung auf
+Leistungserbringende und Versicherte nur bei schwerwiegenden Verstößen in Erwägung gezogen 
+werden kann.
+Darüberhinausgehenden Regelungsbedarf prüft die Bundesregierung zurzeit.
+ 9. Sollen künftige Providerverträge nach Auffassung der Bundesregierung 
+verpflichtend die Möglichkeit zur Anbindung zertifizierter Dritt-
+Frontends (z. B. betriebssystemgebundene Gesundheits-Apps) enthalten, und 
+wenn ja, wie stellt die Bundesregierung sicher, dass hierbei die
+Anforderungen in Bezug auf Datenschutz und Datensicherheit sichergestellt
+werden?
+Die Einbindung von Betriebssystem-gebundenen Gesundheits-Apps sowie
+weiterer Apps als Frontends der elektronischen Patientenakte (ePA) ist derzeit 
+nicht geplant.
+10. Welchen Mehrwert und welche Risiken sieht die Bundesregierung in der 
+Nutzung der Apple Health App oder vergleichbarer Systeme als
+ergänzendes „Fenster“ zur ePA?
+Die Erfassung von Vital- und Gesundheitswerten in der Apple Health App oder 
+vergleichbaren Systemen ist eine persönliche Entscheidung der Nutzenden. Des 
+Weiteren wird auf die Antwort der Bundesregierung auf Frage 9 verwiesen.
+11. Für welche medizinischen Dokumenttypen (Laborwerte, radiologische 
+Befunde bzw. Bilder, Impf- und Vorsorgepässe, DMP (Disease
+Management Programm)-Daten etc.) liegen bei der gematik derzeit verbindliche 
+FHIR (Fast Healthcare Interoperability Resources)-Profile und
+Implementierungsleitfäden sowie Zeitpläne vor, und bis wann sollen diese
+jeweils umgesetzt werden?
+Die mit dem ePA Release 3.1 verbindlich umzusetzenden FHIR-Profile und
+Implementierungsleitfäden sind für den digital gestützten Medikationsprozess 
+(dgMP) vorhanden. Eine Umsetzung ist zu Mitte des Jahres 2026 vorgesehen.
+Die nächsten Anwendungsfälle, die mithilfe von FHIR-Profilen umgesetzt
+werden sollen, orientieren sich maßgeblich an den Anforderungen aus der EU-
+Verordnung (VO) zum Europäischen Gesundheitsdatenraum (EHDS VO). Für das 
+Jahr 2027 ist die Umsetzung des Laborbefunds vorgesehen. Die Umsetzung der 
+elektronischen Patientenkurzakte/ Patient Summary, der Arzt- und Entlassbriefe 
+sowie der Bildbefunde muss in den darauffolgenden Jahren erfolgen.
+12. Bis wann sollen alle Praxisverwaltungs-, Krankenhausinformations- und 
+Laborsysteme die genannten Profile verpflichtend unterstützen, und 
+welche Mechanismen sichern dies ab?
+13. Wie wird die Einhaltung dieser Standards überwacht (z. B. durch
+Konformitätstests oder Zertifizierung), und welche Sanktionen drohen bei 
+Nichtumsetzung?
+Die Fragen 12 und 13 werden aufgrund Sachzusammenhangs gemeinsam
+beantwortet.
+Praxisverwaltungs-, Apothekenverwaltungs- und
+Krankenhausinformationssysteme müssen für zuvor festgelegte Interoperabilitätsvorgaben ein
+Konformitätsbewertungsverfahren (KOB) nach § 387 SGB V durchlaufen. Die FHIR-Profile 
+für den dgMP und ein entsprechender Umgang damit müssen beginnend ab 
+dem Jahr 2026 nachgewiesen werden. Die Zeitpläne zur Unterstützung der in 
+Frage 11 genannten medizinischen Dokumententypen befinden sich derzeit 
+noch in Erarbeitung. Die korrekte Umsetzung wird zum einen über das KOB 
+abgesichert, zum anderen wird es für die Anforderungen aus der EHDS-VO ein 
+Conformity Assessment/Konformitätsbestätigungsverfahren geben nach
+Artikel 36 EHDS VO.
+Die Einhaltung verbindlich festgelegter Standards wird seit Inkrafttreten des 
+Gesetzes zur Beschleunigung der Digitalisierung des Gesundheitswesens
+(Digital-Gesetz – DigiG) vom 26. März 2024 durch ein
+Konformitätsbewertungsverfahren (KOB) des Kompetenzzentrums für Interoperabilität im
+Gesundheitswesen überprüft. Standards gelten als verbindlich, sobald sie in die Anlage 1 der 
+Gesundheits-IT-Interoperabilitäts-Governance-Verordnung (IOP-Governance-
+Verordnung – GIGV) aufgenommen wurden. Das KOB wurde Anfang des
+Jahres 2025 erstmalig durch die gematik angeboten. Erster Anwendungsfall war 
+die Umsetzung des digitalen Medikationsplans in der ePA. Hersteller konnten 
+so nachweisen, dass sie die verbindlichen Vorgaben eingehalten haben und
+damit „ePA-ready“ sind.
+Ärztinnen und Ärzte, die eine Software ohne ein KOB-bestätigtes ePA-Modul 
+nutzen, dürfen ihre Leistungen grundsätzlich nicht mehr abrechnen (§ 372
+Absatz 3 SGB V). Diese gesetzliche Regelung wurde geschaffen, um
+sicherzustellen, dass Hersteller ePA-konforme Produkte anbieten, zudem auch, um
+sicherzustellen, dass Ärztinnen und Ärzte ePA-konforme Hersteller beauftragen bzw. 
+ihre Systeme wechseln.
+14. Welche Förder- oder Unterstützungsprogramme existieren für
+Leistungserbringer zur Umstellung auf strukturierte Datendokumentation und 
+strukturierte Datenübertragung, mit welchem Budget und Zeithorizont 
+sind diese Programme ausgestattet, und welche weiteren Maßnahmen 
+plant die Bundesregierung, um bestehende Förderlücken zu schließen?
+Die strukturierte Dokumentation und Übertragung von Behandlungsdaten ist 
+eine Kernanforderung, um einen interoperablen Datenaustausch im
+Gesundheitswesen sicherzustellen. Sie stellt insofern einen immanenten Bestandteil 
+sämtlicher Digitalisierungsbemühungen dar und wird daher auf Basis der
+jeweiligen Zielsetzung mit regulatorischen oder förderpolitischen Maßnahmen 
+unterlegt. Beispielhaft sei hierfür die Förderung im Rahmen des
+Krankenhauszukunftsfonds genannt. Förderprogramme, die einzig auf die strukturierte
+Dokumentation und Datenübertragung anstreben, erscheinen wenig zielführend 
+und sind daher nicht geplant.
+15. Welche Konsequenzen zieht die Bundesregierung aus dem Vorgang um 
+Medisign, durch den wegen mangelhafter Kommunikation und massiver 
+zeitlicher Verzögerungen ein digitaler Komplettausfall in der
+medizinischen Versorgung drohte, und welche Maßnahmen wurden ergriffen oder 
+sind geplant, um Markt- und Kommunikationsdefizite künftig zu
+vermeiden?
+Das BMG stand im gesamten Jahr 2025 im engen Austausch mit der gematik, 
+den zuständigen Aufsichtsbehörden und den Gesellschaftern der gematik, um 
+einen kontinuierlichen Betrieb der Telematikinfrastruktur trotz der
+Herausforderungen des Wechsels der kryptographischen Algorithmen in der
+Telematikinfrastruktur zu gewährleisten.
+Im Rahmen ihrer Zuständigkeit hat die gematik bereits aufsichtsrechtliche 
+Maßnahmen gegen Marktteilnehmer erlassen.
+Weitere Maßnahmen werden durch das BMG und die gematik GmbH geprüft, 
+um einen sicheren und stabilen Betrieb der Telematikinfrastruktur zu
+unterstützen.
+16. Welche Kosten entstehen durch Austausch oder Nachrüstung ECC-
+fähiger TI-Geräte, und welche finanziellen Unterstützungen erhalten Praxen, 
+Apotheken oder Kliniken?
+Praxen, Apotheken und Krankenhäuser erhalten vom Spitzenverband Bund der 
+Krankenkassen einen Ausgleich für die Kosten der Ausstattung, die beim
+Anschluss an die Telematikinfrastruktur und durch den Betrieb der
+Telematikinfrastruktur entstehen. Da die Refinanzierung in Form von Pauschalen erfolgt,
+liegen keine Aussagen zu den konkreten Kosten vor. Der Austausch der Geräte 
+erfolgt zum Ende deren Lebensdauer. Diese Kosten wären daher auch ohne 
+diese Umstellung angefallen. Der Austausch der Karten erfolgt innerhalb der 
+Vertragslaufzeit im Allgemeinen für die Leistungserbringer kostenfrei.
+17. Wie bewertet die Bundesregierung die mit dem Einsatz cloudbasierter 
+Dienste im Gesundheitswesen verbundenen Risiken und Vorteile –
+insbesondere im Hinblick auf Skalierbarkeit, Sicherheit einschließlich Risiken 
+durch Zugriffsmöglichkeiten unberechtigter Akteure aus dem Ausland, 
+Wirtschaftlichkeit, Interoperabilität und Innovationsgeschwindigkeit –, 
+und welche Konsequenzen zieht sie daraus für die weitere digitale
+Infrastrukturstrategie des Gesundheitswesens?
+Die Bundesregierung misst der Sicherheit digitaler Lösungen im
+Gesundheitswesen einen hohen Stellenwert bei.
+Hierbei erkennt die Bundesregierung das Potenzial cloudbasierter Dienste für 
+die Digitalisierung des Gesundheitswesens an. Cloudbasierte Lösungen können 
+Gesundheitseinrichtungen ermöglichen, IT-Ressourcen bedarfsgerecht zu
+nutzen, den Datenaustausch zwischen Einrichtungen zu verbessern und die
+Integration neuer Technologien zu erleichtern.
+Gleichzeitig ist sich die Bundesregierung der besonderen Sensibilität von
+Gesundheitsdaten und der damit verbundenen Risiken bewusst. Der bestehende 
+Rechtsrahmen adressiert diese Risiken auf mehreren Ebenen. Auf europäischer 
+Ebene schaffen die NIS-2-Richtlinie (Richtlinie EU 2022/2555), die
+Cyberresilienz-Verordnung (Verordnung (EU) 2024/2847) und der Rechtsakt zur
+Cybersicherheit (Verordnung (EU) 2019/881) einheitliche Anforderungen an die
+Cybersicherheit wichtiger digitaler Infrastrukturen und digitaler Produkte. Auf 
+nationaler Ebene enthält das SGB V umfassende Vorgaben für die Verarbeitung
+von Gesundheitsdaten, einschließlich spezifischer Anforderungen an den
+Einsatz von Cloud-Diensten. Diese Regelungen stellen sicher, dass bei der
+Nutzung cloudbasierter Systeme angemessene Sicherheitsstandards eingehalten 
+werden und Risiken durch unberechtigte Zugriffe minimiert werden.
+Die Bundesregierung verfolgt einen Ansatz, der Innovation ermöglicht und 
+gleichzeitig die digitale Souveränität stärkt. Die konkrete Ausgestaltung von 
+IT-Infrastrukturen und die Auswahl von Dienstleistern obliegt den jeweiligen 
+Einrichtungen im Rahmen der geltenden rechtlichen Vorgaben.
+18. Wie hoch schätzt die Bundesregierung den Anteil der in Deutschland 
+eingesetzten cloudbasierten Krankenhausinformationssysteme (KIS) und 
+Praxisinformationssysteme (PVS) ein, und welche Zielwerte werden bis 
+zum Ende der laufenden Legislatur angestrebt?
+Cloudbasierte Krankenhaus- und Praxisinformationssysteme werden sowohl 
+substituierend als auch additiv eingesetzt, was eine quantitative Erfassung
+ausschließt.
+Die Entscheidung über den Einsatz solcher Systeme obliegt den jeweiligen
+Einrichtungen im Rahmen ihrer unternehmerischen Eigenverantwortung. Die
+Bundesregierung beobachtet jedoch, dass cloudbasierte Lösungen im
+Gesundheitswesen zunehmend an Bedeutung gewinnen – so sind im Krankenhausbetrieb 
+vielfach Produkte im Einsatz, die Teilbereiche cloudbasiert abbilden. Durch die 
+im Rahmen des Krankenhauszukunftsfonds umgesetzten Fördervorhaben (z. B. 
+im Bereich digitale Patientenportale) wurde diese Entwicklung beschleunigt.
+19. Welche Hemmnisse (rechtlich, technisch, wirtschaftlich) wurden
+identifiziert, die der Entwicklung und breiteren Einführung von Cloudsystemen 
+entgegenstehen, und was plant die Bundesregierung, um diese
+Hemmnisse zu überwinden?
+Die Bundesregierung hat verschiedene Barrieren identifiziert, die der
+Verbreitung von Innovationen entgegenstehen können. Notwendig für den Cloud-
+Einsatz bei der Verarbeitung von Gesundheitsdaten ist vor allem ein klarer
+Rechtsrahmen. Mit den Regelungen des § 393 SGB V wurde für die vom
+Anwendungsbereich erfassten Akteure, insbesondere Leistungserbringer im Sinne des 
+Vierten Kapitels SGB V sowie Kranken- und Pflegekassen, ein verlässlicher 
+Rahmen geschaffen, der sowohl die Nutzung cloudbasierter Systeme
+ermöglicht als auch angemessene Sicherheitsanforderungen definiert. Die
+Sicherheitsanforderungen umfassen insbesondere die Anforderung eines aktuellen C5-
+Testats des Bundesamtes für Sicherheit in der Informationstechnik sowie
+territoriale Vorgaben für die Datenverarbeitung.
+Die Bundesregierung vertritt die Auffassung, dass cloudbasierte Systeme je 
+nach konkreter Ausgangslage Mehrwerte für Einrichtungen im
+Gesundheitswesen bieten können. Ob der Einsatz solcher Systeme im Einzelfall vorteilhaft ist, 
+hängt jedoch von den spezifischen Anforderungen und der individuellen
+Situation des jeweiligen Leistungserbringers ab. Die Bundesregierung begleitet die 
+weitere Entwicklung und prüft fortlaufend, ob Anpassungen des rechtlichen 
+Rahmens erforderlich sind.
+20. Welche Herausforderungen ergeben sich aus Sicht der Bundesregierung 
+durch rechtliche Regelungen in Drittstaaten wie beispielsweise dem 
+CLOUD Act in den USA und der Abhängigkeit von außereuropäischen 
+Anbietern für die Cloud-Nutzung?
+Die Bundesregierung ist sich der Herausforderungen durch die Cloud-basierte 
+Verarbeitung von Daten bewusst, die sich aus extraterritorial wirkenden
+Rechtsvorschriften von Drittstaaten ergeben können. Der Gesetzgeber hat diese
+Risiken unter anderem bei der Ausgestaltung des Rechtsrahmens für Cloud-Dienste 
+im Gesundheitswesen berücksichtigt. § 393 SGB V sieht vor, dass die
+Verarbeitung von Sozial- und Gesundheitsdaten mittels Cloud-Computing nur im
+Inland, in EU- oder EWR-Staaten sowie in Drittstaaten mit einem
+Angemessenheitsbeschluss nach Artikel 45 Datenschutz-Grundverordnung (DSGVO)
+zulässig ist. In der Konstellation der Verarbeitung in einem Drittstaat mit
+Angemessenheitsbeschluss ist darüber hinaus eine Niederlassung der
+datenverarbeitenden Stelle im Inland erforderlich. Diese Anforderungen zielen darauf ab, die 
+Anwendbarkeit deutschen und europäischen Rechts sicherzustellen.
+Auf europäischer Ebene bildet das EU-US Data Privacy Framework derzeit die 
+Grundlage für Datenübermittlungen in die USA an zertifizierte Unternehmen. 
+Die konkrete Bewertung von Risiken bei der Nutzung bestimmter Cloud-
+Dienste obliegt den jeweiligen Einrichtungen im Rahmen ihrer
+Beschaffungsentscheidungen.
+21. Welche Anforderungen (z. B. ISO 27001, BSI-C5, EUCS (EUCS (Europ
+ean Cybersecurity Certification Scheme for Cloud Services)-
+Zertifizierung) müssen Cloud-Anbieter künftig erfüllen, um im
+Gesundheitswesen zugelassen zu werden, und wer überprüft die Einhaltung?
+Die Anforderungen an Cloud-Anbieter im Gesundheitswesen ergeben sich aus 
+dem geltenden nationalen und europäischen Rechtsrahmen. Für die vom
+Anwendungsbereich des § 393 SGB V erfassten Akteure ist bei der Nutzung von 
+Cloud-Computing-Diensten zur Verarbeitung von Sozial- und
+Gesundheitsdaten grundsätzlich ein aktuelles Testat nach dem Cloud Computing Compliance 
+Criteria Catalogue (C5) des Bundesamtes für Sicherheit in der
+Informationstechnik erforderlich. Die C5-Gleichwertigkeitsverordnung ermöglicht
+übergangsweise die Anerkennung gleichwertiger internationaler
+Sicherheitsnachweise, sofern ein Maßnahmenplan zur Erlangung eines C5-Testats vorgelegt 
+wird. Die Einhaltung der Anforderungen wird im Rahmen der C5-Testierung 
+durch unabhängige Wirtschaftsprüferinnen und Wirtschaftsprüfer geprüft.
+Auf europäischer Ebene befindet sich das European Cybersecurity Certification 
+Scheme for Cloud Services (EUCS) derzeit in der Entwicklung durch die EU-
+Agentur für Cybersicherheit (ENISA).
+Darüber hinaus ergeben sich für Cloud-Anbieter weitere Anforderungen aus 
+dem europäischen Rechtsrahmen. Die NIS-2-Richtlinie stellt Anforderungen an 
+die Cybersicherheit wesentlicher und wichtiger Einrichtungen, zu denen auch 
+Anbieter digitaler Infrastrukturen zählen können. Eine Zertifizierung nach ISO 
+27001 kann dabei als Grundlage für den Nachweis der geforderten technischen 
+und organisatorischen Maßnahmen dienen. Die Cyberresilienz-Verordnung 
+adressiert demgegenüber die Produktebene und stellt Anforderungen an die
+Cybersicherheit von Produkten mit digitalen Elementen über deren gesamten
+Lebenszyklus. Cloud-Anbieter können je nach Ausgestaltung ihrer Dienste beiden 
+Regelwerken unterliegen.
+Die Verantwortung für die Auswahl eines den gesetzlichen Anforderungen
+entsprechenden Cloud-Dienstes liegt bei den jeweiligen Einrichtungen.
+22. Sind darin auch Anforderung enthalten, um sicherzustellen, dass es nicht 
+zu unberechtigten Zugriffen auf die Daten durch Dritte aus dem Ausland 
+außerhalb regulärer Rechtshilfeersuchen geben kann?
+Es wird auf die Antwort der Bundesregierung auf Frage 20 verwiesen.
+23. Plant die Bundesregierung Förderprogramme oder Pilotprojekte zur
+Migration auf cloudbasierte Systeme, oder laufen diese bereits, und wenn 
+ja, wie viele Einrichtungen nehmen daran teil?
+Es wird auf die Antwort der Bundesregierung auf Frage 19 verwiesen. Abseits 
+der bereits laufenden Förderung über den Krankenhauszukunftsfonds werden 
+keine Cloud-zentrierten Förderprogramme vorgesehen.
+24. Wie soll die Datenportabilität von bisher konventionellen Systemen in 
+Cloud-Systeme gewährleistet werden, um Vendor-Lock-in zu
+verhindern?
+Der aktuelle rechtliche Rahmen sieht bereits wichtige Maßnahmen vor, um die 
+Souveränität und informationelle Selbstbestimmung von Patientinnen und
+Patienten bezüglich der von ihnen freigegebenen Gesundheitsdaten zu schützen. 
+Durch das im SGB verankerte Recht auf Interoperabilität (§ 386 SGB V) wird 
+sichergestellt, dass Leistungserbringer die bei ihnen gespeicherten
+Gesundheitsdaten in einem interoperablen Format zu halten und, soweit im konkreten
+Behandlungsfall erforderlich, in einem interoperablen Format auszutauschen
+haben. Im Sinne des auch europarechtlich festgelegten Rechts auf
+Datenübertragbarkeit (Artikel 20 DSGVO) erhalten Patientinnen und Patienten im Fall der 
+Verarbeitung ihrer Daten mit automatischen Mitteln damit eine bessere
+Kontrolle über die eigenen Daten. „Lock-In“-Effekte können damit abgeschwächt 
+und Datenübertragungen zwischen Leistungserbringern vereinfacht werden.
+Die Bundesregierung prüft derzeit, inwieweit das Recht auf Interoperabilität 
+durch eine entsprechende Interoperabilitätspflicht für Hersteller
+informationstechnischer Systeme ergänzt werden kann, um für Leistungserbringer eine
+interoperable Datenhaltung in den von Herstellern bereitgestellten Systemen zu 
+ermöglichen.
+25. Welche Hersteller wurden seit Beginn der Legislatur von der gematik 
+oder dem BMG wegen Verstößen gegen Sicherheits- oder
+Interoperabilitätsanforderungen angehört oder sanktioniert, und mit welchem
+Ergebnis?
+Zwei Unternehmen mit Zulassungen im Bereich Smartcards bzw.
+Komponenten und Dienste wurden von der gematik angehört und ihnen wurden
+entsprechende Maßnahmen zur Nachbesserung auferlegt. Darüber hinaus finden
+regelmäßig Gespräche der gematik mit allen Herstellern zur Einhaltung von IT-
+Sicherheitsanforderungen statt.
+26. Welche Verfahren existieren, um Beschwerden von Krankenkassen oder 
+Leistungserbringern gegen IT-Hersteller zu erfassen und auszuwerten?
+Prinzipiell ist der Vertragspartner eines IT-Herstellers für die Sicherstellung der 
+Qualität eines Dienstes oder eines Produktes zuständig. Dies kann auch eine 
+Krankenkasse oder ein Leistungserbringer sein.
+Im Rahmen ihrer koordinierenden Zuständigkeit erfasst die gematik auch
+systematisch gemeldete und als kritisch geltende Fehlfunktionen von Produkten und 
+Diensten, die von Krankenkassen oder Leistungserbringern gemeldet werden. 
+Die gematik verfolgt in diesen Fällen die Problemlösung bei den Herstellern 
+nach.
+27. Welche Herausforderungen ergeben sich aus Sicht der Bundesregierung 
+durch potenzielle technische Abhängigkeiten von einzelnen Betreibern in 
+der Nutzung von PVS, KIS oder Cloud-Systemen, und welche
+Lösungsmöglichkeiten sieht die Bundesregierung vor, um Abhängigkeiten zu
+vermeiden?
+Der Wechsel des sogenannten Primärsystems für Leistungserbringende hat
+organisatorische, personelle und finanzielle Aspekte. Je größer die
+Versorgungseinrichtung, desto mehr Mitarbeitende sind von Systemänderungen betroffen 
+und müssen entsprechend geschult werden. Als herausfordernd kann sich
+darstellen, dass Daten vom Altsystem auf das Neusystem schnell und verlustfrei 
+übertragen werden müssen, da Daten häufig nicht in einem einheitlichen
+interoperablen Format vorliegen, sondern von den Herstellern proprietäre Standards 
+verwendet werden. Insbesondere im Krankenhausbereich bestehen zudem
+zahlreiche Verknüpfungen zu anderen IT-Produkten, die die Komplexität eines KIS-
+Wechsels erhöhen. Der Wechsel eines KIS ist insofern nicht ohne weiteres 
+möglich.
+Grundsätzliche Abhilfe hinsichtlich der Datenportabilität schaffen
+Standardisierungsverfahren zur Integration offener Schnittstellen wie beispielsweise das 
+von der gematik verantwortete Verfahren „Informationssysteme im
+Krankenhaus“ (kurz: ISiK). Während der deutsche KIS-Markt stark konsolidiert ist und 
+derzeit ein halbes Dutzend großer KIS-Anbieter die Mehrheit des Marktes
+bedienen, sind im Bereich der Praxisverwaltungssysteme (PVS) eine Vielzahl an 
+zum Teil sehr kleinen Anbietern am Markt. Auch im vertragsärztlichen und 
+vertragszahnärztlichen Bereich soll durch einheitliche Kernprofile und offene 
+Schnittstellen der Wechsel des PVS erleichtert werden, um so Abhängigkeiten 
+möglichst zu reduzieren.
+28. Plant die Bundesregierung die Zulassung patienteninitiierter, rein
+lesender Zugänge zur ePA über Betriebssystem-Frontends (z. B. Apple 
+Health, Android Health Connect), und wenn ja, bis wann sollen diese 
+umgesetzt werden?
+29. Welche Anpassungen der gematik-Spezifikationen (z. B. VAU
+(Vertrauenswürdige Ausführungsumgebung)-Anbindung, OAuth2 (Open
+Authorization), SMART-on-FHIR, Nutzung von Secure Enclave) sind für
+solche Integrationen erforderlich?
+Die Fragen 28 und 29 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Der lesende Zugriff auf die ePA durch Smartphone eigene Betriebssystem-
+Frontends ist derzeit nicht geplant.
+30. Welche anderen frontend-seitigen Anpassungen und Maßnahmen an der 
+ePA hält die Bundesregierung für sinnvoll und erforderlich, um die Zahl 
+der aktiven Nutzerinnen und Nutzer der ePA und den regelmäßigen
+Zugriff dieser auf die ePA krankenkassenübergreifend deutlich zu erhöhen?
+31. Wann wird die Funktionalität der ePA-Apps um Push-Funktionen
+erweitert, durch die Nutzerinnen und Nutzer über Aktivitäten in der ePA (z. B. 
+Zugriff, Bearbeitung, E-Rezept-Zurverfügungstellung) proaktiv
+informiert werden?
+Die Fragen 30 und 31 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Die Einführung der Push Notification-Funktionalität im Frontend des
+Versicherten (FdV) mit ePA Release 3.1 soll im Sommer 2026 erfolgen. Sie wird 
+die Nutzungsmöglichkeiten der ePA-App weiter verbessern und somit die
+aktive Nutzung der ePA fördern. Krankenkassen können bspw. mittels dieser
+Funktion Erinnerungsmöglichkeiten für Versicherte integrieren.
+32. Welche Pläne bestehen vor dem Hintergrund des großen Erfolgs beim 
+E‑Rezept, eHealth-CardLink oder vergleichbare Verfahren über
+Apotheken- und E‑Rezept-Szenarien hinaus in der Telemedizin, insbesondere in 
+den Leitstellen 112 und 116117, als niedrigschwelliges und
+nutzerfreundliches Verfahren der patientenseitigen Authentifizierung einzusetzen?
+33. Bis wann könnten im Falle einer Entscheidung für eine Ausweitung
+solcher Verfahren Spezifikationen, Sicherheitsfreigaben und Testprojekte 
+hierfür abgeschlossen sein, und welche Partner müssten dazu zwingend 
+beteiligt werden?
+34. Falls keine Ausweitung vorgesehen ist, welche alternativen Verfahren 
+(z. B. eID-Light, QR-Login, Mobile eID) sind für eine vergleichbar
+niedrigschwellige Authentifizierung geplant, und wann sollen diese
+flächendeckend eingeführt werden?
+Die Fragen 32 bis 34 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Im Rahmen der Spezifikation des Dienstes Proof-of-Patient-Presence werden 
+zurzeit von der gematik auch verschiedene Verfahren zur Authentifizierung
+geprüft.
+Zukünftig wird die EUDI-Wallet eine wichtige Rolle bei der Authentifizierung 
+im Gesundheitswesen spielen.
+35. Wie integriert die Bundesregierung die Vorgaben des Data Act
+(Verordnung (EU) 2023/2854) in das Gesundheitswesen, insbesondere im
+Hinblick auf Zugangsrechte von Patientinnen und Patienten zu
+maschinenlesbaren Gesundheitsdaten?
+Gemäß § 386 Absatz 2 SGB V haben Patientinnen und Patienten gegenüber 
+Leistungserbringern einen gesetzlichen Anspruch auf die unverzügliche
+Herausgabe ihrer personenbezogenen Gesundheitsdaten in einem interoperablen 
+Datenformat.
+36. Wie werden die Anforderungen des EHDS (z. B. EHR (Electronic Health 
+Record)-Zertifizierung, Interoperabilität, Marktaufsicht) national
+umgesetzt, und welche Fristen gelten hierfür?
+37. Welche EHDS-Pilotprojekte sind in Deutschland derzeit bereits geplant, 
+bzw. in der Durchführung, und wie ist deren automatisierte
+Echtzeitanbindung an die ePA ausgestaltet, sollte es bislang keine entsprechenden 
+Pilotprojekte geben, wie will die Bundesregierung sicherstellen, dass die 
+Umsetzung der technischen, organisatorischen und rechtlichen
+Anforderungen des EHDS ab dem Zeitpunkt seiner Verbindlichkeit reibungslos 
+erfolgt?
+Die Fragen 36 und 37 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Die EHDS VO ist seit März 2025 in Kraft. Die enthaltenen Vorgaben finden 
+stufenweise Anwendung (2027, 2029, 2031). Wesentliche fachlich-inhaltliche 
+Details in Gestalt der in der Verordnung angelegten Durchführungsrechtsakte 
+werden derzeit auf EU-Ebene zwischen der EU-Kommission und den
+Mitgliedstaaten im Rahmen des sogenannten Komitologieverfahrens verhandelt. Die 
+Bundesregierung bringt sich für Deutschland im Verfahren aktiv und
+konstruktiv ein. Weiterführende Informationen finden sich u. a. auf der Internetseite der 
+Europäischen Kommission: health.ec.europa.eu/ehealth-digital-health-and-care/
+european-health-data-space-regulation-ehds_de .
+Die Bundesregierung ergreift zudem bereits Maßnahmen, um etwa
+erforderliche Anpassungen des nationalen Rechts (an die als EU-Verordnung auch in 
+Deutschland rechtlich unmittelbar verbindliche EHDS VO) sowie technische 
+und organisatorische Durchführungsmaßnahmen (z. B. mit Blick auf
+infrastrukturelle Aspekte) vorzubereiten und somit eine fristgerechte Erfüllung der 
+EHDS-Vorgaben sicherzustellen. Dabei wird an wichtige Vorarbeiten wie die 
+Einführung der elektronischen Patientenakte (ePA) und den Start des
+Forschungsdatenzentrums Gesundheit angeknüpft. Die gematik berücksichtigt die 
+europäischen Vorgaben im Rahmen ihrer Aufgaben- und Zeitplanerstellung bei 
+der Einführung weiterer Anwendungen der Telematikinfrastruktur.
+38. Wie hoch ist nach Kenntnis der Bundesregierung die Aktivierungsquote 
+(mindestens ein versichertenseitiger Zugriff) der ePA zum Stichtag 
+31. Oktober 2025 nach Krankenkassen aufgeschlüsselt?
+Am Stichtag 31. Oktober 2025 gab es insgesamt 3,89 Millionen Gesundheits-
+IDs. Eine Aufschlüsselung nach Krankenkassen erfolgt hierbei nicht.
+39. Wie viele Personen greifen nach Kenntnis der Bundesregierung über 
+eigene Hardware selbst auf die ePA zu?
+40. Wie teilen sich nach Kenntnis der Bundesregierung dabei die gewählten 
+Authentisierungslösungen auf?
+Die Fragen 39 und 40 werden aufgrund des Sachzusammenhangs zusammen 
+beantwortet.
+Der Bundesregierung liegen keine Daten zur Nutzung über eigene Hardware 
+und den gewählten Authentisierungslösungen vor.
+41. Ab wann wird ein browserbasierter Zugriff auf die ePA ohne
+Kartenlesegerät möglich sein, und was sind die Voraussetzungen dafür?
+Der alternative Zugang zur ePA über die App erfolgt über einen sogenannten 
+Desktop Client. Ein browserbasierter Zugriff auf die ePA ist derzeit aus
+Gründen der IT-Sicherheit nicht möglich.
+42. Welche Hauptbarrieren für Nutzung und Aktivierung sowohl
+versicherten- als auch leistungserbringerseitig hat die Bundesregierung
+identifiziert, und welche kurzfristigen Maßnahmen werden umgesetzt, um diese 
+zu überwinden?
+43. Plant die Bundesregierung ergänzend hierzu eine Studie, um die
+bestehenden Hürden bei der Nutzung der ePA zu identifizieren und darauf
+aufbauend gezielte Lösungsansätze zu entwickeln, und wenn nein, aus
+welchen Gründen sieht sie von einer solchen Untersuchung ab?
+Die Fragen 42 und 43 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Der bundesweite Rollout der über 70 Millionen ePAs wurde Anfang des Jahres 
+2025 erfolgreich abgeschlossen. Mit der verpflichtenden Nutzung der ePA 
+durch die Leistungserbringenden seit 1. Oktober 2025 etabliert sich die ePA
+zunehmend in der Versorgung. Seitdem müssen u. a. Daten zu Laborberichten, 
+Befundberichten und elektronischen Arztbriefen bzw. Entlassbriefe in die ePA 
+übermittelt werden. Mit diesen relevanten Dokumenten wird auch die Nutzung 
+der ePA durch Versicherte deutlich zunehmen. Im Jahr 2026 wird zudem die 
+Funktion „Push Benachrichtigung für Versicherte“ umgesetzt. Dadurch erhalten 
+Versicherte umgehend die Information zu neuen Dokumenten und Inhalten in 
+ihrer ePA und können sich aktiv damit befassen. Aber auch ohne eine aktive 
+Nutzung der ePA-App wird die ePA zu einer verbesserten
+Gesundheitsversorgung beitragen. Die Einführung der Volltextsuche, die für das Jahr 2026
+geplant ist, wird einen großen Mehrwert im Praxisalltag und für die
+Leistungserbringer bieten. Mit dem „Gesetz zur Befugniserweiterung und
+Entbürokratisierung in der Pflege“ (BEEP) wurden neue Video-Identverfahren ermöglicht, die 
+zu einfacheren und benutzerfreundlichen Authentisierungslösungen führen
+können.
+Im regelmäßigen Austausch mit den Leistungserbringerorganisationen und 
+Krankenkassen werden die Anliegen der Nutzenden sowie Maßnahmen zur
+Akzeptanzsteigerung fortlaufend diskutiert und auf dieser Basis gemeinsame
+Lösungen erarbeitet. Eine darüberhinausgehende Studie ist nicht geplant.
+44. Wie bewertet die Bundesregierung Maßnahmen zur Integration von
+Alltagsdaten aus Wearables oder digitalen Gesundheitsanwendungen, aber 
+auch manuell von strukturierten Daten zu medizinischen Befunden wie 
+Laborwerten und Röntgenbildern in die ePA?
+45. Plant die Bundesregierung solche Maßnahmen und wenn ja, welchen 
+Zeitplan sieht sie zur Umsetzung dieser Maßnahmen vor?
+Die Fragen 44 und 45 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Die Schaffung der Möglichkeit der Integration von Daten aus Wearables oder 
+digitalen Gesundheitsanwendungen in die ePA obliegt den Krankenkassen. 
+Diese können Schnittstellen in die ePA integrieren und so den Versicherten die 
+Übernahme von Daten ermöglichen. Versicherte können zudem ihre
+Dokumente selbst in die ePA einstellen. Von Seiten der Bundesregierung sind derzeit 
+keine weitergehenden Maßnahmen geplant. Es wird zudem auf die Antwort der 
+Bundesregierung auf Frage 10 verwiesen.
+46. Wie groß ist nach Kenntnis der Bundesregierung der Anteil derjenigen 
+Patientinnen und Patienten, die von der Opt-out-Möglichkeit zur
+Nutzung der ePA bis zum aktuellen Zeitpunkt Gebrauch gemacht haben?
+Die Opt-out-Quote liegt nach Kenntnis der Bundesregierung derzeit bei ca. 
+5 Prozent.
+47. Plant die Bundesregierung, die Ausnahmeregelungen zur
+Befüllungspflicht für Leistungserbringer, Krankenhäuser und weitere
+Zugriffsberechtigte rückwirkend zum 1. Oktober 2025 in Kraft zu setzen, da diese 
+Akteurinnen und Akteure ab diesem Zeitpunkt zur Übermittlung und 
+Speicherung von Daten verpflichtet sind, und wenn nein, aus welchen 
+Gründen verzichtet die Bundesregierung auf eine rückwirkende
+Anwendung?
+Die Bundesregierung plant keine rückwirkende Geltung der
+Ausnahmeregelungen zur Befüllungspflicht, die mit dem „Gesetz zur Befugniserweiterung und 
+Entbürokratisierung in der Pflege“ am 1. Januar 2026 in Kraft getreten sind. 
+Eine rückwirkende Anwendung eines Gesetzes ist grundsätzlich unzulässig. 
+Versicherte können im Rahmen ihrer Zugriffs- und Widerspruchsrechte ihre 
+ePA selbst verwalten und somit auch bereits vorhandene Inhalte in der ePA
+löschen.
+48. Plant die Bundesregierung die Einführung eines differenzierten
+Berechtigungsmanagements auf Einzeldokumentenebene in der ePA, das es
+Versicherten ermöglicht, Zugriffsrechte für einzelne Leistungserbringer
+dokumentgenau zu vergeben?
+Die Bundesregierung plant derzeit keine Veränderungen im
+Berechtigungsmanagement der ePA.
+49. Inwieweit unterhält die Bundesregierung direkte oder indirekte
+Informationsmaßnahmen zur Datenverarbeitung im Rahmen der ePA, um
+Patientinnen und Patienten eine informierte Entscheidung zu Zustimmung oder 
+Widerspruch zu ermöglichen und das Wissen zur ePA und die
+Bekanntheit dieser in der breiten Bevölkerung zu erhöhen?
+Die Bundesregierung führt fortwährend Informationskampagnen zur
+Aufklärung der Bevölkerung und Steigerung der Bekanntheit der ePA durch.
+50. Werden nach Kenntnis der Bundesregierung im Falle eines
+Patientenwiderspruchs zur Nutzung der ePA dennoch automatisch Patientenakten
+angelegt, und wenn ja, wo, und durch wen?
+Im Falle eines Widerspruchs gegen die Nutzung der ePA wird die komplette 
+ePA direkt durch die entsprechende Krankenkasse gelöscht. Eine Neuanlage 
+der ePA erfolgt nur im Falle einer erneut erteilte Zustimmung zur Anlage einer 
+ePA.
+51. Plant die Bundesregierung eine ergänzende Regelung zu der im BEEP 
+vorgesehenen Norm, wonach bei gewichtigen Anhaltspunkten für eine 
+Gefährdung des Kindeswohls bis zur Vollendung des 15. Lebensjahres 
+keine Verpflichtung zur Übermittlung und Speicherung von
+Behandlungsdaten in der ePA besteht, um den Schutz für Kinder vor Vollendung 
+des 15. Lebensjahrs auch auf Abrechnungsdaten der Krankenkassen zu 
+erstrecken, die ebenfalls in die ePA eingestellt werden, und wenn nein, 
+warum nicht?
+Die Bundesregierung plant keine entsprechende ergänzende Regelung. Die mit 
+dem „Gesetz zur Befugniserweiterung und Entbürokratisierung in der Pflege“ 
+(BEEP) eingebrachten Regelungen sind aus Sicht der Bundesregierung
+ausreichend.
+52. Inwiefern verfügt die Bundesregierung über Informationen, ob alle
+gesetzlichen Krankenkassen die vorgesehenen Ombudsstellen (um
+Versicherte bei Anliegen um die ePA zu unterstützen) bereits eingerichtet 
+haben, und welche Erkenntnisse hat die Bundesregierung über die
+Nutzung der Ombudsstellen und die Hauptanliegen der Nutzenden?
+Nach Kenntnis der Bundesregierung haben alle Krankenkassen die gesetzlich 
+vorgesehenen Ombudsstellen eingerichtet. Informationen zur Nutzung der
+Ombudsstellen durch die Versicherten liegen der Bundesregierung nicht vor.
+53. Wann soll nach Informationen der Bundesregierung das Konzept „Proof 
+of Patient Presence“ (PoPP) von den Betreibern ausgerollt werden, um 
+den Identitätsnachweis ortsunabhängig zu ermöglichen und die Nutzung 
+von digitalen Gesundheitsdienstleitungen zu erleichtern, insbesondere in 
+mobilen Behandlungsszenarien?
+Der Rollout des Proof-of-Patient-Presence soll in der zweiten Jahreshälfte des 
+Jahres 2026 starten. Mobile Einsatzszenarien sollen im Jahr 2027 von dieser 
+technischen Umstellung profitieren.
+54. Wie beurteilt das Bundesamt für Sicherheit in der Informationstechnik 
+(BSI) die aktuelle IT-Sicherheit der ePA und ihrer Infrastruktur, und 
+welche Informationen liegen der Bundesregierung zu IT-
+Sicherheitsvorfällen und Cyberangriffen auf die ePA vor?
+Die ePA weist nach Ansicht des BSI aktuell ein dem Schutzbedarf
+angemessenes Sicherheitsniveau auf. Längerfristig bekannte Schwachstellen wurden 
+durch Übergangsmaßnahmen befristet mitigiert. Mit Einführung des PoPP-
+Dienstes erfolgt die abschließende Mitigation voraussichtlich zum Ende des 
+Jahres 2026.
+Der Bundesregierung liegen keine neuen Informationen zu IT-
+Sicherheitsvorfällen oder Cyberangriffen auf die ePA vor.
+55. Gibt es zwischen der Bundesregierung und dem Chaos Computer Club 
+(CCC) Abstimmungen oder Austausch zur Sicherheit der ePA?
+Zwischen einzelnen Vertretern des Chaos Computer Club (CCC) bzw.
+Vertretern der Bundesregierung, von Aufsichtsbehörden und der gematik gibt es
+anlassbezogen Austausch zur Sicherheit der Telematikinfrastruktur, einschließlich 
+der ePA.
+56. Gab es seit Mai 2025 weitere Hinweise des CCC zu erforderlichen
+Sicherheitsmaßnahmen oder Schwachstellen, und wenn ja, welche, und 
+was wurde bzw. wird als Reaktion darauf unternommen?
+Nach Mai 2025 erfolgten keine weiteren Hinweise zur Sicherheit der ePA von 
+Personen im Umfeld des CCC gegenüber der Bundesregierung.
+57. Welche Meilensteine gelten bis 2027 für den weiteren Roll-out der ePA 
+(einschließlich strukturierter Datentypen und sektorenübergreifender 
+Nutzung), und welche Sanktionen greifen bei Nichteinhaltung?
+Die nächsten Meilensteine der ePA sind der Ausbau des digital gestützten
+Medikationsprozesses und die Push-Benachrichtigungen für Versicherte ab Herbst 
+2026. Ab Ende des Jahres 2026 wird die Volltextsuche innerhalb der ePA
+verfügbar sein sowie die Datenausleitung aus der ePA an das
+Forschungsdatenzentrum. Leistungserbringende müssen zudem entsprechende Nachweise
+erbringen, dass ihre informationstechnischen Systeme die von der gematik 
+GmbH festgelegten Anforderungen erfüllen
+(Konformitätsbestätigungsverfahren, siehe Antwort der Bundesregierung auf die Fragen 5 und 7).
+58. Welche Mittel sind in der mittelfristigen Finanzplanung bis zum Ende 
+der Legislatur je Jahr für ePA-Weiterentwicklung, TI-Krypto-Umstellung 
+und Weiterentwicklung durch die gematik veranschlagt?
+In der mittelfristigen Finanzplanung der gematik sind für die Jahre 2027 bis 
+2029 jeweils 3,8 Mio. Euro für die Weiterentwicklung der ePA berücksichtigt.
+Für die TI-Krypto-Umstellung und Weiterentwicklung gibt es keine separaten 
+Sachkosten in der mittelfristigen Finanzplanung der gematik. Im Rahmen der 
+TI-Krypto-Umstellung ist die gematik im Wesentlichen im Bereich der
+Konzeptarbeit tätig.
+59. Welche Berichte oder Evaluierungen zur Umsetzung des DigiG und des 
+GDNG sind derzeit in Planung oder bereits beauftragt, zu welchen
+Zeitpunkten ist mit deren Veröffentlichung zu rechnen, und welche
+voraussichtlichen Maßnahmen plant die Bundesregierung, um die darin
+enthaltenen Handlungsempfehlungen zeitnah und verbindlich umzusetzen?
+Der Spitzenverband Bund der Krankenkassen berichtet dem BMG jährlich, 
+erstmals bis zum 30. Juni 2026, zum Verfahren bei der datengestützten
+Auswertung nach § 25b SGB V. Ob auf Grundlage der Berichte möglicherweise
+Maßnahmen notwendig sind, sowie deren Umfang, prüft die Bundesregierung bei 
+Vorlage der Berichte.
+Eine formelle Evaluation des gesamten GDNG ist derzeit nicht vorgesehen, da 
+durch die erforderliche Durchführung der EHDS VO ohnehin zeitnah eine
+Weiterentwicklung bevorsteht.
+§ 318b SGB V sieht eine Evaluierung des Digitalbeirats der gematik vor, 
+welche bereits beauftragt wurde. Weitere Evaluierungen sieht das DigiG nach 
+Ablauf von fünf Jahren beginnend mit dem Inkrafttreten des Gesetzes vor.
+Die Förderung aus dem Innovationsfonds wird nach dessen Verstetigung
+kontinuierlich evaluiert. Nach § 92a Absatz 5 SGB V veranlasst das BMG eine
+wissenschaftliche Auswertung der Förderung aus dem Innovationsfonds und legt 
+dem Deutschen Bundestag in der Regel im Abstand von vier Jahren, erstmals 
+zum 30. Juni 2028, einen Bericht über das Ergebnis der wissenschaftlichen
+Auswertung vor. Darüber hinaus hat die gematik bis zum 1. Juli 2026 dem 
+BMG ein Umsetzungskonzept zur Weiterentwicklung der ePA zu einem
+persönlichen Gesundheitsdatenraum vorzulegen.
+60. Wann plant die Bundesregierung die Einführung einer digitalen
+Heilberufe-ID, mit der individuelle Leistungserbringer eindeutig authentifiziert 
+und ePA-Zugriffe personenbezogen protokolliert werden können?
+a) Welche Institution trägt die technische und organisatorische
+Verantwortung (gematik, BSI, Heilberufekammern) dafür, und welche 
+Rechtsgrundlage wird hierfür herangezogen?
+b) Warum ist die verpflichtende Einführung erst für 2030 vorgesehen, 
+und welche Zwischenlösungen existieren bis dahin, um eine
+vollständige Nachvollziehbarkeit sicherzustellen?
+61. Welche Risiken sieht die Bundesregierung in der fehlenden individuellen 
+Zugriffszuordnung durch Leistungserbringer, und welche Maßnahmen 
+sind zur Minimierung dieser Risiken vorgesehen?
+Die Fragen 60 und 61 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Nach § 309 SGB V haben die datenschutzrechtlich Verantwortlichen mit
+geeigneten technischen Maßnahmen die Zugriffe und die versuchten Zugriffe auf 
+personenbezogene Daten der Versicherten in u. a. der ePA zu protokollieren. 
+Die personenbezogene Protokollierung wird bis zum Jahr 2030 vorbereitet.
+Dabei werden auch die Umsetzungsszenarien digitaler
+Leistungserbringeridentitäten berücksichtigt.
+62. Welche internationalen Vorbilder für digitale Heilberufe-ID wurden
+geprüft, und welche Erkenntnisse daraus sind in die Planung bereits
+eingeflossen, beziehungsweise bis wann werden welche Erfahrungen
+einfließen?
+Die digitalen Identitäten für Leistungserbringer werden sich zukünftig an den 
+Vorgaben der EHDS-VO ausrichten.
+63. Wie ist der konkrete Zeitplan im Rahmen der Beauftragung der gematik 
+entsprechend § 311 Absatz 1 Nummer 16 SGB V zur kontinuierlichen 
+konzeptionellen Weiterentwicklung der ePA hin zu einem persönlichen 
+Gesundheitsdatenraum, der eine datenschutzkonforme und sichere
+Verarbeitung strukturierter Gesundheitsdaten ermöglicht, um diesen
+konsequent und zügig nutzbar machen zu können?
+a) Welche Zwischenergebnisse liegen vor?
+b) Welche Überschneidungen oder Synergien bestehen mit dem EHDS?
+Die gematik hat bis zum 1. Juli 2026 dem BMG ein Umsetzungskonzept zur 
+Weiterentwicklung der ePA zu einem persönlichen Gesundheitsdatenraum
+vorzulegen. Darin sollen auch Überschneidungen oder Synergien mit der EHDS-
+VO berücksichtigt werden.
+64. Wie soll sichergestellt werden, dass bis zum Ende der Legislatur
+strukturierte Labor-, Bild- und Vorsorgeuntersuchungsdaten
+sektorenübergreifend interoperabel und in Echtzeit für Leistungserbringende nutzbar 
+sind?
+Es wird auf die Antwort der Bundesregierung auf Frage 11 verwiesen.
+65. Wie wird die gematik personell, finanziell und rechtlich ausgestattet, um 
+die im Rahmen des DigiG, des GDNG und weiterer
+Digitalisierungsinitiativen genannten Aufgaben fristgerecht umzusetzen, und welche
+konkreten Planungen bestehen für den Ausbau dieser personellen, finanziellen 
+und rechtlichen Ressourcen in den kommenden Jahren (bitte
+aufgeschlüsselt nach Jahren bis Ende der Wahlperiode angeben)?
+Die Aufgaben der gematik sind per Gesetz vorgegeben. Die dazu gehörenden 
+Beschlüsse der gematik zur Aufgabenumsetzung werden durch die
+Gesellschafter der gematik beschlossen.
+Die Finanzierung der gematik ist in § 316 SGB V geregelt. Darüber hinaus
+erstellt die Geschäftsführung der gematik jährlich eine Unternehmensplanung, 
+die die notwendige finanzielle Basis zur Umsetzung der zugrunde zulegenden 
+Beschlüsse der Gesellschafter abbildet. Im Rahmen dieser
+Unternehmensplanung, die von den Gesellschaftern beschlossen wird, werden die finanziellen 
+sowie die damit einhergehenden personellen Rahmenbedingungen festgelegt.
+66. Welche Bilanz zieht die Bundesregierung zum bisherigen Beitrag der 
+ePA zur Verbesserung der Datengrundlage für die Gesundheitsforschung 
+hierzulande, und welche Maßnahmen sind geplant, um die
+datenschutzkonforme Nutzung der Daten für die gemeinwohlorientierte Forschung 
+noch besser zu heben?
+Bislang werden noch keine Daten aus der ePA an das Forschungsdatenzentrum 
+Gesundheit übermittelt. Das hierfür notwendige Verfahren wird gemäß der
+gesetzlichen Frist in § 342 Absatz 2 Nummer 4 SGB V bis zum 30. Oktober 2026 
+etabliert. Eine Bilanz des bisherigen Beitrags dieser Daten zur
+Gesundheitsforschung kann daher noch nicht gezogen werden. Zur weiteren Verbesserung der 
+datenschutzkonformen Nutzung der Daten ist insbesondere geplant, die EHDS-
+VO umzusetzen und hierzu ein dezentrales und vernetztes
+Gesundheitsdatenökosystem aufzubauen.
+67. Wie viele Digitalisierungsgesetze plant die Bundesregierung in dieser 
+Legislaturperiode?
+a) Welche Schwerpunkte sind dafür vorgesehen?
+b) Welche Zeitpläne sind angedacht?
+Die Bundesregierung plant ein umfassendes Digitalgesetz, mit dem weitere
+Impulse für die Digitalisierung des Gesundheitssystems und die Verbesserung der 
+Datennutzung im Gesundheitsbereich gesetzt werden sollen. Es ist beabsichtigt, 
+den Entwurf im ersten Halbjahr des Jahres 2026 vorzulegen. Das
+parlamentarische Verfahren wird für das zweite Halbjahr 2026 angestrebt.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

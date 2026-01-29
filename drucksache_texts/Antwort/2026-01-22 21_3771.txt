@@ -1,0 +1,213 @@
+Deutscher Bundestag Drucksache 21/3771
+21. Wahlperiode 22.01.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Steffen Kotré, Leif-Erik Holm, Dr. Malte 
+Kaufmann, weiterer Abgeordneter und der Fraktion der AfD
+– Drucksache 21/3225 –
+Mögliche Handelsvorteile durch Zugang zu Aktivierungssignalen im 
+Regelenergiemarkt
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Der Handel mit elektrischer Energie im kurzfristigen Großhandelsmarkt
+unterliegt den Vorgaben der Verordnung (EU) Nummer 1227/2011 über die
+Integrität und Transparenz des Energiegroßhandelsmarktes (REMIT). Diese verbietet 
+Insiderhandel sowie missbräuchliche Marktverhaltenstatbestände und dient 
+damit der Sicherstellung fairer, transparenter und wettbewerblicher
+Marktprozesse. Als mögliche REMIT-Verstöße gelten insbesondere die Nutzung
+nichtöffentlicher, preisrelevanter Informationen zu Handelszwecken, die gezielte 
+Beeinflussung von Preisen oder Marktverläufen sowie die Abgabe
+irreführender Signale über Angebot, Nachfrage oder Verfügbarkeit, weil
+marktbewegende Informationen unverzüglich öffentlich zu machen sind.
+In Deutschland sind rund 30 bis 40 Unternehmen für die Erbringung von
+Ausgleichsenergie präqualifiziert. Nur eines davon, die MVV mit Sitz in
+Mannheim, veröffentlicht nach Angaben gegenüber dem Informationsdienst Montel 
+das von den Netzbetreibern zur Aktivierung von Ausgleichsenergie
+übermittelte Signal über die Transparenzplattform der Energiebörse EEX, um
+möglichen REMIT-Verstößen vorzubeugen. Nach Medienberichten sei es
+Marktakteuren grundsätzlich möglich, Informationen über den Abruf von Regelenergie 
+für Handelsentscheidungen zu nutzen (https://montelnews.com/de/news/08d9d
+c61-b67d-44db-949b-3ed9568d0fbf/whistleblower-warnen-vor-insider-stromh
+andel-in-deutschland; www.pv-magazine.de/unternehmensmeldungen/
+bnetzauntersucht-vorwuerfe-des-insiderhandels-mit-strom/).
+Der Abruf von Regelenergie ermöglicht Rückschlüsse auf die Systembilanz 
+(„NRV-Saldo“) zum Zeitpunkt des Abrufs und stellt damit einen potenziell 
+marktbewegenden Faktor dar, der, sofern nicht allgemein verfügbar, im
+Anwendungsbereich von REMIT als Insiderinformation gelten kann.
+Bereits frühere Analysen weisen darauf hin, dass die Aktivierung von
+Regelenergie kurzfristig signifikante Preisbewegungen im Intraday-Handel auslösen 
+kann. Das bedeutet, dass daraus resultierende Informationsvorsprünge
+potenziell für illegale Handelspraktiken wie Insiderhandel genutzt werden könnten. 
+Eine Analyse von Neon Neue Energieökonomik GmbH wertete hierzu rund 
+80 Millionen Intraday-Transaktionen (Stunden- und Viertelstundenprodukte) 
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Wirtschaft und Energie vom 
+21. Januar 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+auf der EPEX sowie etwa 50 Millionen Abrufe von positiver und negativer 
+Regelleistung (SRL bzw. MRL) aus dem Zeitraum von Anfang 2020 bis Mitte 
+2021 aus. Methodisch kamen multiple Regressionsmodelle mit einer
+zeitlichen Auflösung von einer Minute sowie Kontrollvariablen (u. a. Prognosen 
+und spätere Veröffentlichungen) zum Einsatz. Die Untersuchung zeigte einen 
+statistisch signifikanten und robusten Zusammenhang zwischen
+Regelleistungsabrufen und Intraday-Preisbewegungen: Nach positiven Abrufen stiegen 
+die Preise systematisch an, während sie nach negativen Abrufen entsprechend 
+sanken. Besonders betroffen waren kurzfristige Produkte mit maximal zwei 
+Stunden bis zur Lieferung. Laut Studie konnte mit einer Konfidenz von über 
+99,99 Prozent ausgeschlossen werden, dass diese Preisausschläge auf zufällige 
+Schwankungen zurückzuführen waren (https://neon.energy/Neon-Intraday-Re
+gelleistung.pdf).
+Da der Abruf von Regelleistung in Deutschland nicht in Echtzeit
+veröffentlicht wird, besitzen nur die präqualifizierten Anbieter von Regelenergie 
+Kenntnis über diese Signale. Eine Nutzung solcher Informationsvorsprünge 
+(„Frontrunning“) könnte andere Marktteilnehmer wirtschaftlich benachteiligen 
+(https://neon.energy/Neon-Intraday-Regelleistung.pdf).
+Dass im Stromhandel Fälle von Marktmanipulation auftreten können, zeigt ein 
+Bußgeldverfahren aus dem Jahr 2021. Auch wenn der Fall nicht den Umgang 
+mit Aktivierungssignalen betrifft, unterstreicht er nach Auffassung der
+Fragesteller grundsätzlich die Bedeutung wirksamer Marktüberwachung und zeigt, 
+dass Behörden Marktmissbrauch tatsächlich sanktionieren. Im Jahr 2021
+wurden Bußgelder gegen die Unternehmen Energi Danmark A/S (200 000 Euro) 
+und Optimax Energy GmbH (175 000 Euro) wegen Ausnutzung von
+Unterdeckungen im Bilanzkreis beim Stromhandel verhängt (www.bundesnetzagentu
+r.de/SharedDocs/Pressemitteilungen/DE/2021/20211005_BussgeldMarktmani
+pulation.html).
+Angesichts des fortbestehenden Verdachts möglicher
+Informationsasymmetrien durch Aktivierungssignale im Regelenergiesystem, deren potenzieller
+Nutzung zur Erlangung von Handelsvorteilen im Intraday-Markt sowie laufender 
+Untersuchungen stellt sich den Fragestellern die Frage, wie die
+Bundesregierung die bestehenden Regulierungs-, Transparenz- und Kontrollmechanismen 
+bewertet, welche Maßnahmen geplant sind und wie künftig sichergestellt
+werden kann, dass keine Marktakteure unzulässige Vorteile aus dem Zugang zu 
+Systeminformationen ziehen.
+ 1. Ist der Bundesregierung die Untersuchung von Neon Neue
+Energieökonomik (Fassung vom 14. Oktober 2021, vgl. Vorbemerkung der
+Fragesteller) zu Preiswirkungen von Abrufen positiver und negativer
+Regelleistung im Intraday-Handel bekannt?
+a) Wenn ja, hat sich die Bundesregierung zu den Ergebnissen dieser
+Untersuchung, insbesondere zu dem nachgewiesenen statistisch
+signifikanten Zusammenhang zwischen Regelleistungsabrufen und
+kurzfristigen Preisbewegungen, eine Positionierung erarbeitet, und wenn 
+ja, wie lautet diese?
+b) Wenn ja, welche regulatorischen oder aufsichtsrechtlichen
+Konsequenzen zieht die Bundesregierung ggf. aus den Ergebnissen der
+genannten Untersuchung?
+Die genannte Studie ist der Bundesregierung und auch der Bundesnetzagentur 
+(BNetzA) bekannt. Statistisch signifikante Korrelationen begründen jedoch 
+noch keinen allgemeinen Wirkungszusammenhang und erlauben insbesondere 
+keine pauschalen Rückschlüsse auf Marktmissbrauch. Die Studie selbst nimmt 
+auch ausdrücklich keine rechtliche Bewertung im Hinblick auf Insiderhandel 
+oder Marktmanipulation im Sinne der Verordnung (EU) Nr. 1227/2011 über die 
+Integrität und Transparenz des Energiegroßhandelsmarkts (Englisch:
+Regulation on Wholesale Energy Market Integrity and Transparency – „REMIT“) vor.
+Die Einstufung von Regelenergieabrufsignalen als Insider-Informationen im 
+Sinne der REMIT kann nicht pauschal erfolgen, sondern ist von verschiedenen 
+Faktoren abhängig und daher nur für den jeweiligen Einzelfall möglich. Die 
+BNetzA untersucht diese Sachverhalte unabhängig von der Studie im Rahmen 
+ihrer gesetzlichen Aufgaben (s.. Antwort zu Frage 2).
+ 2. Wurden durch die Bundesregierung, die Bundesnetzagentur oder das 
+Bundeskartellamt eigene Untersuchungen zu Preiswirkungen von
+Aktivierungssignalen im Regelenergiemarkt durchgeführt oder beauftragt?
+a) Wenn ja, welche?
+b) Wenn nein, sind solche Untersuchungen geplant?
+Die BNetzA untersucht die Sachverhalte in eigener Zuständigkeit im Rahmen 
+ihrer gesetzlichen Aufgaben. Vergangene Ermittlungen der Bundesnetzagentur 
+haben den Vorwurf eines Marktmissbrauchs im Zusammenhang mit
+Aktivierungssignalen nicht bestätigt. Auch das BKartA untersucht regelmäßig die 
+Wettbewerbsverhältnisse bei der Erzeugung und dem erstmaligen Absatz von 
+Strom in seinem Marktmachtbericht Stromerzeugung. Zu dieser Untersuchung 
+besteht ein gesetzlicher Auftrag nach § 53 Absatz 3 Satz 2 Gewerbeordnung 
+(GWB): Der letzte Bericht wurde Ende 2024 veröffentlicht, darin wurden unter 
+anderem auch Fragestellungen zur Regelenergie untersucht.
+Einem begründeten Verdacht auf Verstöße in Einzelfällen wird
+selbstverständlich nachgegangen. Für einen allgemeinen Verdacht allein aufgrund der
+Nichtveröffentlichung von Aktivierungssignalen sieht die Bundesnetzagentur jedoch 
+keinen Anlass. Zu laufenden Ermittlungen äußern sich BNetzA,
+Bundeskartellamt (BKartA) und die Bundesregierung grundsätzlich nicht.
+ 3. Welche technischen, organisatorischen oder regulatorischen Maßnahmen 
+bestehen derzeit, um zu verhindern, dass das Aktivierungssignal zur
+Regelenergie als marktbeeinflussende Information im Sinne der REMIT-
+Verordnung genutzt wird (siehe Vorbemerkung der Fragesteller)?
+Nicht jedes Regelenergieabrufsignal qualifiziert sich als Insider-Information 
+(vgl. Antwort zu Frage 1). Der Besitz einer potenziellen Insider-Information 
+führt nicht zwangsläufig zu einem generellen Handelsverbot der
+Marktteilnehmer, sofern sichergestellt werden kann, dass diese Information nicht für den 
+Handel genutzt wird. Dies kann beispielsweise durch geeignete
+organisatorische Maßnahmen, insbesondere durch personelle und informationelle
+Trennungen (sogenannte Chinese Walls), erfolgen, sodass bspw. im Intraday-Markt
+handelnde Personen keine Regelenergieabrufsignale nutzen können. Darüber
+hinaus gelten für die Marktteilnehmer die unionsrechtlichen Verbote gemäß
+Artikel 3 und 5 REMIT sowie die Melde- und Überwachungspflichten gegenüber 
+der Agency for the Cooperation of Energy Regulators (ACER).
+ 4. Hält die Bundesregierung die bestehenden Maßnahmen für ausreichend, 
+um Insiderhandel oder Marktmanipulation im Zusammenhang mit dem 
+Aktivierungssignal auszuschließen, und wenn nein, welche Anpassungen 
+sind geplant?
+Die Bundesregierung hält bei der heute bestehenden Erkenntnislage die
+bestehenden Maßnahmen für geeignet, um Insiderhandel oder Marktmanipulation im 
+Zusammenhang mit Aktivierungssignalen hinreichend zu erfassen.
+ 5. Warum gibt es nur einen bestimmten Empfängerkreis, und nach welchen 
+Kriterien wird der bestimmt (angesichts der Tatsache, dass nur ein
+begrenzter Kreis präqualifizierter Marktteilnehmer das Aktivierungssignal 
+zur Regelenergie erhält, siehe Vorbemerkung der Fragesteller)?
+Der Empfängerkreis ergibt sich damit aus den technischen und funktionalen 
+Anforderungen des Regelenergiemarktes. Nur diejenigen Akteure, die auch am 
+Regelenergiemarkt teilnehmen, bekommen die Informationen, da sie
+entsprechend auf Abrufe reagieren müssen.
+ 6. Prüfen die Bundesregierung bzw. die Bundesnetzagentur derzeit,
+Aktivierungssignale zur Regelenergie zeitnah bzw. in Echtzeit allen
+Marktteilnehmern zugänglich zu machen, um Informationsasymmetrien zu
+vermeiden, und wenn nein, aus welchen Gründen ist eine solche
+Veröffentlichung nicht vorgesehen?
+Die aktivierte Regelleistung wird bereits je Regelzone und Richtung (positiv 
+oder negativ) als 15-min-Durchschnittswerte echtzeitnah (für die jeweils letzte 
+Viertelstunde) veröffentlicht.
+Einzelne Abrufsignale konkreter Anlagen haben dagegen nur eine stark
+eingeschränkte Aussagekraft hinsichtlich der Systembilanz des deutschen
+Übertragungsnetzes, da beispielsweise im Rahmen der europäischen Pattformen für 
+den Abruf von Regelarbeit (PICASSO und MARI) auch Abrufe aus dem
+Ausland im deutschen Marktgebiet stattfinden. Eine echtzeitnahe Veröffentlichung 
+dieser Abrufsignale könnte dazu führen, dass Marktakteure vermeintliche
+Ungleichgewichte antizipieren und dadurch Fehlanreize für kurzfristige
+Handelsaktivitäten setzen könnten, die den Systemzustand nachteilig beeinflussen.
+Die Systembilanz des deutschen Netzes wird sachgerechter durch den Saldo 
+des deutschen Netzregelverbundes (NRV-Saldo) beschrieben. Dieser wird von 
+den deutschen Übertragungsnetzbetreibern im Einklang mit Artikel 12 Absatz 3 
+Buchstabe a der Verordnung (EU) 2017/2195 veröffentlicht. Die deutschen 
+Übertragungsnetzbetreiber haben darüber hinaus angekündigt, den NRV-Saldo 
+künftig echtzeitnah und in höherer Auflösung zu veröffentlichen. Diese
+Maßnahme wird von der Bundesregierung im Hinblick auf die weitere Verringerung 
+von Informationsasymmetrien begrüßt.
+ 7. Welche Dokumentations-, Audit- und Kontrollverfahren sind nach 
+Kenntnis der Bundesregierung vorgesehen oder bereits implementiert, 
+um potenziellen Missbrauch von Aktivierungssignalen im Intraday-
+Stromhandel aufzudecken oder zu verhindern?
+Die Bundesnetzagentur kann Marktteilnehmer im Rahmen ihrer
+ordnungsrechtlichen Befugnisse verpflichten, Daten offenzulegen und Auskünfte zu erteilen.
+Bei festgestellten Verstößen stehen ihr entsprechende Sanktionsmöglichkeiten 
+zur Verfügung.
+ 8. Welche Maßnahmen erwägt die Bundesregierung ggf., um künftig zu 
+verhindern, dass Aktivierungssignale oder andere regulatorisch bedingte 
+Informationsasymmetrien zur Erlangung von Handelsvorteilen genutzt 
+werden?
+Es wird auf die Antwort zu Frage 6 verwiesen.
+ 9. Hat sich die Bundesregierung im Hinblick auf Artikel 3 und 4 REMIT 
+(Insiderhandel bzw. Veröffentlichungspflichten), zu der Regelung, dass 
+Aktivierungssignale nicht allen Marktteilnehmern zugänglich sind, eine 
+eigene Auffassung gebildet, und wenn ja, wie lautet diese?
+Die Auslegung und Anwendung der REMIT-Verordnung obliegt den
+zuständigen Regulierungs- und Aufsichtsbehörden sowie ACER. Im Übrigen wird auf 
+die Antwort zu Frage 3 verwiesen.
+10. Zieht die Bundesregierung in Erwägung, alle an der Bereitstellung von 
+Ausgleichsenergie beteiligten Akteure zur Echtzeit-Veröffentlichung von 
+Aktivierungssignalen zu verpflichten, um möglichen Verstößen gegen 
+das Marktmissbrauchsrecht vorzubeugen, und wenn nein, warum nicht?
+Es gibt keine Aktivierung und demzufolge auch keine Aktivierungssignale für 
+Ausgleichsenergie. Bei der Ausgleichsenergie handelt es sich lediglich um die 
+bilanziellen Energiemengen, die den Bilanzkreisverantwortlichen von den
+Bilanzkreiskoordinatoren zum Ausgleich ihrer Bilanzkreise nachträglich in
+Rechnung gestellt werden. Die Summe aller Bilanzkreisabweichungen
+(Ausgleichsenergiemengen) wird durch den Einsatz von Regelenergie energetisch
+ausgeglichen. Zu den Veröffentlichungspflichten zur Regelenergie und dem NRV-Saldo 
+siehe Antwort zu Frage 6.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
