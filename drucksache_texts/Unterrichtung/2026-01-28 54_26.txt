@@ -1,0 +1,1297 @@
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln 
+Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de 
+ISSN 0720-2946 
+Bundesrat Drucksache   54/26 
+ 28.01.26 
+ 
+ EU - DS - In - K - Wi 
+ 
+ 
+Unterrichtung 
+durch die Europäische Kommission 
+ 
+ 
+ 
+ 
+Mitteilung der Kommission an das Europäische Parlament und den Rat: Strategie für eine 
+Datenunion - Erschließung von Daten für KI 
+COM(2025) 835 final 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Der Bundesrat wird über die Vorlage gemäß § 2 EUZBLG auch durch die Bundesregierung 
+unterrichtet. 
+ 
+Hinweis: Drucksache 130/22 = AE-Nr. 220282;  
+ Drucksache 79/24 = AE-Nr. 240133;  
+ Drucksache 65/25 = AE-Nr. 250115;  
+ Drucksache 209/25 = AE-Nr. 250407;  
+ AE-Nr. 251120 
+DE   DE 
+ 
+ 
+EUROPÄISCHE 
+KOMMISSION 
+Brüssel, den 19.11.2025  
+COM(2025) 835 final 
+ 
+MITTEILUNG DER KOMMISSION AN DAS EUROPÄISCHE PARLAMENT UND 
+DEN RAT 
+STRATEGIE FÜR EINE DATENUNION      
+ERSCHLIEẞUNG VON DATEN FÜR KI
+1 
+ 
+ 
+1. Einleitung – Daten für künstliche Intelligenz erschließen 
+Künstliche Intelligenz verändert die Weltwirtschaft, und um wettbewerbsfähig zu sein und 
+Innovationen voranzutreiben, benötigt die EU große Mengen an hochwertigen Daten. Solche 
+Daten sind unerlässlich, will die EU starke KI-Modelle aufbauen, das Gesundheitswesen und 
+das Energiesystem optimieren und eine Führungsrolle in der Industrie wahrnehmen. Gerade 
+für kleine und mittlere Unternehmen wird ein besserer Datenzugang entscheidend sein, ob beim 
+Skalieren oder für die Wahrung ihrer Wettbewerbsfähigkeit.  
+Die EU hat durch wichtige Rechtsvorschriften wie die Datenverordnung1 und durch 
+Investitionen in gemeinsame europäische Datenräume2 eine solide Grundlage für die 
+Errichtung eines sicheren, interoperablen Binnenmarkts für Daten geschaffen. Gleichzeitig 
+wurden mit dem Aktionsplan für den KI-Kontinent3 und die Strategie „KI anwenden“4 die 
+Voraussetzungen dafür geschaffen, dass die EU bei der Entwicklung und der Einführung von 
+KI eine Führungsrolle übernehmen kann.  
+Die EU ist jedoch mit einem Mangel an Daten für die KI-Entwicklung und einem zunehmenden 
+geopolitischen Wettbewerb konfrontiert, bei dem Daten immer mehr als strategisches Gut 
+angesehen werden. Nach wie vor bleiben viele wertvolle Daten isoliert oder werden zu wenig 
+genutzt, auch aufgrund eines Flickenteppichs an Datenvorschriften, während globale 
+Wettbewerber schneller vorangehen und Daten zu ihrem technologischen und industriellen 
+Vorteil nutzen  
+Um die Einhaltung der Vorschriften zu erleichtern und die Vorhersehbarkeit zu verbessern, 
+wird mit der Digital-Omnibus-Verordnung eine Vereinfachung des Regelungsumfelds im 
+Bereich Daten vorgeschlagen, indem vier Rechtsinstrumente in einem einzigen, kohärenten 
+Datenrahmen zusammengeführt werden.  Darüber hinaus wird die Strategie im Rahmen 
+der Datenverordnung von einem umfassenden Unterstützungspaket begleitet, als Hilfe für 
+die Unternehmen und um die Einhaltung der Vorschriften zu erleichtern. 
+Mustervertragsklauseln, Standardklauseln für die Cloud und ein spezieller Helpdesk werden 
+insbesondere KMU dabei helfen, ihre Verpflichtungen zu erfüllen, und dazu beitragen, die 
+rechtliche Komplexität zu verringern und den Schwerpunkt auf Innovation zu legen. 
+Musterklauseln werden sowohl für B2G- als auch für B2B-Beziehungen gelten und die 
+Erstellung und Weitergabe von Daten vereinfachen, und auch Verträge sollen so einfacher 
+werden.5 
+ 
+1 Verordnung (EU) 2023/2854 des Europäischen Parlaments und des Rates vom 13. Dezember 2023 über 
+harmonisierte Vorschriften für einen fairen Datenzugang und eine faire Datennutzung sowie zur Änderung der 
+Verordnung (EU) 2017/2394 und der Richtlinie (EU) 2020/1828. 
+2 Europäische Kommission, Commission Staff Working Document on Common European Data Spaces, 
+SWD(2024) 21 final, 24. Januar 2024. 
+3 Europäische Kommission (2025). Aktionsplan für den KI-Kontinent. Mitteilung der Kommission an das 
+Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der 
+Regionen. COM(2025) 165 final. Brüssel: Europäische Kommission. 
+4 Europäische Kommission, Strategie „KI anwenden“, COM(2025) 723 final, Brüssel, 8. Oktober 2025. 
+5  Updated EU AI model contractual clauses | Public Buyers Community.
+2 
+ 
+ 
+Mit der Strategie für eine Europäische Datenunion wird der Schwerpunkt von Vorschriften auf 
+Ergebnisse verlagert. Um dies zu erreichen, wird die EU in drei vorrangigen Bereichen tätig 
+werden: 
+ Ausweitung des Zugangs zu Daten für KI durch Initiativen wie Datenlabore, die 
+vertrauenswürdige Pseudonymisierungsdienste anbieten und Datenressourcen 
+öffentlicher und privater Akteure bündeln, um Unternehmen und Forschenden 
+hochwertige Datensätze zur Verfügung zu stellen. 
+ Straffung der Datenvorschriften, um es für Unternehmen und Forschende leichter zu 
+machen, Daten auszutauschen. Dies beinhaltet auch eine Reform der Einwilligung in 
+die Nutzung von Cookies, um „Cookie-Müdigkeit“ – ohne Einbußen beim Schutz der 
+Rechte – zu verringern. 
+ Stärkung der globalen Position der EU im internationalen Datenverkehr durch 
+Beseitigung ungerechtfertigter Handelshemmnisse, damit europäische Unternehmen 
+weltweit unter gleichen Wettbewerbsbedingungen konkurrieren können. 
+2. Auf der europäischen Datenstrategie (2020-2025) aufbauen 
+Mit der europäischen Datenstrategie von 20206 hat die EU die rechtlichen und institutionellen 
+Grundlagen für einen sicheren und fairen Binnenmarkt für Daten geschaffen. Ziel war es, das 
+Potenzial von Daten für Innovation und Wachstum zu erschließen und gleichzeitig die Rechte 
+zu schützen. Angesichts der Entwicklungen im Bereich der generativen KI und des 
+zunehmenden geopolitischen Wettbewerbs liegt es jedoch auf der Hand, dass die EU nun über 
+diese Grundlagen hinausgehen muss. 
+Die europäische Datenstrategie war die treibende Kraft für wichtige Rechtsvorschriften, mit 
+denen Vertrauen aufgebaut, die Datenweitergabe gefördert und die Vorschriften in der 
+gesamten Datenwertschöpfungskette präzisiert wurden. Mit dem Daten-Governance-
+Rechtsakt wurden Mechanismen für die vertrauenswürdige Datenweitergabe und regulierte 
+Vermittler geschaffen, es wurde ein Rahmen für die freiwillige Datenweitergabe durch 
+Unternehmen für Zwecke von allgemeinem Interesse (freiwilliger Datenaltruismus) eingeführt 
+und der Zugang zu bestimmten geschützten Datensätzen des öffentlichen Sektors wurde 
+erweitert. Mit der Datenverordnung werden Daten aus vernetzten Produkten und Diensten 
+erschlossen, indem Zugangs- und Nutzungsrechte klargestellt werden. Schließlich wurde durch 
+die Richtlinie über offene Daten und den zugehörigen Durchführungsrechtsakt zu 
+hochwertigen Datensätzen (anwendbar seit Juni 2024) die Verpflichtung geschaffen, 
+bestimmte Datensätze des öffentlichen Sektors in maschinenlesbaren Formaten kostenlos und 
+unbeschränkt zugänglich zu machen. Allerdings stellen die uneinheitliche nationale 
+Umsetzung sowie Unsicherheiten im Zusammenhang mit Geschäftsgeheimnissen in dem 
+bestehenden Rechtsrahmen weiterhin Herausforderungen dar.  
+ 
+6 Die europäische Datenstrategie – Gestaltung der digitalen Zukunft Europas, Amt für Veröffentlichungen, 2020, 
+https://op.europa.eu/de/publication-detail/-/publication/4c34e6f9-5391-11ea-aece-01aa75ed71a1.
+3 
+ 
+ 
+Zu den unterstützenden Maßnahmen, die im Rahmen der europäischen Datenstrategie ergriffen 
+wurden, gehören die Zusammenarbeit mit dem Europäischen Dateninnovationsrat zwecks 
+Koordinierung der Bemühungen der Mitgliedstaaten sowie ein Normungsauftrag zur 
+Schaffung der Grundlagen für einen europäischen Rahmen für vertrauenswürdige Daten7. 
+Um den europäischen Binnenmarkt für Daten zu 
+verwirklichen, hat die Kommission zwischen 2021 und 2024 
+außerdem 336 Mio. EUR in 14 strategische gemeinsame 
+europäische Datenräume investiert, die wichtige 
+Wirtschaftssektoren und Bereiche von öffentlichem 
+Interesse abdecken. Damit hat sie die Bemühungen der 
+Mitgliedstaaten und des Privatsektors ergänzt. Diese Räume 
+bieten eine sichere Infrastruktur und einen sicheren 
+Governance-Rahmen für die freiwillige Datenweitergabe 
+unter vereinbarten Bedingungen. Die größte 
+Herausforderung besteht nun darin, diese Bemühungen im 
+Hinblick auf eine EU-weite Wirkung weiter auszubauen.  
+3. Drei Herausforderungen, die die EU jetzt angehen muss 
+Die globale Landschaft wird durch KI-Technologien und -Dienste neu geprägt und hier muss 
+die EU dringend drei neue strategische Herausforderungen bewältigen: Datenknappheit, 
+komplexe Rechtsvorschriften und Zunahme des globalen Wettbewerbs. 
+Datenknappheit: ein struktureller Innovationsengpass 
+Mit der Zunahme generativer KI, großer Sprachmodelle (LLM) und agentischer KI8 ist der 
+Zugang zu umfangreichen, hochwertigen, unbekannten und bereichsspezifischen Datensätzen 
+zu einem entscheidenden Faktor für die globale Wettbewerbsfähigkeit geworden. Laut Epoch 
+AI verdoppelt sich die Größe der für das Trainieren von LLMs benötigten Datensätze etwa alle 
+sechs Monate9. 
+ 
+7 Europäische Kommission, Durchführungsbeschluss C(2025) 4135 der Kommission vom 1. Juli 2025 über einen 
+Normungsauftrag an die europäischen Normungsorganisationen in Bezug auf einen europäischen Rahmen für 
+vertrauenswürdige Daten zur Unterstützung der Verordnung (EU) 2023/2854 des Europäischen Parlaments und des 
+Rates, abrufbar unter https://ec.europa.eu/growth/tools-databases/enorm/mandate/614_de (abgerufen am 
+27. Oktober 2025). 
+8 Als agentische KI gelten KI-Systeme, die selbstständig Entscheidungen treffen und handeln können. Dadurch sind 
+KI-Agenten in der Lage, Sprache zu verstehen, über Aufgaben nachzudenken, eigenständig zu handeln, um zuvor 
+festgelegte Ziele zu erreichen, und mit der sie umgebenden Welt zu interagieren und ihr Zusammenwirken – auch 
+mit Menschen – zu steuern. 
+9  Robi Rahman and David Owen (2024), „The size of datasets used to train language models doubles approximately 
+every six months“. Online-Veröffentlichung auf epoch.ai. Quelle: https://epoch.ai/data-insights/dataset-size-trend 
+[Online-Ressource]. 
+Im europäischen Datenraum 
+für die Initiative zur 
+Krebsbildgebung werden 
+anonymisierte Bilder und 
+Erläuterungen 
+bereitgehalten. Bereits 2027 
+wird er mehr als 
+60 Millionen Bilder aus der 
+Krebsmedizin umfassen.
+4 
+ 
+ 
+Für LLMs und andere Arten von Basismodellen werden sehr umfangreiche und vielfältige 
+Trainingsdatensätze benötigt. Studien zufolge könnte das Volumen der öffentlich verfügbaren 
+Trainingsdaten zwischen 2026 und 2032 ausgeschöpft sein10. 
+Angesichts dessen stellen sich für die EU die folgenden Herausforderungen: i) Hochwertige 
+Datensätze, auch sektorspezifische Datensätze, müssen besser zugänglich gemacht werden und 
+ii) es gilt, sicherzustellen, dass die für die Verarbeitung dieser Datensätze erforderliche 
+Recheninfrastruktur in entsprechend großem Maßstab zugänglich ist. Viele europäische 
+Unternehmen, insbesondere KMU und Start-up-Unternehmen, haben nicht genug 
+Datenvolumen und -vielfalt und keinen ausreichenden Zugang zu europäischen 
+Rechenkapazitäten, die für die Entwicklung wettbewerbsfähiger KI-Lösungen erforderlich 
+sind. Wird hier nicht umgehend gehandelt, läuft die EU Gefahr, abgehängt zu werden. 
+Komplexe Rechtsvorschriften: Zersplitterung behindert Skalierung 
+Im Anschluss an die europäische Datenstrategie von 2020 hat die EU wegweisende 
+Verordnungen eingeführt, die auf bereits bestehenden Vorschriften aufbauen: den Daten-
+Governance-Rechtsakt11, die Datenverordnung und verschiedene sektorspezifischen 
+Rechtsvorschriften wie die Verordnung über den europäischen Gesundheitsdatenraum12. Diese 
+Initiativen konzentrierten sich jeweils auf spezifische Fragen, wie die Mechanismen für die 
+Datenweitergabe, eine gerechte Verteilung der Wertschöpfung und das Vorgehen gegen 
+aufwendige Lokalisierungsanforderungen. Das komplexe Zusammenspiel zwischen der 
+Datenschutz-Grundverordnung (DSGVO)13 und sektorspezifischen Rechtsvorschriften sowie 
+die uneinheitliche Umsetzung in den Mitgliedstaaten haben jedoch zu einem fragmentierten 
+Regelungsumfeld, zu Rechtsunsicherheit, auch für Behörden, sowie zu höheren 
+Befolgungskosten, insbesondere für Start-up-Unternehmen und KMU, geführt. 
+So gelten beispielsweise für Anbieter von Datenvermittlungsdiensten – ein Bereich, der noch 
+in den Kinderschuhen steckt – restriktive rechtliche Verpflichtungen, die ihre 
+Wachstumsfähigkeit einschränken. Ökosysteme in der Frühphase sollten nicht durch 
+unverhältnismäßige Anforderungen belastet werden, die die Einführung von Modellen für die 
+Weitergabe von Daten und die Schaffung von Datenräumen behindern. Um Innovationen zu 
+ermöglichen, muss die EU die Vorschriften für den Datenzugang und die Datennutzung 
+vereinfachen. 
+ 
+10  Villalobos, P., Ho, A., Sevilla, J., Besiroglu, T., Heim, L., & Hobbhahn, M. (2024). Position: Will we run out of 
+data? Limits of LLM scaling based on human-generated data. In K. Chaudhuri, S. Jegelka, L. Song, D. L. Silver, & 
+Y. Ermon (Eds.), Proceedings of the 41st International Conference on Machine Learning (Vol. 235, S. 42085–
+42101). PMLR. https://proceedings.mlr.press/v235/villalobos24a.html.  
+11 Verordnung (EU) 2022/868 des Europäischen Parlaments und des Rates vom 30. Mai 2022 über europäische 
+Daten-Governance und zur Änderung der Verordnung (EU) 2018/1724 (ABl. L 152 vom 3.6.2022, S. 1). 
+12 Verordnung (EU) 2025/327 des Europäischen Parlaments und des Rates vom 11. Februar 2025 über den 
+europäischen Gesundheitsdatenraum sowie zur Änderung der Richtlinie 2011/24/EU und der Verordnung 
+(EU) 2024/2847. 
+13 Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher 
+Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der 
+Richtlinie 95/46/EG.
+5 
+ 
+ 
+Globaler Wettbewerb: Daten als strategischer Vorteil 
+Im KI-Wettlauf ist der Zugang zu hochwertigen Daten ein zentraler strategischer Vorteil. 
+Weltweit sind Daten zu einem geopolitischen Gut geworden, und Datenzugang, -lokalisierung 
+und -kontrolle werden zunehmend als Machtinstrumente genutzt. Während die EU offene, 
+sichere, faire und vertrauenswürdige Datenströme fördert, verfolgen andere Länder aggressive 
+oder protektionistische Strategien. Die Lokalisierung und restriktive Regelungen für den 
+Zugang in Drittländern schränken den Zugang der EU zu globalen Ressourcen ein und setzen 
+EU-Unternehmen wirtschaftlichen und sicherheitsbezogenen Risiken aus. Um das Potenzial 
+der europäischen KI voll auszuschöpfen, muss die Union Daten als zentrale strategische 
+Ressource behandeln und in sichere, hochwertige und interoperable Datensätze investieren, die 
+im Einklang mit den europäischen Werten und Standards stehen. Die Stärkung der Fähigkeit 
+Europas, seine eigenen Daten zu sammeln, zu kuratieren und zu nutzen, ist sowohl ein 
+wirtschaftliches als auch ein sicherheitspolitisches Gebot. Die EU muss vorteilhafte 
+Datenströme sicherstellen, sensible nicht personenbezogene Daten innerhalb der EU schützen 
+und vor dem Hintergrund zunehmender technologischer Rivalität die digitale Souveränität 
+fördern.
+6 
+ 
+ 
+4. Die drei Säulen der Strategie für eine Datenunion 
+Säule I: Ausweitung des Zugangs zu 
+hochwertigen Daten für KI und Innovation 
+Die Wettbewerbsfähigkeit der EU im Bereich 
+KI und digitale Innovation ist abhängig vom 
+Zugang zu hochwertigen Daten und der 
+Infrastruktur für den sicheren Austausch und 
+die sichere Nutzung von Daten in großem 
+Maßstab. Mit gemeinsamen europäischen 
+Datenräumen, den Governance-Rahmen und 
+umfangreichen Investitionen in Cloud-
+Technologie und Cloud-Computing hat die 
+EU bereits solide Grundlagen geschaffen. Die 
+Herausforderung besteht nun darin, von 
+Pilotprojekten und einzelnen Initiativen zu 
+einem nahtlosen, interoperablen und 
+nachhaltigen Datenökosystem überzugehen, 
+um bahnbrechende Innovationen zu fördern 
+und die digitale Souveränität der EU zu 
+stärken. 
+Um dies zu erreichen, wird die Kommission 
+zwei komplementär angelegte Strategien 
+verfolgen. Zum einen wird sie Leitinitiativen 
+auf den Weg bringen, mit denen die 
+dringlichsten Engpässe in der EU angegangen 
+werden: begrenzter Zugang zu kritischen 
+Datensätzen, unzureichende Infrastruktur für 
+großmaßstäbliche KI-Entwicklung sowie 
+Bedarf an vertrauenswürdigen Umgebungen, 
+einschließlich Datenlaboren als Verbindung 
+zwischen Datenräumen und KI-Entwicklern. 
+Diese Datenlabore werden als spezialisierte 
+Serviceeinrichtungen dienen, die sichere 
+Umgebungen, praktische Instrumente und 
+fachliche Unterstützung für die Bündelung, Kuratierung, Pseudonymisierung und 
+Anonymisierung von Daten bieten. Sie werden Unternehmen, insbesondere KMU, dabei 
+helfen, Daten in nutzbare Ressourcen für das KI-Training umzuwandeln und gleichzeitig die 
+Kontrolle über die Daten zu bewahren. Diese Bemühungen werden Hand in Hand mit der 
+Strategie „KI anwenden“ gehen und sicherstellen, dass KI-Einsatz und -Innovation in allen 
+Wirtschaftszweigen und öffentlichen Sektoren durch die Verfügbarkeit von Daten direkt 
+unterstützt werden. Außerdem wird sie diese Initiativen durch horizontale Erfolgsfaktoren 
+Datenräume und Datenlabore: Bausteine 
+des europäischen KI-Ökosystems 
+ 
+Gemeinsame europäische Datenräume sind 
+Ökosysteme für die Datenweitergabe, die sich 
+auf Cloud-Infrastrukturen stützen und auf 
+klaren Governance-Regeln beruhen, die 
+bestimmen, wer auf Daten zugreifen, sie 
+nutzen und weitergeben darf. Diese Räume 
+bieten die Möglichkeit für Verbindungen 
+zwischen öffentlichen und privaten Akteuren – 
+auf der Grundlage vertrauenswürdiger 
+Mechanismen für den sektorinternen und 
+sektorübergreifenden Datenaustausch. 
+Datenlabore sind Datendienstleister, die 
+diese Datenräume mit dem KI-Ökosystem 
+verknüpfen. Sie bieten Unternehmen und 
+Forschenden einen sicheren, praktischen 
+Zugang zu hochwertigen Datensätzen, 
+ferner die Unterstützung, die sie benötigen, 
+um die Einhaltung der EU-Vorschriften zu 
+gewährleisten, sowie Instrumente, 
+Leitlinien und vertrauenswürdige 
+Umgebungen für die Datenbündelung, -
+kuratierung, -kennzeichnung und -
+pseudonymisierung. 
+Datenräume bieten strukturierte Quellen 
+vertrauenswürdiger Daten, während 
+Datenlabore diese Daten in nutzbare 
+Ressourcen für Innovation und KI-
+Entwicklung umwandeln und so für einen 
+fließenden Übergang von der 
+Verfügbarkeit zur Anwendung sorgen.
+7 
+ 
+ 
+verstärken: Rechtsklarheit in Bezug auf die Bündelung von Daten, Standards für die 
+Datenqualität und Investitionen in Kapazitäten für synthetische Daten14, um Umfang, 
+Vertrauen und langfristige Tragfähigkeit in allen Sektoren zu gewährleisten. 
+i. Ausbau der gemeinsamen europäischen Datenräume 
+Die gemeinsamen europäischen Datenräume (CEDS) sind für den Aufbau eines 
+Binnenmarkts für Daten von zentraler Bedeutung. In der nächsten Phase sollen sie ausgebaut 
+und über Datenlabore und KI-Fabriken mit der KI-Infrastruktur verknüpft werden und so die 
+Datenbestände der EU zum Treibstoff einer vertrauenswürdigen KI machen. In enger Synergie 
+mit der Strategie „KI anwenden“ wird mit diesen Bemühungen dafür gesorgt, dass die 
+Datenräume unmittelbar die Entwicklung und Einführung von KI in allen Sektoren fördern. 
+Die Cloud-Middleware Simpl15 wird durch einen quelloffenen, modularen und sicheren Satz 
+von Komponenten die Interoperabilität zwischen Initiativen ermöglichen. Damit werden 
+Hindernisse für KMU abgebaut und schnellere Verbindungen zwischen den Ökosystemen 
+ermöglicht. Das Unterstützungszentrum 
+für Datenräume wird die Akzeptanz, 
+insbesondere bei KMU, durch 
+Sensibilisierung und praktische 
+Orientierungshilfen fördern. 
+Bei der künftigen EU-Finanzierung für die 
+europäischen Datenräume wird Sektoren 
+von öffentlichem Interesse wie 
+Gesundheit, Mobilität, Energie, 
+öffentliche Verwaltung und Umwelt 
+Vorrang eingeräumt. Bereits weiter 
+fortgeschrittene Bereiche wie Fertigung 
+und Finanzen werden auf marktorientierte 
+Modelle umgestellt. Die Kommission wird 
+diesen Übergang unterstützen, indem sie 
+Normungs-, Interoperabilitäts- und 
+Koinvestitionsrahmen fördert. Zentrale 
+Ziele bleiben dabei die Integration der 
+Endnutzer, die KI-Fähigkeit und die 
+finanzielle Tragfähigkeit. 
+ 
+14 Synthetische Daten sind künstlich generierte Daten, die nicht auf der Grundlage realer Ereignisse erhoben werden, 
+sondern so konstruiert sind, dass sie die Eigenschaften, Muster und Beziehungen realer Datensätze statistisch 
+nachahmen. 
+15 Simpl ist eine quelloffene, sichere Middleware, die den Datenzugang und die Interoperabilität bei europäischen 
+Dateninitiativen unterstützt. Sie bietet zahlreiche kompatible Komponenten, die kostenlos genutzt werden können 
+und einem gemeinsamen Standard für Datenqualität und Datenweitergabe entsprechen; https://simpl-
+programme.ec.europa.eu/.  
+Der europäische Raum für Gesundheitsdaten 
+(EHDS) – nächste Schritte: 
+Der EHDS wird als wichtige Brücke zwischen 
+Ökosystemen für Gesundheitsdaten und der 
+KI-Entwicklung dienen, sodass Datenlabore 
+und KI-Fabriken anonymisierte und 
+synthetische Datensätze in 
+vertrauenswürdigen 
+Verarbeitungsumgebungen nutzen können.  
+Ab März 2029 werden neben der 
+Sekundärnutzung der meisten 
+Gesundheitsdaten auch Patientenkurzakten 
+und elektronische Verschreibungen unter allen 
+Mitgliedstaaten ausgetauscht. Ab März 2031 
+betrifft dies dann auch medizinische Bilder, 
+Laborergebnisse und Entlassungsberichte, 
+wobei genomische und andere Daten für die 
+Sekundärnutzung hinzugefügt werden.
+8 
+ 
+ 
+Unter den Leitinitiativen im Rahmen der Strategie „KI anwenden“ wird die EU gemeinsame 
+europäische Datenräume nutzen, um den Einsatz von KI in Schlüsselsektoren zu 
+beschleunigen und die Entwicklung von Grenz-KI-Modellen durch die Grenz-KI-Initiative zu 
+unterstützen. Diese Maßnahmen stehen in engem Zusammenhang mit anderen KI-
+Leitinitiativen, wie z. B. den Initiativen zu Basismodellen für die Industrie, KI-gestützter 
+Arzneimittelentwicklung und zu Modellstädten für autonomes Fahren, die jeweils auf 
+sektorspezifischen Daten beruhen, die über die gemeinsamen europäischen Datenräume zur 
+Verfügung gestellt werden. Dieser Ansatz führt zu ganz konkreten Anwendungen: KI-gestützte 
+Screening-Zentren im Gesundheitswesen, die Diagnoseinstrumente unter Nutzung des 
+europäischen Raums für Gesundheitsdaten validieren16; Bündelung vertrauenswürdiger Daten 
+in der Fertigung dank des Datenraums für die Fertigung, um spezialisierte und Grenz-KI-
+Modelle zu trainieren sowie eine KI-Plattform für den Agrar- und Lebensmittelsektor, die die 
+Einführung KI-gestützter Instrumente für die Landwirtschaft unter Nutzung des gemeinsamen 
+europäischen Agrardatenraums fördert. 
+Ab 2026 wird die Einführung von Datenräumen in allen vorrangigen Sektoren fortgesetzt, mit 
+Unterstützung durch laufende EU-Investitionen in Höhe von rund 100 Mio. EUR, was eine 
+zuverlässige und groß angelegte Datennutzung für KI-Anwendungen ermöglichen wird. Der 
+europäische Raum für Gesundheitsdaten wird als wichtige Brücke zwischen Ökosystemen 
+für Gesundheitsdaten und der KI-Entwicklung fungieren und es Datenlaboren und KI-Fabriken 
+ermöglichen, anonymisierte und synthetische Datensätze in vertrauenswürdigen 
+Verarbeitungsumgebungen zu nutzen. Der gemeinsame europäische Mobilitätsdatenraum 
+wird die Verbindung von Fahrzeugen, Infrastruktur und Logistik für einen sichereren und 
+umweltfreundlicheren Verkehr ermöglichen. Der Energiedatenraum wird intelligente und 
+flexible Energiedienstleistungen erleichtern, und der Mediendatenraum wird die 
+Kreativwirtschaft durch KI-gestützte kulturelle Innovation fördern. Datenlabore werden als 
+praktische Zugangspunkte zu diesen Datenräumen dienen und Organisationen Unterstützung 
+für den Zugriff auf Daten, ihre Aufbereitung sowie ihre wirksame Nutzung für KI bieten. 
+Innerhalb dieses Rahmens wird der Europäische Rechtsdatenraum den Zugang zu Rechts- 
+und Justizdaten durch gemeinsame Identifikatoren und Metadaten für Rechtsprechung und 
+Rechtsvorschriften erweitern, sodass LegalTech diese Daten nutzen kann. In diesem 
+Zusammenhang wird geprüft, ob Bedarf für die Einrichtung eines Datenpools zu 
+Vertragsbedingungen für die automatisierte Auftragsvergabe besteht.  
+Die Kommission wird die Digitalisierung im Umweltbereich durch den Datenraum für den 
+Grünen Deal beschleunigen, damit in der Digital-GreenTech-Landschaft sektorübergreifende 
+Lösungen unter Einsatz wiederverwendbarer Komponenten und hochwertiger Datensätze 
+entwickelt werden können. Zu den vorrangigen Maßnahmen gehören datengestützte Dienste 
+für die Europäische Wasserresilienzstrategie, die Digitalisierung von Genehmigungsverfahren, 
+Pilotprojekte zur Rückverfolgbarkeit von Textilien und zu Naturgutschriften sowie die 
+ 
+16 Dies wird auch auf Europas Plan gegen den Krebs, der Biowissenschaften-Strategie und dem EU-Plan für die 
+Gesundheit von Herz und Kreislauf aufbauen.
+9 
+ 
+ 
+fortgeschrittene Waldüberwachung mit maschinellem Lernen anhand vertraulicher und 
+allgemein zugänglicher Daten. 
+Ein europäischer Datenraum für den Verteidigungsbereich wird ein vertrauenswürdiges 
+Umfeld schaffen, in dem operative und industrielle Daten sowie Forschungsdaten gebündelt 
+werden, um Verteidigungssysteme der nächsten Generation zu entwickeln, die industriellen 
+Fähigkeiten zu stärken und die technologische Souveränität der EU auszubauen, indem die 
+Abhängigkeit von Anbietern aus Drittländern verringert wird. Unter Rückgriff auf die 
+Erfahrungen der Ukraine im Bereich der datengestützten Verteidigung wird die Kommission 
+neue Wege für Zusammenarbeit und Wissensaustausch erkunden. Die Initiative wird 
+gemeinsam mit den Mitgliedstaaten und einschlägigen Interessenträgern, darunter auch 
+Unternehmen, entwickelt. 17 
+ii. Datenlabore 
+Wie im Aktionsplan für den KI-Kontinent dargelegt, werden Datenlabore spezialisierte 
+Einrichtungen sein, die Dateninhaber, gemeinsame europäische Datenräume, 
+bereichsspezifische Datenökosysteme und das KI-Ökosystem der EU miteinander verbinden. 
+Datenlabore18 werden praktische Dienste – wie die Bündelung19, Kuratierung20, 
+Kennzeichnung und Pseudonymisierung21 von Daten – anbieten, um Organisationen, 
+insbesondere Start-up-Unternehmen und Scale-Up-Unternehmen bei der sicheren Weitergabe 
+und Nutzung von Daten zu unterstützen, kooperatives KI-Training zu erleichtern sowie die 
+Entwicklung von KI-Modellen in Schlüsselsektoren unter Abdeckung verschiedener 
+Governance- und Lizenzierungsmodelle zu fördern. Im Einklang mit der Strategie „KI 
+anwenden“ werden Datenlabore dank der Verfügbarkeit hochwertiger Daten konkrete KI-
+Lösungen ermöglichen und in der Praxis als Wegbereiter dienen, die die Erprobung, 
+Einführung und Skalierung beschleunigen. Sie können auch genutzt werden, um im Auftrag 
+von Datenräumen und anderen Dateninfrastrukturen Aufgaben auszuführen, für die 
+fortgeschrittene KI-Ressourcen gebraucht werden, z. B. die Erstellung synthetischer Daten 
+oder die Durchführung fortgeschrittener Maßnahmen zur Wahrung der Privatsphäre und des 
+Geschäftsgeheimnisses, und so Organisationen bei der sicheren Datenweitergabe und -nutzung 
+zu unterstützen. 
+ 
+17 Diese Initiative wird sich an der Durchführbarkeitsstudie der Europäischen Verteidigungsagentur orientieren, die 
+bis Ende 2025 vorliegen soll. 
+18 In manchen Zusammenhängen wird der Begriff „Datencontainer“ verwendet, um ähnliche Objekte zu bezeichnen, 
+die eine strukturierte, sichere und vertrauenswürdige Datennutzung in verschiedenen Umgebungen ermöglichen. 
+Zusammen mit dem breiter angelegten Konzept der „Daten-Containerisierung“ entsprechen sie einem komplementär 
+angelegten Ansatz für die Organisation und Steuerung des Datenaustauschs, der die Interoperabilität und Kohärenz 
+innerhalb des gesamten KI-Ökosystems der EU fördert. 
+19 Zusammenführung und Weitergabe von Daten aus mehreren Quellen in einem einzigen, zentralen Speicher oder 
+einer gemeinsamen Umgebung. 
+20 Organisation, Integration, Validierung und Pflege von Daten, einschließlich der Kennzeichnung von Daten zur 
+Verbesserung des Zugangs und der Nutzung. 
+21 Artikel 4 Absatz 5 der Verordnung (EU) 2016/679: „Die Verarbeitung personenbezogener Daten in einer Weise, 
+dass die personenbezogenen Daten ohne Hinzuziehung zusätzlicher Informationen nicht mehr einer spezifischen 
+betroffenen Person zugeordnet werden können, sofern diese zusätzlichen Informationen gesondert aufbewahrt 
+werden und technischen und organisatorischen Maßnahmen unterliegen, die gewährleisten, dass die 
+personenbezogenen Daten nicht einer identifizierten oder identifizierbaren natürlichen Person zugewiesen werden.“
+10 
+ 
+ 
+Indem sie öffentliche und private Ressourcen bündeln, werden Datenlabore dazu beitragen, ein 
+wesentliches Marktversagen zu beheben: die begrenzte Verfügbarkeit vielfältiger, 
+hochwertiger Daten und die mangelnde Bereitschaft, in privater Hand befindliche Daten für 
+KI-Trainingszwecke weiterzugeben. Sie werden über bestehende Zugangskanäle und -rahmen 
+funktionieren, ohne dass eine direkte Datenübertragung erforderlich ist. So bleiben 
+Datenräume die vertrauenswürdigen Infrastrukturen, in denen Daten verwaltet und 
+bereitgestellt werden, während Datenlabore als operative Schnittstelle fungieren, die die 
+sichere, wertschöpfende Nutzung der Daten für KI ermöglicht. 
+Die Teilnahme wird freiwillig sein, und die Dateninhaber bestimmen, wie, wann und von wem 
+die Daten verwendet werden können. Daten werden nur mit ausdrücklicher Zustimmung 
+übermittelt. Alle Tätigkeiten werden durch strenge Vertraulichkeitsvorkehrungen geschützt 
+und durch datenschutzfreundliche und dezentrale Techniken wie föderiertes Lernen, 
+homomorphe Verschlüsselung und sichere Mehrparteienberechnung (Multi-Party 
+Computation, MPC) unterstützt. Daten können lokal oder über Knoten hinweg verarbeitet 
+werden, ohne dass sie in einem einzigen Speicher zusammengeführt werden, wodurch 
+sichergestellt wird, dass sie unter der Kontrolle des ursprünglichen Inhabers bleiben. Dieses 
+Modell, das gerade für KMU von Vorteil ist, unterstützt die Einhaltung der EU-
+Datenschutzvorschriften, wahrt die Vertraulichkeit und schafft Vertrauen, während 
+gleichzeitig die Nutzung der Daten für KI ausgeweitet wird.  
+Die Rechenkapazität der EU hat sich weiterentwickelt: vom wissenschaftlich ausgerichteten 
+Hochleistungsrechnen (HPC) im Rahmen des Gemeinsamen Unternehmens EuroHPC hin zu 
+KI-Fabriken, die mit einem erweiterten Konzept zur Unterstützung der KI-Entwicklung 
+Recheninfrastruktur mit Datenzugang und -experimenten verknüpfen. Mit den künftigen KI-
+Gigafabriken wird die KI-Rechenleistung weiter ausgebaut werden. 
+In diesem Kontext werden im Rahmen der Initiative „KI-Fabriken“ über EuroHPC die ersten 
+Datenlabore eingerichtet, die sichere Umgebungen und Datendienste bereitstellen, um KI-
+Entwickler mit gemeinsamen europäischen Datenräumen in Bereichen wie 
+Gesundheitsversorgung, Fertigung, Energie und Klima zu verbinden; künftig werden sie auch 
+auf die Bereiche Sprachen, Cybersicherheit und Kulturerbe ausgeweitet. Um sicherzustellen, 
+dass ihre Dienste Unternehmen und öffentliche Verwaltungen erreichen, werden die 
+Datenlabore eng mit den europäischen digitalen Innovationszentren (EDIH) 
+zusammenarbeiten, die gegenüber den Nutzern als Kontaktstellen fungieren und dazu 
+beitragen, den Bedarf an Daten mit konkreten Anwendungen in Einklang zu bringen.  
+Zudem werden separat weitere Datenlabore in anderen Bereichen eingerichtet, um spezifischen 
+Bedarf in einzelnen Sektoren oder Forschungsbedarf zu decken, z. B. im Energiesektor. Die 
+künftigen KI-Gigafabriken werden die KI-Rechenzentren in größerem Maßstab ausbauen und 
+das Datenlabor-Modell für die kommerzielle Einführung in der gesamten EU vorbereiten, 
+sodass es zu einem selbsttragenden Diensteökosystem wird, das Rechenleistung, Daten und 
+KI-Innovation miteinander verbindet.  
+Die Datenlabore werden Dienstleistungen speziell in neun Schlüsselbereichen erbringen:
+11 
+ 
+ 
+ Verbindung zwischen Datenräumen und KI-Ökosystemen: Sie bieten eine 
+praktische Verknüpfung und ermöglichen Unternehmen den Zugang zu hochwertigen, 
+interoperablen Daten, indem gemeinsame europäische Datenräume und KI-Entwickler, 
+Infrastrukturen und sektorale Ökosysteme zusammengebracht werden.  
+ Technische Infrastruktur und Instrumente: Dank der Nutzung von Datencontainern 
+wird es möglich sein, Daten effizient zu speichern und zu organisieren, außerdem 
+werden sichere Umgebungen für die Verarbeitung sensibler Daten vor Ort sowie 
+gebrauchsfertige Instrumente für die Datenaufbereitung und Techniken zum Schutz der 
+Privatsphäre bereitgestellt, sodass die Daten anonymisiert und synthetische Daten 
+erzeugt werden können. Es wird für ein hohes Maß an Nutzbarkeit, Geschwindigkeit 
+und Skalierbarkeit gesorgt, damit die Instrumente einfach und zuverlässig sind und 
+leicht eingesetzt werden können. 
+ Datenbündelung: Unterstützung für Unternehmen bei der Aggregation von Daten aus 
+öffentlichen und beschränkt zugänglichen Quellen – insbesondere von Daten, die für 
+innovative Zwecke verwendet werden. Dabei werden die vertrauenswürdigen 
+Mechanismen genutzt, die in den gemeinsamen europäischen Datenräumen für die 
+Datenweitergabe eingesetzt werden. Die Datenlabore werden Unternehmen dabei 
+unterstützen, beim Austausch oder der Bündelung von Daten das EU-Wettbewerbsrecht 
+einzuhalten. Aufbauend auf und ergänzend zu den horizontalen Leitlinien, die 
+Unternehmen praktische Orientierung für die Zusammenarbeit sowie gemeinsame 
+Ressourcen an die Hand geben, wird die Kommission Datenlabore bei der 
+Wahrnehmung dieser Rolle ferner mit speziellen Orientierungshilfen zu bewährten 
+Verfahren für Datenaustausch und -bündelung unterstützen. Darüber hinaus werden im 
+Rahmen der Bekanntmachung über informelle Beratung auf Anfrage maßgeschneiderte 
+Orientierungshilfen für einzelne Datenlabore bereitgestellt werden.  
+ Pseudonymisierungs- und Anonymisierungsdienste: Bereitstellung von 
+fortgeschrittenen Instrumenten und Fachkenntnissen zur Entfernung oder Maskierung 
+persönlicher Kennungen. Diese Dienste werden Techniken wie Pseudonymisierung, 
+Anonymisierung und differentielle Privatsphäre umfassen, die eine sichere 
+Weiterverwendung von Daten ermöglichen und gleichzeitig den Nutzen für 
+Analysezwecke aufrechterhalten. 
+ Generierung synthetischer Daten: Unterstützung für die Erstellung hochwertiger 
+synthetischer Datensätze, die die statistischen Eigenschaften echter Daten nachahmen, 
+ohne sensible oder vertrauliche Informationen offenzulegen. Datenlabore werden 
+Instrumente und Fachwissen für die Generierung, Validierung und das Benchmarking 
+synthetischer Daten für das Trainieren und Testen von KI-Modellen bereitstellen, und 
+so die Anonymisierungsbemühungen ergänzen und die Datenverfügbarkeit in sensiblen 
+Bereichen verbessern. 
+ Datenkuratierung, -kennzeichnung und -vektorisierung: umfassende 
+Unterstützung für die Bereinigung, Kennzeichnung, Annotation, Anreicherung und 
+Vektorisierung von Datensätzen, um sie zuverlässig, repräsentativ und für das KI-
+Training nutzbar zu machen. Dazu gehören Qualitätssicherungsprozesse, transparente
+12 
+ 
+ 
+Dokumentation und die Zusammenarbeit mit Expertengemeinschaften für die 
+bereichsspezifische Kennzeichnung.  
+ Orientierungshilfen zu den Vorschriften und Schulungen: maßgeschneiderte 
+Beratung, um Unternehmen bei der Einhaltung des EU-Rechts zu unterstützen. 
+Ergänzend Angebot von Schulungen für KI-Entwickler zu den Themen Datennutzung 
+und Einhaltung rechtlicher Vorgaben wie KI-Vorschriften, Urheberrecht, Schutz von 
+Geschäftsgeheimnissen und Wettbewerbsrecht. 
+ Verbindung zwischen Datenräumen und KI-Ökosystemen: Sie bieten eine 
+praktische Verknüpfung und ermöglichen Unternehmen den Zugang zu hochwertigen, 
+interoperablen Daten, indem gemeinsame europäische Datenräume und KI-Entwickler, 
+Infrastrukturen und sektorale Ökosysteme zusammengebracht werden.  
+Erleichterung des Datenzugangs: ein nachfrageorientierter Dienst, bei dem Start-up-
+Unternehmen und KMU ihren Datenbedarf angeben können. Datenlabore helfen ihnen 
+Datenlabore in der Praxis 
+Ein Unternehmen in Mitgliedstaat X entwickelt KI-gestützte vorausschauende 
+Wartungssysteme für Elektrofahrzeuge, kann aber nicht auf genug hochwertige 
+Sensordaten von verschiedenen Fahrzeugmodellen und Ladeinfrastrukturen zugreifen. Die 
+Hersteller selbst zögern aufgrund von Bedenken in Bezug auf die Wahrung von 
+Geschäftsgeheimnissen, den Datenschutz und den Wettbewerb, diese Daten weiterzugeben. 
+KI-Fabriken werden die Rechenressourcen und – über ihre integrierten Datenlabore – die 
+Datenverwaltungsdienste bereitstellen, mit denen diese Hindernisse überwunden werden 
+können. 
+Über das Datenlabor kann das Unternehmen auf vertrauenswürdige, anonymisierte und 
+aggregierte Datensätze aus verschiedenen Quellen zugreifen, z. B. auf Daten von 
+Betreibern öffentlicher Ladeinfrastruktur oder teilnehmender Originalgerätehersteller 
+(OEMs) sowie andere Daten, die über den europäischen Mobilitätsdatenraum zugänglich 
+sind.  
+Als Bestandteil einer KI-Fabrik würde das Datenlabor Folgendes bieten: 
+• sichere Umgebungen zur Analyse von Echtzeit-Sensordaten durch föderiertes 
+Lernen, ohne dass die Daten die OEM-Systeme verlassen, 
+• Anonymisierungsdienste, die eine datenschutzkonforme Nutzung von Fahrer- und 
+Fahrzeugdaten gewährleisten,  
+• Orientierungshilfen in Bezug auf die Anwendung der Datenzugangsbestimmungen 
+der Datenverordnung und die Wahrung des Schutzes von Geschäftsgeheimnissen, 
+• Instrumente zur Datenkuratierung, mit denen unterschiedliche Sensorformate und 
+Qualitätsstandards harmonisiert werden können. 
+Das Labor würde somit als Brücke zwischen dem Mobilitätsdatenraum und dem KI-
+Ökosystem fungieren und es dem Unternehmen ermöglichen, robuste KI-Modelle zu 
+trainieren, und gleichzeitig auf der Herstellerseite die Vertraulichkeit gewährleisten.
+13 
+ 
+ 
+dann dabei, relevante Datensätze zu finden und marktbezogene, rechtliche oder 
+administrative Hindernisse zu überwinden. 
+iii. EU-Rechtsakt über Cloud- und KI-Entwicklung 
+Nachhaltige Kapazitäten von Rechenzentren und souveräne Cloud- und KI-Dienste sind eine 
+Voraussetzung dafür, dass die EU die in dieser Strategie festgelegten Ziele erreichen kann. Da 
+immer mehr Daten generiert werden, besteht ein wachsender Bedarf an der Sammlung, 
+Speicherung, Kombination und Aufbereitung von Daten. Um Latenzzeiten22 zu minimieren 
+und die Abhängigkeit von Infrastrukturen in anderen Teilen der Welt zu verringern, muss die 
+EU über ausreichende Rechenzentrumskapazitäten verfügen.  
+Um die Verfügbarkeit einer nachhaltigen Rechenzentrumsinfrastruktur und souveräner Cloud- 
+und KI-Dienste für Unternehmen und öffentliche Verwaltungen in der EU sicherzustellen, wird 
+die Kommission im ersten Quartal 2026 einen Rechtsakt über Cloud- und KI-Entwicklung 
+vorschlagen. Diese Initiative wird Innovationen innerhalb der gesamten Cloud- und KI-
+Wertschöpfungskette unterstützen, von der Integration hochmoderner Prozessoren bis hin zu 
+nachhaltiger Kühltechnik oder KI-Hardware und -Software. Sie wird auch den Aufbau 
+nachhaltiger Rechenzentrumskapazitäten beschleunigen und sicherstellen, dass die EU über 
+die für sichere und souveräne Cloud- und KI-Dienste erforderliche Infrastruktur verfügt.  
+iv. Strategische Datenbestände: aus dem öffentlichen Sektor stammende, 
+wissenschaftliche, kulturelle und sprachliche Ressourcen 
+Die Wettbewerbsfähigkeit der EU im Bereich der KI hängt vom Zugang zu hochwertigen, 
+strukturierten und vertrauenswürdigen Daten ab. Datensätze aus den Bereichen Wissenschaft, 
+Kultur und Sprache sind entscheidende Voraussetzungen für solide KI-Modelle, Durchbrüche 
+in der Forschung und technologische Souveränität. 
+Die im Rahmen der Richtlinie über offene Daten vorgesehenen Referenzdatensätze des 
+öffentlichen Sektors werden erweitert. Die hochwertigen Datensätze23 müssen kostenlos über 
+Anwendungsprogrammierschnittstellen (API) in einem maschinenlesbaren Format und 
+gegebenenfalls als Massen-Download zur Verfügung gestellt werden. Im Jahr 2026 wird die 
+Kommission eine Erweiterung der Liste hochwertiger Datensätze vorschlagen, um auch 
+justizielle, administrative und andere Daten abzudecken. Dies wird Start-up-Unternehmen und 
+KMU zugutekommen. Die Kommission wird auch überwachen, ob weitere Datensätze 
+hinzugefügt werden sollten. 
+Wissenschaftliche Daten haben sich bereits als transformativ erwiesen, wie AlphaFold24 
+gezeigt hat. Gut strukturierte Datenbanken senken die Kosten für Forschung und Entwicklung 
+(FuE), beschleunigen die Innovation und ermöglichen es, zu neuen Grenzen in den Bereichen 
+ 
+22 Latenzzeit ist die Zeit, die benötigt wird, um Daten von einem Punkt eines Netzes zu einem anderen zu übertragen. 
+23 Im Einklang mit Anhang I der Richtlinie über offene Daten stammen diese hochwertigen Datensätze aus den 
+folgenden Kategorien: Georaum, Erdbeobachtung und Umwelt; Meteorologie; Statistik, Unternehmen und 
+Eigentümerschaft von Unternehmen, Mobilität. Neue Kategorien können hinzugefügt werden. 
+24 AlphaFold ist ein von Deep Mind entwickeltes KI-System, das Deep Learning und große Datenmengen nutzt, um 
+Proteinstrukturen vorherzusagen. Dies trägt dazu bei, bahnbrechende Forschung in vielen Bereichen der Biologie zu 
+beschleunigen.
+14 
+ 
+ 
+Werkstoffe, Arzneimittel, Energie und Biotechnologie vorzustoßen. Aufbauend darauf wird 
+die Kommission weiterhin bestehende Datenbanken erfassen, zusammen mit Sachverständigen 
+Prioritäten setzen, Nutzungsrechte sichern und neue digitale Infrastrukturen im Einklang mit 
+der europäischen Strategie für Forschungs- und Technologieinfrastrukturen finanzieren. In 
+diesem Hinblick entwickelt die Europäische Cloud für offene Wissenschaft (EOSC), der 
+gemeinsame europäische Datenraum für Forschung und Innovation, derzeit einen 
+Zusammenschluss von Datenarchiven mit einer vertrauenswürdigen Plattform für die 
+Weitergabe und Weiterverwendung hochwertiger auffindbarer, zugänglicher, interoperabler 
+und wiederverwendbarer (findable, accessible, interoperable and reusable, FAIR) 
+Forschungsdaten, -instrumente und -dienste über Disziplinen und Grenzen in Europa hinweg. 
+Dies wird die wissenschaftlichen Tätigkeiten im Bereich KI im Rahmen der Strategie RAISE25 
+unterstützen. Parallel dazu wird der künftige Vorschlag für einen Rechtsakt über den 
+Europäischen Forschungsraum (EFR)26 die rechtlichen Bedingungen stärken, die für den 
+Zugang für wissenschaftliche Zwecke zu öffentlich finanzierten Forschungsergebnissen, 
+Veröffentlichungen und Daten und für ihre Weitergabe und Weiterverwendung für 
+wissenschaftliche Zwecke gelten 
+Die kulturellen und sprachlichen Ressourcen der EU werden ebenfalls aufgestockt. Aufbauend 
+auf der Europeana-Initiative27 stellen europäische Kultureinrichtungen mehr als 30 Mio. 
+digitalisierte Werke für die KI-Entwicklung zur Verfügung. Die Kommission wird prüfen, wie 
+die Zusammenarbeit zwischen öffentlich-rechtlichen Rundfunkanstalten und KI-Anbietern 
+gestärkt und die Lizenzvergabe gefördert werden kann, um die audiovisuellen Archive dieser 
+Anstalten für KI-Training zugänglich zu machen, wobei die Vergütung der Rechteinhaber zu 
+berücksichtigen ist. 
+Pilotprojekte im Rahmen des gemeinsamen europäischen Sprachdatenraums und der 
+Allianz für Sprachtechnologien (ALT-EDIC) werden bereichsspezifische, über 
+Crowdsourcing zusammengetragene Datensätze, auch aus kleineren Sprachen, bereitstellen, 
+die zu den bereits verfügbaren 477 Mrd. Token hinzukommen – vergleichbar mit führenden 
+KI-Trainingsdatensätzen. Dies wird auch dazu beitragen, dass seltene Sprachen in die 
+Entwicklung großer KI-Sprachmodelle (LLM) einbezogen werden, was sich auf die Qualität 
+der Ergebnisse von KI-Systemen in diesen Sprachen auswirken wird. 
+v. Horizontale Erfolgsfaktoren: synthetische Daten, Bündelung von Daten und 
+Standards bzw. Normen 
+ 
+25 Europäische Kommission (2025). Mitteilung der Kommission an das Europäische Parlament und den Rat: Eine 
+europäische Strategie für künstliche Intelligenz in der Wissenschaft – Wegbereitung für die Ressource für die KI-
+Wissenschaft in Europa (RAISE). Brüssel, 8. Oktober 2025 (COM(2025) 724 final). 
+26 Europäische Kommission, künftiger Vorschlag für einen Rechtsakt über den Europäischen Forschungsraum (EFR), 
+angekündigt im Arbeitsprogramm 2025 der Kommission, Brüssel, 11. Februar 2025, abrufbar unter: 
+https://commission.europa.eu/strategy-and-policy/strategy-documents/commission-work-programme/commi
+ssionwork-programme-2025_en?prefLang=de.  
+27  Europeana, die europäische Online-Plattform für das Kulturerbe, abrufbar unter: https://www.europeana.eu/de 
+(abgerufen am 27. Oktober 2025).
+15 
+ 
+ 
+Neben Leitinitiativen benötigt die EU auch horizontale Maßnahmen, die sektorübergreifend 
+sind und Maßstäbe für die gesamte Datenwirtschaft setzen.  
+Synthetische Daten als Triebkraft für eine Führungsrolle im Bereich KI 
+Synthetische Daten28 können KI-Training in Bereichen ermöglichen, in denen Daten knapp 
+oder sensibel sind – von der Erforschung seltener Krankheiten über die Robotik bis hin zu 
+Grenzfällen im Bereich des autonomen Fahrens. Damit können KI-Modelle entwickelt werden, 
+ohne dass personenbezogene oder geschützte Informationen offengelegt werden müssen, was 
+sowohl die Wettbewerbsfähigkeit als auch Innovationen bei gleichzeitiger Wahrung der 
+Privatsphäre stärkt. 
+Um dieses Potenzial zu nutzen, wird die Kommission Leitlinien und Standards bzw. Normen 
+für die Nutzung vertrauenswürdiger synthetischer Daten entwickeln, die damit verbundenen 
+rechtlichen Fragen prüfen, eine Konsultation zu einem freiwilligen europäischen 
+Zertifizierungssystem durchführen und die Möglichkeit der Einrichtung einer „Fabrik für 
+synthetische Daten“ prüfen, um den Zugang zum Hochleistungsrechnen für die Zwecke der 
+groß angelegten Datensatzgenerierung zu ermöglichen. Im Rahmen von Horizont Europa 
+werden ferner Spitzenforschung und -entwicklung im Bereich der Techniken zur Erzeugung 
+synthetischer Daten finanziert. 
+Den Weg für die strategische Datenbündelung ebnen 
+Zahlreichen Unternehmen, z. B. in den Bereichen 
+Gesundheit, Mobilität, Energie, Landwirtschaft und 
+Fertigung, fehlen die großen, vielfältigen Datensätze, die 
+für das Trainieren fortschrittlicher KI-Modelle 
+erforderlich sind. Werden Daten im Zusammenhang mit 
+frühen Phasen des Produktionszyklus von Produkten und 
+Dienstleistungen zusammengeführt, könnten gemeinsame 
+Vorteile erschlossen werden, aber Rechtsunsicherheit und 
+die Angst vor Verstößen gegen das Wettbewerbsrecht 
+bremsen die Zusammenarbeit.  
+Die Kommission wird weiterhin daran arbeiten, 
+Rechtsklarheit für Unternehmen zu schaffen, wie es Mario 
+Draghi in seinem Bericht über die Zukunft der 
+europäischen Wettbewerbsfähigkeit gefordert hat. In den 
+Leitlinien für Vereinbarungen über horizontale 
+Zusammenarbeit zwischen Wettbewerbern aus dem Jahr 
+2023 wird bereits erläutert, wann die Datenbündelung mit 
+dem EU-Wettbewerbsrecht vereinbar ist, und es werden 
+praktische Beispiele und Schutzklauseln genannt. 
+ 
+28 Siehe Begriffsbestimmung oben. 
+Draghi-Bericht: „Um 
+insbesondere den Mangel an 
+großen Datensätzen in der EU 
+zu überwinden, sollte das KI-
+Modelltraining mit Daten 
+gespeist werden, die von 
+mehreren EU-Unternehmen in 
+einem bestimmten Sektor 
+kostenlos zur Verfügung 
+gestellt werden. Dies sollte im 
+Rahmen von Open-Source-
+Frameworks geschehen, die 
+vor der Durchsetzung des 
+Kartellrechts durch die 
+Wettbewerbsbehörden 
+geschützt sind.“
+16 
+ 
+ 
+Um die rechtmäßige und wirksame Datenzusammenarbeit im Rahmen von Datenlaboren 
+weiter zu erleichtern, wird die Kommission spezielle Leitlinien zu bewährten Verfahren für 
+den Austausch und die Bündelung von Daten herausgeben. 
+Darüber hinaus kann die Kommission im Rahmen der Bekanntmachung über informelle 
+Beratung auf Anfrage Orientierungshilfen für spezifische datenbezogene Mehrländerprojekte 
+und -initiativen bereitstellen, die die grenzübergreifende Innovation, industrielle Resilienz und 
+KI-Entwicklung fördern. Indem die EU die Datenbündelung zu einer vertrauenswürdigen und 
+rechtssicheren Option macht, kann sie Effizienzgewinne erschließen und Durchbrüche in 
+Schlüsselsektoren beschleunigen.  
+Höhere Maßstäbe für Datenqualität und Datenerfassung 
+Ohne zuverlässige Standards bzw. Normen besteht selbst bei den ehrgeizigsten Bemühungen 
+um die Datenweitergabe die Gefahr einer Fragmentierung und einer geringen Akzeptanz. Der 
+europäische Rahmen für vertrauenswürdige Daten29 enthält bereits Vorschriften zu 
+Weitergabe, Metadaten und Governance, doch sind weitere Arbeiten erforderlich, um neue 
+Fragen anzugehen. 
+Die Kommission wird einen Normungsauftrag für eine europäische Datenqualitätsnorm in 
+Auftrag geben, die die Aspekte Vollständigkeit, Kohärenz, Herkunft, semantische Klarheit und 
+Governance abdeckt und Unternehmen, Regulierungsbehörden und Forschenden gemeinsame 
+Benchmarks für zuverlässige Datensätze an die Hand gibt. Diese Arbeit wird die laufenden 
+Normungsbemühungen zur Datenqualität und -dokumentation im Rahmen der KI-Verordnung 
+ergänzen und die Kohärenz zwischen den Anforderungen an die Datenverwaltung und die KI-
+Entwicklung sicherstellen.  
+Eine spezielle Initiative wird darauf abzielen, die Annotations- und 
+Kennzeichnungsverfahren zu standardisieren, um das Auffinden, die Kombination und die 
+Weiterverwendung von Daten zu erleichtern und gleichzeitig das Vertrauen in ihre Herkunft 
+und die Nutzungsbedingungen zu gewährleisten, was für die Ausweitung des KI-Trainings und 
+die sektorübergreifende Weiterverwendung unverzichtbar ist. Im Rahmen eines Multi-
+Stakeholder-Workshops wird auch die Entwicklung von Standards bzw. Normen für die 
+Datenerfassung aus vernetzten Produkten, Sensoren und Kameras – einschließlich 
+Stichproben, Metadaten, Zeitstempel, Kalibrierung und Integrität – erkundet werden, um ein 
+wesentliches Hindernis für eine wirksame Datenbündelung und -weiterverwendung zu 
+beseitigen. 
+ 
+ 
+ 
+ 
+29 Siehe auch Europäische Kommission, Durchführungsbeschluss C(2025) 4135 in Bezug auf einen europäischen 
+Rahmen für vertrauenswürdige Daten.
+17 
+ 
+ 
+Leitinitiativen 
+ Einrichtung erster Datenlabore zur Skalierung der Datenverfügbarkeit und zur 
+Verknüpfung mit KI-Ökosystemen (4. Quartal 2025). Diese Labore werden auch 
+vertrauenswürdige Pseudonymisierungsdienste anbieten. 
+ Einleitung der Initiative zu hochwertigen Daten für KI: Erweiterung hochwertiger 
+Datensätze im Rahmen der Richtlinie über offene Daten (4. Quartal 2026), Einrichtung 
+eines Forums der Interessenträger – mit öffentlich-rechtlichen Rundfunkanstalten und KI-
+Entwicklern (2. Quartal 2026), Bereitstellung von 30 Mio. digitalisierten Kulturgütern für 
+KI-Training (4. Quartal 2026) und Einleitung einer Crowdsourcing-Initiative für 
+bereichsspezifische Daten und Sprachdaten in kleineren europäischen Sprachen (2. Quartal 
+2026). 
+Säule II: Straffung der Datenvorschriften 
+Der Datenrahmen der EU muss klar, zweckmäßig und innovationsfreundlich bleiben. Um den 
+Aufwand zu verringern und die Wettbewerbsfähigkeit zu steigern, legt die Kommission einen 
+Legislativvorschlag – die Digital-Omnibus-Verordnung – vor, der unter anderem darauf 
+abzielt, den horizontalen Besitzstand der EU im Bereich Daten zu modernisieren und zu 
+konsolidieren. Darüber hinaus wird die Kommission die Arbeit an der Vereinfachung der 
+Befolgung der Vorschriften (Befolgung mit nur einem Klick) für eine automatisierte 
+vorschriftsgemäße Berichterstattung sowie ein Unterstützungspaket für die Datenverordnung 
+ankündigen, das Musterverträge, Standardklauseln, Orientierungshilfen für Gegenleistungen 
+und Geschäftsgeheimnisse sowie einen Helpdesk für Rechtsfragen für KMU umfasst. 
+i. Vereinfachung der EU-Besitzstands im Bereich Daten  
+Der Regulierungsrahmen der EU für Daten ist rasch gewachsen, was zu neuen Rechten, aber 
+auch zu zunehmender Komplexität und Fragmentierung geführt hat. Hier ist eine 
+Vereinfachung erforderlich, um die Befolgungskosten zu senken, die Anwendung der 
+Vorschriften zu erleichtern und Innovationen besser zu fördern. 
+Zu diesem Zweck legt die Kommission die oben genannte Digital-Omnibus-Verordnung vor. 
+Sie wird den Besitzstand aktualisieren, unnötige Belastungen beseitigen und gleichzeitig die 
+Grundprinzipien der Datenwirtschaft der EU wahren. Die Omnibus-Verordnung wird sich auf 
+die folgenden vorrangigen Reformen konzentrieren: 
+ Streichung überholter Vorschriften: Mit der Omnibus-Verordnung wird die 
+Verordnung über den freien Verkehr nicht-personenbezogener Daten30 aufgehoben, da 
+ihre Funktionen bereits durch die Datenverordnung abgedeckt sind, wobei der 
+Grundsatz des freien Verkehrs nicht personenbezogener Daten und das Verbot 
+ungerechtfertigter Lokalisierung ausdrücklich gewahrt bleiben. 
+ 
+30 Verordnung (EU) 2018/1807 des Europäischen Parlaments und des Rates vom 14. November 2018 über einen 
+Rahmen für den freien Verkehr nicht-personenbezogener Daten in der Europäischen Union.
+18 
+ 
+ 
+ Straffung der Vorschriften für die Datenweitergabe: Mit der Omnibus-Verordnung 
+wird der Daten-Governance-Rechtsakt aufgehoben und werden seine wesentlichen 
+Bestimmungen in die Datenverordnung überführt. Die Verpflichtungen für 
+Datenmittler werden klarer und einfacher sein und werden auf freiwilliger Basis 
+eingegangen, um tragfähige Modelle und eine breitere Akzeptanz zu ermöglichen. 
+ Konsolidierung der Weitergabe von Daten des öffentlichen Sektors: Die 
+Vorschriften, die derzeit teils im Daten-Governance-Rechtsakt und teils in der 
+Richtlinie über offene Daten enthalten sind, werden beibehalten und in einem Kapitel 
+der Datenverordnung zusammengefasst. Dies vereinfacht die Verpflichtungen und 
+wahrt gleichzeitig die Offenheit, die Transparenz und den fairen Zugang. Der neue 
+Rahmen wird darüber hinaus Machtungleichgewichte bei der Datenweitergabe 
+beseitigen und faire Bedingungen und greifbare Vorteile für KMU gewährleisten. In 
+den Datenlaboren werden vielversprechende neue Datensätze des öffentlichen Sektors 
+gekennzeichnet, die derzeit noch nicht erfasst sind. 
+ Modernisierung der Vorschriften für 
+Cookies und ähnliche Technologien: Mit 
+der Omnibus-Verordnung werden die derzeit 
+in der e-Datenschutzrichtlinie enthaltenen 
+Vorschriften über Cookies reformiert und in 
+den DSGVO-Rahmen aufgenommen. Darin 
+werden praktische Lösungen vorgeschlagen: 
+Cookies und ähnliche Technologien, die für 
+bestimmte Zwecke mit geringem Risiko 
+eingesetzt werden, sollten als rechtmäßig 
+angesehen werden; für andere Zwecke sollten 
+sich die Betreiber auf eine der 
+Rechtsgrundlagen der DSGVO stützen. 
+Außerdem werden die Banner durch Ein-Klick-Optionen vereinfacht. Zudem werden 
+Websites verpflichtet, die Präferenzen der Nutzer zu respektieren, auch über ihre 
+Browser. Über die Digital-Omnibus-Verordnung hinaus wird der e-Datenschutz-
+Rahmen reformiert, um sicherzustellen, dass die derzeitigen Vorschriften den heutigen 
+Bedürfnissen entsprechen und einen wirksamen Schutz von Menschen und 
+Unternehmen ohne Beeinträchtigung der Grundrechte ermöglichen und dabei den 
+unabhängigen Journalismus wahren. Die einschlägigen Bestimmungen werden in 
+andere Rechtsinstrumente integriert, sodass die Richtlinie letztlich aufgehoben werden 
+kann. 
+ Entwicklung eines innovationsfreundlichen Datenschutzrahmens: Gezielte 
+Änderungen der DSGVO werden insbesondere den Begriff der personenbezogenen 
+Daten präzisieren, auf EU-Ebene harmonisieren, wann Datenschutz-
+Folgenabschätzungen durchgeführt werden sollten, die Meldung von Verletzungen des 
+Schutzes personenbezogener Daten an die Aufsichtsbehörden vereinfachen, deren 
+Meldung über eine zentrale EU-Plattform straffen, die Informationspflichten 
+Kommentar eines Teilnehmers an 
+der öffentlichen Konsultation zur 
+Datenunion: „Die Vorschriften für 
+den e-Datenschutz müssen dringend 
+aktualisiert werden. Die geltenden 
+Vorschriften wurden vor einem 
+völlig anderen technologischen 
+Hintergrund konzipiert und 
+entsprechen nicht den aktuellen 
+Markterfordernissen.“
+19 
+ 
+ 
+vereinfachen, wenn berechtigte Gründe für die Annahme bestehen, dass 
+Einzelpersonen bereits über die Informationen verfügen und das Risiko für die 
+betroffene Person gering ist; klarstellen, dass ein berechtigtes Interesse eine 
+Rechtsgrundlage für das Training von KI sein kann, einschließlich der unbeabsichtigten 
+Verarbeitung besonderer Datenkategorien und ferner die Bestimmungen über die 
+automatisierte Entscheidungsfindung im Einzelfall präzisieren. 
+Eine wichtige Änderung betrifft die Freigabe von Daten für KI durch 
+vertrauenswürdige Anonymisierung. Heute ist die Unsicherheit hinsichtlich einer 
+ausreichenden Anonymisierung personenbezogener Daten ein zentrales Problem, das 
+häufig von der Weitergabe von Daten abschreckt. Unternehmen haben insbesondere 
+Schwierigkeiten festzustellen, wann pseudonymisierte Daten für bestimmte 
+Unternehmen nicht mehr als personenbezogene Daten anzusehen sind. Diese 
+Unsicherheit macht die Datenweitergabe komplexer, wenn die Anforderungen der 
+DSGVO vorsichtshalber eingehalten werden. Die Kommission wird Unternehmen 
+unterstützen, indem sie die Mittel und Kriterien festlegt, anhand derer bestimmt werden 
+kann, ob Daten, die sich aus der Pseudonymisierung ergeben, für bestimmte 
+Einrichtungen als personenbezogene Daten anzusehen sind.  
+Dies umfasst eine Bewertung des Stands der verfügbaren Techniken und die 
+Entwicklung von Kriterien zur Bewertung des Risikos einer Re-Identifizierung. 
+Während die Unternehmen weiterhin in vollem Umfang für die Einhaltung der DSGVO 
+verantwortlich sind, können sie die Implementierung dieser Mittel und Kriterien 
+nutzen, um nachzuweisen, dass Daten nicht zu einer Re-Identifizierung führen können. 
+Die Änderungen werden auch das Training von KI-Modellen mit geeigneten 
+Schutzvorkehrungen erleichtern. Ziel dieser Änderungen ist es, Rechtsklarheit für die 
+KI-Entwicklung zu schaffen, einschließlich Fällen der unbeabsichtigten Verarbeitung 
+sensibler Daten, bei denen die Entwickler wirkliche Anstrengungen unternommen 
+haben, diese Daten zu entfernen, und gleichzeitig die Rechte des Einzelnen und die 
+Wettbewerbsfähigkeit der Unternehmen zu schützen. 
+ Weiterentwicklung der Datenverordnung für die praktische Durchführung: Die 
+wesentlichen Merkmale der Datenverordnung werden unverändert bleiben. 
+Gleichzeitig wird die Datenweitergabe von Unternehmen an Behörden auf Notfälle 
+beschränkt sein, wodurch Belastungen verringert werden und gleichzeitig die 
+Krisenreaktion sichergestellt wird. Durch gezielte zusätzliche Anpassungen werden 
+Datenverluste in Länder außerhalb der EU verhindert, bedarfsgerechte Regelungen für 
+maßgeschneiderte Cloud-Dienste eingeführt und die Bestimmungen über intelligente 
+Verträge aufgehoben. 
+ Verringerung der Belastung expandierender Unternehmen: Mit einer neuen 
+Kategorie kleine Midcap-Unternehmen (250-749 Beschäftigte) werden die 
+Bestimmungen für KMU im Rahmen der Datenverordnung, der Richtlinie über offene 
+Daten und der integrierten Vorschriften des Daten-Governance-Rechtsakts 
+ausgeweitet.
+20 
+ 
+ 
+ii. Aufbau eines zukunftssicheren Datenrahmens: 
+Im Rahmen der digitalen Eignungsprüfung wird die Kommission den EU-Besitzstand im 
+Bereich Daten weiter überprüfen, um seine Kohärenz, Verhältnismäßigkeit und 
+Innovationsfreundlichkeit zu erhalten. Mit besonderem Augenmerk auf KMU werden 
+Überschneidungen, Lücken und unklare Wechselwirkungen, auch mit sektorspezifischen 
+Rechtsvorschriften für Daten, ermittelt, um einen berechenbareren sektorübergreifenden 
+Rahmen zu schaffen. 
+Darüber hinaus werden die Rechtsvorschriften zur Digitalisierung und der Datenschutz auf den 
+neuesten Stand gebracht31. Gezielte Anpassungen können die Einhaltung der Vorschriften 
+erleichtern und die Durchsetzung stärken sowie die Entwicklung solider und 
+vertrauenswürdiger Innovationen unterstützen.  
+Die Datenvermittlung ist zu einem wachsenden Problem geworden, da bestimmte 
+Unternehmen personenbezogene Daten erheben, aggregieren und mit ihnen handeln, ohne dass 
+der Einzelne sich dessen bewusst ist, eine aussagekräftige Einwilligung gegeben oder Kontrolle 
+darüber hat. Solche undurchsichtigen Praktiken untergraben die Grundprinzipien des 
+Datenschutzrechts und der Privatsphäre, verzerren den Wettbewerb und schwächen das 
+Vertrauen der Öffentlichkeit in die digitalen Märkte. Die bestehenden Vorschriften müssen 
+konsequenter durchgesetzt werden. Die Kommission wird prüfen, ob zusätzliche 
+Schutzvorkehrungen erforderlich sind, um solche Praktiken einzudämmen, die Transparenz im 
+Datenhandel zu erhöhen und sicherzustellen, dass Einzelpersonen und Unternehmen darauf 
+vertrauen können, wie in der gesamten Union auf Daten zugegriffen wird und diese 
+ausgetauscht werden. 
+iii. Befolgung der Vorschriften mit einem einzigen Klick  
+Unternehmen wenden heute viel Zeit und Geld für die Befolgung der Vorschriften auf. Selbst 
+Daten, die bereits in digitaler Form vorliegen, müssen häufig umformatiert und erneut an 
+mehrere Behörden übermittelt werden, wo sie manuell überprüft werden. Diese Doppelarbeit 
+führt zu einer fragmentierten Beaufsichtigung und zieht Ressourcen ab, die für Innovationen 
+eingesetzt werden könnten. 
+Über die Vereinfachung der Vorschriften hinaus investiert die EU auch in Technologien, um 
+die Einhaltung der Vorschriften zu automatisieren. Über Horizont Europa und das Programm 
+Digitales Europa werden gemeinsame Datenmodelle, Interoperabilitätsrahmen und 
+automatisierte Analysen unterstützt. Pilotprojekte zeigen bereits, wie automatisierte 
+Konformitätsprüfungen in Echtzeit in der Praxis funktionieren können. Der digitale 
+Produktpass (DPP) ist ein frühes Beispiel für diesen Ansatz in der Produktgesetzgebung. 
+Aufbauend auf diesen Erfahrungen würde die Befolgung der Vorschriften mit einem einzigen 
+Klick die Einhaltung regulatorischer Anforderungen maschinell überprüfbar machen, sodass 
+aufgrund von Unternehmensdaten standardisierte digitale Konformitätszertifikate erstellt 
+ 
+31 Arbeitsprogramm der Kommission, EUR-Lex – 52025DC0870 – DE – EUR-Lex.
+21 
+ 
+ 
+werden können – ähnlich wie der digitale Produktpass die automatische Produktkonformität 
+ermöglicht. 
+Die Befolgung der Vorschriften mit einem einzigen Klick könnte in Bereichen wie der 
+Cybersicherheit besonders wertvoll sein, in denen Unternehmen den Anforderungen der NIS-
+2-Richtlinie32, der Cyberresilienz-Verordnung33 und anderer Rahmen unterliegen. 
+Die Verordnung über europäische Unternehmensbrieftaschen wird ein Schlüsselfaktor für 
+diesen Ansatz sein. Sie wird eine vertrauenswürdige und interoperable digitale Umgebung für 
+die Speicherung, Verwaltung und Weitergabe überprüfbarer Zertifikate, einschließlich 
+Konformitätszertifikaten, bieten. Unternehmen könnten europäische 
+Unternehmensbrieftaschen nutzen, um sich digital zu identifizieren, Nutzer des Ökosystems 
+zu identifizieren und zu validieren und die Konformität mit verschiedenen EU-Vorschriften 
+durch die Vorlage von Konformitätszertifikaten nachzuweisen, während öffentliche Stellen 
+und Regulierungsbehörden einen sicheren und sofortigen Zugang zu validierten Informationen 
+erhalten. Im Laufe der Zeit wird die europäische Unternehmensbrieftasche zu einer 
+gemeinsamen Infrastruktur werden, die Verwaltungsprozesse wie Lizenzvergabe, Vergabe 
+öffentlicher Aufträge und Zugang zu Finanzmitteln unterstützt und nahtlose digitale 
+Interaktionen zwischen Unternehmen und Behörden im gesamten Binnenmarkt ermöglicht. 
+Um für Vertrauen und Rechtssicherheit zu sorgen, wird es unerlässlich sein, festzulegen, wer 
+im Falle von Fehlern, Missbrauch oder Systemausfällen zur Verantwortung gezogen werden 
+kann – unabhängig davon, ob es sich um das Unternehmen, den Zertifizierer oder die 
+Regulierungsbehörde handelt. Die Kommission wird diese Fragen daher in einer 
+bevorstehenden öffentlichen Konsultation untersuchen und dabei sowohl erkunden, welche 
+Möglichkeiten sich bieten, als auch bewerten, welche Schutzvorkehrungen für den Aufbau 
+eines zuverlässigen und rechenschaftspflichtigen automatisierten Compliance-Ökosystems 
+erforderlich sind. 
+Ein solches System würde nicht nur die Kosten für KMU und Midcap-Unternehmen senken, 
+sondern auch den politischen Entscheidungsträgern einen Eindruck davon vermitteln, wie die 
+Vorschriften in der Praxis funktionieren, und so die faktengestützte Regulierung stärken. Die 
+Befolgung der Vorschriften mit nur einem Klick könnte zu einem Eckpfeiler der EU-Agenda 
+für digitale Vereinfachung werden und Wettbewerbsfähigkeit mit Vertrauen und 
+Rechenschaftspflicht in Einklang bringen. 
+iv. Unterstützung von Unternehmen bei der Einhaltung der Datenverordnung: 
+Die Datenverordnung ist das wichtigste Regelwerk für die Nutzung und die Weitergabe von 
+Daten. Um sicherzustellen, dass Unternehmen, insbesondere KMU und kleine Midcap-
+ 
+32 Richtlinie (EU) 2022/2555 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über Maßnahmen 
+für ein hohes gemeinsames Cybersicherheitsniveau in der Union, zur Änderung der Verordnung (EU) Nr. 910/2014 
+und der Richtlinie (EU) 2018/1972 sowie zur Aufhebung der Richtlinie (EU) 2016/1148 (NIS-2-Richtlinie) (ABl. 
+L 333 vom 27.12.2022, S. 80). 
+33 Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 über horizontale 
+Cybersicherheitsanforderungen für Produkte mit digitalen Elementen und zur Änderung der Verordnungen (EU) 
+Nr. 168/2013 und (EU) 2019/1020 und der Richtlinie (EU) 2020/1828 (Cyberresilienz-Verordnung) (ABl. L, 
+2024/2847, 20.11.2024).
+22 
+ 
+ 
+Unternehmen, ihr Potenzial voll ausschöpfen und sich auf Innovation statt auf Bürokratie 
+konzentrieren können, hat die Kommission bereits ein Dokument mit häufig gestellten Fragen34 
+und Leitlinien zu Fahrzeugdaten35 herausgegeben und wird diese durch ein umfassenderes 
+Paket von Unterstützungsmaßnahmen ergänzen. 
+Folgende Sofortmaßnahmen sind vorgesehen: 
+ Mustervertragsklauseln für die Datenweitergabe, um die rechtliche Komplexität zu 
+verringern, Transaktionskosten zu senken und das Vertrauen der Unternehmen in neue 
+Partnerschaften zu stärken; 
+ Standardvertragsklauseln für Cloud-Dienste, um den Anbieterwechsel zu erleichtern 
+sowie Verträge fairer zu gestalten und so Wettbewerb und Innovation auf dem 
+europäischen Cloud-Markt zu fördern. 
+Weitere Maßnahmen sollen schrittweise eingeführt werden: 
+ Leitlinien für eine angemessene Gegenleistung zur Klärung der Frage, was für die 
+Datenweitergabe in Rechnung gestellt werden kann, um sowohl Dateninhabern als auch 
+Datenempfängern Rechtssicherheit zu bieten (1. Quartal 2026); 
+ neue Leitlinien zu ausgewählten Begriffsbestimmungen der Datenverordnung 
+(1. Quartal 2026); 
+ ein Helpdesk für Rechtsfragen zur Datenverordnung, das Unternehmen mit konkreten 
+Fragen zur Anwendung der neuen Vorschriften direkt unterstützt, wobei KMU Vorrang 
+eingeräumt wird, damit ihre Anfragen rasch und mit besonderer Aufmerksamkeit 
+bearbeitet werden (4. Quartal 2025). 
+Zusammen werden diese Maßnahmen den Umgang mit der Datenverordnung erleichtern, 
+unnötige Kosten verringern und den Unternehmen die Klarheit und das Vertrauen geben, die 
+sie benötigen, um neue Chancen in der Datenwirtschaft der EU zu nutzen. Die Kommission 
+wird die Einführung der vertraglichen Instrumente, insbesondere der Mustervertragsklauseln 
+und Standardvertragsklauseln, genau überwachen und sie erforderlichenfalls im Einklang mit 
+den internationalen Entwicklungen bei der Datenweitergabe überprüfen, ergänzen oder 
+anpassen. 
+Die Kommission wird Synergien zwischen der Gemeinschaft der öffentlichen Auftraggeber 
+und den europäischen Datenräumen anstreben, um die Effizienz des öffentlichen Sektors zu 
+steigern, und sich dabei auf das Konzept stützen, das vom europäischen Raum für 
+ 
+34 Europäische Kommission, Häufig gestellte Fragen zur Datenverordnung, Fassung 1.3, Brüssel, 12. September 2025, 
+abrufbar unter: https://digital-strategy.ec.europa.eu/de/library/commission-publishes-frequently-asked-questions-
+about-data-act  (abgerufen am 27. Oktober 2025). 
+35 Europäische Kommission, Leitlinien zu Fahrzeugdaten, Begleitunterlage zur Verordnung (EU) 2023/2854 
+(Datenverordnung), C(2025) 6119 final, Brüssel, 12. September 2025.
+23 
+ 
+ 
+Gesundheitsdaten und der Big-Buyers-Arbeitsgruppe zur Effizienz der 
+Gesundheitsversorgung36 angenommen wurde.  
+Leitinitiativen 
+ Vorschlag zur Konsolidierung der Datenvorschriften (4. Quartal 2025) 
+ Vorschlag zur Aktualisierung der e-Datenschutzvorschriften in Bezug auf 
+Cookies und ähnliche Technologien (4. Quartal 2025)  
+ Vorschlag für gezielte Anpassungen der DSGVO (4. Quartal 2025)  
+ Einleitung einer Initiative für die Befolgung der Vorschriften mit nur einem 
+Klick (ab dem 4. Quartal 2025) 
+ Einführung von Unterstützungsmaßnahmen für die Durchführung der 
+Datenverordnung (ab dem 4. Quartal 2025) 
+ 
+Säule III: Schutz der europäischen Datensouveränität durch eine strategische 
+internationale Datenpolitik  
+Die Datensouveränität steht im Mittelpunkt der digitalen Zukunft der EU. Das bedeutet, dass 
+die EU die Kontrolle darüber behalten muss, wie auf Daten zugegriffen wird und wie sie 
+genutzt und geschützt werden – sowohl innerhalb als auch außerhalb ihres Hoheitsgebiets. 
+Souveränität erfordert Offenheit gegenüber vertrauenswürdigen Partnern, was auch den 
+grenzüberschreitenden Datenaustausch einschließt, jedoch zu fairen, sicheren und mit den 
+Werten und Interessen der EU im Einklang stehenden Bedingungen. Eine Situation, in der 
+ausländische Akteure ungehinderten Zugang zum EU-Markt haben, während europäische 
+Unternehmen im Ausland mit ungerechtfertigten Hindernissen konfrontiert sind, kann nicht 
+aufrechterhalten werden. 
+Die Wahrung der Souveränität bedeutet auch, die Resilienz der EU zu schützen. Cyberangriffe, 
+Technologieverlust, Überwachung und Zwangsabhängigkeiten gefährden kritische Daten. Die 
+EU muss die Verfügbarkeit, Integrität und Sicherheit sensibler Datensätze sicherstellen 
+verhindern, dass sie missbraucht oder ausgenutzt werden, insbesondere durch Akteure 
+außerhalb der EU. 
+ 
+36 Can the European Health Data Space enable better procurement? – Big Buyers are investigating | Public Buyers 
+Community.
+24 
+ 
+ 
+Zu diesem Zweck wird die Kommission eine Strategie 
+verfolgen, die Offenheit mit Stärke verbindet: Faire 
+Bedingungen für den Datenzugang und die 
+grenzüberschreitende Übermittlung von Daten sollen zu einer 
+Säule des digitalen Handels gemacht, sensible nicht 
+personenbezogene Daten der EU durch klare 
+Schutzvorkehrungen geschützt und die Zusammenarbeit mit 
+vertrauenswürdigen Partnern vertieft werden. Die 
+Kommission wird auch daran arbeiten, globale Governance-
+Modelle zu gestalten, die die Interessen und Werte der EU 
+widerspiegeln und eine Fragmentierung in konkurrierende 
+Bereiche verhindern. Diese Strategie wird das langfristige 
+Konzept der EU für den sicheren Verkehr personenbezogener 
+Daten ergänzen, das im Rahmen des EU-Besitzstands im Bereich des Datenschutzes entwickelt 
+wurde. 
+Während die EU einen soliden Rechtsrahmen geschaffen und den „vertrauensvollen freien 
+Datenverkehr“ international gefördert hat, drohen neue ungerechtfertigte 
+Datenlokalisierungsauflagen, Ausfuhrkontrollen und diskriminierende Vorschriften im 
+Ausland die Souveränität zu untergraben. Die Kommission wird daher entschlossener handeln, 
+um die Interessen und die Regulierungsautonomie der EU mit verhältnismäßigen Maßnahmen 
+zu verteidigen, wenn Offenheit missbraucht oder Schwachstellen instrumentalisiert werden. 
+i. Fairer grenzüberschreitender Datenverkehr und Schutzmaßnahmen für sensible 
+nicht personenbezogene Daten aus der EU 
+Die Kommission wird faire Bedingungen und eine wirksame Kontrolle des 
+grenzüberschreitenden Datenverkehrs in den internationalen digitalen Handel integrieren. 
+Durch einen strukturierten Austausch, z. B. im Rahmen der Digitalpartnerschaften und 
+digitalen Dialoge der EU, werden bestehende Ungleichgewichte angegangen, bei denen EU-
+Daten ohne angemessene Schutzvorkehrungen ins Ausland fließen.  
+Sollten weiterhin Lücken bestehen, wird die Kommission auf der Grundlage objektiver 
+Kriterien verhältnismäßige Maßnahmen unter uneingeschränkter Achtung der internationalen 
+Verpflichtungen der Union ergreifen. Sie wird im zweiten Quartal 2026 Leitlinien 
+herausgeben, anhand derer die Behandlung von EU-Einrichtungen durch Drittländer bewertet 
+werden kann. Ferner wird sie im ersten Quartal 2026 ein Instrumentarium zur Vermeidung von 
+Datenverlusten entwickeln, um Fragen im Zusammenhang mit Lokalisierungsauflagen, 
+Marktausschlüssen, unzureichenden Schutzvorkehrungen oder anderen ungerechtfertigten 
+Maßnahmen anzugehen. Dieses Instrumentarium kann sich auf Instrumente wie die 
+In einer Umfrage unter 
+Interessenträgern 
+sprachen sich 75 % der 
+Teilnehmenden für ein 
+entschlosseneres 
+Vorgehen der EU in 
+Bezug auf den 
+internationalen Verkehr 
+nicht personenbezogener 
+Daten aus.
+25 
+ 
+ 
+Verordnung zur Rechtsdurchsetzung im Handel37, das Instrument gegen Zwangsmaßnahmen38 
+und gegebenenfalls Erwägungen der wirtschaftlichen Sicherheit stützen oder von ihnen 
+inspiriert sein und wird sich auf Technologien und bewährte Verfahren konzentrieren, um die 
+Resilienz der EU zu stärken. Sollten strukturelle Verzerrungen oder anhaltende 
+diskriminierende Praktiken nicht behoben werden, wird die Kommission erforderlichenfalls 
+zusätzliche Maßnahmen in Erwägung ziehen, um faire Bedingungen für den Datenzugang und 
+die Datennutzung zu gewährleisten. 
+Parallel dazu wird die Kommission sensible nicht personenbezogene Daten aus der EU besser 
+schützen und den durch die DSGVO und Angemessenheitsbeschlüsse garantierten Schutz 
+personenbezogener Daten ergänzen. In Zusammenarbeit mit den Interessenträgern und im 
+Anschluss an die Ergebnisse eingehender Risikobewertungen wird sie bis zum dritten 
+Quartal 2026 ein erstes Paket gezielter Maßnahmen annehmen. 
+ii. Verknüpfung der Ökosysteme für die Datenweitergabe der EU mit jenen gleich 
+gesinnter Drittländer 
+Der Rechtsrahmen der EU für Datenschutz, Cybersicherheit, Durchsetzung und Rechtsbehelfe 
+ist eine zuverlässige Grundlage für ausländische Dateninhaber. Die Kommission wird sichere, 
+konvergente und interoperable Verbindungen zwischen den Datenökosystemen der EU und 
+denen gleich gesinnter Partner fördern, um mehr Datenverkehr in die EU anzuziehen. 
+Zu den geplanten Maßnahmen gehören i) unterstützende Dienste und Infrastrukturen wie die 
+gemeinsamen europäischen Datenräume, um eine nahtlose grenzüberschreitende 
+Datenweitergabe ii) die Bereitstellung von Instrumenten wie Standardvertragsklauseln, um 
+Unternehmen bei der Gewährleistung eines rechtmäßigen Austauschs zu unterstützen, und iii) 
+die Aufnahme von Verpflichtungen zur grenzüberschreitenden Datenweitergabe in bilaterale 
+und plurilaterale internationale Übereinkünfte. 
+Zur Stärkung der Konvergenz und Interoperabilität wird die Kommission den europäischen 
+Rahmen für vertrauenswürdige Daten in internationalen Dialogen und im Netz für 
+Digitalpartnerschaft fördern. Ferner wird sie die Schaffung eines Vertrauenssiegels prüfen, das 
+möglicherweise mit dem Reifegradmodell für Datenräume – einem standardisierten Rahmen 
+zur Bewertung der Fähigkeiten von Datenrauminitiativen – verknüpft sein wird, um die 
+Zusammenarbeit mit Regierungen und Unternehmen im Ausland zu unterstützen.  
+iii. Stärkung der Stimme der EU in der globalen Daten-Governance 
+Konkurrierende Modelle der Daten-Governance führen zu einer Fragmentierung der globalen 
+Landschaft. Die Kommission wird die Förderung von EU-Ansätzen auf internationaler Ebene, 
+ 
+37 Verordnung (EU) Nr. 654/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014 über die Ausübung 
+der Rechte der Union in Bezug auf die Anwendung und die Durchsetzung internationaler Handelsregeln und zur 
+Änderung der Verordnung (EG) Nr. 3286/94 (ABl. L 189 vom 27.6.2014, S. 50). 
+38 Verordnung (EU) 2023/2675 des Europäischen Parlaments und des Rates vom 22. November 2023 über den Schutz 
+der Union und ihrer Mitgliedstaaten vor wirtschaftlichem Zwang durch Drittländer (ABl. L, 2023/2675, 27.11.2023).
+26 
+ 
+ 
+insbesondere in neu entstehenden Rahmen, intensivieren und Koalitionen mit gleich gesinnten 
+Partnern stärken. 
+Bis 2026 werden die Kommission und der Europäische Auswärtige Dienst (EAD) im Einklang 
+mit der Internationalen Digitalstrategie39 Digitalpartnerschaften im Bereich der Daten-
+Governance vertiefen und miteinander verbinden und sich dabei mit Partnern abstimmen, die 
+gemeinsame Ziele verfolgen, sowie Handelsabkommen zum Digitalbereich und Kapitel zum 
+Digitalbereich im Rahmen traditioneller Handelsabkommen weiterentwickeln. Sie wird sich 
+weiterhin aktiv in Foren wie der G7, der G20, der OECD und den Vereinten Nationen 
+einbringen und dabei Instrumente wie die Erklärung der OECD über den Zugang der Behörden 
+zu personenbezogenen Daten nutzen.  
+Besondere Aufmerksamkeit gilt der Förderung von EU-Konzepten und einer für beide Seiten 
+vorteilhaften Zusammenarbeit mit Kandidatenländern, potenziellen Kandidaten und nächsten 
+Nachbarn.  Die EU wird auch mit Partnern zusammenarbeiten, um die Einrichtung einer 
+gemeinsamen Plattform für ausgewählte hochwertige öffentliche Daten (z. B. aus dem Bereich 
+Kulturerbe) zu prüfen, und vertrauenswürdige Vereinbarungen über den Verkehr sensibler 
+Daten, den staatlichen Zugang und sektorspezifische Vorschriften anstreben. 
+Leitinitiativen 
+ Herausgabe von Leitlinien zur Bewertung der fairen Behandlung von EU-Daten im 
+Ausland (2. Quartal 2026) 
+ Schaffung eines Instrumentariums zur Bekämpfung von ungerechtfertigter 
+Lokalisierung, Ausschlüssen, unzureichenden Schutzvorkehrungen und 
+Datenverlusten (2. Quartal 2026) und Annahme von Maßnahmen zum Schutz 
+sensibler nicht personenbezogener Daten (3. Quartal 2026) 
+ 
+5. Strategie für eine Datenunion: Erschließung von Daten für KI 
+Um die Wettbewerbsfähigkeit im Zeitalter der KI zu gewährleisten, wird in der Strategie für 
+eine Datenunion der Schwerpunkt von der Festlegung von Vorschriften auf die Erzielung von 
+Ergebnissen verlagert. Aufbauend auf den seit 2020 bestehenden Grundlagen befasst sie sich 
+mit Datenmangel, regulatorischer Komplexität und dem globalen Wettbewerb. 
+Der Europäische Dateninnovationsrat wird das zentrale Governance-Forum bleiben, das im 
+Hinblick auf eingehendere technische Debatten und einen strategischen Dialog mit den 
+Mitgliedstaaten und der Industrie reformiert wurde. Parallel dazu wird die KI-
+Anwendungsallianz zum wichtigsten Kanal für sektorspezifische Rückmeldungen werden, um 
+sicherzustellen, dass Unternehmen, Forschende und öffentliche Akteure in die Gestaltung der 
+Umsetzung einbezogen werden. Die KI-Beobachtungsstelle wird aufkommende Trends 
+verfolgen und entsprechende politische Erkenntnisse formulieren. 
+ 
+39 Europäische Kommission und Hohe Vertreterin der Union für Außen- und Sicherheitspolitik: Gemeinsame 
+Mitteilung an das Europäische Parlament und den Rat – Eine internationale Digitalstrategie für die Europäische 
+Union, JOIN(2025) 140 final, Brüssel, 5. Juni 2025.
+27 
+ 
+ 
+Gezielte Maßnahmen werden den Ausbau hochwertiger Daten, die Vereinfachung des 
+Regelungsumfelds und die Stärkung der Rolle der EU beim globalen Datenverkehr 
+ermöglichen. Für KMU und Innovatoren bedeutet dies, dass die Befolgung der Vorschriften 
+kostengünstiger, der Zugang zu Daten erleichtert und das internationale Umfeld günstiger wird. 
+Nur was gemessen wird, wird auch umgesetzt. Aus diesem Grund hat die Kommission einen 
+Fahrplan für den Binnenmarkt angekündigt, um das Tempo zu erhöhen und die Verfahren zu 
+beschleunigen. Die Strategie für eine Datenunion kann gegebenenfalls einen Beitrag zum 
+Fahrplan leisten, um politische Entscheidungsträger und die Industrie, insbesondere KMU, bei 
+der Beseitigung von Hindernissen und der Vollendung des Binnenmarkts für Daten zu 
+unterstützen. 
+Zusammen mit der Strategie „KI anwenden“ stellt die Strategie für eine Datenunion sicher, 
+dass die Datengrundlagen der EU die Entwicklung, den Einsatz und die Einführung von KI in 
+allen Sektoren direkt vorantreiben. 
+Die langfristige Vision ist klar: eine souveräne europäische Datenwirtschaft, in der Daten 
+sicher und verantwortungsvoll fließen, KI füttern, Innovationen ankurbeln und die 
+Wettbewerbsfähigkeit stärken. 
+Drucksache 54/26 - 28 -
