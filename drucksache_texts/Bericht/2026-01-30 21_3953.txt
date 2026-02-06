@@ -1,6 +1,6 @@
 Deutscher Bundestag Drucksache 21/3953 
-21. Wahlperiode 30.01.2026
-Bericht
+21. Wahlperiode 30.01.2026 
+Bericht 
  
 des Ausschusses für Forschung, Technologie, Raumfahrt 
 und Technikfolgenabschätzung (18. Ausschuss) 
@@ -9,26 +9,23 @@ Technikfolgenabschätzung (TA)
 Nachhaltige und sichere Konzepte für eine klimaverträgliche Schifffahrt 
 Inhal tsverzeichnis  
 Seite 
-Vorwort des Ausschusses ............................................................................. 5 
-Zusammenfassung ........................................................................................ 9 
-1 Einleitung ........................................................................................ 18 
-2 Maritime Kraftstoffe der Zukunft ................................................ 21 
-2.1 Herstellungspfade erneuerbarer Kraftstoffe ...................................... 21 
-2.1.1 E-Fuels ..............................................................................................  22
-2.1.2 B-Fuels .............................................................................................  28
-2.2 Beschreibung und Bewertung der erneuerbaren Kraftstoffe ............ 30 
-2.2.1 Wasserstoff ....................................................................................... 33 
-2.2.2 Erneuerbare Dieselkraftstoffe ........................................................... 35 
-2.2.3 E- und B-Methanol ...........................................................................  38
-2.2.4 E- und B-Methan ..............................................................................  40
-2.2.5 E-Ammoniak ....................................................................................  42
-2.2.6 Direkte Nutzung elektrischer Energie .............................................. 45 
+Vorwort des Ausschusses .............................................................................  5 
+Zusammenfassung ........................................................................................  9 
+1 Einleitung ........................................................................................  18 
+2 Maritime Kraftstoffe der Zukunft ................................................  21 
+2.1 Herstellungspfade erneuerbarer Kraftstoffe ......................................  21 
+2.1.1 E-Fuels ..............................................................................................  22 
+2.1.2 B-Fuels .............................................................................................  28 
+2.2 Beschreibung und Bewertung der erneuerbaren Kraftstoffe ............  30 
+2.2.1 Wasserstoff .......................................................................................  33 
+2.2.2 Erneuerbare Dieselkraftstoffe ...........................................................  35 
+2.2.3 E- und B-Methanol ...........................................................................  38 
+2.2.4 E- und B-Methan ..............................................................................  40 
+2.2.5 E-Ammoniak ....................................................................................  42 
+2.2.6 Direkte Nutzung elektrischer Energie ..............................................  45 
 2.3 Aktuelle und perspektivische Nutzung von Kraftstoffen in  
-der Schifffahrt ................................................................................... 47 
-2.4 Fazit .................................................................................................. 48 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+der Schifffahrt ...................................................................................  47 
+2.4 Fazit ..................................................................................................  48
 Seite 
 3 Technische Voraussetzungen für den Einsatz 
 klimaverträglicher Antriebssysteme und Kraftstoffe ..................  53 
@@ -69,10 +66,7 @@ Akteure ........................................................................
 5.1.1 Energieeffizienzmanagement an Bord ..............................................  84 
 5.1.2 Energieeffizienzkennwerte (EEDI und EEXI) .................................  85 
 5.1.3 Greenhouse Gas Fuel Standard .........................................................  87 
-5.1.4 Sicherheitsvorschriften für erneuerbare Kraftstoffe .........................  88 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+5.1.4 Sicherheitsvorschriften für erneuerbare Kraftstoffe .........................  88
 Seite 
 5.2 EU .....................................................................................................  89 
 5.2.1 FuelEU-Maritime-Verordnung .........................................................  89 
@@ -96,13 +90,7 @@ Regulierungsrahmens ............................................................
 8.1 Abbildungen .....................................................................................  123 
 8.2 Tabellen ............................................................................................  123 
 8.3 Kästen ...............................................................................................  124 
-8.4 Abkürzungen ....................................................................................  125 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+8.4 Abkürzungen ....................................................................................  125
 Vorwort des Ausschusses 
 Die maritime Schifffahrt ist ein zentraler Pfeiler des globalen Handels: Über 90 % der
 deutschen Im- und Exporte werden auf dem Seeweg transportiert und weltweit entfallen rund 
@@ -152,32 +140,19 @@ Berichterstatter
 Dr. Andrea Lübcke 
 Berichterstatterin 
 Sonja Lemke 
-Berichterstatterin 
- 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Berichterstatterin
 Christoph Kehl 
 Christine Milchram 
 Friedrich Jasper 
 Nachhaltige und sichere Konzepte für eine 
 klimaverträgliche Schifffahrt 
 Endbericht zum TA-Projekt 
-TAB-Arbeitsbericht Nr. 216 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+TAB-Arbeitsbericht Nr. 216
 Das Büro für Technikfolgen-Abschätzung beim Deutschen Bundestag (TAB) berät das Parlament und seine
 Ausschüsse in Fragen des wissenschaftlich-technischen Wandels. Das TAB wird seit 1990 vom Institut für
 Technikfolgenabschätzung und Systemanalyse (ITAS) des Karlsruher Instituts für Technologie (KIT) betrieben. Hierbei 
 kooperiert es seit September 2013 mit dem IZT – Institut für Zukunftsstudien und Technologiebewertung gGmbH 
-sowie dem Institut für Innovation und Technik (iit) in der VDI/VDE Innovation + Technik GmbH. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+sowie dem Institut für Innovation und Technik (iit) in der VDI/VDE Innovation + Technik GmbH.
 Zusammenfassung 
 Angesichts des voranschreitenden Klimawandels stellt sich auch für die Schifffahrt, über die ein Großteil des 
 globalen Warenhandels abgewickelt wird, die dringliche Frage, wie Treibhausgasemissionen (THG-Emissionen) 
@@ -227,11 +202,8 @@ Erneuerbare Kraftstoffe können strombasiert als E-Fuels oder biogen als B-Fuels
 Grundlage für die Herstellung der E-Fuels ist Elektrolysewasserstoff, der aus Wasser durch Einsatz von
 erneuerbarem Strom gewonnen wird (grüner Wasserstoff). Elektrolysewasserstoff kann verflüssigt direkt als Kraftstoff 
 eingesetzt werden, mit Kohlendioxid zu E-FT-Diesel, E-Methan und E-Methanol oder mit Stickstoff zu E-
-Ammoniak weiterverarbeitet werden. Bei B-Fuels handelt es sich um Kraftstoffe, die aus Biomasse hergestellt wer-
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-den. Dazu zählen die Biodiesel B-FT-Diesel, FAME, und HVO sowie B-Methan und B-Methanol. Je nach
+Ammoniak weiterverarbeitet werden. Bei B-Fuels handelt es sich um Kraftstoffe, die aus Biomasse hergestellt
+werden. Dazu zählen die Biodiesel B-FT-Diesel, FAME, und HVO sowie B-Methan und B-Methanol. Je nach
 Rohstoff unterscheidet man zwischen B-Fuels erster und zweiter Generation. B-Fuels erster Generation werden aus 
 Nahrungs- und Futterpflanzen wie Palm-, Soja- und Rapsöl hergestellt. B-Fuels zweiter Generation werden aus 
 Abfall- und Reststoffen hergestellt, die nicht für die Nahrungs- oder Futtermittelproduktion geeignet sind sowie 
@@ -281,10 +253,7 @@ können, werden THG-Emissionen in CO2-Äquivalenten (CO2-Äq.) angegeben. Bei de
 werden Emissionen über den ganzen Lebenszyklus berücksichtigt (Well-to-Wake-Emissionen). Dies umfasst
 sowohl Emissionen, die während der Herstellung der Kraftstoffe entstehen, als auch solche, die bei der
 Energieumwandlung an Bord anfallen. Wichtig ist dies insbesondere, da die Klimawirkung erneuerbarer Kraftstoffe von der 
-Herstellung der Kraftstoffe abhängig ist. Zum besseren Vergleich mit dem Status quo und den Klimazielen werden 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Herstellung der Kraftstoffe abhängig ist. Zum besseren Vergleich mit dem Status quo und den Klimazielen werden
 die Emissionen erneuerbarer Kraftstoffe im Vergleich zu konventionellen Kraftstoffen als prozentuale
 Veränderung angegeben. 
 Bei E-Fuels besteht das größte Reduktionspotenzial der THG-Emissionen, wenn grüner Wasserstoff (aus
@@ -336,10 +305,7 @@ Antriebssysteme für die Verwendung von Ammoniak als Kraftstoff befinden sich al
 Entwicklungs- und Testphase. Zusätzlich zur Verwendung als Kraftstoff hat Ammoniak auch eine hohe Bedeutung als 
 Speicher- und Transportmedium für Wasserstoff. Wasserstoff kann, in Ammoniak gespeichert, unter einfacheren 
 Bedingungen transportiert werden. Methan wird wie Wasserstoff tiefkalt verflüssigt, was besondere
-Anforderungen an die Infrastruktur und Tanksysteme stellt. Da in der Schifffahrt jedoch erdgasbasiertes verflüssigtes Methan 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Anforderungen an die Infrastruktur und Tanksysteme stellt. Da in der Schifffahrt jedoch erdgasbasiertes verflüssigtes Methan
 (LNG) bereits zum Einsatz kommt und diese beiden Stoffe in ihren Eigenschaften praktisch identisch sind, können 
 die bestehenden LNG-Infrastrukturen sowie Tanks und Antriebssysteme ohne Anpassungen verwendet werden. 
 Bei der Umstellung von konventionellen auf erneuerbare Schiffskraftstoffe ist zu beachten, dass die verschiedenen 
@@ -391,10 +357,7 @@ aus Perspektive der Emissionen und Sicherheit jedoch vorteilhafter als Ammoniak.
 Kostengründen weniger attraktiv als E-Methanol oder Ammoniak, hat allerdings den Vorteil, dass es ohne Anpassungen in 
 den heute mit LNG betriebenen Schiffen genutzt werden kann. E-FT-Diesel dürfte wegen der hohen Kosten 
 hauptsächlich als Zündkraftstoff, der in Motoren für Wasserstoff, Methanol und Ammoniak benötigt wird, oder 
-als Drop-in-Fuel für bereits vorhandene Schiffe eingesetzt werden. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+als Drop-in-Fuel für bereits vorhandene Schiffe eingesetzt werden.
 Effizienzmaßnahmen im Schiffbau und im Betrieb 
 Angesichts der absehbaren Knappheit erneuerbarer Kraftstoffe wird es für die Dekarbonisierung der Schifffahrt 
 erforderlich sein, alle sich bietenden Möglichkeiten für einen energieeffizienteren Betrieb der Schiffe zu nutzen. 
@@ -446,10 +409,7 @@ Technologien, die bereits als Prototypen oder auf dem Markt verfügbar sind. Die
 Bedingungen und Konfiguration Energieeinsparungen von bis zu 15 % ermöglichen. Die Nutzung setzt jedoch 
 langsame Fahrtgeschwindigkeiten und angepasste Handelsrouten voraus, und die Installation ist nicht bei 
 jedem Schiffstyp möglich. Bis Mitte 2023 wurden Windzusatzantriebe auf insgesamt 30 Schiffen installiert, 
-bei weiteren 26 Schiffen sind sie in Planung oder Umsetzung. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+bei weiteren 26 Schiffen sind sie in Planung oder Umsetzung.
 – Nutzung von Photovoltaik und Wärmerückgewinnung für die Bordstromversorgung: Photovoltaik und
 Wärmerückgewinnung können auf Schiffen eingesetzt werden, um elektrische Energie für die
 Bordstromversorgung zu erzeugen und den Gesamtenergiebedarf zu senken. Solaranlagen sind aufgrund begrenzter
@@ -502,10 +462,7 @@ beisteuern. Die deutsche Schiffbauzulieferindustrie ist weltweit führend und um
 60.000 Beschäftigten, die wichtige Komponenten für die energieeffiziente Schifffahrt herstellen. 2023 gab es rund 
 130 Werften in Deutschland, die stark vom Export abhängig sind und zunehmend als Anbieter ganzheitlicher 
 Schiffbauleistungen agieren. Die deutsche Handelsflotte, die siebtgrößte der Welt, setzt sich aus etwa 270
-Reedereien mit 1.800 Schiffen zusammen. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Reedereien mit 1.800 Schiffen zusammen.
 Weltweit nehmen industrielle FuE-Aktivitäten zur Dekarbonisierung der Schifffahrt deutlich zu – oft unterstützt 
 durch öffentliche Fördermittel. Seit 2020 hat sich die Zahl entsprechender Projekte mehr als verfünffacht. In 
 Deutschland zählen der hohe Industrieanteil an den FuE-Investitionen sowie die enge Kooperation von
@@ -557,10 +514,7 @@ Kapazität der installierten Leistung und dem spezifischen Kraftstoffverbrauch. 
 Gas Fuel Standard (GFS) in Kraft treten, der eine schrittweise Reduktion der THG-Intensität der verwendeten 
 Schiffskraftstoffe vorsieht. Mit dem GFS würde erstmals eine weltweite CO2-Bepreisung eingeführt werden.
 Nachdem die ursprünglich für Herbst 2025 geplante Abstimmung über die CO2-Bepreisung auf Druck der USA um ein 
-Jahr verschoben wurde, ist das Inkrafttreten des GFS zum geplanten Zeitpunkt jedoch unsicher. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Jahr verschoben wurde, ist das Inkrafttreten des GFS zum geplanten Zeitpunkt jedoch unsicher.
 Neben der IMO spielt die Europäische Union (EU) eine bedeutende Rolle bei der Regulierung der internationalen 
 Schifffahrt. Ihre Regeln gelten grundsätzlich für Schiffe unter Flagge eines EU-Landes, aber auch für international 
 registrierte Schiffe, die EU-Gewässer befahren und Häfen in der EU anlaufen. Der europäische Grüne Deal ist die 
@@ -613,10 +567,7 @@ Der bestehende regulatorische Rahmen weist zudem noch erhebliche Defizite auf. Z
 GFS erstmals eine weltweite CO2-Bepreisung ein, jedoch bestehen Zweifel an seiner Wirksamkeit. Zum einen 
  
 1 Verordnung (EU) 2023/1805 vom 13. September 2023 über die Nutzung erneuerbarer und kohlenstoffarmer Kraftstoffe im Seeverkehr 
-und zur Änderung der Richtlinie 2009/16/EG 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+und zur Änderung der Richtlinie 2009/16/EG
 gilt die CO2-Bepreisung lediglich ab einem bestimmten Grenzwert, zum anderen gelten die Maßnahmen erst ab 
 2028. Während neuere Regelungen wie die FuelEU-Maritime-Verordnung und der GFS bereits die Emissionen 
 entlang des gesamten Lebenszyklus berücksichtigen, betrachten viele Instrumente der IMO (SEEMP, EEDI, 
@@ -666,10 +617,7 @@ ausgerichteter Förderprogramme. Deutschland könnte eine koordinierte Förderst
 gesamten Innovationszyklus abdeckt, und parallel dazu auf EU-Ebene auf eine stärkere Harmonisierung der
 verschiedenen Förderprogramme hinwirken. In den kommenden Jahren hat Deutschland die Chance, durch
 koordiniertes Handeln sowohl zur globalen Dekarbonisierung der Schifffahrt beizutragen als auch die eigene maritime 
-Industrie zu stärken. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Industrie zu stärken.
 1 Einleitung 
 Angesichts des fortschreitenden Klimawandels hat sich die Weltgemeinschaft im Pariser Klimaabkommen von 
 2015 darauf verständigt, den globalen Temperaturanstieg deutlich unter 2 °C gegenüber dem vorindustriellen
@@ -721,10 +669,7 @@ Ziel, Fokus und Aufbau des Berichts
 Ziel des vorliegenden Berichts ist es, Innovationen sowohl im Bereich alternativer Kraftstoffe als auch im
 Schiffbau aus einer ganzheitlichen Perspektive zu beleuchten und ihre Eignung für die Etablierung einer
 klimaverträglichen und sicheren Seeschifffahrt zu bewerten. Neben Emissionseinsparungen und Kostenaspekten werden auch 
-infrastrukturelle, rechtliche und sicherheitsrelevante Fragen betrachtet. Im Mittelpunkt steht die Frage, wie ein 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+infrastrukturelle, rechtliche und sicherheitsrelevante Fragen betrachtet. Im Mittelpunkt steht die Frage, wie ein
 möglichst klimafreundlicher Schiffsbetrieb gewährleistet werden kann, da hier die größten Einsparpotenziale
 liegen. Nicht thematisiert wird hingegen die Klimaverträglichkeit beim Bau und bei der Entsorgung von Schiffen, 
 da hier ganz andere Rahmenbedingungen und Voraussetzungen gelten. 
@@ -777,10 +722,7 @@ Seeschifffahrt beziehen, wird auch der regulatorische Rahmen für die Binnenschi
 Fazit werden die Defizite des bestehenden Regulierungsrahmens herausgearbeitet. 
  
 2 RoRo steht für Roll on Roll off und wird für die Bezeichnung von Transportschiffen verwendet, die bewegliche Güter (Pkw, Lkw, aber 
-auch Züge) im RoRo-Verfahren transportieren. Bei RoPax-Fähren handelt es sich um RoRo-Schiffe, die auch Passagiere befördern. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+auch Züge) im RoRo-Verfahren transportieren. Bei RoPax-Fähren handelt es sich um RoRo-Schiffe, die auch Passagiere befördern.
 – In Kapitel 6 werden die Optionen zur Dekarbonisierung des Schiffsverkehrs aufgezeigt. Neben einer
 Beschreibung des Weiterentwicklungsbedarfs des internationalen Regelwerks werden die grundsätzlichen Vor- 
 und Nachteile der verschiedenen Kraftstoffe zusammenfassend bewertet. Anschließend werden die für die 
@@ -798,10 +740,7 @@ Autor/innen des vorliegenden Berichts, Dr. Christoph Kehl, Dr. Christine Milchra
 Reinhard Grünwald. An dieser Stelle sei den Gutachter/innen für die Bereitschaft zur Kooperation und
 Kommunikation herzlich gedankt. Ebenfalls gedankt sei Dr. Arnold Sauter für die Durchsicht und Kommentierung von
 Entwurfsversionen sowie Carmen Dienhardt und Brigitta-Ulrike Goelsdorf für die redaktionelle Bearbeitung des
-Manuskripts und die Erstellung des Layouts. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Manuskripts und die Erstellung des Layouts.
 2 Maritime Kraftstoffe der Zukunft 
 Aktuell werden in der maritimen Schifffahrt größtenteils Schweröl- und Destillatkraftstoffe, die aus Erdöl erzeugt 
 werden, eingesetzt. Hierunter fallen insbesondere Schweröl (HFO), sehr schwefelarmes Schweröl (VLSFO) und 
@@ -851,23 +790,19 @@ unterschieden. Einerseits können Kraftstoffe synthetisch auf der Basis von Elek
 oder Stickstoff hergestellt werden. Da die Herstellung durch Elektrolyse aus Strom erfolgt, werden diese
 Kraftstoffe als Elektrokraftstoffe oder E-Fuels bezeichnet. Andererseits können die Kraftstoffe aus Biomasse
 hergestellt werden (B-Fuels, Biofuels oder Biokraftstoffe). Abbildung 2.1 zeigt eine Übersicht über die
-Herstellungspfade vom Rohstoff über die Produktionsprozesse zum Kraftstoff (Brynolf et al. 2022; Hohmeyer et al. 2023, 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-S. VI). Die folgenden Teilkapitel gehen näher auf die Technologien zur Herstellung von E-Fuels und B-Fuels ein 
-und beleuchten allgemeine Aspekte zu deren Verfügbarkeit. 
+Herstellungspfade vom Rohstoff über die Produktionsprozesse zum Kraftstoff (Brynolf et al. 2022; Hohmeyer et al. 2023,
+S. VI). Die folgenden Teilkapitel gehen näher auf die Technologien zur Herstellung von E-Fuels und B-Fuels ein
+und beleuchten allgemeine Aspekte zu deren Verfügbarkeit.
 Abbildung 2.1 Herstellungspfade erneuerbarer Schiffskraftstoffe 
- 
 Eigene Darstellung 
 2.1.1 E-Fuels 
 Bei E-Fuels handelt es sich um Kraftstoffe, die auf der Basis von Wasserstoff und Kohlendioxid oder Stickstoff 
 hergestellt werden (Brynolf et al. 2022). Dazu zählen: 
-– Wasserstoff 
-– E-FT-Diesel 
-– E-Methanol 
-– E-Methan 
-– E-Ammoniak 
+– Wasserstoff
+– E-FT-Diesel
+– E-Methanol
+– E-Methan
+– E-Ammoniak
 Eine zentrale Grundlage für alle erneuerbaren E-Fuels ist grüner Wasserstoff, der durch Elektrolyse aus Wasser mit 
 Strom aus erneuerbaren Energien hergestellt wird (Kasten 2.1). Wasserstoff kann verflüssigt direkt als Kraftstoff 
 eingesetzt oder zu anderen E-Fuels weiterverarbeitet werden (Brynolf et al. 2022). Für die Herstellung von E-
@@ -879,10 +814,7 @@ Fuels bezeichnet (Hohmeyer et al. 2023, S. IX). Das benötigte Kohlendioxid kann
 (Carbon Capture – CC) oder direkt aus der Luft (Direct Air Capture – DAC) abgeschieden werden (Ramboll 2022, S. 40). 
 Für die Herstellung von E-Ammoniak nach dem Haber-Bosch-Verfahren wird Synthesegas aus Wasserstoff und 
 Stickstoff verwendet, wobei Stickstoff in Zerlegungsanlagen aus der Luft abgetrennt wird (Hohmeyer et al. 2023, 
-S. IX; Ramboll 2022, S. 71) (Abbildung 2.1). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+S. IX; Ramboll 2022, S. 71) (Abbildung 2.1).
 Nachfolgend wird genauer auf die Herstellung von Wasserstoff durch Elektrolyse und die Gewinnung von
 Kohlendioxid durch DAC eingegangen. 
 Kasten 2.1 Arten von Wasserstoff (Farben des Wasserstoffs) 
@@ -891,24 +823,24 @@ Senkung der THG-Emission der maritimen Schifffahrt. Für die Bewertung der Klima
 welchen Herstellungspfaden der Wasserstoff stammt. Je nach Herstellung haben sich Hauptkategorien anhand 
 verschiedener Farben etabliert (Nationaler Wasserstoffrat 2022), wobei oft vereinfacht zwischen grünem, 
 grauem und blauem Wasserstoff unterschieden wird (Ramboll 2022, S. 60 f.).  
-– Grüner Wasserstoff wird durch Elektrolyse aus Wasser gewonnen, wobei der dafür benötigte Strom aus 
-erneuerbaren Energien stammt. Um THG-Neutralität zu erreichen, ist der Einsatz von grünem Wasserstoff 
-notwendig (Hirschl/Kern 2024; Nationaler Wasserstoffrat 2022). Die Europäische Kommission definiert 
-darüber hinaus in der Delegierten Verordnung (EU) 2023/11843 Wasserstoff dann als erneuerbar, wenn 
-dieser aus zusätzlichen errichteten Anlagen zur erneuerbaren Stromerzeugung stammt. 
+– Grüner Wasserstoff wird durch Elektrolyse aus Wasser gewonnen, wobei der dafür benötigte Strom aus
+erneuerbaren Energien stammt. Um THG-Neutralität zu erreichen, ist der Einsatz von grünem Wasserstoff
+notwendig (Hirschl/Kern 2024; Nationaler Wasserstoffrat 2022). Die Europäische Kommission definiert
+darüber hinaus in der Delegierten Verordnung (EU) 2023/11843 Wasserstoff dann als erneuerbar, wenn
+dieser aus zusätzlichen errichteten Anlagen zur erneuerbaren Stromerzeugung stammt.
 – Gelber Wasserstoff wird ebenfalls durch Elektrolyse hergestellt, allerdings unter Verwendung des
-bestehenden Strommixes und nicht, wie bei grünem Wasserstoff, ausschließlich aus erneuerbaren Energien.  
-– Roter Wasserstoff wird auf der Basis von Strom aus Kernenergie produziert.  
-– Manchmal wird außerdem die Bezeichnung oranger Wasserstoff verwendet, wenn der für die Elektrolyse 
-verwendete Strom aus Bioenergie hergestellt wurde (Ramboll 2022, S. 60; Scheuermann 2024). 
-– Grauer Wasserstoff wird aus fossilen Energieträgern produziert, beispielsweise durch Dampfreformierung 
+bestehenden Strommixes und nicht, wie bei grünem Wasserstoff, ausschließlich aus erneuerbaren Energien.
+– Roter Wasserstoff wird auf der Basis von Strom aus Kernenergie produziert.
+– Manchmal wird außerdem die Bezeichnung oranger Wasserstoff verwendet, wenn der für die Elektrolyse
+verwendete Strom aus Bioenergie hergestellt wurde (Ramboll 2022, S. 60; Scheuermann 2024).
+– Grauer Wasserstoff wird aus fossilen Energieträgern produziert, beispielsweise durch Dampfreformierung
 aus Erdgas, wobei das dabei entstehende Kohlendioxid emittiert wird. Dieser Wasserstoff ist daher zur
 Reduktion der THG-Emissionen nicht geeignet (DLR 2020). 2023 wurden allerdings mehr als 99 % des
-weltweit nachgefragten Wasserstoffs aus fossilen Energieträgern hergestellt (IEA 2024b, S. 59).  
-– Blauer Wasserstoff wird aus fossilen Energieträgern gewonnen, wobei das dabei anfallende Kohlendioxid 
-durch Carbon-Capture-Verfahren abgespalten wird. 
-– Türkiser Wasserstoff wird ebenfalls aus fossilen Energieträgern produziert (Methanpyrolyse aus Erdgas). 
-Dabei fällt fester Kohlenstoff an, der weiterverwendet oder eingelagert wird. 
+weltweit nachgefragten Wasserstoffs aus fossilen Energieträgern hergestellt (IEA 2024b, S. 59).
+– Blauer Wasserstoff wird aus fossilen Energieträgern gewonnen, wobei das dabei anfallende Kohlendioxid
+durch Carbon-Capture-Verfahren abgespalten wird.
+– Türkiser Wasserstoff wird ebenfalls aus fossilen Energieträgern produziert (Methanpyrolyse aus Erdgas).
+Dabei fällt fester Kohlenstoff an, der weiterverwendet oder eingelagert wird.
 2.1.1.1 Elektrolysewasserstoff 
 Da Wasserstoff auf der Erde fast ausschließlich in chemischen Verbindungen vorkommt, muss er durch
 entsprechende Verfahren aus diesen Verbindungen abgespalten werden. Die mengenmäßig mit Abstand bedeutsamste 
@@ -923,44 +855,40 @@ gemacht wird (Elektrolyt). An den beiden Elektroden entstehen dadurch die Reakti
 und Sauerstoff. Zwischen beiden Elektroden befindet sich eine gasundurchlässige Membran, die verhindert, 
 dass sich Wasserstoff und Sauerstoff zu einem explosiven Gasgemisch vermengen (DLR 2020). 
 Die folgenden Elektrolyseverfahren stehen aktuell am meisten im Fokus (IEA 2024b, S. 66 ff.; Ramboll 2022, 
-S. 61): 
- 
+S. 61):
 3 Delegierte Verordnung (EU) 2023/1184 vom 10. Februar 2023 zur Ergänzung der Richtlinie (EU) 2018/2001 durch die Festlegung einer 
 Unionsmethode mit detaillierten Vorschriften für die Erzeugung flüssiger oder gasförmiger erneuerbarer Kraftstoffe nicht biogenen 
-Ursprungs für den Verkehr 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Ursprungs für den Verkehr
 – Bei der alkalischen Elektrolyse (AEL) wird Kalilauge als Elektrolyt verwendet, die ständig in einem
 Elektrolytkreislauf zirkuliert. Zwischen Kathode und Anode sorgt ein poröses Diaphragma dafür, dass sich
-Wasserstoff und Sauerstoff nicht vermengen (DLR 2020). Die AEL ist ausgereift und kommerziell erhältlich, 
-die erste Anlage wurde bereits 1927 in Norwegen in Betrieb genommen (DLR 2020). Weitere Vorteile sind 
+Wasserstoff und Sauerstoff nicht vermengen (DLR 2020). Die AEL ist ausgereift und kommerziell erhältlich,
+die erste Anlage wurde bereits 1927 in Norwegen in Betrieb genommen (DLR 2020). Weitere Vorteile sind
 eine gute Langzeitstabilität und der Einsatz von vergleichsweise günstigen Materialien.4 Für die
-Verwendung mit fluktuierenden Stromquellen (Wind, Sonne) ist allerdings der relativ träge Elektrolytkreislauf 
-nachteilig, da es dadurch zu einer relativ langen Anlaufzeit kommt und es nicht möglich ist, schnell auf 
-Laständerungen der Stromquelle zu reagieren (DLR 2020). 
+Verwendung mit fluktuierenden Stromquellen (Wind, Sonne) ist allerdings der relativ träge Elektrolytkreislauf
+nachteilig, da es dadurch zu einer relativ langen Anlaufzeit kommt und es nicht möglich ist, schnell auf
+Laständerungen der Stromquelle zu reagieren (DLR 2020).
 – Bei der Polymerelektrolytmembranelektrolyse (PEM) übernimmt ein Festpolymer, das Protonen leitet,
-sowohl die Funktion des Elektrolyts als auch der gasundurchlässigen Membran.5 Auch die PEM-Elektrolyse 
+sowohl die Funktion des Elektrolyts als auch der gasundurchlässigen Membran.5 Auch die PEM-Elektrolyse
 ist im industriellen Maßstab verfügbar, allerdings eine deutlich jüngere Technologie als die alkalische
-Elektrolyse. Gegenüber der AEL hat die PEM-Elektrolyse den Vorteil, dass sie durch kürzere Anlaufzeiten besser 
-auf fluktuierende Stromquellen reagieren kann und der Wasserstoff einen höheren Reinheitsgrad aufweist. 
-Allerdings sind die Investitionskosten bei der PEM-Elektrolyse durch die Verwendung des seltenen Metalls 
-Iridium höher (DLR 2020). 
-– Bei der Hochtemperatur-Feststoffoxid-Elektrolyse (Solid Oxide Electrolyzer Cell- bzw. SOEC-Elektrolyse) 
-wird ein keramischer ionenleitender Festkörper als Elektrolyt eingesetzt.6 Im Unterschied zu den anderen 
-beiden Verfahren wird nicht flüssiges Wasser, sondern Wasserdampf gespalten. Das Verfahren ist vor allem 
+Elektrolyse. Gegenüber der AEL hat die PEM-Elektrolyse den Vorteil, dass sie durch kürzere Anlaufzeiten besser
+auf fluktuierende Stromquellen reagieren kann und der Wasserstoff einen höheren Reinheitsgrad aufweist.
+Allerdings sind die Investitionskosten bei der PEM-Elektrolyse durch die Verwendung des seltenen Metalls
+Iridium höher (DLR 2020).
+– Bei der Hochtemperatur-Feststoffoxid-Elektrolyse (Solid Oxide Electrolyzer Cell- bzw. SOEC-Elektrolyse)
+wird ein keramischer ionenleitender Festkörper als Elektrolyt eingesetzt.6 Im Unterschied zu den anderen
+beiden Verfahren wird nicht flüssiges Wasser, sondern Wasserdampf gespalten. Das Verfahren ist vor allem
 für Standorte geeignet, bei denen Abwärme aus z. B. industrieller Produktion für die Erzeugung des
-Wasserdampfs genutzt werden kann (Ramboll 2022, S. 61). Im Vergleich zur AEL und PEM-Elektrolyse sind 
-bei der SOEC-Elektrolyse höhere Wirkungsgrade (bis zu 90 %) möglich, allerdings ist das Verfahren noch 
-deutlich weniger ausgereift (DLR 2020).7 
-– Bei der vergleichsweise neuen Anionenaustauschmembranelektrolyse (AEM) wird das Diaphragma der 
-AEL durch eine polymere Anionenaustauschmembran ersetzt, die Hydroxidionen leitet. Statt Kalilauge 
-kann destilliertes Wasser oder eine leicht alkalische Lösung verwendet werden (Vincent/Bessarabov 2018). 
-Die AEM-Elektrolyse kombiniert die Vorteile der AEL- (Langzeitstabilität und günstige Materialien) mit 
+Wasserdampfs genutzt werden kann (Ramboll 2022, S. 61). Im Vergleich zur AEL und PEM-Elektrolyse sind
+bei der SOEC-Elektrolyse höhere Wirkungsgrade (bis zu 90 %) möglich, allerdings ist das Verfahren noch
+deutlich weniger ausgereift (DLR 2020).7
+– Bei der vergleichsweise neuen Anionenaustauschmembranelektrolyse (AEM) wird das Diaphragma der
+AEL durch eine polymere Anionenaustauschmembran ersetzt, die Hydroxidionen leitet. Statt Kalilauge
+kann destilliertes Wasser oder eine leicht alkalische Lösung verwendet werden (Vincent/Bessarabov 2018).
+Die AEM-Elektrolyse kombiniert die Vorteile der AEL- (Langzeitstabilität und günstige Materialien) mit
 denen der PEM-Elektrolyse (höherer Reinheitsgrad des Wasserstoffs und bessere Reaktion auf
-fluktuierende Stromquellen) (Fraunhofer 2023; Vincent/Bessarabov 2018). Die Anschaffungskosten werden als 
+fluktuierende Stromquellen) (Fraunhofer 2023; Vincent/Bessarabov 2018). Die Anschaffungskosten werden als
 geringer eingeschätzt, jedoch ist der Energiebedarf höher als bei den anderen genannten Verfahren
-(Fraunhofer 2023). 
+(Fraunhofer 2023).
 Die Herstellung von Wasserstoff mittels Elektrolyse ist ein sehr energieintensives Verfahren. Ausgehend von 
 100 % der zugeführten Energie werden beim AEL- und beim PEM-Verfahren ca. 70 % nutzbare Energie in 
 Form von Wasserstoff erzeugt. Dieser Wirkungsgrad soll zukünftig auf 80 % gesteigert werden können. Die 
@@ -975,7 +903,6 @@ Jahr notwendig (IEA 2024b, S. 46).9 Neben der Schifffahrt spielt Wasserstoff auc
 anderer Sektoren, z. B. die Luftfahrt und die Industrie eine große Rolle. 
 Die globale Wasserstoffproduktion lag 2023 bei 97 Mio. t, die nahezu vollständig aus fossilen Energieträgern 
 erfolgte. Weltweit wurden 2023 lediglich 0,7 Mio. t kohlenstoffarmer Wasserstoff10 produziert, für 2024 schätzte 
- 
 4 https://www.tuev-nord.de/de/unternehmen/energie/wasserstoff/herstellung/elektrolyse-von-wasser/ (17.4.2025) 
 5 https://www.tuev-nord.de/de/unternehmen/energie/wasserstoff/herstellung/elektrolyse-von-wasser/ (17.4.2025) 
 6 https://www.uni-augsburg.de/de/forschung/einrichtungen/institute/amu/wasserstoff-forschung-h2-unia/h2lab/h2-er/elektrolyse/th-el/ 
@@ -984,10 +911,7 @@ erfolgte. Weltweit wurden 2023 lediglich 0,7 Mio. t kohlenstoffarmer Wasserstoff
 8 https://www.tuev-nord.de/de/unternehmen/energie/wasserstoff/herstellung/elektrolyse-von-wasser/ (17.4.2025) 
 9 Diese Mengen wären nötig, wenn 5 bis 10 % des Energieverbrauchs durch wasserstoffbasierte Kraftstoffe abgedeckt würde. 
 10 Als kohlenstoffarm hergestellter Wasserstoff bezeichnet die IEA (2024b, S. 287) Wasserstoff aus Elektrolyse, Biomasse oder fossilen 
-Rohstoffen mit CC-Anlagen (also grüner, gelber, roter, oranger und blauer Wasserstoff). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Rohstoffen mit CC-Anlagen (also grüner, gelber, roter, oranger und blauer Wasserstoff).
 die IEA eine Produktion von etwa 1 Mt. Die Sektoren mit der größten Nachfrage waren 2023 die Chemieindustrie, 
 Raffinerien und die Stahlindustrie. Neben der aktuellen Nachfrage analysiert die IEA auch die Anzahl der
 zwischen Firmen abgeschlossenen Abkommen über die zukünftige Lieferung von Wasserstoff. Hier lag die
@@ -1036,21 +960,16 @@ sinken (Abbildung 2.2). Für Europa wird erwartet, dass die Kosten bei über 3,7
 allerdings noch zeigen. So revidierte die Forschungsstelle für Energiewirtschaft jüngst ihre Kostenerwartungen 
 auf Basis von Praxiserfahrungen und geht nun von über 7 Euro/kg H2 bzw. 175 Euro/MWh für 2040 aus. In
 bisherigen Berechnungen wurden laut dieser Studie insbesondere indirekte Investitionskosten (z. B. die Installation 
- 
 11 Davon mehr als 50 % aus AEL, gefolgt von PEM; 2030 könnte auch AEM mehr als 10 % der Kapazität erreichen (IEA 2024b, S. 66 ff.). 
 12 Betrachtet man allerdings auch Projekte in früherem Entwicklungsstadium, könnten 2030 sogar 49 Mio. t pro Jahr erreicht werden, 
 davon ca. 37 Mio. t aus Elektrolyse. 
 13 Dieser Punkt wird kritisch gesehen: Elektrolyse hat einen hohen Wasserbedarf und ca. die Hälfte aller bis 2030 erwarteten
 Elektrolyseprojekte liegen in Regionen, in denen Wasserknappheit zu erwarten ist oder bereits besteht (IEA 2024b, S. 92). 
-14 Bei einem Energiegehalt von 40 kWh/kg H2 (DLR 2020, S. 35) und einem Wechselkurs von 1,08 US-Dollar/Euro 2024 (EZB 2025). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+14 Bei einem Energiegehalt von 40 kWh/kg H2 (DLR 2020, S. 35) und einem Wechselkurs von 1,08 US-Dollar/Euro 2024 (EZB 2025).
 von Elektrolyseuren) oder auch Stromsystemkosten (z. B. Anschlüsse) als zu gering angenommen. Auch bisherige 
 Erwartungen der IEA zu Kostensenkungen bei Elektrolyseuren konnten nicht eingehalten werden. Statt zu sinken, 
 stiegen die Kosten zwischen 2018 und 2024 leicht an (Schaudwet 2025). 
 Abbildung 2.2 Zukünftige Kosten der Wasserstoffproduktion 
- 
 Kostenberechnungen unter der Annahme von optimaler Auslegung der erneuerbaren Stromerzeugung, um die 
 Erzeugungskosten von Wasserstoff zu minimieren. Stromerzeugung CapEx: 380 bis 1.300 US-Dollar/kW für 
 Photovoltaik, 980 bis 3.260 US-Dollar/kW für Wind an Land, 1.770 bis 4.300 US-Dollar/kW für Offshorewind; 
@@ -1073,10 +992,7 @@ Verfahren – als Übergangslösung bis zur ausreichenden Verfügbarkeit von gr�
 keine Lösung, da Carbon-Capture-Verfahren das anfallende Kohlendioxid nur teilweise abscheiden können, 
 durch die Gasförderung weiterhin Methanemissionen entstehen und der Einsatz von blauem Wasserstoff die 
 Abhängigkeit von fossilen Rohstoffen verlängert (EMSA 2023a, S. 17; Tomos et al. 2024; Ueckerdt et al. 
-2021). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+2021).
 2.1.1.2 Direct Air Capture 
 Neben Wasserstoff wird für die Herstellung der kohlenstoffbasierten E-Fuels (E-Methanol, E-Methan, E-FT-
 Diesel) auch Kohlendioxid benötigt. Kohlendioxid kann aus Punktquellen (z. B. aus Biomasse oder industriellen
@@ -1129,10 +1045,7 @@ Technologie (Solid- oder Liquid-DAC), den Energiepreisen und auch davon ab, ob d
 weiterverwendet wird (IEA 2022; Ozkan et al. 2022). Ab einem Preis von ca. 160 US-Dollar/t CO2 könnte DAC 
 laut den Berechnungen der (IEA 2022) wirtschaftlich sein. Zum Vergleich: Der Preis lag im europäischen
 Emissionshandel Ende Juli 2025 bei ca. 73 Euro/t CO2 und schwankt seit Anfang 2023 zwischen 54 und 110 Euro/t 
-CO2 (Intercontinental Exchange 2025). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+CO2 (Intercontinental Exchange 2025).
 Kasten 2.4 Verfahren zur CO2-Gewinnung durch Direct Air Capture 
 In Direct-Air-Capture-Verfahren wird Luft durch große Ventilatoren gesaugt und das sich darin befindende 
 Kohlendioxid durch Sorbens oder Sorptionsmedien herausgefiltert (Helmholtz-Klima-Initiative 2023). Durch 
@@ -1141,30 +1054,30 @@ abgespalten. Dieses kann dann einer weiteren Verwendung oder Speicherung zugefü
 Sorptionsmedium wird im weiteren Abscheidungsprozess wiederverwendet (Sodiq et al. 2023). Je nach Art des
 Sorptionsmediums und der Temperatur unterscheidet man zwischen Solid- und Liquid-DAC (IEA 2022; Sodiq et 
 al. 2023):  
-– Das Solid-DAC-Verfahren nutzt feste Sorptionsmedien, um Kohlendioxid aus der Atmosphäre zu binden. 
+– Das Solid-DAC-Verfahren nutzt feste Sorptionsmedien, um Kohlendioxid aus der Atmosphäre zu binden.
 Danach wird durch Erhitzung der Medien auf 80 bis 120 °C das Kohlendioxid wieder freigesetzt. Solid-
-DAC hat eine modulare Bauweise und kann in relativ kleinen containerbasierten Lösungen mit einem Ertrag 
-von ca. 50 t CO2 pro Jahr und Modul eingesetzt werden (IN4climate.RR 2022). Dabei werden mehrere 
-Module parallel eingesetzt, von denen einige Kohlendioxid aufnehmen und dieses in anderen wieder aus 
-dem Sorptionsmedium abgespalten wird (IEA 2022). Gleichzeitig zur CO2-Abscheidung wird Wasser aus 
-Luft gewonnen (während bei Liquid-DAC-Verfahren Wasser verbraucht wird). 
-– Im Liquid-DAC-Verfahren wird die Umgebungsluft durch einen Abscheideapparat geleitet, in welchem 
-Flüssigkeiten wie Hydroxidlösungen das Kohlendioxid binden. Die anschließende Erhitzung der Lösung 
-auf 300 bis 900 °C setzt das Kohlendioxid wieder frei. Diese Anlagen können in großem Maßstab von 0,5 
+DAC hat eine modulare Bauweise und kann in relativ kleinen containerbasierten Lösungen mit einem Ertrag
+von ca. 50 t CO2 pro Jahr und Modul eingesetzt werden (IN4climate.RR 2022). Dabei werden mehrere
+Module parallel eingesetzt, von denen einige Kohlendioxid aufnehmen und dieses in anderen wieder aus
+dem Sorptionsmedium abgespalten wird (IEA 2022). Gleichzeitig zur CO2-Abscheidung wird Wasser aus
+Luft gewonnen (während bei Liquid-DAC-Verfahren Wasser verbraucht wird).
+– Im Liquid-DAC-Verfahren wird die Umgebungsluft durch einen Abscheideapparat geleitet, in welchem
+Flüssigkeiten wie Hydroxidlösungen das Kohlendioxid binden. Die anschließende Erhitzung der Lösung
+auf 300 bis 900 °C setzt das Kohlendioxid wieder frei. Diese Anlagen können in großem Maßstab von 0,5
 bis 1 Mio. t CO2 pro Jahr betrieben werden. Allerdings verbraucht der Prozess Wasser und die hohen
-Temperaturen, die im Prozess notwendig sind, führen bei den seit 2024 bestehenden Anlagen dazu, dass die 
-Wärmeenergie aus Erdgas erzeugt wird; das dabei entstehende Kohlendioxid wird allerdings im Prozess 
+Temperaturen, die im Prozess notwendig sind, führen bei den seit 2024 bestehenden Anlagen dazu, dass die
+Wärmeenergie aus Erdgas erzeugt wird; das dabei entstehende Kohlendioxid wird allerdings im Prozess
 abgeschieden. Eine Elektrifizierung ist zwar grundsätzlich möglich, wird in den seit 2024 bestehenden
-Anlagen aber noch nicht eingesetzt (IEA 2024a; IN4climate.RR 2022). 
+Anlagen aber noch nicht eingesetzt (IEA 2024a; IN4climate.RR 2022).
 2.1.2 B-Fuels 
 Bei B-Fuels (oder Biokraftstoffen) handelt es sich um Kraftstoffe, die auf der Basis von Biomasse hergestellt 
 werden. Dazu zählen: 
-– Biodiesel: 
- B-FT-Diesel 
- FAME 
- HVO 
-– B-Methanol 
-– B-Methan 
+– Biodiesel:
+B-FT-Diesel
+FAME
+HVO
+– B-Methanol
+– B-Methan
 Je nach verwendetem Rohstoff wird zwischen konventionellen und fortschrittlichen B-Fuels unterschieden 
 (EMSA 2023d, S. 19). Konventionelle B-Fuels werden auch als Biokraftstoffe der ersten Generation bezeichnet 
 und werden aus Nahrungs- und Futterpflanzen wie Palm-, Soja- oder Rapsöl hergestellt. Fortschrittliche B-Fuels 
@@ -1174,15 +1087,11 @@ Nahrungsoder Futtermittelproduktion bestimmt sind sowie nicht eigens zum Zweck d
 Die für die Schifffahrt relevanten B-Fuels können durch unterschiedliche Produktionsprozesse hergestellt werden 
 (EMSA 2023d, S. 19 ff.): 
 – Durch die Umesterung – eine chemische Umwandlung von Fetten und Ölen – kann FAME hergestellt
-werden, wobei die häufigsten verwendeten Rohstoffe Pflanzenöle (z. B. Raps-, Palm- oder Sojaöl), Altspeiseöle 
-und tierische Fette sind. Auch Algenlipide können als Rohstoff verwendet werden. Die Umesterung von 
- 
+werden, wobei die häufigsten verwendeten Rohstoffe Pflanzenöle (z. B. Raps-, Palm- oder Sojaöl), Altspeiseöle
+und tierische Fette sind. Auch Algenlipide können als Rohstoff verwendet werden. Die Umesterung von
 15 Zusätzlich werden auch noch B-Fuels der dritten Generation (z. B. aus Mikroalgen) und vierten Generation (auf Basis gentechnisch 
 veränderter Mikroorganismen) unterschieden, die sich allerdings noch in einem viel früheren Entwicklungsstand befinden; Kraftstoffe 
-der ersten und zweiten Generation werden kommerziell hergestellt (Cavelius et al. 2023). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+der ersten und zweiten Generation werden kommerziell hergestellt (Cavelius et al. 2023).
 Fetten und Ölen ist ein etablierter Produktionsprozess, während sich die algenbasierte Herstellung noch in 
 einem frühen Entwicklungsstadium befindet (EMSA 2023d, S. 30). 
 – Durch Hydrierung wird HVO produziert, wobei durch den Einsatz von Wasserstoff in Anwesenheit eines 
@@ -1232,12 +1141,8 @@ Die verbleibenden etwa 25 % Produktionsmengen aus Abfall- und Reststoffen werden
 sich um unmittelbare Umnutzungen natürlicher Flächen (z. B. Wald) infolge des Anbaus von Biomasse. Bei indirekten
 Landnutzungsänderungen wird der zusätzliche Flächenbedarf für den Anbau von Biomasse, die für die Produktion von B-Fuels benötigt wird, an 
 anderer Stelle kompensiert (z. B. indem Wälder in landwirtschaftliche Produktionsflächen umgewandelt werden) (Van Stappen et al. 
-2011). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+2011).
 Abbildung 2.3 Verbrauch von B-Fuels in unterschiedlichen Sektoren 2023 
- 
 Quelle: nach DNV (2025a, S. 9) basierend auf IEA 
 Aufgrund dieser Problematik soll durch die bestehenden Regulierungen – etwa die Richtlinie (EU) 2023/241319 
 (Erneuerbare-Energien-Richtlinie) – vermehrt die Nutzung von Biomasse aus Abfall- und Reststoffen gefördert 
@@ -1265,7 +1170,6 @@ fossilen Kraftstoffen wettbewerbsfähig zu sein, sollten erneuerbare Kraftstoffe
 Voraussetzungen erfüllen (Gray et al. 2021). So sollten die erstens Kraftstoffe über den gesamten Lebenszyklus hinweg 
 möglichst geringe THG-Emissionen verursachen. Für die Bewertung der Klimawirkung sind dabei einerseits die 
 Herstellungspfade der Kraftstoffe und andererseits die Energieumwandlung an Bord relevant. Daher werden in 
- 
 19 Richtlinie (EU) 2023/2413 vom 18. Oktober 2023 zur Änderung der Richtlinie (EU) 2018/2001, der Verordnung (EU) 2018/1999 und 
 der Richtlinie 98/70/EG im Hinblick auf die Förderung von Energie aus erneuerbaren Quellen und zur Aufhebung der Richtlinie (EU) 
 2015/652 des Rates 
@@ -1273,10 +1177,7 @@ der Richtlinie 98/70/EG im Hinblick auf die Förderung von Energie aus erneuerba
 machen, wird dafür aber sowohl von der Schifffahrtsbranche als auch Umweltschutz- und Nichtregierungsorganisationen kritisiert 
 (Maier 2025; T&E 2025a). 
 21 Altöle (z. B. Altspeiseöle, tierische Abfälle oder Ausfluss von Palmölmühlen) gehören zu den wichtigsten Rohstoffen für die Herstellung 
-von Biodieseln zweiter Generation. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+von Biodieseln zweiter Generation.
 Bewertungen üblicherweise Emissionen berücksichtigt, die in der Prozesskette von der Energieerzeugung über 
 die Kraftstoffherstellung bis hin zur Bebunkerung der Schiffe anfallen (Well to Tank), sowie Emissionen, die bei 
 der Energieumwandlung an Bord (Tank to Wake) entstehen. Bei fossilen Kraftstoffen ist der Großteil der
@@ -1315,23 +1216,20 @@ sich aus Produktions- und Transportkosten zusammensetzen, und werden zum bessere
  
 22 In Kapitel 2 wird dabei speziell auf die Voraussetzungen für die einzelnen Kraftstoffe eingegangen. Detailliertere und vertiefende
 technische Hintergrundinformationen zu diesen Nutzungsvoraussetzungen finden sich in Kapitel 3. Kapitel 2 enthält zur einfacheren
-Navigation Verweise auf die entsprechenden Teilkapitel in Kapitel 3. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Navigation Verweise auf die entsprechenden Teilkapitel in Kapitel 3.
 den Kraftstoffen in Euro/MWh angegeben. Die Kosten können mit den Marktpreisen für fossile
 Schiffskraftstoffe verglichen werden, um eine grobe Einschätzung der Wettbewerbsfähigkeit erneuerbarer Kraftstoffe 
 treffen zu können (Hohmeyer et al. 2023, S. 135).23 
-– Die Kraftstoffe werden in Bezug auf ihre Emissionen von Treibhausgasen und Luftschadstoffen bewertet. 
-Relevante Treibhausgase sind neben Kohlendioxid (CO2) insbesondere Methan (CH4) und Lachgas (N2O) 
-(Hohmeyer et al. 2023, S. 115 ff.). Die Berücksichtigung von Methan und Lachgas ist deshalb relevant, da 
+– Die Kraftstoffe werden in Bezug auf ihre Emissionen von Treibhausgasen und Luftschadstoffen bewertet.
+Relevante Treibhausgase sind neben Kohlendioxid (CO2) insbesondere Methan (CH4) und Lachgas (N2O)
+(Hohmeyer et al. 2023, S. 115 ff.). Die Berücksichtigung von Methan und Lachgas ist deshalb relevant, da
 beide Gase sehr hohes Treibhauspotenzial aufweisen (IPCC 2021, S. 1017). Detaillierte
-Rahmenbedingungen der THG-Emissionsabschätzungen sind in Kasten 2.5 beschrieben. Relevante Luftschadstoffe, die bei 
-der Verbrennung von Schiffskraftstoffen entstehen, sind insbesondere Schwefeloxide (SOx), Stickoxide 
-(NOx) und Feinstaub (Particulate Matter – PM) (Hohmeyer et al. 2023, S. 116 ff.; Ramboll 2022, S. 39 f.).24 
+Rahmenbedingungen der THG-Emissionsabschätzungen sind in Kasten 2.5 beschrieben. Relevante Luftschadstoffe, die bei
+der Verbrennung von Schiffskraftstoffen entstehen, sind insbesondere Schwefeloxide (SOx), Stickoxide
+(NOx) und Feinstaub (Particulate Matter – PM) (Hohmeyer et al. 2023, S. 116 ff.; Ramboll 2022, S. 39 f.).24
 – Für jeden Kraftstoff werden zudem sicherheitsrelevante Aspekte dargestellt, die durch die stofflichen
-Eigenschaften der Kraftstoffe bestimmt sind. Hier werden mögliche Gefahren von unbeabsichtigten Ereignissen 
-(z. B. Kraftstoffaustritt bei Unfällen) für Menschen und für die Umwelt beschrieben. 
+Eigenschaften der Kraftstoffe bestimmt sind. Hier werden mögliche Gefahren von unbeabsichtigten Ereignissen
+(z. B. Kraftstoffaustritt bei Unfällen) für Menschen und für die Umwelt beschrieben.
 Kasten 2.5 Methodik der THG-Emissionsabschätzung 
 Lebenszyklusperspektive: Bei der Bewertung der Klimawirkung von Kraftstoffen werden Emissionen über den 
 ganzen Lebenszyklus (Well to Wake) berücksichtigt. 
@@ -1361,7 +1259,6 @@ nachdem können die Ergebnisse verschiedener Studien unterschiedlich ausfallen (
 Aussagen und absolute Zahlen, wie viel Gramm CO2-Äq bei erneuerbaren Kraftstoffen in Zukunft zu erwarten 
 sind, sind daher nicht möglich. Es werden daher Spannen angegeben, innerhalb derer die Emissionen
 erneuerbarer Kraftstoffe je nach Rahmenbedingungen liegen werden. 
- 
 23 Zu beachten ist allerdings, dass die Kraftstoffkosten nur ein Faktor in der Preisgestaltung von Kraftstoffen sind; die zukünftigen
 Marktpreise erneuerbarer Kraftstoffe könnten also über den Kosten liegen. 
 24 In der Umwelt führen Schwefeloxide zur Versauerung und Stickoxide zur Nährstoffanreicherung, was beides negative Auswirkungen 
@@ -1369,10 +1266,7 @@ auf die maritime Biodiversität hat. Schiffsabgase verschlechtern darüber hinau
 Hafenstädten und insbesondere Feinstaubemissionen verursachen gesundheitliche Schäden wie Atemwegs- oder Krebserkrankungen (UBA 
 2022b). 
 25 Die Charakterisierungsfaktoren für Methan und Lachgas betragen 30 bzw. 273. Das bedeutet, Methan hat ein Treibhauspotenzial das 
-30-mal höher liegt als das von Kohlendioxid, das Treibhauspotenzial von Lachgas ist 273-mal höher (IPCC 2021, S. 1017). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+30-mal höher liegt als das von Kohlendioxid, das Treibhauspotenzial von Lachgas ist 273-mal höher (IPCC 2021, S. 1017).
 2.2.1 Wasserstoff 
 2.2.1.1 Stoffliche Eigenschaften und Nutzung als Schiffskraftstoff 
 Wasserstoff (H2) ist ein farbloses, geruchloses und hochentzündliches Gas, das für die Nutzung als
@@ -1426,10 +1320,7 @@ Wasserstoff abgespalten werden (Kapitel 3.3.3).
 27 https://www.meyerwerft.de/de/schiffe/silver_nova.jsp (17.4.2025) 
 28 Ein Beispiel dafür ist der erste Wasserstofftanker „Suiso Frontier“, der zum Transport von flüssigem Wasserstoff von Hastings
 (Australien) nach Kobe (Japan) im Rahmen der Partnerschaft zum Aufbau einer Wasserstoff-Lieferkette zwischen Australien und Japan
-gebaut wurde (HySTRA o. J.). Bei -253 °C können 1.250 m3 Wasserstoff transportiert werden (HESC o. J.). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+gebaut wurde (HySTRA o. J.). Bei -253 °C können 1.250 m3 Wasserstoff transportiert werden (HESC o. J.).
 2.2.1.2 Herstellung, Verfügbarkeit und Wirtschaftlichkeit 
 Die etablierteste Technologie zur Herstellung von grünem Wasserstoff ist die Elektrolyse, bei der Wasser durch 
 den Einsatz von (erneuerbarem) Strom in Wasserstoff und Sauerstoff umgewandelt wird. Da Wasserstoff eine so 
@@ -1462,8 +1353,8 @@ Vergleich der erneuerbaren Kraftstoffe untereinander keinen wesentlichen Untersc
 An Bord von Schiffen (Tank to Wake) entsteht bei der Umwandlung von Wasserstoff in Brennstoffzellen lediglich 
 Wasser als Reaktionsprodukt (Balcombe et al. 2019; DNV GL 2019). In Verbrennungsmotoren entstehen darüber 
 hinaus geringe THG-Emissionen, wenn in Dual-Fuel-Motoren Zündkraftstoff eingesetzt wird (Ramboll 2022, 
-S. 68). In der Regel handelt es sich dabei um eine kleine Menge flüssigen Dieselkraftstoffs, die zur Zündung 
-benötigt wird (EMSA 2023b). 
+S. 68). In der Regel handelt es sich dabei um eine kleine Menge flüssigen Dieselkraftstoffs, die zur Zündung
+benötigt wird (EMSA 2023b).
 Neben den THG-Emissionen können durch den Einsatz von Wasserstoff auch die Luftschadstoffemissionen fast 
 vollständig reduziert werden. Bei der Umwandlung in Brennstoffzellen entstehen keine Schwefeloxid-,
 Stickoxidoder Feinstaubemissionen (DNV GL 2019). In Verbrennungsmotoren entstehen durch die hohen Temperaturen 
@@ -1478,12 +1369,8 @@ Konzentration in der Luft entzündlich und brennt mit hoher Geschwindigkeit sowi
 sich Wasserstoff an der freien Luft schnell verflüchtigt, besteht bei Austritt in (teil)geschlossenen Räumen das 
 Risiko von Explosionen (EMSA 2023b). Außerdem besteht (beim Umgang mit flüssigem Wasserstoff) durch die 
 tiefkalten Temperaturen die Gefahr von Kälteverbrennungen (Alekseev et al. 2023; Hohmeyer et al. 2023, S. 61). 
- 
 29 Für Strom aus Onshorewindkraft in Deutschland gibt das Umweltbundesamt beispielsweise einen Emissionsfaktor von 17,72 g CO2-
-Äq./kWh an (Lauf et al. 2023). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Äq./kWh an (Lauf et al. 2023).
 Lecks sowie Zündquellen müssen daher vermieden werden, was mit hohen Anforderungen an die verwendeten 
 Materialien verbunden ist, da durch den hohen Druck und die tiefkalten Temperaturen, die für die Lagerung und 
 den Transport in Tanks notwendig sind, Materialversprödung und dadurch Risse oder Brüche begünstigt werden 
@@ -1535,10 +1422,7 @@ Eigenschaften gelten für pure Kraftstoffe.
 33 Bei FT-Diesel müssen gegebenenfalls Zusatzstoffe beigemischt werden, welche die Schmiereigenschaften verbessern (Hohmeyer et al. 
 2023, S. 58). 
 34 ISO 8217:2024; bis 2024 waren 7 % FAME zugelassen. 
-35 Aus diesem Grund ist B24 ein sehr verbreiteter Kraftstoff (DNV 2025a, S. 9). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+35 Aus diesem Grund ist B24 ein sehr verbreiteter Kraftstoff (DNV 2025a, S. 9).
 Auch an die Lagerung stellen die Eigenschaften von FAME besondere Anforderungen (dazu und zum Folgenden 
 Hohmeyer et al. 2023, S. 59 ff.). FAME neigt zu Oxidation, Alterung und aufgrund seiner hygroskopischen
 Eigenschaften und des hohen möglichen Wasseranteils zu mikrobiologischen Verunreinigungen, die Verstopfungen 
@@ -1549,7 +1433,7 @@ Bedingungen auch mehr als 6 Monate betragen, jedoch treten Alterungserscheinunge
 auf (DNV 2025a, S. 22). Außerdem wirkt FAME als Lösungsmittel für fossile Kraftstoffe und kann daher zuvor 
 gebildete Ablagerungen im Kraftstoffsystem lösen, die wiederum Filter und andere Komponenten verstopfen 
 können. Tanks müssen daher gereinigt und getrocknet werden, bevor FAME gebunkert werden kann (DNV 2025a, 
-S. 22). 
+S. 22).
 2.2.2.2 Herstellung, Verfügbarkeit und Wirtschaftlichkeit 
 FT-Diesel wird mit der Fischer-Tropsch-Synthese aus Synthesegas, einem kohlen- und wasserstoffhaltigen
 Gasgemisch, hergestellt. Wie bei Methan kann das Synthesegas dabei sowohl strombasiert (aus mit erneuerbarem 
@@ -1577,7 +1461,7 @@ Kraftstoffkosten aus.37 Demgegenüber stehen allerdings insbesondere im Vergleic
 Methan und E-Ammoniak) niedrige Transportkosten, da keine Konvertierung für den Transport über längere
 Distanzen notwendig ist, bestehende Tankschiffe genutzt werden können und durch die hohe Energiedichte von E-Diesel 
 auch weniger Tankvolumen als bei Flüssiggasen erforderlich ist (Hohmeyer et al. 2023, S. 114). Die Kosten für 
-B-FT-Diesel werden auf etwa 60 bis 150 Euro/MWh geschätzt (EMSA 2023d, S. 144). 
+B-FT-Diesel werden auf etwa 60 bis 150 Euro/MWh geschätzt (EMSA 2023d, S. 144).
 HVO wird aus Biomasse durch die katalytische Reaktion mit Wasserstoff (Hydrierung) gewonnen und FAME 
 wird durch Umesterung von Fetten und Ölen mit Methanol hergestellt (Kapitel 2.1.2.1). FAME und HVO machen 
 den überwiegenden Anteil der am Markt verfügbaren Biodiesel aus und werden meist als Beimischungen zu
@@ -1585,15 +1469,11 @@ fossilen Kraftstoffen eingesetzt (DNV 2025a, S. 9; EMSA 2023d, S. 20). In Rotter
 größten Bunkerstandorten, wurden 2023 etwa 1,3 Mio. t B-Fuels gebunkert, was etwa 50 % der weltweiten
 Bunkermenge an B-Fuels entspricht38 (DNV 2025a, S. 9). Die Marktpreise für die beiden meistgelieferten Kraftstoffe 
 mit einem B-Fuel-Anteil von 24 bzw. 30 % (B24 und B30) schwankten von 2023 bis 2025 zwischen ca. 55 und 
- 
 36 https://www.shell.com/what-we-do/oil-and-natural-gas/gas-to-liquids.html (17.4.2025) 
 37 Hohmeyer et al. (2023, S. 133) gehen bei den Kostenberechnungen von 40 Euro/MWh für erneuerbare Energie aus, Lindstad et al. (2021) 
 berechnen Szenarien für 20 und 60 US-Dollar/MWh. Zum Vergleich: 2023 lagen die durchschnittlichen globalen Kosten von Solarstrom 
 bei 44 US-Dollar/MWh, für Onshorewind bei 33 US-Dollar/MWh und für Offshorewind bei 75 US-Dollar/MWh (IRENA 2024). 
-38 Zum Vergleich: Der weltweite Kraftstoffverbrauch in der Schifffahrt lag 2023 bei 211 Mio. t (IMO 2024b). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+38 Zum Vergleich: Der weltweite Kraftstoffverbrauch in der Schifffahrt lag 2023 bei 211 Mio. t (IMO 2024b).
 70 Euro/MWh.39 Im gleichen Zeitraum lagen die Preise für 100%igen FAME-Kraftstoff am Standort Amsterdam-
 Rotterdam-Antwerpen (ARA) zwischen ca. 80 und 120 Euro/MWh40 (DNV 2025a, S. 10 f.). 100 %-iges HVO lag 
 im April 2024 bei ca. 130 Euro/MWh41 (Al-Khalisy 2024). Damit liegen auch diese Kraftstoffe deutlich über den 
@@ -1647,10 +1527,7 @@ nach Kohlenstoffgehalt und Verbrennungsmotor CO2-Emissionen in ähnlicher Höhe 
 43 Emissionen von erneuerbarer Stromerzeugung können je nach Ort und verwendeten Technologien unterschiedlich sein (dazu auch
 Kapitel 2.2.1.3). 
 44 B-Fuels werden oft als Beimischungen zu fossilen Kraftstoffen eingesetzt. Die Reduktionspotenziale sind für 100%ige B-Fuels
-angegeben, bei Beimischungen steigen die THG-Emissionen proportional zur Beimischungsrate (siehe dazu EMSA 2023d, S. 46). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+angegeben, bei Beimischungen steigen die THG-Emissionen proportional zur Beimischungsrate (siehe dazu EMSA 2023d, S. 46).
 bemissionen etwa um 75 % verringert werden. Stickoxidemissionen treten bei allen erneuerbaren
 Dieselkraftstoffen auf; sie können gleich hoch oder sogar höher als bei fossilen Dieselkraftstoffen liegen, wobei was neben dem 
 Kraftstoff maßgeblich vom Motor, Verbrennungsprozess und Motorlast abhängt. Stickoxid- und
@@ -1701,10 +1578,7 @@ also keine neuen Tanksysteme entwickelt und eingeführt werden und der Kraftstof
 45 Containerschiffe werden in Größenklassen je nach Ladekapazität eingeteilt, wobei diese in Einheiten von standardisierten 20-Fuß
 Containern (Twenty-Foot Equivalent Unit – TEU) angegeben wird. Die größten Schiffe haben Kapazitäten von über 17.000 TEU (Post-
 Panamax-Schiffe), die nächstkleinere Klasse der Neo-Panamax-Schiffe eine Kapazität von 8.000 bis 17.000 TEU. Kleinere Klassen 
-darunter bilden die Intermediate-Schiffe (3.000 bis 8.000 TEU) und Feederschiffe (unter 3.000 TEU) (Puckelwald 2023b). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+darunter bilden die Intermediate-Schiffe (3.000 bis 8.000 TEU) und Feederschiffe (unter 3.000 TEU) (Puckelwald 2023b).
 typen einsetzen (Hohmeyer et al. 2023, S. 93 f.) (Kapitel 3.2.2). Die existierende Bunkerinfrastruktur für
 konventionelle fossile Kraftstoffe kann zur Verwendung von Methanol mit relativ geringem Kosteneinsatz umgerüstet 
 werden (Brynolf et al. 2022; Svanberg et al. 2018). Methanol hat eine geringere Energiedichte als
@@ -1756,10 +1630,7 @@ DAC eingesetzt wird, sogar bei bis zu 400 Euro/MWh liegen.
 48 200 bis 400 US-Dollar/t; Umrechnungen auf Basis des Heizwerts von 5,5 MWh/t (Ramboll 2022, S. 31) und einem durchschnittlichen 
 Wechselkurs von 1,08 US-Dollar/Euro 2024 (EZB 2025). 
 49 Preise für konventionelle Kraftstoffe lagen zwischen Anfang 2023 und März 2025 bei 44 bis 56 Euro/MWh für VLSFO bzw. 57 bis 
-83 Euro/MWh für MGO. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+83 Euro/MWh für MGO.
 2.2.3.3 Emissionen 
 Durch die Verwendung von Methanol können über den ganzen Lebenszyklus hinweg die THG-Emissionen im 
 Vergleich zu fossilen Kraftstoffen signifikant reduziert werden. Bei E-Methanol liegt die erwartete Einsparung 
@@ -1806,15 +1677,11 @@ Methan (CH4) ist ein farbloses, geruchloses und brennbares Gas, das bei Temperat
 flüssig wird (Brynolf et al. 2022).50, 51 Nach erneuerbaren Dieselkraftstoffen haben verflüssigtes E- und B-Methan 
 die höchste Energiedichte der erneuerbaren Kraftstoffe.52 Erdgasbasiertes verflüssigtes Methan (LNG) kommt in 
 der Schifffahrt als Kraftstoff bereits zum Einsatz und ist nach konventionellen Schweröl- und Destillatkraftstoffen 
- 
 50 https://www.lr.org/en/knowledge/research/zcfm/methane/ (17.4.2025) 
 51 Alternative Bezeichnungen sind Liquified Synthetic Methane Gas (LSMG) für E-Methan oder Liquified Synthetic Biogas (LBG) für B-
 Methan (Hohmeyer et al. 2023, S. 62). 
 52 Im Vergleich zu erneuerbarem Diesel ist etwa das 1,5-fache Tankvolumen nötig, um dieselbe Menge an Energie zu speichern (Zerta et 
-al. 2019). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+al. 2019).
 der meistverwendete Kraftstoff. Im Auftragsbuch, aus dem ablesbar ist, welche Schiffe in den kommenden Jahren 
 in Betrieb genommen werden, ist der Anteil von LNG-Schiffen noch deutlich höher als in der derzeitigen
 Bestandsflotte, wodurch ein starkes Wachstum von LNG als Schiffskraftstoff zu erwarten ist (Kapitel 2.3). LNG ist 
@@ -1866,21 +1733,18 @@ fossilen Kraftstoffen zwischen 60 und 98 % der THG-Emissionen (Kanchiralla et al
 53 https://futurefuels.imo.org/home/future-insight/alternative-fuels/scalability-and-sustainability/lng/ (17.4.2025) 
 54 Zum Vergleich: Die Preise für (fossiles) LNG lagen im März 2025 bei etwa 800 bis 900 US-Dollar/t, was 50 Euro/MWh entspricht 
 (https://titan-cleanfuels.com/lng-pricing/; 23.4.2025). Umrechnung auf Basis des Heizwerts von 15,3 MWh/t sowie einem
-durchschnittlichen Wechselkurs von 1,08 US-Dollar/Euro 2024 (EZB 2025). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+durchschnittlichen Wechselkurs von 1,08 US-Dollar/Euro 2024 (EZB 2025).
 Wird Methan aus Biomasse eingesetzt, können ungefähr 40 bis 70 % der THG-Emissionen fossiler Kraftstoffe 
 eingespart werden (Gilbert et al. 2018; Kanchiralla et al. 2024; Tomos et al. 2024). 
 Für die Klimawirkung ist bei E- und B-Methan die Unterscheidung zwischen CO2- und Methanemissionen
 relevant. Die CO2-Emissionen hängen Well to Tank, wie bei allen anderen erneuerbaren Kraftstoffen, von der
 Herstellung des Synthesegases bzw. der Art der Stromerzeugung sowie der verwendeten Biomasse ab. Werden bei 
 E-Methan die THG-Emissionen der Stromerzeugung einbezogen, ist das Reduktionspotenzial niedriger
-(Kanchiralla et al. 2024). Bei Biomasse ist das Reduktionspotenzial höher, wenn die CO2-Emissionen aus der Produktion 
+(Kanchiralla et al. 2024). Bei Biomasse ist das Reduktionspotenzial höher, wenn die CO2-Emissionen aus der Produktion
 der Biomasse und Verbrennung als netto  null angenommen werden (Gilbert et al. 2018). Ein geringeres
 Reduktionspotenzial entsteht, wenn CO2-Emissionen während des Wachstums der Biomasse – beispielsweise aus
 Anbaupraktiken oder durch Landnutzungsänderungen – miteinbezogen werden (Tomos et al. 2024). CO2-
-Emissionen entstehen außerdem bei der Energieumwandlung an Bord (Tank to Wake) (Hohmeyer et al. 2023, S. 62). 
+Emissionen entstehen außerdem bei der Energieumwandlung an Bord (Tank to Wake) (Hohmeyer et al. 2023, S. 62).
 Der Großteil der Treibhauswirkung von E- und B-Methan entsteht allerdings durch Methanemissionen und zwar 
 insbesondere durch das unbeabsichtigte Austreten von Methangas während der Herstellung, des Transports und 
 bei der Verbrennung an Bord (Methanschlupf) (Brynolf et al. 2022; Gilbert et al. 2018).55 Methanschlupf ist 
@@ -1916,14 +1780,10 @@ für die Energieumwandlung an Bord, sind noch in der Entwicklungs- und Testphase
 Tomos et al. 2024; Wang et al. 2024). Motorenhersteller arbeiten nach eigenen Angaben intensiv an
 Verbrennungsmotoren für Ammoniak (Tan 2024; Wärtsilä 2024). So rechnet beispielsweise MAN Energy Solutions
 damit, ab 2027 kommerziell mit dem Verkauf solcher Motoren starten zu können (Tan 2024). Für die Umwandlung 
- 
 55 Zu Methanschlupf kommt es vor allem durch die unvollständige Verbrennung in Motoren. Methanschlupf tritt verstärkt bei geringeren 
 Geschwindigkeiten und in Niederdruckmotoren auf (Brynolf et al. 2022). 
 56 https://www.man-es.com/campaigns/download-Q1-2025/Download/managing-methane-slip/d34a34a1-cc03-4d99-a4e1-
-30385cf12518/Managing-Methan-Slip (17.4.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+30385cf12518/Managing-Methan-Slip (17.4.2025)
 von Ammoniak in Brennstoffzellen werden Cracker benötigt, die unter Einwirkung von Hitze Ammoniak in
 Wasserstoff und Stickstoff aufspalten; der Wasserstoff wird danach der Brennstoffzelle zugeführt (Kapitel 3.3.3). 
 Auch diese Cracker befinden sich in der Entwicklungs- und Testphase (Hohmeyer et al. 2023, S. 93) 
@@ -1976,10 +1836,7 @@ Aus wirtschaftlicher Perspektive wird E-Ammoniak von vielen Quellen mit voraussi
 als das kostengünstigste E-Fuel eingestuft (DNV 2024a, S. 65; Hohmeyer et al. 2023, S. 108; Lindstad et al. 2021). 
  
 57 In Europa findet der Großteil des Ammoniaktransports per Bahn statt und in den USA besteht dafür ein eigenes Pipelinesystem (UBA 
-2022a). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+2022a).
 Gründe dafür sind die relativ einfache Gewinnung von Stickstoff (im Gegensatz zur Gewinnung von
 Kohlendioxid für E-Methanol und E-Methan) und die in der Chemieindustrie etablierten Produktionsverfahren von
 Ammoniak (Hohmeyer et al. 2023, S. 108; Mærsk Mc-Kinney Møller Center 2021, S. 27). Wie bei anderen E-Fuels 
@@ -2017,8 +1874,8 @@ Menschen wirkt Ammoniak ätzend auf die Schleimhäute, und kann bereits in gerin
 bis 50 ppm gesundheitsschädlich sein. Beispielshafte Symptome sind Irritationen an den Augen, Atemnot und 
 Brustschmerzen sowie bei Kontakt Verbrennungen der Haut. Höhere Konzentrationen (ab 300 ppm) oder direkter 
 Kontakt kann tödlich sein, wobei Lungenödeme die häufigste Todesursache sind (EMSA 2023a, S. 15, 2024c, 
-S. 30). Ammoniak ist auch für die Meeresumwelt giftig; in Gewässern kann Ammoniak tödlich für Organismen 
-sein (UBA 2022a). 
+S. 30). Ammoniak ist auch für die Meeresumwelt giftig; in Gewässern kann Ammoniak tödlich für Organismen
+sein (UBA 2022a).
 Die Verwendung von Ammoniak in der Schifffahrt unterliegt daher hohen Sicherheitsanforderungen. Während 
 diese für den Transport bereits lange etabliert sind, sind die Anforderungen für die Verwendung als Kraftstoff 
 noch in Entwicklung, beispielsweise durch die IMO und die Klassifikationsgesellschaften58 (EMSA 2024c, S. 55 
@@ -2027,13 +1884,9 @@ austreten kann. Daher werden beispielsweise ein auf Grund Laufen des Schiffs, ei
 Bunkerprozess als nicht tolerierbare Risiken eingestuft (Together in Safety 2022). Die Korrosivität von
 Ammoniak stellt außerdem spezielle Anforderungen an die in den Tank- und Kraftstoffsystemen verwendeten
 Materialien (Kapitel 3.2.3). 
- 
 58 Die Verwendung als Kraftstoff erfordert spezielle Regularien, beispielsweise für die Verortung von Anlagen im Schiff,
 Kraftstoffzufuhrsysteme, Kraftstofftanks, aber auch Bunkervorgänge oder Belüftungssysteme. Eine detaillierte Analyse der Sicherheitsrisiken sowie 
-der bestehenden und fehlenden Regularien findet sich in EMSA (2024c, S. 55 ff.). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+der bestehenden und fehlenden Regularien findet sich in EMSA (2024c, S. 55 ff.).
 2.2.6 Direkte Nutzung elektrischer Energie 
 Die Elektrifizierung der Schifffahrt stellt eine weitere Alternative zum konventionellen, fossilen Antrieb dar. Im 
 Gegensatz zu flüssigen oder gasförmigen Kraftstoffen wird hier kein physischer Brennstoff eingesetzt, sondern 
@@ -2085,10 +1938,7 @@ typischerweise nach 12 bis 15 Jahren das Ende ihrer Nutzungszeit erreichen. Posi
 Schiffsantrieb erforderlichen Elektromotoren eine leichtere Steuerung und Optimierung des Antriebs ermöglichen 
 als Verbrennungsmotoren, was den Antrieb effizienter und sicherer macht (Bei et al. 2024, S. 5; DNV GL 2019). 
  
-59 Zum Vergleich: In aktuellen Elektroautos ist eine Batteriekapazität von ca. 60 kWh verbaut. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+59 Zum Vergleich: In aktuellen Elektroautos ist eine Batteriekapazität von ca. 60 kWh verbaut.
 Eine interessante Option zur Ergänzung des reinen Elektroantriebs ist die Hybridisierung des Antriebs. Dabei 
 wird ein Verbrennungsmotor mit einem Elektromotor sowie Batteriespeichern kombiniert. Eine Hybridisierung 
 ermöglicht es, verschiedene Energieträger effizient zu kombinieren und damit die Gesamtemissionen im
@@ -2099,7 +1949,7 @@ Die Elektrifizierung der Schifffahrt erfordert neben batteriebetriebenen Schiffe
 erneuerbaren Quellen auch den Ausbau der Infrastruktur. In den Häfen wird eine Schnellladeinfrastruktur mit 
 einem entsprechend leistungsfähigen Netzanschluss benötigt, was unter Umständen einen Netzausbau und eine 
 entsprechende Anpassung an den Verteilnetzen bedingt. 
-2.2.6.2 Verfügbarkeit und Wirtschaftlichkeit  
+2.2.6.2 Verfügbarkeit und Wirtschaftlichkeit 
 Der Ausbau erneuerbarer Stromquellen ist zwar weltweit in vollem Gange, reicht aber bei Weitem noch nicht aus, 
 um den aktuellen Strombedarf zu decken. Durch die Elektrifizierung des Transportsektors wird zudem zukünftig 
 ein erheblicher Anstieg des globalen Strombedarfs erwartet, was den Druck auf die Entwicklung und Integration 
@@ -2126,21 +1976,18 @@ machen können.
 Die Elektrifizierung von Schiffen stellt eine Möglichkeit dar, die THG-Emissionen der Schifffahrt maßgeblich zu 
 reduzieren, sofern die Batterien mit Strom aus erneuerbaren Quellen geladen werden (Hohmeyer et al. 2023, 
 S. 295). Über den ganzen Lebenszyklus können etwa 80 % der THG-Emissionen im Vergleich zu fossilen
-Schiffskraftstoffen gesenkt werden (Kanchiralla et al. 2022). Im Betrieb, also während der Umsetzung des Stroms in 
+Schiffskraftstoffen gesenkt werden (Kanchiralla et al. 2022). Im Betrieb, also während der Umsetzung des Stroms in
 Antriebsenergie (Tank to Wake), werden keine Emissionen verursacht. Vergleichsweise geringe Emissionen
-entstehen beim Bau der Wind- oder Solaranlagen und sind somit der Stromerzeugung (Well to Tank) zuzuordnen. 
+entstehen beim Bau der Wind- oder Solaranlagen und sind somit der Stromerzeugung (Well to Tank) zuzuordnen.
 Dabei handelt es sich hauptsächlich um das Treibhausgas Kohlendioxid, während nur sehr geringe Mengen
-Methan und Luftschadstoffe sowie kein Lachgas emittiert werden. Zudem verursacht die Produktion von Batterien 
-Emissionen, die wiederum durch den Einsatz erneuerbarer Energien in der Batterieproduktion deutlich gesenkt 
-werden könnten. 
+Methan und Luftschadstoffe sowie kein Lachgas emittiert werden. Zudem verursacht die Produktion von Batterien
+Emissionen, die wiederum durch den Einsatz erneuerbarer Energien in der Batterieproduktion deutlich gesenkt
+werden könnten.
 2.2.6.4 Sicherheit 
 Ein mögliches Risiko bei batteriebetriebenen Schiffen ist die Überhitzung der Batteriemodule, die bei fehlender 
 Kühlung zu einem Brand führen kann. Da Batteriebrände schwer löschbar sind und auf Schiffen unter Umständen 
 keine Möglichkeit besteht, räumlichen Abstand herzustellen, stellt dies eine besondere Herausforderung dar 
-(Hohmeyer et al. 2023, S. 294). Allerdings sind moderne Batteriesysteme mit einem Batteriemanagementsystem 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+(Hohmeyer et al. 2023, S. 294). Allerdings sind moderne Batteriesysteme mit einem Batteriemanagementsystem
 (BMS) und anderen Überwachungswerkzeugen ausgestattet, die eine unkontrollierte Überhitzung einer
 Batteriezelle verhindern sollen. Bei einem funktionsfähigen BMS ist das Risiko einer Überhitzung und damit eines
 Brandes sehr gering (Larsson/Mellander 2017; Savinykh/Zhang 2021). 
@@ -2176,12 +2023,8 @@ verschiedene gesetzliche Vorschriften gekoppelt.
 2023a). Dies umfasst einerseits die fossilen Flüssiggase LNG, Ethan sowie LPG und andererseits erneuerbare Kraftstoffe (Hohmeyer et 
 al. 2023, S. 38 ff.) 
 62 Boil-off-Gas entsteht bei der Lagerung von Flüssiggasen, wenn Teile des gekühlten Flüssiggases durch Erwärmung verdampft
-(Kapitel 3.2.3). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+(Kapitel 3.2.3).
 Abbildung 2.6 Kraftstoffe im weltweiten Auftragsbuch nach Bruttoraumzahl 2024 
- 
 Quelle: nach Clarksons Research (o. J.), Auswertung durch OECD (2025, S. 27) 
 Die Daten zur Bestandsflotte und zum Auftragsbuch geben einen ersten Eindruck, mit welchen Kraftstoffen 
 Schiffe derzeit und in naher Zukunft betrieben werden. Angesichts der langen Lebensdauer von Schiffen und des 
@@ -2215,10 +2058,7 @@ Verbrennung Lachgas freigesetzt, das ein sehr hohes Treibhauspotenzial hat. Aufg
 mit Ammoniakmotoren ist der Umfang der Lachgasemissionen allerdings aktuell noch unsicher. Zu beachten ist, 
 dass diese Emissionsminderungen nur entstehen, wenn die Herstellung der Kraftstoffe auf Basis von grünem 
 Wasserstoff (aus erneuerbaren Energien) erfolgt. Grüner Wasserstoff ist allerdings kurz- und mittelfristig noch 
-nicht in ausreichenden Mengen verfügbar. Die derzeitige Herstellung der Produkte, die als alternative Kraftstoffe 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+nicht in ausreichenden Mengen verfügbar. Die derzeitige Herstellung der Produkte, die als alternative Kraftstoffe
 verwendet werden könnten – z. B. Wasserstoff, Methanol oder Ammoniak – beruht fast ausschließlich auf fossilen 
 Rohstoffen, mehrheitlich auf der Basis von grauem Wasserstoff. 
 Auch mit B-Fuels können THG-Emissionen gesenkt werden (Abbildung 2.7). Das größte Reduktionspotenzial 
@@ -2252,10 +2092,7 @@ giftig, aber leicht entzündlich, und es besteht das Risiko von Explosionen bei 
 Räumen. Lecks und Zündquellen müssen daher verhindert werden. Gleichzeitig begünstigen die tiefkalten
 Temperaturen und der hohe Druck in Flüssiggastanks Risse oder Brüche, wodurch hohe Anforderungen an die zu
 verwendenden Materialien gestellt werden. Ammoniak wird aus der Sicherheitsperspektive am gefährlichsten
-eingeschätzt, da es sowohl für Menschen als auch die Meeresumwelt giftig sowie korrosiv gegenüber vielen Materialien 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+eingeschätzt, da es sowohl für Menschen als auch die Meeresumwelt giftig sowie korrosiv gegenüber vielen Materialien
 ist, wodurch ein höheres Risiko für die Entstehung von Lecks besteht. Mit der Verwendung von Ammoniak als 
 Kraftstoff sind daher hohe Sicherheitsanforderungen verbunden und entsprechende Regularien vonnöten, die sich 
 noch in Entwicklung befinden. Gegenüber Wasserstoff und Methan hat Ammoniak allerdings den Vorteil, dass 
@@ -2264,8 +2101,7 @@ Tankmaterialien etwas geringer sind.
 Hinsichtlich der Wirtschaftlichkeit ist festzustellen, dass die Kosten erneuerbarer Kraftstoffe deutlich höher liegen 
 als die heutigen Marktpreise fossiler Kraftstoffe (Abbildung 2.8).63 
 Abbildung 2.8 Wirtschaftlichkeit erneuerbarer Kraftstoffe 
- 
-* Marktpreise 
+* Marktpreise
 Spannen der Marktpreise und Kosten von erneuerbaren Kraftstoffen im Vergleich zu fossilen Kraftstoffen auf Basis der Daten 
 in Kapitel 2.2. 
 Eigene Darstellung 
@@ -2285,10 +2121,7 @@ Internalisierung der Klimafolgekosten fossiler Kraftstoffe etwa mittels CO2-Bepr
 63 Die globalen durchschnittlichen Bunkerpreise schwankten von Anfang 2023 bis März 2024 zwischen 549 und 702 US-Dollar/t für 
 VLSFO sowie 728 und 1.064 US-Dollar/t für MGO (https://shipandbunker.com/prices/av/global/av-g20-global-20-ports-average; 
 23.4.2025). Bei einem Heizwert von 41,7 Megajoule/kg von VLSFO und 42,6 Megajoule/kg von MGO sowie einem Wechselkurs von 
-1,08 US-Dollar/Euro entspricht das 44 bis 56 Euro/MWh bzw. 57 bis 83 Euro/MWh. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+1,08 US-Dollar/Euro entspricht das 44 bis 56 Euro/MWh bzw. 57 bis 83 Euro/MWh.
 keit der erneuerbaren Kraftstoffe erheblich fördern. Um E-Fuels wettbewerbsfähig zu machen, sind nach
 Berechnungen von Hohmeyer et al. (2023, S. 137) Preise in Höhe von ca. 260 bis 370 Euro/t CO2 notwendig, die deutlich 
 über dem Preis im europäischen Emissionshandel liegen, der sich im März 2025 auf ca. 70 Euro/t CO2 belief.64 
@@ -2339,26 +2172,20 @@ produzierten Biodieseln ist begrenzt.
 – E- und B-Methanol zeigen großes Potenzial für den Einsatz in der Schifffahrt. Emissionen können signifikant 
 reduziert werden, und weil Methanol bei Umgebungstemperatur flüssig ist, müssen nur relativ geringe An-
  
-64 https://de.statista.com/statistik/daten/studie/1454492/umfrage/co2-preise-im-emissionshandelssystem-der-eu/ (17.4.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+64 https://de.statista.com/statistik/daten/studie/1454492/umfrage/co2-preise-im-emissionshandelssystem-der-eu/ (17.4.2025)
 passungen der Infrastruktur und Antriebssysteme vorgenommen werden. Auch aus einer
 Sicherheitsperspektive bietet Methanol Vorteile. Es ist zwar für Menschen giftig und leicht entzündlich, aber für die
 Meeresumwelt im Vergleich zu konventionellen Kraftstoffen weniger schädlich. Allerdings liegen die Kosten für
 Methanol höher als die etwa für flüssigen Wasserstoff oder E-Ammoniak. 
 – E- und B-Methan haben den Vorteil, dass sie als Drop-in-Fuel für LNG verwendet werden können.
-Allerdings kann die Treibhauswirkung aufgrund von Methanschlupf höher sein als bei anderen erneuerbaren 
-Kraftstoffen. Die Kosten liegen in einem ähnlichen Bereich wie Methanol. 
-– E-Ammoniak ist das günstigste aller E-Fuels und hat neben der direkten Verwendung als Kraftstoff auch ein 
-hohes Potenzial als Speicher- und Transportmedium für Wasserstoff. Bei der Verwendung als Kraftstoff 
-treten allerdings Lachgasemissionen auf, die ein sehr hohes Treibhauspotenzial aufweisen und über deren 
-Höhe noch Unsicherheiten bestehen. Daher fällt die Klimabilanz von Ammoniak schlechter bzw. unsicherer 
-als bei anderen erneuerbaren Kraftstoffen aus. Der Einsatz von Ammoniak erfordert zudem aufgrund seiner 
-hohen Toxizität strenge Sicherheitsvorkehrungen. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Allerdings kann die Treibhauswirkung aufgrund von Methanschlupf höher sein als bei anderen erneuerbaren
+Kraftstoffen. Die Kosten liegen in einem ähnlichen Bereich wie Methanol.
+– E-Ammoniak ist das günstigste aller E-Fuels und hat neben der direkten Verwendung als Kraftstoff auch ein
+hohes Potenzial als Speicher- und Transportmedium für Wasserstoff. Bei der Verwendung als Kraftstoff
+treten allerdings Lachgasemissionen auf, die ein sehr hohes Treibhauspotenzial aufweisen und über deren
+Höhe noch Unsicherheiten bestehen. Daher fällt die Klimabilanz von Ammoniak schlechter bzw. unsicherer
+als bei anderen erneuerbaren Kraftstoffen aus. Der Einsatz von Ammoniak erfordert zudem aufgrund seiner
+hohen Toxizität strenge Sicherheitsvorkehrungen.
 3 Technische Voraussetzungen für den Einsatz klimaverträglicher Antriebssysteme und 
 Kraftstoffe 
 Damit erneuerbare Kraftstoffe sowie gegebenenfalls auch andere klimaverträgliche Energiequellen effizient,
@@ -2408,10 +2235,7 @@ Vor dem Hintergrund des Aufbaus von LNG-Infrastruktur (insbesondere von Terminal
 Wilhelmshaven, Brunsbüttel, Stade, Mukran und Lubmin) in Deutschland seit dem Beginn des Angriffskriegs auf 
 die Ukraine im Februar 2022 stellt sich die Frage, inwieweit sich diese LNG-Infrastruktur für erneuerbare
 Kraftstoffe nutzen lässt. Für erneuerbares Methan ist dies aufgrund der prinzipiell mit (fossilem) LNG identischen 
-technischen Eigenschaften möglich (Ricardo/DNV 2023). Diskutiert wird jedoch, inwieweit sich LNG-Terminals 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+technischen Eigenschaften möglich (Ricardo/DNV 2023). Diskutiert wird jedoch, inwieweit sich LNG-Terminals
 auch für Wasserstoff oder Ammoniak umrüsten ließen (Riemer et al. 2022) und welche Maßnahmen für eine 
 erleichterte Umrüstung bereits heute getroffen werden könnten. Grundsätzlich erfordern die sehr
 unterschiedlichen technischen Eigenschaften von Wasserstoff und Ammoniak im Vergleich zu LNG/Methan eine Umrüstung 
@@ -2458,10 +2282,7 @@ Aufgrund ihrer unterschiedlichen technischen Eigenschaften benötigen die erneue
 Tanksysteme. Je nach Art des Kraftstoffs unterscheidet man zwischen Dieseltanks (für E-FT-Diesel und
 Biodiesel), Methanoltanks und Flüssiggastanks (für Wasserstoff, Methan und Ammoniak). Nachfolgend werden die 
 möglichen Tanksysteme näher beschrieben. Dabei wird auch auf die Kompatibilität einzelner Tanksysteme mit 
-unterschiedlichen Kraftstoffen eingegangen. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+unterschiedlichen Kraftstoffen eingegangen.
 3.2.1 Dieseltanks 
 Dieseltanks werden für die flüssigen Dieselkraftstoffe E-FT-Diesel und Biodiesel (HVO, FAME) verwendet,
 wobei die gleichen Anforderungen wie für konventionelle Diesel- oder Schweröltanks gelten (Hohmeyer et al. 2023, 
@@ -2511,10 +2332,7 @@ Siedetemperatur der Flüssiggase höher, wodurch bei der Verwendung von Drucktan
 Typ-A-Tanks haben eine prismatische Form und erfordern eine komplette zweite gas- und flüssigkeitsdichte Barriere, die den gesamten 
 Tankinhalt im Fall von Lecks aufnehmen kann. Typ-B-Tanks können eine prismatische Form oder Kugelform haben und erfordern eine 
 zweite Barriere, welche Teile des Tankinhalts bei Leckagen aufnehmen kann. Im Gegensatz zu Tanks vom Typ A ist daher eine
-detaillierte Analyse zur Verhinderung von Lecks erforderlich (Hohmeyer et al. 2023, S. 78). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+detaillierte Analyse zur Verhinderung von Lecks erforderlich (Hohmeyer et al. 2023, S. 78).
 raturen möglich sind. Membrantanks sind üblicherweise drucklos, bei manchen Membrantanksystemen ist
 allerdings ein höherer Tankdruck als 0,7 bar(g) zulässig.67 Der Einsatz von Drucktanks hängt auch damit zusammen, 
 dass in Tanks mit kalt verflüssigten Gasen Boil-off-Gas entsteht, wenn äußere Wärmeeinwirkung dazu führt, dass 
@@ -2522,25 +2340,25 @@ das gekühlte Flüssiggas verdampft. Während das Boil-off-Gas in Drucktanks dur
 kann, muss es bei drucklosen Tanks kontinuierlich an Bord rückverflüssigt, verbrannt oder in Energiekonvertern 
 für die Energieversorgung an Bord genutzt werden. Die dafür nötigen Anlagen erhöhen die Anschaffungs- und 
 Betriebskosten der Schiffe und eignen sich dadurch nur auf Tankern mit großen Ladetanks (Hohmeyer et al. 2023, 
-S. 78 f.). 
-Je nachdem, welches Flüssiggas getankt werden soll, sind unterschiedliche Ausführungen der Tanks erforderlich: 
-– Flüssiger Wasserstoff kann in drucklosen Tanks bei Mindesttemperaturen, die kälter als die Siedetemperatur 
+S. 78 f.).
+Je nachdem, welches Flüssiggas getankt werden soll, sind unterschiedliche Ausführungen der Tanks erforderlich:
+– Flüssiger Wasserstoff kann in drucklosen Tanks bei Mindesttemperaturen, die kälter als die Siedetemperatur
 von -252 °C sind, oder in Drucktanks bei 9 bar(g) und mindestens -242 °C gelagert bzw. transportiert
-werden. Unter anderem die niedrigen Siedetemperaturen von flüssigem Wasserstoff stellen hohe Anforderungen 
+werden. Unter anderem die niedrigen Siedetemperaturen von flüssigem Wasserstoff stellen hohe Anforderungen
 an das Tankmaterial. Daher werden fast ausschließlich Edelstähle, die sehr widerstandsfähig gegen
 Korrosion sind und auch bei sehr niedrigen Temperaturen nicht spröde werden (BorTec GmbH 2024), als
-Tankmaterial verwendet (Hohmeyer et al. 2023, S. 79). 
+Tankmaterial verwendet (Hohmeyer et al. 2023, S. 79).
 – Flüssiges Methan kann in drucklosen Tanks bei mindestens -162 °C – der Siedetemperatur bei
 Umgebungsdruck – gelagert bzw. transportiert werden. Kommen Drucktanks zum Einsatz, kann es bei 2 bar(g) in
-Membrantanks bei mindestens -146 °C oder bei 9 bar(g) in Typ-C-Tanks bei mindestens -124 °C gelagert werden 
-(Hohmeyer et al. 2023, S. 81). Da flüssiges Methan deutlich höhere Siedetemperaturen als Wasserstoff hat, 
-wird in der Regel 9 % Nickelstahl genutzt, der im Vergleich zu Edelstahl kostengünstiger ist (Hohmeyer et 
-al. 2023, S. 79). 
-– Ammoniak hat bei Umgebungsdruck mit -33 °C einen höheren Siedepunkt als Wasserstoff und Methan, 
-weshalb es in drucklosen Tanks bei mindestens -33 °C gelagert bzw. transportiert wird. In Drucktanks kann 
-Ammoniak flüssig bei -9 °C in Membrantanks mit 2 bar(g) Druck oder sogar bei etwa 45 °C in Typ-C-Tanks 
-mit bis zu 18 bar(g) Druck transportiert werden, wodurch die Anforderungen an die Temperaturbeständigkeit 
-des Tankmaterials geringer sind (Hohmeyer et al. 2023, S. 80). 
+Membrantanks bei mindestens -146 °C oder bei 9 bar(g) in Typ-C-Tanks bei mindestens -124 °C gelagert werden
+(Hohmeyer et al. 2023, S. 81). Da flüssiges Methan deutlich höhere Siedetemperaturen als Wasserstoff hat,
+wird in der Regel 9 % Nickelstahl genutzt, der im Vergleich zu Edelstahl kostengünstiger ist (Hohmeyer et
+al. 2023, S. 79).
+– Ammoniak hat bei Umgebungsdruck mit -33 °C einen höheren Siedepunkt als Wasserstoff und Methan,
+weshalb es in drucklosen Tanks bei mindestens -33 °C gelagert bzw. transportiert wird. In Drucktanks kann
+Ammoniak flüssig bei -9 °C in Membrantanks mit 2 bar(g) Druck oder sogar bei etwa 45 °C in Typ-C-Tanks
+mit bis zu 18 bar(g) Druck transportiert werden, wodurch die Anforderungen an die Temperaturbeständigkeit
+des Tankmaterials geringer sind (Hohmeyer et al. 2023, S. 80).
 Die Eigenschaften der Flüssiggase stellen unterschiedliche (Sicherheits-)Anforderungen an das Tankmaterial und 
 die Isolierung (dazu und zum Folgenden Hohmeyer et al. 2023, S. 80 ff.). Nicht alle Tanks sind mit allen
 Flüssiggasen kompatibel. Die Frage der Kompatibilität stellt sich insbesondere dann, wenn die Verwendung von LNG- 
@@ -2564,11 +2382,7 @@ bzw. Gas-und-Dampfturbinen, Kesseln bzw. Boilern und Brennstoffzellen (Hohmeyer 
 wandeln die chemische Energie der Kraftstoffe in mechanische Energie für den Antrieb, elektrische Energie für 
 Antrieb und/oder die Bordstromversorgung (z. B. Beleuchtung, Klima-, Abwasser-, Trinkwasseranlagen und 
 Hilfssysteme für die Energiekonverter) sowie Wärmeenergie für die Wärmeversorgung (z. B. Erzeugung von 
- 
-67 https://gtt.fr/approval-principle-aip-dnv-membrane-tanks-design-vapour-pressure-2-barg (17.4.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+67 https://gtt.fr/approval-principle-aip-dnv-membrane-tanks-design-vapour-pressure-2-barg (17.4.2025)
 Dampf-, Heiß- und Warmwasser) um. Bei den meisten Schiffstypen macht der Antrieb den Großteil des
 Energieverbrauchs aus. Auf Kreuzfahrtschiffen oder Kühlfrachtern ist der Energieverbrauch für Bordstrom- und Wärme-
 /Kälteversorgung allerdings ungefähr gleich hoch wie für den Antrieb (IMO 2021a). Nachfolgend werden die 
@@ -2618,10 +2432,7 @@ Energiekonverterleistung in der Schifffahrt aus. Durch die höhere Drehzahl habe
  
 68 Z. B. https://www.wartsila.com/encyclopedia/term/dual-fuel-engines-from-wartsila; https://manrollo.com/en/products/engines/marine-
 dual-fuel/ (26.6.2025) 
-69 https://www.man-es.com/discover/two-stroke-ammonia-engine (17.4.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+69 https://www.man-es.com/discover/two-stroke-ammonia-engine (17.4.2025)
 und ein dynamischeres Lastverhalten, allerdings einen höheren Kraftstoffverbrauch als Zweitaktmotoren 
 (Hohmeyer et al. 2023, S. 69). 
 Auch Viertaktmotoren sind als MF- und DF-Motoren verfügbar, wobei beide Ausführungen im Diesel- und
@@ -2638,7 +2449,7 @@ Lastverhalten aus, haben allerdings auch den höchsten Kraftstoffverbrauch.
 Schnelllaufende MF-Viertaktmotoren für den Einsatz mit flüssigen erneuerbaren Kraftstoffen gibt es im
 Dieselprozess mit Selbstzündung und im Ottoprozess mit Fremdzündung (Hohmeyer et al. 2023, S. 70). Schnelllaufende 
 DF-Viertaktmotoren für den Einsatz mit Kraftstoffen mit niedrigem Flammpunkt sind laut Hohmeyer et al. (2023, 
-S. 71) nur im Ottoprozess in der Entwicklung. 
+S. 71) nur im Ottoprozess in der Entwicklung.
 3.3.2 Gas(-und-Dampf-)turbinen 
 Gas(-und-Dampf-)turbinen werden für mechanische oder elektrische Antriebe eingesetzt. Gasturbinen werden 
 ausschließlich mit Gas betrieben, bei Gas-und-Dampfturbinen wird mit der Abwärme der Gasturbine zusätzlich 
@@ -2651,7 +2462,7 @@ spielen, beispielsweise auf verschiedenen Arten von Marineschiffen, Schnellfähr
 Turbinen sind sowohl in MF- als auch DF-Ausführungen verfügbar und können mit gasförmigen Kraftstoffen wie 
 Methan oder flüssigen Kraftstoffen wie Methanol und Biodiesel betrieben werden. Für den Betrieb mit Schweröl 
 sind sie ungeeignet, was einen weiteren Grund für den derzeit begrenzten Einsatz darstellt (Hohmeyer et al. 2023, 
-S. 71). 
+S. 71).
 3.3.3 Brennstoffzellen 
 Brennstoffzellen wandeln die chemische Energie von Wasserstoff durch Oxidation mit Sauerstoff direkt in
 elektrische Energie um (im Gegensatz zu Motoren und Turbinen, welche die chemische Energie des Kraftstoffs zuerst 
@@ -2669,10 +2480,7 @@ Mc-Kinney Møller Center (2024a) zur Einschätzung, dass – sogar abgesehen vom
 für den Antrieb in absehbarer Zeit nicht wettbewerbsfähig sein werden. Das wird insbesondere mit den hohen 
 Investitionskosten sowie den großen Anpassungen im Design der Motorräume und der Betriebsabläufe für Crews 
 begründet. Die Verwendung zur Bordstromerzeugung wird hingegen als vielversprechender angesehen, da hier 
-geringere Maximallasten nötig und damit die Kosten geringer sind. Bis 2024 wurden Brennstoffzellen auch schon 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+geringere Maximallasten nötig und damit die Kosten geringer sind. Bis 2024 wurden Brennstoffzellen auch schon
 auf Kreuzfahrtschiffen zur Stromversorgung des Hotelbetriebs eingesetzt (Bahtić 2024b).70 Bezüglich der
 weiteren Entwicklung bestehen aber auch Unsicherheiten. So meldete etwa Ende 2024 das norwegische Unternehmen 
 Teco 2030, das bislang in der Brennstoffzellenentwicklung für maritime Anwendungen als eines der führenden 
@@ -2724,18 +2532,15 @@ Sicherheitsmanagements, etwa im Hinblick auf mögliche Strahlungsfreisetzungen, 
 Brände, den Umgang mit radioaktiven Abfällen an Bord und in Häfen sowie auf Salzwasserkorrosion. Hinzu 
 kommen externe Sicherheitsbedrohungen wie Sabotage oder Terroranschläge (EMSA 2024b, S. 4 f.).  
  
-70 https://www.meyerwerft.de/de/schiffe/silver_nova.jsp (23.4.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+70 https://www.meyerwerft.de/de/schiffe/silver_nova.jsp (23.4.2025)
 – Wirtschaftlichkeit: Die Herstellungskosten für SMR-betriebene Schiffe sind derzeit ungewiss. Erste
 Konzeptstudien deuten auf deutlich höhere Kapitalkosten als für konventionelle Antriebe hin. Eine zentrale
 Unbekannte ist die Versicherbarkeit bzw. die Höhe der Versicherungsprämien: Derzeit existiert kein
-internationales Haftungsregime für zivile nukleare Schiffe. 
+internationales Haftungsregime für zivile nukleare Schiffe.
 – Akzeptanz und Hafeninfrastruktur: Handelsschiffe sind auf regelmäßige Hafenanläufe angewiesen. Bei
 Nuklearantrieben ergeben sich dabei nicht nur sicherheitsrelevante Fragestellungen, sondern auch
 gesellschaftliche Akzeptanzprobleme (Kölling 2023; LR 2024). Für die Versorgung und Entsorgung der Brennstoffe
-wären zudem umfangreiche Anpassungen der Hafeninfrastruktur erforderlich. 
+wären zudem umfangreiche Anpassungen der Hafeninfrastruktur erforderlich.
 Abgesehen von der prinzipiellen technischen Machbarkeit stellen die regulatorischen Lücken ein potenzielles 
 Anwendungshindernis dar. Der geltende IMO-Sicherheitscode (A.491(XII), 1981) ist veraltet und auf
 Druckwasserreaktoren begrenzt. Die Überarbeitung startet 2026 und wird mehrere Jahre dauern (SAFETY4SEA 2025a). 
@@ -2757,19 +2562,19 @@ abgeschieden und an Bord gespeichert werden, bevor es an Land abgegeben wird, um
 dauerhaft gespeichert zu werden. Für die CO2-Abscheidung aus Abgasen gibt es eine Reihe von Verfahren mit
 unterschiedlichen technologischen Reifegraden. Für die Anwendung auf Schiffen sind laut Hohmeyer et al. (2023, 
 S. 82) Pre-Combustion-Verfahren (Abscheidung vor der Verbrennung) und Post-Combustion-Verfahren
-(Abscheidung nach der Verbrennung) geeignet. 
+(Abscheidung nach der Verbrennung) geeignet.
 – Bei Pre-Combustion-Verfahren zur CO2-Abscheidung werden kohlenstoffhaltige Kraftstoffe vor der
-Verbrennung in Wasserstoff und Kohlendioxid aufgespalten. Das Kohlendioxid wird abgeführt und gespeichert 
-und der Wasserstoff den Energiekonvertern zugeführt (Hohmeyer et al. 2023, S. 82). Im Grunde entspricht 
-die Funktionsweise dieser Anlagen den Kraftstoffreformern, die eingesetzt werden, wenn kohlenstoffhaltige 
-Kraftstoffe für den Betrieb in Brennstoffzellen in Wasserstoff und Kohlendioxid aufgespalten werden. 
+Verbrennung in Wasserstoff und Kohlendioxid aufgespalten. Das Kohlendioxid wird abgeführt und gespeichert
+und der Wasserstoff den Energiekonvertern zugeführt (Hohmeyer et al. 2023, S. 82). Im Grunde entspricht
+die Funktionsweise dieser Anlagen den Kraftstoffreformern, die eingesetzt werden, wenn kohlenstoffhaltige
+Kraftstoffe für den Betrieb in Brennstoffzellen in Wasserstoff und Kohlendioxid aufgespalten werden.
 – Bei Post-Combustion-Verfahren wird das Kohlendioxid aus dem Abgas nach dem Verbrennungsprozess
-abgeschieden. Dafür gibt es unterschiedliche Verfahren. Die Aminwäsche ist das technisch bisher am weitesten 
-entwickelte und verbreitete Verfahren. Dabei wird Kohlendioxid im Abgas in einer wässrigen Lösung aus 
+abgeschieden. Dafür gibt es unterschiedliche Verfahren. Die Aminwäsche ist das technisch bisher am weitesten
+entwickelte und verbreitete Verfahren. Dabei wird Kohlendioxid im Abgas in einer wässrigen Lösung aus
 Aminoalkoholen chemisch absorbiert. Durch Erhitzung wird es anschließend von der Aminlösung
-abgetrennt und diese in einem geschlossenen Kreislauf wieder dem Prozess zugeführt (Hohmeyer et al. 2023, 
-S. 83). Je nach Größe der Anlage sind Abscheideraten von 90 bis 99 % möglich bei einer ebenfalls hohen 
-Reinheit des abgeschiedenen Kohlendioxids (bis zu 99 %). 
+abgetrennt und diese in einem geschlossenen Kreislauf wieder dem Prozess zugeführt (Hohmeyer et al. 2023,
+S. 83). Je nach Größe der Anlage sind Abscheideraten von 90 bis 99 % möglich bei einer ebenfalls hohen
+Reinheit des abgeschiedenen Kohlendioxids (bis zu 99 %).
 Nach der Abscheidung aus dem Abgas muss das Kohlendioxid an Bord gelagert werden. Nach Einschätzung von 
 Hohmeyer et al. (2023, S. 86) ist dabei nur eine Lagerung im flüssigen Zustand sinnvoll. Dazu muss Kohlendioxid 
 gekühlt und unter Druck bei mindestens 5 bis 6 bar(g) gespeichert werden. Aufgrund der Eigenschaften von
@@ -2777,11 +2582,8 @@ Kohlendioxid sind dafür nur Typ-C-Drucktanks geeignet. Eine Alternative besteht
 aus der Aminwäsche inklusive des darin gebundenen Kohlendioxids an Bord zu speichern und dieses erst nach 
 Abgabe an Land abzutrennen. Dies wird bereits bei einem am Markt verfügbaren OCCS-System des
 niederländischen Unternehmens Value Maritime praktiziert (Hand 2023). Bei der CO2-Speicherung ist zu berücksichtigen, 
-dass bei unterschiedlichen Kraftstoffen unterschiedliche Mengen an Kohlendioxid entstehen. Bei Methanol bei-
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-spielsweise entstehen pro m3 Kraftstoff 2,18 m3 CO2 in flüssigem Zustand (bei 7 bar(g) Druck) und pro t
+dass bei unterschiedlichen Kraftstoffen unterschiedliche Mengen an Kohlendioxid entstehen. Bei Methanol
+beispielsweise entstehen pro m3 Kraftstoff 2,18 m3 CO2 in flüssigem Zustand (bei 7 bar(g) Druck) und pro t
 Kraftstoff 1,38 t CO2. Daher ist es unter Umständen erforderlich, Kohlendioxid an Bord zu lagern, das sowohl deutlich 
 mehr Volumen als auch Masse als der eigentliche Kraftstoff hat. Dies erfordert entweder eine große Kapazität an 
 Speichertanks an Bord oder eine häufige Abgabe an Land und eine entsprechende Verfügbarkeit der Infrastruktur 
@@ -2818,10 +2620,7 @@ kleinem Umfang an, wenn Zündkraftstoffe zur Initiierung der Zündung bei Krafts
 Flammpunkt (z. B. Methanol) eingesetzt werden. Scrubber sind in der Schifffahrt derzeit insbesondere bei der
 Verwendung von Schweröl relevant und werden zur Reduktion der Schwefeloxidemissionen auf die erforderlichen
 Grenzwerte eingesetzt. Katalysatoren und Scrubber kommen auch in Kombination mit OCCS-Anlagen zum Einsatz, 
-um das Abgas vor Abscheidung des Kohlendioxids zu reinigen (Hohmeyer et al. 2023, S. 84). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+um das Abgas vor Abscheidung des Kohlendioxids zu reinigen (Hohmeyer et al. 2023, S. 84).
 4 Effizienzmaßnahmen in Schiffbau und Schiffsbetrieb 
 Angesichts der absehbaren Knappheit erneuerbarer Kraftstoffe wird es für die Dekarbonisierung der Schifffahrt 
 erforderlich sein, alle sich bietenden Möglichkeiten für einen energieeffizienteren Betrieb der Schiffe zu nutzen. 
@@ -2861,14 +2660,11 @@ Wandreibungswiderstand 30 % 45 % 25 %
 viskoser Druckwiderstand 30 % 5 % 5 % 
 Wellenwiderstand 40 % 50 % 70 % 
 Quelle: Hohmeyer et al. (2023, S. 174) 
-– Der Reibungswiderstand setzt sich aus zwei Komponenten zusammen, dem Wandreibungswiderstand und 
-dem viskosen Druckwiderstand. Der Wandreibungswiderstand ergibt sich durch die direkte Reibung der 
-Flüssigkeit an der Außenhaut des Schiffs und kann durch reibungsvermindernde Maßnahmen (z. B. spezielle 
-Beschichtungen) reduziert werden. Der viskose Druckwiderstand entsteht dann, wenn die Strömung dem 
-Schiffskörper nicht ideal folgt, wodurch es zu einem Druckabfall kommt. Dieser Widerstandsanteil hängt 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+– Der Reibungswiderstand setzt sich aus zwei Komponenten zusammen, dem Wandreibungswiderstand und
+dem viskosen Druckwiderstand. Der Wandreibungswiderstand ergibt sich durch die direkte Reibung der
+Flüssigkeit an der Außenhaut des Schiffs und kann durch reibungsvermindernde Maßnahmen (z. B. spezielle
+Beschichtungen) reduziert werden. Der viskose Druckwiderstand entsteht dann, wenn die Strömung dem
+Schiffskörper nicht ideal folgt, wodurch es zu einem Druckabfall kommt. Dieser Widerstandsanteil hängt
 stark von der Form des Schiffskörpers ab. Durch schlankere Schiffsdesigns, sodass die Strömung
 ablösungsfrei bis zum Propeller gelangen kann, lässt sich der viskose Druckwiderstand um bis zu 20 % reduzieren. 
 – Der Wellenwiderstand ist aufgrund der Physik der Wellenerzeugung umso geringer, je länger ein Schiff ist. 
@@ -2904,10 +2700,7 @@ Schubbedarf.
 Der Wirkungsgrad des Propellers hängt auch von der Homogenität des Strömungsfeldes ab, die wiederum stark 
 von der Form des Schiffskörpers beeinflusst wird (dazu und zum Folgenden Hohmeyer et al. 2023, S. 175 ff.). Je 
 inhomogener dieses Strömungsfeld ist, desto geringer ist der Wirkungsgrad des Propellers. Grundsätzlich gilt, 
-dass schlankere Schiffe über ein homogeneres Strömungsfeld verfügen, was sich entsprechend positiv auf die 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+dass schlankere Schiffe über ein homogeneres Strömungsfeld verfügen, was sich entsprechend positiv auf die
 Effizienz des Antriebs und den Energiebedarf auswirkt. Relevante Verbesserungen durch Maßnahmen am
 Propeller (Kapitel 4.2.3) lassen sich vor allem bei solchen Schiffen erreichen, die durch ihre Rumpfform nicht
 besonders energieeffizient sind (wie z. B. Massengutschiffe). 
@@ -2923,16 +2716,16 @@ al. 2023, S. 177 ff.). Da alle Aspekte miteinander zusammenhängen, muss dieser 
 mehrfach durchgeführt werden; man spricht auch von der Entwurfsspirale (Erichsen 1989, S. 50). Die folgenden 
 Teilschritte sind, geordnet nach zeitlichem Ablauf und Hierarchie beim üblichen Entwurfsprozesses, für die
 Reduktion des Energiebedarfes besonders relevant: 
-– Optimierung der Hauptabmessungen 
-– Optimierung des Gewichts 
-– Optimierung der Schiffsform 
-– Optimierung der Anhänge bei Zweischraubenschiffen (Wellenleitungen, Wellenbockarme, Rudder) 
-– Optimierung des Propellers und der Propulsion 
-– Optimierung des Ruders 
-– Integration und Optimierung von Zusatzmaßnahmen, falls nötig 
+– Optimierung der Hauptabmessungen
+– Optimierung des Gewichts
+– Optimierung der Schiffsform
+– Optimierung der Anhänge bei Zweischraubenschiffen (Wellenleitungen, Wellenbockarme, Rudder)
+– Optimierung des Propellers und der Propulsion
+– Optimierung des Ruders
+– Integration und Optimierung von Zusatzmaßnahmen, falls nötig
 – Optimierung des Zusammenwirkens von Hauptmaschine und Propulsion (einschließlich eventueller
-Zusatzmaßnahmen) 
-– Optimierung der Hilfsantriebe und des Energiebedarfs 
+Zusatzmaßnahmen)
+– Optimierung der Hilfsantriebe und des Energiebedarfs
 Die Anwendung moderner, IT-gestützter Entwurfsverfahren kann den Optimierungsprozess erheblich
 beschleunigen, indem die einzelnen Schritte nicht sequenziell, sondern parallel abgearbeitet werden (Papanikolaou 2019; 
 Papanikolaou et al. 2024). Aspekte wie die Stabilität oder die Sicherheit im Fall eines Lecks, die der
@@ -2955,10 +2748,7 @@ baulichen Eigenheiten des Schiffs und operativen Aspekten. Zum anderen ist die A
 Einzelmaßnahmen energetisch auswirken, methodisch äußerst schwierig und oft nur näherungsweise möglich, da
 vergleichende Tests unter realen Bedingungen meist nicht durchführbar sind (die Werte können z. B. je nach Seegang 
 stark variieren). Dennoch lassen sich aus den angegebenen Werten zumindest grobe Hinweise ableiten, welche 
-schiffbaulichen Maßnahmen in energetischer Hinsicht besonders vielversprechend sein können. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+schiffbaulichen Maßnahmen in energetischer Hinsicht besonders vielversprechend sein können.
 4.2.1 Optimierung des Rumpfes 
 Wie in Kapitel 4.1 bereits beschrieben, ist die Reduktion des Schiffwiderstandes einer der primären Ansatzpunkte, 
 um den Energiebedarf von Schiffen zu senken (dazu und zum Folgenden Hohmeyer et al. 2023, S. 154 u. 181 f.). 
@@ -3003,12 +2793,8 @@ für alle Schiffstypen angewendet werden (Neubau sowie teilweise auch Nachrüstu
 Energieeinsparpotenzial ist schiffstypabhängig und wird in IMO (2011, S. 52) mit 1 bis 5 % angegeben. 
  
 71 IMO (2024) geben ein Einsparpotenzial von 3 bis 5 % an; International Transport Forum (2018, S. 26) 3 bis 7 %; Pariotis et al. (2016) 4 
-bis 15 %. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+bis 15 %.
 Abbildung 4.2 Schiff mit Wulstbug 
- 
 Quelle: dendoktoor (https://pixabay.com/photos/ship-prow-bow-sea-bulbous-bow-6565276/; 5.8.2025) 
 4.2.2 Leichtbau 
 Beim Bau von Hochseeschiffen ist Stahl nach wie vor das gängige Material. Durch die Verwendung von
@@ -3029,18 +2815,15 @@ Mehrkosten verbunden, die nicht nur mit den höheren Kosten der leichteren Mater
 sondern laut Hohmeyer et al. (2023, S. 181) auch darauf zurückzuführen sind, dass für neue Konstruktionsprinzipien 
 oder neue Materialien umfängliche Zertifizierungen nötig sind und gleichzeitig das Risiko technischer
 Fehlschläge sowohl im Konstruktionsprozess als auch im Betrieb besonders hoch ist. Die IMO (2011, S. 50, 2021a, 
-S. 231) geht davon aus, dass Leichtbautechnologien bislang nur eine eher geringe Marktdurchdringung haben. 
-Das mögliche Energieeinsparpotenzial ist abhängig von der realistisch erreichbaren Gewichtsreduktion und wird 
-unterschiedlich bewertet, wobei die Schätzungen bis maximal 10 % reichen (IMO 2011, S. 50; ITF 2018, S. 26). 
+S. 231) geht davon aus, dass Leichtbautechnologien bislang nur eine eher geringe Marktdurchdringung haben.
+Das mögliche Energieeinsparpotenzial ist abhängig von der realistisch erreichbaren Gewichtsreduktion und wird
+unterschiedlich bewertet, wobei die Schätzungen bis maximal 10 % reichen (IMO 2011, S. 50; ITF 2018, S. 26).
 4.2.3 Optimierung von Propeller und Ruder 
 Verschiedene Maßnahmen tragen dazu bei, die Strömungseigenschaften am Propeller und/oder Ruder und damit 
 die Energieeffizienz des Antriebs zu verbessern. Gewisse Einsparpotenziale lassen sich beim Propeller durch 
 Optimierung der Propellerflügel erreichen (Anzahl und Größe der Flügel, Gestaltung der Flügelprofile etc.), beim 
 Ruder durch verdrehte Ruderprofile, die entlang der Anströmung des Propellers ausgerichtet sind (sogenanntes 
-Twist-Flow-Ruder; Hohmeyer et al. 2023, S. 188). Zudem bietet sich bei Zweischraubenschiffen die Optimierung 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Twist-Flow-Ruder; Hohmeyer et al. 2023, S. 188). Zudem bietet sich bei Zweischraubenschiffen die Optimierung
 von Anhängen wie Propellerwelle und Wellenbockarmen72 an, um einen gleichmäßigeren Zustrom zum Propeller 
 zu erhalten. Die damit erreichbaren Einsparpotenziale dürften jedoch jeweils maximal 2 % betragen (IMO 2011, 
 S. 53 u. 56). Größere Effekte versprechen die folgenden Maßnahmen, die in der Regel nachrüstbar sind (zum 
@@ -3073,28 +2856,25 @@ verfügbar und können bei allen Schiffstypen eingesetzt werden, die mit einem F
  
 72 Wellenbockarme sind am Rumpf angebracht und vor allem bei Zweischraubenschiffen wichtig, um die Propellerwelle, welche das 
 Drehmoment vom Motor zum Propeller überträgt, in Position zu halten und zu stabilisieren. 
-73 https://becker-marine-systems.com/de/produkte/energiesparsysteme/becker-mewis-duct (13.5.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+73 https://becker-marine-systems.com/de/produkte/energiesparsysteme/becker-mewis-duct (13.5.2025)
 Sie sind relativ preiswert (ca. 100.000 bis 150.000 US-Dollar; GreenVoyage2050 2024) und können auch 
 nachgerüstet werden. 2018 soll die Marktdurchdringung rund 10 % betragen haben (IMO 2021a, S. 231). 
 – Bei Mehrkomponentenpropellern handelt es sich um Propellersysteme, bei denen mehrere Propeller
 hintereinander angeordnet sind. Ziel ist, den Propellerschub auf beide Propeller zu verteilen und so den
 Propellerwirkungsgrad zu verbessern. Eine Variante sind Tandempropeller, zwei hintereinander auf einer Welle
 montierte Propeller, die den gleichen Drehsinn haben. Diese Technologie wird aber bei Schiffen mit
-konventionellen Wellenleitungen kaum angewendet, weil die Energieverluste durch die gegenseitige Beeinflussung 
-der Propeller größer sein können als der theoretisch durch die Schubaufteilung mögliche Effizienzgewinn. 
-Das Problem besteht nicht, wenn der axiale Abstand zwischen den beiden Propellern ausreichend groß ist – 
-man spricht dann auch von Twinpropellern (SVA 2015). In so einem Fall kann je nach Schubbelastung der 
-Propeller laut Hohmeyer et al. (2023, S. 187) etwa 2 bis 5 % der Leistung eingespart werden. Eine weitere 
-Variante sind kontrarotierende Propeller oder Gegenlaufpropeller. Sie entsprechen von der Anordnung her 
+konventionellen Wellenleitungen kaum angewendet, weil die Energieverluste durch die gegenseitige Beeinflussung
+der Propeller größer sein können als der theoretisch durch die Schubaufteilung mögliche Effizienzgewinn.
+Das Problem besteht nicht, wenn der axiale Abstand zwischen den beiden Propellern ausreichend groß ist –
+man spricht dann auch von Twinpropellern (SVA 2015). In so einem Fall kann je nach Schubbelastung der
+Propeller laut Hohmeyer et al. (2023, S. 187) etwa 2 bis 5 % der Leistung eingespart werden. Eine weitere
+Variante sind kontrarotierende Propeller oder Gegenlaufpropeller. Sie entsprechen von der Anordnung her
 Tandempropellern, laufen allerdings entgegengesetzt, was eine komplizierte getrennte Lagerung der
 Propeller erfordert. Durch die Gegenläufigkeit der Einzelpropeller gelingt es jedoch, die Drallverluste im
-Propellerstrahl teilweise zurückzugewinnen. In Einzelfällen wird von Energieeinsparungen zwischen 6 und 20 % 
+Propellerstrahl teilweise zurückzugewinnen. In Einzelfällen wird von Energieeinsparungen zwischen 6 und 20 %
 berichtet, die realistisch erzielbaren Einsparpotenziale werden von der IMO (2011, S. 57) auf 3 bis 6 %
-geschätzt. Gegenlaufpropeller sind am Markt verfügbar mit einer geschätzten Marktdurchdringung von ca. 
-12,5 % (Jahr 2018) (IMO 2021a, S. 231). 
+geschätzt. Gegenlaufpropeller sind am Markt verfügbar mit einer geschätzten Marktdurchdringung von ca.
+12,5 % (Jahr 2018) (IMO 2021a, S. 231).
 Die angeführten Effizienzgewinne der beschriebenen Maßnahmen sind aufgrund von möglichen negativen
 Wechselwirkungen nicht addierbar (dazu und zum Folgenden Hohmeyer et al. 2023, S. 185). Die realisierbaren
 Einsparpotenziale hängen zudem stark vom Schiffstyp ab (z. B. Einschrauben- vs. Zweischraubenschiffe) und können 
@@ -3108,31 +2888,28 @@ durch technische Maßnahmen gesenkt werden. Sie sind nur für Schiffstypen umset
 Belastungen der Außenhaut ausgesetzt sind (wie Eisfahrt, Kontakt mit Netzen oder Sand/Schlick im Hafen) (dazu 
 und zum Folgenden Hohmeyer et al. 2023, S. 155 ff u. 182 ff): 
 – Beschichtung des Rumpfes: Durch eine geeignete Beschichtung des Unterwasserschiffes – also des
-Rumpfteils, der sich unterhalb Wasserlinie befindet – kann der Reibungswiderstand des Schiffs vermindert werden. 
-Rumpfbeschichtungen sind grundsätzlich für alle Schiffstypen anwendbar und teilweise bereits auf dem 
+Rumpfteils, der sich unterhalb Wasserlinie befindet – kann der Reibungswiderstand des Schiffs vermindert werden.
+Rumpfbeschichtungen sind grundsätzlich für alle Schiffstypen anwendbar und teilweise bereits auf dem
 Markt erhältlich. Sie eignen sich sowohl für Neubauten als auch als Nachrüstoption. Besonders große
-Einsparungen sind für völlige Schiffe (hohes Verhältnis zwischen Schiffsvolumen und umschreibenden Quader) 
-zu erwarten, bei denen der Reibungswiderstandsanteil am größten ist. Die möglichen Einsparungen sind 
-darüber hinaus stark vom Beschichtungskonzept abhängig und bewegen sich im Bereich von 1 bis 4 % (2024; 
-IMO 2011, S. 51). Viele Ansätze sind derzeit in Entwicklung. Dazu gehören bionische Folien, die eine dünne 
+Einsparungen sind für völlige Schiffe (hohes Verhältnis zwischen Schiffsvolumen und umschreibenden Quader)
+zu erwarten, bei denen der Reibungswiderstandsanteil am größten ist. Die möglichen Einsparungen sind
+darüber hinaus stark vom Beschichtungskonzept abhängig und bewegen sich im Bereich von 1 bis 4 % (2024;
+IMO 2011, S. 51). Viele Ansätze sind derzeit in Entwicklung. Dazu gehören bionische Folien, die eine dünne
 Luftschicht erzeugen (Orgeldinger 2018), oder 3D-gedruckte Platten, die der Haut von Haifischen
-nachgebildet sind (GSN 2020, S. 33). Konkrete Angaben zu Kosten oder möglichen Einsparungen existieren für 
+nachgebildet sind (GSN 2020, S. 33). Konkrete Angaben zu Kosten oder möglichen Einsparungen existieren für
 diese innovativen Technologien noch nicht. Die dabei zum Einsatz kommenden Oberflächentechniken
 (Farben, Folien, Platten etc.) sollten im Idealfall nicht nur den Strömungswiderstand reduzieren, sondern
 möglichst auch Bewuchs verhindern (Antifouling; dazu Kapitel 4.2.7). Der Bewuchs des Schiffrumpfes mit
-Algen, Mikroorganismen und Pflanzen (Biofouling), kann den Treibstoffverbrauch von Schiffen substanziell 
-erhöhen (IMO 2022; Neumeier 2021). Viele Antifoulingbeschichtungen enthalten Biozide und sind deshalb 
-schädlich für die Umwelt. Als etablierte Alternative kommen unter anderem Silikonbeschichtungen infrage, 
-die jedoch sehr empfindlich gegenüber mechanischen Einwirkungen sind. 
-– Luftschmierungssysteme: Diese Systeme zielen darauf ab, den Reibungswiderstandsanteil von Schiffen zu 
-verringern, indem an der Außenhaut des Schiffs (meist im Bodenbereich) Luft eingeblasen wird, was die 
-Wandreibung zwischen Schiff und Wasser verringert. Dafür ist eine nicht unerhebliche Menge an Energie 
-erforderlich, weil die Luft gegen den hydrostatischen Wasserdruck ausgeblasen werden muss. Außerdem 
-sind die Systeme relativ komplex, weil neben den speziell geformten Auslassöffnungen Kompressoren und 
-Regelventile erforderlich sind, um Schiffsbewegungen im Seegang ausgleichen zu können. Die erzielbaren 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Algen, Mikroorganismen und Pflanzen (Biofouling), kann den Treibstoffverbrauch von Schiffen substanziell
+erhöhen (IMO 2022; Neumeier 2021). Viele Antifoulingbeschichtungen enthalten Biozide und sind deshalb
+schädlich für die Umwelt. Als etablierte Alternative kommen unter anderem Silikonbeschichtungen infrage,
+die jedoch sehr empfindlich gegenüber mechanischen Einwirkungen sind.
+– Luftschmierungssysteme: Diese Systeme zielen darauf ab, den Reibungswiderstandsanteil von Schiffen zu
+verringern, indem an der Außenhaut des Schiffs (meist im Bodenbereich) Luft eingeblasen wird, was die
+Wandreibung zwischen Schiff und Wasser verringert. Dafür ist eine nicht unerhebliche Menge an Energie
+erforderlich, weil die Luft gegen den hydrostatischen Wasserdruck ausgeblasen werden muss. Außerdem
+sind die Systeme relativ komplex, weil neben den speziell geformten Auslassöffnungen Kompressoren und
+Regelventile erforderlich sind, um Schiffsbewegungen im Seegang ausgleichen zu können. Die erzielbaren
 Einsparungen sind unter anderem vom Schiffstyp und der Oberflächenbeschaffenheit des Unterwasserschiffs 
 abhängig (IMO 2011, S. 55) und werden auf 3 bis 10 % geschätzt (GreenVoyage2050 2024; Hohmeyer et al. 
 2023, S. 188; ITF 2018, S. 26). Die Kosten für die Umsetzung sind allerdings erheblich und liegen zwischen 
@@ -3164,10 +2941,7 @@ mehr Vortrieb erzeugt. Die Steuerung des Systems kann weitgehend automatisiert e
 (Fähren, Frachter, Tanker) angewachsen (EMSA 2023c, S. 17). 
 Abbildung 4.4 Frachtschiff mit vier Rotorsegeln 
  
-Quelle: Alan Jamieson, CC BY 2.0 (https://commons.wikimedia.org/w/index.php?curid=42847138; 5.8.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Quelle: Alan Jamieson, CC BY 2.0 (https://commons.wikimedia.org/w/index.php?curid=42847138; 5.8.2025)
 Bei 12 weiteren Schiffen ist eine Ausstattung mit Rotorsegeln geplant.74 Unter anderem hat Airbus
 angekündigt, drei neue Frachtschiffe mit Rotorsegeln auszurüsten (Hochwarth 2024; The Economist 2024). Das 
 Unternehmen gibt an, die CO2-Emissionen für den Transatlantiktransport dadurch rund um die Hälfte
@@ -3177,33 +2951,33 @@ Betriebsbedingungen – die Angaben zu den Energieeinsparpotenzialen (tlw. von H
 und 30 % (Chou et al. 2021; EMSA 2023c, S. 27; Seddiek/Ammar 2021; Vahs 2020); in IMO (2024)
 werden 3 bis 15 % als realistisch angesehen. Die Kosten für ein Rotorsegel betragen 400.000 bis 950.000 US-
 Dollar, je nach Größe und Modell (GreenVoyage2050 2024). 
-– Elektrosegel (auch eSails oder Suction Wings) basieren auf demselben Prinzip wie Rotorsegel, nutzen für 
-den Vortrieb jedoch nicht den Rotationseffekt. Stattdessen wird die Luft mithilfe elektrischer Ventilatoren 
-in die Zylinder eingesaugt und so ein Unterdruck erzeugt. Laut dem spanischen Hersteller bound4blue soll 
+– Elektrosegel (auch eSails oder Suction Wings) basieren auf demselben Prinzip wie Rotorsegel, nutzen für
+den Vortrieb jedoch nicht den Rotationseffekt. Stattdessen wird die Luft mithilfe elektrischer Ventilatoren
+in die Zylinder eingesaugt und so ein Unterdruck erzeugt. Laut dem spanischen Hersteller bound4blue soll
 auf diese Weise bis zu 7-mal mehr Kraft als bei einem herkömmlichen Segel erzeugt werden und der
-Kraftstoffverbrauch lasse sich um bis zu 40 % reduzieren (EMSA 2023c, S. 29; Rinortner 2022; The Economist 
-2024). Diese Zahl wurde aber noch nicht von unabhängiger Seite evaluiert. Elektrosegel wurden bereits auf 
-8 Schiffen installiert, auf 5 weiteren sind Installationen in Vorbereitung (EMSA 2023c, S. 17). 
-– Drachensegel (Kites) werden am Bug des Schiffs befestigt und können in bis zu 300 m Höhe operieren, um 
-das Schiff mithilfe der Windkraft zu ziehen und so Treibstoff zu sparen. Der größte in Betrieb befindliche 
-Drachen hat eine Fläche von 1.000 m2, Größen bis 5.000 m2 sind in der Entwicklung (EMSA 2023c, S. 14). 
-Ein französisches Unternehmen bietet Zugdrachen an, die automatisch gestartet und eingeholt sowie per 
-Autopilot gesteuert werden können.75 Das SkySails-System des gleichnamigen deutschen Herstellers, das 
-bereits 2005 erprobt wurde, konnte sich hingegen nicht durchsetzen (Grotelüschen 2018). Bislang wurde ein 
-Drachensegel im Rahmen eines Pilotprojekts auf einem RoRo-Schiff installiert und ein System wurde auf 
+Kraftstoffverbrauch lasse sich um bis zu 40 % reduzieren (EMSA 2023c, S. 29; Rinortner 2022; The Economist
+2024). Diese Zahl wurde aber noch nicht von unabhängiger Seite evaluiert. Elektrosegel wurden bereits auf
+8 Schiffen installiert, auf 5 weiteren sind Installationen in Vorbereitung (EMSA 2023c, S. 17).
+– Drachensegel (Kites) werden am Bug des Schiffs befestigt und können in bis zu 300 m Höhe operieren, um
+das Schiff mithilfe der Windkraft zu ziehen und so Treibstoff zu sparen. Der größte in Betrieb befindliche
+Drachen hat eine Fläche von 1.000 m2, Größen bis 5.000 m2 sind in der Entwicklung (EMSA 2023c, S. 14).
+Ein französisches Unternehmen bietet Zugdrachen an, die automatisch gestartet und eingeholt sowie per
+Autopilot gesteuert werden können.75 Das SkySails-System des gleichnamigen deutschen Herstellers, das
+bereits 2005 erprobt wurde, konnte sich hingegen nicht durchsetzen (Grotelüschen 2018). Bislang wurde ein
+Drachensegel im Rahmen eines Pilotprojekts auf einem RoRo-Schiff installiert und ein System wurde auf
 einem Massengutfrachter nachgerüstet; vier weitere Anwendungen auf Massengutfrachtern wurden
 angekündigt (EMSA 2023c, S. 17). Laut Angaben von Herstellern soll mittels Drachensegeln eine
 Treibstoffersparnis von 20 bis 40 % möglich sein (EMSA 2023c, S. 30). Untersuchungen mit dem SkySails-System
 ergaben jedoch nur eine jährliche Energieeinsparung von rund 5 % auf windreichen Routen, was auch die
-Größenordnung ist, die von der IMO (GreenVoyage2050 2024) als realistisch angesehen wird.76 
+Größenordnung ist, die von der IMO (GreenVoyage2050 2024) als realistisch angesehen wird.76
 – Auch Mastensegel werden eingesetzt, sowohl in starrer Ausführung, die in ihrer Funktion vertikalen
 Flugzeugflügeln ähnelt, als auch als weiche, herkömmliche Stoffsegel. Bestimmte Versionen starrer Segel
-können ihre Form und Ausrichtung automatisch an die Windrichtung und -geschwindigkeit anpassen.77 Sieben 
-Handelsschiffe sind bereits mit festen Segeln ausgerüstet, bei sechs Schiffen ist dies geplant (EMSA 2023c, 
-S. 17 ff.). Weiche Stoffsegel wurden erst prototypisch auf einem RoRo-Schiff realisiert. Die Energieersparnis 
-soll laut Angaben des Herstellers mit drei installierten Segeln bis zu 30 % betragen (The Economist 2024). 
+können ihre Form und Ausrichtung automatisch an die Windrichtung und -geschwindigkeit anpassen.77 Sieben
+Handelsschiffe sind bereits mit festen Segeln ausgerüstet, bei sechs Schiffen ist dies geplant (EMSA 2023c,
+S. 17 ff.). Weiche Stoffsegel wurden erst prototypisch auf einem RoRo-Schiff realisiert. Die Energieersparnis
+soll laut Angaben des Herstellers mit drei installierten Segeln bis zu 30 % betragen (The Economist 2024).
 In IMO (2024) werden ein Reduktionspotenzial von 1 bis 10 % für realistisch gehalten und die
-Installationskosten auf 170.000 bis 300.000 US-Dollar pro Mast geschätzt. 
+Installationskosten auf 170.000 bis 300.000 US-Dollar pro Mast geschätzt.
 Bis Mitte 2023 wurden Windzusatzantriebe auf insgesamt 30 Schiffen installiert, bei weiteren 26 Schiffen sind 
 sie in Planung oder Umsetzung; 16 dieser Schiffe sind Neubauten, während es sich bei 38 Schiffen um
 Nachrüstungen handelt (EMSA 2023c, S. 17). Die Energieeinsparpotenziale von Windzusatzantrieben können nicht
@@ -3216,15 +2990,11 @@ sondern der scheinbare Wind, der sich aus der Differenz des Umgebungswindes und 
 und zum Folgenden Hohmeyer et al. 2023, S. 189 f.). 
 Alle Systeme sind prinzipiell nachrüstbar (Vahs 2020), jedoch ist dies nicht bei jedem Schiffstyp gleichermaßen 
 möglich, da für die Installation freie Fläche auf dem Deck vorhanden sein muss. Das schließt beispielsweise 
- 
 74 Hersteller sind unter anderem die deutschen Firmen Enercon und MariGreen. 
 75 https://airseas.com/en/seawing-system/ (23.4.2025) 
 76 https://webgate.ec.europa.eu/life/publicWebsite/project/LIFE06-ENV-D-000479/demonstration-of-an-innovative-wind-
 propulsiontechnology-for-cargo-vessels (23.4.2025) 
-77 https://www.bartechnologies.uk/commercial-ships/windwings/ (23.4.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+77 https://www.bartechnologies.uk/commercial-ships/windwings/ (23.4.2025)
 Containerschiffe größtenteils aus, da diese für den Ladungsumschlag eine weitgehend freie Decksfläche
 benötigen. Die Installation von Windzusatzantrieben hat außerdem Auswirkungen auf die Stabilität und
 Manövrierfähigkeit von Schiffen, was eine Anpassung von Vorschriften, Normen und Richtlinien erforderlich machen kann 
@@ -3270,52 +3040,49 @@ et al. (2011, S. 32) die hohen Kosten entgegen. Zudem sind Anlagen zur Wärmerü
 Schiffen mit entsprechend weniger überschüssiger Abwärme sowie Schiffen mit einem sehr variablen Fahrprofil 
 eher ungeeignet. Die IMO (2011, S. 59) geht davon aus, dass solche Anlagen erst bei größeren Schiffen mit einer 
 durchschnittlichen Hauptmaschinenleistung von mehr als 20.000 kW und Hilfsmaschinen mit einer
-durchschnittlichen Leistung von mehr als 1.000 kW wirtschaftlich sind. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+durchschnittlichen Leistung von mehr als 1.000 kW wirtschaftlich sind.
 4.2.7 Operative Maßnahmen 
 Neben technischen gibt es auch eine Reihe operativer Maßnahmen, um den Energieverbrauch zu senken.
 Operative Maßnahmen setzen beim Schiffsbetrieb an und erfordern keine baulichen Anpassungen Sie sind deshalb 
 kurzfristig und relativ kostengünstig umsetzbar. Im Folgenden sind die wichtigsten operativen Maßnahmen
 aufgeführt (zum Folgenden Hohmeyer et al. 2023, S. 161 ff.): 
-– Die Reduktion der Fahrtgeschwindigkeit (Slow Steaming) stellt prinzipiell eine sehr wirksame Maßnahme 
+– Die Reduktion der Fahrtgeschwindigkeit (Slow Steaming) stellt prinzipiell eine sehr wirksame Maßnahme
 dar, um Energie zu sparen, da hierdurch gleichzeitig alle Widerstandsanteile reduziert werden.
-Beispielsweise führt eine Verringerung der Geschwindigkeit um 10 % zu einer Verringerung des Energiebedarfs um 
+Beispielsweise führt eine Verringerung der Geschwindigkeit um 10 % zu einer Verringerung des Energiebedarfs um
 rund 27 % (Grosso et al. 2021, S. 3); unter Berücksichtigung der längeren Fahrtdauer beträgt die
-Kraftstoffeinsparung ca 20 %. Nach Berechnungen von Elkafas und Schouman (2021) können bei einem mittelgroßen 
-Containerschiff (max. Ladekapazität 4.250 TEU) durch eine Geschwindigkeitsreduzierung um 10 % ca. 30 % 
+Kraftstoffeinsparung ca 20 %. Nach Berechnungen von Elkafas und Schouman (2021) können bei einem mittelgroßen
+Containerschiff (max. Ladekapazität 4.250 TEU) durch eine Geschwindigkeitsreduzierung um 10 % ca. 30 %
 Treibstoff und damit Betriebskosten in erheblichem Umfang eingespart werden. Eine
 Geschwindigkeitsreduktion ist dann am wirksamsten, wenn das Schiff und seine Antriebe auch für diese Geschwindigkeit
 entwickelt und optimiert wurden. Auch Bugwülste sind für einen bestimmten Geschwindigkeitsbereich
 ausgelegt und sollten nachträglich angepasst werden, wenn sich das Geschwindigkeitsprofil eines Schiffs
-permanent verändert (IMO 2011, S. 46). Die Energieeinsparpotenziale einer Geschwindigkeitsreduktion hängen 
-entsprechend maßgeblich vom Schiffsdesign ab und lassen sich nicht verallgemeinern. Dabei ist zu beachten, 
+permanent verändert (IMO 2011, S. 46). Die Energieeinsparpotenziale einer Geschwindigkeitsreduktion hängen
+entsprechend maßgeblich vom Schiffsdesign ab und lassen sich nicht verallgemeinern. Dabei ist zu beachten,
 dass diese Maßnahme zu einer Verringerung der Transportleistung führt, die (bei gleichbleibender
-Transportleistung) durch den Einsatz von mehr oder größeren Schiffen kompensiert werden muss. Laut Lindstad 
+Transportleistung) durch den Einsatz von mehr oder größeren Schiffen kompensiert werden muss. Laut Lindstad
 et al. (2022) ist das Einsparpotenzial von Geschwindigkeitsreduktionen durch verringerte
-Betriebsgeschwindigkeiten bereits weitgehend realisiert. 
-– Eine regelmäßige Reinigung von Schiffsrumpf und Propeller verhindert den erhöhten Reibungswiderstand 
-des Schiffs durch Biofouling und kann zu erheblichen Energieeinsparungen führen. Eine Untersuchung auf 
-Basis empirischer Daten kommt zum Ergebnis, dass bei Öltankern durch die regelmäßige Reinigung des 
+Betriebsgeschwindigkeiten bereits weitgehend realisiert.
+– Eine regelmäßige Reinigung von Schiffsrumpf und Propeller verhindert den erhöhten Reibungswiderstand
+des Schiffs durch Biofouling und kann zu erheblichen Energieeinsparungen führen. Eine Untersuchung auf
+Basis empirischer Daten kommt zum Ergebnis, dass bei Öltankern durch die regelmäßige Reinigung des
 Rumpfes im Trockendock Energieeinsparungen von bis zu 17 % erreicht werden können, während eine
 Unterwasserreinigung 9 % an Einsparungen verspricht (Adland et al. 2018).78 Da bei einem Großteil der
-weltweiten Flotte bereits in der einen oder anderen Form eine regelmäßige Rumpfreinigung durchgeführt wird, 
-ist das damit erreichbare Reduktionspotenzial zum Teil bereits ausgeschöpft (IMO 2011, S. 49). 
-– Trimmoptimierungen: Durch Aufnahme von zusätzlichem Ballastwasser kann die Schwimmlage des Schiffs 
-so beeinflusst werden, dass trotz des zusätzlichen Gewichtes der Energieverbrauch des Schiffs sinkt. Weil 
-besonders Containerschiffe trimmempfindlich sind, wird diese Maßnahme vor allem bei diesem Schiffstyp 
-angewendet, obwohl sie prinzipiell auch für alle anderen Schiffstypen infrage kommt. Trimmoptimierungen 
+weltweiten Flotte bereits in der einen oder anderen Form eine regelmäßige Rumpfreinigung durchgeführt wird,
+ist das damit erreichbare Reduktionspotenzial zum Teil bereits ausgeschöpft (IMO 2011, S. 49).
+– Trimmoptimierungen: Durch Aufnahme von zusätzlichem Ballastwasser kann die Schwimmlage des Schiffs
+so beeinflusst werden, dass trotz des zusätzlichen Gewichtes der Energieverbrauch des Schiffs sinkt. Weil
+besonders Containerschiffe trimmempfindlich sind, wird diese Maßnahme vor allem bei diesem Schiffstyp
+angewendet, obwohl sie prinzipiell auch für alle anderen Schiffstypen infrage kommt. Trimmoptimierungen
 setzen ein Vessel Performance Monitoring System voraus, das die Leistung eines Schiffs automatisch
-überwacht und analysiert (Wilhelmsen insights 2024). Das Energieeinsparpotenzial durch Trimmoptimierung 
-wird von der IMO auf bis zu 5 % geschätzt (GreenVoyage2050 2024; IMO 2011, S. 46). 
-– Optimierung von Routen und Autopiloten: Der Autopilot lässt sich so anpassen, dass das Schiff den geforderten 
-Kurs mit geringeren Ruderwinkeln hält, wodurch es weniger Energie verbraucht. Auch der aktuelle Kurs und 
-die zu fahrende Geschwindigkeit können abhängig von den aktuellen Wetterdaten optimiert werden (Weather 
-Routing). So ist es denkbar, dass eine längere zurückgelegte Strecke insgesamt weniger Kraftstoff benötigt, 
-wenn z. B. ein Sturmtief umfahren wird. Voraussetzung dafür ist eine gewisse Flexibilität in Bezug auf die 
-Routenwahl. Mit den beiden Maßnahmen, die jedoch bereits weitgehend umgesetzt werden, können jeweils 
-Einsparungen im niedrigen Prozentbereich erzielt werden (max. 4 %) (Grosso et al. 2021; IMO 2011, S. 46 f.). 
+überwacht und analysiert (Wilhelmsen insights 2024). Das Energieeinsparpotenzial durch Trimmoptimierung
+wird von der IMO auf bis zu 5 % geschätzt (GreenVoyage2050 2024; IMO 2011, S. 46).
+– Optimierung von Routen und Autopiloten: Der Autopilot lässt sich so anpassen, dass das Schiff den geforderten
+Kurs mit geringeren Ruderwinkeln hält, wodurch es weniger Energie verbraucht. Auch der aktuelle Kurs und
+die zu fahrende Geschwindigkeit können abhängig von den aktuellen Wetterdaten optimiert werden (Weather
+Routing). So ist es denkbar, dass eine längere zurückgelegte Strecke insgesamt weniger Kraftstoff benötigt,
+wenn z. B. ein Sturmtief umfahren wird. Voraussetzung dafür ist eine gewisse Flexibilität in Bezug auf die
+Routenwahl. Mit den beiden Maßnahmen, die jedoch bereits weitgehend umgesetzt werden, können jeweils
+Einsparungen im niedrigen Prozentbereich erzielt werden (max. 4 %) (Grosso et al. 2021; IMO 2011, S. 46 f.).
 4.3 Innovationslandschaft 
 Die Erforschung und Entwicklung sowie die Umsetzung von Energieeffizienzmaßnahmen in der Schifffahrt
 hängen wesentlich von einer leistungsfähigen maritimen Wirtschaft ab. Diese ist ein bedeutender Wirtschaftszweig 
@@ -3323,11 +3090,7 @@ in Deutschland, sieht sich aber einem schwierigen globalen Marktumfeld gegenübe
 zunächst die wirtschaftlichen Rahmenbedingungen sowie die an der maritimen Wertschöpfungskette beteiligten 
 Organisationen beschrieben und anschließend die verschiedenen Förderprogramme mit ihren Schwerpunkten
 sowie relevante Forschungs- und Entwicklungsprojekte vorgestellt. 
- 
-78 In IMO (2024) wird das Energieeinsparpotenzial einer Unterwasserreinigung mit 1 bis 5 % etwas niedriger angesetzt. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+78 In IMO (2024) wird das Energieeinsparpotenzial einer Unterwasserreinigung mit 1 bis 5 % etwas niedriger angesetzt.
 4.3.1 Schiffbauindustrie in Deutschland: wirtschaftliche Lage und Akteure 
 Zur maritimen Wirtschaft zählen diejenigen Branchen, welche die Binnenwasserstraßen und den maritimen Raum 
 wirtschaftlich nutzen (Fischerei und Aquakultur, Offshorewindenergie, Schifffahrt) bzw. die für diese Nutzung 
@@ -3364,10 +3127,7 @@ Eigene Darstellung nach VSM (2025) (https://vsm.de/sites/default/files/bilder/ch
 79 Die Exportquote der deutschen Schiffbauindustrie liegt seit Jahren bei über 95 % (IHK Nord 2021). 
 80 Es ist zu beachten, dass die Bruttowertschöpfung und der Umsatz im Schiffbau stark schwanken, was auf die sehr unterschiedlichen 
 jährlichen Ablieferungen zurückzuführen ist. 
-81 https://www.vsm.de/de/die-branche/zahlen-und-fakten-0 (23.4.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+81 https://www.vsm.de/de/die-branche/zahlen-und-fakten-0 (23.4.2025)
 Die Schiffbauindustrie befindet sich unter anderem aufgrund steigender Klimaschutzanforderungen mitten in
 einem Transformationsprozess und ist gefordert, die Energieeffizienz ihrer Schiffe deutlich zu steigern. Im Rahmen 
 eines komplexen Schiffsentwurfs müssen unterschiedliche technologische und regulatorische Anforderungen
@@ -3417,11 +3177,7 @@ Quelle: Hohmeyer et al. (2023, S. 265 f.)
 Eine innovative Schiffbauindustrie ist auf eine intakte und leistungsfähige Wertschöpfungskette angewiesen, die 
 eine Vielzahl von Akteuren umfasst (VSM 2024, S. 79). Im engeren Sinne sind die Anwender innovativer
 Technologien die Werften als eigentliche Schiffshersteller sowie die verschiedenen Systemlieferanten und Zulieferer, 
- 
-82 Laut einer Umfrage der IG Metall haben 78 % der Werftbetriebe mit Stellenbesetzungsproblemen zu kämpfen (IG Metall Küste 2024). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+82 Laut einer Umfrage der IG Metall haben 78 % der Werftbetriebe mit Stellenbesetzungsproblemen zu kämpfen (IG Metall Küste 2024).
 die ganze Systeme wie die Antriebsanlage, die Brücke oder die Kabinen liefern, zum Teil aber auch nur einzelne 
 Komponenten beisteuern (dazu und zum Folgenden Hohmeyer et al. 2023, S. 193). Aufgrund der Komplexität 
 besonders großer Schiffe bedienen sich die Zulieferer oft weiterer Unterlieferanten, sodass eine baumartige
@@ -3470,10 +3226,7 @@ Germanischen Lloyd mit DNV gibt es keine deutsche Klassifikationsgesellschaft me
 dieser Organisationen ohnehin international geprägt. 
  
 83 2024 meldete auch die traditionsreiche Werftengruppe FSG-Nobiskrug Insolvenz an, die rund 500 Personen beschäftigte (Schiff&Hafen 
-2024). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+2024).
 4.3.2 Überblick über Förderprogramme und Forschungsprojekte 
 Weltweit sind verstärkt industrielle FuE-Aktivitäten zur Dekarbonisierung der Schifffahrt zu beobachten, wobei 
 die Förderung aus öffentlichen Mitteln eine wichtige Rolle spielt, wie eine jährliche Auswertung internationaler 
@@ -3512,7 +3265,6 @@ Themen durch unterstützende Organisationen definiert, welche die zu bearbeitend
 das Arbeitsprogramm bestimmen. Für den maritimen Bereich ist dafür die Waterborne Technology Platform 
 (WTP) zuständig.89 Mitglieder der WTB sind Unternehmen des Schifffahrtsektors, aber auch Wirtschaftsverbände 
 und Forschungseinrichtungen.90 
- 
 84 Die Getting to Zero Coalition ist ein Zusammenschluss von rund 200 Organisationen aus den Bereichen Schifffahrt und Kraftstoffe, 
 darunter größtenteils Privatunternehmen. Ziel ist die Dekarbonisierung der Hochseeschifffahrt. Das Bündnis wurde 2019 gegründet und 
 wird vom Global Maritime Forum verwaltet (https://globalmaritimeforum.org/getting-to-zero-coalition/; 21.7.2025). 
@@ -3527,10 +3279,7 @@ dem Bereich des maritimen Leichtbaus vernetzt und den sektorübergreifenden Tech
 90 Aus Deutschland waren Ende 2024 drei Unternehmen der maritimen Wirtschaft (MAN Energy Solutions, Meyer Werft, Siemens 
 Energy), vier Forschungs- bzw. Beratungsunternehmen (BALance Technology Consulting, Deutsches Zentrum für Luft- und Raumfahrt, 
 Fraunhofer, Hamburgische Schiffbau-Versuchsanstalt) und eine Hochschule (Kühne Logistics University) als Mitglieder registriert, 
-ferner zwei Verbände (German Maritime Centre, Verband für Schiffbau und Meerestechnik). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+ferner zwei Verbände (German Maritime Centre, Verband für Schiffbau und Meerestechnik).
 Die von der EU im Rahmen von FP7 sowie Horizont 2020 geförderten Projekte mit Bezug zur Dekarbonisierung 
 der Schifffahrt konzentrierten sich stark auf die Unterstützung technologischer Maßnahmen zur
 Emissionsreduktion, insbesondere alternative Kraftstoffe, verbesserte Energieeffizienz und innovative Antriebe. Dies geht aus der 
@@ -3583,10 +3332,7 @@ anpassbarer Tiefgang entwickelt, der es ermöglichte, auch niedrige Brücken zu 
 91 Die Datenbank CORDIS https://cordis.europa.eu/ (23.4.2025) bietet Zugang zu den Beschreibungen von mehr als 150.000 EU-
 finanzierten Projekten aller relevanten Förderprogramme. 
 92 Diese Zuordnungen basieren lediglich auf einer groben Schlagwortsuche in der CORDIS-Datenbank und nicht auf einer systematischen 
-quantitativen und qualitativen Analyse, wie sie in Grosso et al. (2021) durchgeführt wurde. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+quantitativen und qualitativen Analyse, wie sie in Grosso et al. (2021) durchgeführt wurde.
 Wasserstände zu reagieren. Ein weiteres Ziel war die Entwicklung eines anpassbaren diesel-/gas-/LNG-
 elektrischen Energie- und Antriebssystems, das die Ressourceneffizienz um bis zu 30 % steigern sollte. Schließlich 
 sollte das Projekt zur Verringerung der schädlichen Luftschadstoffemissionen beitragen.93 
@@ -3625,22 +3371,18 @@ Wirtschaft und Klimaschutz (BMWK) von 2018. Die „Maritime Agenda 2025“ hat d
 Wettbewerbsfähigkeit der maritimen Branche“ zum Ziel und definiert zentrale Handlungsfelder und dazu
 gehörige Maßnahmen. Für die Dekarbonisierung der Schifffahrt sind insbesondere relevant (BMWi 2017): 
 – das Handlungsfeld 1 „Technologieführerschaft sichern und ausbauen“, das unter anderem das Ziel
-beinhaltet, innovative klima- und umweltfreundliche Technologien im Rahmen der öffentlichen Beschaffung stärker 
-zu gewichten, sowie 
-– das Handlungsfeld 5 „Mit maritimen Technologien zur Energiewende beitragen“, das auch die Förderung 
-alternativer Kraftstoffe und Antriebssysteme vorsieht. 
+beinhaltet, innovative klima- und umweltfreundliche Technologien im Rahmen der öffentlichen Beschaffung stärker
+zu gewichten, sowie
+– das Handlungsfeld 5 „Mit maritimen Technologien zur Energiewende beitragen“, das auch die Förderung
+alternativer Kraftstoffe und Antriebssysteme vorsieht.
 Als wichtiges übergreifendes Instrument wird in der Maritimen Agenda die Förderung von Forschung,
 Entwicklung und Innovation zur nachhaltigen Nutzung der Meere hervorgehoben. Auf nationaler Ebene setzt dabei die 
 „Maritime Forschungsstrategie 2025“ des BMWK zentrale Impulse. Sie beinhaltet die Förderlinie „Maritimes 
 Forschungsprogramm“, die das gesamte Technologiespektrum der Branche abdeckt.96 In der ersten Förderphase, 
- 
 93 https://cordis.europa.eu/project/id/314005 (23.4.2025) 
 94 https://cordis.europa.eu/project/id/955286 (23.4.2025) 
 95 https://cordis.europa.eu/project/id/101096673 (23.4.2025) 
-96 https://www.ptj.de/foerdermoeglichkeiten/maritime-forschungsstrategie-2025 (23.4.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+96 https://www.ptj.de/foerdermoeglichkeiten/maritime-forschungsstrategie-2025 (23.4.2025)
 die von 2018 bis 2023 lief, wurden über 560 Projekte mit rund 320 Mio. Euro gefördert (VSM 2024, S. 62 f.).97 
 Effizientere Antriebstechnologien sowie E-Fuels mit dem langfristigen Ziel des „Null-Emissionsschiffs“ stehen 
 im Fokus des Förderschwerpunkts „MARITIME.green Propulsion“.98 Im Zuge der Neuauflage des
@@ -3694,10 +3436,7 @@ feste Abgabedaten angelegt und zudem bezüglich der Anzahl der Projekte nicht be
 schiffen/Nachhaltige-Modernisierung-von-Binnenschiffen-node.html (23.4.2025) 
 102 https://www.now-gmbh.de/foerderung/foerderprogramme/wasserstoff-und-brennstoffzelle/ (23.4.2025) 
 103 https://erneuerbarekraftstoffe.de/foerderung/ (23.4.2025) 
-104 https://www.zim.de/ZIM/Navigation/DE/Home/home.html (23.4.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+104 https://www.zim.de/ZIM/Navigation/DE/Home/home.html (23.4.2025)
 kurrenz der einzelnen Anträge untereinander gibt. Auch die Zusammensetzung der Konsortien wird nicht so
 restriktiv gehandhabt wie auf EU-Ebene. Für die nationalen Fördermaßnahmen gibt es keine zentrale Datenbank analog 
 zu CORDIS, die die Beschreibungen und Ergebnisse der geförderten Projekte enthält. Ein Überblick über die
@@ -3744,13 +3483,9 @@ eine Anpassung des Schiffsdesigns voraus, der viele Werften aufgrund der damit v
 skeptisch gegenüberstehen (Faber et al. 2011, S. 31; Hohmeyer et al. 2023, S. 174 f.). Prinzipiell ebenfalls sehr 
 vielversprechend ist die verstärkte Nutzung von Windantrieben. Mit Windzusatzantrieben (Rotorsegeln etc.) lässt 
 sich der Energiebedarf von Schiffen deutlich senken (mit Rotorsegeln beispielsweise laut Schätzungen um bis zu 
- 
 105 https://www.e4ships.de/deutsch/binnenschifffahrt/elektra/ (23.4.2025) 
 106 https://green-meth.de/ (23.4.2025) 
-107 https://rasant.eu/ (23.4.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+107 https://rasant.eu/ (23.4.2025)
 15 %, je nach Konfiguration), mit Windhauptantrieben kann der Energiebedarf im Idealfall sogar auf null reduziert 
 werden. Während bei Windzusatzantrieben bereits etliche (auch nachrüstbare) Konzepte auf dem Markt sind, sind 
 Windhauptantriebe für moderne Handelsschiffe noch weit von der Umsetzung entfernt. Sie setzen (bei
@@ -3802,16 +3537,10 @@ Schiffbau prinzipiell gut aufgestellt. Während sich die deutschen Werften auf N
 die deutsche Schiffbauzulieferindustrie weltweit führend und stellt wichtige schiffbauliche Komponenten her, wie 
 z. B. optimierte Ruder und Propeller oder Rotorsegel, die für eine energieeffizientere Schifffahrt benötigt werden. 
 Die EU gehört mit ihren großen Forschungsprogrammen international zu den größten Fördergebern im Bereich 
-der klimaverträglichen Schifffahrt, allerdings ist das Antragsverfahren kompliziert und langwierig (Hohmeyer et 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+der klimaverträglichen Schifffahrt, allerdings ist das Antragsverfahren kompliziert und langwierig (Hohmeyer et
 al. 2023, S. 223 ff.). Die Förderung konzentriert sich auf erneuerbare Kraftstoffe, insbesondere Wasserstoff,
 Methanol und Ammoniak. Innovativer Schiffbau im Allgemeinen steht nicht im Fokus. Auch auf nationaler Ebene 
-wird derzeit vor allem die Umrüstung von Schiffen auf umweltfreundliche Antriebe gefördert. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+wird derzeit vor allem die Umrüstung von Schiffen auf umweltfreundliche Antriebe gefördert.
 5 Internationaler Regulierungsrahmen 
 Mit einem Anteil von ca. 3 % an den weltweit emittierten anthropogenen THG-Emissionen trägt die Schifffahrt 
 nicht unerheblich zum Klimawandel bei (IMO 2021a). Im Pariser Klimaabkommen von 2015, das das globale 
@@ -3865,10 +3594,7 @@ angestrebt. Die Schifffahrt findet zwar keine explizite Erwähnung in dem Dokume
 anthropogen zu klassifizieren und technisch gesehen somit enthalten. 
 109 https://www.imo.org/en/OurWork/ERO/Pages/MemberStates.aspx (23.4.2025) 
 110 https://www.imo.org/en/OurWork/ERO/Pages/NGOsInConsultativeStatus.aspx (23.4.2025) 
-111 https://www.imo.org/en/OurWork/ERO/Pages/IGOsWithObserverStatus.aspx (23.4.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+111 https://www.imo.org/en/OurWork/ERO/Pages/IGOsWithObserverStatus.aspx (23.4.2025)
 In Kapitel 5.1.4 werden zudem die internationalen Sicherheitsvorschriften für erneuerbare Kraftstoffe erläutert. 
 Der Regulierungsrahmen für die Binnenschifffahrt wird in Kapitel 5.3 skizziert, bevor die Maßnahmen in einem 
 Fazit (Kapitel 5.4) noch einmal zusammengefasst werden. 
@@ -3877,14 +3603,14 @@ Die zentralen Ziele der IMO zur Reduzierung der THG-Emissionen sind in der GHG-S
 welche eine Vielzahl von Maßnahmen und Regularien umfasst. Die Strategie wurde erstmals 2018 veröffentlicht und 
 2023 in überarbeiteter Form bei der 80. Sitzung des Marine Environmental Protection Committee (MEPC)112 
 verabschiedet (IMO 2023). Die vier zentralen Ziele der Strategie sind: 
-– Erhöhung der Energieeffizienz der Schiffe 
+– Erhöhung der Energieeffizienz der Schiffe
 – Senkung der Emissionen pro geleisteter Transportarbeit im Durchschnitt des gesamten internationalen
-Seeverkehrs um mindestens 40 % bis 2030 (im Vergleich zu 2008) 
-– Deckung des Energieverbrauchs in der internationalen Schifffahrt durch Technologien, Kraftstoffen 
-und/oder Energieträgern, die keine oder nahezu keine THG-Emissionen verursachen, um mindestens 5 %, 
-wenn möglich 10 % bis 2030 
-– Reduzierung der THG-Emissionen der internationalen Schifffahrt um 20 % bis 2030, 70 % bis 2040 (jeweils 
-gegenüber 2008) und auf netto null bis 2050 
+Seeverkehrs um mindestens 40 % bis 2030 (im Vergleich zu 2008)
+– Deckung des Energieverbrauchs in der internationalen Schifffahrt durch Technologien, Kraftstoffen
+und/oder Energieträgern, die keine oder nahezu keine THG-Emissionen verursachen, um mindestens 5 %,
+wenn möglich 10 % bis 2030
+– Reduzierung der THG-Emissionen der internationalen Schifffahrt um 20 % bis 2030, 70 % bis 2040 (jeweils
+gegenüber 2008) und auf netto null bis 2050
 Neben einigen Maßnahmen, die bereits in Kraft sind, befinden sich etliche noch in der Entwicklung und sollen 
 2027 in Kraft treten.113 Außerdem ist eine Überprüfung der GHG-Strategie auf der Sitzung der MEPC im Herbst 
 2028 geplant. Alle verbindlich verabschiedeten Maßnahmen werden im Internationalen Übereinkommen zur
@@ -3898,31 +3624,27 @@ Anforderungen an den Schiffsbetrieb mit dem Ziel, die Energieeffizienz von Schif
 verpflichtet, für ihre Schiffe Betriebspläne zur strategischen Reduktion des Energieverbrauchs nach den IMO-
 Vorgaben zu erstellen und an Bord mitzuführen. Der SEEMP besteht im Wesentlichen aus drei Teilen (dazu und 
 zum Folgenden Hohmeyer et al. 2023, S. 244 f.): 
-– Teil 1 gilt für Schiffe ab 400 BRZ und enthält den eigentlichen Schiffsmanagementplan, der schiffs- bzw. 
+– Teil 1 gilt für Schiffe ab 400 BRZ und enthält den eigentlichen Schiffsmanagementplan, der schiffs- bzw.
 unternehmensspezifische Maßnahmen (z. B. brennstoffeffizienter Betrieb, Weather Routing,
-Trimmoptimierung, Reinigung des Rumpfs) zur Verbesserung der Energieeffizienz und Kohlenstoffintensität beschreiben 
-soll. 
+Trimmoptimierung, Reinigung des Rumpfs) zur Verbesserung der Energieeffizienz und Kohlenstoffintensität beschreiben
+soll.
 – Teil 2 (für Schiffe ab 5.000 BRZ) beinhaltet die Entwicklung einer schiffsspezifischen Methode zum
-Erfassen, Aggregieren und Melden von Schiffsdaten zum jährlichen Brennstoffverbrauch sowie aller weiteren 
-Daten, die zur Erstellung einer prüffähigen Dokumentation im Rahmen des Data Collection System (DCS) 
-der IMO erforderlich sind. Das DCS dient als Grundlage, um den schiffsspezifischen Treibstoffverbrauch 
+Erfassen, Aggregieren und Melden von Schiffsdaten zum jährlichen Brennstoffverbrauch sowie aller weiteren
+Daten, die zur Erstellung einer prüffähigen Dokumentation im Rahmen des Data Collection System (DCS)
+der IMO erforderlich sind. Das DCS dient als Grundlage, um den schiffsspezifischen Treibstoffverbrauch
 und die damit verbundenen CO2-Emissionen zu dokumentieren und durch eine unabhängige
 Zertifizierungsstelle verifizieren zu lassen. Auf der Grundlage der gesammelten Daten veröffentlicht die IMO einen
-jährlichen Bericht in anonymisierter und aggregierter Form.114 
-– Der 2023 neu hinzugekommene Teil 3 umfasst für Schiffe ab 5.000 BRZ die Pflicht zur Berechnung des 
-Carbon Intensity Indicator (CII), der auf Basis der im DCS ermittelten Kraftstoffverbräuche ermittelt wird. 
-Der CII ist ein schiffsbezogener Index, der die CO2-Emissionen im Verhältnis zur geleisteten Transportarbeit 
-angibt. Die CO2-Emissionen werden aus dem Treibstoffverbrauch über einen bestimmten Zeitraum (in der 
- 
+jährlichen Bericht in anonymisierter und aggregierter Form.114
+– Der 2023 neu hinzugekommene Teil 3 umfasst für Schiffe ab 5.000 BRZ die Pflicht zur Berechnung des
+Carbon Intensity Indicator (CII), der auf Basis der im DCS ermittelten Kraftstoffverbräuche ermittelt wird.
+Der CII ist ein schiffsbezogener Index, der die CO2-Emissionen im Verhältnis zur geleisteten Transportarbeit
+angibt. Die CO2-Emissionen werden aus dem Treibstoffverbrauch über einen bestimmten Zeitraum (in der
 112 Der Ausschuss für den Schutz der Meeresumwelt (MEPC) der IMO befasst sich mit Umweltfragen, die in den Zuständigkeitsbereich 
 der IMO fallen. Dazu gehören auch Schiffsemissionen. Er fungiert als Vertragsstaatenkonferenz, die Modifikationen und Ergänzungen 
 des IMO-Vertragswerkes beschließen kann. Auch hier: https://www.imo.org/en/MediaCentre/MeetingSummaries/Pages/MEPC-
 default.aspx (23.4.2025). 
 113 https://www.imo.org/en/MediaCentre/HotTopics/Pages/Cutting-GHG-emissions.aspx (23.4.2025) 
-114 https://www.imo.org/en/ourwork/environment/pages/data-collection-system.aspx (23.4.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+114 https://www.imo.org/en/ourwork/environment/pages/data-collection-system.aspx (23.4.2025)
 Regel 1 Jahr) ermittelt. Die Transportarbeit wird berechnet, indem die im DCS dokumentierte (jährliche) 
 Fahrleistung mit der Deadweight Tonnage (DWT), als Maß für die Tragfähigkeit eines Schiffs, bzw. der 
 BRZ multipliziert wird. 
@@ -3957,10 +3679,7 @@ zum CII nicht eine tatsächlich zurückgelegte Strecke zugrunde gelegt wird, son
 einer Designgeschwindigkeit multipliziert wird. Die Berechnung der CO2-Emissionen basiert nicht wie bei der 
  
 115 2019 ist das erste Jahr mit verifizierten DCS-Daten. 
-116 Die Reduktionsziele für die folgenden Jahre sind noch nicht festgelegt (Hohmeyer et al. 2023, S. 247). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+116 Die Reduktionsziele für die folgenden Jahre sind noch nicht festgelegt (Hohmeyer et al. 2023, S. 247).
 Berechnung des CII auf tatsächlichen Messwerten, sondern auf Auslegungswerten wie unter anderem der
 installierten Leistung und dem spezifischen Kraftstoffverbrauch (multipliziert mit dem CO2-Faktor des eingesetzten 
 Kraftstoffs). Ziel des EEDI ist somit die Sicherstellung der CO2-Effizienz, nicht aber der Energieeffizienz der 
@@ -3969,9 +3688,8 @@ Der EEDI gilt seit 2013 für neue Schiffe ab 400 BRZ. Ausgenommen von dieser Vor
 Schwergutschiffe, Yachten und konventionelle Fahrgastschiffe mit direktem Dieselantrieb. Ähnlich wie beim CII 
 sinken auch die EEDI-Grenzwerte über die Zeit, jedoch nicht kontinuierlich, sondern phasenweise
 (Abbildung 5.2). Aktuell wird die Einführung einer Phase 4 diskutiert (dazu und zum Folgenden Hohmeyer et al. 2023, 
-S. 243). 
+S. 243).
 Abbildung 5.2 Grenzwerte des Energy Efficiency Design Index (EEDI) für neue Schiffe ab 400 BRZ 
- 
 Quelle: nach ITTC Association (2021) (23.4.2025) 
 Abbildung 5.2 zeigt, dass der EEDI-Grenzwert für Schiffe mit höherer Transportkapazität geringer ausfällt und 
 diese somit eine bessere CO2-Effizienz aufweisen müssen. Dies steht im Einklang mit den Skaleneffekten, nach 
@@ -3990,10 +3708,7 @@ dass diese CO2-effizient konstruiert werden. Der EEXI ist das entsprechende kurz
 Umständen eine Nach- bzw. Umrüstung der Schiffsflotte erfordert, um Grenzwerte einzuhalten. Hierbei wird 
 nicht das Betriebsprofil, sondern ausschließlich die Bauweise des Schiffs berücksichtigt. Wie der SEEMP
 beschränken sich auch der EEDI sowie EEXI auf die Tank-to-Wake-Perspektive, was die Betrachtung von
-alternativen Kraftstoffen ausschließt, und inkludieren lediglich CO2-Emissionen. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+alternativen Kraftstoffen ausschließt, und inkludieren lediglich CO2-Emissionen.
 5.1.3 Greenhouse Gas Fuel Standard 
 Im Rahmen der Treibhausgasstrategie entwickelt die IMO neben Standards für den Schiffsbetrieb auch einen 
 Standard für Kraftstoffe. Der GFS ist ein zentrales Element der langfristigen Maßnahmen der Strategie und soll 
@@ -4027,10 +3742,7 @@ Perspektive. Hierzu wurden separate Life-Cycle-Assessment(LCA)-Guidelines entwic
 Bewertung entlang des Lebenszyklus eines Kraftstoffs gewährleisten sollen (IMO 2024a). Dabei werden die
 Treibhausgase Kohlendioxid (CO2), Methan (CH4) und Lachgas (N2O) berücksichtigt. Gerechnet wird mit CO2-Äq., wobei 
 jedem Gas ein individueller Charakterisierungsfaktor zugeordnet wird, um dessen Treibhauspotenzial (GWP) zu 
-ermitteln. Für einen Betrachtungszeitraum von 100 Jahren beträgt dieser Faktor für CO2 1, für Methan 30 und für 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+ermitteln. Für einen Betrachtungszeitraum von 100 Jahren beträgt dieser Faktor für CO2 1, für Methan 30 und für
 Lachgas 273.117 Die Größenordnung der Faktoren zeigt, dass verschiedene Treibhausgase ein deutlich höheres 
 Treibhauspotenzial als CO2 aufweisen und somit nicht vernachlässigt werden sollten. Bei der Betrachtung
 mehrerer Treibhausgase lassen sich die GWPs der Kraftstoffe als Summe aller THG-Emissionen miteinander
@@ -4049,14 +3761,14 @@ unterschiedliche strenge Vorschriften für das Einleiten von Rückständen ins M
 Regelwerke, je nachdem, ob der Kraftstoff als Ladung in Tankern oder Bunkerschiffen mitgeführt oder für den Vortrieb 
 und zur Stromerzeugung an Bord genutzt wird (dazu und zum Folgenden Hohmeyer et al. 2023, S. 98 ff.). Zentral 
 für die Verwendung als Kraftstoff sind 
-– für Diesel (sowohl konventioneller als auch E-FT-Diesel) die Regeln zur Verhütung der Verschmutzung 
-durch Öl (MARPOL Annex I119), 
+– für Diesel (sowohl konventioneller als auch E-FT-Diesel) die Regeln zur Verhütung der Verschmutzung
+durch Öl (MARPOL Annex I119),
 – für FAME die Regeln zur Überwachung der Verschmutzung durch als Massengut beförderte schädliche
-flüssige Stoffe (MARPOL Annex II120), 
-– für Methan der Internationale Code für die Sicherheit von Schiffen, die Gase oder andere Brennstoffe mit 
-niedrigem Flammpunkt verwenden (IGF-Code) sowie 
-– für Methanol die Interim Guidelines for the safety of Ships using Methyl/Ethyl Alcohol as fuel 
-(MSC.1/Circ.1621). 
+flüssige Stoffe (MARPOL Annex II120),
+– für Methan der Internationale Code für die Sicherheit von Schiffen, die Gase oder andere Brennstoffe mit
+niedrigem Flammpunkt verwenden (IGF-Code) sowie
+– für Methanol die Interim Guidelines for the safety of Ships using Methyl/Ethyl Alcohol as fuel
+(MSC.1/Circ.1621).
 Damit liegen für alle erneuerbaren Kraftstoffe außer Wasserstoff und Ammoniak die notwendigen Regelungen 
 bereits vor, wobei es sich bei Methanol teilweise noch um vorläufige Vorgaben handelt (dazu und zum Folgenden 
 Hohmeyer et al. 2023, S. 99). Grundsätzlich ist bei der Verwendung von Wasserstoff oder Ammoniak ein
@@ -4077,14 +3789,10 @@ und es dürfen hier auch keine Lüftungsein- und -auslässe, Türen oder sonstig
 vorhanden sein. Diese Zonen sind nach den derzeit geltenden Vorschriften (insbesondere für Ammoniak) so groß, 
 dass die Umsetzung der Vorschriften für einige Schiffstypen, insbesondere für kleinere Schiffe bis ca. 150 m 
 Länge, nach Einschätzung von Hohmeyer et al. (2023, S. 101) nicht praktikabel ist. Um die bauliche Umsetzung 
- 
 117 Die Werte basieren auf IPCC (2021, S. 1017). 
 118 Die gasförmigen Stoffe Methan und Wasserstoff fallen nicht unter Anlage II, sondern Anlage IV des MARPOL-Übereinkommens. 
 119 https://www.deutsche-flagge.de/de/antraege-und-dokumente/maritime-interpretation/marpol/anlage-annex-i (23.4.2025) 
-120 https://www.deutsche-flagge.de/de/antraege-und-dokumente/maritime-interpretation/marpol/marpol-anlage-annex-ii (23.4.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+120 https://www.deutsche-flagge.de/de/antraege-und-dokumente/maritime-interpretation/marpol/marpol-anlage-annex-ii (23.4.2025)
 bei möglichst vielen Schiffen zu ermöglichen, müssten daher zusätzliche technische Maßnahmen wie z. B.
 alternative Lüftungskonzepte oder alternative Überwachungskonzepte durch Sensoren untersucht und gegebenenfalls 
 durch die IMO und Klassifikationsgesellschaften in die Vorschriften implementiert werden, um die derzeit
@@ -4116,21 +3824,18 @@ verbrauchte Energie aus E-Fuels doppelt gezählt werden kann. Hierbei wird die W
 eingenommen und es werden neben Kohlendioxid auch Lachgas und Methan berücksichtigt. 
  
 121 https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal_de (23.4.2025) 
-122 https://www.consilium.europa.eu/de/policies/fit-for-55/ (23.4.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+122 https://www.consilium.europa.eu/de/policies/fit-for-55/ (23.4.2025)
 Die FuelEU-Maritime-Verordnung gilt für Schiffe ab 5.000 BRZ123, nicht jedoch für Kriegsschiffe,
 Flottenhilfsschiffe, Schiffe für den Fang oder die Verarbeitung von Fisch, Holzschiffe einfacher Bauart, Schiffe ohne
 Motorantrieb oder staatliche Schiffe, die für nicht gewerbliche Zwecke verwendet werden. Neben der
 schiffsindividuellen Einhaltung der Grenzwerte sieht die Verordnung flexible Konformitätsoptionen für Schiffseigner vor (dazu 
 und zum Folgenden Hohmeyer et al. 2023, S. 251, 321). Diese umfassen die drei Konzepte Banking, Borrowing 
 und Pooling: 
-– Banking umfasst die spätere Nutzung von Rechten aus der Übererfüllung von Reduktionsverpflichtungen; 
-– Borrowing die spätere Verrechnung einer aktuellen Untererfüllung mit einer späteren Übererfüllung von 
-Reduktionsverpflichtungen; 
+– Banking umfasst die spätere Nutzung von Rechten aus der Übererfüllung von Reduktionsverpflichtungen;
+– Borrowing die spätere Verrechnung einer aktuellen Untererfüllung mit einer späteren Übererfüllung von
+Reduktionsverpflichtungen;
 – Pooling die gemeinsame Erfüllung der Reduktionsverpflichtungen durch einen Pool von Schiffen eines
-Eigners. 
+Eigners.
 Sollten trotz dieser flexiblen Möglichkeiten die Grenzwerte nicht eingehalten werden, werden Strafzahlungen 
 seitens der EU verhängt. Diese Bußgelder werden – mit der Auflage, diese für Projekte z. B. zur Verbesserung 
 der Energieeffizienz von Schiffen zu verwenden – an den jeweiligen Flaggenstaat überwiesen. 
@@ -4162,7 +3867,6 @@ Emissionen erfasst, ab 2026 zusätzlich die Treibhausgase Methan und Lachgas.
 Die Anreize des ETS zur Reduktion der CO2-Emissionen wirken in voller Höhe nur für die EU-interne Schifffahrt. 
 Für alle Fahrten in die EU und aus der EU werden jeweils nur 50 % der Emissionen dem Emissionsrechtehandel 
 unterworfen. Die Einnahmen aus dem ETS werden primär an die teilnehmenden Länder verteilt, die wiederum 
- 
 123 Lediglich etwa 55 % der Schiffe haben eine BRZ von 5.000 oder größer, diese sind jedoch für ungefähr 90 % der CO2-Emissionen des 
 Seeverkehrssektors verantwortlich. 
 124 Das Trans-European Transport Network (TEN-T) soll die Verkehrsinfrastruktur in der gesamten EU fördern und umfasst Eisenbahnen, 
@@ -4172,10 +3876,7 @@ port-network-ten-t_en: 23.4.2025)
 125 https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/eu-ets-emissions-cap_en (23.4.2025) 
 126 https://tradingeconomics.com/commodity/carbon (23.4.2025) 
 127 Ausgenommen vom ETS sind Kriegs-, Flottenhilfs- und einfache Holzschiffe, Schiffe ohne Motorenantrieb, staatliche Schiffe für nicht 
-gewerbliche Zwecke und Schiffe der Binnenschifffahrt. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+gewerbliche Zwecke und Schiffe der Binnenschifffahrt.
 dazu verpflichtet sind, die Gelder zur Unterstützung spezifischer Klimaschutzmaßnahmen und der Energiewende 
 zu verwenden. Darüber hinaus werden die Einnahmen zur Finanzierung des Innovationsfonds und des
 Modernisierungsfonds auf EU-Ebene eingesetzt und den EFTA-Ländern und Nordirland zugewiesen.128 
@@ -4230,10 +3931,7 @@ CO2/t*nm (Tonne*nautische Meile) angegeben. Zum Vergleich: Der CII der IMO wird 
 Energieerzeugnissen und elektrischem Strom 
 133 https://taxation-customs.ec.europa.eu/taxation/excise-taxes/revision-energy-taxation-directive_en#legal-texts (23.4.2025) 
 134 Verordnung (EU) 2020/852 vom 18. Juni 2020 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen und 
-zur Änderung der Verordnung (EU) 2019/2088 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+zur Änderung der Verordnung (EU) 2019/2088
 Für die Schifffahrt wird jedoch die Tank-to-Wake-Perspektive eingenommen, was bedeutet, dass nur solche 
 Kraftstoffe als nachhaltig gelten, die an Bord keinerlei CO2-Emissionen verursachen (Bundesregierung 2022b; 
 Hohmeyer et al. 2023, S. 256). 
@@ -4277,17 +3975,13 @@ Maßnahmen ergriffen wurden. Die Maßnahmen ergänzen sich zum Teil, stehen zum 
 zueinander. Dazu ist anzumerken, dass die IMO-Regelungen global gelten und somit ähnliche EU-Regelungen nicht 
 erforderlich sind und sogar kontraproduktiv sein können (dazu und zum Folgenden Hohmeyer et al. 2023, S. 259). 
 Wo jedoch IMO-Regelungen fehlen, können EU-Regelungen eine Pilotfunktion übernehmen: 
-– Sowohl DCS (IMO) als auch MRV (EU) sind Instrumente zur Erfassung von Treibstoffverbrauchsdaten und 
+– Sowohl DCS (IMO) als auch MRV (EU) sind Instrumente zur Erfassung von Treibstoffverbrauchsdaten und
 zur Bestimmung der CO2-Intensität von Schiffen. Beide Vorschriften beinhalten zudem Indizes zur
 Bestimmung der Schiffseffizienz in Bezug auf THG-Emissionen (IMO: CII, EU: EEOI). Hierbei werden die THG-
 Emissionen des Schiffsbetriebs ins Verhältnis zur Transportarbeit gesetzt. Während für den CII die
-theoretischen Transportleistung eines Schiffs herangezogen wird, wird der EEOI mittels der eigentlich geleisteten 
-Transportarbeit berechnet. 
- 
-135 https://www.ccr-zkr.org/12000000-de.html (23.4.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+theoretischen Transportleistung eines Schiffs herangezogen wird, wird der EEOI mittels der eigentlich geleisteten
+Transportarbeit berechnet.
+135 https://www.ccr-zkr.org/12000000-de.html (23.4.2025)
 – Bei dem GFS der IMO und der FuelEU-Maritime-Verordnung handelt es sich um Instrumente zur
 Begrenzung der THG-Intensität von Kraftstoffen. Die Berechnung der beiden Standards ist sehr ähnlich, die
 Reduktionsziele unterscheiden sich jedoch. Während der GFS ein Netto-null-Ziel für 2050 vorsieht, beschränkt 
@@ -4317,10 +4011,7 @@ Die Weiterentwicklung des IMO-Regelwerks ist derzeit nur sehr langsam möglich, 
 beschlossenen Maßnahmen im Annex VI der MARPOL-Konvention festgelegt werden und diese nur in einem Zyklus von 
 5 Jahren überarbeitet wird. Die sehr statische Ausrichtung der IMO steht im Widerspruch zu der Tatsache, dass 
 Schiffe Investitionsgüter mit einer Lebensdauer von ca. 25 bis 30 Jahren sind und heute neu gebaute Schiffe
-perspektivisch die Anforderungen zur CO2-Reduktion bis 2050 erfüllen müssen. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+perspektivisch die Anforderungen zur CO2-Reduktion bis 2050 erfüllen müssen.
 Es gibt verschiedene Ansatzpunkte, um die Lenkungswirkung des bestehenden Instrumentenmixes zu verbessern. 
 So basieren der EEDI, EEXI und CII nur auf der theoretischen Transportarbeit und nicht auf dem tatsächlichen 
 Betriebsprofil, was nicht die eigentlich geleistete Transportarbeit widerspiegelt und somit keinen Anreiz für die 
@@ -4340,10 +4031,7 @@ Assets führen. Damit werden Schiffe bezeichnet, die beispielsweise aus regulato
 nur noch zu extrem hohen Kosten betrieben werden können und damit unbrauchbar oder unwirtschaftlich werden. 
 Auch wenn die Anwendung auf Bestandsflotten aus Sicht der Klimaneutralität grundsätzlich zu begrüßen ist, 
 dürfen die wirtschaftlichen Konsequenzen bei der Weiterentwicklung des Regulierungsrahmens nicht außer Acht 
-gelassen werden. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+gelassen werden.
 6 Optionen zur Dekarbonisierung der Schifffahrt 
 Die Transformation zu einem klimaverträglichen Betrieb ist die zentrale Herausforderung der Schifffahrt für die 
 kommenden Jahrzehnte. Schiffe gehören zwar zu den energieeffizientesten Transportmitteln, sind aber derzeit für 
@@ -4395,10 +4083,7 @@ Entsprechende Maßnahmen wurden von der IMO bereits im Jahr 2013 eingeführt.
 – Ökonomische Instrumente wie der Zertifikatehandel im Rahmen des EU-weiten Emissionshandelssystems 
 (ETS), der eine schrittweise Reduzierung der Zertifikatemenge und damit der verfügbaren
 Emissionsberechtigungen vorsieht. Seit 2024 ist auch der Schiffsverkehr in das System integriert, wobei allerdings nur der 
-EU-interne Schiffsverkehr vollständig erfasst wird. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+EU-interne Schiffsverkehr vollständig erfasst wird.
 In der Summe ergibt sich ein komplexes Regelwerk. Es wäre wichtig, dass die Maßnahmen der EU konsequent 
 mit denen der IMO koordiniert werden, um doppelte Standards zu vermeiden und eine stringente Regulierung zu 
 gewährleisten. Die implementierten Instrumente der IMO sind derzeit noch nicht ausreichend, um die gesetzten 
@@ -4422,26 +4107,26 @@ Handlungsdrucks zur Dekarbonisierung der Schifffahrt erscheint dieser Revisionsz
 die notwendige Weiterentwicklung von Klimaschutzmaßnahmen in der Seeschifffahrt nicht angemessen. Dies 
 gilt umso mehr, als der bestehende Regulierungsrahmen einige wesentliche Defizite aufweist (dazu und zum
 Folgenden Hohmeyer et al. 2023, S. 319 f.): 
-– Viele Instrumente sowohl der IMO (EEDI, EEXI, SEEMP) als auch der EU (ETS, Taxonomieverordnung) 
-nehmen noch eine Schornsteinperspektive ein. Das bedeutet, dass nur die reinen Schiffsemissionen ohne 
-Vorkette (Tank to Wake) betrachtet werden. Im Unterschied zu fossilen Schiffskraftstoffen fallen allerdings 
+– Viele Instrumente sowohl der IMO (EEDI, EEXI, SEEMP) als auch der EU (ETS, Taxonomieverordnung)
+nehmen noch eine Schornsteinperspektive ein. Das bedeutet, dass nur die reinen Schiffsemissionen ohne
+Vorkette (Tank to Wake) betrachtet werden. Im Unterschied zu fossilen Schiffskraftstoffen fallen allerdings
 bei erneuerbaren Kraftstoffen die meisten THG-Emissionen in vorgelagerten Prozessschritten an. Die
-Tankto-Wake-Perspektive führt folglich dazu, dass die Treibhauswirkung erneuerbarer Kraftstoffe nicht in vollem 
-Umfang berücksichtigt wird. Damit werden massive Fehlanreize gesetzt, die zu klimaschädlichem Verhalten 
-der handelnden Akteure führen können. Neuere Regelungen wie die FuelEU-Maritime-Verordnung und der 
-GFS der IMO berücksichtigen daher bereits Well-to-Wake-Emissionen. Wichtig wäre es, diese möglichst 
-umfassende Bilanzierung der verschiedenen Kraftstoffe über die gesamte Herstellungs- und Nutzungskette 
-zur Grundlage aller Indikatoren und Regelungen zu machen. 
+Tankto-Wake-Perspektive führt folglich dazu, dass die Treibhauswirkung erneuerbarer Kraftstoffe nicht in vollem
+Umfang berücksichtigt wird. Damit werden massive Fehlanreize gesetzt, die zu klimaschädlichem Verhalten
+der handelnden Akteure führen können. Neuere Regelungen wie die FuelEU-Maritime-Verordnung und der
+GFS der IMO berücksichtigen daher bereits Well-to-Wake-Emissionen. Wichtig wäre es, diese möglichst
+umfassende Bilanzierung der verschiedenen Kraftstoffe über die gesamte Herstellungs- und Nutzungskette
+zur Grundlage aller Indikatoren und Regelungen zu machen.
 – Derzeit beziehen sich die von der IMO umgesetzten Maßnahmen (EEDI, EEXI sowie SEEMP) nur auf
 Kohlendioxid, nicht aber auf andere Treibhausgase, die durch den Einsatz neuer Kraftstoffe eine hohe
-Klimarelevanz erlangen können. Dazu gehören Methan, das unter anderem beim Einsatz von LNG entsteht und ein 
-wachsendes Problem darstellt (Kapitel 2.2.4), sowie Lachgas beim Einsatz von Ammoniak (Kapitel 2.2.5). 
-Durch die Fokussierung auf Kohlendioxid besteht die Gefahr von Fehlsteuerungen bei der Auswahl der 
-Kraftstoffe, da sowohl Methan als auch Lachgas ein deutlich höheres Treibhauspotenzial aufweisen. Deshalb 
-sollten alle relevanten Treibhausgase in die Regelungen einbezogen werden. 
-– Der derzeitige Rechtsrahmen gilt ausschließlich für Schiffe ab einer Größe von 5.000 BRZ. Damit werden 
-etwa 15 % der THG-Emissionen nicht erfasst (IMO 2025). In Zukunft wird es voraussichtlich notwendig 
-sein, auch kleinere Schiffe einzubeziehen. Die EU könnte hierbei eine Vorreiterrolle einnehmen. 
+Klimarelevanz erlangen können. Dazu gehören Methan, das unter anderem beim Einsatz von LNG entsteht und ein
+wachsendes Problem darstellt (Kapitel 2.2.4), sowie Lachgas beim Einsatz von Ammoniak (Kapitel 2.2.5).
+Durch die Fokussierung auf Kohlendioxid besteht die Gefahr von Fehlsteuerungen bei der Auswahl der
+Kraftstoffe, da sowohl Methan als auch Lachgas ein deutlich höheres Treibhauspotenzial aufweisen. Deshalb
+sollten alle relevanten Treibhausgase in die Regelungen einbezogen werden.
+– Der derzeitige Rechtsrahmen gilt ausschließlich für Schiffe ab einer Größe von 5.000 BRZ. Damit werden
+etwa 15 % der THG-Emissionen nicht erfasst (IMO 2025). In Zukunft wird es voraussichtlich notwendig
+sein, auch kleinere Schiffe einzubeziehen. Die EU könnte hierbei eine Vorreiterrolle einnehmen.
 6.2 Optionen bei erneuerbaren Kraftstoffen 
 Seit dem 1. Januar 2025 ist FuelEU-Maritime-Verordnung in Kraft, womit für Schiffe ab 5.000 BRZ, die EU-
 Häfen anlaufen, Höchstgrenzen für die durchschnittliche jährliche THG-Intensität auf der Basis von Well-to-
@@ -4451,10 +4136,7 @@ reduzieren muss (Mærsk Mc-Kinney Møller Center 2024b). Mit dem bestehenden Kra
 Reduktionsverpflichtungen voraussichtlich weitgehend erreicht werden, wobei LNG und Biodiesel als wichtige
 Brückentechnologien gelten (HFW 2024; IHK Nord 2022). B-Fuels wie Biodiesel (bzw. dessen Beimischung zu
 konventionellem Dieselkraftstoff) stellen aus heutiger Sicht eine kostengünstige Option zur Nutzung alternativer
-Kraftstoffe dar (dazu und zum Folgenden Hohmeyer et al. 2023, S. 292). Die Nutzung von Biomasse zur Herstellung 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Kraftstoffe dar (dazu und zum Folgenden Hohmeyer et al. 2023, S. 292). Die Nutzung von Biomasse zur Herstellung
 von Biokraftstoffen sollte sich jedoch möglichst auf Biomasse aus Abfall- und Reststoffen konzentrieren. Denn 
 Biokraftstoffe aus Anbaubiomasse stehen in direkter Konkurrenz zur Nahrungs- und Futtermittelmittelproduktion 
 oder zu Naturschutzflächen und können durch Landnutzungsänderungen THG-Emissionen in ähnlicher Höhe wie 
@@ -4508,10 +4190,7 @@ konstruktiver Sicht wichtige Frage ist in diesem Zusammenhang, ob und wie Ammoni
 werden kann. Obwohl erste Regeln für den Bau und Betrieb von Schiffen mit Ammoniak als Kraftstoff von 
 den Klassifikationsgesellschaften in Kraft gesetzt wurden, müssen diese Regeln noch sukzessive
 weiterentwickelt werden (Kapitel 5.1.4). Insgesamt gibt es einen erheblichen Zielkonflikt zwischen den
-wirtschaftlichen Vorteilen und den beträchtlichen Umwelt- und Gesundheitsrisiken. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+wirtschaftlichen Vorteilen und den beträchtlichen Umwelt- und Gesundheitsrisiken.
 Für alle erneuerbaren Kraftstoffe gilt, dass sie unter den derzeitigen Rahmenbedingungen deutlich teurer sind als 
 konventionelle Kraftstoffe und sich daher nur durchsetzen werden, wenn mit geeigneten Instrumenten
 regulatorisch in den Markt eingegriffen wird (Kapitel 6.1). Für die Herstellung von kohlenstoffhaltigen E-Fuels (E-FT 
@@ -4563,10 +4242,7 @@ Fuels verwendet, könnte es gegebenenfalls eine Option zur CO2-Gewinnung sein �
 damit CO2 kostengünstiger gewinnen lässt als mit DAC. Bei fossilen Kraftstoffen hilft OCCS nur dann,
 zusätzliche THG-Emissionen zu vermeiden, wenn das abgeschiedene CO2 unterirdisch gespeichert wird (CCS). CCS birgt 
 jedoch Risiken und macht den Aufbau einer eigenen Infrastruktur zur Abgabe an Land, für den Transport und die 
-Speicherung des CO2 erforderlich (DNV 2024a, S. 48 ff.; UBA 2024a). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Speicherung des CO2 erforderlich (DNV 2024a, S. 48 ff.; UBA 2024a).
 6.3 Optionen bei Schiffstypen 
 Die verschiedenen Schiffstypen unterscheiden sich nicht nur konstruktiv (Rumpfform, Art der Ladung, Antrieb), 
 sondern auch in ihrem Einsatzprofil (Durchschnittsgeschwindigkeiten, Routenlängen etc.). Dadurch ergeben sich 
@@ -4582,10 +4258,7 @@ Kreuzfahrtschiffe von hoher Relevanz (Kapitel 4.3.1). RoPax-Fähren sind hingege
 den transeuropäischen Verkehr. 
 Abbildung 6.1 Kraftstoffverbrauch der Schiffstypen 2018 
  
-Quelle: nach IMO (2021a, S. 8) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Quelle: nach IMO (2021a, S. 8)
 6.3.1 Frachtschiffe 
 6.3.1.1 Containerschiffe 
 Containerschiffe sind das Rückgrat des Welthandels und von allen Schiffstypen für den größten Teil des
@@ -4636,10 +4309,7 @@ Containerschiffen nach sich ziehen.
 Massengutfrachter und Tankschiffe sind für die weltweite wirtschaftliche Versorgung ebenfalls unverzichtbar, da 
 sie fossile und erneuerbare Energieträger, Rohstoffe, Nahrungsmittel und viele andere Produkte transportieren. 
 2018 hatten sie zusammen einen Anteil von ca. 55 % am gesamten Treibstoffverbrauch der Seeschiffsflotte
-(Abbildung 6.1) (dazu und zum Folgenden Hohmeyer et al. 2023, S. 280 f.): 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+(Abbildung 6.1) (dazu und zum Folgenden Hohmeyer et al. 2023, S. 280 f.):
 – Massengutfrachter transportieren trockene Massengüter, darunter alle Formen von Roherzen, Kohle,
 Getreide etc. Ein Großteil der Massengutfrachter hat mindestens Pan-Max-Größe (die größte Schiffsbreite von 
 32,24 m, die den alten Panamakanal passieren konnte), sodass Platz und Gewichtsprobleme bei der
@@ -4692,10 +4362,7 @@ Treibstoffverbrauch und die THG-Emissionen um etwa 25 % senken.
 Schiffe dieses Typs zeichnen sich dadurch aus, dass sie für den Transport bzw. die Erholung von Passagieren 
 entworfen und gebaut werden. Sie unterliegen daher in vielen Bereichen deutlich strengeren Vorschriften als 
 Frachtschiffe (z. B. Stabilität und Lecksicherheit, Feuersicherheit). Die Routenprofile sind sehr unterschiedlich 
-mit wechselnden Geschwindigkeiten, meist einem Hafenanlauf pro Tag und je nach Route mehr oder weniger 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+mit wechselnden Geschwindigkeiten, meist einem Hafenanlauf pro Tag und je nach Route mehr oder weniger
 langer Revierfahrt (d. h. nicht auf offener See). Lediglich im Ausnahmefall werden längere Strecken, wie z. B. im 
 Rahmen einer Atlantiküberquerung, zurückgelegt. Für den Betrieb von Passagierschiffen mit alternativen
 Kraftstoffen können einige allgemeinere Schlussfolgerungen gezogen werden (dazu und zum Folgenden Hohmeyer et 
@@ -4747,10 +4414,7 @@ Bedingungen kann der Einsatz einer Gas-und-Dampfturbine auf Kreuzfahrtschiffen e
 eingesetzten Viertaktverbrennungsmotoren nicht besonders effizient sind. Wenn im Betriebsprofil die Gas-und-
 Dampfanlage eine lange Zeit im optimalen Betriebspunkt gefahren werden kann, können die Potenziale bei der 
 Energieeinsparung gegebenenfalls realisiert werden. Ob die Installation bei den geschätzten
-Investitionsmehrkosten für eine Gas-und-Dampfanlage in Höhe von ca. 130 % gegenüber einem vergleichbaren dieselelektrischen 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Investitionsmehrkosten für eine Gas-und-Dampfanlage in Höhe von ca. 130 % gegenüber einem vergleichbaren dieselelektrischen
 Antrieb wirtschaftlich Sinn ergibt, kann nur im Einzelfall geprüft werden. Auch bei Kreuzfahrtschiffen sind
 Batterieantrieb und Windkraft prinzipiell eine Option, wie das Projekt „Sea Zero“ zeigt.136 Bis 2030 möchte die 
 norwegische Reederei Hurtigruten unter diesem Namen das erste emissionsfreie Kreuzfahrtschiff bauen, das über 
@@ -4802,10 +4466,7 @@ Schnellladeinfrastruktur ein wesentlicher Kostenfaktor. Grundsätzlich muss sich
 aus erneuerbaren Quellen stammt, um einen klimafreundlichen Betrieb zu gewährleisten. Ein Sicherheitsrisiko 
  
 136 https://www.hurtigruten.com/de-de/ueber-uns/nachhaltigkeit/sea-zero (23.4.2025) 
-137 https://www.scandlines.de/uber-uns/unsere-grune-agenda/wind-im-rotorsegel/ (23.4.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+137 https://www.scandlines.de/uber-uns/unsere-grune-agenda/wind-im-rotorsegel/ (23.4.2025)
 stellt die Energiemenge dar, die bei einem Brand der Batterie freigesetzt wird. Die heute üblicherweise
 verwendeten Lithium-Ionen-Batterien sind nur schwer zu löschen, wobei moderne Batteriesysteme mit einem BMS und 
 anderen Überwachungswerkzeugen ausgestattet sind, die das Risiko eines Brandes minimieren (Kapitel 2.2.6). 
@@ -4819,9 +4480,8 @@ Hohmeyer et al. 2023, S. 306 f.). Die rheinische Binnenschifffahrt setzt sich wi
 zusammen. 
 Abbildung 6.2 Zusammensetzung der Flotten nach Schiffstypen der rheinischen Binnenschifffahrt 
 (ZKR-Mitgliedsländer* und Luxemburg) 
- 
-* Zu den ZKR-Mitgliedsländern gehören Belgien, Deutschland, Frankreich, die Niederlande und die Schweiz. 
-Quelle: nach ZKR (2023) 
+* Zu den ZKR-Mitgliedsländern gehören Belgien, Deutschland, Frankreich, die Niederlande und die Schweiz.
+Quelle: nach ZKR (2023)
 Deutlich wird die überragende Bedeutung des Transports von Massen- und Konsumgütern. Es ist zu beachten, 
 dass die Binnenschifffahrt in Konkurrenz zum Schienen- und Straßenverkehr steht und in Deutschland nur rund 
 7 % des Güterverkehrs über die Binnenschifffahrt abgewickelt werden (UBA 2025). Das Durchschnittsalter der 
@@ -4846,10 +4506,7 @@ mittelfristig können Biokraftstoffe als Übergangslösung dienen, langfristig k
 synthetischem Methan (E-Methan) betrieben werden. 
 Die ZKR wurde mit der Mannheimer Ministererklärung vom 17. Oktober 2018 beauftragt, eine Roadmap zu
 entwickeln, wie eine weitgehende Beseitigung der THG-Emissionen und der Luftschadstoffe in der
-Binnenschifffahrt bis 2050 erreicht werden kann (Kapitel 5.3). Hierfür wurden zwei Szenarien definiert: ein konservatives, in 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Binnenschifffahrt bis 2050 erreicht werden kann (Kapitel 5.3). Hierfür wurden zwei Szenarien definiert: ein konservatives, in
 dem bereits ausgereifte Technologien kurzfristig und kosteneffizient eingesetzt werden können, und ein
 innovatives, das auf Technologien beruht, die langfristig ein vielversprechenderes Emissionsreduktionspotenzial
 aufweisen, sich aber noch in einem frühen Entwicklungsstadium befinden (ZKR 2022, S. 7): 
@@ -4900,38 +4557,35 @@ Deutschland bereits über eine gute Ausgangsbasis. Bis 2030 sollen in Deutschlan
 Stroms aus erneuerbaren Quellen stammen (Bundesregierung 2024b), indem unter anderem die Leistung der 
 Windkraftanlagen auf 145 GW mehr als verdoppelt wird. Der Aufbau einer relevanten deutschen
 Wasserstoffproduktion wird jedoch den Strombedarf deutlich ansteigen lassen und macht somit einen
-beschleunigten Ausbau erneuerbarer Energien erforderlich. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-– Die für die Wasserstofferzeugung benötigten Elektrolyseverfahren befinden sich derzeit in einer Phase der 
-ersten Marktdurchdringung und der weiteren technologischen Verbesserung. Sie werden in Deutschland 
+beschleunigten Ausbau erneuerbarer Energien erforderlich.
+– Die für die Wasserstofferzeugung benötigten Elektrolyseverfahren befinden sich derzeit in einer Phase der
+ersten Marktdurchdringung und der weiteren technologischen Verbesserung. Sie werden in Deutschland
 technologiepolitisch umfassend gefördert (Bundesregierung 2022a, S. 33). So sehen die Nationale
 Wasserstoffstrategie und ihre Fortschreibung den Markthochlauf von Wasserstoff bis 2030 und den Aufbau
 inländischer Produktionskapazitäten vor (Bundesregierung 2020, 2023). Bis 2030 sollen inländische
-Elektrolysekapazitäten in Höhe von 10 GW aufgebaut werden. In Deutschland waren Anfang 2024 jedoch nur ca. 
+Elektrolysekapazitäten in Höhe von 10 GW aufgebaut werden. In Deutschland waren Anfang 2024 jedoch nur ca.
 66 MW Elektrolysekapazität in Betrieb (weltweit ca. 1,4 GW), sodass diese Ziele sehr ambitioniert
-erscheinen (IEA 2024b, S. 66; Löschel et al. 2024, S. 15). Da grüner Wasserstoff nicht nur für die Dekarbonisierung 
-des Flug- und Schiffsverkehrs, sondern auch in der Chemie- und Stahlindustrie dringend benötigt wird, dürfte 
-der Bedarf ab 2030 stark ansteigen. Die Bundesregierung (2023, S. 6) geht für das Jahr 2030 von einem 
-Gesamtwasserstoffbedarf in Höhe von 95 bis 130 TWh aus, was einer Elektrolyseleistung von 39 bis 52 GW 
-entspricht (Brüggemann 2024). Die Produktionskapazitäten in Deutschland werden dafür bei Weitem nicht 
-ausreichen, sodass ein Großteil des Wasserstoffs importiert werden muss – über eine neu zu errichtende 
-Infrastruktur mit Pipelines oder auf dem Seeweg. Insgesamt befindet sich die Wasserstoffwirtschaft also 
-noch in einer sehr frühen Hochlaufphase und ist auf eine verlässliche und langfristige staatliche Förderung 
-angewiesen. 
-– Für die Produktion kohlenstoffbasierter E-Fuels ist die ausreichende Verfügbarkeit von CO2 ein weiterer 
-Engpass. Um den Energiebedarf der Seeschifffahrt mit diesen E-Fuels zu decken, wäre eine Gewinnung von 
-rund 600 Mio. t CO2 pro Jahr erforderlich (dazu und zum Folgenden Hohmeyer et al. 2023, S. 147 f.). Eine 
+erscheinen (IEA 2024b, S. 66; Löschel et al. 2024, S. 15). Da grüner Wasserstoff nicht nur für die Dekarbonisierung
+des Flug- und Schiffsverkehrs, sondern auch in der Chemie- und Stahlindustrie dringend benötigt wird, dürfte
+der Bedarf ab 2030 stark ansteigen. Die Bundesregierung (2023, S. 6) geht für das Jahr 2030 von einem
+Gesamtwasserstoffbedarf in Höhe von 95 bis 130 TWh aus, was einer Elektrolyseleistung von 39 bis 52 GW
+entspricht (Brüggemann 2024). Die Produktionskapazitäten in Deutschland werden dafür bei Weitem nicht
+ausreichen, sodass ein Großteil des Wasserstoffs importiert werden muss – über eine neu zu errichtende
+Infrastruktur mit Pipelines oder auf dem Seeweg. Insgesamt befindet sich die Wasserstoffwirtschaft also
+noch in einer sehr frühen Hochlaufphase und ist auf eine verlässliche und langfristige staatliche Förderung
+angewiesen.
+– Für die Produktion kohlenstoffbasierter E-Fuels ist die ausreichende Verfügbarkeit von CO2 ein weiterer
+Engpass. Um den Energiebedarf der Seeschifffahrt mit diesen E-Fuels zu decken, wäre eine Gewinnung von
+rund 600 Mio. t CO2 pro Jahr erforderlich (dazu und zum Folgenden Hohmeyer et al. 2023, S. 147 f.). Eine
 Schlüsselrolle für die großtechnische Herstellung kohlenstoffhaltiger E-Fuels kommt DAC zu, also der
 direkten Entnahme von CO2 aus der Umgebungsluft (Kapitel 2.1.1.2). Für die Hochskalierung von DAC
-müssen die technischen Verfahren weiterentwickelt, im industriellen Maßstab demonstriert und anschließend die 
-Kosten durch Massenproduktion deutlich gesenkt werden (Breitschopf et al. 2023). Die EU und Deutschland 
+müssen die technischen Verfahren weiterentwickelt, im industriellen Maßstab demonstriert und anschließend die
+Kosten durch Massenproduktion deutlich gesenkt werden (Breitschopf et al. 2023). Die EU und Deutschland
 hinken bei der Entwicklung von DAC-Ländern wie den USA oder Großbritannien hinterher, die diese
-Technologie in größerem Umfang fördern (IEA 2022, S. 54 ff.). 2024 befanden weltweit etwa 130 DAC-Anlagen 
+Technologie in größerem Umfang fördern (IEA 2022, S. 54 ff.). 2024 befanden weltweit etwa 130 DAC-Anlagen
 in Planung, die meisten davon in den USA, Norwegen, Island, Kenia und den Vereinigten Arabischen
-Emiraten (IEA 2024a). Um die DAC-Technologie auch in Deutschland zur Serienreife zu bringen, wäre eine 
-gezielte Förderung von Forschung und Entwicklung sowie von Demonstrationsprojekten notwendig. 
+Emiraten (IEA 2024a). Um die DAC-Technologie auch in Deutschland zur Serienreife zu bringen, wäre eine
+gezielte Förderung von Forschung und Entwicklung sowie von Demonstrationsprojekten notwendig.
 Die Herstellung von E-Fuels im industriellen Maßstab benötigt eine optimierte Integration aller Prozesse, von der 
 erneuerbaren Stromerzeugung über die Wasserbereitstellung und Elektrolyse, die CO2-Bereitstellung durch DAC 
 bis hin zur Synthese der verschiedenen Kraftstoffe (dazu und zu Folgendem Hohmeyer et al. 2023, S. 147 f.). Um 
@@ -4954,14 +4608,10 @@ ermöglichen. Die Bereitstellung von Landstrom ist aufgrund der unterschiedliche
 zwischen Land und Schiff technisch anspruchsvoll und entsprechend kostenintensiv (VDR 2020). Die
 Landstromversorgung der deutschen See- und Binnenhäfen machte in den letzten Jahren zwar Fortschritte, befindet sich aber 
 noch im Aufbau und wird unter anderem durch das BMDV gefördert (Ninnemann et al. 2022).140 Außerdem hat 
- 
 138 https://www.forschungsnetzwerke-energie.de/forschungsnetzwerke-energie (23.4.2025) 
 139 https://www.forschungsnetzwerke-energie.de/wasserstoff (23.4.2025) 
 140 https://www.now-gmbh.de/foerderung/foerderfinder/foerderung-alternativer-technologien-fuer-die-umweltfreundliche-bordstrom-
-undmobile-landstromversorgung-von-see-und-binnenschiffen-bordstromtech-ii/ (17.4.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+undmobile-landstromversorgung-von-see-und-binnenschiffen-bordstromtech-ii/ (17.4.2025)
 die EU inzwischen die rechtlichen Weichen für eine Landstromverpflichtung sowohl auf Schiffs- als auch auf 
 Hafenseite gestellt. So wurde in der FuelEU-Maritime-Verordnung eine Landstromverpflichtung für Schiffe ab 
 2030 festgelegt. Parallel dazu verpflichtet diese Verordnung über den Aufbau der Infrastruktur für alternative 
@@ -5014,10 +4664,7 @@ Schiffbaunationen wie Südkorea oder Japan, etwa um gemeinsame Standards zu entw
 ammoniakbetriebene Schiffe oder vielversprechende Effizienztechnologien wie Windantriebe). 
  
 141 Verordnung (EU) 2023/1804 vom 13. September 2023 über den Aufbau der Infrastruktur für alternative Kraftstoffe und zur Aufhebung 
-der Richtlinie 2014/94/EU 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+der Richtlinie 2014/94/EU
 Für die stark exportorientierte maritime Industrie in Deutschland (insbesondere Schiffbau und Zulieferer) bietet 
 die klimaverträgliche Transformation große Chancen. Deutsche Unternehmen können im stark wachsenden Markt 
 für alternative Antriebe, energieeffiziente Schiffstechnologien und notwendige Infrastrukturkomponenten eine 
@@ -5033,10 +4680,7 @@ nationalen Forschungsprogramme könnte durch die Entwicklung einer koordinierten
 überwunden werden, die den gesamten Innovationszyklus abdeckt. Parallel dazu könnte Deutschland auf EU-
 Ebene auf eine stärkere Harmonisierung der verschiedenen Förderprogramme hinwirken. In den kommenden
 Jahren hat Deutschland die Chance, durch koordiniertes Handeln sowohl zur globalen Dekarbonisierung der
-Schifffahrt beizutragen als auch die eigene maritime Industrie zu stärken. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Schifffahrt beizutragen als auch die eigene maritime Industrie zu stärken.
 7 Literatur 
 7.1 In Auftrag gegebenes Gutachten 
 Hohmeyer, O. et al. (2023): Maritime Kraftstoffe und Schiffbaukonzepte der Zukunft. SCS Hohmeyer und 
@@ -5082,10 +4726,7 @@ Bei, Z. et al. (2024): Challenges and Solutions of Ship Power System Electrifica
 Art. 3311, https://doi.org/10.3390/en17133311 
 Binnenschifffahrt Online (2019): Köln bekommt LNG-Bunkeranlage für Binnenschiffe. 
 https://binnenschifffahrt-online.de/2019/05/featured/7131/lng-bunkeranlage-fuer-binnenschiffe-in-ko
-elnim-bau/ (3.4.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+elnim-bau/ (3.4.2025)
 BMWi (2017): Maritime Agenda 2025. Für die Zukunft des maritimen Wirtschaftsstandortes Deutschland. 
 Bundesministerium für Wirtschaft und Energie, Berlin 
 BMWK (2024): Bekanntmachung der Richtlinie zur Förderung von Forschung, Entwicklung und Innovation in 
@@ -5132,10 +4773,7 @@ ClassNK (2023): ClassNK issues approval in principle (AiP) for hydrogen-fueled v
 https://www.classnk.or.jp/hp/en/hp_news.aspx?id=10422&type=press_release&layout=1 (7.1.2025) 
 CLIA (2024): Kreuzfahrtmarkt: Anzahl der Passagiere weltweit bis 2023. Statista, 
 https://de.statista.com/statistik/daten/studie/285194/umfrage/passagiere-auf-dem-weltweiten-
-kreuzfahrtmarkt/ (20.3.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+kreuzfahrtmarkt/ (20.3.2025)
 Climeworks (2023): The carbon removal production waterfall. https://climeworks.com/news/the-carbon-
 removal-production-waterfall (2.1.2025) 
 Comer, B. et al. (2022): Comparing the future demand for, supply of, and life-cycle emissions from bio, 
@@ -5181,10 +4819,7 @@ Reduction Measures on a Medium Sized Container Ship. In: International Journal o
 Engineering 163, Part A3, S. A121–A132, https://doi.org/10.5750/ijme.v163iA3.805 
 EMSA (2023a): Potential of ammonia as fuel in shipping. European Maritime Safety Agency, Lissabon 
 EMSA (2023b): Report – potential of hydrogen as fuel for shipping. European Maritime Safety Agency, 
-Lissabon 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Lissabon
 EMSA (2023c): Report - potential of wind-assisted propulsion for shipping. European Maritime Safety Agency, 
 Lissabon 
 EMSA (2023d): Update on potential of biofuels in shipping. European Maritime Safety Agency, Lissabon 
@@ -5229,10 +4864,7 @@ Grosso, M. et al. (2021): The Role of Research and Innovation in Europe for the 
 Transport. In: Sustainability 13(18), Art. 10447, https://doi.org/10.3390/su131810447 
 Grotelüschen, F. (2018): Tolle Idee! Was wurde daraus? - Segel für Containerschiffe. Deutschlandfunk, 
 https://www.deutschlandfunk.de/tolle-idee-was-wurde-daraus-segel-fuer-containerschiffe-100.html 
-(14.11.2024) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+(14.11.2024)
 GSN (2020): Biofouling – Lösungsansätze gegen Biofouling an Schiffsrümpfen. Kompetenzzentrum 
 GreenShipping Niedersachsen (Hg.), Elsfleth 
 Günnel, T. (2021): Flettner-Rotor soll Verbrauch von Fähren senken. Next Mobility, https://www.next-
@@ -5278,10 +4910,7 @@ releases/project-courant-in-baie-comeau-quebec (10.2.2025)
 HySTRA (o. J.): HySTRA - About. Hydrogen Energy Supply-chain Technology Research Association, 
 http://www.hystra.or.jp/ (28.11.2024) 
 IAEA (2024): Small modular reactors: Advances in SMR Developments. International Atomic Energy Agency, 
-Wien 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Wien
 idw (2022): „Für die Schifffahrt ist das ein Daniel Düsentrieb-Moment“. Informationsdienst Wissenschaft, 
 https://idw-online.de/de/news800605 (13.5.2025) 
 IEA (2021): Ammonia technology roadmap: Towards more sustainable nitrogen fertiliser production. 
@@ -5327,10 +4956,7 @@ Oil Consumption Database in GISIS (Reporting year: 2023). International Maritime
 London 
 IMO (2025): IMO approves net-zero regulations for global shipping. International Maritime Organization, 
 https://www.imo.org/en/MediaCentre/PressBriefings/pages/IMO-approves-netzero-regulations.aspx 
-(15.4.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+(15.4.2025)
 IN4climate.RR (2022): Technologiekomponentenanalyse Direct Air Capture. Wuppertal 
 Intercontinental Exchange (2025): EU-Emissionshandel: Entwicklung der Preise 2025. Statista, 
 https://de.statista.com/statistik/daten/studie/1454492/umfrage/co2-preise-im-emissionshandelssystem-
@@ -5375,10 +5001,7 @@ news/agriculture/072424-chinas-green-ammonia-capacity-in-focus-ahead-of-coal-pow
 (10.2.2025) 
 Lindner, M. (2024): Wasserstoff: Erste Erfolge mit Ammoniak als CO2-freiem Treibstoff bei Schiffen. 
 Telepolis, https://www.telepolis.de/features/Wasserstoff-Erste-Erfolge-mit-Ammoniak-als-CO2-freiem-
-Treibstoff-bei-Schiffen-9997667.html (7.2.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Treibstoff-bei-Schiffen-9997667.html (7.2.2025)
 Lindstad, E. et al. (2021): Reduction of maritime GHG emissions and the potential role of E-fuels. In: 
 Transportation Research Part D: Transport and Environment 101, Art. 103075, 
 https://doi.org/10.1016/j.trd.2021.103075 
@@ -5424,12 +5047,9 @@ MarineLink (2025): The Nuclear Option: ABS Grants AIP for 15K TEU Nuclear-Propel
 https://www.marinelink.com/news/nuclear-option-abs-grants-aip-k-teu-522571 (20.10.2025) 
 Menzel, N. (2021): Kawasaki nimmt Importterminal für Wasserstoff in Betrieb. CHEMIE TECHNIK, 
 https://www.chemietechnik.de/anlagenbau/kawasaki-nimmt-importterminal-fuer-wasserstoff-in-betrieb-
-103.html (2.9.2025) 
+103.html (2.9.2025)
 Methanol Institute (o.J.a): Methanol Price and Supply/Demand. https://www.methanol.org/methanol-price-
-supply-demand/ (24.7.2024) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+supply-demand/ (24.7.2024)
 Methanol Institute (o.J.b): Renewable Methanol. https://www.methanol.org/renewable/ (24.7.2024) 
 MI News Network (2024): China Successfully Completes Its First Ammonia Bunkering Operation. 
 https://www.marineinsight.com/shipping-news/china-successfully-completes-its-first-ammonia-
@@ -5476,10 +5096,7 @@ Zannis/publication/304335354_Energy_Saving_Techniques_in_Ships_Technical_and_Ope
 ures/links/577387f808aead7ba06cbabb/Energy-Saving-Techniques-in-Ships-Technical-and-Operational-
 Measures.pdf (25.7.2025) 
 Patel, P. (2024): The Case for Nuclear Cargo Ships. IEEE Spectrum, https://spectrum.ieee.org/nuclear-powered-
-cargo-ship (13.10.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+cargo-ship (13.10.2025)
 Petković, M. et al. (2021): Wind Assisted Ship PropulsionTechnologies – Can they Help in Emissions 
 Reduction? In: Naše more 68(2), S. 102–109, https://doi.org/10.17818/NM/2021/2.6 
 Prevljak, N. H. (2024): Japan to launch first ammonia-fueled ammonia gas carrier in 2026. Offshore Energy, 
@@ -5524,10 +5141,7 @@ Schaal, S. (2021): Stena Line plant zwei E-Fähren in der Ostsee. electrive.net,
 https://www.electrive.net/2021/02/09/stena-line-plant-zwei-e-faehren-in-der-ostsee/ (3.4.2025) 
 Schaudwet, C. (2025): Grüner Wasserstoff wird und bleibt teurer. Tagesspiegel Background, 
 https://background.tagesspiegel.de/energie-und-klima/briefing/gruener-wasserstoff-wird-und-bleibt-
-teurer (24.6.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+teurer (24.6.2025)
 Schemme, S. (2020): Techno-ökonomische Bewertung von Verfahren zur Herstellung von Kraftstoffen aus H2 
 und CO2. Forschungszentrum Jülich GmbH, Dissertation Energie & Umwelt 511, Jülich, 
 https://doi.org/10.18154/RWTH-2020-09988 
@@ -5573,10 +5187,7 @@ Statista (2025): Ammonia production worldwide 2023. https://www.statista.com/sta
 ammonia-production/ (10.2.2025) 
 Stena Line (2025): Stena Germanica. https://stenaline.com/about-us/our-ships/stena-germanica/ (17.1.2025) 
 SVA (2015): Twin- und Gegenlaufpropeller. https://www.sva-potsdam.de/gegenlauf-und-tandempropeller/ 
-(7.1.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+(7.1.2025)
 Svanberg, M. et al. (2018): Renewable methanol as a fuel for the shipping industry. In: Renewable and 
 Sustainable Energy Reviews 94, S. 1217–1228, https://doi.org/10.1016/j.rser.2018.06.058 
 TAB (2022): Innovative Schiffbaukonzepte: Beitrag zur Nachhaltigkeit (Autor/innen: Kind, S. und Meißner, 
@@ -5623,10 +5234,7 @@ UBA (2022a): Kurzeinschätzung von Ammoniak als Energieträger und Transportmedi
 Stärken, Schwächen, Chancen und Risiken. Umweltbundesamt, Dessau-Roßlau 
 UBA (2022b): Seeverkehr – Luftschadstoffe, Energieeffizienz und Klimaschutz. Umweltbundesamt, 13.6.2022, 
 https://www.uba.de/n10949de (11.12.2024) 
-UBA (2022c): Die Treibhausgase. Umweltbundesamt, 14.11.2022, https://www.uba.de/n17728de (10.4.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+UBA (2022c): Die Treibhausgase. Umweltbundesamt, 14.11.2022, https://www.uba.de/n17728de (10.4.2025)
 UBA (2024a): Carbon Capture and Storage. Umweltbundesamt, 28.2.2024, https://www.uba.de/n11085de 
 (9.4.2025) 
 UBA (2024b): Wie klimaschädlich sind Flugreisen und Kreuzfahrten? Umweltbundesamt, 12.4.2024, 
@@ -5673,10 +5281,7 @@ as zero-carbon fuels for sustainable shipping. In: International Journal of Hydr
 1087, https://doi.org/10.1016/j.ijhydene.2023.10.207 
 Wärtsilä (2024): Landmark deal between Wärtsilä and Eidesvik Offshore pioneers growing demand for 
 ammonia in shipping. https://www.wartsila.com/media/news/26-08-2024-landmark-deal-between-
-wartsila-and-eidesvik-offshore-pioneers-growing-demand-for-ammonia-in-shipping-3485578 (7.2.2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+wartsila-and-eidesvik-offshore-pioneers-growing-demand-for-ammonia-in-shipping-3485578 (7.2.2025)
 Wasserstoffkompass (2022): Elektrolysekapazitäten. Leistungen, Zielsetzungen und Bedarfe bis 2030. Berlin 
 Wikipedia (o. J.): Blockkoeffizient. 
 https://de.wikipedia.org/w/index.php?title=Blockkoeffizient&oldid=249537411 (13.8.2025) 
@@ -5704,10 +5309,7 @@ Zentralkommission für die Rheinschifffahrt, Rotterdam
 ZKR (2022): Roadmap der ZKR zur Verringerung der Emissionen in der Binnenschifffahrt. Zentralkommission 
 für die Rheinschifffahrt, Straßburg 
 ZKR (2023): Broschüre der Zentralkommission für die Rheinschifffahrt. Zentralkommission für die 
-Rheinschifffahrt, Straßburg 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Rheinschifffahrt, Straßburg
 8 Anhang 
 8.1 Abbildungen 
 Seite 
@@ -5744,29 +5346,21 @@ Abbildung 6.2 Zusammensetzung der Flotten nach Schiffstypen der
 rheinischen Binnenschifffahrt  
 (ZKR-Mitgliedsländer* und Luxemburg) ...........................  104 
 8.2 Tabellen 
-Tabelle 4.1 Widerstandsanteile bei verschiedenen Schiffstypen ...........  62 
- 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Tabelle 4.1 Widerstandsanteile bei verschiedenen Schiffstypen ...........  62
 8.3 Kästen 
 Seite 
-Kasten 2.1 Arten von Wasserstoff (Farben des Wasserstoffs) ..............  23 
+Kasten 2.1 Arten von Wasserstoff (Farben des Wasserstoffs) .............. 23 
 Kasten 2.2 Verfahren zur Herstellung von 
-Elektrolysewasserstoff ........................................................  23 
+Elektrolysewasserstoff ........................................................ 23 
 Kasten 2.3 Zur Klimawirkung von Wasserstoff aus 
-fossilen Quellen ...................................................................  26 
+fossilen Quellen ................................................................... 26 
 Kasten 2.4 Verfahren zur CO2-Gewinnung durch Direct Air 
-Capture ................................................................................  28 
-Kasten 2.5 Methodik der THG-Emissionsabschätzung.........................  32 
-Kasten 4.1 Kostenaspekte beim Bau und Betrieb von Schiffen ............  74 
+Capture ................................................................................ 28 
+Kasten 2.5 Methodik der THG-Emissionsabschätzung......................... 32 
+Kasten 4.1 Kostenaspekte beim Bau und Betrieb von Schiffen ............ 74 
 Kasten 4.2 Beispielhafte EU-Projekte zu innovativen 
-Schiffbautechnologien .........................................................  77 
-Kasten 4.3 Ausgewählte nationale Förderprojekte ................................  80 
- 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Schiffbautechnologien ......................................................... 77 
+Kasten 4.3 Ausgewählte nationale Förderprojekte ................................ 80
 8.4 Abkürzungen 
 AEL alkalische Elektrolyse 
 AEM FC Anion-Exchange Membrane Fuel Cell 
@@ -5805,10 +5399,7 @@ IPCC Intergovernmental Panel on Climate Change
 ISO International Organization for Standardization 
 IMO International Maritime Organization/Internationale Seeschifffahrtsorganisation 
 kWh/MWh Kilo-/Megawattstunde 
-LCA Life-Cycle-Assessment 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+LCA Life-Cycle-Assessment
 LMG/LNG Liquefied Methane Gas/Liquefied Natural Gas 
 LPG Liquified Petroleum Gas 
 LSMG Liquefied Synthetic Methane Gas 
@@ -5844,6 +5435,6 @@ WASP Wind-assisted Propulsion
 WTP Waterborne Technology Platform 
 ZIM Zentrales Innovationsprogramm Mittelstand 
 ZKR Zentralkommission für die Rheinschifffahrt 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de 
+ISSN 0722-8333

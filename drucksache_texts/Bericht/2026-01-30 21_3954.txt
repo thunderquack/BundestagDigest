@@ -1,4 +1,4 @@
-Bericht
+Bericht  
  
 des Ausschusses für Forschung, Technologie, Raumfahrt 
 und Technikfolgenabschätzung (18. Ausschuss) 
@@ -8,31 +8,27 @@ Technologische Möglichkeiten zur Reduktion von Kunststoffabfällen
 in den Meeren 
 Inhal tsverzeichnis  
 Seite 
-Vorwort des Ausschusses ............................................................................. 3 
-Das Wichtigste in Kürze .............................................................................. 7 
-1 Einleitung ........................................................................................ 9 
-2 Mengen und Verbleib von Kunststoffen im Meer ....................... 11 
-2.1 Quellen und Eintragspfade ............................................................... 11 
-2.2 Verbreitung und Akkumulationszonen ............................................. 12 
-2.3 Zustand der Ost- und Nordsee .......................................................... 14 
+Vorwort des Ausschusses .............................................................................  3 
+Das Wichtigste in Kürze ..............................................................................  7 
+1 Einleitung ........................................................................................  9 
+2 Mengen und Verbleib von Kunststoffen im Meer .......................  11 
+2.1 Quellen und Eintragspfade ...............................................................  11 
+2.2 Verbreitung und Akkumulationszonen .............................................  12 
+2.3 Zustand der Ost- und Nordsee ..........................................................  14 
 3 Gefährdung für Meereslebewesen, Menschen und 
-Wirtschaft ........................................................................................ 16 
+Wirtschaft ........................................................................................  16 
 4 Stand aktueller Entwicklungen von Technologien zur 
 Entfernung von Kunststoffen aus Abwasser und 
-Gewässern ....................................................................................... 19 
-5 Technologiebewertung und Einsatzmöglichkeiten ...................... 22 
-5.1 Behandlung von Abwasser und Regenwasser .................................. 22 
-5.1.1 Kläranlagen ....................................................................................... 22 
-5.1.2 Kanalisation ...................................................................................... 25 
-5.2 Stationäre Technologien an Flussmündungen und Häfen ................ 27 
+Gewässern .......................................................................................  19 
+5 Technologiebewertung und Einsatzmöglichkeiten ......................  22 
+5.1 Behandlung von Abwasser und Regenwasser ..................................  22 
+5.1.1 Kläranlagen .......................................................................................  22 
+5.1.2 Kanalisation ......................................................................................  25 
+5.2 Stationäre Technologien an Flussmündungen und Häfen ................  27 
 5.3 Mobile Technologien zur Reinigung von Akkumulationszonen 
-und Geisternetzen ............................................................................. 31 
+und Geisternetzen .............................................................................  31 
 Deutscher Bundestag Drucksache 21/3954 
 21. Wahlperiode 30.01.2026
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
 Seite 
 5.4 Fazit und übergreifende Erwägungen ...............................................  35 
 6 Geltender regulatorischer Rahmen und Aktivitäten gegen 
@@ -49,12 +45,7 @@ ausbauen .......................................................................
 9 Anhang.............................................................................................  56 
 9.1 Europäischer Regulierungsrahmen für die Meerespolitik ................  56 
 9.2 Abbildungen .....................................................................................  58 
-9.3 Tabellen ............................................................................................  58 
- 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+9.3 Tabellen ............................................................................................  58
 Vorwort des Ausschusses 
 Die zunehmende Verschmutzung der Meere mit Kunststoffabfällen ist eine
 globale Herausforderung, die ökologische, wirtschaftliche und gesellschaftliche
@@ -98,34 +89,16 @@ Berichterstatter
 Dr. Andrea Lübcke  
 Berichterstatterin 
 Sonja Lemke  
-Berichterstatterin 
- 
- 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Berichterstatterin
 Pauline Riousset 
 Technologische Möglichkeiten zur Reduktion von 
 Kunststoffabfällen in den Meeren 
-TA-Kompakt Nr. 5 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+TA-Kompakt Nr. 5
 Das Büro für Technikfolgen-Abschätzung beim Deutschen Bundestag (TAB) berät das Parlament und seine
 Ausschüsse in Fragen des wissenschaftlich-technischen Wandels. Das TAB wird seit 1990 vom Institut für
 Technikfolgenabschätzung und Systemanalyse (ITAS) des Karlsruher Instituts für Technologie (KIT) betrieben. Hierbei 
 kooperiert es seit September 2013 mit dem IZT – Institut für Zukunftsstudien und Technologiebewertung gGmbH 
-sowie dem Institut für Innovation und Technik (iit) in der VDI/VDE Innovation + Technik GmbH. 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+sowie dem Institut für Innovation und Technik (iit) in der VDI/VDE Innovation + Technik GmbH.
 Das Wichtigste in Kürze 
 Fünf Fragen – fünf Antworten 
  Wie sammeln sich Kunststoffabfälle im Meer? 
@@ -171,11 +144,7 @@ reduzieren?
 – Emissionen von Kunststoffen werden in der EU umfangreich reguliert. In den letzten Jahren lag der 
 Fokus neuer Regulierungen verstärkt auf der Vermeidung von Littering und von
 Mikroplastikemissionen. Reinigungstechnologien sind bisher kaum Gegenstand von Regulierung oder Normierung
-gewesen. 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+gewesen.
 – Um die grenzüberschreitenden Auswirkungen der Verschmutzung durch Plastik zu reduzieren, fördert 
 Deutschland internationale Projekte gegen Meeresmüll und für saubere Meere insgesamt. 
 – Im Rahmen der internationalen Verhandlungen über ein Abkommen zur Bekämpfung der
@@ -198,11 +167,7 @@ Schritt.
 von Meeresmüll den Technologietransfer zu Reinigungstechnologien ausreichend abdecken. 
 – Deutschland könnte sich im Rahmen der internationalen Verhandlungen über ein Abkommen zur
 Bekämpfung der Plastikverschmutzung weiterhin für einen internationalen finanziellen Mechanismus
-einsetzen und die Förderbedingungen für Projekte mitgestalten. 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+einsetzen und die Förderbedingungen für Projekte mitgestalten.
 1 Einleitung 
 Die weltweite Produktion von Kunststoffen ist innerhalb der letzten 70 Jahre stark angestiegen. Allein seit 
 2002 hat sie sich mehr als verdoppelt. Im Jahr 2024 betrug sie 430,9 Mio. t (Statista 2025). Ein Großteil der 
@@ -252,11 +217,7 @@ ambitionierten Szenario, in dem die Mitgliedstaaten der Vereinten Nationen Verpf
 dürften bis 2030 jährlich zwischen 20 und 53 Mio. t Kunststoffabfälle in die Gewässer gelangen (Borrelle et al. 
 2020). Das ist problematisch, denn eine Akkumulation, beispielsweise in den ozeanischen Müllstrudeln, erfolgt 
 zeitlich verzögert. Es dauert also mehrere Jahre, bevor Maßnahmen zur Reduzierung der dort akkumulierten
-Mengen führen (Lebreton 2022, S. 731). 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Mengen führen (Lebreton 2022, S. 731).
 Zielsetzung und Vorgehensweise 
 In dem vom Ausschuss für Bildung, Forschung und Technikfolgenabschätzung initiierten Projekt des Büros für 
 Technikfolgen-Abschätzung beim Deutschen Bundestag (TAB) sollten im Rahmen einer TA-Kompakt-Studie 
@@ -289,11 +250,7 @@ Berichtsentwurfs herzlich gedankt. Ein besonderer Dank gilt ihnen außerdem für
 wichtige Publikationen zu den Quellen, der Akkumulation und der Verbreitung von Kunststoffen im Meer. Dank 
 gebührt ebenfalls Dr. Arnold Sauter für Durchsicht und Kommentierung von Entwurfsversionen sowie Brigitta-
 Ulrike Goelsdorf für die Bearbeitung der Abbildungen, die redaktionelle Bearbeitung des Manuskripts und die 
-Erstellung des Layouts. 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Erstellung des Layouts.
 2 Mengen und Verbleib von Kunststoffen im Meer 
 – Plastik findet sich in allen Wasserkompartimenten rund um den Globus. 
 – Littering ist die größte Emissionsquelle von Makroplastik im Globalen Norden, während nicht vorhandene 
@@ -343,11 +300,7 @@ er sich ansammelt und erst nach und nach in die (aquatischen) Ökosysteme im Lan
 Haushalten, Industrien und Gewerben zur Behandlung in eine Kläranlage (Trennsystem) oder aber eine Mischung 
 aus Schmutz- und Niederschlagswasser (Mischsystem), wenn diese in einen gemeinsamen Kanal abgeleitet 
 werden. Reststoffe, die nicht über die Behandlung in Kläranlagen entfernt werden, gelangen dann über das 
-Klärwasser oder das Ausbringen von Klärschlamm in der Landwirtschaft in die Umwelt. 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Klärwasser oder das Ausbringen von Klärschlamm in der Landwirtschaft in die Umwelt.
 – Mischwasserentlastungen: Im Mischsystem gelangen die Kapazitäten einer Kläranlage bei Starkregen 
 schneller an ihre Grenzen. Ist die Kanalisation überfordert, gelangt unbehandeltes Mischwasser in die
 Gewässer. 
@@ -399,11 +352,7 @@ dokumentiert (Eriksen et al. 2014; Reisser et al. 2015; Tekman et al. 2020). Die
 hängt von zahlreichen Parametern ab, darunter die lokalen hydrogeografischen Bedingungen, die Witterung, die 
 Eigenschaften der Fragmente sowie die physikalisch-chemischen und biochemischen Prozesse im Meerwasser, 
 durch welche die Partikel sich verändern (Canals et al. 2021, S. 7; Gutow et al. 2018, S. 771; Peters o. J.b; van 
-Sebille et al. 2020, S. 3). Die langen Kohlenstoffketten der Kunststoffpolymere werden in der Umwelt langsam 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Sebille et al. 2020, S. 3). Die langen Kohlenstoffketten der Kunststoffpolymere werden in der Umwelt langsam
 abgebaut (Chamas et al. 2020). Durch Fragmentierung und Degradation zersetzt sich Makroplastik in Meso- bzw. 
 Mikroplastikpartikel. Durch biochemische Prozesse, wie das Wachstum von Biofilmen an ihrer Oberfläche,
 können Kunststofffragmente und -partikel schwerer werden, langsam absinken und sich letztlich auf dem
@@ -457,11 +406,7 @@ auf den Meeresboden (van Sebille et al. 2020).
 1 https://www.youtube.com/watch?v=zYuvTYJ0hGk (27.8.2025) 
 2 Interview mit Prof. Dr. Rebecca Helm (Georgetown Universität), durchgeführt von Hinzmann et al. (2025) am 29.11.2024 
 3 Interview mit Günther Bonin und Dr. Harald Frank (One Earth – One Ocean e. V.), durchgeführt von Hinzmann et al. (2025) am 9.1.2025 
-4 Interview mit Günther Bonin und Dr. Harald Frank (One Earth – One Ocean e. V.), durchgeführt von Hinzmann et al. (2025) am 9.1.2025 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+4 Interview mit Günther Bonin und Dr. Harald Frank (One Earth – One Ocean e. V.), durchgeführt von Hinzmann et al. (2025) am 9.1.2025
 Abbildung 2.1 Die fünf Müllstrudel (Garbage Patches) 
  
 Eigene Darstellung 
@@ -491,11 +436,7 @@ S. 12). Allerdings wird der europäische Grenzwert für einen guten Zustand von 
 pro 100 m Strand (van Loon et al. 2020) nur selten erreicht. Im zuletzt evaluierten Zeitraum von 2016 bis 2021 
  
 5 Übereinkommen zum Schutz der Meeresumwelt des Nordostatlantiks (OSPAR-Übereinkommen) 
-6  Übereinkommen zum Schutz der Meeresumwelt des Ostseegebiets (Helsinki-Übereinkommen) 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+6  Übereinkommen zum Schutz der Meeresumwelt des Ostseegebiets (Helsinki-Übereinkommen)
 überschritten 11 der 16 bewerteten Teilbecken der Ostsee diesen Grenzwert. Die deutschen Kieler und
 Mecklenburger Buchten wiesen dabei vergleichsweise gute Werte auf und lagen unterhalb des Grenzwertes (HELCOM 
 2023, S. 82). Dies könnte auch daran liegen, dass an vielen deutschen Stränden in der Hochsaison täglich Müll 
@@ -545,11 +486,7 @@ Dennoch variieren Mikroplastikkonzentrationen in beiden Meeren mit den lokalen g
 Jahreszeit stark. Besondere hoch sind sie im Winter, wo es häufiger zu Hochwasser kommt (Peters o. J.b; 
 Schernewski et al. 2020). Eine Citizen-Science-Studie entlang der gesamten deutschen Küste fand geringere
 Mikroplastikmengen in Sedimenten von Ostseestränden als in denen der Nordsee. Der Unterschied war jedoch nicht
-statistisch signifikant (Walther et al. 2024). 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+statistisch signifikant (Walther et al. 2024).
 3 Gefährdung für Meereslebewesen, Menschen und Wirtschaft 
 – Kunststoffabfälle im Meer wirken sich auf alle Ökosystemleistungen aus. 
 – Zu den potenziellen kaum umkehrbaren Auswirkungen der Kunststoffverschmutzung gehören
@@ -573,11 +510,7 @@ ist die schwere Umkehrbarkeit der Akkumulation von Kunststoffen in marinen Ökos
 technische Entfernung bedeutsamer Mengen ist bislang kaum möglich (MacLeod et al. 2021). 
 Abbildung 3.1 Zentrale Auswirkungen von Plastik auf die Meeresumwelt 
  
-Eigene Darstellung nach MacLeod et al. (2021) 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Eigene Darstellung nach MacLeod et al. (2021)
 Geophysische Auswirkungen: Neben den indirekten Effekten der Treibhausgasemissionen, die durch die
 Produktion von Kunststoffen entstehen (Karali et al. 2024), kann eine Akkumulation von Kunststoffschwebstoffen die 
 Nahrungsquellen oder den Trübungsgrad in den Lebensräumen von Cyanobakterien und
@@ -630,11 +563,7 @@ dadurch krebserregend wirken, wobei das Risiko für die menschliche Gesundheit �
 Kunststoffe nicht zwangsläufig größer ist als bei anderen Expositionswegen. Der Transport von Pathogenen durch
 Meeresabfälle könnte weitere Risiken für die menschliche Gesundheit mit sich bringen (Werner et al. 2016). Durch 
 den zunehmenden weltweiten Verbrauch von Plastik könnten die Interaktion von antimikrobiellen Verbindungen 
-und Kunststoffen die Ausbreitung resistenter Mikrobenstämme verschärfen (Green 2022, S. 122). 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+und Kunststoffen die Ausbreitung resistenter Mikrobenstämme verschärfen (Green 2022, S. 122).
 Sozioökonomische Auswirkungen: Meeresmüll kann die Wirtschaftlichkeit der Fischerei durch hohe Kosten für 
 die Entfernung von Müll aus den Netzen und durch Schäden an den Fanggeräten aufgrund von Fehlfängen
 beeinträchtigen. Bei Schiffen können außerdem Probleme und hohe Kosten durch verhedderte Propeller und verstopfte 
@@ -645,11 +574,7 @@ die sichtbare Verschmutzung durch Meeresmüll erheblich auf das Erholungserlebni
 2023, S. 80; Wyles et al. 2016). 
 Schließlich können die Effekte der Plastikbelastung kaum allein betrachtet werden, sondern nur im
 Zusammenspiel mit der Exposition gegenüber weiteren Stressoren, wie der Überfischung sowie Änderungen von
-Temperatur, Nährstoffzufuhr, Sauerstoffgehalt, pH-Wert und Chemikalienbelastung (MacLeod et al. 2021, S. 6). 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Temperatur, Nährstoffzufuhr, Sauerstoffgehalt, pH-Wert und Chemikalienbelastung (MacLeod et al. 2021, S. 6).
 4 Stand aktueller Entwicklungen von Technologien zur Entfernung von Kunststoffen 
 aus Abwasser und Gewässern 
 – Die Vielfalt der existierenden Technologien spiegelt die Vielfalt von Quellen, Abfallgrößen und
@@ -666,11 +591,7 @@ Umweltkompartimenten und verschiedenen vertikalen Zonen zum Einsatz kommen (Abb.
 Abbildung 4.1 Überblick über Anwendungsbereiche von Technologien zur Entfernung von
 Kunststoffen 
  
-Eigene Darstellung nach Bellou et al. (2021, S. 517); Übersetzung TAB 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Eigene Darstellung nach Bellou et al. (2021, S. 517); Übersetzung TAB
 Sie können direkt an Punktquellen ansetzen, wie Abläufen von Kläranlagen, Regenwasserkanälen im
 Trennsystem oder auch Mischwasserüberläufen. Andere Technologien wurden dazu entwickelt, in Binnengewässern (z. B. 
 Flüsse) vorhandene Kunststoffe zu entfernen, bevor sie die Meere und den Ozean erreichen (1). Schließlich
@@ -720,11 +641,7 @@ Zu den innovativen Lösungen, die sich noch in einem sehr frühen Entwicklungsst
 außerdem biologische Lösungen. Untersucht werden Muscheln, die Mikroplastik aufnehmen, daneben
 Quallenschleim, Makrophyten und Makroalgen, die als Klebstoff für Plastikpartikel in der Wassersäule fungieren
 können. Außerdem werden Lösungen für die Entfernung von Mikroplastik aus Abwasser erforscht, wie
-beispielsweise Bakterien, die entweder von Natur aus in der Lage sind, Kunststoffe im Abwasser zu zersetzen, oder so 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+beispielsweise Bakterien, die entweder von Natur aus in der Lage sind, Kunststoffe im Abwasser zu zersetzen, oder so
 verändert werden, dass sie dies tun können. Noch in einem sehr frühen Entwicklungsstadium befinden sich
 Aerogele aus Proteinfasern sowie magnetische Flüssigkeiten, die zur Bindung von Mikroplastikpartikeln eingesetzt 
 werden sollen, um diese anschließend mithilfe von Magneten aus dem Wasser zu entfernen (Royal Society 
@@ -735,11 +652,7 @@ Grafische Darstellungen der Kategorien von Kunststoffsanierungstechnologien, wie
 sind, zeigen die Vielfalt der derzeit existierenden Kunststoffsanierungstechnologien. Diese werden in verschiedenen
 Umgebungen eingesetzt, verwenden einzigartige Methoden und zielen auf unterschiedliche Arten der Kunststoffverschmutzung ab 
 (alle Abbildungen sind Originale und wurden von den Autoren dieses Artikels entwickelt). 
-Quelle: nach Falk-Andersson et al. (2023, S. 13305), farblich angepasst; Übersetzung TAB 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Quelle: nach Falk-Andersson et al. (2023, S. 13305), farblich angepasst; Übersetzung TAB
 5 Technologiebewertung und Einsatzmöglichkeiten 
 – Stationäre Reinigungstechnologien ermöglichen eine gezielte Reinigung von Akkumulationsorten, zum 
 Beispiel in Häfen und an Flussmündungen. Mobile Technologien sind flexibler, verbrauchen in der Regel 
@@ -773,11 +686,7 @@ Abwasser- und Regenwasserkanalisation (Kap. 5.1.2) zur Verfügung.
 Kläranlagen sind bereits hochgradig technologisiert. In konventionellen Kläranlagen werden 100 % des
 Makroplastiks zurückgehalten (Breitbarth 2018). Außerdem werden 90 bis 96 % der Mikroplastikpartikel über die
 mechanische Reinigungsstufe (Rechen, Sandfang, ggf. Vorklärung) und die biologische Reinigung
-(Belebungsverfahren) aufgefangen (Fuhrmann et al. 2021, S. 736) (Abb. 5.1). 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+(Belebungsverfahren) aufgefangen (Fuhrmann et al. 2021, S. 736) (Abb. 5.1).
 Abbildung 5.1 Relevante Reinigungsstufen für die Entfernung von Mikroplastik in deutschen
 Kläranlagen 
  
@@ -791,11 +700,7 @@ Mikroplastik in kommunalen Kläranlagen
 2 Bauerfeld/Meyer (2020) 
 Quelle: nach Fuhrmann et al. (2021, S. 735) 
 Dafür kommen verschiedene Technologien in Betracht, insbesondere nachgeschaltete Filteranlagen, z. B. Sand- 
-und Tuchfilter, Mikrosiebe oder Membranverfahren (Tabelle 5.1). 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+und Tuchfilter, Mikrosiebe oder Membranverfahren (Tabelle 5.1).
 Tabelle 5.1 Überblick über zentrale Technologien für die Entfernung von Kunststoffpartikeln in 
 Kläranlagen 
 Technologien
@@ -855,11 +760,7 @@ Schnellsandfiltration zum Beispiel nicht eindeutig überlegen (Bayo et al. 2020)
 Sedimentationsverfahren. Diese Verfahren sind deutlich energieeffizienter als Membranverfahren, allerdings weniger 
  
 7 Richtlinie (EU) 2024/3019 vom 27. November 2024 über die Behandlung von kommunalem Abwasser (Neufassung) 
-8 Interview mit Dr. Tim Fuhrmann (Emscher Wassertechnik GmbH), durchgeführt von Hinzmann et al. (2025) am 9.1.2025 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+8 Interview mit Dr. Tim Fuhrmann (Emscher Wassertechnik GmbH), durchgeführt von Hinzmann et al. (2025) am 9.1.2025
 wirksam. Daher werden Ergänzungsverfahren zur Steigerung der Effizienz entwickelt, wie die Zugabe von
 Flockungsmitteln. Für ausgewählte Kunststoffsorten (PE, PA, PVC) konnten durch Flockungsmittel erfolgreich
 Mikroplastikpartikel in leichter entfernbare größere Agglomerate überführt werden (Masch/Bitter 2021). Erforscht 
@@ -903,11 +804,7 @@ Sedimentationsbecken sowie Filter und Netze in Betracht (Fuhrmann et al. 2021, S
 S. 22) (Tab. 5.2). 
   
  
-9 Interview mit Dr.-Ing. Tim Fuhrmann (Emscher Wassertechnik GmbH), durchgeführt von Hinzmann et al. (2025) am 9.1.2025 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+9 Interview mit Dr.-Ing. Tim Fuhrmann (Emscher Wassertechnik GmbH), durchgeführt von Hinzmann et al. (2025) am 9.1.2025
 Tabelle 5.2 Technologien für die Behandlung von Misch- und Niederschlagswasser 
 Technologien
 Anwendungsgebiete 
@@ -968,11 +865,7 @@ Energieaufwand, insbesondere für Rückspülungen, und der regelmäßigen Entfer
 Entsorgung des abgeschiedenen Materials verbunden ist. In der Schweiz wurden bereits einige Straßenabwasser-
 Behandlungsanlagen (SABA) gebaut, die mit Tuchfiltern ausgestattet sind (ASTRA 2010). 
 Filtersysteme für Oberflächenabflüsse können auch dezentral an Einleitungsstellen von Oberflächenabfluss in die 
-Kanalisation eingebaut werden. Dabei handelt es sich um Filter und Fallen für Grobstoffe, die in Einläufen oder 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Kanalisation eingebaut werden. Dabei handelt es sich um Filter und Fallen für Grobstoffe, die in Einläufen oder
 Ausläufen der Kanalisation eingesetzt werden, um Makroplastik (z. B. Plastikflaschen oder -tüten) aufzufangen. 
 Solche Filtersysteme am Straßenrand werden weiterentwickelt, um ihre Effizienz insbesondere beim Rückhalt 
 von Mikroplastik zu erhöhen, ihre Wartungsfreundlichkeit zu optimieren (UD 2021) und ihre Wirkung bei 
@@ -998,11 +891,7 @@ Küstenbereichen und Häfen für dasjenige Plastik, das an der Wasseroberfläche
 gehören Gitterkonstruktionen aus Metall und Maschennetze, schwimmende, fest installierte Barrieren, Müllräder, 
 schwimmende Mülleimer sowie Luftblasenvorhänge (Tab. 5.3). 
  
-10 https://ewlw.de/remipla/ (19.2.2025) 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+10 https://ewlw.de/remipla/ (19.2.2025)
 Tabelle 5.3 Überblick über wichtige Typen stationärer Technologien 
 Technologien
 Anwendungsgebiete 
@@ -1068,11 +957,7 @@ Abfälle wegtransportiert werden müssen. Allerdings sind sie per Definition wen
 Technologien. Einmal installiert, können sie in der Regel nur auf einen Teil der Wasserstraße einwirken. Außerdem 
 braucht es eine zusätzliche Infrastruktur, um die gesammelten Abfälle an Land zu transportieren. Stationäre
 Systeme mit externer Stromzufuhr sind besonders effektiv in Bereichen mit hohem Schiffsverkehr und geringer
-Wasserströmung, z. B. in Häfen und Kanälen. Dort können sie Plastik sammeln, ohne den Schiffsverkehr zu stören. In 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Wasserströmung, z. B. in Häfen und Kanälen. Dort können sie Plastik sammeln, ohne den Schiffsverkehr zu stören. In
 Gebieten mit starker Flussströmung verlieren stationäre Technologien allerdings an Effektivität, da starke
 Strömungen den Motor überfordern können (Leone et al. 2023, S. 107854). Insgesamt sind Effektivitätsdaten stark 
 gestreut, denn die Wirksamkeit immobiler Lösungen hängt in hohem Maße von der Abfallmenge an den
@@ -1124,11 +1009,7 @@ werden. Allerdings fehlt es grundsätzlich an Daten, um zuverlässige Aussagen z
 Technologien treffen zu können (Bellou 2025; Griffin et al. 2024, S. 7; Hinzmann et al. 2025). 
  
 11 https://thegreatbubblebarrier.com/technology/ (10.1.2025) 
-12 Interview mit Prof. Dr. Tim van Emmerik, Universität Wageningen, Niederlande, geführt am 12.12.2024 von Bergmann et al. (2025) 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+12 Interview mit Prof. Dr. Tim van Emmerik, Universität Wageningen, Niederlande, geführt am 12.12.2024 von Bergmann et al. (2025)
 Einsatzmöglichkeiten 
 Strategisch platzierte Müllräder können an Fluss- oder Kanalmündungen insbesondere nach starken
 Niederschlägen Plastikeinträge in die Gewässer schnell wieder entfernen. In Deutschland, wo Starkregenereignisse in ihrer 
@@ -1157,11 +1038,7 @@ zusätzlich Betriebs- sowie Instandhaltungskosten berücksichtigt werden. Entspr
  
 13 https://www.mrtrashwheel.com/ (15.1.2026) 
 14 https://thegreatbubblebarrier.com/ (15.1.2026) 
-15 Z. B. https://plasticfischer.com/ (15.1.2026) 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+15 Z. B. https://plasticfischer.com/ (15.1.2026)
 Abbildung 5.4 Luftblasenvorhang in Amsterdam 
  
 Quelle: The Great Bubble Barrier B.V. (https://thegreatbubblebarrier.com/bubble-barrier-amsterdam/; 8.5.2025) 
@@ -1172,11 +1049,7 @@ einzusammeln, wo höhere Konzentrationen nachgewiesen werden. Verbreitet sind M�
 Netzen und Körben Abfälle passiv sammeln, sowie solche, die mithilfe eines Hydraulikarms gezielt Abfälle auf 
 ein Förderband heben (siehe dazu und zum Folgenden Hinzmann et al. 2025, S. 19 ff.). Kleinteilige mobile
 Interventionen können auch mit Kajaks oder Paddelbrettern oder im Rahmen von Tauchaktivitäten erfolgen (Royal 
-Society 2024, S. 13). 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Society 2024, S. 13).
 Tabelle 5.4 Überblick über wichtige mobile Technologietypen 
 Technologien
 Anwendungsgebiete 
@@ -1241,11 +1114,7 @@ ff.), liegt der Fokus der meisten Technologien, die in Meeren, Häfen, Küstenge
 werden, auf der Entfernung von Makroabfällen (Bellou 2025, S. 63). 
  
 16 Z. B. https://strandreinigung.de/ (30.6.2025) 
-17 Z. B. https://www.probotica.hr/projects/seeker-cleaning-robot/ (1.7.2025) 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+17 Z. B. https://www.probotica.hr/projects/seeker-cleaning-robot/ (1.7.2025)
 Mobile Lösungen bringen mit Abstand die höchsten Investitions- wie auch Betriebs- und Wartungsausgaben mit 
 sich. Zugleich haben sie die größten Aufnahmekapazitäten und können große Mengen an Makroplastik von der 
 Wasseroberfläche entfernen (Brouwer et al. 2023, S. 5). Am effektivsten ist ihr Einsatz in der Nähe von
@@ -1298,11 +1167,7 @@ an Plastikmüll mit einem vertretbaren Zeit- und Energieaufwand eingesammelt wer
 Plastik auf den Meeresgrund sinkt. Für das Mittelmeer wird z. B. geschätzt, dass 49 bis 63 % des Meeresmülls wieder an die Küsten 
 gespült werden und 37 bis 51 % gesunken sind (Kaandorp et al. 2020). 
 19 Interview mit Prof. Dr. Rebecca Helm (Georgetown Universität, USA), durchgeführt vom Gutachterteam Hinzmann et al. (2025) am 
-29.11.2024. 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+29.11.2024.
 Folgenden Hinzmann et al. 2025, S. 43 ff.). Gegebenenfalls kann ergänzend eine einfache schwimmende Barriere 
 aufgebaut werden. Die Strömung des Flusses wird genutzt, um mit Hilfe der Barriere an der Oberfläche treibende 
 Abfälle zu konzentrieren. Diese werden anschließend dem Förderband zugeführt. Zusätzlich können solche
@@ -1334,11 +1199,7 @@ ist daher äußerst kostengünstig20 und verursacht keine zusätzlichen Energiev
 inzwischen eine international anerkannte Initiative (Wyles et al. 2019). In Deutschland wird es über EU- und
 Länderförderung finanziell unterstützt. Ein weiterer Vorteil dieser Methode ist, dass auch Müll vom Meeresboden 
  
-20 https://www.fishingforlitter.org/ (27.1.2025) 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+20 https://www.fishingforlitter.org/ (27.1.2025)
 erfasst wird, wenn Grundschleppnetze zum Einsatz kommen. In Deutschland sind derzeit 170 Schiffe und 18
 Häfen an Nord- und Ostsee beteiligt.21 Durch die Nutzung ihrer Anwesenheit auf See wird das vorhandene
 Arbeitskräftepotenzial ausgeschöpft, anstatt separate Fahrten zu finanzieren, die einen zusätzlichen ökologischen
@@ -1389,11 +1250,7 @@ die Wirksamkeit von Reinigungstechnologien nur sehr begrenzt erforscht, mit teil
 Ergebnissen (Griffin et al. 2024). Sowohl Bellou (2025) als auch Hinzmann et al. (2025) problematisieren die großen 
 Wissenslücken bzw. die fehlende Dokumentation von Wirkungen und Nebenwirkungen. 
  
-21 https://fishingforlitter.org/germany/ (27.1.2025) 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+21 https://fishingforlitter.org/germany/ (27.1.2025)
 Generell lässt sich feststellen, dass nur sehr wenige Technologien in der Lage sind, Mikroplastik aus Gewässern 
 zu entfernen. Während stationäre Lösungen, wie Gitter, Netze und Müllräder, vergleichsweise hohe
 Rückhaltequoten für Makroplastik aufweisen und besonders in urbanen Gebieten und an Akkumulationszonen mit hoher 
@@ -1445,11 +1302,7 @@ sind größtenteils aus langlebigen, synthetischen Materialien hergestellt und s
 Belastbarkeit, Reißfestigkeit und Haltbarkeit ein ökologisches Problem dar (Do/Armstrong 2023; Wasave et 
 al. 2025). Allerdings sind Potenziale eher für ausgemusterte Fischernetze vorhanden als für Netze, die im 
 Meer treiben oder auf dem Meeresboden liegen. Denn die Qualität von Fischereiausrüstung ist aufgrund ihrer 
-langen Verweildauer im Meer oft schlecht und Reparaturen kaum möglich (Bertling/Nühlen 2019). 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+langen Verweildauer im Meer oft schlecht und Reparaturen kaum möglich (Bertling/Nühlen 2019).
 – Recycelt werden können zurückgeholte Abfälle in der Regel kaum. Ein mechanisches Recycling von
 Kunststoffabfällen aus Gewässern und Abwasser ist zwar technisch möglich, dennoch kostenintensiv. Denn
 Kunststoffabfälle, die lange Zeit im Wasser blieben, weisen eine schlechte Qualität auf und müssen zunächst eine 
@@ -1499,11 +1352,7 @@ Mengen, die jährlich in Gewässer eingetragen werden, bei Weitem nicht aus (Hin
 google.com/spreadsheets/d/1b8Lbe-z3PNb3H8nSsSjrwK2B0ReAblL2/edit?gid=1414297924#gid=1414297924 (15.1.2026). 
 23 Interview mit Prof. Dr. Martin Wittmaier (Institut für Energie und Kreislaufwirtschaft an der Hochschule Bremen GmbH), durchgeführt 
 von Hinzmann et al. (2025) am 16.12.2024. 
-24 Interview mit Prof. Dr. Rebecca Helm (Georgetown Universität, USA), durchgeführt von Hinzmann et al. (2025) am 29.11.2024. 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+24 Interview mit Prof. Dr. Rebecca Helm (Georgetown Universität, USA), durchgeführt von Hinzmann et al. (2025) am 29.11.2024.
 6 Geltender regulatorischer Rahmen und Aktivitäten gegen Meeresmüll 
 – Emissionen von Kunststoffen werden in der EU umfangreich reguliert. In den letzten Jahren lag der Fokus 
 neuer Regulierungen verstärkt auf der Vermeidung von Littering und von Mikroplastikemissionen.
@@ -1555,11 +1404,7 @@ Maßnahmen zu ergreifen, sobald hinreichender Grund zur Annahme besteht, dass du
 Meeresumwelt (Meeresstrategie-Rahmenrichtlinie) 
 26  Beschluss (EU) 2017/848 der Kommission vom 17. Mai 2017 zur Festlegung der Kriterien und methodischen Standards für die
 Beschreibung eines guten Umweltzustands von Meeresgewässern und von Spezifikationen und standardisierten Verfahren für die
-Überwachung und Bewertung sowie zur Aufhebung des Beschlusses 2010/477/EU 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Überwachung und Bewertung sowie zur Aufhebung des Beschlusses 2010/477/EU
 oder Energie Gefährdungen für die menschliche Gesundheit, lebende Ressourcen oder Meeresökosysteme
 entstehen oder rechtmäßige Nutzungsmöglichkeiten der Meere (z. B. Erholung) beeinträchtigt werden. Zum Schutz der 
 Meeresumwelt im Ostseeraum bildet das Übereinkommen von Helsinki zum Schutz der Ostsee (Helsinki-
@@ -1579,11 +1424,7 @@ Politik dar und sorgt für einen guten Informationsaustausch zwischen Expert/inn
 erarbeitet und stellt den Mitgliedstaaten technische Empfehlungen zur Umsetzung der Anforderungen der
 Meeresstrategie-Rahmenrichtlinie (z. B. Überwachungsprotokolle für Meeresmüll) zur Verfügung (EK 2024b). So wurden 
 2024 Leitlinien veröffentlicht, die darauf abzielen, einen gemeinsamen Rahmen für Probenahme, Analyse und 
-Erfassung von Meeresmüll zu schaffen, um die Daten länderübergreifend vergleichbar und nutzbar zu machen 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Erfassung von Meeresmüll zu schaffen, um die Daten länderübergreifend vergleichbar und nutzbar zu machen
 (JRC 2023). Die Plattform EMODnet stellt aktuell die wichtigste Datenbank für Meeresmülldaten in Europa dar. 
 Dort werden unter anderem die Daten, die im Zuge der Umsetzung der Meeresstrategie-Rahmenrichtlinie durch 
 die Mitgliedstaaten erhoben werden, eingespeist (EK 2024c). 
@@ -1635,11 +1476,7 @@ den Transfer und die Verbreitung von umweltverträglichen Technologien zur Bekä
 diskutiert (Vayas Valdivieso 2025).  
  
 27 https://www.muell-im-meer.de/de/ueberuns-rundertisch (16.12.2024) 
-28 https://www.bmuv.de/programm/foerderprogramm-gegen-meeresmuell (9.5.2025) 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+28 https://www.bmuv.de/programm/foerderprogramm-gegen-meeresmuell (9.5.2025)
 7 Handlungsoptionen 
 – Emissionen von Abfällen zu verhindern, ist kosteneffektiver, als sie aus der Umwelt zu entfernen. In 
 Deutschland könnten besonders belastete Kläranlagen, Straßenabflüsse im Trennsystem und
@@ -1689,11 +1526,7 @@ Kostenbeteiligung auf die Kunststoff- und Textilindustrie erwogen werden (Hinzma
 könnte die Möglichkeit einer Ausweitung auf kleinere Anlagen geprüft werden, denn nach einer Schätzung im 
 Auftrag des Verbands kommunaler Unternehmen e. V. sind derzeit in Deutschland bis 2045 nur 7,2 % der Anlagen 
 nachrüstpflichtig (EFI 2025, S. 111) und auch kleinere Kommunen können signifikante Mengen an Mikroplastik 
-freisetzen, wenn ihre Abwässer unzureichend gereinigt werden (Magnusson et al. 2016). 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+freisetzen, wenn ihre Abwässer unzureichend gereinigt werden (Magnusson et al. 2016).
 Eine weitere wirksame Option zur Reduktion der Emissionen von (Mikro-)Plastik in Deutschland ist der Einbau 
 von Regenrückhalte- und Sedimentationsbecken sowie von Filtern in der Kanalisation (dazu und zum Folgenden 
 Hinzmann et al. 2025, S. 39). Aufgrund der insgesamt hohen Kosten einer breitflächigen Aufrüstung können
@@ -1745,11 +1578,7 @@ Zur Erfassung der Effizienz von TEK werden von Technologieanbietern und in der w
 verschiedene Indikatoren verwendet. Diese reichen beispielsweise von der Gesamtmenge an Kunststoffabfällen, 
 die bisher mit einer bestimmten Technologie entfernt wurde, bis hin zur technisch bedingten maximalen Menge 
  
-29 Richtlinie 2008/98/EG vom 19. November 2008 über Abfälle und zur Aufhebung bestimmter Richtlinien, zuletzt am 18.2.2024 geändert 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+29 Richtlinie 2008/98/EG vom 19. November 2008 über Abfälle und zur Aufhebung bestimmter Richtlinien, zuletzt am 18.2.2024 geändert
 an Kunststoffabfällen, die pro Tag oder pro Einsatz der TEK entfernt werden kann. Auf dieser Grundlage ist es 
 schwierig, verschiedene TEK miteinander zu vergleichen und geeignete TEK für einen bestimmten Standort
 auszuwählen (Hinzmann et al. 2025, S. 29). Auch Bellou (2025, S. 92 u. 107) kommt zu diesem Ergebnis. Eine
@@ -1802,11 +1631,7 @@ Reinigungsmaßnahmen und fördert internationale Projekte gegen Meeresmüll30 (A
 zu prüfen, inwieweit die geförderten Projekte einen ausreichenden Technologie- und Wissenstransfer zu solchen 
 Technologien ermöglichen, die eine hohe Wirksamkeit bei gleichzeitig geringen Nebenwirkungen aufweisen. 
  
-30 https://www.z-u-g.org/meeresmuell/projekte/ (9.5.2025) 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+30 https://www.z-u-g.org/meeresmuell/projekte/ (9.5.2025)
 Darüber hinaus wäre sicherzustellen, dass die im Rahmen der Projekte erhobenen Daten zur
 Technologieanwendung zur Entwicklung von Qualitätsstandards für die Technologienanwendung beitragen (Bellou 2025, S. 110). 
 Zukünftige Maßnahmen des Technologietransfers sind idealerweise an konkrete Anforderungen an die
@@ -1829,11 +1654,7 @@ innovative und hybride Finanzierungslösungen einsetzen (siehe dazu auch UNDP 20
 Förderbedingungen mitgestalten. Dabei ist zu berücksichtigen, dass ein zu starker Fokus auf das Ausgleichen von
 Emissionen statt deren tatsächlicher Vermeidung das Problem eher verschärfen könnte (Moon et al. 2024). 
  
-31 https://www.einwegkunststofffonds.de/de (1.7.2025) 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+31 https://www.einwegkunststofffonds.de/de (1.7.2025)
 8 Literatur 
 8.1 In Auftrag gegebene Gutachten 
 Hinzmann, M.; Knoblauch, D.; Schritt, H.; Kraemer, R. A.; Bergmann, M. (2025): Technologische
@@ -1879,11 +1700,7 @@ requirements and economic viability. Fraunhofer-Institut für Umwelt-, Sicherhei
 UMSICHT, Oberhausen 
 Blettler, M. C. M. et al. (2023): The challenge of reducing macroplastic pollution: Testing the effectiveness of a 
 river boom under real environmental conditions. In: Science of The Total Environment 870, Art. 161941, 
-https://doi.org/10.1016/j.scitotenv.2023.161941 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+https://doi.org/10.1016/j.scitotenv.2023.161941
 BMFTR (2025): SimConDrill – Zyklonfilter zur Reduktion von Mikroplastik aus Abwasser. Bundesministerium 
 für Forschung, Technologie und Raumfahrt, https://www.innovationsatlas-wasser.de/de/produkte/simcon 
 drill-zyklonfilter-zur-reduktion-von-mikroplastik-aus-abwasser/ (20.6.2025) 
@@ -1931,11 +1748,7 @@ pollution on Hawaiian beaches. In: Marine Pollution Bulletin 214, Art. 117712, h
 j.marpolbul.2025.117712 
 Do, H.-L.; Armstrong, C. W. (2023): Ghost fishing gear and their effect on ecosystem services – Identification 
 and knowledge gaps. In: Marine Policy 150, Art. 105528, https://doi.org/10.1016/j.marpol.2023.105528 
-ECOFARIO (2025): Modifizierte Hydroyklone. https://www.ecofario.eco/technology (20.6.2025) 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+ECOFARIO (2025): Modifizierte Hydroyklone. https://www.ecofario.eco/technology (20.6.2025)
 EEA (2023): From source to sea — The untold story of marine litter. European Environment Agency, 
 19.1.2023, https://www.eea.europa.eu/publications/european-marine-litter-assessment/from-source-to-
 sea-the (9.12.2024) 
@@ -1982,11 +1795,7 @@ Falk-Andersson, J. et al. (2023): Cleaning up without messing up: Maximizing the
 Technologies through New Regulatory Approaches. In: Environmental Science & Technology 57(36), 
 Art. 141117, https://doi.org/10.1021/acs.est.3c01885 
 Farré, M. la et al. (2021): Microplastics in the environment (particularly in the Mediterranean). Institute of 
-Catalan Studies, CAPCIT Report, Barcelona 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Catalan Studies, CAPCIT Report, Barcelona
 Fazey, F. M. C.; Ryan, P. G. (2016): Biofouling on buoyant marine plastics: An experimental study into the 
 effect of size on surface longevity. In: Environmental Pollution 210, S. 354–360, https://doi.org/10.1016/ 
 j.envpol.2016.01.026 
@@ -2035,11 +1844,7 @@ Hohn, S. et al. (2020): The long-term legacy of plastic mass production. In: Sci
 Horton, A. A. (2022): Plastic pollution: When do we know enough? In: Journal of Hazardous Materials 422, 
 Art. 126885, https://doi.org/10.1016/j.jhazmat.2021.126885 
 HSWT (o. J.): PlasticWorms. Hochschule Weihenstephan-Triesdorf, https://www.hswt.de/forschung/projekt/ 
-1841-plastic-worms (20.6.2025) 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+1841-plastic-worms (20.6.2025)
 Hughes, T. P. et al. (2017): Coral reefs in the Anthropocene. In: Nature 546(7656), S. 82–90, https://doi.org/10. 
 1038/nature22901 
 IISD (2025): Summary of the resumed fifth session of the Intergovernmental Negotiating Committee to develop 
@@ -2086,11 +1891,7 @@ Lau, W. W. Y. et al. (2020): Evaluating scenarios toward zero plastic pollution.
 Lebreton, L. (2022): The status and fate of oceanic garbage patches. In: Nature Reviews Earth & Environment 
 3(11), S. 730–732, https://doi.org/10.1038/s43017-022-00363-z 
 Lebreton, L. et al. (2018): Evidence that the Great Pacific garbage patch is rapidly accumulating plastic. In: 
-Scientific Reports 8, Art. 4666, https://doi.org/10.1038/s41598-018-22939-w 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Scientific Reports 8, Art. 4666, https://doi.org/10.1038/s41598-018-22939-w
 Lebreton, L. et al. (2024): Seven years into the North Pacific garbage patch: legacy plastic fragments rising 
 disproportionally faster than larger floating objects. In: Environmental Research Letters 19, Art. 124054, 
 https://doi.org/10.1088/1748-9326/ad78ed 
@@ -2138,11 +1939,7 @@ Mejia-Muñoz, J. (2019): 18 GPS garbage trackers. One lone ship. 40 tons out of 
 reminder-of-the-daunting-task-ahead (30.7.2025) 
 Meyer, A. N. et al. (2023): Where does Arctic beach debris come from? Analyzing debris composition and 
 provenance on Svalbard aided by citizen scientists. In: Frontiers in Marine Science 10, Art. 1092939, 
-https://doi.org/10.3389/fmars.2023.1092939 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+https://doi.org/10.3389/fmars.2023.1092939
 Meyerjürgens, J. et al. (2023): Sources, pathways, and abatement strategies of macroplastic pollution: an
 interdisciplinary approach for the southern North Sea. In: Frontiers in Marine Science 10, Art. 1148714, 
 https://doi.org/10.3389/fmars.2023.1148714 
@@ -2191,11 +1988,7 @@ Peters, W. (o. J.b): Vom Fluss ins Meer. Plastik in der Umwelt, https://bmbf-pla
 Peters. W. (o. J.a): Auf der Spur von Mikroplastik in Gewässern. Plastik in der Umwelt, https://bmbf-plastik.de/ 
 de/node/502.html (15.1.2026) 
 Pinheiro, H. T. et al. (2023): Plastic pollution on the worldʼs coral reefs. In: Nature 619(7969), S. 311–316, 
-https://doi.org/10.1038/s41586-023-06113-5 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+https://doi.org/10.1038/s41586-023-06113-5
 Rasmussen, L. A. et al. (2024): Retention of microplastics and tyre wear particles in stormwater ponds. In: 
 Water Research 248, Art. 120835, https://doi.org/10.1016/j.watres.2023.120835 
 Rauert, C. et al. (2025): Assessing the efficacy of pyrolysis-gas chromatography-mass spectrometry for
@@ -2243,11 +2036,7 @@ Sea – a monitoring and modeling approach. In: Environmental Management 68, S. 
 org/10.1007/s00267-021-01534-2 
 Schmaltz, E. et al. (2020): Plastic pollution solutions: emerging technologies to prevent and collect marine 
 plastic pollution. In: Environment International 144, Art. 106067, https://doi.org/10.1016/j.envint.2020. 
-106067 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+106067
 Schmidt, C. et al. (2017): Export of plastic debris by rivers into the sea. In: Environmental Science &
 Technology 51(21), S. 12246–12253, https://doi.org/10.1021/acs.est.7b02368 
 Schneider, F. et al. (2018): Collected marine litter — A growing waste challenge. In: Marine Pollution Bulletin 
@@ -2296,11 +2085,7 @@ n76055de (4.4.2025)
 UD (2021): Mikroplastik herausfiltern, wo es entsteht. Umweltdialog, https://www.umweltdialog.de/de/ 
 UMWELT/plastik-muell/2021/Mikroplastik-herausfiltern-wo-es-entsteht.php (20.6.2025) 
 UNDP (2024): Combatting Plastic Pollution for Sustainable Development: A snapshot of UNDPʼs work in 12 
-countries. United Nations Development Programme, New York 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+countries. United Nations Development Programme, New York
 UNEA (2016): 2/11. Marine plastic litter and microplastics. United Nations Environment Assembly of the 
 United Nations Environment Programme, UNEP/EA.2/Res11, Nairobi 
 UNEP (2021): From Pollution to Solution. A Global Assessment of Marine Litter and Plastic Pollution. United 
@@ -2348,22 +2133,14 @@ j.marpolbul.2019.04.035
 Zhang, C. et al. (2022): Microplastics may be a significant cause of male infertility. In: American Journal of 
 Menʼs Health 16(3), Art. 15579883221096549, https://doi.org/10.1177/15579883221096549 
 Zhang, Y. et al. (2023): Plastic waste discharge to the global ocean constrained by seawater observations. In: 
-Nature Communications 14, Art. 1372, https://doi.org/10.1038/s41467-023-37108-5 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Nature Communications 14, Art. 1372, https://doi.org/10.1038/s41467-023-37108-5
 Zhang, Z. et al. (2025): Electric forces can enhance the emission of microplastics into air. In: Environmental 
 Pollution 376, Art. 126405, https://doi.org/10.1016/j.envpol.2025.126405 
 Zhao, S. et al. (2024): Microplastic pollution promotes soil respiration: A global-scale meta-analysis. In: Global 
 Change Biology 30(7), Art. e17415, https://doi.org/10.1111/gcb.17415 
 Zimmermann, L. et al. (2019): Benchmarking the in vitro toxicity and chemical composition of plastic
 consumer products. In: Environmental Science & Technology 53(19), S. 11467–11477, https://doi.org/10.1021/ 
-acs.est.9b02293 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+acs.est.9b02293
 9 Anhang 
 9.1 Europäischer Regulierungsrahmen für die Meerespolitik 
 Tabelle 9.1 Überblick über den europäischen Regulierungsrahmen für die Meerespolitik 
@@ -2429,11 +2206,7 @@ Abfälle
 Bedingungen für die Bewirtschaftung aller Arten von 
 Abfällen. Themen: Nachhaltigkeit, Effizienz der 
 Ressourcennutzung und Werterhaltung von 
-Materialien 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Materialien
 Anwendungsbereich EU-Instrument kurze Beschreibung 
 Richtlinie (EU) 2019/904 über 
 die Verringerung der 
@@ -2522,11 +2295,7 @@ deren Bewirtschaftung
 Bestimmungen zur Überwachung von 
 Badegewässern und bei Verschmutzung Umsetzung 
 geeigneter Maßnahmen 
-Quelle: angelehnt an Veigna (2022, S. 30 ff.) 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Quelle: angelehnt an Veigna (2022, S. 30 ff.)
 9.2 Abbildungen 
 Seite 
 Abbildung 2.1 Die fünf Müllstrudel (Garbage Patches) .............................  14 
@@ -2560,7 +2329,7 @@ Tabelle 5.4 Überblick über wichtige mobile Technologietypen ............  32
 Tabelle 9.1 Überblick über den europäischen Regulierungsrahmen 
 für die Meerespolitik ...........................................................  56 
  
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

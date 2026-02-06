@@ -26,10 +26,7 @@ Deepfaketechnologien ...........................................................
 3.7 Sexualisierte Gewalt, (Rache-)Pornografie, individuelle 
 Verleumdung, Erpressung und Einschüchterung .............................. 22 
 Deutscher Bundestag Drucksache 21/3952 
-21. Wahlperiode 30.01.2026 V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+21. Wahlperiode 30.01.2026
 Seite 
 4 Rechtliche Aspekte ......................................................................... 24 
 4.1 Regelungen in ausgewählten Ländern .............................................. 24 
@@ -51,11 +48,7 @@ Zusammenarbeit .................................................................
 6.2 Weitere Literatur............................................................................... 38 
 7 Anhang............................................................................................. 46 
 7.1 Abbildungen ..................................................................................... 46 
-7.2 Kästen ............................................................................................... 46 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+7.2 Kästen ............................................................................................... 46
 Vorwort des Ausschusses 
 Deepfakes sind vielen Menschen bereits in sozialen Medien oder dem Internet 
 begegnet. Manche, darunter auch Abgeordnete des Bundestages, mussten selbst 
@@ -106,16 +99,7 @@ Berichterstatter
 Dr. Andrea Lübcke  
 Berichterstatterin 
 Sonja Lemke  
-Berichterstatterin 
- 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Berichterstatterin
 Octavia Madeira 
 Steffen Albrecht 
  
@@ -124,20 +108,12 @@ Jan-Henning Hansen
 Rechtliche und gesellschaftliche  
 Herausforderungen und Potenziale 
 von Deepfakes 
-TA-Kompakt Nr. 3 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+TA-Kompakt Nr. 3
 Das Büro für Technikfolgen-Abschätzung beim Deutschen Bundestag (TAB) berät das Parlament und seine
 Ausschüsse in Fragen des wissenschaftlich-technischen Wandels. Das TAB wird seit 1990 vom Institut für
 Technikfolgenabschätzung und Systemanalyse (ITAS) des Karlsruher Instituts für Technologie (KIT) betrieben. Hierbei 
 kooperiert es seit September 2013 mit dem IZT – Institut für Zukunftsstudien und Technologiebewertung gGmbH 
-sowie dem Institut für Innovation und Technik (iit) in der VDI/VDE Innovation + Technik GmbH. 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+sowie dem Institut für Innovation und Technik (iit) in der VDI/VDE Innovation + Technik GmbH.
 Das Wichtigste in Kürze 
 Neun Fragen – neun Antworten 
  Worin unterscheiden sich Deepfakes von anderen Formen der Bildmanipulation bzw. KI-generierter Inhalte? 
@@ -183,11 +159,7 @@ Wirklichkeit infrage zu stellen.
 Zwecke auszunutzen oder gar zu zerstören. Sie können Identitätsdiebstahl und die Überwindung von 
 Identifizierungsverfahren erleichtern. Pornografische Deepfakes werden als Form der sexuellen Gewalt 
 insbesondere gegen Frauen eingesetzt und können auf gesellschaftlicher Ebene eine Zurückdrängung 
-von Frauen aus dem öffentlichen Raum bewirken. 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+von Frauen aus dem öffentlichen Raum bewirken.
 Welche Chancen und Herausforderungen stellen Deepfakes speziell für das Rechtssystem dar? 
 – Deepfakes können für eine Vielzahl von Anwendungen eingesetzt werden, um Menschen,
 Unternehmen und Institutionen zu schaden. Eine explizite Regulierung von Deepfakes existiert im deutschen
@@ -235,10 +207,6 @@ Medienkompetenz zu erhöhen. Selbstverpflichtungen etwa von Parteien können zum
 Debatte beitragen. Sowohl die Ausbreitung von Deepfakes als auch ihre Auswirkungen auf Individuen
 und die Gesellschaft und mögliche Reaktionen durch staatliche wie zivilgesellschaftliche Institutionen
 darauf sind noch wenig erforscht.
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
 1 Einleitung 
 Mit dem Begriff Deepfake werden manipulierte oder synthetisch erzeugte Medien in Form von Ton, Bild oder 
 Video bezeichnet, die in ihrer Qualität überzeugend authentisch wirken und somit den Eindruck erwecken, dass 
@@ -255,11 +223,7 @@ anderem hinsichtlich der zur Erzeugung genutzten (KI-)Technologien, der Medienar
 Objekte) unterscheiden (Birrer/Just 2024; Whittaker et al. 2023). 
 2 Neben Ton, Bild und Video zählt hierzu auch künstlich generierter Text, der z. B. von großen Sprachmodellen wie ChatGPT erzeugt 
 werden kann. Im Folgenden bleibt jedoch der Blick auf synthetische visuelle, audiovisuelle oder auch nur auditive Medieninhalte im 
-Sinne der Definition der KI-Verordnung gerichtet. 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Sinne der Definition der KI-Verordnung gerichtet.
 Die neutrale begriffliche Beschreibung als synthetische Medien steht durchaus in einem Widerspruch zur
 Bezeichnung Deepfakes, da durch den Bestandteil Fake eine Täuschungsidee oder -absicht oder gar eine schädigende 
 Anwendung implizit nahegelegt wird. Die Entstehungsgeschichte von Deepfakes ist tatsächlich auf solche
@@ -307,11 +271,7 @@ die Sicherung demokratischer Prozesse benannt.
 der Verordnungen (EG) Nr. 300/2008, (EU) Nr. 167/2013, (EU) Nr. 168/2013, (EU) 2018/858, (EU) 2018/1139 und (EU) 2019/2144 
 sowie der Richtlinien 2014/90/EU, (EU) 2016/797 und (EU) 2020/1828 (Verordnung über künstliche Intelligenz) 
 4 Verordnung (EU) 2022/2065 vom 19. Oktober 2022 über einen Binnenmarkt für digitale Dienste und zur Änderung der Richtlinie 
-2000/31/EG (Gesetz über digitale Dienste), zuletzt am 27. Oktober 2022 geändert 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+2000/31/EG (Gesetz über digitale Dienste), zuletzt am 27. Oktober 2022 geändert
 2 Technische Grundlagen von Deepfakes 
 2.1 Methoden zur Erzeugung von Deepfakes 
 Die allgemeine technische Grundlage zur Erzeugung von Deepfakes bilden Deep Neural Networks, wobei
@@ -363,11 +323,7 @@ Merkmale generiert, das kein Abbild einer realen Person darstellt.
 5 Die meisten bekannten KI-Bildgeneratoren wie Dall-E, Midjourney, Stable Diffusion oder Flux.1 beruhen Expert/innen zufolge auf 
 Diffusionsmodellen (allerdings machen die Unternehmen dies in der Regel nicht transparent). Bekannte Fotodeepfakes wie das Bild von 
 Papst Franziskus in einer Daunenjacke oder Bilder einer vermeintlichen Verhaftung Donald Trumps durch Polizeibeamte wurden mit 
-Midjourney erstellt. 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Midjourney erstellt.
 – Reenactment: Es werden die Mimik und/oder die Bewegungen einer Person auf eine andere übertragen,
 d. h., eine schauspielende Person vollzieht die Gesichtsausdrücke und Bewegungen, die auf die (virtuelle)
 Zielperson übertragen werden. Neben einer rein synthetischen Erzeugung lässt sich auf diesem Wege auch
@@ -419,11 +375,7 @@ Informationen sowie die Verbreitung von Falsch- und Desinformationen durch die s
 Herausforderung darstellt (STOA 2021). 
 Medieninhalte erreichen über das Internet potenziell eine enorme Reichweite und sind in der Regel eng an
 Plattformen, soziale Medien und Messengerdienste gebunden. Visuelle Kommunikationsformen, insbesondere
-Videoformate, haben dabei in den letzten Jahren immer mehr an Bedeutung gewonnen als besonders effektive Art, 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Videoformate, haben dabei in den letzten Jahren immer mehr an Bedeutung gewonnen als besonders effektive Art,
 Eindrücke zu vermitteln (STOA 2021). Die besondere Suggestivkraft audiovisueller Medien hat das
 Bundesverfassungsgericht (BVerfG) in seinen Rundfunkurteilen aus dem zeitgleichen Zusammenspiel von Bild und Ton 
 und dem „dadurch vermittelten Anschein der Authentizität und des Miterlebens“ (BVerfGE 97, 228 [256])
@@ -475,11 +427,7 @@ einen Deepfake handelt oder nicht. Dennoch sind solche Zuverlässigkeitsaussagen
 So beziehen sich Detektoren zum einen auf bestimmte Arten der Deepfakeerzeugung, zum anderen wird die
 Erfolgsquote anhand eines bestimmten Trainingsmaterials bemessen. In der Regel erweisen sich die Detektoren in 
 ihrer Leistung als sehr eingeschränkt, wenn sich die Datengrundlage ändert (z. B. andere Bilder oder eine andere 
-Datenkompression) oder die zugrunde liegenden KI-Methoden nicht übereinstimmen, sodass es derzeit nicht 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Datenkompression) oder die zugrunde liegenden KI-Methoden nicht übereinstimmen, sodass es derzeit nicht
 möglich ist, beliebig erstellte Medieninhalte zuverlässig durch einen Detektor als Deepfake einzustufen
 (Karaboga et al. 2024, S. 113 f.; Pawelec/Bieß 2021, S. 14 f.; Seow et al. 2022; STOA 2021). Aus diesem Grund wird 
 die Entwicklung genereller Detektoren, d. h. unabhängig von speziellen Deepfaketechnologien, von großer
@@ -497,11 +445,7 @@ beitragen. Detektoren erweisen sich daher in ihrer Effektivität als zeitlich be
 Weiterentwicklungen von Deepfakes stets hinterher (Pawelec/Bieß 2021, S. 147 f.; Seow et al. 2022; STOA 2021). Zentral ist 
 hierbei der offene Zugang zu den Detektoren, sei es open source auf Plattformen oder in
 Forschungszusammenhängen, der aus ethischer Sicht und Transparenzgründen gefordert wird, aber in diesem Kontext einen
-abträglichen Effekt mit sich bringt (Pawelec/Bieß 2021, S. 148). 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+abträglichen Effekt mit sich bringt (Pawelec/Bieß 2021, S. 148).
 3 Anwendungsmöglichkeiten und -beispiele von Deepfaketechnologien 
 Während der Begriff Deepfake definitionsgemäß immer eine Täuschung impliziert, können Deepfaketechnologien 
 grundsätzlich sowohl für böswillige als auch für wohlmeinende Zwecke angewendet werden. Sie können zudem mit 
@@ -533,11 +477,7 @@ etwa ob auch Filmszenen mit bereits verstorbenen Schauspieler/innen realisiert w
 Abbildung 3.1 Gegenüberstellung von Kinoversion (mit Visual Effects) und Deepfakeversion von 
 Luke Skywalker in „The Mandalorian“ 
  
-Quelle: Shamook (Screenshot www.youtube.com/watch?v=wrHXA2cSpNU; 12.9.2025) 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Quelle: Shamook (Screenshot www.youtube.com/watch?v=wrHXA2cSpNU; 12.9.2025)
 Kasten 3.2 Weihnachtsansprache von Queen Elizabeth II (2020) 
 Während die britische Königin traditionell ihre Weihnachtsansprache über die Sender BBC und ITV
 ausstrahlen lässt, sendete Channel 4 eine als Deepfake gekennzeichnete Weihnachtsansprache, die aufgrund der
@@ -551,11 +491,7 @@ Abbildung 3.2 Weihnachtsansprache 2020 der Queen auf Channel 4 (Deepfake)
 Quelle: Channel 4 Entertainment (Screenshot www.youtube.com/watch?v=IvY-Abd2FfM; 12.9.2025 
 Abbildung 3.3 Making-of der Weihnachtsansprache 2020 der Queen auf Channel 4 
  
-Quelle: Channel 4 Entertainment (Screenshot www.youtube.com/watch?v=IvY-Abd2FfM; 12.9.2025) 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Quelle: Channel 4 Entertainment (Screenshot www.youtube.com/watch?v=IvY-Abd2FfM; 12.9.2025)
 In Dokumentarfilmen bzw. im Journalismus können sie zum Schutz der Identität von Quellen eingesetzt werden. 
 Viele Anwendungen zu Unterhaltungszwecken reduzieren die Produktionskosten erheblich, sodass auch kleinere 
 Entwicklungsstudios in dieser Branche Fuß fassen können. Für bestimmte Berufsgruppen in der
@@ -605,11 +541,7 @@ zur Erzeugung bzw. zum Klonen von Stimmen von Menschen, die aufgrund einer Erkra
 7 LG Berlin II, Beschluss vom 13. Februar 2024, Az. 15 O 579/23 
 8 Für das Dalí Museum in Florida wurde bereits 2019 mit Deepfaketechnologie eine virtuelle Präsentation des Künstlers in Form eines 
 lebensgroßen Avatars erstellt, mit der die Besucher/innen auf mehreren Bildschirmen interagieren können (Mihailova 2021; https://the 
-dali.org/exhibit/dali-lives/; 14.1.2025). 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+dali.org/exhibit/dali-lives/; 14.1.2025).
 ihre Stimme verloren haben (AP 2024). Hier bieten sich durch die Technologie einige Vorteile gegenüber den 
 früher genutzten Sprachsynthesizern. 
 Kasten 3.4 Alternative Vergangenheit am Beispiel der Mondlandung (1974/2019) 
@@ -638,11 +570,7 @@ In einem Videostatement der britischen Organisation Malaria No More UK rief Davi
 gegen Malaria auf. Die Botschaft wurde in neun Sprachen übersetzt und die Gesichtsbewegungen des
 Fußballstars (nicht aber seine Stimme) wurden mithilfe von Deepfaketechnologie so angepasst, dass sie jeweils dem 
 Gesagten entsprechen. Auf diese Weise sollten mehr Menschen in unterschiedlichen Ländern erreicht werden 
-(Karaboga et al. 2024, S. 308). 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+(Karaboga et al. 2024, S. 308).
 3.4 Politik und Meinungsbildungsprozesse 
 Deepfakes können bewusst mit dem Ziel produziert und verbreitet werden, die öffentliche Debatte oder den
 politischen Prozess zu beeinflussen. In demokratischen Gesellschaften ist dies insbesondere in Hinblick auf Wahlen 
@@ -691,11 +619,7 @@ tot) sein, die politischen Spannungen im Land und es kam zu einem (letztlich erf
 zudem abschreckend auf Menschen bzw. bestimmte Gruppen wirken, die dann nicht mehr an solchen Diskursen 
 teilnehmen (Bieber et al. 2024, S. 15). Deepfakes wirken auf diese Weise einer Überwindung gesellschaftlicher
 Spaltungen entgegen, anstatt sie zu unterstützen (Bieber et al. 2024, S. 16). Eine weitere Verbreitung im Journalismus 
-kann zudem den Wert menschlicher Arbeitskraft in diesem Bereich verringern (Bohacek/Farid 2024). 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+kann zudem den Wert menschlicher Arbeitskraft in diesem Bereich verringern (Bohacek/Farid 2024).
 Abbildung 3.5 Warnung vor Selenskyj-Deepfake beim TV-Sender Ukraine 24 (2022) 
  
 Quelle: Ukraine 24 (Screenshot www.facebook.com/www.ukraine24.ua/posts/1847515155441880; 4.9.2025) 
@@ -708,11 +632,7 @@ ein Deepfake beschrieben, das als Victim Impact Statement in einem Gerichtsverfa
 (Neff 2025). Die Schwester des Opfers eines Tötungsdelikts nutzte diese im angelsächsischen Rechtssystem
 vorgesehene Möglichkeit, die Opferperspektive im Verfahren deutlich zu machen, indem sie ihr Statement so
 formulierte – und mithilfe von Deepfaketechnologie visualisierte –, dass es schien, als würde der Tote selbst zum
-Angeklagten sprechen. 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Angeklagten sprechen.
 Kasten 3.6 Zeugenaufruf durch das Mordopfer (2022) 
 Die niederländische Polizei veröffentlichte ein mit KI generiertes Video eines fast 20 Jahre zuvor getöteten 
 Jugendlichen als Zeugenaufruf (Abb. 3.6). In dem Video ist der Getötete mit seiner Familie und Freunden zu 
@@ -739,11 +659,7 @@ Arbeit von Strafverfolgungsbehörden, da Echtheitsnachweise von Medien schwierig
 (Pawelec/Bieß 2021, S. 59 f.). Manipuliertes „Beweismaterial“ könnte unberechtigte Verdächtigungen zur Folge haben 
 oder auch die Verschleierung krimineller Handlungen erleichtern. 
  
-9 Strafgesetzbuch in der Fassung der Bekanntmachung vom 13. November 1998, zuletzt am 7. November 2024 geändert 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+9 Strafgesetzbuch in der Fassung der Bekanntmachung vom 13. November 1998, zuletzt am 7. November 2024 geändert
 3.6 Falsche Identitäten 
 Deepfakes ermöglichen es Menschen, andere Identitäten anzunehmen bzw. fremde Identitäten vorzuspielen. Dies 
 wird immer wieder für betrügerische Zwecke genutzt, wenn etwa Angestellte von Unternehmen vorgeblich von 
@@ -792,11 +708,7 @@ an empirischer Forschung dazu (Birrer/Just 2024, S. 9).
 und dem über 600.000 Personen zugerechnet werden. Auch in einem Bericht des für investigative Recherchen bekannten Kollektivs 
 bellingcat (Koltai 2024) wird ein Netzwerk von Unternehmen beschrieben, dem eine Reihe von Onlinediensten und Apps zur Erstellung 
 und Verbreitung von sexualisierten Deepfakes zugeordnet wird und das Zahlungsdienstleistungen unter anderem der Gamesbranche zur 
-diskreten Bezahlung von Deepfakes nutzt. 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+diskreten Bezahlung von Deepfakes nutzt.
 Ähnlich wie bei dem Phänomen der konventionellen Rachepornografie (ohne Bildmanipulation) wird
 Deepfakepornografie auch zu Zwecken der Bloßstellung, Herabwürdigung, Einschüchterung oder Erpressung eingesetzt. 
 Diese Fälle zielen fast ausschließlich auf Frauen (Ajder et al. 2019; Han et al. 2025; Hawkins et al. 2025; Security 
@@ -833,11 +745,7 @@ Machtausübung und ein vorgebliches Interesse der Community an dem gewünschten 
 12 Die Plattform Civitai, über die KI-Modelle unter anderem zur Erstellung von Deepfakes von Prominenten verbreitet wurden, kündigte 
 im Mai 2025 an, jegliche Bilder von realen Personen aus ihrem Angebot auszuschließen. Als Grund dafür werden Bedingungen von 
 Kooperationspartnern genannt, die Zahlungsdienstleistungen für die Plattform abwickeln, außerdem wird auf Gesetze wie den TAKE 
-IT DOWN Act in den USA sowie die KI-Verordnung der EU verwiesen (theally 2025) (Kap. 4.1 u. 4.2). 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+IT DOWN Act in den USA sowie die KI-Verordnung der EU verwiesen (theally 2025) (Kap. 4.1 u. 4.2).
 4 Rechtliche Aspekte 
 Die Produktion und Verbreitung von Deepfakes berühren, ähnlich wie der Einsatz von anderweitig manipulierten 
 Medien, ein weites Feld von Rechtsgrundlagen. Es ist absehbar, dass Deepfakes sowohl in positiv als auch in 
@@ -889,11 +797,7 @@ Verbreitung von nicht einvernehmlichen sexualisierten Deepfakes auch die Produkt
 14 Tools to Address Known Exploitation by Immobilizing Technological Deepfakes on Websites and Networks Act (TAKE IT DOWN 
 Act), Public Law 119–12, vom 19. Mai 2025 
 15 Ensuring Likeness Voice and Image Security (ELVIS) Act of 2024, House Bill No, 2092, vom 21. März 2024 
-16 Trade Regulation Rule on Impersonation of Government and Businesses, 16 CFR Part 461, RIN 3084-AB71, vom 1. März 2024 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+16 Trade Regulation Rule on Impersonation of Government and Businesses, 16 CFR Part 461, RIN 3084-AB71, vom 1. März 2024
 Bereits seit 2023 existiert in China mit den Administrative Provisions on Deep Synthesis for Internet-based
 Information Services (etwa Regelungen zu Deep Synthesis bei Internetinformationsdiensten – Deep-Synthesis-
 Regelungen) eine umfassende Regulierung von synthetischen Medien. Diese Verordnung bezieht sich nicht nur auf 
@@ -946,11 +850,7 @@ Plattformen in die Pflicht, Nutzer/innen vor illegalen Inhalten zu schützen, um
 gewährleisten. Von besonderer Bedeutung im Kontext von Deepfakes sind hierbei die Artikel 16 ff. DSA (Melde- und 
 Abhilfeverfahren), die Hostingdienstanbieter dazu verpflichten, ein Meldeverfahren für rechtswidrige Inhalte
 einzurichten und umgehend Maßnahmen (z. B. Löschung, Sperrung, Kontoschließung; Art. 17 DSA) einzuleiten, 
-wenn gemeldete Inhalte als rechtswidrig erkannt werden. Bei einem Verdacht auf Straftaten sind Anbieter sogar 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+wenn gemeldete Inhalte als rechtswidrig erkannt werden. Bei einem Verdacht auf Straftaten sind Anbieter sogar
 dazu verpflichtet, diese Inhalte unverzüglich den jeweils zuständigen Strafverfolgungs- oder Justizbehörden zu 
 melden (Art. 18 DSA). 
 Eine weitere Besonderheit des DSA stellen die weitergehenden Regelungen für sehr große Onlineplattformen und 
@@ -1003,11 +903,7 @@ sowie der Kinderpornografie sowie zur Ersetzung des Rahmenbeschlusses 2004/68/JI
 20 Gesetz betreffend das Urheberrecht an Werken der bildenden Künste und der Photographie (KunstUrhG) vom 9. Januar 1907, zuletzt 
 am 16. Februar 2001 geändert 
 21 Bei einem Bildnis handelt es sich um Darstellungen, bei denen eine oder mehrere Personen im Fokus stehen, wohingegen bei Bildern 
-die Abbildung einer Örtlichkeit oder eines Geschehens zentral sind. 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+die Abbildung einer Örtlichkeit oder eines Geschehens zentral sind.
 sen, wie das Hochladen auf Social-Media-Kanälen zu behandeln ist, da hier eine Unterscheidung zwischen
 öffentlichen und privaten Profilen erforderlich ist. Dabei ist jedoch zu bedenken, dass das (gegebenenfalls auch 
 unberechtigte) Kopieren und Weiterverbreiten von digitalen Inhalten nur geringen Hürden unterliegt und daher 
@@ -1061,11 +957,7 @@ freiwillig zugeschickt, mit dem die andere einen pornografischen Deepfake erstel
 22 Auch das Recht an der eigenen Stimme ist vom allgemeinen Persönlichkeitsrecht umfasst. Das Landgericht Berlin sprach im August 
 2025 einem bekannten Synchronsprecher Schadensersatz zu, weil eine von einem KI-System erzeugte Stimme, die seiner täuschend 
 ähnlich war, ohne sein Einverständnis in zwei Youtube-Clips verwendet worden war (LG Berlin II, Urteil vom 20.08.2025, Az. 2 O 
-202/24; das Urteil ist noch nicht rechtskräftig). 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+202/24; das Urteil ist noch nicht rechtskräftig).
 sein, dass das Persönlichkeitsrecht nicht verletzt ist (wenn etwa mit der Erstellung einer solchen Darstellung zu 
 rechnen war). 
 Im Zusammenhang mit dem allgemeinen Persönlichkeitsrecht bleibt jedoch der Wahrheitsgehalt als wesentliches 
@@ -1116,11 +1008,7 @@ Deepfake in Verbindung gebracht werden möchte. Ein solches Recht auf Anerkennun
 folgt nicht ohne Weiteres aus dem UrhG, kann sich aber gegebenenfalls aus § 12 BGB und dem allgemeinen 
 Persönlichkeitsrecht ergeben (Busch/Oster 2023, S. 28). 
  
-23 Urheberrechtsgesetz vom 9. September 1965, zuletzt am 23. Oktober 2024 geändert 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+23 Urheberrechtsgesetz vom 9. September 1965, zuletzt am 23. Oktober 2024 geändert
 Beispiel 4.1 
 L nimmt ein Foto mit einem Smartphone auf und schickt es an D. Dieser verändert es mittels eines Deepfakes 
 und lädt es frei zugänglich auf einer Social-Media-Seite hoch. D verstößt dadurch gegen das UrhG, unter
@@ -1170,11 +1058,7 @@ verschiedener Vorbilder trainiert und für die Generierung eines neuen Inhalts g
 § 44b UrhG greifen und eine Verwendung ermöglichen (Härtlein 2025, S. 9). Ob bzw. inwiefern diese Schranke auf generative KI-
 Systeme angewendet werden kann, ist jedoch noch Gegenstand der juristischen Debatte (Dornis 2024; Maamar 2023).
 25 Grundgesetz für die Bundesrepublik Deutschland vom 23. Mai 1949, zuletzt am 22. März 2025 geändert 
-26 Charta der Grundrechte der Europäischen Union (2007/C 303/01) vom 14.12.2007 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+26 Charta der Grundrechte der Europäischen Union (2007/C 303/01) vom 14.12.2007
 „allesamt männlich und mit dunkler Hautfarbe“ sind (Busch/Oster 2023, S. 33). Solche unbewusste
 Diskriminierung durch Private wird auch in Artikel 10 der KI-Verordnung nur für Hochrisikosysteme erfasst, insofern besteht 
 „eine ganz erhebliche Regelungslücke im Hinblick auf Diskriminierungen mittels Deepfakes durch
@@ -1223,11 +1107,7 @@ freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grund
 Abs. 2 StGB für anwendbar, der das Zugänglichmachen von Bildaufnahmen unter Strafe stellt, wenn diese geeignet sind, dem Ansehen 
 der abgebildeten Person erheblich zu schaden (Lantwin 2020, S. 80; Thiel 2021, S. 204). Auch die frühere Bundesregierung hatte sich 
 entsprechend geäußert (Bundesrat 2024, S. 21). Der Deutsche Juristinnenbund (DJB 2023, S. 7) weist darauf hin, dass Bedenken gegen 
-die Bestimmtheit des Tatbestandes bestehen und Wertungswidersprüche anzunehmen sind. 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+die Bestimmtheit des Tatbestandes bestehen und Wertungswidersprüche anzunehmen sind.
 Die Verbreitung rechtswidriger Inhalte per Deepfakes ist strafbar – unabhängig davon, ob sie sich auf einem 
 Speichermedium befinden oder per Informations- oder Kommunikationstechnik übertragen werden. Hierzu
 zählen zuvorderst sämtliche Varianten von kinder-/jugendpornografischen Inhalten (§§ 184b u. c StGB), bei denen 
@@ -1272,11 +1152,7 @@ Rahmen strafrechtlicher Ermittlungsverfahren (§ 184b Abs. 6 StGB).
 Grundsatz erlaubt. Für die Verbreitung gelten allerdings bestimmte Regeln (§ 184 StGB), die sich jedoch nicht auf die Zustimmung der 
 abgebildeten Personen beziehen, d. h., nicht einvernehmliche sexualisierte Deepfakes von Erwachsenen sind vom Pornografiestrafrecht 
 nur bedingt erfasst. 
-31 Gesetz zum Schutz von Geschäftsgeheimnissen vom 18. April 2019 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+31 Gesetz zum Schutz von Geschäftsgeheimnissen vom 18. April 2019
 5 Regelungslücken, Herausforderungen der Rechtsdurchsetzung und 
 Handlungsoptionen 
 Mit Deepfakes geht eine ganze Reihe von Anwendungen einher, die Menschen, Unternehmen und Institutionen 
@@ -1328,11 +1204,7 @@ Verbreitung von rechtswidrigen Inhalten per se nicht in Haftung genommen werden,
 32 Ein weiteres Beispiel ist ein Video vom August 2025, in dem die indonesische Finanzministerin Sri Mulyani Indrawati verächtlich über 
 Lehrer/innen spricht. Das Video war mit dem Wasserzeichen des KI-Systems Veo gekennzeichnet und somit als Deepfake erkennbar. 
 Dennoch wurde es vielfach geteilt und soll zum Anheizen der gewaltsamen Proteste der Bevölkerung gegen die Regierung beigetragen 
-haben (Saathoff 2025). 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+haben (Saathoff 2025).
 haben (Busch/Oster 2023, S. 53; DJB 2023). Diese Konstellation bedingt die Verfügbarkeit eines externen
 Meldesystems, welches sich mutmaßlich auf aktive Nutzer/innen oder auch Organisationen verlassen muss. Zu
 diesem Zweck formuliert der DSA in Art. 22 das System der unabhängig agierenden „vertrauenswürdigen
@@ -1385,11 +1257,7 @@ gegebenenfalls jeweils neu durchlaufen werden. In einem Beschluss vom 4.3.2025 (
 klar, dass Hostinganbietern die Überprüfung anderer, „identischer und kerngleicher“ Videos zumutbar ist. Hintergrund des Rechtsstreits 
 waren mehrere sehr ähnliche Deepfakes, in denen scheinbar der Arzt und Wissenschaftsjournalist Eckart von Hirschhausen für Produkte 
 wirbt. Er beklagt „jede Menge Verzögerungstaktik und Schutzbehauptungen“ von Seiten der Plattformen (von Hirschhausen 2025). 
-34 https://weact.campact.de/petitions/deepfakes-verbieten (13.6.2025) 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+34 https://weact.campact.de/petitions/deepfakes-verbieten (13.6.2025)
 zivilrechtlicher Ansprüche ein wesentliches Problem dar, auch Behörden und Staatsanwaltschaften stoßen bei 
 Rechtsverstößen im Internet auf Ermittlungsprobleme. Deepfakes können global verbreitet werden, ihre
 Bekämpfung erfordert daher regelmäßig eine internationale Zusammenarbeit (siehe beispielsweise Meywirth et al. 2023 
@@ -1441,11 +1309,7 @@ Tat wurde in Deutschland begangen; der Taterfolg ist in Deutschland eingetreten;
 Staatsangehörige/r und die Tat ist am Tatort strafbar; es gelten bestimmte Sonderregelungen. Das Kriterium des Taterfolgs betrifft besonders 
 Gefährdungsdelikte, bei denen zur Vollendung kein messbarer Erfolg in der Außenwelt vorausgesetzt wird (z. B. Volksverhetzung oder 
 auch Stalking). Gemäß der aktuellen Rechtsprechung des Bundesgerichtshofs ist das deutsche Strafrecht in diesen Fällen nicht
-anwendbar. 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+anwendbar.
 medienforensische Expert/innen deutlich verbessert werden kann (BSI o. J.). Doch angesichts immer besser
 werdender Manipulationen sind zunehmend technologiebasierte Ansätze zur Erkennung von Deepfakes gefragt 
 (Kap. 2.3). 
@@ -1496,11 +1360,7 @@ Risiko in der Bedrohung der Integrität gerichtlicher Verfahren. Die Möglichkei
 Beweismitteln durch Deepfakes stellt grundsätzlich die Authentizität von Beweismitteln in audiovisueller Form infrage. 
 36 www.hhi.fraunhofer.de/abteilungen/vit/projekte/fakeid.html; www.bioid.com/deepfake-detection/ (4.9.2025) 
 37 www.sprind.org/impulse/challenges/funke-deepfake (4.9.2025); im Mai 2025 wurden die sieben vielversprechendsten Projekte für die 
-zweite Stufe der Förderung ausgewählt. 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+zweite Stufe der Förderung ausgewählt.
 Zwar können diese durch Sachverständige überprüft werden, jedoch sind auch hier die fehlenden oder begrenzten 
 Detektionsmöglichkeiten in Bezug auf qualitativ hochwertige Deepfakes zu bedenken. 
 Dies bezieht sich nicht nur auf die Prüfung der Authentizität audiovisueller Beweismittel, sondern auch auf die 
@@ -1554,11 +1414,7 @@ kann die Grenze zwischen kreativen und gefahrlosen und schädigenden Anwendungen
 39 Durch die Neufassung der ZPO nach dem Gesetz zur Förderung des Einsatzes von Videokonferenztechnik in der Zivilgerichtsbarkeit 
 und den Fachgerichtsbarkeiten vom 15. Juli 2024 wurden diese Möglichkeiten noch erweitert. 
 40 In diesem Fall würde sich auch die Frage stellen, wie bzw. auf wen die Aussagedelikte gem. §§ 153 ff. StGB anwendbar sind. 
-41 beispielsweise https://github.com/iperov/DeepFaceLive (4.9.2025) 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+41 beispielsweise https://github.com/iperov/DeepFaceLive (4.9.2025)
 (Karaboga et al. 2024, S. 339). Entsprechende Vereinbarungen wurden etwa bereits von Parteien in den
 Niederlanden, Dänemark und der Schweiz getroffen und sind in weiteren Ländern in Vorbereitung (EPTA 2024). 
 5.3.3 Stärkung von Medienkompetenz und interdisziplinäre Zusammenarbeit 
@@ -1586,11 +1442,7 @@ große Zahl von offen als Deepfakes erkennbare Medieninhalte Verbreitung finden,
 wissenschaftlichen und öffentlichen Debatte jedoch noch kaum Aufmerksamkeit geschenkt wird (Öhman 2024, S. 13 f.). Nicht 
 zuletzt ist bei allen Maßnahmen zu bedenken, dass Regulierungen speziell für Deepfakes in Konflikt mit dem 
 Gebot der Technologieneutralität geraten könnten und zudem im Bereich des öffentlichen Diskurses einen
-hochsensiblen Bereich der Demokratie betreffen (Busch/Oster 2023, S. 66). 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+hochsensiblen Bereich der Demokratie betreffen (Busch/Oster 2023, S. 66).
 6 Literatur 
 6.1 In Auftrag gegebenes Gutachten und Kommentargutachten 
 Busch, C.; Oster, J. (2023): Rechtliche Aspekte von Deepfakes. Osnabrück/Ober-Olm 
@@ -1634,11 +1486,7 @@ BMI (2022): Aktionsplan Deepfake. Bundesministerium für Inneres,
 https://www.bmi.gv.at/bmi_documents/2779.pdf (12.8.2024) 
 Bohacek, M.; Farid, H. (2024): The making of an AI news anchor – and its implications. In: Proceedings of the 
 National Academy of Sciences 121(1), Art. e2315678121, https://doi.org/10.1073/pnas.2315678121 
-Bröckling, M.; Tanner, B. (2024): Deepfake-Pornos: Die Jagd nach den Tätern. ZDF, Mainz 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Bröckling, M.; Tanner, B. (2024): Deepfake-Pornos: Die Jagd nach den Tätern. ZDF, Mainz
 BSI (o. J.): Deepfakes – Gefahren und Gegenmaßnahmen. Bundesamt für Sicherheit in der Informationstechnik, 
 https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-
 Empfehlungen/Kuenstliche-Intelligenz/Deepfakes/deepfakes.html?nn=1009560 (31.7.2024) 
@@ -1685,11 +1533,7 @@ EK (2022): The strengthened code of practice on disinformation. Europäische Kom
 strategy.ec.europa.eu/en/library/2022-strengthened-code-practice-disinformation (4.12.2024) 
 EP (2023): KI-Gesetz: erste Regulierung der künstlichen Intelligenz. Europäisches Parlament, 
 https://www.europarl.europa.eu/topics/de/article/20230601STO93804/ki-gesetz-erste-regulierung-der-
-kunstlichen-intelligenz (22.7.2024) 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+kunstlichen-intelligenz (22.7.2024)
 EPTA (2024): Artificial Intelligence and Democracy. EPTA Report 2024. European Parliamentary Technology 
 Assessment, Oslo 
 Erduran, S. (2024): Deepfakes and students’ deep learning: A harmonious pair in science? In: Science 
@@ -1736,11 +1580,7 @@ Jin, H.; Levine, D. (2023): Elon, or deepfake? Musk must face questions on autop
 27.4.2023, https://www.reuters.com/legal/elon-or-deepfake-musk-must-face-questions-autopilot-
 statements-2023-04-26/ (7.8.2024) 
 Justizministerkonferenz (2021): TOP II. 8 Bekämpfung von Gefahren durch sog. Deepfakes. 92. Konferenz der 
-Justizministerinnen und Justizminister, Düsseldorf 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Justizministerinnen und Justizminister, Düsseldorf
 Justizministerkonferenz (2023a): TOP II.2 Schutz der demokratischen Willensbildung – Wirksame Bekämpfung 
 von „Fake News“. 94. Konferenz der Justizministerinnen und Justizminister, Berlin 
 Justizministerkonferenz (2023b): TOP I.3 Digitale Gewalt effektiver bekämpfen – Zugang zum Recht 
@@ -1787,11 +1627,7 @@ regulierung-im-ai-act-ist-nur-der-anfang (13.6.2024)
 Digitalisierung & KI, 29.1.2025, https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/memetic-
 warfare-sind-wir-bereit-fuer-dieses-schlachtfeld (13.6.2025) 
 Łabuz, M.; Nehring, C. (2024): On the way to deep fake democracy? Deep fakes in election campaigns in 2023. 
-In: European Political Science 23(4), S. 454–473, https://doi.org/10.1057/s41304-024-00482-9 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+In: European Political Science 23(4), S. 454–473, https://doi.org/10.1057/s41304-024-00482-9
 Lakatos, S. (2023): A revealing picture. AI-generated „undressing“ images move from niche pornography 
 discussion forums to a scaled and monetized online business. Graphika, o. O. 
 Lang, E. (2025): GTA pharmacist allegedly behind deepfake porn site now on leave, says hospital network 
@@ -1837,11 +1673,7 @@ International Journal of Research into New Media Technologies 27(4), S. 882–89
 https://doi.org/10.1177/13548565211029401 
 Mukherjee, S. (2024): Few AI deepfakes identified in EU elections, Microsoft president says. Reuters, 3.6.2024, 
 https://www.reuters.com/technology/few-ai-deepfakes-identified-eu-elections-microsoft-president-says-
-2024-06-03/ (12.8.2024) 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+2024-06-03/ (12.8.2024)
 Naik, R.; Nushi, B. (2023): Social biases through the text-to-image generation lens. In: AIES ’23: Proceedings 
 of the 2023 AAAI/ACM Conference on AI, Ethics, and Society, Montreal, Canada, 8.–10. August. New 
 York, S. 786–808, https://doi.org/10.1145/3600211.3604711 
@@ -1887,11 +1719,7 @@ https://www.spiegel.de/netzwelt/apps/ki-stimmengenerator-sportlehrer-soll-rassis
 gefaelscht-haben-a-f267a6f9-a236-4c0a-b3e3-20f3d624235e (29.11.2024) 
 Steffes, B.; Zichler, A. (2024): Deepfakes in Videoverhandlungen vor Gericht: Herausforderungen der 
 menschlichen und maschinellen Erkennung. In: Datenschutz und Datensicherheit 48(3), S. 158–163, 
-https://doi.org/10.1007/s11623-023-1899-1 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+https://doi.org/10.1007/s11623-023-1899-1
 STOA (2021): Tackling deepfakes in European policy. European Parliamentary Research Service, Scientific 
 Foresight Unit, Luxemburg 
 Stockwell, S. (2024): AI-enabled influence operations: Threat analysis of the 2024 UK and european elections. 
@@ -1938,11 +1766,7 @@ Weikmann, T.; Lecheler, S. (2024): Cutting through the hype: Understanding the i
 the fact-checking actor-network. In: Digital Journalism 12(10), S. 1505–1522, 
 https://doi.org/10.1080/21670811.2023.2194665 
 Westerlund, M. (2019): The Emergence of Deepfake Technology: A Review. In: Technology Innovation 
-Management Review 9(11), S. 39–52, https://doi.org/10.22215/timreview/1282 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+Management Review 9(11), S. 39–52, https://doi.org/10.22215/timreview/1282
 Whittaker, L. et al. (2023): Mapping the deepfake landscape for innovation: A multidisciplinary systematic 
 review and future research agenda. In: Technovation 125, Art. 102784, 
 https://doi.org/10.1016/j.technovation.2023.102784 
@@ -1956,11 +1780,7 @@ https://www.golem.de/news/deepfakes-als-sean-connery-an-der-redaktionskonferenz-
 188172.html (26.11.2024) 
 Yang, J. et al. (2023): Model-agnostic method: Exposing deepfake using pixel-wise spatial and temporal
 fingerprints. In: IEEE Transactions on Big Data 9(6), S. 1496–1509, 
-https://doi.org/10.1109/TBDATA.2023.3284272 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+https://doi.org/10.1109/TBDATA.2023.3284272
 7 Anhang 
 7.1 Abbildungen 
 Seite 
@@ -1990,7 +1810,7 @@ Kasten 3.6 Zeugenaufruf durch das Mordopfer (2022) ......................... 21
 Kasten 3.7 Betrug per CEO-Deepfake (2019) ....................................... 22 
 Kasten 3.8 Deepfakepornografie zur Einschüchterung und als 
 Druckmittel gegenüber Frauen (2018) ................................ 23 
-V
-orabfassung – w
-ird durch die lektorierte V
-ersion ersetzt.
+
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

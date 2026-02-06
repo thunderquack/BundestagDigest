@@ -1,0 +1,322 @@
+Deutscher Bundestag Drucksache 21/3960
+21. Wahlperiode 02.02.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Tobias Matthias Peterka, Sascha 
+Lensing, Rainer Galla, weiterer Abgeordneter und der Fraktion der AfD
+– Drucksache 21/3696 –
+Rechtsgrundlagen, Einsatzpraxis und Kontrollmechanismen polizeilicher 
+Überwachungstechnologien
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Nutzung polizeilicher Überwachungstechnologien durch Bundesbehörden 
+berührt zentrale Grundrechte, insbesondere das Recht auf informationelle 
+Selbstbestimmung gemäß Artikel 2 Absatz 1 in Verbindung mit Artikel 1
+Absatz 1 des Grundgesetzes (GG), das Telekommunikationsgeheimnis gemäß
+Artikel 10 GG, das allgemeine Persönlichkeitsrecht sowie die
+Versammlungsfreiheit nach Artikel 8 GG. Bereits in früheren Wahlperioden wurden hierzu
+verschiedene Kleine Anfragen gestellt. Die Bundesregierung hat auf
+Bundestagsdrucksache 19/1513 zur Nutzung von Prognose- und Bewertungssoftware im 
+Bereich des sogenannten Predictive Policing ausgeführt, dass derartige
+Systeme auf Bundesebene seinerzeit nicht eingesetzt wurden. Auf
+Bundestagsdrucksache 19/5011 hat sie zur Frage der sogenannten intelligenten
+Videoüberwachung Stellung genommen und erläutert, dass für automatisierte
+Videoanalyse oder KI-gestützte (KI = Künstliche Intelligenz) Echtzeitauswertung 
+keine spezifische bundesgesetzliche Ermächtigung existiere, man jedoch eine 
+Anwendung der Befugnisnorm des § 27 Satz 1 Nummer 2
+Bundespolizeigesetz (BPolG) für ausreichend halte. Die Bundestagsdrucksachen 19/5744 und 
+19/6076 befassten sich mit dem Pilotprojekt zur biometrischen
+Gesichtserkennung am Bahnhof Berlin-Südkreuz und stellten die technischen Parameter, 
+Trefferquoten und Ergebnisse des Testbetriebes dar. Auf
+Bundestagsdrucksache 19/14952 beantwortete die Bundesregierung Fragen zur deutschen
+Beteiligung an europäischen Vorhaben zum Abgleich biometrischer Daten,
+insbesondere in dem Projekt „Towards the European Level Exchange of Facial 
+Images“ (TELEFI). Die jüngste thematisch einschlägige Antwort ist auf
+Bundestagsdrucksache 21/2289 enthalten und betrifft Werkzeuge der
+informationstechnischen Überwachung beim Bundeskriminalamt (BKA), wobei
+größere Teile der Antwort aus Gründen des Staatswohls als „VS-Nur für den 
+Dienstgebrauch“ eingestuft wurden.
+Diese bisherigen Antworten beleuchten einzelne Technologien, Projekte und 
+Anwendungen, ergeben nach Auffassung der Fragesteller jedoch kein
+zusammenhängendes Gesamtbild über den gegenwärtigen Stand der
+Überwachungstechnologien im Geschäftsbereich des Bundes, deren rechtliche Einordnung, 
+deren tatsächliche Einsatzpraxis und deren Kontrollmechanismen. Die Ant-
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern vom 30. Januar 2026 
+übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+worten bleiben jeweils auf Teilaspekte beschränkt. Eine zusammenführende 
+Darstellung existiert nicht. Dies ist vor allem vor dem Hintergrund aktueller 
+technischer und rechtlicher Entwicklungen in den Augen der Fragesteller 
+problematisch, weil moderne Systeme wie automatisierte Videoanalyse, KI-
+gestützte Mustererkennung und biometrische Echtzeit-Identifikation Eingriffe 
+von neuer Intensität und Qualität darstellen und sich deutlich von klassischen 
+Überwachungsformen unterscheiden.
+Hinzu kommt, dass zwischenzeitlich die Verordnung (EU) 2024/1689 des 
+Europäischen Parlaments und des Rates vom 13. Juni 2024 zur Festlegung 
+harmonisierter Vorschriften für künstliche Intelligenz und zur Änderung der 
+Verordnungen (EG) Nr. 300/2008, (EU) Nr. 167/2013, (EU) Nr. 168/2013, 
+(EU) 2018/858, (EU) 2018/1139 und (EU) 2019/2144 sowie der Richtlinien 
+2014/90/EU, (EU) 2016/797 und (EU) 2020/1828 (Verordnung über
+künstliche Intelligenz), kurz: EU-KI-Verordnung, seit dem 1. August 2024 in Kraft 
+getreten ist. Diese Verordnung enthält erstmals unionsrechtlich verbindliche 
+Vorgaben für den Einsatz von KI-Systemen im Bereich der Inneren Sicherheit. 
+Sie sieht unter anderem ein grundsätzliches Verbot der biometrischen
+Echtzeit-Fernidentifizierung in öffentlich zugänglichen Räumen vor und unterwirft 
+weitere KI-gestützte Systeme, insbesondere automatisierte Analyse-,
+Klassifikations- oder Prognoseverfahren, einem Hochrisikoregime mit strengen
+technischen, organisatorischen und rechtlichen Anforderungen. Welche
+Konsequenzen die Bundesregierung daraus für bestehende oder geplante
+Überwachungstechnologien zieht, ist den bisherigen parlamentarischen Antworten 
+nicht zu entnehmen.
+Eine zusätzliche rechtliche Bewertung ergibt sich aus der Ausarbeitung der 
+Wissenschaftlichen Dienste (WD) des Deutschen Bundestages mit dem Titel 
+„Zur Videoüberwachung öffentlicher Räume durch staatliche Stellen zum 
+Zweck der Gefahrenabwehr“ (WD 3 – 3000 – 131/24, www.bundestag.de/reso
+urce/blob/1050662/WD-3-131-24-pdf.pdf). Die Wissenschaftlichen Dienste 
+des Deutschen Bundestages weisen darin darauf hin, dass bereits die
+Videoüberwachung öffentlicher Räume durch staatliche Stellen zum Zweck der
+Gefahrenabwehr erhebliche Anforderungen an gesetzliche
+Ermächtigungsgrundlagen, Verhältnismäßigkeit und Transparenz stellt und dass technische
+Weiterentwicklungen wie automatisierte Videoanalyse und biometrische Verfahren 
+diese Anforderungen weiter erhöhen. Aus den bisherigen Antworten der
+Bundesregierung ergibt sich nicht, ob und inwieweit sie diese rechtlichen
+Entwicklungen nachvollzogen oder bewertet hat.
+Nach wie vor ist ebenfalls ungeklärt, welche tatsächlichen internen und
+externen Kontrollmechanismen möglicherweise bestehen, um sicherzustellen, dass 
+polizeiliche Überwachungstechnologien des Bundes rechtmäßig eingesetzt 
+werden, ob regelmäßige Prüfverfahren existieren, ob Datenschutzbehörden 
+und sonstige Aufsichtsinstanzen über ausreichende Informationen und
+Befugnisse verfügen und ob die parlamentarische Kontrolle wirksam gewährleistet 
+ist. Auch bleibt offen, ob für neuartige oder besonders eingriffsintensive
+Technologien strukturierte Prüfverfahren bestehen, die eine frühzeitige
+rechtsstaatliche Bewertung, insbesondere im Hinblick auf die Vereinbarkeit mit der EU-
+KI-Verordnung und dem Datenschutzrecht, vorsehen.
+Vor diesem Hintergrund konzentriert sich die vorliegende Kleine Anfrage
+ausschließlich auf Fragen, die in den genannten Drucksachen nicht oder nicht 
+ausreichend beantwortet wurden oder sich aufgrund aktueller technischer und 
+rechtlicher Entwicklungen neu stellen.
+ 1. Wie bewertet die Bundesregierung ihre auf Bundestagsdrucksache 
+19/5011 dargestellte Auffassung, wonach sich die Rechtsgrundlage für 
+den Einsatz sogenannter intelligenter Videoüberwachung aus den
+allgemeinen Ermächtigungen für konventionelle Videoüberwachung ableiten 
+lasse, im Lichte der technischen und rechtlichen Entwicklungen seit 
+2018, insbesondere der unmittelbar geltenden Vorgaben der EU-KI-
+Verordnung?
+In der Antwort der Bundesregierung zur Kleinen Anfrage der Fraktion der FDP 
+auf Bundestagsdrucksache 19/5011 hat die Bundesregierung ausgeführt, dass 
+§ 27 Satz 1 Nummer 2 des Gesetzes über die Bundespolizei (BPolG) nach
+Auffassung des Bundesministeriums des Innern (BMI) die Rechtsgrundlage für die 
+Bundespolizei (BPOL) für die Erprobung von Systemen zur intelligenten
+Videoanalyse am Bahnhof Berlin Südkreuz sei, wobei die damalige Antwort auf die 
+Besonderheiten dieses Testbetriebs näher eingeht. In der damaligen Antwort 
+wurde überdies klargestellt, dass, soweit eine Entscheidung für die Einführung 
+der intelligenten Videotechnik im Wirkbetrieb getroffen werden sollte, seitens 
+der Bundesregierung die Schaffung einer bereichsspezifischen Rechtsgrundlage 
+vorgeschlagen werde, die die Voraussetzungen und Grenzen für einen Einsatz 
+intelligenter Videoüberwachung auch ohne Einwilligung regele. An dieser
+Aussage wird mit der Maßgabe festgehalten, dass eine solche Rechtsgrundlage 
+nunmehr zwingend auch die Anforderungen der Verordnung (EU) 2024/1689 
+des europäischen Parlamentes und des Rates vom 13. Juni 2024 (im Folgenden 
+Künstliche-Intelligenz-Verordnung (KI-VO)) erfüllen muss.
+ 2. Welche Änderungen in Planung, Einsatz oder Bewertung von
+Videoüberwachungs- und biometrischen Gesichtserkennungssystemen im
+Geschäftsbereich des Bundes haben sich seit den Antworten auf den
+Bundestagsdrucksachen 19/5011, 19/5744 und 19/6076 ggf. ergeben, und 
+welche rechtlichen Schlussfolgerungen zieht die Bundesregierung
+hieraus?
+Im Geschäftsbereich des BMI wird durch das Bundeskriminalamt (BKA) und 
+die BPOL eine Software zur ausschließlich retrograden Suche nach
+einstellbaren Suchparametern (z. B. Kfz, Farben, Gegenstände, Text und Logos) in
+großen Video- und Bilddateien in Fällen der Verfolgung schwerwiegender
+Straftaten (repressiv) verwendet. Die Anwendung verfügt über eine Funktion zur
+biometrischen Gesichtserkennung. Die Nutzung der Software führt zu einer
+Zeitersparnis bei der Datenauswertung in Höhe von zwei Dritteln im Vergleich zur 
+rein menschengestützten Auswertung. Durch die Software wird keine
+automatisierte Entscheidung getroffen. Vielmehr werden dem menschlichen Auswerter 
+lediglich Vorschläge von mit dem gesuchten Gegenstand/der gesuchten Person 
+übereinstimmenden Bildern im eingelesenen Datenbestand vorgelegt. Im
+Gegensatz zur intelligenten Videoanalyse in Echtzeit und zu präventiven Zwecken 
+ist der Einsatz von Systemen zur retrograden Analyse abgrenzbarer
+Datenbestände innerhalb eines Strafverfahrens von deutlich gemindertem
+Eingriffsgewicht.
+ 3. Welche Kategorien polizeilicher Überwachungstechnologien werden
+gegenwärtig ggf. von Bundesbehörden eingesetzt oder erprobt, und welche 
+dieser möglichen Technologien fallen nach Auffassung der
+Bundesregierung unter die Verbots- oder Hochrisikobestimmungen der EU-KI-
+Verordnung?
+Die BPOL setzt weiterhin Videoüberwachungstechnik ohne Künstliche
+Intelligenz an Bahnhöfen und Flughäfen und Kameras für die automatisierte
+Kennzeichenerkennung ein. Weitere Überwachungstechnologien werden von den 
+Polizeibehörden des Bundes weder erprobt noch eingesetzt. Das BKA und die 
+BPOL verwenden keine Systeme, die unter den Verbotstatbestand fallen. Ob 
+Systeme als hochriskant im Sinne der KI-VO eingestuft werden, lässt sich zu 
+diesem Zeitpunkt noch nicht abschließend sagen, da bisher weder die Leilinien 
+der EU-Kommission noch Rechtsprechung dazu vorliegen.
+ 4. Welche internen Verfahren bestehen innerhalb der zuständigen Behörden, 
+um neue oder weiterentwickelte Überwachungstechnologien vor ihrem 
+Einsatz einer systematischen Prüfung auf Grundrechtskonformität,
+Verhältnismäßigkeit und Vereinbarkeit mit der EU-KI-Verordnung sowie 
+den datenschutzrechtlichen Anforderungen zu unterziehen?
+Die jeweiligen Fachgesetze der einzelnen Behörden sowie die Datenschutz-
+Grundverordnung (DSGVO) und das Bundesdatenschutzgesetz (BDSG) stellen 
+durch verschiedene verfahrensrechtliche Anforderungen sicher, dass neue oder 
+weiterentwickelte Überwachungstechnologien vor ihrem Einsatz einer
+systematischen Prüfung auf Grundrechtskonformität und Vereinbarkeit mit dem
+geltenden, auch europäischen, Recht einschließlich Datenschutzrecht unterzogen
+werden. Dazu gehören unter anderem die Erstellung einer Datenschutz-
+Folgeabschätzung nach § 67 BDSG bzw. Artikel 35 DSGVO und die Anhörung des 
+oder der Bundesbeauftragten für den Datenschutz und die Informationsfreiheit 
+(BfDI) unter den Voraussetzungen des § 69 BDSG bzw. Artikel 36 DSGVO. 
+Ferner wurden die Anforderungen, die sich aus der KI-VO ergeben, in
+behördenübergreifenden Gesprächen sowie innerhalb der einzelnen Behörden
+systematisch ausgewertet und interne Prozesse entwickelt, um bestehende und
+zukünftige Systeme auf ihre Übereinstimmung mit den Vorgaben der KI-VO zu 
+überprüfen. Zudem werden alle Personen, die entsprechende Systeme
+verwenden, vor der Verwendung hinreichend geschult. Die behördeninternen
+Verfahren stellen die Einhaltung der KI-VO entsprechend den gestuften
+Umsetzungsfristen sowie den publizierten Leitlinien sicher.
+ 5. Werden die Polizeibehörden des Bundes bei der Einführung oder
+Fortentwicklung polizeilicher Überwachungstechnologien durch
+unabhängige und externe Stellen, insbesondere Datenschutzbehörden und
+wissenschaftliche Institutionen, begleitet oder kontrolliert, wenn ja, wie, und in 
+welchen Fällen haben diese seit 2020 ggf. entsprechende Empfehlungen 
+oder Prüfhinweise ausgesprochen?
+Die Anhörung der BfDI erfolgt nach den jeweiligen Fachgesetzen, dem BDSG 
+und der DSGVO. Die Einbindung wissenschaftlicher Institutionen erfolgt in 
+Einzelfällen der Konzeptionalisierung und Erprobung neuer Technologien, 
+wenn deren Expertise fachlich als sinnvoll bewertet wird und einen Mehrwert 
+gegenüber einer behördeninternen Ausarbeitung verspricht. Im Bereich der 
+BPOL und des BKA wurde die BfDI zwischen 2020 und 2025 in einer Vielzahl 
+von Fällen sowohl vor Einführung einer Technologie (mittels Anhörung) als 
+auch nach Einführung einer Technologie (mittels Kontrollen) beteiligt und hat 
+in diesem Rahmen Empfehlungen, Beanstandungen und sonstige Hinweise
+ausgesprochen. Die Einzelheiten können den jährlich erscheinenden
+Tätigkeitsberichten der BfDI entnommen werden, die zum Beispiel unter www.bfdi.bun
+d.de/DE/Service/Publikationen/Taetigkeitsberichte/taetigkeitsberichte_nod
+e.html öffentlich abrufbar sind. Durch die KI-VO wird ein wissenschaftliches 
+Gremium unabhängiger Sachverständiger eingerichtet. Zudem werden die
+Systeme von der zuständigen Marktüberwachungsbehörde überwacht.
+ 6. Welche Schlussfolgerungen zieht die Bundesregierung aus den
+bisherigen Erfahrungen mit intelligenter Video- und Analysefunktionalität,
+einschließlich des am Bahnhof Berlin-Südkreuz erprobten Systems, für die 
+Bewertung der Eingriffsintensität solcher Technologien und deren
+rechtliche Einordnung im Vergleich zur klassischen Videoüberwachung (vgl. 
+Vorbemerkung der Fragesteller)?
+Die Bandbreite an möglichen Einsatzszenarien und Analysefähigkeiten von 
+Systemen zur intelligenten Videoüberwachung ist groß. Eine Bewertung kann 
+daher nicht pauschal, sondern nur mit Blick auf ein konkretes System und
+dessen Einsatzbereich erfolgen. In ihrer Bewertung berücksichtigt die
+Bundesregierung stets die bislang ergangene Rechtsprechung des
+Bundesverfassungsgerichts zu Überwachungs- und Analysetechnologien. Aus polizeifachlicher 
+Sicht wird der Einsatz intelligenter Videotechnik als wichtiges Instrument zur 
+Gefahrenabwehr und Strafverfolgung bewertet.
+ 7. Welche Maßnahmen trifft die Bundesregierung, um sicherzustellen, dass 
+biometrische Echtzeit-Fernidentifizierungssysteme im Geschäftsbereich 
+der Bundesbehörden ab dem Geltungsbeginn der entsprechenden
+Bestimmungen der EU-KI-Verordnung ausschließlich in den gesetzlich
+zulässigen Ausnahmefällen und auf Grundlage hinreichend bestimmter
+nationaler Ermächtigungen eingesetzt werden?
+Die Bundesregierung prüft im Hinblick auf die KI-VO die Anpassung der
+relevanten Fachgesetze, um den Sicherheitsbehörden unter Beachtung der
+europäischen Vorgaben einen rechtsicheren Handlungsrahmen in spezifischen
+Einsatzszenarien zu erhalten. Hierbei bietet die KI-VO den geltenden Rechtsrahmen, 
+der für den Einsatz von KI in der Polizeiarbeit klare Vorgaben enthält und 
+durch eng definierte Ausnahmen die operative Handlungsfähigkeit im Rahmen 
+der europa- und grundrechtlich vorgegebenen Verhältnismäßigkeit stärkt.
+ 8. Inwieweit hat die Bundesregierung ihre auf Bundestagsdrucksache 
+19/1513 dargelegte Bewertung zur Nutzung oder Entwicklung von
+Predictive-Policing-Anwendungen seitdem ggf. fortgeschrieben oder
+angepasst, insbesondere hinsichtlich solcher Verfahren, die von der EU-KI-
+Verordnung erfasst werden können?
+Die Bewertung der Bundesregierung zu Predictive-Policing-Anwendungen
+orientiert sich maßgeblich an den technologischen Entwicklungen sowie dem sich 
+wandelnden rechtlichen Rahmen auf nationaler und europäischer Ebene. In
+diesem Zusammenhang bilden nunmehr die KI-VO und innerhalb der von ihr
+eröffneten Spielräume die grundrechtlichen Vorgaben den maßgeblichen Maßstab 
+für die zulässige Nutzung solcher Technologien im Bereich der inneren
+Sicherheit.
+ 9. Welche Maßnahmen bestehen innerhalb der Polizeibehörden des Bundes 
+zur Vermeidung diskriminierender oder verzerrter Auswirkungen bei KI-
+gestützten Überwachungs- und Analysesystemen, und wie wird deren 
+Wirksamkeit überprüft und dokumentiert?
+Alle Systeme, die von Seiten der Polizeibehörden des Bundes eingesetzt
+werden sollen, werden vorher erprobt. Teil der Erprobung ist im Einzelfall auch die 
+Überprüfung, ob die Technologie diskriminierungsfrei funktioniert. In welcher 
+Form eine solche Prüfung zu erfolgen hat, ergibt sich teilweise aus der KI-VO 
+und der Einstufung der betreffenden Technologie.
+10. Welche Funktionen nehmen die Bundesbeauftragte für den Datenschutz 
+und die Informationsfreiheit sowie die behördlichen
+Datenschutzbeauftragten in den Bundesbehörden bei Einführung und Kontrolle solcher 
+Überwachungstechnologien wahr, und in wie vielen Fällen wurden seit 
+2020 Beanstandungen oder Auflagen ausgesprochen?
+Die BfDI nimmt die ihr gesetzlich zugewiesenen Aufgaben bei der Einführung 
+und Kontrolle von Technologien wahr. Hierzu zählt unter anderem die
+Durchführung von gesetzlich verpflichtenden sowie fakultativen Kontrollbesuchen. 
+Im Geschäftsbereich des BMI wurden in den Jahren 2020 bis 2025 in keinem 
+Fall Beanstandungen in Bezug auf KI-Anwendungen ausgesprochen. Siehe im 
+Übrigen die Antwort auf Frage 5.
+11. Welche Dokumentations- und Berichtspflichten bestehen hinsichtlich des 
+Einsatzes besonders eingriffsintensiver Überwachungstechnologien, und 
+wie werden diese Unterlagen für interne oder externe Kontrollinstanzen 
+systematisch ausgewertet?
+Aus den verschiedenen Fachgesetzen, aus der DSGVO, dem BDSG sowie aus 
+dem europäischen Recht, im Bereich der Künstlichen Intelligenz insbesondere 
+aus der KI-VO, ergeben sich verschiedene Anforderungen an die
+Dokumentation des Einsatzes von bestimmten Technologien. Wie bereits unter 4.
+festgehalten, besteht gemäß § 67 BDSG bzw. Artikel 35 DSGVO die Pflicht zur
+Erstellung einer Datenschutzfolgeabschätzung für die Verarbeitung
+personenbezogener Daten. Artikel 25 DSGVO verpflichtet die Verantwortlichen in
+allgemeiner Form, die erforderlichen technisch-organisatorischen Schutzmaßnahmen zu 
+treffen; diese sind im Rahmen der innerstaatlichen Ermächtigungsgrundlagen in 
+den jeweiligen Fachgesetzen zu konkretisieren. Im Falle automatisierter
+Verarbeitungssysteme haben Verantwortliche und Auftragsverarbeiter nach § 76 
+BDSG etwa Protokollierungspflichten einzuhalten. Teilweise ergeben sich aus 
+den Fachgesetzen weitergehende Protokollierungspflichten, insbesondere für 
+eingriffsintensive Maßnahmen, beispielsweise in den §§ 81, 82 BKA-Gesetz. 
+Die BPOL hat gemäß § 36 Absatz 1 BPolG für jede zur Erfüllung der
+Aufgaben nach den §§ 1 bis 7 BPolG geführte automatisierte Datei mit
+personenbezogenen Daten in einer Errichtungsanordnung u. a. Prüffristen und
+Protokollierung festzulegen. Vor Erlass der Errichtungsanordnung ist die BfDI
+anzuhören.
+12. In welcher Weise berücksichtigt die Bundesregierung ggf. die
+Ausarbeitung der Wissenschaftlichen Dienste des Deutschen Bundestages mit 
+dem Titel „Zur Videoüberwachung öffentlicher Räume durch staatliche 
+Stellen zum Zweck der Gefahrenabwehr“ (WD 3 – 3000 – 131/24) in 
+ihrer Rechtsanwendung und ihren rechtspolitischen Erwägungen?
+Die Bundesregierung nimmt wissenschaftliche Veröffentlichungen
+einschließlich der Ausarbeitungen der wissenschaftlichen Dienste des Deutschen
+Bundestages fachspezifisch zur Kenntnis und bezieht sie in ihre Überlegungen ein.
+13. Wie stellt die Bundesregierung ggf. sicher, dass parlamentarische und
+gerichtliche Kontrollinstanzen über alle Informationen verfügen, die für 
+eine wirksame Kontrolle der rechtlichen Voraussetzungen und der
+tatsächlichen Einsatzpraxis polizeilicher Überwachungstechnologien
+erforderlich sind, ohne berechtigte Geheimhaltungsinteressen zu
+beeinträchtigen?
+Die Polizeibehörden des Bundes dokumentieren ihre Maßnahme nach den
+jeweils einschlägigen Fachgesetzen. Auf die Antwort zu Frage 11 wird
+verwiesen. Damit wird sichergestellt, dass die Kontrollinstanzen die zur
+Aufgabenwahrnehmung erforderlichen Informationen erhalten.
+14. Welche empirischen Erkenntnisse liegen der Bundesregierung ggf. zu 
+den tatsächlichen Auswirkungen der eingesetzten
+Überwachungstechnologien des Bundes auf die Verhütung, Aufklärung und Verfolgung von 
+Straftaten vor, und wie werden diese Erkenntnisse möglicherweise in die 
+Bewertung der Verhältnismäßigkeit einbezogen?
+Im Jahr 2025 konnte die BPOL mit Hilfe der Videoüberwachung an Bahnhöfen 
+12 124 Straftaten aufklären und 9 968 Täter ermitteln. Die Zahlen sind in den 
+zurückliegenden Jahren stetig gestiegen, was die Bedeutung der
+Videoüberwachung für die Repression unterstreicht. Die Geeignetheit von staatlichen 
+Maßnahmen hinsichtlich des durch die Maßnahme angestrebten Zwecks ist 
+grundsätzlich Teil der Prüfung der Verhältnismäßigkeit von
+Grundrechtseingriffen.
+15. Welche technischen Entwicklungen im Bereich polizeilicher
+Überwachungstechnologien erwartet die Bundesregierung ggf. in den
+kommenden Jahren, und nach welchen Leitlinien soll die Einführung solcher 
+Technologien ggf. rechtlich und organisatorisch gesteuert werden, um 
+frühzeitig klare Grenzen und wirksame Kontrollmechanismen zu
+gewährleisten?
+Technische Entwicklungen vollziehen sich aktuell insbesondere im Bereich der 
+Künstlichen Intelligenz in einem schnellen Tempo. Die Bundesregierung
+beobachtet die Entwicklungen fachspezifisch. Allgemeine behördenübergreifende 
+Leitlinien werden derzeit nicht erstellt.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
