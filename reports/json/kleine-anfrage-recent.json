@@ -1,5 +1,23 @@
 [
   {
+    "number": "21/3958",
+    "author": "AfD",
+    "date": "2026-02-02",
+    "title": "Антибиотикорезистентность в Европе",
+    "description_ru": "Депутаты интересуются различиями в антибиотикорезистентности между странами Европы, особенно между Германией, Нидерландами и Данией. Они подчеркивают, что несмотря на схожие условия, в Нидерландах и Дании уровень MRSA значительно ниже, чем в Германии. Правительство отвечает, что в Германии разработана стратегия DART 2030, которая включает меры по снижению антибиотикорезистентности, однако реализация этих мер зависит от федеральной структуры управления, что может создавать препятствия для единообразного подхода.",
+    "description_de": "Die Abgeordneten fragen nach den Unterschieden in der Antibiotikaresistenz zwischen den europäischen Ländern, insbesondere zwischen Deutschland, den Niederlanden und Dänemark. Sie betonen, dass trotz ähnlicher Bedingungen die MRSA-Raten in den Niederlanden und Dänemark deutlich niedriger sind als in Deutschland. Die Bundesregierung antwortet, dass in Deutschland die DART 2030-Strategie entwickelt wurde, die Maßnahmen zur Bekämpfung von Antibiotikaresistenzen umfasst, jedoch die Umsetzung dieser Maßnahmen von der föderalen Struktur abhängt, was ein Hindernis für einen einheitlichen Ansatz darstellen kann.",
+    "saved_date": "2026-02-07"
+  },
+  {
+    "number": "21/3961",
+    "author": "Die Linke",
+    "date": "2026-02-02",
+    "title": "Антициганские преступления в 2025 году",
+    "description_ru": "Депутаты интересуются количеством и типами антициганских преступлений, зарегистрированных в Германии в 2025 году, а также их классификацией по политически мотивированным преступлениям. Правительство сообщает, что в 2025 году было зарегистрировано 196 антициганских преступлений, из которых 10 были насильственными. Также упоминается, что среди жертв были граждане Германии и других стран, и что статистика по таким преступлениям продолжает расти. Правительство подчеркивает, что данные являются предварительными и могут изменяться в процессе дальнейших расследований.",
+    "description_de": "Die Abgeordneten fragen nach der Anzahl und Art der im Jahr 2025 in Deutschland registrierten antiziganistischen Straftaten sowie deren Klassifizierung nach politisch motivierten Straftaten. Die Bundesregierung berichtet, dass im Jahr 2025 insgesamt 196 antiziganistische Straftaten registriert wurden, darunter 10 Gewaltdelikte. Es wird auch erwähnt, dass unter den Opfern sowohl deutsche Staatsangehörige als auch Bürger anderer Länder waren und dass die Statistik solcher Straftaten weiterhin steigt. Die Bundesregierung betont, dass die Daten vorläufig sind und sich im Verlauf weiterer Ermittlungen ändern können.",
+    "saved_date": "2026-02-07"
+  },
+  {
     "number": "21/3930",
     "author": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
     "date": "2026-01-29",
@@ -204,24 +222,6 @@
     "title": "Изменение норм значений уровня сахара в крови и влияние на диагностику диабета",
     "description_ru": "Депутаты интересуются, когда и по каким научным причинам происходили изменения норм значений уровня сахара в крови за последние 20 лет. Правительство отвечает, что рекомендуемые нормальные значения для лабораторных показателей доступны и могут быть исследованы через интернет-ресурсы соответствующих медицинских обществ. Также упоминается, что изменения норм могут повлиять на количество диагнозов диабета и расходы на лекарства.\n\nКроме того, депутаты спрашивают о влиянии изменений норм на количество людей, нуждающихся в лечении, и о росте расходов на лекарства для диабета. Правительство сообщает, что не имеет точных данных о влиянии изменений норм на количество диагностированных случаев диабета, но отмечает, что с 2003 по 2024 годы количество диагностированных случаев увеличилось с 5,8% до 10,3%. Также обсуждаются меры по профилактике диабета и улучшению образа жизни населения.",
     "description_de": "Die Abgeordneten fragen, wann und aus welchen wissenschaftlichen Gründen es in den letzten 20 Jahren zu Anpassungen der Normwerte für Blutzucker gekommen ist. Die Bundesregierung antwortet, dass die empfohlenen Normwerte für Laborwerte öffentlich zugänglich sind und über die Internetseiten der entsprechenden Fachgesellschaften recherchiert werden können. Es wird auch erwähnt, dass Änderungen der Normwerte Auswirkungen auf die Diagnosezahlen und Arzneimittelausgaben haben können.\n\nDarüber hinaus fragen die Abgeordneten nach dem Einfluss dieser Änderungen auf die Anzahl der behandlungsbedürftigen Menschen und die Kosten für Diabetes-Medikamente. Die Bundesregierung teilt mit, dass keine genauen Daten über den Einfluss der Normwertänderungen auf die Anzahl der diagnostizierten Diabetesfälle vorliegen, aber dass die Prävalenz von 2003 bis 2024 von 5,8% auf 10,3% gestiegen ist. Es werden auch Maßnahmen zur Prävention von Diabetes und zur Verbesserung des Lebensstils der Bevölkerung diskutiert.",
-    "saved_date": "2026-02-04"
-  },
-  {
-    "number": "21/3845",
-    "author": "Fraktion der AfD",
-    "date": "2026-01-26",
-    "title": "Дифференцированное рассмотрение холестерина",
-    "description_ru": "Депутаты интересуются изменениями норм холестерина за последние десять лет и их влиянием на лечение. Они хотят понять, как изменились нормы для LDL, HDL и общего холестерина, а также какие последствия это имеет для здравоохранения. Правительство отвечает, что рекомендации по нормам доступны и основаны на научных данных, однако точные цифры по количеству людей, нуждающихся в лечении, отсутствуют. Также поднимается вопрос о том, какие меры предпринимает правительство для информирования населения о различиях между LDL и HDL холестерином.",
-    "description_de": "Die Abgeordneten fragen nach den Änderungen der Normwerte für Cholesterin in den letzten zehn Jahren und deren Auswirkungen auf die Behandlung. Sie möchten wissen, wie sich die Werte für LDL, HDL und Gesamtcholesterin verändert haben und welche gesundheitspolitischen Konsequenzen dies hat. Die Bundesregierung antwortet, dass die Empfehlungen öffentlich zugänglich sind und auf wissenschaftlichen Grundlagen basieren, jedoch keine genauen Zahlen über die Anzahl der behandlungsbedürftigen Personen vorliegen. Zudem wird die Frage aufgeworfen, welche Maßnahmen die Regierung ergreift, um die Bevölkerung über die Unterschiede zwischen LDL und HDL-Cholesterin aufzuklären.",
-    "saved_date": "2026-02-04"
-  },
-  {
-    "number": "21/3846",
-    "author": "Fraktion der AfD",
-    "date": "2026-01-27",
-    "title": "Оценка оснований для исключения COVID-19 вакцинации из обязательного базового прививочного графика Бундесвера",
-    "description_ru": "Депутаты задают вопросы о том, почему вакцинация против COVID-19 остается в обязательном базовом прививочном графике Бундесвера, несмотря на отмену большинства мер по борьбе с коронавирусом. Они интересуются, на каких данных основана эта оценка и какие критерии использовались для принятия решения.\n\nПравительство отвечает, что вакцинация против COVID-19 продолжает оставаться в обязательном графике на основании научных данных и рекомендаций, предоставленных Постоянной прививочной комиссией и Институтом Роберта Коха. Также упоминается, что решение о сохранении вакцинации было принято на основе актуального научного знания и информации.",
-    "description_de": "Die Abgeordneten fragen, warum die COVID-19-Impfung weiterhin im verpflichtenden Basisimpfschema der Bundeswehr enthalten ist, insbesondere im Hinblick auf die Aufhebung der meisten Corona-Maßnahmen. Sie erkundigen sich nach den Daten, auf denen diese Bewertung basiert, und welche Kriterien für die Entscheidung verwendet wurden.\n\nDie Bundesregierung antwortet, dass die COVID-19-Impfung weiterhin im verpflichtenden Schema bleibt, basierend auf wissenschaftlichen Erkenntnissen und Empfehlungen der Ständigen Impfkommission sowie des Robert Koch-Instituts. Es wird betont, dass die Entscheidung, die Impfung beizubehalten, auf dem aktuellen Stand des wissenschaftlichen Wissens und der Informationen beruht.",
     "saved_date": "2026-02-04"
   }
 ]
