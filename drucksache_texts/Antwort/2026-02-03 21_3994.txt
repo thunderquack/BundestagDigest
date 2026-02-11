@@ -1,0 +1,564 @@
+Deutscher Bundestag Drucksache 21/3994
+21. Wahlperiode 03.02.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Nicole Hess, Martin Sichert, 
+Dr. Christina Baum weiterer Abgeordneter und der Fraktion der AfD
+– Drucksache 21/3496 –
+Das Aerotoxische Syndrom – Gesundheitliche Risiken durch kontaminierte 
+Kabinenluft – Forschungsstand, Meldepflichten und Schutzmaßnahmen
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Das sogenannte Aerotoxische Syndrom (AT‑Syndrom; engl.: Aerotoxic
+Syndrome) bezeichnet Symptome oder ein vielschichtiges Krankheitsbild, was 
+durch inhalative Exposition durch kontaminierte Flugzeugkabinenluft
+hervorgerufen werden kann. Ursache sind häufig Triebwerksöle beziehungsweise
+toxische Bestandteile (v. a. Öladditive), die über das Zapfluftsystem aus
+Triebwerken (Bleed‑Air‑System) in die Kabine gelangen können (www.welt.de/wis
+senschaft/article6055457/Gefaehrliche-Giftschwaden-in-Passagier-Flugzeuge
+n.html; www.abendblatt.de/ratgeber/gesundheit/article207051225/Aerotoxisch
+es-Syndrom-Dicke-Luft-im-Flugzeug.html).
+Der Begriff „Aerotoxisches Syndrom“ wurde seit 1999 in englischsprachigen 
+Studien geprägt („Aerotoxic Syndrome“), zusammen mit Benennung und
+Beschreibungen von Wirkungen der fraglichen Stoffe, Aufbau und
+Beschaffenheit von Triebwerken und Schmierstoffen und Aufbereitung der Zapfluft
+(Stephen E Mawdsley: „Burden of Proof: The Debate Surrounding Aerotoxic
+Syndrome“ – https://pmc.ncbi.nlm.nih.gov/articles/PMC9452852/ wie auch: Chris 
+Winder -School of Safety Science, University of New South Wales, Jean-
+Christophe Balouet -Environment International: www.researchgate.net/profil
+e/Jean-Balouet/publication/266573677_AEROTOXIC_SYDROME_ADVER
+SE_HEALTH_EFFECTS_FOLLOWING_EXPOSURE_TO_JET_OIL_MIS
+T_DURING_COMMERCIAL_FLIGHTS/links/5bb8a92f92851c7fde2fa0f8/A
+EROTOXIC-SYDROME-ADVERSE-HEALTH-EFFECTS-FOLLOWING-E
+XPOSURE-TO-JET-OIL-MIST-DURING-COMMERCIAL-FLIGHTS.pdf).
+Die Geschichte um die Problematik von neurotoxischen Dämpfen in Cockpit- 
+und Kabinenluft von Flugzeugen beginnt um 1950. Zu dieser Zeit wurden im 
+militärischen Bereich und ab 1955 in der Zivilluftfahrt Zapfluftsysteme
+entwickelt, die gegenüber der bisherigen Frischluftaufbereitung über
+Stauluftansaugung (Ram Air) technische Vorteile boten, allerdings den Eintrag von 
+Schadstoffen aus Triebwerken in die Innenluft als Folge mit sich brachten. 
+Schon zu dieser Zeit wurden Beschwerden von Piloten beziehungsweise
+Besatzungen dokumentiert, und Hersteller von Triebwerken wie auch
+Schmiermitteln kamen nicht umhin, auf Zusammenhänge und Gefahren hinzuweisen. 
+In den folgenden Jahrzehnten wurde dies vorwiegend als interne Angelegen-
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Verkehr vom 3. Februar 2026 
+übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+heit von Herstellern, Ingenieuren oder Fluggesellschaften und
+Wissenschaftlern behandelt. Erst ab den 1980er-Jahren wurde an dem Phänomen der
+toxischen Kabinenluft umfassender geforscht und Daten erhoben, Studien erstellt, 
+medizinisch diagnostiziert und behandelt oder hierzu publiziert (www.anstage
+slicht.de/kabinenluft/oeffentliche-wahrnehmung/chronologie).
+Die Pilotenvereinigung Cockpit bemängelt, bezugnehmend auf eine Studie 
+(Susan Michaelis, Tristan Loraine, C. V. Howard: „Ultrafine particle levels 
+measured on board short-haul commercial passenger jet aircraft“ – https://ehjo
+urnal.biomedcentral.com/articles/10.1186/s12940-021-00770-7), dass durch 
+verunreinigte Kabinenluft geschädigtem Flugpersonal eine Anerkennung als 
+Berufskrankheit weitgehend verwehrt bleibt und dem gesamten
+Themenbereich in Deutschland zu wenig Beachtung geschenkt wird. Auch wird
+erläutert, dass ein Schadstoffeintrag aus den Triebwerken über die Zapfluft
+keineswegs nur auf als „Fume Event“ (erkennbare, Rauch-Vorkommnisse in der
+Kabine oder im Cockpit) bemerkbare Ausnahmesituationen beschränkt sein 
+muss, sondern aufgrund der Beschaffenheit von hochbeanspruchten
+Dichtungen innerhalb von Triebwerken im Flugbetrieb bei wechselnden Last der 
+Triebwerke im Regelfalle zu Schadstoffeintrag kommt, wenngleich in
+geringen Mengen (www.vcockpit.de/newsroom/vc-info/fume-events/).
+Da jedoch für gewöhnlich keine Sensortechnik zur Erfassung von
+Schadstoffmengen in der Innenluft von Verkehrsflugzeugen verbaut ist und Grenzwerte 
+nicht festgelegt sind, kann über definierte Belastungen für Besatzungen und 
+Passagiere in allen möglicherweise relevanten Fällen keine Aussage getroffen 
+werden (ebd.).
+Schädigungen durch toxische Kabinenluft ist gelegentlich Gegenstand von 
+rechtlichen Auseinandersetzungen (https://hoeper-rechtsanwalt.de/meldungen/
+aerotoxisches-syndrom; https://hoeper-rechtsanwalt.de/fume-event; 
+Großbritannien: www.bbc.com/news/business-47740523).
+Besonders relevante Substanzen in diesem Zusammenhang sind
+Organophosphate, darunter vor allem toxische Trikresylphosphate (TCP) und
+insbesondere Triortho‑Cresylphosphat (ToCP). Sie stammen aus Maschinenölzusätzen 
+(Additiven von Triebwerksölen) und gelten als Auslöser für neurotoxische
+Effekte; Symptome reichen von Kopfschmerzen, Gedächtnisstörungen und
+kognitiven Beeinträchtigungen bis zu Ohnmacht und erheblichen Langzeitschäden 
+(www.tagesspiegel.de/wirtschaft/es-ist-was-in-der-luft-3649723.html).
+TCP gehört zur Stoffgruppe Organophosphate (OP) – bekannt für akute
+neurotoxische Wirkungen (z. B. Inhibierung von Acetylcholinesterase), mit
+verzögerten Nervenschäden (Organophosphat-induzierte verzögerte
+Polyneuropathie (OPIDP)). Weitere OP wie Triphenylphosphat (TPP), Tris(2-
+carboxyethyl)phosphin (TCEP), Tris(2-chlorisopropyl)phosphat (TCPP), Tris(2-
+butoxyethyl)phosphat (TBEP) wurden ebenfalls in Kabinenluft nachgewiesen – 
+ein Hinweis auf vielfältige chemische Belastungen. Ultrafeine Partikel (NP 
+(Nanopartikel)-Aerosole), gebildet bei der thermischen Zersetzung (Pyrolyse), 
+können als Träger toxischer Substanzen wirken und die Tiefenwirkung der 
+Dämpfe verstärken (www.vcockpit.de/newsroom/vc-info/fume-events/).
+Zahlreiche Fallberichte dokumentieren kurz- und langfristig neurologische,
+respiratorische und kognitive Symptome (https://de.wikipedia.org/wiki/Trikresylph
+osphate). Häufig benannte Symptome sind Bewusstseinsstörungen bzw.
+Benommenheit, Schwindel und Gleichgewichtsstörungen, Kopf-, Brust- und 
+Halsschmerz, Übelkeit, Orientierungslosigkeit, chronische Erschöpfung und 
+Müdigkeit, verschiedene Beeinträchtigung von Sinneswahrnehmungen, 
+Schwäche und Koordinationsprobleme, Hautveränderungen bzw. Ausschläge, 
+Atmungsbeschwerden, Immunschwäche (www.researchgate.net/profile/Jean-
+Balouet/publication/266573677_AEROTOXIC_SYDROME_ADVERSE_HE
+ALTH_EFFECTS_FOLLOWING_EXPOSURE_TO_JET_OIL_MIST_DURI
+NG_COMMERCIAL_FLIGHTS/links/5bb8a92f92851c7fde2fa0f8/AEROTO
+XIC-SYDROME-ADVERSE-HEALTH-EFFECTS-FOLLOWING-EXPOSU
+RE-TO-JET-OIL-MIST-DURING-COMMERCIAL-FLIGHTS.pdf). Bei lang 
+anhaltender und wiederholter Exposition können einige dieser Symptome
+chronisch werden oder nach kurzer starker Exposition zu
+Handlungsunfähigkeit, Bewusstlosigkeit und späterer Krankheit oder Berufsunfähigkeit führen.
+Der namhafte Mediziner, Toxikologe und Pharmakologe Prof. Dr. Dietrich 
+Henschler befasste sich über Jahrzehnte mit der Toxizität von
+Trikresylphosphaten (kurz TKP, engl. TCP). Im Jahr 1957 habilitierte er zu dieser
+Thematik. Prof. Dr. Henschler hatte an der Universität Würzburg von 1965 bis 1994 
+den Lehrstuhl für Toxikologie und Pharmakologie inne und war Autor von 
+Fachpublikationen und Mitglied mehrerer für Schadstoffgrenzwerten
+zuständiger Kommissionen. In einem Zeitungsartikel von April 2009 wird 
+Prof. Dr. Henschler zitiert: „Bei TCP handelt es sich um einen extrem stark 
+wirksamen Giftstoff. Das erzeugte Vergiftungsbild ist so erschreckend, dass 
+eigentlich alles getan werden muss, um das [Anm.: Eintrag in die Kabinenluft] 
+zu vermeiden.“ Dass Zapfluft auch heute noch ungefiltert in die Kabine
+geleitet wird und so auch erhitzte Ölrückstände in die Atemluft gelangen, sei für 
+ihn als Toxikologen absolut unverständlich. (www.welt.de/wissenschaft/article
+3496723/Nervengift-im-Flugzeug-wird-zum-groesseren-Problem.html; https://
+de.wikipedia.org/wiki/Dietrich_Henschler; Prof. Henschlers
+Habilitationsschrift, veröffentlicht in der „Klinischen Wochenschrift“, Jg. 36, Heft 14 vom 
+15. Juli 1958: „DIE TRIKRESYLPH0SPHATVERGIFTUNG, Experimentelle 
+Klärung von Problemen der Ätiologie und Pathogenese“ – www.anstageslich
+t.de/fileadmin/user_upload/Geschichten/Aerotoxisches_Syndrom/25_Henschl
+er_D_Trikresylphosphatvergiftung_red.pdf)
+Bekannte Fälle möglicher Vergiftungen durch TCP sind der Pilot Richard 
+Westgate und seine Kollegin Karen Lysakowska, die beide verstarben, wobei 
+organophosphattypische neurologische Schäden als Todesursache als
+naheliegend angesehen wurden (www.luftfahrtmagazin.de/wirtschaft/toter-pilot-mit-
+massiven-nervenschaeden-durch-kabinenluft-188363.html; www.dailymail.co.
+uk/news/article-2269059/BA-pilots-Richard-Westgate-Karen-Lysakowska-kill
+ed-breathing-toxic-oil-fumes-mid-flight-pictured.html#; beide eingesehen am 
+24. August 2025). Es handelt sich hierbei nicht um einen Einzelfall;
+international sind zahlreiche Fälle bekannt, in welchen Flugpersonal mit offenbar 
+durch die Folgen von Expositionen mit toxischen Dämpfen in Flugzeugen
+erkrankten oder verstarben oder die Flugsicherheit beeinträchtigt wurde (www.t
+heguardian.com/science/2017/aug/19/sick-crew-toxic-air-planes-frequent-flye
+rs-ill?CMP=Share_iOSApp_Other; www.anstageslicht.de/fileadmin/user_uplo
+ad/Geschichten/Aerotoxisches_Syndrom/Guardian191299_Zombie_Gas_Plan
+e_Threat.pdf; beide eingesehen am 24. August 2025).
+Die Bundesstelle für Flugunfalluntersuchung (BFU) stellte in einer Studie für 
+Deutschland von 2004 bis 2013 jährlich zwischen 40 und 175 „Fume Events“ 
+fest. (Bundesstelle für Flugunfalluntersuchung: „Studie über gemeldete
+Ereignisse in Verbindung mit der Qualität der Kabinenluft in Verkehrsflugzeugen. 
+BFU 803.1-14 – https://web.archive.org/web/20140527212934/http://www.bf
+u-web.de/DE/Publikationen/Statistiken/Tabellen-Studien/Tab2014/Studie_Fu
+me_Events_2014.pdf?__blob=publicationFile, eingesehen am 22.
+August 2025). Ab S. 33 werden einige bedeutende Fälle aufgelistet (ebd., 
+S. 33 ff.). Auf S. 69 f. wird erklärt, dass die Beeinträchtigung der
+Flugsicherheit eintreten kann und für die Piloten der Gebrauch der Sauerstoffmasken 
+notwendig wird, um in der Lage zu sein, den Flug fortzusetzen: „Die
+Auswertung der Daten für diese Studie hat im Ergebnis gezeigt, dass die formalen 
+Voraussetzungen für eine Schwere Störung bei einigen Fume Events durch das 
+Aufsetzen der Sauerstoffmasken im Cockpit oder einen teilweisen Ausfall 
+eines Piloten gegeben waren. In wenigen Fällen waren die Sicherheitsreserven 
+soweit reduziert, dass eine im Sinne der Legaldefinition hohe
+Unfallwahrscheinlichkeit bestand. […] Bei der Schweren Störung mit dem Airbus A319 
+im Anflug auf Köln waren nach einer massiven Geruchsentwicklung im
+Cockpit beide Piloten in ihrer physischen und psychischen Leistungsfähigkeit
+eingeschränkt. Der Anflug konnte unter Sauerstoffmasken stabil und sicher
+fortgesetzt werden. Nach Auffassung der BFU waren die Sauerstoffmasken hier 
+ohne Zweifel erforderlich. Die Auswertung der BFU zeigt auch, dass
+Mitglieder der Cockpitbesatzung durch Fume Events in ihrer Leistungsfähigkeit
+eingeschränkt waren“ (ebd.).
+Nach Kenntnis der Fragesteller ist in der Regel die Dauer der Versorgung mit 
+Sauerstoff über die Cockpit-Sauerstoffmasken, bei der gleichzeitigen Nutzung 
+durch beide Piloten, auf eine Stunde bis höchstens drei Stunden begrenzt. 
+Nach Ansicht der Fragesteller ist somit bei einem Schadstoffstörfall auf einem 
+Langstreckenflug die sichere Fortsetzung des Fluges bis zur Landung
+womöglich infrage gestellt.
+Fachleute schätzen etwa 1 000 Ereignisse pro Jahr in Deutschland und bis zu 
+20 000 europaweit, mit vermutlich hoher Dunkelziffer (www.oaepublish.com/
+articles/jeea.2023.02).
+Es ist eine hohe Anzahl von neurotoxischen Stoffen bekannt, die bei
+Normalbetrieb und insbesondere bei „Fume Events“, also erkennbaren, bemerkten 
+Störungen oder Smell Events (deutlich wahrnehmbarer unangenehmer
+Geruch), in die Kabinenluft gelangen können und gesundheitsschädliche
+Wirkungen auf die Besatzung und Passagiere entfalten (ebd.).
+Da es nach Kenntnis der Fragesteller weder in Deutschland noch europaweit 
+ein einheitliches, standardisiertes Meldeverfahren, keinen entsprechenden
+Datenaustausch und keine entsprechende Datenverarbeitung zwischen fraglichen 
+Institutionen oder eine zentrale, transparente, einheitlich klassifizierte
+Erfassung von Meldungen gibt, kann eine zuverlässige Aussage über die Zahl der 
+Vorfälle und deren Auswirkungen im Einzelnen nicht getroffen werden.
+Die Problematik des Eintrages von ungefilterter Zapfluft aus Triebwerken
+entfaltet arbeits-, umwelt- und verbraucherschutzrechtlichen Bedeutung. Nach 
+Ansicht der Fragesteller sind wegen des öffentlichen Interesses am
+Gesundheitsschutz belastbare Daten vonnöten.
+ 1. Hat sich die Bundesregierung mit dem Risiko durch Stoffe der
+Organophosphate (OP), insbesondere TCP beziehungsweise Tri-ortho-cresyl 
+phosphat (ToCP) und verwandte OP, für das zentrale Nervensystem von 
+Flugpersonal und Passagieren im Zusammenhang mit der gebräuchlichen 
+Zapflufttechnik in Verkehrs- und Frachtflugzeugen beschäftigt, und 
+wenn ja, inwiefern, und welche Schlussfolgerungen zieht sie ggf. für ihr 
+eigenes Handeln?
+Die bislang noch nicht abschließend aufgeklärte Ursache von Erkrankungen 
+und ihren auslösenden Faktoren des aerotoxischen Syndroms ist gegenwärtig 
+Gegenstand laufender Forschungsarbeiten seitens der europäischen
+Luftfahrtbehörde, der Europäische Agentur für Flugsicherheit (EASA), der
+Berufsgenossenschaften und der Forschung.
+Im Übrigen wird auf die Antwort der Frage 16 verwiesen.
+ 2. Hat die Bundesregierung eine Einschätzung zur Notwendigkeit einer
+flächendeckenden, standardisierten zentralen Datenerhebung zu
+langfristigen Gesundheitsschäden durch kontaminierte Kabinenluft
+vorgenommen, bzw. plant sie dies, und wenn ja, mit welchem Ergebnis?
+Dazu liegt der Bundesregierung von der BG Verkehr folgende Stellungnahme 
+vor:
+Eine Datenerhebung zu Fume- und Smell-Events (FuSE) existiert seit dem Jahr 
+2013 (siehe Antwort der Frage 4) bei der BG Verkehr, der für den Luftverkehr 
+zuständigen Berufsgenossenschaft. Die BG Verkehr hat erstmals 2008 von Fu-
+SE Kenntnis bekommen und dann bei ihren Mitgliedsunternehmen und ihren 
+Versicherten darum geworben, sämtliche Vorfälle als Arbeitsunfall anzuzeigen, 
+um einen Überblick zu erhalten. Gemäß ihrer Zuständigkeit nimmt die BG
+Verkehr Meldungen von Crewmitgliedern entgegen, nicht jedoch Meldungen von 
+Fluggästen.
+Ein großer Teil der gegenüber der BG Verkehr erfolgten Anzeigen ist nach den 
+üblichen Maßstäben der gesetzlichen Unfallversicherung nicht meldepflichtig, 
+betrifft also Zeiträume der Arbeitsunfähigkeit von maximal drei Tagen. Im Jahr 
+2023 führten beispielsweise lediglich 26 der gemeldeten 284 Fälle (9 Prozent) 
+zu einer Arbeitsunfähigkeit von mehr als 3 Tagen und waren damit
+meldepflichtig.
+Langfristig anhaltende Gesundheitsbeschwerden sind nach wissenschaftlichen 
+Kriterien nicht auf FuSE zurückzuführen. Es kommt jedoch in der Folge von 
+FuSE gelegentlich zu akuten Gesundheitsbeschwerden.
+ 3. Welche Konsequenzen sind nach Ansicht der Bundesregierung aus den 
+Erkenntnissen und genannten Berichten der BFU zu ziehen, welche im 
+Zusammenhang mit Schadstoffeintrag in die Innenluft von Flugzeugen 
+über das Zapfluftsystem auf eine Gefährdung der Gesundheit von
+Besatzungen und Passagieren hinweisen und eine in Einzelfällen
+vorkommende Gefährdung des Flugverkehrs darlegen (vgl. Vorbemerkung der
+Fragesteller)?
+Die BFU hat im Jahr 2014 eine Studie über gemeldete Ereignisse in
+Verbindung mit der Qualität der Kabinenluft in Verkehrsflugzeugen veröffentlicht und 
+Sicherheitsempfehlungen herausgegeben. Diese ausgesprochenen
+Empfehlungen richteten sich an die EASA, den Bundesverband der Deutschen Luft- und 
+Raumfahrtindustrie (BDLI), den Bundesverband der Deutschen
+Luftverkehrswirtschaft (BDL) und an die Deutsche Gesellschaft für Arbeitsmedizin und 
+Umweltmedizin (DGAUM). Es wurde unter anderem empfohlen, Forschung 
+bezüglich etwaiger Langzeitwirkungen auf die Gesundheit von
+Luftfahrzeuginsassen durchzuführen, ein standardisiertes Erfassungs- und Meldesystem zu 
+entwickeln und die Nachweisführung über die Qualität der Kabinenluft bei der 
+Zulassung von Flugzeugen zu verbessern.
+Die Adressaten der BFU-Sicherheitsempfehlung haben sich mit den
+Empfehlungen entsprechend befasst. Zum Beispiel wurde von der BG Verkehr ein
+medizinisches Standardverfahren nach Fume-Events entwickelt (vgl. Antwort auf 
+Frage 21). Auch wurden von der zuständigen EASA mehrere
+Forschungsprojekte in Auftrag gegeben (vgl. Antwort auf Frage 9 und Frage 10).
+ 4. Wie viele Ereignisse von sogenannten Fume Events oder Smell Events – 
+erkennbare, spürbare Vorkommnisse mit kontaminierter Kabinenluft – 
+wurden seit dem Jahr 2000 an deutschen und europäischen Flughäfen
+gemeldet, und wie viele davon führten nach Kenntnis der Bundesregierung 
+zu medizinischen Untersuchungen und/oder medizinischer Behandlung 
+bei Besatzungsmitgliedern oder Passagieren (bitte ggf. nach Jahr, Ort und 
+Fluggesellschaft, Flugzeugtyp aufschlüsseln)?
+Die Verordnung (EU) Nr. 376/2014 und die Durchführungsverordnung (EU) 
+Nr. 2015/1018 legen für bestimmte Ereignisse in der Luftfahrt eine
+Meldepflicht bzgl. des Inhaltes sowie den zur Meldung verpflichteten Personenkreis 
+fest.
+Die Anzahl der in der ECCAIRS-Datenbank (ECCAIRS: European
+Coordination Centre for Aircraft Incident Reporting System) für Ereignismeldungen
+diesbezüglich seit 2015 gespeicherten Ereignisse ist der nachfolgenden Übersicht 
+zu entnehmen. Diese bezieht sich aber auf dem LBA gemeldete Ereignisse
+insgesamt, nicht nur „an deutschen oder europäischen Flughäfen“. Die Fallzahlen 
+früherer Jahre können der Antwort der Bundesregierung auf die zur selben
+Thematik gestellten Kleinen Anfrage aus dem Jahr 2017 entnommen werden
+(Bundestagsdrucksache 18/11686, Antwort zu Frage 2).
+Flugzeugmuster 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 Summe
+AIRBUS – A300 2 1 7 3 1 3 1 4 8 30
+AIRBUS – A319 9 7 7 12 6 7 10 16 18 5 6 103
+AIRBUS – A320 8 3 5 16 17 9 13 31 25 9 8 144
+AIRBUS – A321 3 6 11 16 4 3 3 11 6 5 8 76
+AIRBUS – A330 10 2 2 10 5 1 2 6 9 5 9 61
+AIRBUS – A340 3 1 3 2 7 4 3 3 5 31
+AIRBUS – A350 1 1 1 1 4
+AIRBUS – A380 2 3 1 6
+BOEING – 737 4 2 1 1 3 1 2 2 16
+BOEING – 747 1 2 1 1 3 1 9
+BOEING – 757 1 4 2 6 5 4 5 1 3 31
+BOEING – 767 1 1 1 3 3 2 1 1 1 14
+BOEING – 777 2 1 2 2 1 1 1 10
+BOEING – 787 1 1
+BOMBARDIER – 
+BD500 1 1
+BOMBARDIER – 
+CL600 1 1 1 3
+CESSNA – 510 1 1
+CESSNA – 525 1 1 2
+CESSNA – 560 1 1 2
+CESSNA – 680 1 1
+DASSAULT – 
+FALCON 7X 1 1
+DE HAVILLAND 
+– DHC8 1 2 1 4
+EMBRAER – 
+EMB135 1 1 1 3
+EMBRAER – 
+ERJ190 3 1 4
+LEARJET – 60 1 1
+MCDONNELL 
+DOUGLAS – 
+MD11
+3 5 2 6 1 17
+Summe 46 33 37 81 60 38 34 84 69 41 53 576
+Aussagen zu medizinischen Untersuchungen oder Behandlungen bei den von 
+den Ereignissen betroffenen Personen können anhand der in der Datenbank
+gespeicherten Angaben nicht getroffen werden.
+Medizinische Untersuchungen und/oder medizinische Behandlungen von
+Besatzungsmitgliedern oder Passagieren sind grundsätzlich auch nicht gegenüber 
+der BFU meldepflichtig.
+Gemäß Verordnung (EU) Nr. 996/2010 sind solche Ereignisse erst dann als 
+„schwere Störung“ oder Unfall meldepflichtig an die BFU, wenn daraus bereits 
+während des Fluges eine Situation entsteht, deren Umstände darauf hindeuten, 
+dass eine hohe Unfallwahrscheinlichkeit bestand.
+ 5. Gibt es verbindliche Erfassungs- und Meldepflichten für Ereignisse mit 
+toxischer Cockpit- und Kabinenluft bei deutschen Fluggesellschaften, 
+und wenn ja, wie werden sie kontrolliert, wie ist das Meldeverfahren
+ausgestaltet, und wo werden die Meldungen zusammengeführt und
+ausgewertet?
+Nach § 7 LuftVO und Artikel 9 der Verordnung (EU) Nr. 996/2010 sind der 
+BFU Unfälle und schwere Störungen im Sinne der Definitionen nach Anhang 
+13 des Chicagoer Abkommens über die internationale Zivilluftfahrt zu melden.
+Meldungen von sicherheitsrelevanten Ereignissen nach § 9 LuftVO und der 
+Verordnung (EU) Nr. 376/2014 i. V. m. der Durchführungsverordnung (EU) 
+Nr. 2015/1018 mit Bezug zu FuSE werden durch das LBA erfasst.
+EU-Luftfahrtunternehmen sind aufgrund der vorgenannten Verordnungen
+entsprechend verpflichtet, sicherheitsrelevante Ereignisse an die sie jeweils
+benannte Behörde in ihrem Heimatstaat zu melden.
+Alle an das LBA bzw. die BFU gemeldeten Vorfälle werden in die ECCAIRS-
+Datenbank übertragen und stehen damit der EASA, der Europäischen
+Kommission, den beteiligten Mitgliedstaaten und auch interessierten Kreisen, die einen 
+entsprechenden Antrag stellen, zur Verfügung. (vgl. Erläuterungen in der
+Vorbemerkung der Bundesregierung zur Kleinen Anfrage auf
+Bundestagsdrucksache 17/5371). Die entsprechenden rechtlichen Vorgaben zielen stets auf die 
+Verbesserung der Flugsicherheit und dienen nicht oder wenn nur mittelbar dem 
+Arbeitsschutz.
+Die nach Definition der BG Verkehr aus FuSE resultierenden Arbeitsunfälle 
+sind – sofern meldepflichtig – auf demselben Weg anzuzeigen wie andere
+Arbeitsunfälle auch.
+ 6. Befinden sich nach Kenntnis der Bundesregierung bei deutschen
+Fluggesellschaften Instrumente oder Systeme im Einsatz zur permanenten
+Überwachung der Kabinenluftqualität, und wenn ja, bei welchen
+Fluggesellschaften und Maschinen ist dies der Fall?
+Der Bundesregierung liegen diesbezüglich keine eigenen Informationen vor.
+ 7. Wurden nach Kenntnis der Bundesregierung in den Jahren seit 2000 
+durch kontaminierte Kabinenluft beziehungsweise Aerotoxisches
+Syndrom bedingte Krankheitsfälle oder Ausfälle von Flugpersonal während 
+des Fluges bei deutschen Fluggesellschaften registriert und ausgewertet 
+(bitte nach Jahr und Fluggesellschaft und Flugzeugtyp aufstellen)?
+ 8. Wurden nach Kenntnis der Bundesregierung in den Jahren seit 2000 
+durch kontaminierte Kabinenluft beziehungsweise Aerotoxisches
+Syndrom bedingte Krankheitsfälle beziehungsweise Arbeitsausfälle
+(Krankschreibungen) von Flugpersonal gesondert erfasst und analysiert, und 
+wenn ja, bei welcher Stelle findet diese Erfassung statt (bitte die Fälle 
+nach Fluggesellschaft und Jahr aufstellen)?
+Die Fragen 7 und 8 werden aufgrund des sachlichen Zusammenhangs
+gemeinsam beantwortet.
+Eine gesonderte Erfassung oder Analyse krankheitsbedingter Arbeitsausfälle 
+von Flugpersonal im Zusammenhang mit Ereignismeldungen über
+kontaminierte Kabinenluft wird im LBA und BFU nicht durchgeführt.
+Dazu liegt der Bundesregierung von der BG Verkehr folgende Stellungnahme 
+vor:
+Das so genannte „Aerotoxische Syndrom“ ist keine medizinisch-
+wissenschaftlich anerkannte Diagnose. Ein scharf umrissenes Krankheitsbild gibt es nicht. 
+Bei der BG Verkehr werden die diesbezüglichen Unfallanzeigen registriert und 
+im Rahmen der gesetzlichen Vorgaben bearbeitet. Im Rahmen des
+Präventionsauftrags wurden außerdem z. B. Literaturauswertungen, Branchenkonferenzen 
+und eigene Studien durchgeführt.
+Die BG Verkehr erfasst seit dem Jahr 2013 Meldungen von Crewmitgliedern 
+ihrer Mitgliedsunternehmen (hier: in Deutschland ansässige
+Luftfahrtunternehmen). Jede Meldung wird als ein Fall gezählt. Melden fünf Crewmitglieder den 
+gleichen Vorfall, wird dieser als fünf Fälle gezählt.
+Der BG Verkehr wurden seit 2013 folgende Fälle angezeigt:
+2024: 283
+2023: 284
+2022: 185
+2021: 47
+2020: 118
+2019: 524
+2018: 542
+2017: 920
+2016: 830
+2015: 450
+2014: 420
+2013: 300
+Eine Differenzierung nach Flugzeugtypen oder Fluggesellschaften erfolgt bei 
+der BG Verkehr nicht.
+Das Bundesinstitut für Risikobewertung (BfR) erhält gemäß § 16e
+Chemikaliengesetz von Ärzten sowie von gesetzlichen Unfallversicherungen Meldungen 
+zu Vergiftungen und Vergiftungsverdachtsfällen. In diesem Zusammenhang hat 
+das BfR auch Meldungen zu Expositionen mit möglicherweise kontaminierter 
+Kabinenluft erhalten. Dabei handelte es sich um Expositionen mit und ohne 
+Geruchswahrnehmung sowie mit und ohne Gesundheitsbeschwerden. Die Fälle 
+sind daher nicht immer eindeutig von anderen Fallmeldungen aus dem
+Transportwesen oder dem Umfeld eines Flughafens abzugrenzen. Informationen zur 
+stofflichen Ursache liegen aufgrund von fehlenden Analysedaten nicht vor. 
+Über die Dauer von Krankschreibungen liegen dem BfR nur in Einzelfällen
+Informationen vor. Informationen über Fluggesellschaften, Flughäfen,
+Flugzeugtypen etc. werden im Rahmen der ärztlichen Meldungen zu Vergiftungen nicht 
+ausgewertet. Das BfR hat bisher nur Meldungen von Personen erhalten, die in 
+einem beruflichen Kontext involviert gewesen waren. Meldungen von
+Fluggästen liegen dem BfR nicht vor.
+ 9. Werden mithilfe von Bundesmitteln Projekte zur länderübergreifenden 
+Gesundheitsüberwachung von Flugpersonal im Zusammenhang mit der 
+Luftqualität in Flugzeugen betrieben, oder sind solche geplant, und wenn 
+ja, mit welchen Partnern (bitte die Projekte aufzählen)?
+10. Sind der Bundesregierung toxikologischen Studien zur Analyse von 
+Cockpit- und Kabinenluft oder der gesundheitsbeeinträchtigenden
+Wirkung von „Fume Events“ bekannt, und wenn ja, in welchem Umfang 
+wurden oder werden diese ggf. staatlich gefördert, wenn keine Förderung 
+erfolgte, weshalb findet keine staatlich geförderte Forschung in diesem 
+Bereich statt?
+Die Frage 9 und die Frage 10 werden aufgrund des sachlichen Zusammenhangs 
+gemeinsam beantwortet.
+Es gibt national und international eine Vielzahl von Studien zu FuSE. Die BG 
+Verkehr verweist insbesondere auf eine aktuelle Studie des Institutes für
+Prävention und Arbeitsmedizin der Deutschen Gesetzlichen Unfallversicherung im 
+Auftrag und in Zusammenarbeit mit der BG Verkehr. Die Studie
+„Biomonitoring of volatile organic compounds and organophosphorus flame retardands in 
+commercial aircrews after „fume and smell events“ ist unter dem folgenden 
+Link abrufbar: https://doi.org/10.1016/j.ijheh.2024.114381.
+Die EASA, die gemäß Verordnung (EU) 2018/1139 in Europa für die
+Zulassung z. B. sicherer Passagierkabinen in zivilen Verkehrsflugzeugen zuständig 
+ist, hat mehrere Studien in Auftrag gegeben:
+– “Cabin air quality (CAQ) measurement campaign”. Die Studie ist auf der 
+folgenden Webseite veröffentlicht: www.easa.europa.eu/en/document-librar
+y/research-reports/easarepresea20144.
+– “Characterisation of the toxicity of aviation turbine engine oils after
+pyrolysis”. Die Studie ist auf der folgenden Webseite veröffentlicht: www.easa.eur
+opa.eu/en/document-library/research-reports/easarepresea20152.
+– “Cabin Air Quality Assessment of Long-term Effects of Contaminants”. Die 
+Studie ist auf der folgenden Webseite veröffentlicht: www.easa.europa.eu/e
+n/research-projects/cabin-air-quality-assessment-long-term-effects-contami
+nants.
+Von der Europäischen Kommission wurde die folgende Studie mit der
+technischen Unterstützung der EASA in Auftrag geben, ein umfassendes Verständnis 
+für die Luftqualität im Cockpit und der Kabine zu entwickeln:
+– “FACTS – Toxicity of contaminated aircraft cabin air”. Die Studie ist auf 
+der folgenden Webseite veröffentlicht: www.easa.europa.eu/en/document-li
+brary/research-reports/facts-about-cabin-air-quality-board-large-transport-ai
+rcraft .
+Angaben zu Projektpartnern sowie zur Förderung können den oben genannten 
+Projektseiten entnommen werden.
+11. Wurden nach Kenntnis der Bundesregierung spezifischen
+Untersuchungen zu organophosphathaltiger Kabinenluft (inklusive TPP, TCEP, TCPP 
+etc.) in Deutschland durchgeführt oder in Auftrag gegeben, und welche 
+Studien beziehungsweise Ergebnisse liegen dazu vor?
+Dazu liegen der Bundesregierung keine Informationen vor.
+12. Welche auch neueren wissenschaftlichen Erkenntnisse, ab 1995, über 
+neurotoxische Wirkmechanismen von Organophosphaten, TCP bzw. 
+ToCP u. a., sind der Bundesregierung ggf. bekannt, und nehmen diese 
+Bezug auf die Luftqualität in Luftverkehrsmitteln?
+Der Bundesregierung ist der aktuelle Forschungsstand zu diesem Thema
+bekannt.
+13. Beabsichtigt die Bundesregierung, die Anerkennung des AT‑Syndroms 
+als Berufskrankheit voranzutreiben, und wenn nein, warum nicht?
+Die Bundesregierung prüft kontinuierlich, ob die gesetzlichen Voraussetzungen 
+für die Aufnahme neuer Berufskrankheiten in die Berufskrankheiten-
+Verordnung erfüllt sind. Dabei wird die Bundesregierung bei ihrer
+Entscheidungsfindung in medizinisch-wissenschaftlichen Fragen durch den Ärztlichen
+Sachverständigenbeirat „Berufskrankheiten“ (ÄSVB) beraten. Der ÄSVB hat sich auch 
+mit der in der Thematik des sogenannten Aerotoxischen Syndroms bzw. der 
+„Fume Events“ befasst und über die Erkenntnisse informiert, die in der „Fume 
+Event Sprechstunde“ für Betroffene in der Ambulanz der Universität Göttingen 
+gewonnen wurden. Der wissenschaftliche Erkenntnisstand war nach
+Auffassung des ÄSVB für die Einleitung vertiefter Prüfungsschritte jedoch nicht
+ausreichend.
+Das „Institut für Prävention und Arbeitsmedizin der Deutschen Gesetzlichen 
+Unfallversicherung (DGUV)“, ein Institut der Ruhr-Universität Bochum, hatte 
+in der Folgezeit ein gemeinsames Forschungsprojekt mit der BG Verkehr zur 
+Belastung von Flugpersonal durch ausgewählte flüchtige organische
+Kohlenwasserstoffe (VOC) und Organophosphate (OP) nach Fume-und-Smell Events 
+durchgeführt. Diese Verbindungen standen im Verdacht, für die Symptomatik 
+bei einzelnen Betroffenen verantwortlich zu sein. In den Untersuchungen
+konnten jedoch keine Auffälligkeiten beobachtet werden, die einen derartigen
+Rückschluss aus den Ergebnissen erlauben würden. Die Daten wurden im Jahr 2024 
+wissenschaftlich international publiziert (Weiss et al., 2024, Biomonitoring of 
+volatile organic compounds and organophosphorus flame retardands in
+commercial aircrews after „fume and smell events“, International Journal of
+Hygiene and Environmental Health). Bei Vorliegen neuer wissenschaftlicher
+Erkenntnisse wird der ÄSVB prüfen, ob die Beratungen wieder aufzunehmen sind.
+14. Wird durch die Bundesregierung eine Aufnahme des AT‑Syndroms in die 
+internationale ICD (International Statistical Classification of Diseases 
+and Related Health Problems)-Klassifikation der
+Weltgesundheitsorganisation (WHO) angestrebt beziehungsweise als sinnvoll erachtet?
+Hierzu sind der Bundesregierung derzeit keine Bestrebungen bekannt.
+15. Hat die Bundesregierung Berechnungen bzw. Abschätzungen zu
+volkswirtschaftlichen Folgen (z. B. durch Arbeitsausfall und
+Berufsunfähigkeit) infolge chronischer Erkrankungen nach Fume Events
+beziehungsweise Aerotoxischem Syndrom vorgenommen, und wenn ja, mit
+welchem Ergebnis?
+Entsprechend der unter Frage 10 genannten Studie des IPA besteht kein
+Zusammenhang zwischen Fume Events und chronischen bzw. länger anhaltenden
+Erkrankungen. Die BG Verkehr als zuständiger Träger der gesetzlichen
+Unfallversicherung erbringt daher keine Leistungen. Kosten fallen an für die
+Akutversorgung der betroffenen Crewmitglieder nach durch Fume bedingten
+Arbeitsunfällen.
+16. Werden durch die Bundesregierungen Maßnahmen erwogen, durch 
+welche der Einsatz technischer oder regulatorischer Maßnahmen (z. B. 
+Filtersysteme, Sensorik, alternative Belüftung) für Flugzeuge deutscher 
+Fluggesellschaften oder im Flugverkehr auf deutschen Flughäfen zur 
+Verbesserung der Luftqualität in Kabinen obligatorisch würden, und 
+welche Maßnahmen sollen das ggf. sein?
+Es wird auf die Antwort der Bundesregierung zu der Schriftlichen Frage 87 in 
+der Bundestagsdrucksache 21/1831 verwiesen.
+17. Hält die Bundesregierung eine Verpflichtung von Fluggesellschaften zu 
+transparenter Information von Passagieren und Bordpersonal über
+kontaminierte Luftsituationen und mögliche Gefahren im Sinne des
+Verbraucher- und Arbeitsschutzes für sinnvoll und nötig?
+Nach dem Arbeitsschutzgesetz sind Arbeitgeber verpflichtet, durch eine
+Beurteilung der für die Beschäftigten mit ihrer Arbeit verbundenen Gefährdung zu 
+ermitteln, welche Maßnahmen des Arbeitsschutzes erforderlich sind.
+Arbeitgeber müssen die Beschäftigten über Sicherheit und Gesundheitsschutz bei der 
+Arbeit während ihrer Arbeitszeit ausreichend und angemessen unterweisen.
+Eine Pflicht zur Information von Fluggästen wird nicht diskutiert.
+18. Ist der Bundesregierung betreffend umfassender Sensorik zur Messung 
+der Luftqualität in Flugzeugen, Filtertechnik, Änderung von
+Konstruktionen und systematischer Risikoaufklärung die grundsätzliche Haltung 
+oder eine Verweigerung von Flugzeugherstellern, Schmierstoffherstellern 
+und Fluggesellschaften bekannt, und wenn ja, hat sie sich zu diesen eine 
+Positionierung erarbeitet (wie lautet diese gegebenenfalls)?
+19. Sieht die Bundesregierung ggf. Möglichkeiten der Verpflichtung zur
+Onboard-Sensorik zur Detektion toxischer Luftverunreinigungen, und wenn 
+ja, welche?
+Die Fragen 18 und 19 werden aufgrund ihres Sachzusammenhangs gemeinsam 
+beantwortet.
+Der Bundesregierung liegen diesbezüglich keine eigenen Informationen vor.
+20. Welche Rolle spielt Deutschland bei internationalen Abstimmungen zur 
+Standardisierung von Meldepflichten, Filtertechnologien und
+Luftqualitätsrichtlinien (z. B. die Internationale Zivilluftfahrtorganisation (ICAO), 
+die European Union Aviation Safety Agency (EASA), WHO), und 
+welche Möglichkeiten stehen von deutscher Seite zur Verfügung, auf 
+diese Standards einzuwirken?
+Die Bundesregierung bringt sich in den entsprechenden internationalen
+Gremien ein. Zum Beispiel wurden die Veröffentlichungen der Internationalen
+Zivilluftfahrt-Organisation (ICAO) „Manual on the Investigation of Cabin Safety 
+Aspects in Accidents and Incidents (Doc 10062)“ und „Guidelines on
+Education, Training and Reporting Practices related to Fume Events (Cir. 344-AN/
+202)“ befürwortet, da diese ein weltweit einheitliches Vorgehen bei der
+Untersuchung von Vorfällen mit kontaminierter Kabinenluft sicherstellen
+21. Welche konkreten Unterstützungsangebote existieren in Deutschland 
+nach Kenntnis der Bundesregierung ggf. für Betroffene und
+medizinisches Fachpersonal bei Diagnose und Behandlung des AT‑Syndroms?
+Dazu liegt der Bundesregierung von der BG Verkehr folgende Stellungnahme 
+vor:
+Das „Aerotoxische Syndrom“ ist keine medizinisch-wissenschaftlich
+anerkannte Diagnose. Die vielfältigen geäußerten Gesundheitsbeschwerden sind
+dennoch ernst zu nehmen und im Einzelfall zu prüfen. Sie beschränken sich aber 
+nachvollziehbar auf den Akutbereich. Wie auch sonst nach Arbeitsunfällen 
+können und sollten die versicherten Personen einen D-Arzt aufsuchen, welcher 
+eine symptombezogene Diagnostik durchführt und ggf. therapeutische
+Maßnahmen ergreift. Der D-Arzt entscheidet auch, ob weitere Fachärzte
+hinzugezogen werden sollen.
+Die BG Verkehr hat in Abstimmung mit dem Bundesverband der Deutschen 
+Luftverkehrswirtschaft (BDL) unter Beteiligung der Medizinischen und
+Betriebsärztlichen Dienste der Fluggesellschaften, Flugbetrieben, Vertretern von 
+Fliegerärzten, Crews und Fluggesellschaften sowie der Wissenschaft ein
+Standard-Untersuchungsverfahren vorgestellt, das 2017 aktualisiert wurde.
+Einzelheiten dazu sind auf der Website der BG Verkehr zu finden: www.bg-ver
+kehr.de/redaktion/medien-und-downloads/informationen/branchen/luftfahrt/sta
+ndardverfahren-fume-events.pdf
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

@@ -10,6 +10,7 @@ Stellungnahme des Bundesrates und Gegenäußerung der Bundesregierung
 Stellungnahme des Bundesrates  
 Der Bundesrat hat in seiner 1059. Sitzung am 21. November 2025 beschlossen, zu dem Gesetzentwurf gemäß 
 Artikel 76 Absatz 2 des Grundgesetzes wie folgt Stellung zu nehmen: 
+ 
 1. Zum Gesetzentwurf allgemein 
 Der Bundesrat stellt fest, dass beim Schutz der Kritischen Infrastruktur (KRITIS) Handlungsbedarf besteht 
 und ein einheitliches Regelungswerk für Resilienzmaßnahmen gefahren- und sektorübergreifend dringend 
@@ -34,10 +35,7 @@ Krisenvorsorge sowie flankierend eine fachgesetzliche Regulierung in allen Berei
 Insbesondere mit Blick hierauf erfüllt der Gesetzentwurf nicht die in der Nationalen Sicherheitsstrategie und 
 der Deutschen Resilienzstrategie durch den Bund gesetzten Ziele zur Verbesserung des Schutzes der
 Kritischen Infrastruktur und löst auch die Zusagen im Eckpunktepapier für das KRITISDachG-E (vgl. BT-
-Drucksache 20/5491) nicht ein. Aus Sicht des Bundesrates müssen zudem beim vorliegenden Gesetzesvorhaben 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Drucksache 20/5491) nicht ein. Aus Sicht des Bundesrates müssen zudem beim vorliegenden Gesetzesvorhaben
 die Erfahrungen, die in den letzten zehn Jahren aus der vergleichbaren IT-Sicherheitsgesetzgebung für KRI-
 TIS gewonnen werden konnten, berücksichtigt werden.  
 Der Gesetzentwurf bedarf aus Sicht des Bundesrates insbesondere folgender Schärfungen: 
@@ -51,27 +49,27 @@ vorgesehen) ausgenommen sind (bspw., weil die Gesetzgebungskompetenz bei den Lä
 Gesetzentwurf vorgesehene Sektoraufschlüsselung entspricht nicht den gängigen
 Sektorenbezeichnungen und ist unvollständig (u. a. die Sektoren „Staat und Verwaltung“ sowie „Medien und Kultur“
 fehlen). Daneben werden Teile der kritischen Dienstleistungen im Gesetz genannt, während die restliche 
-KRITIS-Definition in einer Verordnung erfolgen soll, zu der jedoch noch kein Entwurf vorliegt.
+KRITIS-Definition in einer Verordnung erfolgen soll, zu der jedoch noch kein Entwurf vorliegt. 
 b) Die durch den Gesetzentwurf von KRITIS-Betreibern geforderten Resi-lienzmaßnahmen müssen alle 
 Teile des Risiko- und Krisenmanagements für KRITIS systematisch adressieren, also die Vermeidung 
 von Störungen/Ausfällen, die Vorbereitung auf (unvermeidbare) Störungen/Ausfälle, die Bewältigung 
 von eingetretenen Störungen/Ausfällen und die Nachsorge im Sinne des Lernens aus Ereignissen. Die 
 im Gesetzentwurf genannten Maßnahmen (§ 13 Absatz 3 KRITISDachG-E) sind diesen einzelnen
-Teilbereichen des KRITIS-Schutzes falsch zugeordnet, was zu beheben ist.
+Teilbereichen des KRITIS-Schutzes falsch zugeordnet, was zu beheben ist.  
 Die Resilienzpflichten der Betreiber stehen insgesamt unter einem Abwägungsgebot, bei dem explizit 
 genannt wird, dass wirtschaftliche Aspekte der Betreiber zu berücksichtigen sind. Anstatt (wie im
 Entwurf) den Fokus auf das Risiko eines Vorfalls zu legen, sollte die Versorgungssicherheit der genannten 
 Wirtschaftlichkeit gegenübergestellt werden, was jedoch im Abwägungszusammenhang nicht
-angeführt wird.
+angeführt wird.  
 c) Der im Gesetzentwurf festgelegte Regelschwellenwert von 500 000 versorgten Personen, der die 
 Grundlage für die Berechnung von spezifischen Kennzahlen für kritische Dienstleistungen sein wird, 
 um damit den Anwendungsbereich des Gesetzes abzustecken, muss die Kritische Infrastruktur
 flächendeckend im Sinne der Versorgungssicherheit im gesamten Bundesgebiet erfassen. Dies kann nur durch 
-eine Absenkung des Regelschwellenwerts erreicht werden.
+eine Absenkung des Regelschwellenwerts erreicht werden.  
 d) Für die im Gesetz vorgesehenen konkretisierenden Rechtsverordnungen muss eine
 Zustimmungsbedürftigkeit des Bundesrates etabliert werden, da sich erst hieraus die eigentlichen Wirkungen zur
 Resilienzsteigerung der KRITIS, aber auch die Vollzugsaufwände in den Ländern ergeben. Somit sind die 
-Länder hiervon direkt in ihren Finanzen, Behörden und Verwaltungsabläufen betroffen.
+Länder hiervon direkt in ihren Finanzen, Behörden und Verwaltungsabläufen betroffen. 
 e) Für einen umfassenden KRITIS-Schutz in Deutschland ist das KRITISDachG-E nur ein Baustein, den 
 es mit weiteren notwendigen fachgesetzlichen Neuregelungen durch den Bundesgesetzgeber zu
 ergänzen gilt. Gesetzliche Regelungen zum Schutz Kritischer Infrastruktur finden sich derzeit in
@@ -81,19 +79,16 @@ Resilienzsteigerung der Betreiber kritischen Anlagen getätigt wurden.“ So hat
 nicht dargelegt, wie die Regelungen eines „Dachgesetzes“ mit den weiteren nötigen fachgesetzlichen 
 Regelungsinhalten in Einklang gebracht werden und ineinandergreifen. Es sollten analog den
 dezidierten Änderungen im Energierecht in den Artikeln 2 und 3 auch für die restlichen KRITIS-Bereiche die 
-fachgesetzlichen Anpassungen vollzogen werden.
+fachgesetzlichen Anpassungen vollzogen werden.  
 f) Das KRITISDachG-E sollte auch Regelungen zum Schutz sicherheitsrelevanter Informationen treffen, 
 die sich unter anderem an Betreiber kritischer Anlagen richten und die Veröffentlichung sensibler
-Informationen wirksam verhindern.
+Informationen wirksam verhindern. 
 Darüber hinaus ist zu prüfen, die Fristen im Gesetzestext an dessen Inkrafttreten zu koppeln. Der
 vorliegende Gesetzentwurf sieht an mehreren Stellen fixe Fristen und Stichtage vor (bspw. für die
 Erstellung der Nationalen KRITIS-Resilienzstrategie, der Risikoanalysen und der Betreiberpflichten). Erste 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
 Fristen liegen bereits so zukunftsnah, dass angesichts des noch laufenden Gesetzgebungsverfahrens
 erwogen werden sollte, die starren Datumsangaben durch einen bestimmten Zeitraum nach Inkrafttreten 
-des Gesetzes zu ersetzen.  
+des Gesetzes zu ersetzen.
 2. Zum Gesetzentwurf allgemein 
 Mit dem Gesetz sollen die europarechtlichen Vorgaben der Richtlinie (EU) 2022/2557 in einem neuen 
 Stammgesetz umgesetzt und die dafür notwendigen Regelungen zur Identifizierung kritischer Anlagen sowie 
@@ -110,6 +105,7 @@ konkretisieren.
 Sollten die entsprechenden Kostenprognosen des Bundes relevante Mehrbelastungen für die Länder
 erkennen lassen, ist darüber hinaus sicherzustellen, dass die aus der bundesgesetzlichen Verpflichtung von
 Ländern resultierenden Ausgaben durch den Bund kompensiert werden. 
+ 
 3. Zu Artikel 1 (§ 1 KRITISDachG) 
 Artikel 1 § 1 ist durch den folgenden § 1 zu ersetzen: 
 „§ 1 
@@ -117,102 +113,98 @@ Nationale KRITIS-Resilienzstrategie
 Die Bundesregierung soll eine Strategie zur Verbesserung der Resilienz kritischer Infrastrukturen
 verabschieden, an deren Erstellung die Länder mitwirken.“  
 Begründung: 
-Die Verantwortlichkeiten beim Schutz kritischer Infrastrukturen sind zwischen Bund und Ländern 
-aufgeteilt. Die Richtlinie (EU) 2022/2557 des Europäischen Parlaments und des Rates vom 14.
-Dezember 2022 über die Resilienz kritischer Einrichtungen (CER-RL) sieht gemäß Artikel 4
-Mindestelemente einer Strategie vor, die einen unmittelbaren Bezug zu Aufgaben haben, für deren
-Erfüllung die Länder zuständig sein sollen. Folgerichtig ist laut Begründung des Gesetzentwurfs
-vorgesehen, die Strategie gemeinsam mit den Ländern und unter Beteiligung der Zivilgesellschaft zu 
-erarbeiten. Weiter soll die Strategie Aspekte berücksichtigen, die im KRITISDachG-E nicht geregelt 
-werden sollen (vgl. BR-Drucksache. 558/25, S. 39). So würde etwa eine Berücksichtigung des
-Sektors Medien und Kultur eine Beteiligung der Länder zwingend voraussetzen, da dieser der
-Länderzuständigkeit unterliegt. Vor diesem Hintergrund ist die Festschreibung einer Länderbeteiligung in 
-§ 1 KRITISDachG-E unerlässlich.  
-Da noch keine bundesseitigen Bemühungen oder Kontaktaufnahmen zur Erstellung einer solchen 
-Strategie bekannt sind, sollte eine Fristnennung unterbleiben. Dies bedeutet ausdrücklich nicht, dass 
-die Verabschiedung einer solchen Strategie verzögert werden soll. An einer zeitnahen Erstellung, 
-auch innerhalb der durch die CER-RL vorgesehenen Frist, sind die Länder sehr interessiert. 
+Die Verantwortlichkeiten beim Schutz kritischer Infrastrukturen sind zwischen Bund und Ländern aufgeteilt. 
+Die Richtlinie (EU) 2022/2557 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über 
+die Resilienz kritischer Einrichtungen (CER-RL) sieht gemäß Artikel 4 Mindestelemente einer Strategie vor, 
+die einen unmittelbaren Bezug zu Aufgaben haben, für deren Erfüllung die Länder zuständig sein sollen. 
+Folgerichtig ist laut Begründung des Gesetzentwurfs vorgesehen, die Strategie gemeinsam mit den Ländern 
+und unter Beteiligung der Zivilgesellschaft zu erarbeiten. Weiter soll die Strategie Aspekte berücksichtigen, 
+die im KRITISDachG-E nicht geregelt werden sollen (vgl. BR-Drucksache. 558/25, S. 39). So würde etwa 
+eine Berücksichtigung des Sektors Medien und Kultur eine Beteiligung der Länder zwingend voraussetzen, 
+da dieser der Länderzuständigkeit unterliegt. Vor diesem Hintergrund ist die Festschreibung einer
+Länderbeteiligung in § 1 KRITISDachG-E unerlässlich.  
+Da noch keine bundesseitigen Bemühungen oder Kontaktaufnahmen zur Erstellung einer solchen Strategie 
+bekannt sind, sollte eine Fristnennung unterbleiben. Dies bedeutet ausdrücklich nicht, dass die
+Verabschiedung einer solchen Strategie verzögert werden soll. An einer zeitnahen Erstellung, auch innerhalb der durch 
+die CER-RL vorgesehenen Frist, sind die Länder sehr interessiert. 
+ 
 4. Zu Artikel 1 (§ 2 Nummer 01 – neu – KRITISDachG) 
 Vor Artikel 1 § 2 Nummer 1 ist die folgende Nummer 01 einzufügen:  
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
 ‚01. sind „Kritische Infrastruktur“ Organisationen oder Einrichtungen mit wichtiger Bedeutung für das 
 staatliche Gemeinwesen, bei deren Ausfall oder Beeinträchtigung nachhaltig wirkende
-Versorgungsengpässe, erhebliche Störungen der wirtschaftlichen Tätigkeit, der öffentlichen Sicherheit 
-oder andere dramatische Folgen eintreten würden,“ ‘ 
+Versorgungsengpässe, erhebliche Störungen der wirtschaftlichen Tätigkeit, der öffentlichen Sicherheit oder andere 
+dramatische Folgen eintreten würden,“ ‘ 
 Begründung: 
-Diese Änderung dient der Anpassung des vorliegenden Gesetzentwurfs an die Vorgaben der
-Richtlinie (EU) 2022/2557.  
-Entgegen der Richtlinie (EU) 2022/2557 enthält der vorliegende Gesetzentwurf den Begriff der
-kritischen Infrastruktur gerade nicht, obgleich dies zwingend erforderlich ist. Der Begriff der kritischen 
-Anlage in § 2 Nummer 3 KRITISDachG-E vermag den Begriff der kritischen Infrastruktur nicht in 
-vergleichbarer Weise abzubilden. Vielmehr bezeichnet der Begriff der kritischen Infrastruktur nach 
-Artikel 2 Nummer 4 CER-Richtlinie „Objekte, Anlagen, Ausrüstung. Netze oder Systeme oder Teile 
-eines Objekts, einer Anlage, Ausrüstung, eines Netzes oder eines Systems, die für die Erbringung 
-eines wesentlichen Dienstes erforderlich sind.“  
-Demnach umfasst der Begriff der kritischen Infrastruktur verschiedene Ebenen und
-Funktionsbereiche. Folgerichtig ist eine kritische Anlage ein Teil der kritischen Infrastruktur. Dieses umfassende 
-Verständnis ist für eine nachhaltige Resilienz unerlässlich.  
-Krankenhäuser sind als Teil der Gesundheitsversorgung z. B. nicht nur als Ganzes eine für die
-Gesellschaft unverzichtbare kritische Infrastruktur, sondern diese haben selbst eine Vielzahl anderer 
-kritischer Infrastrukturen. Neben Betreibern außerhalb des Krankenhauses, wie branchenfremde 
-Dienstleister aber auch Dienstleister der Gesundheitsbranche, setzt sich das System Krankenhaus 
-selbst aus verschiedenen Funktionsbereichen und Ebenen zusammen. Jeder Funktionsbereich und 
-jede Ebene ist für sich genommen eine kritische Infrastruktur, die ihrerseits wiederum Teil der
-kritischen Infrastruktur „Krankenhaus“ ist. 
+Diese Änderung dient der Anpassung des vorliegenden Gesetzentwurfs an die Vorgaben der Richtlinie (EU) 
+2022/2557.  
+Entgegen der Richtlinie (EU) 2022/2557 enthält der vorliegende Gesetzentwurf den Begriff der kritischen
+Infrastruktur gerade nicht, obgleich dies zwingend erforderlich ist. Der Begriff der kritischen Anlage in § 2 
+Nummer 3 KRITISDachG-E vermag den Begriff der kritischen Infrastruktur nicht in vergleichbarer Weise 
+abzubilden. Vielmehr bezeichnet der Begriff der kritischen Infrastruktur nach Artikel 2 Nummer 4 CER-
+Richtlinie „Objekte, Anlagen, Ausrüstung. Netze oder Systeme oder Teile eines Objekts, einer Anlage,
+Ausrüstung, eines Netzes oder eines Systems, die für die Erbringung eines wesentlichen Dienstes erforderlich 
+sind.“  
+Demnach umfasst der Begriff der kritischen Infrastruktur verschiedene Ebenen und Funktionsbereiche.
+Folgerichtig ist eine kritische Anlage ein Teil der kritischen Infrastruktur. Dieses umfassende Verständnis ist 
+für eine nachhaltige Resilienz unerlässlich.  
+Krankenhäuser sind als Teil der Gesundheitsversorgung z. B. nicht nur als Ganzes eine für die Gesellschaft 
+unverzichtbare kritische Infrastruktur, sondern diese haben selbst eine Vielzahl anderer kritischer
+Infrastrukturen. Neben Betreibern außerhalb des Krankenhauses, wie branchenfremde Dienstleister aber auch
+Dienstleister der Gesundheitsbranche, setzt sich das System Krankenhaus selbst aus verschiedenen
+Funktionsbereichen und Ebenen zusammen. Jeder Funktionsbereich und jede Ebene ist für sich genommen eine kritische 
+Infrastruktur, die ihrerseits wiederum Teil der kritischen Infrastruktur „Krankenhaus“ ist. 
+ 
 5. Zu Artikel 1 (§ 2 Nummer 1 KRITISDachG) 
 In Artikel 1 § 2 Nummer 1 ist nach der Angabe „Finanzwesen“ die Angabe „und im Sektor Leistungen der 
 Sozialversicherung sowie Grundsicherung für Arbeitsuchende“ einzufügen. 
 Begründung 
-In § 1 Nummer 1 KRITISDachG-E werden die Betreiber kritischer Anlagen definiert. Maßgebend 
-ist dabei der bestimmende Einfluss unter Berücksichtigung der rechtlichen, wirtschaftlichen und 
-tatsächlichen Umstände. Für den Sektor Finanzwesen ist ungeachtet der rechtlichen und
-wirtschaftlichen Umstände die tatsächliche Sachherrschaft entscheidend, so dass auch deren IT-Dienstleister 
-als Betreiber kritischer Anlagen gelten.  
-Leistungen von Sozialversicherungen werden ebenfalls durch externe IT-Dienstleister erbracht,
-deren Ausfall oder eine Beeinträchtigung unmittelbar die Leistungserbringung der Sozialversicherung 
-gefährden kann. Aus diesem Grund muss die Regelung ebenfalls auf den Sektor Leistungen der 
-Sozialversicherungen sowie Grundsicherung für Arbeitsuchende erweitert werden. 
+In § 1 Nummer 1 KRITISDachG-E werden die Betreiber kritischer Anlagen definiert. Maßgebend ist dabei 
+der bestimmende Einfluss unter Berücksichtigung der rechtlichen, wirtschaftlichen und tatsächlichen
+Umstände. Für den Sektor Finanzwesen ist ungeachtet der rechtlichen und wirtschaftlichen Umstände die
+tatsächliche Sachherrschaft entscheidend, so dass auch deren IT-Dienstleister als Betreiber kritischer Anlagen 
+gelten.  
+Leistungen von Sozialversicherungen werden ebenfalls durch externe IT-Dienstleister erbracht, deren
+Ausfall oder eine Beeinträchtigung unmittelbar die Leistungserbringung der Sozialversicherung gefährden kann. 
+Aus diesem Grund muss die Regelung ebenfalls auf den Sektor Leistungen der Sozialversicherungen sowie 
+Grundsicherung für Arbeitsuchende erweitert werden. 
+ 
 6. Zu Artikel 1 (§ 3 Absatz 2 Satz 1 Nummer 4 KRITISDachG) 
 In Artikel 1 § 3 Absatz 2 Satz 1 Nummer 4 ist die Angabe „soweit er in die Zuständigkeit der bundeseigenen 
 Eisenbahnverkehrsunternehmen oder Eisenbahninfrastrukturunternehmen fällt,“ durch die Angabe „der
 Eisenbahnen in der Aufsicht des Eisenbahn-Bundesamtes nach § 5 Absatz 1a Nummer 1 und Absatz 1e Satz 1 
 Nummer 4 und Nummer 4a des Allgemeinen Eisenbahngesetzes,“ zu ersetzen. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
 Begründung:  
-Die Aufgaben nach dem Gesetz sollen vom BBK wahrgenommen werden. Soweit eine
-sektorspezifische Aufsichtsbehörde besteht, werden diese Aufgaben vom BBK in Zusammenarbeit mit dieser 
+Die Aufgaben nach dem Gesetz sollen vom BBK wahrgenommen werden. Soweit eine sektorspezifische 
+Aufsichtsbehörde besteht, werden diese Aufgaben vom BBK in Zusammenarbeit mit dieser
 Aufsichtsbehörde umgesetzt*. 
 Der Gesetzentwurf weist den Eisenbahnaufsichtsbehörden der Länder die Aufgaben für die
-nichtbundeseigenen Eisenbahnverkehrs- und Eisenbahninfrastrukturunternehmen (NE) und dem
-Eisenbahn-Bundesamt (EBA) lediglich die Aufgaben gegenüber den Eisenbahnen des Bundes (EdB) zu. 
-Diese Aufgabenzuweisung wird an Zuständigkeitsbereiche der jeweiligen Unternehmen gebunden. 
-Mit der sog. Bahnreform wurde u. a. die damalige „Deutsche Bundesbahn“ in eine
-Aktiengesellschaft überführt. Artikel 87e Absatz 3 Satze 1 des Grundgesetzes schreibt als Organisationsform 
-dieser neu gebildeten Einheit eindeutig eine Führung als Wirtschaftsunternehmen vor.
-Wirtschaftsunternehmen haben jedoch keine Aufgabenbereiche, für die sie im rechtlichen Sinne gesetzlich
-„zuständig“ wären. Dies gilt insbesondere für die Eisenbahnverkehrsunternehmen des Bundes, die ihre 
-Tätigkeiten eigenwirtschaftlich gestalten müssen und über die Einstellung von Verkehren allein
-aufgrund wirtschaftlicher Erwägungen in eigener unternehmerischer Verantwortung entscheiden. Die 
-Aufgabenzuweisung an das EBA kann daher nicht an vermeintliche „Zuständigkeiten“ von
-Wirtschaftsunternehmen gebunden werden. 
-Mit dem Fünften Eisenbahnrechtsänderungsgesetz vom 16. April 2007 wurde das EBA
-sektorspezifische Aufsichtsbehörde für alle Eisenbahnen, die bundesweit operieren, und daher für ihren
-Betrieb einer eisenbahnrechtlichen Sicherheitsbescheinigung oder Sicherheitsgenehmigung bedürfen. 
-Damit unterliegen die vom KRITISDachG-E betroffenen Eisenbahnen seit dem 20. April 2007 der 
-sektorspezifischen Aufsicht des EBA – unabhängig davon, ob es sich dabei um EdB oder NE
-handelt. Die Länder sind für diese Unternehmen dagegen nicht mehr die sektorspezifische
-Aufsichtsbehörde. Die Aufgabenzuweisung kann daher nicht daran geknüpft werden, ob es sich um ein
-bundeseigenes Unternehmen handelt. 
+nichtbundeseigenen Eisenbahnverkehrs- und Eisenbahninfrastrukturunternehmen (NE) und dem Eisenbahn-Bundesamt 
+(EBA) lediglich die Aufgaben gegenüber den Eisenbahnen des Bundes (EdB) zu. Diese Aufgabenzuweisung 
+wird an Zuständigkeitsbereiche der jeweiligen Unternehmen gebunden. 
+Mit der sog. Bahnreform wurde u. a. die damalige „Deutsche Bundesbahn“ in eine Aktiengesellschaft
+überführt. Artikel 87e Absatz 3 Satze 1 des Grundgesetzes schreibt als Organisationsform dieser neu gebildeten 
+Einheit eindeutig eine Führung als Wirtschaftsunternehmen vor. Wirtschaftsunternehmen haben jedoch 
+ 
+* § 3 Absatz 1 und 2 KRITISDachG-E; Handreichung BMI zum KRITISDachG-E vom November 2024: „Das BBK arbeitet dabei mit den je nach 
+Sektor zuständigen Aufsichtsbehörden des Bundes oder der Länder zusammen.“
+keine Aufgabenbereiche, für die sie im rechtlichen Sinne gesetzlich „zuständig“ wären. Dies gilt
+insbesondere für die Eisenbahnverkehrsunternehmen des Bundes, die ihre Tätigkeiten eigenwirtschaftlich gestalten 
+müssen und über die Einstellung von Verkehren allein aufgrund wirtschaftlicher Erwägungen in eigener 
+unternehmerischer Verantwortung entscheiden. Die Aufgabenzuweisung an das EBA kann daher nicht an 
+vermeintliche „Zuständigkeiten“ von Wirtschaftsunternehmen gebunden werden. 
+Mit dem Fünften Eisenbahnrechtsänderungsgesetz vom 16. April 2007 wurde das EBA sektorspezifische 
+Aufsichtsbehörde für alle Eisenbahnen, die bundesweit operieren, und daher für ihren Betrieb einer
+eisenbahnrechtlichen Sicherheitsbescheinigung oder Sicherheitsgenehmigung bedürfen. Damit unterliegen die 
+vom KRITISDachG-E betroffenen Eisenbahnen seit dem 20. April 2007 der sektorspezifischen Aufsicht des 
+EBA – unabhängig davon, ob es sich dabei um EdB oder NE handelt. Die Länder sind für diese Unternehmen 
+dagegen nicht mehr die sektorspezifische Aufsichtsbehörde. Die Aufgabenzuweisung kann daher nicht daran 
+geknüpft werden, ob es sich um ein bundeseigenes Unternehmen handelt. 
 Würde man die Ländereisenbahnaufsichtsbehörden abweichend von der eisenbahnrechtlichen
-Aufgabenzuweisung an die sektorspezifische Aufsichtsbehörde für die der Aufsicht des EBA
-unterstehenden Eisenbahnen mit den Aufgaben nach dem KRITISDachG-E betrauen, entstünde eine nicht 
-zu rechtfertigende Sonderzuständigkeit, die die sachgerechte Wahrnehmung der Aufgaben nach dem 
-KRITISDachG-E und damit die korrekte Umsetzung der Richtlinie (EU) 2022/2557 zur Stärkung 
-der Resilienz kritischer Anlagen gefährdet. 
+Aufgabenzuweisung an die sektorspezifische Aufsichtsbehörde für die der Aufsicht des EBA unterstehenden
+Eisenbahnen mit den Aufgaben nach dem KRITISDachG-E betrauen, entstünde eine nicht zu rechtfertigende
+Sonderzuständigkeit, die die sachgerechte Wahrnehmung der Aufgaben nach dem KRITISDachG-E und damit die 
+korrekte Umsetzung der Richtlinie (EU) 2022/2557 zur Stärkung der Resilienz kritischer Anlagen gefährdet. 
+ 
 7. Zu Artikel 1 (§ 3 Absatz 2 Satz 1 Nummer 11 und § 11 Absatz 1 Satz 1 KRITISDachG) 
 a) Der Bundesrat stellt fest, dass (nach § 3 Absatz 2 Satz 1 Nummer 11 und § 11 Absatz 1 Satz 1 KRITIS-
 DachG-E) die Zuständigkeit zur Durchführung von Risikoanalysen und Risikobewertungen als
@@ -225,127 +217,109 @@ Risikobewertungen als Grundlage für nationale Risikoanalysen und Risikobewertun
 Dienstleistung „Leistungen der Sozialversicherung“ zentral in der alleinigen Zuständigkeit des Bundes 
 zusammenzuführen. 
 Begründung: 
-Eine Übertragung der Zuständigkeit auf die für den Bereich der Sozialversicherung zuständigen 
- 
-* § 3 Absatz 1 und 2 KRITISDachG-E; Handreichung BMI zum KRITISDachG-E vom November 2024: „Das BBK arbeitet dabei mit den je 
-nach Sektor zuständigen Aufsichtsbehörden des Bundes oder der Länder zusammen.“ 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-Landesministerien als Rechtsaufsichtsbehörden der landesunmittelbaren Träger der gesetzlichen 
-Renten- Unfall- und Krankenversicherung sowie der sozialen Pflegeversicherung erscheint nicht 
-zielführend. Die Deutsche Rentenversicherung Bund als Bundesträger ist unter anderem
-trägerübergreifend für die Festlegung von Grundsätzen zur Aufbau- und Ablauforganisation sowie die
-Koordinierung der Datenverarbeitung und Servicefunktionen bei allen Bundes- und Regionalträgern der 
-Deutschen Rentenversicherung zuständig (§ 138 Absatz 1 Satz 2 Nummer 6 und Nummer 9 SGB 
-VI). Auch bei den Unfallversicherungsträgern wird die Datenverarbeitung bundesweit und
-trägerübergreifend über den Spitzenverband DGUV koordiniert, ebenso die Entscheidung aller
-grundsätzlichen Fach- und Rechtsfragen. Beide Spitzenverbände stehen unter der Rechtsaufsicht des BAS. 
-Auch im Bereich der gesetzlichen Kranken- und der sozialen Pflegeversicherung steht die Mehrzahl 
-der Körperschaften bereits unter der Aufsicht des BAS. Kassenübergreifende Steuerungs- und
-Koordinierungsfunktionen nimmt hier der GKV-Spitzenverband unter der Rechtsaufsicht des BMG 
-wahr. 
-Sektorenspezifisches Fachwissen, um die Träger der gesetzlichen Renten- und Unfallversicherung 
-sowie die Kranken- und Pflegekassen bei der Vornahme von Resilienzmaßnahmen zu unterstützen 
-oder Bedarfe an Schutzmaßnahmen herauszuarbeiten, ist daher primär auf Bundesebene vorhanden. 
-Daher sollte die Zuständigkeit für die Durchführung von Risikoanalysen und Risikobewertungen als 
-Grundlage für nationale Risikoanalysen und Risikobewertungen im Bereich der Sozialversicherung 
-bundesweit und trägerübergreifend beim Bund bzw. beim BAS liegen. 
-8. Zu Artikel 1 (§ 3 Absatz 3 Satz 1 und 2, § 4 Absatz 3, § 5 Absatz 1, § 11 Absatz 8 Satz 1, § 12 Absatz 3 Satz 
-1, § 14 Absatz 1 Satz 1, Absatz 3 Satz 1, § 17 Absatz 3 Satz 1 KRITISDachG), Artikel 5 Absatz 2
+Eine Übertragung der Zuständigkeit auf die für den Bereich der Sozialversicherung zuständigen
+Landesministerien als Rechtsaufsichtsbehörden der landesunmittelbaren Träger der gesetzlichen Renten- Unfall- und 
+Krankenversicherung sowie der sozialen Pflegeversicherung erscheint nicht zielführend. Die Deutsche
+Rentenversicherung Bund als Bundesträger ist unter anderem trägerübergreifend für die Festlegung von
+Grundsätzen zur Aufbau- und Ablauforganisation sowie die Koordinierung der Datenverarbeitung und
+Servicefunktionen bei allen Bundes- und Regionalträgern der Deutschen Rentenversicherung zuständig (§ 138 Absatz 1 
+Satz 2 Nummer 6 und Nummer 9 SGB VI). Auch bei den Unfallversicherungsträgern wird die
+Datenverarbeitung bundesweit und trägerübergreifend über den Spitzenverband DGUV koordiniert, ebenso die
+Entscheidung aller grundsätzlichen Fach- und Rechtsfragen. Beide Spitzenverbände stehen unter der
+Rechtsaufsicht des BAS. Auch im Bereich der gesetzlichen Kranken- und der sozialen Pflegeversicherung steht die 
+Mehrzahl der Körperschaften bereits unter der Aufsicht des BAS. Kassenübergreifende Steuerungs- und 
+Koordinierungsfunktionen nimmt hier der GKV-Spitzenverband unter der Rechtsaufsicht des BMG wahr. 
+Sektorenspezifisches Fachwissen, um die Träger der gesetzlichen Renten- und Unfallversicherung sowie die 
+Kranken- und Pflegekassen bei der Vornahme von Resilienzmaßnahmen zu unterstützen oder Bedarfe an 
+Schutzmaßnahmen herauszuarbeiten, ist daher primär auf Bundesebene vorhanden. Daher sollte die
+Zuständigkeit für die Durchführung von Risikoanalysen und Risikobewertungen als Grundlage für nationale
+Risikoanalysen und Risikobewertungen im Bereich der Sozialversicherung bundesweit und trägerübergreifend 
+beim Bund bzw. beim BAS liegen.
+8. Zu Artikel 1 (§ 3 Absatz 3 Satz 1 und 2, § 4 Absatz 3, § 5 Absatz 1, § 11 Absatz 8 Satz 1, § 12 Absatz 3 
+Satz 1, § 14 Absatz 1 Satz 1, Absatz 3 Satz 1, § 17 Absatz 3 Satz 1 KRITISDachG), Artikel 5 Absatz 2
 (Inkrafttreten) 
 a) In Artikel 1 § 3 Absatz 3 Satz 1 und 2, § 4 Absatz 3, § 5 Absatz 1, § 11 Absatz 8 Satz 1, § 12 Absatz 3 
 Satz 1, § 14 Absatz 1 Satz 1, Absatz 3 Satz 1, § 17 Absatz 3 Satz 1 ist jeweils die Angabe „nicht“ zu 
 streichen. 
 b) In Artikel 5 Absatz 2 ist die Angabe „1. Januar 2030“ durch die Angabe „1. Juli 2028“ zu ersetzen. 
 Begründung: 
-Je nach Definition der kritischen Anlagen und Dienstleistungen in der Verordnung können für die 
-Länder neue Pflichten mit einem erheblichen Ressourceneinsatz (Personal/Haushaltsmittel) und
-zusätzliche Bürokratielasten entstehen. Daher muss das bestehende Zustimmungserfordernis des
-Bundesrates gemäß Artikel 80 Absatz 2 des Grundgesetzes gewährleistet bleiben. 
-Der Gesetzentwurf ist an vielen Stellen allgemein gehalten und verlagert konkrete Vorgaben in 
-Rechtsverordnungen, die derzeit noch nicht vorliegen. Ohne gegenwärtig diese Verordnungen bzw. 
-Entwürfe der Normtexte zu kennen, können die Auswirkungen des Gesetzesentwurfs insbesondere 
-die Wirkung auf die Versorgungssicherheit, die Vollzugsaufwände und finanziellen Belastungen in 
-den Ländern nicht abschließend bewertet werden. Gemäß Gesetzentwurf werden zukünftig die
-Länder – neben ihren weiterhin fortzuführenden Tätigkeiten der partnerschaftlichen Zusammenarbeit – 
-neue Aufgaben der Aufsicht bzw. Kontrolle übernehmen, insbesondere zur Überprüfung der
-Resilienzpflichten der KRITIS-Betreiber. Zur Gewährleistung eines hohen Sicherheitsniveaus, aber auch 
-zur Abschätzung der Aufwände im landesseitigen Verwaltungsvollzug ist es unabdingbar, dass den 
-Ländern angemessene Mitwirkungsrechte bei den konkreten Regelungen eingeräumt werden. Dies 
-ist nur gewahrt, wenn die Gesetzesbestimmungen rund um die Verordnungsermächtigungen eine 
-verbindlichere Mitentscheidung durch die Länder vorsehen, was durch die
+Je nach Definition der kritischen Anlagen und Dienstleistungen in der Verordnung können für die Länder 
+neue Pflichten mit einem erheblichen Ressourceneinsatz (Personal/Haushaltsmittel) und zusätzliche
+Bürokratielasten entstehen. Daher muss das bestehende Zustimmungserfordernis des Bundesrates gemäß
+Artikel 80 Absatz 2 des Grundgesetzes gewährleistet bleiben. 
+Der Gesetzentwurf ist an vielen Stellen allgemein gehalten und verlagert konkrete Vorgaben in
+Rechtsverordnungen, die derzeit noch nicht vorliegen. Ohne gegenwärtig diese Verordnungen bzw. Entwürfe der 
+Normtexte zu kennen, können die Auswirkungen des Gesetzesentwurfs insbesondere die Wirkung auf die 
+Versorgungssicherheit, die Vollzugsaufwände und finanziellen Belastungen in den Ländern nicht
+abschließend bewertet werden. Gemäß Gesetzentwurf werden zukünftig die Länder – neben ihren weiterhin
+fortzuführenden Tätigkeiten der partnerschaftlichen Zusammenarbeit – neue Aufgaben der Aufsicht bzw.
+Kontrolle übernehmen, insbesondere zur Überprüfung der Resilienzpflichten der KRITIS-Betreiber. Zur
+Gewährleistung eines hohen Sicherheitsniveaus, aber auch zur Abschätzung der Aufwände im landesseitigen 
+Verwaltungsvollzug ist es unabdingbar, dass den Ländern angemessene Mitwirkungsrechte bei den
+konkreten Regelungen eingeräumt werden. Dies ist nur gewahrt, wenn die Gesetzesbestimmungen rund um die 
+Verordnungsermächtigungen eine verbindlichere Mitentscheidung durch die Länder vorsehen, was durch die 
 Zustimmungsbedürftigkeit des Bundesrates erwirkt wird.  
-Gemäß Artikel 80 Absatz 2 des Grundgesetzes bedürfen neben dem Gesetz selbst auch die im KRI-
-TISDachG-E vorgesehenen Gesetzeskonkretisierungen durch Rechtsverordnungen der Zustimmung 
-des Bundesrates. Nun will der Bund hingegen jedoch den Weg beschreiten, die im KRITISDachG-
-E vorgesehenen Rechtsverordnungen nicht zustimmungsbedürftig zu gestalten und nur das Gesetz 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-selbst als zustimmungsbedürftig zu behandeln. Dabei sieht der Bund in den meisten Fällen noch 
-nicht einmal eine Mitwirkung der Länder vor. Ferner ist auch die gesetzliche Regelung einer
-vorrangigen Beteiligung der Länder notwendig (vor Beteiligung der Wirtschaft). Dies dient sowohl der 
-Wahrung der Länderinteressen als auch dem Interesse des Staates an einer effektiven
-Konsensherbeiführung. Bei Nichtregelung käme es zur Anwendbarkeit der Gemeinsamen Geschäftsordnung 
-und damit zu einer gleichzeitigen Beteiligung von Ländern sowie den Wirtschaftsverbänden und 
-Wissenschaftsorganisationen.  
-Nach dem vorliegenden Gesetzentwurf würde die Festlegung der kritischen Dienstleistungen und 
-damit der Anwendungsbereich des Gesetzes im Einvernehmen mit nahezu allen Bundesressorts
-erfolgen – unabhängig davon, ob für die einzelnen kritischen Dienstleistungen Bund oder Länder
-zuständig sind. Die Länder wären trotz Zuständigkeit nicht beteiligt (§ 4 Absatz 4 KRITISDachG-E). 
-Ebenfalls wären die Länder an der Festlegung von (branchenspezifischen) Resilienzstandards und 
-sektorübergreifenden Mindestanforderungen nicht beteiligt, obwohl auch Länderbehörden die
-Aufgabe derer Kontrolle gegenüber den Betreibern wahrzunehmen haben. Gleiches gilt für die
-Vorgaben zu den Risikoanalysen der Betreiber. Diese müssten laut Gesetzentwurf durch die
-Länderbehörden kontrolliert werden, während der Bund alleine diese Vorgaben trifft.  
-Beim Erlass der Rechtsverordnung zu sektorübergreifenden Mindestanforderungen wären die
-„zuständigen Behörden“ (und damit teilweise auch die Länder) zwar zumindest „zuvor anzuhören“ (§ 
-14 Absatz 1 KRITISDachG-E), jedoch ist nicht sichergestellt, dass die vorgebrachten
-Stellungnahmen tatsächlich Berücksichtigung finden würden. Die Verordnungskompetenz für die
-sektorspezifischen Mindestvorgaben gilt – je nach Zuständigkeit für die jeweilige Branche – laut Gesetzentwurf 
-sowohl für den Bund als auch für die Landesregierungen (§ 14 Absatz 3 und 4 KRITISDachG-E). 
-Diese Kompetenz besteht jedoch erst ab dem 1. Januar 2030. Dieser Zeitpunkt liegt nach der ersten 
-Evaluation des Gesetzes. Es ist sinnvoller, zunächst das gesamte Instrumentarium des Gesetzes in 
-Kraft zu setzen, bevor das Gesetz im Gesamten evaluiert wird. Daher wird der Zeitpunkt in der 
-Änderung vorverlegt. 
+Gemäß Artikel 80 Absatz 2 des Grundgesetzes bedürfen neben dem Gesetz selbst auch die im KRITIS-
+DachG-E vorgesehenen Gesetzeskonkretisierungen durch Rechtsverordnungen der Zustimmung des
+Bundesrates. Nun will der Bund hingegen jedoch den Weg beschreiten, die im KRITISDachG-E vorgesehenen 
+Rechtsverordnungen nicht zustimmungsbedürftig zu gestalten und nur das Gesetz selbst als
+zustimmungsbedürftig zu behandeln. Dabei sieht der Bund in den meisten Fällen noch nicht einmal eine Mitwirkung der 
+Länder vor. Ferner ist auch die gesetzliche Regelung einer vorrangigen Beteiligung der Länder notwendig 
+(vor Beteiligung der Wirtschaft). Dies dient sowohl der Wahrung der Länderinteressen als auch dem
+Interesse des Staates an einer effektiven Konsensherbeiführung. Bei Nichtregelung käme es zur Anwendbarkeit 
+der Gemeinsamen Geschäftsordnung und damit zu einer gleichzeitigen Beteiligung von Ländern sowie den 
+Wirtschaftsverbänden und Wissenschaftsorganisationen.  
+Nach dem vorliegenden Gesetzentwurf würde die Festlegung der kritischen Dienstleistungen und damit der 
+Anwendungsbereich des Gesetzes im Einvernehmen mit nahezu allen Bundesressorts erfolgen – unabhängig 
+davon, ob für die einzelnen kritischen Dienstleistungen Bund oder Länder zuständig sind. Die Länder wären 
+trotz Zuständigkeit nicht beteiligt (§ 4 Absatz 4 KRITISDachG-E). Ebenfalls wären die Länder an der
+Festlegung von (branchenspezifischen) Resilienzstandards und sektorübergreifenden Mindestanforderungen 
+nicht beteiligt, obwohl auch Länderbehörden die Aufgabe derer Kontrolle gegenüber den Betreibern
+wahrzunehmen haben. Gleiches gilt für die Vorgaben zu den Risikoanalysen der Betreiber. Diese müssten laut 
+Gesetzentwurf durch die Länderbehörden kontrolliert werden, während der Bund alleine diese Vorgaben 
+trifft.  
+Beim Erlass der Rechtsverordnung zu sektorübergreifenden Mindestanforderungen wären die „zuständigen 
+Behörden“ (und damit teilweise auch die Länder) zwar zumindest „zuvor anzuhören“ (§ 14 Absatz 1 KRI-
+TISDachG-E), jedoch ist nicht sichergestellt, dass die vorgebrachten Stellungnahmen tatsächlich
+Berücksichtigung finden würden. Die Verordnungskompetenz für die sektorspezifischen Mindestvorgaben gilt – je 
+nach Zuständigkeit für die jeweilige Branche – laut Gesetzentwurf sowohl für den Bund als auch für die 
+Landesregierungen (§ 14 Absatz 3 und 4 KRITISDachG-E). Diese Kompetenz besteht jedoch erst ab dem 1. 
+Januar 2030. Dieser Zeitpunkt liegt nach der ersten Evaluation des Gesetzes. Es ist sinnvoller, zunächst das 
+gesamte Instrumentarium des Gesetzes in Kraft zu setzen, bevor das Gesetz im Gesamten evaluiert wird. 
+Daher wird der Zeitpunkt in der Änderung vorverlegt.
 Rechtsverordnungen sind insbesondere vorgesehen für: 
-− die Bestimmung der kritischen Dienstleistungen, die jeweils zu den – im Gesetz abschließend 
-genannten – KRITIS-Sektoren gehören und als kDL nicht im Gesetz selbst genannt sind sowie 
-weitere kDL (§ 3 Absatz 3 und § 4 Absatz 3 KRITISDachG-E), 
-− die Festlegung der Kategorien von Anlagen und der Schwellenwerte zum Versorgungsgrad für 
-die Bestimmung der KRITIS-Betreiber (§ 11 Absatz 8 Satz 1, § 5 Absatz 1 KRITISDachG-E), 
-wobei dies auf dem im Gesetz festgelegten Regelschwellenwert basiert, 
-− methodische und inhaltliche Vorgaben für die nationalen Risikoanalysen und
-Risikobewertungen, die die zuständigen Bundes- und Landesministerien alle vier Jahre erstellen müssen (§ 11 
-Absatz 8 Satz 1 KRITISDachG-E), 
-− inhaltliche und methodische Vorgaben einschließlich Vorlagen und Muster für die
-Risikoanalysen und Risikobewertungen der KRITIS-Betreiber (§ 11 Absatz 8 Satz 1 und § 12 Absatz 3 
-KRITISDachG-E) 
-− zur Konkretisierung der Verpflichtungen zu Resilienzmaßnahmen in Form von
-sektorenübergreifenden Mindestanforderungen (§ 11 Absatz 8 Satz 1 und § 14 Absatz 1 KRITISDachG-E), 
-− die Bestimmung von sektorspezifischen Mindestvorgaben (§ 14 Absatz 3 KRITISDachG-E), 
-solange und soweit keine entsprechenden, durch die jeweilige Branche selbst erarbeiteten
-branchenspezifischen Resilienzstandards als geeignet festgestellt wurden (§ 11 Absatz 8 Satz 1 und 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-§ 14 Absatz 5 KRITISDachG-E) sowie 
+− die Bestimmung der kritischen Dienstleistungen, die jeweils zu den – im Gesetz abschließend genannten 
+– KRITIS-Sektoren gehören und als kDL nicht im Gesetz selbst genannt sind sowie weitere kDL (§ 3 
+Absatz 3 und § 4 Absatz 3 KRITISDachG-E), 
+− die Festlegung der Kategorien von Anlagen und der Schwellenwerte zum Versorgungsgrad für die
+Bestimmung der KRITIS-Betreiber (§ 11 Absatz 8 Satz 1, § 5 Absatz 1 KRITISDachG-E), wobei dies auf 
+dem im Gesetz festgelegten Regelschwellenwert basiert, 
+− methodische und inhaltliche Vorgaben für die nationalen Risikoanalysen und Risikobewertungen, die 
+die zuständigen Bundes- und Landesministerien alle vier Jahre erstellen müssen (§ 11 Absatz 8 
+Satz 1 KRITISDachG-E), 
+− inhaltliche und methodische Vorgaben einschließlich Vorlagen und Muster für die Risikoanalysen und 
+Risikobewertungen der KRITIS-Betreiber (§ 11 Absatz 8 Satz 1 und § 12 Absatz 3 KRITISDachG-E) 
+− zur Konkretisierung der Verpflichtungen zu Resilienzmaßnahmen in Form von sektorenübergreifenden 
+Mindestanforderungen (§ 11 Absatz 8 Satz 1 und § 14 Absatz 1 KRITISDachG-E), 
+− die Bestimmung von sektorspezifischen Mindestvorgaben (§ 14 Absatz 3 KRITISDachG-E), solange 
+und soweit keine entsprechenden, durch die jeweilige Branche selbst erarbeiteten branchenspezifischen 
+Resilienzstandards als geeignet festgestellt wurden (§ 11 Absatz 8 Satz 1 und § 14 Absatz 5 KRITIS-
+DachG-E) sowie 
 − die Festlegung, dass bestimmte Verpflichtungen auf Grund sonstiger öffentlich-rechtlicher
-Vorschriften, die auch für Betreiber kritischer Anlagen gelten, gleichwertig mit bestimmten
-Verpflichtungen sind, die für Betreiber kritischer Anlagen nach diesem Gesetz gelten (§ 11 Absatz 
-8 Satz 1 und § 17 Absatz 3 KRITISDachG-E). 
-Für alle diese Rechtsverordnungen ist laut Gesetzentwurf eine Zustimmung des Bundesrates explizit 
-ausgeschlossen, obwohl sich hieraus erhebliche Implikationen für behördliche Aufgaben,
-Verwaltungsabläufe und Finanzen der Länder ergeben. Der Bundesrat besteht daher auf der Statuierung des 
-Zustimmungserfordernisses bei Gebrauchmachen der Verordnungsermächtigungen für die
-gegenständlichen Rechtsverordnungen. 
-9. Zu Artikel 1 (§ 4 Absatz 1 Nummer 3 bis 5, 11 – neu –, 12 –neu –, Absatz 2 Nummer 4, 5 –neu –, 6 –neu – 
-KRITISDachG) 
+Vorschriften, die auch für Betreiber kritischer Anlagen gelten, gleichwertig mit bestimmten Verpflichtungen 
+sind, die für Betreiber kritischer Anlagen nach diesem Gesetz gelten (§ 11 Absatz 8 Satz 1 und § 17 
+Absatz 3 KRITISDachG-E). 
+Für alle diese Rechtsverordnungen ist laut Gesetzentwurf eine Zustimmung des Bundesrates explizit
+ausgeschlossen, obwohl sich hieraus erhebliche Implikationen für behördliche Aufgaben, Verwaltungsabläufe und 
+Finanzen der Länder ergeben. Der Bundesrat besteht daher auf der Statuierung des
+Zustimmungserfordernisses bei Gebrauchmachen der Verordnungsermächtigungen für die gegenständlichen Rechtsverordnungen. 
+ 
+9. Zu Artikel 1 (§ 4 Absatz 1 Nummer 3 bis 5, 11 – neu –, 12 – neu –, Absatz 2 Nummer 4, 5 – neu –, 6 – neu 
+– KRITISDachG) 
 Artikel 1 § 4 ist wie folgt zu ändern: 
 a) Absatz 1 ist wie folgt zu ändern: 
-aa) In Nummer 3 ist die Angabe „Finanzwesen“ durch die Angabe „Finanz- und Versicherungswesen“ 
-zu ersetzen. 
+aa) In Nummer 3 ist die Angabe „Finanzwesen“ durch die Angabe „Finanz- und
+Versicherungswesen“ zu ersetzen. 
 bb) In Nummer 4 ist die Angabe „Leistungen der Sozialversicherung sowie Grundsicherung für
 Arbeitsuchende“ durch die Angabe „Sozialwesen“ zu ersetzen. 
 cc) In Nummer 5 ist die Angabe „Gesundheitswesen“ durch die Angabe „Gesundheit“ zu ersetzen. 
@@ -354,217 +328,199 @@ ee) In Nummer 10 ist die Angabe „Siedlungsabfallentsorgung.“ durch die Angab
 „Siedlungsabfallentsorgung,“ zu ersetzen. 
 ff) Nach Nummer 10 sind die folgenden Nummern 11 und 12 einzufügen: 
 „11. Staat und Verwaltung sowie 
-12. Medien und Kultur.“ 
+ 12. Medien und Kultur.“ 
 b) Absatz 2 ist wie folgt zu ändern: 
 aa) In Nummer 3 ist die Angabe „und“ zu streichen. 
 bb) In Nummer 4 ist die Angabe „Leistungen der Sozialversicherung sowie Grundsicherung für
 Arbeitsuchende“ durch die Angabe „Sozialwesen“ und die Angabe „§ 12.“ durch die Angabe „§ 12 
 und“ zu ersetzen. 
 cc) Nach Nummer 4 sind die folgenden Nummern 5 und 6 einzufügen:  
-„5.  Betreiber kritischer Anlagen im Sektor Staat und Verwaltung und 
-6.  Betreiber kritischer Anlagen im Sektor Medien und Kultur.“ 
+„5. Betreiber kritischer Anlagen im Sektor Staat und Verwaltung und 
+ 6. Betreiber kritischer Anlagen im Sektor Medien und Kultur.“
 Begründung: 
-Das KRITISDachG-E zielt auf die Schaffung eines verlässlichen und belastbaren Rechtsrahmens 
-für den physischen Schutz der Kritischen Infrastruktur. Dies erfordert eine rechtssichere Definition 
-der Kritischen Infrastruktur. Unterbleibt eine solche Festlegung im KRITISDachG-E, wird dieses 
-weder seiner Bezeichnung noch der verfolgten Zielsetzung gerecht. Vor dem Hintergrund der
-Beibehaltung des Gesetzestitels (KRITISDachG-E) und Gesetzesentwurfs der Vorgängerregierung ist 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-auch das Eckpunktepapier für das KRITISDachG-E (Bundestags-Drucksache 20/5491)
-entsprechend zu beachten, welches sowohl eine umfassende KRITIS-Identifizierung als auch die
-Einbeziehung des Sektors „Kultur und Medien“ [sic] zugesagt hat.  
-Es gilt, die im Bereich der Kritischen Infrastruktur bestehende Inhomogenität aufzulösen und die 
-bereits vorhandene Nomenklatur beizubehalten. Die Bereiche der Kritischen Infrastruktur werden – 
-nicht zuletzt in der BSI-KritisV – in Sektoren, Branchen, kritische Dienstleistungen und (kritische) 
-Prozesse unterteilt. Die Sektoreneinteilung ist seit vielen Jahren zwischen Bund und Ländern
-konsentiert, ohne bisher eine normative Verankerung erfahren zu haben, die eine bundesweit
-einheitliche Handhabung ermöglicht. Die bis heute gültige Sektoreneinteilung wird durch eine auf
-Bundesebene abgestimmte Einteilung von insgesamt 29 einzelnen Branchen weiter ausdifferenziert.  
-Nur durch eine allgemeingültige Einteilung von KRITIS-Bereichen können die bestehenden
-Unsicherheiten bei der Rechtsanwendung künftig vermieden werden. Im Interesse der Rechtseinheit gilt 
-es zudem, keine anderslautenden, von etablierten Begriffsbestimmungen abweichenden
-Definitionen festzulegen. Gerade die Abstimmung und Harmonisierung mit dem Bereich der
-Informationssicherheit spricht für die hier vorgeschlagene Übernahme der KRITIS-Sektoren. 
-Die seitens der Länder bereits mehrfach artikulierte Forderung nach einer umfassenden KRITIS-
-Definition zur Klärung bestehender Unschärfen bei der Sektoren- und Branchenbezeichnung ist
-notwendig, um eine angemessene gesamtstaatliche und gesamtgesellschaftliche Resilienz
-gewährleisten zu können. Nur hierdurch kann Auslegungs- und Rechtsanwendungsschwierigkeiten wirksam 
-begegnet werden. Krisenhafte Entwicklungen der letzten Jahre wie die SARS-CoV-2-Pandemie und 
-die Diskussionen über die Energiemangellage zeigen ebenso wie die Herausforderungen zur
-Wiederherstellung der Abschreckungs- und Verteidigungsfähigkeit, dass verlässliche Grundlagen für 
-die Ausgestaltung des Schutzes Kritischer Infrastruktur nötig sind.  
-Die vorgeschlagenen Sektorenbezeichnungen sind hierfür eine wesentliche Voraussetzung. Sie 
-knüpfen überwiegend an die Festlegungen der BSI-KritisV an. Der vorgeschlagene Sektor
-„Leistungen der Sozialversicherung sowie Grundsicherung für Arbeitsuchende“ entspricht, wie § 3
-Absatz 2 Nummer 11 KRITISDachG-E zeigt, eher einer kritischen Dienstleistung. Die Aufnahme
-dieses Bereichs sollte daher unter der passenderen Sektorenbezeichnung „Sozialwesen“ erfolgen.  
-Die bisher unvollständige Sektoreneinteilung ist um die Sektoren „Staat und Verwaltung“ (Nummer 
-11) sowie „Medien und Kultur“ (Nummer 12) zu ergänzen. Vom Bund in diesem Punkt angeführte 
-kompetenzrechtliche Bedenken dringen bei Lichte besehen nicht durch. Denn der Bund hat im
-gesamtstaatlichen Gefüge die Verantwortung angemessene Rahmenbedingungen für das
-Funktionieren gesellschaftlicher Abläufe zu schaffen. Dies gilt nicht nur unter dem Blickwinkel der Wirtschaft, 
-wobei der Kompetenztitel in Artikel 74 Absatz 1 Nummer 11 des Grundgesetzes auch eine
-gefahrenabwehrrechtliche Annexkompetenz einschließt. In Anbetracht der aktuellen Herausforderungen 
-durch die in Deutschland und Europa grundlegend veränderte Sicherheitslage besteht ein
-unabweisbarer Bedarf zur normativen Ausgestaltung der Rahmenbedingungen für eine funktionierende und 
-resiliente Kritische Infrastruktur. Diese Rahmenbedingungen muss und kann der Bund nach Artikel 
-73 Absatz 1 Nummer 1 des Grundgesetzes (Verteidigung einschließlich des Schutzes der
-Zivilbevölkerung) setzen, was etwa Vorgaben zur Handlungsfähigkeit des Staates auf allen Ebenen im
-äußeren Notstand und die Normierung des Sektors „Staat und Verwaltung“ deckt. Der Sektor „Medien 
-und Kultur“ wird als KRITIS-Sektor bereits in der Entwurfsbegründung angeführt (vgl. u. a. BR-
-Drucksache 558/25, S. 39 und 50, teilweise als Sektor „Kultur und Medien“ [sic] bezeichnet). Er hat 
-in diesem Kontext ebenfalls essenzielle Bedeutung und bedarf einer bundesrechtlichen Normierung. 
-In Zeiten von Fake News und gezielten Desinformationskampagnen bedarf es der Sicherung
-verlässlicher öffentlicher und unabhängiger Informationsquellen in einer pluralistischen Gesellschaft. 
-Die Medien sind auch für die Warnung und Information der Bevölkerung sowohl im Vorfeld als 
-auch ad hoc in einer Krisenlage gleich welcher Art (Katastrophe oder äußerer Notstand)
-unentbehrlich. Die nationale Bedeutung der Kultur wird etwa an der Notwendigkeit eines wirksamen
-Kulturgüterschutzes deutlich (vgl. § 1 Absatz 2 Nummer 7, § 25 ZSKG), sodass jedenfalls kraft
-Sachzusammenhangs eine Normierung auch des Sektors „Medien und Kultur“ im Interesse einer
-gesamtstaatlich einheitlichen und verlässlichen KRITIS-Definition erfolgen kann. 
-Der Geltungsbereich des Gesetzes, wie etwa verpflichtende Resilienzmaßnahmen, muss sich dabei 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-auf die bundesrechtlich relevanten Teile beschränken und ist etwa aus kompetenzrechtlichen
-Erwägungen einer Regelung durch die Länder zu überlassen – so wie dies z. B. für den Sektor
-Siedlungsabfallwirtschaft im Gesetzentwurf bereits ausdrücklich vorgesehen ist. In Anknüpfung hieran soll in 
-§ 4 Absatz 2 Nummer 5 und 6 KRITISDachG-E für die bisher nicht erfassten Sektoren geregelt 
-werden, dass die Vorschriften des KRITISDachG-E für die Sektoren „Staat und Verwaltung“ sowie 
-„Medien und Kultur“ keine Anwendung finden. 
+Das KRITISDachG-E zielt auf die Schaffung eines verlässlichen und belastbaren Rechtsrahmens für den 
+physischen Schutz der Kritischen Infrastruktur. Dies erfordert eine rechtssichere Definition der Kritischen 
+Infrastruktur. Unterbleibt eine solche Festlegung im KRITISDachG-E, wird dieses weder seiner
+Bezeichnung noch der verfolgten Zielsetzung gerecht. Vor dem Hintergrund der Beibehaltung des Gesetzestitels 
+(KRITISDachG-E) und Gesetzesentwurfs der Vorgängerregierung ist auch das Eckpunktepapier für das 
+KRITISDachG-E (Bundestags-Drucksache 20/5491) entsprechend zu beachten, welches sowohl eine
+umfassende KRITIS-Identifizierung als auch die Einbeziehung des Sektors „Kultur und Medien“ [sic] zugesagt 
+hat.  
+Es gilt, die im Bereich der Kritischen Infrastruktur bestehende Inhomogenität aufzulösen und die bereits 
+vorhandene Nomenklatur beizubehalten. Die Bereiche der Kritischen Infrastruktur werden – nicht zuletzt in 
+der BSI-KritisV – in Sektoren, Branchen, kritische Dienstleistungen und (kritische) Prozesse unterteilt. Die 
+Sektoreneinteilung ist seit vielen Jahren zwischen Bund und Ländern konsentiert, ohne bisher eine normative 
+Verankerung erfahren zu haben, die eine bundesweit einheitliche Handhabung ermöglicht. Die bis heute 
+gültige Sektoreneinteilung wird durch eine auf Bundesebene abgestimmte Einteilung von insgesamt 29
+einzelnen Branchen weiter ausdifferenziert.  
+Nur durch eine allgemeingültige Einteilung von KRITIS-Bereichen können die bestehenden Unsicherheiten 
+bei der Rechtsanwendung künftig vermieden werden. Im Interesse der Rechtseinheit gilt es zudem, keine 
+anderslautenden, von etablierten Begriffsbestimmungen abweichenden Definitionen festzulegen. Gerade die 
+Abstimmung und Harmonisierung mit dem Bereich der Informationssicherheit spricht für die hier
+vorgeschlagene Übernahme der KRITIS-Sektoren. 
+Die seitens der Länder bereits mehrfach artikulierte Forderung nach einer umfassenden KRITIS-Definition 
+zur Klärung bestehender Unschärfen bei der Sektoren- und Branchenbezeichnung ist notwendig, um eine 
+angemessene gesamtstaatliche und gesamtgesellschaftliche Resilienz gewährleisten zu können. Nur
+hierdurch kann Auslegungs- und Rechtsanwendungsschwierigkeiten wirksam begegnet werden. Krisenhafte 
+Entwicklungen der letzten Jahre wie die SARS-CoV-2-Pandemie und die Diskussionen über die
+Energiemangellage zeigen ebenso wie die Herausforderungen zur Wiederherstellung der Abschreckungs- und
+Verteidigungsfähigkeit, dass verlässliche Grundlagen für die Ausgestaltung des Schutzes Kritischer
+Infrastruktur nötig sind.  
+Die vorgeschlagenen Sektorenbezeichnungen sind hierfür eine wesentliche Voraussetzung. Sie knüpfen 
+überwiegend an die Festlegungen der BSI-KritisV an. Der vorgeschlagene Sektor „Leistungen der
+Sozialversicherung sowie Grundsicherung für Arbeitsuchende“ entspricht, wie § 3 Absatz 2 Nummer 11 KRITIS-
+DachG-E zeigt, eher einer kritischen Dienstleistung. Die Aufnahme dieses Bereichs sollte daher unter der 
+passenderen Sektorenbezeichnung „Sozialwesen“ erfolgen.  
+Die bisher unvollständige Sektoreneinteilung ist um die Sektoren „Staat und Verwaltung“ (Nummer 11)
+sowie „Medien und Kultur“ (Nummer 12) zu ergänzen. Vom Bund in diesem Punkt angeführte
+kompetenzrechtliche Bedenken dringen bei Lichte besehen nicht durch. Denn der Bund hat im gesamtstaatlichen
+Gefüge die Verantwortung angemessene Rahmenbedingungen für das Funktionieren gesellschaftlicher Abläufe 
+zu schaffen. Dies gilt nicht nur unter dem Blickwinkel der Wirtschaft, wobei der Kompetenztitel in Artikel 
+74 Absatz 1 Nummer 11 des Grundgesetzes auch eine gefahrenabwehrrechtliche Annexkompetenz
+einschließt. In Anbetracht der aktuellen Herausforderungen durch die in Deutschland und Europa grundlegend 
+veränderte Sicherheitslage besteht ein unabweisbarer Bedarf zur normativen Ausgestaltung der
+Rahmenbedingungen für eine funktionierende und resiliente Kritische Infrastruktur. Diese Rahmenbedingungen muss 
+und kann der Bund nach Artikel 73 Absatz 1 Nummer 1 des Grundgesetzes (Verteidigung einschließlich des 
+Schutzes der Zivilbevölkerung) setzen, was etwa Vorgaben zur Handlungsfähigkeit des Staates auf allen 
+Ebenen im äußeren Notstand und die Normierung des Sektors „Staat und Verwaltung“ deckt. Der Sektor 
+„Medien und Kultur“ wird als KRITIS-Sektor bereits in der Entwurfsbegründung angeführt (vgl. u. a. BR-
+Drucksache 558/25, S. 39 und 50, teilweise als Sektor „Kultur und Medien“ [sic] bezeichnet). Er hat in 
+diesem Kontext ebenfalls essenzielle Bedeutung und bedarf einer bundesrechtlichen Normierung. In Zeiten 
+von Fake News und gezielten Desinformationskampagnen bedarf es der Sicherung verlässlicher öffentlicher 
+und unabhängiger Informationsquellen in einer pluralistischen Gesellschaft. Die Medien sind auch für die 
+Warnung und Information der Bevölkerung sowohl im Vorfeld als auch ad hoc in einer Krisenlage gleich 
+welcher Art (Katastrophe oder äußerer Notstand) unentbehrlich. Die nationale Bedeutung der Kultur wird 
+etwa an der Notwendigkeit eines wirksamen Kulturgüterschutzes deutlich (vgl. § 1 Absatz 2 Nummer 7,
+§ 25 ZSKG), sodass jedenfalls kraft Sachzusammenhangs eine Normierung auch des Sektors „Medien und 
+Kultur“ im Interesse einer gesamtstaatlich einheitlichen und verlässlichen KRITIS-Definition erfolgen kann. 
+Der Geltungsbereich des Gesetzes, wie etwa verpflichtende Resilienzmaßnahmen, muss sich dabei auf die 
+bundesrechtlich relevanten Teile beschränken und ist etwa aus kompetenzrechtlichen Erwägungen einer
+Regelung durch die Länder zu überlassen – so wie dies z. B. für den Sektor Siedlungsabfallwirtschaft im
+Gesetzentwurf bereits ausdrücklich vorgesehen ist. In Anknüpfung hieran soll in § 4 Absatz 2 Nummer 5 und 
+6 KRITISDachG-E für die bisher nicht erfassten Sektoren geregelt werden, dass die Vorschriften des KRI-
+TISDachG-E für die Sektoren „Staat und Verwaltung“ sowie „Medien und Kultur“ keine Anwendung finden. 
+ 
 10. Zu Artikel 1 (§ 4 Absatz 2 Nummer 1 KRITISDachG) 
 Der Bundesrat bittet, im weiteren Gesetzgebungsverfahren zu prüfen, inwieweit Betreiber kritischer
 Anlagen, soweit sie eine Anlage für Unternehmen nach § 4 Absatz 2 Nummer 1 betreiben, selbst von den
 Anforderungen der §§ 12 und 18 ausgenommen werden können. 
 Begründung: 
-§ 4 Absatz 2 Nummer 1 KRITISDachG-E löst ein Konkurrenzverhältnis für Pflichten aus der
-Verordnung (EU) 2022/2554 (DORA-VO) und dem KRITISDachG-E im Bereich Finanzwesen
-dahingehend auf, dass die Pflichten aus der DORA-VO als lex specialis eingestuft werden und betroffene 
-Bestimmungen des KRITISDachG-E dahinter zurücktreten. 
-Durch die besondere Begriffsbestimmung für den „Betreiber kritischer Anlagen“ im Finanzwesen 
-ergibt sich jedoch eine Unschärfe für diese Konkurrenzregelung, die zu nicht erforderlichen
-Doppelpflichten führen kann. Es sollte geprüft werden, ob und inwieweit diese Doppelung durch eine 
-Anpassung des § 4 Absatz 2 Nummer 1 KRITISDachG-E vermieden werden kann. 
-§ 2 Nummer 1 Halbsatz 2 KRITISDachG-E regelt, dass im Sinne des Gesetzes im Sektor
-Finanzwesen bestimmenden Einfluss auf eine kritische Anlage hat, wer die tatsächliche Sachherrschaft 
-ausübt. Davon sind im Wesentlichen Betreiber von Rechenzentren für Finanzunternehmen erfasst. 
-Betreiber derartiger Anlagen können Unternehmen sein, die selbst nicht den Vorgaben der DORA-
-VO unterliegen, so dass die Konkurrenzregelung nach § 4 Absatz 2 Nummer 1 KRITISDachG-E 
-für sie nicht greift. Sie betreiben jedoch Anlagen für Unternehmen, die ihrerseits der DORA-VO 
-unterliegen. 
+§ 4 Absatz 2 Nummer 1 KRITISDachG-E löst ein Konkurrenzverhältnis für Pflichten aus der Verordnung 
+(EU) 2022/2554 (DORA-VO) und dem KRITISDachG-E im Bereich Finanzwesen dahingehend auf, dass 
+die Pflichten aus der DORA-VO als lex specialis eingestuft werden und betroffene Bestimmungen des KRI-
+TISDachG-E dahinter zurücktreten. 
+Durch die besondere Begriffsbestimmung für den „Betreiber kritischer Anlagen“ im Finanzwesen ergibt sich 
+jedoch eine Unschärfe für diese Konkurrenzregelung, die zu nicht erforderlichen Doppelpflichten führen 
+kann. Es sollte geprüft werden, ob und inwieweit diese Doppelung durch eine Anpassung des § 4 Absatz 2 
+Nummer 1 KRITISDachG-E vermieden werden kann. 
+§ 2 Nummer 1 Halbsatz 2 KRITISDachG-E regelt, dass im Sinne des Gesetzes im Sektor Finanzwesen
+bestimmenden Einfluss auf eine kritische Anlage hat, wer die tatsächliche Sachherrschaft ausübt. Davon sind 
+im Wesentlichen Betreiber von Rechenzentren für Finanzunternehmen erfasst. Betreiber derartiger Anlagen 
+können Unternehmen sein, die selbst nicht den Vorgaben der DORA-VO unterliegen, so dass die
+Konkurrenzregelung nach § 4 Absatz 2 Nummer 1 KRITISDachG-E für sie nicht greift. Sie betreiben jedoch
+Anlagen für Unternehmen, die ihrerseits der DORA-VO unterliegen. 
 Bezogen auf § 18 KRITISDachG-E bedeutet dies: Meldungen schwerwiegender IKT- oder
-zahlungsbezogener Vorfälle erfolgen auch in dieser Konstellation gemäß DORA-VO entweder
-aggregiert über das Unternehmen, das die Anlagen für eines oder mehrere Unternehmen nach § 4 Absatz 
-2 Nummer 1 KRITISDachG-E betreibt, oder durch die betroffenen Unternehmen nach § 4 Absatz 2 
-Nummer 1 KRITISDachG-E selbst. Gemeldet wird an die Bundesanstalt für
-Finanzdienstleistungsaufsicht, von dort gelangen die erforderlichen Informationen bereits an die beim BSI eingerichtete 
-Meldestelle. Mit der zusätzlichen Meldung gemäß § 18 KRITISDachG-E an das BBK käme es
-insofern zu doppelten Meldepflichten. 
-Auch die Risikoanalyse und Risikobewertung des Betreibers kritischer Anlagen nach § 12 
-KRITISDachG-E erfolgen im Falle eines Betriebs einer kritischen Anlage für ein anderes
-Unternehmen nach § 4 Absatz 2 Nummer 1 KRITISDachG-E über die DORA-VO. Auch insoweit käme es 
-nach KRITISDachG-E zu doppelten Pflichten. 
+zahlungsbezogener Vorfälle erfolgen auch in dieser Konstellation gemäß DORA-VO entweder aggregiert über das
+Unternehmen, das die Anlagen für eines oder mehrere Unternehmen nach § 4 Absatz 2 Nummer 1 KRITISDachG-
+E betreibt, oder durch die betroffenen Unternehmen nach § 4 Absatz 2 Nummer 1 KRITISDachG-E selbst. 
+Gemeldet wird an die Bundesanstalt für Finanzdienstleistungsaufsicht, von dort gelangen die erforderlichen 
+Informationen bereits an die beim BSI eingerichtete Meldestelle. Mit der zusätzlichen Meldung gemäß § 18 
+KRITISDachG-E an das BBK käme es insofern zu doppelten Meldepflichten. 
+Auch die Risikoanalyse und Risikobewertung des Betreibers kritischer Anlagen nach § 12 KRITISDachG-
+E erfolgen im Falle eines Betriebs einer kritischen Anlage für ein anderes Unternehmen nach § 4 Absatz 2 
+Nummer 1 KRITISDachG-E über die DORA-VO. Auch insoweit käme es nach KRITISDachG-E zu
+doppelten Pflichten. 
+ 
 11. Zu Artikel 1 (§ 5 Absatz 2 Satz 2 KRITISDachG)  
 In Artikel 1 § 5 Absatz 2 Satz 2 ist die Angabe „500 000“ durch die Angabe „150 000“ zu ersetzen. 
 Begründung: 
-Das KRITISDachG-E sieht einen sogenannten Regelschwellenwert von 500 000 versorgten
-Einwohnern vor, den eine KRITIS-Anlage überschreiten muss, bevor der entsprechende Betreiber
-überhaupt den Anforderungen des KRITISDachG-E unterliegt. Dies führt in der Praxis dazu, dass nur 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-besonders große Unternehmen, von denen im Allgemeinen anzunehmen ist, dass diese im Risiko- 
-und Krisenmanagement ohnehin bereits besser aufgestellt sind als ihre kleineren Pendants,
-entsprechende Maßnahmen gemäß dem Gesetzentwurf ergreifen müssen. Für die versorgte Bevölkerung 
-und die von KRITIS abhängigen anderen KRITIS und sonstigen Wirtschaftsbereiche ist es jedoch 
-unerheblich, ob sie von einem großen oder kleinen Versorger versorgt werden. Die Mehrheit der 
-Bevölkerung in Deutschland wird von KRITIS-Betreibern versorgt, die unterhalb des
-Schwellenwerts liegen, sodass das KRITISDachG-E im Tatsächlichen nur eine punktuelle, jedoch keine
-flächendeckende Verbesserung des Schutz- und Versorgungsniveaus mit sich bringen wird. 
-Am Schutzfeld IT-Sicherheit, für das bereits entsprechende Erfahrungen vorliegen, zeigt sich, dass 
-seit Ersteinführung desselben Schwellenwerts im Jahr 2015 bis heute immer wieder Ergänzungen 
-des Anwendungsbereichs notwendig wurden (Hinzunahme weiterer Unternehmensklassen,
-wichtiger Einrichtungen, besonders wichtiger Einrichtungen).  
-Der Schwellenwert von 500 000 versorgten Einwohnern basiert auf der (im Jahr 2015 vom Bund 
-getroffenen) Annahme, dass diese Personenzahl bei einem Ausfall einer KRITIS mit Mitteln des 
-Katastrophenschutzes (KatS) versorgt werden könne. Dies wurde jedoch nie empirisch bewiesen. 
-Auch wurde die damalige Annahme nur auf die Strom- und Wasserversorgung bezogen und der 
-Bund ging fehlerhaft pauschal davon aus, dass entsprechende KatS-Kapazitäten für alle KRITIS-
-Bereiche bestünden, obwohl für viele Bereiche, wie bspw. der Bargeldversorgung, bei
-Versicherungen, im Verkehrswesen und der Logistik, überhaupt keine Notversorgungsmöglichkeiten (des KatS) 
-vorhanden sind (folglich müsste der KRITIS-Schwellenwert hier bei null liegen). Abgesehen davon, 
-dass der Bund hier mit Mitteln des KatS der Länder, die für den KatS zuständig sind, plant, kann 
-keinesfalls davon ausgegangen werden, dass die Folgen ausgefallener KRITIS mit KatS-Ausstattung 
-kompensiert werden könnten. Zwar werden Notstromaggregate im KatS oder auch
-Trinkwasseraufbereitungsanlagen beim THW vorgehalten, jedoch kann hiermit ein regulärer KRITIS-Betrieb nicht 
-ersetzt werden. Würde man sich dennoch zur Festlegung eines KRITIS-Schwellenwerts an der
+Das KRITISDachG-E sieht einen sogenannten Regelschwellenwert von 500 000 versorgten Einwohnern vor, 
+den eine KRITIS-Anlage überschreiten muss, bevor der entsprechende Betreiber überhaupt den
+Anforderungen des KRITISDachG-E unterliegt. Dies führt in der Praxis dazu, dass nur besonders große Unternehmen, 
+von denen im Allgemeinen anzunehmen ist, dass diese im Risiko- und Krisenmanagement ohnehin bereits 
+besser aufgestellt sind als ihre kleineren Pendants, entsprechende Maßnahmen gemäß dem Gesetzentwurf 
+ergreifen müssen. Für die versorgte Bevölkerung und die von KRITIS abhängigen anderen KRITIS und 
+sonstigen Wirtschaftsbereiche ist es jedoch unerheblich, ob sie von einem großen oder kleinen Versorger
+versorgt werden. Die Mehrheit der Bevölkerung in Deutschland wird von KRITIS-Betreibern versorgt, die 
+unterhalb des Schwellenwerts liegen, sodass das KRITISDachG-E im Tatsächlichen nur eine punktuelle, 
+jedoch keine flächendeckende Verbesserung des Schutz- und Versorgungsniveaus mit sich bringen wird. 
+Am Schutzfeld IT-Sicherheit, für das bereits entsprechende Erfahrungen vorliegen, zeigt sich, dass seit
+Ersteinführung desselben Schwellenwerts im Jahr 2015 bis heute immer wieder Ergänzungen des
+Anwendungsbereichs notwendig wurden (Hinzunahme weiterer Unternehmensklassen, wichtiger Einrichtungen,
+besonders wichtiger Einrichtungen).  
+Der Schwellenwert von 500 000 versorgten Einwohnern basiert auf der (im Jahr 2015 vom Bund
+getroffenen) Annahme, dass diese Personenzahl bei einem Ausfall einer KRITIS mit Mitteln des
+Katastrophenschutzes (KatS) versorgt werden könne. Dies wurde jedoch nie empirisch bewiesen. Auch wurde die damalige 
+Annahme nur auf die Strom- und Wasserversorgung bezogen und der Bund ging fehlerhaft pauschal davon 
+aus, dass entsprechende KatS-Kapazitäten für alle KRITIS-Bereiche bestünden, obwohl für viele Bereiche, 
+wie bspw. der Bargeldversorgung, bei Versicherungen, im Verkehrswesen und der Logistik, überhaupt keine 
+Notversorgungsmöglichkeiten (des KatS) vorhanden sind (folglich müsste der KRITIS-Schwellenwert hier 
+bei null liegen). Abgesehen davon, dass der Bund hier mit Mitteln des KatS der Länder, die für den KatS 
+zuständig sind, plant, kann keinesfalls davon ausgegangen werden, dass die Folgen ausgefallener KRITIS 
+mit KatS-Ausstattung kompensiert werden könnten. Zwar werden Notstromaggregate im KatS oder auch 
+Trinkwasseraufbereitungsanlagen beim THW vorgehalten, jedoch kann hiermit ein regulärer KRITIS-
+Betrieb nicht ersetzt werden. Würde man sich dennoch zur Festlegung eines KRITIS-Schwellenwerts an der 
 Leistungsfähigkeit des KatS orientieren, so müsste diese neu bewertet werden (seit 2015 dürfte sich die 
 Ausstattung des KatS verändert haben). 
-Insbesondere aus Ländersicht ist entscheidend, dass ein KRITISDachG-E den aktuellen Bedarf an 
-die Sicherheit der Kritischen Infrastruktur aufgreift, dabei die Resilienz im Gros der in den Ländern 
-bedeutsamen KRITIS steigert und nicht nur auf einzelne nationale „Big Player“ abzielt. Auf den 
-Erkenntnissen der IT-Sicherheitsgesetzgebung aufbauend könnte und muss nunmehr unmittelbar 
-von Beginn an ein hinreichender Anwendungsbereich geschaffen werden; die bloße und ungeprüfte 
-Übernahme der bisherigen Systematik, wie sie im BSIG bzw. der bestehenden BSI-KritisV
-verankert ist (500 000 zu versorgenden Personen), ist nicht ausreichend, um dem tatsächlichen
-Schutzbedarf gerecht zu werden. So wären in den Ländern in bestimmten KRITIS-Bereichen, wie
-Wasserversorgung und Krankenhäuser, erfahrungsgemäß jeweils nur ein Bruchteil der für die
-flächendeckende Versorgung relevanten Anlagen – meist nicht mehr als fünf Anlagen pro Land – umfasst.  
-Für den o. a. geänderten Regelschwellenwert von 150 000 zu versorgenden Personen wurde der 
-Ansatz der Objekterfassungsrichtlinie des Bundes (Richtlinien für die Identifizierung, Einstufung 
-und Erfassung schutzbedürftiger ziviler Objekte) (VS-nfD) zugrunde gelegt, in der auch die
-Identifizierung von Einrichtungen und Anlagen Kritischer Infrastruktur geregelt ist. Nähere Erläuterungen 
-zur angewandten Methodik können aufgrund der Geheimschutz-Einstufung der
-Objekterfassungsrichtlinie an dieser Stelle nicht erfolgen, jedoch in der weiteren Abstimmung dargelegt werden. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Insbesondere aus Ländersicht ist entscheidend, dass ein KRITISDachG-E den aktuellen Bedarf an die
+Sicherheit der Kritischen Infrastruktur aufgreift, dabei die Resilienz im Gros der in den Ländern bedeutsamen 
+KRITIS steigert und nicht nur auf einzelne nationale „Big Player“ abzielt. Auf den Erkenntnissen der IT-
+Sicherheitsgesetzgebung aufbauend könnte und muss nunmehr unmittelbar von Beginn an ein hinreichender 
+Anwendungsbereich geschaffen werden; die bloße und ungeprüfte Übernahme der bisherigen Systematik, 
+wie sie im BSIG bzw. der bestehenden BSI-KritisV verankert ist (500 000 zu versorgenden Personen), ist 
+nicht ausreichend, um dem tatsächlichen Schutzbedarf gerecht zu werden. So wären in den Ländern in
+bestimmten KRITIS-Bereichen, wie Wasserversorgung und Krankenhäuser, erfahrungsgemäß jeweils nur ein 
+Bruchteil der für die flächendeckende Versorgung relevanten Anlagen – meist nicht mehr als fünf Anlagen 
+pro Land – umfasst.  
+Für den o. a. geänderten Regelschwellenwert von 150 000 zu versorgenden Personen wurde der Ansatz der 
+Objekterfassungsrichtlinie des Bundes (Richtlinien für die Identifizierung, Einstufung und Erfassung
+schutzbedürftiger ziviler Objekte) (VS-nfD) zugrunde gelegt, in der auch die Identifizierung von Einrichtungen 
+und Anlagen Kritischer Infrastruktur geregelt ist. Nähere Erläuterungen zur angewandten Methodik können 
+aufgrund der Geheimschutz-Einstufung der Objekterfassungsrichtlinie an dieser Stelle nicht erfolgen, jedoch 
+in der weiteren Abstimmung dargelegt werden. 
+ 
 12. Zu Artikel 1 (§ 5 Absatz 4 Satz 2 und Satz 3 KRITISDachG) 
 Artikel 1 § 5 Absatz 4 ist wie folgt zu ändern: 
 a) In Satz 2 ist die Angabe „Bundesministerium“ durch die Angabe „Bundes- oder Landesministerium“ 
 zu ersetzen. 
 b) Satz 3 ist zu streichen. 
 Begründung: 
-Aus den Regelungen des KRITISDachG-E ergibt sich eine unmittelbare Betroffenheit der Länder. 
-Sind Angelegenheiten der Länder berührt, so sind diese einvernehmlich an zu treffenden
-Entscheidungen zu beteiligen. 
+Aus den Regelungen des KRITISDachG-E ergibt sich eine unmittelbare Betroffenheit der Länder. Sind
+Angelegenheiten der Länder berührt, so sind diese einvernehmlich an zu treffenden Entscheidungen zu
+beteiligen. 
+ 
 13. Zu Artikel 1 (§ 8 Absatz 3 KRITISDachG) 
 Der Bundesrat bittet, im weiteren Gesetzgebungsverfahren das Verfahren zur Registrierung kritischer
-Anlagen von Amts wegen (§ 8 Absatz 3 KRITISDachG-E) zu überprüfen. 
+Anlagen von Amts wegen (§ 8 Absatz 3 KRITISDachG-E) zu überprüfen.
 Begründung 
-Nach § 8 Absatz 3 Satz 1 KRITISDachG-E kann das BBK die Registrierung einer kritischen Anlage 
-nach Anhörung des Betreibers selbst vornehmen, wenn der Betreiber seiner Pflicht zur Registrierung 
-nicht nachkommt. Für die Registrierung werden die in § 8 Absatz 1 KRITISDachG-E genannten 
-Informationen benötigt. Es erscheint nicht sicher, dass dem BBK die für eine Registrierung von 
-Amts wegen erforderlichen Informationen in jedem Fall zur Verfügung stehen werden. Zu beachten 
-ist, dass sich die Verpflichtung zur Verfügungstellung von Informationen potentieller Betreiber
-kritischer Anlagen nach § 8 Absatz 2 KRITISDachG-E lediglich auf die für die Beurteilung, ob die 
-Anlage kritisch ist, erforderlichen Unterlagen und Auskünfte beschränkt. Aus § 8 Absatz 2 KRITIS-
-DachG-E würde sich z. B. keine Verpflichtung des potentiellen Betreibers einer kritischen Anlage 
-ergeben, eine Kontaktstelle (§ 8 Absatz 1 Nummer 6 KRITISDachG-E) mitzuteilen. Das Verfahren, 
-mit dem eine amtswegige Registrierung vorgenommen werden kann, sollte im Hinblick auf
-Anpassungs- und Ergänzungsbedarf kritisch überprüft werden. 
-In diesem Zusammenhang sollten auch die in § 8 Absatz 3 Satz 2 KRITISDachG-E enthaltenen 
-Einvernehmens- bzw. Benehmenserfordernisse hinterfragt werden. Schon von vornherein drängt 
-sich nicht auf, warum es im Falle der Registrierung von Amts wegen der Abstimmung mit weiteren 
-Behörden – BSI und der zuständigen Behörde des Bundes oder des Landes – bedarf. Für den Fall 
-der Registrierung durch den Betreiber nach § 8 Absatz 1 KRITISDachG-E ist nach § 8 Absatz 5 
-Satz 2 KRITISDachG-E nur eine Information des BBK an das BSI über die Registrierung
-vorgesehen. 
+Nach § 8 Absatz 3 Satz 1 KRITISDachG-E kann das BBK die Registrierung einer kritischen Anlage nach 
+Anhörung des Betreibers selbst vornehmen, wenn der Betreiber seiner Pflicht zur Registrierung nicht
+nachkommt. Für die Registrierung werden die in § 8 Absatz 1 KRITISDachG-E genannten Informationen
+benötigt. Es erscheint nicht sicher, dass dem BBK die für eine Registrierung von Amts wegen erforderlichen 
+Informationen in jedem Fall zur Verfügung stehen werden. Zu beachten ist, dass sich die Verpflichtung zur 
+Verfügungstellung von Informationen potentieller Betreiber kritischer Anlagen nach § 8 Absatz 2 KRITIS-
+DachG-E lediglich auf die für die Beurteilung, ob die Anlage kritisch ist, erforderlichen Unterlagen und 
+Auskünfte beschränkt. Aus § 8 Absatz 2 KRITISDachG-E würde sich z. B. keine Verpflichtung des
+potentiellen Betreibers einer kritischen Anlage ergeben, eine Kontaktstelle (§ 8 Absatz 1 Nummer 6 KRITIS-
+DachG-E) mitzuteilen. Das Verfahren, mit dem eine amtswegige Registrierung vorgenommen werden kann, 
+sollte im Hinblick auf Anpassungs- und Ergänzungsbedarf kritisch überprüft werden. 
+In diesem Zusammenhang sollten auch die in § 8 Absatz 3 Satz 2 KRITISDachG-E enthaltenen
+Einvernehmens- bzw. Benehmenserfordernisse hinterfragt werden. Schon von vornherein drängt sich nicht auf, warum 
+es im Falle der Registrierung von Amts wegen der Abstimmung mit weiteren Behörden – BSI und der
+zuständigen Behörde des Bundes oder des Landes – bedarf. Für den Fall der Registrierung durch den Betreiber 
+nach § 8 Absatz 1 KRITISDachG-E ist nach § 8 Absatz 5 Satz 2 KRITISDachG-E nur eine Information des 
+BBK an das BSI über die Registrierung vorgesehen. 
+ 
 14. Zu Artikel 1 (§ 8 Absatz 3 Satz 2 KRITISDachG) 
 Artikel 1 § 8 Absatz 3 Satz 2 ist durch den folgenden Satz zu ersetzen:  
 „Die Vornahme der Registrierung bedarf des Einvernehmens des Bundesamtes für Sicherheit in der
 Informationstechnik und, falls die zu ständige Behörde eine Behörde des Bundes oder eines Landes ist, ihres 
 Einvernehmens.“ 
 Begründung: 
-Aus den Regelungen des KRITISDachG-E ergibt sich eine unmittelbare Betroffenheit der Länder. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-Sind Angelegenheiten der Länder berührt, so sind diese einvernehmlich an zu treffenden
-Entscheidungen zu beteiligen. 
+Aus den Regelungen des KRITISDachG-E ergibt sich eine unmittelbare Betroffenheit der Länder. Sind
+Angelegenheiten der Länder berührt, so sind diese einvernehmlich an zu treffenden Entscheidungen zu
+beteiligen. 
+ 
 15. Zu Artikel 1 (§ 8 Absatz 5 Satz 2, Absatz 6 Satz 2, § 18 Absatz 3 Satz 1, Absatz 7 KRITISDachG) 
 Artikel 1 ist wie folgt zu ändern: 
 a) In § 8 Absatz 5 Satz 2 und Absatz 6 Satz 2 ist jeweils nach der Angabe „Behörde“ die Angabe „, die 
@@ -575,131 +531,119 @@ b) § 18 ist wie folgt zu ändern:
 aa) In Absatz 3 Satz 1 ist nach der Angabe „Informationstechnik“ die Angabe „und den Behörden 
 nach § 3 Absatz 5“ einzufügen. 
 bb) Absatz 7 ist durch den folgenden Absatz 7 zu ersetzen: 
-„(7) Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe stellt den zuständigen 
-Behörden nach § 3 Absatz 5 und 6, zusätzlich, wenn die zuständige Behörde für die Aufgaben 
-nach diesem Gesetz eine Bundesbehörde ist, den in den Ländern fachlich zuständigen Behörden 
-sowie den nach § 11 Absatz 1 zuständigen Stellen unverzüglich die bei ihm eingegangenen
-Meldungen zur Verfügung und übermittelt diesen, halbjährlich Auswertungen zu Meldungen von
-Vorfällen.  
+„(7) Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe stellt den
+zuständigen Behörden nach § 3 Absatz 5 und 6, zusätzlich, wenn die zuständige Behörde für die
+Aufgaben nach diesem Gesetz eine Bundesbehörde ist, den in den Ländern fachlich zuständigen
+Behörden sowie den nach § 11 Absatz 1 zuständigen Stellen unverzüglich die bei ihm
+eingegangenen Meldungen zur Verfügung und übermittelt diesen, halbjährlich Auswertungen zu Meldungen 
+von Vorfällen.  
 Begründung:  
-Für das Meldewesen ist vorgesehen, dass BSI und BBK eine gemeinsame Meldestelle einrichten, 
-an die die Betreiber kritischer Anlagen im Sinne des Gesetzes Vorfälle zu melden haben. Während 
-im Bereich der IT-Sicherheit durch das Gesetz zur Umsetzung der NIS-2-Richtlinie und zur
-Regelung wesentlicher Grundzüge des Informationssicherheitsmanagements in der Bundesverwaltung 
-vorgesehen ist, dass das BSI wenigstens den zuständigen Aufsichtsbehörden des Bundes die bei ihm 
-eingegangenen Meldungen unverzüglich zur Verfügung stellt, sieht das KRITISDachG-E lediglich 
-eine Übermittlung von „Auswertungen zu Meldungen von Vorfällen“ an die zuständigen Behörden 
-vor – und dies ohne einen konkreten Zeitraum zu nennen. In dieser Form dient das vorgesehene 
-Meldewesen rein statistischen Zwecken und ist nicht für die Bewältigung von Vorfällen tauglich.  
-Die Länder sind in akuten Störsituationen vom Informationsfluss abgeschnitten, obwohl hier
-wesentliche Aufgaben des Krisenmanagements und der Bewältigung von Vorfällen wahrgenommen 
-werden. Die in den Ländern zuständigen Behörden können nur dann frühzeitig Folgen von
-Ereignissen abschätzen und zielgerichtet Bewältigungsmaßnahmen ergreifen, wenn sie zeitnah über
-eingetretene Ereignisse informiert werden. Es ist völlig unverständlich, warum die beim Bund
-vorliegenden Erkenntnisse über Vorfälle nicht sofort im Sinne des behördenübergreifenden Austauschs 
-an die zuständigen Behörden in den Ländern weitergegeben werden sollen, zumal ein „Vorfall“ im 
-Sinne des Gesetzes per Definition ohnehin bereits eine bestimmte Eskalationsstufe erreicht haben 
-muss („ein Ereignis, das die Erbringung einer kritischen Dienstleistung erheblich beeinträchtigt oder 
-beeinträchtigen könnte“). Dies entspricht nicht der in der Nationalen Sicherheitsstrategie
-festgelegten Zielsetzung, mit dem Dachgesetz einen gesetzlichen Rahmen zu schaffen, der „die
+Für das Meldewesen ist vorgesehen, dass BSI und BBK eine gemeinsame Meldestelle einrichten, an die die 
+Betreiber kritischer Anlagen im Sinne des Gesetzes Vorfälle zu melden haben. Während im Bereich der IT-
+Sicherheit durch das Gesetz zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge
+des Informationssicherheitsmanagements in der Bundesverwaltung vorgesehen ist, dass das BSI wenigstens 
+den zuständigen Aufsichtsbehörden des Bundes die bei ihm eingegangenen Meldungen unverzüglich zur 
+Verfügung stellt, sieht das KRITISDachG-E lediglich eine Übermittlung von „Auswertungen zu Meldungen 
+von Vorfällen“ an die zuständigen Behörden vor – und dies ohne einen konkreten Zeitraum zu nennen. In 
+dieser Form dient das vorgesehene Meldewesen rein statistischen Zwecken und ist nicht für die Bewältigung 
+von Vorfällen tauglich.  
+Die Länder sind in akuten Störsituationen vom Informationsfluss abgeschnitten, obwohl hier wesentliche 
+Aufgaben des Krisenmanagements und der Bewältigung von Vorfällen wahrgenommen werden. Die in den 
+Ländern zuständigen Behörden können nur dann frühzeitig Folgen von Ereignissen abschätzen und
+zielgerichtet Bewältigungsmaßnahmen ergreifen, wenn sie zeitnah über eingetretene Ereignisse informiert werden. 
+Es ist völlig unverständlich, warum die beim Bund vorliegenden Erkenntnisse über Vorfälle nicht sofort im 
+Sinne des behördenübergreifenden Austauschs an die zuständigen Behörden in den Ländern weitergegeben 
+werden sollen, zumal ein „Vorfall“ im Sinne des Gesetzes per Definition ohnehin bereits eine bestimmte 
+Eskalationsstufe erreicht haben muss („ein Ereignis, das die Erbringung einer kritischen Dienstleistung
+erheblich beeinträchtigt oder beeinträchtigen könnte“). Dies entspricht nicht der in der Nationalen
+Sicherheitsstrategie festgelegten Zielsetzung, mit dem Dachgesetz einen gesetzlichen Rahmen zu schaffen, der „die 
 Zusammenarbeit zwischen Bundes- und Landesebene […] verbessert“ (vgl. BR-Drucksache 558/25, S. 36).  
-Insbesondere in der aktuellen Sicherheitslage ist es entscheidend, ein Monitoring der
-Funktionsfähigkeit der KRITIS und eingetretener Störungen engmaschig und stets aktuell durchzuführen.
-Hierbei hilft die Übermittlung generischer Auswertungen von Vorfallsmeldungen (wie sie im
-Gesetzentwurf lediglich vorgesehen ist) nicht weiter. Die Erfahrungen mit den Regelungen im Bereich der 
-IT-Sicherheit (IT-SiG seit 2015) haben gezeigt, dass für die außergesetzliche Organisation eines 
-Informationsaustauschs über Meldungen zwischen Bund und Ländern u. a. eine Rechtsgrundlage 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-fehlt. Dieser Fehler darf sich nicht wiederholen; das KRITISDachG-E muss die
-Meldungsweitergabe von Anfang an verbindlich vorsehen und damit legalisieren. Zudem sollte ein Zeitraum für die 
-Auswertungen zu Meldungen von Vorfällen festgelegt werden – halbjährliche Berichte (gemäß dem 
-Änderungsvorschlag) scheinen hier ein gutes Mittelmaß zwischen einem engen Monitoring, das 
-auch das rechtzeitige Erkennen von Trendentwicklungen ermöglicht, und dem hierfür entstehenden 
-administrativen Aufwand beim Bund zu bilden.  
-Die unzureichende Berücksichtigung der Länder setzt bereits bei der Ausgestaltung des
-Meldeverfahrens an, welches keine verbindliche Mitwirkungsmöglichkeit für diese vorsieht. § 18 Absatz 3 
-KRITISDachG-E ermächtigt das BKK zur Ausgestaltung der Einzelheiten des Meldewesens,
-verlangt jedoch ausschließlich das Einvernehmen des BSI. Dieser Absatz soll dahingehend geändert 
-werden, dass für die Ausgestaltung des Meldeverfahrens auch das Einvernehmen der Landesbehörde 
-für sektorübergreifende Angelegenheiten erforderlich ist, um eine übergreifende Zusammenarbeit 
-des Bundes und der Länder zur effektiven Umsetzung des KRITISDachG-E zu gewährleisten.  
-Mittels einer – laut Gesetzentwurf nicht zustimmungsbedürftigen – Rechtsverordnung durch das 
-BMI werden die KRITIS-bereichsspezifischen Schwellenwerte festgelegt (§ 5 Absätze 1 und 2 KRI-
-TISDachG-E), auf deren Basis die KRITIS-Betreiber verpflichtet sind, zu prüfen, ob ihre Anlagen 
-den entsprechenden Schwellenwert überschreiten, und sich in diesem Falle beim BBK über eine 
-gemeinsam vom BSI und dem BBK eingerichtete Registrierungsmöglichkeit zu registrieren.
-Obwohl die Länder insbesondere im Krisenmanagement und der Gefahrenabwehr die maßgeblichen 
-Aufgaben beim KRITIS-Schutz wahrnehmen, sieht der Gesetzentwurf lediglich vor, dass das BBK 
-nur die zuständigen Behörden über erfolgte Registrierungen informiert (Artikel 1 § 8 Absatz 5 KRI-
-TISDachG-E), was im Falle der Zuständigkeit einer Bundesbehörde die Länder außen vorlässt. Es 
-ist jedoch unverzichtbar, dass die Länder eine Gesamtübersicht über die in ihrem Land befindlichen 
-KRITIS-Anlagen haben – unabhängig davon, ob die Vollzugsbehörde nach KRITISDachG-E eine 
-Bundes- oder Landesbehörde ist. Dementsprechend muss das KRITISDachG-E die Rechtsgrundlage 
-zur generellen Informationsweitergabe über Registrierungen an betreffende Länder beinhalten, die 
-durch die o. a. Änderung (in § 8 Absatz 5 und 6 KRITISDachG-E) realisiert wird. Dies würde der 
-in der Deutschen Resilienzstrategie vielfach betonten Intensivierung „der Zusammenarbeit
-unterschiedlicher Ressorts auf Bundes- und Landesebene mit Blick auf die Versorgungssicherheit und 
-die Verfügbarkeit von kritischen Dienstleistungen“ (vgl. BR-Drucksache 558/25, S. 34; ähnlich 
-auch S. 61 ff.) gerecht werden.  
+Insbesondere in der aktuellen Sicherheitslage ist es entscheidend, ein Monitoring der Funktionsfähigkeit der 
+KRITIS und eingetretener Störungen engmaschig und stets aktuell durchzuführen. Hierbei hilft die
+Übermittlung generischer Auswertungen von Vorfallsmeldungen (wie sie im Gesetzentwurf lediglich vorgesehen 
+ist) nicht weiter. Die Erfahrungen mit den Regelungen im Bereich der IT-Sicherheit (IT-SiG seit 2015) haben 
+gezeigt, dass für die außergesetzliche Organisation eines Informationsaustauschs über Meldungen zwischen 
+Bund und Ländern u. a. eine Rechtsgrundlage fehlt. Dieser Fehler darf sich nicht wiederholen; das KRITIS-
+DachG-E muss die Meldungsweitergabe von Anfang an verbindlich vorsehen und damit legalisieren. Zudem 
+sollte ein Zeitraum für die Auswertungen zu Meldungen von Vorfällen festgelegt werden – halbjährliche 
+Berichte (gemäß dem Änderungsvorschlag) scheinen hier ein gutes Mittelmaß zwischen einem engen
+Monitoring, das auch das rechtzeitige Erkennen von Trendentwicklungen ermöglicht, und dem hierfür
+entstehenden administrativen Aufwand beim Bund zu bilden.  
+Die unzureichende Berücksichtigung der Länder setzt bereits bei der Ausgestaltung des Meldeverfahrens an, 
+welches keine verbindliche Mitwirkungsmöglichkeit für diese vorsieht. § 18 Absatz 3 KRITISDachG-E
+ermächtigt das BKK zur Ausgestaltung der Einzelheiten des Meldewesens, verlangt jedoch ausschließlich das 
+Einvernehmen des BSI. Dieser Absatz soll dahingehend geändert werden, dass für die Ausgestaltung des 
+Meldeverfahrens auch das Einvernehmen der Landesbehörde für sektorübergreifende Angelegenheiten
+erforderlich ist, um eine übergreifende Zusammenarbeit des Bundes und der Länder zur effektiven Umsetzung 
+des KRITISDachG-E zu gewährleisten.  
+Mittels einer – laut Gesetzentwurf nicht zustimmungsbedürftigen – Rechtsverordnung durch das BMI
+werden die KRITIS-bereichsspezifischen Schwellenwerte festgelegt (§ 5 Absätze 1 und 2 KRITISDachG-E), 
+auf deren Basis die KRITIS-Betreiber verpflichtet sind, zu prüfen, ob ihre Anlagen den entsprechenden 
+Schwellenwert überschreiten, und sich in diesem Falle beim BBK über eine gemeinsam vom BSI und dem 
+BBK eingerichtete Registrierungsmöglichkeit zu registrieren. Obwohl die Länder insbesondere im
+Krisenmanagement und der Gefahrenabwehr die maßgeblichen Aufgaben beim KRITIS-Schutz wahrnehmen, sieht 
+der Gesetzentwurf lediglich vor, dass das BBK nur die zuständigen Behörden über erfolgte Registrierungen 
+informiert (Artikel 1 § 8 Absatz 5 KRITISDachG-E), was im Falle der Zuständigkeit einer Bundesbehörde 
+die Länder außen vorlässt. Es ist jedoch unverzichtbar, dass die Länder eine Gesamtübersicht über die in 
+ihrem Land befindlichen KRITIS-Anlagen haben – unabhängig davon, ob die Vollzugsbehörde nach KRI-
+TISDachG-E eine Bundes- oder Landesbehörde ist. Dementsprechend muss das KRITISDachG-E die 
+Rechtsgrundlage zur generellen Informationsweitergabe über Registrierungen an betreffende Länder
+beinhalten, die durch die o. a. Änderung (in § 8 Absatz 5 und 6 KRITISDachG-E) realisiert wird. Dies würde der 
+in der Deutschen Resilienzstrategie vielfach betonten Intensivierung „der Zusammenarbeit unterschiedlicher 
+Ressorts auf Bundes- und Landesebene mit Blick auf die Versorgungssicherheit und die Verfügbarkeit von 
+kritischen Dienstleistungen“ (vgl. BR-Drucksache 558/25, S. 34; ähnlich auch S. 61 ff.) gerecht werden.
 16. Zu Artikel 1 (§ 10 Absatz 1 Satz 4 und Satz 5 KRITISDachG) 
 Artikel 1 § 10 Absatz 1 ist wie folgt zu ändern: 
 a) In Satz 4 ist die Angabe „mit dem Bundesministerium“ durch die Angabe „mit dem Bundes- oder
 Landesministerium“ zu ersetzen. 
 b) Satz 5 ist zu streichen. 
 Begründung: 
-Aus den Regelungen des KRITISDachG-E ergibt sich eine unmittelbare Betroffenheit der Länder. 
-Sind Angelegenheiten der Länder berührt, so sind diese einvernehmlich an zu treffenden
-Entscheidungen zu beteiligen. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Aus den Regelungen des KRITISDachG-E ergibt sich eine unmittelbare Betroffenheit der Länder. Sind
+Angelegenheiten der Länder berührt, so sind diese einvernehmlich an zu treffenden Entscheidungen zu
+beteiligen. 
+ 
 17. Zu Artikel 1 (§ 11 Absatz 1 Satz 1 KRITISDachG)  
 In Artikel 1 ist in § 11 Absatz 1 Satz 1 nach der Angabe „die zuständige Behörde“ die Angabe „nach § 3“ 
 einzufügen. 
 Begründung: 
-Die Ergänzung dient der Rechtsklarheit im Vollzug. Obwohl der Begriff „zuständige Behörde” in 
-§ 2 Nummer 11 KRITISDachG-E als Behörde nach § 3 Absatz 2 oder 6 KRITISDachG-E
-legaldefiniert ist, ist dieser Verweis im konkreten Anwendungsfall des § 11 Absatz 1 KRITISDachG-E 
-nicht unmittelbar erkennbar. Dies erschwert die Zuordnung der Verantwortlichkeiten für die
-ressourcenintensive Aufgabe der nationalen Risikoanalysen in der praktischen Rechtsanwendung. Der 
-eingefügte Verweis auf § 3 KRITISDachG-E stellt klar, dass nur die dort definierten
-Vollzugsbehörden gemeint sind, und erleichtert somit die Rechtsanwendung in der Praxis. Die Änderung führt 
-zu keiner materiellen Rechtsänderung, sondern dient ausschließlich der Klarstellung. 
+Die Ergänzung dient der Rechtsklarheit im Vollzug. Obwohl der Begriff „zuständige Behörde” in § 2
+Nummer 11 KRITISDachG-E als Behörde nach § 3 Absatz 2 oder 6 KRITISDachG-E legaldefiniert ist, ist dieser 
+Verweis im konkreten Anwendungsfall des § 11 Absatz 1 KRITISDachG-E nicht unmittelbar erkennbar. 
+Dies erschwert die Zuordnung der Verantwortlichkeiten für die ressourcenintensive Aufgabe der nationalen 
+Risikoanalysen in der praktischen Rechtsanwendung. Der eingefügte Verweis auf § 3 KRITISDachG-E stellt 
+klar, dass nur die dort definierten Vollzugsbehörden gemeint sind, und erleichtert somit die
+Rechtsanwendung in der Praxis. Die Änderung führt zu keiner materiellen Rechtsänderung, sondern dient ausschließlich 
+der Klarstellung. 
+ 
 18. Zu Artikel 1 (§ 11 Absatz 1 Satz 1 KRITISDachG) 
 Aus Sicht des Bundesrates sollte die Möglichkeit geschaffen werden, dass Bundes- und Landesministerien 
 die Durchführung der geforderten Risikoanalysen und Risikobewertungen delegieren oder an Externe
 vergeben können. 
 Begründung: 
-Nach dem Wortlaut und der Begründung dieser Regelung sollen die fachlich zuständigen Bundes- 
-und Landesministerien selbst Risikoanalysen und Risikobewertungen innerhalb ihrer
-Geschäftsbereiche durchführen. Hier sollte die Möglichkeit eröffnet werden, dass diese Aufgabe im
-hierarchischen Verwaltungsaufbau delegiert oder durch andere Behörden beziehungsweise an Externe
-vergeben werden kann. 
+Nach dem Wortlaut und der Begründung dieser Regelung sollen die fachlich zuständigen Bundes- und
+Landesministerien selbst Risikoanalysen und Risikobewertungen innerhalb ihrer Geschäftsbereiche
+durchführen. Hier sollte die Möglichkeit eröffnet werden, dass diese Aufgabe im hierarchischen Verwaltungsaufbau 
+delegiert oder durch andere Behörden beziehungsweise an Externe vergeben werden kann. 
+ 
 19. Zu Artikel 1 (§ 11 Absatz 4 Satz 3 KRITISDachG) 
 In Artikel 1 § 11 Absatz 4 Satz 3 ist die Angabe „17. Januar 2026“ durch Angabe „… [einsetzen: Datum des 
 ersten Tages des zwölften auf die Verkündung folgenden Kalendermonats]“ zu ersetzen. 
 Begründung 
-Für die erstmalige Erstellung der Risikoanalyse und Risikobewertung wird ein ausreichender
-Zeitraum benötigt. Die Frist bis zum 17. Januar 2026 ist hierfür zu kurz.  
-Ferner werden die Betreiber kritischer Anlagen nach § 8 Absatz 1 Satz 1 KRITISDachG-E
-verpflichtet, ihre kritischen Anlagen erstmals bis einschließlich 17. Juli 2026 zu registrieren. Eine
-Risikoanalyse und Risikobewertung ist erst zweckmäßig, nachdem festgestellt wurde, dass es sich um 
-eine kritische Anlage handelt. 
-20. Zu Artikel 1 (§ 13 Absatz 1 Nummer 1 bis 4, Absatz 3 Nummer 1 bis 4, 6 - neu – KRITISDachG) 
+Für die erstmalige Erstellung der Risikoanalyse und Risikobewertung wird ein ausreichender Zeitraum
+benötigt. Die Frist bis zum 17. Januar 2026 ist hierfür zu kurz.  
+Ferner werden die Betreiber kritischer Anlagen nach § 8 Absatz 1 Satz 1 KRITISDachG-E verpflichtet, ihre 
+kritischen Anlagen erstmals bis einschließlich 17. Juli 2026 zu registrieren. Eine Risikoanalyse und
+Risikobewertung ist erst zweckmäßig, nachdem festgestellt wurde, dass es sich um eine kritische Anlage handelt.
+20. Zu Artikel 1 (§ 13 Absatz 1 Nummer 1 bis 4, Absatz 3 Nummer 1 bis 4, 6 – neu – KRITISDachG) 
 Artikel 1 § 13 ist wie folgt zu ändern: 
 a) Absatz 1 ist wie folgt zu ändern:  
 aa) In Nummer 1 ist die Angabe „verhindern,“ durch die Angabe „verhindern, insbesondere einen 
 angemessenen physischen Schutz von Liegenschaften und kritischen Anlagen zu gewährleisten,“ 
 zu ersetzen. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
 bb) Nummer 2 ist durch die folgende Nummer 2 zu ersetzen: 
 „2. sich auf Vorfälle und deren Bewältigung vorzubereiten,“ 
-cc) In Nummer 3 ist nach der Angabe „begrenzen“ die Angabe „und die zügige Wiederherstellung der 
-kritischen Dienstleistung zu gewährleisten“ einzufügen 
+cc) In Nummer 3 ist nach der Angabe „begrenzen“ die Angabe „und die zügige Wiederherstellung 
+der kritischen Dienstleistung zu gewährleisten“ einzufügen 
 dd) In Nummer 4 ist die Angabe „die zügige Wiederherstellung der kritischen Dienstleistung zu
 gewährleisten“ durch die Angabe „diese nachzubereiten, um Maßnahmen nach den Nummern 1 bis 
 3 weiterzuentwickeln“ zu ersetzen. 
@@ -733,91 +677,82 @@ c) Maßnahmen zur alternativen Erbringung der Versorgung und des wesentlichen Di
 4. zum Zweck der Zielerreichung nach Absatz 1 Nummer 4 zählen Maßnahme der Verbesserung der 
 Vorbeugung, Vorbereitung und Reaktion, insbesondere: 
 „a) das Ziehen von Lehren aus Ereignissen, u. a. zu Schutz- und Bewältigungsmaßnahmen, 
-b) das Schließen erkannter Vorsorge- und Bewältigungslücken und 
-c) die Verbesserung des Wiederaufbaus,“ 
+ b) das Schließen erkannter Vorsorge- und Bewältigungslücken und 
+ c) die Verbesserung des Wiederaufbaus,“. 
 c) Nach Absatz 5 ist der folgende Absatz 6 einzufügen: 
-„(6)  Der Betreiber kritischer Anlagen muss auf Ersuchen Lageinformationen zu kri-
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-tischen Dienstleistungen, insbesondere betreffend die Funktionsfähigkeit und
-Versorgungssicherheit, an mit Fragestellungen der Resilienz im Sinne dieses Gesetzes befasste Behörden im Bund 
-und den Ländern übermitteln.“ 
+„(6) Der Betreiber kritischer Anlagen muss auf Ersuchen Lageinformationen zu kritischen 
+Dienstleistungen, insbesondere betreffend die Funktionsfähigkeit und Versorgungssicherheit, an
+mit Fragestellungen der Resilienz im Sinne dieses Gesetzes befasste Behörden im Bund und den 
+Ländern übermitteln.“ 
 Begründung: 
-Die durch § 13 KRITISDachG-E erstmals in dieser Form KRITIS-bereichsübergreifend
-eingeführten Resilienzpflichten der Betreiber sind das zentrale Element des gesamten Gesetzesvorhabens, mit 
-dem der Schutz und damit die Funktionsfähigkeit und Versorgungssicherheit der Kritischen
-Infrastruktur (KRITIS) in Deutschland gesteigert werden soll. Daher ist es elementar, dass diese anhand 
-der bereits bestehenden Systematik des Risiko- und Krisenmanagements zum Schutz der KRITIS 
-präzise die einzelnen Handlungsverpflichtungen benennen und trennscharf voneinander abgrenzen.  
+Die durch § 13 KRITISDachG-E erstmals in dieser Form KRITIS-bereichsübergreifend eingeführten
+Resilienzpflichten der Betreiber sind das zentrale Element des gesamten Gesetzesvorhabens, mit dem der Schutz 
+und damit die Funktionsfähigkeit und Versorgungssicherheit der Kritischen Infrastruktur (KRITIS) in 
+Deutschland gesteigert werden soll. Daher ist es elementar, dass diese anhand der bereits bestehenden
+Systematik des Risiko- und Krisenmanagements zum Schutz der KRITIS präzise die einzelnen
+Handlungsverpflichtungen benennen und trennscharf voneinander abgrenzen.  
 Dies bezieht sich auf folgende vier Phasen: 
-– Vorbeugung/Prävention – Vermeidung/Verhinderung von Störungen bzw. Ausfällen der
-Kritischen Infrastruktur durch risikoangepasste und schutzzielorientierte Sicherungsmaßnahmen –, 
-– Vorbereitung – auf (unvermeidbare) Störungen bzw. Ausfälle durch Notfallkonzepte und
+− Vorbeugung/Prävention – Vermeidung/Verhinderung von Störungen bzw. Ausfällen der Kritischen
+Infrastruktur durch risikoangepasste und schutzzielorientierte Sicherungsmaßnahmen –, 
+− Vorbereitung – auf (unvermeidbare) Störungen bzw. Ausfälle durch Notfallkonzepte und
 Krisenvorhaltungen sowie Redundanzsicherungen –, 
-– Bewältigung (Reaktion) – von Schadenslagen und KRITIS-Störungen/-Ausfällen durch
-Maßnahmen zur Abmilderung von Auswirkungen, störresiliente Alternativversorgung und
-Wiederherstellung – sowie 
-– Nachsorge (Nachbereitung) – der akuten Bewältigungsphase nachgelagert im Sinne von Lernen 
-aus Ereignissen und entsprechenden Verbesserungen –. 
-In § 13 KRITISDachG-E werden vor allem Maßnahmen im Sinne der Vorbeugung/Vermeidung von 
-Störungen genannt, aber nicht der diesbezüglichen Ziffer zugeordnet. Explizit genannte Maßnahmen 
-der Vorbereitung auf (unvermeidbare) Ereignisse fehlen. Ebenso fehlt die Phase der Nachbereitung, 
-während dies mit Wiederherstellung vermischt wird. Unter Wiederherstellung sind wiederum
-Maßnahmen zur Aufrechterhaltung des Betriebs aufgeführt. Die Milderung von Folgen eines
-Versorgungsausfalls, also die Mitigation von Ereignissen und die Alternativ-/Ersatzversorgung, fehlt
-vollständig. 
-Die Änderung dient dazu, die gebotenen Resilienzmaßnahmen zu vervollständigen (insbesondere 
-was die Bewältigung von KRITIS-Störungen anbelangt) und diese den damit verfolgten Zielen klar 
-zuzuordnen, um das Maßnahmenpaket zu komplettieren und Rechtsunsicherheit sowohl auf
-Betreiber- als auch Behördenseite (Aufsicht, Kontrolle) abzubauen. Ansonsten bestünde die Gefahr, dass 
-wesentliche Maßnahmen, bei denen sich in der Praxis in der Vergangenheit deutliche Lücken
-gezeigt haben, unbeachtet bleiben. Aus Sicht der Länder, die die Verantwortung im
-Krisenmanagement und Katastrophenschutz tragen, liegt im besonderen Interesse, dass KRITIS-Betreiber die
-Versorgung auch im Krisenfall bestmöglich sicherstellen, was die Verpflichtung der Betreiber zur
-Aufrechterhaltung des Betriebs- und damit der Versorgungsfähigkeit betrifft – zumal ausgefallene KRI-
-TIS fundamentale, mitunter unmittelbar lebensbedrohliche, Folgen mit sich bringen und nicht durch 
-Mittel und Maßnahmen des Katastrophenschutzes ersetzt werden können. 
-Daneben sind die Pflichten der KRITIS-Betreiber um das Zurverfügungstellen von
-Lageinformationen zu erweitern. Hierfür soll mit der o. g. Änderung (Ergänzung Absatz 6) die bislang fehlende 
-Rechtsgrundlage (bspw. auch im Kontext DSGVO) geschaffen werden. Bund und Länder monitoren 
-die Funktionsfähigkeit und Versorgungssicherheit in den Bereichen der Kritischen Infrastruktur
-permanent und legen hierzu regelmäßig ein Lagebild-KRITIS vor, um stets einen aktuellen Überblick 
-über die Gefährdungs- und Versorgungssituation zu haben und erforderliche Maßnahmen im
-Idealfall einleiten zu können, bevor Störungen eintreten oder sich ausweiten.  
-Hierzu sind die Behörden auf Lageinformationen von den KRITIS-Betreibern angewiesen, was
-derzeit auf freiwilliger Basis geschieht. Dabei ist insbesondere jenseits akuter Krisensituationen die 
-Mitwirkungsbereitschaft nicht immer hinreichend. Mit Blick auf die Komplexität der Abhängigkei-
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-ten der einzelnen KRITIS untereinander, bei der sich Folgewirkungen von Störungen in einem
-Bereich erst versetzt auf andere Bereiche auswirken können, und insbesondere in Zeiten hybrider
-Bedrohungen ist es fundamental, mit dem Lagebild „vor die Lage“ zu kommen. Um den Aufwand der 
-Betreiber im Zusammenhang mit der Berichts-/Übermittlungspflicht zu würdigen, ist die Pflicht an 
-ein behördliches Ersuchen zu knüpfen. 
+− Bewältigung (Reaktion) – von Schadenslagen und KRITIS-Störungen/-Ausfällen durch Maßnahmen 
+zur Abmilderung von Auswirkungen, störresiliente Alternativversorgung und Wiederherstellung –
+sowie 
+− Nachsorge (Nachbereitung) – der akuten Bewältigungsphase nachgelagert im Sinne von Lernen aus 
+Ereignissen und entsprechenden Verbesserungen –. 
+In § 13 KRITISDachG-E werden vor allem Maßnahmen im Sinne der Vorbeugung/Vermeidung von
+Störungen genannt, aber nicht der diesbezüglichen Ziffer zugeordnet. Explizit genannte Maßnahmen der
+Vorbereitung auf (unvermeidbare) Ereignisse fehlen. Ebenso fehlt die Phase der Nachbereitung, während dies mit 
+Wiederherstellung vermischt wird. Unter Wiederherstellung sind wiederum Maßnahmen zur
+Aufrechterhaltung des Betriebs aufgeführt. Die Milderung von Folgen eines Versorgungsausfalls, also die Mitigation von 
+Ereignissen und die Alternativ-/Ersatzversorgung, fehlt vollständig. 
+Die Änderung dient dazu, die gebotenen Resilienzmaßnahmen zu vervollständigen (insbesondere was die 
+Bewältigung von KRITIS-Störungen anbelangt) und diese den damit verfolgten Zielen klar zuzuordnen, um 
+das Maßnahmenpaket zu komplettieren und Rechtsunsicherheit sowohl auf Betreiber- als auch
+Behördenseite (Aufsicht, Kontrolle) abzubauen. Ansonsten bestünde die Gefahr, dass wesentliche Maßnahmen, bei 
+denen sich in der Praxis in der Vergangenheit deutliche Lücken gezeigt haben, unbeachtet bleiben. Aus Sicht 
+der Länder, die die Verantwortung im Krisenmanagement und Katastrophenschutz tragen, liegt im
+besonderen Interesse, dass KRITIS-Betreiber die Versorgung auch im Krisenfall bestmöglich sicherstellen, was die 
+Verpflichtung der Betreiber zur Aufrechterhaltung des Betriebs- und damit der Versorgungsfähigkeit betrifft 
+– zumal ausgefallene KRITIS fundamentale, mitunter unmittelbar lebensbedrohliche, Folgen mit sich
+bringen und nicht durch Mittel und Maßnahmen des Katastrophenschutzes ersetzt werden können. 
+Daneben sind die Pflichten der KRITIS-Betreiber um das Zurverfügungstellen von Lageinformationen zu 
+erweitern. Hierfür soll mit der o. g. Änderung (Ergänzung Absatz 6) die bislang fehlende Rechtsgrundlage 
+(bspw. auch im Kontext DSGVO) geschaffen werden. Bund und Länder monitoren die Funktionsfähigkeit 
+und Versorgungssicherheit in den Bereichen der Kritischen Infrastruktur permanent und legen hierzu
+regelmäßig ein Lagebild-KRITIS vor, um stets einen aktuellen Überblick über die Gefährdungs- und
+Versorgungssituation zu haben und erforderliche Maßnahmen im Idealfall einleiten zu können, bevor Störungen 
+eintreten oder sich ausweiten.  
+Hierzu sind die Behörden auf Lageinformationen von den KRITIS-Betreibern angewiesen, was derzeit auf 
+freiwilliger Basis geschieht. Dabei ist insbesondere jenseits akuter Krisensituationen die
+Mitwirkungsbereitschaft nicht immer hinreichend. Mit Blick auf die Komplexität der Abhängigkeiten der einzelnen KRITIS 
+untereinander, bei der sich Folgewirkungen von Störungen in einem Bereich erst versetzt auf andere Bereiche 
+auswirken können, und insbesondere in Zeiten hybrider Bedrohungen ist es fundamental, mit dem Lagebild 
+„vor die Lage“ zu kommen. Um den Aufwand der Betreiber im Zusammenhang mit der Berichts-/
+Übermittlungspflicht zu würdigen, ist die Pflicht an ein behördliches Ersuchen zu knüpfen.
 21. Zu Artikel 1 (§ 13 Absatz 1 KRITISDachG) 
 Buch 1Der Bundesrat bittet, im weiteren Gesetzgebungsverfahren zu prüfen, ob und inwieweit der § 13
 Absatz 1 KRITISDachG-E dahingehend ergänzt oder angepasst werden sollte, dass Betreiber kritischer
 Anlagen rechtssicher im Rahmen des verfassungsrechtlich Möglichen bzw. im Lichte des staatlichen
 Gewaltmonopols ermächtigt werden können, auffällige oder sicherheitsrelevante unbemannte Luftfahrtsysteme
 (Drohnen) zu detektieren, zu melden und technische Abwehrmaßnahmen einzuleiten. 
-– Begründung 
-Betreiber Kritischer Infrastrukturen unterliegen nach der aktuellen Fassung des § 13 Absatz 1 KRI-
-TISDachG-E, nach branchenspezifischen Standards sowie nach allgemeinen
-Verkehrssicherungspflichten (§ 823 BGB) bestimmten Schutzpflichten.  
-Die Ausübung des Hausrechts der Betreiber endet grundsätzlich an der Grundstücksgrenze (§§ 903, 
-905 BGB). Der Luftraum ist nach § 1 Absatz 1 LuftVG dem öffentlichen Verkehr gewidmet und 
-unterliegt allein der Luftaufsicht des Bundes. Maßnahmen der Drohnenabwehr durch private
-Akteure wären nach geltendem Recht regelmäßig rechtswidrig. 
-Vor diesem Hintergrund wird angeregt, zu prüfen, ob und inwieweit es einer Ergänzung oder
-Anpassung des § 13 Absatz 1 KRITISDachG-E bedarf, die es Betreibern kritischer Anlagen oder von 
-ihnen eingesetzten, staatlich zertifizierten Sicherheitsdiensten ermöglicht, auffällige oder
-sicherheitsrelevante unbemannte Luftfahrtsystemen (Drohnen) zu detektieren, zu melden und technische 
-Abwehrmaßnahmen einzuleiten, soweit diese eine konkrete Gefahr für die physische Sicherheit der 
-Anlage darstellen.  
-In diesem Zusammenhang sollte insbesondere geprüft werden, wie eine solche Befugnis im
-Einklang mit dem staatlichen Gewaltmonopol verfassungsgemäß ausgestaltet werden könnte. 
+Begründung 
+Betreiber Kritischer Infrastrukturen unterliegen nach der aktuellen Fassung des § 13 Absatz 1 KRITIS-
+DachG-E, nach branchenspezifischen Standards sowie nach allgemeinen Verkehrssicherungspflichten 
+(§ 823 BGB) bestimmten Schutzpflichten.  
+Die Ausübung des Hausrechts der Betreiber endet grundsätzlich an der Grundstücksgrenze (§§ 903, 905 
+BGB). Der Luftraum ist nach § 1 Absatz 1 LuftVG dem öffentlichen Verkehr gewidmet und unterliegt allein 
+der Luftaufsicht des Bundes. Maßnahmen der Drohnenabwehr durch private Akteure wären nach geltendem 
+Recht regelmäßig rechtswidrig. 
+Vor diesem Hintergrund wird angeregt, zu prüfen, ob und inwieweit es einer Ergänzung oder Anpassung des 
+§ 13 Absatz 1 KRITISDachG-E bedarf, die es Betreibern kritischer Anlagen oder von ihnen eingesetzten, 
+staatlich zertifizierten Sicherheitsdiensten ermöglicht, auffällige oder sicherheitsrelevante unbemannte
+Luftfahrtsystemen (Drohnen) zu detektieren, zu melden und technische Abwehrmaßnahmen einzuleiten, soweit 
+diese eine konkrete Gefahr für die physische Sicherheit der Anlage darstellen.  
+In diesem Zusammenhang sollte insbesondere geprüft werden, wie eine solche Befugnis im Einklang mit 
+dem staatlichen Gewaltmonopol verfassungsgemäß ausgestaltet werden könnte. 
+ 
 22. Zu Artikel 1 (§ 14 Absatz 1 und 2 KRITISDachG) 
 Der Bundesrat fordert die Bundesregierung auf, den Erfüllungsaufwand für die zuständigen
 Verwaltungsbehörden im Rahmen ihrer Aufgaben im Verwaltungsvollzug sowie den Erfüllungsaufwand der betroffenen 
@@ -826,67 +761,60 @@ konkretisierenden Rechtsverordnungen sicherzustellen, dass der Erfüllungsaufwan
 verbundenen finanziellen Belastungen der zuständigen Verwaltungsbehörden sowie der betroffenen Betreiber auf 
 das notwendige Maß begrenzt werden. 
 Begründung: 
-Die Anzahl der Betreiber kritischer Anlagen im Vollzugsbereich der Länder ist bislang nicht
-bestimmt. Zudem ist unklar, welcher Aufwand in den Ländern künftig durch den Vollzug anfallen 
-wird. Eine belastbare Schätzung des zu erwartenden Erfüllungsaufwand für die Länder wird erst 
-möglich sein, wenn für die zuständigen Behörden im Rahmen ihrer Aufgaben im
-Verwaltungsvollzug die noch festzulegenden branchenspezifischen Resilienzstandards sowie
-sektorenübergreifenden Mindestanforderungen nach § 14 Absatz 1 und 2 KRITISDachG-E, die nicht der Zustimmung 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-des Bundesrates bedürfen, konkretisiert worden sind. 
-Es ist daher darauf hinzuwirken, dass der Bund den voraussichtlich zu erwartenden
-Erfüllungsaufwand für die Länder, Kommunen, betroffenen Betreiber sowie seine eigene Betroffenheit spätestens 
-bis zur Beschlussfassung im Deutschen Bundestag quantifiziert und bei den konkretisierenden 
-Rechtsverordnungen sicherstellt, dass der Erfüllungsaufwand und die damit verbundenen
-finanziellen Belastungen der zuständigen Verwaltungsbehörden sowie der betroffenen Betreiber auf das
-notwendige Maß begrenzt werden. 
+Die Anzahl der Betreiber kritischer Anlagen im Vollzugsbereich der Länder ist bislang nicht bestimmt.
+Zudem ist unklar, welcher Aufwand in den Ländern künftig durch den Vollzug anfallen wird. Eine belastbare 
+Schätzung des zu erwartenden Erfüllungsaufwand für die Länder wird erst möglich sein, wenn für die
+zuständigen Behörden im Rahmen ihrer Aufgaben im Verwaltungsvollzug die noch festzulegenden
+branchenspezifischen Resilienzstandards sowie sektorenübergreifenden Mindestanforderungen nach § 14 Absatz 1 
+und 2 KRITISDachG-E, die nicht der Zustimmung des Bundesrates bedürfen, konkretisiert worden sind. 
+Es ist daher darauf hinzuwirken, dass der Bund den voraussichtlich zu erwartenden Erfüllungsaufwand für 
+die Länder, Kommunen, betroffenen Betreiber sowie seine eigene Betroffenheit spätestens bis zur
+Beschlussfassung im Deutschen Bundestag quantifiziert und bei den konkretisierenden Rechtsverordnungen
+sicherstellt, dass der Erfüllungsaufwand und die damit verbundenen finanziellen Belastungen der zuständigen
+Verwaltungsbehörden sowie der betroffenen Betreiber auf das notwendige Maß begrenzt werden. 
 23. Zu Artikel 1 (§ 14 Absatz 2 Satz 4 Nummer 2 und Nummer 3 KRITISDachG) 
 Artikel 1 § 14 Absatz 2 Satz 4 ist wie folgt zu ändern: 
 a) Nummer 2 ist wie folgt zu ändern: 
 aa) Nach der Angabe „des Bundes“ ist die Angabe „oder eines Landes“ einzufügen. 
 bb) Die Angabe „Einvernehmen,“ ist durch die Angabe „Einvernehmen und“ zu ersetzen. 
-b) Nummer 3 ist zu streichen. 
+b) Nummer 3 ist zu streichen.
 Begründung: 
-Aus den Regelungen des KRITISDachG-E ergibt sich eine unmittelbare Betroffenheit der Länder. 
-Sind Angelegenheiten der Länder berührt, so sind diese einvernehmlich an zu treffenden
-Entscheidungen zu beteiligen. 
+Aus den Regelungen des KRITISDachG-E ergibt sich eine unmittelbare Betroffenheit der Länder. Sind
+Angelegenheiten der Länder berührt, so sind diese einvernehmlich an zu treffenden Entscheidungen zu
+beteiligen. 
+ 
 24. Zu Artikel 1 (§ 14 Absatz 5 KRITISDachG) 
 Der Bundesrat bittet, im weiteren Gesetzgebungsverfahren klarzustellen, welche Auswirkungen die
 Feststellung branchenspezifischer Resilienzstandards hat, wenn Verordnungen nach § 14 Absatz 3 oder 4 KRITIS-
 DachG-E bereits bestehen. 
 Begründung 
-Ab dem 1. Januar 2030 sind der Bund (§ 14 Absatz 3 KRITISDachG-E) und die Länder (§ 14 Absatz 
-4 KRITISDachG-E) befugt, sektorspezifische Mindestvorgaben durch Rechtsverordnung zu regeln. 
-Nach § 14 Absatz 5 KRITISDachG-E soll die Befugnis zum Erlass einer solchen Verordnung aber 
-nur bestehen, solange und soweit keine branchenspezifischen Resilienzstandards festgestellt sind. 
-Unklar ist, welche Konsequenzen es zeitigt, wenn eine Verordnung nach § 14 Absatz 3 oder 4 KRI-
-TISDachG-E erlassen worden ist. Weder ist klar, ob in diesen Fällen branchenspezifische
-Resilienzstandards überhaupt noch festgestellt werden können, noch, ob im Falle einer angenommenen
-fortbestehenden Möglichkeit zur Feststellung, ein festgestellter Standard einer zuvor erlassenen
-Verordnung vorgeht. Aus Sicht des Bundesrates besteht an dieser Stelle schon aus Gründen der
-Rechtssicherheit Klärungs- und Klarstellungsbedarf. 
+Ab dem 1. Januar 2030 sind der Bund (§ 14 Absatz 3 KRITISDachG-E) und die Länder (§ 14 Absatz 4 
+KRITISDachG-E) befugt, sektorspezifische Mindestvorgaben durch Rechtsverordnung zu regeln. Nach § 14 
+Absatz 5 KRITISDachG-E soll die Befugnis zum Erlass einer solchen Verordnung aber nur bestehen,
+solange und soweit keine branchenspezifischen Resilienzstandards festgestellt sind. Unklar ist, welche
+Konsequenzen es zeitigt, wenn eine Verordnung nach § 14 Absatz 3 oder 4 KRITISDachG-E erlassen worden ist. 
+Weder ist klar, ob in diesen Fällen branchenspezifische Resilienzstandards überhaupt noch festgestellt
+werden können, noch, ob im Falle einer angenommenen fortbestehenden Möglichkeit zur Feststellung, ein
+festgestellter Standard einer zuvor erlassenen Verordnung vorgeht. Aus Sicht des Bundesrates besteht an dieser 
+Stelle schon aus Gründen der Rechtssicherheit Klärungs- und Klarstellungsbedarf. 
+ 
 25. Zu Artikel 1 (§ 16 Absatz 1, 2 KRITISDachG) 
 Im Sinne der Entbürokratisierung und Verfahrensbeschleunigung hält der Bundesrat einen direkten Abruf 
 der zuständigen Behörde beim Bundesamt für Sicherheit in der Informationstechnik für zielführender.
 Darüber hinaus sollte in Eilfällen auch ein direktes Auskunftsrecht der zuständigen Behörde beim Betreiber 
 kritischer Anlagen ermöglicht werden. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
 Begründung: 
-Eine automatisierte Information über den Datenabruf an das BBK könnte dessen Einbindung
-sicherstellen. 
+Eine automatisierte Information über den Datenabruf an das BBK könnte dessen Einbindung sicherstellen. 
+ 
 26. Zu Artikel 1 (§ 16 Absatz 7a – neu –, § 24 Absatz 1 Nummer 5 – neu –, Absatz 2 KRITISDachG) 
 Artikel 1 ist wie folgt zu ändern: 
 a) Nach § 16 Absatz 7 ist der folgende Absatz 7a einzufügen; 
-„(7a) Die zuständige Behörde kann verlangen, dass der Nachweis zur Einhaltung der Verpflichtung 
-nach § 13 Absatz 1 durch ein Zertifikat auf der Grundlage eines Audits nach Absatz 3 erbracht 
-wird. Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe kann zum Zwecke der 
-Überprüfung, ob die Verpflichtungen nach § 13 Absatz 1 durch den Betreiber einer kritischen 
-Anlage eingehalten werden, im Benehmen mit den Ländern und dem Bundesamt für
-Sicherheit in der Informationstechnik Bestimmungen treffen: 
+„(7a) Die zuständige Behörde kann verlangen, dass der Nachweis zur Einhaltung der
+Verpflichtung nach § 13 Absatz 1 durch ein Zertifikat auf der Grundlage eines Audits nach Absatz 3 erbracht 
+wird. Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe kann zum Zwecke der
+Überprüfung, ob die Verpflichtungen nach § 13 Absatz 1 durch den Betreiber einer kritischen Anlage
+eingehalten werden, im Benehmen mit den Ländern und dem Bundesamt für Sicherheit in der
+Informationstechnik Bestimmungen treffen: 
 1. zur Durchführung der Zertifizierung einschließlich des Audits,  
 2. zu fachlichen und organisatorischen Anforderungen an die zertifizierende Stelle,  
 3. zu Format, Inhalt und Gestaltung von Nachweisen,  
@@ -895,70 +823,67 @@ Sicherheit in der Informationstechnik Bestimmungen treffen:
 6. zur Überprüfung der Einhaltung der Verpflichtungen nach § 13 Absatz 1.“ 
 b) § 24 ist wie folgt zu ändern: 
 aa) Absatz 1 ist wie folgt zu ändern: 
-aaa) In Nummer 3 ist die Angabe „übermittelt oder“ durch die Angabe „übermittelt,“ zu 
-ersetzen. 
+aaa) In Nummer 3 ist die Angabe „übermittelt oder“ durch die Angabe „übermittelt,“ zu
+ersetzen.
 bbb) In Nummer 4 ist die Angabe „erteilt.“ durch die Angabe „erteilt oder“ zu ersetzen. 
 ccc) Nach Nummer 4 ist die folgende Nummer 5 einzufügen: 
-„5. entgegen § 16 Abs. 7a Satz 1 das Zertifikat nicht, nicht richtig, nicht
-vollständig oder nicht rechtzeitig übermittelt.“ 
+„5. entgegen § 16 Abs. 7a Satz 1 das Zertifikat nicht, nicht richtig, nicht vollständig oder 
+nicht rechtzeitig übermittelt.“ 
 bb) In Absatz 2 ist nach der Angabe „Nummer 3“ die Angabe „und 5“ einzufügen. 
 Begründung: 
-Die Länder haben mehrfach als weitere Option gefordert, das KRITISDachG-E für ein
-Zertifizierungssystem zu öffnen. Dies ist allerdings lediglich mit dem in Artikel 2 enthaltenen § 5f EnWG-E 
-umgesetzt worden, bei welchem die Bundesnetzagentur zuständige Behörde im Sinne des § 3 KRI-
-TISDachG-E ist.  
-Es ist nicht ersichtlich, warum ein Zertifizierungssystem punktuell nur für diesen Bereich
-eingerichtet werden soll. Auch die Regelung des bisherigen § 16 Absatz 8 KRITISDachG-E ist nicht
-ausreichend, um das Verfahren der Über-prüfung von kritischen Anlagen für eine Zertifizierung zu öffnen. 
-Es ist wohl Wille des Bundesgesetzgebers, diese Lücke nachträglich mit einer auf dem Absatz 8 
-basierenden Konkretisierung der Art und Weise der Nachweiserbingung durch das BBK zu
-schließen. Jedoch wurde versäumt, dass Überprüfungsverfahren für eine Zertifizierung anzupassen und 
-die Anforderung der Zertifizierung als Maßnahme der zuständigen Behörde im Maßnahmenkatalog 
-des § 16 KRITISDachG-E ausdrücklich aufzunehmen. Ohne eine solche Regelung verbliebe man 
-weiterhin an der in § 16 KRITISDachG-E vorgesehenen iterativen Vorgehensweise. Besser ist es, 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-eine durch die Zertifizierung gebündelte Überprüfung der kritischen Anlage ausdrücklich zu
-ermöglichen. Damit kann die Effizienz des Verwaltungsverfahrens erhöht und bundesweit ein einheitliches 
-Vorgehen sichergestellt werden. Die in § 5f EnWG-E bereits enthaltene Regelungssystematik greift 
-diese Punkte auf und sollte daher in § 16 des KRITISDachG-E aufgenommen werden.  
-Zudem ist ein Bußgeldtatbestand in Bezug auf die Vorlage der von der zu-ständigen Behörde
-angeforderten Zertifizierung hinzuzufügen. Weil bei einer Zertifizierung das Zertifikat zentraler
-Bestandteil des Prüfverfahrens ist, ist der erhöhte Bußgeldrahmen von bis zu zweihunderttausend Euro nach 
-§ 24 Ab-satz 2 2. Alternative KRITISDachG-E angemessen. 
+Die Länder haben mehrfach als weitere Option gefordert, das KRITISDachG-E für ein Zertifizierungssystem 
+zu öffnen. Dies ist allerdings lediglich mit dem in Artikel 2 enthaltenen § 5f EnWG-E umgesetzt worden, 
+bei welchem die Bundesnetzagentur zuständige Behörde im Sinne des § 3 KRITISDachG-E ist.  
+Es ist nicht ersichtlich, warum ein Zertifizierungssystem punktuell nur für diesen Bereich eingerichtet
+werden soll. Auch die Regelung des bisherigen § 16 Absatz 8 KRITISDachG-E ist nicht ausreichend, um das 
+Verfahren der Über-prüfung von kritischen Anlagen für eine Zertifizierung zu öffnen. Es ist wohl Wille des 
+Bundesgesetzgebers, diese Lücke nachträglich mit einer auf dem Absatz 8 basierenden Konkretisierung der 
+Art und Weise der Nachweiserbingung durch das BBK zu schließen. Jedoch wurde versäumt, dass
+Überprüfungsverfahren für eine Zertifizierung anzupassen und die Anforderung der Zertifizierung als Maßnahme der 
+zuständigen Behörde im Maßnahmenkatalog des § 16 KRITISDachG-E ausdrücklich aufzunehmen. Ohne 
+eine solche Regelung verbliebe man weiterhin an der in § 16 KRITISDachG-E vorgesehenen iterativen
+Vorgehensweise. Besser ist es, eine durch die Zertifizierung gebündelte Überprüfung der kritischen Anlage
+ausdrücklich zu ermöglichen. Damit kann die Effizienz des Verwaltungsverfahrens erhöht und bundesweit ein 
+einheitliches Vorgehen sichergestellt werden. Die in § 5f EnWG-E bereits enthaltene Regelungssystematik 
+greift diese Punkte auf und sollte daher in § 16 des KRITISDachG-E aufgenommen werden.  
+Zudem ist ein Bußgeldtatbestand in Bezug auf die Vorlage der von der zu-ständigen Behörde angeforderten 
+Zertifizierung hinzuzufügen. Weil bei einer Zertifizierung das Zertifikat zentraler Bestandteil des
+Prüfverfahrens ist, ist der erhöhte Bußgeldrahmen von bis zu zweihunderttausend Euro nach § 24 Ab-satz 2 2.
+Alternative KRITISDachG-E angemessen. 
+ 
 27. Zu Artikel 1 (§ 18 Absatz 1 Satz 1 KRITISDachG) 
-In Artikel 1 § 18 Absatz 1 Satz 1 ist vor der Angabe „Vorfälle “ die Angabe „wie auch den nach § 3 Absatz 
-2 Nummer 13 zuständigen Landesbehörden“ einzufügen. 
+In Artikel 1 § 18 Absatz 1 Satz 1 ist vor der Angabe „Vorfälle “ die Angabe „wie auch den nach § 3 Absatz 2 
+Nummer 13 zuständigen Landesbehörden“ einzufügen. 
 Begründung: 
-Für die zuständigen Behörde der Länder wird eine entsprechende zeitnahe Information als essentiell 
-erachtet, um auf Landesebene ein Lagebild erstellen und zeitnah im Rahmen der Zuständigkeit der 
-Länder reagieren zu können. Verzögerungen entsprechender Maßnahmen durch fehlende 
-Informationen bei den zuständigen Behörden müssen ausgeschlossen werden. 
+Für die zuständigen Behörde der Länder wird eine entsprechende zeitnahe Information als essentiell erachtet, 
+um auf Landesebene ein Lagebild erstellen und zeitnah im Rahmen der Zuständigkeit der Länder reagieren 
+zu können. Verzögerungen entsprechender Maßnahmen durch fehlende Informationen bei den zuständigen 
+Behörden müssen ausgeschlossen werden. 
+ 
 28. Zu Artikel 1 (§ 18 Absatz 7 KRITISDachG) 
 In Artikel 1 § 18 Absatz 7 ist nach der Angabe „Stellen“ die Angabe „unverzüglich“ einzufügen. 
 Begründung: 
-Nachdem sich Notfallpläne auf Betreiber kritischer Anlagen beziehen können und werden, deren 
-Ausfall gegebenenfalls zu kompensieren ist, ist eine unverzügliche Meldung sicherzustellen. 
+Nachdem sich Notfallpläne auf Betreiber kritischer Anlagen beziehen können und werden, deren Ausfall 
+gegebenenfalls zu kompensieren ist, ist eine unverzügliche Meldung sicherzustellen. 
+ 
 29. Zu Artikel 1 (§ 18 Absatz 8 KRITISDachG) 
 In Artikel 1 § 18 Absatz 8 ist die Angabe „im Benehmen mit der zuständigen Behörde des Landes“ durch 
 die Angabe „eines Landes“ zu ersetzen. 
 Begründung: 
-Aus den Regelungen des KRITISDachG-E ergibt sich eine unmittelbare Betroffenheit der Länder. 
-Sind Angelegenheiten der Länder berührt, so sind diese einvernehmlich an zu treffenden
-Entscheidungen zu beteiligen. 
+Aus den Regelungen des KRITISDachG-E ergibt sich eine unmittelbare Betroffenheit der Länder. Sind
+Angelegenheiten der Länder berührt, so sind diese einvernehmlich an zu treffenden Entscheidungen zu
+beteiligen. 
+ 
 30. Zu Artikel 1 (§ 19 Absatz 2 Satz 3, 4 KRITISDachG) 
 Artikel 1 § 19 Absatz 2 ist wie folgt zu ändern: 
 a) In Satz 3 ist die Angabe „mit dem Bundesministerium“ durch die Angabe „mit dem Bundes- oder
 Landesministerium“ zu ersetzen. 
 b) Satz 4 ist zu streichen. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
 Begründung: 
-Aus den Regelungen des KRITISDachG-E ergibt sich eine unmittelbare Betroffenheit der Länder. 
-Sind Angelegenheiten der Länder berührt, so sind diese einvernehmlich an zu treffenden
-Entscheidungen zu beteiligen. 
+Aus den Regelungen des KRITISDachG-E ergibt sich eine unmittelbare Betroffenheit der Länder. Sind
+Angelegenheiten der Länder berührt, so sind diese einvernehmlich an zu treffenden Entscheidungen zu
+beteiligen. 
+ 
 31. Zu Artikel 1 (§ 23 Absatz 1 Nummer 2, Absatz 2a – neu – KRITISDachG) 
 Artikel 1 § 23 ist wie folgt zu ändern: 
 a) Absatz 1 ist wie folgt zu ändern: 
@@ -966,97 +891,92 @@ aa) In Nummer 1 ist die Angabe „1.“ zu streichen und die Angabe „ist und�
 zu ersetzen. 
 bb) Nummer 2 ist zu streichen. 
 b) Nach Absatz 2 ist der folgende Absatz 2a einzufügen: 
-„(2a) Die Erforderlichkeit der Verarbeitung personenbezogener Daten im Sinne von Absatz 1 
-und Absatz 2 ist insbesondere dann nicht gegeben, wenn durch eine Verarbeitung anonymisierter oder 
+„(2a) Die Erforderlichkeit der Verarbeitung personenbezogener Daten im Sinne von Absatz 1 und 
+Absatz 2 ist insbesondere dann nicht gegeben, wenn durch eine Verarbeitung anonymisierter oder 
 künstlich erzeugter Daten der Zweck in gleicher Weise erfüllt werden kann.“ 
 Begründung 
-§ 23 Absatz 1 KRITISDachG-E enthält in Nummer 1 und 2 zwei kumulative Voraussetzungen, die 
-jedoch so nicht nebeneinander stehen bleiben sollten, da die erste Voraussetzung bereits die zweite 
-umfasst: Wenn eine Verarbeitung anonymisierter oder künstlich erzeugter Daten für die Erfüllung 
-einer Aufgabe der zur Datenverarbeitung befugten Behörde in gleicher Weise geeignet wäre wie die 
-Verarbeitung personenbezogener Daten, wäre die Verarbeitung personenbezogener Daten von
-vornherein nicht erforderlich. Demnach würde die Verneinung der Voraussetzungen von Nummer 2
-automatisch auch zur Verneinung der Voraussetzungen von Nummer 1 führen müssen. 
-Auch wenn man die Nummer 2 nur als klarstellenden Zusatz verstehen wollte, wäre dieses in dieser 
-Form abzulehnen. Eine solche Klarstellung bei Absatz 1 würde schon bei Absatz 2 zu
-Unstimmigkeiten führen, da bei der Rechtsgrundlage nach § 23 Absatz 2 KRITISDachG-E nach dem Wortlaut 
-lediglich die Erforderlichkeit vorausgesetzt wird. Es kann aber wohl kaum gewollt sein, dass bei § 
-23 Absatz 2 KRITISDachG-E die Verarbeitung personenbezogener Daten auch erfolgen darf, wenn 
-für die dort genannten Zwecke die Verarbeitung anonymisierter oder künstlich erzeugter Daten in 
-gleicher Weise geeignet wäre. 
-Aus diesem Grund ist § 23 Absatz 1 Nummer 2 KRITISDachG-E zu streichen und eine klarstellende 
-Regelung, die sich sowohl auf 23 Absatz 1 KRITISDachG-E als auch auf 23 Absatz 2 KRITIS-
-DachG-E bezieht, in einen neuen Absatz 2a einzufügen. Eine ähnliche klarstellende Regelung
-befindet sich im Übrigen in Artikel 59 Absatz 1 Buchstabe b der KI-Verordnung. 
+§ 23 Absatz 1 KRITISDachG-E enthält in Nummer 1 und 2 zwei kumulative Voraussetzungen, die jedoch 
+so nicht nebeneinander stehen bleiben sollten, da die erste Voraussetzung bereits die zweite umfasst: Wenn 
+eine Verarbeitung anonymisierter oder künstlich erzeugter Daten für die Erfüllung einer Aufgabe der zur 
+Datenverarbeitung befugten Behörde in gleicher Weise geeignet wäre wie die Verarbeitung
+personenbezogener Daten, wäre die Verarbeitung personenbezogener Daten von vornherein nicht erforderlich. Demnach 
+würde die Verneinung der Voraussetzungen von Nummer 2 automatisch auch zur Verneinung der
+Voraussetzungen von Nummer 1 führen müssen. 
+Auch wenn man die Nummer 2 nur als klarstellenden Zusatz verstehen wollte, wäre dieses in dieser Form 
+abzulehnen. Eine solche Klarstellung bei Absatz 1 würde schon bei Absatz 2 zu Unstimmigkeiten führen, da 
+bei der Rechtsgrundlage nach § 23 Absatz 2 KRITISDachG-E nach dem Wortlaut lediglich die
+Erforderlichkeit vorausgesetzt wird. Es kann aber wohl kaum gewollt sein, dass bei § 23 Absatz 2 KRITISDachG-E die 
+Verarbeitung personenbezogener Daten auch erfolgen darf, wenn für die dort genannten Zwecke die
+Verarbeitung anonymisierter oder künstlich erzeugter Daten in gleicher Weise geeignet wäre. 
+Aus diesem Grund ist § 23 Absatz 1 Nummer 2 KRITISDachG-E zu streichen und eine klarstellende
+Regelung, die sich sowohl auf 23 Absatz 1 KRITISDachG-E als auch auf 23 Absatz 2 KRITISDachG-E bezieht, 
+in einen neuen Absatz 2a einzufügen. Eine ähnliche klarstellende Regelung befindet sich im Übrigen in
+Artikel 59 Absatz 1 Buchstabe b der KI-Verordnung. 
+ 
 32. Zu Artikel 1 (§ 23 Absatz 2 KRITISDachG) 
 In Artikel 1 § 23 Absatz 2 ist die Angabe „wenn“ durch die Angabe „soweit“ zu ersetzen. 
 Begründung 
-Um dem datenschutzrechtlichen Prinzip der Erforderlichkeit ausreichend Rechnung zu tragen und 
-insoweit auch einen Gleichklang mit § 23 Absatz 1 KRITISDachG-E zu erzielen, ist das Wort 
-„wenn“ vor der Aufzählung durch das Wort „soweit“ zu ersetzen. 
+Um dem datenschutzrechtlichen Prinzip der Erforderlichkeit ausreichend Rechnung zu tragen und insoweit
+auch einen Gleichklang mit § 23 Absatz 1 KRITISDachG-E zu erzielen, ist das Wort „wenn“ vor der
+Aufzählung durch das Wort „soweit“ zu ersetzen. 
+ 
 33. Zu Artikel 1 (§ 23 Absatz 2 KRITISDachG) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-Der Bundesrat bittet, im weiteren Gesetzgebungsverfahren zu prüfen, ob die Ausgestaltung des § 23 Absatz 
-2 KRITISDachG-E als Zweckänderungsregelung für die zwei dort benannten Zwecke die Intention des
+Der Bundesrat bittet, im weiteren Gesetzgebungsverfahren zu prüfen, ob die Ausgestaltung des § 23 Absatz 2 
+KRITISDachG-E als Zweckänderungsregelung für die zwei dort benannten Zwecke die Intention des
 Gesetzgebers vollumfänglich erfüllt.  
 Begründung 
-§ 23 Absatz 2 KRITISDachG-E regelt nach seinem Wortlaut die Voraussetzungen für eine
-zweckändernde (Weiter-)Verarbeitung personenbezogener Daten. In der Entwurfsbegründung ist
-dargelegt, dass die Behörden neben der Erfüllung ihrer gesetzlichen Aufgaben nach Absatz 1 eine
-datenschutzrechtliche Rechtsgrundlage benötigen, um personenbezogene Daten zum Zwecke der
-Sammlung, Auswertung und Untersuchung von Vorfällen nach § 18 KRITISDachG-E und zur
-Unterstützung, Beratung und Warnung in Fragen zur Gewährleistung der Resilienz durch Betreiber kritischer 
-Anlagen zu verarbeiten. Daraus könnte der Schluss gezogen werden, dass es sich bei den beiden in 
-§ 23 Absatz 2 Nummer 1 und 2 KRITISDachG-E genannten Tätigkeiten nicht um gesetzliche
-Aufgaben handelt. Andererseits scheint die Nennung der Zwecke in § 23 Absatz 2 KRITISDachG-E 
-doch wieder auf gesetzliche Aufgaben, eventuell sekundärer Natur, hinzuweisen. Es sollte überprüft 
-werden, ob es insoweit tunlich ist, eine Aufgabe der Behörde ausschließlich in einer
-Zweckänderungsvorschrift zu benennen. Auch könnte es dann an einer Rechtsgrundlage fehlen, wenn man
-unmittelbar für die beiden in § 23 Absatz 2 KRITISDachG-E benannten Zwecke Daten erheben wollte. 
-Eine solche Datenerhebung könnte wohl – auch ausweislich der Entwurfsbegründung – nicht auf § 
-23 Absatz 1 KRITISDachG-E gestützt werden. Dabei stellt der Bundesrat nicht in Abrede, dass 
-Datenverarbeitungen zu den in § 23 Absatz 2 KRITISDachG-E genannten Zwecken zulässig sein 
-sollen. Ebenso kann grundsätzlich nachvollzogen werden, dass, wie in der Entwurfsbegründung
-dargelegt, hier alle den Behörden aus öffentlichen, privaten, staatlichen, bekannten oder anonymen 
-Quellen erlangten und zur Verfügung gestellten Daten ausgewertet werden müssen. Der Bundesrat 
-sieht es aber als erforderlich an, die Ausgestaltung der Vorschrift als Zweckänderungsvorschrift im 
-Kontext mit den Aufgaben der Behörden zu überprüfen. 
+§ 23 Absatz 2 KRITISDachG-E regelt nach seinem Wortlaut die Voraussetzungen für eine zweckändernde 
+(Weiter-)Verarbeitung personenbezogener Daten. In der Entwurfsbegründung ist dargelegt, dass die
+Behörden neben der Erfüllung ihrer gesetzlichen Aufgaben nach Absatz 1 eine datenschutzrechtliche
+Rechtsgrundlage benötigen, um personenbezogene Daten zum Zwecke der Sammlung, Auswertung und Untersuchung 
+von Vorfällen nach § 18 KRITISDachG-E und zur Unterstützung, Beratung und Warnung in Fragen zur 
+Gewährleistung der Resilienz durch Betreiber kritischer Anlagen zu verarbeiten. Daraus könnte der Schluss 
+gezogen werden, dass es sich bei den beiden in § 23 Absatz 2 Nummer 1 und 2 KRITISDachG-E genannten 
+Tätigkeiten nicht um gesetzliche Aufgaben handelt. Andererseits scheint die Nennung der Zwecke in § 23 
+Absatz 2 KRITISDachG-E doch wieder auf gesetzliche Aufgaben, eventuell sekundärer Natur, hinzuweisen. 
+Es sollte überprüft werden, ob es insoweit tunlich ist, eine Aufgabe der Behörde ausschließlich in einer 
+Zweckänderungsvorschrift zu benennen. Auch könnte es dann an einer Rechtsgrundlage fehlen, wenn man 
+unmittelbar für die beiden in § 23 Absatz 2 KRITISDachG-E benannten Zwecke Daten erheben wollte. Eine 
+solche Datenerhebung könnte wohl – auch ausweislich der Entwurfsbegründung – nicht auf § 23 Absatz 1 
+KRITISDachG-E gestützt werden. Dabei stellt der Bundesrat nicht in Abrede, dass Datenverarbeitungen zu 
+den in § 23 Absatz 2 KRITISDachG-E genannten Zwecken zulässig sein sollen. Ebenso kann grundsätzlich 
+nachvollzogen werden, dass, wie in der Entwurfsbegründung dargelegt, hier alle den Behörden aus
+öffentlichen, privaten, staatlichen, bekannten oder anonymen Quellen erlangten und zur Verfügung gestellten Daten 
+ausgewertet werden müssen. Der Bundesrat sieht es aber als erforderlich an, die Ausgestaltung der Vorschrift 
+als Zweckänderungsvorschrift im Kontext mit den Aufgaben der Behörden zu überprüfen. 
+ 
 34. Zu Artikel 1 (§ 23 Absatz 2 Nummer 2 KRITISDachG) 
 Der Bundesrat bittet, im weiteren Gesetzgebungsverfahren zu prüfen, ob die in § 23 Absatz 2 Nummer 2 
 KRITISDachG-E enthaltende Voraussetzung „und kein Grund zu der Annahme besteht, dass das
 schutzwürdige Interesse der betroffenen Personen an dem Ausschluss der Verarbeitung überwiegt“ sich tatsächlich nur 
 auf den in Nummer 2 genannten Zweck beziehen soll. 
 Begründung: 
-Nach der derzeitigen Konstruktion des § 23 Absatz 2 KRITISDachG-E ist eine Abwägung mit den 
-Interessen der betroffenen Person nur bei § 23 Absatz 2 Nummer 2 KRITISDachG-E vorgesehen, 
-d. h. wenn der Zweck der Verarbeitung die Unterstützung oder Beratung von Betreibern kritischer 
-Anlagen bei der Gewährleistung ihrer Resilienz ist. Aus der Entwurfsbegründung ist aber nicht
-erkennbar, dass sich die Interessen-abwägung nur auf die Fallkonstellation nach § 23 Absatz 2
-Nummer 2 KRITISDachG-E beziehen soll. Warum eine Interessenabwägung in den Fällen des § 23
-Absatz 2 Nummer 1 KRITISDachG-E nicht erforderlich sein sollte, ist auch nicht ersichtlich. Der
-Bundesrat sieht es daher als erforderlich an, den Wortlaut nochmals zu überprüfen. 
+Nach der derzeitigen Konstruktion des § 23 Absatz 2 KRITISDachG-E ist eine Abwägung mit den Interessen 
+der betroffenen Person nur bei § 23 Absatz 2 Nummer 2 KRITISDachG-E vorgesehen, d. h. wenn der Zweck 
+der Verarbeitung die Unterstützung oder Beratung von Betreibern kritischer Anlagen bei der Gewährleistung 
+ihrer Resilienz ist. Aus der Entwurfsbegründung ist aber nicht erkennbar, dass sich die Interessen-abwägung 
+nur auf die Fallkonstellation nach § 23 Absatz 2 Nummer 2 KRITISDachG-E beziehen soll. Warum eine 
+Interessenabwägung in den Fällen des § 23 Absatz 2 Nummer 1 KRITISDachG-E nicht erforderlich sein 
+sollte, ist auch nicht ersichtlich. Der Bundesrat sieht es daher als erforderlich an, den Wortlaut nochmals zu 
+überprüfen. 
+ 
 35. Zu Artikel 1 (§ 24 Absatz 3 KRITISDachG) 
 In Artikel 1 § 24 Absatz 3 ist die Angabe „Behörde.“ durch die Angabe „Behörde, soweit es sich um eine 
 Bundesbehörde handelt.“ zu ersetzen. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
 Begründung 
-§ 24 Absatz 3 KRITISDachG-E regelt, welche Behörden für die in § 24 Absatz 1 KRITISDachG-E 
-geregelten Ordnungswidrigkeiten die zuständige Verwaltungsbehörde im Sinne des § 36 Absatz 1 
-Nummer 1 OWiG ist. Für die in § 24 Absatz 1 Nummer 2 Buchstabe b, Nummer 3 und 4 KRITIS-
-DachG-E („in den übrigen Fällen“) genannten Ordnungswidrigkeiten ist nach § 24 Absatz 3 KRI-
-TISDachG-E Verwaltungsbehörde im Sinne von § 36 Absatz 1 Nummer 1 OWiG die jeweils nach 
-§ 3 Absatz 2 Satz 1 KRITISDachG-E zuständige Behörde. Da § 3 Absatz 1 Nummer 13 KRITIS-
-DachG-E auch die Landesbehörden nach § 3 Absatz 6 KRITISDachG-E zur „zuständigen Behörde“ 
-nach dem KRITISDachG-E erfasst, werden ebendiese auch zur Verwaltungsbehörde im Sinne des 
-§ 36 Absatz 1 Nummer 1 OWiG bestimmt. Dass der Bund an dieser Stelle eine Bestimmung auch 
-für den Bereich der Länder trifft und so den Weg für eine eigenständige Regelung der Länder nach 
-§ 36 Absatz 2 OWiG sperrt, ist weder erforderlich noch angezeigt. Aus diesem Grunde soll § 24 
-Absatz 3 KRITISDachG-E so ergänzt werden, dass dieser nur noch eine Regelung für den Bereich 
-der Bundesbehörden trifft. 
+§ 24 Absatz 3 KRITISDachG-E regelt, welche Behörden für die in § 24 Absatz 1 KRITISDachG-E
+geregelten Ordnungswidrigkeiten die zuständige Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 OWiG
+ist. Für die in § 24 Absatz 1 Nummer 2 Buchstabe b, Nummer 3 und 4 KRITISDachG-E („in den übrigen 
+Fällen“) genannten Ordnungswidrigkeiten ist nach § 24 Absatz 3 KRITISDachG-E Verwaltungsbehörde im 
+Sinne von § 36 Absatz 1 Nummer 1 OWiG die jeweils nach § 3 Absatz 2 Satz 1 KRITISDachG-E zuständige 
+Behörde. Da § 3 Absatz 1 Nummer 13 KRITISDachG-E auch die Landesbehörden nach § 3 Absatz 6 KRI-
+TISDachG-E zur „zuständigen Behörde“ nach dem KRITISDachG-E erfasst, werden ebendiese auch zur 
+Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 OWiG bestimmt. Dass der Bund an dieser Stelle 
+eine Bestimmung auch für den Bereich der Länder trifft und so den Weg für eine eigenständige Regelung 
+der Länder nach § 36 Absatz 2 OWiG sperrt, ist weder erforderlich noch angezeigt. Aus diesem Grunde soll 
+§ 24 Absatz 3 KRITISDachG-E so ergänzt werden, dass dieser nur noch eine Regelung für den Bereich der 
+Bundesbehörden trifft. 
+ 
 36. Zu Artikel 1 allgemein 
 a) Mit Blick insbesondere auf die gesundheitliche Versorgung sowie aufgrund der veränderten
 sicherheitspolitischen Lage wird der vorliegende Gesetzentwurf für ein KRITIS-Dachgesetz grundsätzlich
@@ -1070,56 +990,44 @@ d) Der Bundesrat bittet, im weiteren Gesetzgebungsverfahren zu prüfen, ob die E
 Infrastrukturen hauptsächlich anhand von prozessorientierten Kriterien vorzunehmen ist sowie
 entsprechende Mittel zur Finanzierung der entstehenden Kosten zur Verfügung zu stellen sind.  
 Begründung:  
-Der Gesetzentwurf wird grundsätzlich begrüßt. Eine rein an quantitativen Gesichtspunkten
-orientierte Bestimmung der kritischen Infrastruktur wird abgelehnt. Darüber hinaus wird auch die Frage 
-der Refinanzierung im vorliegenden Entwurf nicht eindeutig geklärt.  
-Zum Erfüllungsaufwand für die Wirtschaft verweist der vorliegende Gesetzentwurf lediglich darauf, 
-dass sich der Erfüllungsaufwand derzeit nicht abschätzen ließe. Da der Bund hier im Wege der
-konkurrierenden Gesetzgebung von seinem Gesetzgebungsrecht zur Herstellung einheitlicher
-Lebensverhältnisse Gebrauch macht, sollte der Bund für die erforderlichen Investitionskosten
-entsprechende Mittel zur Verfügung stellen. Dies sind insbesondere solche Investitionen für bauliche,
-technische sowie organisatorische Sicherung. Damit einhergehend ist auch ein etwaiger erhöhter
-Personalbedarf zu berücksichtigen. 
+Der Gesetzentwurf wird grundsätzlich begrüßt. Eine rein an quantitativen Gesichtspunkten orientierte
+Bestimmung der kritischen Infrastruktur wird abgelehnt. Darüber hinaus wird auch die Frage der
+Refinanzierung im vorliegenden Entwurf nicht eindeutig geklärt.  
+Zum Erfüllungsaufwand für die Wirtschaft verweist der vorliegende Gesetzentwurf lediglich darauf, dass 
+sich der Erfüllungsaufwand derzeit nicht abschätzen ließe. Da der Bund hier im Wege der konkurrierenden 
+Gesetzgebung von seinem Gesetzgebungsrecht zur Herstellung einheitlicher Lebensverhältnisse Gebrauch 
+macht, sollte der Bund für die erforderlichen Investitionskosten entsprechende Mittel zur Verfügung stellen. 
+Dies sind insbesondere solche Investitionen für bauliche, technische sowie organisatorische Sicherung.
+Damit einhergehend ist auch ein etwaiger erhöhter Personalbedarf zu berücksichtigen. 
+ 
 37. Zum Gesetzentwurf allgemein 
 Mit dem KRITISDachG-E kommen auf das BBK völlig neue Aufgaben und eine entscheidende Rolle bei 
 der Stärkung der physischen Resilienz kritischer Anlagen zu. Der Bundesrat bittet, im weiteren
 Gesetzgebungsverfahren zu prüfen, ob im Hinblick auf die gewandelte Rolle des BBK eine ergänzende Änderung des 
 BBKG angezeigt ist. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
 Begründung 
 Nach § 2 Absatz 1 BBKG nimmt das Bundesamt Aufgaben des Bundes auf den Gebieten des
-Bevölkerungsschutzes und der Katastrophenhilfe wahr, die ihm durch das Zivilschutz- und
-Katastrophenhilfegesetz oder andere Bundesgesetze oder auf Grund dieser Gesetze übertragen werden oder 
-mit deren Durchführung es vom BMI oder mit dessen Zustimmung von anderen fachlich
-zuständigen obersten Bundesbehörden beauftragt wird, soweit keine andere Zuständigkeit durch Gesetz oder 
-auf Grund eines Gesetzes festgelegt ist.  
-Ob es sich bei den Aufgaben des BBK, die ihm nach dem KRITISDachG-E obliegen werden, um 
-„Aufgaben des Bundes auf den Gebieten des Bevölkerungsschutzes und der Katastrophenhilfe“
-handelt, könnte bereits fraglich erscheinen. Die Bundesregierung macht in der Begründung des
-Gesetzentwurfs jedenfalls nicht geltend, dass sie sich auf Kompetenzen des Bundes zum Zivilschutz
-(Artikel 73 Absatz 1 Nummer 1 des Grundgesetzes) oder im Bereich der Katastrophenhilfe (Artikel 35 
-Absatz 2 und 3 des Grundgesetzes) stützt. Es besteht insofern ein Missverhältnis zwischen der
-Aufgabenzuweisung an das BBK in dem seine Errichtung regelnden Gesetz und der Rolle und
-Bedeutung, die ihm im Rahmen des KRITISDachG-E zugewiesen werden. Aus Sicht des Bundesrates ist 
-daher eine Prüfung angezeigt, ob und inwiefern parallel im Gesetz über die Errichtung des BBK das 
-KRITISDachG-E zu ergänzen ist. 
- 
-  
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Bevölkerungsschutzes und der Katastrophenhilfe wahr, die ihm durch das Zivilschutz- und Katastrophenhilfegesetz oder 
+andere Bundesgesetze oder auf Grund dieser Gesetze übertragen werden oder mit deren Durchführung es 
+vom BMI oder mit dessen Zustimmung von anderen fachlich zuständigen obersten Bundesbehörden
+beauftragt wird, soweit keine andere Zuständigkeit durch Gesetz oder auf Grund eines Gesetzes festgelegt ist.  
+Ob es sich bei den Aufgaben des BBK, die ihm nach dem KRITISDachG-E obliegen werden, um „Aufgaben 
+des Bundes auf den Gebieten des Bevölkerungsschutzes und der Katastrophenhilfe“ handelt, könnte bereits 
+fraglich erscheinen. Die Bundesregierung macht in der Begründung des Gesetzentwurfs jedenfalls nicht
+geltend, dass sie sich auf Kompetenzen des Bundes zum Zivilschutz (Artikel 73 Absatz 1 Nummer 1 des
+Grundgesetzes) oder im Bereich der Katastrophenhilfe (Artikel 35 Absatz 2 und 3 des Grundgesetzes) stützt. Es
+besteht insofern ein Missverhältnis zwischen der Aufgabenzuweisung an das BBK in dem seine Errichtung 
+regelnden Gesetz und der Rolle und Bedeutung, die ihm im Rahmen des KRITISDachG-E zugewiesen
+werden. Aus Sicht des Bundesrates ist daher eine Prüfung angezeigt, ob und inwiefern parallel im Gesetz über 
+die Errichtung des BBK das KRITISDachG-E zu ergänzen ist.
 Gegenäußerung der Bundesregierung 
-Die Bundesregierung äußert sich zur Stellungnahme des Bundesrates vom 21. November 2025 wie folgt: 
+Die Bundesregierung äußert sich zur Stellungnahme des Bundesrates wie folgt: 
  
-Zu Nummer 1, Nummer 2 und Nummer 3 – zum Gesetzentwurf allgemein  
- 
+Zu Nummer 1 – Zum Gesetzentwurf allgemein  
 Zu a.: siehe Nummer 9. 
 Zu b.: siehe Nummer 20 
 Zu c.: siehe Nummer 11. 
 Zu d.: siehe Nummer 8. 
- 
 Zu e.: Mit dem Gesetzentwurf verbindet die Bundesregierung ausdrücklich die Möglichkeit, dass dessen
 Regelungen mit fachgesetzlichen Regelungsinhalten in Einklang gebracht werden können. Der Gesetzentwurf sieht 
 ausdrücklich gemäß § 6 Absatz 2 KRITISDachG-E vor, dass Bund und Länder unbeschadet der Regelungen
@@ -1128,18 +1036,13 @@ können. Den Ländern obliegt es, die dort liegenden Aufgaben nach eigenem Ermes
 Der Bund kann daher keinen Überblick über Landeszuweisungen haben. Die Länder sind eingeladen, z. B.
 listenmäßig darzustellen, welche landesgesetzlichen Betroffenheiten jeweils gesehen werden und ggf. in eigener
 Zuständigkeit rechtsetzend tätig zu werden. 
- 
 Zu f.: Die Bundesregierung lehnt den Antrag ab. Eine entsprechende Regelung kann aber aus Sicht der
 Bundesregierung in Zukunft an anderer Stelle erfolgen.  
  
- 
- 
 Zu Nummer 2 (Fz – Bezifferung Erfüllungsaufwand)  
- 
 Siehe Nummer 22. 
  
-Zu Nummer 3 – Zu Artikel 1 (§ 1 KRITISDachG-E - Nationale Resilienzstrategie) 
- 
+Zu Nummer 3 – Zu Artikel 1 (§ 1 KRITISDachG-E – Nationale Resilienzstrategie) 
 Die Bundesregierung stimmt dem Antrag der Länder insoweit zu als sich die Frist für die Erstellung der Strategie 
 zur Verbesserung der Resilienz kritischer Infrastrukturen bereits aus Artikel 4 der Richtlinie (EU) 2022/2557 vom 
 14. Dezember 2022 über die Resilienz kritischer Einrichtungen und zur Aufhebung der Richtlinie 2008/114/EG 
@@ -1149,7 +1052,6 @@ Strukturen.
  
 Zu Nummer 4  – Zu Artikel 1 (§ 2 Nummer 01 – neu – KRITISDachG-E – Definition kritische
 Infrastrukturen) 
- 
 Die Bundesregierung lehnt den Antrag ab. Der Gesetzentwurf des KRITISDachG-E enthält in § 2 legaldefiniert 
 die erforderlichen Begrifflichkeiten. Abgestellt wird in Umsetzung des EU-Rechtes auf die Begriffe der
 „kritischen Dienstleistung“, „kritischen Anlage“ sowie „Betreiber kritischer Anlagen“. Gemäß § 5 KRITISDachG-E 
@@ -1157,28 +1059,21 @@ werden die vom Gesetz erfassten kritischen Dienstleistungen durch Rechtsverordnu
 Die Bundesregierung erkennt an, dass der Begriff der Kritischen Infrastruktur davon abweichend im allgemeinen 
 Sprachgebrauch weiter gefasst verwendet wird.  
  
-Zu Nummer 5 - Zu Artikel 1 (§ 2 Nummer 1 KRITISDachG-E)  
+Zu Nummer 5 – Zu Artikel 1 (§ 2 Nummer 1 KRITISDachG-E)  
 Die Bundesregierung lehnt den Antrag ab. Der Antrag würde einen direkten Widerspruch zu den jüngst im
 Rahmen des Gesetzes zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge des
 Informationssicherheitsmanagements in der Bundesverwaltung (NIS-2-Umsetzungs- und
-Cybersicherheitsstärkungsgesetz) verabschiedeten Regelungen in § 28 Absatz 8 Satz 2 des BSI-Gesetzes (BSIG)  
- 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-begründen, wonach die Beschränkung auf die tatsächliche Sachherrschaft als Kriterium für die
-Betreibereigenschaft einer kritischen Anlage ausschließlich für den Sektor Finanzwesen vorgesehen ist. § 2 Nummer 1 KRITIS-
-DachG-E enthält eine gleichlaufende Regelung, die der Systematik des BSIG entspricht und die erforderliche 
-Kohärenz zwischen den komplementären Regulierungsrahmen für Cybersicherheit und physische Resilienz
-sicherstellt. Eine sektorale Erweiterung der Sonderregelung im KRITIS-Dachgesetz bei gleichzeitiger Beibehaltung 
-der allgemeinen Betreiberdefinition im BSIG würde zu einer nicht auflösbaren Divergenz bei der Bestimmung 
-der Betreibereigenschaft einer kritischen Anlage führen. Die Bundesregierung sieht sich daher nicht in der Lage, 
-dem Antrag zuzustimmen.  
+Cybersicherheitsstärkungsgesetz) verabschiedeten Regelungen in § 28 Absatz 8 Satz 2 des BSI-Gesetzes (BSIG) begründen, wonach die
+Beschränkung auf die tatsächliche Sachherrschaft als Kriterium für die Betreibereigenschaft einer kritischen Anlage 
+ausschließlich für den Sektor Finanzwesen vorgesehen ist. § 2 Nummer 1 KRITISDachG-E enthält eine
+gleichlaufende Regelung, die der Systematik des BSIG entspricht und die erforderliche Kohärenz zwischen den
+komplementären Regulierungsrahmen für Cybersicherheit und physische Resilienz sicherstellt. Eine sektorale
+Erweiterung der Sonderregelung im KRITIS-Dachgesetz bei gleichzeitiger Beibehaltung der allgemeinen
+Betreiberdefinition im BSIG würde zu einer nicht auflösbaren Divergenz bei der Bestimmung der Betreibereigenschaft einer 
+kritischen Anlage führen. Die Bundesregierung sieht sich daher nicht in der Lage, dem Antrag zuzustimmen.  
  
 Zu Nummer 6 – Zu Artikel 1 (§ 3 Absatz 2 Nummer 4 KRITISDachG-E – Eisenbahnzuständigkeit) 
- 
 Die Bundesregierung lehnt den Antrag ab. 
- 
 Der Bundesrat merkt zutreffend an, dass die Zuständigkeitsverteilung zwischen Ländern und Bund nicht an die 
 „Zuständigkeit der bundeseigenen Eisenbahnverkehrsunternehmen“ knüpfen kann, da Wirtschaftsunternehmen 
 keine Zuständigkeiten haben.  Eine allein in textlicher Hinsicht klarstellend korrigierte Formulierung, die – im 
@@ -1186,7 +1081,6 @@ Einklang mit § 5 Absatz 1a des Allgemeines Eisenbahngesetzes (AEG) – an die E
 bundeseigene Unternehmen anknüpft, müsste daher wie folgt lauten: 
 „das Eisenbahn-Bundesamt für die kritische Dienstleistung von Eisenbahnen, für deren Aufsicht und
 Genehmigung nach § 5 Absatz 1a Nummer 1 des Allgemeinen Eisenbahngesetzes der Bund zuständig ist.“ 
- 
 Der Vorschlag des Bundesrates, der auch § 5 Absatz 1 e Satz 1 Nummer 4 und 4 a einbezieht, würde jedoch 
 darüber hinaus auch die Zuständigkeit des Eisenbahn-Bundesamtes für Aufgaben aus dem KRITISDachG-E
 erweitern, was für das Eisenbahn-Bundesamt mit erheblichem zusätzlichen Erfüllungsaufwand verbunden wäre. Da 
@@ -1198,45 +1092,37 @@ Eisenbahn-Bundesamt als die gem. § 5 Absatz 1e Satz 1 Nummer 4 AEG für die Gef
 Eisenbahnaufsichtsbehörde ist daher nach Systematik und Ziel des Gesetzes nicht zwingend.  
  
 Zu Nummer 7 – Zu Artikel 1 (§ 3 Absatz 2 Satz 1 Nummer 11 und § 11 Absatz 1 Satz 1 KRITISDachG-E)  
- 
 Die Bundesregierung lehnt den Antrag ab. Eine Zentralisierung der Durchführung von Risikoanalysen und
-Risikobewertungen für die kritische Dienstleistung „Leistungen der Sozialversicherung“ auf Bundesebene beim 
+Risikobewertungen für die kritische Dienstleistung „Leistungen der Sozialversicherung“ auf Bundesebene beim
 Bundesamt für Soziale Sicherung (BAS) wäre nicht zielführend. 
- 
 Das sektorspezifische Fachwissen für die verschiedenen Sektoren befindet sich grundsätzlich teilweise in
-Bundeszuständigkeit und teilweise in Länderzuständigkeit. Um dieses Fachwissen beim Vollzug des KRITIS-
-DachG-E vollumfänglich nutzen zu können, werden Aufgaben je nach Bundes- oder Länderzuständigkeit den 
+Bundeszuständigkeit und teilweise in Länderzuständigkeit. Um dieses Fachwissen beim Vollzug des KRITISDachG-
+E vollumfänglich nutzen zu können, werden Aufgaben je nach Bundes- oder Länderzuständigkeit den
 entsprechenden Behörden zugeteilt. 
- 
 Die Zuständigkeit für die Erstellung nationaler Risikoanalysen und Risikobewertungen ist gemäß § 11 Absatz 1 
 KRITISDachG-E daher den jeweiligen Bundes- und Landesministerien zugeordnet. Sie obliegt damit gleichsam 
 der föderalen Ebene, die u. a. auch über die Angelegenheiten der von ihr beaufsichtigten landesunmittelbaren 
 Sozialversicherungsträger sachnäher informiert ist und diesen gegenüber zudem über umfangreiche Auskunfts- 
-und Prüfrechte verfügt. Die nach § 3 Absatz 2 Satz 1 Nummer 11 KRITISDachG-E genannten
-Aufsichtsbehörden sind demgegenüber als zuständige Behörden nach § 11 Absatz 6 KRITISDachG-E lediglich Empfänger der 
-zu erstellenden Risikoanalysen und Risikobewertungen.  
- 
+und Prüfrechte verfügt. Die nach § 3 Absatz 2 Satz 1 Nummer 11 KRITISDachG-E genannten Aufsichtsbehörden 
+sind demgegenüber als zuständige Behörden nach § 11 Absatz 6 KRITISDachG-E lediglich Empfänger der zu 
+erstellenden Risikoanalysen und Risikobewertungen.  
 Sollten für die Erstellung von Risikoanalysen und -bewertungen für die kritische Dienstleistung „Leistungen der 
-Sozialversicherung“ methodische oder informationstechnische Fragen zwischen den Ländern oder mit dem 
-Bund abzustimmen sein, könnte dies künftig u. a. im Rahmen der gesetzlich verankerten
-Aufsichtsbehördentagung (vgl. § 90 Absatz 4 SGB IV) erfolgen.  
+Sozialversicherung“ methodische oder informationstechnische Fragen zwischen den Ländern oder mit dem Bund 
+abzustimmen sein, könnte dies künftig u. a. im Rahmen der gesetzlich verankerten Aufsichtsbehördentagung (vgl. 
+§ 90 Absatz 4 SGB IV) erfolgen.  
  
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-Zu Nummer 8 – (Zustimmungsbedürftigkeit Rechtsverordnungen bei § 3 Absatz 3, § 4 Absatz 3, § 5
-Absatz 1 Satz 1, § 11 Absatz 8 Satz 1, § 12 Absatz 3 Satz 1, § 14 Absatz 1 Satz 1, Absatz 3 Satz 1, § 17 Absatz 3 
-Satz 1 KRITISDachG-E)  
- 
+Zu Nummer 8 – (Zustimmungsbedürftigkeit Rechtsverordnungen bei Artikel 1 § 3 Absatz 3 Satz 1 und 2, 
+§ 4 Absatz 3, § 5 Absatz 1, § 11 Absatz 8 Satz 1, § 12 Absatz 3 Satz 1, § 14 Absatz 1 Satz 1, Absatz 3 Satz 1, 
+§ 17 Absatz 3 Satz 1 KRITISDachG-E, Artikel 5 Absatz 2 (Inkrafttreten))  
 Die Bundesregierung lehnt die Anträge hinsichtlich der Rechtsverordnungsermächtigungen in Artikel 1 § 3
 Absatz 3 Satz 1 und 2 (Festlegung der Bundesbehörden), § 4 Absatz 3, § 5 Absatz 1 (Identifizierung KRITIS) sowie 
-§ 14 Absatz 3 Satz 1 (sektorspezifische Mindestvorgaben) ab.  
+§ 14 Absatz 3 Satz 1 (sektorspezifische Mindestvorgaben) ab.
 Hinsichtlich der Rechtsverordnungsermächtigungen gemäß § 11 Absatz 8 Satz 1 (Methodik Nationale
 Risikoanalysen und Risikobewertungen), § 12 Absatz 3 Satz 1 (Methodik betreiberseitige Risikoanalysen und
 Risikobewertungen), § 14 Absatz 1 (sektorübergreifende Mindestvorgaben), sowie § 17 Absatz 3
 (Gleichwertigkeitsanerkennung von öffentlich-rechtlichen Vorschriften) hält die Bundesregierung dies grundsätzlich für möglich. 
 Die Rechtsverordnungsermächtigung in § 3 Absatz 3 regelt eine Festlegung von Bundesbehörden für kritische 
-Dienstleistungen, die ausschließlich in Bundeszuständigkeit sind.  § 14 Absatz 3 KRITISDachG-E ermächtigt 
+Dienstleistungen, die ausschließlich in Bundeszuständigkeit sind. § 14 Absatz 3 KRITISDachG-E ermächtigt 
 ebenso die Bundesministerien ausschließlich bei den kritischen Dienstleistungen in Bundeszuständigkeit (§ 3
 Absatz 2 Nummer 1 – 12) zum Erlass von sektorspezifischen Mindestvorgaben, soweit sich keine
 branchenspezifischen Standards entwickelt haben (vgl. § 14 Absatz 5 KRITISDachG-E). Eine gleichlautende Vorschrift für die 
@@ -1244,13 +1130,11 @@ Landeministerium für die in Länderzuständigkeit befindlichen kritischen Diens
 KRITISDachG-E vorgesehen. 
 Bei den Rechtsverordnungen in § 3 Absatz 3 und § 14 Absatz 3 KRITISDachG-E ist daher keine
 Länderzuständigkeit und kein Ländervollzug betroffen.  
- 
 Die Rechtsverordnung zur Identifizierung der Betreiber kritischer Anlagen (§ 4 Absatz 3, § 5 Absatz 1 KRITIS-
 DachG-E) wird praktisch die bisher geltende BSI-KritisV gemäß BSIG fortführen. Auch diese Rechtsverordnung 
 war bisher zustimmungsfrei. 
- 
-Gemäß CER-Richtlinie muss die Identifizierung der kritischen Einrichtungen bis  
-16. Juli 2026 erfolgen. Daher ist eine zügige Erarbeitung der Rechtsverordnung dringlich. 
+Gemäß CER-Richtlinie muss die Identifizierung der kritischen Einrichtungen bis 16. Juli 2026 erfolgen. Daher 
+ist eine zügige Erarbeitung der Rechtsverordnung dringlich. 
 Zu 8 b) weist die Bundesregierung darauf hin, dass die Fristsetzung zur Verordnungsermächtigung der
 Bundesressorts und der Landesregierungen zur Konkretisierung der Maßnahmen nach § 13 KRITISDachG-E dazu dienen 
 soll, eine Priorisierung vorzunehmen. Branchenspezifischen Resilienzstandards soll der Vorrang gegeben werden. 
@@ -1259,36 +1143,29 @@ nachfolgend sollen die für die kritischen Dienstleistungen jeweils zuständigen
 Landesregierungen von der Verordnungsermächtigung Gebrauch machen können, solange und soweit kein entsprechender
 branchenspezifischer Resilienzstandard entwickelt und anerkannt wurde.  
  
-Zu Nummer 9 - Zu Artikel 1 (§ 4 Absatz 1 Nummer 3 bis 5, 11 – neu –, 12 –neu –, Absatz 2 Nummer 4, 5 –
-neu –, 6 –neu – KRITISDachG-E – Sektorenerweiterung und Umbenennung) 
- 
+Zu Nummer 9 – Zu Artikel 1 (§ 4 Absatz 1 Nummer 3 bis 5, 11 – neu –, 12 – neu –, Absatz 2 Nummer 4, 
+5 – neu –, 6 – neu – KRITISDachG-E – Sektorenerweiterung und Umbenennung) 
 Die Bundesregierung lehnt diesen Vorschlag ab.  
 Zu a) 
-Ziff. 1. -3.: Umbenennung der Sektoren 
+Ziff. 1 bis 3: Umbenennung der Sektoren 
 Bei der Benennung der Sektoren wurde sich zum einen an der CER-Richtlinie orientiert (Gesundheitswesen), zum 
 anderen gilt der Sektorbegriff „Finanz – und Versicherungswesen nicht mehr uneingeschränkt im KRITISDachG-
 E. Das Versicherungswesen wurde im KRITISDachG-E auf die „Leistungen der Sozialversicherung sowie
 Grundsicherung für Arbeitsuchende“ beschränkt. Eine Umbenennung der „Leistungen der Sozialversicherung sowie 
 Grundsicherung für Arbeitsuchende“ in den Sektor „Sozialwesen“ würde einen schwer abgrenzbaren Bereich 
 bedeuten, der zu einem deutlich höheren Anwendungsbereich führen würde. 
- 
-Ziff. 4-5: Ausweitung der Sektoren 
+Ziff. 11 und 12: Ausweitung der Sektoren 
 Eine Ausweitung des Anwendungsbereichs auf die Sektoren „Staat und Verwaltung“ sowie „Medien und Kultur“ 
 wird ebenso abgelehnt. Der Sektor „Staat und Verwaltung“ ist in § 7 KRITISDachG-E – Einrichtungen der
 Bundesverwaltung geregelt. Der Gesetzentwurf KRITISDachG-E setzt die CER-Richtlinie zunächst eng um. Daher 
 werden im Sektor Staat und Verwaltung bzw. öffentliche Verwaltung nur Einrichtungen der Bundesverwaltung 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
 und zwar konkret die Bundesministerien, das Bundeskanzleramt und der Beauftragte der Bundesregierung für 
 Kultur und Medien vom Anwendungsbereich erfasst. Diese Auslegung der „Zentralregierung“ entspricht der
 Auslegung der Richtlinie 2014/24/EU über die öffentliche Auftragsvergabe und zur Aufhebung der Richtlinie 
 2004/18/EG. 
- 
 Der Sektor Medien und Kultur ist nicht von der CER-Richtlinie umfasst. Eine Ausweitung würde keine 1:1-
-Umsetzung der CER-Richtlinie darstellen und wäre auch mit der Rechtsgrundlage des KRITISDG und der
-damit verbundenen Hauptzielsetzung der Aufrechterhaltung der Handlungsfähigkeit der Wirtschaft nicht
-vereinbar.  
+Umsetzung der CER-Richtlinie darstellen und wäre auch mit der Rechtsgrundlage des KRITISDG und der damit 
+verbundenen Hauptzielsetzung der Aufrechterhaltung der Handlungsfähigkeit der Wirtschaft nicht vereinbar.
 § 4 Absatz 1 des Gesetzesentwurfs regelt nicht, ob und was Kritische Infrastrukturen sind, sondern benennt nur, 
 für welche Betreiber Kritischer Anlagen das KRITISDachG-E gilt. Klarstellend ergibt sich aus der
 Gesetzesbegründung, dass der Sektor Medien und Kultur weiterhin als Sektor der Kritischen Infrastruktur verstanden und 
@@ -1299,49 +1176,37 @@ Der Sektor „Medien und Kultur“ soll darin berücksichtigt werden.
 Zu b) Die Bundesregierung lehnt den Vorschlag ab. Da eine Aufnahme der Sektoren „Medien und Kultur“ und 
 „Staat und Verwaltung“ aus den Gründen zu a) ab, daher erübrigt sich auch eine Regelung zu den
 Bereichsausnahmen in § 4 Absatz 2 KRITISDachG-E. 
-Zu Nummer 10  (§ 4 Absatz 2 Nummer 1 KRITISDachG-E)  
  
+Zu Nummer 10 – Zu Artikel 1 (§ 4 Absatz 2 Nummer 1 KRITISDachG-E)  
 Es ist Ziel der Bundesregierung, unnötige Mehrbelastungen durch doppelte Pflichten zu vermeiden. Aus Sicht der 
 Bundesregierung sollte diese Frage Gegenstand der Evaluierung des Gesetzes sein. 
  
  
-Zu Nummern 11 - Zu Artikel 1 (§ 5 Absatz 2 Satz 2 KRITISDachG-E) Herabsenkung/ Streichung
+Zu Nummern 11 – Zu Artikel 1 (§ 5 Absatz 2 Satz 2 KRITISDachG-E) Herabsenkung/ Streichung
 Regelschwellenwert  
- 
- 
 Die Festlegung des Regelschwellenwerts von 500.000 zu versorgenden Einwohnern je Anlage im Gesetzentwurf 
-orientiert sich an den Prinzipien der Versorgungssicherheit und der Wirtschaftlichkeit.   
- 
+orientiert sich an den Prinzipien der Versorgungssicherheit und der Wirtschaftlichkeit. 
 Die Anknüpfung an 500.000 zu versorgenden Personen resultiert aus Erfahrungswerten bei der Notfallplanung. 
 Ausfälle kritischer Infrastruktur können bis zu einer gewissen Größenordnung über Notfallkapazitäten
 aufgefangen werden. Übersteigen solche Ausfälle die Kompensationsfähigkeit der Notfallvorsorge, kommt es zu
 Engpässen bei der Versorgung der Allgemeinheit bspw. mit Trinkwasser oder Strom. Eine Analyse von Notfallplanungen 
 bzw. Notfallkapazitäten aus Bundessicht hat gezeigt, dass diese Kapazitätsgrenze in einem Korridor um 500.000 
 betroffene Personen liegt. 
- 
 Angesichts eines erheblichen mit dem Gesetzentwurf verbundenen Erfüllungsaufwands für die Wirtschaft muss 
 es gemeinsames Anliegen sein, die zusätzlichen Anforderungen an die Wirtschaft auf diejenigen Bereiche zu 
 begrenzen, deren Ausfall nicht oder nur mit erheblichen Schwierigkeiten kompensierbar wäre. Dies sind vor allem 
 die großen Erzeugungsanlagen. Betreibern von Anlagen unterhalb des vorgesehenen Regelschwellenwerts den 
 hohen zusätzlichen Erfüllungsaufwand zuzumuten erscheint vor diesem Hintergrund nicht gerechtfertigt.  
- 
 Der im KRITIS-Dachgesetz vorgesehene Regelschwellenwert entspricht dem im Cyberbereich bereits geltenden 
 Regelschwellenwert (vgl. Anhang 1 Teil 2 der BSI-Kritisverordnung – BSI-KritisV). Die Methodik der BSI-
 KritisV ist unter Zusammenarbeit aller Beteiligten in einem drei Jahre dauernden Prozess erarbeitet worden, hat 
 sich seitdem bewährt und wird von der Wirtschaft akzeptiert. Die Methodik mit dem Regelschwellenwert aus der 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
 BSI-KritisV soll grundsätzlich beibehalten werden und es wird eine gemeinsame KRITIS-Verordnung zur
 Identifizierung kritischer Anlagen nach dem BSIG sowie KRITISDachG-E geben. Identifizierte Betreiber kritischer 
-Anlagen fallen 
- 
-außerdem automatisch in die Kategorie der besonders wichtigen Einrichtungen nach dem BSIG. 
- 
+Anlagen fallen außerdem automatisch in die Kategorie der besonders wichtigen Einrichtungen nach dem BSIG. 
 Die Rechtsverordnung ist darüber hinaus jetzt schon flexibel. Der Regelschwellenwert dient als Ausgangspunkt 
 für die mathematische Berechnung der tatsächlichen Schwellenwerte einzelner Anlagenkategorien. Von ihm wird 
 jetzt schon in der BSI-KritisV abgewichen, was im Einzelfall sinnvoll sein kann.  
- 
 Ein gutes Beispiel dafür wie branchenspezifisch Abweichungen und Flexibilisierungen des Regelschwellenwertes 
 erfolgen können, ist die Regelung zu Seekabelanlandestationen. Hier gilt der Schwellenwert von einem
 angebundenen Kabel, da davon ausgegangen wird, dass jeglicher Ausfall mit erheblichen Auswirkungen verbunden wäre. 
@@ -1351,15 +1216,13 @@ Fallzahlen pro Jahr abstellt. Daran sieht man: Der zu bestimmende Schwellenwert 
 Anzahl von zu versorgenden Einwohnern, die die durch die Anlage erbrachten Dienstleistungen in Anspruch 
 nehmen, zu bemessen. Darüber hinaus können für weitere besonders bedeutsame und gegebenenfalls besonders 
 gefährdete Einrichtungen der Regelschwellenwert, die Bemessungskriterien oder die sektor-, branchen- oder
-anlagenspezifischen Schwellenwerte angepasst werden. 
- 
+anlagenspezifischen Schwellenwerte angepasst werden.
 Ist eine Anlage für die Erbringung einer kritischen Dienstleistung von erheblicher Bedeutung, ohne jenseits des 
 Regelschwellenwerts zu liegen, so eröffnet § 5 Absatz 3 KRITISDachG-E neben der Rechtsverordnung die
 Möglichkeit, eine solche Anlage im Einzelfall unter den Anwendungsbereich des Gesetzes zu stellen. Auf diese Weise 
 können – sofern vorhanden – einzelne kleinere, aber für die Gesamtversorgung dennoch erhebliche Anlagen
 berücksichtigt werden, ohne den Regelschwellenwert pauschal herabzusetzen und damit viele Unternehmen mit 
 nicht gerechtfertigtem Erfüllungsaufwand unnötig zu belasten. 
- 
 Ein Überblick über die Entwicklung des Erfüllungsaufwands für die KRITIS-Betreiber in allen KRITIS-Sektoren 
 bei einer pauschalen Absenkung des Regelschwellenwerts von 500.000 auf 150.000 zu versorgende Einwohner 
 je Anlage liegt der Bundesregierung nicht vor. Es ist jedoch von einer Potenzierung des Erfüllungsaufwands
@@ -1367,27 +1230,20 @@ auszugehen. Dies gilt im Übrigen nicht nur mit Blick auf die Wirtschaft. Vielme
 KRITIS erfassten Anlagen auch den durch Vollzugsaufgaben anfallenden Erfüllungsaufwand der Verwaltung von 
 Bund und Ländern deutlich steigern. Diesem zusätzlichen Verwaltungsaufwand stünde aber kein entsprechender 
 Mehrwert mit Blick auf die Stärkung der Gesamtversorgung gegenüber. 
- 
 Die Bundesregierung kann sich jedoch an dieser Stelle Regelungen zur Eröffnung von Spielräumen der Länder 
 für die Identifizierung von KRITIS auch jenseits des Regelschwellenwertes vorstellen.  
  
- 
-Zu Nummer 12 (§ 5 Absatz 4 Satz 2 und Satz 3 KRITISDachG-E - Einvernehmensregelung)  
- 
+Zu Nummer 12 – Zu Artikel 1 (§ 5 Absatz 4 Satz 2 und Satz 3 KRITISDachG-E – Einvernehmensregelung)  
 Die Bundesregierung lehnt diese Vorschläge ab. 
 Staatsorganisationsrechtlich ist die Festlegung eines Einvernehmens zwischen Bund und Ländern nicht möglich. 
 Die Bundesregierung hat daher die staatsorganisationsrechtlich zulässige Formulierung des „Benehmens“ mit den 
 zuständigen Landesbehörden gewählt. 
- 
 Die Verwaltungszuständigkeiten von Bund und Ländern sind grundsätzlich getrennt und können selbst mit
 Zustimmung der Beteiligten nur in den vom Grundgesetz vorgesehenen Fällen zusammengeführt werden (vgl. B
 VerfGE 119, 331 <364>). Aus dem Normgefüge der Artikel 83 ff. GG folgt, dass Mitplanungs-, Mitverwaltungs- und 
 Mitentscheidungsbefugnisse gleich welcher Art durch das Grundgesetz ausgeschlossen sind. Das Grundgesetz 
 schließt damit, von begrenzten Ausnahmen abgesehen, eine sogenannte Mischverwaltung aus (vgl. BVerfGE 119, 
 331 <365>). Das Vorsehen eines Einvernehmens zwischen Stellen des Bundes und eines Landes würde gegen 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
 dieses verfassungsrechtliche Verbot verstoßen. Als verfassungsrechtlich zulässige Form der Einbindung kommt 
 an dieser Stelle daher nur das Benehmen in Betracht. 
 Den zuständigen Behörden obliegt weiterhin ein Vorschlagsrecht gemäß § 5 Absatz 4 Satz 4 KRITISDachG-E, 
@@ -1399,20 +1255,16 @@ Bundessicht erfolgen, daher soll dem Bund die Entscheidungsbefugnis obliegen. Di
 KRITISDachG-E werden dabei sorgfältig abgewogen. Auch ein Auskunftsrecht für die zuständigen Behörden ist 
 in dem Rahmen nicht erforderlich. 
  
-Zu Nummer 13 (§ 8 Absatz 3 KRITISDachG-E)  
- 
+Zu Nummer 13 – Zu Artikel 1 (§ 8 Absatz 3 KRITISDachG-E)  
 Die Bundesregierung lehnt den Antrag ab. Die Regelungen zur Registrierung orientieren sich am BSIG und dessen 
 Verfahren, das bereits fachlich erprobt und bewährt ist. Eine Lücke beim Verlangen nach Informationen und 
 Unterlagen ist nicht bekannt.  
+Zu dem Antrag des Einvernehmens siehe Nummer 12. 
  
-Zu dem Antrag des Einvernehmens siehe Nummer 12.  
- 
-Zu Nummer 14 (§ 8 Absatz 3 Satz 2 KRITISDachG-E- Einvernehmensregelung) 
-Die Bundesregierung lehnt den Antrag ab. Siehe Nummer 12. 
- 
+Zu Nummer 14 – Zu Artikel 1 (§ 8 Absatz 3 Satz 2 KRITISDachG-E – Einvernehmensregelung) 
+Die Bundesregierung lehnt den Antrag ab. Siehe Nummer 12.
 Zu Nummer 15 – Zu Artikel 1 (§ 8 Absatz 5 Satz 2, Absatz 6 Satz 2, § 18 Absatz 3 Satz 1, Absatz 7 KRI-
 TISDachG-E)  
- 
 Zu a) 
 Dem Antrag, dass zusätzliche Information an die zentrale Landesbehörde nach § 3 Absatz 5 KRITISDachG-E 
 (Zentrale Ansprechstelle) erfolgen sollen, wird zugestimmt. Die zuständige Landesbehörde nach § 3 Absatz 6 
@@ -1421,51 +1273,41 @@ die fachlich zuständige Landesbehörde, sofern eine Bundesbehörde zuständig i
 abgelehnt. Sofern eine Bundesbehörde für den Betreiber kritischer Anlagen zuständig ist, liegt die kritische 
 Dienstleistung in der Zuständigkeit des Bundes, eine Übermittlung der Informationen der Registrierung ist daher 
 nicht gerechtfertigt.  
- 
- 
 Zu b) 
-aa) Die Einbindung der zentralen Landesbehörde nach § 3 Absatz 5 KRITISDachG-E in die Ausgestaltung des 
+aa) 
+Die Einbindung der zentralen Landesbehörde nach § 3 Absatz 5 KRITISDachG-E in die Ausgestaltung des
 Meldeverfahrens erscheint nach Ansicht der Bundesregierung grundsätzlich möglich. 
- 
 bb)  
 Nach Ansicht der Bundesregierung erscheint dies grundsätzlich möglich. 
  
-Zu Nummer 16 (§ 10 Absatz 1 KRITISDachG-E – Einvernehmensregelung)  
- 
+Zu Nummer 16 (§ 10 Absatz 1 Satz 4 und Satz 5 KRITISDachG-E – Einvernehmensregelung)  
 Siehe Nummer 12.  
  
-Zu Nummer 17 (§ 11 Absatz 1 Satz 1 KRITISDachG-E – Ergänzung zuständige Behörde)  
- 
+Zu Nummer 17 – Zu Artikel 1 (§ 11 Absatz 1 Satz 1 KRITISDachG-E – Ergänzung zuständige Behörde)  
 Die Bundesregierung lehnt diesen Vorschlag ab. 
-Die zuständige Behörde ist in § 3 Absatz 2 KRITISDachG-E legaldefiniert. Der Zusatz nach § 3 KRITIS-
-DachG-E wäre nicht nur unzureichend, sondern würde auch in der gesamten Systematik des Gesetzes zu 
-Rechtsunsicherheit führen.  
-Zu Nummer 18 (§ 11 Absatz 1 Satz 1 KRITISDachG-E)  
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Die zuständige Behörde ist in § 3 Absatz 2 KRITISDachG-E legaldefiniert. Der Zusatz nach § 3 KRITISDachG-E 
+wäre nicht nur unzureichend, sondern würde auch in der gesamten Systematik des Gesetzes zu Rechtsunsicherheit 
+führen.  
+ 
+Zu Nummer 18 – Zu Artikel 1 (§ 11 Absatz 1 Satz 1 KRITISDachG-E)  
 Die Bundesregierung sieht keinen Regelungsbedarf im Gesetzesentwurf. Die Länder sind im Rahmen der
 eigenverantwortlichen Aufgabenwahrnehmung beim Vollzug von Bundesgesetzen berechtigt, Aufgaben zu delegieren. 
  
-Zu Nummer 19 (§ 11 Absatz 4 Satz 3 KRITISDachG-E – Streichung Frist) 
- 
+Zu Nummer 19 – Zu Artikel 1 (§ 11 Absatz 4 Satz 3 KRITISDachG-E – Streichung Frist) 
 Die Bundesregierung stimmt dem Antrag der Länder insoweit zu als sich die Frist für die Durchführung der
 Nationalen Risikobewertungen und Risikoanalysen bereits aus Artikel 5 Absatz 1 der CER-Richtlinie ergibt. 
  
- 
-Zu Nummer 20 (§ 13 KRITISDachG-E)  
- 
+Zu Nummer 20 – Zu Artikel 1 (§ 13 Absatz 1 Nummer 1 bis 4, Absatz 3 Nummer 1 bis 4, 6 – neu –KRITIS-
+DachG-E)  
 Die Bundesregierung lehnt diesen Vorschlag insgesamt ab.  
  
 Zu a) Bei den Formulierungen in § 13 KRITISDachG-E wurde sich an den Wortlaut des Artikels 13 der CER-
 Richtlinie gehalten.  
 Der konkrete Vorschlag des Änderungsantrages suggeriert, dass der physische Schutz lediglich der Verhinderung 
 von Vorfällen dient, was nicht der Fall ist.  
- 
 Zu b) Da der Länderantrag bei der Anpassung des § 13 Absatz 3 KRITISDachG-E eine übermäßige
 Konkretisierung der Resilienzmaßnahmen vorsieht, ist dieser abzulehnen. Eine ausschließliche Konkretisierung der
-Resilienzmaßnahmen ist in einer Rechtsverordnung gemäß § 14 Absatz 1 KRITISDachG-E vorzusehen. 
- 
+Resilienzmaßnahmen ist in einer Rechtsverordnung gemäß § 14 Absatz 1 KRITISDachG-E vorzusehen.
 Insbesondere der Antrag auf Einführung des Absatzes 6 (c) ist abzulehnen. Eine Meldepflicht für Betreiber
 kritischer Anlagen ist in § 18 KRITISDachG-E geregelt und entspricht den Vorgaben der CER-Richtlinie. Die in 
 Absatz 6 vorgeschlagene Verpflichtung würde über die CER-Richtline hinausgehen. 
@@ -1475,13 +1317,12 @@ verschiedene Stellen des Bundes und der Länder übermitteln müssten. Eine solc
 vorgesehen. Der Vorschlag würde der angedachten Systematik widersprechen, dass Informationen an eine Stelle 
 (BBK) gemeldet und bei dieser gebündelt werden.  
  
-Zu Nummer 21 - Zu Artikel 1 (§ 13 Absatz 1 KRITISDachG) – Drohnen 
+Zu Nummer 21 – Zu Artikel 1 (§ 13 Absatz 1 KRITISDachG) – Drohnen 
 Die BReg teilt die Sorge angesichts der aktuellen Drohnensichtungen im Zusammenhang mit wichtigen
 Einrichtungen, darunter auch KRITIS. Das Spektrum an Einsatzmöglichkeiten für Drohnen ist vielfältig, auch für
 kriminelle Zwecke. Damit sind Drohnen auch aufgrund ihrer zunehmenden Leistungsfähigkeit, Benutzerfreundlichkeit 
-und  
- 
-Verfügbarkeit als geeignetes Tatmittel zur Ausspähung oder Durchführung von Sabotagehandlungen anzusehen.  
+und Verfügbarkeit als geeignetes Tatmittel zur Ausspähung oder Durchführung von Sabotagehandlungen
+anzusehen.  
 BM Dobrindt hat entschieden, ein Gemeinsames Drohnenabwehrzentrums einzurichten, in welchem die
 Fachkompetenzen der Sicherheitsbehörden des Bundes und der Länderpolizeien in einer gemeinsamen Plattform
 gebündelt werden und damit eine schnelle, abgestimmte und wirksame Vorbereitung und Reaktion auf
@@ -1495,16 +1336,12 @@ darüber hinaus auf die öffentlich einsehbare Bundestagsdrucksache 21/769 aus J
 Die Prüfbitte des BR wirft komplexe verfassungsrechtliche Fragen auf, deren abschließende Prüfung erhebliche 
 Zeit in Anspruch nehmen würde. Das Abwarten der Ergebnisse einer solchen verfassungsrechtlichen
 Begutachtung bei den parlamentarischen Beratungen des Entwurfes des KRITISDachG kann angesichts der Dringlichkeit 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
 des Vorhabens sowie des laufenden Vertragsverletzungsverfahrens nicht vertreten werden. Daher kann die
 Aufnahme einer entsprechenden Regelung im Entwurf des KRITISDachG aus Sicht der BReg nicht erfolgen. Das 
 KRITISDachG-E sieht darüber hinaus systematisch keine konkreten Maßnahmen vor. Diese werden erst in den 
 sektorübergreifenden Mindestanforderungen, die in einer Rechtsverordnung festgelegt werden sowie in den
-branchenspezifischen Standards spezifiziert. Mit Blick auf Artikel 80 Absatz 1 Satz 2 GG eignet sich diese
+branchenspezifischen Standards spezifiziert. Mit Blick auf Art. 80 Abs. 1 Satz 2 GG eignet sich diese
 Rechtsverordnung aber nicht dafür, die vom BR angesprochenen Regelungen zu treffen.  
- 
 Der Gesetzentwurf KRITIS-Dachgesetz enthält in § 13 eine allgemeine Verpflichtung von KRITIS-Betreibern 
 zum Ergreifen geeigneter und verhältnismäßiger Maßnahmen, um die eigene Resilienz zu gewährleisten. Zu
 solchen Maßnahmen können nur solche gehören, die den Betreibern rechtlich möglich sind. Welche Maßnahmen ein 
@@ -1513,7 +1350,7 @@ Resilienzplänen aufgrund staatlicher und betreiberseitiger Risikobewertungen ab
 Verpflichtung zum Ergreifen von Drohnenabwehrmaßnahmen für KRITIS-Betreiber ergibt sich aus dem KRITIS-
 Dachgesetz daher nicht. Die Risikobewertungen der Betreiber können aber unter Beachtung des All-Gefahren-
 Ansatzes auch Aussagen zu Gefahren durch Drohnen treffen.  
-Ob die Detektion und die Abwehr von Drohnen Privaten rechtlich möglich ist, hängt - wie in der Begründung der 
+Ob die Detektion und die Abwehr von Drohnen Privaten rechtlich möglich ist, hängt – wie in der Begründung der 
 Prüfbitte des BR selbst angesprochen wird – von verschiedenen einfach- und verfassungsrechtlichen Fragen sowie 
 tatsächlichen Umständen ab. So erscheint denkbar, die Detektion von Drohnen noch als Ausfluss des Hausrechts 
 eines Betreibers anzuerkennen, solange eine Detektion nicht zu Eingriffen in Rechte Dritter führt, etwa durch das 
@@ -1522,40 +1359,36 @@ Störung sonstiger Signal-gesteuerter Abläufe). Die Abwehr von Drohen (Zerstör
 bringen) dagegen scheint typischerweise mit Eingriffen in Rechte Dritter verbunden zu sein (Eigentum an der Drohne, 
 mögliche Beeinträchtigung von körperlicher Unversehrtheit/ Gesundheit Dritter durch herabfallende Teile etc.).  
 Selbst wenn dies verfassungsrechtlich möglich wäre, ist ein zeitkritisches Gesetzgebungsverfahren der falsche 
-Ort, um solche neuen Fragen zu klären. 
- 
-Zu Nummer 22 (§§ 14 Absatz 1 und 2 KRITISDachG-E - Darstellung Erfüllungsaufwand bis zur
-Beschlussfassung Bundestag)  
- 
+Ort, um solche neuen Fragen zu klären.
+Zu Nummer 22 – Zu Artikel 1 (§ 14 Absatz 1 und 2 KRITISDachG-E – Darstellung Erfüllungsaufwand bis 
+zur Beschlussfassung Bundestag)  
 Die Bundesregierung lehnt den Antrag ab. 
 Der Gesetzentwurf enthält keine Schätzungen von Erfüllungsaufwänden, da die Vorgaben im Gesetzentwurf 
 selbst zu allgemein und abstrakt für Schätzungen sind. Der Gesetzentwurf stellt einen ersten Schritt hin zu einem 
 umfassenden System des physischen Schutzes von KRITIS dar. Bei Erarbeitung der Verordnungen, für die eine 
 Verordnungsermächtigung im Gesetzentwurf vorgesehen ist, wird eine Schätzung des Erfüllungsaufwands
 erfolgen. Zudem wird eine belastbare Schätzung für den Gesetzentwurf möglich sein, wenn die künftig festzulegenden 
-branchenspezifischen Resilienzstandards sowie sektorenübergreifende Mindestanforderungen nach § 14 Absatz 
-1 und 2 KRITISDachG-E konkretisiert werden. 
-Die finanzielle Verantwortung für die resultierenden Aufwände der jeweiligen Gebietskörperschaften richtet 
-sich nach den finanzverfassungsrechtlichen Zuständigkeiten. 
-Zu Nummer 23 (§ 14 Absatz 2 Satz 4 Nummer 2 und 3 KRITISDachG-E- Einvernehmensregelung)  
+branchenspezifischen Resilienzstandards sowie sektorenübergreifende Mindestanforderungen nach § 14 Absatz 1 
+und 2 KRITISDachG-E konkretisiert werden. 
+Die finanzielle Verantwortung für die resultierenden Aufwände der jeweiligen Gebietskörperschaften richtet sich 
+nach den finanzverfassungsrechtlichen Zuständigkeiten. 
  
+Zu Nummer 23 – Zu Artikel 1 (§ 14 Absatz 2 Satz 4 Nummer 2 und 3 KRITISDachG-E-
+Einvernehmensregelung)  
 Siehe Nummer 12. 
  
-Zu Nummer 24 (§ 14 Absatz 5 KRITISDachG-E)  
- 
+Zu Nummer 24 – Zu Artikel 1 (§ 14 Absatz 5 KRITISDachG-E)  
 Nach Ansicht der Bundesregierung wird im Antrag eine Rechtsfrage angesprochen, die im Lichte erster
 Erfahrungen mit der Umsetzung des Gesetzes im Rahmen der Evaluierung betrachtet werden sollte. 
-Zu Nummer 25 (§ 16 Absatz 1 und 2 KRITISDachG-E - Direkter Abruf beim BBK)  
  
+Zu Nummer 25 – Zu Artikel 1 (§ 16 Absatz 1 und 2 KRITISDachG-E – Direkter Abruf beim BBK)  
 Die Bundesregierung lehnt diesen Vorschlag ab. Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe 
 (BBK) soll weiterhin als sektorübergreifende und koordinierende Behörde den Überblick über die Betreiber
 kritischer Anlagen hinsichtlich des physischen Schutzes in der Hand behalten und daher auch als Schnittstelle zum 
 Bundesamt für Sicherheit in der Informationstechnik (BSI) fungieren.  
  
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-Zu Nummer 26 (§ 16 KRITISDachG-E -Verfahren Zertifizierung) 
+Zu Nummer 26 – Zu Artikel 1 (§ 16 Absatz 7a – neu –, § 24 Absatz 1 Nummer 5 – neu –, Absatz 2 KRITIS-
+DachG-E -Verfahren Zertifizierung)  
 Die Bundesregierung lehnt den Antrag ab. 
 Das Zertifizierungssystem, wie es in Artikel 2 § 5 f EnWG-E festgelegt ist, kann sektorspezifisch sinnvoll sein, 
 da die BNetzA bereits im Hinblick auf ihren Sicherheitskatalog mit bestimmten Zertifizierungen arbeitet. Dies 
@@ -1564,8 +1397,8 @@ Anlagenbetreiber bei Strom und Gas nach § 11 Absatz 1a und 1b EnWG (künftig §
 einheitliche Nachweispflichten für die IT-Sicherheitsanforderungen nach § 11 Absatz 1a und 1b EnWG (künftig § 5c 
 EnWG) und die Resilienzpflichten nach § 13 Absatz 1 KRITISDachG-E der Netz- und Anlagenbetreiber bei 
 Strom, Gas und Wasserstoff realisiert. Auch im BSI-G ist die Möglichkeit für Betreiber kritischer Anlagen
-geschaffen, ihren Nachweispflichten durch Zertifizierungen (wahlweise durch Audits oder Prüfungen, vgl. § 39 BSI-
-G in der Fassung des NIS2UmsuCG) nachzukommen.  
+geschaffen, ihren Nachweispflichten durch Zertifizierungen (wahlweise durch Audits oder Prüfungen, vgl. § 39 
+BSI-G in der Fassung des NIS2UmsuCG) nachzukommen.  
 Im KRITISDachG sind bisher nur abstrakte Vorgaben vorgegeben und in einer Rechtsverordnung sollen erstmalig 
 sektorübergreifende Mindestanforderungen für physische Resilienzmaßnahmen festgelegt werden. Ob im
 Hinblick auf die sektorübergreifenden Mindestanforderungen oder auch bei den branchenspezifischen Standards ein 
@@ -1575,48 +1408,54 @@ Entwicklung eines noch zu erarbeitenden Verfahrenssystems hinsichtlich der Nachw
 im Hinblick auf den § 17 KRITISDachG-E, der eine Gleichwertigkeitsprüfung der zuständigen Behörden
 vorsieht, um insbesondere Doppelverpflichtungen und Bürokratie abzubauen, könnte ein Zertifizierungssystem nach 
 dem KRITIS-Dachgesetz, welches auch zunächst ein weiterer Kostenfaktor für den Betreiber darstellen würde, 
-das Gegenteil bewirken. 
+das Gegenteil bewirken.
 Ein weiterer Aspekt ist die finanzielle Belastung der zuständigen Betreiber. Eine Zertifizierung ist nicht durch die 
 zuständigen Behörden alleine leistbar. Sie müssten sich entsprechend externer Anbieter bedienen, welche zuvor 
 als akkreditierte Stellen ausgewiesen werden müssten. Dies würde unweigerlich zu zusätzlichen Kosten führen.  
-Der Unterschied zwischen einer Zertifizierung und der Nachweiserbringung gemäß  
-§ 16 KRITISDachG-E (hier u.a. Audit) besteht des Weiteren lediglich in einer formalen und schriftlichen
-Bestätigung in Form eines Zertifikates. Hierdurch sollen vor allem Marktvorteile und Glaubwürdigkeit gegenüber
-Kunden dargestellt werden. Insofern sind Prüfungen auf Basis von Prüfgrundlagen erforderlich, welche denen nach § 
-16 KRITISDachG-E entsprechen. Eine solche Prüfung reicht dementsprechend im Sinne des KRITIS-
-Dachgesetzes zur Stärkung der Resilienz weitgehend aus, da der Vorteil eines Zertifikats (externe Wahrnehmung) nicht 
-gegeben ist und stattdessen die interne Wirksamkeit im Zentrum steht.
-Zu Nummer 27 (§ 18 Absatz 1 Satz 1 KRITISDachG-E, Meldung auch an zuständige Behörden) 
+Der Unterschied zwischen einer Zertifizierung und der Nachweiserbringung gemäß § 16 KRITISDachG-E (hier 
+u.a. Audit) besteht des Weiteren lediglich in einer formalen und schriftlichen Bestätigung in Form eines
+Zertifikates. Hierdurch sollen vor allem Marktvorteile und Glaubwürdigkeit gegenüber Kunden dargestellt werden.
+Insofern sind Prüfungen auf Basis von Prüfgrundlagen erforderlich, welche denen nach § 16 KRITISDachG-E
+entsprechen. Eine solche Prüfung reicht dementsprechend im Sinne des KRITIS-Dachgesetzes zur Stärkung der 
+Resilienz weitgehend aus, da der Vorteil eines Zertifikats (externe Wahrnehmung) nicht gegeben ist und
+stattdessen die interne Wirksamkeit im Zentrum steht.  
+ 
+Zu Nummer 27 – Zu Artikel 1 (§ 18 Absatz 1 Satz 1 KRITISDachG-E, Meldung auch an zuständige
+Behörden)  
 Die Bundesregierung lehnt diesen Vorschlag ab.  
 Die Meldung nach § 18 Absatz 1 KRITISDachG-E an das gemeinsame Meldeportal von BSI und BBK erfolgt 
 unbeschadet anderer gesetzlicher Meldeverpflichtungen gegenüber weiterer zuständigen Behörden. Betreiber 
 müssen Störungen oder Ausfälle dem BBK melden, um sektorübergreifend Interdependenzen erkennen und
 daraus Rückschlüsse zur Verbesserung eines künftigen KRITIS-Schutzes ziehen zu können. Eine direkte Meldung 
 oder Weiterleitung an die zuständigen Behörden ist nicht vorgesehen. Die Ausgestaltung einer sinnvollen
-Weitergabe der Meldung kann im Rahmen von § 18 Absatz 7 KRITISDachG-E erfolgen (siehe ausführlich Nummer 
-15). 
-Zu Nummer 28 (§ 18 Absatz 7 KRITISDachG-E)  
+Weitergabe der Meldung kann im Rahmen von § 18 Absatz 7 KRITISDachG-E erfolgen (siehe ausführlich
+Nummer 15). 
+ 
+Zu Nummer 28 – Zu Artikel 1 (§ 18 Absatz 7 KRITISDachG-E)  
 Nach Ansicht der Bundesregierung erscheint dies grundsätzlich möglich. 
-Zu Nummer 29 (§ 18 Absatz 8 KRITISDachG-E – Einvernehmensregelung) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+ 
+Zu Nummer 29 – Zu Artikel 1 (§ 18 Absatz 8 KRITISDachG-E – Einvernehmensregelung) 
 Siehe Nummer 12. 
-Zu Nummer 30 (§ 19 Absatz 2 Satz 3,5 KRITISDachG-E – Einvernehmensregelung) 
+ 
+Zu Nummer 30 – Zu Artikel 1 (§ 19 Absatz 2 Satz 3, 4 KRITISDachG-E – Einvernehmensregelung) 
 Siehe Nummer 12. 
-Zu Nummer 31 – Zu Artikel 1 (§ 23 Absatz 1 Nummer 2, Absatz 2a – neu – KRITISDachG-E) 
+ 
+Zu Nummer 31 – Zu Artikel 1 (§ 23 Absatz 1 Nummer 2, Absatz 2a – neu – KRITISDachG-E)  
 Die Bundesregierung stimmt dem Antrag zu.  
+ 
 Zu Nummer 32 – Zu Artikel 1 (§ 23 Absatz 2 KRITISDachG-E)  
 Die Bundesregierung stimmt dem Antrag zu. 
+ 
 Zu Nummer 33 – Zu Artikel 1 (§ 23 Absatz 2 KRITISDachG-E)  
 Die Bundesregierung lehnt den Antrag ab. 
 Auch in einer Zweckänderungsvorschrift kann eine Aufgabenzuweisung enthalten sein. Es ist nicht zwingend 
 anzunehmen, dass es sich bei den in § 23 Absatz 2 Nummer 1 und 2 KRITISDachG-E genannten Tätigkeiten 
 nicht um gesetzliche Aufgaben handeln würde. Die Aufgaben ergeben sich dahingehend aus den §§ 18 und 19 
 KRITISDachG-E. Insofern wird hier kein Anpassungsbedarf gesehen. 
-Zu Nummer 34 – Zu Artikel 1 (§ 23 Absatz 2 Nummer 2 KRITISDachG-E) 
+ 
+Zu Nummer 34 – Zu Artikel 1 (§ 23 Absatz 2 Nummer 2 KRITISDachG-E)  
 Die Bundesregierung lehnt den Antrag ab. Eine Interessenabwägung ist bei Nummer 2 damit zu begründen, dass 
-es hier auch darum geht, privaten Stellen (Betreibern kritischer Anlagen) personenbezogene Daten zu offenbaren.  
+es hier auch darum geht, privaten Stellen (Betreibern kritischer Anlagen) personenbezogene Daten zu offenbaren.
 In Nummer 1 geht es jedoch ausschließlich um die behördeninterne Datenverarbeitung im Zusammenhang mit 
 sicherheitskritischen Vorfällen. Es erscheint zweifelhaft, die Auswertung und Untersuchung solcher Vorfälle 
 dadurch einzuschränken, dass bestimmte gerade dafür erforderliche Daten nicht verwendet werden dürfen. Damit 
@@ -1629,17 +1468,14 @@ KRITISDachG-E bestimmt u.a. die zuständigen Behörden nach § 3 Absatz 2 Satz 1
 Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten. Die Länder 
 können gemäß § 3 Absatz 6 KRITISDachG-E für die nicht in Absatz 2 Satz 1 Nummer 1 bis 12 genannten
 kritischen Dienstleistungen der Rechtsverordnung nach § 4 Absatz 3 bestimmen, welche Landesbehörden die
-Aufgaben nach dem  
-KRITISDachG-E wahrnehmen. Dazu gehört auch die Verhängung der Bußgelder gemäß § 24 Absatz 3. 
-Zu Nummer 36 – Gesetz allgemein (Refinanzierung und Regelschwellenwert) 
+Aufgaben nach dem KRITISDachG-E wahrnehmen. Dazu gehört auch die Verhängung der Bußgelder gemäß § 24
+Absatz 3. 
+Zu Nummer 36 – Zu Artikel 1 (Zum Gesetzentwurf allgemein (Refinanzierung und Regelschwellenwert) 
 Die Identifizierung von KRITIS erfolgt gemäß des KRITISDachG-E aufgrund qualitativer und quantitativer
 Kriterien wie bereits bisher nach der bestehenden BSI-KritisV. Qualitative Kriterien sind z.B. die Festlegung von 
 Anlagenkategorien, aber auch die Normierung des Regelschwellenwertes hat nicht nur quantitative, sondern auch 
 qualitative Aspekte: Denn die Bedeutung einer Anlage, die unter den Regelschwellenwert fällt, resultiert daraus, 
 dass sie relevant ist für die Versorgungssicherheit in DEU insgesamt.  
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
 Für die Bundesregierung geht aus dem Antrag nicht hinreichend hervor, worauf sich die Forderung der Länder 
 bezüglich einer Refinanzierung von Aufwänden ergeben soll. Die Gesetzgebungskompetenz des Bundes stützt 
 sich auch nicht auf die Herstellung einheitlicher Lebensverhältnisse, sondern auf das Recht der Wirtschaft sowie 
@@ -1650,11 +1486,11 @@ für die Gesamtversorgung unverzichtbaren Bereiche zu beschränken. Die einzelne
 zudem durch explizite Verankerung des Verhältnismäßigkeitsprinzips in § 13 Absatz 2 Satz 1 und 3 KRITIS-
 DachG-E vor einer Überlastung geschützt. Die Gesetzesbegründung stellt hierzu klar, dass wirtschaftliche
 Aspekte, darunter die Leistungsfähigkeit des Betreibers, dabei zu berücksichtigen sind. 
-Die finanzielle Verantwortung für die resultierenden Aufwände der jeweiligen Gebietskörperschaften richtet 
-sich weiterhin nach den finanzverfassungsrechtlichen Zuständigkeiten. 
-Zu Nummer 37 (Änderung BBKG)  
+Die finanzielle Verantwortung für die resultierenden Aufwände der jeweiligen Gebietskörperschaften richtet sich 
+weiterhin nach den finanzverfassungsrechtlichen Zuständigkeiten. 
+Zu Nummer 37 (Zum Gesetzentwurf allgemein – Änderung BBKG) 
 Die Bundesregierung wird der Prüfbitte auf Änderung des BBKG nachkommen. Eine zukünftige Änderung des 
 BBKG erscheint grundsätzlich möglich. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de 
+ISSN 0722-8333

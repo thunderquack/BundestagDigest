@@ -1,0 +1,14172 @@
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln 
+Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de 
+ISSN 0720-2946 
+Bundesrat Drucksache   61/26 
+ 02.02.26 
+ 
+ EU - In - U - Wi 
+ 
+Unterrichtung 
+durch die Europäische Kommission 
+ 
+ 
+ 
+ 
+Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Änderung der 
+Richtlinie 2007/2/EG im Hinblick auf die Vereinfachung bestimmter Anforderungen an die 
+Schaffung der Geodateninfrastruktur in der Union 
+COM(2025) 985 final 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Der Bundesrat wird über die Vorlage gemäß § 2 EUZBLG auch durch die Bundesregierung 
+unterrichtet. 
+Der Europäische Wirtschafts- und Sozialausschuss und der Ausschuss der Regionen werden 
+an den Beratungen beteiligt. 
+ 
+Hinweis: Drucksache 618/04 = AE-Nr. 042663 
+DE   DE 
+ 
+ 
+EUROPÄISCHE 
+KOMMISSION 
+Brüssel, den 10.12.2025  
+COM(2025) 985 final 
+2025/0393 (COD) 
+ 
+Vorschlag für eine 
+RICHTLINIE DES EUROPÄISCHEN PARLAMENTS UND DES RATES 
+zur Änderung der Richtlinie 2007/2/EG im Hinblick auf die Vereinfachung bestimmter 
+Anforderungen an die Schaffung der Geodateninfrastruktur in der Union 
+(Text von Bedeutung für den EWR)
+BEGRÜNDUNG 
+1. KONTEXT DES VORSCHLAGS 
+• Gründe und Ziele des Vorschlags 
+ 
+In dem Bericht über die Zukunft der europäischen Wettbewerbsfähigkeit wurde betont, dass 
+der Übergang zu einer CO2-armen, ressourceneffizienten Kreislaufwirtschaft von 
+entscheidender Bedeutung sein wird, um langfristig den wirtschaftlichen Wohlstand, die 
+Resilienz und die Wettbewerbsfähigkeit der EU zu sichern.3 Mit dem Kompass für eine 
+wettbewerbsfähige EU legte die Kommission ihre Strategie für die nächsten fünf Jahre vor, 
+mit der das Potenzial dieses Übergangs voll ausgeschöpft werden soll1.  
+Mit den Rechtsvorschriften der Union sollten die politischen Ziele effizient, wirksam und 
+transparent verwirklicht werden. Mit dem Kompass für Wettbewerbsfähigkeit wird eine 
+verantwortungsvolle Rechtsetzung gefördert und es werden Anstrengungen in nie da 
+gewesenem Umfang zur Vereinfachung der Rechtsvorschriften angekündigt, um die 
+Wettbewerbsfähigkeit der europäischen Unternehmen wieder anzukurbeln. Darüber hinaus 
+hat die Kommission seither die Ziele zur Verringerung der Verwaltungskosten dahin gehend 
+gestärkt, dass diese Kosten für alle Unternehmen (sowie Behörden) um 25 % und für KMU 
+um 35 % zu senken sind1. 
+Die Richtlinie 2007/2/EG2 (im Folgenden „INSPIRE-Richtlinie“) wurde erlassen, um eine 
+europäische Geodateninfrastruktur zu schaffen, die die gemeinsame Nutzung 
+umweltbezogener Geodaten durch Einrichtungen des öffentlichen Sektors ermöglicht und den 
+Zugang der Öffentlichkeit zu Geodaten in ganz Europa verbessert. Die INSPIRE-Richtlinie 
+hat entscheidend dazu beigetragen, Hindernisse wie fehlende oder unzureichend beschriebene 
+Daten, isolierte Geodateninfrastrukturen, Beschränkungen der gemeinsamen Nutzung, 
+Doppelarbeit und zu viele Formate zu überwinden, sodass Karten und Standortdaten in ganz 
+Europa leicht gefunden, ausgetauscht und genutzt werden können.  
+Die letzte im Jahr 2022 abgeschlossene Bewertung3 bestätigte, dass die Ziele der Richtlinie 
+zwar nach wie vor äußerst relevant sind, der Rechtsrahmen jedoch vereinfacht und wirksamer 
+gestaltet werden könnte. 
+Mit diesem Vorschlag soll die INSPIRE-Richtlinie modernisiert und vereinfacht werden, 
+indem technische Anforderungen an die Daten und die gemeinsame Datennutzung gestrichen 
+und die Verpflichtungen an neuere horizontale EU-Datenvorschriften angepasst werden. Dies 
+wird für rechtliche Kohärenz sorgen und Doppelarbeit und den Aufwand für die 
+Mitgliedstaaten verringern. Gleichzeitig bleibt das Ziel der Richtlinie, die Zugänglichkeit, 
+Qualität und Interoperabilität umweltbezogener Geodaten zu gewährleisten, erhalten. Dieser 
+Ansatz steht im Einklang mit der europäischen Datenstrategie von 20204 und der Strategie für 
+ 
+1 Ein einfacheres und schnelleres Europa: Mitteilung über die Umsetzung und Vereinfachung 
+(COM(2025) 47 final vom 11. Februar 2025). 
+2 Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates vom 14. März 2007 zur Schaffung 
+einer Geodateninfrastruktur in der Europäischen Gemeinschaft (INSPIRE) (ABl. L 108 vom 25.4.2007, S. 1). 
+3 Arbeitsunterlage der Kommissionsdienststellen, Evaluation of Directive 2007/2/EC establishing an 
+Infrastructure for Spatial Information in the European Community (INSPIRE) (SWD(2022) 0195 final). 
+4 Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und 
+Sozialausschuss und den Ausschuss der Regionen, Eine europäische Datenstrategie (COM(2020) 66 final).
+die Datenunion von 20255, um einen übergeordneten politischen Rahmen für die datenagile 
+Wirtschaft zu gewährleisten und eine Fragmentierung des Binnenmarkts zu vermeiden. In der 
+europäischen Datenstrategie von 20206 wurde die Initiative „GreenData4All“ angekündigt, 
+mit der die INSPIRE-Richtlinie im Einklang mit dem technischen Fortschritt und den 
+Innovationsmöglichkeiten modernisiert werden soll, um den Übergang zu einer 
+umweltfreundlicheren und CO2-neutralen Wirtschaft zu unterstützen und den 
+Verwaltungsaufwand zu verringern. 
+Horizontale EU-Datenvorschriften regeln den Zugang zu und die Weiterverwendung, 
+Interoperabilität und Governance von Daten des öffentlichen Sektors auf kohärente und 
+technologisch fortschrittliche Weise. Dazu gehören die Richtlinie (EU) 2019/1024 (Richtlinie 
+über offene Daten)7, die Durchführungsverordnung (EU) 2023/138 (hochwertige 
+Datensätze)8, die Verordnung (EU) 2022/868 (Verordnung über europäische Daten-
+Governance)9 und die Verordnung (EU) 2024/903 (Verordnung für ein interoperables 
+Europa)10. Mit den horizontalen EU-Datenvorschriften werden Grundsätze der 
+„standardmäßig offenen Daten“, strukturierte Metadaten, obligatorische 
+Anwendungsprogrammierschnittstellen (Application Programming Interfaces – APIs) und 
+gegebenenfalls Formate für den Massen-Download hochwertiger Datensätze sowie ein 
+gestrafftes gemeinsames Governance-Modell für die grenzüberschreitende Datennutzung 
+eingeführt. 
+Insbesondere regelt die Richtlinie über offene Daten gemäß Artikel 1 Absatz 7 die 
+Weiterverwendung vorhandener Dokumente, die im Besitz öffentlicher Stellen und 
+öffentlicher Unternehmen der Mitgliedstaaten sind, einschließlich der Dokumente, auf die die 
+Richtlinie 2007/2/EG anwendbar ist.  
+Darüber hinaus gehört zu dem in der europäischen Datenstrategie von 2020 dargelegten EU-
+Ziel, gemeinsame europäische Datenräume zu schaffen, auch die Einrichtung eines eigenen 
+Datenraums für den europäischen Grünen Deal zu dessen Unterstützung. Dies macht es 
+erforderlich, Datensilos aufzubrechen und sicherzustellen, dass alle relevanten Umweltdaten – 
+Geodaten wie auch andere Daten – frei zirkulieren können, damit sie als Grundlage für die 
+Umwelt- und Klimaziele der EU herangezogen werden können und sich der 
+Verwaltungsaufwand für Unternehmen und öffentliche Verwaltungen verringert.  
+Die vorgeschlagene Vereinfachung der INSPIRE-Richtlinie im Rahmen des Omnibus-Pakets 
+zur Vereinfachung der Umweltvorschriften stellt die rechtliche Komponente der Initiative 
+GreenData4All dar. Sie wird durch nichtlegislative Maßnahmen und praktische Instrumente 
+ 
+5 Mitteilung der Kommission an das Europäische Parlament und den Rat, Strategie für eine Datenunion – 
+Erschließung von Daten für KI (COM(2025) 835 final).
+7 Richtlinie (EU) 2019/1024 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über offene 
+Daten und die Weiterverwendung von Informationen des öffentlichen Sektors (ABl. L 172 vom 26.6.2019, 
+S. 56). 
+8 Durchführungsverordnung (EU) 2023/138 der Kommission vom 21. Dezember 2022 zur Festlegung 
+bestimmter hochwertiger Datensätze und der Modalitäten ihrer Veröffentlichung und Weiterverwendung (ABl. 
+L 19 vom 20.1.2023, S. 43). 
+9 Verordnung (EU) 2022/868 des Europäischen Parlaments und des Rates vom 30. Mai 2022 über 
+europäische Daten-Governance und zur Änderung der Verordnung (EU) 2018/1724 (ABl. L 152 vom 3.6.2022, 
+S. 1). 
+10 Verordnung (EU) 2024/903 des Europäischen Parlaments und des Rates vom 13. März 2024 über 
+Maßnahmen für ein hohes Maß an Interoperabilität des öffentlichen Sektors in der Union (Verordnung für ein 
+interoperables Europa) (ABl. L, 2024/903, 22.3.2024).
+ergänzt werden, um eine intelligente, effiziente Weiterverwendung von Umweltdaten in der 
+gesamten Union zu unterstützen.  
+• Kohärenz mit den bestehenden Vorschriften in diesem Bereich 
+Mit den vorgeschlagenen Änderungen wird die INSPIRE-Richtlinie an die EU-
+Rechtsvorschriften über Daten des öffentlichen Sektors angeglichen. Insbesondere enthalten 
+die Richtlinie (EU) 2019/1024 und die Durchführungsverordnung (EU) 2024/903 
+Anforderungen an die freie und offene Datenverfügbarkeit – auch über 
+Anwendungsprogrammierschnittstellen (APIs) – im Hinblick auf wichtige Datensätze in 
+Kategorien wie Geo- und Umweltdaten. Vor allem wurden die hochwertigen Datensätze in 
+diesem Rahmen so festgelegt, dass sie sich mit den bereits unter die INSPIRE-Richtlinie 
+fallenden Datensätzen decken.  
+Der Vorschlag für die Digital-Omnibus-Verordnung11 integriert die konsolidierten und 
+gestrafften Vorschriften der Verordnung (EU) 2024/1689 (Verordnung über den freien 
+Datenverkehr), der Verordnung (EU) 2022/868 (Verordnung über europäische Daten-
+Governance) und der Richtlinie (EU) 2019/1024 (Richtlinie über offene Daten) in die 
+Verordnung (EU) 2023/2854 (Datenverordnung), um ein einziges konsolidiertes Instrument 
+für die europäische Datenwirtschaft zu schaffen. Die Verordnung (EU) 2024/1689 
+(Verordnung über den freien Datenverkehr), die Richtlinie (EU) 2019/1024 (Richtlinie über 
+offene Daten) und die Verordnung (EU) 2022/868 (Verordnung über europäische Daten-
+Governance) sollen aufgehoben werden. Diese Konsolidierung würde sich daher auf die 
+Verweise im vorliegenden Vorschlag zur Vereinfachung der INSPIRE-Richtlinie auswirken, 
+der jedoch ansonsten von dem Vorschlag für die Digital-Omnibus-Verordnung nicht betroffen 
+ist, da die Kommission keine relevanten inhaltlichen Änderungen der in der Richtlinie über 
+offene Daten enthaltenen Lösungen vorgeschlagen hat.  
+Die INSPIRE-Richtlinie bietet den gemeinsamen Rahmen und die technischen Standards, die 
+benötigt werden, um Geodaten im Hinblick auf die Berichterstattung, die Umsetzung 
+politischer Maßnahmen und die Entscheidungsfindung sektorübergreifend und 
+grenzüberschreitend gemeinsam zu nutzen und zu integrieren. Die Verordnung (EU) 
+2019/101012 dient der Angleichung der Berichterstattungspflichten im Bereich des 
+Umweltrechts und bildet die Grundlage für die Angleichung der Datenmodelle für die 
+Berichterstattung an die INSPIRE-Spezifikationen.  
+Die Anwendung der INSPIRE-Richtlinie ist nicht nur für die Umweltpolitik relevant. Mehrere 
+EU-Rechtsakte nehmen Bezug auf die INSPIRE-Richtlinie, etwa die Verordnung (EU) 
+2018/841 des Europäischen Parlaments und des Rates13 (LULUCF), die Verordnung (EU) 
+ 
+11 Vorschlag für eine VERORDNUNG DES EUROPÄISCHEN PARLAMENTS UND DES RATES zur 
+Änderung der Verordnungen (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854 und 
+der Richtlinien 2002/58/EG, (EU) 2022/2555 und (EU) 2022/2557 hinsichtlich der Vereinfachung des 
+digitalen Rechtsrahmens und zur Aufhebung der Verordnungen (EU) 2018/1807, (EU) 2019/1150, (EU) 
+2022/868 und der Richtlinie (EU) 2019/1024 (Digital-Omnibus-Verordnung) (COM(2025) 837 final). 
+12 Verordnung (EU) 2019/1010 des Europäischen Parlaments und des Rates vom 5. Juni 2019 zur 
+Angleichung der Berichterstattungspflichten im Bereich der Rechtsvorschriften mit Bezug zur Umwelt und zur 
+Änderung der Verordnungen (EG) Nr. 166/2006 und (EU) Nr. 995/2010 des Europäischen Parlaments und des 
+Rates, der Richtlinien 2002/49/EG, 2004/35/EG, 2007/2/EG, 2009/147/EG und 2010/63/EU des Europäischen 
+Parlaments und des Rates, der Verordnungen (EG) Nr. 338/97 und (EG) Nr. 2173/2005 des Rates und der 
+Richtlinie 86/278/EWG des Rates (Text von Bedeutung für den EWR) 
+(ELI: http://data.europa.eu/eli/reg/2019/1010/oj). 
+13 Verordnung (EU) 2018/841 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die 
+Einbeziehung der Emissionen und des Abbaus von Treibhausgasen aus Landnutzung, Landnutzungsänderungen
+2021/2116 des Europäischen Parlaments und des Rates14 (Gemeinsame Agrarpolitik), die 
+Verordnung (EU) 2018/109115 (integrierte Statistiken zu landwirtschaftlichen Betrieben), die 
+Verordnung (EU) 2021/696 des Europäischen Parlaments und des Rates16 
+(Weltraumprogramm der Union), die Richtlinie (EU) 2024/2881 des Europäischen Parlaments 
+und des Rates17 (Richtlinie über Luftqualität) und die Verordnung (EU) 2024/1991 des 
+Europäischen Parlaments und des Rates (Verordnung über die Wiederherstellung der Natur)18, 
+um die Kohärenz – beispielweise in Bezug auf technische Formate und die Vereinbarkeit der 
+Verfahren für die Datenübermittlung und -verarbeitung sowie Datenspezifikationen – zu 
+gewährleisten und Doppelarbeit zu vermeiden.  
+• Kohärenz mit der Politik der Union in anderen Bereichen 
+Der Vorschlag steht voll und ganz im Einklang mit der horizontalen Daten- und Digitalpolitik 
+der EU, was die Förderung einer einfacheren sektorübergreifenden gemeinsamen 
+Datennutzung und die Unterstützung der Schaffung gemeinsamer europäischer Datenräume 
+wie des Datenraums für den Grünen Deal mit dem Ziel betrifft, hochwertige, zugängliche und 
+wiederverwendbare Umweltdaten zur Verfügung zu stellen, um Innovation, Nachhaltigkeit 
+und den digitalen Wandel voranzutreiben. Mit der vorgeschlagenen Streichung detaillierter 
+technischer Anforderungen an Interoperabilität, Netzdienste und gemeinsame Datennutzung 
+steht der Vorschlag im Einklang mit der Verordnung (EU) 2024/903, was das Ziel betrifft, 
+technische und rechtliche Hindernisse zu beseitigen, gemeinsame Standards zu fördern und 
+sicherzustellen, dass Daten des öffentlichen Sektors – einschließlich Geo- und Umweltdaten – 
+grenzüberschreitend und sektorübergreifend leicht ausgetauscht, kombiniert und 
+weiterverwendet werden können. Darüber hinaus wird die vorgeschlagene Vereinfachung für 
+Flexibilität in der Praxis sorgen, da sie die Übernahme gemeinschaftlicher bewährter 
+Verfahren ermöglicht, wie z. B. die weithin anerkannten Mindestmechanismen für die 
+Interoperabilität (Minimum Interoperability Mechanisms – MIMs), die vom Netzwerk „Open 
+& Agile Smart Cities“19 entwickelt wurden, mit denen die Anwendung flexibler 
+Mindeststandards, z. B. leichter Web-APIs und gemeinsamer Datenmodelle, gefördert wird, 
+um die grenzüberschreitende Interoperabilität von Geodaten zu erreichen.  
+Die vorgeschlagenen Maßnahmen zur Vereinfachung der INSPIRE-Richtlinie stehen im 
+Einklang mit der Richtlinie (EU) 2019/1024 und der Durchführungsverordnung (EU) 
+2023/138, da sichergestellt wird, dass Geo- und Umweltdaten unter Verwendung von 
+ 
+und Forstwirtschaft in den Rahmen für die Klima- und Energiepolitik bis 2030 und zur Änderung der 
+Verordnung (EU) Nr. 525/2013 und des Beschlusses Nr. 529/2013/EU (Text von Bedeutung für den EWR) 
+(ABl. L 156 vom 19.6.2018, S. 1, ELI: http://data.europa.eu/eli/reg/2018/841/oj). 
+14 Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 über 
+die Finanzierung, Verwaltung und Überwachung der Gemeinsamen Agrarpolitik und zur Aufhebung der 
+Verordnung (EU) Nr. 1306/2013 (ABl. L 435 vom 6.12.2021, S. 187, 
+ELI: http://data.europa.eu/eli/reg/2021/2116/oj). 
+15 Verordnung (EU) 2018/1091 des Europäischen Parlaments und des Rates vom 18. Juli 2018 über 
+integrierte Statistiken zu landwirtschaftlichen Betrieben und zur Aufhebung der Verordnungen (EG) 
+Nr. 1166/2008 und (EU) Nr. 1337/2011 (ABl. L 200 vom 7.8.2018, S. 1). 
+16 Verordnung (EU) 2021/696 des Europäischen Parlaments und des Rates vom 28. April 2021 zur 
+Einrichtung des Weltraumprogramms der Union und der Agentur der Europäischen Union für das 
+Weltraumprogramm und zur Aufhebung der Verordnungen (EU) Nr. 912/2010, (EU) Nr. 1285/2013 und (EU) 
+Nr. 377/2014 sowie des Beschlusses Nr. 541/2014/EU (ABl. L 170 vom 12.5.2021, S. 69, 
+ELI: http://data.europa.eu/eli/reg/2021/696/oj). 
+17 Richtlinie (EU) 2024/2881 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 über 
+Luftqualität und saubere Luft für Europa (ABl. L, 2024/2881, 20.11.2024).  
+18 Verordnung (EU) 2024/1991 des Europäischen Parlaments und des Rates vom 24. Juni 2024 über die 
+Wiederherstellung der Natur und zur Änderung der Verordnung (EU) 2022/869 (ABl. L, 2024/1991, 29.7.2024). 
+19 Y-MIM Standard for Global Smart City Interoperability | Interoperable Europe Portal.
+gemeinsamen Standards, APIs und offenen Lizenzen als offene Daten zur Verfügung gestellt 
+werden, um Doppelarbeit zu minimieren, den Aufwand für Datenanbieter zu verringern und 
+die Zugänglichkeit und Weiterverwendung für alle Nutzer mithilfe von data.europa.eu zu 
+maximieren. Daher wird auch vorgeschlagen, die Verpflichtung der Kommission zum Betrieb 
+des Geo-Portals INSPIRE zu streichen. 
+Der Vorschlag steht ferner im Einklang mit der Verordnung (EU) 2022/868, die eine breitere 
+gemeinsame Nutzung von Daten des öffentlichen Sektors (einschließlich nicht 
+uneingeschränkt veröffentlichter Daten) mithilfe vertrauenswürdiger Mittler und gemeinsamer 
+Datenräume fördert, indem sichergestellt wird, dass Geodatensätze unter klaren Bedingungen 
+und mithilfe von Lösungen für interoperable Dienste gemeinsam genutzt werden können.  
+Zusammenfassend lässt sich feststellen, dass dieser Vorschlag die INSPIRE-Richtlinie mit der 
+horizontalen EU-Datenpolitik in Einklang bringt, indem er die Weiterverwendung 
+standardmäßig offener Daten, die Interoperabilität und die Entwicklung datengesteuerter 
+Dienste in allen Sektoren erleichtert. 
+2. RECHTSGRUNDLAGE, SUBSIDIARITÄT UND VERHÄLTNISMÄẞIGKEIT 
+• Rechtsgrundlage 
+Rechtsgrundlage für die INSPIRE-Richtlinie ist Artikel 192 Absatz 1 des Vertrags über die 
+Arbeitsweise der Europäischen Union. Artikel 192 Absatz 1 bildet die Rechtsgrundlage für 
+Maßnahmen zum Schutz der Umwelt einschließlich der Nutzung verfügbarer Daten für die 
+Vorbereitung umweltpolitischer Maßnahmen. 
+Wichtigste Rechtsvorschriften und Änderungen  
+Bei dem Vorschlag handelt es sich um eine Richtlinie des Europäischen Parlaments und des 
+Rates zur Änderung der Richtlinie 2007/2/EG.  
+Die INSPIRE-Richtlinie schreibt keine einheitlichen Bedingungen für offene Lizenzen oder 
+die Gebührenerhebung vor, was uneinheitliche Bedingungen für die Weiterverwendung in den 
+Mitgliedstaaten zur Folge hat. Daher wird vorgeschlagen, die Verpflichtung der 
+Mitgliedstaaten zur Einrichtung spezifischer Netzdienste, einschließlich Such-, Darstellungs-, 
+Download- und Transformationsdiensten, durch einen Verweis auf die parallelen 
+Bestimmungen der Richtlinie (EU) 2019/1024 zu ersetzen, um sicherzustellen, dass Geodaten 
+unter harmonisierten Bedingungen als standardmäßig offene Daten zur Weiterverwendung zur 
+Verfügung stehen.  
+Es wird vorgeschlagen, die Verpflichtung der Kommission zum Betrieb eines Geo-Portals zu 
+streichen. Stattdessen wird der Zugang zu Geodaten über das EU-Portal für offene Daten 
+(data.europa.eu) ermöglicht, das als zentraler Zugangspunkt für europäische Daten des 
+öffentlichen Sektors dient.  
+Die in Kapitel II der INSPIRE-Richtlinie festgelegten Verpflichtungen zur Erzeugung von 
+Metadaten und zur Datenauffindbarkeit sind nach wie vor zweckmäßig und ermöglichen die 
+Übertragung von Metadaten und Suchfunktionen vom Geo-Portal INSPIRE oder von 
+nationalen oder subnationalen Geo-Portalen auf data.europa.eu.  
+Um den Verwaltungsaufwand zu verringern, wird vorgeschlagen, die in Artikel 21 
+festgelegten Berichtspflichten zu streichen. Die Mitgliedstaaten müssen der Kommission 
+gemäß Artikel 5 der Durchführungsverordnung (EU) 2023/138 einen Bericht über die 
+Maßnahmen übermitteln, die sie zur Durchführung dieser Verordnung ergriffen haben. Dieser 
+Bericht muss eine Liste von Datensätzen enthalten, die jeweils der Beschreibung jedes 
+einzelnen hochwertigen Datensatzes im Anhang dieser Verordnung (der 33 von 34 INSPIRE-
+Datensätzen umfasst) entsprechen, mit Online-Verweis auf Metadaten gemäß bestehenden 
+Standards, z. B. auf ein zentrales Register oder einen Katalog offener Daten. Daher ist es nicht 
+mehr erforderlich, die Berichtspflichten der Richtlinie 2007/2/EG beizubehalten.  
+Gemäß der Richtlinie (EU) 2019/1024 sind Daten „standardmäßig offen“, was auch für 
+Geodaten gilt, einschließlich Geodatensätzen im Sinne der Richtlinie 2007/2/EG. Daher wird 
+vorgeschlagen, die Bestimmung über die gemeinsame Nutzung von Daten in der INSPIRE-
+Richtlinie zu streichen. Die Bedingungen für den Schutz sensibler Informationen, z. B. im 
+Zusammenhang mit dem Schutz der nationalen Sicherheit oder personenbezogener Daten, 
+sind auch in der Richtlinie (EU) 2019/1024, der Richtlinie 2003/4/EG20 und der Verordnung 
+(EU) 2022/868 klar festgelegt. Der Vorschlag vereinfacht daher den Rechtsrahmen, ohne die 
+Verpflichtungen in Bezug auf die gemeinsame Nutzung von Geodaten durch Behörden 
+abzuschwächen. 
+Infolge der oben dargelegten Änderungen in Bezug auf Netzdienste, Interoperabilität und 
+gemeinsame Datennutzung wird ferner vorgeschlagen, die folgenden damit 
+zusammenhängenden Durchführungsrechtsakte nach dem geltenden Verfahren aufzuheben 
+und die entsprechenden Befugnisse zu streichen:  
+1. Verordnung (EG) Nr. 976/2009 der Kommission über Netzdienste21 
+2. Verordnung (EU) Nr. 1089/2010 der Kommission über die Interoperabilität von 
+Geodatensätzen und -diensten22 und  
+3. Verordnung (EU) Nr. 268/2010 der Kommission über die gemeinsame Nutzung von 
+Daten und Diensten23. 
+4. Durchführungsbeschluss (EU) 2019/1372 der Kommission zur Durchführung der 
+Richtlinie 2007/2/EG hinsichtlich Überwachung und Berichterstattung24. 
+• Subsidiarität  
+Die Schaffung einer europäischen Geodateninfrastruktur, die auf Infrastrukturen aufbaut, die 
+von den Mitgliedstaaten eingerichtet und betrieben werden, ist eine EU-rechtliche 
+Verpflichtung. Die Vereinfachung der damit verbundenen Verpflichtungen sollte daher am 
+besten auf EU-Ebene vorgenommen werden, um Rechtssicherheit und Kohärenz zu 
+gewährleisten. Dies wird Klarheit für die öffentlichen Verwaltungen in der gesamten EU 
+ 
+20 Richtlinie 2003/4/EG des Europäischen Parlaments und des Rates vom 28. Januar 2003 über den 
+Zugang der Öffentlichkeit zu Umweltinformationen und zur Aufhebung der Richtlinie 90/313/EWG des Rates 
+(ABl. L 41 vom 14.2.2003, S. 26). 
+21 Verordnung (EG) Nr. 976/2009 der Kommission vom 19. Oktober 2009 zur Durchführung der 
+Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Netzdienste (ABl. L 274 vom 
+20.10.2009, S. 9).  
+22 Verordnung (EU) Nr. 1089/2010 der Kommission vom 23. November 2010 zur Durchführung der 
+Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Interoperabilität von 
+Geodatensätzen und -diensten (ABl. L 323 vom 8.12.2010, S. 11). 
+23 Verordnung (EU) Nr. 268/2010 der Kommission vom 29. März 2010 zur Durchführung der Richtlinie 
+2007/2/EG des Europäischen Parlaments und des Rates in Bezug auf den Zugang der Organe und Einrichtungen 
+der Gemeinschaft zu Geodatensätzen und -diensten der Mitgliedstaaten nach harmonisierten Bedingungen (ABl. 
+L 83 vom 30.3.2010, S. 8).  
+24 Durchführungsbeschluss (EU) 2019/1372 der Kommission vom 19. August 2019 zur Durchführung der 
+Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich Überwachung und 
+Berichterstattung 
+(ELI: http://data.europa.eu/eli/dec_impl/2019/1372/oj).
+schaffen, die von der Vereinfachung der Anforderungen, die dieser Vorschlag mit sich bringt, 
+profitieren werden. 
+Eine Geodateninfrastruktur für die Umweltpolitik und für Maßnahmen oder Tätigkeiten, die 
+Auswirkungen auf die Umwelt haben, hat eine inhärente grenzüberschreitende und 
+gesamteuropäische Dimension. Einzelne Mitgliedstaaten können die Interoperabilität und den 
+Zugang zu Geodaten für EU-weite Zwecke nicht angemessen gewährleisten.  
+Maßnahmen auf EU-Ebene sind gerechtfertigt, um den gemeinsamen interoperablen Rahmen 
+für Geodaten zu vereinfachen und zu konsolidieren. Der Vorschlag betrifft nicht die 
+Zuständigkeit der Mitgliedstaaten für die Organisation ihrer internen Dateninfrastrukturen, 
+solange die gemeinsamen Ziele (offene Verfügbarkeit und Interoperabilität bestimmter 
+Geodatensätze) erreicht werden.  
+• Verhältnismäßigkeit  
+Der Vorschlag zielt darauf ab, den Rechtsrahmen dadurch zu vereinfachen, dass bestehende 
+Anforderungen im Hinblick auf eine Verringerung des Aufwands geändert werden, indem 
+Bestimmungen, die sich als übermäßig präskriptiv oder als Doppelung erwiesen haben und 
+die sich auf das übergeordnete politische Ziel inhaltlich nicht auswirken, gestrichen oder 
+geändert werden sowie indem eine Angleichung an die Richtlinie (EU) 2019/1024 und die 
+Verordnung (EU) 2023/138 vorgenommen wird. Der Vorschlag beschränkt sich daher auf 
+diejenigen Änderungen, die erforderlich sind, um eine effiziente Umsetzung, Vereinfachung 
+und sachdienliche Angleichung an die horizontalen Datenvorschriften zu gewährleisten. 
+3. ERGEBNISSE DER EX-POST-BEWERTUNG, DER KONSULTATION DER 
+INTERESSENTRÄGER UND DER FOLGENABSCHÄTZUNG 
+• Ex-post-Bewertung/Eignungsprüfungen bestehender Rechtsvorschriften 
+Die 2022 vorgenommene Bewertung25 der INSPIRE-Richtlinie ergab, dass die gemeinsame 
+Nutzung von Geodaten seit 2007 erheblich zugenommen hat, sodass Effizienzgewinne durch 
+die Anwendung der FAIR-Grundsätze erzielt und die EU-weite Interoperabilität gefördert 
+wurden. Demnach bestand der wichtigste Mehrwert der Richtlinie darin, die standardmäßige 
+gemeinsame Nutzung von Daten zu fördern, Governance-Strukturen zu schaffen, Daten des 
+öffentlichen Sektors zugänglich zu machen, die Transparenz zu verbessern und Fachwissen 
+auf EU-Ebene aufzubauen. Als besonders relevant wurde die Förderung des Datenraums für 
+den europäischen Grünen Deal, von Umweltstrategien und der Umweltdemokratie durch mehr 
+Transparenz erachtet. 
+Allerdings bestehen nach wie vor Herausforderungen. Es gibt nach wie vor technische und 
+organisatorische Durchführungshindernisse, wobei die Interoperabilität der kostenintensivste 
+Aspekt ist. Der derzeitige Rahmen wird als zu detailliert und nicht ausreichend 
+technologieneutral angesehen, was die Flexibilität und Kosteneffizienz beeinträchtigt. Die 
+Vereinfachung der Interoperabilitätsanforderungen und die Einräumung eines gewissen 
+Ermessensspielraums für die Mitgliedstaaten bei der Anwendung von Datenspezifikationen 
+würden die Anpassungsfähigkeit erhöhen und dazu beitragen, die Relevanz vor dem 
+Hintergrund des technologischen Wandels aufrechtzuerhalten. Die INSPIRE-Richtlinie allein 
+kann die grenzüberschreitende und sektorübergreifende Nutzbarkeit von Daten nicht 
+gewährleisten, da zusätzliche Anstrengungen nötig sind, um Daten in praktische 
+Informationen umzuwandeln.  
+ 
+25 SWD(2022) 195.
+Es wurde festgestellt, dass die INSPIRE-Richtlinie weitgehend mit den Rechtsvorschriften in 
+den Bereichen Umwelt, offene Daten und Informationszugang im Einklang steht, dass jedoch 
+Synergien zwischen diesen Rechtsrahmen besser genutzt werden könnten, um die aktive 
+Verbreitung von Umweltdaten zu unterstützen. Die Durchführungskosten werden weitgehend 
+von den nationalen Regierungen getragen, während die Endnutzer kaum belastet werden. In 
+den Fällen, in denen Kosten-Nutzen-Analysen durchgeführt wurden, entsprechen die 
+Ergebnisse den Erwartungen aus der ursprünglichen Ex-ante-Bewertung. 
+Insgesamt wurde festgestellt, dass die INSPIRE-Richtlinie nach wie vor von großer 
+Bedeutung ist, um Hindernisse für die gemeinsame Datennutzung zu beseitigen und den 
+künftigen Datenbedarf zu decken. Jedoch müsste der Rechtsrahmen modernisiert und die 
+praktische Durchführung verbessert werden, um ihre Wirksamkeit zu steigern. 
+• Konsultation der Interessenträger  
+Dieser Vorschlag wurde auf der Grundlage umfassender Konsultationen mit Behörden der 
+Mitgliedstaaten, Datenanbietern, Datennutzern, einschließlich Unternehmen und 
+Nichtregierungsorganisationen, und der breiten Öffentlichkeit erstellt. Die öffentliche 
+Konsultation, die vom 5. Februar bis zum 30. April 2025 lief, erstreckte sich auf einen 
+breiteren Anwendungsbereich als der vorliegende Vereinfachungsvorschlag und umfasste 
+zwei getrennte Teile: 1) einen allgemeinen Abschnitt über die Verfügbarkeit und 
+Zugänglichkeit von Umweltdaten (375 Antworten) und 2) einen spezifischeren Abschnitt über 
+die Vereinfachung der INSPIRE-Richtlinie (227 Antworten). Dieser Vorschlag stützt sich im 
+Wesentlichen auf die Ergebnisse des zweiten Teils der öffentlichen Konsultation, der die 
+Vereinfachung der INSPIRE-Richtlinie betraf. 
+Zum ersten Teil der öffentlichen Konsultation gingen 375 Antworten ein. Davon stammten 
+die meisten von Behörden (150), gefolgt von EU-Bürgern (113), Hochschul- und 
+Forschungseinrichtungen (40), Unternehmen (27), Umweltorganisationen (9), 
+Wirtschaftsverbänden (8), Nichtregierungsorganisationen (7), Nicht-EU-Bürgern (6) und 
+anderen Akteuren (15). Die Behörden waren großteils auf nationaler Ebene angesiedelt, und 
+es gingen 250 Antworten von Organisationen mit mehr als 250 Beschäftigten ein.  
+Die Teilnehmer waren in unterschiedlicher Weise mit Umweltdaten befasst. Insgesamt 
+258 Teilnehmer gaben an, Datennutzer zu sein, 195 Produzenten und 143 Hosting- oder 
+Datenanbieter. Umweltdaten werden in erster Linie für Forschung und Entwicklung 
+(188 Nennungen), Sensibilisierung und Aufklärung der Öffentlichkeit (185), Raum- und 
+Umweltplanung (183), Politikgestaltung (170), Compliance und Berichterstattung (169), 
+unternehmerische Entscheidungsfindung (92), Sorgfaltspflichten von Unternehmen (76) und 
+Nachhaltigkeitsberichterstattung (35) verwendet. Am häufigsten wurde auf Daten aus 
+folgenden Bereichen zugegriffen: Landnutzung und Bodenbedeckung (258), Klima- und 
+Wetterdaten (209), Wasserqualität und -quantität (181), biologische Vielfalt (181), 
+Hydrologie (171), Forstwirtschaft (165), Landwirtschaft (160) und Bodenqualität (153). Der 
+Datenzugriff erfolgt üblicherweise durch Herunterladen verarbeiteter Dateien (124), über 
+Darstellungsdienste (102) und durch Roh-/API-Zugriff (92).  
+227 Antworten gingen zum zweiten Teil ein, der die Vereinfachung der INSPIRE-Richtlinie 
+betraf. Was die Angleichung zwischen der INSPIRE-Richtlinie und der Richtlinie (EU) 
+2019/1024 angeht, so war die Auffassung stark vertreten, dass eine solche Angleichung eine 
+breitere Zugänglichkeit und Weiterverwendung fördern würde (133 stimmten voll und ganz 
+zu), die Vorschriften für die gemeinsame Datennutzung vereinfachen würde (128) und den 
+Verwaltungsaufwand verringern würde (111). In Bezug auf die Governance war eine klare 
+Mehrheit dafür, die INSPIRE-Richtlinie in einen gemeinsamen EU-Governance-Rahmen in 
+Verbindung mit horizontalen Rechtsvorschriften zu integrieren: 76 sprachen sich
+nachdrücklich dafür aus und 99 waren dafür, während nur 22 keine Position bezogen und 22 
+sich dagegen aussprachen. Viele betonten jedoch, dass das geodatenspezifische Fachwissen, 
+die Datenqualität und die Interoperabilitätsstandards gewahrt werden müssen.  
+Die Teilnehmer sahen potenzielle Vorteile in der Standardisierung, Qualitätssicherung und 
+Skalierbarkeit durch APIs und Cloud-Dienste. Im Mittelpunkt der Bedenken standen 
+Transparenz, Governance, Rechenschaftspflicht und Sicherheit sowie die Notwendigkeit, die 
+öffentliche Aufsicht aufrechtzuerhalten und eine Abhängigkeit von undurchsichtigen privaten 
+Plattformen zu vermeiden. In Bezug auf den künftigen Wert der INSPIRE-Richtlinie als 
+eigenständiges Instrument bei vollständiger Angleichung an die horizontalen 
+Rechtsvorschriften waren die Ansichten geteilt. Während 91 Teilnehmer sie als sehr oder eher 
+wertvoll betrachteten, sahen 62 einen begrenzten oder gar keinen Wert und 35 waren sich 
+nicht sicher.  
+Zur Konsultation wurden 25 zusätzliche Dokumente eingereicht, von denen 22 unmittelbar 
+relevant waren. In diesen Beiträgen wurden anhaltende Probleme wie Unterschiede bei der 
+Nutzbarkeit und Zugänglichkeit von Datenportalen, Unstimmigkeiten bei der Datenqualität 
+und Hindernisse für den grenzüberschreitenden Zugang hervorgehoben. Viele sprachen sich 
+für eine föderierte, kohärente europäische Plattform aus, die auf nationalen Knotenpunkten 
+aufbaut, und warnten vor einer Kommerzialisierung oder Bezahlschranken. Zu den von 
+Bürgerinnen und Bürgern generierten Daten wurden unterschiedliche Meinungen geäußert, 
+wobei die Unterstützung von klaren Qualitäts- und Validierungsrahmen abhing. Die 
+Teilnehmer betonten auch die Bedeutung der Finanzierung, des Kapazitätsaufbaus, des 
+sicheren Austauschs und der Wahrung der Kohärenz der Geodaten vor dem Hintergrund der 
+umfassenderen EU-Datenvorschriften wie der Richtlinie (EU) 2019/1024 und der Verordnung 
+(EU) 2024/903. 
+Die Sachverständigen der Mitgliedstaaten wurden über die INSPIRE Maintenance and 
+Implementation Group (MIG) im Rahmen mehrerer Workshops zwischen 2022 und 2025 eng 
+einbezogen. Auf der INSPIRE-Konferenz 2023 (280 Vertreter von Behörden, Unternehmen 
+und Hochschulen nahmen vor Ort und 800 online teil) wurde auch die mögliche 
+Weiterentwicklung der INSPIRE-Richtlinie erörtert. In Anbetracht der bereits in die 
+Durchführung getätigten Investitionen bestand weitgehendes Einvernehmen darüber, dass die 
+rechtlichen Anforderungen der Richtlinie diese nicht an veraltete Technologien binden oder 
+zu Doppelarbeit führen sollten. Einige Mitgliedstaaten haben bereits Pilotprojekte zur 
+Nutzung ihres Portals für offene Daten durchgeführt, um den INSPIRE-Verpflichtungen im 
+Bereich der Suchfunktionen nachzukommen, und damit die Machbarkeit demonstriert. 
+Datenanbieter sind aufgrund sich überschneidender Verpflichtungen häufig mit 
+Kapazitätsengpässen und Überlastung konfrontiert. Ähnlich wie die öffentliche Konsultation 
+kam die MIG zu dem Ergebnis, dass es weiterhin eine Rechtsgrundlage für Referenz-
+Geodaten geben sollte, um eine langfristige Standardisierung zu gewährleisten, wobei vor 
+allem an bisher gut funktionierenden Aspekten, insbesondere in Bezug auf Standards für 
+Metadaten, festgehalten werden sollte.  
+• Einholung und Nutzung von Expertenwissen 
+Bei der Ausarbeitung des Vorschlags griff die Kommission auf externes Fachwissen zurück 
+und gab zu diesem Zweck eine unterstützende Studie in Auftrag. Außerdem steuerte die 
+Gemeinsame Forschungsstelle (JRC) eine multidisziplinäre Analyse des Stands der 
+Durchführung der INSPIRE-Richtlinie und möglicher künftiger Ausrichtungen bei2627. Die 
+ 
+26 https://publications.jrc.ec.europa.eu/repository/handle/JRC126319. 
+27 https://publications.jrc.ec.europa.eu/repository/handle/JRC139026.
+Kommission berücksichtigte zudem die REFIT-Bewertung der INSPIRE-Richtlinie aus dem 
+Jahr 201628 sowie die Bewertung aus dem Jahr 202229, die detaillierte Anhaltspunkte dafür 
+lieferten, was funktioniert und was nicht. In der Bewertung wurde die geringe 
+Inanspruchnahme einiger INSPIRE-Dienste quantifiziert und die Integration mit horizontalen 
+Rechtsvorschriften für Daten empfohlen.  
+• Folgenabschätzung  
+Der Vorschlag betrifft gezielte Änderungen zur Modernisierung und Vereinfachung der 
+INSPIRE-Richtlinie durch deren Angleichung an die Verpflichtungen aus neueren, 
+horizontalen EU-Rechtsvorschriften für Daten. Die Änderungen zielen darauf ab, eine 
+effizientere, wirksamere und weniger aufwendige Durchführung zu gewährleisten. Da es sich 
+um gezielte Änderungen handelt und keine einschlägigen politischen Optionen vorliegen, ist 
+eine Folgenabschätzung nicht erforderlich. Die dem Vorschlag beigefügte Arbeitsunterlage 
+der Kommissionsdienststellen enthält jedoch eine Quantifizierung der erwarteten 
+Einsparungen sowie Informationen über die Fortführung der bestehenden 
+Koordinierungsmechanismen auf EU-Ebene in flexiblerer und weniger aufwendiger Form.  
+• Effizienz der Rechtsetzung und Vereinfachung 
+Im Rahmen des Programms zur Gewährleistung der Effizienz und Leistungsfähigkeit der 
+Rechtsetzung (REFIT) stellt die Kommission sicher, dass ihre Rechtsvorschriften ihren 
+Zweck erfüllen, auf die Bedürfnisse der Interessenträger zugeschnitten sind sowie den 
+Aufwand minimieren und gleichzeitig ihre Ziele erreichen.  
+Dieser Vorschlag ist Teil von REFIT und entspricht den Ergebnissen der Bewertung der 
+INSPIRE-Richtlinie aus dem Jahr 2022, in der Bereiche ermittelt wurden, in denen der 
+Verwaltungsaufwand zu hoch ist und die technischen Anforderungen übermäßig präskriptiv 
+sind. Mit dem Vorschlag wird der Rechtsrahmen vereinfacht, indem Verpflichtungen 
+gestrichen werden, die nun durch neuere, horizontale EU-Datenvorschriften, insbesondere die 
+Richtlinie (EU) 2019/1024, die Durchführungsverordnung (EU) 2023/138, die Verordnung 
+(EU) 2022/868 und die Verordnung (EU) 2024/903, abgedeckt sind. 
+Insbesondere wird Folgendes vorgeschlagen: 
+– Beseitigung doppelter Berichtspflichten, um den Aufwand ihrer Befolgung für die 
+Mitgliedstaaten zu verringern; 
+– Aufhebung von vier Befugnisübertragungen für den Erlass von 
+Durchführungsbestimmungen zu Interoperabilität, Netzdiensten, gemeinsamer 
+Datennutzung und Berichtspflichten, die nicht mehr den aktuellen bewährten 
+Verfahren oder Standards entsprechen, und auf diese Weise Beseitigung starrer 
+technischer Anforderungen. Die vier Durchführungsrechtsakte, die auf der 
+Grundlage der Befugnisübertragungen erlassen wurden, werden im Wege eines 
+gesonderten Verfahrens (Komitologie) aufgehoben;  
+– Integration des Geodatenzugangs in eine andere bestehende EU-Infrastruktur, das 
+Portal für offene Daten (data.europa.eu), wodurch der Nutzerzugang und die 
+Systempflege vereinfacht werden und die Verpflichtung der Kommission zum 
+Betrieb eines Geo-Portals aufgehoben wird.  
+ 
+28 Arbeitsunterlage der Kommissionsdienststellen über die REFIT-Bewertung der INSPIRE-Richtlinie 
+(SWD(2016) 273). 
+29 Siehe Fußnote 2.
+• Quantifizierte Auswirkungen der Aufhebung von Verpflichtungen 
+Die vorgeschlagenen Änderungen werden einem breiten Spektrum von Interessenträgern 
+zugutekommen, darunter Datenanbieter des öffentlichen Sektors, nationale und regionale 
+Behörden, Unternehmen, Forschungseinrichtungen, KMU und zivilgesellschaftliche 
+Organisationen. Für Datenanbieter des öffentlichen Sektors wird der Verwaltungsaufwand 
+reduziert und die Befolgung der Vorschriften vereinfacht, während Unternehmen und 
+Datennutzer dank offener Lizenzen und moderner APIs einen besseren Zugang zu 
+hochwertigen Umweltdaten erhalten.  
+Es wird eine 12-monatige Umsetzungsfrist vorgeschlagen, damit die Mitgliedstaaten ihre 
+Infrastrukturen anpassen und die Dienstkontinuität während der Umstellung auf den neuen 
+Rahmen aufrechterhalten können. Die durch die vorgeschlagene Vereinfachung insgesamt 
+erzielten Kosteneinsparungen für die EU dürften erheblich sein. Die jährlichen Basiskosten 
+für die Durchführung der INSPIRE-Richtlinie in der EU-27 werden auf 4,967 bis 
+48,926 Mio. EUR geschätzt.  
+Die vorgeschlagene Vereinfachung dürfte den Verwaltungsaufwand im Vergleich zum 
+derzeitigen Basisszenario um 24 bis 64 % verringern. Der untere Wert von 24 % geht auf die 
+konservativeren Schätzungen zurück, die sich aus den Rückmeldungen der Interessenträger 
+während des Validierungsworkshops ergaben, bei dem eine unmittelbare und pragmatische 
+Bewertung der potenziellen Auswirkungen vorgenommen wurde. Hingegen entspricht der 
+obere Wert von 64 % den Kostensenkungen, die beim Szenario der vollständigen 
+Angleichung an die Richtlinie (EU) 2019/1024 erzielt werden könnten.  
+Diese Bandbreite der erwarteten Einsparungen aufgrund der Vereinfachung wird als 
+realistisch angesehen, insbesondere was die Einsparungen im Zusammenhang mit der 
+jährlichen Aktualisierung harmonisierter Datensätze und dem Betrieb von Veröffentlichungs- 
+und Webdiensten betrifft. Ausgehend von den durchschnittlichen jährlichen Kosten, die im 
+Rahmen von INSPIRE für die Aktualisierung und Pflege von Datensätzen und die Dienste 
+entstehen, führt dies zu jährlichen Einsparungen von rund 6,36 bis 16,96 Mio. EUR. Für die 
+gesamte projizierte Bandbreite entspricht dies im Durchschnitt einer jährlichen Verringerung 
+der Verwaltungskosten um etwa 44 % bzw. jährlichen Einsparungen von rund 
+11,66 Mio. EUR. Diese Einsparungen werden durch die Aufhebung der komplexen 
+Harmonisierungsanforderungen, die Nutzung gängiger Webtechnologien und die 
+Konsolidierung der Infrastruktur erzielt. 
+• Grundrechte 
+Der Vorschlag hat keine negativen Auswirkungen auf die in der Charta der Grundrechte der 
+Europäischen Union verankerten Grundrechte. Die vorgeschlagenen Änderungen betreffen 
+die gemeinsame Nutzung von Geodaten des öffentlichen Sektors (umweltbezogene, 
+geografische und nicht personenbezogene Informationen) und beinhalten weder die 
+Verarbeitung personenbezogener Daten noch Einschränkungen der Rechte des Einzelnen. Die 
+Richtlinie 2007/2/EG in ihrer derzeitigen Fassung enthält bereits Garantien, um den Schutz 
+personenbezogener Daten und sensibler vertraulicher Informationen zu gewährleisten, z. B. in 
+Artikel 13.  
+Durch die Förderung offener Daten und von Transparenz steht der Vorschlag im Einklang mit 
+Artikel 42 der Charta (Recht auf Zugang zu Dokumenten) und Artikel 37 (Umweltschutz), der 
+implizit den Zugang zu Umweltinformationen unterstützt. Die Bürgerinnen und Bürger 
+werden weiterhin mindestens den gleichen Zugang zu umweltbezogenen Geodaten haben wie
+zuvor. Der Vorschlag berührt nicht die Rechte auf Privatsphäre oder Datenschutz, da 
+personenbezogene Daten (z. B. Namen von Immobilieneigentümern in einem Kataster) vom 
+Anwendungsbereich der INSPIRE-Richtlinie ausgenommen sind. 
+4. AUSWIRKUNGEN AUF DEN HAUSHALT 
+Nicht zutreffend 
+5. WEITERE ANGABEN 
+• Durchführungspläne sowie Monitoring-, Bewertungs- und 
+Berichterstattungsmodalitäten 
+Durchführungsplan 
+Nicht zutreffend 
+• Erläuternde Dokumente 
+Angesichts des Anwendungsbereichs des Vorschlags ist es nicht gerechtfertigt oder 
+verhältnismäßig, erläuternde Dokumente zu verlangen. 
+• Ausführliche Erläuterung einzelner Bestimmungen des Vorschlags 
+Dieser Vorschlag umfasst Folgendes:  
+– Streichung von Spezifikationen für die technische Interoperabilität unter 
+Berücksichtigung des Umstands, dass die Richtlinie (EU) 2019/1024 gemäß 
+Artikel 1 Absatz 7 die Weiterverwendung vorhandener Dokumente regelt, die im 
+Besitz öffentlicher Stellen und öffentlicher Unternehmen der Mitgliedstaaten sind, 
+einschließlich der Dokumente, auf die die Richtlinie 2007/2/EG anwendbar ist 
+(Artikel 7); 
+– Streichung technischer Anforderungen an Netzdienste unter Berücksichtigung des 
+Umstands, dass die Richtlinie (EU) 2019/1024 gemäß Artikel 1 Absatz 7 die 
+Weiterverwendung vorhandener Dokumente regelt, die im Besitz öffentlicher Stellen 
+und öffentlicher Unternehmen der Mitgliedstaaten sind, einschließlich der 
+Dokumente, auf die die Richtlinie 2007/2/EG anwendbar ist (Artikel 11); 
+– Streichung von Anforderungen an die gemeinsame Nutzung von Daten, da gemäß 
+der Richtlinie (EU) 2019/1024 Daten „standardmäßig offen“ sind, was auch für 
+Geodaten gilt, einschließlich Geodatensätzen im Sinne der Richtlinie 2007/2/EG; 
+– Streichung der Bedingungen für die Gebührenerhebung für Geodatensätze durch 
+Behörden unter Berücksichtigung des Umstands, dass die Richtlinie (EU) 2019/1024 
+gemäß Artikel 1 Absatz 7 die Weiterverwendung vorhandener Dokumente regelt, die 
+im Besitz öffentlicher Stellen und öffentlicher Unternehmen der Mitgliedstaaten 
+sind, einschließlich der Dokumente, auf die die Richtlinie 2007/2/EG anwendbar ist, 
+und auch Grundsätze und Regeln für die Gebührenerhebung enthält (Artikel 14); 
+– Streichung der Verpflichtung der Kommission, ein Geo-Portal INSPIRE zu schaffen 
+und zu betreiben (Artikel 15); 
+– Streichung der Berichtspflichten, um Doppelarbeit zu vermeiden, da die 
+Mitgliedstaaten aufgrund der Verpflichtung in Artikel 5 der 
+Durchführungsverordnung (EU) 2023/138 die Durchführung der INSPIRE-Richtlinie 
+überwachen und darüber Bericht erstatten müssen (Artikel 21);
+– Aktualisierung des Regelungsverfahrens mit Kontrolle im Hinblick auf die 
+Anpassung der Anhänge I, II und III (Artikel 4 Absatz 7 und neuer Artikel 22a); 
+– Aktualisierung der Bestimmung über Durchführungsbefugnisse in Artikel 5 
+Absatz 4, um die Bezugnahme auf die Artikel 5 und 7 des Beschlusses 1999/468/EG 
+durch eine Bezugnahme auf Artikel 5 der Verordnung (EU) Nr. 182/2011 zu ersetzen 
+(neuer Artikel 22b); 
+– Streichung von Bestimmungen, die wegen des Ablaufs einer Frist hinfällig geworden 
+sind, und von hinfälligen Begriffsbestimmungen.
+2025/0393 (COD) 
+Vorschlag für eine 
+RICHTLINIE DES EUROPÄISCHEN PARLAMENTS UND DES RATES 
+zur Änderung der Richtlinie 2007/2/EG im Hinblick auf die Vereinfachung bestimmter 
+Anforderungen an die Schaffung der Geodateninfrastruktur in der Union 
+(Text von Bedeutung für den EWR) 
+DAS EUROPÄISCHE PARLAMENT UND DER RAT DER EUROPÄISCHEN UNION — 
+gestützt auf den Vertrag über die Arbeitsweise der Europäischen Union, insbesondere auf 
+Artikel 192 Absatz 1, 
+auf Vorschlag der Europäischen Kommission, 
+nach Zuleitung des Entwurfs des Gesetzgebungsakts an die nationalen Parlamente, 
+nach Stellungnahme des Europäischen Wirtschafts- und Sozialausschusses30,  
+nach Stellungnahme des Ausschusses der Regionen31,  
+gemäß dem ordentlichen Gesetzgebungsverfahren, 
+in Erwägung nachstehender Gründe: 
+(1) In den politischen Leitlinien für die Amtszeit der Kommission 2024-202932 wird 
+darauf hingewiesen, dass die Rechtsvorschriften vereinfacht werden sollen, damit 
+Überschneidungen und Widersprüchlichkeiten unter Aufrechterhaltung hoher 
+Standards beseitigt werden, und dass Kurs auf die Ziele gehalten werden soll, die im 
+europäischen Grünen Deal33 festgelegt wurden. 
+(2) Als Reaktion auf den Draghi-Bericht 202434, in dem regulatorische Hindernisse und 
+der Verwaltungsaufwand als eine der größten Herausforderungen insbesondere für 
+kleine und mittlere Unternehmen genannt werden, wird im Kompass für 
+Wettbewerbsfähigkeit35 eine Reihe horizontaler Erfolgsfaktoren zur Stärkung der 
+Wettbewerbsfähigkeit aufgeführt, wie unter anderem die Vereinfachung der 
+Rechtsvorschriften, die Verringerung des Verwaltungsaufwands und die Begünstigung 
+von Geschwindigkeit und Flexibilität. 
+ 
+30 ABl. C , , S. . 
+31 ABl. C , , S. . 
+32 Europa hat die Wahl: Politische Leitlinien für die nächste Europäische Kommission 2024-2029, Ursula von der 
+Leyen. 
+33 Mitteilung der Kommission an das Europäische Parlament, den Europäischen Rat, den Rat, den 
+Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen vom 11. Dezember 
+2019, „Der europäische Grüne Deal“ (COM(2019) 640 final). 
+34 Draghi, M. (2024), Die Zukunft der europäischen Wettbewerbsfähigkeit, in: Draghi-Bericht über die 
+Wettbewerbsfähigkeit der EU.  
+35 Ein einfacheres und schnelleres Europa: Mitteilung über die Umsetzung und Vereinfachung 
+(COM(2025) 47 final vom 11. Februar 2025).
+(3) Die Kommission legte in ihrer Mitteilung vom 19. November 2025 über eine Strategie 
+für eine Datenunion und die Erschließung von Daten für KI36 ihre Vision für die 
+Datenunion dar, auch im Hinblick auf die Verbesserung der gemeinsamen Nutzung 
+von Daten im öffentlichen Sektor. Diese Agenda erfordert mehr als eine Politik der 
+kleinen Schritte; die Union muss vielmehr entschlossen handeln, wenn sie ihre Ziele 
+erreichen will. Die Kommission, das Europäische Parlament, der Rat, die Behörden 
+der Mitgliedstaaten auf allen Ebenen und die Interessenträger müssen 
+zusammenarbeiten, um die Unionsvorschriften, die nationalen und die regionalen 
+Vorschriften zu straffen und zu vereinfachen und die politischen Strategien wirksamer 
+umzusetzen. 
+(4) Angesichts der erklärten Absicht der Kommission, den Berichterstattungsaufwand und 
+die Befolgungskosten zu verringern, die Interoperabilität zu erhöhen und die 
+Wettbewerbsfähigkeit zu steigern, ist es erforderlich, die Richtlinie 2007/2/EG des 
+Europäischen Parlaments und des Rates37 zu ändern und gleichzeitig an den 
+Zielsetzungen des europäischen Grünen Deals und des Aktionsplans für ein 
+nachhaltiges Finanzwesen38 festzuhalten.  
+(5) Die Richtlinie 2007/2/EG enthält bestimmte Begriffsbestimmungen, die infolge der 
+vorgeschlagenen Änderungen hinfällig werden. Diese Begriffsbestimmungen sollten 
+gestrichen werden.   
+(6) In der Richtlinie 2007/2/EG wird auf Dritte Bezug genommen, während sich die 
+Richtlinie (EU) 2019/1024, die für öffentliche Stellen und öffentliche Unternehmen 
+gilt, nicht auf private Einrichtungen oder Unternehmen erstreckt.  Um die Kohärenz 
+mit der Richtlinie (EU) 2019/102439 zu gewährleisten, sollte der Verweis auf Dritte 
+gestrichen werden. 
+(7) Die Fristen für die Erzeugung von Metadaten und für den Erlass von 
+Durchführungsbestimmungen zur Festlegung technischer Modalitäten für die 
+Interoperabilität von Geodatensätzen und -diensten sind hinfällig und sollten 
+gestrichen werden. 
+(8) Mit den Artikeln 7 und 8 der Richtlinie 2007/2/EG wird der Kommission die Befugnis 
+übertragen, Durchführungsbestimmungen zur Festlegung technischer Modalitäten für 
+die Interoperabilität und, wenn durchführbar, die Harmonisierung von Geodatensätzen 
+und -diensten zu erlassen. Darin sind auch die Bedingungen und der Inhalt dieser 
+Durchführungsbestimmungen festgelegt. Gemäß Artikel 5 Absatz 1 der Richtlinie 
+(EU) 2019/1024 müssen öffentliche Stellen und öffentliche Unternehmen ihre 
+Dokumente in allen vorhandenen Formaten oder Sprachen und, soweit möglich und 
+sinnvoll, auf elektronischem Wege in offenen, maschinenlesbaren, zugänglichen, 
+auffindbaren und weiterverwendbaren Formaten zusammen mit den zugehörigen 
+ 
+36 Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und 
+Sozialausschuss und den Ausschuss der Regionen, „Ein einfacheres und schnelleres Europa: Mitteilung über die 
+Umsetzung und Vereinfachung“ (COM(2025) 47 final vom 11.2.2025). 
+37 Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates vom 14. März 2007 zur 
+Schaffung einer Geodateninfrastruktur in der Europäischen Gemeinschaft (INSPIRE) (ABl. L 108 vom 
+25.4.2007, S. 1). 
+38 Mitteilung der Kommission an das Europäische Parlament, den Europäischen Rat, den Rat, die 
+Europäische Zentralbank, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der 
+Regionen, „Aktionsplan: Finanzierung nachhaltigen Wachstums“ (COM(2018) 97 final vom 8.3.2018). 
+39 Richtlinie (EU) 2019/1024 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über offene 
+Daten und die Weiterverwendung von Informationen des öffentlichen Sektors (ABl. L 172 vom 
+26.6.2019, S. 56, ELI: http://data.europa.eu/eli/dir/2019/1024/oj).
+Metadaten zur Verfügung stellen. Sowohl die Formate als auch die Metadaten müssen 
+soweit möglich formellen, offenen Standards entsprechen. Gemäß Artikel 1 Absatz 7 
+der Richtlinie (EU) 2019/1024 regelt diese Richtlinie die Weiterverwendung 
+vorhandener Dokumente, die im Besitz öffentlicher Stellen und öffentlicher 
+Unternehmen der Mitgliedstaaten sind, einschließlich der Dokumente, auf die die 
+Richtlinie 2007/2/EG anwendbar ist. Da die Interoperabilitätsanforderungen an offene 
+Daten für Geodaten gelten, sollte die Befugnis zum Erlass von 
+Durchführungsbestimmungen zur Festlegung technischer Modalitäten für die 
+Interoperabilität und, wenn durchführbar, die Harmonisierung von Geodatensätzen 
+und damit zusammenhängenden Bestimmungen gestrichen werden.  
+(9) In Artikel 10 der Richtlinie 2007/2/EG ist festgelegt, dass die Mitgliedstaaten dafür 
+sorgen müssen, dass die für die Interoperabilität von Geodaten erforderlichen 
+Informationen, einschließlich Codes und Klassifizierungen, zur Verfügung gestellt 
+werden, und es ist festgelegt, wie die Kohärenz von Geodaten über Objekte, deren 
+Lage sich über die Grenze von zwei oder mehr Mitgliedstaaten erstreckt, sichergestellt 
+werden kann. Da die Artikel 7 und 8 aufgehoben werden, sind die Anforderungen an 
+die Mitgliedstaaten, für die Zurverfügungstellung solcher Informationen zu sorgen, 
+und die Bedingungen für die Sicherstellung der Kohärenz von Geodaten nicht mehr 
+erforderlich.   
+(10) In den Artikeln 11 und 12 der Richtlinie 2007/2/EG ist festgelegt, dass die 
+Mitgliedstaaten ein Netz von Such-, Darstellungs-, Download- und 
+Transformationsdiensten und von Diensten zum Abrufen von Geodatensätzen schaffen 
+und betreiben müssen und dass sie sicherstellen müssen, dass Behörden und Dritte ihre 
+Geodatensätze und -dienste mit diesem Netz verknüpfen können.  Mit der Richtlinie 
+(EU) 2019/1024 wird der Rechtsrahmen für offene Daten festgelegt und das Konzept 
+hochwertiger Datensätze eingeführt, wobei es sich definitionsgemäß um Daten 
+handelt, deren Weiterverwendung mit wichtigen Vorteilen für die Gesellschaft und die 
+Wirtschaft verbunden ist, was auch auf Geodatensätze zutrifft. Gemäß der Richtlinie 
+(EU) 2019/1024 sind hochwertige Datensätze in maschinenlesbarem Format über 
+geeignete Anwendungsprogrammierschnittstellen und gegebenenfalls als Massen-
+Download zur Weiterverwendung zugänglich zu machen. Gemäß Artikel 1 Absatz 7 
+der Richtlinie (EU) 2019/1024 regelt diese Richtlinie die Weiterverwendung 
+vorhandener Dokumente, die im Besitz öffentlicher Stellen und öffentlicher 
+Unternehmen der Mitgliedstaaten sind, einschließlich der Dokumente, auf die die 
+Richtlinie 2007/2/EG anwendbar ist. Um die Kohärenz mit der Richtlinie (EU) 
+2019/1024 zu gewährleisten und die Überschneidung von Bestimmungen zu 
+vermeiden, sollten die Anforderungen der Richtlinie 2007/2/EG, wonach ein Netz für 
+Geodatendienste zu schaffen und zu betreiben ist, gestrichen werden.  
+(11) Artikel 14 der Richtlinie 2007/2/EG enthält die Vorschriften über die kostenlose 
+Bereitstellung von Such- und Darstellungsdiensten für die Öffentlichkeit sowie über 
+die Bereitstellung von Dienstleistungen des elektronischen Geschäftsverkehrs, wenn 
+Gebühren erhoben werden. Die Richtlinie (EU) 2019/1024 enthält Grundsätze und 
+Vorschriften für die Bemessung von Gebühren und Entgelten im Zusammenhang mit 
+der kostenfreien Bereitstellung von Dokumenten und hochwertigen Datensätzen, 
+einschließlich Ausnahmen und Abweichungen von den Gebührenvorschriften, um die 
+größtmögliche Wirkung zu gewährleisten und die Weiterverwendung von Daten zu 
+erleichtern. Gemäß Artikel 1 Absatz 7 der Richtlinie (EU) 2019/1024 regelt diese 
+Richtlinie die Weiterverwendung vorhandener Dokumente, die im Besitz öffentlicher 
+Stellen und öffentlicher Unternehmen der Mitgliedstaaten sind, einschließlich der
+Dokumente, auf die die Richtlinie 2007/2/EG anwendbar ist. Um die Kohärenz mit der 
+Richtlinie (EU) 2019/1024 zu gewährleisten und die Überschneidung von 
+Bestimmungen zu vermeiden, sollten die Vorschriften der Richtlinie 2007/2/EG über 
+die Erhebung von Gebühren für Such- und Darstellungsdienste gestrichen werden.   
+(12) Gemäß Artikel 15 der Richtlinie 2007/2/EG muss die Kommission ein Geo-Portal 
+INSPIRE schaffen und betreiben. Dieses Portal bildet den zentralen europäischen 
+Zugangspunkt zu den von den Mitgliedstaaten und den EFTA-Ländern im Rahmen der 
+Richtlinie 2007/2/EG bereitgestellten Daten. Das Portal ermöglicht die Überwachung 
+der Verfügbarkeit von Datensätzen, die Suche nach geeigneten Datensätzen auf der 
+Grundlage ihrer Beschreibungen und den Zugang zu ausgewählten Datensätzen über 
+Darstellungs- oder Download-Dienste. Seit 2021 dient die Website data.europa.eu als 
+zentraler Zugangspunkt für offene Daten, die von Institutionen der Union40, auf 
+nationalen Portalen von Mitgliedstaaten und Drittländern sowie von internationalen 
+Organisationen veröffentlicht werden. Um einen doppelten Zugang zu Geodatensätzen 
+zu vermeiden und den Verwaltungsaufwand zu verringern, sollte die Verpflichtung der 
+Kommission, das Geo-Portal INSPIRE zu betreiben, gestrichen werden.  
+(13) Gemäß Artikel 16 der Richtlinie 2007/2/EG ist die Kommission befugt, technische 
+Spezifikationen und Mindestleistungskriterien für die in den Artikeln 11 und 12 jener 
+Richtlinie genannten Netzdienste anzunehmen. Da die Artikel 11 und 12 der Richtlinie 
+2007/2/EG aufgehoben werden, ist diese Befugnisübertragung nicht mehr erforderlich. 
+(14) Gemäß Artikel 17 der Richtlinie 2007/2/EG müssen die Mitgliedstaaten Maßnahmen 
+ergreifen, die die gemeinsame Nutzung von auf einer behördlichen Ebene erhobenen 
+Geodaten mit allen behördlichen Ebenen ermöglichen, und sicherstellen, dass 
+Geodaten und Geodatendienste unter Bedingungen zur Verfügung gestellt werden, die 
+ihre umfassende Nutzung nicht einschränken. Gemäß der Richtlinie (EU) 2019/1024 
+sind Daten „standardmäßig offen“, was auch für Geodaten gilt, einschließlich 
+Geodatensätzen, die unter den Anwendungsbereich der Richtlinie 2007/2/EG fallen. 
+Artikel 17 sollte daher gestrichen werden, um den Rechtsrahmen zu vereinfachen und 
+Überschneidungen zu vermeiden. 
+(15) In Artikel 21 der Richtlinie 2007/2/EG sind die Überwachungs- und Berichtspflichten 
+der Mitgliedstaaten in Bezug auf die Durchführung jener Richtlinie und die Nutzung 
+ihrer Geodateninfrastrukturen festgelegt. In Artikel 5 der Durchführungsverordnung 
+(EU) 2023/138 der Kommission41 wird eine Liste der hochwertigen Datensätze 
+festgelegt, die zu den thematischen Kategorien in Anhang I der Richtlinie (EU) 
+2019/1024 gehören und sich im Besitz öffentlicher Stellen befinden. Ferner werden 
+die Modalitäten für die Veröffentlichung und Weiterverwendung solcher hochwertigen 
+Datensätze festgelegt.  Die Mitgliedstaaten müssen der Kommission einen Bericht 
+über die Maßnahmen übermitteln, die sie zur Durchführung der Vorschriften der 
+Durchführungsverordnung (EU) 2023/138 ergriffen haben, einschließlich einer Liste 
+von Datensätzen, die jeweils der Beschreibung jedes einzelnen im Anhang jener 
+Durchführungsverordnung aufgeführten hochwertigen Datensatzes entsprechen, mit 
+Online-Verweis auf Metadaten gemäß bestehenden Standards. Dieser Anhang umfasst 
+ 
+40 Beschluss vom April 2021? 
+41 Durchführungsverordnung (EU) 2023/138 der Kommission vom 21. Dezember 2022 zur Festlegung 
+bestimmter hochwertiger Datensätze und der Modalitäten ihrer Veröffentlichung und Weiterverwendung (Text 
+von Bedeutung für den EWR) (ABl. L 19 vom 20.1.2023, S. 43, 
+ELI: http://data.europa.eu/eli/reg_impl/2023/138/oj).
+33 der in den Anhängen I, II und III der Richtlinie 2007/2/EG aufgeführten 
+34 Geodatensätze. Daher ist es nicht mehr erforderlich, die Berichtspflichten des 
+Artikels 21 der Richtlinie 2007/2/EG beizubehalten. 
+(16) Mit dem Vertrag von Lissabon wurde der Rechtsrahmen für die Befugnisse, die der 
+Kommission vom Gesetzgeber übertragen werden, geändert, indem eine 
+Unterscheidung zwischen den Befugnissen eingeführt wurde, die der Kommission für 
+den Erlass von Rechtsakten ohne Gesetzescharakter mit allgemeiner Geltung zur 
+Ergänzung oder Änderung bestimmter nicht wesentlicher Vorschriften des 
+betreffenden Gesetzgebungsaktes übertragen werden (delegierte Rechtsakte), und den 
+Befugnissen, die der Kommission für den Erlass von Rechtsakten zur Gewährleistung 
+einheitlicher Bedingungen für die Durchführung der verbindlichen Rechtsakte der 
+Union (Durchführungsrechtsakte) übertragen werden. Werden der Kommission 
+Durchführungsbefugnisse übertragen, so sollten diese im Einklang mit der Verordnung 
+(EU) Nr. 182/2011 des Europäischen Parlaments und des Rates42 wahrgenommen 
+werden. 
+(17) Mit dieser Richtlinie, die vor dem Inkrafttreten des Vertrags von Lissabon erlassen 
+wurde, wurden der Kommission Befugnisse übertragen, um Maßnahmen nach dem 
+Regelungsverfahren mit Kontrolle gemäß Artikel 5a des Beschlusses 1999/468/EG des 
+Rates43 zu erlassen. 
+(18) Die Notwendigkeit, alle bestehenden Rechtsvorschriften an den mit dem Vertrag von 
+Lissabon eingeführten Rechtsrahmen anzupassen, wird in der Interinstitutionellen 
+Vereinbarung vom 13. April 2016 über bessere Rechtsetzung44 anerkannt. 
+(19) Die in Artikel 4 Absatz 7 der Richtlinie 2007/2/EG festgelegte Befugnis der 
+Kommission, die Anhänge I, II und III der Richtlinie zu ändern, um die Beschreibung 
+der in diesen Anhängen aufgeführten bestehenden Geodaten-Themen anzupassen, 
+sieht die Anwendung des Regelungsverfahrens mit Kontrolle vor. Da diese 
+Befugnisübertragung die Kriterien gemäß Artikel 290 des Vertrags über die 
+Arbeitsweise der Europäischen Union (AEUV) erfüllt, sollte sie an jene Bestimmung 
+angepasst werden.  
+(20) Um die erforderliche Anpassung dieser Verordnung zu gewährleisten, sollte der 
+Kommission die Befugnis übertragen werden, gemäß Artikel 290 AEUV Rechtsakte 
+zur Änderung der Anhänge I bis III der Richtlinie 2007/2/EG zu erlassen, um die 
+Beschreibung der bestehenden Geodaten-Themen anzupassen. Es ist von besonderer 
+Bedeutung, dass die Kommission im Zuge ihrer Vorbereitungsarbeit angemessene 
+Konsultationen, auch auf der Ebene von Sachverständigen, durchführt, die mit den 
+Grundsätzen in Einklang stehen, die in der Interinstitutionellen Vereinbarung vom 
+13. April 2016 über bessere Rechtsetzung niedergelegt wurden. Um insbesondere für 
+eine gleichberechtigte Beteiligung an der Vorbereitung delegierter Rechtsakte zu 
+sorgen, erhalten das Europäische Parlament und der Rat alle Dokumente zur gleichen 
+Zeit wie die Sachverständigen der Mitgliedstaaten, und ihre Sachverständigen haben 
+ 
+42 Verordnung (EU) Nr. 182/2011 des Europäischen Parlaments und des Rates vom 16. Februar 2011 zur 
+Festlegung der allgemeinen Regeln und Grundsätze, nach denen die Mitgliedstaaten die Wahrnehmung 
+der Durchführungsbefugnisse durch die Kommission kontrollieren (ABl. L 55 vom 28.2.2011, S. 13). 
+43 Beschluss 1999/468/EG des Rates vom 28. Juni 1999 zur Festlegung der Modalitäten für die Ausübung 
+der der Kommission übertragenen Durchführungsbefugnisse (ABl. L 184 vom 17.7.1999, S. 23, ELI: 
+http://data.europa.eu/eli/dec/1999/468/oj).  
+44 ABl. L 123 vom 12.5.2016, S. 1, ELI: http://data.europa.eu/eli/agree_interinstit/2016/512/oj.
+systematisch Zugang zu den Sitzungen der Sachverständigengruppen der Kommission, 
+die mit der Vorbereitung der delegierten Rechtsakte befasst sind. 
+(21) Die Befugnis der Kommission zum Erlass von Durchführungsbestimmungen zu 
+Artikel 5 der Richtlinie 2007/27/EG, die in Absatz 4 jenes Artikels festgelegt ist, sollte 
+an Artikel 291 AEUV angepasst werden. 
+(22) Artikel 23 der Richtlinie 2007/2/EG verpflichtet die Kommission, die Richtlinie zu 
+bewerten, und legt die Elemente fest, auf die sich die Bewertung stützen sollte. Diese 
+Elemente sollten im Hinblick auf die Angleichung an die Überwachungs- und 
+Berichtspflichten der Verordnung (EU) 2023/138 und die Aufhebung des Artikels 21 
+der Richtlinie 2007/2/EG geändert werden.  
+(23) Die Richtlinie 2007/2/EG sollte daher entsprechend geändert werden.  
+(24) Die Verordnungen (EU) Nr. 1089/201045, (EG) Nr. 976/200946 und (EU) 
+Nr. 268/201047 der Kommission sollten aufgehoben werden, bevor die jeweiligen 
+Befugnisübertragungen, auf deren Grundlage sie erlassen wurden, aufgehoben werden. 
+Die Aufhebung dieser Befugnisübertragungen sollte daher erst ab einem späteren 
+Zeitpunkt gelten.  
+(25) Da die Ziele dieser Richtlinie von den Mitgliedstaaten nicht ausreichend verwirklicht 
+werden können, sondern vielmehr wegen des Umfangs oder der Wirkungen der 
+Maßnahme auf Unionsebene besser zu verwirklichen sind, kann die Union im 
+Einklang mit dem in Artikel 5 des Vertrags über die Europäische Union verankerten 
+Subsidiaritätsprinzip tätig werden. Entsprechend dem in demselben Artikel genannten 
+Grundsatz der Verhältnismäßigkeit geht diese Richtlinie nicht über das für die 
+Verwirklichung dieser Ziele erforderliche Maß hinaus — 
+ 
+HABEN FOLGENDE RICHTLINIE ERLASSEN: 
+Artikel 1  
+Änderungen 
+Die Richtlinie 2007/2/EG wird wie folgt geändert: 
+1. In Artikel 3 werden die Nummern 5, 7, 8 und 10 gestrichen.  
+2. Artikel 4 wird wie folgt geändert: 
+a) Absatz 1 Buchstabe c Ziffer ii wird gestrichen. b) Absatz 5 wird 
+gestrichen. 
+b) Absatz 7 erhält folgende Fassung:  
+ 
+45 Verordnung (EU) Nr. 1089/2010 der Kommission vom 23. November 2010 zur Durchführung der 
+Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Interoperabilität von 
+Geodatensätzen und -diensten (ABl. L 323 vom 8.12.2010, S. 11, ELI: 
+http://data.europa.eu/eli/reg/2010/1089/oj). 
+46 Verordnung (EG) Nr. 976/2009 der Kommission vom 19. Oktober 2009 zur Durchführung der 
+Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Netzdienste (ABl. 
+L 274 vom 20.10.2009, S. 9, ELI: http://data.europa.eu/eli/reg/2009/976/oj). 
+47 Verordnung (EU) Nr. 268/2010 der Kommission vom 29. März 2010 zur Durchführung der Richtlinie 
+2007/2/EG des Europäischen Parlaments und des Rates in Bezug auf den Zugang der Organe und 
+Einrichtungen der Gemeinschaft zu Geodatensätzen und -diensten der Mitgliedstaaten nach 
+harmonisierten Bedingungen (ABl. L 83 vom 30.3.2010, S. 8, ELI: 
+http://data.europa.eu/eli/reg/2010/268/oj).
+„(7) Der Kommission wird die Befugnis übertragen, gemäß Artikel 22a delegierte Rechtsakte 
+zur Änderung der Anhänge I, II und III durch Anpassung der Beschreibung der bestehenden 
+Geodaten-Themen unter Berücksichtigung der technologischen und wirtschaftlichen 
+Entwicklungen zu erlassen.“ 
+3. Artikel 5 wird wie folgt geändert: 
+a) Absatz 2 Buchstabe a wird gestrichen.  
+b)  Absatz 4 erhält folgende Fassung: 
+„(4) Der Kommission wird die Befugnis übertragen, Durchführungsrechtsakte zur Festlegung 
+von Vorschriften für die Anwendung dieses Artikels unter Berücksichtigung der 
+einschlägigen bestehenden internationalen Normen und Nutzeranforderungen, insbesondere in 
+Bezug auf Validierungsmetadaten, zu erlassen. Diese Durchführungsrechtsakte werden nach 
+dem Verfahren gemäß Artikel 22b Absatz 2 erlassen.“ 
+4. Die Artikel 6 bis 7 werden aufgehoben. 
+5. Artikel 8 wird aufgehoben.  
+6. Die Artikel 9 bis 12 werden aufgehoben. 
+7. Artikel 13 Absatz 1 wird wie folgt geändert: 
+a) Unterabsatz 1 erhält folgende Fassung: 
+„Die Mitgliedstaaten können den Zugang der Öffentlichkeit zu Geodatensätzen und -diensten 
+beschränken, wenn dieser Zugang auf die internationalen Beziehungen, die öffentliche 
+Sicherheit oder die nationale Verteidigung nachteilige Auswirkungen haben könnte.“  
+b) In Unterabsatz 2 erhält der einleitende Teil folgende Fassung:  
+„Die Mitgliedstaaten können den Zugang der Öffentlichkeit zu Geodatensätzen und -diensten 
+beschränken, wenn dieser Zugang nachteilige Auswirkungen haben könnte auf:“ 
+8. Die Artikel 14 bis 15 werden aufgehoben.  
+9. Artikel 16 wird aufgehoben. 
+10. Artikel 17 wird aufgehoben.  
+11. Artikel 21 wird aufgehoben. 
+12. Artikel 22 erhält folgende Fassung: 
+„Artikel 22a 
+(1) Die Befugnis zum Erlass delegierter Rechtsakte wird der Kommission unter den in diesem 
+Artikel festgelegten Bedingungen übertragen.  
+(2) Die Befugnis zum Erlass delegierter Rechtsakte gemäß Artikel 4 Absatz 7 wird der 
+Kommission für einen Zeitraum von fünf Jahren ab dem [OP: bitte Datum des Inkrafttretens 
+dieser Richtlinie einfügen] übertragen. Die Kommission erstellt spätestens neun Monate vor 
+Ablauf des Zeitraums von fünf Jahren einen Bericht über die Befugnisübertragung. Die 
+Befugnisübertragung verlängert sich stillschweigend um Zeiträume gleicher Länge, es sei 
+denn, das Europäische Parlament oder der Rat widersprechen einer solchen Verlängerung 
+spätestens drei Monate vor Ablauf des jeweiligen Zeitraums.  
+(3) Die Befugnisübertragung gemäß Artikel 4 Absatz 7 kann vom Europäischen Parlament 
+oder vom Rat jederzeit widerrufen werden. Der Beschluss über den Widerruf beendet die 
+Übertragung der in diesem Beschluss angegebenen Befugnis. Er wird am Tag nach seiner
+Veröffentlichung im Amtsblatt der Europäischen Union oder zu einem im Beschluss über den 
+Widerruf angegebenen späteren Zeitpunkt wirksam. Die Gültigkeit von delegierten 
+Rechtsakten, die bereits in Kraft sind, wird von dem Beschluss über den Widerruf nicht 
+berührt.  
+(4) Vor dem Erlass eines delegierten Rechtsakts konsultiert die Kommission die von den 
+einzelnen Mitgliedstaaten benannten Sachverständigen im Einklang mit den in der 
+Interinstitutionellen Vereinbarung vom 13. April 2016 über bessere Rechtsetzung enthaltenen 
+Grundsätzen.  
+(5) Sobald die Kommission einen delegierten Rechtsakt erlässt, übermittelt sie ihn 
+gleichzeitig dem Europäischen Parlament und dem Rat.  
+(6) Ein delegierter Rechtsakt, der gemäß Artikel 4 Absatz 7 erlassen wurde, tritt nur in Kraft, 
+wenn weder das Europäische Parlament noch der Rat innerhalb einer Frist von zwei Monaten 
+nach Übermittlung dieses Rechtsakts an das Europäische Parlament und den Rat Einwände 
+erhoben haben oder wenn vor Ablauf dieser Frist das Europäische Parlament und der Rat 
+beide der Kommission mitgeteilt haben, dass sie keine Einwände erheben werden. Auf 
+Initiative des Europäischen Parlaments oder des Rates wird diese Frist um zwei Monate 
+verlängert.“ 
+„Artikel 22b 
+(1)   Die Kommission wird von einem Ausschuss unterstützt. Dieser Ausschuss ist ein 
+Ausschuss im Sinne der Verordnung (EU) Nr. 182/2011. 
+(2)   Wird auf diesen Absatz Bezug genommen, so gilt Artikel 5 der Verordnung (EU) 
+Nr. 182/2011.“  
+13. Artikel 23 erhält folgende Fassung: 
+„Artikel 23 
+Die Kommission nimmt spätestens sechs Jahre nach dem [OP: bitte Datum einfügen = 
+12 Monate nach dem Tag des Inkrafttretens dieser Richtlinie] eine Bewertung dieser 
+Richtlinie und ihrer Durchführung vor und macht sie öffentlich zugänglich. Diese Bewertung 
+stützt sich unter anderem auf folgende Elemente:  
+a) die bei der Durchführung dieser Richtlinie gesammelten Erfahrungen; 
+b) über das Europäische Datenportal (data.europa.eu) gesammelte Metadaten zu 
+hochwertigen Datensätzen der Mitgliedstaaten; 
+c) die aufgrund der Leitlinien zur besseren Rechtsetzung erforderlichen einschlägigen 
+wissenschaftlichen, analytischen Daten, insbesondere solche, die sich auf effiziente 
+und wirksame Verfahren zum Informationsmanagement stützen.“ 
+Artikel 2  
+Umsetzung  
+ 
+(1) Die Mitgliedstaaten erlassen und veröffentlichen bis zum [OP: bitte Datum einfügen 
+= 12 Monate nach dem Tag des Inkrafttretens dieser Richtlinie] die erforderlichen 
+Rechts- und Verwaltungsvorschriften, um dieser Richtlinie nachzukommen. Sie 
+teilen der Kommission unverzüglich den Wortlaut dieser Vorschriften mit.
+Sie wenden diese Rechtsvorschriften ab dem [OP: bitte Datum einfügen = 12 Monate 
+und ein Tag nach dem Tag des Inkrafttretens dieser Richtlinie] an.  
+Bei Erlass dieser Vorschriften nehmen die Mitgliedstaaten in den Vorschriften selbst 
+oder durch einen Hinweis bei der amtlichen Veröffentlichung auf die vorliegende 
+Richtlinie Bezug. Die Mitgliedstaaten regeln die Einzelheiten dieser Bezugnahme. 
+(2) Die Mitgliedstaaten teilen der Kommission den Wortlaut der wichtigsten nationalen 
+Vorschriften mit, die sie auf dem unter diese Richtlinie fallenden Gebiet erlassen. 
+ 
+Artikel 3  
+Inkrafttreten und Anwendung 
+(1) Diese Richtlinie tritt am [zwanzigsten] Tag nach ihrer Veröffentlichung im Amtsblatt 
+der Europäischen Union in Kraft. 
+(2) Artikel 1 Nummern 5, 9, 10 und 11 ist ab dem [1. März 2027] anwendbar.  
+Artikel 4  
+Adressaten 
+Diese Richtlinie ist an die Mitgliedstaaten gerichtet. 
+Geschehen zu Brüssel am  
+Im Namen des Europäischen Parlaments Im Namen des Rates 
+Die Präsidentin Der Präsident/Die Präsidentin
+FINANZ- UND DIGITALBOGEN ZU RECHTSAKTEN 
+1. RAHMEN DES VORSCHLAGS/DER INITIATIVE ................................................. 3 
+1.1. Bezeichnung des Vorschlags/der Initiative .................................................................. 3 
+1.2. Politikbereich(e) ........................................................................................................... 3 
+1.3. Ziel(e) ........................................................................................................................... 3 
+1.3.1. Allgemeine(s) Ziel(e) ................................................................................................... 3 
+1.3.2. Einzelziel(e) ................................................................................................................. 3 
+1.3.3. Erwartete Ergebnisse und Auswirkungen .................................................................... 3 
+1.3.4. Leistungsindikatoren .................................................................................................... 3 
+1.4. Der Vorschlag/Die Initiative betrifft ............................................................................ 4 
+1.5. Begründung des Vorschlags/der Initiative ................................................................... 4 
+1.5.1. Kurz- oder langfristig zu deckender Bedarf, einschließlich einer detaillierten 
+Zeitleiste für die Durchführung der Initiative .............................................................. 4 
+1.5.2. Mehrwert aufgrund des Tätigwerdens der EU (kann sich aus unterschiedlichen 
+Faktoren ergeben, z. B. Vorteile durch Koordinierung, Rechtssicherheit, größere 
+Wirksamkeit oder Komplementarität). Für die Zwecke dieses Abschnitts bezeichnet 
+der Ausdruck „Mehrwert aufgrund des Tätigwerdens der EU“ den Wert, der sich aus 
+dem Tätigwerden der EU ergibt und den Wert ergänzt, der andernfalls allein von den 
+Mitgliedstaaten geschaffen worden wäre. .................................................................... 4 
+1.5.3. Aus früheren ähnlichen Maßnahmen gewonnene Erkenntnisse .................................. 4 
+1.5.4. Vereinbarkeit mit dem Mehrjährigen Finanzrahmen sowie mögliche Synergieeffekte 
+mit anderen geeigneten Instrumenten .......................................................................... 5 
+1.5.5. Bewertung der verschiedenen verfügbaren Finanzierungsoptionen, einschließlich der 
+Möglichkeiten für eine Umschichtung ......................................................................... 5 
+1.6. Laufzeit der vorgeschlagenen Maßnahme/der Initiative und Dauer der finanziellen 
+Auswirkungen .............................................................................................................. 6 
+1.7. Vorgeschlagene Haushaltsvollzugsart(en) ................................................................... 6 
+2. VERWALTUNGSMAẞNAHMEN ............................................................................ 8 
+2.1. Überwachung und Berichterstattung ............................................................................ 8 
+2.2. Verwaltungs- und Kontrollsystem(e) ........................................................................... 8 
+2.2.1. Begründung der Haushaltsvollzugsart(en), des Durchführungsmechanismus/der 
+Durchführungsmechanismen für die Finanzierung, der Zahlungsmodalitäten und der 
+Kontrollstrategie, wie vorgeschlagen ........................................................................... 8 
+2.2.2. Angaben zu den ermittelten Risiken und dem/den zu deren Eindämmung 
+eingerichteten System(en) der internen Kontrolle ....................................................... 8 
+2.2.3. Schätzung und Begründung der Kosteneffizienz der Kontrollen (Verhältnis zwischen 
+den Kontrollkosten und dem Wert der betreffenden verwalteten Mittel) sowie 
+Bewertung des erwarteten Ausmaßes des Fehlerrisikos (bei Zahlung und beim 
+Abschluss) .................................................................................................................... 8 
+2.3. Prävention von Betrug und Unregelmäßigkeiten ......................................................... 9
+3. GESCHÄTZTE FINANZIELLE AUSWIRKUNGEN DES VORSCHLAGS/DER 
+INITIATIVE .............................................................................................................. 10 
+3.1. Betroffene Rubrik(en) des Mehrjährigen Finanzrahmens und Ausgabenlinie(n) im 
+Haushaltsplan ............................................................................................................. 10 
+3.2. Geschätzte finanzielle Auswirkungen des Vorschlags auf die Mittel ........................ 12 
+3.2.1 Übersicht über die geschätzten Auswirkungen auf die operativen Mittel ................. 12 
+3.2.1.1. Mittel aus dem verabschiedeten Haushaltsplan ......................................................... 12 
+3.2.1.2. Mittel aus externen zweckgebundenen Einnahmen ................................................... 17 
+3.2.2. Geschätzter Output, der mit operativen Mitteln finanziert wird ................................ 22 
+3.2.3. Übersicht über die geschätzten Auswirkungen auf die Verwaltungsmittel ............... 24 
+3.2.3.1. Mittel aus dem verabschiedeten Haushaltsplan .......................................................... 24 
+3.2.3.2. Mittel aus externen zweckgebundenen Einnahmen ................................................... 24 
+3.2.3.3. Mittel insgesamt ......................................................................................................... 24 
+3.2.4. Geschätzter Personalbedarf ........................................................................................ 25 
+3.2.4.1. Finanziert aus dem verabschiedeten Haushalt ........................................................... 25 
+3.2.4.2. Finanziert aus externen zweckgebundenen Einnahmen ............................................. 26 
+3.2.4.3. Geschätzter Personalbedarf insgesamt ....................................................................... 26 
+3.2.5. Einschätzung der Auswirkungen auf die Investitionen im Zusammenhang mit 
+digitalen Technologien ............................................................................................... 28 
+3.2.6. Vereinbarkeit mit dem derzeitigen Mehrjährigen Finanzrahmen .............................. 28 
+3.2.7. Beiträge Dritter........................................................................................................... 28 
+3.3. Geschätzte Auswirkungen auf die Einnahmen .......................................................... 29 
+4. DIGITALE ASPEKTE............................................................................................... 29 
+4.1. Anforderungen von digitaler Relevanz ...................................................................... 30 
+4.2. Daten .......................................................................................................................... 30 
+4.3. Digitale Lösungen ...................................................................................................... 31 
+4.4. Interoperabilitätsbewertung........................................................................................ 31 
+4.5. Unterstützungsmaßnahmen für die digitale Umsetzung ............................................ 32
+1. RAHMEN DES VORSCHLAGS/DER INITIATIVE  
+1.1. Bezeichnung des Vorschlags/der Initiative 
+Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur 
+Änderung der Richtlinie 2007/2/EG im Hinblick auf bestimmte Anforderungen an 
+die Schaffung der Geodateninfrastruktur in der EU 
+ 
+1.2. Politikbereich(e)  
+Umwelt 
+Kommunikationsnetze, Inhalte und Technologien 
+Europäischer Grüner Deal 
+1.3. Ziel(e) 
+1.3.1. Allgemeine(s) Ziel(e) 
+Die allgemeinen Ziele dieses Legislativvorschlags bestehen darin, bestimmte 
+Elemente der Richtlinie 2007/2/EG zu vereinfachen und zu modernisieren, um den 
+Aufwand für die Mitgliedstaaten in Bezug auf Netzdienste, Interoperabilität und 
+gemeinsame Datennutzung zu verringern. Durch die Verringerung des 
+Verwaltungsaufwands und der Befolgungskosten im Zusammenhang mit den 
+technischen Anforderungen und Berichtspflichten soll mit diesem Vorschlag die 
+Verhältnismäßigkeit des Rahmens sichergestellt und gleichzeitig das Ziel beibehalten 
+werden, Behörden, Unternehmen und Bürgerinnen und Bürgern den Zugang zu 
+umweltbezogenen Geodaten und deren Weiterverwendung zu erleichtern. 
+1.3.2. Einzelziel(e) 
+Mit den in diesem Vorschlag enthaltenen Änderungen der Richtlinie 2007/2/EG 
+werden folgende Ziele verfolgt: 
+— Streichung der Verpflichtung der Kommission, ein Geo-Portal INSPIRE zu 
+schaffen und zu betreiben 
+— Angleichung der Verpflichtung der Mitgliedstaaten, der Kommission über die 
+Durchführung der Richtlinie und die Nutzung ihrer Geodateninfrastrukturen Bericht 
+zu erstatten, an die Berichtspflicht für hochwertige Datensätze gemäß der 
+Durchführungsverordnung (EU) 2023/138 der Kommission vom 21. Dezember 2022 
+zur Festlegung bestimmter hochwertiger Datensätze und der Modalitäten ihrer 
+Veröffentlichung und Weiterverwendung 
+— Angleichung an die Verordnung (EU) 2024/903 in Bezug auf die Interoperabilität 
+— Angleichung der Anforderungen hinsichtlich der Schaffung und Erhaltung der 
+Netzdienste an die Verpflichtungen für APIs in der Richtlinie (EU) 2019/1024  
+1.3.3. Erwartete Ergebnisse und Auswirkungen 
+Bitte geben Sie an, wie sich der Vorschlag/die Initiative auf die Begünstigten/Zielgruppen auswirken 
+sollte. 
+ Die vorgeschlagenen Änderungen werden einem breiten Spektrum von 
+Interessenträgern zugutekommen, darunter Datenanbieter des öffentlichen Sektors, 
+nationale und regionale Behörden, Unternehmen, Forschungseinrichtungen, KMU
+und zivilgesellschaftliche Organisationen. Für Datenanbieter des öffentlichen Sektors 
+wird der Verwaltungsaufwand reduziert und die Befolgung der Vorschriften 
+vereinfacht, während Unternehmen und Datennutzer dank offener Lizenzen und 
+moderner Anwendungsprogrammierschnittstellen (APIs) einen besseren Zugang zu 
+hochwertigen Umweltdaten erhalten. Es wird eine 12-monatige Übergangsfrist für 
+die Umsetzung vorgeschlagen, damit die Mitgliedstaaten ihre Infrastrukturen 
+anpassen und die Dienstkontinuität während der Umstellung auf den neuen Rahmen 
+aufrechterhalten können. Die durch die vorgeschlagenen Änderungen insgesamt 
+erzielten Kosteneinsparungen für die EU dürften erheblich sein. Die jährlichen 
+Basiskosten für die Durchführung von INSPIRE in der EU-27 werden auf 4,967 bis 
+48,926 Mio. EUR geschätzt. Die vorgeschlagenen Maßnahmen dürften den 
+Verwaltungsaufwand im Vergleich zum derzeitigen Basisszenario um 24 bis 64 % 
+verringern. Der untere Wert von 24 % geht auf die konservativeren Schätzungen 
+zurück, die sich aus den Rückmeldungen der Interessenträger während des 
+Validierungsworkshops ergaben, bei dem eine unmittelbare und pragmatische 
+Bewertung der potenziellen Auswirkungen vorgenommen wurde. Hingegen 
+entspricht der obere Wert von 64 % den Kostensenkungen, die beim Szenario der 
+vollständigen Angleichung an die Richtlinie über offene Daten erzielt werden 
+könnten, wie eine systematischere, ausführlichere Folgenabschätzung ergeben hat. 
+Diese sich aus den beiden Bewertungen ergebende Bandbreite der erwarteten 
+Einsparungen aufgrund der verschiedenen Maßnahmen wird als realistisch 
+angesehen, insbesondere was die Einsparungen im Zusammenhang mit der jährlichen 
+Aktualisierung harmonisierter Datensätze und dem Betrieb von Veröffentlichungs- 
+und Webdiensten betrifft. Ausgehend von den durchschnittlichen jährlichen Kosten, 
+die im Rahmen von INSPIRE für die Aktualisierung und Pflege von Datensätzen und 
+die Dienste entstehen, führt dies zu jährlichen Einsparungen von rund 6,36 bis 
+16,96 Mio. EUR. Für die gesamte projizierte Bandbreite entspricht dies im 
+Durchschnitt einer jährlichen Verringerung der Verwaltungskosten um etwa 44 % 
+bzw. jährlichen Einsparungen von rund 12 Mio. EUR. Diese Einsparungen werden 
+durch die Aufhebung der komplexen Harmonisierungsanforderungen, die Nutzung 
+gängiger Webtechnologien und die Konsolidierung der Infrastruktur erzielt.  
+1.3.4. Leistungsindikatoren 
+Bitte geben Sie an, anhand welcher Indikatoren die Fortschritte und Ergebnisse verfolgt werden 
+sollen. 
+Um die Fortschritte bei der Verwirklichung der Einzelziele des Vorschlags zu überwachen, 
+wird die Kommission die Möglichkeit prüfen, einen Austausch mit den Mitgliedstaaten in 
+verschiedenen Formaten sowie regelmäßige Überprüfungen der INSPIRE-Datensätze, die 
+über das EU-Portal für offene Daten (data.europa.eu) zur Verfügung gestellt werden, zu 
+organisieren und eine Berichterstattung der Mitgliedstaaten auf der Grundlage von Artikel 5 
+der Durchführungsverordnung (EU) 2023/138 der Kommission vorzusehen, was auch von der 
+Verfügbarkeit finanzieller Mittel abhängt.  
+1.4. Der Vorschlag/Die Initiative betrifft  
+ eine neue Maßnahme  
+ eine neue Maßnahme im Anschluss an ein Pilotprojekt/eine vorbereitende 
+Maßnahme48  
+ 
+48 Im Sinne des Artikels 58 Absatz 2 Buchstabe a oder b der Haushaltsordnung.
+ die Verlängerung einer bestehenden Maßnahme  
+ die Zusammenführung mehrerer Maßnahmen oder die Neuausrichtung mindestens 
+einer Maßnahme 
+1.5. Begründung des Vorschlags/der Initiative  
+1.5.1. Kurz- oder langfristig zu deckender Bedarf, einschließlich einer detaillierten 
+Zeitleiste für die Durchführung der Initiative 
+Dieser Kommissionsvorschlag hat eine Richtlinie zur Änderung einer Reihe von 
+Bestimmungen der Richtlinie 2007/2/EG zum Gegenstand. Sobald die beiden 
+gesetzgebenden Organe eine Einigung über den Inhalt des Vorschlags erzielt haben, 
+haben die Mitgliedstaaten eine gewisse Frist, um die mit dieser Richtlinie 
+eingeführten Änderungen in ihr nationales Recht umzusetzen.  
+Um die Fortschritte bei der Verwirklichung der Einzelziele des Vorschlags zu 
+überwachen, wird die Kommission die Möglichkeit prüfen, einen Austausch mit den 
+Mitgliedstaaten in verschiedenen Formaten sowie regelmäßige Überprüfungen der 
+INSPIRE-Datensätze, die über das Portal für offene Daten zur Verfügung gestellt 
+werden, zu organisieren und eine Berichterstattung der Mitgliedstaaten auf der 
+Grundlage von Artikel 5 der Durchführungsverordnung (EU) 2023/138 der 
+Kommission vorzusehen, was auch von der Verfügbarkeit finanzieller Mittel 
+abhängt.  
+ 
+1.5.2. Mehrwert aufgrund des Tätigwerdens der EU (kann sich aus unterschiedlichen 
+Faktoren ergeben, z. B. Vorteile durch Koordinierung, Rechtssicherheit, größere 
+Wirksamkeit oder Komplementarität). Für die Zwecke dieses Abschnitts bezeichnet 
+der Ausdruck „Mehrwert aufgrund des Tätigwerdens der EU“ den Wert, der sich aus 
+dem Tätigwerden der EU ergibt und den Wert ergänzt, der andernfalls allein von den 
+Mitgliedstaaten geschaffen worden wäre. 
+Die Richtlinie 2007/2/EG regelt bereits die Schaffung einer Geodateninfrastruktur in 
+der Union (INSPIRE) mit dem Ziel, die gemeinsame Nutzung von 
+Umweltinformationen durch Einrichtungen des öffentlichen Sektors zu erleichtern 
+und den Zugang der Öffentlichkeit zu Geodaten in ganz Europa zu verbessern. 
+Angesichts der bei der Durchführung der INSPIRE-Richtlinie gewonnenen 
+Erkenntnisse besteht das Ziel des vorliegenden Vorschlags darin, ein vereinfachtes 
+Konzept mit klareren Prioritäten für die gemeinsame Nutzung von Geodaten 
+einzuführen, um den Aufwand für die Mitgliedstaaten zu verringern, wobei zu 
+berücksichtigen ist, dass sich Technologie und Datenverwaltungsverfahren 
+weiterentwickelt haben.  
+Die Richtlinie über offene Daten fördert die Weiterverwendung von Informationen 
+des öffentlichen Sektors, indem Daten in offenen und maschinenlesbaren Formaten 
+zur Verfügung gestellt werden, was den Zielen der INSPIRE-Richtlinie zur 
+Verbesserung der Zugänglichkeit und Interoperabilität von Daten entspricht. Mit der 
+Durchführungsverordnung über hochwertige Datensätze wird sichergestellt, dass 
+Datensätze, mit denen sich erhebliche sozioökonomische Vorteile erzielen lassen, 
+kostenlos zur Verfügung gestellt werden, was dazu beitragen kann, das Potenzial von 
+Umweltdaten zu maximieren. Mit der Durchführungsverordnung über hochwertige 
+Datensätze wurden bereits erste Schritte unternommen, um sicherzustellen, dass die 
+Mitgliedstaaten die wertvollsten Datensätze, die sich im Besitz öffentlicher Stellen
+befinden, frei zugänglich machen. Dazu gehören Datensätze, die fast alle in der 
+INSPIRE-Richtlinie festgelegten Geodaten-Themen abdecken. 
+Gemeinsame Vorschriften für die gemeinsame Nutzung von Umweltdaten 
+verbessern die Zugänglichkeit und Interoperabilität von Daten. Ziel ist die Schaffung 
+einer kohärenteren Datenlandschaft, die dem Grundsatz der einmaligen Erfassung 
+zuträglich ist und sicherstellt, dass Umweltdaten eine wichtigere Rolle im digitalen 
+Binnenmarkt der EU spielen. Dieses Ziel wäre von den einzelnen Mitgliedstaaten 
+kaum zu erreichen.  
+ 
+1.5.3. Aus früheren ähnlichen Maßnahmen gewonnene Erkenntnisse 
+Nicht zutreffend 
+1.5.4. Vereinbarkeit mit dem Mehrjährigen Finanzrahmen sowie mögliche Synergieeffekte 
+mit anderen geeigneten Instrumenten 
+Nicht zutreffend 
+1.5.5. Bewertung der verschiedenen verfügbaren Finanzierungsoptionen, einschließlich der 
+Möglichkeiten für eine Umschichtung 
+Nicht zutreffend
+1.6. Laufzeit der vorgeschlagenen Maßnahme/der Initiative und Dauer der 
+finanziellen Auswirkungen 
+ Befristete Laufzeit  
+–  Laufzeit: [TT.MM.]JJJJ bis [TT.MM.]JJJJ  
+–  Finanzielle Auswirkungen auf die Mittel für Verpflichtungen von JJJJ bis JJJJ 
+und auf die Mittel für Zahlungen von JJJJ bis JJJJ  
+ Unbefristete Laufzeit 
+– Anlaufphase von JJJJ bis JJJJ 
+– Anschließend reguläre Umsetzung 
+1.7. Vorgeschlagene Haushaltsvollzugsart(en)49   
+ Direkte Mittelverwaltung durch die Kommission 
+–  über ihre Dienststellen, einschließlich ihres Personals in den EU-Delegationen  
+–  über Exekutivagenturen  
+ Geteilte Mittelverwaltung mit Mitgliedstaaten  
+ Indirekte Mittelverwaltung durch Übertragung von Haushaltsvollzugsaufgaben 
+an: 
+–  Drittländer oder die von ihnen benannten Einrichtungen 
+–  internationale Einrichtungen und deren Agenturen (bitte angeben) 
+–  die Europäische Investitionsbank und den Europäischen Investitionsfonds 
+–  Einrichtungen im Sinne der Artikel 70 und 71 der Haushaltsordnung 
+–  öffentlich-rechtliche Körperschaften 
+–  privatrechtliche Einrichtungen, die im öffentlichen Auftrag tätig werden, sofern 
+ihnen ausreichende finanzielle Garantien bereitgestellt werden 
+–  privatrechtliche Einrichtungen eines Mitgliedstaats, die mit der Einrichtung 
+einer öffentlich-privaten Partnerschaft betraut werden und denen ausreichende 
+finanzielle Garantien bereitgestellt werden 
+–  Einrichtungen oder Personen, die mit der Durchführung bestimmter 
+Maßnahmen im Bereich der Gemeinsamen Außen- und Sicherheitspolitik im 
+Rahmen des Titels V des Vertrags über die Europäische Union betraut und die in 
+dem maßgeblichen Basisrechtsakt benannt sind 
+– in einem Mitgliedstaat ansässige Einrichtungen, die dem Privatrecht eines 
+Mitgliedstaats oder dem Unionsrecht unterliegen und im Einklang mit 
+sektorspezifischen Vorschriften für die Betrauung mit der Ausführung von 
+Unionsmitteln oder mit der Erteilung von Haushaltsgarantien in Betracht 
+kommen, insofern diese Einrichtungen von privatrechtlichen oder von im 
+öffentlichen Auftrag tätig werdenden Einrichtungen kontrolliert und von den 
+ 
+49 Erläuterungen zu den Haushaltsvollzugsarten und die Haushaltsordnung können über die 
+Website BUDGpedia (in englischer Sprache) abgerufen werden: 
+https://myintracomm.ec.europa.eu/corp/budget/financial-rules/budget-
+implementation/Pages/implementation-methods.aspx.
+Kontrollstellen mit angemessenen finanziellen Garantien mit 
+gesamtschuldnerischer Haftung oder gleichwertigen finanziellen Garantien 
+ausgestattet werden, die bei jeder Maßnahme auf den Höchstbetrag der 
+Unionsunterstützung begrenzt sein können. 
+Bemerkungen  
+Nicht zutreffend
+2. VERWALTUNGSMAẞNAHMEN  
+2.1. Überwachung und Berichterstattung  
+2.2. Verwaltungs- und Kontrollsystem(e)  
+2.2.1. Begründung der Haushaltsvollzugsart(en), des Durchführungsmechanismus/der 
+Durchführungsmechanismen für die Finanzierung, der Zahlungsmodalitäten und der 
+Kontrollstrategie, wie vorgeschlagen 
+Nicht zutreffend 
+2.2.2. Angaben zu den ermittelten Risiken und dem/den zu deren Eindämmung 
+eingerichteten System(en) der internen Kontrolle 
+Nicht zutreffend 
+2.2.3. Schätzung und Begründung der Kosteneffizienz der Kontrollen (Verhältnis zwischen 
+den Kontrollkosten und dem Wert der betreffenden verwalteten Mittel) sowie 
+Bewertung des erwarteten Ausmaßes des Fehlerrisikos (bei Zahlung und beim 
+Abschluss)  
+Nicht zutreffend 
+2.3. Prävention von Betrug und Unregelmäßigkeiten  
+Nicht zutreffend
+3. GESCHÄTZTE FINANZIELLE AUSWIRKUNGEN DES 
+VORSCHLAGS/DER INITIATIVE  
+3.1. Betroffene Rubrik(en) des Mehrjährigen Finanzrahmens und Ausgabenlinie(n) 
+im Haushaltsplan  
+ Bestehende Haushaltslinien  
+In der Reihenfolge der Rubriken des Mehrjährigen Finanzrahmens und der 
+Haushaltslinien. 
+Rubrik des 
+Mehrjährig
+en 
+Finanzrahm
+ens 
+Haushaltslinie Art der 
+Ausgaben Beiträge  
+Nummer   
+ 
+GM/NGM
+von 
+EFTA-
+Ländern51 
+von 
+Kandidaten
+ländern und 
+potenzielle
+n 
+Kandidaten
+von 
+anderen 
+Drittlände
+rn 
+andere 
+zweckgebundene 
+Einnahmen 
+ 
+Nicht zutreffend 
+ 
+GM/NG
+M 
+JA/NEI
+N 
+JA/NEIN 
+JA/NEI
+N 
+JA/NEIN 
+ Neu zu schaffende Haushaltslinien  
+In der Reihenfolge der Rubriken des Mehrjährigen Finanzrahmens und der 
+Haushaltslinien. 
+Rubrik des 
+Mehrjährig
+en 
+Finanzrahm
+ens 
+Haushaltslinie Art der 
+Ausgaben Beiträge  
+Nummer   
+ 
+GM/NGM 
+von 
+EFTA-
+Ländern 
+von 
+Kandidaten
+ländern und 
+potenzielle
+n 
+Kandidaten 
+von 
+anderen 
+Drittlände
+rn 
+andere 
+zweckgebundene 
+Einnahmen  
+ 
+Nicht zutreffend 
+ 
+GM/NG
+M 
+JA/NEI
+N 
+JA/NEIN 
+JA/NEI
+N 
+JA/NEIN 
+ 
+50 GM = Getrennte Mittel/NGM = Nichtgetrennte Mittel. 
+51 EFTA: Europäische Freihandelsassoziation.  
+52 Kandidatenländer und gegebenenfalls potenzielle Kandidaten des Westbalkans.
+D
+E
+D
+E
+ 
+3.
+2.
+ 
+G
+es
+ch
+ät
+zt
+e 
+fi
+n
+an
+zi
+el
+le
+ A
+u
+sw
+ir
+k
+u
+n
+ge
+n
+ d
+es
+ V
+or
+sc
+h
+la
+gs
+ a
+u
+f 
+d
+ie
+ M
+it
+te
+l 
+ 
+3.
+2.
+1.
+ 
+Ü
+be
+rs
+ic
+ht
+ ü
+b
+er
+ d
+ie
+ g
+es
+ch
+ät
+zt
+en
+ A
+us
+w
+ir
+ku
+ng
+en
+ a
+uf
+ d
+ie
+ o
+pe
+ra
+ti
+ve
+n 
+M
+it
+te
+l 
+ 
+– 
+
+ F
+ür
+ d
+en
+ V
+or
+sc
+hl
+ag
+/d
+ie
+ I
+n
+it
+ia
+ti
+ve
+ w
+er
+de
+n 
+ke
+in
+e 
+op
+er
+at
+iv
+en
+ M
+it
+te
+l 
+be
+nö
+ti
+gt
+.  
+– 
+
+ F
+ür
+ d
+en
+ V
+or
+sc
+hl
+ag
+/d
+ie
+ I
+n
+it
+ia
+ti
+ve
+ w
+er
+de
+n 
+di
+e 
+fo
+lg
+en
+de
+n 
+op
+er
+at
+iv
+en
+ M
+it
+te
+l 
+b
+en
+öt
+ig
+t:
+ 
+3.
+2.
+1.
+1.
+ 
+M
+it
+te
+l 
+au
+s 
+de
+m
+ v
+er
+ab
+sc
+hi
+ed
+et
+en
+ H
+au
+sh
+al
+ts
+p
+la
+n 
+in
+ M
+io
+. E
+U
+R
+ (
+ D
+ez
+im
+al
+st
+el
+le
+n
+) 
+R
+u
+b
+ri
+k
+ d
+es
+ M
+eh
+rj
+äh
+ri
+ge
+n
+ F
+in
+an
+zr
+ah
+m
+en
+s 
+ 
+N
+um
+m
+er
+ 
+ 
+ 
+G
+D
+ <
+…
+…
+.>
+ 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+M
+F
+R
+0
+1
+0
+7
+ 
+IN
+S
+G
+E
+S
+A
+M
+T
+0
+4
+0
+5
+0
+6
+0
+7 
+O
+pe
+ra
+ti
+ve
+ M
+it
+te
+l 
+ 
+H
+au
+sh
+al
+ts
+li
+ni
+e 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+(1
+a)
+,0
+0 
+Z
+ah
+lu
+n
+g
+en
+ 
+(2
+a)
+,0
+0 
+H
+au
+sh
+al
+ts
+li
+n
+ie
+ 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+(1
+b)
+,0
+0 
+Z
+ah
+lu
+n
+g
+en
+ 
+(2
+b)
+,0
+0 
+A
+us
+ d
+er
+ D
+ot
+at
+io
+n
+ b
+es
+ti
+m
+m
+te
+r 
+sp
+ez
+if
+is
+ch
+er
+ P
+ro
+g
+ra
+m
+m
+e 
+fi
+na
+nz
+ie
+rt
+e 
+V
+er
+w
+al
+tu
+n
+gs
+m
+it
+te
+l53
+ 
+H
+au
+sh
+al
+ts
+li
+n
+ie
+ 
+  
+(3
+)
+,0
+0 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+ 
+fü
+r 
+d
+ie
+ G
+D
+ <
+…
+.>
+ 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+=
+1a
++
+1b
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+Z
+ah
+lu
+n
+g
+en
+ 
+=
+2a
++
+2b
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+  
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+M
+F
+R
+0
+1
+0
+7
+ 
+IN
+S
+G
+E
+S
+A
+M
+T
+0
+4
+0
+5
+0
+6
+0
+7 
+O
+pe
+ra
+ti
+ve
+ 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+  
+ 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+(4
+)
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+T
+ec
+h
+n
+is
+ch
+e 
+un
+d
+/o
+d
+er
+ a
+d
+m
+in
+is
+tr
+at
+iv
+e 
+H
+il
+fe
+ u
+nd
+ A
+u
+sg
+ab
+en
+ z
+u
+r 
+U
+n
+te
+rs
+tü
+tz
+u
+ng
+ d
+er
+ D
+u
+rc
+h
+fü
+h
+ru
+ng
+ v
+o
+n
+ P
+ro
+g
+ra
+m
+m
+en
+ b
+zw
+. 
+M
+aß
+n
+ah
+m
+en
+ d
+er
+ E
+U
+ (
+v
+o
+rm
+al
+ig
+e 
+B
+A
+-L
+in
+ie
+n
+),
+ i
+n
+d
+ir
+ek
+te
+ F
+o
+rs
+ch
+u
+ng
+, 
+d
+ir
+ek
+te
+ F
+o
+rs
+ch
+un
+g.
+ 
+D
+ru
+ck
+sa
+ch
+e
+/2
+- 3
+-
+ 
+D
+E
+D
+E
+ 
+Z
+ah
+lu
+n
+g
+en
+ 
+(5
+)
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+A
+us
+ 
+de
+r 
+D
+ot
+at
+io
+n 
+be
+st
+im
+m
+te
+r 
+sp
+ez
+if
+is
+ch
+er
+ 
+P
+ro
+g
+ra
+m
+m
+e 
+fi
+na
+nz
+ie
+rt
+e 
+V
+er
+w
+al
+tu
+ng
+sm
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+  
+(6
+)
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+ u
+n
+te
+r 
+d
+er
+ 
+R
+U
+B
+R
+IK
+ <
+…
+.>
+ 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+=
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+de
+s 
+M
+eh
+rj
+äh
+ri
+ge
+n
+ F
+in
+an
+zr
+ah
+m
+en
+s 
+Z
+ah
+lu
+n
+g
+en
+ 
+=
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+ 
+R
+u
+b
+ri
+k
+ d
+es
+  
+M
+eh
+rj
+ä
+h
+ri
+ge
+n
+ F
+in
+an
+zr
+ah
+m
+en
+s 
+ 
+N
+um
+m
+er
+ 
+ 
+ 
+G
+D
+ <
+…
+…
+.>
+ 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+M
+F
+R
+0
+1
+-
+0
+7
+ 
+IN
+S
+G
+E
+S
+A
+M
+T
+0
+4
+0
+5
+0
+6
+0
+7 
+O
+pe
+ra
+ti
+ve
+ M
+it
+te
+l 
+ 
+  
+  
+  
+  
+  
+H
+au
+sh
+al
+ts
+li
+ni
+e 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+(1
+a)
+,0
+0 
+Z
+ah
+lu
+n
+g
+en
+ 
+(2
+a)
+,0
+0 
+H
+au
+sh
+al
+ts
+li
+n
+ie
+ 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+(1
+b)
+,0
+0 
+Z
+ah
+lu
+n
+g
+en
+ 
+(2
+b)
+,0
+0 
+A
+us
+ d
+er
+ D
+ot
+at
+io
+n
+ b
+es
+ti
+m
+m
+te
+r 
+sp
+ez
+if
+is
+ch
+er
+ P
+ro
+g
+ra
+m
+m
+e 
+fi
+na
+nz
+ie
+rt
+e 
+V
+er
+w
+al
+tu
+n
+gs
+m
+it
+te
+l54
+  
+H
+au
+sh
+al
+ts
+li
+n
+ie
+ 
+  
+(3
+)
+,0
+0 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+ 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+=
+1a
++
+1b
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+fü
+r 
+d
+ie
+ G
+D
+ <
+…
+.>
+ 
+Z
+ah
+lu
+n
+g
+en
+ 
+=
+2a
++
+2b
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+T
+ec
+h
+n
+is
+ch
+e 
+un
+d
+/o
+d
+er
+ a
+d
+m
+in
+is
+tr
+at
+iv
+e 
+H
+il
+fe
+ u
+nd
+ A
+u
+sg
+ab
+en
+ z
+u
+r 
+U
+n
+te
+rs
+tü
+tz
+u
+ng
+ d
+er
+ D
+u
+rc
+h
+fü
+h
+ru
+ng
+ v
+o
+n
+ P
+ro
+g
+ra
+m
+m
+en
+ b
+zw
+. 
+M
+aß
+n
+ah
+m
+en
+ d
+er
+ E
+U
+ (
+v
+o
+rm
+al
+ig
+e 
+B
+A
+-L
+in
+ie
+n
+),
+ i
+n
+d
+ir
+ek
+te
+ F
+o
+rs
+ch
+u
+ng
+, 
+d
+ir
+ek
+te
+ F
+o
+rs
+ch
+un
+g.
+ 
+D
+ru
+ck
+sa
+ch
+e
+/2
+- 3
+-
+ 
+D
+E
+D
+E
+ 
+ 
+G
+D
+ <
+…
+…
+.>
+ 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+M
+F
+R
+0
+1
+-
+0
+7
+ 
+IN
+S
+G
+E
+S
+A
+M
+T
+0
+4
+0
+5
+0
+6
+0
+7 
+O
+pe
+ra
+ti
+ve
+ M
+it
+te
+l 
+ 
+  
+  
+  
+  
+  
+H
+au
+sh
+al
+ts
+li
+ni
+e 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+(1
+a)
+,0
+0 
+Z
+ah
+lu
+n
+g
+en
+ 
+(2
+a)
+,0
+0 
+H
+au
+sh
+al
+ts
+li
+n
+ie
+ 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+(1
+b
+)
+,0
+0 
+Z
+ah
+lu
+n
+g
+en
+ 
+(2
+b
+)
+,0
+0 
+A
+us
+ d
+er
+ D
+ot
+at
+io
+n
+ b
+es
+ti
+m
+m
+te
+r 
+sp
+ez
+if
+is
+ch
+er
+ P
+ro
+g
+ra
+m
+m
+e 
+fi
+na
+nz
+ie
+rt
+e 
+V
+er
+w
+al
+tu
+n
+gs
+m
+it
+te
+l55
+  
+H
+au
+sh
+al
+ts
+li
+n
+ie
+ 
+  
+(3
+)
+,0
+0 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+ 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+=
+1a
++
+1b
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+fü
+r 
+d
+ie
+ G
+D
+ <
+…
+.>
+ 
+Z
+ah
+lu
+n
+g
+en
+ 
+=
+2a
++
+2b
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+ 
+  
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+M
+F
+R
+0
+1
+0
+7
+ 
+IN
+S
+G
+E
+S
+A
+M
+T
+0
+4
+0
+5
+0
+6
+0
+7 
+O
+pe
+ra
+ti
+ve
+ 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+  
+ 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+(4
+)
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+Z
+ah
+lu
+n
+g
+en
+ 
+(5
+)
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+A
+us
+ 
+de
+r 
+D
+ot
+at
+io
+n 
+be
+st
+im
+m
+te
+r 
+sp
+ez
+if
+is
+ch
+er
+ 
+P
+ro
+g
+ra
+m
+m
+e 
+fi
+na
+nz
+ie
+rt
+e 
+V
+er
+w
+al
+tu
+ng
+sm
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+  
+(6
+)
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+ u
+n
+te
+r 
+d
+er
+ 
+R
+U
+B
+R
+IK
+ <
+…
+.>
+ 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+=
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+T
+ec
+h
+n
+is
+ch
+e 
+un
+d
+/o
+d
+er
+ a
+d
+m
+in
+is
+tr
+at
+iv
+e 
+H
+il
+fe
+ u
+nd
+ A
+u
+sg
+ab
+en
+ z
+u
+r 
+U
+n
+te
+rs
+tü
+tz
+u
+ng
+ d
+er
+ D
+u
+rc
+h
+fü
+h
+ru
+ng
+ v
+o
+n
+ P
+ro
+g
+ra
+m
+m
+en
+ b
+zw
+. 
+M
+aß
+n
+ah
+m
+en
+ d
+er
+ E
+U
+ (
+v
+o
+rm
+al
+ig
+e 
+B
+A
+-L
+in
+ie
+n
+),
+ i
+n
+d
+ir
+ek
+te
+ F
+o
+rs
+ch
+u
+ng
+, 
+d
+ir
+ek
+te
+ F
+o
+rs
+ch
+un
+g.
+ 
+D
+ru
+ck
+sa
+ch
+e
+/2
+- 3
+-
+ 
+D
+E
+D
+E
+ 
+de
+s 
+M
+eh
+rj
+äh
+ri
+ge
+n 
+F
+in
+an
+zr
+ah
+m
+en
+s 
+Z
+ah
+lu
+n
+g
+en
+ 
+=
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+ 
+ 
+ 
+ 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+M
+F
+R
+0
+1
+-
+0
+7
+ 
+IN
+S
+G
+E
+S
+A
+M
+T
+0
+4
+0
+5
+0
+6
+0
+7 
+• 
+O
+pe
+ra
+ti
+ve
+ 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+ 
+(a
+ll
+e 
+op
+er
+at
+iv
+en
+ R
+ub
+ri
+k
+en
+) 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+(4
+)
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+Z
+ah
+lu
+n
+g
+en
+ 
+(5
+)
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+• 
+A
+us
+ 
+d
+er
+ 
+D
+ot
+at
+io
+n 
+b
+es
+ti
+m
+m
+te
+r 
+sp
+ez
+if
+is
+ch
+er
+ 
+P
+ro
+g
+ra
+m
+m
+e 
+fi
+na
+nz
+ie
+rt
+e 
+V
+er
+w
+al
+tu
+ng
+sm
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+ 
+(a
+ll
+e 
+o
+pe
+ra
+ti
+v
+en
+ 
+R
+ub
+ri
+ke
+n)
+ 
+(6
+)
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+ u
+n
+te
+r 
+d
+en
+ 
+R
+U
+B
+R
+IK
+E
+N
+ b
+is
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+=
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+d
+es
+ M
+eh
+rj
+äh
+ri
+g
+en
+ F
+in
+an
+zr
+ah
+m
+en
+s 
+ 
+(R
+ef
+er
+en
+zb
+et
+ra
+g)
+ 
+Z
+ah
+lu
+n
+g
+en
+ 
+=
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+ 
+R
+u
+b
+ri
+k
+ d
+es
+ M
+eh
+rj
+äh
+ri
+ge
+n
+ F
+in
+an
+zr
+ah
+m
+en
+s
+„V
+er
+w
+al
+tu
+ng
+sa
+us
+g
+ab
+en
+“56
+ 
+G
+D
+ <
+…
+…
+.>
+ 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+M
+F
+R
+0
+1
+-
+0
+7
+ 
+IN
+S
+G
+E
+S
+A
+M
+T
+0
+4
+0
+5
+0
+6
+0
+7 
+ 
+P
+er
+so
+na
+la
+us
+g
+ab
+en
+ 
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+ 
+S
+on
+st
+ig
+e 
+V
+er
+w
+al
+tu
+ng
+sa
+us
+g
+ab
+en
+ 
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+G
+D
+ <
+…
+…
+.>
+ I
+N
+S
+G
+E
+S
+A
+M
+T
+ 
+M
+it
+te
+l
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+G
+D
+ <
+…
+…
+.>
+ 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+M
+F
+R
+0
+1
+-
+0
+7
+ 
+IN
+S
+G
+E
+S
+A
+M
+T
+0
+4
+0
+5
+0
+6
+0
+7 
+ 
+P
+er
+so
+na
+la
+us
+g
+ab
+en
+ 
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+D
+er
+ M
+it
+te
+lb
+ed
+ar
+f 
+so
+ll
+te
+ a
+u
+f 
+d
+er
+ G
+ru
+n
+dl
+ag
+e 
+d
+er
+ A
+n
+g
+ab
+en
+ z
+u
+ d
+en
+ D
+u
+rc
+h
+sc
+h
+n
+it
+ts
+k
+o
+st
+en
+ v
+er
+an
+sc
+h
+la
+g
+t 
+w
+er
+d
+en
+, d
+ie
+ a
+u
+f 
+d
+er
+ e
+in
+sc
+h
+lä
+g
+ig
+en
+ B
+U
+D
+G
+p
+ed
+ia
+-S
+ei
+te
+ v
+er
+fü
+g
+b
+ar
+ s
+in
+d
+. 
+D
+ru
+ck
+sa
+ch
+e
+/2
+- 3
+-
+ 
+D
+E
+D
+E
+ 
+ 
+S
+on
+st
+ig
+e 
+V
+er
+w
+al
+tu
+ng
+sa
+us
+g
+ab
+en
+ 
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+G
+D
+ <
+…
+…
+.>
+ I
+N
+S
+G
+E
+S
+A
+M
+T
+ 
+M
+it
+te
+l
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+ u
+n
+te
+r 
+d
+er
+ R
+U
+B
+R
+IK
+ d
+es
+ M
+eh
+rj
+äh
+ri
+ge
+n
+ 
+F
+in
+an
+zr
+a
+h
+m
+en
+s 
+ 
+(V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+in
+sg
+es
+. 
+=
+ 
+Z
+ah
+lu
+n
+g
+en
+ 
+in
+sg
+es
+.)
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+in
+ M
+io
+. 
+E
+U
+R
+ (
+ D
+ez
+im
+al
+st
+el
+le
+n
+) 
+  
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+M
+F
+R
+0
+1
+-
+0
+7
+ 
+IN
+S
+G
+E
+S
+A
+M
+T
+0
+4
+0
+5
+0
+6
+0
+7 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+ u
+n
+te
+r 
+d
+en
+ R
+U
+B
+R
+IK
+E
+N
+ b
+is
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+0,
+0 
+0,
+0 
+0,
+0 
+0,
+0 
+0,
+0 
+de
+s 
+M
+eh
+rj
+äh
+ri
+ge
+n
+ F
+in
+an
+zr
+ah
+m
+en
+s 
+ 
+Z
+ah
+lu
+n
+g
+en
+ 
+0,
+0 
+0,
+0 
+0,
+0 
+0,
+0 
+0,
+0 
+3.
+2.
+1.
+2.
+ 
+M
+it
+te
+l 
+au
+s 
+ex
+te
+rn
+en
+ z
+w
+ec
+kg
+eb
+un
+de
+n
+en
+ E
+in
+n
+ah
+m
+en
+ 
+in
+ M
+io
+. E
+U
+R
+ (
+ D
+ez
+im
+al
+st
+el
+le
+n
+) 
+R
+u
+b
+ri
+k
+ d
+es
+ M
+eh
+rj
+äh
+ri
+ge
+n
+ F
+in
+an
+zr
+ah
+m
+en
+s 
+ 
+N
+um
+m
+er
+ 
+ 
+ 
+G
+D
+ <
+…
+…
+.>
+ 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+M
+F
+R
+0
+1
+0
+7
+ 
+IN
+S
+G
+E
+S
+A
+M
+T
+0
+4
+0
+5
+0
+6
+0
+7 
+O
+pe
+ra
+ti
+ve
+ M
+it
+te
+l 
+ 
+H
+au
+sh
+al
+ts
+li
+ni
+e 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+(1
+a)
+,0
+0 
+Z
+ah
+lu
+n
+g
+en
+ 
+(2
+a)
+,0
+0 
+H
+au
+sh
+al
+ts
+li
+n
+ie
+ 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+(1
+b)
+,0
+0 
+Z
+ah
+lu
+n
+g
+en
+ 
+(2
+b)
+,0
+0 
+D
+ru
+ck
+sa
+ch
+e
+/2
+- 3
+-
+ 
+D
+E
+D
+E
+ 
+A
+us
+ d
+er
+ D
+ot
+at
+io
+n
+ b
+es
+ti
+m
+m
+te
+r 
+sp
+ez
+if
+is
+ch
+er
+ P
+ro
+g
+ra
+m
+m
+e 
+fi
+na
+nz
+ie
+rt
+e 
+V
+er
+w
+al
+tu
+n
+gs
+m
+it
+te
+l57
+ 
+H
+au
+sh
+al
+ts
+li
+n
+ie
+ 
+  
+(3
+)
+,0
+0 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+ 
+fü
+r 
+d
+ie
+ G
+D
+ <
+…
+.>
+ 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+=
+1a
++
+1b
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+Z
+ah
+lu
+n
+g
+en
+ 
+=
+2a
++
+2b
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+G
+D
+ <
+…
+…
+.>
+ 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+M
+F
+R
+0
+1
+0
+7
+ 
+IN
+S
+G
+E
+S
+A
+M
+T
+0
+4
+0
+5
+0
+6
+0
+7 
+O
+pe
+ra
+ti
+ve
+ M
+it
+te
+l 
+ 
+H
+au
+sh
+al
+ts
+li
+ni
+e 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+(1
+a)
+,0
+0 
+Z
+ah
+lu
+n
+g
+en
+ 
+(2
+a)
+,0
+0 
+H
+au
+sh
+al
+ts
+li
+n
+ie
+ 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+(1
+b)
+,0
+0 
+Z
+ah
+lu
+n
+g
+en
+ 
+(2
+b)
+,0
+0 
+A
+us
+ d
+er
+ D
+ot
+at
+io
+n
+ b
+es
+ti
+m
+m
+te
+r 
+sp
+ez
+if
+is
+ch
+er
+ P
+ro
+g
+ra
+m
+m
+e 
+fi
+na
+nz
+ie
+rt
+e 
+V
+er
+w
+al
+tu
+n
+gs
+m
+it
+te
+l58
+ 
+H
+au
+sh
+al
+ts
+li
+n
+ie
+ 
+  
+(3
+)
+,0
+0 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+ 
+fü
+r 
+d
+ie
+ G
+D
+ <
+…
+.>
+ 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+=
+1a
++
+1b
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+Z
+ah
+lu
+n
+g
+en
+ 
+=
+2a
++
+2b
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+  
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+M
+F
+R
+0
+1
+0
+7
+ 
+IN
+S
+G
+E
+S
+A
+M
+T
+0
+4
+0
+5
+0
+6
+0
+7 
+O
+pe
+ra
+ti
+ve
+ 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+  
+ 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+(4
+)
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+Z
+ah
+lu
+n
+g
+en
+ 
+(5
+)
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+A
+us
+ 
+de
+r 
+D
+ot
+at
+io
+n 
+be
+st
+im
+m
+te
+r 
+sp
+ez
+if
+is
+ch
+er
+ 
+P
+ro
+gr
+am
+m
+e 
+fi
+na
+nz
+ie
+rt
+e 
+V
+er
+w
+al
+tu
+ng
+sm
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+  
+(6
+)
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+T
+ec
+h
+n
+is
+ch
+e 
+un
+d
+/o
+d
+er
+ a
+d
+m
+in
+is
+tr
+at
+iv
+e 
+H
+il
+fe
+ u
+nd
+ A
+u
+sg
+ab
+en
+ z
+u
+r 
+U
+n
+te
+rs
+tü
+tz
+u
+ng
+ d
+er
+ D
+u
+rc
+h
+fü
+h
+ru
+ng
+ v
+o
+n
+ P
+ro
+g
+ra
+m
+m
+en
+ b
+zw
+. 
+M
+aß
+n
+ah
+m
+en
+ d
+er
+ E
+U
+ (
+v
+o
+rm
+al
+ig
+e 
+B
+A
+-L
+in
+ie
+n
+),
+ i
+n
+d
+ir
+ek
+te
+ F
+o
+rs
+ch
+u
+ng
+, 
+d
+ir
+ek
+te
+ F
+o
+rs
+ch
+un
+g.
+T
+ec
+h
+n
+is
+ch
+e 
+un
+d
+/o
+d
+er
+ a
+d
+m
+in
+is
+tr
+at
+iv
+e 
+H
+il
+fe
+ u
+nd
+ A
+u
+sg
+ab
+en
+ z
+u
+r 
+U
+n
+te
+rs
+tü
+tz
+u
+ng
+ d
+er
+ D
+u
+rc
+h
+fü
+h
+ru
+ng
+ v
+o
+n
+ P
+ro
+g
+ra
+m
+m
+en
+ b
+zw
+. 
+M
+aß
+n
+ah
+m
+en
+ d
+er
+ E
+U
+ (
+v
+o
+rm
+al
+ig
+e 
+B
+A
+-L
+in
+ie
+n
+),
+ i
+n
+d
+ir
+ek
+te
+ F
+o
+rs
+ch
+u
+ng
+, 
+d
+ir
+ek
+te
+ F
+o
+rs
+ch
+un
+g.
+ 
+D
+ru
+ck
+sa
+ch
+e
+/2
+- 3
+-
+ 
+D
+E
+D
+E
+ 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+ u
+n
+te
+r 
+d
+er
+ 
+R
+U
+B
+R
+IK
+ <
+…
+.>
+ 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+=
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+de
+s 
+M
+eh
+rj
+äh
+ri
+ge
+n
+ F
+in
+an
+zr
+ah
+m
+en
+s 
+Z
+ah
+lu
+n
+g
+en
+ 
+=
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+R
+u
+b
+ri
+k
+ d
+es
+ M
+eh
+rj
+äh
+ri
+ge
+n
+ F
+in
+an
+zr
+ah
+m
+en
+s 
+ 
+N
+um
+m
+er
+ 
+ 
+ 
+G
+D
+ <
+…
+…
+.>
+ 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+M
+F
+R
+0
+1
+0
+7
+ 
+IN
+S
+G
+E
+S
+A
+M
+T
+0
+4
+0
+5
+0
+6
+0
+7 
+O
+pe
+ra
+ti
+ve
+ M
+it
+te
+l 
+ 
+H
+au
+sh
+al
+ts
+li
+ni
+e 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+(1
+a)
+,0
+0 
+Z
+ah
+lu
+n
+g
+en
+ 
+(2
+a)
+,0
+0 
+H
+au
+sh
+al
+ts
+li
+n
+ie
+ 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+(1
+b
+)
+,0
+0 
+Z
+ah
+lu
+n
+g
+en
+ 
+(2
+b
+)
+,0
+0 
+A
+us
+ d
+er
+ D
+ot
+at
+io
+n
+ b
+es
+ti
+m
+m
+te
+r 
+sp
+ez
+if
+is
+ch
+er
+ P
+ro
+g
+ra
+m
+m
+e 
+fi
+na
+nz
+ie
+rt
+e 
+V
+er
+w
+al
+tu
+n
+gs
+m
+it
+te
+l59
+ 
+H
+au
+sh
+al
+ts
+li
+n
+ie
+ 
+  
+(3
+)
+,0
+0 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+ 
+fü
+r 
+d
+ie
+ G
+D
+ <
+…
+.>
+ 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+=
+1a
++
+1b
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+Z
+ah
+lu
+n
+g
+en
+ 
+=
+2a
++
+2b
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+  
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+M
+F
+R
+0
+1
+0
+7
+ 
+IN
+S
+G
+E
+S
+A
+M
+T
+0
+4
+0
+5
+0
+6
+0
+7 
+O
+pe
+ra
+ti
+ve
+ 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+  
+ 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+(4
+)
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+Z
+ah
+lu
+n
+g
+en
+ 
+(5
+)
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+A
+us
+ 
+de
+r 
+D
+ot
+at
+io
+n 
+be
+st
+im
+m
+te
+r 
+sp
+ez
+if
+is
+ch
+er
+ 
+P
+ro
+g
+ra
+m
+m
+e 
+fi
+na
+nz
+ie
+rt
+e 
+V
+er
+w
+al
+tu
+ng
+sm
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+  
+(6
+)
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+T
+ec
+h
+n
+is
+ch
+e 
+un
+d
+/o
+d
+er
+ a
+d
+m
+in
+is
+tr
+at
+iv
+e 
+H
+il
+fe
+ u
+nd
+ A
+u
+sg
+ab
+en
+ z
+u
+r 
+U
+n
+te
+rs
+tü
+tz
+u
+ng
+ d
+er
+ D
+u
+rc
+h
+fü
+h
+ru
+ng
+ v
+o
+n
+ P
+ro
+g
+ra
+m
+m
+en
+ b
+zw
+. 
+M
+aß
+n
+ah
+m
+en
+ d
+er
+ E
+U
+ (
+v
+o
+rm
+al
+ig
+e 
+B
+A
+-L
+in
+ie
+n
+),
+ i
+n
+d
+ir
+ek
+te
+ F
+o
+rs
+ch
+u
+ng
+, 
+d
+ir
+ek
+te
+ F
+o
+rs
+ch
+un
+g.
+ 
+D
+ru
+ck
+sa
+ch
+e
+/2
+- 4
+-
+ 
+D
+E
+D
+E
+ 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+ u
+n
+te
+r 
+d
+er
+ 
+R
+U
+B
+R
+IK
+ <
+…
+.>
+ 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+=
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+de
+s 
+M
+eh
+rj
+äh
+ri
+ge
+n
+ F
+in
+an
+zr
+ah
+m
+en
+s 
+Z
+ah
+lu
+n
+g
+en
+ 
+=
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+ 
+ 
+ 
+ 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+M
+F
+R
+0
+1
+-
+0
+7
+ 
+IN
+S
+G
+E
+S
+A
+M
+T
+0
+4
+0
+5
+0
+6
+0
+7 
+• 
+O
+pe
+ra
+ti
+ve
+ 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+ 
+(a
+ll
+e 
+op
+er
+at
+iv
+en
+ R
+ub
+ri
+k
+en
+) 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+(4
+)
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+Z
+ah
+lu
+n
+g
+en
+ 
+(5
+)
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+• 
+A
+us
+ 
+d
+er
+ 
+D
+ot
+at
+io
+n 
+b
+es
+ti
+m
+m
+te
+r 
+sp
+ez
+if
+is
+ch
+er
+ 
+P
+ro
+g
+ra
+m
+m
+e 
+fi
+na
+nz
+ie
+rt
+e 
+V
+er
+w
+al
+tu
+ng
+sm
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+ 
+(a
+ll
+e 
+op
+er
+at
+iv
+en
+ 
+R
+ub
+ri
+ke
+n)
+ 
+(6
+)
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+ u
+n
+te
+r 
+d
+en
+ 
+R
+U
+B
+R
+IK
+E
+N
+ b
+is
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+=
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+d
+es
+ M
+eh
+rj
+äh
+ri
+g
+en
+ F
+in
+an
+zr
+ah
+m
+en
+s 
+(R
+ef
+er
+en
+zb
+et
+ra
+g)
+ 
+Z
+ah
+lu
+n
+g
+en
+ 
+=
++
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+ 
+R
+u
+b
+ri
+k
+ d
+es
+ M
+eh
+rj
+äh
+ri
+ge
+n
+ F
+in
+an
+zr
+ah
+m
+en
+s
+„V
+er
+w
+al
+tu
+ng
+sa
+us
+ga
+be
+n“
+in
+ M
+io
+. 
+E
+U
+R
+ (
+ D
+ez
+im
+al
+st
+el
+le
+n
+) 
+G
+D
+ <
+…
+…
+.>
+ 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+M
+F
+R
+0
+1
+-
+0
+7
+ 
+IN
+S
+G
+E
+S
+A
+M
+T
+0
+4
+0
+5
+0
+6
+0
+7 
+ 
+P
+er
+so
+na
+la
+us
+g
+ab
+en
+ 
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+ 
+S
+on
+st
+ig
+e 
+V
+er
+w
+al
+tu
+ng
+sa
+us
+g
+ab
+en
+ 
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+G
+D
+ <
+…
+…
+.>
+ I
+N
+S
+G
+E
+S
+A
+M
+T
+ 
+M
+it
+te
+l
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+D
+er
+ M
+it
+te
+lb
+ed
+ar
+f 
+so
+ll
+te
+ a
+u
+f 
+d
+er
+ G
+ru
+n
+dl
+ag
+e 
+d
+er
+ A
+n
+g
+ab
+en
+ z
+u
+ d
+en
+ D
+u
+rc
+h
+sc
+h
+n
+it
+ts
+k
+o
+st
+en
+ v
+er
+an
+sc
+h
+la
+g
+t 
+w
+er
+d
+en
+, d
+ie
+ a
+u
+f 
+d
+er
+ e
+in
+sc
+h
+lä
+g
+ig
+en
+ B
+U
+D
+G
+p
+ed
+ia
+-S
+ei
+te
+ v
+er
+fü
+g
+b
+ar
+ s
+in
+d
+. 
+D
+ru
+ck
+sa
+ch
+e
+/2
+- 4
+-
+ 
+D
+E
+D
+E
+ 
+G
+D
+ <
+…
+…
+.>
+ 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+M
+F
+R
+0
+1
+-
+0
+7
+ 
+IN
+S
+G
+E
+S
+A
+M
+T
+0
+4
+0
+5
+0
+6
+0
+7 
+ 
+P
+er
+so
+na
+la
+us
+g
+ab
+en
+ 
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+ 
+S
+on
+st
+ig
+e 
+V
+er
+w
+al
+tu
+ng
+sa
+us
+g
+ab
+en
+ 
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+G
+D
+ <
+…
+…
+.>
+ I
+N
+S
+G
+E
+S
+A
+M
+T
+ 
+M
+it
+te
+l
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+ u
+n
+te
+r 
+d
+er
+ R
+U
+B
+R
+IK
+ d
+es
+ M
+eh
+rj
+äh
+ri
+g
+en
+ 
+F
+in
+an
+zr
+a
+h
+m
+en
+s 
+ 
+(V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+in
+sg
+es
+. 
+=
+ 
+Z
+ah
+lu
+n
+g
+en
+ 
+in
+sg
+es
+.)
+,0
+0
+,0
+0
+,0
+0
+,0
+0
+,0
+0 
+in
+ M
+io
+. 
+E
+U
+R
+ (
+ D
+ez
+im
+al
+st
+el
+le
+n
+) 
+  
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+Ja
+h
+r 
+M
+F
+R
+0
+1
+-
+0
+7
+ 
+IN
+S
+G
+E
+S
+A
+M
+T
+0
+4
+0
+5
+0
+6
+0
+7 
+M
+it
+te
+l 
+IN
+S
+G
+E
+S
+A
+M
+T
+ u
+n
+te
+r 
+d
+en
+ R
+U
+B
+R
+IK
+E
+N
+ b
+is
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+ 
+0,
+0 
+0,
+0
+ 
+0,
+0 
+0,
+0 
+0,
+0 
+de
+s 
+M
+eh
+rj
+äh
+ri
+ge
+n
+ F
+in
+an
+zr
+ah
+m
+en
+s 
+ 
+Z
+ah
+lu
+n
+g
+en
+ 
+0,
+0 
+0,
+0
+ 
+0,
+0 
+0,
+0 
+0,
+0 
+3.
+2.
+2.
+ 
+G
+es
+ch
+ät
+zt
+er
+ O
+ut
+p
+ut
+, d
+er
+ m
+it
+ o
+pe
+ra
+ti
+ve
+n 
+M
+it
+te
+ln
+ f
+in
+an
+zi
+er
+t 
+w
+ir
+d
+ (
+ni
+ch
+t 
+au
+sz
+uf
+ül
+le
+n 
+im
+ F
+al
+l 
+de
+ze
+nt
+ra
+le
+r 
+A
+ge
+nt
+u
+re
+n)
+ 
+M
+it
+te
+l 
+fü
+r 
+V
+er
+p
+fl
+ic
+h
+tu
+n
+g
+en
+, i
+n
+ M
+io
+. 
+E
+U
+R
+ (
+ D
+ez
+im
+al
+st
+el
+le
+n
+) 
+Z
+ie
+le
+ u
+n
+d
+ 
+O
+u
+tp
+u
+ts
+ 
+a
+n
+g
+eb
+en
+  
+ 
+ 
+ 
+ 
+Ja
+h
+r
+0
+Ja
+h
+r
+0
+Ja
+h
+r
+0
+Ja
+h
+r
+0
+B
+ei
+ l
+än
+g
+er
+ a
+nd
+au
+er
+nd
+en
+ A
+u
+sw
+ir
+ku
+n
+g
+en
+ b
+it
+te
+ 
+w
+ei
+te
+re
+ S
+p
+al
+te
+n
+ e
+in
+fü
+g
+en
+ (
+si
+eh
+e 
+1.
+) 
+IN
+S
+G
+E
+S
+A
+M
+T
+ 
+O
+U
+T
+P
+U
+T
+S
+ 
+A
+rt
+D
+u
+rc
+h
+sc
+h
+n
+it
+t
+sk
+o
+st
+e
+n
+ 
+Anzahl 
+K
+o
+st
+e
+n
+ 
+Anzahl 
+K
+o
+st
+e
+n
+ 
+Anzahl 
+K
+o
+st
+e
+n
+ 
+Anzahl 
+K
+o
+st
+e
+n
+ 
+Anzahl 
+K
+o
+st
+e
+n
+ 
+Anzahl 
+K
+o
+st
+e
+n
+ 
+Anzahl 
+K
+o
+st
+e
+n
+ 
+G
+es
+am
+tz
+ah
+l 
+G
+es
+am
+tk
+o
+st
+en
+O
+u
+tp
+u
+ts
+ s
+in
+d
+ P
+ro
+d
+uk
+te
+, 
+d
+ie
+ g
+el
+ie
+fe
+rt
+, 
+u
+nd
+ D
+ie
+n
+st
+le
+is
+tu
+n
+g
+en
+, 
+di
+e 
+er
+b
+ra
+ch
+t 
+w
+er
+d
+en
+ (
+z.
+ B
+. 
+Z
+ah
+l 
+d
+er
+ A
+u
+st
+au
+sc
+h
+st
+u
+d
+en
+te
+n
+, g
+eb
+au
+te
+ S
+tr
+aß
+en
+k
+il
+o
+m
+et
+er
+ u
+sw
+.)
+. 
+D
+ru
+ck
+sa
+ch
+e
+/2
+- 4
+-
+ 
+D
+E
+D
+E
+ 
+E
+IN
+Z
+E
+L
+Z
+IE
+L
+ N
+r.
+62
+…
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 
+O
+u
+tp
+u
+t 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 
+O
+u
+tp
+u
+t 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 
+O
+u
+tp
+u
+t 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Z
+w
+is
+ch
+en
+su
+m
+m
+e 
+fü
+r 
+E
+in
+ze
+lz
+ie
+l 
+N
+r.
+E
+IN
+Z
+E
+L
+Z
+IE
+L
+ N
+r.
+..
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 
+O
+u
+tp
+u
+t 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Z
+w
+is
+ch
+en
+su
+m
+m
+e 
+fü
+r 
+E
+in
+ze
+lz
+ie
+l 
+N
+r.
+IN
+S
+G
+E
+S
+A
+M
+T
+W
+ie
+ i
+n
+ A
+b
+sc
+h
+n
+it
+t
+.3
+.2
+. b
+es
+ch
+ri
+eb
+en
+. 
+„E
+in
+ze
+lz
+ie
+l(
+e)
+“ 
+ 
+D
+ru
+ck
+sa
+ch
+e
+/2
+- 4
+-
+ 
+DE 21  DE 
+3.2.3. Übersicht über die geschätzten Auswirkungen auf die Verwaltungsmittel  
+–  Für den Vorschlag/die Initiative werden keine Verwaltungsmittel benötigt.  
+–  Für den Vorschlag/die Initiative werden die folgenden Verwaltungsmittel 
+benötigt: 
+3.2.3.1. Mittel aus dem verabschiedeten Haushaltsplan 
+BEWILLIGTE MITTEL 
+Jahr Jahr Jahr Jahr 2021-2027 
+INSGESAMT 2024 2025 2026 2027 
+RUBRIK 7 
+Personalausgaben  0,000 0,000 0,000 0,000 0,000 
+Sonstige Verwaltungsausgaben  0,000 0,000 0,000 0,000 0,000 
+Zwischensumme RUBRIK 7 0,000 0,000 0,000 0,000 0,000 
+Außerhalb der RUBRIK 7 
+Personalausgaben  0,000 0,000 0,000 0,000 0,000 
+Sonstige Verwaltungsausgaben 0,000 0,000 0,000 0,000 0,000 
+Zwischensumme außerhalb der RUBRIK 7 0,000 0,000 0,000 0,000 0,000 
+  
+INSGESAMT 0,000 0,000 0,000 0,000 0,000 
+3.2.3.2. Mittel aus externen zweckgebundenen Einnahmen 
+EXTERNE ZWECKGEBUNDENE 
+EINNAHMEN 
+Jahr Jahr Jahr Jahr 2021-2027 
+INSGESAMT 2024 2025 2026 2027 
+RUBRIK 7 
+Personalausgaben  0,000 0,000 0,000 0,000 0,000 
+Sonstige Verwaltungsausgaben  0,000 0,000 0,000 0,000 0,000 
+Zwischensumme RUBRIK 7 0,000 0,000 0,000 0,000 0,000 
+Außerhalb der RUBRIK 7 
+Personalausgaben  0,000 0,000 0,000 0,000 0,000 
+Sonstige Verwaltungsausgaben 0,000 0,000 0,000 0,000 0,000 
+Zwischensumme außerhalb der RUBRIK 7 0,000 0,000 0,000 0,000 0,000 
+  
+INSGESAMT 0,000 0,000 0,000 0,000 0,000 
+3.2.3.3. Mittel insgesamt 
+SUMME  
+BEWILLIGTE MITTEL + EXTERNE 
+ZWECKGEBUNDENE EINNAHMEN 
+Jahr Jahr Jahr Jahr 
+2021-2027 
+INSGESAMT 
+2024 2025 2026 2027 
+RUBRIK 7 
+Personalausgaben  0,000 0,000 0,000 0,000 0,000 
+Sonstige Verwaltungsausgaben  0,000 0,000 0,000 0,000 0,000 
+Zwischensumme RUBRIK 7 0,000 0,000 0,000 0,000 0,000 
+Außerhalb der RUBRIK 7 
+Personalausgaben  0,000 0,000 0,000 0,000 0,000 
+Sonstige Verwaltungsausgaben 0,000 0,000 0,000 0,000 0,000
+DE 22  DE 
+Zwischensumme außerhalb der RUBRIK 7 0,000 0,000 0,000 0,000 0,000 
+  
+INSGESAMT 0,000 0,000 0,000 0,000 0,000 
+Der Mittelbedarf für Personal- und sonstige Verwaltungsausgaben wird durch der Verwaltung der 
+Maßnahme zugeordnete Mittel der GD und/oder durch eine Umschichtung innerhalb der GD gedeckt. 
+Hinzu kommen etwaige zusätzliche Mittel, die der für die Verwaltung der Maßnahme zuständigen GD 
+nach Maßgabe der verfügbaren Mittel im Rahmen der jährlichen Mittelzuweisung zugeteilt werden. 
+3.2.4. Geschätzter Personalbedarf  
+–  Für den Vorschlag/die Initiative wird kein Personal benötigt.  
+–  Für den Vorschlag/die Initiative wird das folgende Personal benötigt: 
+3.2.4.1. Finanziert aus dem verabschiedeten Haushalt 
+Schätzung in Vollzeitäquivalenten (VZÄ)63 
+ 
+BEWILLIGTE MITTEL 
+Jahr Jahr Jahr Jahr 
+2024 2025 2026 2027 
+ Planstellen (Beamte und Bedienstete auf Zeit)
+20 01 02 01 (Zentrale Dienststellen und Vertretungen der Kommission) 0 0 0 0 
+20 01 02 03 (EU-Delegationen) 0 0 0 0 
+01 01 01 01 (Indirekte Forschung) 0 0 0 0 
+01 01 01 11 (Direkte Forschung) 0 0 0 0 
+Sonstige Haushaltslinien (bitte angeben) 0 0 0 0 
+• Externes Personal (in VZÄ)
+20 02 01 (VB und ANS der Globaldotation) 0 0 0 0 
+20 02 03 (VB, ÖB, ANS und JPD in den EU-Delegationen) 0 0 0 0 
+Haushaltslinie 
+administr. 
+Unterstützung  
+[XX.01.YY.YY] 
+- in den zentralen Dienststellen 0 0 0 0 
+- in den EU-Delegationen  0 0 0 0 
+01 01 01 02 (VB und ANS – indirekte Forschung) 0 0 0 0 
+ 01 01 01 12 (VB und ANS – direkte Forschung) 0 0 0 0 
+Sonstige Haushaltslinien (bitte angeben) – Rubrik 7 0 0 0 0 
+Sonstige Haushaltslinien (bitte angeben) – außerhalb der Rubrik 7 0 0 0 0 
+INSGESAMT 0 0 0 0 
+3.2.4.2. Finanziert aus externen zweckgebundenen Einnahmen 
+EXTERNE ZWECKGEBUNDENE EINNAHMEN 
+Jahr Jahr Jahr Jahr 
+2024 2025 2026 2027 
+ Planstellen (Beamte und Bedienstete auf Zeit)
+20 01 02 01 (Zentrale Dienststellen und Vertretungen der Kommission) 0 0 0 0 
+20 01 02 03 (EU-Delegationen) 0 0 0 0 
+01 01 01 01 (Indirekte Forschung) 0 0 0 0 
+ 
+63 Bitte unter der Tabelle angeben, wie viele der aufgeführten VZÄ bereits der Verwaltung der Maßnahme 
+zugeordnet sind und/oder durch Personalumschichtung innerhalb der GD dieser Aufgabe zugeteilt 
+werden können. Den Nettobedarf beziffern.
+DE 23  DE 
+01 01 01 11 (Direkte Forschung) 0 0 0 0 
+Sonstige Haushaltslinien (bitte angeben) 0 0 0 0 
+• Externes Personal (in Vollzeitäquivalenten)
+20 02 01 (VB und ANS der Globaldotation) 0 0 0 0 
+20 02 03 (VB, ÖB, ANS und JPD in den EU-Delegationen) 0 0 0 0 
+Haushaltslinie 
+administr. 
+Unterstützung  
+[XX.01.YY.YY] 
+- in den zentralen Dienststellen 0 0 0 0 
+- in den EU-Delegationen  0 0 0 0 
+01 01 01 02 (VB und ANS – indirekte Forschung) 0 0 0 0 
+ 01 01 01 12 (VB und ANS – direkte Forschung) 0 0 0 0 
+Sonstige Haushaltslinien (bitte angeben) – Rubrik 7 0 0 0 0 
+Sonstige Haushaltslinien (bitte angeben) – außerhalb der Rubrik 7 0 0 0 0 
+INSGESAMT 0 0 0 0 
+3.2.4.3. Geschätzter Personalbedarf insgesamt 
+SUMME DER BEWILLIGTEN MITTEL + EXTERNEN 
+ZWECKGEBUNDENEN EINNAHMEN 
+Jahr Jahr Jahr Jahr 
+2024 2025 2026 2027 
+ Planstellen (Beamte und Bedienstete auf Zeit)
+20 01 02 01 (Zentrale Dienststellen und Vertretungen der Kommission) 0 0 0 0 
+20 01 02 03 (EU-Delegationen) 0 0 0 0 
+01 01 01 01 (Indirekte Forschung) 0 0 0 0 
+01 01 01 11 (Direkte Forschung) 0 0 0 0 
+Sonstige Haushaltslinien (bitte angeben) 0 0 0 0 
+• Externes Personal (in Vollzeitäquivalenten)
+20 02 01 (VB und ANS der Globaldotation) 0 0 0 0 
+20 02 03 (VB, ÖB, ANS und JPD in den EU-Delegationen) 0 0 0 0 
+Haushaltslinie 
+administr. 
+Unterstützung  
+[XX.01.YY.YY] 
+- in den zentralen Dienststellen 0 0 0 0 
+- in den EU-Delegationen  0 0 0 0 
+01 01 01 02 (VB und ANS – indirekte Forschung) 0 0 0 0 
+ 01 01 01 12 (VB und ANS – direkte Forschung) 0 0 0 0 
+Sonstige Haushaltslinien (bitte angeben) – Rubrik 7 0 0 0 0 
+Sonstige Haushaltslinien (bitte angeben) – außerhalb der Rubrik 7 0 0 0 0 
+INSGESAMT 0 0 0 0 
+Für die Durchführung des Vorschlags benötigtes Personal (in VZÄ): Nicht zutreffend 
+ Personal aus den 
+Dienststellen der 
+Kommission  
+Zusatzpersonal (ausnahmsweise)* 
+  Zu finanzieren 
+aus Rubrik 7 oder 
+Forschung 
+Zu finanzieren 
+aus einer 
+Haushaltslinie für 
+administrative 
+Unterstützung 
+Zu finanzieren 
+aus Gebühren
+DE 24  DE 
+Planstellen   Nicht zutreffend  
+Externes Personal 
+(VB, ANS, LAK) 
+    
+Beschreibung der Aufgaben, die ausgeführt werden sollen durch: 
+Beamte und Zeitbedienstete  
+Externes Personal  
+3.2.5. Einschätzung der Auswirkungen auf die Investitionen im Zusammenhang mit 
+digitalen Technologien 
+Obligatorisch: In die Tabelle unten ist die bestmögliche Einschätzung der für den 
+Vorschlag/die Initiative erforderlichen Investitionen in digitale Technologien 
+einzutragen.  
+Wenn dies für die Durchführung des Vorschlags/der Initiative erforderlich ist, sollten 
+die Mittel unter Rubrik 7 ausnahmsweise in der dafür vorgesehenen Haushaltslinie 
+ausgewiesen werden.  
+Die Mittel unter den Rubriken 1-6 sollten als „IT-Ausgaben zur Politikunterstützung 
+für operationelle Programme“ ausgewiesen sein. Diese Ausgaben beziehen sich auf 
+die operativen Mittel, die für die Wiederverwendung/den Erwerb/die Entwicklung 
+von IT-Plattformen/Instrumenten verwendet werden, welche in direktem 
+Zusammenhang mit der Durchführung der Initiative und den damit verbundenen 
+Investitionen stehen (z. B. Lizenzen, Studien, Datenspeicherung usw.). Die in dieser 
+Tabelle dargelegten Informationen sollten mit den Angaben in Abschnitt 4 „Digitale 
+Aspekte“ vereinbar sein. 
+Mittel INSGESAMT für Digitales und 
+IT 
+Jahr Jahr Jahr Jahr MFR 202
+1-2027 
+INSGES
+AMT 2024 2025 2026 2027 
+RUBRIK 7 
+IT-Ausgaben (intern)  0,000 0,000 0,000 0,000 0,000 
+Zwischensumme RUBRIK 7 0,000 0,000 0,000 0,000 0,000 
+Außerhalb der RUBRIK 7 
+IT-Ausgaben zur Politikunterstützung für 
+operationelle Programme 
+0,000 0,000 0,000 0,000 0,000 
+Zwischensumme außerhalb der RUBRIK 7 0,000 0,000 0,000 0,000 0,000 
+  
+INSGESAMT 0,000 0,000 0,000 0,000 0,000 
+3.2.6. Vereinbarkeit mit dem derzeitigen Mehrjährigen Finanzrahmen  
+Der Vorschlag/Die Initiative 
+–  kann durch Umschichtungen innerhalb der entsprechenden Rubrik des 
+Mehrjährigen Finanzrahmens (MFR) in voller Höhe finanziert werden.
+DE 25  DE 
+–  erfordert die Inanspruchnahme des verbleibenden Spielraums unter der 
+einschlägigen Rubrik des MFR und/oder den Einsatz der besonderen Instrumente 
+im Sinne der MFR-Verordnung. 
+–  erfordert eine Änderung des MFR. 
+3.2.7. Beiträge Dritter  
+Der Vorschlag/Die Initiative 
+–  sieht keine Kofinanzierung durch Dritte vor. 
+–  sieht folgende Kofinanzierung durch Dritte vor: 
+Mittel in Mio. EUR (3 Dezimalstellen) 
+ Jahr
+Jahr
+Jahr
+Jahr
+Insgesamt 
+Kofinanzierende Einrichtung       
+Kofinanzierung INSGESAMT       
+  
+3.3. Geschätzte Auswirkungen auf die Einnahmen  
+–  Der Vorschlag/Die Initiative wirkt sich nicht auf die Einnahmen aus. 
+–  Der Vorschlag/Die Initiative wirkt sich auf die Einnahmen aus, und zwar 
+–  auf die Eigenmittel  
+–  auf die übrigen Einnahmen 
+–  Bitte geben Sie an, ob die Einnahmen bestimmten 
+Ausgabenlinien zugeordnet sind. 
+     in Mio. EUR (3 Dezimalstellen) 
+Einnahmenlinie: 
+Für das laufende 
+Haushaltsjahr zur 
+Verfügung 
+stehende Mittel 
+Auswirkungen des Vorschlags/der Initiative64 
+Jahr 2024 Jahr 2025 Jahr 2026 Jahr 2027 
+Artikel ….      
+Bitte geben Sie für die sonstigen zweckgebundenen Einnahmen die betreffende(n) 
+Ausgabenlinie(n) im Haushaltsplan an. 
+Nicht zutreffend 
+Sonstige Anmerkungen (bei der Ermittlung der Auswirkungen auf die Einnahmen 
+verwendete Methode/Formel oder weitere Informationen). 
+Nicht zutreffend 
+  
+ 
+64 Bei den traditionellen Eigenmitteln (Zölle, Zuckerabgaben) sind die Beträge netto, d. h. abzüglich 20 % 
+für Erhebungskosten, anzugeben.
+D
+E
+D
+E
+ 
+4.
+ 
+D
+IG
+IT
+A
+L
+E
+ A
+S
+P
+E
+K
+T
+E
+.1
+. A
+n
+fo
+rd
+er
+u
+n
+g
+en
+ v
+o
+n
+ d
+ig
+it
+al
+er
+ R
+el
+ev
+an
+z 
+W
+ir
+d 
+fe
+st
+ge
+st
+el
+lt
+, 
+da
+ss
+ d
+ie
+ p
+ol
+it
+is
+ch
+e 
+In
+it
+ia
+ti
+ve
+ k
+ei
+ne
+ A
+nf
+or
+d
+er
+un
+ge
+n
+ v
+on
+ d
+ig
+it
+al
+er
+ R
+el
+ev
+an
+z 
+au
+fw
+ei
+st
+, 
+er
+lä
+ut
+er
+n 
+S
+ie
+ b
+it
+te
+, 
+w
+ar
+um
+ k
+ei
+ne
+ d
+ig
+it
+al
+en
+ M
+it
+te
+l 
+ge
+nu
+tz
+t 
+w
+er
+d
+en
+. 
+ A
+nd
+er
+nf
+al
+ls
+ f
+üh
+re
+n 
+S
+ie
+ b
+it
+te
+ d
+ie
+ A
+nf
+or
+de
+ru
+ng
+en
+ v
+o
+n 
+di
+gi
+ta
+le
+r 
+R
+el
+ev
+an
+z 
+in
+ d
+er
+ n
+ac
+hs
+te
+he
+nd
+en
+ T
+ab
+el
+le
+ a
+uf
+: 
+ 
+A
+n
+fo
+rd
+er
+u
+n
+g 
+B
+es
+ch
+re
+ib
+u
+n
+g 
+d
+er
+ A
+n
+fo
+rd
+er
+u
+n
+g 
+V
+on
+ d
+er
+ A
+n
+fo
+rd
+er
+u
+n
+g 
+b
+et
+ro
+ff
+en
+er
+ A
+k
+te
+u
+r 
+V
+er
+fa
+h
+re
+n
+ a
+u
+f 
+ü
+b
+er
+ge
+or
+d
+n
+et
+er
+ 
+E
+b
+en
+e 
+K
+at
+eg
+or
+ie
+ 
+A
+rt
+ik
+el
+S
+ch
+af
+fu
+ng
+ 
+ei
+ne
+r 
+eu
+ro
+pä
+is
+ch
+en
+ 
+G
+eo
+da
+te
+ni
+nf
+ra
+st
+ru
+kt
+ur
+ (
+IN
+S
+P
+IR
+E
+) 
+au
+f 
+de
+r 
+G
+ru
+nd
+la
+ge
+ 
+d
+er
+ 
+vo
+n 
+de
+n 
+M
+it
+gl
+ie
+ds
+ta
+at
+en
+ 
+ge
+sc
+ha
+ff
+en
+en
+ 
+un
+d
+ 
+be
+tr
+ie
+be
+ne
+n
+ 
+In
+fr
+as
+tr
+uk
+tu
+re
+n
+ 
+M
+it
+gl
+ie
+ds
+ta
+at
+en
+ 
+V
+er
+w
+al
+tu
+ng
+ 
+de
+r 
+di
+gi
+ta
+le
+n 
+In
+fr
+as
+tr
+uk
+tu
+r 
+D
+ig
+it
+al
+er
+ 
+öf
+fe
+nt
+li
+ch
+er
+ D
+ie
+ns
+t 
+A
+rt
+ik
+el
+ A
+bs
+at
+z
+M
+et
+ad
+at
+en
+ 
+fü
+r 
+D
+at
+en
+sä
+tz
+e 
+un
+d 
+-d
+ie
+ns
+te
+ 
+m
+üs
+se
+n 
+er
+ze
+ug
+t 
+un
+d 
+re
+ge
+lm
+äß
+ig
+ 
+ak
+tu
+al
+is
+ie
+rt
+ w
+er
+d
+en
+. 
+M
+it
+gl
+ie
+ds
+ta
+at
+en
+ 
+M
+et
+ad
+at
+en
+ve
+rw
+al
+tu
+ng
+ 
+D
+at
+en
+ 
+A
+rt
+ik
+el
+ A
+bs
+at
+z
+B
+es
+ch
+re
+ib
+un
+g 
+d
+er
+ 
+In
+fo
+rm
+at
+io
+ne
+n,
+ 
+di
+e 
+in
+ 
+M
+et
+ad
+at
+en
+ f
+ü
+r 
+G
+eo
+da
+te
+ns
+ät
+ze
+ u
+nd
+ -
+di
+en
+st
+e 
+au
+fz
+un
+eh
+m
+en
+ s
+in
+d 
+M
+it
+gl
+ie
+ds
+ta
+at
+en
+ 
+M
+et
+ad
+at
+en
+ve
+rw
+al
+tu
+ng
+  
+D
+at
+en
+ 
+A
+rt
+ik
+el
+ A
+bs
+at
+z
+M
+et
+ad
+at
+en
+ 
+zu
+r 
+B
+es
+ch
+re
+ib
+un
+g 
+vo
+n
+ 
+G
+eo
+da
+te
+ns
+ät
+ze
+n 
+un
+d 
+G
+eo
+da
+te
+nd
+ie
+ns
+te
+n
+ 
+so
+ll
+te
+n 
+w
+ei
+te
+rv
+er
+w
+en
+db
+ar
+, 
+au
+ff
+in
+db
+ar
+ u
+nd
+ 
+M
+it
+gl
+ie
+ds
+ta
+at
+en
+ 
+M
+et
+ad
+at
+en
+ve
+rw
+al
+tu
+ng
+ 
+D
+at
+en
+; 
+di
+gi
+ta
+le
+ 
+L
+ös
+un
+g;
+ 
+di
+gi
+ta
+le
+r 
+öf
+fe
+nt
+li
+ch
+er
+ D
+ie
+ns
+t 
+D
+ru
+ck
+sa
+ch
+e
+/2
+- 4
+-
+ 
+D
+E
+D
+E
+ 
+ka
+ta
+lo
+gi
+si
+er
+t 
+se
+in
+.
+.2
+. D
+a
+te
+n
+ 
+A
+ll
+ge
+m
+ei
+ne
+ B
+es
+ch
+re
+ib
+un
+g 
+de
+r 
+er
+fa
+ss
+te
+n 
+D
+at
+en
+ u
+n
+d 
+al
+le
+r 
+d
+a
+m
+it
+ z
+u
+sa
+m
+m
+en
+hä
+ng
+en
+de
+n 
+St
+an
+da
+rd
+s/
+Sp
+ez
+if
+ik
+at
+io
+ne
+n 
+A
+rt
+ d
+er
+ D
+at
+en
+  
+A
+n
+fo
+rd
+er
+u
+n
+g(
+en
+) 
+S
+ta
+n
+d
+ar
+d
+ u
+n
+d
+/o
+d
+er
+ S
+p
+ez
+if
+ik
+at
+io
+n
+ (
+fa
+ll
+s 
+zu
+tr
+ef
+fe
+n
+d
+) 
+G
+eo
+da
+te
+n 
+(H
+öh
+en
+m
+o
+de
+ll
+e,
+ S
+ch
+ut
+zg
+eb
+ie
+te
+ u
+sw
+.)
+ 
+A
+rt
+ik
+el
+A
+n
+hä
+ng
+e 
+I,
+ I
+I 
+un
+d 
+II
+I 
+de
+r 
+R
+ic
+ht
+li
+ni
+e
+07
+/2
+/E
+G
+; 
+K
+at
+eg
+or
+ie
+n 
+„1
+. G
+E
+O
+R
+A
+U
+M
+“,
+ „
+2.
+ 
+E
+R
+D
+B
+E
+O
+B
+A
+C
+H
+T
+U
+N
+G
+ U
+N
+D
+ U
+M
+W
+E
+L
+T
+“ 
+un
+d 
+„6
+. 
+M
+O
+B
+IL
+IT
+Ä
+T
+“ 
+d
+es
+ A
+nh
+an
+gs
+ d
+er
+ 
+D
+u
+rc
+hf
+üh
+ru
+ng
+sv
+er
+or
+dn
+un
+g 
+(E
+U
+)
+23
+/1
+ d
+er
+ 
+K
+o
+m
+m
+is
+si
+on
+ ü
+be
+r 
+ho
+ch
+w
+er
+ti
+ge
+ D
+at
+en
+sä
+tz
+e 
+ 
+M
+et
+ad
+at
+en
+ f
+ü
+r 
+G
+eo
+d
+at
+en
+sä
+tz
+e 
+un
+d 
+-d
+ie
+ns
+te
+ 
+A
+rt
+ik
+el
+IN
+S
+P
+IR
+E
+-M
+et
+ad
+at
+en
+-V
+er
+or
+dn
+un
+g 
+(E
+G
+) 
+N
+r.
+20
+5/
+08
+; 
+IS
+O
+91
+5;
+ D
+C
+A
+T
+-A
+P
+ 
+  V
+er
+ei
+n
+ba
+rk
+ei
+t 
+m
+it
+ d
+er
+ e
+u
+ro
+pä
+is
+ch
+en
+ D
+at
+en
+st
+ra
+te
+gi
+e 
+E
+rl
+äu
+te
+rn
+ S
+ie
+, i
+nw
+ie
+fe
+rn
+ d
+ie
+ A
+nf
+o
+rd
+er
+u
+ng
+(e
+n)
+ m
+it
+ d
+er
+ e
+ur
+o
+pä
+is
+ch
+en
+ D
+at
+en
+st
+ra
+te
+gi
+e 
+ve
+re
+in
+ba
+r 
+is
+t/
+si
+nd
+. 
+D
+ie
+ I
+N
+S
+P
+IR
+E
+-R
+ic
+ht
+li
+ni
+e 
+is
+t 
+T
+ei
+l 
+de
+r 
+D
+ig
+it
+al
+- 
+un
+d 
+U
+m
+w
+el
+tp
+ol
+it
+ik
+ d
+er
+ E
+U
+ u
+nd
+ v
+er
+fo
+lg
+t 
+se
+hr
+ ä
+hn
+li
+ch
+e 
+Z
+ie
+le
+ w
+ie
+ d
+ie
+ e
+ur
+op
+äi
+sc
+he
+ D
+at
+en
+st
+ra
+te
+gi
+e 
+un
+d 
+di
+e 
+S
+tr
+at
+eg
+ie
+ 
+fü
+r 
+ei
+ne
+ 
+D
+at
+en
+un
+io
+n.
+ 
+D
+ur
+ch
+ 
+di
+e 
+S
+ch
+af
+fu
+ng
+ 
+ei
+ne
+s 
+ge
+m
+ei
+ns
+am
+en
+ 
+R
+ah
+m
+en
+s 
+fü
+r 
+di
+e 
+ge
+m
+ei
+ns
+am
+e 
+N
+ut
+zu
+ng
+ 
+un
+d 
+di
+e 
+W
+ei
+te
+rv
+er
+w
+en
+d
+un
+g
+ v
+on
+ G
+eo
+da
+te
+n
+ d
+ur
+ch
+ a
+ll
+e 
+M
+it
+gl
+ie
+ds
+ta
+at
+en
+ t
+rä
+gt
+ I
+N
+S
+P
+IR
+E
+ z
+ur
+ E
+nt
+w
+ic
+kl
+u
+ng
+ e
+in
+er
+ f
+öd
+er
+ie
+rt
+en
+ e
+ur
+op
+äi
+sc
+he
+n 
+D
+at
+en
+in
+fr
+as
+tr
+uk
+tu
+r 
+D
+ru
+ck
+sa
+ch
+e
+/2
+- 5
+-
+ 
+D
+E
+D
+E
+ 
+be
+i.
+ I
+N
+S
+P
+IR
+E
+ u
+nt
+er
+st
+üt
+zt
+ d
+ie
+ S
+ch
+af
+fu
+ng
+ e
+in
+es
+ g
+em
+ei
+ns
+am
+en
+ D
+at
+en
+ra
+um
+s 
+fü
+r 
+de
+n 
+eu
+ro
+p
+äi
+sc
+he
+n 
+G
+rü
+ne
+n 
+D
+ea
+l,
+ i
+nd
+em
+ G
+eo
+d
+at
+en
+ f
+ür
+ B
+eh
+ör
+d
+en
+, 
+U
+nt
+er
+ne
+hm
+en
+ u
+nd
+ B
+ür
+g
+er
+in
+ne
+n 
+un
+d 
+B
+ür
+ge
+r 
+zu
+g
+än
+g
+li
+ch
+ g
+em
+ac
+ht
+ w
+er
+de
+n.
+ 
+V
+er
+ei
+n
+b
+ar
+k
+ei
+t 
+m
+it
+ d
+em
+ G
+ru
+n
+d
+sa
+tz
+ d
+er
+ e
+in
+m
+al
+ig
+en
+ E
+rf
+as
+su
+n
+g 
+E
+rl
+äu
+te
+rn
+ 
+Si
+e,
+ 
+in
+w
+ie
+fe
+rn
+ 
+de
+r 
+G
+ru
+nd
+sa
+tz
+ 
+de
+r 
+ei
+nm
+al
+ig
+en
+ 
+E
+rf
+as
+su
+ng
+ 
+be
+rü
+ck
+si
+ch
+ti
+gt
+ 
+w
+ur
+d
+e 
+un
+d 
+in
+w
+ie
+fe
+rn
+ 
+di
+e 
+M
+ög
+li
+ch
+ke
+it
+ 
+de
+r 
+W
+ei
+te
+rv
+er
+w
+en
+du
+ng
+ 
+vo
+rh
+an
+de
+ne
+r 
+D
+at
+en
+ g
+ep
+rü
+ft
+ w
+ur
+de
+. 
+G
+em
+äß
+ d
+er
+ I
+N
+S
+P
+IR
+E
+-R
+ic
+ht
+li
+ni
+e 
+gi
+lt
+ d
+er
+ G
+ru
+nd
+sa
+tz
+ d
+er
+ e
+in
+m
+al
+ig
+en
+ E
+rf
+as
+su
+ng
+, 
+w
+on
+ac
+h
+ s
+ic
+he
+rg
+es
+te
+ll
+t 
+w
+ir
+d,
+ d
+as
+s 
+G
+eo
+d
+at
+en
+ e
+in
+m
+al
+ e
+rh
+ob
+en
+ u
+nd
+ 
+vi
+el
+e 
+M
+al
+e 
+w
+ei
+te
+rv
+er
+w
+en
+de
+t 
+w
+er
+d
+en
+, 
+in
+sb
+es
+o
+nd
+er
+e 
+in
+ne
+rh
+al
+b 
+un
+d 
+zw
+is
+ch
+en
+ 
+B
+eh
+ör
+d
+en
+. 
+G
+em
+äß
+ 
+A
+rt
+ik
+el
+A
+bs
+at
+z
+d
+er
+ 
+R
+ic
+ht
+li
+ni
+e 
+is
+t 
+di
+e 
+S
+am
+m
+lu
+ng
+ n
+eu
+er
+ G
+eo
+da
+te
+n 
+ni
+ch
+t 
+er
+fo
+rd
+er
+li
+ch
+. 
+S
+ta
+tt
+de
+ss
+en
+ l
+ie
+gt
+ d
+er
+ S
+ch
+w
+er
+pu
+nk
+t 
+au
+f 
+d
+er
+ I
+d
+en
+ti
+fi
+zi
+er
+un
+g 
+un
+d 
+D
+ok
+um
+en
+ta
+ti
+on
+ v
+or
+ha
+nd
+en
+er
+ 
+G
+eo
+da
+te
+n,
+ 
+di
+e 
+si
+ch
+ 
+im
+ 
+B
+es
+it
+z 
+öf
+fe
+nt
+li
+ch
+er
+ 
+S
+te
+ll
+en
+ 
+be
+fi
+nd
+en
+. 
+M
+it
+ 
+de
+r 
+R
+ic
+ht
+li
+ni
+e 
+w
+er
+de
+n 
+di
+e 
+M
+it
+gl
+ie
+ds
+ta
+at
+en
+ 
+an
+ge
+h
+al
+te
+n,
+ 
+G
+eo
+da
+te
+n
+ 
+üb
+er
+ 
+ko
+or
+di
+ni
+er
+te
+ I
+nf
+ra
+st
+ru
+kt
+ur
+en
+ a
+us
+zu
+ta
+us
+ch
+en
+ u
+nd
+ d
+en
+ Z
+ug
+an
+g 
+üb
+er
+ A
+P
+Is
+ g
+em
+äß
+ d
+en
+ i
+n 
+de
+r 
+R
+ic
+ht
+li
+ni
+e 
+üb
+er
+ o
+ff
+en
+e 
+D
+at
+en
+ f
+es
+tg
+el
+eg
+te
+n 
+V
+or
+sc
+hr
+if
+te
+n 
+zu
+ e
+rm
+ög
+li
+ch
+en
+, 
+um
+ s
+ic
+he
+rz
+us
+te
+ll
+en
+, 
+da
+ss
+ D
+at
+en
+, 
+so
+ba
+ld
+ s
+ie
+ e
+rs
+te
+ll
+t 
+od
+er
+ e
+rh
+ob
+en
+ w
+ur
+de
+n,
+ f
+ü
+r 
+ve
+rs
+ch
+ie
+de
+ne
+ Z
+w
+ec
+ke
+ w
+ei
+te
+rv
+er
+w
+en
+d
+et
+ w
+er
+de
+n
+ 
+kö
+nn
+en
+, d
+ar
+un
+te
+r 
+P
+ol
+it
+ik
+ge
+st
+al
+tu
+ng
+, r
+eg
+ul
+at
+or
+is
+ch
+e 
+B
+er
+ic
+h
+te
+rs
+ta
+tt
+un
+g 
+un
+d 
+Z
+u
+ga
+ng
+ d
+er
+ Ö
+ff
+en
+tl
+ic
+hk
+ei
+t.
+ 
+E
+rl
+äu
+te
+rn
+ S
+ie
+, w
+ie
+ n
+eu
+ g
+es
+ch
+af
+fe
+ne
+ D
+at
+en
+ a
+uf
+fi
+nd
+ba
+r,
+ z
+ug
+än
+gl
+ic
+h,
+ i
+nt
+er
+o
+pe
+ra
+be
+l 
+un
+d 
+w
+ie
+de
+rv
+er
+w
+en
+d
+ba
+r 
+si
+nd
+ u
+nd
+ h
+oh
+en
+ S
+ta
+nd
+ar
+ds
+ e
+nt
+sp
+re
+ch
+en
+. 
+D
+ie
+ I
+N
+S
+P
+IR
+E
+-R
+ic
+ht
+li
+ni
+e 
+en
+th
+äl
+t 
+so
+li
+de
+ M
+ec
+h
+an
+is
+m
+en
+, 
+um
+ s
+ic
+he
+rz
+us
+te
+ll
+en
+, 
+da
+ss
+ G
+eo
+d
+at
+en
+ d
+en
+ F
+A
+IR
+-G
+ru
+nd
+sä
+tz
+en
+ e
+nt
+sp
+re
+ch
+en
+. 
+D
+at
+en
+ w
+er
+de
+n
+ 
+du
+rc
+h 
+di
+e 
+in
+ A
+rt
+ik
+el
+ a
+uf
+ge
+fü
+hr
+te
+n 
+ve
+rb
+in
+dl
+ic
+he
+n 
+M
+et
+ad
+at
+en
+an
+fo
+rd
+er
+un
+ge
+n
+ a
+u
+ff
+in
+d
+b
+ar
+ g
+em
+ac
+ht
+. 
+D
+em
+na
+ch
+ m
+üs
+se
+n 
+B
+eh
+ör
+de
+n
+ D
+at
+en
+sä
+tz
+e 
+un
+te
+r 
+V
+er
+w
+en
+du
+ng
+ s
+ta
+nd
+ar
+di
+si
+er
+te
+r 
+M
+et
+ad
+at
+en
+el
+em
+en
+te
+ b
+es
+ch
+re
+ib
+en
+, 
+so
+da
+ss
+ d
+ie
+ N
+ut
+ze
+r 
+na
+ch
+ T
+he
+m
+en
+, 
+S
+ta
+nd
+or
+t,
+ Q
+ua
+li
+tä
+t 
+od
+er
+ z
+us
+tä
+nd
+ig
+er
+ B
+eh
+ör
+de
+ 
+su
+ch
+en
+ 
+kö
+nn
+en
+. 
+D
+ie
+ 
+M
+it
+gl
+ie
+ds
+ta
+at
+en
+ 
+m
+üs
+se
+n 
+G
+eo
+da
+te
+n 
+ge
+m
+äß
+ 
+de
+r 
+R
+ic
+ht
+li
+ni
+e 
+üb
+er
+ 
+of
+fe
+ne
+ 
+D
+at
+en
+ 
+un
+d 
+de
+r 
+da
+zu
+ge
+hö
+ri
+ge
+n 
+D
+ur
+ch
+fü
+h
+ru
+ng
+sv
+er
+or
+dn
+un
+g 
+üb
+er
+ h
+o
+ch
+w
+er
+ti
+ge
+ D
+at
+en
+sä
+tz
+e 
+zu
+gä
+n
+gl
+ic
+h
+ u
+nd
+ i
+n
+te
+ro
+p
+er
+ab
+el
+ m
+ac
+he
+n.
+ S
+ch
+li
+eß
+li
+ch
+ w
+ir
+d 
+di
+e 
+W
+ei
+te
+rv
+er
+w
+en
+d
+b
+ar
+k
+ei
+t 
+da
+du
+rc
+h
+ u
+nt
+er
+st
+üt
+zt
+, 
+d
+as
+s 
+si
+ch
+er
+g
+es
+te
+ll
+t 
+w
+ir
+d,
+ d
+as
+s 
+de
+r 
+D
+at
+en
+au
+st
+au
+sc
+h 
+un
+te
+r 
+kl
+ar
+ d
+ef
+in
+ie
+rt
+en
+ B
+ed
+in
+gu
+ng
+en
+ e
+rf
+ol
+gt
+, 
+di
+e 
+ei
+ne
+ u
+m
+fa
+ss
+en
+d
+e 
+W
+ei
+te
+rv
+er
+w
+en
+d
+un
+g 
+er
+m
+ö
+gl
+ic
+he
+n.
+ 
+ D
+at
+en
+st
+rö
+m
+e 
+A
+rt
+ d
+er
+ D
+at
+en
+ 
+A
+n
+fo
+rd
+er
+u
+n
+g(
+en
+) 
+A
+k
+te
+u
+r,
+ d
+er
+ d
+ie
+ 
+D
+at
+en
+ 
+b
+er
+ei
+ts
+te
+ll
+t 
+A
+k
+te
+u
+r,
+ d
+er
+ d
+ie
+ 
+D
+at
+en
+ e
+m
+p
+fä
+n
+gt
+ 
+A
+u
+sl
+ös
+er
+ f
+ü
+r 
+d
+en
+ 
+D
+at
+en
+au
+st
+au
+sc
+h
+ 
+H
+äu
+fi
+gk
+ei
+t 
+(f
+al
+ls
+ 
+zu
+tr
+ef
+fe
+n
+d
+) 
+D
+ru
+ck
+sa
+ch
+e
+/2
+- 5
+-
+ 
+D
+E
+D
+E
+ 
+M
+et
+ad
+at
+en
+ f
+ü
+r 
+G
+eo
+d
+at
+en
+sä
+tz
+e 
+un
+d 
+-
+di
+en
+st
+e 
+A
+rt
+ik
+el
+M
+it
+gl
+ie
+ds
+ta
+at
+en
+ 
+Ö
+ff
+en
+tl
+ic
+he
+r 
+Z
+ug
+an
+g 
+oh
+ne
+ 
+E
+in
+sc
+hr
+än
+ku
+ng
+en
+ 
+de
+r 
+W
+ei
+te
+rv
+er
+w
+en
+du
+ng
+ 
+D
+ur
+ch
+ d
+ie
+ 
+R
+ic
+ht
+li
+ni
+e 
+vo
+rg
+es
+ch
+ri
+eb
+en
+; 
+re
+ge
+lm
+äß
+ig
+e 
+A
+kt
+ua
+li
+si
+er
+un
+ge
+n
+ 
+F
+or
+tl
+au
+fe
+nd
+.3
+ D
+ig
+it
+al
+e 
+L
+ö
+su
+n
+ge
+n
+ 
+B
+it
+te
+ g
+eb
+en
+ S
+ie
+ f
+ür
+ j
+ed
+e 
+di
+gi
+ta
+le
+ L
+ös
+un
+g 
+di
+e 
+si
+e 
+be
+tr
+ef
+fe
+nd
+e(
+n)
+ A
+nf
+or
+d
+er
+un
+g(
+en
+) 
+vo
+n 
+di
+gi
+ta
+le
+r 
+R
+el
+ev
+an
+z,
+ e
+in
+e 
+B
+es
+ch
+re
+ib
+un
+g 
+de
+r 
+vo
+rg
+es
+ch
+ri
+eb
+en
+en
+ 
+F
+un
+kt
+io
+na
+li
+tä
+t 
+de
+r 
+di
+gi
+ta
+le
+n 
+L
+ös
+u
+ng
+, 
+di
+e 
+St
+el
+le
+, 
+di
+e 
+da
+fü
+r 
+zu
+st
+än
+di
+g 
+se
+in
+ 
+w
+ir
+d
+, 
+un
+d 
+an
+de
+re
+ 
+re
+le
+va
+nt
+e 
+A
+sp
+ek
+te
+ 
+w
+ie
+ 
+W
+ie
+de
+rv
+er
+w
+en
+db
+ar
+ke
+it
+ 
+un
+d 
+Z
+ug
+än
+gl
+ic
+hk
+ei
+t 
+an
+. E
+rl
+äu
+te
+rn
+ S
+ie
+ b
+it
+te
+ a
+bs
+ch
+li
+eß
+en
+d,
+ o
+b 
+be
+i 
+de
+r 
+di
+gi
+ta
+le
+n 
+L
+ös
+u
+ng
+ d
+er
+ E
+in
+sa
+tz
+ v
+o
+n 
+K
+I-
+T
+ec
+hn
+ol
+og
+ie
+n 
+vo
+rg
+es
+eh
+en
+ i
+st
+. 
+D
+ig
+it
+a
+le
+ L
+ös
+u
+n
+g 
+A
+n
+fo
+rd
+er
+u
+n
+g
+(e
+n
+) 
+W
+ic
+h
+ti
+gs
+te
+ 
+vo
+rg
+es
+ch
+ri
+eb
+en
+e 
+F
+u
+n
+k
+ti
+on
+en
+ 
+Z
+u
+st
+än
+d
+ig
+e 
+S
+te
+ll
+e 
+In
+w
+ie
+fe
+rn
+ w
+ir
+d
+ 
+Z
+u
+g
+än
+gl
+ic
+h
+k
+ei
+t 
+ge
+w
+äh
+rl
+ei
+st
+et
+? 
+W
+ie
+ w
+ir
+d
+ d
+ie
+ 
+W
+ie
+d
+er
+v
+er
+w
+en
+d
+b
+a
+rk
+ei
+t 
+b
+er
+ü
+ck
+si
+ch
+ti
+gt
+? 
+E
+in
+sa
+tz
+ v
+o
+n
+ 
+K
+I-
+T
+ec
+h
+n
+o
+lo
+g
+ie
+n
+ 
+(f
+al
+ls
+ 
+zu
+tr
+ef
+fe
+n
+d
+) 
+N
+at
+io
+na
+le
+ 
+G
+eo
+da
+te
+ni
+n
+fr
+as
+tr
+uk
+tu
+re
+n
+ 
+A
+rt
+ik
+el
+A
+bs
+at
+z
+H
+os
+ti
+ng
+ v
+on
+ u
+nd
+ 
+B
+er
+ei
+ts
+te
+ll
+un
+g 
+de
+s 
+Z
+ug
+an
+gs
+ z
+u 
+M
+et
+ad
+at
+en
+, 
+G
+eo
+da
+te
+ns
+ät
+ze
+n 
+un
+d 
+un
+te
+rs
+tü
+tz
+en
+de
+n 
+In
+fo
+rm
+at
+io
+ne
+n 
+fü
+r 
+di
+e 
+In
+te
+ro
+pe
+ra
+bi
+li
+tä
+t 
+ 
+M
+it
+gl
+ie
+ds
+ta
+at
+en
+ 
+Je
+de
+r 
+M
+it
+gl
+ie
+ds
+ta
+at
+ 
+st
+el
+lt
+ d
+ie
+ 
+Z
+ug
+än
+gl
+ic
+hk
+ei
+t 
+vo
+n 
+M
+et
+ad
+at
+en
+ 
+un
+d 
+G
+eo
+da
+te
+n 
+si
+ch
+er
+. 
+ 
+W
+ei
+te
+rv
+er
+w
+en
+du
+ng
+ v
+on
+ 
+ge
+m
+ei
+ns
+am
+en
+ M
+et
+ad
+at
+en
+-
+S
+ch
+em
+at
+a,
+ 
+L
+iz
+en
+zb
+ed
+in
+gu
+ng
+en
+ u
+nd
+ 
+D
+at
+en
+zu
+g
+an
+gs
+sc
+hn
+it
+ts
+te
+ll
+en
+ 
+(A
+P
+Is
+) 
+N
+ei
+n 
+D
+ru
+ck
+sa
+ch
+e
+/2
+- 5
+-
+ 
+D
+E
+D
+E
+ 
+E
+rl
+äu
+te
+rn
+ S
+ie
+ f
+ür
+ j
+ed
+e 
+di
+gi
+ta
+le
+ L
+ös
+u
+ng
+, 
+in
+w
+ie
+fe
+rn
+ d
+ie
+se
+ m
+it
+ d
+en
+ A
+nf
+o
+rd
+er
+u
+ng
+en
+ u
+nd
+ V
+er
+p
+fl
+ic
+ht
+un
+ge
+n 
+de
+s 
+E
+U
+-R
+ah
+m
+en
+s 
+fü
+r 
+C
+yb
+er
+si
+ch
+er
+h
+ei
+t 
+un
+d 
+an
+de
+re
+n 
+ge
+lt
+en
+de
+n 
+di
+gi
+ta
+le
+n 
+St
+ra
+te
+gi
+en
+ u
+nd
+ R
+ec
+ht
+sv
+or
+sc
+hr
+if
+te
+n 
+(z
+. 
+B
+. e
+ID
+A
+S,
+ z
+en
+tr
+al
+es
+ d
+ig
+it
+al
+es
+ Z
+ug
+an
+gs
+to
+r)
+ i
+m
+ E
+in
+kl
+an
+g 
+st
+eh
+t.
+ 
+ N
+at
+io
+na
+le
+ G
+eo
+da
+te
+ni
+nf
+ra
+st
+ru
+kt
+u
+re
+n 
+D
+ig
+it
+al
+e 
+u
+n
+d
+/o
+d
+er
+ s
+ek
+to
+rs
+p
+ez
+if
+is
+ch
+e 
+S
+tr
+a
+te
+gi
+en
+ (
+fa
+ll
+s 
+an
+w
+en
+d
+b
+ar
+) 
+E
+rl
+äu
+te
+ru
+n
+g 
+d
+er
+ V
+er
+ei
+n
+b
+ar
+k
+ei
+t 
+K
+I-
+V
+er
+o
+rd
+n
+u
+n
+g 
+E
+nt
+fä
+ll
+t 
+E
+U
+-R
+ah
+m
+en
+ f
+ü
+r 
+C
+yb
+er
+si
+ch
+er
+h
+ei
+t 
+S
+ta
+nd
+ar
+dv
+or
+sc
+hr
+if
+te
+n 
+de
+r 
+E
+ur
+op
+äi
+sc
+he
+n 
+K
+om
+m
+is
+si
+on
+ 
+eI
+D
+A
+S
+ 
+B
+is
+h
+er
+ k
+ei
+ne
+ B
+ez
+ug
+n
+ah
+m
+e 
+E
+in
+h
+ei
+tl
+ic
+h
+es
+ d
+ig
+it
+al
+es
+ Z
+u
+ga
+n
+gs
+to
+r 
+u
+n
+d 
+IM
+I 
+B
+is
+h
+er
+ k
+ei
+ne
+ B
+ez
+ug
+n
+ah
+m
+e 
+S
+on
+st
+ig
+e 
+-
+.4
+ 
+In
+te
+ro
+p
+er
+a
+b
+il
+it
+ä
+ts
+b
+ew
+er
+tu
+n
+g 
+B
+es
+ch
+re
+ib
+en
+ S
+ie
+ d
+ie
+ v
+on
+ d
+en
+ A
+nf
+o
+rd
+er
+u
+ng
+en
+ b
+et
+ro
+ff
+en
+en
+ d
+ig
+it
+al
+en
+ ö
+ff
+en
+tl
+ic
+he
+n 
+D
+ie
+ns
+te
+. 
+D
+ru
+ck
+sa
+ch
+e
+/2
+- 5
+-
+ 
+D
+E
+D
+E
+ 
+D
+ig
+it
+al
+er
+ ö
+ff
+en
+tl
+ic
+h
+er
+ 
+D
+ie
+n
+st
+ o
+d
+er
+ K
+at
+eg
+or
+ie
+ 
+d
+ig
+it
+al
+er
+ ö
+ff
+en
+tl
+ic
+h
+er
+ 
+D
+ie
+n
+st
+e 
+B
+es
+ch
+re
+ib
+u
+n
+g 
+A
+n
+fo
+rd
+er
+u
+n
+g(
+en
+) 
+L
+ös
+u
+n
+g(
+en
+) 
+fü
+r 
+ei
+n
+ 
+in
+te
+ro
+p
+er
+ab
+le
+s 
+E
+u
+ro
+p
+a 
+ 
+(E
+N
+T
+F
+Ä
+L
+L
+T
+) 
+A
+n
+d
+er
+e 
+In
+te
+ro
+p
+er
+a
+b
+il
+it
+ät
+sl
+ö
+su
+n
+g(
+en
+) 
+E
+ur
+op
+äi
+sc
+he
+ 
+G
+eo
+da
+te
+ni
+n
+fr
+as
+tr
+uk
+tu
+r 
+E
+ur
+op
+äi
+sc
+he
+ 
+G
+eo
+da
+te
+ni
+nf
+ra
+st
+ru
+kt
+ur
+, 
+di
+e 
+au
+f 
+vo
+n 
+de
+n 
+M
+it
+gl
+ie
+ds
+ta
+at
+en
+ 
+ge
+sc
+ha
+ff
+en
+en
+ 
+n
+at
+io
+na
+le
+n 
+G
+eo
+da
+te
+ni
+nf
+ra
+st
+ru
+kt
+ur
+en
+ 
+au
+fb
+au
+t 
+un
+d 
+si
+ch
+er
+st
+el
+le
+n 
+so
+ll
+, 
+da
+ss
+ 
+G
+eo
+da
+te
+n 
+au
+f 
+de
+r 
+am
+ 
+be
+st
+en
+ 
+ge
+ei
+gn
+et
+en
+ 
+E
+be
+ne
+ 
+un
+d 
+un
+te
+r 
+B
+ed
+in
+gu
+ng
+en
+ 
+ge
+sp
+ei
+ch
+er
+t,
+ 
+zu
+r 
+V
+er
+fü
+gu
+ng
+ 
+ge
+st
+el
+lt
+ 
+un
+d 
+ge
+pf
+le
+gt
+ 
+w
+er
+de
+n,
+ 
+di
+e 
+ih
+re
+ 
+u
+m
+fa
+ss
+en
+de
+ 
+N
+ut
+zu
+ng
+ 
+ni
+ch
+t 
+un
+an
+ge
+m
+es
+se
+n 
+ei
+ns
+ch
+rä
+nk
+en
+. 
+ 
+ 
+A
+rt
+. 1
+   
+//
+ 
+IN
+S
+P
+IR
+E
+-M
+et
+ad
+at
+en
+-V
+er
+or
+dn
+un
+g 
+(E
+G
+) 
+N
+r.
+20
+5/
+08
+; 
+M
+et
+ad
+at
+en
+st
+an
+d
+ar
+d 
+fü
+r 
+g
+eo
+gr
+af
+is
+ch
+e 
+In
+fo
+rm
+at
+io
+ne
+n 
+ge
+m
+äß
+ I
+S
+O
+91
+; 
+M
+et
+ad
+at
+en
+st
+an
+d
+ar
+d 
+D
+C
+A
+T
+-A
+P
+; 
+O
+G
+C
+-
+G
+eo
+da
+te
+ns
+ta
+nd
+ar
+ds
+ 
+B
+ew
+er
+te
+n 
+Si
+e 
+di
+e 
+A
+us
+w
+ir
+ku
+ng
+en
+ d
+er
+ A
+nf
+or
+de
+ru
+n
+g(
+en
+) 
+au
+f 
+di
+e 
+gr
+en
+zü
+be
+rs
+ch
+re
+it
+en
+de
+ I
+nt
+er
+op
+er
+ab
+il
+it
+ät
+. 
+ E
+u
+ro
+p
+äi
+sc
+h
+e 
+G
+eo
+d
+at
+en
+in
+fr
+a
+st
+ru
+k
+tu
+r 
+ 
+B
+ew
+er
+tu
+n
+g 
+M
+aß
+n
+a
+h
+m
+en
+ 
+M
+ög
+li
+ch
+e 
+v
+er
+b
+le
+ib
+en
+d
+e 
+H
+in
+d
+er
+n
+is
+se
+ 
+B
+ew
+er
+tu
+n
+g 
+d
+er
+ V
+er
+ei
+n
+b
+ar
+k
+ei
+t 
+m
+it
+ 
+b
+es
+te
+h
+en
+d
+en
+ d
+ig
+it
+al
+en
+ u
+n
+d
+ 
+se
+k
+to
+rs
+p
+ez
+if
+is
+ch
+en
+ S
+tr
+at
+eg
+ie
+n
+  
+B
+it
+te
+ f
+ü
+h
+re
+n
+ S
+ie
+ d
+ie
+ e
+rm
+it
+te
+lt
+en
+ 
+an
+w
+en
+d
+b
+ar
+en
+ d
+ig
+it
+al
+en
+ u
+n
+d
+ 
+se
+k
+to
+rs
+p
+ez
+if
+is
+ch
+en
+ S
+tr
+at
+eg
+ie
+n
+ a
+u
+f.
+ 
+—
+ E
+ur
+op
+äi
+sc
+he
+ D
+at
+en
+st
+ra
+te
+gi
+e:
+ I
+N
+S
+P
+IR
+E
+ 
+un
+te
+rs
+tü
+tz
+t 
+ei
+ne
+n 
+st
+ru
+kt
+ur
+ie
+rt
+en
+ u
+nd
+ s
+ic
+he
+re
+n 
+Z
+ug
+an
+g 
+zu
+ ö
+ff
+en
+tl
+ic
+he
+n 
+D
+at
+en
+ m
+it
+hi
+lf
+e 
+in
+te
+ro
+pe
+ra
+bl
+er
+ D
+ie
+ns
+te
+. 
+ 
+—
+ R
+ic
+ht
+li
+ni
+e 
+üb
+er
+ o
+ff
+en
+e 
+D
+at
+en
+ (
+19
+/1
+4)
+: 
+IN
+S
+P
+IR
+E
+-G
+eo
+da
+te
+ns
+ät
+ze
+ f
+al
+le
+n 
+in
+ d
+en
+ 
+A
+nw
+en
+du
+ng
+sb
+er
+ei
+ch
+ d
+er
+ R
+ic
+ht
+li
+ni
+e 
+un
+d 
+vi
+el
+e 
+U
+nt
+er
+sc
+hi
+ed
+li
+ch
+e 
+G
+eo
+d
+at
+en
+-K
+la
+ss
+if
+iz
+ie
+ru
+ng
+ u
+nd
+ 
+L
+iz
+en
+ze
+rt
+ei
+lu
+ng
+ i
+n 
+de
+n 
+M
+it
+gl
+ie
+ds
+ta
+at
+en
+.  
+V
+ol
+ls
+tä
+nd
+ig
+e 
+A
+ng
+le
+ic
+hu
+n
+g 
+de
+r 
+IN
+S
+P
+IR
+E
+-D
+at
+en
+sä
+tz
+e 
+an
+ 
+ho
+ch
+w
+er
+ti
+ge
+ D
+at
+en
+sä
+tz
+e.
+  
+D
+ru
+ck
+sa
+ch
+e
+/2
+- 5
+-
+ 
+D
+E
+D
+E
+ 
+vo
+n 
+ih
+ne
+n 
+er
+fü
+ll
+en
+ d
+ie
+ K
+ri
+te
+ri
+en
+ f
+ür
+ 
+ho
+ch
+w
+er
+ti
+ge
+ D
+at
+en
+sä
+tz
+e.
+  
+—
+ D
+ur
+ch
+fü
+h
+ru
+ng
+sv
+er
+or
+d
+nu
+ng
+ (
+E
+U
+)
+23
+/1
+üb
+er
+ h
+oc
+hw
+er
+ti
+ge
+ D
+at
+en
+sä
+tz
+e:
+ D
+ie
+ I
+N
+S
+P
+IR
+E
+-
+D
+at
+en
+ka
+te
+go
+ri
+en
+ i
+n 
+de
+n 
+A
+nh
+än
+ge
+n 
+I 
+bi
+s 
+II
+I 
+üb
+er
+sc
+hn
+ei
+d
+en
+ s
+ic
+h 
+w
+ei
+tg
+eh
+en
+d 
+m
+it
+ T
+he
+m
+en
+ 
+fü
+r 
+ho
+ch
+w
+er
+ti
+ge
+ D
+at
+en
+sä
+tz
+e,
+ i
+ns
+b
+es
+on
+de
+re
+ i
+n 
+de
+n 
+K
+at
+eg
+or
+ie
+n 
+G
+eo
+ra
+um
+, E
+rd
+be
+ob
+ac
+ht
+un
+g 
+un
+d 
+U
+m
+w
+el
+t 
+so
+w
+ie
+ M
+o
+bi
+li
+tä
+t.
+  
+—
+ V
+er
+or
+dn
+un
+g 
+fü
+r 
+ei
+n 
+in
+te
+ro
+pe
+ra
+bl
+es
+ E
+ur
+op
+a 
+(2
+4/
+3)
+: 
+IN
+S
+P
+IR
+E
+ e
+rm
+ög
+li
+ch
+t 
+di
+e 
+gr
+en
+zü
+be
+rs
+ch
+re
+it
+en
+de
+ g
+em
+ei
+ns
+am
+e 
+N
+ut
+zu
+ng
+ 
+vo
+n 
+D
+at
+en
+. 
+B
+ew
+er
+tu
+n
+g 
+d
+er
+ o
+rg
+an
+is
+at
+or
+is
+ch
+en
+ 
+M
+a
+ß
+n
+ah
+m
+en
+ f
+ü
+r 
+ei
+n
+e 
+re
+ib
+u
+n
+gs
+lo
+se
+ 
+gr
+en
+zü
+b
+er
+sc
+h
+re
+it
+en
+d
+e 
+E
+rb
+ri
+n
+gu
+n
+g 
+d
+ig
+it
+al
+er
+ ö
+ff
+en
+tl
+ic
+h
+er
+ D
+ie
+n
+st
+e 
+B
+it
+te
+ f
+ü
+h
+re
+n
+ S
+ie
+ d
+ie
+ g
+ep
+la
+n
+te
+n
+ 
+G
+ov
+er
+n
+an
+ce
+-M
+aß
+n
+ah
+m
+en
+ a
+u
+f.
+ 
+D
+ie
+ v
+on
+ j
+ed
+em
+ M
+it
+gl
+ie
+ds
+ta
+at
+ e
+in
+ge
+ri
+ch
+te
+te
+n 
+K
+oo
+rd
+in
+ie
+ru
+ng
+ss
+tr
+uk
+tu
+re
+n 
+(A
+rt
+ik
+el
+8)
+ 
+ge
+w
+äh
+rl
+ei
+st
+en
+ d
+ie
+ n
+at
+io
+na
+le
+ A
+ng
+le
+ic
+hu
+ng
+ u
+nd
+ 
+un
+te
+rs
+tü
+tz
+en
+ d
+ie
+ M
+ul
+ti
+-L
+ev
+el
+-G
+ov
+er
+n
+an
+ce
+. 
+ 
+E
+s 
+w
+ir
+d 
+je
+w
+ei
+ls
+ e
+in
+e 
+ei
+nz
+ig
+e 
+na
+ti
+on
+al
+e 
+A
+nl
+au
+fs
+te
+ll
+e 
+be
+n
+an
+nt
+ (
+A
+rt
+ik
+el
+9
+ A
+bs
+at
+z 
+2)
+, 
+di
+e 
+fü
+r 
+di
+e 
+K
+on
+ta
+kt
+e 
+m
+it
+ d
+er
+ E
+ur
+op
+äi
+sc
+he
+n 
+K
+om
+m
+is
+si
+on
+ z
+us
+tä
+nd
+ig
+ i
+st
+.  
+D
+ie
+ E
+ur
+op
+äi
+sc
+h
+e 
+K
+om
+m
+is
+si
+on
+ i
+st
+ f
+ür
+ d
+ie
+ 
+K
+oo
+rd
+in
+ie
+ru
+ng
+ a
+u
+f 
+E
+U
+-E
+be
+ne
+ v
+er
+an
+tw
+or
+tl
+ic
+h 
+(A
+rt
+ik
+el
+9 
+A
+bs
+at
+z
+).
+  
+ 
+U
+nt
+er
+sc
+hi
+ed
+li
+ch
+e 
+A
+us
+g
+er
+ei
+ft
+he
+it
+ d
+er
+ n
+at
+io
+na
+le
+n 
+K
+oo
+rd
+in
+ie
+ru
+ng
+ss
+tr
+uk
+tu
+re
+n.
+  
+K
+oo
+rd
+in
+ie
+ru
+ng
+sa
+uf
+w
+an
+d 
+fü
+r 
+kl
+ei
+ne
+re
+ B
+eh
+ör
+de
+n.
+  
+F
+eh
+le
+nd
+e 
+D
+ur
+ch
+se
+tz
+un
+gs
+m
+ec
+ha
+ni
+sm
+en
+, u
+m
+ f
+ür
+ d
+ie
+ 
+K
+oh
+är
+en
+z 
+de
+r 
+g
+re
+nz
+üb
+er
+sc
+hr
+ei
+te
+nd
+en
+ D
+at
+en
+in
+te
+g
+ra
+ti
+on
+ z
+u 
+so
+rg
+en
+. 
+B
+ew
+er
+tu
+n
+g 
+d
+er
+ M
+aß
+n
+ah
+m
+en
+, 
+d
+ie
+ 
+er
+gr
+if
+fe
+n
+ w
+u
+rd
+en
+, 
+u
+m
+ e
+in
+ g
+em
+ei
+n
+sa
+m
+es
+ 
+V
+er
+st
+än
+d
+n
+is
+ d
+er
+ D
+at
+en
+ z
+u
+ 
+ge
+w
+äh
+rl
+ei
+st
+en
+ 
+O
+bl
+ig
+at
+or
+is
+ch
+e 
+E
+rz
+eu
+gu
+n
+g 
+vo
+n 
+M
+et
+ad
+at
+en
+ f
+ü
+r 
+al
+le
+ D
+at
+en
+sä
+tz
+e 
+un
+d 
+-d
+ie
+n
+st
+e 
+(A
+rt
+ik
+el
+).
+  
+S
+ta
+nd
+ar
+di
+si
+er
+un
+g 
+de
+r 
+M
+et
+ad
+at
+en
+-E
+le
+m
+en
+te
+ 
+(I
+S
+O
+91
+ /
+ I
+N
+S
+P
+IR
+E
+-M
+et
+ad
+at
+en
+-
+U
+nt
+er
+sc
+hi
+ed
+li
+ch
+e 
+Q
+ua
+li
+tä
+t 
+de
+r 
+M
+et
+ad
+at
+en
+ d
+er
+ e
+in
+ze
+ln
+en
+ 
+M
+it
+gl
+ie
+ds
+ta
+at
+en
+.  
+B
+eg
+re
+nz
+te
+ m
+eh
+rs
+p
+ra
+ch
+ig
+e 
+U
+nt
+er
+st
+üt
+zu
+ng
+ f
+ür
+ M
+et
+ad
+at
+en
+. 
+ 
+U
+ne
+in
+h
+ei
+tl
+ic
+he
+ A
+kt
+ua
+li
+si
+er
+un
+ge
+n 
+de
+r 
+M
+et
+ad
+at
+en
+sä
+tz
+e 
+un
+d 
+D
+ru
+ck
+sa
+ch
+e
+/2
+- 5
+-
+ 
+D
+E
+D
+E
+ 
+B
+it
+te
+ f
+ü
+h
+re
+n
+ S
+ie
+ s
+ol
+ch
+e 
+M
+aß
+n
+ah
+m
+en
+ 
+au
+f.
+ 
+V
+er
+or
+dn
+un
+g 
+(E
+G
+) 
+N
+r.
+2
+/2
+8)
+.  
+H
+ar
+m
+on
+is
+ie
+ru
+ng
+ d
+er
+ G
+eo
+da
+te
+n-
+T
+he
+m
+en
+ 
+ge
+m
+äß
+ d
+en
+ A
+nh
+än
+ge
+n 
+I 
+b
+is
+ I
+II
+. 
+si
+ch
+ d
+ar
+au
+s 
+er
+ge
+b
+en
+de
+ P
+ro
+bl
+em
+e 
+be
+i 
+de
+r 
+A
+u
+ff
+in
+db
+ar
+ke
+it
+. 
+B
+ew
+er
+tu
+n
+g 
+d
+er
+ V
+er
+w
+en
+d
+u
+n
+g 
+ge
+m
+ei
+n
+sa
+m
+ v
+er
+ei
+n
+b
+ar
+te
+r 
+of
+fe
+n
+er
+ 
+te
+ch
+n
+is
+ch
+er
+ S
+p
+ez
+if
+ik
+at
+io
+n
+en
+ u
+n
+d
+ 
+S
+ta
+n
+d
+a
+rd
+s 
+B
+it
+te
+ f
+ü
+h
+re
+n
+ S
+ie
+ s
+ol
+ch
+e 
+M
+aß
+n
+ah
+m
+en
+ 
+au
+f.
+ 
+  A
+ng
+le
+ic
+hu
+ng
+ d
+er
+ g
+em
+äß
+ d
+en
+ I
+N
+S
+P
+IR
+E
+-
+V
+or
+sc
+hr
+if
+te
+n 
+er
+ze
+ug
+te
+n 
+M
+et
+ad
+at
+en
+ a
+n 
+IS
+O
+91
+. 
+ 
+V
+er
+w
+ei
+s 
+au
+f 
+eu
+ro
+pä
+is
+ch
+e 
+un
+d 
+in
+te
+rn
+at
+io
+na
+le
+ 
+N
+or
+m
+en
+ (
+A
+rt
+ik
+el
+0)
+. 
+ 
+U
+nt
+er
+st
+üt
+zu
+ng
+ d
+er
+ V
+er
+w
+en
+du
+ng
+ v
+on
+ D
+C
+A
+T
+-
+A
+P
+ f
+ür
+ M
+et
+ad
+at
+en
+-P
+or
+ta
+le
+ d
+ur
+ch
+ G
+eo
+D
+C
+A
+T
+-
+M
+ap
+pi
+ng
+. 
+K
+on
+ti
+nu
+ie
+rl
+ic
+he
+ A
+ng
+le
+ic
+h
+un
+g 
+an
+ d
+ie
+ W
+ei
+te
+re
+nt
+w
+ic
+kl
+un
+g 
+de
+r 
+te
+ch
+ni
+sc
+h
+en
+ E
+U
+- 
+un
+d 
+in
+te
+rn
+at
+io
+na
+le
+n 
+S
+ta
+nd
+ar
+ds
+ 
+er
+fo
+rd
+er
+li
+ch
+.
+.5
+ 
+U
+n
+te
+rs
+tü
+tz
+u
+n
+g
+sm
+a
+ß
+n
+a
+h
+m
+en
+ f
+ü
+r 
+d
+ie
+ d
+ig
+it
+a
+le
+ U
+m
+se
+tz
+u
+n
+g 
+B
+es
+ch
+re
+ib
+u
+n
+g 
+d
+er
+ M
+aß
+n
+ah
+m
+e 
+A
+n
+fo
+rd
+er
+u
+n
+g(
+en
+) 
+R
+ol
+le
+ d
+er
+ 
+K
+om
+m
+is
+si
+on
+  
+(f
+al
+ls
+ z
+ut
+re
+ff
+en
+d)
+ 
+Z
+u
+ b
+et
+ei
+li
+g
+en
+d
+e 
+A
+k
+te
+u
+re
+ 
+(f
+al
+ls
+ z
+ut
+re
+ff
+en
+d)
+ 
+V
+o
+ra
+u
+ss
+ic
+h
+tl
+ic
+h
+er
+ Z
+ei
+tp
+la
+n
+ 
+(f
+al
+ls
+ z
+ut
+re
+ff
+en
+d)
+ 
+M
+et
+ad
+at
+en
+-D
+ur
+ch
+fü
+hr
+un
+g
+sv
+er
+or
+dn
+un
+g
+ 
+(I
+N
+S
+P
+IR
+E
+-M
+et
+ad
+at
+en
+-V
+er
+or
+dn
+un
+g 
+(E
+G
+) 
+N
+r.
+20
+5/
+08
+) 
+A
+rt
+ik
+el
+ A
+bs
+at
+z
+R
+eg
+el
+m
+äß
+ig
+e 
+A
+kt
+ua
+li
+si
+er
+un
+g 
+de
+s 
+R
+ec
+ht
+sa
+kt
+s.
+ 
+Ü
+be
+rw
+ac
+hu
+ng
+ 
+de
+r 
+D
+ur
+ch
+fü
+h
+ru
+ng
+. 
+ 
+K
+om
+m
+is
+si
+on
+, 
+M
+it
+gl
+ie
+ds
+ta
+at
+en
+ 
+In
+ K
+ra
+ft
+ 
+ 
+D
+ru
+ck
+sa
+ch
+e
+/2
+- 5
+-
