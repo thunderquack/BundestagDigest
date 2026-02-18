@@ -1,38 +1,39 @@
-Deutscher Bundestag Drucksache 21/4037
+[Deutscher Bundestag Drucksache 21/4037
 21. Wahlperiode 09.02.2026
 Kleine Anfrage
 der Abgeordneten Ruben Rupp, Robin Jünger, Alexander Arpaschi, Sebastian 
-Maack, Tobias Ebenberger, Lars Haise, Edgar Naujok, Steffen Janich, 
-Prof. Dr. Michael Kaufmann und der Fraktion der AfD
+Maack, Tobias Ebenberger, Lars Haise, Edgar Naujok, Steffen Janich, Dr. Michael 
+Kaufmann und der Fraktion der AfD
 Zum Vorhaben eines quelloffenen europäischen Sprachmodells
-Die Veröffentlichung der KI-Software ChatGPT des Unternehmens OpenAI im 
-November 2022 teilt die Evolution der Künstlichen Intelligenz in ein Davor 
-und ein Danach. Erstmals in der Geschichte dieser Technologie wird plastisch 
-für jedermann greifbar, wozu Künstliche Intelligenz (KI) heute imstande ist. 
-Mit Künstlicher Intelligenz ist es auch für technische Laien möglich, Texte aller 
-Art zu generieren, Bilder, Videos und Audiodateien anzufertigen und sich in 
-eine ausführliche Konversation über gesellschaftliche und private Themen zu 
-begeben. Dabei kommuniziert das Programm humanoid – es ist allein aus den 
-Antworten oft nicht mehr ersichtlich, dass sie von einer Software kommen und 
-nicht von einem Menschen. Die human anmutende Sprachdarstellung wird von 
-Large Language Models (LLM), also großen Sprachmodellen, ermöglicht.
-Hinzu kommen multimodale Modelle, die parallel mit verschiedenen
-Informationsarten umgehen können, etwa Texten und Bildern.
+Die Veröffentlichung der KI-Software (KI = Künstliche Intelligenz; engl.: AI) 
+ChatGPT des Unternehmens OpenAI im November 2022 teilt die Evolution der 
+Künstlichen Intelligenz in ein Davor und ein Danach. Erstmals in der
+Geschichte dieser Technologie wird plastisch für jedermann greifbar, wozu
+Künstliche Intelligenz heute imstande ist. Mit Künstlicher Intelligenz ist es auch für 
+technische Laien möglich, Texte aller Art zu generieren, Bilder, Videos und 
+Audiodateien anzufertigen und sich in eine ausführliche Konversation über
+gesellschaftliche und private Themen zu begeben. Dabei kommuniziert das
+Programm humanoid – es ist allein aus den Antworten oft nicht mehr ersichtlich, 
+dass sie von einer Software kommen und nicht von einem Menschen. Die
+human anmutende Sprachdarstellung wird von Large Language Models (LLM), 
+also großen Sprachmodellen, ermöglicht. Hinzu kommen multimodale
+Modelle, die parallel mit verschiedenen Informationsarten umgehen können, etwa 
+Texten und Bildern.
 ChatGPT und vergleichbare KI-Lösungen wie Gemini, Grok, Claude, Llama, 
 und DeepSeek werden mit großen Datenmengen, deren Herkunft, Tiefe und 
 Struktur nicht direkt nachvollziehbar sind, auf ihren Praxiseinsatz hin trainiert. 
-Zudem stammen die genannten LLMs von großen Konzernen, die diese
-Produkte in ihre Wertschöpfungsketten integrieren und damit bereits vorhandene 
-Nutzer weiter an sich binden. Dergestalt droht sich auf dem Gebiet der
-Künstlichen Intelligenz die globale Dominanz einiger weniger außereuropäischer
-Unternehmen, die bereits das Feld der Digitalisierung bestimmen, zu wiederholen. 
-Vor dem Hintergrund einer anzustrebenden digitalen Souveränität für
-Deutschland ist dies nach Auffassung der Fragesteller als kritisch zu bewerten. Nicht 
-zuletzt kommen fast alle großen Sprachmodelle aus den USA, was dazu führt, 
-dass weniger weit verbreitete Sprachen neben Englisch nicht so filigran und 
+Zudem stammen die genannten LLM von großen Konzernen, die diese
+Produkte in ihre Wertschöpfungsketten integrieren und damit bereits vorhandene
+Nutzer weiter an sich binden. Dergestalt droht sich auf dem Gebiet der Künstlichen 
+Intelligenz die globale Dominanz einiger weniger außereuropäischer
+Unternehmen, die bereits das Feld der Digitalisierung bestimmen, zu wiederholen. Vor 
+dem Hintergrund einer anzustrebenden digitalen Souveränität für Deutschland 
+ist dies nach Auffassung der Fragesteller als kritisch zu bewerten. Nicht zuletzt 
+kommen fast alle großen Sprachmodelle aus den USA, was dazu führt, dass 
+weniger weit verbreitete Sprachen neben Englisch nicht so filigran und
 detailliert repräsentiert werden.
-Zum 1. Februar 2025 hat die Europäische Kommission das Projekt Open Euro 
-LLM (https://openeurollm.eu/) lanciert, das alle Amtssprachen der EU
+Zum 1. Februar 2025 hat die Europäische Kommission das Projekt Open
+EuroLLM (https://openeurollm.eu/) lanciert, das alle Amtssprachen der EU
 abdecken, die Einhaltung des AI Acts der EU gewährleisten und bei Unternehmen, 
 Entwicklern sowie Endnutzern Akzeptanz finden soll (https://strategic-technolo
 gies.europa.eu/step-results/step-stories/openeurollm-european-family-large-lan
@@ -41,19 +42,17 @@ Hochleistungsrecheninfrastruktur EuroHPC, verwendet Daten europäischer Herkunft
 zum Training und legt den Quellcode des Programms offen (www.heise.de/new
 s/Sprachmodell-OpenEuroLLM-soll-KI-in-der-EU-unabhaengiger-und-vielfaelt
 iger-machen-10269667.html).
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 An diesem Konsortium sind insgesamt neun Länder aus der EU beteiligt. Aus 
 Deutschland sind die Eberhard-Karls-Universität Tübingen, das
 Forschungszentrum Jülich, die Fraunhofer Gesellschaft zur Förderung der angewandten 
 Forschung sowie die Unternehmen Aleph Alpha und Ellamind involviert. Die 
 Bundesregierung zeigt sich prinzipiell offen für die Entwicklung offener
 europäischer Plattformmodelle (www.koalitionsvertrag2025.de/sites/www.koalition
-svertrag2025.de/files/koav_2025.pdf, hier Seite 71).
+svertrag2025.de/files/koav_2025.pdf, hier S. 71).
 Wir fragen die Bundesregierung:
  1. Welche Erkenntnisse liegen der Bundesregierung rund ein Jahr nach dem 
-Start des Projekts Open Euro LLM über dessen gegenwärtigen Stand ggf. 
-vor und wann ist nach Kenntnis der Bundesregierung mit der
+Start des Projekts OpenEuroLLM über dessen gegenwärtigen Stand ggf. 
+vor, und wann ist nach Kenntnis der Bundesregierung mit der
 Veröffentlichung eines ersten großen Sprachmodells im Rahmen des Projekts zu 
 rechnen?
  2. Gibt es nach Kenntnis der Bundesregierung bereits erste Pilotprojekte, mit 
@@ -63,67 +62,63 @@ werden können, und wenn ja, welche Projekte existieren (bitte auflisten)?
 20,65 Mio. Euro der EU (vgl. https://strategic-technologies.europa.eu/ste
 p-results/step-stories/openeurollm-european-family-large-language-model
 s_en?prefLang=de&etrans=de) ausreichend, um ein wettbewerbsfähiges 
-großes Sprachmodell zu entwickeln und werden nach Einschätzung der 
+großes Sprachmodell zu entwickeln, und werden nach Einschätzung der 
 Bundesregierung mit dieser Summe lediglich die Entwicklungskosten 
 eines großen Sprachmodells abgedeckt oder auch zusätzlich die Kosten 
-zum Training der Modelle (siehe Vorbemerkung, bitte ausführen)?
- 4. Ist die Bundesregierung direkt finanziell am Projekt Open Euro LLM
-beteiligt (siehe Vorbemerkung, bitte ausführen, und wenn ja, in welcher 
-Höhe und über welchen Einzelplan des Bundeshaushalts und wenn nein, 
-plant die Bundesregierung künftig eine finanzielle Beteiligung am Projekt 
-Open Euro LLM, die über die indirekte Förderung über die EU
+zum Training der Modelle (siehe Vorbemerkung der Fragesteller; bitte 
+ausführen)?
+ 4. Ist die Bundesregierung direkt finanziell am Projekt OpenEuroLLM
+beteiligt (siehe Vorbemerkung der Fragesteller; bitte ausführen), wenn ja, in 
+welcher Höhe und über welchen Einzelplan des Bundeshaushalts, und 
+wenn nein, plant die Bundesregierung künftig eine finanzielle Beteiligung 
+am Projekt OpenEuroLLM, die über die indirekte Förderung über die EU 
 hinausgeht?
  5. Welche deutschen Hoch- und Höchstleistungsrechner sind nach Kenntnis 
 der Bundesregierung Teil der Recheninfrastruktur, auf der die zu
-schaffenden großen Sprachmodelle des Projekts Open Euro LLM trainiert werden?
+schaffenden großen Sprachmodelle des Projekts OpenEuroLLM trainiert werden?
  6. Welche Herausforderungen erkennt die Bundesregierung ggf. bei der
 Bereitstellung ausreichender Rechenleistung für das multilinguale Training 
-der Sprachmodelle des Projekts Open Euro LLM, und wie stellen sich 
-diese Herausforderungen dar, verglichen mit der Recheninfrastruktur, auf 
-die Anbieter proprietärer Sprachmodelle zurückgreifen können?
+der Sprachmodelle des Projekts OpenEuroLLM, und wie stellen sich diese 
+Herausforderungen dar, verglichen mit der Recheninfrastruktur, auf die 
+Anbieter proprietärer Sprachmodelle zurückgreifen können?
  7. Welche Maßnahmen plant die Bundesregierung ggf., um deutschen
-Startups, KMU, Behörden und Forschungsinstituten den Zugang zu
-Rechenressourcen im Rahmen von Open Euro LLM erleichtern?
+Startups, kleinen und mittleren Unternehmen (KMU), Behörden und
+Forschungsinstituten den Zugang zu Rechenressourcen im Rahmen von 
+OpenEuroLLM zu erleichtern?
  8. Aus welchen Quellen stammen nach Kenntnis der Bundesregierung die 
 digitalen Daten, mit denen die zu entwickelnden Sprachmodelle des
-Projekts Open Euro LLM trainiert werden und werden dabei
+Projekts OpenEuroLLM trainiert werden, und werden dabei
 personenbezogene Daten, soweit sie in den Quellen vorkommen, pseudoanonymisiert 
-oder gar anonymisiert (siehe Vorbemerkung)?
+oder gar anonymisiert (siehe Vorbemerkung der Fragesteller)?
  9. Wie wird nach Kenntnis der Bundesregierung sichergestellt, dass die
-Trainingsdaten für das Projekt Open Euro LLM datenschutzkonform beschafft 
+Trainingsdaten für das Projekt OpenEuroLLM datenschutzkonform beschafft 
 und verarbeitet werden, insbesondere bei der Integration sensibler Daten 
 aus EU-Sprachräumen mit vergleichsweise wenigen aktiven Sprechern 
 und geringen finanziellen Ressourcen (bitte ausführen)?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 10. Existieren nationale Initiativen oder nach Kenntnis der Bundesregierung 
 Kooperationen mit Bibliotheken, Stiftungen und Archiven, um
-Trainingsdaten für das Projekt Open Euro LLM bereitzustellen und wenn ja, wie 
+Trainingsdaten für das Projekt OpenEuroLLM bereitzustellen, und wenn ja, wie 
 wird nach Kenntnis der Bundesregierung sichergestellt, dass solche
 Datensätze urheberrechtskonform verarbeitet werden (bitte ausführen)?
 11. Plant die Bundesregierung eine nationale Adoptionsstrategie, um ein 
-quelloffenes Sprachmodell des Projekts Open Euro LLM in der
+quelloffenes Sprachmodell des Projekts OpenEuroLLM in der
 öffentlichen Verwaltung, etwa als Chatbot, zu etablieren und so den Wettbewerb 
 mit proprietären Anbietern zu stärken (bitte ausführen)?
-12. Hat sich die Bundesregierung zu den Erfolgsaussichten des Projekts Open 
-Euro LLM im Wettbewerb mit proprietären Modellen, insbesondere
-hinsichtlich Leistung und Marktakzeptanz, beschäftigt und ggf. dazu eine 
-eigene Positionierung erarbeitet (wenn ja, bitte ausführen), und was wären 
-nach Einschätzung der Bundesregierung ggf. geeignete Kriterien, um die 
-Leistung und Marktakzeptanz eines quelloffenen Sprachmodells zu
-messen (bitte ausführen)?
+12. Hat sich die Bundesregierung mit den Erfolgsaussichten des Projekts 
+OpenEuroLLM im Wettbewerb mit proprietären Modellen, insbesondere 
+hinsichtlich Leistung und Marktakzeptanz, beschäftigt und sich ggf. dazu 
+eine eigene Positionierung erarbeitet (wenn ja, bitte ausführen), und was 
+wären nach Einschätzung der Bundesregierung ggf. geeignete Kriterien, 
+um die Leistung und Marktakzeptanz eines quelloffenen Sprachmodells 
+zu messen (bitte ausführen)?
 13. Welche Kriterien werden nach Kenntnis der Bundesregierung bei der
-Vergabe von Fördermitteln an deutsche Mitglieder im Open Euro LLM-
+Vergabe von Fördermitteln an deutsche Mitglieder im OpenEuroLLM-
 Konsortium angelegt, und wie wird der effiziente Einsatz dieser Mittel
 sichergestellt (bitte ausführen)?
 14. Wie wirkt sich nach Kenntnis der Bundesregierung die Finanzierung des 
-Projektes Open Euro LLM auf andere nationale KI-Projekte aus?
+Projektes OpenEuroLLM auf andere nationale KI-Projekte aus?
 Berlin, den 30. Januar 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
-ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+ISSN 0722-8333]
