@@ -25,24 +25,21 @@ unabhängig davon, ob ein konkreter Verdacht besteht. Sie berührt damit
 grundlegende Fragen des Vertrauens in die Vertraulichkeit digitaler Kommunikation 
 und der Reichweite staatlicher Datenerhebung in einer zunehmend
 digitalisierten Gesellschaft.
-Das Bundesverfassungsgericht hat sich in seiner Rechtsprechung zur
-Vorratsdatenspeicherung sowie zur massenhaften Erhebung und Speicherung von 
-Telekommunikations- und Verkehrsdaten wiederholt und grundlegend mit den 
-verfassungsrechtlichen Grenzen staatlicher Datensammlungen befasst. Es hat 
-dabei hervorgehoben, dass anlasslose, flächendeckende Speicherpflichten einen 
-besonders schwerwiegenden Eingriff in das Telekommunikationsgeheimnis 
-nach Artikel 10 GG und in das Recht auf informationelle Selbstbestimmung 
-darstellen. Solche Maßnahmen sind nach der Rechtsprechung des
-Bundesverfassungsgerichts nur unter äußerst strengen Voraussetzungen zulässig und
-bedürfen insbesondere einer tragfähigen Rechtfertigung hinsichtlich
-Erforderlichkeit, Angemessenheit, Zweckbindung, Datensicherheit sowie effektiven 
-Rechtsschutzes (BVerfG, Urteil vom 2. März 2010 – 1 BvR 256/08, 1 BvR 
-263/08, 1  BvR 586/08).
+Das Bundesverfassungsgericht (BVerfG) hat sich in seiner Rechtsprechung zur 
+Vorratsdatenspeicherung sowie zur massenhaften Erhebung und Speicherung 
+von Telekommunikations- und Verkehrsdaten wiederholt und grundlegend mit 
+den verfassungsrechtlichen Grenzen staatlicher Datensammlungen befasst. Es 
+hat dabei hervorgehoben, dass anlasslose flächendeckende Speicherpflichten 
+einen besonders schwerwiegenden Eingriff in das
+Telekommunikationsgeheimnis nach Artikel 10 des Grundgesetzes (GG) und in das Recht auf
+informationelle Selbstbestimmung darstellen. Solche Maßnahmen sind nach der
+Rechtsprechung des Bundesverfassungsgerichts nur unter äußerst strengen
+Voraussetzungen zulässig und bedürfen insbesondere einer tragfähigen Rechtfertigung 
+hinsichtlich Erforderlichkeit, Angemessenheit, Zweckbindung, Datensicherheit 
+sowie effektiven Rechtsschutzes (BVerfG, Urteil vom 2. März 2010 – 1 BvR 
+256/08, 1 BvR 263/08, 1  BvR 586/08).
 Vor diesem Hintergrund stellt sich nach Ansicht der Fragesteller die zentrale 
 verfassungsrechtliche Frage, ob der nun vorgelegte Referentenentwurf diesen 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
 Maßstäben gerecht wird oder ob er in seinen Grundstrukturen erneut ein
 Regelungsmodell verfolgt, das das Bundesverfassungsgericht bereits als besonders 
 grundrechtsgefährdend bewertet hat. Insbesondere ist zu klären, ob die
@@ -62,7 +59,8 @@ Bundesverfassungsgerichts zur Vorratsdatenspeicherung sowie zur massenhaften Erh
 Speicherung von Telekommunikations- und Verkehrsdaten hält die
 Bundesregierung für auf den Referentenentwurf zur anlasslosen Speicherung 
 von IP-Adressen anwendbar, und welche hält sie ausdrücklich für nicht 
-einschlägig (bitte jeweils unter Angabe der maßgeblichen Erwägungen)?
+einschlägig (bitte jeweils unter Angabe der maßgeblichen Erwägungen 
+nennen)?
  2. Geht die Bundesregierung davon aus, dass die im Referentenentwurf
 vorgesehene anlasslose Speicherung von IP-Adressen einen Eingriff in das 
 Telekommunikationsgeheimnis nach Artikel 10 GG darstellt, wenn ja, wie 
@@ -79,7 +77,7 @@ dass die im Referentenentwurf vorgesehene anlasslose und
 flächendeckende Speicherung von IP-Adressen eine geringere Eingriffsintensität 
 aufweist als die vom Bundesverfassungsgericht beanstandeten Modelle 
 der Vorratsdatenspeicherung (bitte unter Angabe der maßgeblichen
-Abwägungsgesichtspunkte)?
+Abwägungsgesichtspunkte nennen)?
  5. Hält die Bundesregierung die anlasslose und unterschiedslose Erfassung 
 sämtlicher Internetnutzer nach Kenntnis der Bundesregierung für mit den 
 vom Bundesverfassungsgericht entwickelten Anforderungen an
@@ -88,17 +86,14 @@ ja, wie begründet sie diese Einschätzung, und wenn nein, welche
 verfassungsrechtlichen Einschränkungen sieht sie als erforderlich an?
  6. Berücksichtigt die Bundesregierung bei ihrer verfassungsrechtlichen
 Bewertung, dass durch die vorgesehene Speicherpflicht Daten einer großen 
-Zahl unbeteiligter Personen erfasst werden, und wenn ja, wie bewertet sie 
-die vom Bundesverfassungsgericht beschriebenen Gefahren struktureller 
+Zahl unbeteiligter Personen erfasst werden, wenn ja, wie bewertet sie die 
+vom Bundesverfassungsgericht beschriebenen Gefahren struktureller 
 Grundrechtsbeeinträchtigungen, und wenn nein, aus welchen Gründen 
 misst sie diesem Aspekt keine eigenständige Bedeutung bei?
  7. Welche konkreten tatsächlichen, empirischen oder statistischen
 Erkenntnisse liegen der Bundesregierung vor, die die Erforderlichkeit der
-vorgesehenen Speicherpflicht belegen, und falls solche Erkenntnisse nicht vor-
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-liegen, auf welche Annahmen oder Prognosen stützt sie ihre
+vorgesehenen Speicherpflicht belegen, und falls solche Erkenntnisse nicht
+vorliegen, auf welche Annahmen oder Prognosen stützt sie ihre
 Einschätzung?
  8. In wie vielen Fällen sind Ermittlungen nach Kenntnis der
 Bundesregierung bislang allein wegen fehlender gespeicherter IP-Adressen
@@ -113,12 +108,12 @@ auf eine solche Prüfung verzichtet?
 Verwendungsbeschränkungen sieht der Referentenentwurf vor, und hält die
 Bundesregierung diese für ausreichend, um den vom Bundesverfassungsgericht
 formulierten Anforderungen an eine strikte Zweckbindung zu genügen, wenn ja, 
-warum, und falls nein, welche zusätzlichen Sicherungen hält sie für
+warum, und wenn nein, welche zusätzlichen Sicherungen hält sie für
 erforderlich?
 11. Welche technischen und organisatorischen Maßnahmen sind im
 Referentenentwurf vorgesehen, um die vom Bundesverfassungsgericht
 hervorgehobenen Risiken von Missbrauch, Zweckentfremdung und unbefugtem 
-Zugriff auf die gespeicherten Daten zu minimieren und auf welcher 
+Zugriff auf die gespeicherten Daten zu minimieren, und auf welcher 
 Grundlage geht die Bundesregierung davon aus, dass diese Maßnahmen 
 effektiv sind?
 12. Wie stellt die Bundesregierung sicher, dass von der Speicherung
@@ -134,14 +129,8 @@ entscheidenden Gründe dafür, dass der Entwurf den vom
 Bundesverfassungsgericht gezogenen verfassungsrechtlichen Grenzen nicht erneut
 widerspricht, und auf welcher verfassungsrechtlichen Grundlage beruht diese 
 Einschätzung?
-Berlin, den 18.02.2026 [FELD!!]
+Berlin, den 30. Januar 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
