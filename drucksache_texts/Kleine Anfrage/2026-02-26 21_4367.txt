@@ -1,0 +1,175 @@
+Deutscher Bundestag Drucksache 21/4367
+21. Wahlperiode 26.02.2026
+Kleine Anfrage
+der Abgeordneten Robin Jünger, Ruben Rupp, Alexander Arpaschi, Sebastian 
+Maack, Tobias Ebenberger, Lars Haise, Edgar Naujok, Steffen Janich, Wolfgang 
+Wiehle, René Bochmann, Dr. Rainer Kraft, Alexis L. Giersch, Otto Strauß, 
+Maximilian Kneller, Ulrich von Zons, Stefan Henze und der Fraktion der AfD
+Zentrale internetbasierte Fahrzeugzulassung, digitaler Fahrzeugschein 
+und Datenaustauschprozesse (Statusabfragen) zwischen Registern und 
+Basisdiensten des Bundes
+Die Bundesregierung hat im Rahmen ihrer Modernisierungs- und
+Digitalisierungsagenda eine Reihe von Vorhaben angekündigt, die Verwaltungsleistungen 
+bürgernäher, schneller und durchgängig digital machen sollen. Dazu zählt nach 
+Darstellung der Bundesregierung ausdrücklich auch die Weiterentwicklung der 
+internetbasierten Fahrzeugzulassung sowie die Einführung eines zentralen
+Portals beim Kraftfahrt-Bundesamt, über das Bürger künftig an einer Stelle
+Fahrzeuge online an-, ab- und ummelden können (www.bundesregierung.de/breg-d
+e/aktuelles/fahrzeugschein-digital-2392706). Flankiert wird dieses Vorhaben 
+durch den Ausbau digitaler Dokumente und Wallet-Ansätze, in denen sich
+Personalausweis, Fahrzeugschein, Führerschein und weitere Nachweise digital 
+bündeln sollen (ebd.).
+Mit dem Start der i-Kfz-App und dem digitalen Fahrzeugschein wird zudem ein 
+weiterer Schritt in Richtung digitaler Nachweise im Mobilitätskontext
+öffentlich kommuniziert. Neben dem reinen Dokumenten-Mitführen werden
+Funktionen wie Termin-Erinnerungen sowie das Teilen eines Fahrzeugschein-Abbilds 
+beschrieben (ebd.). Solche Komfortfunktionen werfen nach Ansicht der
+Fragesteller die sachliche Frage auf, welche Datenflüsse technisch erforderlich sind 
+und ob hierfür regelmäßige maschinelle Statusprüfungen (Statusabfragen)
+zwischen Registern, Fachverfahren und Basisdiensten stattfinden (z. B. zur
+Aktualität von Zulassungsstatus, Halterdaten, Hauptuntersuchungsdaten oder
+Versicherungsinformationen). In einer föderalen Zulassungslandschaft mit
+kommunalen Zulassungsbehörden ist außerdem klärungsbedürftig, wie ein zentrales 
+Portal beim Kraftfahrt-Bundesamt mit bestehenden Länder- und
+Kommunalverfahren zusammenspielen soll, welche Standards und Schnittstellen
+verpflichtend werden und welche Aufgaben dabei Bund, Länder und Kommunen jeweils 
+tragen.
+Das Bundesministerium für Digitales und Staatsmodernisierung (BMDS)
+beansprucht zugleich eine ressortübergreifende Rolle beim digitalen Fundament des 
+Staates, bei Standards, Schnittstellen, Plattformen sowie beim Deutschland-
+Stack als nationaler Technologieplattform für die digitale Verwaltung (https://b
+mds.bund.de/themen/digitaler-staat). In der föderalen Modernisierungsagenda 
+wird ebenfalls die Schaffung einer nationalen Technologieplattform (D-Stack) 
+und ein Monitoring der Umsetzungsfortschritte hervorgehoben (www.bundesre
+gierung.de/breg-de/aktuelles/foederale-modernisierungsagenda-2397632).
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+Daneben sind im Kontext der Verwaltungsdigitalisierung das Once-Only-
+Prinzip und Ende-zu-Ende-Digitalisierung als zentrale Leitlinien benannt; sie 
+zielen darauf, Mehrfachangaben zu vermeiden und medienbruchfreie Verfahren 
+zu ermöglichen (www.bmi.bund.de/DE/themen/moderne-verwaltung/verwaltun
+gsmodernisierung/onlinezugangsgesetz/onlinezugangsgesetz-node.html).
+Gerade weil der Mobilitätsbereich mit personenbezogenen Daten,
+Registerkopplungen und hohem Missbrauchsschutzbedarf verbunden ist, stellt sich aus 
+Sicht der Fragesteller die Frage, welche Architekturentscheidungen die
+Bundesregierung trifft, beispielsweise ob Statusänderungen strikt ereignisbasiert 
+(z. B. nur bei Anstoß durch Antrag bzw. Änderung) verarbeitet werden, oder ob 
+regelmäßige Abfragen zur Datenaktualisierung und Plausibilisierung
+vorgesehen sind und welche Rolle das BMDS dabei übernimmt hinsichtlich
+Standardisierung, Basisdiensten (Identitäts- und Nachweisdienste, Wallet-
+Komponenten, Schnittstellen) und dem Deutschland-Stack. Ebenfalls
+interessiert die Fragesteller, welche datenschutzrechtlichen und IT-
+sicherheitsrechtlichen Anforderungen angesetzt werden.
+Ein internationaler Vergleich kann zur sachlichen Einordnung beitragen. In
+Österreich sind digitale Nachweise über die App „eAusweise“ etabliert. Dabei 
+werden Nachweise über kurzzeitig gültige QR-Codes vorgewiesen und mit 
+einer staatlichen elektronischen Identität („ID Austria“) verknüpft (www.id-aus
+tria.gv.at/de/verwenden/eausweise und www.digitalaustria.gv.at/verwaltung/
+idaustria/eausweise.html). Für „digitale Zulassungsscheindaten“ existieren
+beschriebene Prüfprozesse, bei denen der Nachweisinhaber selektiv Daten freigibt 
+und die prüfende Stelle diese über einen QR-Code verifiziert (https://www.id-
+austria.gv.at/de/hilfe/hilfe-zur-app-eausweise/haeufige-fragen-
+eausweisedigitale-zulassungsscheindaten). Österreich benennt außerdem das Once-Only-
+Prinzip als strategischen Ansatz und beschreibt technische
+Plattformkomponenten zur Datenwiederverwendung (www.digitalaustria.gv.at/verwaltung/egovern
+ment/once-only-prinzip.html).
+Vor diesem Hintergrund stellt sich den Fragestellern die Frage, ob und wie die 
+Bundesregierung österreichische Ansätze (QR-Code-Nachweise, selektive
+Datenfreigabe, klare Prüfroutinen) bei der deutschen Ausgestaltung von Wallet- 
+und Zulassungsdiensten berücksichtigt, und ob in Deutschland – im Zuge
+zentraler Portale und Registerkopplungen – zusätzliche, regelmäßige
+Statusabfragen geplant sind, die über eine bloße fallbezogene Bearbeitung hinausgehen.
+Wir fragen die Bundesregierung:
+ 1. Welche konkreten Arbeitspakete, Meilensteine und Zuständigkeiten
+innerhalb der Bundesregierung bestehen zur Entwicklung eines zentralen
+Portals zur internetbasierten Fahrzeugzulassung beim Kraftfahrt-Bundesamt, 
+wie es von der Bundesregierung angekündigt wurde?
+ 2. Welche Rolle nimmt das Bundesministerium für Digitales und
+Staatsmodernisierung bei diesem Vorhaben ein, insbesondere mit Blick auf
+Standardisierung, Schnittstellen, Basisdienste und die Einbindung in den 
+Deutschland-Stack?
+ 3. Welche Bundesressorts und nachgeordneten Behörden sind nach Kenntnis 
+der Bundesregierung an der Konzeption und Umsetzung des zentralen
+Zulassungsportals beteiligt, und welche federführenden Gremien- oder
+Steuerungsstrukturen bestehen hierfür?
+ 4. Welche technische Zielarchitektur (z. B. zentral, föderiert, hybrid) verfolgt 
+die Bundesregierung für den Datenaustausch zwischen dem zentralen
+Portal, dem Kraftfahrt-Bundesamt, den Zulassungsbehörden sowie weiteren
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+beteiligten Stellen, und welche Standards sollen dabei verbindlich
+eingesetzt werden?
+ 5. Welche Arten von maschinellen Statusprüfungen („Statusabfragen“)
+zwischen Registern bzw. Fachverfahren und dem zentralen Portal bzw. der i-
+Kfz-App sind vorgesehen oder werden geprüft, insbesondere zur
+Aktualisierung von Zulassungsstatus, Halterdaten, Fahrzeugdaten,
+Hauptuntersuchungsinformationen oder Versicherungsinformationen?
+ 6. Erfolgen diese Statusprüfungen nach Planung der Bundesregierung
+ausschließlich ereignis- bzw. anlassbezogen (z. B. bei Antragstellung oder 
+Änderung) oder auch regelmäßig bzw. periodisch, und welche
+Frequenzen, Trigger und Protokollierungen sind jeweils vorgesehen?
+ 7. Welche Rechtsgrundlagen (Gesetze, Rechtsverordnungen oder
+Verwaltungsvorschriften) zieht die Bundesregierung für den Betrieb eines
+zentralen Zulassungsportals und die hierfür notwendigen Datenabfragen
+heran, und welche Änderungen werden hierfür in dieser Legislaturperiode 
+geplant?
+ 8. Welche datenschutzrechtlichen Bewertungen (insbesondere Datenschutz-
+Folgenabschätzungen) wurden für das zentrale Portal, die i-Kfz-App und 
+den digitalen Fahrzeugschein erstellt oder beauftragt, und wann werden 
+diese Bewertungen dem Deutschen Bundestag vorgelegt?
+ 9. Welche technischen und organisatorischen Maßnahmen zur IT-Sicherheit 
+(u. a. Authentifizierung, Zugriffskontrolle, Protokollierung,
+Missbrauchserkennung) sind für das zentrale Portal und die angebundenen
+Basisdienste vorgesehen, und welche Rolle spielen dabei Bundesstandards und die 
+Standardisierungsarbeit des BMDS?
+10. Welche Identitäts- und Nachweisdienste (einschließlich Wallet-
+Komponenten) sollen nach Planung der Bundesregierung im Kontext von 
+digitalem Fahrzeugschein, perspektivisch digitalem Führerschein und 
+einer „digitalen Brieftasche“ genutzt werden, und welche Zuständigkeiten 
+liegen hierbei beim BMDS?
+11. Welche Zeitplanung verfolgt die Bundesregierung zur Bereitstellung eines 
+nationalen digitalen Führerscheins bis Ende 2026 sowie zur Integration in 
+die i-Kfz-App bzw. in Wallet-Strukturen, und welche Abhängigkeiten
+bestehen dabei zu europäischen Vorgaben der EUDI-Wallet?
+12. Welche Maßnahmen unternimmt die Bundesregierung ggf., um im Sinne 
+von Once-Only-Prinzip und Ende-zu-Ende-Digitalisierung
+Mehrfachangaben zu vermeiden, ohne dabei unverhältnismäßige Registerkopplungen 
+oder übermäßige Statusabfragen zu etablieren?
+13. Wie viele kommunale Zulassungsbehörden betreiben nach Kenntnis der 
+Bundesregierung derzeit eigene Online-Portale bzw. i-Kfz-Zugänge, und 
+welche Umstellungs- oder Migrationsbedarfe entstehen durch ein
+zentrales Portal beim Kraftfahrt-Bundesamt?
+14. Welche Kosten (einmalig und laufend) veranschlagt die Bundesregierung 
+für Entwicklung, Betrieb, Wartung, IT-Sicherheit und Monitoring des
+zentralen Portals sowie der hierfür notwendigen Basisdienste, und aus
+welchen Einzelplänen bzw. Titeln sollen diese finanziert werden?
+15. Welche Vergabe- und Beschaffungsmaßnahmen (u. a. externe
+Dienstleister, Cloud-Leistungen, Betriebsleistungen) wurden im Zusammenhang mit 
+zentralem Portal, i-Kfz-App, digitalem Fahrzeugschein und Wallet-
+Komponenten bereits eingeleitet oder abgeschlossen, und welche Rolle 
+spielt dabei der Deutschland-Stack als Technologieplattform?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+16. Inwiefern berücksichtigt die Bundesregierung bei der Ausgestaltung des 
+deutschen Ansatzes ggf. die österreichische Umsetzung digitaler
+Nachweise über QR-Codes in der App „eAusweise“ sowie die dort
+beschriebenen Prüfprozesse für digitale Zulassungsscheindaten?
+17. Welche technischen und rechtlichen Unterschiede bestehen nach Kenntnis 
+der Bundesregierung zwischen dem österreichischen Ansatz (QR-
+Codebasierte selektive Datenfreigabe durch den Nachweisinhaber) und dem 
+deutschen Ansatz (i-Kfz-App/digitaler Fahrzeugschein, zentrales Portal), 
+insbesondere hinsichtlich Datenminimierung, Protokollierung und
+möglicher Statusabfragen?
+18. Welche Mechanismen plant die Bundesregierung ggf., um Transparenz 
+und parlamentarische Kontrolle über Umfang, Zweck, Häufigkeit und
+Zugriffsberechtigte von Datenabfragen im Kontext zentraler
+Fahrzeugzulassung, digitalem Fahrzeugschein und Wallet-Komponenten sicherzustellen, 
+insbesondere im Rahmen des in der föderalen Modernisierungsagenda
+angekündigten Monitorings?
+Berlin, den 24. Februar 2026
+Dr. Alice Weidel, Tino Chrupalla und Fraktion
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
