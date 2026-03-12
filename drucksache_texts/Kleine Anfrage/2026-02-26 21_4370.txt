@@ -3,18 +3,19 @@ Deutscher Bundestag Drucksache 21/4370
 Kleine Anfrage
 der Abgeordneten Jan Wenzel Schmidt, Uwe Schulz, Dr. Malte Kaufmann, Bernd 
 Schattner, Marc Bernhard, Christian Reck, Adam Balten und der Fraktion der AfD
-Transparenz und Darstellung von Gasspeicherfüllständen: Datenquellen, 
+Transparenz und Darstellung von Gasspeicherfüllständen – Datenquellen, 
 Farblegenden, Kommunikationsstandards und Änderungen der Visualisierung
 In der öffentlichen Kommunikation zur Gasversorgung spielen tagesaktuelle 
 Darstellungen von Gasspeicherfüllständen eine wesentliche Rolle. Die
 Bundesnetzagentur veröffentlicht hierzu fortlaufend Visualisierungen und weist als
-Datenquelle u. a. AGSI+ aus (www.bundesnetzagentur.de/DE/Gasversorgung/aktu
-elle_gasversorgung/start.html).
+Datenquelle u. a. AGSI+ (Aggregated Gas Storage Inventory) aus (www.bundesne
+tzagentur.de/DE/Gasversorgung/aktuelle_gasversorgung/start.html).
 Gasspeicher in Deutschland unterliegen stichtagsbezogenen
-Mindestfüllständen. Die GasSpFüllstV sieht im Regelfall u. a. 80 Prozent zum 1. November 
-sowie 30 Prozent zum 1. Februar vor; für einzelne Speicher gelten abweichende 
-Werte (www.gesetze-im-internet.de/gasspf_llstv_2025/BJNR0820A0025.html, 
-www.eon.de/de/gk/energiewissen/gasspeicher-fuellstaende-und-umlagen.html).
+Mindestfüllständen. Die Gasspeicherfüllstandsverordnung (GasSpFüllstV) sieht im Regelfall 
+u. a. 80 Prozent zum 1. November sowie 30 Prozent zum 1. Februar vor; für 
+einzelne Speicher gelten abweichende Werte (www.gesetze-im-internet.de/gass
+pf_llstv_2025/BJNR0820A0025.html, www.eon.de/de/gk/energiewissen/gassp
+eicher-fuellstaende-und-umlagen.html).
 Vor diesem Hintergrund ist aus Sicht der Fragesteller eine transparente,
 methodisch nachvollziehbare und konsistente Visualisierungspraxis erforderlich.
 Wir fragen die Bundesregierung:
@@ -23,25 +24,26 @@ Wir fragen die Bundesregierung:
 Gasspeicherfüllständen, und welche konkreten Produkte bzw. Unterseiten 
 sind dies (bitte auflisten)?
  2. Welche Datenquellen werden für diese Veröffentlichungen jeweils genutzt 
-(z. B. AGSI+, Betreiberangaben, INES-Daten), und welche
-Datenübernahme erfolgt technisch (API, Download/CSV, manuelle Übernahme)?
- 3. Welche Farblegenden (z. B. rot/gelb/grün und deren Abstufungen) werden 
-in den unter Frage 1 genannten Veröffentlichungen verwendet, und welche 
-Schwellenwerte (in %) sind diesen Legenden jeweils zugeordnet?
- 4. Wurden seit dem 1. Januar 2024 in den unter Frage 1 genannten
-Veröffentlichungen Schwellenwerte, Farbstufenanzahl oder Zuordnungen der 
-Farblegenden geändert, und wenn ja, wann, wo und mit welcher
-Begründung (bitte Änderungen tabellarisch nach Produkt/Datum/
+(z. B. AGSI+, Betreiberangaben, INES (Initiative Energien Speichern)-
+Daten), und welche Datenübernahme erfolgt technisch (API (Application 
+Programming Interface), Download bzw. CSV (Comma-Separated Va
+lues), manuelle Übernahme)?
+ 3. Welche Farblegenden (z. B. rot, gelb, grün und deren Abstufungen)
+werden in den in Frage 1 genannten Veröffentlichungen verwendet, und 
+welche Schwellenwerte (in Prozent) sind diesen Legenden jeweils
+zugeordnet?
+ 4. Wurden seit dem 1. Januar 2024 in den in Frage 1 genannten
+Veröffentlichungen Schwellenwerte, Farbstufenanzahl oder Zuordnungen der
+Farblegenden geändert, und wenn ja, wann, wo, und mit welcher Begründung 
+(bitte Änderungen tabellarisch nach Produkt bzw. Datum bzw.
 Änderungsinhalt darstellen)?
  5. Welche Stelle ist innerhalb der Bundesregierung bzw. der jeweiligen
 Behörde fachlich verantwortlich für die Festlegung bzw. Änderung der
 Farblegenden und Visualisierungslogik (bitte Zuständigkeiten und
 Freigabeprozesse darstellen)?
  6. Nach welchen fachlichen Standards bzw. Leitlinien (z. B.
-Risikokommunikation, Human Factors, Barrierefreiheit) werden Farblegenden für kriti-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-sche Infrastrukturdaten gestaltet, und wie wird geprüft, dass Darstellungen 
+Risikokommunikation, Human Factors, Barrierefreiheit) werden Farblegenden für
+kritische Infrastrukturdaten gestaltet, und wie wird geprüft, dass Darstellungen 
 nicht missverständlich sind?
  7. Erfolgt die Bewertung „kritisch/unkritisch“ in behördlichen Darstellungen 
 anhand absoluter Füllstände oder relativ zu gesetzlichen
@@ -58,14 +60,14 @@ bevor diese in behördliche Kommunikation einfließen (Monitoring, Change-
 Logs, Ansprechpartner, Versionsprüfung)?
 10. Hat die Bundesregierung Kenntnis darüber, ob AGSI+ bzw. deren
 Betreiber in den letzten 24 Monaten die Farblegende oder Schwellenwerte
-verändert hat, und falls ja, welche Informationen liegen der Bundesregierung 
-hierzu vor (Datum, Begründung, Kommunikationsweg)?
+verändert hat, und wenn ja, welche Informationen liegen der
+Bundesregierung hierzu vor (Datum, Begründung, Kommunikationsweg)?
 11. Plant die Bundesregierung, in behördlichen Darstellungen zusätzlich zu 
 Prozentwerten auch absolute Energiemengen (z. B. TWh) sowie
 volumengewichtete Kennzahlen zu veröffentlichen, um Interpretationsfehler durch 
 unterschiedliche Speichergrößen zu reduzieren?
 a) Wenn ja, in welchem Zeitplan?
-b) Wenn nein, welche Begründung führt die Bundesregierung an diese 
+b) Wenn nein, welche Begründung führt die Bundesregierung an, diese 
 nicht anzugeben und zu veröffentlichen?
 12. Welche gesetzlich vorgegebenen Mindestfüllstände (inklusive Ausnahmen 
 für bestimmte Speicher) gelten nach GasSpFüllstV aktuell zu den
@@ -81,5 +83,3 @@ Dr. Alice Weidel, Tino Chrupalla und Fraktion
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.

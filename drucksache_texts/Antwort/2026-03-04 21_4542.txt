@@ -1,0 +1,228 @@
+Deutscher Bundestag Drucksache 21/4542
+21. Wahlperiode 04.03.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Tobias Matthias Peterka, Stephan 
+Brandner, Stefan Möller, weiterer Abgeordneter und der Fraktion der AfD
+– Drucksache 21/4159 –
+Anlasslose IP-Adressspeicherung und die verfassungsrechtlichen Grenzen der 
+Vorratsdatenspeicherung
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Mit dem vorliegenden Referentenentwurf zur anlasslosen Speicherung von IP-
+Adressen (www.bmjv.de/SharedDocs/Downloads/DE/Gesetzgebung/RefE/Ref
+E_IP_Speicherung.pdf?__blob=publicationFile&v=2) beabsichtigt die
+Bundesregierung, Internetzugangsanbieter zu verpflichten, IP-Adressen und
+zugehörige Zuordnungsdaten sämtlicher Nutzer für einen Zeitraum von drei
+Monaten zu speichern. Ziel des Vorhabens ist nach Darstellung der Bundesregierung 
+die Verbesserung der Strafverfolgung im digitalen Raum.
+Eine solche Speicherpflicht betrifft jedoch ausnahmslos alle Internetnutzer, 
+unabhängig davon, ob ein konkreter Verdacht besteht. Sie berührt damit 
+grundlegende Fragen des Vertrauens in die Vertraulichkeit digitaler
+Kommunikation und der Reichweite staatlicher Datenerhebung in einer zunehmend
+digitalisierten Gesellschaft.
+Das Bundesverfassungsgericht (BVerfG) hat sich in seiner Rechtsprechung 
+zur Vorratsdatenspeicherung sowie zur massenhaften Erhebung und
+Speicherung von Telekommunikations- und Verkehrsdaten wiederholt und
+grundlegend mit den verfassungsrechtlichen Grenzen staatlicher Datensammlungen 
+befasst. Es hat dabei hervorgehoben, dass anlasslose flächendeckende
+Speicherpflichten einen besonders schwerwiegenden Eingriff in das
+Telekommunikationsgeheimnis nach Artikel 10 des Grundgesetzes (GG) und in das Recht 
+auf informationelle Selbstbestimmung darstellen. Solche Maßnahmen sind 
+nach der Rechtsprechung des Bundesverfassungsgerichts nur unter äußerst 
+strengen Voraussetzungen zulässig und bedürfen insbesondere einer
+tragfähigen Rechtfertigung hinsichtlich Erforderlichkeit, Angemessenheit,
+Zweckbindung, Datensicherheit sowie effektiven Rechtsschutzes (BVerfG, Urteil vom 
+2. März 2010 – 1 BvR 256/08, 1 BvR 263/08, 1 BvR 586/08).
+Vor diesem Hintergrund stellt sich nach Ansicht der Fragesteller die zentrale 
+verfassungsrechtliche Frage, ob der nun vorgelegte Referentenentwurf diesen 
+Maßstäben gerecht wird oder ob er in seinen Grundstrukturen erneut ein
+Regelungsmodell verfolgt, das das Bundesverfassungsgericht bereits als besonders 
+grundrechtsgefährdend bewertet hat. Insbesondere ist zu klären, ob die
+anlasslose Speicherung von IP-Adressen – auch bei einer formalen Beschränkung 
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums der Justiz und für
+Verbraucherschutz vom 3. März 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+auf bestimmte Datenkategorien – in ihrer Wirkung von früheren Formen der 
+Vorratsdatenspeicherung tatsächlich abweicht oder lediglich unter neuer
+Bezeichnung fortgeführt wird.
+Angesichts der früheren verfassungsgerichtlichen Beanstandungen
+entsprechender Regelungsansätze besteht nach Ansicht der Fragesteller ein
+besonderes öffentliches Interesse an der Frage, welche Lehren die Bundesregierung 
+aus der Rechtsprechung des Bundesverfassungsgerichts gezogen hat, auf
+welcher verfassungsrechtlichen Grundlage sie den Entwurf für zulässig hält und 
+ob sie erneut ein verfassungsrechtliches Scheitern in Kauf nimmt.
+ 1. Welche tragenden Gründe der Rechtsprechung des
+Bundesverfassungsgerichts zur Vorratsdatenspeicherung sowie zur massenhaften Erhebung 
+und Speicherung von Telekommunikations- und Verkehrsdaten hält die 
+Bundesregierung für auf den Referentenentwurf zur anlasslosen
+Speicherung von IP-Adressen anwendbar, und welche hält sie ausdrücklich für 
+nicht einschlägig (bitte jeweils unter Angabe der maßgeblichen
+Erwägungen nennen)?
+ 2. Geht die Bundesregierung davon aus, dass die im Referentenentwurf
+vorgesehene anlasslose Speicherung von IP-Adressen einen Eingriff in das 
+Telekommunikationsgeheimnis nach Artikel 10 GG darstellt, wenn ja, 
+wie bewertet sie die Schwere dieses Eingriffs, und wenn nein, aus
+welchen verfassungsrechtlichen Gründen verneint sie einen solchen
+Eingriff?
+ 3. Sieht die Bundesregierung strukturelle Gemeinsamkeiten zwischen dem 
+vorliegenden Referentenentwurf und den Regelungen zur
+Vorratsdatenspeicherung, die Gegenstand früherer Entscheidungen des
+Bundesverfassungsgerichts waren, wenn ja, welche Unterschiede hält sie für rechtlich 
+entscheidend, und wenn nein, aus welchen Gründen verneint sie eine 
+strukturelle Vergleichbarkeit?
+ 4. Auf welche konkreten Kriterien stützt die Bundesregierung die
+Annahme, dass die im Referentenentwurf vorgesehene anlasslose und
+flächendeckende Speicherung von IP-Adressen eine geringere Eingriffsintensität 
+aufweist als die vom Bundesverfassungsgericht beanstandeten Modelle 
+der Vorratsdatenspeicherung (bitte unter Angabe der maßgeblichen
+Abwägungsgesichtspunkte nennen)?
+ 5. Hält die Bundesregierung die anlasslose und unterschiedslose Erfassung 
+sämtlicher Internetnutzer nach Kenntnis der Bundesregierung für mit den 
+vom Bundesverfassungsgericht entwickelten Anforderungen an
+Anlassbezogenheit und Zielgerichtetheit staatlicher Datenerhebung vereinbar, 
+wenn ja, wie begründet sie diese Einschätzung, und wenn nein, welche 
+verfassungsrechtlichen Einschränkungen sieht sie als erforderlich an?
+ 6. Berücksichtigt die Bundesregierung bei ihrer verfassungsrechtlichen
+Bewertung, dass durch die vorgesehene Speicherpflicht Daten einer großen 
+Zahl unbeteiligter Personen erfasst werden, wenn ja, wie bewertet sie die 
+vom Bundesverfassungsgericht beschriebenen Gefahren struktureller 
+Grundrechtsbeeinträchtigungen, und wenn nein, aus welchen Gründen 
+misst sie diesem Aspekt keine eigenständige Bedeutung bei?
+Fragen 1 bis 6 sowie 9 bis 13 werden aufgrund des Sachzusammenhangs
+gemeinsam beantwortet.
+Es ist nicht Bestandteil der parlamentarischen Kontrollfunktion des
+Bundestages, frei verfügbare Informationen durch die Bundesregierung
+zusammentragen und anschaulich aufbereiten zu lassen. Der Entwurf eines Gesetzes zur
+Einführung einer IP-Adressspeicherung und Weiterentwicklung der Befugnisse zur
+Datenerhebung im Strafverfahren des Bundesministeriums der Justiz und für 
+Verbraucherschutz ist seit dem 22. Dezember 2025 öffentlich unter dem in der 
+Frage aufgeführten Link verfügbar, einschließlich der Darstellung der diesen 
+Entwurfsinhalten zugrunde liegenden maßgeblichen Erwägungen zur
+Begründung (allgemeine Erwägungen in Begründung Allgemeiner Teil, vergleiche 
+Seite 21 folgende; Erwägungen zu einzelnen Regelungen in der Begründung 
+Besonderer Teil, vergleiche Seite 27 folgende), dies beinhaltet auch
+Erwägungen zur Berücksichtigung der einschlägigen Rechtsprechung des
+Bundesverfassungsgerichts. Im Übrigen dient das parlamentarische Fragerecht auch nicht der 
+Erörterung abstrakter Rechtsfragen, weshalb die Bundesregierung zu abstrakten 
+Rechtsfragen zur Rechtsprechung des Bundesverfassungsgerichts nicht
+Stellung nimmt.
+Die Bundesregierung weist im Übrigen darauf hin, dass sie in der Regel auch 
+keine Pflicht trifft, parlamentarischen Informationswünschen zu entsprechen, 
+wenn die Information zu einem Mitregieren Dritter bei Entscheidungen führen 
+kann, die in der alleinigen Kompetenz der Regierung liegen (BVerfGE 124, 78 
+[120 f.]; 137, 185 [234]). Die Kontrollkompetenz des Parlaments erstreckt sich 
+daher grundsätzlich nur auf bereits abgeschlossene Vorgänge und umfasst nicht 
+die Befugnis, in laufende Verhandlungen und Entscheidungsvorbereitungen 
+einzugreifen (BVerfGE 124, 78 [121]; 137, 185 [234 f.]). Derzeit findet die 
+Auswertung der Stellungnahmen aus der Länder- und Verbändebeteiligung 
+statt. Die Meinungsbildung innerhalb der Bundesregierung, ob im Lichte der 
+Stellungnahmen noch Änderungen an dem Entwurf vorzunehmen sind, ist noch 
+nicht abgeschlossen.
+ 7. Welche konkreten tatsächlichen, empirischen oder statistischen
+Erkenntnisse liegen der Bundesregierung vor, die die Erforderlichkeit der
+vorgesehenen Speicherpflicht belegen, und falls solche Erkenntnisse nicht
+vorliegen, auf welche Annahmen oder Prognosen stützt sie ihre
+Einschätzung?
+ 8. In wie vielen Fällen sind Ermittlungen nach Kenntnis der
+Bundesregierung bislang allein wegen fehlender gespeicherter IP-Adressen
+gescheitert?
+Fragen 7 und 8 werden aufgrund des Sachzusammenhangs gemeinsam
+beantwortet.
+Die Bundesregierung hat sowohl empirische als auch praxisfallbezogene
+Erkenntnisse in Bezug auf die Speicherpflicht herangezogen.
+So ist im Falle des NCMEC-Prozesses durch das Bundeskriminalamt (BKA) 
+eine Analyse der Hinweise im Jahr 2022 erfolgt. Bei dem NCMEC-Prozess 
+handelt es sich um die in den USA verpflichtende Meldung von Darstellungen 
+sexualisierter Gewalt, die sie bei freiwilligen Suchmaßnahmen auffinden, an 
+das National Center for Missing & Exploited Children (NCMEC), das
+seinerseits entsprechende Hinweise zum Zwecke der Strafverfolgung auch an das 
+BKA als deutsche Zentralstelle der deutschen Polizei übermittelt.
+Die Analyse der Erfolgsquoten ohne verpflichtende Speicherung von IP-
+Adressen ergab, dass in 41 Prozent der Vorgänge die IP-Adresse einem
+Nutzeranschluss für weitere Ermittlungen zugeordnet werden konnte, etwa 34 Prozent 
+der angelieferten IP-Adressen beim TK-Anbieter nicht mehr gespeichert und 
+weitere 24 Prozent aus anderen Gründen (etwa aufgrund einer zusätzlich zur 
+Identifizierung erforderlichen, aber nicht gespeicherten Portnummer) nicht 
+beauskunftbar waren.
+Die Erfolgsquoten aus dem NCMEC-Prozess sind aber auf Ermittlungen in
+anderen Kriminalitätsbereichen nicht übertragbar, bei denen tatrelevante IP-
+Adressen zum Teil erst später polizeilich bekannt werden oder durch (zeit-)
+aufwändige Maßnahmen zunächst ermittelt werden müssen.
+Auch zu der Frage der Erfolgsquote mit einer Speicherverpflichtung für IP-
+Adressen hat BKA eine technische Auswertung von etwa 66 000 NCMEC-
+Vorgängen aus dem Jahr 2022 durchgeführt.
+Diese ergab, dass die Erfolgsquote im NCMEC-Prozess durch eine einheitliche 
+gesetzliche Speicherverpflichtung von IP-Adressen (inklusive Portnummern) 
+hätte erheblich gesteigert werden können, wobei der Effekt in den ersten
+Wochen besonders signifikant wäre. So wäre die Erfolgsquote der Gewinnung von 
+Identifizierungsansätzen allein anhand der IP-Adressen 2022 bei einer
+einheitlichen Speicherverpflichtung für 14 Tage von ca. 41 Prozent auf über 80 Prozent 
+gestiegen.
+In allen anderen Bedarfslagen (beispielsweise Cybercrime, Organisierte
+Kriminalität, komplexe Ermittlungsverfahren im Bereich des sexuellen Missbrauchs 
+von Kindern und Jugendlichen), ist eine Begrenzung der Speicherfrist auf 
+wenige Wochen nicht ausreichend. Denn die notwendige Dauer der
+Speicherung steht insbesondere in Abhängigkeit des Zeitpunkts, an dem tatrelevante 
+IP-Adressen der Sicherheitsbehörde überhaupt erst bekannt werden. Erst in 
+dem Moment können die Ermittlungs- und Gefahrenabwehrbehörden anhand 
+der IP-Adresse eine Anfrage nach Bestandsdaten zum Kundenanschluss beim 
+Internetzugangsanbieter vornehmen. Dies ist von Fall zu Fall verschieden und 
+auch abhängig vom Kriminalitätsphänomen, wie schnell die
+Ermittlungsbehörde etwa durch Strafanzeige aus der Bevölkerung, durch die Meldung von
+Digitalen-Dienste-Anbietern, ein Ersuchen oder Hinweis aus dem Ausland oder
+anhand von Daten aus sichergestellten Datenträgern, von einer Straftat oder einer 
+Gefahrenlage und einer möglicherweise relevanten IP-Adresse erfährt.
+Teilweise müssen auch weiter zurückliegende Tatbeiträge aufgeklärt werden.
+Eine IP-Adresse muss folglich einem Anschluss mindestens für einen Zeitraum 
+zuzuordnen sein, der in vielen Phänomenbereichen einen für polizeiliche und 
+nachrichtendienstliche Zwecke tatsächlichen Mehrwert bietet. Es muss mit 
+Blick auf Opfer von online begangenen Straftaten und die Gefahren durch
+politischen Extremismus und Terrorismus sowie die Bedrohungen durch
+Spionageaktivitäten bestmöglich gewährleistet sein, dass die Sicherheitsbehörden den 
+vom Täter genutzten Anschluss feststellen zu können, um die Tat aufzuklären. 
+Die Praxiserfahrung zeigt, das mit einer Speicherdauer von drei Monaten
+voraussichtlich ein akzeptabler Teil der relevanten Fälle abgedeckt werden kann. 
+Die Speicherdauer könnte ausreichend sein, um in vielen Konstellationen eine 
+Verfügbarkeit der maßgeblichen Daten sicherzustellen.
+Zur Frage, in wie vielen Fällen Ermittlungen bislang allein wegen fehlender 
+gespeicherter IP-Adressen gescheitert sind, kann mitgeteilt werden, dass hierzu 
+keine Gesamtübersicht vorliegt. Aus dem oben dargestellten NCMEC-Prozess 
+kann jedoch mitgeteilt werden, dass im Jahr 2025 bei mehr als 12 700
+Vorgängen kein Ermittlungserfolg verzeichnet werden konnte, weil die IP-Adresse der 
+einzige Ermittlungsansatz war, diese beim Telekommunikationsanbieter aber 
+nicht mehr gespeichert war.
+ 9. Hat die Bundesregierung weniger eingriffsintensive Alternativen zur
+anlasslosen Speicherung von IP-Adressen geprüft, insbesondere
+anlassoder verdachtsbezogene Instrumente wie das sogenannte Quick-Freeze-
+Verfahren, wenn ja, aus welchen konkreten Gründen wurden diese
+Alternativen als nicht ausreichend angesehen, und wenn nein, weshalb wurde 
+auf eine solche Prüfung verzichtet?
+10. Welche Zugriffsvoraussetzungen, Zweckbindungen und
+Verwendungsbeschränkungen sieht der Referentenentwurf vor, und hält die
+Bundesregierung diese für ausreichend, um den vom Bundesverfassungsgericht
+formulierten Anforderungen an eine strikte Zweckbindung zu genügen, 
+wenn ja, warum, und wenn nein, welche zusätzlichen Sicherungen hält 
+sie für erforderlich?
+11. Welche technischen und organisatorischen Maßnahmen sind im
+Referentenentwurf vorgesehen, um die vom Bundesverfassungsgericht
+hervorgehobenen Risiken von Missbrauch, Zweckentfremdung und unbefugtem 
+Zugriff auf die gespeicherten Daten zu minimieren, und auf welcher 
+Grundlage geht die Bundesregierung davon aus, dass diese Maßnahmen 
+effektiv sind?
+12. Wie stellt die Bundesregierung sicher, dass von der Speicherung
+betroffene Personen über Art, Umfang und Verwendung ihrer IP-Adressen
+informiert werden und effektiven Rechtsschutz gegen Speicherung und 
+Abruf dieser Daten erlangen können, und falls entsprechende
+Informations- oder Rechtsschutzmöglichkeiten nicht vorgesehen sind, aus welchen 
+verfassungsrechtlichen Erwägungen wird darauf verzichtet?
+13. Welche konkreten Lehren zieht die Bundesregierung aus der bisherigen 
+Rechtsprechung des Bundesverfassungsgerichts zur
+Vorratsdatenspeicherung für den vorliegenden Referentenentwurf, worin sieht sie die
+entscheidenden Gründe dafür, dass der Entwurf den vom
+Bundesverfassungsgericht gezogenen verfassungsrechtlichen Grenzen nicht erneut
+widerspricht, und auf welcher verfassungsrechtlichen Grundlage beruht 
+diese Einschätzung?
+Es wird auf die Antwort zu Fragen 1 bis 6 verwiesen.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

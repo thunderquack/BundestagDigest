@@ -1,0 +1,113 @@
+Deutscher Bundestag Drucksache 21/4547
+21. Wahlperiode 04.03.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Matthias Rentzsch, Rocco Kever, Denis 
+Pauli, weiterer Abgeordneter und der Fraktion der AfD
+– Drucksache 21/4181 –
+Transparenzportal des Bundesministeriums für wirtschaftliche Zusammenarbeit 
+und Entwicklung – Pflege, Löschungen und Datenlage der Förder- bzw. 
+Projektlisten
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Das Transparenzportal des Bundesministeriums für wirtschaftliche
+Zusammenarbeit und Entwicklung (BMZ) hat den Zweck, umfassende, transparente 
+und aktuelle Informationen über verausgabte Mittel und Projekte des BMZ
+bereitzustellen (vgl. www.bmz.de/de/ministerium/zahlen-fakten/bmz-transparen
+zportal). Schwankende Projektzahlen und nachträgliche Löschungen werfen 
+Fragen nach der Datenqualität, Verlässlichkeit und den internen Prozessen auf, 
+die für die parlamentarische Kontrolle und für die Öffentlichkeit von
+erheblicher Bedeutung sind.
+1. Welches Referat bzw. welche fachliche Einheit innerhalb des BMZ ist
+verantwortlich für die Pflege, Aktualisierung und Qualitätssicherung der
+Projektdaten im Transparenzportal, und wie ist die interne organisatorische 
+Einordnung dieses Referats (hierarchische Stellung, übergeordnete
+Abteilungen bzw. Referate)?
+Das Transparenzportal basiert auf den IATI-Daten. Bei den IATI-Daten handelt 
+es sich um Daten zur Entwicklungszusammenarbeit des Bundesministeriums 
+für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ), die entsprechend 
+dem international abgestimmten Datenstandard der International Aid
+Transparency Initiative (IATI) veröffentlicht werden. Für die diesbezügliche
+Zuständigkeit wird auf den Organisationsplan des BMZ verwiesen, der unter www.bm
+z.de/de/ministerium/aufbau-und-struktur/organisationsplan-16042?msclkid=6fb
+e87d9c7cf11ec9d829ee53635222f abrufbar ist.
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für wirtschaftliche
+Zusammenarbeit und Entwicklung vom 4. März 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+2. Aus welchen Gründen werden im Transparenzportal des BMZ regelmäßig 
+Projekte im Nachhinein gelöscht, nach welchen internen Kriterien oder 
+Prozessen erfolgt eine Löschung von Projekteinträgen, und wie wird
+dokumentiert, warum ein Projekt gelöscht wurde (z. B. Fehlerkorrektur, 
+Doppelung, Rücknahme der Meldung durch die meldepflichtige Stelle)?
+Der Datensatz, die IATI-Meldung, wird jeden Monat automatisiert mittels
+verschiedener Skripte neu erzeugt und veröffentlicht. Im Zuge der Validierung
+anhand der Vorgaben des IATI-Datenstandards besteht die Möglichkeit, dass
+Datensätze nicht (mehr) aufgenommen werden, wenn sie nicht mehr den
+international vereinbarten IATI-Vorgaben entsprechen.
+3. In welcher Form liegen die Projektdaten bei dem zuständigen Referat vor 
+(z. B. Dateiformate, Datenbanken, interne Systeme), welche Personen 
+oder Funktionen innerhalb des Referats haben Weisungsbefugnis über die 
+Pflege und Veränderung dieser Daten (z. B. freigeben, korrigieren,
+löschen), und existieren verbindliche Arbeitsanweisungen oder SOPs
+(Standard Operating Procedures) für die Datenbearbeitung, wenn ja, seit wann, 
+und in welcher Form, und wenn nein, warum nicht?
+Die Daten, aus denen die IATI-Meldung erstellt wird, liegen im BMZ in einer 
+zentralen Datenbank vor. Das für die IATI-Daten zuständige Referat verfügt 
+über Leserechte.
+4. Wie erklärt die Bundesregierung den starken Anstieg der erfassten
+Projekte im Zeitraum von August bis Dezember 2025 (vgl. www.transparenzp
+ortal.bund.de/de/detailsuche?date_min=2025-01-01&daterange_mode=sta
+rted_between&date_max=2025-12-31; Ende August 2025 waren
+insgesamt 126 beginnende Projekte für das Jahr 2025 aufgeführt, während im 
+Dezember 2025 der Stand bei 1 798 beginnenden Projekten lag), welche 
+Abläufe, Fristen oder Meldeprozesse haben zu dieser Entwicklung
+geführt, liegt für diese zeitliche Verschiebung eine nachträgliche
+Berichtigung oder Korrektur von Daten vor, wenn ja, in welchem Umfang, und 
+aus welchen Gründen?
+Anhand der in der Frage verlinkten Suchergebnisse im Transparenzportal lässt 
+sich kein starker Anstieg erfasster Projekte zwischen August und Dezember 
+2025 feststellen. Die verlinkte Suche ergibt 2.224 Projekte mit Startdatum in 
+2025. Davon haben 1.395 Projekte (62,73 Prozent) ein Startdatum vor August 
+2025 (Quelle: IATI-Meldung vom 06.02.2026).
+5. Wie erklärt die Bundesregierung die erhebliche Zunahme der erfassten 
+Projekte im Zeitraum von August bis Dezember 2024 (vgl. www.transpare
+nzportal.bund.de/de/detailsuche?date_min=2024-01-01&date_max=2024-
+12-31&daterange_mode=started_between), welche Faktoren (z. B.
+Nachmeldungen, Systemanpassungen, Meldefristen der meldepflichtigen
+Stellen) tragen maßgeblich zu diesen Verschiebungen bei, und welche
+Maßnahmen werden ggf. ergriffen, um solche zeitlichen Unterschiede
+zwischen tatsächlichem Projektstand und Portalstand künftig zu minimieren?
+Anhand der in der Frage verlinkten Suchergebnisse im Transparenzportal lässt 
+sich kein erheblicher Anstieg erfasster Projekte zwischen August und
+Dezember 2024 feststellen. Die verlinkte Suche ergibt 2.364 Projekte mit Startdatum 
+in 2024. Davon haben 1.427 Projekte (60,36 Prozent) ein Startdatum vor
+August 2024 (Quelle: IATI-Meldung vom 06.02.2026).
+6. Welche Stellen innerhalb der Bundesregierung bzw. der
+Bundesverwaltung beschließen die im Transparenzportal aufgeführten Projekte formell 
+(z. B. Bundesministerium, Haushaltsausschuss, Ressortentscheidung), und 
+zu welchem Zeitpunkt gelten Projekte als „beschlossen“ im Sinne der
+Veröffentlichungspflicht im Transparenzportal?
+Es besteht keine rechtlich begründete Veröffentlichungspflicht von
+Projektdaten seitens des BMZ im Transparenzportal. Das BMZ veröffentlicht freiwillig 
+seine Maßnahmendaten nach Vorgaben des IATI-Datenstandards.
+Über die Finanzierung der im Transparenzportal veröffentlichten Projekte wird 
+im BMZ entschieden. Die Daten, die im Transparenzportal dargestellt sind,
+entsprechen den Vorgaben des IATI-Datenstandards. Der IATI-Datenstandard
+verfügt nicht über eine Definition oder ein Datenfeld, um das „Beschlussdatum“ 
+eines Projektes zu erfassen.
+7. Entspricht das im Transparenzportal angegebene Startdatum eines
+Projektes dem formellen Beschlussdatum des jeweiligen Projektes, wenn nein, 
+welches Datum wird im Transparenzportal konkret als Startdatum
+verwendet (z. B. Projektbeginn, Mittelabfluss, Vertragsabschluss), warum wird 
+kein gesondertes Feld bzw. keine Spalte für das Beschlussdatum der
+Projekte ausgewiesen, und plant die Bundesregierung, künftig das
+Beschlussdatum als eigenständige Information im Transparenzportal auszuweisen, 
+wenn nein, warum nicht?
+Das im Transparenzportal angegebene Startdatum entspricht dem Datenfeld
+activity date code 2 (actual start). Gemäß den international vereinbarten
+Vorgaben des IATI-Datenstandards kann hier der Beginn der operativen
+Projektumsetzung oder der des ersten Mittelabflusses erfasst werden. Der IATI-
+Datenstandard verfügt nicht über eine Definition oder ein Datenfeld, um das
+„Beschlussdatum“ eines Projektes zu erfassen.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
