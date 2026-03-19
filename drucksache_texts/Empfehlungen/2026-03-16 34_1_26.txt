@@ -1,0 +1,549 @@
+... 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln 
+Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de 
+ISSN 0720-2946 
+Bundesrat  Drucksache 34/1/26  
+ 
+ 
+16.03.26
+E m p f e h l u n g e n  
+der Ausschüsse 
+EU - AIS - DS - Fz - In - R - Wi
+zu Punkt ... der 1063. Sitzung des Bundesrates am 27. März 2026 
+Vorschlag für eine Verordnung des Europäischen Parlaments und 
+des Rates zur Änderung der Verordnungen (EU) 2016/679, (EU) 
+2018/1724, (EU) 2018/1725, (EU) 2023/2854 und der Richtlinien 
+2002/58/EG, (EU) 2022/2555 und (EU) 2022/2557 hinsichtlich der 
+Vereinfachung des digitalen Rechtsrahmens und zur Aufhebung 
+der Verordnungen (EU) 2018/1807, (EU) 2019/1150, (EU) 2022/868 
+und der Richtlinie (EU) 2019/1024 
+(Digital-Omnibus-Verordnung) 
+COM(2025) 837 final; Ratsdok. 15698/25 
+A 
+Der federführende Ausschuss für Fragen der Europäischen Union (EU), 
+der Ausschuss für Arbeit, Integration und Sozialpolitik (AIS), 
+der Ausschuss für Digitales und Staatsmodernisierung (DS), 
+der Ausschuss für Innere Angelegenheiten (In), 
+der Rechtsausschuss (R) und 
+der Wirtschaftsausschuss (Wi) 
+empfehlen dem Bundesrat, zu der Vorlage gemäß §§ 3 und 5 EUZBLG wie folgt 
+Stellung zu nehmen: 
+EU 
+Wi
+ ... 
+AIS 
+AIS 
+AIS 
+EU 
+R 
+AIS 
+AIS
+ ... 
+EU 
+In 
+EU 
+DS 
+EU 
+DS 
+EU 
+DS 
+EU 
+DS
+ ... 
+EU 
+DS 
+AIS 
+AIS 
+AIS
+ ... 
+Zu den vorgeschlagenen Änderungen in Artikel 3 des Vorschlags 
+Der Vorschlag grenzt Anonymisierung deutlicher gegen Pseudonymisierung ab. 
+Zutreffend präzisiert der Vorschlag den Begriff des Personenbezuges in
+Richtung des relativen Ansatzes (Absage an die Theorie des absoluten
+Personenbezuges, in diese Richtung auch EuGH, EDPS v SRB, Rechtssache C-413/23 P). 
+Der Vorschlag sorgt für eine Präzisierung, wann Daten „vernünftigerweise"
+einer Person zugeordnet werden können. Dabei wird an die zur Verfügung
+stehenden Mittel, mit denen eine Re-Identifizierung möglich ist, angeknüpft. Denn 
+diese Voraussetzungen können beim Verantwortlichen und in späteren
+Verarbeitungsprozessen unterschiedlich sein. Einmal pseudonymisierte Daten müssen 
+nicht zwangsweise in jedem Fall und für jede Person als personenbezogene
+Daten betrachtet werden. Die Pseudonymisierung kann andere Personen als den 
+Verantwortlichen nach den Umständen des Einzelfalls an einer Identifizierung 
+der betroffenen Person hindern (EuGH, aaO Randnummer 86). 
+Damit reagiert die Kommission auf das praktische Problem, dass es durch
+technischen Fortschritt immer einfacher wird, Daten zu reidentifizieren.   
+Die Empfehlung betrifft damit letztlich die systematische Fragestellung,
+inwieweit die Definitionen im normativen Teil der DSGVO angefüttert werden oder 
+in welchem Maß die Erwägungsgründe zur Auslegung heranzuziehen sind, um 
+den normativen Teil zu entlasten.  
+EU 
+In 
+EU 
+R 
+(bei
+Annahme 
+entfällt 
+Ziffer 19)
+ ... 
+Die im Verordnungsvorschlag vorgeschlagene Änderung der Definition von 
+personenbezogenen Daten (Artikel 4 Nummer 1 DSGVO) birgt in der
+vorgeschlagenen Formulierung die Gefahr von Rechtslücken und Rechtsunsicherheit. 
+Nach Auffassung des Bundesrates bedarf es hier einer Nachschärfung der
+Formulierung, insbesondere die Aufnahme von objektiven Kriterien, nach denen 
+eine hinreichende Wahrscheinlichkeit für die Identifizierung der Person besteht, 
+wäre unter Klarstellungsgesichtspunkten für den Anwendungsbereich der 
+DSGVO zu befürworten.
+Der Bundesrat stellt fest, dass die geplante Neudefinition personenbezogener 
+Daten pseudonymisierte Daten aus dem Schutzbereich der DSGVO herauslöst. 
+Darüber hinaus ermöglicht die Einführung neuer Ausnahmen in Artikel 9 
+DSGVO die Verarbeitung besonders sensibler und diskriminierungsanfälliger 
+Daten zum Training von KI-Modellen. 
+Der Bundesrat erachtet die in der Digital-Omnibus-Verordnung vorgesehenen 
+Änderungen an Artikel 9 DSGVO als höchst kritisch. Artikel 9 DSGVO schützt 
+Daten besonderer Kategorien (politische Meinungen, religiöse Überzeugungen, 
+sexuelle Orientierung usw.) und verbietet generell deren Verarbeitung. Dieser 
+Schutz gilt derzeit unabhängig davon, ob diese Daten ausdrücklich
+weitergegeben werden oder ob sie aus dem Verhalten einer Person abgeleitet werden,
+beispielsweise aus Online-Käufen oder den Likes für Online-Inhalte. 
+In 
+(entfällt 
+bei
+Annahme 
+von 
+Ziffer 18) 
+EU 
+R 
+AIS 
+AIS 
+(bei
+Annahme 
+entfällt 
+Ziffer 26)
+ ... 
+KI-Systeme leiten regelmäßig sensible Merkmale aus Website-Besuchen, 
+Kaufmustern und Aktivitäten in sozialen Medien ab. Der Bundesrat kritisiert 
+die geplante Aufhebung des Schutzes für solche abgeleitete Daten, die eine
+Profilerstellung auf der Grundlage sensibler, personenbezogener Daten legitimieren 
+würde. Damit würde genau dort der Schutz besonderer Kategorien
+personenbezogener Daten aufgehoben, wo algorithmische Diskriminierung am häufigsten 
+auftritt und vulnerable Gruppen (z. B. Kinder und Jugendliche) gefährdet sind. 
+Der Bundesrat stellt fest, dass die geplanten Änderungen die Privatsphäre und 
+die informationelle Selbstbestimmung gefährden und die Durchsetzung von
+Betroffenenrechten, z. B. in Hinblick auf die Berichtigung und Löschung von
+Daten, erschweren. Er fordert, diese Rechte sicherzustellen und
+Kontrollmöglichkeiten durch Aufsichtsbehörden zu gewährleisten. 
+Die vorgeschlagene Klarstellung der Möglichkeit zur Verarbeitung
+personenbezogener Daten auf Grundlage eines berechtigten Interesses für die Entwicklung 
+und den Einsatz von KI (Artikel 3 Nummer 15 des Verordnungsvorschlags – 
+Artikel 88c DSGVO) wird unter Rechtsklarheitsgesichtspunkten positiv
+bewertet. 
+Für die Datenverarbeitungen im Rahmen der Entwicklung und des Einsatzes 
+von KI sollten nach Auffassung des Bundesrates darüber hinaus aber funktional 
+äquivalente Betroffenenrechte vorgesehen werden, da die bestehenden Rechte 
+AIS 
+(bei
+Annahme 
+entfällt 
+Ziffer 26) 
+AIS 
+(bei
+Annahme 
+entfällt 
+Ziffer 26) 
+EU 
+R 
+(bei
+Annahme 
+entfällt 
+Ziffer 26) 
+EU 
+In 
+(entfällt 
+bei
+Annahme 
+von 
+Ziffer 22 
+oder 
+Ziffer 23 
+oder 
+Ziffer 24 
+oder 
+Ziffer 25)
+ ... 
+zum Teil nicht erfüllt werden können. Die Betroffenenrechte aus Artikel 15 bis 
+Artikel 17 sowie Artikel 21 und die Benachrichtigungspflicht nach Artikel 34 
+DSGVO sollten für Entwicklung und Einsatz von KI angepasst werden. 
+Darüber hinaus würde der vorgesehene Artikel 88c DSGVO durch Anknüpfung 
+an Artikel 6 Absatz 1 Unterabsatz 1 Buchstabe f DSGVO regelmäßig nicht für 
+öffentliche Stellen gelten, auch für diese wäre eine EU-einheitliche Regelung zu 
+befürworten. 
+Die Möglichkeit eines pauschalen Einwilligungserfordernisses aufgrund
+mitgliedstaatlichen Rechts, wie sie der Artikel 88c DSGVO vorsieht, sollte
+gestrichen werden, um Datenverarbeitungen nicht zu erschweren. Andernfalls reicht 
+die Einführung eines Einwilligungserfordernisses in einem einzigen
+Mitgliedstaat aus, um die einfache EU-weite Verwendung von personenbezogenen
+Daten zu verhindern. Für bestimmte Fallkonstellationen könnte eine Einwilligung 
+aber durchaus wünschenswert sein (zum Beispiel bestimmte personenbezogene 
+Daten in Sozialen Netzwerken). Dies müsste allerdings in dem
+Verordnungsvorschlag weiter präzisiert werden. 
+Der Bundesrat fordert dennoch die Kommission auf, den Artikel 15 DSGVO 
+auf weitergehende Vereinfachungen hin zu überprüfen. Eine solche Möglichkeit 
+könnte insbesondere darin bestehen, dass die Rechte aus Artikel 15 DSGVO
+innerhalb von zwei Jahren nur einmal kostenfrei geltend gemachten werden
+können. Zudem sollte erwogen werden, ob die vom Betroffenen zur Verfügung
+gestellten Daten und Kopien vom Auskunfts- und Kopienanspruch ausgenommen 
+werden können. 
+Es wird anerkannt, dass die Kommission mit ihren Vorschlägen zu Artikel 12 
+Absatz 5 und Artikel 13 Absatz 4 DSGVO Verantwortliche bei der Umsetzung 
+der datenschutzrechtlichen Transparenzpflichten und insbesondere bei der
+Umsetzung des Auskunftsanspruches entlasten möchte. Gerade im Interesse von 
+kleinen und mittleren Unternehmen (KMU), ehrenamtlich Tätigen und
+Behörden sollte die Kommission jedoch weitergehende Entlastungsmöglichkeiten in 
+diesem Bereich prüfen. Gemäß Artikel 15 Absatz 1 DSGVO hat die betroffene 
+Person das Recht, von dem Verantwortlichen eine Bestätigung darüber zu ver-
+EU 
+In
+ ... 
+langen, ob sie betreffende personenbezogene Daten verarbeitet werden. Ist dies 
+der Fall, so hat sie ein Recht auf Auskunft über diese personenbezogenen Daten 
+und auf die in der Aufzählung Buchstaben a bis h aufgeführten Informationen. 
+Nach Artikel 15 Absatz 3 Satz 1 DSGVO stellt der Verantwortliche eine Kopie 
+der personenbezogenen Daten zur Verfügung, die Gegenstand der Verarbeitung 
+sind. Gemäß Artikel 15 Absatz 4 DSGVO darf das Recht auf Erhalt einer Kopie 
+gemäß Absatz 3 die Rechte und Freiheiten anderer Personen nicht
+beeinträchtigen. Eine weitere Möglichkeit zur Entlastung dürfte etwa darin bestehen,
+diejenigen Daten und Kopien von den Ansprüchen aus Artikel 15 DSGVO
+auszunehmen, die die betroffene Person dem Verantwortlichen selbst zur Verfügung 
+gestellt hat. Schreiben, die von der betroffenen Person selbst übermittelt
+wurden, sollten der betroffenen Person im Rahmen der Auskunftserteilung nach
+Artikel 15 DSGVO nicht zur Verfügung gestellt werden. Die Daten Dritter
+müssten dadurch in diesen Schreiben auch nicht geschwärzt werden. Es wird davon 
+ausgegangen, dass der betroffenen Person die eigenen Schreiben vorliegen und 
+die damit übermittelten und beim Verantwortlichen verarbeiteten
+personenbezogenen Daten bekannt sind. Zudem könnte eine Steuerung über bestimmte 
+Kostenregelungen erfolgen. Beispielsweise könnte eine zur Verfügungsstellung 
+innerhalb von zwei Jahren kostenfrei sein. Alle Ansprüche darüber hinaus 
+könnten kostenpflichtig gemacht werden. 
+Darüber hinaus sollte der Ausnahmetatbestand des Artikels 13 Absatz 4 
+DSGVO über die vorgeschlagene Änderung hinaus dahingehend ergänzt
+werden, dass die Informationspflicht nicht besteht, soweit die Erteilung der
+Information sich als unmöglich erweist oder einen unverhältnismäßigen Aufwand
+erfordern würde. 
+EU 
+In
+ ... 
+Der Bundesrat empfiehlt, dass bezüglich Artikel 3 Nummer 7 des
+Verordnungsvorschlags Regelungen zu ergänzen, die den Grundrechte- und
+Diskriminierungsschutz sowie die Gleichstellung wirksam sicherstellen. 
+Er misst der Beibehaltung der menschlichen Aufsicht über automatisierte
+Entscheidungen im Zusammenhang mit Verträgen gemäß Artikel 22 DSGVO eine 
+hohe Bedeutung bei. Vollautomatisierte Entscheidungen sind nur dann für
+Verträge zulässig, wenn dies erforderlich ist, d. h., wenn eine Überprüfung durch 
+Menschen keine sinnvolle Alternative darstellt. 
+ Der Bundesrat ersucht die Kommission daher, Vorschläge zu erarbeiten, 
+wie die Aufsichtsstrukturen rechtsaktübergreifend stärker aus der
+Perspektive der betroffenen Unternehmen und Organisationen als Adressaten der 
+Pflichten konsolidiert werden können. Digitale und praxisnahe One-Stop-
+Shop-Lösungen und digitale Meldeportale sollten dabei als Standard über 
+die Rechtsakte hinweg etabliert werden. 
+b) Der Bundesrat fordert die Kommission zudem auf, Vorschläge für
+weitergehende Vereinfachungen bei Dokumentations- und Transparenzpflichten 
+bei risikoarmen Tätigkeiten vorzulegen. In der Praxis erschweren
+bürokratische Dokumentationspflichten und die Zersplitterung der Zuständigkeiten 
+für die EU-Datenrechtsakte – insbesondere für KMU und ehrenamtlich
+tätige Organisationen – die Umsetzung der Vorgaben. 
+c) Der Bundesrat bittet die Kommission, im Rahmen des Digital Omnibus
+einen Vorschlag aufzunehmen, der eine Regelung in der DSGVO zu räumlich 
+und zeitlich beschränkten Reallaboren nach Vorbild von Artikel 57 KI-
+Verordnung schafft. Diese Regelung sollte Erleichterungen im Hinblick auf 
+Einwilligungserfordernisse, den Grundsatz der Datensparsamkeit, die 
+Zweckbindung, Betroffenenrechte sowie Informations- oder
+Dokumentationspflichten umfassen. 
+AIS 
+AIS 
+EU 
+In
+ ... 
+d) Der Bundesrat erkennt an, dass die Kommission mit ihren Vorschlägen die 
+wissenschaftliche Forschung spürbar entlasten möchte. Neben der
+vorgeschlagenen Privilegierung bei den zweckändernden Weiterverarbeitungen 
+(Artikel 5 Absatz 1 Buchstabe b DSGVO – Artikel 3 Nummer 2 des
+Verordnungsvorschlags) und der Ausnahme von der Informationspflicht
+(Artikel 13 Absatz 5 DSGVO – Artikel 3 Nummer 6 des
+Verordnungsvorschlags) besteht jedoch ein grundlegender Bedarf für eine innovations- und 
+forschungsorientierte Ausgestaltung der DSGVO. 
+e) Daher fordert der Bundesrat die Kommission auf, für einen angemessenen 
+Ausgleich zwischen Datenschutz und Innovation/Forschung durch einen 
+Hinweis auf die Abwägungsoffenheit von Artikel 8 der Charta der
+Grundrechte in der Europäischen Union in der DSGVO zu sorgen. 
+f) Der Bundesrat ersucht die Kommission weiter, im Digital Omnibus zu
+prüfen, ob durch eine Änderung von Artikel 58 DSGVO den
+Aufsichtsbehörden ermöglicht werden kann, Verfahren aus Opportunitätserwägungen
+einstellen zu können. Bislang bleibt den Aufsichtsbehörden nur eine
+Verwarnung als „mildeste Einstellungsmöglichkeit“ (Artikel 58 Absatz 2
+Buchstabe a DSGVO). 
+g) Abschließend fordert der Bundesrat die Kommission auf, einen Vorschlag 
+vorzulegen, wie nach Vorbild des Cyber-Resilience-Acts und der KI-
+Verordnung auch die DSGVO die Hersteller und Anbieter von
+Standardlösungen künftig in die Verantwortung nehmen kann, damit die Anwender 
+unkompliziert und rechtssicher Standardlösungen nutzen können. 
+Begründung (nur gegenüber dem Plenum): 
+Die Forderungen entsprechen dem Auftrag an Bund und Länder aus dem
+Beschluss der MPK vom 4. Dezember 2025 (TOP 2.2., Föderale
+Modernisierungsagenda, Kapitel 2, Ziffer 166). Auch wenn die Vorschläge der
+Kommission in einzelnen Bereichen auf die Forderungen der MPK eingehen, bleiben 
+die Vorschläge insgesamt doch hinter den Änderungsbedarfen in der DSGVO 
+zurück. 
+EU 
+In
+ ... 
+Bei der Erstellung der Listen zur Erforderlichkeit einer Datenschutz-
+Folgenabschätzung sollte aber berücksichtigt werden, dass der Einsatz neuer 
+Technologien nicht allein als automatisch auslösendes Kriterium gelten kann. 
+Dies wäre technikfeindlich und würde aufgrund der Unschärfe des Begriffs der 
+neuen Technologie keine Rechtsklarheit schaffen. 
+Der Bundesrat fordert daher die Kommission auf, in den Regelungsvorschlag 
+eine praxistaugliche Rechtsgrundlage für die Anonymisierung aufzunehmen, 
+um für mehr Rechtssicherheit zu Gunsten von privaten Akteuren und der
+Verwaltung zu sorgen. Um dieses Regelungsziel umzusetzen, sind
+Regelungsoptionen im Erwägungsgrund 26, in Artikel 4 DSGVO oder durch Schaffung einer 
+entsprechenden Rechtsgrundlage zu erwägen. Des Weiteren sollte die
+Kommission in ihrem Vorschlag zu Artikel 41a DSGVO gegebenenfalls ergänzen, dass 
+der Europäische Datenschutzausschuss (EDSA) nicht nur für den Bereich der 
+Pseudonymisierung, sondern auch für die Anonymisierung klarstellende Listen 
+von Verfahren erarbeiten sollte, die anschließend die Kommission prüfen und in 
+einen Durchführungsrechtsakt überführen kann.     
+Begründung (nur gegenüber dem Plenum): 
+Die Empfehlung beruht auf dem Auftrag aus dem Beschluss der MPK vom 
+EU 
+In 
+EU 
+In
+ ... 
+4. Dezember 2025 (TOP 2.2. Föderale Modernisierungsagenda, Kapitel 2,
+Ziffer 166). Demnach sollen sich Bund und Länder im Zuge der DSGVO-Reform 
+insbesondere einsetzen für eine neue praxistaugliche Regelung zur
+Anonymisierung in der DSGVO. Auch mit der Entschließung vom 26. September 2025 
+(BR-Drucksache 252/25 (Beschluss)) hat der Bundesrat bekräftigt, dass die 
+Anonymisierung eine Methode ist, personenbezogene Daten
+datenschutzkonform zu nutzen. Zur Beseitigung von Rechtsunsicherheiten für öffentliche und 
+private Akteure im Umgang mit anonymisierten Datensätzen sei daher eine 
+praxistaugliche, gesetzliche Regelung erforderlich (BR-Drucksache 292/25 
+(Beschluss), Nummer 12 Buchstabe b)). 
+Diese Regelungsziele deckt der Vorschlag der Kommission zu Artikel 41a 
+DSGVO nicht vollständig ab. Der Vorschlag betrifft zum einen nur den
+Bereich der Pseudonymisierung. Ein entsprechender Bedarf für verbindliche
+Listen dürfte jedoch gleichermaßen für Anonymisierungsverfahren bestehen. Des 
+Weiteren besteht Rechtsunsicherheit zur Verarbeitungsgrundlage für die
+Anonymisierung. Daher sollte die Kommission ihren Vorschlag zu einer
+praxistauglichen Rechtsgrundlage für die Anonymisierung erweitern, um für mehr 
+Rechtssicherheit zu Gunsten von privaten Akteuren und der Verwaltung zu 
+sorgen. 
+EU 
+In
+ ... 
+36. Der Bundesrat hebt hervor, dass eine Verarbeitung personenbezogener Daten 
+nicht allein auf berechtigte Interessen gestützt werden darf, wie in Artikel 3 
+Nummer 15 des Verordnungsvorschlags zu Artikel 88c DSGVO vorgesehen. 
+Erfolgt eine solche Verarbeitung personenbezogener Daten im Zusammenhang 
+mit der Entwicklung oder dem Betrieb eines KI-Systems im
+Beschäftigungskontext, ist bei der Anwendung des Artikels 6 Absatz 1 Buchstabe f DSGVO 
+dem besonderen Schutzbedarf von Beschäftigten Rechnung zu tragen. Dabei 
+sind insbesondere die in den Artikeln 7, 8 und 31 der Charta der Grundrechte 
+der Europäischen Union gewährleisteten Rechte zu wahren. 
+Begründung (nur gegenüber dem Plenum): 
+Es wird grundsätzlich das Regelungsziel der Kommission geteilt, durch eine 
+Regelung in der DSGVO für ein höheres Maß an Rechtsklarheit beim Einsatz 
+künstlicher Intelligenz sorgen zu wollen. Mit ihrem Vorschlag schafft die 
+Kommission jedoch keine eigene Verarbeitungsgrundlage, sondern stellt auf 
+das berechtigte Interesse im Sinne von Artikel 6 Absatz 1 Buchstabe f DSGVO 
+ab. Damit dürfte der Ansatz keine Lösung bieten, soweit Unternehmen zur 
+Vertragserfüllung personenbezogene Daten verarbeiten (Artikel 6 Absatz 1 
+Buchstabe b DSGVO). Gleiches gilt insbesondere für Verarbeitungen durch 
+Behörden, da sich diese nicht auf das berechtigte Interesse berufen können. Für 
+den öffentlichen Bereich können die Mitgliedstaaten zwar im Rahmen der
+Öffnungsklauseln aus Artikel 6 Absatz 1 Buchstabe c und e und Absatz 3 DSGVO 
+eigenständige Regelungen schaffen. Im Interesse einer kohärenten Regelung 
+für den KI-Einsatz sollte jedoch im weiteren Verfahren diskutiert werden, ob 
+eine einheitliche Regelung für den öffentlichen und den nicht-öffentlichen
+Bereich geschaffen werden kann. 
+AIS 
+(bei
+Annahme 
+entfällt 
+Ziffer 37) 
+EU 
+In 
+(entfällt 
+bei
+Annahme 
+von 
+Ziffer 36)
+ ... 
+Weitere Änderungen der DSGVO 
+Aktuell liegt die datenschutzrechtliche Verantwortung bei der Nutzung von 
+Software bei den Verantwortlichen und Auftragsverarbeitern. Dies greift zu 
+kurz, die Hersteller sollten hier in die Verantwortung gezogen werden und
+gewährleisten müssen, dass jedenfalls die standardmäßig über ihre Produkte
+laufenden Verarbeitungstätigkeiten datenschutzkonform durchgeführt werden
+können. 
+EU 
+R 
+EU 
+In 
+EU 
+In 
+(bei
+Annahme 
+entfällt 
+Ziffer 41)
+ ... 
+ 
+* Hilfsempfehlung des In zu Ziffer 40 
+In* 
+(entfällt 
+bei
+Annahme 
+von 
+Ziffer 40) 
+EU 
+In 
+EU 
+In 
+EU 
+In 
+EU 
+In 
+EU 
+In
+ ... 
+In Artikel 15 Absatz 3 DSGVO sollte ergänzt werden, dass die Kopie nur die 
+verarbeiteten personenbezogenen Daten umfasst. Daneben sollte auch
+Artikel 15 Absatz 4 DSGVO ergänzt werden. Nicht nur bei dem Recht auf Erhalt 
+einer Kopie, sondern auch bei dem Recht auf Auskunft gemäß Absatz 1 und 2 
+sollten die Rechte und Freiheiten anderer Personen nicht beeinträchtigt werden. 
+Die Rechte und Freiheiten anderer Personen sollten auch die des
+Verantwortlichen umfassen. Durch eine Ergänzung von Artikel 15 Absatz 4 DSGVO sollte 
+das Recht auf Kopie nach Absatz 3 ausgeschlossen sein, wenn und soweit die 
+Erteilung der Kopie sich als unmöglich erweist oder einen unverhältnismäßigen 
+Aufwand erfordern würde. 
+EU 
+In 
+EU 
+In 
+EU 
+In 
+EU 
+In
+ ... 
+EU 
+In 
+EU 
+In 
+EU 
+In 
+EU 
+In 
+EU 
+In 
+EU 
+In
+ ... 
+Des Weiteren sollte eine Verjährungsfrist für Datenschutzverstöße und
+Beschwerden hierüber eingeführt werden. 
+Jedenfalls sollte die Möglichkeit des Zurückstellens einer Beschwerde bei
+parallellaufenden gerichtlichen Verfahren eingeführt werden. Dies ist zur
+Vermeidung paralleler und sich widersprechender Entscheidungen notwendig.
+Gleichzeitig dient die Regelung der Entlastung der Aufsichtsbehörden in den Fällen, in 
+denen der Betroffene seine Rechte bereits in einem anderen Verfahren geltend 
+macht. 
+Auswirkungen des Digital-Omnibus auf die Automobilindustrie 
+EU 
+Wi 
+EU 
+Wi 
+EU 
+Wi 
+EU 
+Wi
+ ... 
+a) Der aktuelle Verordnungsvorschlag sieht, mit wenigen Ausnahmen, eine 
+Einwilligungspflicht beim Zugriff auf Daten in Endeinrichtungen vor. 
+Dadurch gehen der Automobilindustrie eine Vielzahl relevanter Daten für 
+die Entwicklung sicherheitskritischer und/oder autonomer Fahrsysteme
+verloren. Zur Ermöglichung zentraler Innovationen mit erheblichem
+gesellschaftlichem Mehrwert (bspw. autonomes Fahren/sicherheitsrelevante
+Assistenzsysteme) muss die Nutzung von personenbezogenen Daten aus
+Endeinrichtungen wie Fahrzeugen vereinfacht werden. Es sollte daher dringend 
+geprüft werden, ob der Zugriff auf diese Daten für legitime Zwecke der 
+Wirtschaft in Abwägung mit den Rechten Betroffener gestattet wird.  
+b) Im Verordnungsvorschlag ist das Kriterium der „Direktheit“ im Kontext der 
+Verarbeitung von besonderen Kategorien von Daten nach Artikel 9 
+DSGVO, insbesondere Gesundheitsdaten, nicht enthalten. Dieses muss aus 
+Sicht des Bundesrates dringend aufgenommen werden, um eine
+Überdehnung des Anwendungsbereichs zu vermeiden, die Innovation im
+öffentlichen Interesse behindert. Die zu Entwicklungszwecken autonomer
+Fahrsysteme zwingend erforderliche Nutzung von Bild- und Videodaten muss 
+rechtlich eindeutig geregelt werden. Übermäßige Auslegungserfordernisse 
+oder de-facto nicht erfüllbare Anforderungen, wie etwa die Einholung von 
+Einwilligungen von Personen außerhalb der Fahrzeuge, wie z. B. von
+Kindern oder Menschen mit Beeinträchtigungen, sind zu vermeiden. Ohne die 
+Nutzung dieser Daten durch die Automobilindustrie können gerade diese 
+vulnerablen Gruppen nicht zuverlässig von autonomen Fahrsystemen im 
+Verkehr erkannt werden. 
+c) Die vorgeschlagene Ausnahme zur Verarbeitung besonderer Kategorien für 
+KI muss für Fälle, in denen es um die Erhebung großer Datenmengen geht, 
+die für die Entwicklung und den Betrieb einer neuen Technologie zwingend 
+erforderlich ist, technologieoffen ausgeweitet werden. Der Bundesrat bittet 
+den Unionsgesetzgeber hier, die vorgeschlagene Ausnahme zur
+Verarbeitung besonderer Kategorien so zu formulieren, dass die Entwicklung von 
+Technologien im gesamtgesellschaftlichen Interesse unter Beachtung der 
+Betroffenenrechte erleichtert wird, unabhängig davon, ob diese als KI
+einzustufen sind oder nicht. Dies gilt beispielsweise für moderne
+Assistenzsysteme wie den Brems- oder Spurhalteassistenten in Fahrzeugen, die nicht
+ ... 
+als KI eingestuft werden können, jedoch entsprechende Daten für die
+Weiterentwicklung benötigen, um weitere Beiträge für die Verkehrssicherheit 
+leisten zu können. 
+Begründung zu Ziffern 9, 10, 11, 12, 13 und 63 (nur gegenüber dem Plenum) 
+Mit dem Verordnungsvorschlag verfolgt die Kommission das Ziel, bestehende 
+Digitalrechtsakte zu vereinfachen und bürokratische Hürden für Unternehmen 
+abzubauen. Bei der Konsolidierung der Vorschriften zur Förderung von
+Innovationen, unter anderem in den Bereichen Cybersicherheit und Künstliche
+Intelligenz, sowie zur Stärkung der Wettbewerbsfähigkeit darf jedoch nicht außer 
+Acht gelassen werden, dass eine nachhaltige Stärkung der Digitalwirtschaft in 
+Europa nur gelingen kann, wenn digitale Lösungen den Anforderungen an
+digitale Souveränität genügen. 
+Eine wesentliche Grundlage hierfür ist die Nutzung, Förderung und
+Verbreitung von Open-Source-Software sowie die Etablierung und Fortentwicklung 
+offener und interoperabler Standards. Diese tragen zur Transparenz, Sicherheit, 
+Innovationsfähigkeit und Wettbewerbsförderung bei. 
+Auch im Rahmen der europäischen Digitalgesetzgebung sollte Open-Source-
+Software eine tragende Rolle einnehmen, um die Interessen von Wirtschaft und 
+öffentlicher Hand an einem souveränen und sicheren digitalen Handeln zu
+unterstützen. Hierfür sind vergaberechtliche Rahmenbedingungen erforderlich, 
+EU 
+Wi 
+EU 
+Wi 
+EU 
+AIS 
+DS 
+In
+die technologische Offenheit gewährleisten und die rechtssichere
+Berücksichtigung entsprechender Kriterien ermöglichen. 
+Darüber hinaus leisten offene und weiterentwickelbare Systemarchitekturen
+einen wichtigen Beitrag zur Sicherheit kritischer Infrastrukturen, insbesondere 
+durch einen souveränen Betrieb, unabhängige
+Weiterentwicklungsmöglichkeiten und die Reduzierung einseitiger Abhängigkeiten. 
+Die Stellungnahme soll der Kommission direkt übermittelt werden, da die 
+Länder für wesentliche Bereiche der Verwaltungsdigitalisierung, der
+Cybersicherheit sowie für den Betrieb kritischer Infrastrukturen verantwortlich sind. In 
+der Stellungnahme soll darauf hingewiesen werden, dass unionsrechtliche
+Vorgaben in diesen Bereichen unmittelbare Auswirkungen auf Haushaltsmittel, 
+langfristige Investitionsentscheidungen und bestehende Systemarchitekturen 
+der Länder entfalten. Der Stellungnahme ist daher grundsätzliche Bedeutung 
+beizumessen. 
+B 
+empfiehlt dem Bundesrat, von der Vorlage gemäß §§ 3 und 5 EUZBLG
+Kenntnis zu nehmen.
