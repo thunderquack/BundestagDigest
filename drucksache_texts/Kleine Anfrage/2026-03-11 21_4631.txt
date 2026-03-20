@@ -4,13 +4,14 @@ Kleine Anfrage
 der Abgeordneten Robin Jünger, Ruben Rupp, Alexander Arpaschi, Sebastian 
 Maack, Tobias Ebenberger, Lars Haise, Edgar Naujok, Steffen Janich, Martin 
 Hess, Sascha Lensing und der Fraktion der AfD
-Kommunikationsfähigkeit der BOS seit Rückbau analoger Funkfrequenzen
+Kommunikationsfähigkeit der Behörden und Organisationen mit 
+Sicherheitsaufgaben seit dem Rückbau analoger Funkfrequenzen
 Die Einsatzkommunikation der Behörden und Organisationen mit
 Sicherheitsaufgaben (BOS) in Deutschland befindet sich im Zuge der Digitalisierung in 
 einem tiefgreifenden Wandel. Traditionelle analoge Funkdienste, die unter
 anderem Teile des 2‑Meter‑Bandes nutzten, werden durch digitale
-Bündelfunksysteme ersetzt, die auf dem TETRA‑Standard (Terrestrial Trunked Radio)
-basieren. Diese digitalen Systeme sollen eine einheitliche, abhörsichere und
+Bündelfunksysteme ersetzt, die auf dem TETRA (Terrestrial Trunked Radio)‑Standard
+basieren. Diese digitalen Systeme sollen eine einheitliche abhörsichere und
 netzübergreifende Kommunikation ermöglichen, die über klassische analoge
 Verfahren hinausgeht und auch datenbasierte Anwendungen unterstützt. Sie bilden 
 das Rückgrat der modernen BOS‑Kommunikation in Deutschland. Gleichzeitig 
@@ -18,13 +19,13 @@ wird an weiterführenden Konzepten zur mobilen Breitbandkommunikation
 gearbeitet, die langfristig zudem die Anforderungen an mobile Datenübertragung 
 in Einsatzlagen abdecken sollen (www.security-network.com/bos-digitalfunk-a
 uf-weg-naechsten-generation).
-In der Praxis hat der Aufbau und die Nutzung des digitalen BOS‑Funknetzes 
+In der Praxis haben der Aufbau und die Nutzung des digitalen BOS‑Funknetzes 
 jedoch wiederholt Diskussionen über die Zuverlässigkeit, Redundanz und
-Abdeckung ausgelöst. So kam es im Mai 2025 zu einem flächendeckenden 
-Digitalfunk‑Ausfall, bei dem Polizeien, Feuerwehren und Rettungsdienste über 
-eineinhalb Stunden nicht über den BOS‑Digitalfunk kommunizieren konnten 
-und auf alternative Kommunikationswege ausweichen mussten – etwa
-Mobilfunk, Messengerdienste oder analoger Funk. Dies führte zu Forderungen nach 
+Abdeckung ausgelöst. So kam es im Mai 2025 zu einem flächendeckenden
+Digitalfunkausfall, bei dem Polizeien, Feuerwehren und Rettungsdienste über
+eineinhalb Stunden nicht über den BOS‑Digitalfunk kommunizieren konnten und 
+auf alternative Kommunikationswege ausweichen mussten – etwa Mobilfunk, 
+Messengerdienste oder analoger Funk. Dies führte zu Forderungen nach
 verbesserten Rückfallebenen und Monitoring‑Mechanismen für den 
 BOS‑Digitalfunk (www.feuerwehr-fachjournal.de/bos-digitalfunknetz-position
 spapier-zu-stoerungen-im-mai-2025).
@@ -42,16 +43,13 @@ einschließlich des 2‑Meter‑Bands – nicht vollständig abgeschrieben werde
 digitale Systeme im relevanten Einsatzfall ausfallen können oder nicht
 vollständig lückenlos verfügbar sind, müsse über funktionierende Rückfallebenen
 diskutiert werden.
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-Parallel wird von der Arbeitsgemeinschaft Kritische Infrastrukturen (AG 
-KRITIS) darauf hingewiesen, dass analoge Verfahren im Falle eines Ausfalls 
-digitaler Netze – etwa infolge technischer Probleme, Cybervorfällen oder 
-Strommangellagen – eine funktionale Mindestkommunikation sicherstellen 
-könnten. Angesichts wachsender Herausforderungen durch Extremwetter,
-Blackouts oder systemischer Risiken erscheinen redundante Systeme notwendig 
-(https://ag.kritis.info/2022/02/15/und-wenn-der-digitale-behoerdenfunk-doch-a
-usfaellt/).
+Parallel wird von der Arbeitsgruppe Kritische Infrastrukturen (AG KRITIS)
+darauf hingewiesen, dass analoge Verfahren im Falle eines Ausfalls digitaler
+Netze – etwa infolge technischer Probleme, Cybervorfälle oder Strommangellagen 
+– eine funktionale Mindestkommunikation sicherstellen könnten. Angesichts 
+wachsender Herausforderungen durch Extremwetter, Blackouts oder
+systemische Risiken erscheinen redundante Systeme notwendig (https://ag.kritis.info/2
+022/02/15/und-wenn-der-digitale-behoerdenfunk-doch-ausfaellt/).
 Vor diesem Hintergrund erscheint es den Fragestellern erforderlich,
 systematisch zu erfassen, wie sich die operative Kommunikationslage für 
 BOS‑Organisationen seit der faktischen Reduktion klassischer analoger
@@ -72,15 +70,15 @@ Einsatzkommunikation seit dem Wegfall klassischer analoger Frequenzen hinweisen?
  3. In welchen konkreten Einsatzlagen oder Regionen haben nach Kenntnis 
 der Bundesregierung digitale BOS‑Kommunikationssysteme (z. B. 
 TETRA‑Netz) aus Sicht der Einsatzkräfte nicht die gewünschte oder
-erforderliche Kommunikationsfähigkeit erbracht – z. B. durch Ausfälle, 
+erforderliche Kommunikationsfähigkeit erbracht, z. B. durch Ausfälle, 
 schlechte Abdeckung oder Überlastung?
  4. Welche Maßnahmen sieht die Bundesregierung ggf. vor oder hat sie
 ergriffen, um Kommunikationsrisiken zu reduzieren, die durch den Wegfall 
-analoger Funk‑Rückfallebenen entstanden sind – insbesondere vor dem 
-Hintergrund dokumentierter Digitalfunk‑Störungen wie im Mai 2025?
+analoger Funk‑Rückfallebenen entstanden sind, insbesondere vor dem 
+Hintergrund dokumentierter Digitalfunkstörungen wie im Mai 2025?
  5. Plant die Bundesregierung, analoge Funkverfahren als systematische 
 Rückfallebene in nationale Einsatz‑ und Krisenkommunikationskonzepte 
-zu integrieren – und wenn ja, in welcher Form und mit welchen
+zu integrieren, und wenn ja, in welcher Form, und mit welchen
 technischen oder organisatorischen Vorgaben?
  6. Welche fachlichen Rückmeldungen liegen der Bundesregierung
 insbesondere von den Bundesländern und kommunalen Einsatzleitungen vor, die 
@@ -94,22 +92,16 @@ Funkverfahren systematisch bewerten?
 zusätzliche mobile Breitbandlösungen oder hybride Kommunikationssysteme 
 einzusetzen, um die Herausforderungen der Einsatzkommunikation in 
 komplexen Lagen besser abzudecken?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
  9. Welche konkreten Schlussfolgerungen zieht die Bundesregierung aus der 
 fachlichen Kritik an der BOS‑Kommunikation, und welche zeitlichen
 Vorgaben existieren für die Umsetzung entsprechender Verbesserungs‑ oder 
 Sicherungsmaßnahmen?
 10. Wie bewertet die Bundesregierung die Rolle unabhängiger
-Rückfallebenen (z. B. Notfunk‑Netze, Amateurfunk‑Unterstützung) für großflächige 
-Versorgungssicherheit der Einsatzkommunikation in Krisenlagen – und 
-wie sollen diese in offizielle Planungen eingebunden werden?
+Rückfallebenen (z. B. Notfunknetze, Amateurfunkunterstützung) für großflächige
+Versorgungssicherheit der Einsatzkommunikation in Krisenlagen, und wie 
+sollen diese in offizielle Planungen eingebunden werden?
 Berlin, den 9. März 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.

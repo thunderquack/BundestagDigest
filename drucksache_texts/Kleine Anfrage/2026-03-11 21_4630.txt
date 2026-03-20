@@ -6,7 +6,7 @@ Maack, Tobias Ebenberger, Lars Haise, Edgar Naujok, Steffen Janich, Martin
 Hess, Sascha Lensing und der Fraktion der AfD
 Maßnahmen der Bundesregierung zur Verhinderung eines Datenabflusses über 
 Telekommunikationskomponenten des Herstellers Huawei
-Die Sicherheit und Integrität öffentlicher Telekommunikationsnetze ist eine 
+Die Sicherheit und Integrität öffentlicher Telekommunikationsnetze sind eine 
 zentrale Voraussetzung für die Funktionsfähigkeit des Staates, für den Schutz 
 personenbezogener Daten sowie für die Resilienz kritischer Infrastrukturen. 
 Insbesondere Mobilfunknetze der fünften Generation (5G) sind aufgrund ihrer 
@@ -41,8 +41,6 @@ und dabei auf die Notwendigkeit eines konsequenten Schutzes kritischer 5G-
 Infrastruktur hingewiesen. Beispielhaft wird auf den Antrag „Schutz der
 Kritischen 5G-Infrastruktur vor staatsnahen Netzwerkausrüstern“ auf
 Bundesdrucksache 19/7723 verwiesen sowie auf die Kleine Anfrage „Möglicher Ausschluss 
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 von Huawei beim Aufbau des deutschen 5G-Netzwerkes“ auf
 Bundestagsdrucksache 19/8650.
 Zudem wurde in der gegenwärtigen Wahlperiode ein Antrag der Fraktion der 
@@ -51,13 +49,13 @@ Bundesministeriums für Digitales und Staatsmodernisierung (BMDS) auf Bundesdruc
 21/3316 eingebracht, was in den Augen der Fragesteller die Relevanz einer
 klaren Verantwortungszuordnung auch für Fragen der Netz- und Datensicherheit 
 unterstreicht.
-Nach Angaben der Bundesregierung hat das Bundesministerium des Innern und 
-für Heimat (BMI) Betreiber öffentlicher 5G-Mobilfunknetze bereits 2023
-aufgefordert, alle in den jeweiligen Netzen im Einsatz befindlichen kritischen 
-Komponenten der Hersteller Huawei und ZTE mitzuteilen und nach einer
-vorgegebenen Systematik aufzulisten (www.bundestag.de/presse/hib/kurzmeldung
-en-951412?utm_source=chatgpt.com). 2024 teilte das BMI ferner mit, dass in 
-5G-Kernnetzen bis spätestens Ende 2026 keine Komponenten von Huawei und 
+Nach Angaben der Bundesregierung hat das Bundesministerium des Innern 
+(BMI) Betreiber öffentlicher 5G-Mobilfunknetze bereits 2023 aufgefordert, alle 
+in den jeweiligen Netzen im Einsatz befindlichen kritischen Komponenten der 
+Hersteller Huawei und ZTE mitzuteilen und nach einer vorgegebenen
+Systematik aufzulisten (www.bundestag.de/presse/hib/kurzmeldungen-951412?utm_so
+urce=chatgpt.com). Im Jahr 2024 teilte das BMI ferner mit, dass in 5G-
+Kernnetzen bis spätestens Ende 2026 keine Komponenten von Huawei und 
 ZTE mehr eingesetzt werden dürfen und weitere Schritte auch Zugangs- und 
 Managementbereiche betreffen sollen (www.bmi.bund.de/SharedDocs/pressem
 itteilungen/DE/2024/07/5g.html).
@@ -85,17 +83,15 @@ TKG, insbesondere § 165 TKG, ab?
  4. Welche konkreten Netzbereiche sind von den bis 2026 bzw. den
 weitergehenden Maßnahmen bis 2029 erfasst, und welche Netzbereiche sind nach 
 aktuellem Stand ausdrücklich nicht erfasst (bitte getrennt nach 5G-
-Kernnetz, 5G-Zugangsnetz/Radio Access Network, Transport-/Backhaul, 
-Netzmanagement-/Orchestrierungs- und
-Betriebsunterstützungssystemen)?
+Kernnetz, 5G-Zugangsnetz bzw. Radio Access Network, Transport- bzw. 
+Backhaul, Netzmanagement- bzw. Orchestrierungs- und
+Betriebsunterstützungssystemen angeben)?
  5. Welche Betreiber öffentlicher 5G-Mobilfunknetze wurden nach Kenntnis 
 der Bundesregierung aufgrund der Aufforderung vom 6. März 2023 zur 
 Meldung kritischer Komponenten zur Übermittlung welcher Daten
 verpflichtet, und haben alle Betreiber vollständig und fristgerecht geantwortet 
 (bitte Betreiber nennen, soweit zulässig, andernfalls nachvollziehbar
 anonymisiert darstellen)?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
  6. Welche „kritischen Funktionen“ im Sinne der Veröffentlichungen der 
 Bundesnetzagentur waren nach Kenntnis der Bundesregierung zum
 Zeitpunkt der Datenerhebung bzw. der Entscheidung in deutschen 5G-Netzen 
@@ -104,7 +100,7 @@ Funktionskategorie aufschlüsseln)?
  7. Welche Zertifizierungs- und Nachweispflichten nach § 165 TKG sowie 
 nach der BSI-TR-03163 wurden nach Kenntnis der Bundesregierung für 
 Huawei-Komponenten in öffentlichen 5G-Netzen bereits erfüllt, und 
-welche noch nicht (bitte jeweils nach Funktionsklasse/
+welche noch nicht (bitte jeweils nach Funktionsklasse bzw.
 Komponentenkategorie aufschlüsseln)?
  8. Welche Prüf- und Kontrollmechanismen (z. B. Vor-Ort-Prüfungen,
 Dokumentenprüfungen, Penetrationstests, Code-Review-Ansätze,
@@ -120,8 +116,8 @@ vor, die eine potenzielle Vertraulichkeitsverletzung (Datenabfluss) oder
 Integritätsverletzung nahelegen (bitte Anzahl, Zeitraum, Klassifizierung 
 und zuständige Meldestellen angeben, soweit möglich)?
 10. Welche Vorgaben macht die Bundesregierung den Netzbetreibern
-hinsichtlich der Behandlung von Software-/Firmware-Updates für
-sicherheitsrelevante Netzfunktionen, und inwieweit werden Updates für als
+hinsichtlich der Behandlung von Software- bzw. Firmware-Updates für
+sicherheitsrelevante Netzfunktionen, und inwieweit werden Updates für als 
 kritisch eingestufte Komponenten vor Einspielung geprüft oder zertifiziert 
 (bitte die einschlägigen Regelwerke, Zuständigkeiten und Prozesse
 benennen)?
@@ -143,15 +139,11 @@ Sicherheit (EU-Toolbox) ein?
 14. Welche Maßnahmen ergreift die Bundesregierung, um auch bei Netzen 
 oder IT-Infrastrukturen im Zuständigkeitsbereich der Länder und
 Kommunen, soweit diese an bundesrelevante Kommunikations- oder
-Verwaltungsprozesse angebunden sind, Risiken durch den Einsatz potenziell kri-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-tischer Hersteller zu minimieren, und welche Erkenntnisse liegen ihr
+Verwaltungsprozesse angebunden sind, Risiken durch den Einsatz potenziell
+kritischer Hersteller zu minimieren, und welche Erkenntnisse liegen ihr
 hierzu nach Kenntnis der Bundesregierung vor?
 Berlin, den 9. März 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
