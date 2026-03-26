@@ -1,0 +1,210 @@
+Deutscher Bundestag Drucksache 21/4823
+21. Wahlperiode 17.03.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Jan Wenzel Schmidt, Uwe Schulz, 
+Dr. Malte Kaufmann, weiterer Abgeordneter und der Fraktion der AfD
+– Drucksache 21/4370 –
+Transparenz und Darstellung von Gasspeicherfüllständen – Datenquellen, 
+Farblegenden, Kommunikationsstandards und Änderungen der Visualisierung
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+In der öffentlichen Kommunikation zur Gasversorgung spielen tagesaktuelle 
+Darstellungen von Gasspeicherfüllständen eine wesentliche Rolle. Die
+Bundesnetzagentur veröffentlicht hierzu fortlaufend Visualisierungen und weist 
+als Datenquelle u. a. AGSI+ (Aggregated Gas Storage Inventory) aus (www.b
+undesnetzagentur.de/DE/Gasversorgung/aktuelle_gasversorgung/start.html).
+Gasspeicher in Deutschland unterliegen stichtagsbezogenen
+Mindestfüllständen. Die Gasspeicherfüllstandsverordnung (GasSpFüllstV) sieht im Regelfall 
+u. a. 80 Prozent zum 1. November sowie 30 Prozent zum 1. Februar vor; für 
+einzelne Speicher gelten abweichende Werte (www.gesetze-im-internet.de/gas
+spf_llstv_2025/BJNR0820A0025.html, www.eon.de/de/gk/energiewissen/gass
+peicher-fuellstaende-und-umlagen.html).
+Vor diesem Hintergrund ist aus Sicht der Fragesteller eine transparente,
+methodisch nachvollziehbare und konsistente Visualisierungspraxis erforderlich.
+ 1. Welche Bundesministerien und Bundesbehörden veröffentlichen aktuell 
+(Stand: Antwortdatum) eigene Dashboards, Grafiken und oder Karten zu 
+Gasspeicherfüllständen, und welche konkreten Produkte bzw.
+Unterseiten sind dies (bitte auflisten)?
+a) Die Bundesnetzagentur (BNetzA) veröffentlicht auf ihrer Internetseite
+Informationen zur aktuellen Lage der Gasversorgung. Die Seite ist über www.bunde
+snetzagentur.de/DE/Gasversorgung/aktuelle_gasversorgung/start.html
+erreichbar. Sie enthält unter anderem eine aktuelle schriftliche Lagebewertung sowie 
+Grafiken zu verschiedenen Daten (z. B. Gasimporte, Gasexporte,
+Speicherfüllstände, Gasverbrauch, Temperaturen, Gaspreise, Gasförderung).
+b) Das Statistische Bundesamt (Destatis) veröffentlicht in seiner
+Veröffentlichungsdatenbank GENESIS-Online eine Tabelle zu diesem Thema. Diese Tabelle 
+und zugehörige Grafiken sind unter dem Link https://www-genesis.destatis.de/
+datenbank/online/statistic/43321/table/43321-0001 zu erreichen.
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Wirtschaft und Energie vom 
+17. März 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+c) Das Statistische Bundesamt veröffentlicht im Dashboard Konjunktur eine
+interaktive Grafik zum Füllstand deutscher Erdgasspeicher: www.dashboard-deut
+schland.de/indicator/tile_1667227714015?origin=dashboard&db=energie&cate
+gory=energie
+ 2. Welche Datenquellen werden für diese Veröffentlichungen jeweils
+genutzt (z. B. AGSI+, Betreiberangaben, INES (Initiative Energien
+Speichern)-Daten), und welche Datenübernahme erfolgt technisch (API
+(Application Programming Interface), Download bzw. CSV (Comma-Separat
+ed Values), manuelle Übernahme)?
+Die Bundesnetzagentur nutzt für die Grafiken auf der Webseite die Daten des 
+Aggregated Gas Storage Inventory der Gas Infrastructure Europe (AGSI+). Die 
+Daten werden per Schnittstelle (API) abgerufen.
+Die Erhebung des Statistischen Bundesamtes zur Veröffentlichung unter 1b) 
+richtet sich an alle Betreiber von Anlagen zur Speicherung von Erdgas. Die
+Anlagenbetreiber melden monatlich den Speichersaldo am Monatsende, die
+Speicherfüllstände am Monatsende sowie die Menge des Eigenverbrauchs. Das
+Statistische Bundesamt führt die zentrale Erhebung im Online-Verfahren durch.
+Die Veröffentlichung unter 1c nutzt als Datenquelle AGSI+. Die
+Datenübernahme erfolgt technisch über die API der Plattform Macrobond.
+ 3. Welche Farblegenden (z. B. rot, gelb, grün und deren Abstufungen)
+werden in den in Frage 1 genannten Veröffentlichungen verwendet, und 
+welche Schwellenwerte (in Prozent) sind diesen Legenden jeweils
+zugeordnet?
+Die Bundesnetzagentur benutzt bei ihrer Darstellung die allgemeinen Farben 
+des Corporate Designs der Bundesnetzagentur. Es findet keine Einstufung bzw. 
+Farbcodierung anhand einzelner Schwellenwerte statt, da es für die Bewertung 
+der Gasversorgung auf eine Gesamtschau ankommt.
+Die Farblegenden des Statistischen Bundesamts zur unter 1b genannten
+Veröffentlichung sind ohne Schwellenwerte oder Wertung der Kritikalität im
+Design für GENESIS-Online festgelegt; die Farben in der Grafik können von
+jedem Nutzer innerhalb des Farbschemas selbst gewählt werden. Die Daten
+werden als Zeitreihe in Form eines Liniendiagramms oder als Säulendiagramm mit 
+jeweils einer Farbe für das Wertmerkmal dargestellt. Eine farbliche Abstufung 
+anhand von Schwellenwerten wird nicht genutzt.
+Die Daten zur Veröffentlichung 1c werden als Zeitreihe in Form eines
+Liniendiagramms mit einfarbiger Linie dargestellt. Eine farbliche Abstufung anhand 
+von Schwellenwerten wird nicht genutzt.
+ 4. Wurden seit dem 1. Januar 2024 in den in Frage 1 genannten
+Veröffentlichungen Schwellenwerte, Farbstufenanzahl oder Zuordnungen der 
+Farblegenden geändert, und wenn ja, wann, wo, und mit welcher
+Begründung (bitte Änderungen tabellarisch nach Produkt bzw. Datum bzw. 
+Änderungsinhalt darstellen)?
+Es wurden jeweils keine Änderungen an der Farbdarstellung vorgenommen.
+ 5. Welche Stelle ist innerhalb der Bundesregierung bzw. der jeweiligen
+Behörde fachlich verantwortlich für die Festlegung bzw. Änderung der 
+Farblegenden und Visualisierungslogik (bitte Zuständigkeiten und
+Freigabeprozesse darstellen)?
+In den Darstellungen der Bundesnetzagentur werden die Standardfarben ohne 
+Wertung verwendet. Es werden die allgemeinen Designvorgaben der
+Bundesnetzagentur verwendet und eingehalten.
+Im Regelfall ist im Statistischen Bundesamt das Referat B34 – Visualisierung 
+zuständig und entscheidet im Einvernehmen mit den jeweils inhaltlich
+zuständigen Fachbereichen. Ausnahmen hiervon sind z. B. Veröffentlichungen, in 
+denen Nutzende Datenvisualisierungen selbst generieren und konfigurieren 
+können (beispielsweiseDiagramm-Funktion von GENESIS-Online).
+ 6. Nach welchen fachlichen Standards bzw. Leitlinien (z. B.
+Risikokommunikation, Human Factors, Barrierefreiheit) werden Farblegenden für
+kritische Infrastrukturdaten gestaltet, und wie wird geprüft, dass
+Darstellungen nicht missverständlich sind?
+Es gelten die allgemeinen Leitlinien und Vorgaben zur Homepage der
+Bundesnetzagentur. Mit Hilfe des dazugehörigen Textes werden Grafiken inhaltlich 
+eingeordnet, was wiederum die Verständlichkeit erhöht.
+Die verwendeten Farblegenden des Statistischen Bundesamts werden nicht
+thematisch unterschieden, sondern themenunabhängig verwendet. Referat B34 – 
+Visualisierung erstellt keine gesonderten Farblegenden für kritische
+Infrastrukturdaten. Grundsätzlich gibt es verschiedene Anforderungen an im
+Arbeitsbereich erstellte Farbskalen. Diese umfassen u. a. Kontrast-Kriterien aus den Web 
+Content Accessibility Guidelines, Vorgaben des Corporate Designs des
+Statistischen Bundesamtes und technische Gegebenheiten der genutzten Content
+Management Systeme.
+ 7. Erfolgt die Bewertung „kritisch/unkritisch“ in behördlichen
+Darstellungen anhand absoluter Füllstände oder relativ zu gesetzlichen
+Stichtagsvorgaben (GasSpFüllstV), und wie wird dies für Nutzerinnen und Nutzer 
+transparent erläutert (z. B. Methodik- bzw. Metadatenseite)?
+Auf der Internetseite der Bundesnetzagentur erfolgt eine erläuternde
+Einordnung der Gasversorgungslage im Ganzen. Gasspeicher sind und bleiben ein 
+wichtiger Versorgungsbaustein. Sinkende Füllstände sind jedoch kein Indiz für 
+eine Gasmangellage. Die Versorgungslage in Deutschland und Europa hat sich 
+in den vergangenen Jahren verändert. Die Gasspeicher sowie deren Entleerung 
+sind nicht isoliert zu betrachten, sondern in den Kontext des europäischen
+Gasbinnenmarktes und der Importsituation einzuordnen. Der Gasmarkt wird
+zunehmend komplexer und nicht zuletzt durch Mengen an Flüssigerdgas (Liquefied 
+Natural Gas – LNG) globaler. Deutschland verfügt über unterschiedliche
+Importmöglichkeiten. Gasmengen können über Pipelines sowie über die neuen 
+LNG-Terminals importiert werden.
+In den Darstellungen des Statistischen Bundesamts erfolgt keine Bewertung in 
+kritisch/unkritisch. Informationen zu den zugrundeliegenden Daten der
+Veröffentlichung 1c werden über einen Infobutton (rechts neben dem Titel)
+erläutert, zusätzlich werden Metadaten zur Verfügung gestellt.
+ 8. Welche Maßnahmen hat die Bundesregierung ggf. ergriffen, um die
+Öffentlichkeit über die Logik der gesetzlichen Mindestfüllstände nach 
+GasSpFüllstV zu informieren (insbesondere zum 1. Februar), und wie 
+wird in Veröffentlichungen sichergestellt, dass eine „grüne“ Darstellung 
+nicht mit „genereller Entwarnung“ gleichgesetzt wird?
+Die Logik der gesetzlichen Mindestfüllstände ergibt sich aus § 35b des
+Energiewirschaftsgesetzes (EnWG) in Verbindung mit § 1 der Verordnung zur
+Anpassung der Füllstandsvorgaben für Gasspeicheranlagen
+(Gasspeicherfüllstandsverordnung – GasSpFüllstV). Farbliche Darstellungen hat die
+Bundesregierung in diesem Zusammenhang nicht eingesetzt.
+ 9. Welche Mechanismen bestehen ggf., um Änderungen der Darstellung 
+bzw. den Legenden externer Plattformen (z. B. AGSI+) zu erkennen,
+bevor diese in behördliche Kommunikation einfließen (Monitoring, 
+Change-Logs, Ansprechpartner, Versionsprüfung)?
+Bundesnetzagentur und Statistisches Bundesamt übernehmen bei den unter 1a 
+und 1c genannten Veröffentlichungen lediglich Rohdaten und keine grafischen 
+Darstellungen externer Plattformen. Insofern bedarf es auch keiner
+Mechanismen, um diese Änderungen nachzuverfolgen. Bei der Veröffentlichung 1b
+werden keine Daten externer Plattformen genutzt.
+10. Hat die Bundesregierung Kenntnis darüber, ob AGSI+ bzw. deren
+Betreiber in den letzten 24 Monaten die Farblegende oder Schwellenwerte
+verändert hat, und wenn ja, welche Informationen liegen der
+Bundesregierung hierzu vor (Datum, Begründung, Kommunikationsweg)?
+Die Farblegende wurde in der Vergangenheit geändert. Für die durchgeführten 
+Änderungen ist der Plattformbetreiber verantwortlich. Die Bundesregierung 
+war bei der Umstellung nicht involviert und nutzt die farbliche Darstellung der 
+Plattform nicht.
+11. Plant die Bundesregierung, in behördlichen Darstellungen zusätzlich zu 
+Prozentwerten auch absolute Energiemengen (z. B. TWh) sowie
+volumengewichtete Kennzahlen zu veröffentlichen, um Interpretationsfehler 
+durch unterschiedliche Speichergrößen zu reduzieren?
+a) Wenn ja, in welchem Zeitplan?
+b) Wenn nein, welche Begründung führt die Bundesregierung an, diese 
+nicht anzugeben und zu veröffentlichen?
+Die Fragen 11 bis 11b werden gemeinsam beantwortet.
+Die Bundesnetzagentur plant nicht, zusätzlich zu den Prozentwerten absolute 
+Werte zu veröffentlichen. Speicherfüllstände sind nur ein Baustein der
+Versorgungssicherheit. Sowohl nationales als auch europäisches Recht stellen auf 
+Prozentangaben ab, sodass die Darstellung von Prozentwerten beibehalten 
+wird.
+Das Statistische Bundesamt veröffentlicht unter https://www-genesis.destati
+s.de/datenbank/online/statistic/43321/table/43321-0001 amtliche Daten aus der 
+Monatserhebung über die Gasversorgung, die absolute Energiemengen u. a. 
+zum Speicherstand von Gas am Monatsende sowie zur Speicherveränderung 
+zum Vormonatsende.
+12. Welche gesetzlich vorgegebenen Mindestfüllstände (inklusive
+Ausnahmen für bestimmte Speicher) gelten nach GasSpFüllstV aktuell zu den 
+Stichtagen 1. November und 1. Februar, und welche fachliche
+Begründung liegt den jeweiligen Ausnahmen zugrunde?
+Gem. § 1 GasSpFüllstV ist abweichend von § 35b Absatz 1 Satz 2 EnWG zu 
+den folgenden Stichtagen in jeder der genannten Gasspeicheranlagen im Sinne 
+des § 35a Absatz 2 des Energiewirtschaftsgesetzes der jeweils genannte
+Füllstand als prozentualer Anteil am Arbeitsgasvolumen der jeweiligen
+Gasspeicheranlage vorzuhalten:
+1. am 1. November jeweils ein Füllstand von
+a) 80 Prozent in jeder Gasspeicheranlage, die nicht von Buchstabe b erfasst ist,
+b) 45 Prozent in jeder der Gasspeicheranlagen Bad Lauchstädt, Frankenthal, 
+Hähnlein, Rehden, Stockstadt und Uelsen,
+2. am 1. Februar jeweils ein Füllstand von
+a) 30 Prozent in jeder Gasspeicheranlage, die nicht von Buchstabe b erfasst ist,
+b) 40 Prozent in jeder der Gasspeicheranlagen Bierwang, Breitbrunn,
+Inzenham-West und Wolfersberg.
+Die unterschiedlichen Füllstandsvorgaben wurden aufbauend auf Erwägungen 
+der BNetzA sowie im Zusammenhang mit den europäischen Vorgaben für die 
+Mitgliedstaaten festgelegt. Sie leiten sich aus der deutlich
+geschwindigkeitsreduzierten Ein- und Ausspeicherleistung einiger Gasspeicheranlagen sowie ihrer 
+geografischen Lage ab. Für die Versorgungssicherheit ist unter anderem der 
+durchschnittliche Füllstand über alle Gasspeicheranlagen maßgeblich.
+13. Welche Folgen sieht die Bundesregierung, wenn Visualisierungen von 
+Füllständen bei gleicher Prozentzahl (z. B. 40 bis 60 Prozent) je nach 
+Jahreszeit sehr unterschiedliche Versorgungsrisiken bedeuten können, 
+und welche Kommunikationsmaßnahmen hält sie für erforderlich, um 
+dies korrekt einzuordnen?
+Der abnehmende Vorsorgebedarf im Laufe eines Winters wird über die
+abnehmenden Füllstandsvorgaben abgebildet (siehe Antwort zu Frage 12). Auf 
+der Internetseite der Bundesnetzagentur erfolgt eine erläuternde Einordnung der 
+Gasversorgungslage im Ganzen sowie des Gasverbrauchs und der
+Gasspeicherfüllstände.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

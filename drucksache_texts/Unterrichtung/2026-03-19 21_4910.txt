@@ -1,0 +1,1048 @@
+Deutscher Bundestag Drucksache 21/4910 
+21. Wahlperiode 19.03.2026
+Unterrichtung 
+durch die Bundesregierung 
+Rechenzentrumsstrategie  
+Inhaltsverzeichnis 
+Seite 
+Einleitung ...................................................................................................... 3 
+Status Quo Rechenzentrumsstandort und Marktentwicklung ................ 4 
+Standortkennzahlen & Marktstruktur ............................................................. 4 
+Marktentwicklungen ...................................................................................... 5 
+Stärken und Schwächen des Rechenzentrumsstandorts Deutschland ............ 5 
+Ziele  ............................................................................................................. 8 
+Handlungsfeld Energie und Nachhaltigkeit ................................................... 8 
+Handlungsfeld Standort und Fläche ............................................................... 8 
+Handlungsfeld Technologie und Souveränität ............................................... 8 
+Handlungsfeld Energie und Nachhaltigkeit ............................................... 10 
+1. Einleitung und strategischer Rahmen ............................................... 10 
+2. Strategische Ziele und Maßnahmen .................................................. 10 
+Ziel 1:  Stromnetzanschlüsse von Rechenzentren sicherstellen und 
+beschleunigen.  ................................................................................. 10 
+Ziel 2:  Deutschland als einen Standort für nachhaltige 
+Rechenzentren, die vollständig mit erneuerbarem Strom 
+versorgt und energieeffizient sind, stärken.  ..................................... 11 
+Ziel 3:  Wettbewerbsfähige Strompreise für Rechenzentren anstreben. ....... 12 
+Handlungsfeld Standort und Fläche ........................................................... 14 
+1. Einleitung und strategischer Rahmen ............................................... 14 
+Zugeleitet mit Schreiben des Bundesministeriums für Digitales und Staatsmodernisierung vom 18. März 2026. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+ Seite 
+2. Strategische Ziele und Maßnahmen ..................................................  14 
+Ziel 1:  Flächen identifizieren und attraktiv für Investoren und 
+Kommunen ausgestalten ...................................................................  14 
+Ziel 2:  Planungs- und Genehmigungsverfahren für Rechenzentren 
+beschleunigen ...................................................................................  15 
+Handlungsfeld Technologie und Souveränität ..........................................  17 
+1. Einleitung und strategischer Rahmen ...............................................  17 
+2. Strategische Ziele und Maßnahmen ..................................................  17 
+Ziel 1:  Souveräne und hochleistungsfähige Recheninfrastruktur für 
+KI, Cloud und andere bahnbrechende Technologien ausbauen ........  17 
+Ziel 2:  Entwicklung innovativer Technologien insb. für KI-, Cloud- 
+und Edge-Computing stärken ...........................................................  19 
+Ziel 3:  Anwendung und Nutzung souveräner Rechenkapazitäten 
+stärken...............................................................................................  20 
+Nächste Schritte ...........................................................................................  21 
+Agiler und transparenter Strategie- und Arbeitsprozess.................................  21 
+Umsetzung der Maßnahmen ..........................................................................  21 
+Entwicklung weiterer Maßnahmen ................................................................  21 
+Monitoring .....................................................................................................  21 
+Finanzierung ..................................................................................................  21 
+Quellenverzeichnis .......................................................................................  22 
+ 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Einleitung 
+Eine umfassende Digitalisierung und ausreichende Rechenzentrumskapazitäten sind wichtige Faktoren für eine 
+zukunfts- und wettbewerbsfähige Wirtschaft und eine moderne öffentliche Verwaltung. Wir stehen weltweit und 
+auch in Deutschland am Beginn einer neuen Phase der digitalen Transformation. Rechenzentren („Data Centers“) 
+sind eine entscheidende physische Grundlage der digitalen Transformation einer Gesellschaft, sichern die
+Leistungsfähigkeit moderner Volkswirtschaften, ermöglichen Innovation, stärken Wertschöpfung und bilden eine
+wesentliche Voraussetzung für digitale Souveränität und Wirtschaftssicherheit in Deutschland und Europa. Für die 
+Entwicklung von Modellen der Künstlichen Intelligenz und deren Nutzung gewinnt die Rolle von Rechenzentren 
+als kritische Zukunftsinfrastruktur weltweit weiter an Bedeutung. Deutschland mit seiner starken Volkswirtschaft, 
+dem weltweit bedeutendsten Internetknoten, zahlreichen an der digitalen Transformation beteiligten
+Technologieunternehmen und Forschungseinrichtungen darf dabei nicht Zuschauer sein, sondern muss und will die digitale 
+Zukunft gemeinsam mit den europäischen Partnern selbstbestimmt gestalten. Eine resiliente digitale Infrastruktur 
+und digitale Souveränität sind angesichts der geopolitischen Risiken, denen Deutschland und Europa
+gegenüberstehen, zudem nicht nur ein wesentliches Element unserer digitalen Leistungsfähigkeit, sondern auch unserer
+nationalen Sicherheit. Wir müssen eigene Fähigkeiten aufbauen, um zu verhindern, dass andere, nicht
+wohlgesonnene Akteure die Kontrolle von kritischen Netzwerk-, Rechen- und Kommunikations- und
+Finanztransaktionsstrukturen und deren technischen Komponenten als wirtschaftliches Druckmittel gegen Deutschland und Europa 
+einsetzen können. Digitale Souveränität bedeutet auch den Abbau von Abhängigkeiten von marktmächtigen
+außereuropäischen Anbietern, von der Software bis zum Chip.   
+Unser Anspruch ist klar: Deutschland soll einer der führenden und attraktiven Standorte für
+Rechenzentrumskapazitäten sein. Wir wollen die Rechenzentrumskapazitäten in Deutschland bis 2030 mindestens verdoppeln.
+Rechenkapazitäten für High-Performance-Computing (HPC) und Künstliche Intelligenz (KI) wollen wir dabei
+mindestens vervierfachen.  
+Dafür braucht es Rahmenbedingungen, die Wettbewerbs- und Innovationsfähigkeit stärken, Investitionen fördern 
+und Planbarkeit sichern. Wir beschleunigen Planungs- und Genehmigungsverfahren unter Wahrung von
+Umweltstandards, verbessern den Zugang zu Anschlüssen an die Stromnetze, streben wettbewerbsfähige Strompreise an 
+und richten unsere Standortpolitik strategisch aus. Hohe ökologische und soziale Nachhaltigkeitsstandards
+verbinden wir mit wirtschaftlicher Stärke, Innovation und technologischer Exzellenz. 
+Diese Strategie ist Ausdruck eines klaren politischen Willens: Wir wollen die digitale Leistungsfähigkeit
+Deutschlands und Europas auf ein neues Niveau heben. Rechenzentren spielen dabei eine Schlüsselrolle – als Orte
+wirtschaftlicher Wertschöpfung, technologischer Innovation, europäischer Souveränität und Wirtschaftssicherheit. 
+Der Ausbau der Rechenzentrumskapazität in Deutschland liefert eine notwendige Grundlage für die erfolgreiche 
+Entwicklung und Implementierung beispielsweise KI-gestützter Lösungen und trägt zu mehr Wertschöpfung und 
+Wettbewerbsfähigkeit bei.  
+Diese Strategie unterstützt auch die Erreichung des Ziels der Hightech Agenda Deutschland (HTAD),
+Innovationen in Wertschöpfung und Wettbewerbsfähigkeit umzusetzen. Insbesondere verbessert diese Strategie und der 
+Ausbau der Rechenkapazitäten in Deutschland die Verfügbarkeit und Nutzbarkeit von KI-Kapazitäten für
+Wissenschaft, Forschung, Wirtschaft, Verwaltung und Gesellschaft und liefert einen wichtigen Baustein zur
+Umsetzung der technologischen Führerschaft in den sechs prioritären Schlüsseltechnologien der HTAD1. Sie unterstützt 
+die Stärkung von Kompetenzen und die Entwicklung von Lösungen entlang des gesamten Technologie-Stacks in 
+Deutschland und Europa, legt die Grundlage für die Ausführung rechenintensiver Anwendungen und stützt so 
+den Transfer sowie die Kommerzialisierung innovativer Lösungen. Zudem unterstreicht sie unser neues
+Ambitionsniveau in der Forschungs- und Technologiepolitik.  
+Diese Strategie zielt sowohl auf Betreiber, Investoren, Ausrüster und Gestalter der digitalen Zukunft als auch die 
+öffentliche Hand. Ziel ist es, die Rahmenbedingungen in Deutschland so zu verändern, dass Investitionen in
+Rechenkapazität genauso schnell umgesetzt werden können, wie der Bedarf an Digitalisierung von Wirtschaft (Start-
+Ups, Mittelstand, Industrie), Wissenschaft und Forschung, öffentlicher Verwaltung sowie auch der Gesellschaft 
+insgesamt, einschließlich der organisierten Zivilgesellschaft wächst. Die Bundesregierung setzt auf einen
+Austausch mit allen Stakeholdern. Im jährlichen Abstand sollen aktuelle Maßnahmenpläne veröffentlicht werden. 
+ 
+1 Künstliche Intelligenz, Quantentechnologien, Mikroelektronik, Biotechnologie, Fusion und klimaneutrale Energieerzeugung,
+Technologien für die klimaneutrale Mobilität. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Gemeinsam sind wir unverzichtbare Partner auf diesem Weg. Wir laden alle Stakeholder ein, gemeinsam mit uns 
+die digitale Recheninfrastruktur der nächsten Generation zu entwickeln. 
+Status Quo Rechenzentrumsstandort und Marktentwicklung 
+Weltweit gibt es eine außergewöhnliche Dynamik im Ausbau der Rechenzentrumslandschaft Insbesondere der 
+Hyperscale- und KI-getriebene Kapazitätsaufbau führt zugleich zu einer rasanten geografischen Ausweitung und 
+Verlagerung von Investitionsschwerpunkten. Global nimmt Europas Anteil am Rechenkapazitäts-Ausbau
+insbesondere gegenüber den USA und China ab (Cushman & Wakefield, 2025). Die Rechenzentrumsmärkte sind in 
+den vergangenen Jahren weltweit deutlich gewachsen: in den USA um 24,4 Prozent, in der Asien-Pazifik-Region 
+um 22 Prozent und in Europa um 20 Prozent. Auch in den nächsten Jahren wird mit erheblichen Wachstumsraten 
+von jährlich 22 Prozent gerechnet (dena, 2025). Die Internationale Energieagentur (IEA) hat für 2030 eine
+Verdopplung des weltweiten Energiebedarfs der Rechenzentren auf rund 945 Terawattstunden (TWh) prognostiziert 
+(IEA, 2025). Geographisch verschiebt sich der Ausbau von Rechenkapazitäten zunehmend in Regionen mit
+günstigen Energiepreisen, hoher Verfügbarkeit von erneuerbaren Energien und kurzen Genehmigungsverfahren, etwa 
+nach Skandinavien, in die Vereinigten Arabischen Emirate oder Teile der USA (Cushman & Wakefield, 2025; 
+McKinsey, 2025).  
+Standortkennzahlen & Marktstruktur  
+Deutschland ist gemessen an Kapazitäten und Anzahl der Standorte der größte Rechenzentrumsmarkt in Europa.  
+Tabel le 1  Kernzahlen (Überblick) Deutschland 
+IT-Anschlussleistung:  2.980 MW und davon ~ 500 MW für KI (Borderstep, 2025); 
+Struktur:  ~ 2.000 RZ (>100 kW); ~ 100 Groß-RZ (>5 MW); Anteil >5 MW-RZ: 
+48 Prozent (Borderstep, 2024) 
+Stromverbrauch:  ~ 21 TWh (2025) ≈ 4 Prozent des Bruttostromverbrauchs (Borderstep, 2025) 
+Marktsegmente: > 50 Prozent Colocation-Anteil; Cloud nutzt 49 Prozent der Kapazitäten 
+(Borderstep, 2025) 
+Borderstep (2025) beziffert die IT-Anschlussleistung von Rechenzentren in Deutschland auf 2.980 MW2. Diese 
+hat sich damit im Vergleich zum Jahr 2010 mehr als verdoppelt. Das Wachstum wird vor allem von großen
+Rechenzentren mit mehr als 5 MW Anschlussleistung verursacht, deren Kapazität sich seit 2010 nahezu verfünffacht 
+hat. Relativ zur Wirtschaftsstärke (BIP) liegt Deutschland innerhalb Europas im Mittelfeld und hinter EU-
+Mitgliedstaaten wie z. B. den Niederlanden, Schweden oder Irland (Borderstep, 2024). 
+Der Anteil von Rechenzentren, die in Deutschland für High-Performance-Computing (HPC) oder KI-
+Anwendungen genutzt werden, liegt laut Borderstep (2025) bei 15 Prozent und damit knapp 500 MW Anschlussleistung3. 
+Anders als in den USA oder China gibt es in Deutschland bislang aber noch keine großskaligen kommerziellen 
+Rechenzentren, die nur für KI genutzt werden (Borderstep, 2025). Verschiedene im Jahr 2025 angekündigte
+Investitionen in Rechenzentren werden allerdings dazu beitragen, dass die hiesigen Rechenkapazitäten für KI
+steigen werden.  
+Der Stromverbrauch für Rechenzentren steigt und beträgt ungefähr 21 TWh (2025). Ihr Anteil am
+Bruttostromverbrauch liegt bei rund 4 Prozent. Effizienzgewinne (Verbesserung der sogenannte Power Usage Effectiveness 
+(PUE) von durchschnittlich 1,8 auf 1,43 seit 2010) reduzieren den Stromverbrauch je Recheneinheit, werden aber 
+durch den Nachfragezuwachs (Cloud, KI, HPC) übertroffen (Borderstep, 2025). Zur Höhe der
+Treibhausgasemissionen durch Rechenzentren kommen Studien je nach Untersuchungsgegenstand zu unterschiedlichen
+Ergebnissen (Borderstep, 2024; Fraunhofer IZM, 2025). Zu sinkenden Emissionen pro Rechenleistung dürften aber 
+ 
+2 Die Schätzung der Anschlussleistung hängt von den zugrunde gelegten Daten ab. Nach Einschätzung der Bundesregierung stellt aktuell 
+die Schätzung von Borderstep (2025) die umfassendste und damit verlässlichste Berechnung dar.    
+3 Deloitte (2025) schätzt die Anschlussleistung der grundsätzlich KI-fähigen Rechenzentren in Deutschland und berechnet für 2025 einen 
+Wert von 1,6 GW.  
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+insbesondere der verpflichtende bilanzielle Bezug von EE-Strom und der zugleich weiterhin dynamische Ausbau 
+erneuerbarer Energien beitragen. Treibhausgasemissionen bei der Herstellung der Informationstechnik (IT) sind 
+hierbei unberücksichtigt. 
+Räumlich sind im Gebiet Frankfurt/Rhein-Main die größten Rechenzentrumskapazitäten in Deutschland verortet 
+(mehr als ein Drittel der nationalen Gesamtkapazität; Borderstep, 2025), wobei dieses historisch zunächst wegen 
+der Nähe zum DE-CIX sowie dem dortigen Bankenstandort entstandene und in der EU bedeutendste Cluster bei 
+Stromnetzanschlusskapazitäten (ähnlich wie die anderen etablierten großen europäischen Rechenzentren-Cluster 
+London, Amsterdam) zunehmend an Flächen- und Netzgrenzen stößt. Berlin-Brandenburg sowie aus
+Stromnetzsicht günstige Lagen (z. B. Rheinisches Revier) gewinnen an Dynamik. Mittelgroße und große Rechenzentren 
+sind aktuell in strukturstarken Großstädten und Ballungsräumen in Deutschland überrepräsentiert. In der
+Gesamtschau sind 20,1 Prozent der Rechenzentren in ländlichen Räumen verortet, während sich nur 1,4 Prozent der
+Rechenzentren in strukturschwachen sehr ländlichen Räumen befinden.  
+Marktentwicklungen 
+Globale Wachstumsraten für Cloud- und Colocation-Kapazitäten werden für die nächsten Jahre jeweils im
+zweistelligen Prozentbereich prognostiziert (Borderstep, 2025). Zugleich werden vor allem in den USA und China 
+zunehmend großskaligere, energieintensive KI-Infrastrukturen geplant bzw. angekündigt. Zu erwarten ist
+außerdem, dass Hyperscaler in ihren Rechenzentren auch KI-Systeme aufbauen werden. Zudem wachsen auch
+Neocloud-Anbieter (Bertelsmann-Stiftung/Interface, 2025). 
+Für Deutschland erwartet Borderstep (2025) einen Anstieg der Anschlussleistung von Rechenzentren bis 2030 
+auf insgesamt 5.000 MW. Der Anteil von Rechenzentren, die für HPC und KI genutzt werden können, soll bis 
+2030 auf 40 Prozent und damit rund 2 GW steigen. KIRA (2025) erwartet je nach Ambitionsniveau einen Anstieg 
+der Anschlussleistung für KI-Rechenzentren auf 0,8 GW - 5,9 GW bis 2028). Selbst wenn solche
+Ausbauprognosen sich im Detail unterscheiden, belegen sie, dass der Ausbaubedarf groß ist. 
+Auch auf der Nachfrageseite wird der Markt vor allem durch den rasanten Anstieg von KI- und HPC-Workloads 
+geprägt. Studien prognostizieren, wenn auch ohne detaillierte Angaben zu Annahmen und Berechnungsmodellen, 
+dass sich der Bedarf an Rechenleistung für KI in Deutschland zwischen 2025 und 2030 verdreifachen könnte (von 
+1,6 GW auf 4,8 GW; Deloitte, 2025; KIRA schätzt den Bedarf an KI-Rechenkapazität sogar auf 4,2 GW bis 2028; 
+KIRA, 2025). Andere verweisen darauf, dass die Marktentwicklung mit außergewöhnlicher Geschwindigkeit
+erfolge und sich die Nachfrage in den Bereichen Pre-training, Post-training und Inferenz in den kommenden Jahren 
+auch sehr verändern könne (Bertelsmann-Stiftung/Interface, 2025). Zugleich entsteht neben u. a. KI-
+Rechenleistung neue Nachfrage nach auch Edge- bzw. verteiltem Rechnen, um in Ergänzung zu Cloud Latenzzeiten zu 
+reduzieren und industrielle Anwendungen, IoT und autonome Systeme zu unterstützen.  
+Laut IEA (2025) wird sich der Stromverbrauch von Rechenzentren bis 2030 weltweit verdoppeln. Für Europa 
+prognostiziert die IEA bis 2030 einen Anstieg um 70 Prozent gegenüber dem Niveau von 2024. Rechenzentren 
+seien damit global für knapp 10 Prozent des zusätzlichen Strombedarfs zwischen 2024 und 2030 verantwortlich.  
+Parallel nimmt die sogenannte Kopplung von Rechenzentren mit anderen Infrastrukturen – etwa Wärme- oder 
+Energieinfrastruktur – stark zu. Der Markt für solche Kopplungslösungen wuchs zwischen 2024 und 2025 von 
+14,7 Mrd. US-Dollar auf 16,5 Mrd. US-Dollar und gilt als zentraler Hebel für Nachhaltigkeit und
+Systemintegration. Außerdem verändern sich auch Investorenstrategien. Neben Colocation-Anbietern und Immobilienfonds
+treten verstärkt Infrastruktur- und Private-Equity-Investoren auf, die sich auch mit Blick auf mögliche
+Rechenzentren Land- und Energiekapazitäten frühzeitig sichern, um langfristige Wettbewerbsvorteile zu schaffen (Datacen-
+ters.com, 2025). 
+Bis zum Jahr 2029 wird es laut Mittelfristprognose des Fachkräftemonitorings zu einer Verdopplung der Zahl der 
+Fokusberufe mit Engpässen kommen, u. a. bei IT-Berufen sowie in Produktions- und Bauberufen (Zika et al., 
+2025). 
+Stärken und Schwächen des Rechenzentrumsstandorts Deutschland  
+Eine Analyse der Stärken und Schwächen des Rechenzentrumsstandortes Deutschland bietet die Grundlage, um 
+insoweit Chancen und Herausforderungen einordnen zu können. Energie und Nachhaltigkeit sind entscheidend 
+für die ökologische und ökonomische Tragfähigkeit der Entwicklung des Rechenzentrumsstandortes Deutschland. 
+Ein zweites Themenfeld betrifft insgesamt die Verfügbarkeit, Erschließung und Wirtschaftlichkeit geeigneter 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Standorte und Flächen. Und drittens geht es um Technologie und Souveränität, welche Innovationskraft,
+Abhängigkeiten und strategische Eigenständigkeit des Rechenzentrumsstandortes prägen. 
+Tabelle 2  Tabellarische Gegenüberstellung der Stärken und Schwächen des
+Rechenzentrumsstandorts Deutschland 
+ Stärken  Schwächen 
+H
+an
+dl
+un
+gs
+fe
+ld
+ E
+ne
+rg
+ie
+ u
+nd
+ 
+N
+ac
+hh
+al
+tig
+ke
+it 
+Deutschland verfügt generell über eine sehr 
+hohe Versorgungssicherheit und gut ausgebaute 
+Energieversorgung ebenso wie speziell auch 
+Netzinfrastruktur. Aufgrund des hohen Anteils 
+erneuerbarer Energien im Strommix, dem 
+Zugang zu sog. Power Purchase Agreements 
+(PPAs) und Herkunftsnachweisen verbunden 
+mit vergleichsweise hoher Energieeffizienz, 
+entsprechenden Regularien und vielen 
+verfügbaren innovativen Technologien bietet 
+Deutschland hervorragende Voraussetzungen 
+für nachhaltige Rechenzentren. Bereits heute 
+können viele Betreiber ihren Strom bilanziell 
+klimaneutral beziehen.  
+Anschlusskapazitäten im Stromnetz sind knapp, 
+v. a. in bestehenden Hotspots; lange 
+Anschlusszeiten und eine fehlende Verzahnung 
+von Energie- und Standortplanung behindern 
+den Ausbau. Die Strompreise einschließlich 
+Netzentgelte liegen international im oberen 
+Drittel und belasten die Wettbewerbsfähigkeit; 
+(separate) hohe Netzentgelte und Abgaben 
+tragen zu diesem Effekt bei. Die systemische 
+Integration in Strom- und Wärmenetze steht 
+noch am Anfang, einheitliche technische 
+Anforderungen für den Netzanschluss sind zu 
+definieren (EU-weit).  
+H
+an
+dl
+un
+gs
+fe
+ld
+ S
+ta
+nd
+or
+t u
+nd
+ F
+lä
+ch
+e 
+Deutschland bietet durch seine zentrale Lage in 
+Europa, die exzellente Konnektivität (u. a. DE-
+CIX), aber auch die gut ausgebaute Verkehrs- 
+und Versorgungsinfrastruktur attraktive 
+Standortbedingungen. Lange etablierte 
+Clusterregionen wie Frankfurt/Rhein-Main als 
+Teil der sogenannten FLAP-D-Märkte (FLAP-D 
+= Frankfurt, Loon, Amsterdam, Paris und 
+Dublin), mittlerweile auch zunehmend Berlin-
+Brandenburg oder Nordrhein-Westfalen 
+verfügen über gewachsene 
+Planungskompetenzen und ein gut 
+funktionierendes Immobilien- und 
+Finanzierungsumfeld. Zudem bieten auch 
+ländliche Räume geeignete, dezentrale 
+Standorte, unter Anderem weil dort ein Großteil 
+der Erneuerbaren Energien erzeugt wird. Für 
+Investoren gilt Deutschland als stabiler Markt 
+mit hoher Nachfragesicherheit. 
+Geeignete Flächen sind aus Sicht von 
+Investoren relativ knapp, insbesondere in 
+aktuellen Hotspots. Vorausschauende Standort- 
+und Raumordnungsplanung fehlt häufig noch 
+(u. a. Berücksichtigung von Um- und 
+Mehrfachnutzungen vorhandener Flächen 
+anstelle von Flächenneuausweisung), wodurch 
+Clusterentwicklung derzeit nicht immer 
+strategisch mit Energie-/Netzinfrastruktur, 
+Abwärme oder auch Wasserversorgung 
+abgestimmt ist. Eine Herausforderung stellen 
+zudem die aus Sicht der Branche als zu lang, 
+komplex, heterogen wahrgenommenen 
+Verfahren zur Genehmigung geplanter 
+Vorhaben dar; Verfahren sind häufig auch nicht 
+auf große Campus-Projekte ausgelegt und 
+insgesamt stark kommunal geprägt. 
+H
+an
+dl
+un
+gs
+fe
+ld
+ T
+ec
+hn
+ol
+og
+ie
+ 
+un
+d 
+So
+uv
+er
+än
+itä
+t 
+Deutschland verfügt, wie auch der 
+internationale Vergleich zeigt, über exzellente, 
+staatlich finanzierte Rechenzentren zu 
+Forschungszwecken. Hierzu zählt z. B. das 
+Gauss Centre für Supercomputing (GCS) – 
+bestehend aus HLRS, JSC, LRZ. Hinzu 
+kommen das Nationale Hochleistungsrechnen 
+(NHR) und die Nationale 
+Forschungsdateninfrastruktur (NFDI). Auch 
+gibt es eine herausragende und forschungsstarke 
+Fachcommunity mit Expertise entlang des 
+Deutschland verfügt bislang kaum über 
+kommerzielle KI-Kapazitäten. In den Bereichen 
+Cloud Computing, KI-Computing und 
+Plattformen besteht eine starke Abhängigkeit 
+von außereuropäischen Hyperscalern. Diese 
+unterliegen neben dem EU-Recht auch Gesetzen 
+von EU-Drittstaaten mit extraterritorialer 
+Wirkung. Europäische Alternativen können 
+insb. in Bezug auf Leistungsumfang und 
+Skalierbarkeit teilweise noch nicht mit 
+marktstarken Hyperscalern konkurrieren. 
+Zudem erschweren Lock-In-Effekte den 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+ Stärken  Schwächen 
+gesamten Technologie-Stacks. Im 
+kommerziellen Bereich bieten eine dichte 
+Colocation-Infrastruktur und die hohe 
+Netzkonnektivität zudem eine gute technische 
+Ausgangsbasis für den Aufbau souveräner 
+Infrastrukturen. Rechenzentren in Deutschland 
+zeichnen sich durch einen hohen 
+technologischen Standard aus Deutschland 
+verfügt außerdem über innovative und 
+leistungsfähige Unternehmen, die Technologien 
+für Bau und Betrieb von Rechenzentren 
+anbieten. Zudem gestaltet Deutschland aktiv 
+europäische Programme und Governance-
+Strukturen wie EuroHPC, IPCEI Cloud, Gaia-X 
+und die europäischen Datenräume mit, die 
+gemeinsame Grundlagen für souveräne digitale 
+Infrastrukturen entwickeln. 
+Umstieg auf und die Nutzung europäischer 
+Lösungen. Skalierung von technologischen 
+Innovationen in Rechenzentren erfolgt eher 
+langsam oder nur schrittweise, z. B. Umsetzung 
+Heißwasserdirektkühlung oder modularer RZ-
+Architekturen.  
+Bestehende und geplante Rechenzentren in 
+Deutschland setzen im KI-Bereich auf 
+außereuropäische Hardware, energiesparende 
+und vertrauenswürdige europäische Halbleiter 
+und Systeme können sich gegen Quasi-
+Monopole kaum durchsetzen.  
+ 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Ziele 
+Wir wollen die Rechenkapazitäten in Deutschland bis 2030 mindestens verdoppeln, die Rechenkapazitäten für KI 
+mindestens vervierfachen. Dabei werden wir nachhaltige Aspekte berücksichtigen, eine resiliente regionale
+Aufstellung fördern und den Souveränitätsgedanken von Deutschland und der EU stärker in den Blick nehmen. 
+Wir wollen ermöglichen, dass Deutschland, gemessen an der Anschlussleistung, dauerhaft zu den bedeutendsten 
+Rechenzentrumsstandorten weltweit zählt und sich dabei zugleich durch ein hohes Maß an Nachhaltigkeit
+auszeichnet. Wir stärken den Rechenzentrumsstandort Deutschland als Leuchtturm Europas, indem wir Cluster und 
+regionale sowie dezentrale Ansiedlungen unterstützen.    
+Denn wir wissen: Eine zukunftsfähige Gesellschaft und eine wettbewerbsstarke Wirtschaft sind ohne umfassende 
+digitale Transformation nicht denk- und gestaltbar. Leistungsfähige Rechenkapazitäten sind der Ausgangspunkt 
+für die Entwicklung innovativer und wettbewerbsfähiger KI-Anwendungen, mit denen Produktivitätspotentiale 
+für Wirtschaft und Arbeitswelt nachhaltig realisiert werden können. Für die Entwicklung innovativer
+Geschäftsmodelle, die Nutzung bahnbrechender Technologien, die Schaffung innovativer Arbeitsplätze und die
+Modernisierung von Wirtschaft, Verwaltung und Gesellschaft braucht es leistungsfähige Rechenkapazitäten, um
+Verfügbarkeit, Sicherheit und Souveränität zu gewährleisten. Die Stärkung des Rechenzentrumsstandorts Deutschland 
+ist daher ein zentrales strategisches Ziel.  
+Wir wollen IT-Anschlussleistung von Rechenzentren bis 2030 gegenüber 2025 verdoppeln. Die
+Anschlussleistung von KI-Rechenzentren wollen wir bis 2030 gegenüber 2025 sogar mindestens vervierfachen. Dafür wollen 
+wir die Rahmenbedingungen in den Handlungsfeldern Energie und Nachhaltigkeit, Standort und Fläche,
+Technologie und Souveränität so gestalten, dass Investitionen in Rechenkapazitäten genauso schnell umgesetzt werden 
+können, wie der Bedarf an Rechenkapazitäten wächst. Rechenkapazitäten in Deutschland sollen gemeinsam mit 
+dem Markt und der Nachfrage wachsen und zum Fundament einer leistungsfähigen, souveränen und nachhaltigen 
+digitalen Infrastruktur werden. Dafür müssen Maßnahmen in allen genannten Handlungsfeldern erfolgen und
+dabei ineinandergreifen.   
+Handlungsfeld Energie und Nachhaltigkeit 
+Wir wollen, dass Rechenzentren zuverlässig, bezahlbar und umweltverträglich mit Energie versorgt werden.
+Voraussetzung für einen zukunftsfähigen Rechenzentrumstandort ist daher ein leistungsfähiges und flexibles
+Energiesystem. Der Leistungsbedarf von Rechenzentren sollte daher möglichst frühzeitig in die Planung von
+Netzinfrastrukturen integriert werden. Netzanschlussprozesse sowie die Nutzung vorhandener Kapazitäten sollten
+Anforderungen von Rechenzentren bestmöglich Rechnung tragen. Energieeffizienz, Erneuerbare Energien,
+Abwärmenutzung und wassersparende Kühlsysteme sind zentrale Hebel für Nachhaltigkeit und Versorgungssicherheit 
+und alle auch bei der Standortwahl relevant. 
+Handlungsfeld Standort und Fläche 
+Ohne geeignete Standorte bzw. Fläche gibt es keine Investitionen in Rechenzentren. Flächen müssen frühzeitig 
+identifiziert, planerisch gesichert und infrastrukturell erschlossen werden. Ein Ansatz mit starken zentralen wie 
+auch dezentralen Standorten ist entscheidend für eine resiliente Aufstellung. Im Sinne der Nachhaltigkeit sollte 
+dabei vorrangig auf die Nach-, Um- und Doppelnutzung von Flächen geachtet werden, um den Flächenverbrauch 
+nicht weiter zu steigern. Wichtig ist deswegen eine vorausschauende Standort- und Raumordnungsplanung.
+Einschlägige Planungs- und Genehmigungsprozesse sind, unter Wahrung von Umweltstandards, zu beschleunigen, 
+damit Deutschland angesichts auch der hohen Entwicklungsgeschwindigkeit im Digitalbereich international
+attraktiv bleibt. 
+Handlungsfeld Technologie und Souveränität 
+Digitale Souveränität erfordert nationale und europäische Kompetenzen, IT-Infrastruktur, technologische
+Fähigkeiten und Kapazitäten über den gesamten Technologie-Stack. Zugleich stellen speziell Rechenzentren wichtige 
+Vorhaben dar, um europäische Technologien über den gesamten Technologie-Stack zu kommerzialisieren und 
+skalieren.  
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Unsere Souveränität wollen wir insbesondere im Schulterschluss mit unseren europäischen Partnern stärken.
+Daher wollen wir europäische Initiativen weiter aktiv mitgestalten, offene Standards fördern und technologische 
+Handlungsfähigkeit sichern, um Daten- und Technologiehoheit sowie Wettbewerbsfähigkeit zu stärken. Dies 
+stärkt die Wirtschaftssicherheit Deutschlands und der EU. 
+Rechenzentren bzw. ihre Betreiber müssen technologisch führend sein, um wettbewerbs- und zukunftsfähig im 
+Sinne auch der Wirtschaftssicherheit und Nachhaltigkeit zu bleiben. Gleiches gilt für die Anbieter von
+Rechenzentrumstechnologien. Innovationen im gesamten Technologie-Stack schaffen Standortvorteile. Nicht zuletzt gilt 
+dies auch für die praktische Umsetzung von Innovationen im Rechenzentrum selbst, beispielsweise im Bereich 
+Kühltechnik, Energieeffizienz und Vermarktungsmöglichkeiten.  
+Dies betrifft Innovationen bei Hochleistungsrechnern (HPC) ebenso wie Recheninfrastruktur für KI, Cloud und 
+Edge bis zu Quantentechnologien. Gleiches gilt für Anbieter von Hard- oder Software, sei es bei
+hardwarebezogenen Ausgaben für IT-Infrastruktur (Server, Speicherlösungen sowie Netzwerkinfrastruktur wie Router und 
+Switches auf der Systemebene, aber auch für die Komponenten bis hin zu den zugrundeliegenden
+Halbleiterchips), Software für Rechenzentren oder sekundär durch Nutzung von Technologien wie lokale Abwärmenutzung.  
+Investitionen aus Drittstaaten sind uns willkommen. Gleichwohl zielen wir vor allem darauf ab, Unternehmen aus 
+Deutschland und Europa, gerade auch KMU und Start-ups, zu stärken. Wir wollen darauf achten, dass bei Bau 
+und Betrieb von Rechenzentren europäische und lokale Wertschöpfung gestärkt wird. Dazu können auch die
+Nutzung erneuerbarer Energien und die Verwertung von Abwärme beitragen.  
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Handlungsfeld Energie und Nachhaltigkeit 
+1. Einleitung und strategischer Rahmen 
+Wie in Deutschland insgesamt soll speziell auch für Rechenzentren in Deutschland eine vollständig erneuerbare, 
+bezahlbare und sichere Energieversorgung gewährleistet werden. Ein zukunftsfähiger Rechenzentrumsstandort 
+erfordert deshalb ein leistungsfähiges, flexibles und auf Wachstum ausgerichtetes Energiesystem.
+Energieeffizienz und Abwärmenutzung sind weitere zentrale Faktoren für die Planung und den Betrieb von Rechenzentren. 
+2. Strategische Ziele und Maßnahmen 
+Ziel 1:  Stromnetzanschlüsse von Rechenzentren sicherstellen und beschleunigen. 
+Ein verlässlicher und schneller Netzanschluss ist eine zentrale Voraussetzung für die Erschließung neuer oder die 
+Erweiterung bestehender Rechenzentrumsstandorte. Aus Sicht der Stromnetze bündeln Rechenzentren hohe,
+dauerhafte Leistungsaufnahmen allerdings auch mit teilweise sehr schnellen Änderungen des Leistungsbezugs, dies 
+gilt vor allem für kommerzielle Rechenzentren (nicht für wissenschaftliche Rechenzentren). Der Netzanschluss 
+erfolgt häufig auf der Hochspannungsebene, bei sehr großen Rechenzentren-Projekten teilweise auch auf der
+Umspannebene zur Höchstspannung. Soweit es sich um Verbraucher mit einer hohen Anschlussleistung handelt, sind 
+auch immer Aspekte der Systemstabilität zu berücksichtigen. Um regional konzentriert und zügig eine hohe
+Anzahl an Rechenzentren anschließen zu können, sind weiterentwickelte technische Anforderungen für den
+Netzanschluss essentiell, um einen stabilen Netzbetrieb zu gewährleisten. Diese müssen unter Einbeziehung der Branche 
+schnell entwickelt und möglichst EU-weit harmonisiert werden. 
+Gleichzeitig bestehen Konkurrenzsituationen mit anderen Netzanschlusspetenten mit großem Leistungsbedarf. 
+Dazu zählen beispielsweise Unternehmen, die ihre Produktionsprozesse elektrifizieren oder Großwärmepumpen. 
+Der Leistungsbedarf von Rechenzentren sollte daher möglichst frühzeitig in der Planung von Netzinfrastrukturen 
+berücksichtigt werden. Das erfordert beidseitig, also von Netzbetreibern sowie von Rechenzentrumsbetreibern, 
+eine transparente Kommunikation zu ihren Planungen. Darüber hinaus sind Netzanschlussprozesse effizienter zu 
+gestalten und Prozesse bei Anschlussbegehren zu verbessern, damit Standortentscheidungen nach Möglichkeit 
+nicht an der Verfügbarkeit von Netzanschlusskapazität scheitern. 
+Maßnahme 1:  Überarbeitetes Vergabeverfahren der Übertragungsnetzbetreiber ermöglichen. 
+Rechenzentren konkurrieren um das knapper werdende Gut der Netzanschlusskapazität mit anderen
+Anschlusspetenten, derzeit insbesondere Großbatteriespeichern. Allein im Übertragungsnetz liegen den vier
+Übertragungsnetzbetreibern Anschlussanfragen im dreistelligen Gigawattbereich für Batteriespeicherprojekte vor.
+Netzanschlussverfahren müssen daher überdacht werden. Den Übertragungsnetzbetreibern sollte mehr
+Handlungsspielraum eröffnet werden, Kapazitäten für Rechenzentren vorzuhalten.  
+Als erste kurzfristige Maßnahme um zu verhindern, dass vorhandene Stromnetzanschlüsse blockiert und damit 
+u. a. auch neue Rechenzentren möglicherweise über Jahre verhindert würden, hat die Bundesregierung Ende 2025 
+die KraftNAV insoweit geändert.  
+Um das Vergabeverfahren der Übertragungsnetzbetreiber zu Netzanschlusskapazitäten zu überarbeiten, wird die 
+Bundesregierung Vorschläge vorlegen.   
+Maßnahme 2:  Verbessertes Vergabeverfahren der Verteilnetzbetreiber schaffen, u. a.
+verbesserte Transparenz über freie Netzanschlusskapazität. 
+Auch im Verteilnetz bestehen spezifische Herausforderungen beim Netzanschluss von Rechenzentren. Die
+Prozesse sollten verbessert und digitalisiert werden. Höhere Transparenz über vorhandene Anschlusskapazitäten und 
+belastbare Ausbaupläne für alle Interessenten wie auch Rechenzentren können helfen, Anfragen zu
+Informationszwecken von ernsthaften Netzanschlussbegehren zu trennen. Es bedarf Reservierungsmechanismen für
+Netzanschlusskapazität, die an den jeweiligen Projektfortschritt anknüpfen. So kann die beiderseitige Planungssicherheit 
+gestärkt werden. Vorhandene Kapazitäten müssen derweil effizient genutzt werden. Dabei ist zu berücksichtigen, 
+dass Kapazitätssteuerung im Verteilnetz nur im Zusammenspiel mit einer abgestimmten Struktur‑ und
+Standortpolitik wirksam umgesetzt werden kann. Die Herausforderungen sind regional sehr unterschiedlich, sodass es 
+weniger den einen Mechanismus gibt, sondern einen Instrumentenkasten braucht, der Vergabeverfahren,
+Reservierungslogiken, Standortsteuerung und technische Anforderungen zusammenführt. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Um auch das Vergabeverfahren der Verteilnetzbetreiber zum Netzanschluss zu überarbeiten, wird die
+Bundesregierung auch dazu Vorschläge vorlegen. 
+Maßnahme 3:  Branchenstandard für flexible Netzanschlussvereinbarungen („FCA“) für
+Rechenzentren erarbeiten. 
+Im sog. Stromspitzen-Paket hat der Gesetzgeber 2025 einen Rechtsrahmen für flexible
+Netzanschlussvereinbarungen (Flexible Connection Agreements, „FCA“) geschaffen. Unter flexiblen Netzanschlussvereinbarungen 
+(FCA) verstehen sich vertragliche Regelungen, die einen Anschluss trotz begrenzter Netzkapazitäten
+ermöglichen, indem die maximal zulässige Entnahme‑ oder Einspeiseleistung zeitlich oder dauerhaft eingeschränkt
+werden kann. Hierüber können Rechenzentren auch dann angeschlossen werden, wenn die verfügbare
+Netzanschlusskapazität noch nicht für die gesamte benötigte Netzanschlussleistung ausreicht. Ein Rechenzentrumsstandort kann 
+hierdurch mit der bereitgestellten Netzanschlusskapazität „mitwachsen“.  
+Da die Inhalte der vertraglichen Vereinbarungen gesetzlich nicht im Detail festgelegt sind, wird sich die
+Bundesregierung dafür einsetzen, dass Mustervereinbarungen als Branchenstandard Rechenzentrumsbetreibern helfen, 
+das Instrument flexibler Netzanschlussvereinbarungen in die Praxis umzusetzen.  
+Maßnahme 4:  Möglichst EU-weit harmonisierte technische Anforderungen für den
+Netzanschluss festlegen.  
+Die Festlegung verbindlicher und einheitlicher technischer Anforderungen für den Netzanschluss ist
+Grundvoraussetzung für den erfolgreichen Anschluss einer hohen Anzahl an Rechenzentren ohne Gefährdung der Stabilität 
+des europäischen Stromnetzes. Nur so erhalten Betreiber von Rechenzentren schnell Klarheit über geltende
+Anforderungen und wird ein Flickenteppich unterschiedlicher Anforderungen vermieden. Dies ist für eine effiziente 
+Projektierung und Planungssicherheit notwendig.  
+Die Stromnetzbetreiber der Hoch- und Höchstspannung werden daher dazu aufgefordert, möglichst schnell
+gemeinsam mit der Branche technische Anforderungen für den Netzanschluss zu entwickeln. Ziel sollte sein, diese 
+Anforderungen in den national geltenden technischen Anschlussregeln (TAR) aber auch in den einschlägigen EU-
+Netzkodizes zu verankern.  
+Ziel 2:  Deutschland als einen Standort für nachhaltige Rechenzentren, die vollständig mit
+erneuerbarem Strom versorgt und energieeffizient sind, stärken. 
+Nachhaltige Rechenzentren zeichnen sich unter anderem dadurch aus, dass sie vollständig mit erneuerbaren
+Energien betrieben werden. Geringer Energieverbrauch durch mehr Energieeffizienz und die Integration von Abwärme 
+in die Wärmeversorgung tragen daneben zusätzlich zum Ziel der Klimaneutralität und Dekarbonisierung bei. 
+Auch trägt eine optimierte Auslastung von Rechenzentren zu deren Nachhaltigkeit bei. Für nachhaltige
+Rechenzentren zu berücksichtigen sind auch relevante Aspekte der Wasserverfügbarkeit und des sparsamen
+Wasserverbrauchs für die Kühlung sowie möglichst auch kreislauffähige Hardware. Wichtig für Deutschland als
+Standort für nachhaltige, vollständig mit erneuerbarem Strom versorgte und energieeffiziente Rechenzentren sind
+langfristige Investitions- und Versorgungsstrukturen, technologische Standards, Forschung, Kooperationen sowie
+verlässliche Rahmenbedingungen.  
+Maßnahme 1:  Dialogprozess zwischen Rechenzentrums- und Energiebranche über
+Zusammenarbeitsmöglichkeiten beim Ausbau Erneuerbarer Energien und
+Eigenversorgung aufsetzen. 
+Deutschland gehört bereits zu den Standorten mit einer relativ guten Nachhaltigkeitsbilanz seiner Rechenzentren. 
+Ein wesentlicher Faktor insoweit ist neben der Steigerung der Energieeffizienz die hohe Nutzung von
+erneuerbaren Energien in Deutschland. Betreiber von Rechenzentren in Deutschland müssen nach § 11 Absatz 5 des
+Energieeffizienzgesetzes ihren Strombedarf bilanziell ab dem 1. Januar 2024 zu 50 Prozent und ab dem 1. Januar 2027 
+bilanziell zu 100 Prozent aus erneuerbaren Energien decken. Neben dem marktlichen Bezug von Strom aus dem 
+Netz ist Eigenerzeugung von erneuerbaren Energien für Rechenzentrumsbetreiber eine Option, die wir stärken 
+wollen. In der Wirtschaft gibt es die Bestrebung bei begrenzten Netzanschlusskapazitäten teilweise auch eine 
+Energieversorgung auf fossiler Basis zu nutzen.  
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Vor diesem Hintergrund wird die Bundesregierung einen Dialogprozess aufsetzen zwischen
+Rechenzentrumssowie Energiebranche. In diesem Dialogprozess sollten langfristige PPA-Modelle, regionale EE-Kopplung und 
+systemdienliche Eigenversorgung mit dem Ziel adressiert werden, einen investitionsfreundlichen, jedoch zugleich 
+wirksamen Nachhaltigkeitsrahmen zu entwickeln.  
+Maßnahme 2:  Praxisnahe Anforderungen an effizienten Stromverbrauch von
+Rechenzentren schaffen und Abwärmenutzungsprojekte erleichtern. 
+Rechenzentren werden häufig im sogenannten „Co-Location“ oder „Co-Hosting“ Geschäftsmodell betrieben. In 
+diesen Fällen haben die Betreiber oftmals nur eingeschränkten Einfluss darauf, ob und wie viel des vertraglich 
+zugesicherten Energiebedarfs von den Kunden genutzt wird. Dies kann zu Lasten niedriger, realer
+Energieverbrauchseffektivitätswerte (PUE-Werte) gehen. Anforderungen an den PUE von Rechenzentren sollten daher
+pragmatischer ausgestaltet werden. 
+Insbesondere die Ansiedlung neuer, großer Rechenzentren erfordert die Wahl eines Standortes, an dem ein
+ausreichender Stromnetzanschluss vorhanden ist, was die Wahl möglicher Standorte stark limitiert. An den
+entsprechenden Standorten fehlt es zudem teilweise an einem geeigneten Wärmenetz, in das die Abwärme eingespeist 
+werden kann. Die Vorgaben zur Abwärmeabgabe sollten diese Umstände berücksichtigen und eine praxisnahe 
+Umsetzung der Abwärmenutzung unterstützen. Die Bundesregierung hat bereits in der vergangenen
+Legislaturperiode mit dem Wärmeplanungsgesetz die kommunale Wärmeplanung verpflichtend flächendeckend eingeführt; 
+dies kann zukünftig eine Einbindung der Abwärme von Rechenzentren in die lokale Wärmeversorgung
+erleichtern. 
+Die Bundesregierung wird Vorschläge für eine Novelle des Energieeffizienzgesetzes (EnEfG) vorlegen, die für 
+2026 geplant ist. 
+Da die Abwärme zudem einen ungewollten Nebeneffekt des Betriebs eines Rechenzentrums darstellt, sind viele 
+Betreiber bereit, ihre Abwärme kostenlos oder zu den Selbstkosten an Wärmenetzbetreiber oder kommunale
+Infrastrukturen abzugeben. Allerdings fallen auf die Abgabe Steuern an, auch wenn diese unentgeltlich erfolgen soll. 
+Dies stellt ein häufiges finanzielles Hemmnis für die Realisierung von Abwärmenutzungsprojekten dar. Die
+Bundesregierung wird sich daher bei der Europäischen Kommission dafür einsetzen, gemeinsam nach Möglichkeiten 
+zu suchen, um die kostenlose Abgabe von Abwärme steuerfrei rechtlich zu ermöglichen.  
+Maßnahme 3:  Rahmenbedingungen für nachhaltigen Rechenzentrumsbetrieb auf EU-Ebene 
+voranbringen. 
+Die Bundesregierung wird sich dafür einsetzen, dass im Rahmen des von der Europäischen Kommission für 2026 
+geplanten Data Center Energy Efficiency Package sowohl ein aussagekräftiges Kennzeichnungssystem (Common 
+Union Rating Scheme for Data Centres) eingeführt wird als auch sinnvolle Mindestanforderungen an die
+Energieeffizienz von Rechenzentren, die nicht zuletzt insoweit auch für ein regulatorisches Level-Playing Field in 
+Europa sorgen. Dabei soll dann auch der Wasserbedarf der europäischen Rechenzentren, der beim Betrieb vor 
+allem vom Kühlsystem abhängig ist, mit zu berücksichtigten sein. Eine erste Orientierung hierfür bietet zum
+Beispiel das Umweltzeichen Blauer Engel für Rechenzentren (DE-UZ 228). 
+Ziel 3:  Wettbewerbsfähige Strompreise für Rechenzentren anstreben. 
+Stromkosten spielen als größter Betriebskostenfaktor eine zentrale Rolle für Rechenzentren. Rechenzentren für 
+das besonders energieintensive Training von Künstlicher Intelligenz, aber auch für den Betrieb von KI-
+Anwendungen oder Cloud-Anwendungen werden aus betriebswirtschaftlicher Logik in Ländern oder Regionen gebaut, 
+wo Strom als Betriebsmittel nicht nur verlässlich und ausreichend, sondern auch günstig verfügbar ist. Planbare 
+wettbewerbsfähige Preise schaffen Investitionssicherheit und fördern die Transformation hin zu nachhaltigen
+Rechenzenten. Gemeint ist die Summe aus Kosten für Beschaffung und Vertrieb, Netzentgelte sowie Steuern und 
+Umlagen.  
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Maßnahme 1:  Zugunsten auch von Rechenzentren wirkende Staatszuschüsse zu EEG und 
+Netzkosten fortführen.  
+Verschiedene auch die Rechenzentrumsbranche begünstigende Maßnahmen zur Senkung der Energiekosten
+wurden bereits ergriffen und werden fortgeführt. Dies betrifft zunächst die Finanzierung der EEG-Kosten über den 
+Bundeshaushalt. Auch in Zukunft übernimmt der Bund die Kosten für die EEG-Finanzierung. Damit entlastet die 
+Bundesregierung alle Stromverbraucher und somit auch die Betreiber von Rechenzentren. Gleiches gilt für die 
+Entlastung bei den Netzentgelten durch den die Netzentgelte mindernden Zuschuss zu den
+Übertragungsnetzkosten. Diese Zuschüsse entlasten unmittelbar an das Übertragungsnetz angeschlossene energieintensive
+Unternehmen und tragen mittelbar auch zur Senkung der Entgelte nachgelagerter Verteilernetzbetreiber bei. Sie kommen 
+also auch Betreibern von Rechenzentren zugute. 
+Maßnahme 2:  Rechenzentren in die Strompreiskompensation einbeziehen.   
+Über das Instrument der Strompreiskompensation können besonders strom- und handelsintensive Unternehmen 
+von einem Teil der im Strompreis enthaltenen indirekten CO2-Kosten entlastet werden, um Abwanderung ins 
+Nicht-EU-Ausland zu verhindern. Die beihilferechtlichen Möglichkeiten richten sich nach den ETS-
+Beihilfeleitlinien. Beihilfeberechtigt sind die Wirtschaftssektoren, die im Anhang I dieser Leitlinien genannt sind. Zudem 
+besteht die Möglichkeit, die Beihilfefähigkeit weiterer Sektoren durch die Europäische Kommission anerkennen 
+zu lassen, wenn die Sektoren Nachweise über das Überschreiten der einschlägigen Schwellenwerte beibringen. 
+Die Bundesregierung setzt sich wie im Koalitionsvertrag vereinbart gegenüber der Europäischen Kommission für 
+eine Einbeziehung von Rechenzentren in die Strompreiskompensation ein. 
+Maßnahme 3:  Rechenzentren bei der Ausgestaltung der Netzentgeltsystematik im AgNES 
+Prozess der BNetzA berücksichtigen. 
+Da Rechenzentren bei nachgewiesener Lastflexibilität oder Abwärmenutzung zu Klimaschutz und Netzstabilität 
+beitragen, sollten sie bei der in Festlegungen der Bundesnetzagentur erfolgenden Ausgestaltung der
+Netzentgeltsystematik im Rahmen des AgNES Prozesses (Allgemeine Netzentgeltsystematik Strom) der Bundesnetzagentur 
+Berücksichtigung finden.  
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Handlungsfeld Standort und Fläche 
+1. Einleitung und strategischer Rahmen 
+Die ökonomischen Bedingungen für Investitionen am Standort Deutschland wurden mit dem Wachstumsbooster 
+bereits verbessert. Durch das Standortfördergesetz sollen zudem die Rahmenbedingungen für private
+Investitionen, insbesondere in Infrastruktur und Erneuerbare Energien sowie in Wagnis- und Wachstumskapital, verbessert 
+werden. Mit dem Gesetz für ein steuerliches Investitionssofortprogramm zur Stärkung des Wirtschaftsstandorts 
+Deutschland wurde eine degressive Absetzung für Abnutzung (AfA) für bewegliche Wirtschaftsgüter des
+Anlagevermögens in Höhe von bis zu 30 Prozent eingeführt. Diese gilt für Investitionen, die nach dem 30. Juni 2025 
+und vor dem 1. Januar 2028 getätigt werden. Darüber hinaus wird die Senkung des Körperschaftsteuersatzes ab 
+dem Jahr 2028 um jährlich einen Prozentpunkt – von derzeit 15 Prozent auf 10 Prozent umgesetzt und reduziert. 
+Von diesen Maßnahmen können auch Rechenzentren profitieren.  
+Zugleich bleibt die Verfügbarkeit geeigneter und das heißt, auch für die jeweiligen Kommune attraktiver
+Standorte ein zentraler Faktor für den Rechenzentrumsstandort Deutschland. Um Ansiedlungen zu ermöglichen und zu 
+beschleunigen, müssen Flächen frühzeitig identifiziert, planerisch gesichert und infrastrukturell erschlossen
+werden. Aus diesem Grund sind aus Sicht der Bundesregierung auch eine bessere Koordination der Raumordnung 
+sowie auch allgemein schnellere Planungs- und Genehmigungsprozesse notwendig.  
+Wesentlicher Faktor für Standortentscheidungen und den Betrieb von Rechenzentren neben Energie sind zudem 
+hochperformante Gigabitnetze, beispielsweise für Datenübertragung, latenzkritische Anwendungen und
+Fernwartung. Ohne diese Infrastruktur können Rechenzentren nicht effizient betrieben werden.  
+2. Strategische Ziele und Maßnahmen 
+Ziel 1:  Flächen identifizieren und attraktiv für Investoren und Kommunen ausgestalten 
+Die Identifikation und Vorbereitung von Flächen reduziert Fehlallokationen, verkürzt Standortentscheidungen, 
+ermöglicht die frühe Berücksichtigung von Nachhaltigkeitsaspekten und erleichtert interregionale Koordination. 
+Die Unterstützung der jeweiligen Kommune ist dabei einer der entscheidenden Erfolgsfaktoren bei der
+Ansiedelung aller neuen Industrieprojekte. Durch wirtschaftlich vorteilhafte Anreize müssen im Rahmen einer besseren 
+Ansiedlungspolitik Rechenzentrumsprojekte attraktiv für betroffene Kommunen, Bevölkerung und Wirtschaft vor 
+Ort werden.   
+Maßnahme 1:  Konzept zur Ausweisung von Vorzugsflächen für Rechenzentren entwickeln. 
+Erfahrungen auch aus anderen Ländern legen nahe, dass es sinnvoll sein könnte, bestimmte Flächen in
+Deutschland als besonders geeignete Flächen zu bestimmen und möglicherweise dann auch zu vermarkten, wenn im
+Gegenzug dann auch bestimmte Vorzugsregeln gelten. Gemeinsam insbesondere mit Netzbetreibern, Ländern
+(einschließlich Kommunen) und auch Wirtschaftsförderern wird die Bundesregierung ein entsprechendes Konzept 
+entwickeln. Beitragen kann hier die Identifikation von sog. Brownfield-Flächen, also bereits genutzten oder
+bebauten Flächen wie zum Beispiel ehemaligen Kraft- und Bergwerken oder Industrieanlagen, die für
+Rechenzentrumsansiedlungen nutzungsbereit wären (ready-to-use), und bei denen absehbar jeweils keine entgegenstehenden 
+Konkurrenzsituationen mit anderen Bedarfsträgern z. B. bei Netzanschlüssen bestehen. Einerseits ist dort in der 
+Regel bereits eine (Teil-)Erschließung vorhanden, andererseits kann damit aber ein nennenswerter Beitrag zur 
+Reduzierung der Flächenneuinanspruchnahme geleistet werden. 
+Maßnahme 2:  Standardisierten Kriterienkatalog und Handreichung für Kommunen zur
+Bewertung und Priorisierung geeigneter Flächen für Rechenzentren erstellen. 
+Eine Ansiedlung von Rechenzentren sowohl in traditionell starken zentralen Clustern wie auch dezentral in vielen 
+weiteren Standorten ist nicht nur ein Beitrag für eine resiliente Aufstellung, sondern könnte darüber hinaus einen 
+Beitrag zur Netzentlastung und zur Nutzung regionaler Wertschöpfungspotenziale leisten. Dies gilt insbesondere, 
+wenn die Ansiedlung durch weitere regionalpolitische Maßnahmen flankiert wird, etwa zur Clusterbildung
+entlang der gesamten Wertschöpfungskette.  
+Nicht alle Regionen und Länder in Deutschland haben gleichermaßen Erfahrungen mit Ansiedlungen von
+Rechenzentren. Zugleich bestehen mancherorts bereits breite Erfahrungen, auf die aufgebaut werden könnte. Zu 
+möglichen Instrumenten hier gehören Raumplanung und Flächenentwicklungspläne sowie Bauleitplanung oder 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+auch Potentialflächenkataster. Auch interkommunale Wärmeplanung kann ergänzend als Dialog- und
+Austauschplattform einen Beitrag zur vorrausschauenden Koordination leisten. Um hier voneinander zu lernen, soll als erster 
+Schritt eine gemeinsame Evaluierung von Vor-Ort-Standortpolitik mit den hier primär zuständigen Ländern und 
+Kommunen erfolgen. Verbunden werden soll dies mit der Erstellung eines Kriterienkatalogs zur Bewertung und 
+Priorisierung geeigneter Flächen für Rechenzentren. In Absprache mit den ebenfalls insoweit primär zuständigen 
+Ländern und Kommunen und aufbauend auch auf bereits vorliegenden Arbeiten (z. B. aus Hessen) sollen im 
+nächsten Schritt Handreichungen für Kommunen zur Unterstützung bei der Ansiedlung und dem Bau von
+Rechenzentren einschließlich der Berücksichtigung von Nachhaltigkeitsaspekten erstellt werden.  
+Maßnahme 3:  Ausbau der Telekommunikationsnetze und Konnektivität für Rechenzentren 
+Neben der Datenrate ist zunehmend die Signalumlaufzeit oder Latenz, das heißt die Laufzeit eines Datenpakets 
+vom Nutzenden zum Rechenzentrum und der entsprechenden Antwort zurück zum Nutzenden (englisch: Round 
+Trip Time; RTT), ein Qualitätsmerkmal für Rechenzentren. Dabei werden Laufzeiten und Übertragungsfehler 
+nicht nur durch die Länge der Übertragungsstrecke bestimmt, sondern auch durch die Anzahl der durchlaufenen 
+Netzknoten und die damit einhergehende Signalverarbeitung. Latenzkritische Anwendungen bedingen eine
+physische Nähe der Rechenzentren zu den jeweiligen Nutzenden. Leistungsfähige Mobilfunknetze erlauben zudem 
+mobile Nutzungsszenarien für die Beschäftigten vor Ort. Daher ist auch der Ausbau einer funktionierenden und 
+verlässlich nutzbaren Glasfaser- und Mobilfunkinfrastruktur als Standortfaktor für die Ansiedlung von
+Rechenzentren von entscheidender Bedeutung. Die Bundesregierung unterstützt den Ausbau durch die Verbesserung 
+marktlicher Anreizstrukturen und ergänzende Fördermaßnahmen.  
+Bereits zu Beginn der Legislatur wurde das überragende öffentliche Interesse für den Ausbau von
+Telekommunikationsnetzen im Telekommunikationsgesetz (TKG) aufgenommen. Im Rahmen der nächsten TKG-Novelle
+sollen weitere Vereinfachungen für ausbauende Unternehmen umgesetzt werden, die sich beschleunigend auf den 
+Glasfaserausbau auswirken werden. 
+Schon heute erlaubt es der Breitbandatlas des Bundes, die Glasfaser- und Mobilfunkversorgung vor Ort bis auf 
+100 m x 100 m genau zu ermitteln. Künftig soll die Versorgung auch adressgenau dargestellt werden können. 
+Mit der Gigabitförderung des Bundes, inklusive Lückenschlussprogramm, sowie den Unterstützungsleistungen 
+der Mobilfunkinfrastrukturgesellschaft des Bundes wird der Ausbau auch in für Marktteilnehmer
+unwirtschaftlichen Gebieten vorangebracht. Dieses Engagement des Bundes unterstützt einerseits die dezentrale Ansiedlung 
+von Rechenzentren und stärkt andererseits das wirtschaftliche Potenzial der derzeit in diesem Sinne noch
+unterversorgten Gebiete. Darüber hinaus trägt es dazu bei, gleichwertige Lebensverhältnisse zwischen Stadt und Land 
+zu schaffen. 
+Maßnahme 4:  Einführung eines besonderen Zerlegungsmaßstabes für den Gewerbesteuer-
+Messbetrag bei Rechenzentren prüfen. 
+Bei der Zerlegung des Gewerbesteuer-Messbetrages gilt grundsätzlich das Verhältnis der in den einzelnen
+Betriebstätten gezahlten Arbeitslöhne zur Summe der im gesamten Betrieb gezahlten Arbeitslöhne. Allerdings gibt 
+es hier bereits Spezialregelungen für Anlagen zur Erzeugung von Strom und anderen Energieträgern sowie Wärme 
+aus Windenergie und solarer Strahlungsenergie sowie für Energiespeicheranlagen im Sinne des § 3 Nummer 36 
+des Energiewirtschaftsgesetzes. Um Standortgemeinden beim ausschließlichen Betrieb von Rechenzentren
+stärker und gleichmäßiger am Gewerbesteueraufkommen zu beteiligen und die notwendige Akzeptanz zur
+Ansiedlung von Rechenzentren vor Ort zu steigern, werden wir die Schaffung eines besonderen Zerlegungsmaßstabs 
+prüfen. 
+Ziel 2:  Planungs- und Genehmigungsverfahren für Rechenzentren beschleunigen 
+Unter Wahrung von Umweltstandards beschleunigte und auch digitale Verfahren verkürzen Vorlaufzeiten und 
+geben Behörden wie Investoren klare Leitplanken. Bund, Länder, Kommunen und Investoren sollten hier eng 
+zusammenarbeiten und gemeinsam herausarbeiten, ob und wie auf Basis des bestehenden oder möglicherweise 
+aber auch anzupassenden Rechtsrahmens der Bau und Betrieb von Rechenzentren beschleunigt werden kann.  
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Maßnahme 1: „Praxis-Check“ mit Betreibern durchführen, um eine beschleunigte
+Durchführung von Planungs- und Genehmigungsverfahren für Rechenzentren im
+bestehenden Rechtsrahmen zu erreichen und den Rechtsrahmen, wo sinnvoll 
+und notwendig, zu verbessern.  
+Das bestehende und im Wesentlichen von Länderbehörden und Kommunen anzuwendende Planungs- und
+Genehmigungsrecht für Bau und Betrieb von Rechenzentren wird von der Bundesregierung im Rahmen eines
+„Praxis-Checks“ auf Beschleunigungsmöglichkeiten untersucht. Dabei sollen sowohl Optimierungsmöglichkeiten in 
+der Umsetzung des bestehenden Rechtsrahmens als auch gegebenenfalls notwendige und sinnvolle
+Verbesserungen des Rechtsrahmens unter Wahrung von Umweltstandards identifiziert werden. Betrachtet werden sollen
+insbesondere das Bauplanungsrecht sowie baurechtliche Genehmigungsverfahren, aber auch
+immissionsschutzrechtliche Verfahren mit Blick auf ersatzweise erfolgende Notstromversorgung. Besonderes Augenmerk wird dabei 
+auch auf eine möglichst weitgehende Digitalisierung der Verfahren gelegt werden.  
+Maßnahme 2:  „Best Practices“ in Planungs- und Genehmigungsverfahren für
+Rechenzentren identifizieren und Austausch dazu zwischen Bund und Ländern
+(einschließlich Kommunen) etablieren. 
+In der Praxis gibt es vielfältige und teilweise auch unterschiedliche Erfahrungen in den Behörden, die auf Ebene 
+der Länder oder Kommunen zuständig sind, bei der Planung und Genehmigung von Rechenzentren. Ergänzend 
+zum „Praxis-Check“ gilt es daher, anhand praktischer Erfahrungen in Deutschland „Best Practices“ im Planungs- 
+und Genehmigungsverfahren zu identifizieren, aufzubereiten und sich dazu auch zwischen Bund und Ländern 
+(einschließlich Kommunen) auszutauschen. Die Bundesregierung wird daher im Rahmen eines regelmäßigen 
+Austauschs auch unter Nutzung bereits etablierter Formate zu Rechenzentren mit den Ländern (einschließlich 
+Kommunen) einen Dialog hierzu anstoßen.  
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Handlungsfeld Technologie und Souveränität 
+1. Einleitung und strategischer Rahmen 
+Ziel im Bereich digitaler Technologien ist es, die nationale und europäische Digitalwirtschaft zu stärken und zu 
+nutzen. Deutschland und Europa haben die Kompetenzen, die Kapazitäten und die Technologien, um eigene
+Rechenzentren und Rechenkapazitäten zu schaffen. Diese Kompetenzen, Kapazitäten und technologischen
+Fähigkeiten wollen wir ausbauen und stärker in die Umsetzung bringen. Unser Ziel ist es, nationale und europäische 
+Angebote auszuweiten, Datenhoheit und -souveränität zu stärken und die technologische Abhängigkeit
+Deutschlands und Europas zu reduzieren. Dafür muss insbesondere die Entwicklung europäischer Lösungen entlang des 
+gesamten Technologie-Stacks von der Mikroelektronik über Rechenzentren bis zur Anwendersoftware
+beschleunigt werden. 
+Um die internationale Wettbewerbsfähigkeit und digitale Souveränität Deutschlands zu sichern, müssen deutsche 
+Rechenzentren bzw. ihre Betreiber und Ausrüster darüber hinaus Technologie aktiv mitgestalten und
+weiterentwickeln. Technologische Kompetenz stärkt die Innovationskraft und Souveränität, die Attraktivität für Investoren 
+und den Zugang zu Hochleistungsressourcen. Innovationen über den gesamten Technologie-Stack (d. h. von der 
+Mikroelektronik bis zur Anwendersoftware) in Bereichen wie HPC, Rechenkapazitäten für Anwendungen wie 
+KI, Cloud, Edge und Quantentechnologien, aber auch Innovationen bei energieeffizienter IT-, Kühl-,
+Abwärmeoder Netzwerktechnologie sind Hebel, um Standortvorteile zu schaffen und die technologische Souveränität zu 
+stärken. Die Integration europäischer Hardware-Komponenten und europäischer Software in Cloud-Infrastruktur 
+wollen wir stärken. 
+Wesentlicher Pfeiler digitaler Souveränität ist auch die uneingeschränkte Handlungsfähigkeit der
+Sicherheitsbehörden des Bundes. Dies betrifft Hochverfügbarkeit, Informationssicherheit, Georedundanz und die
+Sicherstellung geheimschutzrelevanter Vorgaben und erfordert unter anderem eine physische Härtung der Standorte gegen 
+äußere Einwirkungen sowie autarke Energiekonzepte, die über Standard-Redundanzen hinausgehen.  
+Unternehmen benötigen dabei auch eine zugelassene Cloud-Lösung, die die Verarbeitung von Verschlusssachen 
+bei Wahrung des Geheimschutzes ermöglicht.  
+Für die Wirtschaftssicherheit Deutschlands und Europas ist auch eine europäische Cloudinfrastruktur für vernetzte 
+Komponenten entscheidend. Dazu gehört die Sicherheit etwa der Energieinfrastruktur und von vernetzten
+Fahrzeugen. Durch die Nutzung europäischer Clouds für IT-/OT-Anwendungen wird der Zugriff auf Daten sowie die 
+Fernsteuerung von vernetzten Komponenten durch nichtvertrauenswürdige Hersteller aus Drittstaaten begrenzt.  
+Für den Aufbau einer sicheren und souveränen europäischen Cloudinfrastruktur sollten kritische Komponenten 
+ausschließlich von vertrauenswürdigen Herstellern verwendet werden. 
+Zur Skalierung und Kommerzialisierung innovativer Technologien ist entscheidend, das nationale
+Innovationsökosystem weiter zu stärken, indem Start-Ups, Mittelstand, Industrieanwender, Forschung und
+Rechenzentrumsbetreiber noch besser vernetzt und Pilotprojekte und Marktzugänge beschleunigt werden, damit
+Entwicklungen aus der Forschung zügig marktfähig werden und in kommerzielle Rechenzentren Einzug halten. Dabei ist es 
+wichtig, die Auswirkungen auf Arbeitsproduktivität und Beschäftigung sowie die breite Anwendbarkeit für die 
+Entwicklung konkreter KI-Anwendungen in der betrieblichen Praxis beim Aufbau von Rechenkapazitäten so früh 
+und konkret wie möglich zu berücksichtigen. 
+2. Strategische Ziele und Maßnahmen 
+Ziel 1:  Souveräne und hochleistungsfähige Recheninfrastruktur für KI, Cloud und andere 
+bahnbrechende Technologien ausbauen  
+Für das Training und den Betrieb großer KI-Modelle ist der Aufbau hochleistungsfähiger KI-Rechenkapazitäten 
+entscheidend. Auch wenn weiterhin unklar ist, wie hoch der Bedarf zukünftig tatsächlich ausfallen wird.
+Außerdem ist vor allem für industrielle KI-Anwendungen, aber z.B. auch für sicherheitsbehördliche KI-Anwendungen, 
+der Ausbau von Inferenz-Infrastruktur notwendig. Darüber hinaus ist insbesondere für latenzkritische und
+hochverfügbare Anwendungen der Auf- und Ausbau breit verteilter KI-Rechenkapazitäten wichtig. Wir wollen
+europäische Alternativen für wettbewerbsfähige und technologisch innovative Rechenzentren und Rechenkapazitäten 
+stärken und ausbauen. Dazu wollen wir eigene strategisch relevante Kapazitäten aufbauen, Interoperabilität,
+offene Standards und föderierte Modelle voranbringen und eine aktive Rolle in europäischen Initiativen einnehmen.  
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+HPC- und Forschungsnetzwerke im Bereich Rechenzentren, wie GCS und NHR, sowie aktuelle europäische
+Initiativen wollen wir weiter stärken: Neben den in Deutschland angesiedelten KI-Fabriken (AI Factories) JAIF und 
+HammerHAI insbesondere gemeinsam mit der Industrie auch die Beteiligung an der europäischen Initiative der 
+KI-Gigafabriken (AI Gigafactories). Diese stellen ein Fundament dar, auf dem Innovationsökosysteme aus
+Forschung und Industrie aufsetzen und neue Technologien, Modelle und Anwendungen entwickeln können.  
+Bei der IT-Konsolidierung Bund hat die Konzentration auf den Aufbau vollständig öffentlich bereitgestellter
+Infrastrukturen einen wichtigen Beitrag zur Stärkung staatlicher Handlungsfähigkeit geleistet. Jedoch konnten diese 
+Infrastrukturen nicht immer den steigenden Bedarf an Flexibilität, Innovationsfähigkeit und Skalierbarkeit gerecht 
+werden. Neben der Bereitstellung von staatlichen Infrastrukturen zur krisenfesten Bereitstellung der
+grundlegenden IT-Funktionalitäten müssen daher auch Mittel und Wege gefunden werden, IT-Angebote vom freien Markt 
+für die Bundesverwaltung zentral nutzbar zu machen.  
+Maßnahme 1:  Die Ansiedlung mindestens einer KI-Gigafabrik in Deutschland unterstützen. 
+Die Bundesregierung wird den Aufbau und nachhaltigen Betrieb mindestens einer KI-Gigafabrik in Deutschland 
+im Rahmen einer öffentlich-privaten Partnerschaft gemeinsam mit dem Gemeinsamen Unternehmen EuroHPC, 
+der Europäischen Kommission und einem schlagkräftigen Konsortium unter Führung eines deutschen
+privatwirtschaftlichen Rechenzentrumsbetreibers unterstützen. Die KI-Gigafabrik stellt ein primär kommerzielles
+Vorhaben dar und bedarf daher eines sich selbst tragenden Geschäftsmodells mit Ausrichtung auf die Bedarfe der
+europäischen Wirtschaft. Daneben soll sie auch der Abdeckung öffentlicher Bedarfe, insbesondere seitens der
+Forschung und öffentlichen Verwaltung einschließlich Sicherheitsbehörden des Bundes dienen. Voraussichtlich im 
+Sommer 2026 entscheidet EuroHPC nach einem Anfang 2026 europaweit erfolgenden Förderaufruf, welche
+maximal fünf in der EU geplanten KI-Gigafabriken errichtet werden. Wir setzen uns dafür ein, dass die KI-
+Gigafabriken in signifikantem Umfang europäische Technologie integrieren, z. B. zumindest ein Teil der in den KI-
+Gigafabriken verbauten Chips von einem europäischen Chip-Designer stammen.  
+Maßnahme 2:  Rahmenbedingungen für den beschleunigten Ausbau souveräner
+europäischer kommerzieller KI- und Cloud-Kapazitäten auf EU-Ebene schaffen. 
+Im Rahmen des geplanten EU Cloud and AI Development Act, zu dem die Europäische Kommission im Frühjahr 
+2026 einen Vorschlag vorlegen wird, werden wir uns aktiv dafür einsetzen, den Ausbau souveräner KI- und 
+Cloud-Rechenkapazitäten voranzubringen. Dazu werden wir uns insbesondere auch dafür engagieren,
+transparente, gemeinsame europaweite Kriterien für souveräne Cloud-Dienstleistungen zu entwickeln. Interoperabilität, 
+die Nutzung offener Standards und offener Governance-Rahmenwerke wollen wir voranbringen. 
+Maßnahme 3:  KI-Rechenkapazitäten und Datenökosysteme für Nationales
+Hochleistungsrechnen ausweiten. 
+Im Dialog mit den Ländern strebt die Bundesregierung den schrittweisen Ausbau der Kapazitäten des Verbunds 
+für NHR an, insbesondere im Bereich der Rechenkapazitäten für KI-basierte Forschung. Zudem wird die
+Bundesregierung Initiativen im Rahmen der NFDI fördern, um den Zugang zu sowie die Speicherung und das
+Kuratieren von Forschungsdaten und wissenschaftlichen Ergebnissen zu erleichtern und die Daten besser nutzbar zu 
+machen. 
+Maßnahme 4:  Kauf von Quantencomputern durch Forschungseinrichtungen und HPC-
+Zentren unterstützen und Hochleistungsrechnen und Quantencomputing
+vernetzen.   
+Die Bundesregierung wird den Kauf von Quantencomputern durch Forschungseinrichtungen und HPC-Zentren 
+weiter unterstützen. Ziel ist die Erforschung und Integration von Quantencomputern in die Umgebung eines
+klassischen Hochleistungsrechners. Die besten Standorte und Nutzungskonzepte werden im Wettbewerb ausgewählt. 
+Dabei liegt ein Augenmerk auf der Vernetzung der HPC- und Quantencomputing Communities. 
+Maßnahme 5:  Stärkung der ganzheitlichen Cloud-Nutzung durch die öffentliche Verwaltung.  
+Die Bundesregierung beschleunigt die „Cloudifizierung“ der Bundesverwaltung („Cloud-Smart“) und setzt
+insbesondere bei der Einführung neuer Verwaltungsverfahren auf das Cloud-First-Prinzip. Künftig setzt die 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+öffentliche Verwaltung verstärkt auf hybride und föderierte Cloud-Modelle, die sowohl staatliche Infrastrukturen 
+als auch geprüfte kommerzielle möglichst europäische Cloud-Dienste einbeziehen. Dazu wird das BMDS eine 
+Umsetzungsskizze mit einer Roadmap für die Cloud-Migration der im Rahmen der IT-Betriebskonsolidierung 
+Bund identifizierten IT-Lösungen mit den von der IT-Konsolidierung umfassten Bundesbehörden abstimmen. 
+Diese ist eng mit der Netzstrategie 2030 und dem Deutschland-Stack verknüpft. Unter Berücksichtigung der
+besonderen Herausforderungen der Ressorts kann sie so eine Blaupause für eine zukünftige ausdifferenzierte Cloud-
+Nutzung werden.  
+Ziel 2:  Entwicklung innovativer Technologien insb. für KI-, Cloud- und Edge-Computing
+stärken  
+Innovative Rechenzentrumstechnologien senken Betriebskosten, stärken Leistungsfähigkeit, Sicherheit und
+Resilienz, reduzieren Emissionen, tragen zu Nachhaltigkeit bei und verschaffen Vorteile im globalen Wettbewerb. 
+Deutsche und europäische Unternehmen bieten innovative Lösungen für den Aufbau und die Ausrüstung von 
+Rechenzentren über den gesamten Technologie-Stack an, von Hardware bis hin zum Software-Stack. Speziell 
+auch für den Betrieb von Rechenzentren liefern deutsche und europäische Unternehmen wichtige Lösungen, etwa 
+bei Nachhaltigkeit z. B. mittels Energieeffizienz und Abwärmenutzung oder aber im Bereich Cybersicherheit. 
+Allerdings fehlen in zentralen Komponenten wie beispielsweise Prozessorkernen oder Speichern
+konkurrenzfähige deutsche und europäische Angebote (sowohl bezüglich Design als auch Produktion der Hardware). Die
+hiesigen Fähigkeiten gilt es daher auszubauen, zu intensivieren und europäisch zu bündeln. Die nachfolgenden
+Maßnahmen ergänzen daher die Maßnahmen für den Ausbau von Fähigkeiten im Chipdesign sowie für den Transfer 
+von Chipentwicklungen in die industrielle Anwendung, die die Bundesregierung mit ihrer
+Mikroelektronikstrategie vereinbart hat. 
+Maßnahme 1:  Knowhow zur Entwicklung modernster europäischer Cloud- und KI-
+Technologien in paneuropäischen Projekten wie IPCEIs bündeln. 
+Um die Entwicklung europäischer Alternativen für modernste Cloud- und KI-Technologien zu schaffen, ist die 
+Bündelung von Knowhow in paneuropäischen Projekten notwendig. Die Bundesregierung wird daher ihr
+Engagement im IPCEI („Important Project of Common European Interest“) zu Cloud-Technologien nicht nur
+fortsetzen, sondern wird auch die IPCEIs zu Künstlicher Intelligenz (IPCEI-AI) und zu Edge Compute Infrastruktur 
+(IPCEI-CIC) national und europäisch vorantreiben und miteinander in einem übergreifenden systemischen Ansatz 
+verbinden. Mit dem IPCEI AI will die Bundesregierung z. B. im vorwettbewerblichen Bereich Forschung und 
+Entwicklung für Software-Grundlagen (gemeinsames großes KI-Modell, Grundlagentechnologien für KI-
+Training), offene Standards sowie erste industrielle Anwendungen (Applikationssoftware) fördern. Der Schwerpunkt 
+soll auf Datenaufbereitung, Training, Anwendung und Nachtrainieren für sektorspezifische KI liegen. Im IPCEI 
+zu fortschrittlichen Halbleitertechnologien (IPCEI-AST) werden u. a. europäische KI-Chips und -Chiplets
+entwickelt und Produkte u. a. für europäische Rechenzentrums-Bedarfe entlang der gesamten
+Halbleiterwertschöpfungskette anwendungsreif gemacht. 
+Maßnahme 2:  Innovative, nachhaltige Rechenzentrumstechnologien fördern. 
+Die Bundesregierung fördert die Erforschung nachhaltiger Rechenzentrumstechnologien mit einem
+ganzheitlichen, sektorübergreifenden Ansatz. Dazu sollen Rechenzentren mit Blick auf ihren ökologischen Fußabdruck in 
+Gänze und unter ihren jeweiligen standortspezifischen Bedingungen betrachtet werden. Das Potenzial zur
+Verbesserung der ökologischen Nachhaltigkeit muss anhand geeigneter Demonstratoren aufgezeigt werden. Im Jahr 
+2026 wird dieser Ansatz vom Bundesministerium für Forschung, Technologie und Raumfahrt mit einem
+Förderaufruf zu nachhaltigen Rechenzentren adressiert werden.  
+Maßnahme 3:  Forschung und internationale Zusammenarbeit zu (Cyber-) Sicherheit und  
+(Cyber-) Resilienz von Rechenzentren erhöhen. 
+Die enge Verflechtung von Wirtschaft, Wissenschaft, Verwaltung und Gesellschaft mit digital vernetzten
+Produkten und Künstlicher Intelligenz macht Rechenzentren ein attraktives Ziel für Cyberattacken. Daher werden 
+größere Rechenzentren bereits als Teil der kritischen Infrastruktur betrachtet. Jedoch kann auch der Ausfall
+kleinerer Rechenzentren die Infrastruktur empfindlich treffen, daher gilt es auch diese hinreichend resilient 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+auszulegen. Gleichzeitig können regional diversifizierte Rechenzentrumsstandorte auch einen aktiven Beitrag 
+zum Risikomanagement in operativer und technischer Hinsicht leisten (Ausfallsicherheit, Flexibilität, Synergien 
+mit energiepolitischen Zielen). Deutschland muss seine internationale Spitzenposition in der
+Cybersicherheitsforschung nutzen, um sich im Bereich der Cyberresilienz als Vorreiter, speziell auch bei KI-Rechenzentren, zu
+etablieren.  
+Die Bundesregierung wird im Rahmen ihrer Zuständigkeit Forschung und internationale Zusammenarbeit zu 
+(Cyber-) Sicherheit und (Cyber-) Resilienz von Rechenzentren erhöhen und begrüßt auch, wenn sich 
+Fachbehörden (BSI) und Forschungseinrichtungen auf internationaler Ebene aktiv an der Erarbeitung, Umsetzung 
+und Prüfung von Sicherheits- und Resilienzstandards beteiligen. 
+Ziel 3:  Anwendung und Nutzung souveräner Rechenkapazitäten stärken 
+Die Nutzung deutscher oder europäischer Recheninfrastruktur einschließlich wo notwendig auch
+Funktionsherrschaft sichert in bestimmten Fällen staatliche Leistungsfähigkeit, verringert Risiken geopolitischer
+Verwundbarkeiten und trägt dazu bei, Innovation entlang europäischer Wertschöpfungsketten zu fördern.  
+Maßnahme 1:  Rahmenbedingungen zur Nutzung souveräner KI- und Cloud-Kapazitäten auf 
+EU-Ebene verbessern. 
+Wir wollen die Nutzung und Anwendung europäischer KI- und Cloud-Kapazitäten voranbringen. Dazu wollen 
+wir uns insbesondere für Erleichterungen bei der öffentlichen Vergabe und bessere Sichtbarkeit für und leichtere 
+Beschaffung von europäischen Angeboten, z.B. im Rahmen eines europäischen Marktplatzes, einsetzen. Die
+entsprechenden Regelungen können im geplanten EU Cloud and AI Development Act erfolgen, zu dem die
+Europäische Kommission im Frühjahr 2026 einen Vorschlag vorlegen wird. 
+Maßnahme 2:  Integration europäischer Technologien beim Bau und Betrieb von
+Recheninfrastruktur stärken. 
+Wir wollen die Integration deutscher und europäischer Lösungen über den gesamten Technologie-Stack beim Bau 
+und Betrieb von Rechenzentren stärken. Dazu setzen wir uns für verbindliche Vorgaben und Anreize für einen 
+hohen Grad an europäischer und nationaler lokaler Wertschöpfung ein. Die entsprechenden Regelungen können 
+im geplanten EU Cloud and AI Development Act erfolgen.  
+Maßnahme 3:  Souveräne Cloud-Plattform für KI-Anwendungen als Bestandteil des
+Deutschland-Stacks einrichten.  
+Zur Bereitstellung einer leistungsfähigen Cloud-Plattform für KI-Anwendungen führt die Bundesregierung ein 
+Vergabeverfahren durch. Die Ausschreibung schafft die Grundlage für eine souveräne Cloud-Infrastruktur, die 
+den Einsatz von KI in der öffentlichen Hand einschließlich Sicherheitsbehörden des Bundes nachhaltig stärkt. 
+Hierdurch sollen Verwaltungsprozesse schneller und sicherer werden.  Die Plattform wird als modularer
+Bestandteil des Deutschland-Stacks konzipiert. Sie folgt den Prinzipien der digitalen Souveränität. Offene Standards, 
+Schnittstellen, Informationssicherheit und Open-Source-Komponenten sind dabei zentrale Bausteine. Im Zentrum 
+steht eine Multi-Cloud-Strategie mit offenen Technologien und föderaler Anschlussfähigkeit.  
+Maßnahme 4:  Plattform „Digitale Souveränität“ nutzen, um die Skalierung und
+Kommerzialisierung von souveränen Ansätzen in und für Rechenzentren voranzubringen. 
+Die Bundesregierung will die zur Stärkung der digitalen Souveränität als Querschnittsthema und für den
+Austausch dazu von Verwaltung, Wirtschaft, Wissenschaft und Zivilgesellschaft geplante Plattform „Digitale
+Souveränität“ auch nutzen, um Fragen und Themen der Rechenzentrumsinfrastruktur mit anderen Handlungsfeldern zur 
+Stärkung der digitalen Souveränität zu verzahnen. Dabei sollen unter anderem Start-Ups, Mittelstand,
+Industrieanwender, Telekommunikationsunternehmen, Rechenzentrumsbetreiber und Forschung noch besser vernetzt
+werden, um die Skalierung und Kommerzialisierung von souveränen Ansätzen auch in und für Rechenzentren
+voranzubringen. Zudem wollen wir im Rahmen der Plattform „Digitale Souveränität“ Lösungen und Ansätze
+voranbringen, um die Rolle der öffentlichen Hand als Ankerkunde für die Nutzung von innovativer, souveräner 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Recheninfrastruktur zu stärken. Unser Ziel ist dabei auch die Skalierung digitaler Geschäftsmodelle in
+Deutschland und Europa.  
+Nächste Schritte 
+Agiler und transparenter Strategie- und Arbeitsprozess 
+Mit dem vorliegenden Strategiedokument inklusive der hier genannten Maßnahmen erfolgt in den drei
+Handlungsfeldern Energie und Nachhaltigkeit, Standort und Flächen sowie Technologie und Souveränität der Start in 
+verschiedene Teilprozesse. Die Bundesregierung setzt auf einen dauerhaften Austausch mit Stakeholdern.  
+Auf dieses Strategiedokument und die genannten Maßnahmen aufbauende, aktualisierte Maßnahmenpläne sollen 
+im jährlichen Abstand veröffentlicht werden. Diese werden sowohl den Umsetzungsstand der bereits genannten 
+Maßnahmen aufzeigen und konkretisieren als auch zielführende neue Maßnahmen umfassen. 
+Umsetzung der Maßnahmen 
+Die angekündigten Maßnahmen sollen innerhalb der nächsten 12 Monate gestartet und soweit möglich und
+sachgerecht abgeschlossen werden. Entscheidend für den Erfolg ist die konsequente und nachhaltige Umsetzung in 
+enger Zusammenarbeit zwischen Bund, Ländern (einschließlich Kommunen), Wirtschaft, Wissenschaft und auch 
+Zivilgesellschaft. Ergebnisse und Erfahrung, die bei der Umsetzung gewonnen werden, fließen direkt in den
+weiteren Arbeitsprozess ein. 
+Speziell mit den Bundesländern wollen wir uns regelmäßig eng abstimmen. Zudem wollen wir uns auch mit 
+Partnerstaaten eng zu Rechenzentrumsfragen austauschen 
+Entwicklung weiterer Maßnahmen 
+Parallel zur Umsetzung der beschriebenen Maßnahmen arbeitet die Bundesregierung mit Stakeholdern an der 
+Entwicklung und Umsetzung weiterer Maßnahmen. Sobald eine Maßnahme eine gewisse Reife für eine
+erfolgreiche Umsetzung innerhalb der nächsten 12 Monate erreicht hat, wird sie in die nächste Aktualisierung und den 
+nächsten Maßnahmenplan aufgenommen. 
+Monitoring 
+Alle Maßnahmen, deren aktueller Stand und Ergebnisse werden durch das Bundesministerium für Digitales und 
+Staatsmodernisierung in Form eines Monitorings nachgehalten.  
+Finanzierung 
+Die in der Strategie genannten Maßnahmen stehen, soweit sie zu zusätzlichen Ausgaben aus dem Bundeshaushalt 
+führen, nach den Grundsätzen des Haushaltsrechts unter Finanzierungsvorbehalt. Die Zuweisung von
+Haushaltsmitteln erfolgt im Rahmen des Haushaltsaufstellungsverfahrens. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Quellenverzeichnis 
+ 
+Bertelsmann-Stiftung, I. &. (2025). Built for Purpose? Demand-Led Scenarios for Europe's AI Gigafactories. 
+Von https://www.interface-eu.org/publications/ai-gigafactories abgerufen 
+Borderstep. (2024). Rechenzentren in Deutschland: Aktuelle Marktentwicklungen. Von 
+https://www.bitkom.org/sites/main/files/2024-11/241121-studie-rechenzentrumsmarkt.pdf abgerufen 
+Borderstep. (2025). Rechenzentren in Deutschland: Aktuelle Marktentwicklungen 2025. Von 
+https://www.bitkom.org/Bitkom/Publikationen/Studie-Rechenzentren-in-Deutschland abgerufen 
+Cushman & Wakefield. (2025). H1 2025 EMEA Data Centre Market Update. Von 
+https://www.cushmanwakefield.com/en/insights/emea-data-centre-update abgerufen 
+Datacenters.com. (2025). The Real Estate Power Play Behind Europe’s Data Center Growth. Von 
+https://www.datacenters.com/news/the-real-estate-power-play-behind-europe-s-data-center-growth 
+abgerufen 
+Deloitte. (2025). KI-Infrastruktur: Wie Deutschland im globalen KI-Rennen aufholen kann. Von 
+https://www.deloitte.com/content/dam/assets-zone2/de/de/docs/issues/sustainability-
+climate/2025/Deloitte-KI-Infrastruktur-Studie.pdf abgerufen 
+Dena. (2025). Stand und Entwicklung des Rechenzentrumsstandorts Deutschland. Von 
+https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Publikationen/Technologie/stand-und-
+entwicklung-des-rechenzentrumsstandorts-deutschland.pdf?__blob=publicationFile&v=10 abgerufen 
+Fraunhofer IZM & et al. (2025). Strombedarf und Carbon Footprint der IKT in Deutschland 2010 - 2036. Von 
+https://www.izm.fraunhofer.de/de/abteilungen/environmental_reliabilityengineering/projekte/green-
+ict/studie-zum-strombedarf-und-carbon-footprint-der-ikt-in-deutschland.html abgerufen 
+IEA. (2025). Energy and AI: World Energy Outlook Special Report. Von 
+https://iea.blob.core.windows.net/assets/601eaec9-ba91-4623-819b-4ded331ec9e8/EnergyandAI.pdf 
+abgerufen 
+KIRA. (2025). KI-Rechenzentren: Aktuelle Kapazität, künftiger Bedarf. Von 
+https://static1.squarespace.com/static/6426ad829db93559a3ed812e/t/69007b9de876dd54da97247e/176
+1639325635/KIRA+Compute+Report+2025+%28Deutsch%29.pdf abgerufen 
+McKinsey. (2025). The cost of compute: A $7 trillion race to scale data centers. Von 
+https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-
+cost-of-compute-a-7-trillion-dollar-race-to-scale-data-centers abgerufen 
+Zika, G., Kalinowski, M., Krinitz, J., Maier, T., Mönnig, A., Schneemann, C., . . . Zenk, J. (2025). 
+Fachkräftemonitoring für das BMAS – Mittelfristprognose bis 2029. Von 
+https://www.bmas.de/SharedDocs/Downloads/DE/Publikationen/Forschungsberichte/fb-670-
+mittelfristprognose-2025-2029.pdf?__blob=publicationFile&v=1 abgerufen 
+ 
+ 
+ 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.

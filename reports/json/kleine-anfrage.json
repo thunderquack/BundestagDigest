@@ -5452,5 +5452,185 @@
     "description_ru": "Депутаты интересуются, каковы текущие условия для производства батарейных ячеек в Германии после отмены проекта ACC в Кайзерслаутерне. Они хотят получить информацию о существующих, планируемых и приостановленных производственных мощностях, а также о причинах изменений в проектах. Правительство отвечает, что на данный момент ведутся переговоры о возможной закрытии завода, но окончательное решение еще не принято. Также подчеркивается, что необходимо создать стабильные ожидания спроса и конкурентные условия для производства.",
     "description_de": "Die Abgeordneten fragen nach den aktuellen Bedingungen für die Batteriezellenproduktion in Deutschland nach dem Rückzug von ACC in Kaiserslautern. Sie möchten Informationen über bestehende, geplante und pausierte Produktionskapazitäten sowie über die Gründe für Änderungen in den Projekten. Die Bundesregierung antwortet, dass derzeit Gespräche über eine mögliche Schließung des Werks stattfinden, aber eine endgültige Entscheidung noch nicht getroffen wurde. Es wird auch betont, dass stabile Nachfrageerwartungen und wettbewerbsfähige Produktionsbedingungen geschaffen werden müssen.",
     "saved_date": "2026-03-25"
+  },
+  "21/4819": {
+    "number": "21/4819",
+    "author": "Фракция AfD",
+    "date": "2026-03-17",
+    "title": "Использование гендерно-инклюзивного языка в федеральных учреждениях",
+    "description_ru": "Депутаты интересуются, как в федеральных учреждениях осуществляется использование гендерно-инклюзивного языка. В частности, они отмечают отсутствие единого подхода к этому вопросу и приводят примеры, когда сотрудники подвергались дисциплинарным мерам за отказ использовать гендерно-инклюзивный язык. Правительство отвечает, что в настоящее время нет обязательных норм по использованию такого языка, и что каждый министр самостоятельно управляет своим ведомством, включая вопросы языковых стандартов.",
+    "description_de": "Die Abgeordneten fragen, wie in den Bundesbehörden mit der Verwendung von geschlechtsinklusiver Sprache umgegangen wird. Sie weisen darauf hin, dass es keinen einheitlichen Ansatz gibt und nennen Beispiele, in denen Mitarbeiter disziplinarisch bestraft wurden, weil sie sich weigerten, geschlechtsinklusiv zu sprechen. Die Bundesregierung antwortet, dass es derzeit keine verbindlichen Vorgaben zur Verwendung solcher Sprache gibt und dass jeder Minister seinen Geschäftsbereich eigenverantwortlich leitet, einschließlich der Sprachstandards.",
+    "saved_date": "2026-03-26"
+  },
+  "21/4823": {
+    "number": "21/4823",
+    "author": "Fraktion der AfD",
+    "date": "2026-03-17",
+    "title": "Транспарентность и представление данных о заполнении газовых хранилищ",
+    "description_ru": "Депутаты интересуются, какие федеральные министерства и ведомства публикуют собственные дашборды и графики по заполнению газовых хранилищ, а также какие источники данных используются для этих публикаций. Правительство отвечает, что Федеральная сеть агентства (BNetzA) и Федеральное статистическое управление (Destatis) предоставляют актуальную информацию о состоянии газоснабжения и заполнении хранилищ через свои веб-сайты. Также упоминается, что данные собираются через API и другие методы, и что визуализации не используют цветовые коды на основе пороговых значений.",
+    "description_de": "Die Abgeordneten fragen, welche Bundesministerien und Behörden derzeit eigene Dashboards und Grafiken zu den Füllständen von Gasspeichern veröffentlichen und welche Datenquellen dafür genutzt werden. Die Bundesregierung antwortet, dass die Bundesnetzagentur (BNetzA) und das Statistische Bundesamt (Destatis) aktuelle Informationen zur Gasversorgung und zu den Füllständen von Gasspeichern über ihre Webseiten bereitstellen. Es wird auch erwähnt, dass die Daten über APIs und andere Methoden gesammelt werden und dass die Visualisierungen keine Farbcodierungen basierend auf Schwellenwerten verwenden.",
+    "saved_date": "2026-03-26"
+  },
+  "21/4824": {
+    "number": "21/4824",
+    "author": "Fraktion der AfD",
+    "date": "2026-03-17",
+    "title": "Введение обязательной дистанционной регистрации потребления",
+    "description_ru": "Депутаты интересуются, как правительство оценивает значительные дополнительные расходы, связанные с приобретением, установкой, калибровкой, обслуживанием и ремонтом дистанционных счетчиков тепла, особенно для домохозяйств с низким доходом. Они также спрашивают о мерах, которые правительство может предпринять для предотвращения чрезмерной финансовой нагрузки на эти домохозяйства. Правительство отвечает, что в прошлом году была проведена оценка, и результаты показывают, что требования к дистанционному считыванию и интероперабельности в целом принимаются на практике. Однако конкретные финансовые последствия для арендаторов в настоящее время не могут быть определены, и этот аспект будет пересмотрен в следующей оценке в конце 2026 года.",
+    "description_de": "Die Abgeordneten fragen, wie die Bundesregierung die erheblichen Mehrkosten einschätzt, die durch die Anschaffung, Installation, Eichung, Wartung und Reparatur von fernablesbaren Wärmemengenzählern entstehen, insbesondere für einkommensschwache Haushalte. Sie erkundigen sich auch nach Maßnahmen, die die Bundesregierung ergreifen könnte, um unverhältnismäßige finanzielle Belastungen zu vermeiden. Die Bundesregierung antwortet, dass im letzten Jahr eine Evaluierung durchgeführt wurde, deren Ergebnisse zeigen, dass die Anforderungen an die Fernablesbarkeit und Interoperabilität in der Praxis weitgehend akzeptiert werden. Konkrete finanzielle Auswirkungen auf Mieter können jedoch derzeit nicht beziffert werden, und dieser Aspekt wird in der nächsten Evaluierung Ende 2026 erneut betrachtet.",
+    "saved_date": "2026-03-26"
+  },
+  "21/4825": {
+    "number": "21/4825",
+    "author": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
+    "date": "2026-03-17",
+    "title": "Рассмотрение проблемы расизма в обществе",
+    "description_ru": "Депутаты задают вопросы о масштабах расизма в Германии и о том, как правительство планирует бороться с этой проблемой. Они подчеркивают, что расизм глубоко укоренен в обществе и требует комплексного подхода для его преодоления. Правительство отвечает, что необходимо разработать координированную стратегию, которая будет учитывать различные аспекты расизма и включать мнения пострадавших и экспертов.",
+    "description_de": "Die Abgeordneten fragen nach dem Ausmaß des Rassismus in Deutschland und wie die Bundesregierung plant, dieses Problem zu bekämpfen. Sie betonen, dass Rassismus tief in der Gesellschaft verwurzelt ist und einen umfassenden Ansatz erfordert, um überwunden zu werden. Die Bundesregierung antwortet, dass eine koordinierte Strategie entwickelt werden muss, die verschiedene Aspekte des Rassismus berücksichtigt und die Perspektiven von Betroffenen und Experten einbezieht.",
+    "saved_date": "2026-03-26"
+  },
+  "21/4826": {
+    "number": "21/4826",
+    "author": "Fraktion der AfD",
+    "date": "2026-03-17",
+    "title": "Финансирование гендерно-ответственного управления лесными экосистемами в Индии",
+    "description_ru": "Депутаты интересуются, как правительство определяет понятие \"гендерно-ответственное управление лесными экосистемами\" и какие цели преследует финансирование этого проекта. В ответ правительство объясняет, что данный подход направлен на укрепление прав женщин и девочек, обеспечивая им равный доступ к ресурсам и участие в принятии решений. Также подчеркивается, что финансирование в размере 6 миллионов евро будет использовано для консультационных услуг, развития потенциала и обмена знаниями в выбранных регионах Индии, таких как Уттар-Прадеш и Мадхья-Прадеш.",
+    "description_de": "Die Abgeordneten fragen, wie die Bundesregierung den Begriff \"geschlechterresponsive Bewirtschaftung von Waldökosystemen\" definiert und welche Ziele mit der Förderung verfolgt werden. Die Bundesregierung erklärt, dass dieser Ansatz darauf abzielt, die Rechte von Frauen und Mädchen zu stärken, indem er ihren gleichberechtigten Zugang zu Ressourcen und ihre Mitbestimmung fördert. Zudem wird betont, dass die Mittel in Höhe von 6 Millionen Euro für Beratungsleistungen, Kapazitätsentwicklung und Wissensaustausch in ausgewählten Regionen Indiens verwendet werden.",
+    "saved_date": "2026-03-26"
+  },
+  "21/4836": {
+    "number": "21/4836",
+    "author": "AfD",
+    "date": "2026-03-17",
+    "title": "Расходы правительства на услуги фотографов и визажистов",
+    "description_ru": "Депутаты задают вопросы о расходах правительства на услуги фотографов, визажистов, парикмахеров и массажистов в 21-й законодательный период. Они интересуются, сколько средств было потрачено на эти услуги с начала периода до 28 февраля 2026 года, и просят предоставить информацию по каждому министерству и по годам.\nПравительство отвечает, что для получения информации о расходах на услуги фотографов и массажистов следует обратиться к предыдущим документам, а также предоставляет данные о расходах на услуги визажистов и парикмахеров, разбитые по министерствам и годам. В ответах указаны конкретные суммы, потраченные на эти услуги, и отмечается, что некоторые расходы могут включать дополнительные затраты на поездки и материалы.",
+    "description_de": "Die Abgeordneten fragen nach den Ausgaben der Bundesregierung für die Inanspruchnahme von Fotografen, Visagisten, Friseuren und Masseuren in der 21. Legislaturperiode. Sie möchten wissen, wie viel Geld bis zum 28. Februar 2026 für diese Dienstleistungen ausgegeben wurde und bitten um eine Aufschlüsselung nach Ministerien und Jahren.\nDie Bundesregierung antwortet, dass für Informationen zu den Ausgaben für Fotografen und Masseure auf frühere Dokumente verwiesen werden sollte. Zudem werden die Ausgaben für Visagisten und Friseure aufgeschlüsselt nach Ministerien und Jahren. In den Antworten sind konkrete Beträge aufgeführt, die für diese Dienstleistungen ausgegeben wurden, und es wird darauf hingewiesen, dass einige Ausgaben möglicherweise zusätzliche Kosten für Reisen und Materialien beinhalten.",
+    "saved_date": "2026-03-26"
+  },
+  "21/4837": {
+    "number": "21/4837",
+    "author": "Die Linke",
+    "date": "2026-03-17",
+    "title": "Использование земель и транспортных путей Бундесвера в Гессене",
+    "description_ru": "Депутаты задают вопросы о неактивно используемых земельных участках Бундесвера в Гессене и о планах их дальнейшего использования. Правительство сообщает, что некоторые участки не использовались с 2018 года и что планируется их повторное использование после необходимых строительных работ. Также упоминается, что в Гессене есть участки, которые подлежат мораторию на преобразование в гражданское использование, и правительство не проводило переговоров с местными властями по этому вопросу.",
+    "description_de": "Die Abgeordneten fragen nach nicht aktiv genutzten Liegenschaften der Bundeswehr in Hessen und den Plänen für deren zukünftige Nutzung. Die Bundesregierung teilt mit, dass einige Liegenschaften seit 2018 nicht genutzt werden und eine Wiederverwendung nach notwendigen baulichen Maßnahmen geplant ist. Es wird auch erwähnt, dass in Hessen Liegenschaften unter einem Moratorium stehen, und die Bundesregierung hat keine Gespräche mit den lokalen Behörden zu diesem Thema geführt.",
+    "saved_date": "2026-03-26"
+  },
+  "21/4838": {
+    "number": "21/4838",
+    "author": "Фракция AfD",
+    "date": "2026-03-17",
+    "title": "Ответ на вопросы о Weimer Neureuth GmbH",
+    "description_ru": "Депутаты интересуются деятельностью Weimer Neureuth GmbH и возможными конфликтами интересов, связанными с министром культуры и медиа, доктором Вольфрамом Ваймером. Они задают вопросы о времени проверки его деятельности, о правовом статусе компании и о том, была ли она предметом проверки на наличие конфликтов интересов. Правительство отвечает, что проверка не выявила нарушений, и что Weimer Neureuth GmbH не является коммерческой организацией, а предназначена для управления собственным имуществом. Также подчеркивается, что парламентский контроль не распространяется на вопросы, не относящиеся к ответственности правительства.",
+    "description_de": "Die Abgeordneten fragen nach der Tätigkeit der Weimer Neureuth GmbH und möglichen Interessenkonflikten des Staatsministers für Kultur und Medien, Dr. Wolfram Weimer. Sie stellen Fragen zum Zeitpunkt der Prüfung seiner Aktivitäten, zum rechtlichen Status des Unternehmens und ob es Gegenstand der Prüfung möglicher Interessenkonflikte war. Die Bundesregierung antwortet, dass die Prüfung keine Beanstandungen ergeben hat und dass die Weimer Neureuth GmbH kein gewinnorientiertes Unternehmen ist, sondern zur Vermögensverwaltung dient. Zudem wird betont, dass das parlamentarische Kontrollrecht sich nicht auf Angelegenheiten erstreckt, die keinen Bezug zur Verantwortung der Bundesregierung haben.",
+    "saved_date": "2026-03-26"
+  },
+  "21/4839": {
+    "number": "21/4839",
+    "author": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
+    "date": "2026-03-17",
+    "title": "Стратегия и цели правительства по Европейскому исследовательскому пространству",
+    "description_ru": "Депутаты интересуются стратегией и целями правительства в отношении Европейского исследовательского пространства (ERA) и ожидают четкой позиции по вопросам, связанным с правовым регулированием и финансированием исследований в Европе. В частности, они хотят понять, как правительство планирует справляться с различиями в национальных инвестициях в исследования и разработки между государствами-членами ЕС и какие меры будут предприняты для улучшения координации на уровне ЕС.",
+    "description_de": "Die Abgeordneten fragen nach der Strategie und den Zielen der Bundesregierung im Hinblick auf den Europäischen Forschungsraum (ERA) und erwarten eine klare Position zu Fragen der rechtlichen Verankerung und Finanzierung von Forschung in Europa. Insbesondere möchten sie verstehen, wie die Bundesregierung mit den bestehenden Unterschieden in den nationalen Investitionen in Forschung und Entwicklung zwischen den Mitgliedstaaten der EU umgehen will und welche Maßnahmen zur Verbesserung der Koordination auf EU-Ebene ergriffen werden sollen.",
+    "saved_date": "2026-03-26"
+  },
+  "21/4843": {
+    "number": "21/4843",
+    "author": "Die Linke",
+    "date": "2026-03-18",
+    "title": "Омбудсистема и работа с жалобами на злоупотребление властью",
+    "description_ru": "Депутаты интересуются, какие структуры существуют в Max-Planck-Gesellschaft для приема и обработки жалоб на злоупотребления и другие нарушения. Они указывают на случаи злоупотребления властью и дискриминации, которые были освещены в СМИ, и требуют прозрачности в процессе обработки жалоб. Правительство отвечает, что Max-Planck-Gesellschaft имеет внутренние и внешние каналы для подачи жалоб, а также предоставляет информацию о количестве жалоб и мерах, принятых в ответ на них.",
+    "description_de": "Die Abgeordneten fragen, welche Strukturen innerhalb der Max-Planck-Gesellschaft existieren, um Meldungen über Fehlverhalten und Machtmissbrauch entgegenzunehmen und zu bearbeiten. Sie verweisen auf Berichte über Machtmissbrauch und Diskriminierung in den Medien und fordern Transparenz im Beschwerdeverfahren. Die Bundesregierung antwortet, dass die Max-Planck-Gesellschaft interne und externe Meldestellen hat und Informationen über die Anzahl der Meldungen und die ergriffenen Maßnahmen bereitstellt.",
+    "saved_date": "2026-03-26"
+  },
+  "21/4844": {
+    "number": "21/4844",
+    "author": "Fraktion der AfD",
+    "date": "2026-03-18",
+    "title": "Информация о находках взрывчатых веществ с политическим мотивом",
+    "description_ru": "Депутаты задают вопросы о количестве найденных взрывчатых веществ и устройств с политически мотивированным фоном с 2024 года. Правительство сообщает, что с 2024 года было зарегистрировано четыре случая находок взрывных устройств, которые были классифицированы по типу и региону. Однако, для получения более детальной информации о других случаях, связанных с биологическими и химическими оружиями, правительство указывает на отсутствие таких данных и необходимость значительных ресурсов для их сбора.",
+    "description_de": "Die Abgeordneten fragen nach der Anzahl der seit 2024 gefundenen explosiven Stoffe und Geräte mit politisch motiviertem Hintergrund. Die Bundesregierung berichtet, dass seit 2024 insgesamt vier Fälle von Sprengvorrichtungen registriert wurden, die nach Typ und Region klassifiziert sind. Für detailliertere Informationen über andere Fälle im Zusammenhang mit biologischen und chemischen Waffen verweist die Bundesregierung auf das Fehlen solcher Daten und den erheblichen Ressourcenaufwand, der für deren Erfassung erforderlich wäre.",
+    "saved_date": "2026-03-26"
+  },
+  "21/4845": {
+    "number": "21/4845",
+    "author": "Die Linke",
+    "date": "2026-03-18",
+    "title": "Защита полицейских собак и людей",
+    "description_ru": "Депутаты интересуются, как правительство защищает полицейских собак и людей, учитывая случаи травм и недостаточную защиту. Они поднимают вопросы о количестве полицейских собак, их обучении и условиях содержания. Правительство отвечает, что соблюдаются требования законодательства о защите животных, и что полицейские собаки проходят обучение с учетом их благополучия. Также подчеркивается, что собаки получают достаточное количество перерывов для восстановления и что их здоровье контролируется.",
+    "description_de": "Die Abgeordneten fragen, wie die Regierung Polizeihunde und Menschen schützt, insbesondere in Bezug auf Verletzungen und unzureichenden Schutz. Sie stellen Fragen zur Anzahl der Polizeihunde, deren Ausbildung und Haltungsbedingungen. Die Bundesregierung antwortet, dass die Anforderungen des Tierschutzgesetzes eingehalten werden und dass Polizeihunde unter Berücksichtigung ihres Wohlbefindens ausgebildet werden. Es wird auch betont, dass die Hunde ausreichend Pausen zur Regeneration erhalten und ihre Gesundheit überwacht wird.",
+    "saved_date": "2026-03-26"
+  },
+  "21/4846": {
+    "number": "21/4846",
+    "author": "Fraktion der AfD",
+    "date": "2026-03-18",
+    "title": "Критика отсутствия прозрачности в немецких взносах в международные организации",
+    "description_ru": "Депутаты, представляющие фракцию AfD, задают вопросы о текущем состоянии прозрачности немецких взносов в международные организации. Они ссылаются на критику со стороны Федеральной счетной палаты, которая указывает на недостаток полного и надежного обзора этих взносов. Депутаты подчеркивают важность систематической и прозрачной отчетности для надлежащего контроля бюджета и информирования парламента и общественности.",
+    "description_de": "Die Abgeordneten der AfD-Fraktion fragen nach dem aktuellen Stand der Transparenz deutscher Beitragszahlungen an internationale Organisationen. Sie verweisen auf die Kritik des Bundesrechnungshofs, der auf das Fehlen eines vollständigen und verlässlichen Überblicks über diese Zahlungen hinweist. Die Abgeordneten betonen die Bedeutung einer systematischen und transparenten Berichterstattung für die ordnungsgemäße Haushaltskontrolle und die Information des Parlaments und der Öffentlichkeit.",
+    "saved_date": "2026-03-26"
+  },
+  "21/4847": {
+    "number": "21/4847",
+    "author": "Fraktion der AfD",
+    "date": "2026-03-18",
+    "title": "Активности Роза-Люксембург-Фонда в Эль-Сальвадоре",
+    "description_ru": "Депутаты задают вопросы о деятельности Роза-Люксембург-Фонда в Эль-Сальвадоре с 1996 года и о роли Германской Демократической Республики в Эль-Сальвадоре с 1980 по 1990 год. Они интересуются, в каком объеме и с каким уровнем секретности будут предоставлены запрашиваемые данные, касающиеся партнерских организаций, работающих в области помощи беженцам в Центральной Америке.\nПравительство отвечает, что не может предоставить детальную информацию по вопросам 8 и 9 из-за угрозы для жизни участников проектов. Оно ссылается на необходимость соблюдения конфиденциальности и указывает на риски, связанные с раскрытием информации, даже для депутатов Бундестага. Правительство подчеркивает, что вопросы парламента должны быть отвечены публично, если это не угрожает безопасности людей.",
+    "description_de": "Die Abgeordneten stellen Fragen zu den Aktivitäten der Rosa-Luxemburg-Stiftung in El Salvador seit 1996 und zur Rolle der Deutschen Demokratischen Republik in El Salvador von 1980 bis 1990. Sie erkundigen sich, in welchem Umfang und mit welchem Geheimhaltungsgrad die angeforderten Informationen zu den Partnerorganisationen der Flüchtlingshilfe Mittelamerika e. V. bereitgestellt werden können.\nDie Bundesregierung antwortet, dass sie keine detaillierten Informationen zu den Fragen 8 und 9 bereitstellen kann, da dies eine Gefahr für das Leben der Beteiligten darstellen würde. Sie verweist auf die Notwendigkeit der Geheimhaltung und betont die Risiken, die mit der Offenlegung von Informationen verbunden sind, selbst für die Abgeordneten des Deutschen Bundestages. Die Bundesregierung hebt hervor, dass parlamentarische Anfragen grundsätzlich öffentlich beantwortet werden sollten, es sei denn, dies gefährdet die Sicherheit von Personen.",
+    "saved_date": "2026-03-26"
+  },
+  "21/4851": {
+    "number": "21/4851",
+    "author": "Fraktion der AfD",
+    "date": "2026-03-18",
+    "title": "Законодательные меры по доступу к Шенгенским визам",
+    "description_ru": "Депутаты задают вопросы о доступе к Шенгенским визам через внешних поставщиков услуг, таких как TLScontact, и о том, как правительство выполняет свои надзорные обязанности. Они поднимают вопросы о нехватке доступных терминов для подачи заявлений на визу и о возможных манипуляциях с терминами. Правительство отвечает, что с 2007 года прием заявлений на визу осуществляется через внешних поставщиков, и что они не влияют на решение по заявлению. Также подчеркивается, что правительство принимает меры против злоупотреблений в визовом процессе.",
+    "description_de": "Die Abgeordneten stellen Fragen zum Zugang zu Schengen-Visa über externe Dienstleister wie TLScontact und zur Aufsichtspflicht der Bundesregierung. Sie heben die mangelnde Verfügbarkeit von Terminen zur Beantragung von Visa und mögliche Manipulationen an Terminen hervor. Die Bundesregierung antwortet, dass seit 2007 die Annahme von Visumanträgen über externe Dienstleister erfolgt und dass diese keinen Einfluss auf die Entscheidung über den Antrag haben. Zudem wird betont, dass die Bundesregierung Maßnahmen gegen Missbrauch im Visumverfahren ergreift.",
+    "saved_date": "2026-03-26"
+  },
+  "21/4853": {
+    "number": "21/4853",
+    "author": "BÜNDNIS 90/DIE GRÜNEN",
+    "date": "2026-03-18",
+    "title": "Костенснижение и безопасность дорожного движения при реформе водительских прав",
+    "description_ru": "Депутаты интересуются, какие цели по снижению затрат на получение водительских прав ставит правительство в рамках реформы. Они также спрашивают о средних затратах на получение прав и о том, как правительство планирует снизить высокие показатели неудач на экзаменах. Правительство отвечает, что средние затраты на получение прав составляют 3400 евро, и что они работают над реформой, чтобы снизить эти затраты и улучшить безопасность дорожного движения. Также упоминается, что с момента объявления реформы наблюдается резкое снижение числа заявок на получение прав.",
+    "description_de": "Die Abgeordneten fragen, welche Reduktionsziele die Bundesregierung im Rahmen der Führerscheinreform anstrebt. Sie erkundigen sich auch nach den durchschnittlichen Kosten für den Führerschein und wie die Bundesregierung plant, die hohen Durchfallquoten bei den Prüfungen zu senken. Die Bundesregierung antwortet, dass die durchschnittlichen Kosten für den Führerschein derzeit 3400 Euro betragen und dass sie an einer Reform arbeiten, um diese Kosten zu senken und die Verkehrssicherheit zu verbessern. Es wird auch erwähnt, dass seit der Ankündigung der Reform ein drastischer Rückgang der Anmeldungen zu verzeichnen ist.",
+    "saved_date": "2026-03-26"
+  },
+  "21/4854": {
+    "number": "21/4854",
+    "author": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
+    "date": "2026-03-18",
+    "title": "Участие людей с инвалидностью в обществе",
+    "description_ru": "Депутаты задают вопросы о том, как обеспечивается участие людей с инвалидностью в обществе, особенно тех, кто нуждается в уходе. Они указывают на проблемы, связанные с тем, что молодые люди с высоким уровнем потребности в уходе часто исключаются из системы помощи, что приводит к их помещению в учреждения без доступа к образованию и социальной жизни. Правительство отвечает, что реализация прав на участие зависит от федеральных земель, и оно не может комментировать конкретные случаи исполнения помощи. Также поднимается вопрос о недостатке данных для оценки ситуации.",
+    "description_de": "Die Abgeordneten fragen, wie die Teilhabe von Menschen mit Behinderungen, insbesondere von Pflegebedürftigen, sichergestellt wird. Sie weisen darauf hin, dass junge Menschen mit hohem Pflegebedarf oft als nicht teilhabefähig eingestuft werden und somit aus der Eingliederungshilfe gedrängt werden, was zu einem Leben in Pflegeheimen ohne Zugang zu Bildung und sozialer Teilhabe führt. Die Bundesregierung antwortet, dass die Umsetzung der Eingliederungshilfe von den Bundesländern abhängt und sie keine konkreten Ausführungen dazu machen kann. Zudem wird auf den Mangel an Daten zur Bewertung der Situation hingewiesen.",
+    "saved_date": "2026-03-26"
+  },
+  "21/4855": {
+    "number": "21/4855",
+    "author": "Fraktion der AfD",
+    "date": "2026-03-18",
+    "title": "УImplementation der Modernisierungsagenda im Bundesministerium für Arbeit und Soziales",
+    "description_ru": "Депутаты интересуются, как осуществляется оценка процессов и административных услуг в Министерстве труда и социальных дел, а также какие услуги уже были полностью или частично цифровизированы. Они также хотят знать, с какими министерствами должно сотрудничать Министерство труда для достижения целей модернизации. Правительство отвечает, что оценка процессов не имеет фиксированного срока, но оптимизация является постоянной задачей. Также предоставляется информация о цифровизации услуг и о том, что внутренние и внешние подрядчики не задействованы в рамках модернизации.",
+    "description_de": "Die Abgeordneten fragen, wie die Evaluierung der Prozessabläufe und Verwaltungsleistungen im Bundesministerium für Arbeit und Soziales erfolgt und welche Leistungen bereits digitalisiert wurden. Die Bundesregierung antwortet, dass es keinen festen Zeitpunkt für die Evaluierung gibt, die Optimierung jedoch eine ständige Aufgabe ist. Zudem wird erklärt, dass keine internen oder externen Dienstleister im Rahmen der Modernisierungsagenda beschäftigt sind.",
+    "saved_date": "2026-03-26"
+  },
+  "21/4856": {
+    "number": "21/4856",
+    "author": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
+    "date": "2026-03-18",
+    "title": "Уровень готовности запланированной базовой помощи",
+    "description_ru": "Депутаты задают вопросы о реализации запланированной базовой помощи, поднимая вопросы о правовых и административных аспектах, а также о защите уязвимых групп. Правительство отвечает, что работа для трудоспособных лиц в целом допустима, но с учетом индивидуальных обстоятельств. Также поднимается вопрос о необходимости активного участия получателей помощи в обеспечении своего существования, что обосновывается принципом социального государства.",
+    "description_de": "Die Abgeordneten stellen Fragen zur Umsetzung der geplanten Grundsicherung und heben rechtliche sowie administrative Aspekte sowie den Schutz vulnerabler Gruppen hervor. Die Bundesregierung antwortet, dass Arbeit für erwerbsfähige Personen grundsätzlich zumutbar ist, jedoch unter Berücksichtigung individueller Umstände. Zudem wird die Notwendigkeit der aktiven Mitwirkung der Leistungsbeziehenden zur Sicherstellung ihres Lebensunterhalts angesprochen, was durch das Prinzip des Sozialstaats begründet wird.",
+    "saved_date": "2026-03-26"
+  },
+  "21/4852": {
+    "number": "21/4852",
+    "author": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
+    "date": "2026-03-19",
+    "title": "Социальные и налоговые аспекты детских пособий",
+    "description_ru": "Депутаты интересуются, как правительство обосновывает налоговые льготы для родителей, учитывая, что они не зависят от фактических расходов на воспитание детей. Правительство отвечает, что налоговые льготы необходимы для обеспечения равенства между налогоплательщиками с детьми и без детей, так как расходы на воспитание детей снижают финансовую способность родителей. Также поднимается вопрос о том, как прогрессивная налоговая система влияет на размер этих льгот, и правительство подтверждает, что более высокие доходы получают большую налоговую выгоду из-за прогрессивного налогообложения.",
+    "description_de": "Die Abgeordneten fragen, wie die Bundesregierung die steuerliche Entlastung für Eltern begründet, obwohl diese nicht an nachgewiesene Ausgaben für Betreuung, Erziehung oder Ausbildung gekoppelt ist. Die Bundesregierung antwortet, dass steuerliche Entlastungen notwendig sind, um die Gleichheit zwischen Steuerpflichtigen mit und ohne Kinder zu gewährleisten, da die Betreuungspflichten die finanzielle Leistungsfähigkeit der Eltern beeinträchtigen. Zudem wird die Frage aufgeworfen, wie die progressive Besteuerung die Höhe dieser Entlastungen beeinflusst, und die Bundesregierung bestätigt, dass höhere Einkommen überproportional von den steuerlichen Vergünstigungen profitieren.",
+    "saved_date": "2026-03-26"
   }
 }
