@@ -1,9 +1,9 @@
 Deutscher Bundestag Drucksache 21/4829
 21. Wahlperiode 19.03.2026
 Kleine Anfrage
-der Abgeordneten Robin Jünger, Ruben Rupp, Alexander Arpaschi, Sebastian 
-Maack, Tobias Ebenberger, Lars Haise, Edgar Naujok, Steffen Janich und der 
-Fraktion der AfD
+der Abgeordneten Robin Jünger, Ruben Rupp, Alexander Arpaschi, 
+Sebastian Maack, Tobias Ebenberger, Lars Haise, Edgar Naujok, 
+Steffen Janich und der Fraktion der AfD
 Stand und Steuerung des Glasfaser-, Mobilfunk- und satellitengestützten 
 Breitbandausbaus in Deutschland
 Eine leistungsfähige, resiliente und flächendeckende digitale Infrastruktur ist 
@@ -32,7 +32,7 @@ anschlussfähiger bzw. genutzter Anschlüsse nachvollziehbar sind.
 Mit dem Bericht zum Stand des Glasfaserausbaus in Deutschland hat das 
 BMDS zwar eine umfangreiche Bestandsaufnahme vorgelegt, dennoch stellt 
 sich die Frage, ob die Bundesregierung auf Basis dieses Berichts eine
-hinreichend konkrete, terminierte Steuerung der Zielerreichung vornimmt Hinzu 
+hinreichend konkrete, terminierte Steuerung der Zielerreichung vornimmt. Hinzu 
 kommt, dass die öffentliche Debatte regelmäßig zwischen „Verfügbarkeit“, 
 „Ausbaufortschritt“, „Anschlussfähigkeit“ und tatsächlicher Nutzung
 unterscheidet. Ohne eine klare, bundeseinheitliche Definition und Veröffentlichung 
@@ -41,17 +41,15 @@ Ausbau je Gemeindeprägung) bleibt der politische Anspruch aus Sicht der
 Fragesteller schwer überprüfbar. (https://bmds.bund.de/fileadmin/BMDS/Dokume
 nte/Bericht-Glasfaserausbau-V10-SCREEN-BF-Maps-highres.pdf).
 Zudem ist der Netzausbau nicht allein auf leitungsgebundene Technologien
-beschränkt. Gerade für abgelegene Regionen, temporäre Lagen und Resilienzan-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-forderungen können satellitengestützte Breitbandzugänge eine ergänzende 
+beschränkt. Gerade für abgelegene Regionen, temporäre Lagen und
+Resilienzanforderungen können satellitengestützte Breitbandzugänge eine ergänzende 
 Rolle spielen, wobei hierfür insbesondere Frequenzregulierung, Erdfunkstellen, 
 Satellitenfunknetze und nationale Verfahren relevant sind (www.bundesnetzage
 ntur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendung
 en/SatFu/start.html sowie www.bundesnetzagentur.de/DE/Fachthemen/Teleko
 mmunikation/Frequenzen/SpezielleAnwendungen/SatFu/Erdfunk/artikel.html).
 Auf EU-Ebene existiert zudem mit dem „Union Secure Connectivity
-Programme“ ein Rechtsrahmen für sichere Konnektivitätsdienste (IRIS²), der auf
+Programme“ ein Rechtsrahmen für sichere Konnektivitätsdienste (IRIS2), der auf
 staatliche und kritische Bedarfe abzielt (https://eur-lex.europa.eu/legal-content/DE/
 TXT/PDF/?uri=CELEX:32023R0588). Für eine moderne Staatsdigitalisierung 
 ist aus Sicht der Fragesteller relevant, ob und wie die Bundesregierung
@@ -67,23 +65,23 @@ gegebenenfalls übernommen werden.
 Wir fragen die Bundesregierung:
  1. Wie viele Haushalte und Unternehmen sind nach Kenntnis der
 Bundesregierung aktuell nicht mit Glasfaser bis ins Gebäude bzw. in die
-Wohnung (FTTB/H) versorgt (bitte nach Bundesländern sowie Landkreisen 
-bzw. kreisfreien Städten aufschlüsseln und den Stand der Datenerhebung 
-benennen, unter Angabe der Datenquelle, z. B. Breitbandatlas im Gigabit-
-Grundbuch)?
+Wohnung (Fibre to the Building (FTTB) bzw. Fibre to the Home (FTTH))
+versorgt (bitte nach Bundesländern sowie Landkreisen bzw. kreisfreien
+Städten aufschlüsseln und den Stand der Datenerhebung unter Angabe der
+Datenquelle, z. B. Breitbandatlas im Gigabit-Grundbuch, benennen)?
  2. Welche Arbeitsdefinitionen verwendet die Bundesregierung für die
 Begriffe „anschlussfähig“, „ausgebaut/versorgt“ und „genutzt“ im Kontext 
 des Glasfaserausbaus, und welche Kennzahlen veröffentlicht sie hierzu 
 regelmäßig (bitte jeweils die Rechts- bzw. Verwaltungsvorschrift oder
 interne Leitlinie benennen, sofern vorhanden)?
- 3. Welche konkreten, terminierten Zielpfade (Jahres-Meilensteine) hat die 
+ 3. Welche konkreten, terminierten Zielpfade (Jahresmeilensteine) hat die 
 Bundesregierung zur Erreichung ihrer Gigabit-Ziele festgelegt, und wie 
 verknüpft sie diese Zielpfade mit dem Bericht Stand des Glasfaserausbaus 
 in Deutschland?
  4. In welchem Umfang wurden seit Beginn der laufenden Legislaturperiode 
-Bundesmittel für den Breitband-/Glasfaserausbau bewilligt, gebunden und 
-tatsächlich ausgezahlt (bitte nach Haushaltsjahren, Programmlinien,
-Empfängerkategorien und Bundesländern aufschlüsseln)?
+Bundesmittel für den Breitband- bzw. Glasfaserausbau bewilligt,
+gebunden und tatsächlich ausgezahlt (bitte nach Haushaltsjahren,
+Programmlinien, Empfängerkategorien und Bundesländern aufschlüsseln)?
  5. Wie viele geförderte Ausbauvorhaben wurden nach Kenntnis der
 Bundesregierung seit Beginn der laufenden Legislaturperiode teilweise oder ganz 
 aufgehoben, verzögert, neu zugeschnitten oder nachträglich umgeplant, 
@@ -94,10 +92,8 @@ Parallel- bzw. Doppelausbauten zwischen geförderten und
 eigenwirtschaftlichen Projekten zu vermeiden, und welche quantitativen Kriterien 
 nutzt sie hierfür?
  7. Welche bundesseitigen Vorgaben oder Vereinbarungen bestehen nach 
-Kenntnis der Bundesregierung mit Ländern und Kommunen zur Beschleu-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-nigung von Genehmigungsverfahren (z. B. Aufgrabegenehmigungen,
+Kenntnis der Bundesregierung mit Ländern und Kommunen zur
+Beschleunigung von Genehmigungsverfahren (z. B. Aufgrabegenehmigungen,
 Wegerechte), und welche durchschnittlichen Bearbeitungszeiten werden
 bundesweit beobachtet (bitte nach Bundesländern aufschlüsseln)?
  8. Welche konkreten Umsetzungsmaßnahmen plant oder vollzieht die
@@ -112,8 +108,8 @@ wie häufig erfolgen solche Prüfungen?
 10. Beabsichtigt die Bundesregierung, im Rahmen des europäischen
 Rechtsrahmens zum Universaldienst einen nationalen Mindeststandard für einen 
 angemessenen Breitband-Internetzugang festzulegen, und wenn ja, mit 
-welchen Parametern (Down-/Upload, Latenz, Verfügbarkeit, Preis-/
-Erschwinglichkeitskriterien) und ab wann?
+welchen Parametern (Down- bzw. Upload, Latenz, Verfügbarkeit,
+Preisbzw. Erschwinglichkeitskriterien), und ab wann?
 11. Welche Rolle misst die Bundesregierung satellitengestützten
 Breitbandzugängen als Ergänzung zur Glasfaser- und Mobilfunkversorgung bei, und 
 welche bundesseitigen Planungen, Förderansätze oder regulatorischen
@@ -124,22 +120,18 @@ Zulassungsfragen für satellitengestützte Breitbandanwendungen (z. B.
 Erdfunkstellen, Schutz bestehender Anlagen) durch, und welche konkreten 
 Ziele verfolgt sie dabei für die Versorgung von „weißen Flecken“?
 13. Welche Position und welche Nutzungsszenarien verfolgt die
-Bundesregierung im Hinblick auf das EU-Programm für sichere Konnektivität (IRIS²) 
+Bundesregierung im Hinblick auf das EU-Programm für sichere Konnektivität (IRIS2) 
 gemäß Verordnung (EU) 2023/588, insbesondere für kritische
-Infrastrukturen, Behördenkommunikation und resiliente Ersatz-/
+Infrastrukturen, Behördenkommunikation und resiliente Ersatz- bzw.
 Ergänzungsanbindungen in Deutschland?
 14. Welche internationalen, EU-rechtlich belastbaren Best-Practice-Ansätze 
 zur Koordination, Zielsteuerung oder Förderarchitektur des
 Breitbandausbaus hat die Bundesregierung geprüft (z. B. staatlich koordinierte
-Strategiemodelle wie „Breitbandstrategie 2030“ der Republik Österreich) und 
+Strategiemodelle wie „Breitbandstrategie 2030“ der Republik Österreich), und 
 welche Elemente beabsichtigt sie konkret zu übernehmen oder
-ausdrücklich nicht zu?
+ausdrücklich nicht zu übernehmen?
 Berlin, den 18. März 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.

@@ -7,7 +7,7 @@ Bodo Ramelow, David Schliesing, Aaron Valent, Donata Vogtschmidt, Christin
 Willnat und der Fraktion Die Linke
 Pläne für eine europäische KI-Gigafabrik in Deutschland
 Die EU-Kommission plant, bis zu fünf sogenannte KI-Gigafabriken zu
-unterstützen, große Rechenzentren mit mehr als 100,000 spezialisierten
+unterstützen, große Rechenzentren mit mehr als 100 000 spezialisierten
 Hochleistungsprozessoren (GPUs), die für Entwicklung, Training und Ausführung sehr 
 großer KI-Modelle geeignet sind. Die Kosten veranschlagt sie – bei einer
 vorgesehenen Laufzeit von zunächst fünf Jahren – bei etwa 3 bis 5 Mrd. Euro pro 
@@ -16,41 +16,42 @@ Gemeinsame Unternehmen für europäisches Hochleistungsrechnen (EuroHPC)
 erfolgen, wobei der EU-Anteil jeweils durch einen Mitgliedstaatenanteil in 
 mindestens gleicher Höhe ergänzt wird und der größere Teil der Finanzierung 
 über ein Konsortium mit privater Beteiligung erfolgt. Der Koalitionsvertrag 
-enthält die Ankündigung, mindestens eine Gigafabrik nach Deutschland zu
-holen.
+zwischen CDU, CSU und SPD enthält die Ankündigung, mindestens eine
+Gigafabrik nach Deutschland zu holen.
 Bereits von April bis Juni 2025 hat die EU-Kommission nach einem
 entsprechenden Aufruf 76 Interessenbekundungen für KI-Gigafabriken erhalten. Der 
 öffentlichen Berichterstattung ist zu entnehmen, dass sechs
 Interessenbekundungen für Standorte in Deutschland erfolgten, unter anderem von der
 Deutschen Telekom, der Schwarz-Gruppe, Ionos, der bayerischen Landesregierung 
 und Silicon Saxony. Zwischenzeitlich wurde berichtet, dass die Telekom und 
-die Schwartz-Gruppe in Gesprächen für eine gemeinsame Gigafabrik sind.
-Nachdem der Start des eigentlichen Bewerbungsverfahren ursprünglich für 
-Ende 2025 geplant war, soll er nun im Februar erfolgen. Noch im zweiten 
+die Schwarz-Gruppe in Gesprächen für eine gemeinsame Gigafabrik sind.
+Nachdem der Start des eigentlichen Bewerbungsverfahrens ursprünglich für 
+Ende 2025 geplant war, soll er nun im Februar 2026 erfolgen. Noch im zweiten 
 Quartal 2026 soll dann die Standortauswahl erfolgen.
-In einer Vorlage an den Haushaltsausschuss des Deutschen Bundestags 
-(Ausschuss-Drs. 21/3382) gibt die Bundesregierung an, sich mit 805 Mio. Euro 
-aus dem Sondervermögen Infrastruktur und Klimaneutralität am Aufbau einer 
-Gigafabrik beteiligen zu wollen.
-Am 13. Januar 2026 berichtete das Handelsblatt, dass die Bundesregierung für 
-den 14. Januar Staatssekretäre von Bund und Ländern sowie Industrievertreter 
-zu einer sechsstündigen Workshop-Sitzung beim Digitalministerium eingeladen 
-habe. Inhalte seien insbesondere die Ausgestaltung der Bund-Länder-
-Koordination und die technischen Bedarfe, Ziel insbesondere ein „internes 
-Commitment, Bedarfe an Rechenleistungen von Bund und Ländern auf eine 
-deutsche AI Gigafactory zu lenken“. Bereits im Vorfeld des Treffens sei der 
-Bedarf der Länder an GPUs abgefragt worden.
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+In einer Vorlage an den Haushaltsausschuss des Deutschen Bundestags
+(Ausschussdrucksache 21/3382) gibt die Bundesregierung an, sich mit 805 Mio. 
+Euro aus dem Sondervermögen Infrastruktur und Klimaneutralität am Aufbau 
+einer Gigafabrik beteiligen zu wollen.
+Am 13. Januar 2026 berichtete das „Handelsblatt“, dass die Bundesregierung 
+für den 14. Januar 2026 Staatssekretäre von Bund und Ländern sowie
+Industrievertreter zu einer sechsstündigen Workshop-Sitzung beim Bundesministerium 
+für Digitales und Staatsmodernisierung eingeladen habe. Inhalte seien
+insbesondere die Ausgestaltung der Bund-Länder-Koordination und die technischen 
+Bedarfe, Ziel sei insbesondere ein „internes Commitment, Bedarfe an
+Rechenleistungen von Bund und Ländern auf eine deutsche AI Gigafactory zu lenken“. 
+Bereits im Vorfeld des Treffens sei der Bedarf der Länder an GPUs abgefragt 
+worden.
 Wir fragen die Bundesregierung:
  1. Wie sind die Zuständigkeiten und Federführungen innerhalb der
 Bundesregierung beim Thema KI-Gigafabrik verteilt, insbesondere in der
-Abgrenzung zwischen Forschungs- und Digitalministerium?
+Abgrenzung zwischen dem Bundesministerium für Forschung, Technologie 
+und Raumfahrt und dem Bundesministerium für Digitales und
+Staatsmodernisierung?
  2. Welche Interessenbekundungen für Standorte in Deutschland sind nach 
 Kenntnis der Bundesregierung im Rahmen des Calls von April bis Juni 
 2025 gegenüber der EU-Kommission erfolgt?
- 3. Welche Angaben wurden nach Kenntnis der Bundesregierung bei den
-Interessenbekundungen unter Frage 2 jeweils gemacht zu
+ 3. Welche Angaben wurden nach Kenntnis der Bundesregierung bei den in 
+Frage 2 erfragten Interessenbekundungen jeweils gemacht zu
 a) beabsichtigten Trägern und Investoren,
 b) Standort,
 c) gegebenenfalls bereits vorhandener Infrastruktur,
@@ -61,21 +62,22 @@ sowie
 f) Geschäftsmodell und Preisgestaltung?
  4. Mit welchen privaten und öffentlichen Akteuren hat die Bundesregierung 
 seit April 2025 Gespräche mit Bezug auf eine mögliche Bewerbung für 
-eine KI-Gigafabrik mit Standort in Deutschland geführt (bitte um
-Aufschlüsselung nach Termin, Gesprächspartner und Thema)?
+eine KI-Gigafabrik mit Standort in Deutschland geführt (bitte nach
+Termin, Gesprächspartner und Thema aufschlüsseln)?
  5. Was ist nach Kenntnis der Bundesregierung der Stand der Gespräche
-zwischen Telekom, Schwartz-Gruppe und gegebenenfalls weiteren
+zwischen Telekom, Schwarz-Gruppe und gegebenenfalls weiteren
 potenziellen Konsortialpartnern bezüglich einer gemeinsamen Bewerbung, und
 inwiefern ist die Bundesregierung in diese Gespräche einbezogen?
- 6. Wer wurde zu dem Workshop-Termin im Digitalministerium am 14.
-Januar 2026 eingeladen und welche Akteure waren dort vertreten?
+ 6. Wer wurde zu dem Workshoptermin im Bundesministerium für Digitales 
+und Staatsmodernisierung, am 14. Januar 2026 eingeladen und welche 
+Akteure waren dort vertreten?
  7. Welche Ergebnisse hatte dieser Termin, insbesondere was das interne 
 Commitment von Bund und Ländern angeht, als Ankerkunden
 aufzutreten?
  8. Wann und mit welcher Frist wurden Bedarfe an GPUs bzw.
-Rechenleistung der Bundesländer abgefragt und welche sind gemeldet worden (Bitte 
-um Aufschlüsselung nach Bundesland und, soweit möglich, Bedarfsträger 
-bzw. Verwendungszweck)?
+Rechenleistung der Bundesländer abgefragt, und welche sind gemeldet worden (bitte 
+nach Bundesland und, soweit möglich, Bedarfsträger bzw.
+Verwendungszweck aufschlüsseln)?
  9. Von welchen eigenen Bedarfen oder Bedarfen anderer öffentlicher Stellen 
 auf Bundesebene an GPUs bzw. Rechenleistung, die von einer Gigafabrik 
 gedeckt werden könnten, geht die Bundesregierung aus, und welche
@@ -87,11 +89,9 @@ Bundesregierung aus?
 11. Welche Pläne verfolgt die Bundesregierung in Bezug auf eine von ihr
 mitgetragene Bewerbung für eine Gigafabrik in Deutschland, insbesondere 
 was den weiteren Zeitplan angeht?
-12. Gibt es von Seiten der Bundesregierung Pläne oder Erwägungen für eine 
+12. Gibt es vonseiten der Bundesregierung Pläne oder Erwägungen für eine 
 Kooperation mit anderen Mitgliedstaaten bei der Bewerbung für eine
 Gigafabrik?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 13. Mit welchen potenziellen Konsortialpartnern für eine Gigafabrik ist die 
 Bundesregierung im Gespräch?
 14. Plant oder erwägt die Bundesregierung, selbst Konsortialpartner einer
@@ -102,7 +102,7 @@ welchem Umfang?
 16. Sind der Bundesregierung Pläne anderer öffentlicher Stellen für eine
 direkte Beteiligung an einem Gigafabrik-Konsortium bekannt?
 17. Welche Standorte kommen nach Auffassung der Bundesregierung für eine 
-Gigafabrik in Deutschland in Frage bzw. stehen zur Diskussion?
+Gigafabrik in Deutschland infrage bzw. stehen zur Diskussion?
 18. In welchem Verfahren und nach welchen Kriterien soll die Entscheidung 
 für einen oder mehrere Gigafabrik-Standorte in Deutschland gefällt
 werden?
@@ -113,12 +113,12 @@ Zugriffsberechtigter die Zugriffskontingente übersteigt?
 20. Plant die Bundesregierung, analog zu den Regelungen für die europäische 
 Zugriffszeit sicherzustellen, dass der Zugang innerhalb der ihr
 zustehenden Zugriffszeit für öffentliche oder anderweitig privilegierte Stellen
-kostenlos ist, und wenn nicht, welche anderen Regelungen zur Vergütung 
+kostenlos ist, und wenn nein, welche anderen Regelungen zur Vergütung 
 strebt sie an?
 21. Geht die Bundesregierung davon aus, dass sie oder andere öffentliche 
 Stellen Rechenleistung aus einer Gigafabrik in Deutschland außerhalb der 
-deutschen oder europäischen Zugriffszeit nachfragen werden, und wenn 
-ja, in welchem Umfang?
+deutschen oder europäischen Zugriffszeit nachfragen wird bzw. werden, 
+und wenn ja, in welchem Umfang?
 22. Wie plant die Bundesregierung zu gewährleisten, dass eine Gigafabrik in 
 Deutschland – wie in der europäischen Verordnung vorgesehen – über 
 eine ökologisch nachhaltige Infrastruktur versorgt wird, insbesondere was 
@@ -126,22 +126,21 @@ Energie- und Wasserversorgungssysteme anbelangt?
 a) Ist nach dem Verständnis der Bundesregierung das Kriterium der
 ökologischen Nachhaltigkeit der Energieversorgung erfüllbar, wenn eine 
 Gigafabrik Strom aus fossilen Quellen bezieht, diese aber durch den 
-Erwerb von Zertifikaten oder andere Ausgleichsmaßnahme
+Erwerb von Zertifikaten oder andere Ausgleichsmaßnahmen
 kompensiert?
 b) Ist nach dem Verständnis der Bundesregierung das Kriterium der
 ökologischen Nachhaltigkeit der Energieversorgung erfüllbar, wenn eine 
 Gigafabrik keine neuen Quellen erneuerbarer Energie im Umfang
 ihres Energiebedarfs finanziert?
 c) Handelt es sich nach Auffassung Bundesregierung bei den Kriterien 
-des Blauen Engels für Rechenzentren (DE-ZU 228) für einen
-geeigneten Maßstab zur Beurteilung der Frage, ob eine Gigafabrik über eine 
-ökologisch nachhaltige Infrastruktur versorgt wird, und strebt sie diese 
-oder eine vergleichbare Zertifizierung an?
+des Blauen Engels für Rechenzentren (DE-ZU (Deutsches
+Umweltzeichen) 228) für einen geeigneten Maßstab zur Beurteilung der Frage, 
+ob eine Gigafabrik über eine ökologisch nachhaltige Infrastruktur
+versorgt wird, und strebt sie diese oder eine vergleichbare Zertifizierung 
+an?
 d) Ist nach Auffassung der Bundesregierung insbesondere die Nutzung 
 der entstehenden Abwärme ein notwendiges Kriterium für eine
 ökologisch nachhaltige Infrastruktur?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 23. Von welcher Leistungsfähigkeit (in GPUs oder anderen Maßen für
 Rechenleistung) geht die Bundesregierung in Bezug auf eine Gigafabrik in 
 Deutschland aus?
@@ -150,13 +149,13 @@ Gigafabrik in Deutschland aus?
 25. Von welchem Gesamtfinanzierungsbedarf geht die Bundesregierung in 
 Bezug auf eine Gigafabrik in Deutschland aus?
 26. Welcher Anteil dieses Gesamtfinanzierungsbedarfs entfällt jeweils auf
-Kapitalkosten (mit separat ausgewiesenen Kosten für Rechnerhardware) und 
-Betriebskosten (mit separat ausgewiesenen Energiekosten)?
+Kapitalkosten (bitte Kosten für Rechnerhardware separat ausweisen) und
+Betriebskosten (bitte Energiekosten separat ausweisen)?
 27. Von welchem europäischen Finanzierungsbeitrag an einer Gigafabrik in 
 Deutschland geht die Bundesregierung aus?
 28. Handelt es sich bei den 805 Mio. Euro aus dem Sondervermögen um den 
 gesamten deutschen Finanzierungsbeitrag an einer geplanten Gigafabrik, 
-und wenn nicht, welche weiteren Mittel sind hierfür vorgesehen?
+und wenn nein, welche weiteren Mittel sind hierfür vorgesehen?
 29. Plant oder erwägt die Bundesregierung, einen Teil ihres
 Finanzierungsbeitrags in Form eines vorab vereinbarten garantierten Erwerbs von
 Zugriffszeit zu leisten, und wenn ja, in welchem Umfang, und sind die
@@ -173,25 +172,23 @@ Frage 30 zu leisten, sind der Bundesregierung bekannt?
 805 Mio. Euro aus dem Sondervermögen oder an anderer Stelle im
 Haushalt abgebildet?
 33. Von welcher Obergrenze für den Gesamtanteil öffentlicher Finanzierung 
-geht die Bundesregierung für europäische Gigafabriken aus und inwieweit 
-sind nach ihrem Verständnis Unterstützungen im Sinne von Frage 30 und 
-31 bei der Berechnung dieses Anteils zu berücksichtigen?
+geht die Bundesregierung für europäische Gigafabriken aus, und
+inwieweit sind nach ihrem Verständnis Unterstützungen im Sinne von Frage 30 
+und Frage 31 bei der Berechnung dieses Anteils zu berücksichtigen?
 34. Welche Zusagen oder Ankündigungen für Investitionen in eine Gigafabrik 
 durch privatwirtschaftliche Akteure liegen der Bundesregierung vor?
-35. Plant die Bundesregierung sicherzustellen, dass im Fall von
+35. Plant die Bundesregierung, sicherzustellen, dass im Fall von
 Kostensteigerungen bei Infrastrukturbeschaffung oder Bau, die über den geplanten
 Finanzrahmen einer Gigafabrik in Deutschland hinausgehen, diese
 Mehrkosten durch das Konsortium getragen werden, ohne dass weitere
 Haushaltsmittel benötigt werden, und wenn ja, wie?
-36. Plant die Bundesregierung sicherzustellen, dass das Gigafabrik-
+36. Plant die Bundesregierung, sicherzustellen, dass das Gigafabrik-
 Konsortium hinreichende finanzielle Rücklagen bildet, um im Falle einer 
 Stilllegung die dafür anfallenden Kosten vollständig tragen zu können, 
 und wenn ja, wie?
 37. Existieren bereits Überlegungen seitens der Bundesregierung, welche 
 Chip-Generationen von Grafikeinheiten in einer Gigafabrik in
 Deutschland zum Einsatz kommen sollen, und wenn ja, welche?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 38. Inwieweit hat bei den bisherigen Gesprächen zur Gigafabrik, an denen die 
 Bundesregierung beteiligt war oder von denen sie Kenntnis hat, bereits 
 eine Verständigung über den Bezug der nötigen Hardware stattgefunden?
@@ -200,14 +197,6 @@ Auflagen zur technischen Souveränität geplant, welche Hersteller
 begünstigen oder ausschließen?
 Berlin, den 2. März 2026
 Heidi Reichinnek, Sören Pellmann und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
