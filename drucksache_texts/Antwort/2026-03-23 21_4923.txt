@@ -1,0 +1,314 @@
+Deutscher Bundestag Drucksache 21/4923
+21. Wahlperiode 23.03.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Ruben Rupp, Robin Jünger, Alexander 
+Arpaschi, weiterer Abgeordneter und der Fraktion der AfD
+– Drucksache 21/4599 –
+Zum möglichen Einsatz der Software der Firma Palantir bei der Bundespolizei 
+und beim Bundeskriminalamt
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Der Bundesminister des Innern Alexander Dobrindt hat sich für die
+Anschaffung der Analysesoftware des US-Unternehmens Palantir für die
+Bundespolizei und das Bundeskriminalamt (BKA) ausgesprochen. Dieser Vorstoß wird 
+vom Bundesministerium des Innern (BMI) mit der Bedrohung durch
+terroristische und kriminelle Strukturen begründet, welche den Einsatz spezieller
+technologischer, KI-gestützter (KI = Künstliche Intelligenz; engl. AI) Werkzeuge 
+erfordere (www.tagesspiegel.de/dobrindt-will-palantir-fur-bka-und-bundespoli
+zei-das-darf-niemals-zugelassen-werden-sagt-der-koalitionspartner-1453929
+2.html). Als Stärke der KI-gestützten Software (differenziert nach den
+Produkten Gotham, Foundry, AIP, Ontology; vgl. www.palantir .com/) wird die 
+schnelle und komplexe Analyse großer Datenmengen aus heterogenen Quellen 
+genannt. Das können interne Datenbanken der Polizei zu Straftätern,
+Beschuldigten und Verdächtigen sein; Unternehmensdaten zu Fluggästen,
+Hotelübernachtungen, Mobilfunkverbindungen und Kreditkarten; Daten der öffentlichen 
+Hand zu Verkehrsströmen, Melderegistern und Wetterphänomenen;
+schließlich privat generierte Daten auf Social Media. Diese sehr unterschiedlichen 
+Datenbestände werden auf Muster wie auf Anomalien hin durchsucht und 
+schließlich zu einer datenbankübergreifenden Lagebeschreibung aggregiert.
+Zu den Kunden des 2003 gegründeten und seit 2020 börsennotierten
+Unternehmens zählen zum einen staatliche Stellen wie die Polizei, das Militär und 
+die Nachrichtendienste, zum anderen Unternehmen aus den Branchen
+Finanzen, Versicherungen, Energie, Mobilität und Pharma. Die Palantir-Software 
+wird bereits von den Bundesländern Hessen, Bayern und Nordrhein-Westfalen 
+bei der Polizeiarbeit eingesetzt (www.zeit.de/digital/datenschutz/2025-03/pala
+ntir-us-software-analyse-polizei-sicherheit), der Landtag Baden-Württembergs 
+hat jüngst dem Einsatz für die dortige Polizei zugestimmt. Der
+Vorstandsvorsitzende von Palantir hat in einem Interview angegeben, die Software seines 
+Unternehmens habe mitgeholfen, mehrere große Terroranschläge in
+Deutschland zu verhindern (vgl. Alex Karp: Im Nahen Osten gibt es mehr
+Menschenrechte als in manchem Berliner Stadtteil, in: Handelsblatt, 12. bis 14.
+Dezember 2025, S. 6 bis 11, hier S. 7). Dabei wird die Software offenbar auch für das 
+„predictive policing“ genutzt, mit dem Vorhersagen für Verbrechenswahr-
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern
+vom 20. März 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+scheinlichkeiten getroffen werden, auf die mit verstärkter Polizeipräsenz
+reagiert werden kann (https://sebastianschulze.com/palantir/).
+An der Software und dem sie produzierenden und vertreibenden Unternehmen 
+gibt es seit Jahren Kritik. Zum einen wird bemängelt, dass Quellcode und
+Algorithmen nicht offenlägen, dergestalt, dass die Ergebnisse der Analyse nicht 
+nachvollziehbar seien; zum anderen wird befürchtet, dass die analysierten und 
+aggregierten Daten in die USA abzufließen drohten, was dem Streben 
+Deutschlands nach digitaler Souveränität abträglich sei. Schließlich bestehe 
+die Gefahr, dass bei einer Big-Data-Analyse Millionen unbescholtener Bürger 
+ins Visier der Strafverfolgungsbehörden gerieten. Dem widerspricht der
+Bundesminister des Innern und verweist auf die hervorragenden Ergebnisse für die 
+Polizeiarbeit (www.bmi.bund.de/SharedDocs/interviews/DE/2025/2025-08-2
+6-stern-dobrindt.html).
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Die Bundesregierung weist darauf hin, dass die in der Vorbemerkung der
+Fragesteller enthaltene Darstellung teilweise Bewertungen und Annahmen enthält, 
+die sich die Bundesregierung nicht zu eigen macht. Insbesondere ist die
+Annahme, das Bundesministerium des Innern habe sich für die Anschaffung einer
+bestimmten Datenanalysesoftware für die Bundespolizei oder das
+Bundeskriminalamt ausgesprochen oder eine entsprechende Entscheidung getroffen,
+unzutreffend. Die Sicherheitsbehörden des Bundes prüfen fortlaufend Möglichkeiten 
+zur Weiterentwicklung ihrer IT- und Analysefähigkeiten. Solche Prüfungen
+erfolgen ergebnisoffen und orientieren sich ausschließlich an den fachlichen
+Anforderungen der zuständigen Behörden sowie an den vergabe-, sicherheits-,
+datenschutz- und haushaltsrechtlichen Vorgaben.
+Eine Entscheidung über die Beschaffung bestimmter Softwarelösungen zur 
+Auswertung und Analyse für die Bundespolizei oder das Bundeskriminalamt ist 
+bislang nicht getroffen worden. Im Bund-Länder-Programm P20 wurde der 
+Aufbau von Fähigkeiten zur Auswertung und Analyse im Rahmen eines
+modularen Ansatzes beschlossen. Die benötigten Fähigkeiten sollen nunmehr über 
+eine Kombination einzelner Module bereitgestellt werden. Die weitere
+Ausgestaltung befindet sich noch im fachlichen Prüfprozess.
+Bezüglich der gesetzlichen Grundlagen für die automatisierte Datenanalyse 
+verweist die Bundesregierung auf die Entwürfe zur Stärkung digitaler
+Ermittlungsbefugnisse in der Polizeiarbeit sowie zur Stärkung digitaler
+Ermittlungsbefugnisse zur Abwehr von Gefahren des internationalen Terrorismus des
+Bundesministeriums des Innern und auf den Entwurf zur Änderung der
+Strafprozessordnung – digitale Ermittlungsmaßnahmen des Bundesministeriums für 
+Justiz und Verbraucherschutz.
+Zu Einzelheiten laufender fachlicher Prüfungen, möglicher Marktsondierungen 
+oder interner Abstimmungsprozesse äußert sich die Bundesregierung
+grundsätzlich nicht. Aus dem Grundsatz der Gewaltenteilung folgt ein Kernbereich 
+exekutiver Eigenverantwortung, der einen auch parlamentarisch grundsätzlich 
+nicht ausforschbaren Initiativ-, Beratungs- und Handlungsbereich einschließt. 
+Dazu gehört die Willensbildung der Regierung selbst, sowohl hinsichtlich der 
+Erörterungen im Kabinett als auch bei der Vorbereitung von Kabinett- und
+Ressortentscheidungen, die sich vornehmlich in ressortübergreifenden und
+ressortinternen Abstimmungsprozessen vollzieht. Eine Pflicht der Regierung,
+parlamentarischen Informationswünschen zu entsprechen, besteht danach in der 
+Regel nicht, wenn die Information zu einem Mitregieren Dritter bei
+Entscheidungen führen kann, die in der alleinigen Kompetenz der Regierung liegen 
+(BVerfGE 124, 78 [125]; 137, 185 [234]). Die Kontrollkompetenz des
+Parlaments erstreckt sich daher grundsätzlich nur auf bereits abgeschlossene
+Vorgänge und umfasst nicht die Befugnis, in laufende Verhandlungen und
+Entscheidungsvorbereitungen einzugreifen (BVerfGE 124, 78 [120 f.])
+ 1. Welche konkreten Überlegungen haben das Bundesministerium des
+Innern dazu bewogen, sich für die Anschaffung der Datenanalysesoftware 
+des US-Konzerns Palantir für die Bundespolizei und das BKA
+auszusprechen (siehe Vorbemerkung der Fragesteller; bitte ausführen)?
+Die Frage beruht auf der Annahme, das Bundesministerium des Innern habe 
+sich für die Anschaffung einer bestimmten Softwarelösung ausgesprochen. 
+Dies trifft nicht zu. Im Übrigen wird auf die Vorbemerkung der
+Bundesregierung verwiesen.
+ 2. Hat sich die Bundesregierung mit jenen Bundesländern, deren Polizeien 
+die Analysesoftware des Unternehmens Palantir bereits nutzen, über 
+deren Erfahrungen hiermit ausgetauscht?
+a) Wenn ja, mit welchen Ergebnissen?
+b) Wenn nein, ist ein solcher Austausch geplant?
+Die Fragen 2 bis 2b werden gemeinsam beantwortet.
+Die Bundesregierung steht im Rahmen des allgemeinen fachlichen Austauschs 
+regelmäßig mit den Ländern zu Fragen der Weiterentwicklung polizeilicher IT-
+Fähigkeiten, so auch zum Thema Auswertung und Analyse, im Austausch. Zu 
+Einzelheiten dieses Austauschs äußert sich die Bundesregierung nicht. Im
+Übrigen wird auf die Vorbemerkung der Bundesregierung verwiesen.
+ 3. Sind der Bundesregierung alternative Angebote zur Analysesoftware des 
+Unternehmens Palantir bekannt?
+a) Wenn ja, um welche Angebote handelt es sich dabei?
+b) Wenn nein, wird sich die Bundesregierung um mögliche alternative 
+Angebote zu Palantir bemühen?
+Die Fragen 3 bis 3b werden gemeinsam beantwortet.
+Im Rahmen einer fortlaufenden Marktsondierung durch die für polizeiliche IT-
+Fähigkeiten zuständigen Behörden des Bundes werden, wie grundsätzlich
+üblich, unterschiedliche technische Lösungsansätze betrachtet. Im Übrigen wird 
+auf die Vorbemerkung der Bundesregierung verwiesen.
+4. Wenn die Frage 3 bejaht wurde, hält die Bundesregierung mögliche
+Alternativen zur Analysesoftware des Unternehmens Palantir für
+konkurrenzfähig hinsichtlich
+a) der Analysefähigkeit großer, auch unstrukturierter Datenmengen aus 
+heterogenen Quellen,
+b) der verlässlichen Vorhersage möglicher Straftaten,
+c) der grafischen Aufbereitung des Analyseergebnisses,
+d) der Bedienbarkeit,
+e) der Arbeitsgeschwindigkeit,
+f) des Anschaffungspreises beziehungsweise der Lizenzgebühr,
+g) der regelmäßig anfallenden Wartungs- und Betriebskosten,
+h) der Implementierbarkeit in eine bestehende Softwareumgebung, und
+i) des Datenschutzes?
+Die Frage setzt voraus, dass seitens der Bundesregierung eine abschließende 
+Bewertung möglicher Alternativen zu der in der Frage genannten
+Softwarelösung erfolgt ist. Eine solche Bewertung liegt derzeit nicht vor. Im Rahmen
+etwaiger späterer Vergabeverfahren würden Leistungsanforderungen
+produktneutral definiert.
+ 5. Welche spezifischen Funktionen der Palantir-Software (etwa Gotham, 
+Foundry oder AIP) sollen für die Bundespolizei und das BKA beschafft 
+werden, und für welche Einsatzszenarien (Terrorabwehr, Organisierte 
+Kriminalität, Alltagsermittlungen) sind diese vorgesehen, sollte sich die 
+Bundesregierung für die Anschaffung der Palantir-Software für die
+Bundespolizei und das BKA entscheiden?
+Da bislang keine Entscheidung über eine mögliche Beschaffung entsprechender 
+Softwarelösungen getroffen worden ist, können zu möglichen Funktionen keine 
+Angaben gemacht werden. Die Einsatzszenarien richten sich nach den
+gesetzlichen Grundlagen. Die von der Bundesregierung geplanten Rechtsgrundlagen 
+sehen eine Anwendung der automatisierten Datenanalyse im Bereich der
+Abwehr von Terrorismus und weiterer Gefahren für gewichtige Rechtsgüter sowie 
+Bekämpfung schwerer Kriminalität vor. Im Übrigen wird auf die
+Vorbemerkung der Bundesregierung verwiesen.
+ 6. Soll die Palantir-Software auch für die Sicherung der deutschen
+Außengrenzen durch die Bundespolizei eingesetzt werden (bitte ausführen), 
+sollte sich die Bundesregierung für die Anschaffung der Palantir-
+Software für die Bundespolizei und das BKA entscheiden?
+Es wird auf die Antwort zu Frage 5, sowie auf die Vorbemerkung der
+Bundesregierung verwiesen.
+ 7. Soll die Palantir-Software neben dem Einsatz im konkreten Verdachtsfall 
+auch routinemäßig präventiv von der Bundespolizei eingesetzt werden 
+können, um eine Verbrechenswahrscheinlichkeit für bestimmte Regionen 
+bestimmen zu können, und auf welcher gesetzlichen Grundlage geschähe 
+das gegebenenfalls, sollte sich die Bundesregierung für die Anschaffung 
+der Palantir-Software für die Bundespolizei und das BKA entscheiden 
+(bitte ausführen und begründen)?
+Es wird auf die Antwort zu Frage 5, sowie auf die Vorbemerkung der
+Bundesregierung verwiesen.
+ 8. Mit welchen Kosten rechnet die Bundesregierung für die Einrichtung, 
+die Nutzungslizenz, die Wartung und für regelmäßige Updates, sollte sie 
+sich für die Anschaffung der Palantir-Software für die Bundespolizei und 
+das BKA entscheiden, und für welche Vertragsdauer mit dem
+Unternehmen würde sie gegebenenfalls optieren?
+Es wird auf die Antwort zu Frage 5, sowie auf die Vorbemerkung der
+Bundesregierung verwiesen.
+ 9. Wo, also in welchem Land, stünden die Server, auf denen die von der 
+Palantir-Software analysierten, interpretierten und aggregierten Daten, 
+sollte sich die Bundesregierung für die Anschaffung der Palantir-
+Software für die Bundespolizei und das BKA entscheiden, und kämen hier 
+auch Cloud-Dienstleister US-amerikanischer Herkunft als Verarbeitungs- 
+und Speicheranbieter infrage (bitte ausführen)?
+Es wird auf die Antwort zu Frage 5, sowie auf die Vorbemerkung der
+Bundesregierung verwiesen.
+10. Wie lange würden die von der Palantir-Software analysierten,
+interpretierten und aggregierten Daten gespeichert, sollte sich die
+Bundesregierung für die Anschaffung der Palantir-Software für die Bundespolizei 
+und das BKA entscheiden, und hätte das Unternehmen Palantir direkt 
+oder indirekt Zugriff auf diese Daten (bitte ausführen)?
+Die Aussonderungsprüf- und Speicherfristen personenbezogener Daten richten 
+sich nach den allgemeinen gesetzlichen Grundlagen der anwendbaren
+Fachgesetze. Im Übrigen wird auf die Vorbemerkung der Bundesregierung verwiesen.
+11. Hätte die Palantir-Software auch Zugriff auf individuelle
+Gesundheitsdaten, wie sie bei den Krankenkassen oder auch in der elektronischen
+Patientenakte (ePA) gespeichert sind, sollte sich die Bundesregierung für die 
+Anschaffung der Palantir-Software für die Bundespolizei und das BKA 
+entscheiden (bitte ausführen)?
+12. Hätte die Palantir-Software auch Zugriff auf Daten von
+Bundesministerien und deren nachgeordneten Behörden, sollte sich die
+Bundesregierung für die Anschaffung der Palantir-Software für die Bundespolizei 
+und das BKA entscheiden (bitte ausführen)?
+13. Welche Daten der öffentlichen Hand (etwa Melderegister, Verkehrsdaten) 
+würden von der Palantir-Software analysiert und mit polizeiinternen
+Datenbanken verknüpft und in der Folge aggregiert werden, und auf
+welcher gesetzlichen Grundlage erfolgte in diesem Fall der Zugriff durch die 
+Bundespolizei und oder das BKA, sollte sich die Bundesregierung für die 
+Anschaffung der Palantir-Software für die Bundespolizei und das BKA 
+entscheiden?
+14. Welche gewerblichen Daten (etwa Reisedaten, Finanztransaktionen,
+Telekommunikation) würden von der Palantir-Software analysiert und mit 
+polizeiinternen Datenbanken verknüpft und in der Folge aggregiert
+werden, und auf welcher gesetzlichen Grundlage erfolgte in diesem Fall der 
+Zugriff durch die Bundespolizei und oder das BKA, sollte sich die
+Bundesregierung für die Anschaffung der Palantir-Software für die
+Bundespolizei und das BKA entscheiden?
+15. Welche privaten Daten (etwa Social-Media-Daten, Mail- und
+Messengerverkehr) würden von der Palantir-Software analysiert und mit
+polizeiinternen Datenbanken verknüpft und in der Folge aggregiert werden, und 
+auf welcher gesetzlichen Grundlage erfolgte in diesem Fall der Zugriff 
+durch die Bundespolizei und oder das BKA, sollte sich die
+Bundesregierung für die Anschaffung der Palantir-Software für die Bundespolizei 
+und das BKA entscheiden?
+Die Fragen 11 bis 15 werden aufgrund des inhaltlichen Zusammenhangs
+gemeinsam beantwortet.
+Die Verarbeitung von Daten durch Anwendungen zur automatisierten
+Datenanalyse richtet sich nach den gesetzlichen Befugnissen. Die in der
+Vorbemerkung genannten Gesetzentwürfe des Bundesministeriums des Innern und des 
+Bundesministeriums für Justiz und Verbraucherschutz befinden sich in der
+Länder- und Verbändebeteiligung und wurden veröffentlicht. Es wird auf die
+Entwürfe verwiesen.
+16. Unternimmt die Bundesregierung oder eine ihr nachgeordnete Behörde 
+eigene Forschungs- und Entwicklungsanstrengungen zur Schaffung einer 
+für die Polizeiarbeit geeigneten, datenschutzkonformen
+Datenanalysesoftware beziehungsweise hat sie externe Dienstleister mit solchen
+Forschungs- und Entwicklungsanstrengungen beauftragt?
+a) Wenn ja, wie ist der aktuelle Stand dieser Anstrengungen?
+b) Wenn ja, um welche Dienstleister handelt es sich?
+c) Wenn nein, sind solche Forschungs- und Entwicklungsvorhaben
+geplant?
+Die Fragen 16 bis 16c werden gemeinsam beantwortet.
+Die Bundesregierung und ihre nachgeordneten Behörden verfolgen derzeit 
+keine Forschungs- und Entwicklungsprojekte zur Entwicklung einer
+ganzheitlichen Datenanalysesoftware für die Polizeiarbeit im Sinne der Fragestellung. Im 
+Bund-Länder-Programm P20 wurde der Aufbau von Fähigkeiten zur
+Auswertung und Analyse im Rahmen eines modularen Ansatzes beschlossen. Die
+benötigten Fähigkeiten sollen nunmehr über eine Kombination einzelner Module 
+bereitgestellt werden. Die weitere Ausgestaltung befindet sich noch im
+fachlichen Prüfprozess. Im Übrigen wird auf die Vorbemerkung der
+Bundesregierung verwiesen.
+17. Welche quantifizierbaren Vorteile (etwa Zeitersparnis bei Ermittlungen, 
+Fallauflösungsrate, Verhinderung von Straftaten) erkennt die
+Bundesregierung bei der Palantir-Software im Vergleich zu etablierten Systemen 
+der Polizeiarbeit, und liegen der Bundesregierung hierzu unabhängige 
+Studien vor?
+Die Frage setzt voraus, dass die Bundesregierung eine vergleichende
+Bewertung der Leistungsfähigkeit einer bestimmten Softwarelösung vorgenommen 
+hat. Eine solche Bewertung ist bislang nicht erfolgt. Unabhängige Studien im 
+Sinne der Fragestellung liegen der Bundesregierung nicht vor. Im Übrigen wird 
+auf die Vorbemerkung der Bundesregierung verwiesen.
+18. Wäre nach Auffassung der Bundesregierung die KI-gestützte Palantir-
+Software eine Hochrisiko-Anwendung gemäß dem AI‑Act der
+Europäischen Union (bitte ausführen)?
+Die Einstufung eines KI-Systems als Hochrisiko-Anwendung im Sinne der
+Verordnung über künstliche Intelligenz (KI-VO)V (2024/1689) erfolgt nicht
+pauschal für einen Softwarehersteller oder einer spezifischen Software, sondern 
+richtet sich nach dem konkreten Einsatzbereich, dem Verwendungszweck sowie 
+der Funktionsweise der jeweiligen Anwendung im Einzelfall. Die
+Bundesregierung weist darauf hin, dass die Europäische Kommission gemäß Artikel 6
+Absatz 5 und Artikel 96 KI-VO verpflichtet ist, Leitlinien zur praktischen
+Anwendung der Kriterien für Hochrisiko-KI Systeme sowie Konformitätsbewertungen 
+zu veröffentlichen. Zum gegenwärtigen Zeitpunkt stehen diese
+konkretisierenden Leitlinien noch aus. Das Fehlen dieser Leitlinien führt dazu, dass eine
+abschließende behördliche Bewertung spezifischer Softwarelösungen derzeit 
+unter dem Vorbehalt der künftigen Konkretisierung steht. Ungeachtet der
+ausstehenden Leitlinien liegt die Verantwortung für die Einhaltung der Verordnung 
+primär beim Anbieter bzw. dem Betreiber.
+19. Soll es nach den Vorstellungen der Bundesregierung für den Fall der
+Anschaffung der Palantir-Software eine datenschutzrechtliche Begleitung 
+der dergestalt KI-gestützten Arbeit der Bundespolizei und des BKA
+geben, etwa durch die Bundesbeauftragte für den Datenschutz und die
+Informationsfreiheit (bitte ausführen)?
+Für IT-Produkte, die von Bundeskriminalamt und Bundespolizei genutzt
+werden, gelten die allgemeinen datenschutzrechtlichen Pflichten zur Beteiligung 
+der Bundesbeauftragten für den Datenschutz und die Informationsfreiheit. 
+Diese ist nach Maßgabe von § 69 Bundesdatenschutzgesetz (BDSG)
+anzuhören.
+20. Wie gewährleistet die Bundesregierung die Verfassungskonformität des 
+Einsatzes der Palantir-Software vor dem Hintergrund des Urteils des 
+Bundesverfassungsgerichts vom 16. Februar 2023 zur auf der Palantir-
+Technologie basierenden Polizeisoftware HessenData, deren Vorschriften 
+„insbesondere nicht nach Daten von Personen [unterscheiden], die einen 
+Anlass für die Annahme geben, sie könnten eine Straftat begehen oder in 
+besonderer Verbindung zu solchen Personen stehen, und anderen
+Personen. Sie lassen eine breite Einbeziehung von Daten Unbeteiligter zu, die 
+deshalb polizeilichen Ermittlungsmaßnahmen unterzogen werden
+könnten“ (vgl. www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilu
+ngen/DE/2023/bvg23-018.html), sollte sich die Bundesregierung für die 
+Anschaffung der Palantir-Software für die Bundespolizei und das BKA 
+entscheiden?
+Die in der Vorbemerkung genannten Gesetzentwürfe des Bundesministeriums 
+des Innern und des Bundesministeriums für Justiz und Verbraucherschutz sehen 
+Befugnisse zur automatisierten Datenanalyse vor, die die Vorgaben des
+Bundesverfassungsgerichts aus dem Urteil vom 16. Februar 2023 (Az. 1 BvR 1547/19 
+u. 1 BvR 2634/20) an die Ausgestaltung entsprechender Befugnisse umsetzen.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
