@@ -205,6 +205,20 @@ def write_recent_kleineanfrage(limit: int = 25) -> int:
         return 0
 
 
+def send_telegram_digest_if_configured() -> int:
+    try:
+        import send_telegram_digest as tgd  # type: ignore
+    except Exception as ex:
+        print(f"Cannot import send_telegram_digest: {ex}. Skipping Telegram delivery.")
+        return 0
+
+    try:
+        return tgd.send_today_digest()
+    except Exception as ex:
+        print(f"Telegram delivery failed: {ex}")
+        return 0
+
+
 def main(argv: list[str]) -> int:
     load_dotenv()
 
@@ -217,6 +231,7 @@ def main(argv: list[str]) -> int:
     print(f"Reports generated: {made} -> {REPORTS_DIR}")
     # After summarization, build a recent list JSON (top 25 by saved_date)
     write_recent_kleineanfrage(25)
+    send_telegram_digest_if_configured()
     return 0
 
 
