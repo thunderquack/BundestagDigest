@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import html
 import json
 import os
 import sys
@@ -62,22 +63,69 @@ def _clean_text(value: Any) -> str:
     return str(value).strip()
 
 
-def build_entry_message(record: Dict[str, Any]) -> str:
-    title = _clean_text(record.get("title")) or "Без названия"
-    number = _clean_text(record.get("number")) or "без номера"
-    doc_date = _clean_text(record.get("date")) or "дата не указана"
-    author = _clean_text(record.get("author")) or "автор не указан"
-    summary = _clean_text(record.get("description_ru")) or "Краткое описание отсутствует."
+def _escape_text(value: Any) -> str:
+    return html.escape(_clean_text(value), quote=True)
 
-    lines = [
-        f"{title}",
-        f"BT-Drucksache: {number}",
-        f"Дата: {doc_date}",
-        f"Автор: {author}",
+
+def build_pdf_url(record: Dict[str, Any]) -> str | None:
+    pdf_url = _clean_text(record.get("pdf_url"))
+    if pdf_url:
+        return pdf_url
+
+    number = _clean_text(record.get("number"))
+    if "/" not in number:
+        return None
+    wahlperiode, drucksache_num = number.split("/", 1)
+    if not (wahlperiode.isdigit() and drucksache_num.isdigit()):
+        return None
+
+    normalized = drucksache_num.zfill(5)
+    middle = normalized[:3]
+    return f"https://dip.bundestag.de/btd/{wahlperiode}/{middle}/{wahlperiode}{normalized}.pdf"
+
+
+def build_entry_messages(record: Dict[str, Any], index: int, total: int) -> List[str]:
+    title = _escape_text(record.get("title")) or "Без названия"
+    number = _escape_text(record.get("number")) or "без номера"
+    doc_date = _escape_text(record.get("date")) or "дата не указана"
+    author = _escape_text(record.get("author")) or "автор не указан"
+    summary = _escape_text(record.get("description_ru")) or "Краткое описание отсутствует."
+    pdf_url = build_pdf_url(record)
+
+    header_lines = [
+        f"[{index}/{total}]",
+        f"<b>{title}</b>",
+        f"BT-Drucksache: <b>{number}</b>",
+        f"Дата: <b>{doc_date}</b>",
+        f"Автор: <b>{author}</b>",
         "",
-        summary,
     ]
-    return "\n".join(lines).strip()
+    header = "\n".join(header_lines)
+    footer = ""
+    if pdf_url:
+        footer = f'\n\n<a href="{html.escape(pdf_url, quote=True)}">PDF</a>'
+
+    full_message = f"{header}\n{summary}{footer}".strip()
+    if len(full_message) <= MAX_MESSAGE_LEN:
+        return [full_message]
+
+    available = MAX_MESSAGE_LEN - len(header) - len(footer) - 4
+    if available < 500:
+        available = 500
+    summary_chunks = _split_long_text(summary, max_len=available)
+
+    messages: List[str] = []
+    for chunk_index, chunk in enumerate(summary_chunks, start=1):
+        chunk_header = header
+        if len(summary_chunks) > 1:
+            chunk_header = chunk_header.replace(
+                f"[{index}/{total}]",
+                f"[{index}/{total}] часть {chunk_index}",
+                1,
+            )
+        chunk_footer = footer if chunk_index == len(summary_chunks) else ""
+        messages.append(f"{chunk_header}\n{chunk}{chunk_footer}".strip())
+    return messages
 
 
 def _split_long_text(text: str, max_len: int = MAX_MESSAGE_LEN) -> List[str]:
@@ -115,13 +163,7 @@ def build_messages(records: Iterable[Dict[str, Any]], target_date: str) -> List[
         f"Новые суммаризации ответов федерального правительства за {target_date}: {len(records)}"
     ]
     for index, record in enumerate(records, start=1):
-        text = build_entry_message(record)
-        chunks = _split_long_text(text)
-        for chunk_index, chunk in enumerate(chunks, start=1):
-            prefix = f"[{index}/{len(records)}]"
-            if len(chunks) > 1:
-                prefix += f" часть {chunk_index}"
-            messages.append(f"{prefix}\n{chunk}")
+        messages.extend(build_entry_messages(record, index, len(records)))
     return messages
 
 
@@ -131,6 +173,7 @@ def send_telegram_message(bot_token: str, chat_id: str, text: str) -> None:
             "chat_id": chat_id,
             "text": text,
             "disable_web_page_preview": "true",
+            "parse_mode": "HTML",
         }
     ).encode("utf-8")
     url = f"{TELEGRAM_API_BASE}/bot{bot_token}/sendMessage"
