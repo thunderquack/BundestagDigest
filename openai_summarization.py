@@ -17,6 +17,13 @@ def getenv_str(name: str) -> Optional[str]:
 
 
 ALLOWED_AUTHORS = ["SPD", "CDU/CSU", "die Linke", "die Grünen", "AfD"]
+AUTHOR_SYNONYMS = {
+    "AfD": ("afd",),
+    "CDU/CSU": ("cdu/csu",),
+    "SPD": ("spd",),
+    "die Linke": ("linke",),
+    "die Grünen": ("grüne", "gruene", "grune", "grün"),
+}
 
 
 def normalize_author(value: Any) -> Any:
@@ -27,16 +34,13 @@ def normalize_author(value: Any) -> Any:
         return None
 
     lowered = s.lower()
-    if "afd" in lowered:
-        return "AfD"
-    if "cdu/csu" in lowered or ("cdu" in lowered and "csu" in lowered):
+    for canonical, synonyms in AUTHOR_SYNONYMS.items():
+        if canonical.lower() in lowered:
+            return canonical
+        if any(token in lowered for token in synonyms):
+            return canonical
+    if "cdu" in lowered and "csu" in lowered:
         return "CDU/CSU"
-    if "spd" in lowered:
-        return "SPD"
-    if "linke" in lowered:
-        return "die Linke"
-    if "grüne" in lowered or "gruene" in lowered or "grune" in lowered or "grün" in lowered:
-        return "die Grünen"
     return None
 
 
@@ -136,10 +140,11 @@ def call_openai_structured(
     client = OpenAI(api_key=api_key)
 
     system_prompt = build_prompt_ru()
+    allowed_authors_text = ", ".join(ALLOWED_AUTHORS)
     user_instruction = (
         "Верни строго JSON по схеме без лишних ключей. "
         "number — номер документа без слова 'Drucksache'; "
-        "author — только одно из значений: SPD, CDU/CSU, die Linke, die Grünen, AfD; "
+        f"author — только одно из значений: {allowed_authors_text}; "
         "если в документе указана фракция в развернутом виде вроде 'Fraktion der AfD', "
         "верни только нормализованное короткое значение из этого списка; "
         "если автора нельзя однозначно отнести к одному из этих значений, установи null; "
