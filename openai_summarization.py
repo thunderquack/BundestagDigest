@@ -16,7 +16,6 @@ def getenv_str(name: str) -> Optional[str]:
     return val or None
 
 
-ALLOWED_AUTHORS = ["SPD", "CDU/CSU", "die Linke", "die Grünen", "AfD"]
 AUTHOR_SYNONYMS = {
     "AfD": ("afd",),
     "CDU/CSU": ("cdu/csu",),
@@ -140,7 +139,7 @@ def call_openai_structured(
     client = OpenAI(api_key=api_key)
 
     system_prompt = build_prompt_ru()
-    allowed_authors_text = ", ".join(ALLOWED_AUTHORS)
+    allowed_authors_text = ", ".join(AUTHOR_SYNONYMS.keys())
     user_instruction = (
         "Верни строго JSON по схеме без лишних ключей. "
         "number — номер документа без слова 'Drucksache'; "
