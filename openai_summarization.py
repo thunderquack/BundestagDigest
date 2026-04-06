@@ -16,6 +16,30 @@ def getenv_str(name: str) -> Optional[str]:
     return val or None
 
 
+ALLOWED_AUTHORS = ["SPD", "CDU/CSU", "die Linke", "die Grünen", "AfD"]
+
+
+def normalize_author(value: Any) -> Any:
+    if value is None:
+        return None
+    s = str(value).strip()
+    if not s:
+        return None
+
+    lowered = s.lower()
+    if "afd" in lowered:
+        return "AfD"
+    if "cdu/csu" in lowered or ("cdu" in lowered and "csu" in lowered):
+        return "CDU/CSU"
+    if "spd" in lowered:
+        return "SPD"
+    if "linke" in lowered:
+        return "die Linke"
+    if "grüne" in lowered or "gruene" in lowered or "grune" in lowered or "grün" in lowered:
+        return "die Grünen"
+    return None
+
+
 def build_prompt_ru() -> str:
     return (
         "Ты помощник-референт. Тебе дают текст официального документа. "
@@ -114,7 +138,11 @@ def call_openai_structured(
     system_prompt = build_prompt_ru()
     user_instruction = (
         "Верни строго JSON по схеме без лишних ключей. "
-        "number — номер документа без слова 'Drucksache'; author — фракция/отправитель; "
+        "number — номер документа без слова 'Drucksache'; "
+        "author — только одно из значений: SPD, CDU/CSU, die Linke, die Grünen, AfD; "
+        "если в документе указана фракция в развернутом виде вроде 'Fraktion der AfD', "
+        "верни только нормализованное короткое значение из этого списка; "
+        "если автора нельзя однозначно отнести к одному из этих значений, установи null; "
         "date — ISO дата YYYY-MM-DD при наличии; title — одно короткое предложение по-русски без вводных слов 'Ответ на' или 'Запрос о'; "
         "description_ru — 2–3 абзаца по‑русски (что спрашивают депутаты и как отвечает правительство); "
         "description_de — 2–3 Absätze auf Deutsch (was gefragt wird und wie die Bundesregierung antwortet). "
@@ -169,6 +197,7 @@ def call_openai_structured(
     if parsed is not None:
         if not isinstance(parsed, dict):
             raise RuntimeError("Structured response not a dict.")
+        parsed["author"] = normalize_author(parsed.get("author"))
         return parsed
 
     import json
@@ -177,7 +206,11 @@ def call_openai_structured(
     if not content:
         raise RuntimeError("Empty response from OpenAI.")
     try:
-        return json.loads(content)
+        data = json.loads(content)
+        if not isinstance(data, dict):
+            raise RuntimeError("Structured response not a dict.")
+        data["author"] = normalize_author(data.get("author"))
+        return data
     except Exception as ex:  # pragma: no cover
         raise RuntimeError(f"Failed to parse JSON content: {content[:200]}...") from ex
 
