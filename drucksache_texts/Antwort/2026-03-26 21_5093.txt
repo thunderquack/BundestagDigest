@@ -1,0 +1,406 @@
+Deutscher Bundestag Drucksache 21/5093
+21. Wahlperiode 26.03.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Dr. Paul Schmidt und der Fraktion der 
+AfD
+– Drucksache 21/4654 –
+Anwendung des Linear-Non-Threshold-Modells bei verschiedenen Arten 
+ionisierender Strahlung
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+In der Strahlenbiologie werden unterschiedliche Modelle zur Beschreibung 
+von Dosis-Wirkungs-Beziehungen ionisierender Strahlung verwendet. Derzeit 
+dient das Linear-Non-Threshold-Modell (LNT) im Strahlenschutz vielfach als 
+Grundlage der Risikobewertung, obwohl experimentelle Befunde
+insbesondere für dünn-ionisierende (oder auch niedrig-LET (Linearer Energietransfer) 
+Strahlungsarten häufig nichtlineare Dosis-Wirkungs-Beziehungen ausweisen, 
+die eine deutlich unterproportionale Wirkung niedriger Strahlungsdosen
+bedeuten (HallGiaccia: „Radiobiology for the Radiologist“, 8. Edition, Chapter 2 
+https://doi.org/10.1007/s13246-018-0684-1; IAEA „Radiation Biology: A 
+Handbook for Teachers and Students“, Chapter 4, vgl. www-pub.iaea.org/MT
+CD/Publications/PDF/TCS-42_web.pdf; Tubiana, Dutreix, Wambersie:
+„Radiobiology“, Chapter 3, vgl. https://catalog.nlm.nih.gov/discovery/fulldisplay/al
+ma996788503406676/01NLM_INST:01NLM_INST; Herrmann, Dörr, 
+Baumann: Klinische Strahlenbiologie, Kapitel 2, vgl. www.isbn.de/buch/9783
+437239601/klinische-strahlenbiologie; Suzuki & Hei [1996], vgl. https://doi.or
+g/10.1016/0027-5107(95)00123-9; Paul Schmidt & Jürgen Kiefer:
+Deletionpattern analysis of α-particle and X-ray induced mutations at the HPRT locus 
+of V79 Chinese hamster cells. In: Mutation Research/Fundamental and
+Molecular Mechanisms of Mutagenesis. Band 421, Nr. 2, 3. November 1998, ISSN 
+0027-5107, S. 149–161, vgl. https://doi.org/10.1016/S0027-5107(98)00159-6; 
+Dubrova & Plumb [2000], https://doi.org/10.1016/S0027-5107 Prozent2800 P
+rozent2900068-3; alle Links aufgerufen am 16. Februar 2026). Dadurch
+ergeben sich bei den Fragestellern Fragen zur wissenschaftlichen Begründung und 
+Differenzierung der zur Bemessung der Wirkung ionisierender Strahlen
+angewandten Modelle, insbesondere da diese in allen Bereichen des
+Strahlenschutzes angewendet werden und dadurch große volkswirtschaftliche Bedeutung 
+besitzen.
+Jede Exposition des menschlichen Körpers gegenüber Strahlung oder anderen 
+Noxen (z. B. biologisch wirksame Faktoren bzw. Substanzen) kann bei
+hinreichend hoher Dosis bionegative Wirkungen entfalten. Um derartigen Gefahren 
+vorzubeugen, ist es grundsätzlich sinnvoll, Emissions- und
+Immissionsgrenzwerte festzulegen. Nach Auffassung der Fragesteller setzt dies voraus, dass 
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Umwelt, 
+Klimaschutz, Naturschutz und nukleare Sicherheit vom 26. März 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+oberhalb einer wissenschaftlich belegbaren Dosisgrenze mit hinreichender
+Sicherheit bionegative Wirkungen zu erwarten sind und das Risiko der
+Gesundheitsgefährdung ein nicht mehr akzeptables Maß erreicht.
+Für Expositionen unterhalb solcher Dosisgrenzen bzw. entsprechender
+Dosisleistungen ist die Wirkung vielfach nicht eindeutig belegt. Sie kann
+bionegativ, neutral oder unter bestimmten Umständen auch biopositiv sein (L. E.
+Feinendegen [British Journal of Radiology, 2005]: „Evidence for beneficial low 
+level radiation effects and radiation hormesis“, https://doi.org/10.1259/bjr/633
+53075; Sharma et al. [Hell J Nucl Med., 2019]: „A concept of radiation
+hormesis:stimulation of antioxidant machinery in rats […]“, https://doi.org/10.19
+67/s002449910958). Bereits Paracelsus stellte hierzu fest: „Alle Dinge sind 
+Gift, und nichts ist ohne Gift; allein die Dosis macht, dass ein Ding kein Gift 
+sei.“ Anschauliche Beispiele aus dem Alltag zeigen, dass zahlreiche Stoffe – 
+etwa Vitamine, Arzneimittel oder Kochsalz – in hoher Dosis toxisch wirken, 
+in niedriger Dosis jedoch lebensnotwendig oder therapeutisch wirksam sind.
+Das LNT-Modell sieht aber gerade eine solche untere Grenze nicht vor und 
+behandelt jede Dosis gleich, auch wenn sie so niedrig ist, dass sie sich im
+Bereich der natürlichen Strahlenbelastung bewegt, der Mensch und Tier auf der 
+Erde ohnehin ausgesetzt sind. Da diese geringen Dosen – naturgemäß auch 
+mit niedrigen Dosisleistungen – sehr häufig auftreten, sind sie für den Schutz 
+der Bevölkerung von großer Bedeutung. Umso wichtiger ist es, dass sie
+gemäß ihrem tatsächlichen genotoxischen Potenzial bewertet werden, da die
+Entstehung von Keimbahnmutationen und Mutationen, die zu Krebs führen
+können, die relevanten Risiken der Wirkung ionisierender Strahlung sind.
+Die Fragesteller gehen davon aus, dass das LNT-Modell zur Ableitung von 
+Schutz- und Vorsorgemaßnahmen insbesondere bei Teilchenstrahlung (die 
+dicht-ionisierend ist) wie zum Beispiel Alphastrahlung sinnvollerweise
+eingesetzt werden kann, dass es jedoch im Bereich von Gamma-, Röntgen-, und 
+Elektronenstrahlung (dünn ionisierend) die auftretenden Dosis-Wirkungs-
+Beziehungen nicht optimal abbildet und dabei die Wirkung von niedrigen Dosen 
+eher überschätzt. Daher dürfte es sinnvoll und geboten sein, in diesem Bereich 
+andere Modelle auf ihre Anwendbarkeit hin zu untersuchen.
+ 1. Auf welcher wissenschaftlichen Grundlage und in welcher Weise wendet 
+die Bundesregierung das LNT-Modell bei der Bewertung
+gesundheitlicher Risiken durch ionisierende Strahlung an?
+Gesundheitliche Risiken durch Strahlung werden anhand von Risikomodellen 
+abgeschätzt. Diese basieren auf Daten aus epidemiologischen Studien und
+werden abhängig von der interessierenden Strahlenart bzw. Expositionssituation 
+und Erkrankung entwickelt. Das LNT-Modell ist ein Risikomodell, das eine
+lineare Dosis-Wirkungsbeziehung ohne Schwellendosis annimmt. Es stellt eine 
+plausible Grundlage für die im Strahlenschutz erforderlichen
+Abwägungsprozesse sowie einen wissenschaftlich fundierten und umsichtigen Strahlenschutz 
+dar.
+Details zu den wissenschaftlichen Grundlagen und zur Anwendung des
+Modells im Strahlenschutz finden sich in einem StrahlenschutzStandpunkt des 
+Bundesamts für Strahlenschutz (BfS) (www.bfs.de/SharedDocs/Downloads/Bf
+S/DE/broschueren/ion/standpunkt-lnt.html).
+ 2. Wie setzt das Bundesamt für Strahlenschutz (BfS) – und ggf. weitere
+zuständige Bundesämter – das LNT-Modell in deutsche Regelungen und 
+Grenzwerte um?
+Das deutsche Regelwerk zum Strahlenschutz setzt – auch hinsichtlich
+Grenzwerten – gemäß Euratom-Vertrag die entsprechenden europäischen Richtlinien
+um, die sich an den Empfehlungen der internationalen
+Strahlenschutzkommission (ICRP) orientieren. Generell berücksichtigt das deutsche Regelwerk zum 
+Strahlenschutz den jeweils aktuellen Stand der etablierten wissenschaftlichen 
+Erkenntnis, wie er in zusammenfassenden Bewertungen von UNSCEAR
+(United Nations Scientific Committee on the Effects of Atomic Radiation), ICRP 
+(International Commission on Radiological Protection), Euratom Artikel 31 
+Group of Experts und der deutschen Strahlenschutzkommission dokumentiert 
+ist. Nach dem Grundsatz der Dosisreduzierung (siehe auch § 8 Absatz 2 des 
+Strahlenschutzgesetzes) sind auch unterhalb der Dosisgrenzwerte Expositionen 
+und Kontaminationen so gering wie möglich zu halten. Hierzu sind unter
+Berücksichtigung aller Umstände des Einzelfalls der Stand der Wissenschaft und 
+Technik zu beachten.
+ 3. Welche Regeln bzw. Prozeduren wendet die Bundesregierung bzw.
+wenden die zuständigen Bundesämter an, um für die verschiedenen Arten
+ionisierender Strahlung jeweils aus der großen Menge an experimentellen 
+Ergebnissen ein vertretbares Modell zur Abbildung der Dosis-Wirkungs-
+Beziehungen herzuleiten?
+Die vorhandenen Studien zum ursächlichen Zusammenhang zwischen
+Exposition und Erkrankung – wie epidemiologische Studien, experimenteller
+Humanstudien, Tierstudien und auch In-vitro-Studien – werden nach sorgfältiger
+Prüfung in die Auswertung einbezogen. Weitere Details zum Vorgehen bei der
+Bewertung gesundheitsbezogener Risiken beschreibt das BfS in einem
+StrahlenschutzStandpunkt (www.bfs.de/SharedDocs/Downloads/BfS/DE/broschueren/ri
+sikobewertung.pdf?__blob=publicationFile&v=1). Die in diesem Standpunkt 
+erläuterten Prinzipien gelten grundsätzlich auch für die Herleitung von
+Modellen für die Dosis-Wirkungsbeziehung, die bei der Risikobewertung eine
+wichtige Rolle spielen, und für alle Arten von ionisierender Strahlung. Insbesondere 
+ist auch hierfür das Gesamtbild der wissenschaftlichen Ergebnisse
+ausschlaggebend und die Einbeziehung der Einschätzungen nationaler und internationaler 
+Gremien.
+ 4. Auf welche Weise bestimmt die Bundesregierung bzw. bestimmen die 
+zuständigen Bundesämter für die verschiedenen Arten ionisierender 
+Strahlung jeweils aus der großen Menge an experimentellen Ergebnissen 
+Dosis-Grenzwerte für beruflich strahlenexponierte Personen einerseits 
+und die zu schützende Bevölkerung andererseits?
+Es wird auf die Antwort zu Frage 2 verwiesen.
+ 5. Welche Bedingungen im Sinne des Vorsorgeprinzips stellt die
+Bundesregierung für die Festlegung von Grenzwerten, und warum?
+Es wird auf die Antwort zu den Fragen 1 und 2 verwiesen.
+ 6. Für welche Strahlungsarten (z. B. Alphastrahlung, Betastrahlung,
+Röntgen- und Gammastrahlung, Neutronen, Schwerionen) wird das LNT-
+Modell durch die Bundesregierung als geeignet angesehen?
+ 7. Unterscheidet die Bundesregierung bei der wissenschaftlichen
+Begründung des LNT-Modells zwischen dicht-ionisierender Strahlung (z. B.
+Alpha-Teilchen, Schwerionen) und dünn-ionisierender Strahlung (z. B. 
+Röntgen- und Gammastrahlung), und wenn ja, in welcher Weise, und aus 
+welchen Gründen?
+Die Fragen 6 und 7 werden zusammen beantwortet.
+Für Strahlungsarten mit hohem LET ist auf Basis der wissenschaftlichen
+Evidenz das LNT Modell als plausibel einzuschätzen (siehe Antwort zu Frage 8).
+Bei Strahlungsarten mit niedrigem LET sind bei Zellexperimenten bei kleinen 
+Strahlendosen zelluläre Reparaturmechanismen beobachtet worden. Sollten 
+diese Mechanismen auch bei der Krebsentstehung eine Rolle spielen (was nicht 
+bewiesen ist), dann ergäben sich bei kleinen Strahlendosen in der Dosis-
+Wirkungskurve Abweichungen von einem linearen Verlauf. Im Strahlenschutz wird 
+dies dadurch berücksichtigt, dass die im LNT-Model verwendete Steigung der 
+Dosis-Wirkungskurve bei Strahlendosen, die im Strahlenschutz relevant sind, 
+um einen Faktor 2 reduziert wird. Die Bundesregierung sieht daher für die
+Belange des Strahlenschutzes die Anwendung des LNT-Models für alle
+Strahlungsarten als gerechtfertigt.
+ 8. Inwiefern teilt die Bundesregierung ggf. die Auffassung, dass für
+dichtionisierende Strahlung u. a. aufgrund der fehlenden Schulter in
+Zellüberlebenskurven und wegen des linearen Zusammenhangs zwischen der
+Dosis und der Anzahl hervorgerufener Mutationen in Mutations-Induktions-
+Kurven eine lineare Dosis-Wirkungs-Beziehung ohne Schwelle
+biologisch plausibel ist (vgl. Vorbemerkung der Fragesteller, bitte ausführlich 
+erläutern)?
+Die Bundesregierung teilt die Auffassung, dass für Strahlung mit hohem
+linearem Energietransfer (hoch-LET) ein linearer Zusammenhang ohne
+Schwellenwert zwischen Dosis und Wirkung besteht. Ein linearer oder annähernd linearer 
+Zusammenhang wurde für mehrere hoch-LET-Strahlungsarten zwischen Dosis 
+und Mutationsinduktion für verschiedene Zelltypen mit diversen Assay-
+Systemen konsistent nachgewiesen. Auch bei der Induktion molekularer Parameter, 
+wie DNA-Doppelstrangbrüchen und chromosomalen Veränderungen, zeigt 
+hoch-LET-Strahlung einen gut belegten linearen Verlauf mit einer Steigung, die 
+deutlich über der von locker ionisierender Strahlung liegt, was die höhere
+relative biologische Wirksamkeit von hoch-LET zeigt. Experimentelle
+Untersuchungen im Bereich sehr niedriger Dosen, bis zu einigen mGy, ergaben keine 
+Hinweise auf einen Schwellenwert in diesen zellbiologischen Analysen (siehe 
+auch Antwort zu Frage 11).
+ 9. Auf welche wissenschaftlichen Erkenntnisse und Empfehlungen
+nationaler oder internationaler Fachgremien stützt sich die Bundesregierung bei 
+Anwendung des LNT-Modells auf dicht-ionisierende Strahlung einerseits 
+und auf dünn-ionisierende Strahlung andererseits?
+Es wird auf die Antworten zu Frage 1 bis 3 verwiesen.
+10. Welche Befunde berücksichtigt die Bundesregierung bzw. das
+Bundesamt für Strahlenschutz (BfS) bei der Bewertung von Dosis-Wirkungs-
+Beziehungen im Niedrigdosisbereich unterhalb von 20 Millisievert für 
+dünn-ionisierende-Strahlungsarten?
+Bei der Bewertung von Dosis-Wirkungsbeziehungen im Niedrigdosisbereich 
+werden vor allem strahlenbiologische Untersuchungen zu frühen molekularen 
+und genetischen Veränderungen herangezogen, die wesentliche Funktionen bei 
+der Krebsentstehung haben (z. B. DNA-Schäden und Mutationen).
+Beispielsweise zeigten moderne empfindliche Testsysteme mittels Proteinaggregaten 
+einen linearen Zusammenhang von DNA-Schäden nach Exposition im Bereich 
+zwischen 1 und 20 mGy. Generell berücksichtigt das BfS neben eigenen
+Einschätzungen besonders die Schlussfolgerungen des 2021 erschienen UN-
+SCEAR Bericht „Biological mechanisms relevant for the inference of cancer 
+risks from low-dose and low-dose-rate radiation“, der für verschiedene
+zellbiologische Endpunkte einen linearen Dosis-Wirkungszusammenhang ohne 
+Schwellenwert unterstützt. Unter anderem wurde hier auch unter 20 mSv ein 
+linearer Zusammenhang zwischen Mutationen bzw. chromosomalen
+Aberrationen und Strahlenexposition geschlussfolgert.
+11. Inwiefern berücksichtigt die Bundesregierung bei Anwendung des LNT-
+Modells ggf., dass zellbiologische Experimente bei dünn-ionisierender 
+Strahlung regelmäßig Schulterkurven beim Zellüberleben als Funktion 
+der Dosis zeigen und bei der Mutationsinduktion eine linear-quadratische 
+Funktion der Dosis (beides deutet für dünn-ionisierende Strahlung auf 
+überproportional geringere Schadenshäufigkeiten und/oder wirksamere 
+Reparaturmechanismen bei niedrigen im Vergleich zu hohen Dosen hin, 
+vgl. Vorbemerkung der Fragesteller)?
+Der Prozess der Tumorentstehung nach Strahlungseinwirkung ist ein äußerst 
+komplexer, mehrstufiger und lange verlaufender Vorgang, der diverse
+biologische Veränderungen auf zellulärer, geweblicher und Organebene einschließt. 
+Ein zentraler Mechanismus dabei ist die Induktion somatischer Mutationen, die 
+zur Initiierung von Tumoren führen. Diese Mutationen werden durch DNA-
+Schäden ausgelöst, die nicht korrekt repariert wurden. Strahlenbiologische
+Daten unterstützen einen linearen Dosis-Wirkungs-Zusammenhang bis in den
+Bereich niedriger Dosen locker ionisierender Strahlung für die Induktion von 
+DNA-Schäden. Nach UNSCEAR 2021 liegen auch ausreichend
+wissenschaftliche Daten vor, um für die daraus resultierenden DNA-Mutationen einen
+linearen Zusammenhang anzunehmen.
+Die Interpretation von Zellüberlebenskurven liefert keine belastbaren
+Erkenntnisse zur Transformation von normalen Zellen in Tumorzellen und ist damit für 
+das LNT-Modell weniger relevant.
+12. Inwiefern teilt die Bundesregierung ggf. die Einschätzung, dass aus
+solchen zellbiologischen Experimenten, die aufgrund der notwendigen 
+Messbarkeit der Strahlenwirkung bei nennenswerten Dosen durchgeführt 
+werden müssen, keine belastbaren Aussagen über die Häufigkeit
+strahleninduzierter Erkrankungen in großen Bevölkerungsgruppen, die sehr 
+niedrige Strahlendosen erhalten haben, abgeleitet werden können (vgl. 
+Vorbemerkung der Fragesteller), und inwieweit gibt es hier Unterschiede 
+zwischen dicht- und dünn-ionisierender Strahlung (bitte ausführlich
+erläutern)?
+Nach Einschätzung der Bundesregierung können aus den Ergebnissen
+zellbiologischer Experimente bei hohen Dosen allein keine belastbaren Aussagen über
+die Häufigkeit strahleninduzierter Erkrankungen beim Menschen bei sehr
+niedrigen Strahlendosen abgeleitet werden. Die Ergebnisse zellbiologischer
+Experimente helfen, die bei der Bestrahlung hervorgerufenen zellbiologischen
+Reaktionen zu untersuchen. Allerdings treten derartige Reaktionen zeitnah nach einer 
+Bestrahlung auf und beschreiben die Reaktion von Zellen auf Bestrahlung. Sie 
+können jedoch nur bedingt Aufschluss geben über die Reaktion eines
+Organismus als Ganzes Jahrzehnte nach der Bestrahlung, wie es für die
+strahleninduzierte Krebsentstehung beim Menschen typisch ist.
+Während also die Häufigkeit von strahleninduzierten Erkrankungen beim
+Menschen aus zellbiologischen Daten nicht abgeleitet werden kann, können
+zellbiologische Befunde belastbare Anhaltspunkte zum Verlauf von Dosis-
+Wirkungsbeziehung und zum Vorliegen von möglichen Schwellenwerten für spezifische 
+Zellreaktionen liefern, die zur Tumorentstehung beitragen. Beispielsweise
+zeigen zahlreiche Untersuchungen einen linearen Zusammenhang zwischen
+niedrigen Dosen locker-ionisierender Strahlung und DNA-Schädigungen. Diese 
+Schädigungen treten auch bei Dosen von einigen wenigen mGy noch auf und 
+zeigen keinen Schwellenwert. Da jeder DNA-Schaden auch bei vorhandenen 
+Reparaturmechanismen mit einer gewissen Wahrscheinlichkeit (wenn auch 
+einer geringen) zu Mutationen führen kann, unterstützt dieses zellbiologische 
+Resultat das LNT-Model.
+13. Welche wissenschaftlichen Erkenntnisse oder epidemiologischen Daten 
+liegen der Bundesregierung ggf. vor, auf deren Basis man bei niedrigen 
+Expositionen durch dünn-ionisierende Strahlung zusätzliche
+Erkrankungsfälle vorhersagen müsste?
+14. Inwiefern teilt die Bundesregierung ggf. die Auffassung der
+Internationalen Strahlenschutzkommission (ICRP) (ICRP-Report 103), dass das 
+LNT-Modell bei dünn-ionisierender Strahlung im Niedrigdosisbereich 
+mit erheblichen wissenschaftlichen Unsicherheiten behaftet und nicht zur 
+quantitativen Vorhersage von Erkrankungshäufigkeiten in der
+allgemeinen Bevölkerung geeignet ist (bitte ausführlich erläutern)?
+Die Fragen 13 und 14 werden zusammen beantwortet.
+Seit der Veröffentlichung von ICRP-Report 103 vor 19 Jahren hat sich die
+wissenschaftliche Erkenntnislage insbesondere bei epidemiologischen Studien, in 
+denen hunderttausende Menschen untersucht werden, die ionisierender
+Strahlung ausgesetzt waren, weiter verbessert. Dadurch konnten die Unsicherheiten 
+bei der Risikoabschätzung durch ionisierende Strahlung unterhalb von etwa 
+100 mSv reduziert werden. In ihrer Gesamtheit unterstützen die dabei
+gewonnenen Erkenntnisse weiterhin die im Strahlenschutz getroffene Annahme eines 
+linearen Verlaufs der Krebsentstehung beim Menschen als Funktion der Dosis. 
+Allerdings sind bei sehr kleinen Dosen die verbleibenden Unsicherheiten
+immer noch beträchtlich, so dass eine belastbare quantitative Vorhersage von
+Erkrankungshäufigkeiten in der allgemeinen Bevölkerung weiterhin nicht
+möglich ist. Damit teilt die Bundesregierung weiterhin die Auffassung der
+Internationalen Strahlenschutzkommission in ICRP-Report 103.
+15. Welche Bewertungsansätze prüft die Bundesregierung ggf., um bei sehr 
+niedrigen Strahlenexpositionen eine Abwägung zwischen Vorsorge,
+Gesundheitsschutz und wirtschaftlichen Folgen vorzunehmen?
+Aus Sicht der Bundesregierung stellt das LNT-Modell eine plausible Grundlage 
+dar, um auch bei nicht gesicherter Evidenz dennoch die für einen
+wissenschaftlich fundierten und umsichtigen Strahlenschutz erforderlichen Abwägungen –
+auch in Bezug auf weitere, nicht-radiologische Randbedingungen –
+durchzuführen. Im Übrigen wird auf die Antwort zu Frage 16 verwiesen.
+16. Inwiefern teilt die Bundesregierung ggf. die Auffassung der
+Internationalen Strahlenschutzkommission (ICRP-Report 103), dass das LNT-
+Modell kein Instrument der allgemeinen Gesundheitsplanung ist (bitte
+ausführlich erläutern)?
+Die Bundesregierung ist wie die Internationale Strahlenschutzkommission der 
+Auffassung, dass das LNT-Model ein praktisches und einfaches Werkzeug für 
+den operationellen Strahlenschutz darstellt. Näheres dazu wird im BfS-
+StrahlenschutzStandpunkt zum LNT-Modell erläutert (www.bfs.de/SharedDocs/Dow
+nloads/BfS/DE/broschueren/ion/standpunkt-lnt.html).
+Bezüglich allgemeiner Gesundheitsplanung ist anzumerken, dass Vorhersagen 
+zu strahlenbedingten Erkrankungsfällen in großen Personengruppen mit
+niedrigen bzw. sehr niedrigen Strahlendosen über einen sehr langen Zeitraum mit 
+großen Unsicherheiten verbunden ist.
+Des Weiteren wird auf die Antworten zu Frage 13 und 14 verwiesen.
+17. Inwiefern teilt die Bundesregierung darüber hinaus ggf. die Auffassung 
+(ICRP-Report 103), dass verlässliche Vorhersagen von Erkrankungen bei 
+niedrigen Strahlenexpositionen einer hohen Personenzahl auf Grundlage 
+des LNT-Modells nicht möglich sind (bitte ausführlich erläutern)?
+Es wird auf die Antworten zu Frage 13 und 14 verwiesen.
+18. Inwiefern hält die Bundesregierung das LNT-Modell ggf. für übertragbar 
+auf weitere Immissionen, wie z. B. Radon in der Atemluft (bitte
+ausführlich erläutern)?
+Radon als Alphastrahler emittiert Hoch-LET-Strahlung. Im Übrigen wird auf 
+die Antworten zu den Fragen 6, 7 und 8 verwiesen.
+19. Inwiefern hält die Bundesregierung ggf. das LNT-Modell als Basis
+anwendbar für die Festsetzung von Grenzwerten für die nach der
+Strahlenschutzverordnung zulässigen Immissionen von Zwischen- und Endlagern 
+für radioaktive Abfälle, und inwieweit wird dabei zwischen dicht- und 
+dünn-ionisierenden Strahlenarten unterschieden (bitte ausführlich
+erläutern)?
+Zur Anwendbarkeit des LNT-Modells bei verschiedenen Strahlungsarten wird 
+auf die Antworten zu den Fragen 1-3, 6, 7 und 12 verwiesen.
+20. Welche Bedeutung misst die Bundesregierung ggf. LET-abhängigen
+Unterschieden der biologischen Wirksamkeit bei der Ableitung von
+Risikomodellen im Strahlenschutz bei?
+Es wird auf die Antworten zu den Fragen 1, 7, 8, 11, 13 und 14 verwiesen.
+21. Wie begründet die Bundesregierung ihre Anwendung des LNT-Modells 
+vor dem Hintergrund, dass internationale Fachgremien
+Risikoabschätzungen bei sehr niedrigen Dosen wissenschaftlich nicht für verifizierbar 
+halten (ICRP, siehe Vorbemerkung der Fragesteller)?
+Die Bundesregierung ist weiterhin der Auffassung, dass das LNT-Model ein 
+praktisches und einfaches Werkzeug für den operationellen Strahlenschutz
+darstellt, welches nicht im Widerspruch zu den wissenschaftlichen Erkenntnissen 
+zur biologischen Wirkung ionisierender Strahlung steht. Die Bundesregierung 
+stützt sich dabei auf Einschätzungen von nationalen und internationalen
+Fachgremien (siehe Antworten zu den Fragen 1 und 3).
+22. Welche Rolle spielen für die Bundesregierung ggf. alternativ diskutierte 
+Modelle (z. B. Schwellenmodelle, hormetische Modelle (L. E.
+Feinendegen, siehe Einleitung), linear-quadratische Modelle) in der
+wissenschaftlichen Beratung des Strahlenschutzes?
+23. Welche weiteren Dosis-Wirkungs-Modelle (z. B. Schwellenmodelle,
+hormetische Modelle, linear-quadratische Modelle) werden nach Kenntnis 
+der Bundesregierung für dünn-ionisierende Strahlung wissenschaftlich 
+diskutiert, und welche Relevanz misst sie diesen ggf. für den
+Strahlenschutz bei?
+Die Fragen 22 und 23 werden gemeinsam beantwortet.
+Nach Ansicht der Bundesregierung gibt es aus wissenschaftlichen Studien 
+weder überzeugende Belege für eine generelle Dosisschwelle noch für
+generelle positive Wirkungen von ionisierender Strahlung beim Menschen. Die
+wissenschaftliche Erkenntnislage spricht insgesamt auch nicht für gravierende
+Abweichungen von einem linearen Zusammenhang zwischen Strahlendosis und 
+dem allgemeinen Krebsrisiko. Daher sind die genannten alternativen Modelle 
+zurzeit nicht geeignet als Grundlage für den Strahlenschutz.
+24. Inwiefern sieht die Bundesregierung möglicherweise weiteren
+Forschungsbedarf, um die Eignung des LNT-Modells für dünn-ionisierende 
+Strahlung besser zu untersuchen (bitte ausführlich erläutern)?
+Es besteht weiterhin ein erheblicher Bedarf an vertiefter Forschung sowohl im 
+Bereich der Epidemiologie als auch der Strahlenbiologie, insbesondere im
+Dosisbereich unterhalb von 100 mGy. Aus epidemiologischer Sicht sind sowohl 
+neue Studien als auch die gemeinsame Auswertung von bestehenden
+Einzelstudien erforderlich.
+Aus strahlenbiologischer Perspektive rücken zunehmend Prozesse in den 
+Fokus, die nicht primär auf DNA-Schäden und Mutationen zentriert sind.
+Insbesondere auf Gewebeebene sind epigenetische Veränderungen sowie
+sogenannte Bystander-Effekte bislang nur unzureichend verstanden. Auf Organ- 
+und Organismusebene besteht ein besonderer Forschungsbedarf hinsichtlich der 
+Rolle der Tumormikroumgebung sowie immunologischer Prozesse bei der 
+strahleninduzierten Tumorentstehung.
+Ein zentrales zukünftiges Ziel besteht darin, die Dosisabhängigkeit dieser
+biologischen Mechanismen systematisch zu charakterisieren. Einen wichtigen 
+Meilenstein stellt hierbei die Anwendung moderner Zellkulturmodellsysteme, 
+insbesondere dreidimensionaler Organoidmodelle, dar. Diese eröffnen nicht nur 
+vielversprechende Möglichkeiten zur Untersuchung strahleninduzierter Effekte 
+unter physiologisch relevanteren Bedingungen, sondern tragen zugleich dazu
+bei, Unsicherheiten in Tierexperimenten zu reduzieren und deren Einsatz
+perspektivisch zu minimieren.
+25. Inwiefern sieht die Bundesregierung angesichts neuerer
+strahlenbiologischer Erkenntnisse (L. E. Feinendegen, s. Einleitung) ggf.
+Anpassungsoder Forschungsbedarf hinsichtlich der derzeit im Strahlenschutz
+verwendeten Risikomodelle (bitte ausführlich erläutern)?
+Auf Basis der derzeitigen Datenlage sieht die Bundesregierung keinen
+Anpassungsbedarf. Bezüglich des Forschungsbedarfs wird auf die Antwort zu 
+Frage 24 verwiesen.
+26. Welche Forschungsergebnisse hält die Bundesregierung – inklusive der 
+jeweils zuständigen Bundesämter – bei Neutronenstrahlen über das
+gesamte Energiespektrum für ausschlaggebend, um daraus die jeweilige 
+Relative Biologische Wirksamkeit und das zu verwendende Modell zur 
+Beschreibung der biologischen Strahlenwirkung im Niedrigdosisbereich 
+herzuleiten, zu welchen allgemeingültigen Regelungen führt dies, und
+inwieweit ist für die verschiedenen Neutronenenergien, die bisher als 
+Strahlenbelastung von Menschen nur selten, aber künftig mit dem
+geplanten Ausbau der Kernfusion deutlich häufiger auftreten werden,
+weitere Forschung für ein besseres Verständnis der tatsächlich auftretenden 
+Mutagenität erforderlich (bitte detailliert begründen)?
+Die wichtigste epidemiologische Studie der Wirkung von ionisierender
+Strahlung auf den Menschen stellt die Studie an den Atombombenüberlebenden von 
+Hiroshima und Nagasaki dar. Die Überlebenden waren sowohl
+Gammastrahlung als auch Neutronenstrahlung ausgesetzt. Hier besteht aus Sicht der
+Bundesregierung weiterer Forschungsbedarf, um den Anteil der
+Neutronenstrahlung an der Entstehung von Krebs, Leukämie und anderer Erkrankungen der 
+Überlebenden besser bestimmen zu können. Dadurch können weitere
+Erkenntnisse zum RBW(Relative Biologische Wirksamkeit)-Wert der Neutronen in
+Bezug auf die Entstehung dieser Erkrankungen beim Menschen gewonnen
+werden.
+Darüber hinaus zeichnen sich die bei der Kernfusion entstehenden Neutronen 
+durch zum Teil hohe Energien oberhalb von 10 MeV aus, die bei der
+Kernspaltung nicht auftreten. In Hinblick auf die biologische Wirkung derartiger
+hochenergetischer Neutronen sieht die Bundesregierung weiteren Forschungsbedarf.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
