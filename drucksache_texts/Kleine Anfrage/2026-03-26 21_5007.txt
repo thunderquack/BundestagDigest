@@ -7,42 +7,40 @@ Koçak, Jan Köstering, Bodo Ramelow, David Schliesing, Aaron Valent, Donata
 Vogtschmidt, Sascha Wagner, Christin Willnat und der Fraktion Die Linke
 Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei 
 Rechenzentren
-Die Klimakrise hat sich weiter verschärft, Forschende warnen, dass die 1,5 
-Grad Marke bereits überschritten ist. Es gibt immer mehr Warnungen, dass die 
-Nutzung künstlicher Intelligenz den Anstieg des Stromverbrauchs durch die
-Digitalisierung erheblich beschleunigt. Studien gehen davon aus, dass der globale 
-Strombedarf für KI-Rechenleistungen bis 2030 etwa elfmal so hoch sein wird 
-wie im Jahr 2023 (www.greenpeace.de/publikationen/20250514-greenpeace-stu
-die-umweltauswirkungen-ki.pdf).
+Die Klimakrise hat sich weiter verschärft, Forschende warnen, dass die 1,5-
+Grad-Marke bereits überschritten ist. Es gibt immer mehr Warnungen, dass die 
+Nutzung künstlicher Intelligenz (KI) den Anstieg des Stromverbrauchs durch 
+die Digitalisierung erheblich beschleunigt. Studien gehen davon aus, dass der 
+globale Strombedarf für KI-Rechenleistungen bis 2030 etwa elfmal so hoch 
+sein wird wie im Jahr 2023 (www.greenpeace.de/publikationen/20250514-gree
+npeace-studie-umweltauswirkungen-ki.pdf).
 Schon jetzt machen Rechenzentren (RZ) mit rund 4 Prozent einen erheblichen 
 Teil des deutschen Gesamtstromverbrauchs aus, mit steigendem Trend (www.o
 eko.de/blog/mehr-transparenz-beim-stromverbrauch-von-rechenzentren/), sie 
 müssen daher energieeffizienter und bald klimaneutral werden.
 Ein erster Schritt in diese Richtung war das im September 2023 verabschiedete 
-Energieeffizienzgesetz (EnEfG), auch wenn dieser aus Sicht der Fragstellenden 
-wenig ambitioniert war. Danach waren die Effizienzdaten von RZ ab einer
-Anschlussleistung von 300 kW gemäß den Anforderungen der EU-Richtlinie (EU) 
-2023/1791 zum 1. Juli 2025 erstmalig an das Bundesamt für Wirtschaft und 
-Ausfuhrkontrolle zu melden, um Eingang in das Rechenzentrumsregister (RZ-
-Register) zu finden (www.bafa.de/SharedDocs/Kurzmeldungen/DE/Energie/20
-240319_bfee_enefg.html).
+Energieeffizienzgesetz (EnEfG), auch wenn dieser aus Sicht der
+Fragestellenden wenig ambitioniert war. Danach waren die Effizienzdaten von RZ ab einer 
+Anschlussleistung von 300 kW gemäß den Anforderungen der EU-Richtlinie 
+(EU) 2023/1791 zum 1. Juli 2025 erstmalig an das Bundesamt für Wirtschaft 
+und Ausfuhrkontrolle zu melden, um Eingang in das Rechenzentrumsregister 
+(RZ-Register) zu finden (www.bafa.de/SharedDocs/Kurzmeldungen/DE/Energi
+e/20240319_bfee_enefg.html).
 In dem Konsultationsprozess der Bundesregierung für die nationale
 Rechenzentrumsstrategie führt die Bundesregierung als erstes zentrales Ergebnis zur 
 Frage nach Merkmalen und Rahmenbedingungen eines „zukunftsfähigen und 
 leistungsstarken“ Rechenzentrumsstandortes Deutschland im Jahr 2030 die 
-100 Prozentige Versorgung von Rechenzentren aus erneuerbaren Energien
-sowie Integration in lokale Energienetze sind zentrale Voraussetzungen für
+100-prozentige Versorgung von Rechenzentren aus erneuerbaren Energien
+sowie Integration in lokale Energienetze als zentrale Voraussetzungen für
 Zukunftsfähigkeit auf. Als zweites Merkmal wird Energieeffizienz genannt, als 
 Drittes die systematische Nutzung von Abwärme (https://bmds.bund.de/
 themen/digitale-wirtschaft/recheninfrastruktur/konsultationsprozess). Ein
-ressourcenschonender Betrieb von Rechenzentren wird damit als essentiell
+ressourcenschonender Betrieb von Rechenzentren wird damit als essenziell
 angesehen. Ein erster Entwurf für die Strategie ist bereits öffentlich geworden.
 Bei dem Ziel in diesem Entwurf, die Rechenzentrumskapazitäten bis 2030 zu 
 verdoppeln und die für KI zu vervierfachen, bezieht sich die Bundesregierung 
 auf die IT-Anschlussleistung. Die Strategie ist damit nicht an einem
 prognostizierten Bedarf an Rechenleistung ausgerichtet, sondern stellt eine möglichst 
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 hohe Verfügbarkeit von Strom ins Zentrum. Energieeffiziente Rechenzentren, 
 die eine geringere Anschlussleistung für eine bestimmte Rechenleistung
 benötigen, zahlen nach dieser Logik weniger auf das Erreichen des „strategischen 
@@ -54,12 +52,13 @@ Während die aktuelle Bundesregierung in dem (geleakten) Entwurf für ihre
 Rechenzentrumsstrategie Energieeffizienz und Abwärmenutzung entsprechend der 
 Konsultationsergebnisse als zentrale Faktoren für die Planung und den Betrieb 
 von Rechenzentren bezeichnet, zeigt ein erster (ebenfalls geleakter)
-Referentenentwurf für eine Novelle des Energie-Effizienz-Gesetzes, dass die
-Effizienzvorgaben für Rechenzentren (PUE-Werte) gelockert werden sollen, für die 
-Pflicht zur Abwärmenutzung für Rechenzentren deutlich mehr Ausnahmen
-eingeführt werden sollen und auch die Pflichten zur Einführung eines
-Energiemanagementsystems sollen deutlich eingeschränkt werden (www.gfbu-consult.de/
-de/aktuell/entwurf-zur-aenderung-des-energieeffizienzgesetzes-enefg).
+Referentenentwurf für eine Novelle des Energieeffizienzgesetzes, dass die
+Effizienzvorgaben für Rechenzentren (PUE (Power Usage Effectiveness)-Werte)
+gelockert werden sollen, für die Pflicht zur Abwärmenutzung für Rechenzentren 
+deutlich mehr Ausnahmen eingeführt werden sollen und auch die Pflichten zur 
+Einführung eines Energiemanagementsystems deutlich eingeschränkt werden 
+sollen (www.gfbu-consult.de/de/aktuell/entwurf-zur-aenderung-des-energieeffi
+zienzgesetzes-enefg).
 In der Vergangenheit hatte die Bundesregierung 2021 zur Nachhaltigkeit der IT 
 des Bundes ein weiterentwickeltes Maßnahmenprogramm „Nachhaltigkeit
 konkret im Verwaltungshandeln umsetzen“ (Maßnahmenprogramm Nachhaltigkeit) 
@@ -68,46 +67,44 @@ wurden veröffentlicht, zuletzt für das Berichtsjahr 2023 (www.bundesregierun
 g.de/resource/blob/992814/2348512/84fb805519ce5d426b78648a6ced80b7/20
 25-04-23-monitoringbericht-2023-nachhaltigkeit-data.pdf?download=1).
 Weiterhin gibt es eine Green-IT-Initiative des Bundes, die vom IT-Rat und dem 
-CIO-Board der Bundesregierung gesteuert wird. Ihr Ziel ist die Umsetzung der 
-über 70 Maßnahmen der umweltpolitischen Digitalagenda von 2020 (www.bun
-desumweltministerium.de/themen/digitalisierung/green-it-initiative/
-ueberblickgreen-it-initiative). Hierzu sollte es laut Antwort der Bundesregierung auf die 
-Kleine Anfrage auf Bundestagsdrucksache 20/15028 im Jahr 2025 eine
-Gesamtüberprüfung geben.
+CIO (Chief Information Officer)-Board der Bundesregierung gesteuert wird. 
+Ihr Ziel ist die Umsetzung der über 70 Maßnahmen der umweltpolitischen
+Digitalagenda von 2020 (www.bundesumweltministerium.de/themen/digitalisieru
+ng/green-it-initiative/ueberblick-green-it-initiative). Hierzu sollte es laut
+Antwort der Bundesregierung auf die Kleine Anfrage auf Bundestagsdrucksache 
+20/15028 im Jahr 2025 eine Gesamtüberprüfung geben.
 Daneben hat sich beim IT-Planungsrat als zentrales politisches
 Steuerungsgremium zwischen Bund und Ländern im Oktober 2019 eine
 Koordinierungsgruppe Green-IT gegründet (www.it-planungsrat.de/beschluss/beschluss-2019-63).
-Zudem gibt es eine Kompetenzstelle Nachhaltige Beschaffung beim BMI, die 
-wiederum eigene Leitfäden herausgibt, u. a. für die Produktgruppe 
-Informations- und Kommunikationstechnik (www.nachhaltige-beschaffung.inf
-o/SharedDocs/Produktgruppenblaetter/PGBL_IT/PGB_IT.html?nn=5144814). 
-Nach Ansicht der Fragestellenden lässt diese Organisationsstruktur Zweifel
-daran aufkommen, ob überhaupt eine organisierte und abgestimmte Green-IT-
-Strategie der Bundesregierung existiert.
+Zudem gibt es eine Kompetenzstelle Nachhaltige Beschaffung beim
+Bundesministerium des Innern (BMI), die wiederum eigene Leitfäden herausgibt, u. a. 
+für die Produktgruppe Informations- und Kommunikationstechnik (www.nachh
+altige-beschaffung.info/SharedDocs/Produktgruppenblaetter/PGBL_IT/PGB_I
+T.html?nn=5144814). Nach Ansicht der Fragestellenden lässt diese
+Organisationsstruktur Zweifel daran aufkommen, ob überhaupt eine organisierte und
+abgestimmte Green-IT-Strategie der Bundesregierung existiert.
 Die vorliegende Kleine Anfrage zielt vor diesem Hintergrund darauf ab, den 
-aktuellen Status quo der Nachhaltigkeit der RZ des Bundes mit Blick auf ihre 
-Klimawirkung zu erheben, sowie eine Fortschrittsbewertung im Vergleich zu 
-den bisherigen Kleinen Anfragen vom Januar 2025 auf
-Bundestagsdrucksache 20/15028, November 2023 auf Bundestagsdrucksache 20/9667, vom
-August 2022 auf Bundestagsdrucksache 20/3619 und vom Mai 2021 auf
-Bundestagsdrucksache 19/31210 zu ermöglichen, sowohl in Bezug auf das
+aktuellen Status-quo der Nachhaltigkeit der RZ des Bundes mit Blick auf ihre 
+Klimawirkung zu erheben sowie eine Fortschrittsbewertung im Vergleich zu 
+den bisherigen Kleinen Anfragen auf Bundestagsdrucksache 20/15028 vom
+Januar 2025, auf Bundestagsdrucksache 20/9667 vom November 2023, auf
+Bundestagsdrucksache 20/3619 vom August 2022 und auf Bundestagsdrucksache 
+19/31210 vom Mai 2021 zu ermöglichen, sowohl in Bezug auf das
 Vorhandensein von Daten relevanter Messgrößen als auch in Bezug auf das bisher
 niedrige Niveau der Nachhaltigkeit.
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Wir fragen die Bundesregierung:
  1. Wie viele Rechenzentren (RZ) nutzt die Bundesregierung Stand Februar 
 2026 (bitte RZ nach der Definition entsprechend der Antwort zu Frage 8 
 auf Bundestagsdrucksache 20/9667 berücksichtigen und ausdrücklich 
 auch alle RZ im Geschäftsbereich des BMI einschließlich RZ zum Betrieb 
-der Netze des Bundes und des Digitalfunks angeben, wie bereits in
-Bundestagsdrucksache 20/3619, Frage 5a)?
+der Netze des Bundes und des Digitalfunks angeben, wie bereits in der 
+Antwort zu Frage 5a auf Bundestagsdrucksache 20/3619)?
 a) Wie hat sich die Anzahl der RZ im Laufe der letzten zwei Jahre (2024, 
-2025) verändert (die in den Antworten auf die gleichlautenden Fragen 
-der Kleinen Anfragen in 2024 (Bundestagsdrucksache 20/14543, 
-Frage 1.a)), 2023 (Bundestagsdrucksache 20/9667, Frage 8) und 2022 
-(Bundestagsdrucksache 20/3619, Frage 5) nicht enthaltenen RZ für die 
-Netze des Bundes bitte miterfassen)?
+2025) verändert (die in den Antworten auf die gleichlautende Frage 1a 
+der Kleinen Anfragen auf Bundestagsdrucksache 20/14543, der
+Antwort zu Frage 8 auf Bundestagsdrucksache 20/9667 und der Antwort 
+zu Frage 5 auf Bundestagsdrucksache 20/3619 nicht enthaltenen RZ 
+für die Netze des Bundes bitte miterfassen)?
 b) Wie viele der aktuell genutzten RZ werden im Eigenbetrieb genutzt?
 c) Wer betreibt die aktuell genutzten RZ, die nicht im Eigenbetrieb 
 stehen?
@@ -118,9 +115,9 @@ nachgeordneten Behörden und alle nicht zugeordneten Geschäftsbereiche
 eine jeweils geplante Gesamtzahl für die Anzahl RZ in den genannten 
 Jahren angeben)?
  2. Welche der in Frage 1 erfragten RZ erfüllen jeweils welche Kriterien des 
-Blauen Engels für RZ (DE-UZ 228; Vergabekriterien unter https://
-produktinfo.blauer-engel.de/uploads/criteriafile/de/211/DE-
-UZ-228-202301-de-Kriterien-V3.pdf)?
+Blauen Engels für RZ (DE-UZ (Deutschland – Umweltzeichen) 228;
+Vergabekriterien unter https://produktinfo.blauer-engel.de/uploads/
+criteriafile/de/211/DE-UZ-228-202301-de-Kriterien-V3.pdf)?
 a) Für welche neuen RZ des Bundes, deren Aufbau seit Veröffentlichung 
 der Umweltpolitischen Digitalagenda im März 2020 begann oder 
 deren Aufbau seitdem geplant wurde (vgl. Frage 1), werden
@@ -128,7 +125,7 @@ entsprechend dieser Digitalagenda die Kriterien des Blauen Engels ganz oder
 teilweise angewendet und für welche nicht (bitte auch angeben, 
 welche Kriterien des Blauen Engels erfüllt werden bzw. künftig erfüllt 
 werden und welche nicht; Master-RZ bitte als solche markieren)?
-b) Falls die Kriterien des Blauen Engel nur teilweise oder gar nicht
+b) Falls die Kriterien des Blauen Engels nur teilweise oder gar nicht
 berücksichtigt wurden oder werden, bitte begründen, warum jeweils 
 nicht?
 c) Wird die Bundesregierung diese Kriterien als Förderkriterium in
@@ -139,24 +136,22 @@ produktiv gesetzt werden?
 b) Wenn nein, wann rechnet die Bundesregierung mit diesem Schritt?
 c) Was ist der Status der Umsetzung des Maßnahmenprogramms zur 
 Umsetzung der Blauer-Engel-Kriterien in den Haupt-RZ, das laut
-Antwort der Bundesregierung vom 20 Februar 2025 auf die Kleine
+Antwort der Bundesregierung vom 20. Februar 2025 auf die Kleine
 Anfrage auf Bundestagsdrucksache 20/15028 weiterverfolgt werden
 sollte?
  4. Wie ist der Stand der Umstellung aller RZ des Bundes auf Nutzung
 erneuerbarer Energien?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 a) Wie hoch war der Gesamtenergieverbrauch bei jedem der in Frage 1 
 erfragten RZ in den Kalenderjahren 2024 und 2025 in kWh?
 b) Wie hoch war dabei der Anteil erneuerbarer Energien in Prozent in 
 den Jahren 2024 und 2025?
 c) Wurde die im Maßnahmenprogramm Nachhaltigkeit von 2021
 festgelegte Umstellung aller Bundesliegenschaften auf 100 Prozent
-Ökostrom bis Ende 2024 auch für alle RZ des Bundes aus Frage 1
-erreicht?
+Ökostrom bis Ende 2024 auch für alle der in Frage 1 erfragten RZ des 
+Bundes erreicht?
 d) Wenn nein, bis wann sollen wirklich alle RZ des Bundes mit 100
 Prozent Ökostrom versorgt sein?
-e) Welche der in der Antwort auf Frage 1 genannten Rechenzentren
+e) Welche der in der Antwort zu Frage 1 genannten Rechenzentren
 werden derzeit zu 100 Prozent mit erneuerbaren Energien betrieben?
  5. Welche Kältemittel werden aktuell in den in Frage 1 erfragten RZ jeweils 
 genutzt, und wie klimaschädlich sind sie (bitte die genaue Substanz und 
@@ -168,38 +163,37 @@ nicht?
  6. Bei welchen der in Frage 1 erfragten RZ erfolgt eine Nutzung ihrer
 Abwärme?
 a) Wenn Abwärme genutzt wird, welcher Anteil Abwärme wird für 
-welche Art der Nachnutzung verwendet (Angabe je RZ)?
-b) Bei welchen RZ gibt es Daten zum Energy Reuse Factor (ERF) und 
-was ist der jeweilige Wert (je RZ)?
+welche Art der Nachnutzung verwendet (bitte je RZ angeben)?
+b) Bei welchen RZ gibt es Daten zum Energy Reuse Factor (ERF), und 
+was ist der jeweilige Wert (bitte je RZ angeben)?
 c) Bei welchen RZ ist eine Umstellung auf Nutzung der Abwärme bis 
 wann und auf welche Weise geplant?
  7. In welcher Form sind Nachhaltigkeitskriterien Bestandteil bestehender 
 Verträge zur Erbringung von RZ-Dienstleistungen im Auftrag des
 Bundes?
 a) Welchen Grad der Verbindlichkeit haben diese Kriterien (hier bitte für 
-jedes RZ nach Frage 1, das sich nicht im Eigenbetrieb befindet, eine 
-konkrete Angabe machen)?
-b) Sind insbesondere die folgenden Kriterien Teil solcher Verträge: (i) 
-Nutzung erneuerbarer Energien für den Betrieb des RZ, (ii) Einsatz 
-klimafreundlicher Kältemittel, (iii) Mindesteffizienzkriterien
-(beispielsweise PUE Wert), (iv) Abwärmenutzung?
- 8. Hält die Bundesregierung an dem in § 15 Klimaschutzgesetz
-festgeschriebenen Ziel, sich selbst bis 2030 klimaneutral zu organisieren, fest oder 
-plant sie Initiativen zur Aufweichung dieses Ziels, und wenn ja, welche?
+jedes in Frage 1 erfragte RZ, das sich nicht im Eigenbetrieb befindet, 
+eine konkrete Angabe machen)?
+b) Sind insbesondere die folgenden Kriterien Teil solcher Verträge: (I) 
+Nutzung erneuerbarer Energien für den Betrieb des RZ, (II) Einsatz 
+klimafreundlicher Kältemittel, (III) Mindesteffizienzkriterien
+(beispielsweise PUE-Wert), (IV) Abwärmenutzung?
+ 8. Hält die Bundesregierung an dem in § 15 des Klimaschutzgesetzes
+festgeschriebenen Ziel, sich selbst bis 2030 klimaneutral zu organisieren, fest, 
+oder plant sie Initiativen zur Aufweichung dieses Ziels, und wenn ja, 
+welche?
  9. Bezieht sich das Ziel der Klimaneutralität der RZ des Bundes bis 2030 
-laut § 15 Klimaschutzgesetz aus Sicht der Bundesregierung konkret
+laut § 15 des Klimaschutzgesetzes aus Sicht der Bundesregierung konkret
 a) nur auf die Klimaneutralität des für den Betrieb der RZ erforderlichen 
 Stroms,
 b) auch auf die Herstellung der eingesetzten Hardware und
 Netzwerktechnik,
 c) auch auf den Bau und Betrieb des Gebäudes,
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 d) auch auf sonstige im Zusammenhang mit der Entstehung, Wartung 
-und den Betrieb der RZ entstehende Treibhauseffekte und wenn ja, auf 
-welche konkret?
+und dem Betrieb der RZ entstehende Treibhauseffekte und wenn ja, 
+auf welche konkret?
 10. Was ist der Stand des RZ-Registers?
-a) Wann plant die Bundesregierung das Portal des
+a) Wann plant die Bundesregierung, das Portal des
 Rechenzentrumsregisters öffentlich verfügbar zu machen, auf dem die
 Energieeffizienzdaten von Rechenzentren gemäß § 13 EnEfG veröffentlicht werden
 können?
@@ -207,27 +201,27 @@ b) Wie viele Rechenzentren haben bisher Effizienzdaten gemäß § 13
 EnEfG auf anderem Wege veröffentlicht?
 c) Sind alle mutmaßlich dazu verpflichteten RZ ihrer Meldepflicht zum 
 letzten Stichtag am 31. März 2025 bzw. 1. Juli 2025 (RZ mit einer 
-Nennanschlussleistung von 300–500 KW) nachgekommen?
-d) Wie wird geprüft, ob meldepflichtige RZ tatsächlich gemeldet wurden 
+Nennanschlussleistung von 300 bis 500 kW) nachgekommen?
+d) Wie wird geprüft, ob meldepflichtige RZ tatsächlich gemeldet wurden, 
 und welche Art von Mahnungen oder Sanktionen wurden bisher in 
 welcher Anzahl veranlasst?
 e) Wie viele Meldungen hat das Bundesamt für Ausfuhrkontrolle von 
 Betreibern erhalten, deren letztendliche Muttergesellschaft ihren Sitz 
-außerhalb der EU hat (bitte nach USA und sonstige Drittländer
-aufschlüsseln)
+außerhalb der EU hat (bitte nach USA und sonstigen Drittländern
+aufschlüsseln)?
 f) Wie viele Bußgeldverfahren gemäß § 19 EnEfG wurden bereits
-eröffnet (bitte aufschlüsseln gemäß der zugrunde liegenden Vorschrift und 
-bei Bußgeldern gemäß §§ 11 und 13 gemäß der Größe der
-Rechenzentren (installierte Leistung: <500kW, 500-1000kW, 1-2MW, 
-2-10MW, >10MW)?
-11. Wie viele der in Frage 1 genannten RZ des Bundes beteiligen sich Stand 
+eröffnet (bitte gemäß der zugrunde liegenden Vorschrift und bei
+Bußgeldern gemäß §§ 11 und 13 gemäß der Größe der Rechenzentren
+(installierte Leistung: <500 kW, 500 bis 1 000 kW, 1 bis 2MW, 2 bis 10 MW, 
+>10 MW) aufschlüsseln)?
+11. Wie viele der in Frage 1 erfragten RZ des Bundes beteiligen sich Stand 
 Dezember 2025 mit ihren Daten am RZ-Register?
 a) Wie viele dieser im Register erfassten RZ beteiligen sich daran
 aufgrund rechtlicher Verpflichtung (über 300 kW nicht redundante
-Nennleistung) und wie viele freiwillig?
+Nennleistung), und wie viele freiwillig?
 b) Beabsichtigt die Bundesregierung eine interne Verpflichtung zur
 Beteiligung der RZ des Bundes (mit und ohne Eigenbetrieb) am
-Energieeffizienzregister, die über das gesetzliche Mindestmaß hinausgeht und 
+Energieeffizienzregister, die über das gesetzliche Mindestmaß hinausgeht, und 
 wenn ja, welche RZ sollen dann erfasst werden?
 12. Wie hat sich die Abwärmenutzung von RZ entwickelt?
 a) Mit welchen Maßnahmen stellt die Bundesregierung sicher, dass
@@ -241,12 +235,10 @@ c) Hat die Bundesregierung Maßnahmen ergriffen oder geplant, um die
 Abnahme von Abwärme durch Liegenschaften des Bundes oder von 
 Unternehmen mit Beteiligung des Bundes zu fördern, und wenn ja, 
 welche?
-13. Wie ist der Stand der Gesamtüberprüfung des Maßnahmenprogramm 
-Nachhaltigkeit, die laut Antwort Bundesregierung auf die Kleine Anfrage 
-auf Bundestagsdrucksache 20/15028, Frage 14 c) für 2025 vorgesehen 
-war?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+13. Wie ist der Stand der Gesamtüberprüfung des Maßnahmenprogramms 
+Nachhaltigkeit, die laut Antwort der Bundesregierung zu Frage 14c der 
+Kleinen Anfrage auf Bundestagsdrucksache 20/15028 für 2025
+vorgesehen war?
 14. Inwiefern wurden und werden folgende im Maßnahmenprogramm
 Nachhaltigkeit, zuletzt aktualisiert im August 2021 (www.bundesregierung.de/r
 esource/blob/2196306/1953740/ebd13260efc4a78665ced24a902816d4/20
@@ -254,40 +246,40 @@ esource/blob/2196306/1953740/ebd13260efc4a78665ced24a902816d4/20
 Vorgaben von der Bundesregierung seit Januar 2025 in der Praxis
 tatsächlich umgesetzt:
 a) „In Zukunft zu planende Rechenzentren (Neubau) sind gemäß den
-Anforderungen der Blauer Engel Kriterien DE-UZ 161 zu konzipieren.“?
+Anforderungen der Blauer Engel Kriterien DE-UZ 161 zu konzipieren“?
 b) „Wird externe Rechenzentrumsleistung beauftragt (beispielsweise 
 Web-Hosting, Server Hosting, Online Datenspeicherung) müssen 
 ebenfalls die entsprechenden Kriterien des Blauen Engels für
-Rechenzentren eingehalten werden.“?
+Rechenzentren eingehalten werden“?
 c) „Wird Rechenzentrumsfläche bei einem Co-Location-Rechenzentrum 
 gemietet, müssen die Kriterien des Blauen Engel für Co-Location-
-Rechenzentren (DE-UZ 214) eingehalten werden.“?
+Rechenzentren (DE-UZ 214) eingehalten werden“?
 15. Hält die aktuelle Bundesregierung an dem Maßnahmenprogramm
-Nachhaltigkeit fest, und plant sie, dieses fortzuschreiben (wenn nicht, bitte
+Nachhaltigkeit fest, und plant sie, dieses fortzuschreiben (wenn nein, bitte
 begründen)?
 16. Was ist der Stand der Anwendung des überarbeiteten Berichtswesens 
-Green IT nach Beschluss des CIO Boards?
-a) Welche Ergebnisse ergab das bisherige Monitoring durch die Green 
+Green IT nach Beschluss des CIO-Boards?
+a) Welche Ergebnisse ergab das bisherige Monitoring durch die Green-
 IT-Initiative, das nach Angaben der Bundesregierung in ihrer Antwort 
-auf die Kleine Anfrage auf Bundestagsdrucksache 20/15028, Frage 15 
-d) im Jahr 2025 (für das Berichtsjahr 2024) erstmals auf einer
+zu Frage 15d der Kleinen Anfrage auf Bundestagsdrucksache 
+20/15028 im Jahr 2025 (für das Berichtsjahr 2024) erstmals auf einer 
 aufschlussreicheren Datenbasis durchgeführt werden sollte?
 b) Welche Verbindlichkeit ergibt sich aus dem Monitoring der
 Nachhaltigkeit der Bundes-IT für das Handeln der Bundesregierung?
-c) Sind die Kennzahlen in 2025 erhoben worden, wie in der Antwort auf 
-die Kleine Anfrage auf Bundestagsdrucksache 20/15028, Frage 15a) 
-angekündigt? Wenn dies nicht oder nur teilweise geschehen ist,
-begründen Sie dies bitte.
+c) Sind die Kennzahlen in 2025 erhoben worden, wie in der Antwort zu 
+Frage 15a der Kleinen Anfrage auf Bundestagsdrucksache 20/15028 
+angekündigt (wenn dies nicht oder nur teilweise geschehen ist, bitte 
+begründen)?
 d) Wann plant die Bundesregierung die Veröffentlichung der Kennzahlen 
 aus 2025 auf der Webseite der Green-IT-Initiative, wie in der Antwort 
-auf die Kleine Anfrage auf Bundestagsdrucksache 20/15028, Frage 15 
-a) angekündigt?
+zu Frage 15a der Kleinen Anfrage auf Bundestagsdrucksache 
+20/15028 angekündigt?
 e) Hat die Bundesregierung das Tool zur Erhebung dieser Kennzahlen in 
-2025 bereitgestellt (bitte Zeitpunkt nennen), wie in der Antwort auf 
-die Kleine Anfrage auf Bundestagsdrucksache 20/15028, Frage 15 c) 
+2025 bereitgestellt (bitte Zeitpunkt nennen), wie in der Antwort zu 
+Frage 15c der Kleinen Anfrage auf Bundestagsdrucksache 20/15028 
 angekündigt?
 f) Ist der Quellcode des Tools wie geplant veröffentlicht worden?
-g) Wenn dies nicht erfolgt ist, für wann die die Bereitstellung geplant 
+g) Wenn dies nicht erfolgt ist, für wann ist die Bereitstellung geplant, 
 oder warum ist sie ggf. nicht mehr geplant?
 17. Plant die Bundesregierung, weiterhin Berichte über den
 Gesamtenergieverbrauch der Bundes-IT zu veröffentlichen, wie es bis 2024 jeweils für 
@@ -297,8 +289,6 @@ berichtswesen_2023_bf.pdf)?
 a) Wenn ja, wo ist der Bericht für 2024 und 2025 veröffentlicht, oder 
 wann plant die Bundesregierung die Veröffentlichung?
 b) Wenn nein, warum nicht?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 c) Mit welchen konkreten Maßnahmen versucht die Bundesregierung, 
 den Gesamtenergieverbrauch durch die Bundes-IT zu senken, auch 
 über die Steigerung der Energieeffizienz von RZ des Bundes hinaus?
@@ -322,7 +312,7 @@ Referentenentwurf für die Novelle des EnEfG zu lesen ist?
 21. Welche Bedarfsplanungen legt die Bundesregierung der derzeit in der
 Erarbeitung befindlichen Rechenzentrumsstrategie zugrunde?
 a) Welche Rechenleistungskapazität in Rechenzentren in Deutschland 
-strebt die Bundesregierung bis 2030 an und wie quantifiziert sie diese 
+strebt die Bundesregierung bis 2030 an, und wie quantifiziert sie diese 
 unabhängig vom Stromverbrauch (z. B. in flops)?
 b) Hält die Bundesregierung die Anschlussleistung für ein geeignetes 
 Messinstrument für Rechenzentrumskapazitäten, insbesondere vor 
@@ -331,10 +321,6 @@ werden sollen und Anschlussleistung keine Aussage über die tatsächliche
 Rechenleistung treffen kann?
 Berlin, den 10. März 2026
 Heidi Reichinnek, Sören Pellmann und Gruppe
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.

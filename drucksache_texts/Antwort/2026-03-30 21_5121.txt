@@ -1,0 +1,1293 @@
+Deutscher Bundestag Drucksache 21/5121
+21. Wahlperiode 30.03.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Dr. Michael Espendiller, Thomas 
+Ladzinski, Dr. Michael Kaufmann und der Fraktion der AfD
+– Drucksache 21/4375 –
+Zahlungs-, Förder- und Zuwendungsdatenbanken in den Bundesministerien und 
+nachgeordneten Behörden
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Der Bund leistet jährlich erhebliche Zahlungen in Form von Zuwendungen, 
+Zuschüssen, Projektförderungen, institutionellen Förderungen sowie sonstigen 
+finanziellen Leistungen an Stellen außerhalb der Bundesverwaltung. Diese 
+Zahlungen werden in den Bundesministerien und den ihnen nachgeordneten 
+Behörden mittels unterschiedlicher IT-Fachverfahren, Datenbanken und
+sonstiger strukturierter Systeme erfasst und verwaltet. Für die parlamentarische 
+Kontrolle der Haushalts- und Förderpolitik des Bundes ist es erforderlich, 
+einen vollständigen Überblick darüber zu erhalten, welche Datenbanken
+hierfür genutzt werden und welche Informationen dort jeweils systematisch erfasst 
+werden.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Die Bundesregierung nimmt die Vorbemerkung der Fragestellerinnen und
+Fragesteller zur Kenntnis. Sie stimmt weder den darin enthaltenen Wertungen zu, 
+noch bestätigt sie die darin enthaltenen Feststellungen oder dargestellten
+Sachverhalte.
+Die Bundesregierung beantwortet Fragen 1 bis 10 sowie 13 der Kleinen
+Anfrage in Form der beigefügten Tabelle (Anlage 1). Die Antworten werden nach 
+Bundesministerien und den ihnen nachgeordneten Behörden getrennt
+ausgewiesen. Für das Projektförder-Informationssystem (profi), das HKR-Verfahren und 
+die Zuwendungsdatenbank des Bundes (ZwDB) werden auch für mehrere
+Bundesministerien und den ihnen nachgeordneten Behörden gemeinsame
+Antworten gegeben.
+Hinsichtlich der Fragen 11 und 12 gilt Folgendes: Die parlamentarische
+Kontrolle von Regierung und Verwaltung verwirklicht den Grundsatz der
+Gewaltenteilung, der für das Grundgesetz ein tragendes Funktions- und
+Organisationsprinzip darstellt. Die Gewaltenteilung stellt aber nicht nur den Grund,
+sondern auch die Grenze der parlamentarischen Kontrolle dar. Dabei ist die parla-
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums der Finanzen vom 27. März 2026 
+übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+mentarische Kontrolle der Regierung einerseits gerade dazu bestimmt, eine den 
+demokratischen und rechtsstaatlichen Grundsätzen entsprechende Ausübung 
+der Regierungsfunktion sicherzustellen, kann andererseits aber diese Funktion 
+auch stören und bedarf daher der Begrenzung auf ein funktionsverträgliches 
+Maß (vgl. BVerfGE 110, 199 (219); 124, 78 (122); 137, 185 (250 Rn. 1699)).
+Dieser Überlegung entspricht weiter, dass parlamentarische Kontrolle
+politische Kontrolle, nicht administrative Überkontrolle ist (BVerfGE 67,100, 140). 
+Der Bundestag wird mit dem jährlichen Jahresabschluss über die Zahlungen zu 
+den im Haushaltsplan genannten Zwecken ausreichend informiert, eine
+generelle Offenlegung und Zurverfügungstellung der jeweiligen Datenbanken für 
+Zwecke der Wahrnehmung der Kontrollrechte des Deutschen Bundestages ist 
+auf Grundlage von Einstufungen nach der Verschlusssachenanweisung (VSA) 
+und damit verbundenem händischen Rechercheaufwand nicht möglich. Zudem 
+würde das mögliche Bekanntwerden genutzter Systeme und Dienstleistungen 
+es möglichen Angreifern ermöglichen, gezielt Schwachstellen (auch bei
+Dienstleistern des Bundes) zu suchen und diese auszunutzen. Damit würden
+erhebliche neue Sicherheitsrisiken geschaffen. Zudem kommt eine Offenlegung aus 
+Gründen des Schutzes von entgegenstehenden Rechten Dritter nicht in Betracht 
+und widerspräche zudem der Pflicht zum Schutz von Geschäftsgeheimnissen 
+von Vertragspartnern.
+Eingestufte Antwortteile:
+Das Bundesamt für Verfassungsschutz (BfV) ist nach sorgfältiger Abwägung 
+zu der Auffassung gelangt, dass die Beantwortung der in den Fragestellungen 1 
+bis 13 erbetenen Auskünfte aus Gründen des Staatswohls nicht in offener Form 
+erfolgen kann. Die erbetenen Auskünfte zu Datenbanken, IT-Fachverfahren, 
+Programmen oder sonstigen strukturierten elektronischen Systemen zur
+Erfassung von Zahlungen an Stellen außerhalb der Bundesverwaltung stehen im
+Zusammenhang mit der Arbeitsweise des BfV. Durch eine offene Beantwortung 
+würde die Aufgabenerfüllung der Nachrichtendienste beeinträchtigt, was
+wiederum für die Sicherheit und die Interessen der Bundesrepublik Deutschland 
+nachteilig wäre. Unter Berücksichtigung dieser Bewertung erfolgt daher eine 
+Beantwortung als Verschlusssache „VS-Nur für den Dienstgebrauch“.
+ 1. Welche Datenbanken, IT-Fachverfahren, Programme oder sonstigen 
+strukturierten elektronischen Systeme werden in den einzelnen
+Bundesministerien sowie in den ihnen nachgeordneten Behörden zur Erfassung 
+von Zahlungen an Stellen außerhalb der Bundesverwaltung genutzt (bitte 
+nach Ressort und Behörde auflisten)?
+ 2. Seit welchem Jahr sind die jeweiligen in Frage 1 erfragten Datenbanken 
+oder Systeme jeweils im Einsatz?
+ 3. Handelt es sich bei den in Frage 1 erfragten Systemen jeweils um
+ressortinterne, ressortübergreifende oder extern betriebene Lösungen?
+ 4. Für welche Arten von Zahlungen werden die jeweiligen Datenbanken 
+oder Systeme genutzt (z. B. Zuwendungen, Projektförderungen,
+institutionelle Förderungen, Zuschüsse, sonstige Zahlungen an Dritte)?
+ 5. Werden in den jeweiligen Datenbanken ausschließlich
+haushaltsrechtliche Zahlungsdaten erfasst oder auch darüber hinausgehende inhaltliche 
+oder förderpolitische Informationen?
+ 6. Welche Angaben werden in den jeweiligen Datenbanken systematisch
+erfasst (bitte jeweils getrennt nach Datenbank angeben), insbesondere
+a) Name des Zahlungsempfängers,
+b) Rechtsform des Zahlungsempfängers,
+c) Sitz des Zahlungsempfängers,
+d) Projekt-, Maßnahmen- oder Programmtitel,
+e) Förder- oder Verwendungszweck,
+f) bewilligte Fördersumme,
+g) tatsächlich ausgezahlte Fördersumme,
+h) Laufzeit der Förderung oder Maßnahme,
+i) Angaben zu Unterauftragnehmern oder Mittelweiterleitungen,
+j) Angaben zu Eigenanteilen oder Kofinanzierungen,
+k) fachliche Bewertungen, Einstufungen oder Klassifizierungen,
+l) Prüfvermerke, Verwendungsnachweise oder Evaluationsergebnisse?
+ 7. Werden in den jeweiligen Datenbanken darüber hinaus weitere
+Kategorien oder Klassifizierungen erfasst, und wenn ja, welche?
+ 8. Welche Stellen innerhalb der Bundesregierung haben jeweils Zugriff auf 
+die in Frage 1 erfragten Datenbanken, und wie ist der Zugriff konkret 
+ausgestaltet (nur „lesend“ oder auch „schreibend“ bzw. welche weiteren 
+Abstufungen gibt es)?
+ 9. Sind die in Frage 1 erfragten Datenbanken technisch auswertbar nach
+a) thematischen Schwerpunkten,
+b) Förderprogrammen oder Förderlinien,
+c) einzelnen Zuwendungsempfängern,
+d) Haushaltsjahren?
+10. Ist ein ressortübergreifender Abgleich oder eine Zusammenführung der 
+in den jeweiligen Datenbanken erfassten Daten technisch möglich oder 
+vorgesehen?
+Die Fragen 1 bis 10 werden gemeinsam beantwortet.
+Es wird auf Anlage 1 sowie auf die als VS – NUR FÜR DEN DIENSTGE-
+BRAUCH eingestufte Anlage 2 verwiesen.*
+* Von einer Drucklegung der Anlage 1 wird abgesehen. Diese ist auf Bundestagsdrucksache 21/5121 auf der Internetseite des Deutschen Bundestages abrufbar.
+Von einer Drucklegung der Anlage 2 wird abgesehen. Das Bundesministerium der Finanzen hat die Antwort als „VS-Nur für den Dienstgebrauch“ eingestuft. Die 
+Antwort ist im Parlamentssekretariat des Deutschen Bundestages hinterlegt und kann dort von Berechtigten eingesehen werden.
+11. Welche der in Frage 1 erfragten Datenbanken oder der dort gespeicherten
+Informationen sind grundsätzlich geeignet, dem Deutschen Bundestag
+zur Wahrnehmung seiner Kontrollrechte zur Verfügung gestellt zu
+werden?
+12. Welche rechtlichen, tatsächlichen oder organisatorischen Gründe
+sprechen aus Sicht der Bundesregierung gegen eine vollständige Offenlegung
+der in den jeweiligen Datenbanken erfassten Informationen gegenüber
+dem Deutschen Bundestag und gegenüber der Öffentlichkeit?
+Die Fragen 11 und 12 werden gemeinsam beantwortet.
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen.
+13. Werden die jeweiligen Datensätze laufend bei Zahlung aktualisiert oder
+erst mit dem Jahresabschluss?
+Es wird auf Anlage 1 sowie auf die als VS – NUR FÜR DEN DIENSTGE-
+BRAUCH eingestufte Anlage 2 verwiesen.*
+* Von einer Drucklegung der Anlage 1 wird abgesehen. Diese ist auf Bundestagsdrucksache 21/5121 auf der Internetseite des Deutschen Bundestages abrufbar.
+Von einer Drucklegung der Anlage 2 wird abgesehen. Das Bundesministerium der Finanzen hat die Antwort als „VS-Nur für den Dienstgebrauch“ eingestuft. Die 
+Antwort ist im Parlamentssekretariat des Deutschen Bundestages hinterlegt und kann dort von Berechtigten eingesehen werden.
+Ressort Nachgeordnete 
+Behörde
+Frage 1 Frage 2 Frage 3 Frage 4 Frage 5 Frage 6 a) Frage 6 b) Frage 6 c) Frage 6 d) Frage 6 e) Frage 6 f) Frage 6 g) Frage 6 h) Frage 6 i) Frage 6 j) Frage 6 k) Frage 6 l) Frage 7 Frage 8 Frage 9 a) Frage 9 b) Frage 9 c) Frage 9 d) Frage 10 Frage 13
+BMFTR,
+BMV, BMDS 
+(zeitnah 
+angedacht), 
+BMWE, 
+BMLEH, 
+BMUKN 
+Bundesanstalt für 
+Wasserbau (BAW), 
+Deutscher 
+Wetterdienst 
+(DWD), 
+Bundesanstalt für 
+Verwaltungsdienstlei
+stungen (BAV), 
+Bundesamt für 
+Logistik und 
+Mobilität (BALM), 
+Eisenbahnbundesa
+mt/Deutsches 
+Zentrum für 
+Schienenverkehrsfor
+schung 
+(EBA/DZSF), BLE, 
+FNR, BASE, BfS, 
+BfN, UBA, BVA , 
+BSI, BAFA, BNetzA
+Projektförder-
+Informationssystem 
+(profi)
+Profi ist seit 
+rund 20 
+Jahren im 
+Einsatz und 
+wird seitdem 
+kontinuierlic
+h an den 
+jeweils 
+aktuellen 
+technischen 
+Sicherheitsst
+andard 
+angepasst.
+Profi wird 
+ressortübergr
+eifend 
+genutzt
+Alle genannten 
+Zahlungsarten 
+werden bedient. 
+Darüber hinaus 
+wird der ganze 
+Haushalt des 
+BMFTR mit Profi 
+bewirtschaftet
+Zusätzlich zu den 
+haushaltsrechtlichen 
+Zahlungsdaten 
+werden in Profi, wo 
+nötig, inhaltliche und 
+förderrelevante 
+Informationen erfasst 
+und verarbeitet.  
+Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja. In profi werden alle 
+Schritte vom 
+Antragseingang bis zum 
+Abschluss eines Vorhabens 
+abgebildet
+Profi liegt ein feinteiliges 
+Rechtesystem zugrunde. Die 
+verantwortlichen Stellen 
+(Ministerien, PTs usw.) 
+erhalten auf die ihnen 
+zugeordneten Vorhaben die 
+zur Aufgabenwahrnehmung 
+notwendigen Lese- und 
+Schreibrechte. 
+Ja Ja Ja Ja Die Ressorts haben nur 
+auf die ihnen 
+zugewiesenen Vorhaben 
+Zugriff.
+Alle Ressorts Alle nachgeordneten 
+Behörden 
+HKR-Verfahren des 
+Bundes
+1996 Ressortüberg
+reifend
+ § 34 BHO
+Für alle 
+Zahlungen durch 
+Bundesmittel 
+bewirtschaftende 
+Stellen
+Von den 
+bewirtschaftenden 
+Stellen sind die für 
+die 
+Zahlungsabwicklung 
+sowie für die 
+haushalterische 
+Buchung 
+erforderlichen 
+Angaben zu machen, 
+die im jeweiligen 
+Buchungssatz 
+abgelegt werden. 
+Ja Nein . Nein Nein Nein Nein Nein Nein Nein Nein Nein Nein Die jeweiligen 
+bewirtschaftenden Stellen 
+haben im Rahmen ihrer 
+jeweiligen Zuständigkeit 
+Zugriff auf das HKR-Verfahren
+Nein Nein Nein Ja Nein laufend
+Gemäß VV Nr. 
+9 zu § 44 BHO 
+wird eine 
+standardisierte 
+Zuwendungsdat
+enbank des 
+Bundes geführt, 
+die von den 
+zuständigen 
+obersten 
+Bundesbehörde
+n oder den 
+durch diese 
+beauftragten 
+Stellen zu 
+bedienen ist.
+Gemäß VV Nr. 9 zu 
+§ 44 BHO wird eine 
+standardisierte 
+Zuwendungsdatenb
+ank des Bundes 
+geführt, die von den 
+zuständigen 
+obersten 
+Bundesbehörden 
+oder den durch 
+diese beauftragten 
+Stellen zu bedienen 
+ist.
+Zuwendungsdatenban
+k des Bundes 
+Die 
+Zuwendung
+sdatenbank 
+des Bundes 
+ist seit 2005 
+in Betrieb.
+ressortübergr
+eifend
+Zuwendungen in 
+Form von 
+institutionellen 
+Förderungen, 
+Projektförderung
+en und 
+Zuschüssen 
+werden erfasst.
+Die 
+Zuwendungsdate
+nbank des 
+Bundes wird 
+jedoch nicht für 
+Zahlungen 
+genutzt. Es 
+handelt sich nicht 
+um ein 
+kassenwirksames 
+System.
+Es werden auch 
+darüber 
+hinausgehende 
+inhaltliche  
+Informationen erfasst. 
+Weitere
+Ja Nein Ja Nein Ja Ja Ja Ja Nein Ja Nein Nein Der ZwDB liegt ein Rollen-und 
+Rechtesystem zugrunde. Die 
+verantwortlichen Stellen 
+(Ministerien, PTs usw.) 
+erhalten auf die ihnen 
+zugeordneten Vorhaben die 
+zur Aufgabenwahrnehmung 
+notwendigen Rechte.
+Ja Ja Ja Ja Es handelt sich um eine 
+ressortübergreifende 
+Datenbank.
+Die Aktualisierung 
+erfolgt je nach 
+Ressort oder der 
+ihnen 
+nachgeordneten 
+Behörden in 
+unterschiedlichen 
+Intervallen.
+AA - SAP MM, DICES 2025 ressortintern Beauftragungen nein, keine 
+Erfassung von 
+Zuwendungen
+Ja Ja Ja Nein Ja Nein Nein Nein Nein Nein Nein Nein Nein zuständige Stellen im AA Ja Nein Nein Ja Nein laufend
+AA, BMZ - portfolio.atlas 2025 ressortübergr
+eifend
+Zuwendungen haushaltsrechtliche 
+Zahlungsdaten, 
+inhaltliche 
+Projektdaten 
+Ja Nein Ja Ja Ja Ja Ja Ja Nein Nein Nein Nein Projektziele, OECD-
+Policymarker
+alle Bundesressorts Ja Ja Ja Ja Ja laufend 
+AA - elektronisches 
+Projektmittelmanagem
+ent (ePMS); 
+Übertragung von 
+Zahlungsbedarfen an 
+das PSM, SAP 
+Haushaltssoftware im 
+AA
+seit 2022 
+Produktivbet
+rieb
+ressortintern Zuwendungen, 
+institutionelle und 
+Projektförderung
+en, Trust Fund 
+Zahlungen
+Erfassung von 
+fachlichen 
+Informationen zu 
+Fördervorhaben  
+Ja Nein Ja Ja Ja Ja Ja Ja Nein Ja überwiegend 
+nein
+Zum Teil Land, Kostenträger, ODA 
+Anrechnungsanteil, 
+förderbereichsspezifische 
+Marker
+zuständige Stelle im AA 
+schreibend, weitere im 
+Geschäftsbereich des AA nur 
+lesend
+Nein Ja Ja Ja Nein laufend 
+- BfAA elektronisches 
+Projektmittelmanagem
+ent (ePMS); 
+Übertragung von 
+Zahlungsbedarfen an 
+das PSM, SAP 
+Haushaltssoftware im 
+AA
+seit 2022 
+Produktivbet
+rieb
+ressortintern Zuwendungen, 
+institutionelle und 
+Projektförderung
+en, Trust Fund 
+Zahlungen
+Erfassung von 
+fachlichen 
+Informationen zu 
+Fördervorhaben  
+Ja Nein Ja Ja Ja Ja Ja Ja Nein Ja überwiegend 
+nein
+Zum Teil Land, Kostenträger, ODA 
+Anrechnungsanteil, 
+förderbereichsspezifische 
+Marker
+zuständige Stelle im AA 
+schreibend, weitere im 
+Geschäftsbereich des AA nur 
+lesend
+Nein Ja Ja Ja Nein laufend
+AA - portfolio.atlas 2026 ressortübergr
+eifend
+Zuwendungen, 
+Projektförderung
+en, institutionelle 
+Förderungen, 
+Zuweisung, 
+Beauftragung, 
+Stipendien
+haushaltsrechtliche 
+Zahlungsdaten, 
+inhaltliche 
+Projektdaten 
+Ja Nein Ja Ja Ja Ja Ja Ja Nein Nein Nein Nein Projektziele, OECD-
+Policymarker
+alle Bundesressorts Ja Ja Ja Ja Ja laufend
+AA - ODA-Datenerfassung, 
+SAP/CRM
+2023 ressortintern Zuwendungen, 
+Projektförderung
+en, institutionelle 
+Förderungen, 
+Zuweisung, 
+Beauftragung, 
+Stipendien
+haushaltsrechtliche 
+Zahlungsdaten, 
+inhaltliche 
+Projektdaten 
+Ja Nein Ja Ja Ja Ja Ja Ja Ja Nein Nein Nein OECD-Policymarker zuständige Stellen im AA Ja Ja Ja Ja Nein laufend
+AA - DAISY, Daisy-HaH 2023 ressortintern Zahlungen nach 
+Auslandsschulge
+setz (ASchulG), 
+Zuwendungen, 
+institutionelle und 
+Projektförderung
+en, sonstige 
+Zahlungen an 
+Dritte 
+Neben der reinen 
+haushaltsrechtlichen 
+Komponente (HaH) 
+handelt es sich bei 
+DAISY um eine 
+ganze 
+Anwendungslandsch
+aft mit spezialisierten 
+Teilanwendungen. 
+Ja Ja Ja Ja Ja Ja Ja Ja Nein Ja Ja Ja Ja zuständige Stelle im BfAA 
+schreibend, zuständige Stelle 
+im AA lesend
+Ja Ja Ja Ja Nein laufend
+- DAI SAP angeschloss
+en an AA
+ressortintern alle 
+haushaltsrelevant
+en Buchungen
+Nein Ja Nein Nein Nein Nein Nein Nein Nein Nein Nein Nein Nein Nein zuständige Stelle Nein Nein Nein Ja unbekannt laufend
+AA - Fitz 4.0 angeschloss
+en an AA
+ressortintern alle 
+haushaltsrelevant
+en Buchungen
+Nein Ja Nein Nein Nein Nein Nein Nein Nein Nein Nein Nein Nein Nein zuständige Stelle Nein Nein Nein Ja unbekannt laufend
+BMI BSI MACH meinERP 1999 ressortintern Projektförderung
+en und sonstige 
+Zahlungen
+haushaltsrechtlich, 
+nur begrenzt 
+inhaltlich oder 
+förderpolitisch
+Ja Ja Ja Ja Teilweise Teilweise Ja Nein Nein Nein teilweise teilweise Nein zuständige Stelle teilweise (z.B. 
+Kostenstelle)
+teilweise (z.B. 
+Kostenstelle)
+Ja Ja  technisch nicht direkt im 
+System möglich 
+aufgrund 
+Individualkonfiguration je 
+Behörde durch externen 
+Dienstleister
+laufend
+BMI StBA MACH meinERP 1999 Extern 
+betrieben
+Zuwendungen, 
+Projektförderung
+en, institutionelle 
+Förderungen, 
+Zuschüsse, 
+sonstige 
+Zahlungen an 
+Dritte
+Es werden in MACH 
+ausschließlich Daten 
+für den internen 
+Workflow hinterlegt, 
+die jederzeit auch mit 
+weiteren 
+Dokumenten ergänzt 
+werden können (inkl. 
+des 
+bedarfsbegründende
+n Vermerks). 
+Ja Nein Ja Ja Ja Ja Ja Ja Nein Nein Nein Nein Nein zuständige Stelle Ja Nein Ja Ja Nein laufend
+BMI BIB MACH meinERP 1999 Extern 
+betrieben
+Zuwendungen, 
+Projektförderung
+en, institutionelle 
+Förderungen, 
+Zuschüsse, 
+sonstige 
+Zahlungen an 
+Dritte
+Es werden in MACH 
+ausschließlich Daten 
+für den internen 
+Workflow hinterlegt, 
+die jederzeit auch mit 
+weiteren 
+Dokumenten ergänzt 
+werden können (inkl. 
+des 
+bedarfsbegründende
+n Vermerks). 
+Ja Nein Ja Ja Ja Ja Ja Ja Nein Nein Nein Nein Nein Zugriffe haben nur 
+Mitarbeitende des StBA.
+Ja Nein Ja Ja Nein laufend
+BMI BA 
+THW
+THWin 1995 Behördeninte
+rn BA THW
+alle ausschließlich 
+haushaltsrechtlich 
+Ja Ja Ja Nein Nein Ja Ja Nein Nein Nein Nein Nein Nein - Nein Nein Nein Ja Nein ja
+BMI BBK MACH 2016 Behördeninte
+rne Lösung, 
+welche beim 
+ITZBund 
+gehostet wird
+alle haushaltsrechtliche 
+Zahlungsdaten 
+Ja Ja Ja Nein Nein Nein Ja Nein Nein Nein Nein Nein Nein ITZBund, schreibend, nur in 
+wenigen administrativen 
+Anwendungen
+Nein Nein Ja Ja Nein laufend
+BMI BAMF MACH meinERP 2005 ressortinterne 
+Lösung
+Zuwendungen, 
+Zuschüsse und 
+sonstige 
+Zahlungen an 
+Dritte
+ausschließlich 
+haushaltsrechtlich 
+Ja Nein Ja Nein Ja Nein Ja Nein Nein Nein Nein Nein Nein Nur BAMF, schreibend Nein Nein Ja Ja Nein laufend
+BMI BAMF TMS - ressortübergr
+eifende 
+Lösung
+Kostenantragstell
+ung Dienstreisen
+ausschließlich 
+haushaltsrechtlich 
+Ja Nein Ja Nein Nein Nein Nein Nein Nein Nein Nein Nein Nein BAMF und BVA, schreibend Nein Nein Ja Ja Ja laufend
+BMI BAMF Online Antragsmodul 2024 extern 
+betriebene 
+Lösung
+Individuelle 
+Förderungen der 
+freiwilligen 
+Rückkehr
+Es werden weitere 
+Informationen erfasst.
+Ja Nein Ja Nein Ja Ja Ja Ja Nein Nein Nein Nein Nein BAMF zur 
+Antragsbearbeitung und 
+antragsübermittelnde Stellen 
+zur Antragseinreichung, 
+schreibend
+Nein Nein Ja Ja Ja laufend
+BMI BAMF/BKA/BPoL ITSI 2021 ressortinterne 
+Lösung
+Verwaltung der 
+EU-
+Zuwendungen 
+aus dem 
+ISF/BMVI/AMIF 
+ausschließlich 
+haushaltsrechtlich 
+Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja BAMF/BKA/BPOL, 
+schreibend 
+Ja Ja Ja Ja Nein laufend
+BMI BAMF Integrationsgeschäftsd
+atei (InGe)
+2005 ressortinterne 
+Lösung
+Zuwendungen, 
+Zuschüsse und 
+sonstige 
+Zahlungen an 
+Dritte
+ausschließlich 
+haushaltsrechtlich 
+Ja Ja Ja Ja Ja nicht 
+einschlägig
+Ja Ja Ja Ja Nein Nein Nein Nur BAMF, schreibend Ja Nein Ja Ja Nein laufend
+BMI BAMF MBE-DB 3.0 2006 ressortinterne 
+Lösung
+Zuwendungen 
+der 
+Projektförderung 
+im Rahmen der 
+Migrationsberatu
+ng für 
+erwachsene 
+Zugewanderte 
+Es werden Zahldaten 
+erfasst.
+Ja Ja Ja Ja Ja Ja Ja Ja Nein Ja Nein Nein laufend Nur BAMF, schreibend Nein Nein Ja Ja Nein laufend
+BMAS BAMF Berufsprachkurse 
+Digital (BerD)
+2025 ressortinterne 
+Lösung
+Kostenerstattung 
+für die 
+ordnungsgemäß
+e Durchführung 
+der
+Berufssprachkurs
+ausschließlich 
+haushaltsrechtlich 
+Ja Nein Ja Ja Ja Nein Ja Ja Nein Nein Nein Ja Nein Nur BAMF, schreibend Nein Nein Ja Ja Nein laufend
+BMI - Haushaltsüberwachun
+g Titel 0601 68545, 
+Microsoft Excel, HKR-
+Web
+plus 10 ressortintern Förderzuschüsse ausschließlich 
+haushaltsrechtlich 
+Ja Ja Nein Ja Ja Ja Ja Ja Nein Ja Nein Ja Ja referatsintern Ja Ja Ja Ja Nein laufend
+BMI - Haushaltsüberwachun
+g Titel 0602 68731, 
+Microsoft Excel, HKR-
+Web
+plus 10 ressortintern Kostenbegeichun
+g
+ausschließlich 
+haushaltsrechtlich 
+Ja Ja Nein Ja Ja Ja Ja Ja Nein Nein Nein Ja Nein referatsintern Ja Ja Ja Ja Nein laufend
+BMJV BVA, BLE HKRweb 2017 ressortübergr
+eifend
+sonstige 
+Zahlungen an 
+Dritte
+ausschließlich 
+haushaltsrechtliche 
+Zahlungsdaten 
+Ja Nein Ja Nein Nein Nein Ja Haushaltsjahr Nein Nein Nein Nein Nein Zugriff lesend oder 
+schreibend, Zugriff nach 
+Freigabe
+Nein Nein Nein Nein Nein laufend
+BMWE, weitere BAFA eigene IT-
+Vachverfahren
+2008 BAFA interne 
+IT-
+Fachverfahre
+n
+alle genannten 
+Arten
+es werden die für die 
+jeweiligen 
+finanzwirksamen 
+Maßnahmen 
+erforderlichen Daten 
+erfasst. 
+siehe Antowrt 
+zu 5.
+siehe 
+Antowrt zu 
+5.
+siehe 
+Antowrt zu 
+5.
+siehe 
+Antowrt zu 
+5.
+siehe 
+Antowrt zu 
+5.
+siehe 
+Antowrt zu 
+5.
+siehe 
+Antowrt zu 
+5.
+siehe Antowrt 
+zu 5.
+siehe 
+Antowrt zu 
+5.
+siehe 
+Antowrt zu 
+5.
+siehe Antowrt 
+zu 5.
+siehe Antowrt zu 5. siehe Antowrt zu 5. Alle Verfahren unterliegen 
+einem Rollen- und 
+Rechtekonzept, welches den 
+Zugriff auf Daten auf das 
+notwendige Minimum 
+beschränkt.
+Ja Ja Ja Ja keine Angabe
+BMLEH BLE
+(Verwaltungshaushalt)
+MACH DB, MACH 
+ERP, MACH ERP 
+Module 
+"Finanzbuchhaltung"
+Oktober 
+2010
+Ressortintern
+e Nutzung
+Sonstige 
+Zahlungen an 
+Dritte im Rahmen 
+der 
+Aufgabenwahrne
+hmung des 
+Verwaltungshaus
+haltes der BLE
+ausschließlich 
+haushaltsrechtliche 
+Zahlungsdaten 
+Ja Ja Ja Nein Ja Nein Nein Nein Nein Nein Nein Nein Nein nur BLE (im Einzelfall auch 
+der BRH)
+Nein, nur nach 
+Haushaltstiteln
+Nein Nein Ja Nein laufend
+BMLEH FNR Datev 2016 FNR intern alle Zahlungen haushaltsrechtliche 
+Zahlungsdaten 
+Ja Nein Ja Ja Ja Nein Ja Nein Nein Nein Nein Nein Nein Auf Anfrage stehen die Daten 
+der BLE oder
+dem BRH zur Verfügung
+Nein Ja Ja Ja Techn.möglich aber 
+nicht vorgesehen
+laufend
+BMAS - Vertragsdatenbank 01.01.2006 ressortintern Verträge Nein Ja Nein Ja Nein Nein Nein Nein Ja Nein Nein Nein Nein Vergaberechtliche 
+Kategorien
+Ausschließlich 
+Mitarbeiter/innen des BMAS 
+(lesend und schreibend)
+Nein Nein Nein Ja Nein nein
+BMAS DRV KBS Online-Banking der 
+SozialBank AG
+kA extern 
+betriebene 
+Lösungen
+Zuwendungen / 
+Projektförderung
+en
+ausschließlich 
+haushaltsrechtliche 
+Zahlungsdaten  
+Ja soweit 
+Namensbest
+andteil
+Nein soweit 
+Namensbest
+andteil
+Nein Nein Ja Nein Nein Nein Nein Nein kA kA Nein Nein Ja Ja Nein laufend
+BMAS DRV KBS Förderportal BMAS 15.07.2005 ressortintern Zuwendungen / 
+Projektförderung
+en, Zuschüsse
+auch 
+darüberhinausgehen
+de inhaltliche oder 
+förderpolitische 
+Informationen 
+Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja teilweise / 
+programmspez
+ifisch / 
+konfigurationsa
+bhängig
+Ja Ja Mitarbeitende der 
+zuständigen Fachrefarate 
+(lesend)
+nein Ja Ja Ja Abgleich technisch 
+möglich,aber 
+datenschutzrechtliche 
+Trennung
+laufend
+BMAS DRV KBS eAidRegister 18.07.2005 extern 
+betriebene 
+Lösungen
+Beihilfen - 
+deminimis
+ausschließlich 
+haushaltsrechtliche 
+Zahlungsdaten  
+Ja soweit 
+Namensbest
+andteil
+Nein Nein Nein Ja Nein Nein Nein Nein Nein Nein Wirtschaftsidentifkationsnu
+mmer, Wirtschaftszweig, 
+Beihilfeinstrument
+Daten sind frei zugänglich Nein Nein Ja Nein Ja nein
+BMAS DRV KBS Beihilfentransparenzda
+tenbank
+08.07.2005 extern 
+betriebene 
+Lösungen
+Beihilfen - AGVO ausschließlich 
+haushaltsrechtliche 
+Zahlungsdaten  
+Ja soweit 
+Namensbest
+andteil
+Nein Ja Ja Ja Nein Nein Nein Nein Nein Nein Ja Daten sind frei zugänglich Nein Ja Ja Nein Ja nein
+BMAS BAuA MACH 23.06.2005 ressortintern alle haushaltsrechtliche  Ja Ja Ja Nein Nein Nein Ja Nein Nein Nein Nein Nein Nein kein Zugriff, ERP-System Nein Nein Ja Ja nicht bekannt laufend
+BMAS, 
+BMBFSFJ, 
+BMWSB, 
+BMWE
+DRV-KBS, BAMF, 
+BAFzA, GSUB
+Förderportal Z-EU-S 
+(ESF-Förderungen)
+13.07.2005 extern 
+betriebene 
+Lösung
+Zuwendungen / 
+Projektförderung
+en, Zuschüsse
+auch 
+darüberhinausgehen
+de inhaltliche oder 
+förderpolitische 
+Informationen 
+Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Mitarbeitende der 
+zuständigen Fachrefarate und 
+Prüfinstanzen (lesend) 
+nein Ja Ja Ja Ja laufend
+BMAS BAS HKRWeb 13.07.2005 ITZBund Zahlung von 
+Rechnungen an 
+Vertragspartner
+ausschließlich 
+haushaltsrechtliche 
+Zahlungsdaten  
+Ja FA Adresse Rechnungs-
+ID
+Verwendun
+gszweck
+FA Rechnungs
+betrag
+FA FA FA FA Ja Haushaltstitel ITZBund; darüber hinaus 
+keine Kenntnis
+Haushaltsmittela
+bflüsse
+FA FA FA FA laufend
+BMAS BAS MACH,MACH Version 
+8
+(MACH C/S, MACH 
+Web, MACH BI)
+Applikationsserver und 
+Datenbankserver
+(Windows Server  und 
+MS SQL 
+Datenbank),Anbindun
+g über F15z-
+Schnittstelle an HKR-
+Verfahren des Bundes  
+29.06.2005 hier: nur BAS
+MACH ist als 
+Fachanwend
+ung aber bei 
+vielen 
+Bundesbehör
+den im 
+Einsatz
+Bewirtschaftung 
+von 
+Bundesmitteln,
+sonstige 
+Zahlungen an 
+Dritte
+ausschließlich 
+haushaltsrechtliche 
+Zahlungsdaten  
+Ja FA Adresse FA Verwendun
+gszweck
+FA Zahlbetrag FA FA FA FA Ja Haushaltstitel Ausschließlich BAS Haushaltsmittela
+bflüsse
+FA Ja Ja nicht vorgesehen laufend
+BMAS BAS Hausanwendung BAS - 
+zuständige Stelle 
+BBiG 
+08.07.2005 BAS 
+behördeninte
+rn
+Entschädigungsz
+ahlungen für 
+ehrenamtlich 
+Tätige in der 
+beruflichen 
+Bildung 
+(Prüfende, 
+Ausschussmitglie
+der) 
+weitere, die 
+überwachten 
+Berufsausbildungen 
+betreffend
+Ja Nein Ja Nein Ja Nein Ja Fallbezogen Nein Nein Nein Ja soweit fachlich erforderlich ausschließlich das Fachreferat Nein Nein Ja Ja Nein anlassbezogen
+BMAS
+BMFTR
+BAS Fachverfahren der 
+Stifung 
+Begabtenförderung 
+(SBB) berufliche 
+Bildung, 
+Begabtenförderung
+15.07.2005 Bereitsstellun
+g durch SBB
+Weitere Ja Nein Ja Ja Ja Ja Ja Ja Nein Ja Ja Ja soweit fachlich erforderlich SBB Administration - lesend 
+mit Freigabe
+Nein Ja Ja Ja Nein anlassbezogen
+BMV BALM eGov-Suite 2009 ressortintern Zuwendungen / 
+Projektförderung
+haushaltsrechtliche 
+und inhaltliche 
+Informationen 
+Ja Ja Ja Nein Ja Ja Ja Ja Ja Ja Ja Ja Ja (u.a. Fristen, 
+projektgebunde 
+Budgetangaben, 
+statistische Angaben)
+BMV (lesend) Ja Ja Ja Ja keine Kenntnis laufend
+BMV EBA Oracel, DOWEBA 
+(Dokumenten- und 
+Workflow-Management-
+System beim 
+Eisenbahn-
+Bundesamt)
+ca. 2002 behördeninte
+rn
+Zuwendungen für 
+Projektförderung, 
+sonstige 
+Zahlungen an 
+Dritte
+haushaltsrechtliche 
+und inhaltliche 
+Informationen 
+Ja Ja Ja Ja Ja Ja Ja Ja Nein Ja Ja Ja Haushaltsstellen / 
+Finanzierungsanteile der 
+Gesamtfinanzierung
+keine Nein Nein Nein Nein Nein laufend
+BMV EBA Oracel, ProInvest 
+(internes Finanz- und 
+Investitions-
+Management-System 
+zur Abbildung, 
+Verwaltung und 
+Auswertung
+2000 behördeninte
+rn
+Zuwendungen für 
+Projektförderung
+Haushaltrechtliche 
+Zahlungsdaten 
+(Bewilligungen, 
+Rückforderungen, 
+Verwendungsnachwe
+ise) sowie inhaltliche 
+Angaben 
+Ja Ja Ja Ja Ja Ja Ja Ja Nein Ja Ja Verwendungsnachwei
+se
+Haushaltsstellen / 
+Finanzierungsanteile der 
+Gesamtfinanzierung
+keine Ja Ja Ja Ja Nein laufend
+BMV DZSF Oracel, DOWEBA 2020 behördeninte
+rn
+Zuwendungen 
+zur 
+inhaltliche 
+Informationen 
+Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja - keine Nein Nein Nein Nein Nein laufend
+BMV BSH SFF 2023 ressortintern aktuell keine 
+Nutzung für 
+Zahlungen
+SFF enthält 
+Vorgangsdaten, 
+haushaltsrechtliche 
+Zahlungsdaten sind 
+z.T. enthalten 
+Ja im Namen 
+enthalten
+Ja Ja Ja Ja Ja Ja Nein Nein Nein Ja - nur das zuständige Referat im 
+BSH
+Nein Ja Nein Ja Nein laufend
+BMV GDWS FöBis 2010 behördeninte
+rn
+Zuwendungen 
+zur 
+Projektförderung
+haushaltsrechtliche 
+Zahlungsdaten und 
+inhaltliche 
+Informationen zu den 
+geförderten 
+Vorhaben 
+Ja Ja Ja Ja Ja Ja Ja Ja Nein Ja Nein Nein Ja (u.a.Termindaten zu 
+Antragsprüfungsschritten
+Termindaten zur 
+Bewilligung
+Daten zu Widerrufen, 
+Rücknahmen, Erstattungen 
+und Verzinsungen)
+Nur die Bewilligungsbehörde 
+hat Zugriff.
+Ja Ja Ja Ja Nein laufend
+BMV GDWS FiBi 2025 behördeninte
+rn, betrieben 
+durch 
+ITZBund
+Zuwendungen 
+zur 
+Projektförderung
+haushaltsrechtliche 
+Zahlungsdaten und 
+inhaltliche 
+Informationen zu den 
+geförderten 
+Vorhaben 
+Ja Ja Ja Ja Ja Ja Ja Ja Nein Ja Nein Ja Ja (u.a.Termindaten zu 
+Antragsprüfungsschritten
+Termindaten zur 
+Bewilligung
+Daten zu Widerrufen, 
+Rücknahmen, Erstattungen 
+und Verzinsungen)
+Nur die Bewilligungsbehörde 
+hat Zugriff.
+Ja Ja Ja Ja Nein laufend
+BMV GDWS/WSV,
+BAW, 
+BfG,
+BALM, 
+BASt, 
+LBA, 
+BSH, 
+BAV
+aktuell Oracle
+ i.V.m. SAP; ab 2027 
+SAP HANA, SAP-
+MTM
+erste 
+Behörden 
+ab 2002
+ressortintern Abwicklung des 
+gesamten 
+Zahlungsverkehr
+s der Behörden 
+mit der 
+Bundeskasse.
+Haushalts- und KLR-
+Daten, tlw. 
+Förderkennzeichen 
+und Projektname 
+Ja im Regelfall 
+ja
+Ja Ja Nein Nein Nein Nein Nein Nein Nein Nein Nein Nur Behördenmitarbeiter 
+(Haushälter/Controller); 
+außerhalb der Behörde: ITZ 
+Bund für Benutzerverwaltung 
+und "lesend" in Bezug auf 
+Zahlungen
+Nein Einzelfallabhängi
+g 
+- Ja Nein laufend
+BMG BfArM MACH 2001 ressortübergr
+eifend
+Auszahlungen, 
+Rück- oder auch 
+Zinszahlungen
+Ausschließlich 
+Zahlungsvorgänge 
+mit den 
+haushaltsbegründen
+den Unterlagen 
+Ja Nein Ja Ja Ja Nein Ja möglich Nein Nein Nein Nein Nein nur die zuständige Behörde Nein Nein Ja Ja Nein laufend
+BMUKN BASE Esis PASS pm21 2017 Betrieb durch 
+BASE
+Zuschüsse / 
+sonstige 
+Zahlungen
+Kurzbegründungen 
+zu den 
+Zahlungszwecken / 
+Verwendungszwecke 
+der Überweisungen 
+Ja Nein Ja Nein ja Nein Nein Nein Nein Nein Nein Nein KLR-Daten
+Fälligkeits- / Aus- und 
+Einzahlungszeitpunkte
+Schreibender Zugriff: 
+Haushaltsreferat des BASE
+Lesender Zugriff: 
+Titelverwalter:innen im BASE
+Nein Nein Ja Ja Nein laufend
+BMUKN BfS PASS 2002 ressortintern sonstige 
+Zahlungen an 
+Dritte
+ausschließlich 
+haushaltsrechtliche 
+Daten 
+Ja Ja Ja Ja Nein Ja Ja Ja Nein Nein Nein Nein Nein keine, nur BfS Ja Ja Ja Ja Nein laufend
+BMUKN BfN MACH 2005 extern sonstige 
+Zahlungen an 
+Dritte
+ausschließlich 
+haushaltsrechtliche 
+Daten 
+Ja Ja Ja Ja Ja Nein Nein Nein Nein Nein Nein Ja Nein keine Nein Nein trifft nicht zu Ja technische Möglichkeit  
+nicht auszuschließen, 
+bislang nicht vorgesehen 
+laufend
+BMUKN UBA MACH (relationale 
+Datenbank), MACH-
+ERP-System, MACH-
+ERP, relationale 
+Datenbank
+2005 extern üblicher 
+Zahlungsverkehr, 
+sonstige 
+Zahlungen an 
+Dritte
+ausschließlich 
+haushaltsrechtliche 
+Daten 
+Ja Ja Ja Ja Ja Nein Nein Nein Nein Nein Nein Nein nur im Rahmen HH-
+rechtlicher Daten im ERP-
+System 
+keine Nein Nein Partnerdaten, 
+trifft nicht zu
+Ja bislang nicht vorgesehen laufend
+BMBFSFJ BAFzA Förderportal 
+"Demokratie leben!"
+2024 extern Projektförderung Die für das 
+Zuwendungsverhältni
+s benötigten Daten 
+werden erfasst.
+Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Nein BMBFSFJ, BAFzA Ja Nein Ja Ja Nein beides
+BMBFSFJ - Digitale 
+Antragsplattform der 
+Bundesstiftung Frühe 
+Hilfen, Umsetzung 
+über PEGA-
+Government-Plattform
+Dez 23 extern 
+betriebene 
+Lösung
+Zuweisungen im 
+Rahmen der 
+Bundesstiftung 
+Frühe Hilfen 
+Haushaltsrechtliche 
+Zahlungsdaten 
+werden mit 
+förderrechtlich 
+relevanten 
+Fachinformationen 
+verbunden. 
+Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Nein die zuständige Stelle Ja nicht zutreffend Ja Ja Nein laufend
+BMBFSFJ BAFzA MACH 2010 ressortintern Sonstige 
+Zahlungen an 
+Dritte
+Haushaltsrechtliche 
+Zahlungsdaten 
+Ja ggf. ja Ja Nein Nein Nein Nein Nein Nein Nein Nein Nein Nein Zugriff nur innerhalb BAFzA. 
+Fachreferate und 
+Haushaltsreferat haben 
+lesenden und schreibenden 
+Zugriff.
+Ja Nein Nein Ja Nein  anlassbezogen
+BMBFSFJ BAFzA BFD-Datenbank, BFD-
+Online-Anwendung, 
+Interaktion mit MACH 
+zur Ableistung der 
+Zahlungen
+2011 ressortintern Zahlungen 
+entsprechend 
+BFDG
+Zu den Zahlungen 
+unmittelbar werden 
+nur 
+haushaltsrechtliche 
+Zahlungsdaten 
+erfasst (z.B. 
+Bankverbindung).
+Inhaltliche 
+Informationen werden 
+in der Datenbank in 
+Verbindung mit 
+allgemeinen 
+Datensätzen 
+gespeichert, z.B. 
+eine Mitteilung von 
+einer 
+Abrechnungsstelle 
+über eine Änderung 
+der Bankverbindung 
+Ja Nein Ja Nein Ja Nein Ja Ja Nein Nein Ja Ja Nein Zugriff nur innerhalb BAFzA. Ja Förderprogramm
+e: Nein
+Förderlinien: Ja
+Nein Nein Nein laufend.
+BMBFSFJ BAFzA Antragsdatenbank, 
+EHS/FSM, MS 
+SharePoint
+2013 lokal sonstige 
+Zahlungen an 
+Dritte
+Personendaten und 
+Zahlungsdaten 
+Ja Nein Ja Nein Ja Ja Ja Ja Nein Nein Nein Nein - - Ja Nein Ja Ja Nein laufend.
+BMZ - MeMFIS 
+(Modular erweiterbares
+ Management-Finanz-
+Informations-System)
+2018 ressortintern Zuwendungen 
+und weitere EZ-
+Finanzierungsart
+en (darunter u.a. 
+Projektförderung
+en, institutionelle 
+Förderungen, 
+Zuschüsse, 
+Darlehen, 
+Kredite)
+auch darüber 
+hinausgehende 
+inhaltliche oder 
+förderpolitische 
+Informationen 
+Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja ja, EZ-spezifische 
+Kennungen und 
+Klassifizierungen
+nur BMZ intern; es gibt 
+Administrations-, Lese- und 
+Schreibrechte
+Ja Ja Ja Ja Ja Nein
+BMWSB BBR SAP 2001  
+ressortübergr
+eifende 
+Lösung
+Sämtliche 
+Zahlungen
+haushaltsrechtliche Ja Ja Ja Ja Ja Ja Ja Ja sofern 
+haushaltsrec
+htlich 
+relevant
+Nein Nein Nein ggf. steuerlich benötigte 
+Informationen (z.B. USt-ID) 
+Bankverbindung
+Kein direkter bekannter Zugriff Nein Ja Ja Ja  Möglicherweise laufend
+BMWSB BBSR Zentrale Datenbank 
+BBSR ("ZDB")
+seit 2024  
+ressortinterne 
+Lösung
+Für alle Arten der 
+aufgeführten 
+Zahlungen.
+Es sind auch 
+inhaltliche 
+Informationen 
+enthalten. 
+Ja Nein Ja Ja Ja Ja Ja Ja Nein Ja Nein Ja Es werden auch Geo-
+Koordinaten von Adressen 
+und die damit verbunde-nen 
+Raumzuordnungen erfasst.
+Nein Ja Ja Ja  laufend
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
