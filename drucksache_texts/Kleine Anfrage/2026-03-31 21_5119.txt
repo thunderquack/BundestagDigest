@@ -4,27 +4,27 @@ Kleine Anfrage
 der Abgeordneten Stefan Möller, Steffen Janich, Sascha Lensing, 
 Dr. Christoph Birghan, Knuth Meyer-Soltau, Torben Braga, Robert Teske und 
 der Fraktion der AfD
-Möglicher Einsatz der Datenanalyse-Software Palantir „Gotham“ (PG) durch 
-deutsche Nachrichtendienste
+Möglicher Einsatz der Datenanalyse-Software Palantir „Gotham“ durch deutsche 
+Nachrichtendienste
 Die US-amerikanische Firma Palantir Technologies stellt Software zur
 Verarbeitung und Auswertung großer Datenmengen bereit. Eines der zentralen
-Produkte ist die Software „Gotham“, die nach Angaben des Unternehmens im
-Bereich der Kriminalitäts- und Terrorismusbekämpfung eingesetzt wird. Palantir 
-bietet seine Produkte nicht nur als standardisierte Software an, sondern passt 
-sie an bestehende Strukturen der jeweils nutzenden Behörden an.
+Produkte ist die Software „Gotham“ (PG), die nach Angaben des Unternehmens 
+im Bereich der Kriminalitäts- und Terrorismusbekämpfung eingesetzt wird.
+Palantir bietet seine Produkte nicht nur als standardisierte Software an, sondern 
+passt sie an bestehende Strukturen der jeweils nutzenden Behörden an.
 In Deutschland wird Software von Palantir im polizeilichen Bereich in
-mehreren Bundesländern genutzt, unter anderem bezeichnet als „HessenData“ in
-Hessen, „Datenanalyse und Recherche (DAR)“ in Nordrhein-Westfalen und
-„Vernetzte Recherche und Analyse (VeRA)“ in Bayern. Diese Systeme dienen nach 
-öffentlich zugänglichen Informationen der Auswertung umfangreicher
-Datenbestände aus unterschiedlichen Quellen, etwa aus
-Telekommunikationsüberwachung, Funkzellenabfragen, behördlichen Registern, sozialen Netzwerken und 
-anderen offenen Quellen (https://netzpolitik.org/2025/verfassungsbeschwerde-d
-as-problem-heisst-nicht-nur-palantir/#netzpolitik-pw). In diesem
-Zusammenhang sind verfassungsrechtliche Fragen aufgeworfen worden, insbesondere im 
-Hinblick auf Datenschutz, informationelle Selbstbestimmung und das
-Trennungsgebot zwischen Polizei und Nachrichtendiensten (vgl.
-Bundesverfassungsgericht, Urteil vom 16. Februar 2023 – 1 BvR 1547/19).
+mehreren Bundesländern genutzt, u. a. bezeichnet als „HessenData“ in Hessen,
+„Datenanalyse und Recherche“ (DAR) in Nordrhein-Westfalen und „Vernetzte
+Recherche und Analyse“ (VeRA) in Bayern. Diese Systeme dienen nach öffentlich 
+zugänglichen Informationen der Auswertung umfangreicher Datenbestände aus 
+unterschiedlichen Quellen, etwa aus Telekommunikationsüberwachung,
+Funkzellenabfragen, behördlichen Registern, sozialen Netzwerken und anderen
+offenen Quellen (https://netzpolitik.org/2025/verfassungsbeschwerde-das-problem-
+heisst-nicht-nur-palantir/#netzpolitik-pw). In diesem Zusammenhang sind 
+verfassungsrechtliche Fragen aufgeworfen worden, insbesondere im Hinblick 
+auf Datenschutz, informationelle Selbstbestimmung und das Trennungsgebot 
+zwischen Polizei und Nachrichtendiensten (vgl. Bundesverfassungsgericht,
+Urteil vom 16. Februar 2023 – 1 BvR 1547/19).
 Der Vorstandsvorsitzende von Palantir Technologies, Alexander Karp, hat im 
 Jahr 2023 in einem Interview erklärt, die Software „Gotham“ habe „im
 Alleingang“ den Aufstieg der „extremen Rechten“ in Europa gestoppt (www.cnb
@@ -37,12 +37,10 @@ und wie die Grenzen der Anwendung insbesondere in Bezug auf unbeteiligte
 Dritte definiert sind.
 Von besonderem Interesse ist für die Fragesteller, ob solche Systeme im
 Bereich der Auswertung politischer Aktivitäten eingesetzt werden oder eingesetzt 
-werden können, ob dabei Daten über politisch aktive Personen, deren privates 
-und berufliches Umfeld verarbeitet werden und welche rechtlichen, technischen 
-und organisatorischen Vorkehrungen zum Schutz der Grundrechte getroffen 
-werden.
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+werden können, ob dabei Daten über politisch aktive Personen sowie deren
+privates und berufliches Umfeld verarbeitet werden und welche rechtlichen,
+technischen und organisatorischen Vorkehrungen zum Schutz der Grundrechte
+getroffen werden.
 Wir fragen die Bundesregierung:
  1. Setzen Nachrichtendienste des Bundes und der Länder nach Kenntnis der 
 Bundesregierung derzeit PG oder ähnliche Softwareprodukte der Firma 
@@ -50,13 +48,13 @@ Palantir Technologies im Gebiet der Bundesrepublik Deutschland zur
 Auswertung von Daten ein oder haben entsprechende Systeme in den
 letzten zehn Jahren in Deutschland getestet, evaluiert oder in Pilotprojekten 
 genutzt, und wenn ja, welche (bitte nach Behörde, Produktbezeichnung 
-sowie Einsatz- beziehungsweise Projektzeitraum aufschlüsseln)?
+sowie Einsatz- bzw. Projektzeitraum aufschlüsseln)?
  2. Welche technischen, organisatorischen oder rechtlichen Schnittstellen zur 
 direkten oder indirekten Nutzung von Auswertungen durch Software wie 
-PG o. ä. bestehen gegebenenfalls zwischen Polizeibehörden bzw.
+PG o. Ä. bestehen gegebenenfalls zwischen Polizeibehörden bzw.
 Nachrichtendiensten anderer Staaten einerseits und den deutschen
 Nachrichtendiensten des Bundes und der Länder andererseits?
- 3. Befähigen diese in Frage 2 erfragten, etwaigen Schnittstellen deutsche 
+ 3. Befähigen diese in Frage 2 erfragten etwaigen Schnittstellen deutsche 
 Nachrichtendienste des Bundes und nach Kenntnis der Bundesregierung 
 der Länder zumindest teilweise oder indirekt, selbst oder durch andere
 Behörden oder Staaten gesammelte personenbezogene Daten für Zwecke des 
@@ -66,23 +64,23 @@ Auswertungen zu erhalten?
 Nachrichtendienste des Bundes und nach Kenntnis der Bundesregierung 
 der Länder in Bezug auf die Auswertung personenbezogener Daten
 insbesondere aus der technischen Kommunikationsüberwachung außerhalb von 
-strafrechtlichen Ermittlungsverfahren durch Software wie PG o. ä. in
-Bezug auf politisch aktive Personen wie Abgeordnete, sonstigen
-Mandatsträgern, Parteimitgliedern, oder deren Verwandten- Freundes- und
+strafrechtlichen Ermittlungsverfahren durch Software wie PG o. Ä. in
+Bezug auf politisch aktive Personen wie Abgeordnete, sonstige
+Mandatsträger, Parteimitglieder oder deren Verwandten-, Freundes- und
 Bekanntenkreis?
- 5. Werden gegebenenfalls durch Software wie PG o. ä. personenbezogene 
+ 5. Werden gegebenenfalls durch Software wie PG o. Ä. personenbezogene 
 Merkmale mit Bezug zu parteipolitischer Betätigung in Deutschland
 verarbeitet, etwa Angaben zu Mitgliedschaften in Parteien oder sonstigen 
 politischen Organisationen, zu den dortigen Funktionen und Aufgaben, zu 
 Kandidaturen für öffentliche Wahlen oder zur Teilnahme an
 Parteiveranstaltungen?
  6. Werden nach Kenntnis der Bundesregierung gegebenenfalls durch
-Software wie PG o. ä. Profile oder sonstige Auswertungen von politischen 
-Persönlichkeiten erstellt und in Deutschland genutzt, die u. a, deren
+Software wie PG o. Ä. Profile oder sonstige Auswertungen von politischen 
+Persönlichkeiten erstellt und in Deutschland genutzt, die u. a. deren
 politische Funktionen, Mandate, Ansichten oder Kontaktpersonen darstellen?
  7. Werden im Fall der Beobachtung politisch aktiver Personen in
 Deutschland durch deutsche Nachrichtendienste im Rahmen von möglichen
-Auswertungen mit Systemen wie PG o. ä. auch Daten über das private und 
+Auswertungen mit Systemen wie PG o. Ä. auch Daten über das private und 
 berufliche Umfeld dieser Personen verarbeitet, insbesondere über
 Ehepartner, Kinder, andere Verwandte, enge Freunde sowie berufliche Kontakte?
  8. Nach welchen Kriterien wird gegebenenfalls entschieden, ob solche Daten 
@@ -93,21 +91,19 @@ Hinblick auf Personen, die einem besonderen Berufsgeheimnis unterliegen,
 insbesondere Abgeordnete, Journalisten, Rechtsanwälte sowie Geistliche?
 10. Welche rechtlichen, technischen und organisatorischen Vorkehrungen
 bestehen, um eine Nutzung von personenbezogenen Daten aus
-Datenbeständen der Polizei oder Nachrichtendiensten anderer Staaten für
-Auswertungen der Nachrichtendienste des Bundes und nach Kenntnis der Bundes-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-regierung der Länder bzw. vice versa verfassungskonform zu
+Datenbeständen der Polizei oder von Nachrichtendiensten anderer Staaten für
+Auswertungen der Nachrichtendienste des Bundes und nach Kenntnis der
+Bundesregierung der Länder bzw. vice versa verfassungskonform zu
 beschränken?
 11. Welche Kontroll- und Korrekturmechanismen bestehen in Bezug auf die 
-Beauftragung und Nutzung von Auswertungen in oben abgefragten
+Beauftragung und Nutzung von Auswertungen in oben erfragten
 Sachverhalten?
-12. Welche Möglichkeiten existieren für potentiell Betroffene im Sinne der 
+12. Welche Möglichkeiten existieren für potenziell Betroffene im Sinne der 
 Fragen 4 bis 9 gegebenenfalls, Auskunft über das Ausmaß der
-Auswertung ihrer personenbezogenen Daten durch Software wie PG o. ä. zu
+Auswertung ihrer personenbezogenen Daten durch Software wie PG o. Ä. zu
 erhalten?
 13. In welcher Größenordnung sind nach Kenntnis der Bundesregierung
-gegebenenfalls Personen von Auswertungen mit Systemen wie PG o. ä.
+gegebenenfalls Personen von Auswertungen mit Systemen wie PG o. Ä.
 betroffen, die lediglich in einer verwandtschaftlichen oder sonstigen
 persönlichen Beziehung zu politisch aktiven Personen stehen?
 14. In welchem Umfang wird das System „Datenanalyse und Recherche“ in 
@@ -124,7 +120,7 @@ und wie wird dort sichergestellt, dass das Trennungsgebot zwischen
 Polizei und Nachrichtendiensten eingehalten wird und die gesetzlichen
 Vorgaben zur Beobachtung politischer Aktivitäten beachtet werden?
 16. Welche verfassungsrechtlichen Bewertungen liegen der Bundesregierung 
-gegebenenfalls zum Einsatz der Datenanalyseplattformen wie PG o. ä. 
+gegebenenfalls zum Einsatz der Datenanalyseplattformen wie PG o. Ä. 
 durch deutsche Sicherheitsbehörden und Nachrichtendienste in
 Deutschland vor, insbesondere im Hinblick auf Datenschutz, informationelle 
 Selbstbestimmung, das Trennungsgebot zwischen Polizei und
@@ -132,10 +128,6 @@ Nachrichtendiensten und die Bindung der Nachrichtendienste an die freiheitliche
 demokratische Grundordnung?
 Berlin, den 9. März 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
