@@ -1,0 +1,339 @@
+Deutscher Bundestag Drucksache 21/5271
+21. Wahlperiode 07.04.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Sonja Lemke, Anne-Mieke Bremer, 
+Clara Bünger, weiterer Abgeordneter und der Fraktion Die Linke
+– Drucksache 21/4817 –
+Pläne für eine europäische KI-Gigafabrik in Deutschland
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die EU-Kommission plant, bis zu fünf sogenannte KI-Gigafabriken zu
+unterstützen, große Rechenzentren mit mehr als 100 000 spezialisierten
+Hochleistungsprozessoren (GPUs), die für Entwicklung, Training und Ausführung sehr 
+großer KI-Modelle geeignet sind. Die Kosten veranschlagt sie – bei einer
+vorgesehenen Laufzeit von zunächst fünf Jahren – bei etwa 3 bis 5 Mrd. Euro pro 
+Fabrik. Die öffentliche Finanzierung und Auswahl der Vorhaben soll über 
+das Gemeinsame Unternehmen für europäisches Hochleistungsrechnen 
+(EuroHPC) erfolgen, wobei der EU-Anteil jeweils durch einen
+Mitgliedstaatenanteil in mindestens gleicher Höhe ergänzt wird und der größere Teil der 
+Finanzierung über ein Konsortium mit privater Beteiligung erfolgt. Der
+Koalitionsvertrag zwischen CDU, CSU und SPD enthält die Ankündigung,
+mindestens eine Gigafabrik nach Deutschland zu holen.
+Bereits von April bis Juni 2025 hat die EU-Kommission nach einem
+entsprechenden Aufruf 76 Interessenbekundungen für KI-Gigafabriken erhalten. Der 
+öffentlichen Berichterstattung ist zu entnehmen, dass sechs
+Interessenbekundungen für Standorte in Deutschland erfolgten, unter anderem von der
+Deutschen Telekom, der Schwarz-Gruppe, Ionos, der bayerischen Landesregierung 
+und Silicon Saxony. Zwischenzeitlich wurde berichtet, dass die Telekom und 
+die Schwarz-Gruppe in Gesprächen für eine gemeinsame Gigafabrik sind.
+Nachdem der Start des eigentlichen Bewerbungsverfahrens ursprünglich für 
+Ende 2025 geplant war, soll er nun im Februar 2026 erfolgen. Noch im
+zweiten Quartal 2026 soll dann die Standortauswahl erfolgen.
+In einer Vorlage an den Haushaltsausschuss des Deutschen Bundestags
+(Ausschussdrucksache 21/3382) gibt die Bundesregierung an, sich mit 805 Mio. 
+Euro aus dem Sondervermögen Infrastruktur und Klimaneutralität am Aufbau 
+einer Gigafabrik beteiligen zu wollen.
+Am 13. Januar 2026 berichtete das „Handelsblatt“, dass die Bundesregierung 
+für den 14. Januar 2026 Staatssekretäre von Bund und Ländern sowie
+Industrievertreter zu einer sechsstündigen Workshop-Sitzung beim
+Bundesministerium für Digitales und Staatsmodernisierung eingeladen habe. Inhalte seien 
+insbesondere die Ausgestaltung der Bund-Länder-Koordination und die
+technischen Bedarfe, Ziel sei insbesondere ein „internes Commitment, Bedarfe an 
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Forschung, Technologie und 
+Raumfahrt vom 2. April 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+Rechenleistungen von Bund und Ländern auf eine deutsche AI Gigafactory zu 
+lenken“. Bereits im Vorfeld des Treffens sei der Bedarf der Länder an GPUs 
+abgefragt worden.
+ 1. Wie sind die Zuständigkeiten und Federführungen innerhalb der
+Bundesregierung beim Thema KI-Gigafabrik verteilt, insbesondere in der
+Abgrenzung zwischen dem Bundesministerium für Forschung, Technologie 
+und Raumfahrt und dem Bundesministerium für Digitales und
+Staatsmodernisierung?
+Nach dem Organisationserlass des Bundeskanzlers vom 6. Mai 2025 liegt die 
+Zuständigkeit und damit Federführung beim Bundesministerium für Forschung, 
+Technologie und Raumfahrt (BMFTR). Auf EU-Ebene vertritt das BMFTR die 
+deutschen Interessen im Verwaltungsrat des Gemeinsamen Unternehmens für 
+europäisches Hochleistungsrechnen (EuroHPC JU). Die Initiative berührt
+darüber hinaus die inhaltliche Zuständigkeit weiterer Ressorts, insbesondere des 
+Bundesministeriums für Digitales und Staatsmodernisierung (BMDS).
+Zwischen dem BMFTR und dem BMDS besteht zur Schlüsseltechnologie KI im 
+Rahmen der Hightech Agenda Deutschland ein enger Austausch, so auch zur 
+Maßnahme KI-Gigafabriken (AIGF für „AI Gigafactory“).
+ 2. Welche Interessenbekundungen für Standorte in Deutschland sind nach 
+Kenntnis der Bundesregierung im Rahmen des Calls von April bis Juni 
+2025 gegenüber der EU-Kommission erfolgt?
+ 3. Welche Angaben wurden nach Kenntnis der Bundesregierung bei den in 
+Frage 2 erfragten Interessenbekundungen jeweils gemacht zu
+a) beabsichtigten Trägern und Investoren,
+b) Standort,
+c) gegebenenfalls bereits vorhandener Infrastruktur,
+d) Gesamtkosten, Anteil von Kapital- und Betriebskosten und
+erwarteten privaten Investitionen und Bedarf an öffentlichen Investitionen,
+e) Energiebedarf und Nachhaltigkeit der Energie- und
+Wasserversorgung sowie
+f) Geschäftsmodell und Preisgestaltung?
+17. Welche Standorte kommen nach Auffassung der Bundesregierung für 
+eine Gigafabrik in Deutschland infrage bzw. stehen zur Diskussion?
+34. Welche Zusagen oder Ankündigungen für Investitionen in eine
+Gigafabrik durch privatwirtschaftliche Akteure liegen der Bundesregierung vor?
+Die Fragen 2, 3, 17 und 34 werden gemeinsam beantwortet.
+Bei dem Aufruf auf europäischer Ebene zur Abgabe von
+Interessenbekundungen mit Fristablauf am 20. Juni 2025 handelte es sich um eine unverbindliche 
+Interessenabfrage, die der Nachfragesondierung und der Klärung der
+geeigneten Anreize für souveräne KI-Infrastrukturen in der Europäischen Union diente. 
+Die im Rahmen dieser Interessenabfrage getätigten Angaben stellen keine 
+rechtsverbindlichen Angebote dar und sind Gegenstand laufender
+Entscheidungsvorbereitungen.
+ 4. Mit welchen privaten und öffentlichen Akteuren hat die Bundesregierung 
+seit April 2025 Gespräche mit Bezug auf eine mögliche Bewerbung für 
+eine KI-Gigafabrik mit Standort in Deutschland geführt (bitte nach
+Termin, Gesprächspartner und Thema aufschlüsseln)?
+13. Mit welchen potenziellen Konsortialpartnern für eine Gigafabrik ist die 
+Bundesregierung im Gespräch?
+Die Fragen 4 und 13 werden gemeinsam beantwortet.
+Die Bundesregierung hat in der Vergangenheit allen Unternehmen und
+Einrichtungen, die sich an die Bundesregierung gewandt haben oder von deren
+Interesse sie im Rahmen des Interessenaufrufs auf europäischer Ebene Kenntnis
+erlangt hat, Gesprächsangebote gemacht und ist diesen bei Nachfrage
+nachgekommen. Die Gespräche sind Gegenstand laufender
+Entscheidungsvorbereitungen.
+ 5. Was ist nach Kenntnis der Bundesregierung der Stand der Gespräche 
+zwischen Telekom, Schwarz-Gruppe und gegebenenfalls weiteren
+potenziellen Konsortialpartnern bezüglich einer gemeinsamen Bewerbung, 
+und inwiefern ist die Bundesregierung in diese Gespräche einbezogen?
+Die Bundesregierung ist in mögliche Sondierungs- und Konsortialgespräche 
+von möglichen AIGF-Bewerbern nicht involviert und kann diese nicht
+kommentieren.
+ 6. Wer wurde zu dem Workshoptermin im Bundesministerium für Digitales 
+und Staatsmodernisierung, am 14. Januar 2026 eingeladen und welche 
+Akteure waren dort vertreten?
+ 7. Welche Ergebnisse hatte dieser Termin, insbesondere was das interne 
+Commitment von Bund und Ländern angeht, als Ankerkunden
+aufzutreten?
+Die Fragen 6 und 7 werden gemeinsam beantwortet.
+Der Termin am 14. Januar 2026 diente dem Austausch zum Stand des
+Verfahrens zum Aufbau einer AI Gigafactory. Die Gesprächsinhalte sind Gegenstand 
+laufender Entscheidungsvorbereitungen.
+ 8. Wann und mit welcher Frist wurden Bedarfe an GPUs bzw.
+Rechenleistung der Bundesländer abgefragt, und welche sind gemeldet worden 
+(bitte nach Bundesland und, soweit möglich, Bedarfsträger bzw.
+Verwendungszweck aufschlüsseln)?
+ 9. Von welchen eigenen Bedarfen oder Bedarfen anderer öffentlicher
+Stellen auf Bundesebene an GPUs bzw. Rechenleistung, die von einer
+Gigafabrik gedeckt werden könnten, geht die Bundesregierung aus, und 
+welche Abfragen mit welchen Fristen hat sie in diesem Zusammenhang 
+ggf. durchgeführt?
+Die Fragen 8 und 9 werden gemeinsam beantwortet.
+Zur Vorbereitung des Termins am 14. Januar 2026 erfolgten Anfragen an die 
+Bundesländer und an die anderen Bundesressorts nach potentiellen Bedarfen 
+zur Nutzung der AI Gigafactory für die öffentliche Verwaltung. Die
+Bundesregierung geht davon aus, dass es mit dem im Falle der erfolgreichen Auswahl
+eines deutschen Standortes zur Verfügung stehenden Rechenzeitkontingent des 
+Bundes auf der AIGF möglich sein wird, einen Teil der aktuellen Bedarfe der 
+öffentlichen Bundesverwaltung abzudecken. Hinzuweisen ist dabei darauf, dass 
+sich die Bedarfe an Rechenzeit sowie die Leistungsfähigkeit von GPUs
+dynamisch ändern. Hinsichtlich der Bedarfe der Bundesländer wird an diese
+verwiesen.
+10. Von welchen Bedarfen an GPUs bzw. Rechenleistung von
+Wissenschaftseinrichtungen, die von einer Gigafabrik gedeckt werden könnten, 
+geht die Bundesregierung aus?
+Die Bundesregierung geht davon aus, dass es mit dem im Falle der
+erfolgreichen Auswahl eines deutschen Standortes zur Verfügung stehenden
+Rechenzeitkontingent des Bundes auf der AIGF möglich sein wird, mehrere große und 
+kleine KI-Modelle zu entwickeln. Hinzuweisen ist dabei darauf, dass sich die 
+Bedarfe an Rechenzeit für das Training von KI-Modellen sowie die
+Leistungsfähigkeit von GPUs dynamisch ändern und daher konkrete Angaben derzeit 
+nicht möglich sind.
+11. Welche Pläne verfolgt die Bundesregierung in Bezug auf eine von ihr 
+mitgetragene Bewerbung für eine Gigafabrik in Deutschland,
+insbesondere was den weiteren Zeitplan angeht?
+Eine AI Gigafactory ist kommerziell angelegt, so dass privatwirtschaftliche
+Betreiber und Investoren gesucht werden. Der weitere Zeitplan obliegt daher in 
+erster Linie dem potentiellen Betreiber im Rahmen der
+Wettbewerbsbedingungen auf EU-Ebene. Die Wettbewerbsbedingungen befinden sich aktuell in
+Abstimmung und können von der Bundesregierung nicht kommentiert werden.
+12. Gibt es vonseiten der Bundesregierung Pläne oder Erwägungen für eine 
+Kooperation mit anderen Mitgliedstaaten bei der Bewerbung für eine
+Gigafabrik?
+Die Bundesregierung hat im Rahmen der Vorbereitung des
+Wettbewerbsverfahrens Gespräche mit anderen Mitgliedstaaten geführt. Die Inhalte sind
+Gegenstand laufender Entscheidungsvorbereitung.
+14. Plant oder erwägt die Bundesregierung, selbst Konsortialpartner einer 
+Gigafabrik zu werden, und wenn ja, in welchem Umfang?
+Die AIGF-Initiative ist kommerziell angelegt, so dass privatwirtschaftliche
+Betreiber und Investoren gesucht werden. Die Bundesregierung beabsichtigt nicht, 
+selbst Konsortialpartner einer AIGF zu werden.
+15. Plant oder erwägt die Bundesregierung, selbst Eigentumsanteile an einer 
+Gigafabrik oder ihrer Recheninfrastruktur zu halten, und wenn ja, in
+welchem Umfang?
+Die Bundesregierung plant nicht, Eigentumsanteile an einer Gigafabrik oder 
+ihrer Recheninfrastruktur zu halten.
+16. Sind der Bundesregierung Pläne anderer öffentlicher Stellen für eine
+direkte Beteiligung an einem Gigafabrik-Konsortium bekannt?
+31. Welche Pläne anderer öffentlicher Stellen, Unterstützungen im Sinne von 
+Frage 30 zu leisten, sind der Bundesregierung bekannt?
+Die Fragen 16 und 31 werden gemeinsam beantwortet.
+Im Rahmen des oben genannten Aufrufs auf EU-Ebene hat auch die Bayerische 
+Landesregierung eine Interessenbekundung abgegeben.
+18. In welchem Verfahren und nach welchen Kriterien soll die Entscheidung 
+für einen oder mehrere Gigafabrik-Standorte in Deutschland gefällt
+werden?
+Das Verfahren zur Auswahl der Standorte wird auf EU-Ebene durchgeführt. 
+Die entsprechenden Unterlagen für das Standortauswahlverfahren befinden sich 
+derzeit auf EU-Ebene in Abstimmung.
+19. Nach welchem Verfahren bzw. Schlüssel plant die Bundesregierung, die 
+ihr zustehende Zugriffszeit an einer Gigafabrik in Deutschland zu
+verteilen, insbesondere für den Fall, dass die Nachfrage privilegierter
+Zugriffsberechtigter die Zugriffskontingente übersteigt?
+20. Plant die Bundesregierung, analog zu den Regelungen für die
+europäische Zugriffszeit sicherzustellen, dass der Zugang innerhalb der ihr
+zustehenden Zugriffszeit für öffentliche oder anderweitig privilegierte
+Stellen kostenlos ist, und wenn nein, welche anderen Regelungen zur
+Vergütung strebt sie an?
+21. Geht die Bundesregierung davon aus, dass sie oder andere öffentliche 
+Stellen Rechenleistung aus einer Gigafabrik in Deutschland außerhalb 
+der deutschen oder europäischen Zugriffszeit nachfragen wird bzw.
+werden, und wenn ja, in welchem Umfang?
+Die Fragen 19 bis 21 werden gemeinsam beantwortet.
+Da es noch nicht zu abschließenden Auswahlentscheidungen auf EU-Ebene für 
+die Errichtung einer AIGF in Deutschland gekommen ist, hat die
+Bundesregierung noch kein konkretes Verfahren für ihr potentiell zustehende
+Rechenzeitkontingente festgelegt.
+22. Wie plant die Bundesregierung zu gewährleisten, dass eine Gigafabrik in 
+Deutschland – wie in der europäischen Verordnung vorgesehen – über 
+eine ökologisch nachhaltige Infrastruktur versorgt wird, insbesondere 
+was Energie- und Wasserversorgungssysteme anbelangt?
+a) Ist nach dem Verständnis der Bundesregierung das Kriterium der 
+ökologischen Nachhaltigkeit der Energieversorgung erfüllbar, wenn 
+eine Gigafabrik Strom aus fossilen Quellen bezieht, diese aber durch 
+den Erwerb von Zertifikaten oder andere Ausgleichsmaßnahmen 
+kompensiert?
+b) Ist nach dem Verständnis der Bundesregierung das Kriterium der 
+ökologischen Nachhaltigkeit der Energieversorgung erfüllbar, wenn 
+eine Gigafabrik keine neuen Quellen erneuerbarer Energie im
+Umfang ihres Energiebedarfs finanziert?
+c) Handelt es sich nach Auffassung Bundesregierung bei den Kriterien 
+des Blauen Engels für Rechenzentren (DE-ZU (Deutsches
+Umweltzeichen) 228) für einen geeigneten Maßstab zur Beurteilung der 
+Frage, ob eine Gigafabrik über eine ökologisch nachhaltige
+Infrastruktur versorgt wird, und strebt sie diese oder eine vergleichbare 
+Zertifizierung an?
+d) Ist nach Auffassung der Bundesregierung insbesondere die Nutzung 
+der entstehenden Abwärme ein notwendiges Kriterium für eine
+ökologisch nachhaltige Infrastruktur?
+Die Fragen 22 bis 22d werden gemeinsam beantwortet.
+Die Bedingungen für das Standortauswahlverfahren werden auf EU-Ebene
+festgelegt. Ausweislich der Änderungen der Rechtsverordnung von EuroHPC, die 
+am 20. Januar 2026 in Kraft getreten sind, ist das Kriterium der Nachhaltigkeit 
+und Energieeffizienz eines der Auswahlkriterien im Wettbewerb. Die nähere 
+Ausgestaltung der Auswahlkriterien erfolgt im Rahmen der laufenden
+Verhandlungen der Vergabeunterlagen. Im Übrigen müssen Betreiber von
+Rechenzentren in Deutschland u. a. die Anforderungen des Energieeffizienzgesetzes
+einhalten, was insbesondere Energieeffizienz, Erneuerbare Energien und
+Abwärmenutzung anbetrifft. Darüber hinaus bietet der Blaue Engel für Rechenzentren 
+eine Orientierung bei der Planung von Gigafabriken. Der Blaue Engel ist das 
+Umweltzeichen der Bundesregierung und dient der Auszeichnung der besten 
+Produkte bzw. Rechenzentren, was über die Einhaltung rechtlicher
+Anforderungen hinausgeht. Eine Pflicht zur Zertifizierung besteht nicht.
+23. Von welcher Leistungsfähigkeit (in GPUs oder anderen Maßen für
+Rechenleistung) geht die Bundesregierung in Bezug auf eine Gigafabrik in 
+Deutschland aus?
+Die Bundesregierung schließt sich der Aussage der Europäischen Kommission 
+an, dass eine Gigafabrik mindestens drei- bis viermal so viel Rechenleistung 
+wie in den KI-Fabriken aufweisen sollte. Die nähere Ausgestaltung erfolgt im 
+Rahmen der laufenden Verhandlungen der Wettbewerbsunterlagen.
+24. Von welchem Energiebedarf geht die Bundesregierung in Bezug auf eine 
+Gigafabrik in Deutschland aus?
+Entsprechend der Aussage zur Europäischen Kommission zur Größe bzw.
+Leistungsfähigkeit einer Gigafabrik ist von einem Energiebedarf von etwa viermal 
+über dem Bedarf einer KI-Fabrik und damit einer Anschlussleistung von
+deutlich über 50 Megawatt auszugehen. Die genaue Anschlussleistung sowie der 
+tatsächliche Energiebedarf werden von zahlreichen Faktoren abhängen.
+Genauere Angaben sind frühestens in Kenntnis konkreter Angebote im Rahmen 
+des Förderaufrufs möglich.
+25. Von welchem Gesamtfinanzierungsbedarf geht die Bundesregierung in 
+Bezug auf eine Gigafabrik in Deutschland aus?
+Die Bundesregierung verweist hier auf die Schätzung der Europäischen
+Kommission, die die Investitionskosten für den Aufbau einer AI Gigafactory auf 
+4 bis 5 Mrd. Euro beziffert hat.
+26. Welcher Anteil dieses Gesamtfinanzierungsbedarfs entfällt jeweils auf 
+Kapitalkosten (bitte Kosten für Rechnerhardware separat ausweisen) und 
+Betriebskosten (bitte Energiekosten separat ausweisen)?
+Die Bundesregierung geht davon aus, dass ein wichtiger Teil des
+Finanzierungsbedarfs auf die Kapitalkosten entfallen wird. Die exakte Kalkulation hat 
+von den privaten Betreibern und Investoren im Rahmen ihrer Angebote zu
+erfolgen.
+27. Von welchem europäischen Finanzierungsbeitrag an einer Gigafabrik in 
+Deutschland geht die Bundesregierung aus?
+28. Handelt es sich bei den 805 Mio. Euro aus dem Sondervermögen um den 
+gesamten deutschen Finanzierungsbeitrag an einer geplanten Gigafabrik, 
+und wenn nein, welche weiteren Mittel sind hierfür vorgesehen?
+30. Inwieweit und in welchem finanziellen Umfang plant oder erwägt die 
+Bundesregierung, eine Gigafabrik in Deutschland über einen direkten
+finanziellen Beitrag hinaus zu unterstützen, insbesondere durch
+Mindestabnahmen, Kredite, Bürgschaften, Haftungsübernahmen,
+Steuererleichterungen oder andere De-Risking-Instrumente?
+33. Von welcher Obergrenze für den Gesamtanteil öffentlicher Finanzierung 
+geht die Bundesregierung für europäische Gigafabriken aus, und
+inwieweit sind nach ihrem Verständnis Unterstützungen im Sinne von 
+Frage 30 und Frage 31 bei der Berechnung dieses Anteils zu
+berücksichtigen?
+35. Plant die Bundesregierung, sicherzustellen, dass im Fall von
+Kostensteigerungen bei Infrastrukturbeschaffung oder Bau, die über den geplanten 
+Finanzrahmen einer Gigafabrik in Deutschland hinausgehen, diese
+Mehrkosten durch das Konsortium getragen werden, ohne dass weitere
+Haushaltsmittel benötigt werden, und wenn ja, wie?
+Die Fragen 27, 28, 30, 33 und 35 werden gemeinsam beantwortet.
+Die Bundesregierung hat mit dem Betrag im Sondervermögen in Höhe von 
+805 Mio. Euro Vorsorge für einen Finanzierungsbeitrag für eine AIGF in 
+Deutschland getroffen. Ausweislich der Änderungen der Rechtsverordnung von 
+EuroHPC, die am 20. Januar 2026 in Kraft getreten sind, finanzieren die EU 
+und die jeweiligen Partnerstaaten die AIGF im selben Umfang.
+29. Plant oder erwägt die Bundesregierung, einen Teil ihres
+Finanzierungsbeitrags in Form eines vorab vereinbarten garantierten Erwerbs von
+Zugriffszeit zu leisten, und wenn ja, in welchem Umfang, und sind die
+entsprechenden Mittel in den angekündigten 805 Mio. Euro aus dem
+Sondervermögen enthalten?
+Auf welche Art und Weise die Mitgliedstaaten ihre Finanzierungsbeiträge
+leisten können, ist aktuell Gegenstand der Abstimmung der Vergabeunterlagen. 
+Aufgrund der nicht abgeschlossenen Verhandlungen kann sich die
+Bundesregierung hierzu nicht äußern.
+32. Inwieweit sind Unterstützungsleistungen im Sinne von Frage 30 in den 
+805 Mio. Euro aus dem Sondervermögen oder an anderer Stelle im 
+Haushalt abgebildet?
+Es wird auf die Antworten zu den Fragen 30 und 31 verwiesen.
+36. Plant die Bundesregierung, sicherzustellen, dass das Gigafabrik-
+Konsortium hinreichende finanzielle Rücklagen bildet, um im Falle einer
+Stilllegung die dafür anfallenden Kosten vollständig tragen zu können, und 
+wenn ja, wie?
+Ausweislich der Änderungen der Rechtsverordnung von EuroHPC, die am 
+20. Januar2026 in Kraft getreten sind, ist die finanzielle Leistungsfähigkeit des 
+AI Gigafactory Konsortiums eines der Auswahlkriterien im Wettbewerb. Die 
+nähere Ausgestaltung der Auswahlkriterien erfolgt im Rahmen der laufenden 
+Verhandlungen der Vergabeunterlagen.
+37. Existieren bereits Überlegungen seitens der Bundesregierung, welche 
+Chip-Generationen von Grafikeinheiten in einer Gigafabrik in
+Deutschland zum Einsatz kommen sollen, und wenn ja, welche?
+Die konkreten Leistungsanforderungen an die AIGF sind Gegenstand der
+Abstimmungen der Vergabeunterlagen. Aufgrund der nicht abgeschlossenen
+Verhandlungen kann sich die Bundesregierung hierzu nicht äußern.
+38. Inwieweit hat bei den bisherigen Gesprächen zur Gigafabrik, an denen 
+die Bundesregierung beteiligt war oder von denen sie Kenntnis hat,
+bereits eine Verständigung über den Bezug der nötigen Hardware
+stattgefunden?
+Die Auswahl der Hardware obliegt dem privaten Konsortium. Hierzu ist in der 
+geänderten Rechtsverordnung von EuroHPC festgelegt, dass ein
+Technologielieferant entweder Teil eines Konsortiums werden kann oder im Rahmen eines 
+fairen und transparenten Verfahrens auszuwählen ist.
+39. Sind im Zusammenhang mit der Hardwarebeschaffung für die Gigafabrik 
+Auflagen zur technischen Souveränität geplant, welche Hersteller
+begünstigen oder ausschließen?
+Ausweislich der Änderungen der Rechtsverordnung von EuroHPC, die am 
+20. Januar2026 in Kraft getreten sind, ist der Mehrwert der AIGF für die Union 
+einschließlich des Beitrags zur strategischen Autonomie und technologischen 
+Souveränität eines der Auswahlkriterien im Wettbewerb. Im Übrigen wird auf 
+die Antwort zu Frage 37 verwiesen.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
