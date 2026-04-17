@@ -1,0 +1,494 @@
+Deutscher Bundestag Drucksache 21/5274
+21. Wahlperiode 07.04.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Robin Jünger, Ruben Rupp, Alexander 
+Arpaschi, weiterer Abgeordneter und der Fraktion der AfD
+– Drucksache 21/4829 –
+Stand und Steuerung des Glasfaser-, Mobilfunk- und satellitengestützten 
+Breitbandausbaus in Deutschland
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Eine leistungsfähige, resiliente und flächendeckende digitale Infrastruktur ist 
+Grundvoraussetzung für Wettbewerbsfähigkeit, wirtschaftliche
+Wertschöpfung, moderne Daseinsvorsorge sowie die Funktionsfähigkeit eines digital 
+handlungsfähigen Staates. Der Ausbau gigabitfähiger Netze (insbesondere 
+Glasfaser bis in Gebäude bzw. Wohnungen) wird von der Bundesregierung 
+seit Jahren als politisches Kernziel benannt (www.bundesregierung.de/breg-d
+e/aktuelles/stand-glasfaserausbau-2364444). Zugleich ist in der Praxis
+weiterhin erkennbar, dass Genehmigungs- und Ausbauprozesse vielfach als
+langwierig wahrgenommen werden und die Transparenz über den tatsächlichen
+Fortschritt aus Sicht der Fragesteller nicht ausreicht, um Wirksamkeit, Effizienz 
+und Zielerreichung belastbar zu bewerten.
+Das Bundesministerium für Digitales und Staatsmodernisierung (BMDS)
+beschreibt seine Zuständigkeit für den Bereich „Digitale Infrastrukturen“
+ausdrücklich als Verbesserung der Rahmenbedingungen für den Ausbau von 
+Glasfaser und 5G (https://bmds.bund.de/themen/digitale-infrastrukturen). 
+Gleichzeitig verweist die Bundesregierung im Kontext der Gigabitpolitik auf 
+Informations- und Planungsinstrumente wie das Gigabit-Grundbuch und den 
+Breitbandatlas (https://gigabitgrundbuch.bund.de/GIGA/DE/_Home/start.html 
+sowie https://gigabitgrundbuch.bund.de/GIGA/DE/Breitbandatlas/start.html). 
+Diese Instrumente können staatliches Controlling, Priorisierung von
+Fördermitteln und die transparente Erfolgskontrolle nur dann unterstützen, wenn
+Datenqualität, Aktualität, Plausibilitätsprüfungen und die Abbildung tatsächlich 
+anschlussfähiger bzw. genutzter Anschlüsse nachvollziehbar sind.
+Mit dem Bericht zum Stand des Glasfaserausbaus in Deutschland hat das 
+BMDS zwar eine umfangreiche Bestandsaufnahme vorgelegt, dennoch stellt 
+sich die Frage, ob die Bundesregierung auf Basis dieses Berichts eine
+hinreichend konkrete, terminierte Steuerung der Zielerreichung vornimmt. Hinzu 
+kommt, dass die öffentliche Debatte regelmäßig zwischen „Verfügbarkeit“, 
+„Ausbaufortschritt“, „Anschlussfähigkeit“ und tatsächlicher Nutzung
+unterscheidet. Ohne eine klare, bundeseinheitliche Definition und Veröffentlichung 
+zentraler Kennzahlen (z. B. anschlussbereite Haushalte, aktive Anschlüsse, 
+Ausbau je Gemeindeprägung) bleibt der politische Anspruch aus Sicht der 
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Digitales und 
+Staatsmodernisierung vom 7. April 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+Fragesteller schwer überprüfbar. (https://bmds.bund.de/fileadmin/BMDS/Dok
+umente/Bericht-Glasfaserausbau-V10-SCREEN-BF-Maps-highres.pdf).
+Zudem ist der Netzausbau nicht allein auf leitungsgebundene Technologien 
+beschränkt. Gerade für abgelegene Regionen, temporäre Lagen und
+Resilienzanforderungen können satellitengestützte Breitbandzugänge eine ergänzende 
+Rolle spielen, wobei hierfür insbesondere Frequenzregulierung,
+Erdfunkstellen, Satellitenfunknetze und nationale Verfahren relevant sind (www.bundesne
+tzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwe
+ndungen/SatFu/start.html sowie www.bundesnetzagentur.de/DE/Fachthemen/
+Telekommunikation/Frequenzen/SpezielleAnwendungen/SatFu/Erdfunk/artik
+el.html).
+Auf EU-Ebene existiert zudem mit dem „Union Secure Connectivity
+Programme“ ein Rechtsrahmen für sichere Konnektivitätsdienste (IRIS2), der auf
+staatliche und kritische Bedarfe abzielt (https://eur-lex.europa.eu/legal-content/DE/
+TXT/PDF/?uri=CELEX:32023R0588). Für eine moderne Staatsdigitalisierung 
+ist aus Sicht der Fragesteller relevant, ob und wie die Bundesregierung
+leitungsgebundene Ausbauziele, Mobilfunkversorgung, neue Netztechnologien 
+und satellitengestützte Ergänzungen in einer kohärenten, überprüfbaren
+Gesamtstrategie zusammenführt.
+Vor diesem Hintergrund besteht seitens der Fragesteller ein erhebliches
+parlamentarisches Aufklärungsinteresse an belastbaren, regionalisierten Daten, an 
+der haushalts- und förderrechtlichen Steuerung, an der Umsetzung
+europäischer Vorgaben, an der Verwaltungsbeschleunigung sowie an der Frage, 
+welche international erprobten, EU-rechtlich belastbaren Best-Practice-
+Ansätze geprüft und gegebenenfalls übernommen werden.
+ 1. Wie viele Haushalte und Unternehmen sind nach Kenntnis der
+Bundesregierung aktuell nicht mit Glasfaser bis ins Gebäude bzw. in die
+Wohnung (Fibre to the Building (FTTB) bzw. Fibre to the Home (FTTH)) 
+versorgt (bitte nach Bundesländern sowie Landkreisen bzw. kreisfreien 
+Städten aufschlüsseln und den Stand der Datenerhebung unter Angabe 
+der Datenquelle, z. B. Breitbandatlas im Gigabit-Grundbuch, benennen)?
+Die Auswertungen zu den Unterversorgungen von Haushalten und
+Unternehmen nach Bundesländern, Landkreisen und kreisfreien Städten sowie weitere 
+Informationen bis runter auf die Gemeindeebene sind im Breitbandatlas des
+Gigabit-Grundbuchs (https://gigabitgrundbuch.bund.de/GIGA/DE/Breitbandatlas/
+start.html) halbjährlich aktualisiert öffentlich verfügbar (aktueller Stand Juni 
+2025).
+ 2. Welche Arbeitsdefinitionen verwendet die Bundesregierung für die
+Begriffe „anschlussfähig“, „ausgebaut/versorgt“ und „genutzt“ im Kontext 
+des Glasfaserausbaus, und welche Kennzahlen veröffentlicht sie hierzu 
+regelmäßig (bitte jeweils die Rechts- bzw. Verwaltungsvorschrift oder
+interne Leitlinie benennen, sofern vorhanden)?
+Im Gigabit-Grundbuch werden die genannten Begriffe nicht dezidiert definiert. 
+Informationen zum Breitbandausbau im Breitbandatlas des Gigabit-
+Grundbuchs beruhen gemäß § 80 Absatz 1 des Telekommunikationsgesetzes (TKG) 
+auf der Erhebung der örtlichen Verfügbarkeit öffentlicher
+Telekommunikationsnetze. Die Daten beziehen sich dabei auf einzelne Adressen. Bislang gilt eine 
+jeweilige Adresse danach als mit Glasfaser ausgebaut/versorgt, wenn sie
+mindestens homes passed versorgt ist. Die Definition von homes passed entstammt 
+der Gigabitförderung nach Leitfaden zur Gigabit-Richtlinie 2.0 des BMDV 
+vom 24 April 2023 (https://aconium.eu/wp-content/uploads/2023/05/gigabitfoe
+rderung-leitfaden-2.0.pdf).
+Mit der Datenerhebung zum Stichtag 30. Juni 2026 wird der Grad der
+Versorgung nach Glasfaser homes passed oder den homes connected-Kategorien 
+FTTB und FTTH gesondert erfasst. Dies entspricht sinngemäß den Begriffen 
+„anschlussfähig“ und „ausgebaut/versorgt“. Einzelheiten sind den
+Datenlieferungsbestimmungen des Breitbandatlas zu entnehmen (https://gigabitgrundbuc
+h.bund.de/GIGA/DE/Breitbandatlas/Dokumente/Datenlieferungsbestimmunge
+n.pdf).
+Eine Definition zu „genutzt“ existiert im Kontext des Gigabit-Grundbuchs 
+nicht.
+ 3. Welche konkreten, terminierten Zielpfade (Jahresmeilensteine) hat die 
+Bundesregierung zur Erreichung ihrer Gigabit-Ziele festgelegt, und wie 
+verknüpft sie diese Zielpfade mit dem Bericht Stand des
+Glasfaserausbaus in Deutschland?
+Durch die Bundesregierung wurden keine Jahres-Meilensteine zur Erreichung 
+eines Gigabit-Ziels festgelegt.
+ 4. In welchem Umfang wurden seit Beginn der laufenden Legislaturperiode 
+Bundesmittel für den Breitband- bzw. Glasfaserausbau bewilligt,
+gebunden und tatsächlich ausgezahlt (bitte nach Haushaltsjahren,
+Programmlinien, Empfängerkategorien und Bundesländern aufschlüsseln)?
+Seit Beginn der 21. Legislaturperiode wurden im Rahmen der
+Bundesförderprogramme für den Breitbandausbau insgesamt 1 843 580 429,69 Euro 
+Bundesmittel bewilligt und gebunden sowie Bundesmittel in Höhe von 
+1 156 798 539,25 Euro ausgezahlt.
+Im Rahmen der Bundesförderprogramme für den Breitbandausbau ist der
+Zuwendungsempfänger die Gebietskörperschaft, in der das Projektgebiet liegt. 
+Dazu zählen insbesondere Gemeinden bzw. Stadtstaaten sowie rechtlich
+selbständige Bezirke in Städten, Landkreise, kommunale Zweckverbände und
+andere kommunale Gebietskörperschaften bzw. Zusammenschlüsse nach dem
+jeweiligen Kommunalrecht der Länder (z. B. Ämter) sowie Unternehmen in
+ausschließlich öffentlicher Trägerschaft. Im Übrigen wird auf die Anlage zu 
+Frage 4* verwiesen.
+ 5. Wie viele geförderte Ausbauvorhaben wurden nach Kenntnis der
+Bundesregierung seit Beginn der laufenden Legislaturperiode teilweise oder 
+ganz aufgehoben, verzögert, neu zugeschnitten oder nachträglich
+umgeplant, und welche Hauptgründe wurden hierfür dokumentiert (bitte nach 
+Programmlinie und Bundesland aufschlüsseln)?
+Seit Beginn der 21. Legislaturperiode haben Zuwendungsempfänger im
+Rahmen der Bundesförderprogramme für den Breitbandausbau auf die bewilligte 
+Zuwendung von insgesamt 92 Ausbauvorhaben verzichtet. Bei 661
+Ausbauvorhaben erfolgten Änderungen im Projektverlauf. Die Hauptgründe zur Änderung 
+der Ausbauvorhaben sind Anpassungen der Gebietskulisse (Hinzunahme oder 
+Reduktion von Adressen) aufgrund von nachträglichen oder zurückgezogenen 
+eigenwirtschaftlichen Ausbaumeldungen seitens der
+Telekommunikationsunternehmen sowie Verzögerungen im Projektverlauf aufgrund von Verzögerungen 
+in Ausschreibungsverfahren und Umplanungen im Förderprojekt unter Berück-
+* Von einer Drucklegung der Anlage wird abgesehen. Diese ist auf Bundestagsdrucksache 21/5274 auf der Internetseite des Deutschen Bundestages abrufbar.
+sichtigung baulicher Unwägbarkeiten. Im Übrigen wird auf die Anlage zu 
+Frage 5* verwiesen.
+ 6. Welche Maßnahmen hat die Bundesregierung ergriffen, um ineffiziente 
+Parallel- bzw. Doppelausbauten zwischen geförderten und
+eigenwirtschaftlichen Projekten zu vermeiden, und welche quantitativen Kriterien 
+nutzt sie hierfür?
+Für den flächendeckenden Glasfaserausbau setzt die Bundesregierung zuerst 
+auf den eigenwirtschaftlichen Ausbau durch die
+Telekommunikationsunternehmen. Der geförderte Ausbau zielt auf Gebiete ab, in denen ein
+eigenwirtschaftlicher Ausbau in absehbarer Zeit nicht stattfinden wird und ein Marktversagen 
+im Wege eines Markterkundungsverfahrens festgestellt wird. Das
+Markterkundungsverfahren ist eine beihilfenrechtliche Vorgabe und dient der Festlegung 
+des geförderten Projektgebiets. Die Telekommunikationsunternehmen haben im 
+Rahmen des Markterkundungsverfahrens die Möglichkeit, ihre derzeitige
+Versorgung, zugesicherte Maßnahmen zur Aufrüstung von Netzteilen und ihre 
+aktuelle Infrastruktur der öffentlichen Hand offenzulegen sowie die konkreten 
+Ausbaupläne in Form eines projektspezifischen Meilensteinplans hinsichtlich 
+Zeitpunkt und Umfang des Ausbaus der jeweiligen Gebiete vorzulegen. Bei 
+entsprechenden Meldungen durch die Unternehmen ist ein geförderter Ausbau 
+der jeweiligen Adressen ausgeschlossen.
+Vor der Durchführung eines Markterkundungsverfahrens sind zudem
+Branchendialoge mit Telekommunikationsunternehmen durchzuführen. Ziel der 
+Branchendialoge ist es, die Chancen für einen eigenwirtschaftlichen
+Netzausbau in einer Gebietskörperschaft möglichst zu verbessern.
+ 7. Welche bundesseitigen Vorgaben oder Vereinbarungen bestehen nach 
+Kenntnis der Bundesregierung mit Ländern und Kommunen zur
+Beschleunigung von Genehmigungsverfahren (z. B.
+Aufgrabegenehmigungen, Wegerechte), und welche durchschnittlichen Bearbeitungszeiten 
+werden bundesweit beobachtet (bitte nach Bundesländern
+aufschlüsseln)?
+Die Verlegung und Änderung von Telekommunikationslinien in öffentlichen 
+Verkehrswegen richten sich nach § 127 des Telekommunikationsgesetzes 
+(TKG, wegerechtliche Zustimmung). Eine zusätzliche
+„Aufgrabegenehmigung“ nach Landesrecht ist nicht erforderlich; für sie gibt es keine rechtliche 
+Grundlage. Die wegerechtliche Zustimmung wird von dem je nach Einzelfall 
+zuständigen Wegebaulastträger auf Kommunal-, Landes- oder Bundesebene
+erteilt.
+Dem Bund liegen keine bundeslandbezogenen Daten zu den durchschnittlichen 
+Bearbeitungszeiten für etwaige Genehmigungsverfahren zum TK-Netzausbau 
+vor. Die Genehmigungsverfahren zum TK-Netzausbau sind oftmals komplex; 
+es können je nach Einzelfall unterschiedliche Behörden auf Landes- und
+Kommunalebene zuständig sein (z. B. Denkmalschutz, Naturschutz), die
+Bearbeitungszeiten können daher variieren.
+TK-Netzausbauvorhaben liegen seit Inkrafttreten des TKG-Änderungsgesetz 
+2025 im überragenden öffentlichen Interesse. Das bedeutet, dass TK-
+Netzausbauvorhaben in Genehmigungsverfahren regelmäßig ein hohes Gewicht
+zukommen. In der Abwägung überwiegen sie regelmäßig gegenüber anderen
+konkurrierenden öffentlichen Belangen, die nicht im überragenden öffentlichen In-
+* Von einer Drucklegung der Anlage wird abgesehen. Diese ist auf Bundestagsdrucksache 21/5274 auf der Internetseite des Deutschen Bundestages abrufbar.
+teresse stehen. Damit werden etwaig erforderliche Abwägungs- und
+Ermessensentscheidungen (abseits der wegerechtlichen Zustimmung) beschleunigt.
+Im Rahmen der Föderalen Modernisierungsagenda haben Bund und Länder 
+verschiedene Maßnahmen beschlossen, die u. a. auf einen Rückbau von
+Bürokratie und die Beschleunigung von Planungs- und Genehmigungsverfahren
+abzielen (vgl. https://bmds.bund.de/fileadmin/BMDS/Dokumente/Gesetzesvorhab
+en/RefE_TKG-%C3 Prozent84nderungsgesetz_2026.pdf).
+Vor diesem Hintergrund sind im Bereich des TKG verschiedene Änderungen 
+geplant, die mit dem Gesetz zur Änderung des TKG und zur Verbesserung der 
+telekommunikationsrechtlichen Rahmenbedingungen für den TK-Netzausbau 
+(TKG-Änderungsgesetz 2026, vgl. https://bmds.bund.de/service/gesetzgebungs
+verfahren/tkg-aenderungsgesetz-2026) verfolgt werden. Geplant ist u. a. die 
+Prüf- und Entscheidungsfristen zu verkürzen, um das wegerechtliche
+Genehmigungsverfahren weiter zu beschleunigen. Daneben werden sogenannte
+genehmigungsfreie bauliche Maßnahmen definiert, die lediglich einer Anzeige
+bedürfen. Als Alternative zum Genehmigungsverfahren wird ein Anzeigeverfahren 
+vorgeschlagen.
+ 8. Welche konkreten Umsetzungsmaßnahmen plant oder vollzieht die
+Bundesregierung zur Anwendung der Verordnung (EU) 2024/1309 „Gigabit 
+Infrastructure Act“ in Deutschland, insbesondere hinsichtlich
+koordinierter Bauarbeiten, Zugang zu physischer Infrastruktur und „faserfähiger“ 
+Gebäudeinfrastruktur?
+Die Verordnung (EU) 2024/1309 gilt als EU-Verordnung in jedem
+Mitgliedstaat unmittelbar und bedarf keiner Umsetzung in nationales Recht. Der
+nationale Gesetzgeber darf lediglich in den vorgegebenen Grenzen der EU-
+Verordnung konkretisieren und ergänzen und die ihm konkret zugewiesenen
+Handlungsspielräume nutzen. Anpassungen am nationalen Recht sollen mit dem
+Gesetz zur Änderung des TKG und zur Verbesserung der
+telekommunikationsrechtlichen Rahmenbedingungen für den TK-Netzausbau (TKG-
+Änderungsgesetz 2026, vgl. https://bmds.bund.de/service/gesetzgebungsverfahren/tkg-aende
+rungsgesetz-2026) vorgenommen werden.
+Der Zugang zu physischen Infrastrukturen richtet sich unmittelbar nach
+Artikel 3 der Verordnung (EU) 2024/1309. Es ist geplant, diese Regelung national 
+zu ergänzen, indem detailliertere Vorgaben zum Zugangsverfahren gemacht 
+werden. Daneben soll von der Ausnahmemöglichkeit des Artikel 3 Absatz 6 
+der Verordnung (EU) 2024/1309 Gebrauch gemacht werden und das Verfahren 
+zur Ausnahme nach Artikel 3 Absatz 10 der Verordnung (EU) 2024/1309
+ergänzt werden. Im Einzelnen wird auf die §§ 138, 141 TKG-E verwiesen.
+Die Koordinierung von Bauarbeiten richtet sich nach Artikel 5 der Verordnung 
+(EU) 2024/1309. Es ist geplant, die Vorgaben national zu ergänzen, indem
+nähere Anforderungen zum Antrag festgelegt werden und von den
+Ausnahmemöglichkeiten des Artikel 5 der Verordnung (EU) 2024/1309 Gebrauch
+gemacht wird. Im Einzelnen wird auf § 143 TKG-E verwiesen.
+Die Vorgaben für glasfaserfähige gebäudeinterne Infrastrukturen und
+gebäudeinterne Glasfaserverkabelungen richten sich nach Artikel 10 Absatz 1 bis 3 der 
+Verordnung (EU) 2024/1309. Sie sollen national ergänzt werden, indem die 
+Verpflichtungen auch bei nichtgenehmigungspflichtigen
+Baugenehmigungsvorhaben gelten sollen. Zudem sollen bestimmte Kategorien von Gebäuden nach 
+Maßgabe des Artikel 10 Absatz 7 von dieser Verpflichtung ausgenommen
+werden (vgl. im Einzelnen § 145 TKG-E).
+ 9. Welche Prüf-, Plausibilisierungs- und Sanktionsmechanismen setzt die 
+Bundesregierung ein, um die Datenmeldungen für das Gigabit-
+Grundbuch und den Breitbandatlas auf Richtigkeit und Aktualität zu
+überprüfen, und wie häufig erfolgen solche Prüfungen?
+Im Zuge der Datenaufbereitung für das Gigabit-Grundbuch werden
+Datenmeldungen formal und sachlich geprüft sowie insbesondere die Entwicklung der 
+Datenstände – ggf. auch bei den einzelnen Datenlieferanten – einer
+Plausibilitätsprüfung unterzogen. So lassen sich bereits während der iterativen
+Datenvalidierungsprozesse Auffälligkeiten klären. Ergeben sich im Rahmen von
+regelmäßig stattfindenden Abgleichen mit fachverwandten Datenquellen oder durch 
+externe Hinweise, etwa von Landes- oder Kommunalbehörden, sowie von
+Nutzenden Auffälligkeiten, wird diesen darüber hinaus anlassbezogen
+nachgegangen. Die zentrale Informationsstelle des Bundes (ZIS) steht hierfür im direkten 
+Austausch mit den Datenlieferanten und bittet diese ggf. um Stellungnahme 
+bzw. um Korrekturlieferungen.
+Kommen Datenlieferanten ihrer gesetzlichen Verpflichtung zur Datenlieferung 
+an den Infrastrukturatlas beziehungsweise den Breitbandatlas nicht oder nicht 
+ordnungsgemäß nach, kann die ZIS zur Durchsetzung dieser Verpflichtung ein 
+Zwangsgeld androhen und im Anschluss festsetzen.
+10. Beabsichtigt die Bundesregierung, im Rahmen des europäischen
+Rechtsrahmens zum Universaldienst einen nationalen Mindeststandard für 
+einen angemessenen Breitband-Internetzugang festzulegen, und wenn ja, 
+mit welchen Parametern (Down- bzw. Upload, Latenz, Verfügbarkeit, 
+Preis- bzw. Erschwinglichkeitskriterien), und ab wann?
+Die Bundesregierung hat mit Teil 9 des TKG und der ausführenden
+Rechtsverordnung, der TKMV (TK-Mindestversorgungsverordnung), die nationalen 
+Mindeststandards im Einklang mit der Richtlinie (EU) 2018/1972 festgelegt 
+und umgesetzt.
+Seit dem 30. Dezember 2024 gelten folgende Mindestanforderungen für den
+Internetzugangsdienst im Rahmen des Rechts auf Versorgung mit
+Telekommunikationsdiensten:
+• Download: 15 Mbit/s
+• Upload: 5 Mbit/s
+• Latenz: 150 Millisekunden
+Die Grundsätze zur Ermittlung erschwinglicher Preise sowie die Preise selbst 
+werden von der Bundesnetzagentur festgelegt und fortlaufend evaluiert. Derzeit 
+beträgt der erschwingliche Preis für die Grundversorgung rund 35 Euro pro 
+Monat.
+11. Welche Rolle misst die Bundesregierung satellitengestützten
+Breitbandzugängen als Ergänzung zur Glasfaser- und Mobilfunkversorgung bei, 
+und welche bundesseitigen Planungen, Förderansätze oder
+regulatorischen Initiativen bestehen hierzu unter Berücksichtigung der
+Zuständigkeiten der Bundesnetzagentur im Bereich Satellitenfunk?
+Die Bundesregierung sieht satellitengestützte Breitbandzugänge als ergänzende 
+Technologie zur Schließung von Versorgungslücken, nicht als gleichwertigen 
+Ersatz für Glasfaser oder Mobilfunk. Im Rahmen der Gigabitstrategie des
+Bundes gilt Glasfaser als Primärziel; Satellitentechnologie wird vor allem für 
+schwer erreichbare Gebiete (abgelegene Ortschaften, Schifffahrt, Luftfahrt) als
+Übergangslösung oder dauerhaftes Ergänzungsangebot betrachtet, wird aber 
+nicht dieselben Leistungs-Anforderungen erfüllen können. Bundesseitige
+Förderansätze für Satellitenzugänge bestehen nur eingeschränkt.
+12. Welche Abstimmungen führt die Bundesregierung zu Frequenz- und
+Zulassungsfragen für satellitengestützte Breitbandanwendungen (z. B.
+Erdfunkstellen, Schutz bestehender Anlagen) durch, und welche konkreten 
+Ziele verfolgt sie dabei für die Versorgung von „weißen Flecken“?
+Operativ koordiniert die BNetzA Frequenz- und Zulassungsfragen für
+satellitengestützte Breitbandanwendungen auf mehreren Ebenen: International über 
+die ITU (Internationale Fernmeldeunion) und ihre Gremien, europäisch im 
+Rahmen der CEPT und der BEREC-Arbeiten zur Harmonisierung von
+Erdfunkstellenregelungen, national durch Zulassungsverfahren für Erdfunkstellen 
+sowie den Schutz bestehender Richtfunk- und Rundfunkanlagen vor
+Beeinträchtigungen durch neue Satellitensysteme.
+13. Welche Position und welche Nutzungsszenarien verfolgt die
+Bundesregierung im Hinblick auf das EU-Programm für sichere Konnektivität 
+(IRIS2) gemäß Verordnung (EU) 2023/588, insbesondere für kritische 
+Infrastrukturen, Behördenkommunikation und resiliente Ersatz- bzw.
+Ergänzungsanbindungen in Deutschland?
+Der Breitbandausbau in Deutschland erfolgt zu 90 Prozent eigenwirtschaftlich 
+durch private Akteure. Auch in Bezug auf Satellitenkonnektivität gilt das
+Prinzip, dass primär eigenwirtschaftlicher Ausbau und damit der Markt gefragt ist, 
+um Lösungen zu erbringen. Ergänzend plant die Europäische Union ein
+satellitengestütztes Konnektivitätsprogramm IRIS2 (Infrastructure for Resilience,
+Interconnectivity and Security by Satellite). Dies soll als europäische Initiative 
+zur Stärkung sicherer und resilienter Kommunikationsinfrastrukturen die 
+Marktlösungen ergänzen. Dabei versteht die Bundesregierung das Programm 
+nicht alleine als Satellitenkommunikationssystem, sondern auch als „In-Space 
+Data Relay“ zur besseren Vernetzung europäischer Raumfahrtsysteme. Aus 
+deutscher Sicht bestehen wesentliche Nutzungspotenziale insbesondere für die 
+sichere Behördenkommunikation sowie für Anwendungen im Bereich
+Krisenmanagement und Zivilschutz. Zudem kann IRIS2 zur Absicherung kritischer 
+Infrastrukturen durch satellitengestützte Backup-Kommunikation bei Ausfällen 
+terrestrischer Netze beitragen. Ein weiterer Fokus liegt auf resilienten Ersatz- 
+und Ergänzungsanbindungen für sicherheitsrelevante Akteure. Interoperabilität 
+und Standardisierung sollen dabei die Resilienz der europäischen Raumfahrt- 
+und Kommunikationsinfrastruktur stärken und flexible Systemintegration
+ermöglichen.
+14. Welche internationalen, EU-rechtlich belastbaren Best-Practice-Ansätze 
+zur Koordination, Zielsteuerung oder Förderarchitektur des
+Breitbandausbaus hat die Bundesregierung geprüft (z. B. staatlich koordinierte 
+Strategiemodelle wie „Breitbandstrategie 2030“ der Republik
+Österreich), und welche Elemente beabsichtigt sie konkret zu übernehmen 
+oder ausdrücklich nicht zu übernehmen?
+Die Bundesregierung arbeitet im Rahmen des Politikprogramms für die digitale 
+Dekade 2030 mit den EU-Mitgliedstaaten, dem Rat, dem Europäischen
+Parlament und der EU-Kommission zusammen, um die Konnektivitätsziele in der 
+gesamten EU (Gigabitnetzanbindung für alle Endnutzer an festen Standorten 
+und in allen besiedelten Gebieten drahtlose Hochgeschwindigkeitsnetze der
+nächsten Generation mit mindestens 5G entsprechender Leistung) zu erreichen. 
+In diesem Rahmen werden auch bewährte Verfahren der EU-Mitgliedstaaten 
+zur Erreichung der Ziele ausgetaucht.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
+Gebundene und ausgezahlte Bundesmittel im Rahmen der Bundesförderprogramme zum Breitbandausbau ab der 21. Legislaturperiode - Haushaltsjahr 2025 (Datenstand: 02.03.2026)
+Bundesland Gebundene 
+Bundesmittel 2025
+WFP
+Gebundene Bundesmittel 
+2025
+GFP
+Gebundene 
+Bundesmittel 2025
+GFP 2.0
+Ausgezahlte 
+Bundesmittel 2025
+WFP
+Ausgezahlte 
+Bundesmittel 2025
+GFP
+Ausgezahlte 
+Bundesmittel 2025
+GFP 2.0
+Gebundene 
+Bundesmittel 2025
+Gesamt
+Ausgezahlte 
+Bundesmittel 2025 
+Gesamt
+Baden-Württemberg -  €                               -  €                                   342.476.148,00 €      224.179.816,72 €      60.760.308,65 €         5.329.545,43 €           342.476.148,00 €      290.269.670,80 €       
+Bayern -  €                               -  €                                   669.020.812,28 €      47.144.990,01 €         11.079.464,94 €         2.556.331,58 €           669.020.812,28 €      60.780.786,53 €         
+Berlin -  €                               -  €                                   -  €                            -  €                            -  €                            40.055,40 €                -  €                            40.055,40 €                 
+Brandenburg -  €                               -  €                                   92.875.828,00 €         36.014.413,73 €         206.586,90 €              2.393.925,21 €           92.875.828,00 €        38.614.925,84 €         
+Bremen -  €                               -  €                                   -  €                            -  €                            -  €                            -  €                            -  €                            -  €                             
+Hamburg -  €                               -  €                                   -  €                            -  €                            -  €                            -  €                            -  €                            -  €                             
+Hessen -  €                               -  €                                   96.118.883,75 €         11.993.654,34 €         31.466.406,98 €         7.512.067,15 €           96.118.883,75 €        50.972.128,47 €         
+Mecklenburg-Vorpommern -  €                               -  €                                   3.996.700,00 €           100.250.833,13 €      -  €                            -  €                            3.996.700,00 €           100.250.833,13 €       
+Niedersachsen -  €                               -  €                                   40.950.000,00 €         82.682.623,85 €         151.169,02 €              74.578,05 €                40.950.000,00 €        82.908.370,92 €         
+Nordrhein-Westfalen -  €                               -  €                                   77.500.977,00 €         143.324.927,00 €      17.720.467,60 €         4.263.365,55 €           77.500.977,00 €        165.308.760,15 €       
+Rheinland-Pfalz -  €                               -  €                                   130.671.919,00 €      26.356.566,63 €         11.181.172,49 €         130.976,07 €              130.671.919,00 €      37.668.715,19 €         
+Saarland -  €                               -  €                                   34.572.000,00 €         10.366.839,49 €         -  €                            209.608,45 €              34.572.000,00 €        10.576.447,94 €         
+Sachsen -  €                               -  €                                   173.266.000,00 €      151.666.076,88 €      483.139,15 €              3.368.560,92 €           173.266.000,00 €      155.517.776,95 €       
+Sachsen-Anhalt -  €                               -  €                                   58.701.100,00 €         9.595.218,54 €           -  €                            284.638,01 €              58.701.100,00 €        9.879.856,55 €           
+Schleswig-Holstein -  €                               -  €                                   4.567.245,00 €           49.450.712,21 €         88.498,80 €                765.591,41 €              4.567.245,00 €           50.304.802,42 €         
+Thüringen -  €                               -  €                                   117.351.434,70 €      36.993.857,04 €         13.958.521,12 €         280.543,08 €              117.351.434,70 €      51.232.921,24 €         
+Gesamtsumme -  €                               -  €                                   1.842.069.047,73 €   930.020.529,57 €      147.095.735,65 €      27.209.786,31 €         1.842.069.047,73 €   1.104.326.051,53 €   
+Hinweis: WFP: Weiße-Flecken-Programm; GFP: Graue-Flecken-Programm; GFP 2.0: Gigabitförderung 2.0
+Gebundene und ausgezahlte Bundesmittel im Rahmen der Bundesförderprogramme zum Breitbandausbau ab der 21. Legislaturperiode - Haushaltsjahr 2026 (Datenstand: 02.03.2026)
+Bundesland Gebundene 
+Bundesmittel 2026
+WFP
+Gebundene Bundesmittel 
+2026
+GFP
+Gebundene 
+Bundesmittel 2026
+GFP 2.0
+Ausgezahlte 
+Bundesmittel 2026
+WFP
+Ausgezahlte 
+Bundesmittel 2026
+GFP
+Ausgezahlte 
+Bundesmittel 2026
+GFP 2.0
+Gebundene 
+Bundesmittel 2026
+Gesamt
+Ausgezahlte 
+Bundesmittel 2026 
+Gesamt
+Baden-Württemberg -  €                               -  €                                   -  €                            7.754.116,76 €           6.263.630,21 €           429.646,03 €              -  €                            14.447.393,00 €         
+Bayern -  €                               -  €                                   627.000,00 €              -  €                            496.441,70 €              288.316,14 €              627.000,00 €              784.757,84 €              
+Berlin -  €                               -  €                                   -  €                            -  €                            -  €                            -  €                            -  €                            -  €                             
+Brandenburg -  €                               -  €                                   200.000,00 €              -  €                            -  €                            -  €                            200.000,00 €              -  €                             
+Bremen -  €                               -  €                                   -  €                            -  €                            -  €                            -  €                            -  €                            -  €                             
+Hamburg -  €                               -  €                                   -  €                            -  €                            -  €                            -  €                            -  €                            -  €                             
+Hessen -  €                               -  €                                   400.000,00 €              1.675.167,40 €           -  €                            2.091.532,78 €           400.000,00 €              3.766.700,18 €           
+Mecklenburg-Vorpommern -  €                               -  €                                   -  €                            11.767.565,81 €         -  €                            -  €                            -  €                            11.767.565,81 €         
+Niedersachsen -  €                               -  €                                   200.000,00 €              2.581.931,46 €           -  €                            251.955,27 €              200.000,00 €              2.833.886,73 €           
+Nordrhein-Westfalen -  €                               -  €                                   -  €                            12.243.736,37 €         117.850,00 €              -  €                            -  €                            12.361.586,37 €         
+Rheinland-Pfalz -  €                               -  €                                   -  €                            1.013.513,91 €           -  €                            -  €                            -  €                            1.013.513,91 €           
+Saarland -  €                               -  €                                   84.381,96 €                -  €                            -  €                            11.482,70 €                84.381,96 €                11.482,70 €                 
+Sachsen -  €                               -  €                                   -  €                            2.109.631,40 €           -  €                            -  €                            -  €                            2.109.631,40 €           
+Sachsen-Anhalt -  €                               -  €                                   -  €                            -  €                            -  €                            -  €                            -  €                            -  €                             
+Schleswig-Holstein -  €                               -  €                                   -  €                            -  €                            -  €                            23.681,00 €                -  €                            23.681,00 €                 
+Thüringen -  €                               -  €                                   -  €                            -  €                            3.352.288,78 €           -  €                            -  €                            3.352.288,78 €           
+Gesamtsumme -  €                               -  €                                   1.511.381,96 €           39.145.663,11 €         10.230.210,69 €         3.096.613,92 €           1.511.381,96 €          52.472.487,72 €         
+Hinweis: WFP: Weiße-Flecken-Programm; GFP: Graue-Flecken-Programm; GFP 2.0: Gigabitförderung 2.0
+Bundesland Anzahl widerrufene 
+Bescheide 
+WFP
+Anzahl widerrufene 
+Bescheide 
+GFP
+Anzahl widerrufene 
+Bescheide 
+GFP 2.0
+Baden-Württemberg 34 16 2
+Bayern 0 0 11
+Berlin 0 0 0
+Brandenburg 0 0 0
+Bremen 0 0 0
+Hamburg 0 0 0
+Hessen 0 0 0
+Mecklenburg-Vorpommern 1 0 0
+Niedersachsen 1 0 0
+Nordrhein-Westfalen 9 0 2
+Rheinland-Pfalz 0 0 8
+Saarland 0 0 0
+Sachsen 2 0 0
+Sachsen-Anhalt 0 0 0
+Schleswig-Holstein 0 0 6
+Thüringen 0 0 0
+Gesamtsumme 47 16 29
+Hinweis: WFP: Weiße-Flecken-Programm; GFP: Graue-Flecken-Programm; GFP 2.0: Gigabitförderung 2.0
+Bundesland Anzahl Projekte mit 
+Änderung im 
+Projektverlauf
+WFP
+Anzahl Projekte mit 
+Änderung im 
+Projektverlauf
+GFP
+Anzahl Projekte mit 
+Änderung im 
+Projektverlauf
+GFP 2.0
+Baden-Württemberg 79 1 22
+Bayern 19 6 91
+Berlin 0 0 0
+Brandenburg 11 0 0
+Bremen 0 0 0
+Hamburg 0 0 0
+Hessen 8 0 5
+Mecklenburg-Vorpommern 92 0 0
+Niedersachsen 45 1 3
+Nordrhein-Westfalen 186 3 3
+Rheinland-Pfalz 29 3 0
+Saarland 0 0 0
+Sachsen 29 0 9
+Sachsen-Anhalt 5 0 1
+Schleswig-Holstein 1 0 1
+Thüringen 8 0 0
+Gesamtsumme 512 14 135
+Hinweis: WFP: Weiße-Flecken-Programm; GFP: Graue-Flecken-Programm; GFP 2.0: Gigabitförderung 2.0
+Übersicht Infrastrukturprojekte mit Verzicht auf Zuwendung im Rahmen der 
+Bundesförderprogramme zum Breitbandausbau ab der 21. Legislaturperiode (Datenstand: 
+02.03.2026)
+Übersicht Infrastrukturprojekte mit Änderungen im Projektverlauf im Rahmen der 
+Bundesförderprogramme zum Breitbandausbau ab der 21. Legislaturperiode (Datenstand: 
+02.03.2026)
