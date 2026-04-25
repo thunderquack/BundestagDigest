@@ -1,0 +1,123 @@
+... 
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln 
+Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de 
+ISSN 0720-2946 
+Bundesrat  Drucksache 212/1/26  
+ 
+ 
+24.04.26
+E m p f e h l u n g e n  
+der Ausschüsse 
+Vk - In
+zu Punkt ... der 1065. Sitzung des Bundesrates am 8. Mai 2026 
+Fünftes Gesetz zur Änderung des Straßenverkehrsgesetzes und 
+anderer straßenverkehrsrechtlicher Vorschriften 
+A 
+1. Der federführende Verkehrsausschuss und 
+der Ausschuss für Innere Angelegenheiten 
+empfehlen dem Bundesrat, dem Gesetz gemäß Artikel 80 Absatz 2 des
+Grundgesetzes zuzustimmen. 
+ 
+ 
+B 
+Der federführende Verkehrsausschuss und 
+der Ausschuss für Innere Angelegenheiten 
+empfehlen dem Bundesrat ferner, die folgende E n t s c h l i e ß u n g  zu fassen:
+ ... 
+2. a) Der Bundesrat bittet die Bundesregierung, alle notwendigen
+Funktionalitäten für die Polizeien des Bundes und der Länder anlässlich der Einführung 
+des digitalen Führerscheins zeitgerecht vor dem Go-Live und dauerhaft zur 
+Nutzung zur Verfügung zu stellen, die eine fahrerlaubnisrechtliche Prüfung 
+sowie Durchführung polizeilicher Maßnahmen ermöglichen. 
+b) Des Weiteren spricht sich der Bundesrat dafür aus, dass die Kosten für die 
+Schaffung dieser Funktionalitäten auf eine einmalige, gegebenenfalls
+anteilige Zahlung beschränkt werden und auf ein dauerhaftes, kostenpflichtiges 
+Lizenzmodell verzichtet wird. 
+Begründung: 
+Die Polizeien des Bundes und der Länder spielen als Kontrollbehörden eine 
+elementare Rolle bei der Einführung des digitalen Führerscheins. Können
+Vorschriften nicht effektiv kontrolliert werden, so sind ihre Akzeptanz und die
+Regelbeachtung durch den Bürger erwartbar gering ausgeprägt. Die Polizeien des 
+Bundes und der Länder müssen daher zwingend und zeitgerecht befähigt
+werden, ihren gesetzlich normierten Aufgaben nachzukommen. 
+Dazu zählt zunächst, dass die Kontrollbehörden die Möglichkeit der Kontrolle 
+des digitalen Führerscheins unter Nutzung dienstlicher Mobilfunkgeräte
+erhalten. Zum anderen müssen für sie besondere Funktionalitäten geschaffen
+werden, insbesondere die Durchführung der Beschlagnahme des digitalen
+Führerscheins und die Entgegennahme des digitalen Dokuments anlässlich des
+Antritts eines Fahrverbots durch den Bürger. Um diese Aufgaben erfüllen zu
+können, benötigen die Polizeien des Bundes und der Länder besondere, eigens für 
+sie zu schaffende Funktionalitäten. 
+Hierbei darf die Durchführung der hoheitlichen Aufgaben der Polizei nicht von 
+dauerhaften, kostenpflichtigen Lizenzmodellen abhängig sein. Es erscheint 
+sachgerecht, dass folgende Kosten anfallen: 
+– einmaliger Kaufpreis eines SDK* zur Abdeckung der initialen
+Entwicklungsaufwände bzw. einmaliger Kaufpreis für eine vollständig entwickelte 
+App, 
+– Wartungsvertrag für laufende Test- und Anpassungsaufwände bei Updates, 
+– Abrechnung von Change Requests** nach Aufwand. 
+ 
+* Ein Software Development Kit (SDK) ermöglicht Entwicklern, Anwendungen für Apple-Plattformen 
+(iOS, macOS, et cetera) oder neuerdings auch Android zu erstellen, indem es Werkzeuge, Bibliotheken 
+und APIs bereitstellt. Spezielle Funktionen (z. B. Prüffunktion für den digitalen Führerschein oder
+optische Fingerabdruckerfassung) können mittels eines SDK als Funktionsmodul (unter Apple beispielsweise 
+als sogenannte Swift Package) definiert werden, welches dann eine spezifische Logik (z. B. Netzwerk, 
+Datenbank) kapselt und modular in Apps eingebunden werden kann. 
+** Ein Change Request (CR) ist eine formelle Anfrage zur Änderung eines laufenden IT-Projekts oder
+Systems, beispielsweise für neue Funktionen, Korrekturen oder Anpassungen. Er dient dazu, Änderungen 
+strukturiert zu planen, ihre Auswirkungen auf Zeit und Kosten zu bewerten und den Projektumfang
+kontrolliert anzupassen.
+ ... 
+3. Nach Auffassung des Bundesrates ist die Aufnahme des Lichtbilds in den
+digitalen Führerschein zur zweifelsfreien Identifikation des Fahrerlaubnisinhabers 
+unverzichtbar. Die Bundesregierung wird daher aufgefordert, 
+– von der Übergangsvorschrift des § 65 Absatz 4 Straßenverkehrsgesetz 
+(StVG) keinen Gebrauch zu machen und den digitalen Führerschein erst mit 
+der Implementierung des digitalen Lichtbildes einzuführen, wobei davon 
+ausgegangen wird, dass der automatisierte Abruf des Lichtbildes
+bundesweit umgesetzt wird, 
+oder 
+– kurzfristig eine Regelung in das StVG aufzunehmen, dass ein digitaler
+Führerschein ohne Lichtbild nur gültig in Verbindung mit einem amtlichen 
+Lichtbildausweis ist und beim Führen von Kraftfahrzeugen mit dem
+digitalen Führerschein der amtliche Lichtbildausweis mitzuführen und
+zuständigen Personen bei Kontrollen auf Verlangen zur Prüfung auszuhändigen ist. 
+Begründung: 
+§ 65 Absatz 4 StVG ermöglicht, abweichend von § 2d Absatz 4 StVG den
+digitalen Führerschein zunächst ohne Lichtbild zu implementieren, solange dessen 
+vorgesehener Abruf technisch noch nicht möglich ist. Die Ausstellung eines 
+digitalen Führerscheins mit einem aus den Ausweisregistern ausgelesenen 
+Lichtbild ist bundesweit umzusetzen. Die hierfür notwendigen
+Voraussetzungen für das Auslesen des Lichtbildes aus den Ausweisregistern im künftigen 
+XPassAusweis-Standard zum 1. November 2026 konnten bereits erarbeitet 
+werden. Das Erfordernis der Schaffung weiterer erforderlicher technischer und 
+rechtlicher Voraussetzungen führt zu einer späteren Umsetzung und damit der 
+Einführung des digitalen Führerscheins nach November 2026. Gegebenenfalls 
+führt die Vorgabe in § 2d Absatz 4 StVG bei der Ausstellung eines digitalen 
+Führerscheins durch das Kraftfahrt-Bundesamt zu einer unterschiedlichen
+Verfahrensweise in den einzelnen Ländern. 
+Soweit es in der Begründung zu § 65 Absatz 4 StVG (vgl. BT-Drucksache 
+21/4979, Seite 15 zu Ziffer 2 Buchstabe c) heißt, eine Personenkontrolle sei 
+auch über das stets mitzuführende hoheitliche Ausweisdokument (z. B.
+Personalausweis) möglich, ist darauf hinzuweisen, dass mit der geltenden
+Ausweisvorlagepflicht keine Rechtspflicht verbunden ist, sich jederzeit ausweisen zu 
+können und damit einen Ausweis stets mit sich zu führen. Allein die Vornahme 
+einer allgemeinen Verkehrskontrolle berechtigt den kontrollierenden
+Polizeibeamten bzw. die kontrollierende Polizeibeamtin gerade nicht, in diesem Rahmen 
+ohne weitere Gründe eine Identitätsfeststellung vorzunehmen. 
+Das Fehlen eines Lichtbilds im digitalen Führerschein macht es der Polizei 
+unmöglich, ihren hoheitlichen Aufgaben im Bereich der Verkehrskontrolle 
+nachzukommen, da in diesem Fall den kontrollierenden Polizeibeamtinnen und 
+-beamten faktisch die Möglichkeit genommen ist, zu überprüfen, ob es sich bei
+der kontrollierten Person tatsächlich um den Inhaber des vorgezeigten
+Führerscheins handelt. Die Rechtsgrundlagen für eine Identitätsfeststellung, in deren 
+Rahmen die Vorlage eines amtlichen Ausweisdokuments verlangt werden darf, 
+richten sich nach anderen Rechtsgrundlagen, sodass regelmäßig ein hilfsweiser 
+Rückgriff auf ein solches Dokument zur zweifelsfreien Abklärung der Identität 
+eines kontrollierten Fahrzeugführers ausscheiden wird. 
+Es ist daher zwingend erforderlich, dass der digitale Führerschein auch ein 
+Lichtbild enthält, auch wenn dies gegebenenfalls eine Einführung zu einem 
+späteren Zeitpunkt als dem ursprünglich geplanten Go-Live am 
+1. November 2026 bedingt, oder dass kurzfristig eine Rechtsgrundlage zur 
+Ausweiskontrolle von Fahrzeugführern geschaffen wird, die einen digitalen 
+Führerschein ohne Lichtbild vorweisen.
