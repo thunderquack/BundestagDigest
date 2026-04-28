@@ -1,0 +1,389 @@
+Deutscher Bundestag Drucksache 21/5502
+21. Wahlperiode 22.04.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Sonja Lemke, Clara Bünger, Anne-
+Mieke Bremer, weiterer Abgeordneter und der Fraktion Die Linke
+– Drucksache 21/5091 –
+Entwicklung und Finanzierung des Zentrums für Digitale Souveränität der 
+Öffentlichen Verwaltung
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Digitale Souveränität bildet eine existenzielle Voraussetzung staatlicher
+Handlungsfähigkeit. Durch die aktuellen geopolitischen Entwicklungen wird die 
+eigene digitale Handlungsfähigkeit staatlicher Akteure immer dringender.
+Denn durch die Kombination aus offensichtlicher Unberechenbarkeit
+außenpolitischer Maßnahmen der US-Administration und deren Schulterschluss mit 
+großen US-Tech-Konzernen steigen die Risiken der enormen Abhängigkeit 
+des Bundes von eben diesen Tech-Konzernen. So könnten künftig US-
+Konzerne dazu gebracht werden, den Zugang zu ihren Produkten und
+Dienstleistungen, etwa zu Cloud-Services und bzw. oder weit verbreiteten Produkten
+(beispielsweise Office-Anwendungen) für deutsche Behörden einzuschränken 
+oder ihnen wichtige funktionale oder Sicherheitsupdates vorzuenthalten, um 
+ein bestimmtes politisches Verhalten der Bundesregierung durchzusetzen.
+Dem Chefankläger des Internationalen Strafgerichtshofs (IStGH), Karim 
+Khan, hat Microsoft im Mai 2025 schon einmal den E‑Mail-Zugang gesperrt, 
+nachdem US-Präsident Donald Trump den IStGH wegen seiner Haftbefehle 
+gegen den israelischen Premierminister Benjamin Netanjahu und seinen
+früheren Verteidigungsminister Yoav Gallant mit Sanktionen belegt hatte (www.hei
+se.de/news/Strafgerichtshof-Microsofts-E-Mail-Sperre-als-Weckruf-fuer-digit
+ale-Souveraenitaet-10387368.html).
+Open Source Software (OSS) kann für die Stärkung der digitalen Souveränität 
+einen wichtigen Beitrag leisten, sowohl auf individueller als auch auf
+staatlicher Ebene und darüber hinaus, insbesondere kann sie die Abhängigkeit von 
+marktmächtigen Konzernen deutlich verringern und Lock-in-Effekte
+verhindern. Auch die aktuelle Bundesregierung hat sich in ihrem Koalitionsvertrag 
+zwischen CDU, CSU und SPD darauf verständigt, dass sie „Open Source mit 
+den privaten und öffentlichen Akteuren im europäischen Ökosystem gezielt 
+voran[treiben wolle], unter anderem mit dem Zentrum Digitale Souveränität 
+(ZenDiS) […]“.
+Das ZenDiS hatte die damalige Bundesregierung im Jahr 2022 gegründet. Bis 
+heute ist der Bund Alleingesellschafter dieser GmbH. Um seinen wichtigen 
+Auftrag, die digitale Souveränität in der öffentlichen Verwaltung zu stärken, 
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Digitales und
+Staatsmodernisierung vom 21. April 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+erfüllen zu können, muss das ZenDiS ausreichend und nachhaltig mit
+Finanzmitteln ausgestattet sein, woran es aus Sicht der Fragestellerinnen und
+Fragesteller in der Vergangenheit mangelte. Einer Aufforderung des
+Haushaltsausschusses des Deutschen Bundestages im November 2024, Ausgabereste in 
+Höhe von 34 Mio. Euro unverzüglich und vollumfänglich an die ZenDiS 
+GmbH zu übertragen, kam die Bundesregierung nicht nach, obwohl zu diesem 
+Zeitpunkt schon klar war, dass aufgrund der vorgezogenen Neuwahlen
+mindestens das erste Halbjahr 2025 der vorläufigen Haushaltsführung unterliegen 
+würde und eine zuverlässige Finanzierung von Aufträgen an das ZenDiS
+damit nicht gesichert war.
+Bei Gründung des ZenDiS im Dezember 2022 war bereits geplant, dass auch 
+die Länder der GmbH als Gesellschafter beitreten können. Über drei Jahre 
+später hat der Bund als derzeitiger Alleingesellschafter trotz regelmäßiger
+Interessenbekundungen der Länder immer noch nicht die notwendigen formalen 
+Voraussetzungen dafür geschaffen.
+In ihrer Antwort auf die Kleine Anfrage der Gruppe Die Linke im Deutschen 
+Bundestag teilte die Bundesregierung im März 2025 mit, der Antrag für das 
+Beteiligungsmodell mit der ersten Fassung der dazugehörigen Unterlagen sei 
+dem damaligen Bundesministerium der Finanzen und dem
+Bundesrechnungshof bereits am 1. August 2024 übermittelt worden
+(Bundestagsdrucksache 20/15134, Antwort zu Frage 4c).
+Die Digitalministerkonferenz hat die Bundesregierung per Beschluss im Mai 
+2025 nochmals aufgefordert, die Teilnahmemöglichkeit für die Länder 
+schnellstmöglich zu schaffen. Die Bundesregierung antwortete auf die
+Schriftliche Einzelfrage der Abgeordneten Sonja Lemke am 27. Mai 2025, man
+bearbeite die entsprechenden Aufgaben mit Priorität (https://dmk.rlp.de/fileadmin/
+dmk/Beschluesse_3_DMK/TOP_6.02_SH_Staerkung_digitaler_Souveraenitae
+t_OEV_beschluss.pdfhttps://dmk.rlp.de/fileadmin/dmk/Beschluesse_3_DMK/
+TOP_6.02_SH_Staerkung_digitaler_Souveraenitaet_OEV_beschluss.pdf).
+Nach einem Beitritt könnten die Länder die Produkte vom ZenDiS direkt
+beziehen. Derzeit müssen sie diese Produkte von der govdigital e. G. beziehen, 
+die hierfür wiederum einen Preisaufschlag von ca. 2 Prozent berechnet, die die 
+Länderhaushalte zusätzlich und aus Sicht der Fragestellenden völlig unnötig 
+belasten.
+Ein Schlüsselprojekt des ZenDiS ist die Entwicklung und Bereitstellung der 
+Office- und Kollaborationssuite openDesk als umfassende
+Arbeitsplatzumgebung, die vollständig aus OSS-Anwendungen besteht. Seit Oktober 2024 ist 
+openDesk für den Einsatz in Behörden verfügbar und wird in zahlreichen
+Behörden, v. a. im Bund und in den Ländern, produktiv eingesetzt.
+In ihrer Antwort zu Frage 3 der Kleinen Anfrage „Die Bedeutung von Open 
+Source Software im Bund und die Stärkung der digitalen Souveränität der 
+Bundesverwaltung“ teilte die Bundesregierung mit, ab 2025 solle die
+Umsetzung und der breite Roll-Out von openDesk erfolgen (Bundestagsdrucksache 
+20/9641). In ihrer Antwort auf die Kleine Anfrage der Gruppe Die Linke teilte 
+die damalige Bundesregierung auf Bundestagsdrucksache vom 19. März 2025 
+dann mit, die Maßnahme Souveräner Arbeitsplatz, die für den Roll-Out von 
+openDesk in der Bundesverwaltung verantwortlich sei, sei Anfang 2025
+initiiert worden. Die konkrete Planung war nach Angaben der damaligen
+Bundesregierung zu diesem Zeitpunkt noch nicht abgeschlossen
+(Bundestagsdrucksache 20/15134).
+Die aktuelle Bundesregierung hat in ihrer Modernisierungsagenda für Staat 
+und Verwaltung das Ziel ausgegeben, dass binnen 36 Monaten eine digital 
+souveräne Alternative (Souveräner Arbeitsplatz) zu proprietären IT-
+Arbeitsplätzen der Bundesverwaltung zur Nutzung zur Verfügung steht (https://bmds.
+bund.de/themen/staatsmodernisierung/modernisierungsagenda-bund,
+Nummer V.9.2). In der föderalen Modernisierungsagenda haben sich Bund und 
+Länder auf dieses Ziel sogar bis zum 31. März 2027 verpflichtet (www.digital
+e-verwaltung.de/SharedDocs/downloads/Webs/DV/DE/modernisierungsagend
+a-pdf.pdf?__blob=publicationFile&v=2, Nummer 212).
+Das ZenDiS betreibt außerdem die Plattform openCode, die der öffentlichen 
+Verwaltung zur Entwicklung, Veröffentlichung und zum Austausch von Open 
+Source Software dient. openCode bietet einen rechtssicheren Rahmen für die 
+Bereitstellung und Nutzung von Open Source Software und erleichtert die 
+Wiederverwendung bestehender Lösungen. Das Bundesministerium für
+Digitales und Staatsmodernisierung (BMDS) beispielsweise nutzt die Plattform 
+derzeit für seinen öffentlichen Konsultationsprozess zum sog. Deutschland-
+Stack. Insgesamt arbeiten bereits mehr als 10 800 Nutzende in über 5 500
+Digitalprojekten föderal übergreifend auf openCode zusammen.
+ 1. Welchen Zeitplan verfolgt die Bundesregierung bei der Aufnahme der 
+Bundesländer in den Gesellschafterkreis der Zentrum für Digitale
+Souveränität der Öffentlichen Verwaltung GmbH?
+a) Wie ist der aktuelle Arbeitsstand bei der Ausarbeitung der
+Grunddokumente und der Beitrittsdokumente?
+b) Welche konkreten Fortschritte sind seit der Beantwortung der
+Kleinen Anfrage der Gruppe Die Linke im Deutschen Bundestag hierzu 
+(Bundestagsdrucksache 20/15134) erzielt worden?
+c) Welche rechtlichen, organisatorischen und sonstigen Hindernisse 
+stehen einem Beitritt der beitrittswilligen Bundesländer noch im 
+Weg?
+d) Was tut die Bundesregierung konkret, um die verbleibenden
+Hindernisse schnellstmöglich zu beseitigen (bitte zu jedem aktuell noch
+bestehenden Hindernis die konkret unternommenen, noch laufenden 
+oder geplanten Maßnahmen sowie den konkreten Zeitplan für ihren 
+erwarteten Abschluss angeben)?
+e) Wann plant die Bundesregierung die Fertigstellung aller
+erforderlichen Dokumente, sodass sie den interessierten Ländern den Beitritt 
+konkret anbieten kann?
+Die Fragen 1 bis 1 e) werden gemeinsam beantwortet.
+Der Beitritt der Länder als Gesellschafter der ZenDis GmbH hängt von den 
+Rahmenbedingungen ab, die u. a. durch den Gesellschaftsvertrag, aber auch 
+durch vergaberechtliche Vorgaben definiert werden. Bei der Gründung der Zen-
+DiS GmbH war von Anfang an ein Zweiphasenmodell vorgesehen: In einer
+ersten Phase sollte der Aufbau der Gesellschaft durch den Bund erfolgen. Erst in 
+einer zweiten Phase ist die Öffnung im Hinblick auf eine Zusammenarbeit mit 
+den Ländern geplant. Im Rahmen der Neustrukturierung des nachgeordneten 
+Bereichs des BMDS ist ein Ziel die inhaltlich-strategische Stärkung des Zen-
+DiS. Ziel ist es, das Open Source-Ökosystem stärker zu aktivieren.
+ 2. Wie ist der Umsetzungsstand des Roll-Outs von openDesk in der
+Bundesverwaltung?
+a) Über wie viele openDesk-Lizenzen verfügte die Bundesverwaltung 
+zum 31. Dezember 2025, und über wie viele verfügt sie aktuell (bitte 
+nach Ressorts inklusive nachgeordneter Behörden aufschlüsseln)?
+Die Bundesverwaltung verfügte zum 31. Dezember 2025 über 7 916 openDesk-
+Lizenzen, aktuell verfügt sie über 8 756 Lizenzen (Aufschlüsselung nach
+Behörden siehe Anlage 1, „VS-Nur für den Dienstgebrauch“).
+b) Wie viele Arbeitsplätze waren am 31. Dezember 2025 mit openDesk 
+im Produktivbetrieb ausgestattet, und wie viele sind es aktuell (bitte 
+nach Ressorts inklusive nachgeordneter Behörden aufschlüsseln)?
+7 696 der Lizenzen wurden zum 31. Dezember 2025 im Produktivbetrieb
+genutzt, aktuell sind es 8 475 Lizenzen (Aufschlüsselung nach Behörden siehe 
+Anlage 1, „VS-Nur für den Dienstgebrauch“). Es findet noch keine exklusive 
+Nutzung von openDesk als Ersatz für proprietäre Lösungen statt.
+c) Bei wie vielen dieser Arbeitsplätze ist tatsächlich eine Microsoft-
+Umgebung abgelöst worden?
+Die Bundesregierung kann hierzu keine belastbare Aussage treffen.
+d) Wie viele Arbeitsplätze sind mit openDesk ausgestattet und befinden 
+sich noch in einer Pilotphase (bitte nach Ressorts inklusive
+nachgeordneter Behörden aufschlüsseln)?
+Ca. 280 Lizenzen stehen derzeit (Stand: 7. April 2026) für Pilotierungen in der 
+Bundesverwaltung zur Verfügung.
+ 3. Wie ist der aktuelle Planungsstand des Roll-Outs von openDesk in der 
+Bundesverwaltung?
+a) Was ist der aktuelle Zeitplan für den „breiten Roll-Out“ von open-
+Desk in der Bundesverwaltung im Jahr 2026 und ggf. darüber hinaus, 
+und welche Stufen mit jeweils welchen Bundesbehörden enthält
+dieser Zeitplan (bitte jede Stufe beschreiben, z. B. Name der Behörden 
+oder Geschäftsbereiche, die zu jeweils welchem Zeitpunkt auf open-
+Desk migriert werden soll)?
+Aktuell erfolgt eine Teststellung von openDesk bis Ende Q2 2026, deren
+Ergebnisse im Vorgehensplan einfließen werden. Ein Vorgehens- und Zeitplan für 
+den Rollout in der weiteren Bundesverwaltung befindet sich aktuell in
+Ausarbeitung.
+b) Welche Meilensteine hinsichtlich der Anzahl migrierter Userinnen und 
+User sind geplant, und wann sollen sie erreicht werden?
+s. o.
+c) Wie soll der Roll-Out erfolgen, ist bei jedem Roll-Out von openDesk 
+geplant, die vorhandenen Arbeitsplatzanwendungen zu ersetzen, und 
+ggf. nach welcher Übergangszeit?
+s. o.
+d) Welche Maßnahmen sind ggf. geplant, um die Ablösung erfolgreich zu 
+gestalten, z. B. hinsichtlich Training, Kommunikation und
+Organisation, und welche Rolle spielt dabei das ZenDiS und bzw. oder ggf.
+andere Institutionen oder Bundesbehörden?
+Es ist geplant, den Roll-Out in der Bundesverwaltung durch intensive
+Schulungsmaßnahmen zu begleiten. Eine Konkretisierung der Planung ist für Q2 
+2026 geplant.
+e) Bis wann soll der „breite Roll-Out“ von openDesk abgeschlossen sein, 
+und was würde das Erreichen dieses Zieles konkret bedeuten,
+ausgedrückt in Anteil User an der Gesamtanzahl User von Arbeitsplatz-
+Anwendungen in der Bundesverwaltung, die ganz oder teilweise open-
+Desk-Anwendungen verwenden?
+s. o.
+ 4. Wie viele Haushaltsmittel hat die Bundesregierung der ZenDiS im
+Rahmen von Aufträgen im Haushaltsjahr 2025 gezahlt (bitte nach Ressorts 
+inklusive nachgeordneter Behörden differenzieren und bitte jeden
+Auftrag mit Vertragslaufzeit, Auftragsgegenstand, Auftragsvolumen und
+jeweils gezahlten Mitteln angeben)?
+ 5. Welche Aufträge hat die Bundesregierung derzeit an das ZenDiS erteilt 
+(bitte jeweils Ressort inklusive nachgeordneter Behörde,
+Auftragsgegenstand, Vertragslaufzeit und Auftragsvolumen nennen), und welche sind 
+ggf. in konkreter Planung?
+Die Fragen 4 und 5 werden gemeinsam beantwortet.
+Eine Übersicht ist Anlage 2 („VS-Nur für den Dienstgebrauch“) zu entnehmen.
+ 6. Hat das ZenDiS von der Bundesregierung derzeit einen konkreten
+laufenden Auftrag zur Weiterentwicklung von
+a) openDesk,
+Ja, es existiert ein Auftrag.
+b) openConference und
+Nein, der Auftrag endete vertragsgemäß zum 31. Dezember 2025
+c) openCode?
+Es existiert derzeit kein konkreter Auftrag zur Weiterentwicklung von open-
+Code
+ 7. Welche Absprachen, Aufträge, Zielvereinbarungen und Meilensteine
+bestehen mit dem ZenDiS, damit bis zum 31. März 2027 tatsächlich ein 
+souveräner Arbeitsplatz für Bund und Länder zur Verfügung steht?
+Bis zum 31. März 2027 wird eine gehärtete Version von openDesk für den
+Betrieb im IT-Grundschutz zur Verfügung stehen, welche die erste Ausprägung 
+des Souveränen Arbeitsplatzes darstellt. Zentrales Ziel ist, openDesk
+hinsichtlich Skalierbarkeit und Einhaltung von Compliance-Anforderungen (IT-
+Sicherheit, Barrierefreiheit und Datenschutz) zu ertüchtigen. Der Aufsichtsrat des 
+ZenDiS hat jüngst einen Prozess zur strategischen Neuausrichtung des ZenDiS 
+eingeleitet. Ziel des Strategieprozesses ist es, das Profil und das
+Produktportfolio des ZenDiS zu schärfen.
+ 8. Plant die Bundesregierung, das ZenDiS langfristig mit der
+Weiterentwicklung und dem Betrieb von openCode zu beauftragen, damit diese 
+weiter allen anderen Akteuren kostenlos zur Verfügung steht?
+Aktuell besteht keine Beauftragung zur Weiterentwicklung von openCode. Das 
+BMDS ist im Austausch mit der ZenDiS GmbH bezüglich der
+Weiterentwicklung von openCode.
+Bezüglich des Betriebs von openCode s. a. Antwort zu Frage 14.
+ 9. Gibt es in der Bundesregierung eine einheitliche Definition oder ein
+konkretes Zielbild für den viel genutzten Begriff „Digitale Souveränität“ in 
+Bezug auf die Verwaltung, und wenn ja, wie lautet sie bzw. es?
+Innerhalb der Bundesregierung wird derzeit unter Einbeziehung der Ressorts an 
+einer weiterentwickelten Definition und einem Zielbild für den Begriff der
+digitalen Souveränität gearbeitet. Dabei zeichnet sich bereits ein gemeinsamer
+Orientierungsrahmen ab, der für die Bundesverwaltung maßgeblich sein wird.
+Danach beschreibt digitale Souveränität die Fähigkeit und Kapazität, digitale 
+Technologien und Infrastrukturen eigenständig, selbstbestimmt und sicher
+entwickeln, bereitstellen, nutzen, anpassen und kontrollieren zu können. Dies
+umfasst insbesondere fünf zentrale Dimensionen:
+1. Wirtschaftliche Wertschöpfungsfähigkeit: Stärkung digitaler
+Wertschöpfung, Innovation und Kompetenzen in Deutschland und Europa.
+2. Durchsetzungs- und Steuerungsfähigkeit: Möglichkeit des Staates,
+Anforderungen an Sicherheit, Rechtmäßigkeit, Kontrolle und Unabhängigkeit
+wirksam durchzusetzen.
+3. Substituierbarkeit und Interoperabilität: Vermeidung einseitiger
+Abhängigkeiten durch offene Standards, Schnittstellen, Portabilität und
+Wechselmöglichkeiten.
+4. Fähigkeit zur Gestaltung, Entwicklung und Nutzung von Technologien: 
+Ausbau eigener technologischer Kompetenzen in Forschung, Entwicklung, 
+Beschaffung, Betrieb und Anwendung.
+5. Resilienz der Infrastruktur: Gewährleistung verlässlicher, sicherer und
+kontrollierbarer digitaler Infrastrukturen und Lieferketten.
+Die Neufassung der Definition soll in einem risikobasierten Ansatz auf die
+konkreten Anforderungen in der Verwaltung adaptiert und im weiteren
+ressortübergreifenden Prozess weiter konkretisiert werden. Die in diesem
+Abstimmungsprozess gewonnenen Erkenntnisse fließen zugleich in die Arbeiten der
+gemeinsamen deutsch-französischen Task Force zur Digitalen Souveränität ein.
+10. In welcher Form wurde und wird das Zentrum für Digitale Souveränität 
+konkret in die Überlegungen der Bundesregierung zur Erarbeitung dieser 
+Definition oder des Zielbildes eingebunden (bitte konkrete
+Beteiligungsformate benennen)?
+Die Abstimmungen finden derzeit auf Ebene aller Ministerien statt. Die
+Entwürfe zur Neudefinition werden regelmäßig innerhalb des BMDS unter
+Einbindung der für das ZenDiS zuständigen Einheiten abgestimmt.
+11. Erhebt die Bundesregierung Kennzahlen für ein Lagebild zur digitalen 
+Souveränität der Bundesverwaltung und ihrer Behörden, um auf dessen 
+Basis konkrete Ziele und Maßnahmen zur Erhöhung einer Art
+„Souveränitätsindex“ planen zu können, und wenn nein, hält die Bundesregierung 
+grundsätzlich einen solchen Souveränitätsindex zur Messung und
+Verbesserung des Status quo ihrer digitalen Souveränität für sinnvoll?
+Die Durchführung einer umfassenden und aktuellen Bestandsaufnahme von
+digitalen Abhängigkeiten in der Bundesverwaltung ist aktuell nicht geplant, da 
+anhand der vorliegenden Studien bereits ein Überblick über drängende
+Handlungsfelder besteht.
+Aktuell arbeitet die ZenDiS GmbH in eigenem Auftrag an einem
+Kriterienkatalog zur Messung Digitaler Souveränität, welcher bis Mitte Mai 2026 im
+Rahmen eines offenen Konsultationsprozesses mit openCode weiterentwickelt 
+wird. Ein Diskussionspapier zu „Kriterien zur Bewertung von Digitaler
+Souveränität“ ist seitens der ZenDiS veröffentlicht worden.
+12. Wie hoch war im Jahr 2025 der Anteil der Entwicklungsaufträge für 
+Software, die als Open Source beauftragt wurden (bitte tabellarisch je 
+Geschäftsbereich des Bundes mit nachgeordneten Behörden die Anzahl 
+insgesamt erteilter Software-Entwicklungsaufträge und die Anzahl
+derjenigen Aufträge angeben, die als Open Source beauftragt wurden, und
+dabei bitte Wartungs- und Pflegeaufträge nicht mitzählen)?
+13. Wie viele der gemäß der Antwort zu Frage 11 als Entwicklung
+beauftragten Open-Source-Software-Anwendungen wurden bis Dezember 2025 
+auf einer öffentlichen Plattform veröffentlicht, und wie viele davon auf 
+openCode?
+Die Fragen 12 und 13 werden gemeinsam beantwortet. Eine Übersicht ist der 
+nachfolgenden Tabelle zu entnehmen. Nach hiesiger Einschätzung wird die 
+Frage 12 dahingehend auslegt, dass in Spalte drei „davon Open Source
+Beauftragungen“ ausschließlich Software-Entwicklungsaufträge betrachtet werden, 
+die vollständig und explizit als Open-Source-Entwicklungen beauftragt
+wurden. Eine etwaige Nutzung einzelner vorhandener Open Source-Komponenten 
+bei der Entwicklung einer Gesamt-Software fällt somit nicht unter den
+Betrachtungsgegenstand dieser Kleinen Anfrage.
+Die Antworten zu den Entwicklungsaufträgen von BMVg, BMI und BKAmt 
+schließen nicht die Nachrichtendienste des Bundes, Bundesamt für den
+Militärischen Abwehrdienst, Bundesamt für Verfassungsschutz,
+Bundesnachrichtendienste ein. Die Frage nach den Entwicklungsaufträgen für Software bezüglich 
+der Nachrichtendienste des Bundes betreffen solche Informationen, die in
+besonders hohem Maße das Staatswohl berühren und daher selbst in eingestufter 
+Form nicht beantwortet werden können. Das verfassungsrechtlich verbürgte 
+Frage- und Informationsrecht des Deutschen Bundestages gegenüber der
+Bundesregierung wird durch gleichfalls Verfassungsrecht genießende
+schutzwürdige Interessen wie das Staatswohl begrenzt. Eine Offenlegung der angefragten 
+Informationen birgt die Gefahr, dass Einzelheiten zur konkreten Methodik
+bekannt würden. Infolgedessen könnten sowohl staatliche als auch nichtstaatliche 
+Akteure Rückschlüsse auf spezifische Vorgehensweisen und Fähigkeiten der 
+Nachrichtendienste ziehen. Dies könnte folgenschwere Einschränkungen der 
+Informationsgewinnung zur Folge haben, womit letztlich die gesetzlichen
+Aufträge (§ 3 Absatz 1 Bundesverfassungsschutzgesetz (BVerfSchG), § 1 Absatz 2 
+Gesetz über den Bundesnachrichtendienst (BNDG)) – nicht mehr sachgerecht 
+erfüllt werden könnten. Selbst eine VS-Einstufung und Hinterlegung der
+angefragten Informationen in der Geheimschutzstelle des Deutschen Bundestages 
+würde ihrer erheblichen Brisanz im Hinblick auf die Bedeutung für die
+Aufgabenerfüllung der Nachrichtendienste des Bundes nicht ausreichend Rechnung 
+tragen. Die angefragten Inhalte beschreiben die nachrichtendienstlichen
+Fähigkeiten und Arbeitsweisen so detailliert, dass eine Bekanntgabe auch gegenüber 
+einem begrenzten Kreis von Empfängern ihrem Schutzbedürfnis nicht
+Rechnung tragen kann. Bei einem Bekanntwerden der schutzbedürftigen
+Information wäre kein Ersatz durch andere Instrumente der Informationsgewinnung 
+möglich.
+Ressort 
+inklusive
+Geschäftsbereich
+Software-
+Entwicklungsaufträge insgesamt
+Davon Open 
+Source
+Beauftragungen
+Veröffentlichung 
+Open Source 
+Beauftragung 
+auf Plattform
+Davon auf 
+Open Code
+veröffentlicht
+AA 24 8 7 0
+BKM 6 3 0 0
+BMAS 0 0 0 0
+BMBFSFJ 10 7 5 4
+BMJV 0 0 0 0
+BMLEH 40 4 0 0
+BMF 25 0 0 0
+BMG 4 3 1 1
+BMV 41 4 4 0
+BMUKN 40 33 27* 2
+BMVg 6 1 1 1
+BMWE 38 9 1 1
+BMZ 7 2 2 0
+BPA 0 0 0 0
+BMI 206 29 2 1
+BMDS 7 5 3 4
+BMFTR 7 0 0 0
+BMWSB 0 0 0 0
+BKAmt 3 1 0 0
+* Hinweis BMUKN: Der auf GitHub veröffentlichte Code wurde auf Open Code eingestellt,
+allerdings noch nicht öffentlich zugänglich gemacht. Der Code ist identisch zu den
+Veröffentlichungen auf GitHub.
+14. Wie sollen aus Sicht der Bundesregierung der Betrieb und die
+Weiterentwicklung der Plattform openCode, die derzeit Ländern und Kommunen 
+kostenlos zur Verfügung steht, und die auch das BMDS für seinen
+Beteiligungsprozess zum Deutschland-Stack nutzt, langfristig finanziert
+werden?
+Die ZenDiS GmbH wurde seitens BMDS aufgefordert, ein nachhaltiges
+Finanzierungskonzept bis Ende des Jahres 2026 vorzulegen
+15. Ist eine dauerhafte Beauftragung für openCode durch die
+Bundesregierung geplant?
+Eine dauerhafte Beauftragung für openCode ist nicht geplant.
+16. Hat das BMDS das ZenDiS für die Nutzung der Plattform für den
+Beteiligungsprozess für den Deutschland-Stack einzeln kostenpflichtig
+beauftragt?
+Das Bundesministerium für Digitales und Staatsmodernisierung hat
+Unterstützungsleistungen für technische Konfiguration und technischen Support in Höhe 
+von 46 828,77 Euro aus einem bestehenden technischen Unterstützungsauftrag 
+zum Deutschland-Stack bei ZenDiS abgerufen. Eine Einzelbeauftragung erfolgt 
+nicht. Die Nutzung von OpenCode für den Beteiligungsprozess erfolgt
+kostenfrei.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

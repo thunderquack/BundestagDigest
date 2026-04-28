@@ -1,5 +1,32 @@
 [
   {
+    "number": "21/5465",
+    "author": "die Grünen",
+    "date": "2026-04-21",
+    "title": "Состояние шлюзов, плотин и мостов на федеральных водных путях",
+    "description_ru": "Депутаты задают вопросы о состоянии инфраструктуры шлюзов, плотин и мостов на федеральных водных путях Германии, указывая на необходимость обновления и ремонта. Они интересуются, сколько объектов старше 40, 50, 60, 70, 80, 90 и 100 лет, а также какие из них требуют срочного ремонта или замены. Правительство отвечает, что информация о состоянии объектов не может быть обнародована из-за соображений безопасности, так как это может привести к рискам для инфраструктуры. Вопросы о состоянии и ремонте шлюзов и мостов остаются актуальными, но правительство подчеркивает важность защиты критической инфраструктуры.",
+    "description_de": "Die Abgeordneten stellen Fragen zum Zustand der Infrastruktur von Schleusen, Wehren und Brücken an den Bundeswasserstraßen Deutschlands und betonen die Notwendigkeit von Erneuerungen und Reparaturen. Sie erkundigen sich, wie viele Bauwerke älter als 40, 50, 60, 70, 80, 90 und 100 Jahre sind und welche dringend sanierungsbedürftig oder ersetzt werden müssen. Die Bundesregierung antwortet, dass Informationen über den Zustand der Bauwerke aus Sicherheitsgründen nicht veröffentlicht werden können, da dies Risiken für die Infrastruktur darstellen könnte. Fragen zum Zustand und zur Sanierung von Schleusen und Brücken bleiben relevant, aber die Bundesregierung betont die Bedeutung des Schutzes kritischer Infrastrukturen.",
+    "saved_date": "2026-04-28"
+  },
+  {
+    "number": "21/5503",
+    "author": "AfD",
+    "date": "2026-04-21",
+    "title": "Развитие систем для систематической детекции дронов",
+    "description_ru": "Депутаты интересуются, какие меры предпринимает правительство для разработки систем детекции дронов вблизи аэропортов, учитывая недавние инциденты с дронами. Правительство отвечает, что работа над такими системами ведется, но финансирование было приостановлено. В настоящее время разрабатываются новые технологии и меры по защите от дронов, включая создание совместного центра по борьбе с дронами.",
+    "description_de": "Die Abgeordneten fragen, welche Maßnahmen die Bundesregierung zur Entwicklung von Drohnendetektionssystemen in der Nähe von Flughäfen ergreift, angesichts der jüngsten Vorfälle mit Drohnen. Die Bundesregierung antwortet, dass an solchen Systemen gearbeitet wird, die Finanzierung jedoch pausiert wurde. Derzeit werden neue Technologien und Maßnahmen zum Schutz vor Drohnen entwickelt, einschließlich der Einrichtung eines gemeinsamen Drohnenabwehrzentrums.",
+    "saved_date": "2026-04-28"
+  },
+  {
+    "number": "21/5502",
+    "author": "die Linke",
+    "date": "2026-04-22",
+    "title": "Развитие и финансирование Центра цифрового суверенитета",
+    "description_ru": "Депутаты из фракции \"Die Linke\" задают вопросы о развитии и финансировании Центра цифрового суверенитета. Они выражают обеспокоенность по поводу зависимости от крупных технологических компаний и недостатка финансирования для Центра. Правительство отвечает, что работа над привлечением финансирования продолжается, и что они стремятся улучшить цифровую суверенность в публичной администрации, включая развитие Open Source программного обеспечения.",
+    "description_de": "Die Abgeordneten der Fraktion \"Die Linke\" stellen Fragen zur Entwicklung und Finanzierung des Zentrums für Digitale Souveränität. Sie äußern Bedenken hinsichtlich der Abhängigkeit von großen Technologieunternehmen und dem Mangel an Finanzierung für das Zentrum. Die Bundesregierung antwortet, dass die Arbeit an der Sicherstellung von Finanzmitteln fortgesetzt wird und dass sie bestrebt sind, die digitale Souveränität in der öffentlichen Verwaltung zu verbessern, einschließlich der Entwicklung von Open Source-Software.",
+    "saved_date": "2026-04-28"
+  },
+  {
     "number": "21/5454",
     "author": "AfD",
     "date": "2026-04-14",
@@ -195,33 +222,6 @@
     "title": "Иллегальная каннабисовая контрабанда из США",
     "description_ru": "Депутаты интересуются увеличением незаконного ввоза каннабиса из США в Германию через почтовые и курьерские отправления. Они задают вопросы о количестве задержаний, типах продуктов и методах контрабанды. Правительство отвечает, что у него нет статистики по задержаниям и не может предоставить детальную информацию о маршрутах и методах, используемых контрабандистами. Также подчеркивается, что борьба с международной наркопреступностью требует постоянного обновления методов и сотрудничества с международными партнерами.",
     "description_de": "Die Abgeordneten fragen nach dem Anstieg des illegalen Cannabisimports aus den USA über Post- und Paketsendungen nach Deutschland. Sie stellen Fragen zu den Anzahl der Sicherstellungen, Produktarten und Schmuggelmethoden. Die Bundesregierung antwortet, dass keine Statistiken über Sicherstellungen vorliegen und keine detaillierten Informationen über Routen und Methoden der Täter bereitgestellt werden können. Zudem wird betont, dass die Bekämpfung der internationalen Drogenkriminalität eine ständige Anpassung der Methoden und die Zusammenarbeit mit internationalen Partnern erfordert.",
-    "saved_date": "2026-04-23"
-  },
-  {
-    "number": "21/5410",
-    "author": "AfD",
-    "date": "2026-04-14",
-    "title": "Закупка лазерного оружия для ВМС",
-    "description_ru": "Депутаты интересуются, каковы результаты испытаний лазерного оружия, разработанного для немецкого флота, и почему проект не был продолжен. Правительство подтверждает, что разработка лазерного оружия необходима для закрытия существующих пробелов в возможностях ВМС. Однако, несмотря на положительные результаты испытаний, не было запущено структурированного процесса закупки лазерного оружия для морских единиц.",
-    "description_de": "Die Abgeordneten fragen nach den Ergebnissen der Erprobung des für die Deutsche Marine entwickelten Laserwaffensystems und warum das Projekt nicht fortgeführt wurde. Die Bundesregierung bestätigt, dass die Entwicklung von Laserwaffen notwendig ist, um bestehende Fähigkeitslücken der Marine zu schließen. Trotz positiver Testergebnisse wurde jedoch kein strukturierter Beschaffungsprozess für Laserwaffen für seegehende Einheiten gestartet.",
-    "saved_date": "2026-04-23"
-  },
-  {
-    "number": "5413",
-    "author": "die Linke",
-    "date": "2026-04-14",
-    "title": "Лицензионные расходы федерального правительства на продукты Microsoft",
-    "description_ru": "Депутаты интересуются, насколько сильно федеральное правительство зависит от продуктов Microsoft и других американских технологических компаний, а также какие расходы оно несет на лицензии. В ответ правительство сообщает, что в 2025 году расходы на лицензии Microsoft составили 481,4 миллиона евро. Также упоминается, что правительство не может предоставить точные данные о будущих расходах из-за предстоящего повышения цен со стороны Microsoft.",
-    "description_de": "Die Abgeordneten fragen, inwieweit die Bundesregierung von Microsoft und anderen US-Technologiekonzernen abhängig ist und welche Lizenzkosten anfallen. In der Antwort gibt die Bundesregierung an, dass die Ausgaben für Microsoft-Lizenzen im Jahr 2025 481,4 Millionen Euro betrugen. Zudem wird erwähnt, dass die Bundesregierung keine genauen Angaben zu zukünftigen Kosten machen kann, da eine Preiserhöhung von Microsoft bevorsteht.",
-    "saved_date": "2026-04-23"
-  },
-  {
-    "number": "21/5411",
-    "author": "die Grünen",
-    "date": "2026-04-15",
-    "title": "Ум restructuring des Bundesprogramms „Demokratie Leben!“",
-    "description_ru": "Депутаты задают вопросы о сроках и процессе разработки новой Förderrichtlinie для программы \"Demokratie Leben!\". Они интересуются, как будет обеспечено участие различных организаций в этом процессе и как будут учтены результаты предыдущих оценок программы. Правительство отвечает, что процесс еще не завершен, и детали будут предоставлены позже. Также поднимается вопрос о том, как новые требования повлияют на проектные организации и их финансирование.",
-    "description_de": "Die Abgeordneten stellen Fragen zum Zeitplan und Prozess der Erarbeitung der neuen Förderrichtlinie für das Programm \"Demokratie Leben!\". Sie interessieren sich dafür, wie die Beteiligung verschiedener Organisationen an diesem Prozess sichergestellt wird und wie die Ergebnisse vorheriger Bewertungen der Programme berücksichtigt werden. Die Bundesregierung antwortet, dass der Prozess noch nicht abgeschlossen ist und weitere Details später bereitgestellt werden. Es wird auch die Frage aufgeworfen, wie sich die neuen Anforderungen auf die Projektorganisationen und deren Finanzierung auswirken werden.",
     "saved_date": "2026-04-23"
   }
 ]

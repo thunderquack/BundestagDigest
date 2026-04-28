@@ -1,166 +1,153 @@
-Deutscher Bundestag Drucksache 21/5324 
-21. Wahlperiode 14.04.2026 
 Antrag 
-der Abgeordneten Adam Balten, Leif-Erik Holm, Steffen Kotré, Dr. Malte Kaufmann, 
-Marc Bernhard, Enrico Komning, Raimond Scheirich, Uwe Schulz, Mathias Weiser, 
-Dr. Rainer Kraft, Andreas Mayer, Christian Reck, Manfred Schiller, Dr. Christoph 
-Birghan, Joachim Bloch, Dr. Michael Blos, René Bochmann, Peter Boehringer, 
-Erhard Brucker, Thomas Dietz, Tobias Ebenberger, Hans-Jürgen Goßner, Rainer 
-Groß, Udo Theodor Hemmelgarn, Olaf Hilmer, Dr. Michael Kaufmann, Rocco Kever, 
-Kurt Kleinschmidt, Heinrich Koch, Achim Köhler, Edgar Naujok, Andreas Paul, 
-Tobias Matthias Peterka, Dr. Rainer Rotfuß, Martina Uhr, Sven Wendorf, Wolfgang 
-Wiehle und der Fraktion der AfD 
+der Abgeordneten Adam Balten, Leif-Erik Holm, Steffen Kotré, Dr. Malte 
+Kaufmann, Marc Bernhard, Enrico Komning, Raimond Scheirich, Uwe Schulz, 
+Mathias Weiser, Dr. Rainer Kraft, Andreas Mayer, Christian Reck, Manfred 
+Schiller, Dr. Christoph Birghan, Joachim Bloch, Dr. Michael Blos, René 
+Bochmann, Peter Boehringer, Erhard Brucker, Thomas Dietz, Tobias 
+Ebenberger, Hans-Jürgen Goßner, Rainer Groß, Udo Theodor Hemmelgarn, 
+Olaf Hilmer, Dr. Michael Kaufmann, Rocco Kever, Kurt Kleinschmidt, Heinrich 
+Koch, Achim Köhler, Edgar Naujok, Andreas Paul, Tobias Matthias Peterka, 
+Dr. Rainer Rothfuß, Martina Uhr, Sven Wendorf, Wolfgang Wiehle und der 
+Fraktion der AfD 
 Kleine modulare Reaktoren ermöglichen – Rechenzentren fördern und 
 Stromversorgung sichern 
 Der Bundestag wolle beschließen: 
-I. Der Deutsche Bundestag stellt fest:
+I. Der Deutsche Bundestag stellt fest: 
 Deutschlands zukünftige wirtschaftliche Wettbewerbsfähigkeit und digitale
 Souveränität hängen entscheidend von der Fähigkeit ab, die rasant wachsende
-Energienachfrage der digitalen Transformation zu meistern.1 Insbesondere die
-rasanten Fortschritte in den Bereichen Künstliche Intelligenz (KI), Cloud-Dienste und 
-5G-Mobilfunk schaffen neue Wertschöpfungspotenziale, bergen jedoch
-gleichzeitig eine immense Herausforderung: einen beispiellosen und erheblich
-wachsenden Bedarf an elektrischer Energie.2 Dieser Anstieg ist keine ferne Prognose, 
-sondern eine bereits stattfindende Entwicklung, die unsere Energieinfrastruktur 
-an ihre Grenzen bringen wird. 
-Internationale Analysen quantifizieren diese Entwicklung mit alarmierender 
-Deutlichkeit. Der weltweite Stromverbrauch von Rechenzentren lag im Jahr 2022 
-bei 460 Terawattstunden (TWh) und wird sich Prognosen zufolge bis 2026 auf 
-über 1.000 TWh mehr als verdoppeln.3 Treiber dieser Entwicklung ist vor allem 
-der immense Energiehunger von KI-Anwendungen; eine einzige KI-Anfrage 
-kann bis zu zehnmal mehr Energie verbrauchen als eine herkömmliche Google-
-Suche.4 Dieses exponentielle Wachstum stellt eine fundamentale
-Herausforderung für die Stabilität des deutschen Stromnetzes und die bisherigen Strategien 
-1  https://www.zeit.de/news/2025-01/24/boom-bei-rechenzentren-fordert-stromnetze-heraus 
-2  Ibid. 
-3 https://www.focus.de/earth/energie/fuer-tech-giganten-ist-kernkraft-die-einzige-loesung-trotz-aller-ge-
-fahren_2048b348-e595-4a73-93fa-f777140f6047.html 
+Energienachfrage der digitalen Transformation zu meistern.1 Insbesondere die rasanten Fortschritte 
+in den Bereichen Künstliche Intelligenz (KI), Cloud-Dienste und 5G-Mobilfunk
+schaffen neue Wertschöpfungspotenziale, bergen jedoch gleichzeitig eine immense
+Herausforderung: einen beispiellosen und erheblich wachsenden Bedarf an elektrischer
+Energie.2 Dieser Anstieg ist keine ferne Prognose, sondern eine bereits stattfindende
+Entwicklung, die unsere Energieinfrastruktur an ihre Grenzen bringen wird. 
+Internationale Analysen quantifizieren diese Entwicklung mit alarmierender
+Deutlichkeit. Der weltweite Stromverbrauch von Rechenzentren lag im Jahr 2022 bei 460
+Terawattstunden (TWh) und wird sich Prognosen zufolge bis 2026 auf über 1.000 TWh 
+mehr als verdoppeln.3 Treiber dieser Entwicklung ist vor allem der immense
+Energiehunger von KI-Anwendungen; eine einzige KI-Anfrage kann bis zu zehnmal mehr 
+Energie verbrauchen als eine herkömmliche Google-Suche.4 Dieses exponentielle 
+Wachstum stellt eine fundamentale Herausforderung für die Stabilität des deutschen 
+ 
+1 www.zeit.de/news/2025-01/24/boom-bei-rechenzentren-fordert-stromnetze-heraus 
+2 Ibid. 
+3 www.focus.de/earth/energie/fuer-tech-giganten-ist-kernkraft-die-einzige-loesung-trotz-aller-gefah-
+ren_2048b348-e595-4a73-93fa-f777140f6047.html 
 4 Ibid. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-zur Energieversorgung dar und erfordert dringend neue, innovative
-Lösungsansätze. 
+Deutscher Bundestag Drucksache 21/5324 
+21. Wahlperiode 14.04.2026
+Stromnetzes und die bisherigen Strategien zur Energieversorgung dar und erfordert 
+dringend neue, innovative Lösungsansätze. 
 Rechenzentren benötigen eine kontinuierliche, unterbrechungsfreie und
-grundlastfähige Stromversorgung, die 24 Stunden am Tag, sieben Tage die Woche
-gewährleistet ist. Die geforderte technische Verfügbarkeit liegt bei über 90 Prozent. 
-Dies steht in fundamentalem Gegensatz zur intermittierenden Natur von
-wetterabhängigen „erneuerbaren“ Energien. Solarenergie erreicht eine Verfügbarkeit 
-von lediglich 10–30 Prozent je nach geographischer Breite (in Deutschland 12 bis 
-13 Prozent), während Windenergie auf 35–45 Prozent kommt.5 Eine alleinige
-Abhängigkeit von diesen volatilen Energiequellen, ohne derzeit nicht verfügbare, 
-großskalige und kosteneffiziente Speicherlösungen, stellt ein untragbares
-Betriebsrisiko für diese kritische Infrastruktur dar und gefährdet damit nicht nur die 
-Stabilität digitaler Dienste, sondern die Grundfesten der nationalen digitalen
-Souveränität und Sicherheit.6 
+grundlastfähige Stromversorgung, die 24 Stunden am Tag, sieben Tage die Woche gewährleistet 
+ist. Die geforderte technische Verfügbarkeit liegt bei über 90 Prozent. Dies steht in 
+fundamentalem Gegensatz zur intermittierenden Natur von wetterabhängigen
+„erneuerbaren“ Energien. Solarenergie erreicht eine Verfügbarkeit von lediglich 10–30
+Prozent je nach geographischer Breite (in Deutschland 12 bis 13 Prozent), während
+Windenergie auf 35–45 Prozent kommt.5 Eine alleinige Abhängigkeit von diesen volatilen 
+Energiequellen, ohne derzeit nicht verfügbare, großskalige und kosteneffiziente
+Speicherlösungen, stellt ein untragbares Betriebsrisiko für diese kritische Infrastruktur dar 
+und gefährdet damit nicht nur die Stabilität digitaler Dienste, sondern die Grundfesten 
+der nationalen digitalen Souveränität und Sicherheit.6 
 Für die Deckung des dauerhaft vorhandenen Strombedarfs würde sich die
-Wiederinbetriebnahme der drei 2023 in Deutschland abgeschalteten Kernkraftwerke 
-anbieten. Diese Maßnahme sollte priorisiert werden. Zusätzlich stellen kleine
-modulare Reaktoren (engl.: Small Modular Reactors; im Folgenden „SMRs“) eine 
-vielversprechende technologische Lösung für dieses Problem dar, die weltweit 
-zunehmend an Bedeutung gewinnt. Ein Blick auf internationale Entwicklungen 
-unterstreicht die Dringlichkeit: In der Volksrepublik China soll mit dem SMR 
-„Linglong One“ (ACP100) im Jahr 2026 erstmals weltweit ein kommerzieller 
-landbasierter SMR in Betrieb gehen und damit einen strategischen Vorsprung im 
-globalen Wettbewerb um standardisierte, exportfähige Reaktortechnologie
-markieren. Während andere Industrienationen noch in Genehmigungs- oder
-Pilotphasen verharren, schafft China damit Fakten und positioniert sich als führender
-Anbieter für die energieintensive digitale Infrastruktur der Zukunft.7 Es handelt sich 
-um kleinere, in Fabriken modular vorgefertigte Kernreaktoren (sogenannte 
-„Mini-AKW“) mit einer elektrischen Leistung, die typischerweise zwischen 5 und 
-300 MW pro Modul liegt.8 Durch eine mögliche Serienfertigung in Fabriken wird 
-die Bauzeit von 5-10 Jahren bei konventionellen Anlagen auf nur 24-36 Monate 
-verkürzt, was die Planungs- und Investitionssicherheit signifikant erhöht. Mit
-einem Verfügbarkeitsfaktor von über 90 Prozent sind SMRs prädestiniert für die 
-Bereitstellung von Grundlaststrom und können die Versorgungslücke kurzfristig 
-schließen, die durch die Volatilität von Wind und Sonne entsteht.9 Die
-strategische Ansiedlung von SMRs in unmittelbarer Nähe zu Rechenzentren ist mehr als 
-nur eine Lösung für die Stromversorgung. Sie eröffnet eine wegweisende
-Möglichkeit zur Sektor-Kopplung und schafft Synergien, die ein bisher unerreichtes 
-Maß an Energieeffizienz ermöglichen. 
-Sowohl SMRs als auch Rechenzentren erzeugen im Betrieb erhebliche Mengen 
-an Abwärme. Die Abwärme von Rechenzentren hat ein Temperaturniveau von 
-typischerweise 35–45 °C und eignet sich damit zur Einspeisung in städtische 
-Fernwärmenetze.10 Durch die Kopplung beider Systeme entsteht ein
-hocheffizientes Kraft-Wärme-Kopplungs-System (KWK), das einen Gesamtwirkungsgrad 
-von über 80 Prozent erreichen kann. Auf diese Weise wird nicht nur
-kostengünstiger, umweltfreundlicher und verlässlicher Strom für die Digitalisierung erzeugt, 
+Wiederinbetriebnahme der drei 2023 in Deutschland abgeschalteten Kernkraftwerke anbieten. 
+Diese Maßnahme sollte priorisiert werden. Zusätzlich stellen kleine modulare
+Reaktoren (engl.: Small Modular Reactors; im Folgenden „SMRs“) eine vielversprechende 
+technologische Lösung für dieses Problem dar, die weltweit zunehmend an Bedeutung 
+gewinnt. Ein Blick auf internationale Entwicklungen unterstreicht die Dringlichkeit: 
+In der Volksrepublik China soll mit dem SMR „Linglong One“ (ACP100) im Jahr 
+2026 erstmals weltweit ein kommerzieller landbasierter SMR in Betrieb gehen und 
+damit einen strategischen Vorsprung im globalen Wettbewerb um standardisierte,
+exportfähige Reaktortechnologie markieren. Während andere Industrienationen noch in 
+Genehmigungs- oder Pilotphasen verharren, schafft China damit Fakten und
+positioniert sich als führender Anbieter für die energieintensive digitale Infrastruktur der
+Zukunft.7 Es handelt sich um kleinere, in Fabriken modular vorgefertigte Kernreaktoren 
+(sogenannte „Mini-AKW“) mit einer elektrischen Leistung, die typischerweise
+zwischen 5 und 300 MW pro Modul liegt.8 Durch eine mögliche Serienfertigung in
+Fabriken wird die Bauzeit von 5-10 Jahren bei konventionellen Anlagen auf nur 24–36 
+Monate verkürzt, was die Planungs- und Investitionssicherheit signifikant erhöht. Mit 
+einem Verfügbarkeitsfaktor von über 90 Prozent sind SMRs prädestiniert für die
+Bereitstellung von Grundlaststrom und können die Versorgungslücke kurzfristig
+schließen, die durch die Volatilität von Wind und Sonne entsteht.9 Die strategische
+Ansiedlung von SMRs in unmittelbarer Nähe zu Rechenzentren ist mehr als nur eine Lösung 
+für die Stromversorgung. Sie eröffnet eine wegweisende Möglichkeit zur
+Sektorkopplung und schafft Synergien, die ein bisher unerreichtes Maß an Energieeffizienz
+ermöglichen. 
+Sowohl SMRs als auch Rechenzentren erzeugen im Betrieb erhebliche Mengen an
+Abwärme. Die Abwärme von Rechenzentren hat ein Temperaturniveau von
+typischerweise 35–45 °C und eignet sich damit zur Einspeisung in städtische Fernwärmenetze.10 
+Durch die Kopplung beider Systeme entsteht ein hocheffizientes Kraft-Wärme-
+Kopplungs-System (KWK), das einen Gesamtwirkungsgrad von über 80 Prozent erreichen 
+kann. Auf diese Weise wird nicht nur kostengünstiger, umweltfreundlicher und
+verlässlicher Strom für die Digitalisierung erzeugt, sondern gleichzeitig eine effiziente 
+Wärmequelle für umliegende Kommunen erschlossen. 
+Abschließend bieten SMRs laut dem Vorsitzenden der Internationalen Energieagentur 
+(IEA), Fatih Birol, die Möglichkeit den „historischen Fehler“ des deutschen Ausstiegs 
  
 5 Ibid. 
-6 https://www.se.com/ww/en/download/document/SPD_WP186_EN/ 
+6 www.se.com/ww/en/download/document/SPD_WP186_EN/ 
 7 https://introl.com/de/blog/china-linglong-one-smr-first-commercial-nuclear-2026 
 8 https://de.introl.com/blog/smr-nuclear-power-ai-data-centers-2025 
 9 Ibid. 
-10 Ibid. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-sondern gleichzeitig eine effiziente Wärmequelle für umliegende Kommunen
-erschlossen. 
-Abschließend bieten SMRs laut dem Vorsitzenden der Internationalen
-Energieagentur (IEA), Fatih Birol, die Möglichkeit den „historischen Fehler“ des
-deutschen Ausstiegs aus der Kernkraft zu korrigieren, und nicht nur dem Beispiel
-Italiens zu folgen, das gerade den Wiedereinstieg in die Kernkraft mit SMRs
-beschlossen hat, sondern von den ab 2030 sinkenden Stückkosten von bis zu 30
-Prozent innerhalb von nur fünf Jahren zu profitieren.11 
+10 Ibid.
+aus der Kernkraft zu korrigieren, und nicht nur dem Beispiel Italiens zu folgen, das 
+gerade den Wiedereinstieg in die Kernkraft mit SMRs beschlossen hat, sondern von 
+den ab 2030 sinkenden Stückkosten von bis zu 30 Prozent innerhalb von nur fünf
+Jahren zu profitieren.11 
 II. Der Deutsche Bundestag fordert die Bundesregierung auf, 
-1. einen technologieoffenen, rechtssicheren und effizienten Regulierungs- und 
-Genehmigungsrahmen für Small Modular Reactors (SMRs) der Generationen 
-III+ und IV zu entwickeln; 
-2. die Initiierung von Pilotprojekten zur Erprobung der SMR-gestützten
-Energie- und Wärmeversorgung zu fördern; 
-3. ein nationales Forschungs- und Entwicklungsprogramm aufzulegen, um die 
-Errichtung und den Betrieb von mindestens zwei Pilotprojekten zu
-unterstützen. Diese Projekte sollen die technische und wirtschaftliche Machbarkeit der 
-gekoppelten Versorgung eines großen Rechenzentrums mit Strom und die 
-gleichzeitige Einspeisung von Prozesswärme in ein kommunales
-Fernwärmenetz demonstrieren; 
-4. als zusätzliche Unterstützungsoption die Kopplung von SMR-betriebenen 
-Rechenzentren an kommunale Wärmenetze als Anschubfördervoraussetzung 
+1. einen technologieoffenen, rechtssicheren und effizienten Regulierungs- und
+Genehmigungsrahmen für Small Modular Reactors (SMRs) der Generationen III+ 
+und IV zu entwickeln; 
+2. die Initiierung von Pilotprojekten zur Erprobung der SMR-gestützten Energie- 
+und Wärmeversorgung zu fördern; 
+3. ein nationales Forschungs- und Entwicklungsprogramm aufzulegen, um die
+Errichtung und den Betrieb von mindestens zwei Pilotprojekten zu unterstützen. 
+Diese Projekte sollen die technische und wirtschaftliche Machbarkeit der
+gekoppelten Versorgung eines großen Rechenzentrums mit Strom und die gleichzeitige 
+Einspeisung von Prozesswärme in ein kommunales Fernwärmenetz
+demonstrieren; 
+4. als zusätzliche Unterstützungsoption die Kopplung von SMR-betriebenen
+Rechenzentren an kommunale Wärmenetze als Anschubfördervoraussetzung
 festzuschreiben; 
-5. eine detaillierte, umfassende und langfristige Strategie für den gesamten 
-Brennstoffkreislauf von SMR vorzulegen. Diese Strategie muss transparente 
-Lösungen für die sichere Lagerung und Handhabung der radioaktiven Rest- 
-und Wertstoffe, die Förderung der Forschung an fortschrittlichen Recycling-
-Technologien, die auch eine transparente und belastbare Kostenschätzung für 
-die Zwischenlagerung beinhalten, um Investitionssicherheit zu schaffen und 
-die langfristige Akzeptanz der Technologie in der Öffentlichkeit zu
-gewährleisten; 
+5. eine detaillierte, umfassende und langfristige Strategie für den gesamten
+Brennstoffkreislauf von SMR vorzulegen. Diese Strategie muss transparente Lösungen 
+für die sichere Lagerung und Handhabung der radioaktiven Rest- und Wertstoffe, 
+die Förderung der Forschung an fortschrittlichen Recycling-Technologien, die 
+auch eine transparente und belastbare Kostenschätzung für die Zwischenlagerung 
+beinhalten, um Investitionssicherheit zu schaffen und die langfristige Akzeptanz 
+der Technologie in der Öffentlichkeit zu gewährleisten; 
 6. internationale Kooperationen zu intensivieren und die Standardisierung von 
 SMR-Technologien voranzutreiben. Die Mitarbeit in der Europäischen
-Industrieallianz für SMRs sowie in internationalen Gremien wie dem „SMR-
-Regulators' Forum“12 der Internationalen Atomenergie-Organisation (IAEO) 
-ist anzustreben bzw. zu intensivieren. Ziel ist es, die Entwicklung und
-Harmonisierung gemeinsamer Sicherheitsstandards und Genehmigungsverfahren 
-für standardisierte SMR-Designs zu beschleunigen. 
+Industrieallianz für SMRs sowie in internationalen Gremien wie dem „SMR-Regulators‘ 
+Forum“12 der Internationalen Atomenergie-Organisation (IAEO) ist anzustreben 
+bzw. zu intensivieren. Ziel ist es, die Entwicklung und Harmonisierung
+gemeinsamer Sicherheitsstandards und Genehmigungsverfahren für standardisierte 
+SMR-Designs zu beschleunigen. 
 Berlin, den 14. April 2026  
-Dr. Alice Weidel, Tino Chrupalla und Fraktion
+Dr. Alice Weidel, Tino Chrupalla und Fraktion 
+  
  
- 
-11 https://www.welt.de/politik/deutschland/plus69825801117641740b4bcb2f/energie-fast-die-ganze-welt-
-setzt-wieder-auf-kernenergie-das-sollte-den-deutschen-zu-denken-geben.html 
-12 https://www.iaea.org/topics/small-modular-reactors/smr-regulators-forum 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+11 www.welt.de/politik/deutschland/plus69825801117641740b4bcb2f/energie-fast-die-ganze-welt-setzt-wieder-auf-kernenergie-das-sollte-den-
+deutschen-zu-denken-geben.html 
+12 www.iaea.org/topics/small-modular-reactors/smr-regulators-forum
 Begründung 
 Führende internationale Technologiekonzerne wie Amazon, Google und Microsoft13 haben die strategische
 Bedeutung dieser Technologie erkannt und investieren bereits Milliarden in die Entwicklung und den Einsatz von 
 SMRs, um die Energieversorgung ihrer globalen Rechenzentrumsflotten umweltfreundlich l und zuverlässig zu 
 sichern.14 So hat Google beispielsweise bereits im Oktober 2024 den weltweit ersten Stromabnahmevertrag eines 
 Unternehmens für SMR-Leistung mit Kairos Power unterzeichnet und damit ein unmissverständliches
-Marktsignal für die kommerzielle Reife der Technologie gesetzt.15 Dies unterstreicht die technologische und wirtschaftliche 
-Tragfähigkeit dieses Ansatzes. Diese massiven privaten Investitionen signalisieren, dass die weltweit führenden 
-Digitalunternehmen SMRs nicht als eine hypothetische Option, sondern als eine entscheidende Voraussetzung für 
-ihr zukünftiges Wachstum betrachten.16 Gleichwohl ist festzuhalten, dass SMR-Technologien derzeit international 
-noch nicht in Großindustriellem Maßstab skaliert verfügbar sind. Der vorliegende Antrag zielt daher ausdrücklich 
-auf die frühzeitige strategische Standortidentifikation, planerische Sicherung geeigneter Areale sowie die
-regulatorische und infrastrukturelle Vorbereitung ab, um Deutschland rechtzeitig auf eine absehbare Marktreife
-vorzubereiten. Eine verantwortungsvolle Planung erfordert jedoch auch eine ausgewogene Betrachtung der potenziellen 
-Risiken. 
+Marktsignal für die kommerzielle Reife der Technologie gesetzt.15 Dies unterstreicht die technologische und
+wirtschaftliche Tragfähigkeit dieses Ansatzes. Diese massiven privaten Investitionen signalisieren, dass die weltweit
+führenden Digitalunternehmen SMRs nicht als eine hypothetische Option, sondern als eine entscheidende
+Voraussetzung für ihr zukünftiges Wachstum betrachten.16 Gleichwohl ist festzuhalten, dass SMR-Technologien derzeit 
+international noch nicht in Großindustriellem Maßstab skaliert verfügbar sind. Der vorliegende Antrag zielt daher 
+ausdrücklich auf die frühzeitige strategische Standortidentifikation, planerische Sicherung geeigneter Areale
+sowie die regulatorische und infrastrukturelle Vorbereitung ab, um Deutschland rechtzeitig auf eine absehbare 
+Marktreife vorzubereiten. Eine verantwortungsvolle Planung erfordert jedoch auch eine ausgewogene
+Betrachtung der potenziellen Risiken. 
 Das Kernkonzept ist die strategische Koppelung von SMR zur dedizierten umweltfreundlichen Stromversorgung 
-von Hochleistungsrechenzentren mit der intelligenten Nutzung der anfallenden Abwärme. Durch diese Sektor-
-Kopplung wird die Abwärme des Reaktors und des Rechenzentrums in ein urbanes Fernwärmenetz eingespeist, 
+von Hochleistungsrechenzentren mit der intelligenten Nutzung der anfallenden Abwärme. Durch diese
+Sektorkopplung wird die Abwärme des Reaktors und des Rechenzentrums in ein urbanes Fernwärmenetz eingespeist, 
 wodurch eine hocheffiziente und CO2-arme Wärmeversorgung für Städte ermöglicht wird. Anstatt zwei separate 
 Probleme zu lösen, schafft dieser Ansatz eine Symbiose, die zudem die Netzstabilität erhöht. 
 Die vorgeschlagene Symbiose aus Small Modular Reactors und Hochleistungsrechenzentren ist mehr als nur eine 
@@ -169,16 +156,15 @@ die KI-Infrastruktur, sondern stärkt die digitale Souveränität und Wettbewerb
 globalen Technologiewettlauf. Ein Scheitern bei der Bereitstellung hochdichter umweltfreundlicher Energie für 
 diesen Zukunftssektor wäre nicht nur ein energiepolitisches Versäumnis, sondern ein direktes Risiko für unseren 
 wirtschaftlichen Wohlstand. Dieser integrierte Ansatz verwandelt den steigenden Energiebedarf der
-Digitalwirtschaft von einer Belastung in einen Katalysator für eine effiziente und saubere urbane Wärmeversorgung.
+Digitalwirtschaft von einer Belastung in einen Katalysator für eine effiziente und saubere urbane Wärmeversorgung. 
  
- 
- 
-13 https://www.theregister.com/2024/01/23/microsoft_nuclear_hires/ 
-14 https://www.euronews.com/business/2024/10/17/amazon-follows-google-in-taking-the-nuclear-option-
-to-power-data-centres 
+13 www.theregister.com/2024/01/23/microsoft_nuclear_hires/ 
+14 www.euronews.com/business/2024/10/17/amazon-follows-google-in-taking-the-nuclear-option-to-power-data-centres 
 15 https://blog.google/outreach-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/ 
-16 https://www.cnbc.com/2024/09/10/oracle-is-designing-a-data-center-that-would-be-powered-by-three-
-small-nuclear-reactors.html 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+16 www.cnbc.com/2024/09/10/oracle-is-designing-a-data-center-that-would-be-powered-by-three-small-nuclear-reactors.html 
+
+
+
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

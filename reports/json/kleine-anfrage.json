@@ -7621,5 +7621,32 @@
     "description_ru": "Депутаты задают вопросы о распространении шильф-стекляннокрылой цикады в Германии, её влиянии на сельское хозяйство и возможных мерах борьбы с ней. Правительство отвечает, что распространение цикады наблюдается с 2017 года, и ожидается дальнейшее увеличение её численности. Указаны культуры, которые могут пострадать от её распространения, такие как сахарная свекла и картофель. Правительство также сообщает о недостатке данных о возможных экономических потерях и о том, что меры борьбы с цикадой находятся на стадии исследования.",
     "description_de": "Die Abgeordneten stellen Fragen zur Verbreitung der Schilf-Glasflügelzikade in Deutschland, zu ihren Auswirkungen auf die Landwirtschaft und zu möglichen Bekämpfungsmaßnahmen. Die Bundesregierung antwortet, dass die Verbreitung der Zikade seit 2017 beobachtet wird und eine weitere Zunahme ihrer Population erwartet wird. Es werden Kulturen genannt, die von ihrer Verbreitung betroffen sein könnten, wie Zuckerrüben und Kartoffeln. Die Bundesregierung berichtet auch über einen Mangel an Daten zu möglichen wirtschaftlichen Schäden und dass Bekämpfungsmaßnahmen derzeit erforscht werden.",
     "saved_date": "2026-04-25"
+  },
+  "21/5465": {
+    "number": "21/5465",
+    "author": "die Grünen",
+    "date": "2026-04-21",
+    "title": "Состояние шлюзов, плотин и мостов на федеральных водных путях",
+    "description_ru": "Депутаты задают вопросы о состоянии инфраструктуры шлюзов, плотин и мостов на федеральных водных путях Германии, указывая на необходимость обновления и ремонта. Они интересуются, сколько объектов старше 40, 50, 60, 70, 80, 90 и 100 лет, а также какие из них требуют срочного ремонта или замены. Правительство отвечает, что информация о состоянии объектов не может быть обнародована из-за соображений безопасности, так как это может привести к рискам для инфраструктуры. Вопросы о состоянии и ремонте шлюзов и мостов остаются актуальными, но правительство подчеркивает важность защиты критической инфраструктуры.",
+    "description_de": "Die Abgeordneten stellen Fragen zum Zustand der Infrastruktur von Schleusen, Wehren und Brücken an den Bundeswasserstraßen Deutschlands und betonen die Notwendigkeit von Erneuerungen und Reparaturen. Sie erkundigen sich, wie viele Bauwerke älter als 40, 50, 60, 70, 80, 90 und 100 Jahre sind und welche dringend sanierungsbedürftig oder ersetzt werden müssen. Die Bundesregierung antwortet, dass Informationen über den Zustand der Bauwerke aus Sicherheitsgründen nicht veröffentlicht werden können, da dies Risiken für die Infrastruktur darstellen könnte. Fragen zum Zustand und zur Sanierung von Schleusen und Brücken bleiben relevant, aber die Bundesregierung betont die Bedeutung des Schutzes kritischer Infrastrukturen.",
+    "saved_date": "2026-04-28"
+  },
+  "21/5503": {
+    "number": "21/5503",
+    "author": "AfD",
+    "date": "2026-04-21",
+    "title": "Развитие систем для систематической детекции дронов",
+    "description_ru": "Депутаты интересуются, какие меры предпринимает правительство для разработки систем детекции дронов вблизи аэропортов, учитывая недавние инциденты с дронами. Правительство отвечает, что работа над такими системами ведется, но финансирование было приостановлено. В настоящее время разрабатываются новые технологии и меры по защите от дронов, включая создание совместного центра по борьбе с дронами.",
+    "description_de": "Die Abgeordneten fragen, welche Maßnahmen die Bundesregierung zur Entwicklung von Drohnendetektionssystemen in der Nähe von Flughäfen ergreift, angesichts der jüngsten Vorfälle mit Drohnen. Die Bundesregierung antwortet, dass an solchen Systemen gearbeitet wird, die Finanzierung jedoch pausiert wurde. Derzeit werden neue Technologien und Maßnahmen zum Schutz vor Drohnen entwickelt, einschließlich der Einrichtung eines gemeinsamen Drohnenabwehrzentrums.",
+    "saved_date": "2026-04-28"
+  },
+  "21/5502": {
+    "number": "21/5502",
+    "author": "die Linke",
+    "date": "2026-04-22",
+    "title": "Развитие и финансирование Центра цифрового суверенитета",
+    "description_ru": "Депутаты из фракции \"Die Linke\" задают вопросы о развитии и финансировании Центра цифрового суверенитета. Они выражают обеспокоенность по поводу зависимости от крупных технологических компаний и недостатка финансирования для Центра. Правительство отвечает, что работа над привлечением финансирования продолжается, и что они стремятся улучшить цифровую суверенность в публичной администрации, включая развитие Open Source программного обеспечения.",
+    "description_de": "Die Abgeordneten der Fraktion \"Die Linke\" stellen Fragen zur Entwicklung und Finanzierung des Zentrums für Digitale Souveränität. Sie äußern Bedenken hinsichtlich der Abhängigkeit von großen Technologieunternehmen und dem Mangel an Finanzierung für das Zentrum. Die Bundesregierung antwortet, dass die Arbeit an der Sicherstellung von Finanzmitteln fortgesetzt wird und dass sie bestrebt sind, die digitale Souveränität in der öffentlichen Verwaltung zu verbessern, einschließlich der Entwicklung von Open Source-Software.",
+    "saved_date": "2026-04-28"
   }
 }
