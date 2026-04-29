@@ -1,0 +1,352 @@
+Deutscher Bundestag Drucksache 21/5520
+21. Wahlperiode 21.04.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Clara Bünger, Anne-Mieke Bremer, 
+Violetta Bock, weiterer Abgeordneter und der Fraktion Die Linke
+– Drucksache 21/4966 –
+IT-Umstellung in Verbindung mit der Umsetzung der GEAS-Reform
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Umsetzung der Reform des Gemeinsamen Europäischen Asylsystems 
+(GEAS) stellt die Behörden vor große Herausforderungen, u. a. erfordert sie 
+weitreichende IT-Anpassungen. Wie der Präsident des Bundesamts für
+Migration und Flüchtlinge (BAMF) in einer Stellungnahme an den Innenausschuss 
+des Deutschen Bundestages ausführte, muss das IT-System seiner Behörde 
+grundlegend neu entwickelt werden (www.bundestag.de/resource/blob/11185
+26/21-4-086-H-Stellungnahme-Dr-H-E-Sommer-BAMF-Nuernberg-GEAS-2
+1-1848-21-1850.pdf). Hinweise auf einen hohen Verwaltungsaufwand finden 
+sich auch bereits im Schwerpunktepapier zum Einzelplan 06 des
+Haushaltsgesetzes 2026 (Ausschussdrucksache 21(4)050b). In Kapitel 06 33 zum BAMF 
+heißt es zur GEAS-Umsetzung: „In der Folge sind allein BAMF-intern über 
+2 000 Instrumente der operativen Steuerung zu überarbeiten und Anpassungen 
+an rund 20‑IT-Systemen und ihren Schnittstellen zu anderen relevanten
+Akteuren vorzunehmen.“ Weiter wird ausgeführt, dass die Prozesse erst nach
+Abschluss des Gesetzgebungsverfahrens finalisiert werden können. Nach der
+Beschlussfassung des Deutschen Bundestages Anfang März 2026 bis zum
+Inkrafttreten des neuen GEAS im Juni 2026 bleiben dafür somit rund drei
+Monate Zeit.
+Formulierungen im GEAS-Anpassungsgesetz deuten auf einen hohen
+Umsetzungsaufwand auch bei anderen Behörden als dem BAMF hin. Die
+Umsetzung der Eurodac- und der Screening-Verordnung machen demnach die
+„umfassende Ertüchtigung“ bestehender bzw. die Einrichtung neuer ED-Räume 
+(ED = Erkennungsdienst) bei der Bundespolizei notwendig, zusätzlich müssen 
+diese Räume mit neuer Technik ausgestattet werden. IT-Anwendungen der 
+Bundespolizei wie INPOL und VBS @rtus-Bund müssen technisch angepasst 
+werden. „Darüber hinaus sind umfassende Programmierleistungen sowie eine 
+fortlaufende Softwarepflege, technische Wartung und Instandhaltung
+erforderlich“, um etwa verfahrensrelevante Fristen einzuhalten (vgl.
+Bundestagsdrucksache 21/1848, S. 74).
+Im GEAS-Anpassungsfolgegesetz ist schließlich von einer derzeit nicht
+bezifferbaren Veränderung des Erfüllungsaufwands in der Verwaltung die Rede: 
+„Insbesondere die Neuregelungen im Asylbewerberleistungsgesetz erfordern 
+Anpassungen der für die Leistungserbringung verwendeten Software-Lösun-
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern vom 21. April 2026 
+übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+gen. Den Trägern des Asylbewerberleistungsgesetzes entsteht Aufwand zur 
+Umstellung. Dieser kann aufgrund der unterschiedlichen Ausprägungen der 
+IT-Systeme und vereinbarten Service- und Supportstrukturen nicht abgeschätzt 
+werden.“ (Bundestagsdrucksache 21/1850, S. 24). An dieser Darstellung übte 
+der Nationale Normenkontrollrat (NKR) deutliche Kritik. Insbesondere
+beanstandete er, dass das Bundesministerium des Innern die Aufwände für die
+Anpassung der IT-Verfahren für Bund und Länder nicht ermittelt habe. Hierzu 
+hätte nach Einschätzung des NKR seit dem Beschluss des Bundeskabinetts 
+zum GEAS in der 20. Wahlperiode ausreichend Zeit bestanden (www.normen
+kontrollrat.bund.de/Webs/NKR/SharedDocs/Downloads/DE/Stellungnahmen/
+nkr-nr-7631.pdf?__blob=publicationFile&v=1, S. 3).
+ 1. Welche IT-Anwendungen und Fachverfahren müssen im Zuge der
+Umsetzung der GEAS-Reform
+a) beim Bundesamt für Migration und Flüchtlinge,
+Folgende IT-Anwendungen und Fachverfahren werden im Bundesamt für
+Migration und Flüchtlinge (BAMF) im Zuge der Umsetzung der GEAS-Reform 
+angepasst:
+• BABS (Bundesamt Bereitstellung Sprachmittlung)
+• BAMF-AZR-SST (BAMF-Ausländerzentralregister-Schnittstelle)
+• beBPo (besonderes Behördenpostfach)
+• Donkey (Decision Officer Navigation Keyboard)
+• DubliNet (DubliNET- Mailsystem)
+• Dublis (Dublin-Liste)
+• ÜDB (Überstellungsdatenbank)
+• EDEN (Erkennungsdienstliche Datenerfassungs- und Netzschnittstelle)
+• ERIS (Erstregistrierungsschnittstelle)
+• FLORA (Föderale Blockchain Infrastruktur Asyl)
+• MARiS (Migrations-Asyl-Reintegrationssystem)
+• TAZ (Tonaufzeichnung)
+• Themis
+• XAVIA (XAusländer-basierter Asylverfahrensinformationsaustausch)
+b) beim Bundesverwaltungsamt,
+Im Kontext Eurodac sind Anpassungen an den Softwarekomponenten der
+Erstregistrierung erforderlich, um die neuen Registrierungssachverhalte, deren 
+Abläufe und die notwendigen Datenweiterleitungen an europäische und
+nationale Systeme zu implementieren. Daneben ist die Entwicklung neuer
+Bundesverwaltungsamt (BVA)-interner Systeme sowie die Anpassung vorhandener 
+Systeme zur Integration der von eu-LISA bereitgestellten Schnittstellen und 
+Services zum Informationsaustausch mit dem Eurodac-Zentralsystem
+notwendig. Daneben müssen Systeme zur Überwachung der korrekten
+Informationsverarbeitung und zur Konvertierung der biometrischen Daten in das von der 
+Europäischen Union (EU) gewünschte Format angepasst werden. Die BVA-
+Anwendungen im Kontext Gefahrenabwehr und Strafverfolgung müssen für den 
+lesenden Zugriff auf die Eurodac-Daten grundlegend technisch überarbeitet 
+werden.
+Für Änderungen, Korrekturen und Löschungen von Daten in Eurodac sowie für 
+die Bereitstellung der vom Eurodac-Zentralsystem bereitgestellten
+Informationsnachrichten an die Nutzerbehörden, ist die Neuentwicklung weiterer
+Softwarekomponenten erforderlich.
+Die Rolle des BVA als zukünftiger nationaler und technischer Zugangspunkt 
+für Eurodac führt zudem zu größeren Anpassungen in der Infrastruktur bzw. 
+den Netzwerkverbindungen.
+Über die Umsetzung von Eurodac hinaus sind Umsetzungsarbeiten im Rahmen 
+der Verordnung (EU) 2024/1356 durchzuführen, deren vollständiger Umfang 
+national derzeit noch ermittelt wird. Zum aktuellen Zeitpunkt werden vom 
+BVA die vorhandenen Anwendungen zum Zugriff auf die EU-Systeme Visa-
+Informationssystem (VIS), Einreise-Ausreisesystem (EES), Schengener
+Informationssystem (SIS) sowie perspektivisch das Europäische Reiseinformations- 
+und Reisegenehmigungssystem (ETIAS) bzgl. der Abfragen im Kontext 
+Screening technisch (Artikel 14 und Artikel 15 der Verordnung [EU] 
+2024/1356) erweitert. Außerdem finden die Anpassungen am
+Ausländerzentralregister (AZR) sowie am Asyl-Konsultationsverfahren statt.
+Es sind Anpassungen am AZR erforderlich, um die mit dem GEAS-
+Anpassungsfolgegesetz vorgesehenen Datenerweiterungen, Speicher- und
+Auskunftsbefugnisse zu implementieren.
+c) bei der Bundespolizei,
+Die Umsetzung der GEAS-Reform bedingt Anpassungen im
+Vorgangsbearbeitungssystem der Bundespolizei (VBS) @rtus-Bund, im Informationssystem der 
+Polizeien (INPOL) und im digitalen Erkennungsdienst (ED-DI).
+d) beim Bundeskriminalamt und
+Das Bundeskriminalamt (BKA) passt im Zuge der Umsetzung der GEAS-
+Reform mehrere bestehende technische Systeme an. Dazu gehören (insbesondere 
+zur Umsetzung der Verordnung [EU] 2024/1358) das INPOL-Zentralsystem, 
+das Automatisierte Fingerabdruckidentifizierungssystem (AFIS), Schnittstellen 
+zum BVA und BAMF, weitere BKA-interne Schnittstellen sowie weitere
+Verfahren im Zusammenhang mit der asyl-/aufenthaltsrechtlichen
+Datenverarbeitung.
+e) beim Bundesamt für Verfassungsschutz angepasst werden?
+Im Bundesamt für Verfassungsschutz (BfV) werden derzeit fachliche und
+organisatorische Abläufe geprüft, um eventuellen Anpassungsbedarf festzustellen.
+ 2. War die Bundesbeauftragte für den Datenschutz und die
+Informationsfreiheit frühzeitig in den Prozess der informationstechnischen
+Neuaufstellung und der Einführung neuer Datenverarbeitungsprozesse
+eingebunden, wenn ja, in welcher Weise, und wenn nein, warum nicht?
+Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) 
+wurde im Rahmen der Ressortabstimmung zum GEAS-Anpassungsgesetz und 
+zum GEAS-Anpassungsfolgegesetz eingebunden. Eine Einbindung in
+behördeninterne IT-Anpassungen im Sinne der Fragestellung ist nicht erfolgt. Die 
+unter Frage 1 genannten Behörden haben im Rahmen dieser Prozesse aber ihre 
+behördeninternen Datenschutzbeauftragten eingebunden. Im Übrigen wird
+darauf hingewiesen, dass es sich überwiegend nicht um neue Verfahren oder
+Datenverarbeitungsprozesse handelt, sondern um die Anpassung und
+Weiterentwicklung bestehender Systeme (vgl. hierzu auch Antwort auf Frage 10).
+ 3. Gibt es weitere, in Frage 1 nicht genannte Bundesbehörden, bei denen 
+IT-Anwendungen und Fachverfahren angepasst werden müssen, wenn ja, 
+welche sind dies, und welche IT-Anwendungen und Fachverfahren sind 
+betroffen?
+Nach Kenntnis der Bundesregierung sind derzeit keine über die in Frage 1
+genannten Bundesbehörden von IT-Anpassungen im Sinne der Fragestellung
+betroffen.
+ 4. Was ist der Stand der jeweiligen Anpassungen, wer führt sie durch, 
+welche Kosten entstehen dabei, und wann sollen sie fertiggestellt sein?
+In Bezug auf das Bundesamt für Migration und Flüchtlinge: Alle
+Anpassungen der BAMF-internen Systeme liegen im Zeitplan der Umsetzung der GEAS-
+Reform. Die Anpassungen werden von der Softwareentwicklung des BAMF 
+durchgeführt, teilweise unter Einbindung externer Dienstleister. Die
+eingeplanten Haushaltsmittel für die Fachanwendungen belaufen sich auf insgesamt 
+18.522.053 Euro. Die rechtzeitige Umsetzung der für den Dienstbetrieb
+erforderlichen Anpassungen an den genannten Systemen und Anwendungen ist zum 
+12. Juni 2026 vorgesehen. Nachgelagert werden bedarfsorientiert weitere
+Anpassungen vorgenommen.
+In Bezug auf das Bundesverwaltungsamt: Aufgrund der sehr kurzen
+Umsetzungsfrist wurde national ein gestuftes Vorgehen für die Umsetzung gewählt. 
+Darüber hinaus werden auch seitens der EU-Beistellleistungen für die
+technische Umsetzung sukzessive bereitgestellt.
+Das Projekt zur Umsetzung der Verordnung (EU) 2024/1358 sowie der
+Anpassungen im Rahmen der Verordnung (EU) 2024/1356 hat im BVA im April 2025 
+gestartet und geht bis mindestens Dezember 2028. Die technischen
+Entwicklungsarbeiten sowie die zugehörige Testdurchführung für die EU-weite
+Inbetriebnahme am 12. Juni 2026 sind im BVA zu ca. 80 Prozent abgeschlossen. Im 
+Rahmen weiterer Folgestufen werden weitere Funktionalitäten umgesetzt.
+Die Umsetzung erfolgt im BVA gemeinsam mit externen Dienstleistern für die 
+Softwareentwicklung und Testdurchführung sowie mit dem
+Betriebsdienstleister ITZBund.
+Die Gesamtkosten (Sachkosten, ohne Personal) für die Umsetzung der
+Verordnung (EU) 2024/1358 und der Anpassungen im Kontext Screening im BVA
+belaufen sich auf rd. 85 Mio. Euro. Hinzu kommen Kosten für den technischen 
+Betriebsdienstleister ITZBund in Höhe von rd. 34. Mio. Euro. Eine weitere 
+Spezifizierung der Kosten ist noch nicht möglich, weil es sich wegen der
+langen Laufzeit des Projektes noch überwiegend um Expertenschätzungen handelt.
+In Bezug auf die Bundespolizei: Erste Umsetzungserfordernisse für die unter 
+der Antwort auf Frage 1 c) genannten IT-Anwendungen und Fachverfahren 
+wurden bereits entwickelt und werden nach Funktionsüberprüfung – auch in 
+behördenübergreifender Zusammenarbeit – bis 12. Juni 2026 in die
+Produktionsumgebung integriert. Weitere Anpassungen werden voraussichtlich im
+November 2026 erfolgen. Die erforderlichen Anpassungen im VBS @rtus-Bund 
+sind bereits in Teilen umgesetzt und sollen bis zum 12. Juni 2026 fertiggestellt 
+werden. Grundsätzlich erfolgen die erforderlichen Anpassungen der Systeme 
+von der Bundespolizei. Bei Anwendungen, die behördenübergreifend
+fortentwickelt und betrieben werden, erfolgt die Anpassung durch die jeweiligen
+Teilnehmer und in Abstimmung mit den Verbundpartnern. Die Kosten für die
+erforderlichen Anpassungen des Vorgangsbearbeitungssystems @rtus-Bund werden 
+auf Grundlage einer Kostenverteilung seitens der Verbundpartner der
+sogenannten @rtus-Kooperation anteilig getragen. Mit Blick auf die Fortentwicklung des 
+Informationssystems der Polizeien INPOL sowie der Software ED‑Di verhält 
+es sich ebenso. Zur Gesamthöhe der erforderlichen Programmierkosten sowie 
+deren anteilige Berechnung auf die einzelnen Kooperationspartner kann zum 
+jetzigen Zeitpunkt noch keine Aussage getroffen werden.
+In Bezug auf das Bundeskriminalamt: Die Umsetzungsarbeiten und
+Anpassungen in den beim BKA betroffenen Komponenten sind weiterhin in Arbeit 
+und werden in mehreren Stufen umgesetzt. In ihrer Gesamtheit sollen diese bis 
+Ende 2028 abgeschlossen sein. Die Anpassungen werden sowohl durch
+internes, als auch externes Personal durchgeführt.
+Die geschätzten Kosten und Bedarfe bis zum Abschluss der
+Umsetzungsarbeiten Ende 2028 belaufen sich auf rd. 15 Mio. Euro.
+In Bezug auf das Bundesamt für Verfassungsschutz: Es wird auf die
+Beantwortung der Frage 1 e) verwiesen. Die Anpassungen sollen innerhalb der
+Umsetzungsfrist für GEAS (12. Juni 2026) fertiggestellt sein.
+ 5. Gibt es Technik, die komplett neu beschafft werden muss, und wer ist 
+damit beauftragt?
+In Bezug auf das Bundesamt für Migration und Flüchtlinge: Zur Umsetzung 
+der künftigen rechtlichen Verpflichtung zur Anfertigung von
+Tonaufzeichnungen der Anhörungen sowohl im Asylverfahren (Artikel 14 Absatz 2
+Verordnung [EU] 2024/1348) als auch im Zuständigkeitsbestimmungsverfahren
+(Artikel 22 Absatz 7 Verordnung [EU] 2024/1351) muss Hardware in Form von
+Tonaufzeichnungsgeräten beschafft werden. Die Beschaffung erfolgte über einen 
+Rahmenvertrag mit der Firma IT-Haus GmbH durch das BAMF.
+In Bezug auf das Bundesverwaltungsamt: Seitens BVA sind Beschaffungen 
+hinsichtlich der technischen Betriebsumgebung notwendig. Hiermit ist der 
+Dienstleister ITZBund beauftragt. Dies beinhaltet auch die Bereitstellung von 
+Datenbanken (MongoDB) und das Open-Source Produkt Kafka.
+In Bezug auf die Bundespolizei und das Bundeskriminalamt: Die
+Beschaffung neuer Technik ist nicht erforderlich.
+In Bezug auf das Bundesamt für Verfassungsschutz: Es wird auf die
+Beantwortung der Frage 1 e) verwiesen.
+ 6. Was erwidert die Bundesregierung auf die Kritik des Nationalen
+Normenkontrollrats?
+Es wird auf die am 3. September 2025 durch das Bundeskabinett beschlossene 
+Stellungnahme der Bundesregierung zu der Stellungnahme des Nationalen
+Normenkontrollrats verwiesen (vgl. Bundestagsdrucksache 21/1850, S. 40).
+ 7. Ist geplant, im Nachgang eine Kostenevaluation zu machen, und wenn 
+nein, warum nicht?
+Die in Bezug genommenen Kosten entstehen überwiegend durch die
+zwingende Umsetzung von EU-Recht. Eine Kostenevaluierung ist nicht geplant.
+Angaben zu entsprechenden Erwägungen liegen nicht vor.
+ 8. Welches sind die „Screening-Behörden“, die im GEAS-
+Anpassungsgesetz erwähnt werden (Bundestagdrucksache 21/1848, S. 157)?
+Der Begriff der „Screening-Behörden“ meint die für die Überprüfung nach der 
+Verordnung (EU) 2024/1356 zuständigen Behörden. Dies sind gemäß § 71
+Absatz 3 Nummer 9 des Aufenthaltsgesetzes (AufenthG; in der Fassung des GE-
+AS-Anpassungsgesetzes) für die Überprüfung nach Artikel 5 Absatz 1 und 2 
+und Artikel 7 Absatz 1 der Verordnung (EU) 2024/1356 die Grenzbehörden, 
+wenn der Ausländer von der Grenzbehörde bei Erfüllung ihrer
+grenzpolizeilichen Aufgaben festgestellt wird, und gemäß § 71 Absatz 4a AufenthG (in der 
+Fassung des GEAS-Anpassungsgesetzes) für die Überprüfung nach Artikel 7 
+der Verordnung (EU) 2024/1356 die Polizeivollzugsbehörden der Länder, die 
+Ausländerbehörden, die Aufnahmeeinrichtungen im Sinne des § 44 des
+Asylgesetzes sowie andere nach Landesrecht zu bestimmende Stellen zuständig.
+ 9. Wann gab es in welchen Formaten Verständigungen zwischen dem Bund 
+und den Ländern über Anpassungsbedarfe?
+a) Was ist der Bundesregierung über die Anpassungsbedarfe der Länder 
+(u. a. Schnittstellen zu Bundesbehörden, Schnittstellen zu EU-
+Informationssystemen, Anwendungen, IT-Ausstattung etc.) und den
+geschätzten Finanzierungsbedarf bekannt?
+b) Welche Angaben kann die Bundesregierung zum aktuellen Stand der 
+Absprachen zwischen Bund und Ländern zu den
+Anpassungsbedarfen machen?
+Die Fragen 9, 9 a) und 9 b) werden wegen des Sachzusammenhangs zusammen 
+beantwortet. Die Bundesregierung und ihre Geschäftsbereichsbehörden
+tauschen sich mit den Ländern regelmäßig in den einschlägigen fachlichen und 
+technischen Gremien auch über IT-Anpassungsbedarfe im Rahmen der GEAS-
+Umsetzung aus. Seitens BVA wurden bzw. werden die externen
+Fachverfahrenshersteller der Kundenbehörden zu Änderungen und Anpassungen an den 
+Schnittstellen zu den Anwendungen im BVA informiert. Außerdem erfolgt die 
+Unterrichtung durch Informationen im Registerportal des BVA und durch 
+Newsletter für die Ausländerbehörden.
+Es sind Anpassungen in den polizeilichen Landes- und
+Erkennungsdienstlichen-Erfassungssystemen erforderlich. Darüber hinaus liegen der
+Bundesregierung keine Erkenntnisse zu den konkreten Anpassungsbedarfen der Länder, 
+dem Finanzierungsbedarf und dem Umsetzungsstand vor.
+10. Wird die IT-Umstellung genutzt, um betroffene Software vollständig auf 
+Open Source umzustellen, wenn nein, in welchen Fällen nicht, und
+warum nicht?
+In Bezug auf das Bundesamt für Migration und Flüchtlinge: Bis auf zwei IT-
+Anwendungen und Fachverfahren (Tonaufzeichnung und ED-Daten-Service) 
+handelt es sich bei der betroffenen Software um bereits bestehende Software, 
+die angepasst aber nicht grundlegend neugestaltet werden muss. In keiner der 
+betroffenen IT-Anwendungen und Fachverfahren wurde vor diesem
+Hintergrund vollständig auf Open Source umgestellt.
+In Bezug auf das Bundesverwaltungsamt: Die betroffenen
+Softwarekomponenten im BVA sowie die neu zu entwickelnden Systeme basieren auf dem 
+BVA-Standard (IsyFact/ Register Factory) und setzen überwiegend Open
+Source-Produkte ein. IsyFact ist öffentlich Open Source gestellt. Ausnahmen
+bestehen nur in den Bereichen, in denen keine Open Source Lösungen verfügbar 
+oder wirtschaftlich herstellbar sind.
+In Bezug auf die Bundespolizei und das Bundeskriminalamt: Eine IT-
+Umstellung findet nicht statt. Vielmehr werden die erforderlichen Anpassungen durch 
+Änderungen und Weiterentwicklungen in bereits bestehenden
+Softwareprodukten und Systemen abgebildet. Neuentwicklungen sind weder erforderlich noch 
+wirtschaftlich. Um den hohen individuellen und spezifischen polizeilichen
+Bedarf zu decken, kommen eigens hierfür geschaffene Lösungen zur Anwendung.
+In Bezug auf das Bundesamt für Verfassungsschutz: Der Bundesregierung 
+liegen keine Informationen zur inhaltlichen Ausgestaltung der betroffenen
+Software als Closed-Source oder Open-Source vor. Im Übrigen wird auf die
+Antwort zu Frage 1 e) verwiesen.
+11. Wie hoch ist bei von der IT-Umstellung betroffener Software die
+Beteiligung Dritter an IT-Dienstleistungen und Entwicklungsaufträgen (bitte
+bezogen auf das Auftragsvolumen angeben) zum derzeitigen Zeitpunkt, 
+und soll dieser im Zuge der IT-Umstellung verringert werden (wenn ja, 
+mit welchen konkreten Maßnahmen, und wenn nein, warum nicht)?
+In Bezug auf das Bundesamt für Migration und Flüchtlinge: Das BAMF ist 
+mit der Anpassung und Neuerstellung der IT-Anwendungen und Fachverfahren 
+im Zuge von GEAS befasst. Die Umsetzung erfolgt grundsätzlich in-House, 
+allerdings wird externes Personal im Rahmen von Dienstleistungsverträgen mit 
+Rahmenvertragspartnern insbesondere zur Softwareentwicklung hinzugezogen. 
+Eine vollständige externe Vergabe einzelner Anwendungsentwicklungen erfolgt 
+nicht. Das Volumen ist direkt abhängig vom fachlichen Entwicklungsbedarf, 
+somit wird nach erfolgreicher Umsetzung der GEAS-Anforderungen der Bedarf 
+entsprechend sinken. Derzeit liegt ein Mittelabfluss an Dritte in Höhe von rd. 
+1,8 Mio. Euro vor. Im Übrigen wird auf die Antwort zu Frage 4 verwiesen.
+In Bezug auf das Bundesverwaltungsamt: Seitens BVA werden externe 
+Dienstleister eingesetzt. Die Gesamtkosten betragen für alle Dienstleister rd. 
+85 Mio. Euro (2025 bis 2028). Der Hauptschwerpunkt der Umsetzungsarbeiten 
+liegt in 2026 und 2027.
+Hinzu kommen Kosten für den technischen Betriebsdienstleister ITZBund in 
+Höhe von rd. 34 Mio. Euro.
+Die Kosten entstehen, weil das BVA nicht in ausreichendem Maß über eigenes 
+Personal verfügt und einzelne Aufgabenbereiche (wie z. B.
+Softwareentwicklung) ausgelagert sind.
+In Bezug auf die Bundespolizei: Im Zuständigkeitsbereich der Bundespolizei 
+werden die erforderlichen Anpassungen der Systeme INPOL und ED-Di im 
+Rahmen der IT-Kooperation (Kooperation zwischen zehn Verbundpartnern – 
+neun Polizeien der Länder und die Bundespolizei) vorgenommen.
+Die durch die Anpassungen entstehenden Kosten werden anteilig von allen 
+Partnern getragen. "Dritte" sind nicht an IT-Dienstleistungen und
+Entwicklungsaufträgen beteiligt. Die Entwicklung des VBS @rtus-Bund wird im
+Rahmen der @rtus-Kooperation (sieben Polizeien der Länder und die
+Bundespolizei) von der Anstalt des öffentlichen Rechts „dataport“ vorgenommen und ist 
+über das Kooperationsbudget gedeckt.
+In Bezug auf das Bundeskriminalamt: Für die Umstellung sind
+Entwicklungsaufträge zur Modifikation von Bestandsoftware im Gesamtwert von ca. 
+266.689 Euro inklusiveMwSt. an Dritte vergeben worden.
+In Bezug auf das Bundesamt für Verfassungsschutz: Es wird auf die
+Beantwortung der Frage 1 e) verwiesen.
+12. Wird im Rahmen der IT-Umstellung eine Umstellung auf Software
+ausgeschlossen, deren Anbieter Herausgabepflichten von Daten an
+Drittstaaten gesetzlich unterliegen, beispielsweise hinsichtlich des US-
+amerikanischen CLOUD-Acts (bitte beachten, dass bereits eine 25‑prozentige US-
+Beteiligung an einem europäischen Unternehmen zur Wirksamkeit des 
+CLOUD-Acts führen kann, vgl. dazu die Ausarbeitung der
+Wissenschaftlichen Dienste [WD] des Deutschen Bundestages; www.bundestag.de/res
+ource/blob/990440/WD-3-105-23-pdf.pdf), und wenn nein, bitte alle 
+Fälle geplanter Software auflisten, bei denen dieses Risiko in Kauf
+genommen wird?
+In Bezug auf das Bundesamt für Migration und Flüchtlinge: Der Betrieb
+erfolgt ausschließlich on-premise auf der Infrastruktur des ITZBund.
+In Bezug auf das Bundesverwaltungsamt: Das BVA ist hiervon nicht
+betroffen, da es im Rahmen von Standards und auf der Basis von Open Source
+Produkten auf Eigenentwicklung setzt. Der Betrieb der BVA-Software erfolgt in 
+einer durch das ITZBund bereitgestellten Privat-Cloud.
+In Bezug auf die Bundespolizei und das Bundeskriminalamt: Es wird auf die 
+Antwort zu Frage 10 verwiesen.
+In Bezug auf das Bundesamt für Verfassungsschutz: Es wird auf die Antwort 
+zu Frage 1 e) verwiesen.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

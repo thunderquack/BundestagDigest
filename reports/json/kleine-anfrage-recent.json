@@ -1,5 +1,140 @@
 [
   {
+    "number": "21/5585",
+    "author": "AfD",
+    "date": "2026-04-20",
+    "title": "УImplementation und Auswirkungen neuer EU-Regelungen für Start-ups в Германии",
+    "description_ru": "Депутаты интересуются, как Германия готова к новым европейским условиям для стартапов и какие инициативы на уровне ЕС известны правительству. В ответе правительство подчеркивает, что поддерживает стратегию ЕС по стартапам и масштабированию, которая включает важные меры для облегчения создания и роста стартапов. Также обсуждаются существующие правовые и административные барьеры для стартапов в Германии и меры, которые были предприняты для их устранения.",
+    "description_de": "Die Abgeordneten fragen, inwieweit Deutschland auf die neuen europäischen Rahmenbedingungen für Start-ups vorbereitet ist und welche Initiativen auf EU-Ebene bekannt sind. Die Bundesregierung begrüßt die EU-Startup- und Scaleup-Strategie und betont, dass sie zahlreiche wichtige Maßnahmen zur Unterstützung von Start-ups enthält. Zudem werden die bestehenden rechtlichen und administrativen Hürden für Start-ups in Deutschland angesprochen und die Maßnahmen zur deren Abbau erläutert.",
+    "saved_date": "2026-04-29"
+  },
+  {
+    "number": "21/5505",
+    "author": "AfD",
+    "date": "2026-04-21",
+    "title": "Эрfassung психischer Vorerkrankungen bei Jugendlichen",
+    "description_ru": "Депутаты задают вопросы о количестве молодых людей с диагнозом гендерной дисфории, которые прошли через переходные меры, и о наличии у них психических заболеваний. Правительство отвечает, что у него нет необходимых данных для точного ответа на эти вопросы, и что исследования по этой теме ограничены. Также упоминается, что не существует национального регистра для учета психических заболеваний перед переходом.",
+    "description_de": "Die Abgeordneten fragen nach der Anzahl der Jugendlichen mit Geschlechtsdysphorie-Diagnose, die Transitionierungsmaßnahmen durchlaufen haben, und ob sie psychische Vorerkrankungen aufweisen. Die Bundesregierung antwortet, dass sie keine notwendigen Daten hat, um diese Fragen genau zu beantworten, und dass die verfügbaren Studien zu diesem Thema begrenzt sind. Es wird auch erwähnt, dass es kein nationales Register zur Erfassung psychischer Vorerkrankungen vor der Transition gibt.",
+    "saved_date": "2026-04-29"
+  },
+  {
+    "number": "21/5507",
+    "author": "AfD",
+    "date": "2026-04-21",
+    "title": "Статистика Messerkriminalität на федеральном уровне",
+    "description_ru": "Депутаты задают вопросы о состоянии статистики преступлений с использованием ножей на федеральном уровне, указывая на необходимость более точной и валидной информации. Они выражают недовольство тем, что данные о преступлениях с ножами не являются валидными и требуют более тщательной обработки. Правительство отвечает, что проблемы с валидностью данных касаются только новых значений в каталоге 'Тип использования оружия', и что с 2025 года данные о преступлениях с ножами будут собираться более детально. Однако, правительство также указывает, что проблемы с валидностью данных не могут быть исправлены задним числом.",
+    "description_de": "Die Abgeordneten stellen Fragen zum Stand der Statistik über Messerkriminalität auf Bundesebene und betonen die Notwendigkeit genauerer und valider Informationen. Sie äußern Unzufriedenheit darüber, dass die Daten zu Messerangriffen nicht valide sind und eine gründlichere Bearbeitung erfordern. Die Bundesregierung antwortet, dass die Validitätsprobleme nur die neuen Werte im Katalog 'Art der Waffenverwendung' betreffen und dass seit 2025 die Daten zu Messerangriffen detaillierter erfasst werden. Allerdings weist die Bundesregierung auch darauf hin, dass die Validitätsprobleme nicht rückwirkend behoben werden können.",
+    "saved_date": "2026-04-29"
+  },
+  {
+    "number": "21/5516",
+    "author": "AfD",
+    "date": "2026-04-21",
+    "title": "Программа приема афганцев",
+    "description_ru": "Депутаты интересуются, сколько афганцев было ввезено в Германию в рамках программы приема с момента вступления в должность текущего правительства. В ответ правительство сообщает, что с мая 2025 года в рамках программы было ввезено 914 афганских граждан. Также задаются вопросы о количестве афганцев, ввезенных по другим основаниям, и о затратах на эти программы. Правительство указывает, что общие затраты на программу составили около 27 миллионов евро, но детальная разбивка по каждому случаю невозможна.",
+    "description_de": "Die Abgeordneten fragen, wie viele Afghanen seit dem Amtsantritt der aktuellen Bundesregierung im Rahmen des Bundesaufnahmeprogramms nach Deutschland eingeflogen wurden. Die Bundesregierung antwortet, dass seit Mai 2025 insgesamt 914 afghanische Staatsangehörige eingeflogen wurden. Es werden auch Fragen zu den Kosten und der Anzahl der Afghanen, die unter anderen Bedingungen eingeflogen wurden, gestellt. Die Bundesregierung gibt an, dass die Gesamtkosten für das Programm etwa 27 Millionen Euro betragen, eine detaillierte Aufschlüsselung der Kosten pro Person ist jedoch nicht möglich.",
+    "saved_date": "2026-04-29"
+  },
+  {
+    "number": "21/5520",
+    "author": "die Linke",
+    "date": "2026-04-21",
+    "title": "IT-Umstellung в связи с реализацией реформы GEAS",
+    "description_ru": "Депутаты задают вопросы о том, какие IT-приложения и процессы должны быть адаптированы в связи с реализацией реформы Общей европейской системы убежища (GEAS). Правительство отвечает, что адаптация IT-систем требует значительных усилий и времени, и что многие изменения будут завершены к июню 2026 года. Также упоминается, что некоторые системы требуют доработки и что правительство работает над оценкой затрат на эти изменения.",
+    "description_de": "Die Abgeordneten fragen, welche IT-Anwendungen und Fachverfahren im Zuge der Umsetzung der GEAS-Reform angepasst werden müssen. Die Bundesregierung antwortet, dass die Anpassung der IT-Systeme erhebliche Anstrengungen und Zeit erfordert und dass viele Änderungen bis Juni 2026 abgeschlossen sein werden. Es wird auch erwähnt, dass einige Systeme überarbeitet werden müssen und dass die Bundesregierung an einer Kostenschätzung für diese Änderungen arbeitet.",
+    "saved_date": "2026-04-29"
+  },
+  {
+    "number": "21/5521",
+    "author": "die Grünen",
+    "date": "2026-04-22",
+    "title": "Информация о дезинформации в области здоровья",
+    "description_ru": "Депутаты интересуются, как правительство оценивает влияние \"MedFluencer\" на распространение дезинформации в области здоровья и какие меры принимаются для защиты потребителей. Правительство отвечает, что социальные медиа стали основным источником информации, но также увеличилось количество недостоверных и научно необоснованных материалов. В частности, влияние \"MedFluencer\" на молодежь вызывает обеспокоенность, так как они могут распространять недостоверные сведения о здоровье без надлежащей квалификации. Правительство подчеркивает необходимость улучшения правового регулирования и защиты потребителей от дезинформации.",
+    "description_de": "Die Abgeordneten fragen, wie die Bundesregierung die Auswirkungen von \"MedFluencern\" auf die Verbreitung von Gesundheitsdesinformation bewertet und welche Maßnahmen zum Schutz der Verbraucher ergriffen werden. Die Bundesregierung antwortet, dass soziale Medien zu einer zentralen Informationsquelle geworden sind, aber auch die Menge an irreführenden und wissenschaftlich nicht belegten Inhalten zugenommen hat. Insbesondere die Auswirkungen von \"MedFluencern\" auf Jugendliche sind besorgniserregend, da sie möglicherweise falsche Gesundheitsinformationen ohne angemessene Qualifikation verbreiten. Die Bundesregierung betont die Notwendigkeit, die rechtlichen Rahmenbedingungen und den Verbraucherschutz gegen Desinformation zu verbessern.",
+    "saved_date": "2026-04-29"
+  },
+  {
+    "number": "21/5522",
+    "author": "AfD",
+    "date": "2026-04-22",
+    "title": "Кfz-Steuerbefreiung для ветеранов",
+    "description_ru": "Депутаты интересуются, сколько ветеранов с отметкой \"VB\" в удостоверении о инвалидности в настоящее время пользуются освобождением от уплаты транспортного налога. Правительство отвечает, что отдельного учета таких случаев нет, поэтому точное количество не может быть указано. Также задаются вопросы о количестве отмененных решений по освобождению от налога и о причинах, по которым ветераны, получившие травмы после 1979 года, подвергаются неравному обращению. Правительство утверждает, что закон не запрещает ограничивать налоговые льготы и что не требуется переходного периода для ветеранов.",
+    "description_de": "Die Abgeordneten fragen, wie viele Veteranen mit dem Merkzeichen \"VB\" im Schwerbehindertenausweis derzeit von einer Kraftfahrzeugsteuerbefreiung profitieren. Die Bundesregierung antwortet, dass es keine separate Erfassung solcher Fälle gibt, daher kann die genaue Anzahl nicht angegeben werden. Es werden auch Fragen zur Anzahl der aufgehobenen Bescheide über die Steuerbefreiung und zu den Gründen für die Ungleichbehandlung von Veteranen, die nach 1979 verletzt wurden, gestellt. Die Bundesregierung erklärt, dass das Gesetz keine Einschränkungen der Steuervergünstigungen verbietet und dass kein Übergangszeitraum für Veteranen erforderlich ist.",
+    "saved_date": "2026-04-29"
+  },
+  {
+    "number": "21/5524",
+    "author": "die Grünen",
+    "date": "2026-04-22",
+    "title": "Реформа частного пенсионного обеспечения",
+    "description_ru": "Депутаты задают вопросы о реформе частного пенсионного обеспечения, касающиеся недостатков предложенного законопроекта, таких как отсутствие единого стандартного продукта и высокие затраты на распределение. Правительство отвечает, что законопроект соответствует коалиционному соглашению и предлагает стандартизированные продукты с ограничением затрат. Однако остаются вопросы о реальной доступности и сравнении продуктов для потребителей.",
+    "description_de": "Die Abgeordneten stellen Fragen zur Reform der privaten Altersvorsorge, insbesondere zu den Mängeln des vorgeschlagenen Gesetzes, wie dem Fehlen eines einheitlichen Standardprodukts und hohen Vertriebskosten. Die Bundesregierung antwortet, dass der Gesetzesentwurf dem Koalitionsvertrag entspricht und standardisierte Produkte mit Kostenobergrenzen anbietet. Es bleiben jedoch Fragen zur tatsächlichen Zugänglichkeit und Vergleichbarkeit der Produkte für die Verbraucher.",
+    "saved_date": "2026-04-29"
+  },
+  {
+    "number": "21/5554",
+    "author": "die Grünen",
+    "date": "2026-04-22",
+    "title": "Реформа частного пенсионного обеспечения",
+    "description_ru": "Депутаты задают вопросы о реформе частного пенсионного обеспечения, доступе к венчурному капиталу и защите потребителей. Они интересуются, как правительство планирует улучшить доступ стартапов к частному капиталу и какие меры будут предприняты для повышения прозрачности и защиты инвесторов. Правительство отвечает, что считает улучшение доступа к капиталу ключевым для инноваций и конкурентоспособности экономики. Оно также сообщает о принятых мерах для мобилизации частного капитала и о том, что создание модели Opt-out не является частью текущих реформ.",
+    "description_de": "Die Abgeordneten stellen Fragen zur Reform der privaten Altersvorsorge, zum Zugang zu Wagniskapital und zum Verbraucherschutz. Sie erkundigen sich, wie die Regierung plant, den Zugang von Start-ups zu privatem Kapital zu verbessern und welche Maßnahmen zur Erhöhung der Transparenz und zum Schutz der Investoren ergriffen werden. Die Bundesregierung antwortet, dass sie die Verbesserung des Zugangs zu Kapital als entscheidend für Innovationen und Wettbewerbsfähigkeit der Wirtschaft ansieht. Sie berichtet auch über bereits ergriffene Maßnahmen zur Mobilisierung privaten Kapitals und dass die Schaffung eines Opt-out-Modells nicht Teil der aktuellen Reformen ist.",
+    "saved_date": "2026-04-29"
+  },
+  {
+    "number": "21/5555",
+    "author": "die Grünen",
+    "date": "2026-04-22",
+    "title": "Экологические пробелы в Национальной туристической стратегии",
+    "description_ru": "Депутаты задают вопросы о недостатках в Национальной туристической стратегии, касающиеся устойчивого развития и климатической нейтральности туризма в Германии. Они указывают на то, что предложенные меры правительства не соответствуют актуальным вызовам, связанным с климатическими изменениями, и требуют более конкретных действий. Правительство отвечает, что в рамках бюджета 2026 года предусмотрены средства для поддержки устойчивого туризма, однако изменения в существующих программах не планируются. Также подчеркивается, что регионы сами определяют, как использовать выделенные средства.",
+    "description_de": "Die Abgeordneten stellen Fragen zu den Mängeln der Nationalen Tourismusstrategie in Bezug auf nachhaltige Entwicklung und Klimaneutralität im Tourismus in Deutschland. Sie weisen darauf hin, dass die vorgeschlagenen Maßnahmen der Bundesregierung nicht den aktuellen Herausforderungen des Klimawandels gerecht werden und fordern konkretere Maßnahmen. Die Bundesregierung antwortet, dass im Haushalt 2026 Mittel zur Unterstützung des nachhaltigen Tourismus vorgesehen sind, jedoch keine Änderungen an bestehenden Programmen geplant sind. Zudem wird betont, dass die Regionen selbst entscheiden, wie die bereitgestellten Mittel verwendet werden.",
+    "saved_date": "2026-04-29"
+  },
+  {
+    "number": "21/5557",
+    "author": "AfD",
+    "date": "2026-04-22",
+    "title": "Алтфетт-воровство как новое направление организованной преступности",
+    "description_ru": "Депутаты интересуются, какие данные о кражах старых пищевых жиров имеются у Федерального уголовного ведомства. В ответе правительство сообщает, что ведомство располагает лишь отдельными сведениями, полученными от земельных властей. Также задаются вопросы о том, были ли составлены какие-либо документы по этому вопросу и известна ли министру юстиции рабочая дефиниция термина 'организованная преступность'. Правительство подтверждает, что такая дефиниция существует и была разработана в 1990 году.",
+    "description_de": "Die Abgeordneten fragen, welche Informationen über den Diebstahl von Altfetten dem Bundeskriminalamt vorliegen. Die Bundesregierung antwortet, dass nur vereinzelte Informationen von den Ländern vorliegen. Es werden auch Fragen gestellt, ob das Bundeskriminalamt Dokumente zu diesem Thema erstellt hat und ob der Ministerin der Justiz die Arbeitsdefinition des Begriffs 'Organisierte Kriminalität' bekannt ist. Die Bundesregierung bestätigt, dass eine solche Definition existiert und 1990 entwickelt wurde.",
+    "saved_date": "2026-04-29"
+  },
+  {
+    "number": "21/5562",
+    "author": "AfD",
+    "date": "2026-04-22",
+    "title": "Детальные вопросы по приему и высылке афганских граждан",
+    "description_ru": "Депутаты задают вопросы о количестве высылок афганских граждан из Германии, а также о затратах на эти операции. Правительство сообщает, что с начала законодательного периода было проведено две массовые высылки, в ходе которых было высылано 101 афганец. Также упоминается, что в рамках программ приема афганских граждан в Германию было ввезено множество людей, и правительство предоставляет данные о затратах на эти операции.",
+    "description_de": "Die Abgeordneten stellen Fragen zur Anzahl der Rückführungen afghanischer Staatsbürger aus Deutschland sowie zu den Kosten dieser Operationen. Die Bundesregierung berichtet, dass seit Beginn der Legislaturperiode zwei Sammelcharterrückführungen durchgeführt wurden, bei denen insgesamt 101 Afghanen abgeschoben wurden. Zudem wird erwähnt, dass im Rahmen von Aufnahmeprogrammen viele Menschen nach Deutschland eingeflogen wurden, und die Regierung liefert Daten zu den Kosten dieser Operationen.",
+    "saved_date": "2026-04-29"
+  },
+  {
+    "number": "21/5579",
+    "author": "AfD",
+    "date": "2026-04-22",
+    "title": "Разъяснение применения § 46 Absatz 2a Закона о солдатах",
+    "description_ru": "Депутаты задают вопросы о применении нового закона, касающегося увольнения военнослужащих, которые поддерживают антиконституционные действия. Они интересуются, на каких основаниях и по каким правилам происходит увольнение, а также сколько военнослужащих уже уволены по этому закону. Правительство отвечает, что увольнение возможно только при наличии серьезных оснований, и предоставляет информацию о количестве уволенных военнослужащих, но не раскрывает детали из-за соображений конфиденциальности.",
+    "description_de": "Die Abgeordneten stellen Fragen zur Anwendung des neuen Gesetzes über die Entlassung von Soldaten, die verfassungsfeindliche Aktivitäten unterstützen. Sie erkundigen sich, auf welcher Grundlage und nach welchen Vorschriften Entlassungen erfolgen und wie viele Soldaten bisher entlassen wurden. Die Bundesregierung antwortet, dass eine Entlassung nur bei schwerwiegenden Gründen möglich ist und gibt Informationen über die Anzahl der entlassenen Soldaten, ohne jedoch Details aus Datenschutzgründen preiszugeben.",
+    "saved_date": "2026-04-29"
+  },
+  {
+    "number": "21/5584",
+    "author": "AfD",
+    "date": "2026-04-22",
+    "title": "Транспарентность при распределении мест для детской терапии",
+    "description_ru": "Депутаты задают вопросы о влиянии увеличения числа диагнозов аутизма на очереди и распределение мест для терапии. Правительство отвечает, что у него нет данных по этому вопросу и что качество медицинского обслуживания в Германии высоко. Оно подчеркивает, что лечение должно соответствовать общепринятым стандартам, и что врачи имеют свободу в выборе методов диагностики и лечения. Также упоминается, что отсутствуют единые стандарты для диагностики аутизма и что правительство не планирует дополнительных мер.",
+    "description_de": "Die Abgeordneten fragen nach den Auswirkungen der steigenden Autismusdiagnosen auf Wartelisten und die Vergabe von Therapieplätzen. Die Bundesregierung antwortet, dass keine Erkenntnisse zu diesem Thema vorliegen und dass die Qualität der Gesundheitsversorgung in Deutschland hoch ist. Sie betont, dass die Behandlung den allgemein anerkannten Standards entsprechen muss und dass Ärzte die Freiheit haben, Diagnose- und Therapiemethoden zu wählen. Es wird auch erwähnt, dass es keine einheitlichen Standards für die Diagnostik von Autismus gibt und dass die Bundesregierung keine weiteren Maßnahmen plant.",
+    "saved_date": "2026-04-29"
+  },
+  {
+    "number": "21/5586",
+    "author": "AfD",
+    "date": "2026-04-22",
+    "title": "Хуаер-Гранулат в онкологии",
+    "description_ru": "Депутаты задают вопросы о применении Хуаер-Гранулата в онкологии и его статусе в Германии. Они интересуются, какие данные есть у правительства о клинических испытаниях и возможных рисках использования этого препарата. Правительство отвечает, что у них нет информации о применении Хуаер-Гранулата в онкологии, и что в Германии нет зарегистрированных лекарств на его основе. Также упоминается, что в Китае Хуаер-Гранулат используется как растительное лекарство, но для его применения в Европе необходимы дополнительные исследования.",
+    "description_de": "Die Abgeordneten stellen Fragen zur Verwendung von Huaier-Granulat in der Onkologie und dessen Status in Deutschland. Sie interessieren sich dafür, welche Daten die Bundesregierung über klinische Studien und mögliche Risiken der Anwendung dieses Präparats hat. Die Bundesregierung antwortet, dass ihr keine Informationen über den Einsatz von Huaier-Granulat in der Onkologie vorliegen und dass es in Deutschland keine zugelassenen Arzneimittel auf dieser Basis gibt. Es wird auch erwähnt, dass Huaier-Granulat in China als pflanzliches Arzneimittel verwendet wird, jedoch sind für die Anwendung in Europa weitere Studien erforderlich.",
+    "saved_date": "2026-04-29"
+  },
+  {
     "number": "21/5465",
     "author": "die Grünen",
     "date": "2026-04-21",
@@ -88,140 +223,5 @@
     "description_ru": "Депутаты задают вопросы о развитии цен на свинину в Германии за последние десять лет, количестве свиноводческих хозяйств и мерах, которые правительство намерено предпринять после Fleischgipfel. Правительство отвечает, что информация о ценах доступна и может быть найдена по указанным ссылкам. Также сообщается о количестве поданных заявок на программу поддержки свиноводов и о влиянии африканской чумы свиней на рынок свинины в Германии.",
     "description_de": "Die Abgeordneten fragen nach der Entwicklung der Schweinepreise in Deutschland in den letzten zehn Jahren, der Anzahl der Schweinehaltenden Betriebe und den Maßnahmen, die die Bundesregierung nach dem Fleischgipfel ergreifen möchte. Die Bundesregierung antwortet, dass Preisinformationen öffentlich zugänglich sind und unter den angegebenen Links eingesehen werden können. Zudem wird die Anzahl der Anträge auf Unterstützung für Schweinehalter und die Auswirkungen der Afrikanischen Schweinepest auf den Schweinemarkt in Deutschland erläutert.",
     "saved_date": "2026-04-25"
-  },
-  {
-    "number": "21/5453",
-    "author": "AfD",
-    "date": "2026-04-16",
-    "title": "Влияние на гражданскую защиту",
-    "description_ru": "Депутаты интересуются, как привлечение добровольных сил гражданской защиты в рамках Операционного плана Германии может повлиять на их основные задачи. Они задают вопросы о роли этих сил, о том, какие организации вовлечены в планирование, и о возможных правовых основах для их привлечения. Правительство отвечает, что Операционный план не предусматривает роли для добровольных сил гражданской защиты и что их участие в военных учениях пока не запланировано. Также подчеркивается, что правительство активно обсуждает вопросы планирования с соответствующими акторами, но не может предоставить информацию о делах, касающихся ответственности земель.",
-    "description_de": "Die Abgeordneten fragen, wie die Einbindung ehrenamtlicher Kräfte des Katastrophenschutzes im Rahmen des Operationsplans Deutschland deren originäre Aufgaben beeinflussen könnte. Sie stellen Fragen zur Rolle dieser Kräfte, zu den beteiligten Organisationen und zu den rechtlichen Grundlagen für ihre Einbindung. Die Bundesregierung antwortet, dass der Operationsplan keine Rolle für ehrenamtliche Kräfte vorsieht und dass deren Teilnahme an militärischen Übungen bisher nicht geplant ist. Zudem wird betont, dass die Bundesregierung aktiv mit relevanten Akteuren über die Aufgaben- und Ressourcenplanung spricht, jedoch keine Informationen zu Angelegenheiten der Länder bereitstellen kann.",
-    "saved_date": "2026-04-25"
-  },
-  {
-    "number": "21/5456",
-    "author": "die Grünen",
-    "date": "2026-04-16",
-    "title": "Продление программы исследований в области кибербезопасности",
-    "description_ru": "Депутаты задают вопросы о будущем финансировании программы исследований в области кибербезопасности, которая истекает в 2026 году. Они интересуются, как правительство планирует обеспечить финансирование и какие меры будут предприняты для поддержки исследований в этой области. Правительство отвечает, что программа будет продлена до 2032 года с выделением значительных средств, а также подчеркивает важность кибербезопасности для защиты критической инфраструктуры и граждан.",
-    "description_de": "Die Abgeordneten fragen nach der zukünftigen Finanzierung des Forschungsprogramms zur Cybersicherheit, das 2026 ausläuft. Sie interessieren sich dafür, wie die Bundesregierung die Finanzierung sicherstellen und welche Maßnahmen zur Unterstützung der Forschung in diesem Bereich ergriffen werden. Die Bundesregierung antwortet, dass das Programm bis 2032 verlängert wird und erhebliche Mittel bereitgestellt werden, und betont die Bedeutung der Cybersicherheit zum Schutz kritischer Infrastrukturen und der Bürger.",
-    "saved_date": "2026-04-25"
-  },
-  {
-    "number": "21/5457",
-    "author": "die Linke",
-    "date": "2026-04-17",
-    "title": "Документированная сексуализированная военная жестокость",
-    "description_ru": "Депутаты интересуются масштабами сексуализированной и гендерной насилия в ходе российского агрессии против Украины, а также оценкой правительством значительного числа неучтенных случаев. Правительство считает отчеты международных организаций, таких как Комиссия независимого расследования по Украине, значимыми и подтверждает систематическое использование сексуализированной насилия российскими войсками. Оно также подчеркивает необходимость правовой ответственности за военные преступления и поддержку Украины в ее защите.",
-    "description_de": "Die Abgeordneten fragen nach dem Ausmaß sexualisierter und geschlechtsspezifischer Gewalt im russischen Angriffskrieg gegen die Ukraine und der Einschätzung der Bundesregierung zur erheblichen Dunkelziffer nicht gemeldeter Fälle. Die Bundesregierung erachtet Berichte internationaler Organisationen als aussagekräftig und bestätigt die systematische Anwendung sexualisierter Gewalt durch russische Streitkräfte. Zudem wird die rechtliche Aufarbeitung der Kriegsverbrechen und die Unterstützung der Ukraine betont.",
-    "saved_date": "2026-04-25"
-  },
-  {
-    "number": "21/5458",
-    "author": "AfD",
-    "date": "2026-04-17",
-    "title": "Стандарты безопасности и контроля в международном судоходстве",
-    "description_ru": "Депутаты задают вопросы о реализации международных стандартов в области безопасности и социальных условий на море, ссылаясь на случаи заброшенных моряков и увеличение несчастных случаев. Они требуют от правительства предоставить конкретные данные о мерах и ответственности. Правительство отвечает, что с 2020 года известно о четырех случаях заброшенных моряков, а также предоставляет статистику по проверкам и нарушениям, связанным с безопасностью на море.",
-    "description_de": "Die Abgeordneten stellen Fragen zur Umsetzung internationaler Standards in der Schifffahrt, insbesondere im Hinblick auf verlassene Seeleute und Arbeitsunfälle. Sie fordern von der Bundesregierung konkrete Zahlen und Maßnahmen. Die Bundesregierung antwortet, dass seit 2020 vier Fälle von verlassenen Seeleuten bekannt sind und gibt Statistiken zu Kontrollen und Verstößen im Zusammenhang mit der Sicherheit auf See an.",
-    "saved_date": "2026-04-25"
-  },
-  {
-    "number": "21/5459",
-    "author": "AfD",
-    "date": "2026-04-17",
-    "title": "Развитие распространения средств самообороны",
-    "description_ru": "Депутаты интересуются, как изменилось количество выданных малых разрешений на оружие с 2015 года и как это связано с ощущением безопасности в обществе. Правительство сообщает, что с 2015 года количество малых разрешений на оружие значительно возросло, однако точные данные о новых разрешениях и причинах их аннулирования отсутствуют. Также отмечается, что статистика по малым разрешениям изменилась с введением нового закона в 2020 году, что затрудняет сравнение данных.",
-    "description_de": "Die Abgeordneten fragen, wie sich die Anzahl der erteilten Kleinen Waffenscheine seit 2015 entwickelt hat und wie dies mit dem Sicherheitsgefühl in der Bevölkerung zusammenhängt. Die Bundesregierung berichtet, dass die Anzahl der Kleinen Waffenscheine seit 2015 erheblich gestiegen ist, jedoch keine genauen Daten zu neu erteilten Genehmigungen und den Gründen für deren Widerruf vorliegen. Zudem wird darauf hingewiesen, dass die Statistik aufgrund eines neuen Gesetzes von 2020 nicht mehr vergleichbar ist.",
-    "saved_date": "2026-04-25"
-  },
-  {
-    "number": "21/5460",
-    "author": "die Linke",
-    "date": "2026-04-20",
-    "title": "Фремдбесицвербот в Steuerberatungsgesellschaften",
-    "description_ru": "Депутаты задают вопросы о влиянии финансовых инвесторов на независимость налоговых консультантов и о том, как это связано с изменениями в законодательстве. Правительство отвечает, что существует риск влияния финансовых инвесторов на профессиональные решения, и упоминает о необходимости защиты независимости налоговых консультантов. Также упоминается, что в некоторых странах ЕС нет аналогичного запрета на участие финансовых инвесторов в налоговых консультациях.",
-    "description_de": "Die Abgeordneten fragen nach den Auswirkungen von Finanzinvestoren auf die Unabhängigkeit von Steuerberatungsgesellschaften und wie dies mit den gesetzlichen Änderungen zusammenhängt. Die Bundesregierung antwortet, dass es Risiken gibt, die Unabhängigkeit der Steuerberater durch Finanzinvestoren zu gefährden, und betont die Notwendigkeit, diese Unabhängigkeit zu schützen. Zudem wird erwähnt, dass in einigen EU-Ländern kein vergleichbares Verbot für Finanzinvestoren in Steuerberatungsgesellschaften existiert.",
-    "saved_date": "2026-04-25"
-  },
-  {
-    "number": "21/5461",
-    "author": "die Linke",
-    "date": "2026-04-20",
-    "title": "Расходы Министерства здравоохранения на публичные мероприятия",
-    "description_ru": "Депутаты интересуются, какие расходы понесло Министерство здравоохранения на публичные мероприятия и рекламу в связи с реформой больниц. Они просят предоставить информацию о суммах, сроках и конкретных мероприятиях, связанных с этой реформой. Правительство отвечает, что расходы на информационные и просветительские мероприятия еще не окончательно подсчитаны, и в настоящее время нет запланированных или обязательных расходов. Также сообщается, что финансирование осуществляется из бюджета, и конкретные суммы будут известны позже.",
-    "description_de": "Die Abgeordneten fragen, welche Ausgaben das Bundesministerium für Gesundheit für Öffentlichkeitsarbeit und Werbung im Zusammenhang mit der Krankenhausreform hatte. Sie bitten um Informationen zu den Beträgen, Zeiträumen und spezifischen Maßnahmen, die mit dieser Reform verbunden sind. Die Bundesregierung antwortet, dass die Ausgaben für Informations- und Aufklärungsmaßnahmen noch nicht endgültig berechnet sind und derzeit keine geplanten oder vertraglich gebundenen Ausgaben vorliegen. Es wird auch mitgeteilt, dass die Finanzierung aus dem Haushalt erfolgt und die genauen Beträge später bekannt gegeben werden.",
-    "saved_date": "2026-04-25"
-  },
-  {
-    "number": "21/5462",
-    "author": "die Grünen",
-    "date": "2026-04-20",
-    "title": "Политическое влияние на присуждение Немецкой книжной премии",
-    "description_ru": "Депутаты задают вопросы о возможном политическом влиянии на присуждение Немецкой книжной премии в контексте проверок, проводимых в рамках так называемого Хабер-процесса. Они интересуются, были ли уведомлены три книжные лавки о проверках и какие конкретные сведения послужили основанием для их исключения из списка номинантов. Правительство отвечает, что соблюдение интересов безопасности выше, чем стремление к прозрачности, и что оно не может раскрывать информацию о проверках, так как это может угрожать их эффективности. Также подчеркивается, что свобода искусства и мнений является основополагающим правом, и любые решения должны быть прозрачными и законными.",
-    "description_de": "Die Abgeordneten stellen Fragen zur möglichen politischen Einflussnahme auf die Vergabe des Deutschen Buchhandlungspreises im Rahmen des sogenannten Haber-Verfahrens. Sie erkundigen sich, ob die betroffenen Buchhandlungen über die Überprüfungen informiert wurden und welche konkreten Informationen zu ihrem Ausschluss führten. Die Bundesregierung antwortet, dass die Geheimhaltungsinteressen der Sicherheitsbehörden höher gewichtet werden als das Bemühen um Transparenz. Zudem wird betont, dass die Freiheit von Kunst und Meinungsäußerung grundgesetzlich geschützt ist und dass Entscheidungen transparent und rechtssicher getroffen werden müssen.",
-    "saved_date": "2026-04-25"
-  },
-  {
-    "number": "21/5463",
-    "author": "die Grünen",
-    "date": "2026-04-20",
-    "title": "Шадстофные нагрузки в воде и окружающей среде",
-    "description_ru": "Депутаты задают вопросы о загрязнении воды и окружающей среды различными химическими веществами, такими как PFAS, PCB и микропластик. Они интересуются, какие меры принимает правительство для защиты водных ресурсов и здоровья населения. Правительство отвечает, что контроль за качеством воды осуществляется на уровне федеральных земель, и у них нет полной информации о загрязнении. Также упоминается, что необходимо улучшение мониторинга и защиты водных ресурсов.",
-    "description_de": "Die Abgeordneten fragen nach den Schadstoffbelastungen in Wasser und Umwelt und welche Maßnahmen die Bundesregierung ergreift, um den Gewässerschutz zu verbessern. Die Bundesregierung erklärt, dass die Verantwortung für die Überwachung der Gewässer bei den Bundesländern liegt und sie keine vollständigen Informationen über die Belastungen hat. Es wird betont, dass ein besserer Gewässerschutz und gezielte Maßnahmen notwendig sind.",
-    "saved_date": "2026-04-25"
-  },
-  {
-    "number": "21/5464",
-    "author": "AfD",
-    "date": "2026-04-20",
-    "title": "Вопросы о распространении шильф-стекляннокрылой цикады в Германии",
-    "description_ru": "Депутаты задают вопросы о распространении шильф-стекляннокрылой цикады в Германии, её влиянии на сельское хозяйство и возможных мерах борьбы с ней. Правительство отвечает, что распространение цикады наблюдается с 2017 года, и ожидается дальнейшее увеличение её численности. Указаны культуры, которые могут пострадать от её распространения, такие как сахарная свекла и картофель. Правительство также сообщает о недостатке данных о возможных экономических потерях и о том, что меры борьбы с цикадой находятся на стадии исследования.",
-    "description_de": "Die Abgeordneten stellen Fragen zur Verbreitung der Schilf-Glasflügelzikade in Deutschland, zu ihren Auswirkungen auf die Landwirtschaft und zu möglichen Bekämpfungsmaßnahmen. Die Bundesregierung antwortet, dass die Verbreitung der Zikade seit 2017 beobachtet wird und eine weitere Zunahme ihrer Population erwartet wird. Es werden Kulturen genannt, die von ihrer Verbreitung betroffen sein könnten, wie Zuckerrüben und Kartoffeln. Die Bundesregierung berichtet auch über einen Mangel an Daten zu möglichen wirtschaftlichen Schäden und dass Bekämpfungsmaßnahmen derzeit erforscht werden.",
-    "saved_date": "2026-04-25"
-  },
-  {
-    "number": "21/5387",
-    "author": "AfD",
-    "date": "2026-04-14",
-    "title": "Заявления о финансировании НПО",
-    "description_ru": "Депутаты интересуются, какие юридические лица получили средства из федеральной программы \"Жить демократией!\" с 2020 по 2026 год. Они просят предоставить информацию о получателях, целях финансирования и суммах. Правительство отвечает, что не может предоставить полные данные, так как это потребует значительных трудозатрат и нецелесообразно. Также сообщается, что нет единой базы данных о передаче средств НПО.",
-    "description_de": "Die Abgeordneten fragen, welche juristischen Personen Mittel aus dem Bundesprogramm \"Demokratie leben!\" von 2020 bis 2026 erhalten haben. Sie bitten um Informationen über die Empfänger, den Zweck der Förderungen und die Beträge. Die Bundesregierung antwortet, dass sie die vollständigen Daten nicht bereitstellen kann, da dies erhebliche Arbeitsaufwände erfordern würde und nicht zumutbar ist. Es wird auch darauf hingewiesen, dass es keine zentrale Datenbank über die Weiterleitung von Mitteln an NGOs gibt.",
-    "saved_date": "2026-04-23"
-  },
-  {
-    "number": "21/5390",
-    "author": "die Linke",
-    "date": "2026-04-14",
-    "title": "Ночной поезд из Берлина в Пшемысль и Хелм",
-    "description_ru": "Депутаты интересуются, была ли выдана немецкой стороной разрешение на использование спальных вагонов для ночного поезда из Берлина в Пшемысль и Хелм. Правительство отвечает, что согласно информации от польского министерства инфраструктуры, немецкая сторона не выдала разрешение на использование спальных вагонов. Также уточняется, что решение о запрете спальных вагонов принимает Европейское агентство железнодорожного транспорта, а не немецкие железные дороги.",
-    "description_de": "Die Abgeordneten fragen, ob die deutsche Seite eine Genehmigung für die Nutzung von Schlafwagen für den Nachtzug von Berlin nach Przemyśl und Chełm erteilt hat. Die Bundesregierung antwortet, dass laut Informationen des polnischen Ministeriums für Infrastruktur keine Genehmigung erteilt wurde. Zudem wird klargestellt, dass die Entscheidung über die Genehmigung von Schlafwagen nicht von der Deutschen Bahn, sondern von der Europäischen Eisenbahnagentur getroffen wird.",
-    "saved_date": "2026-04-23"
-  },
-  {
-    "number": "21/5406",
-    "author": "die Grünen",
-    "date": "2026-04-14",
-    "title": "Кооперация и обмен информацией между министерствами",
-    "description_ru": "Депутаты задают вопросы о сотрудничестве между федеральными министерствами и Федеральным управлением по охране конституции в рамках так называемого Хабер-процесса. Они интересуются, как осуществляется проверка проектов и организаций, которые могут быть связаны с экстремистскими группами. Правительство отвечает, что с 2004 года министерства могут проверять гражданские проекты через это управление, чтобы предотвратить злоупотребления государственными ресурсами. В ответе подчеркивается, что решение о предоставлении финансирования остается за отдельными министерствами, и они должны учитывать информацию о возможных рисках.",
-    "description_de": "Die Abgeordneten stellen Fragen zur Zusammenarbeit zwischen den Bundesministerien und dem Bundesamt für Verfassungsschutz im Rahmen des sogenannten Haber-Verfahrens. Sie erkundigen sich, wie die Überprüfung von Projekten und Organisationen erfolgt, die möglicherweise mit extremistischen Gruppen in Verbindung stehen. Die Bundesregierung antwortet, dass seit 2004 die Ministerien die Möglichkeit haben, zivilgesellschaftliche Projekte über das Bundesamt überprüfen zu lassen, um Missbrauch staatlicher Mittel zu verhindern. In der Antwort wird betont, dass die Entscheidung über die Gewährung von Förderungen bei den einzelnen Ministerien liegt und dass sie Informationen über mögliche Risiken berücksichtigen müssen.",
-    "saved_date": "2026-04-23"
-  },
-  {
-    "number": "21/5407",
-    "author": "AfD",
-    "date": "2026-04-14",
-    "title": "Вопросы о бюрократическом облегчении",
-    "description_ru": "Депутаты задают вопросы о бюрократическом облегчении, касающемся Vorschlag 35106, который касается упрощения сертификации для биогазовых установок. Правительство сообщает, что Vorschlag 35106 был частично реализован через изменения в соответствующих нормативных актах, однако не все предложения были учтены. В частности, правительство указывает на отсутствие информации о сэкономленных затратах и на то, что некоторые предложения не были реализованы из-за распуска предыдущего правительства.",
-    "description_de": "Die Abgeordneten stellen Fragen zur Bürokratieentlastung, die Vorschlag 35106 betrifft, der die Zertifizierung von Biogasanlagen vereinfacht. Die Bundesregierung berichtet, dass Vorschlag 35106 teilweise durch Änderungen in den entsprechenden Rechtsvorschriften umgesetzt wurde, jedoch nicht alle Vorschläge berücksichtigt wurden. Insbesondere weist die Bundesregierung darauf hin, dass keine Informationen über die eingesparten Kosten vorliegen und dass einige Vorschläge aufgrund der Auflösung der vorherigen Regierung nicht umgesetzt wurden.",
-    "saved_date": "2026-04-23"
-  },
-  {
-    "number": "21/5409",
-    "author": "AfD",
-    "date": "2026-04-14",
-    "title": "Иллегальная каннабисовая контрабанда из США",
-    "description_ru": "Депутаты интересуются увеличением незаконного ввоза каннабиса из США в Германию через почтовые и курьерские отправления. Они задают вопросы о количестве задержаний, типах продуктов и методах контрабанды. Правительство отвечает, что у него нет статистики по задержаниям и не может предоставить детальную информацию о маршрутах и методах, используемых контрабандистами. Также подчеркивается, что борьба с международной наркопреступностью требует постоянного обновления методов и сотрудничества с международными партнерами.",
-    "description_de": "Die Abgeordneten fragen nach dem Anstieg des illegalen Cannabisimports aus den USA über Post- und Paketsendungen nach Deutschland. Sie stellen Fragen zu den Anzahl der Sicherstellungen, Produktarten und Schmuggelmethoden. Die Bundesregierung antwortet, dass keine Statistiken über Sicherstellungen vorliegen und keine detaillierten Informationen über Routen und Methoden der Täter bereitgestellt werden können. Zudem wird betont, dass die Bekämpfung der internationalen Drogenkriminalität eine ständige Anpassung der Methoden und die Zusammenarbeit mit internationalen Partnern erfordert.",
-    "saved_date": "2026-04-23"
   }
 ]
