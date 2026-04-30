@@ -3,56 +3,56 @@ Deutscher Bundestag Drucksache 21/5401
 Kleine Anfrage
 der Abgeordneten Claudia Weiss, Martin Sichert, Dr. Christina Baum, Carina 
 Schießl, Kay-Uwe Ziegler, Thomas Dietz, Joachim Bloch, Tobias Ebenberger, 
-Nicole Hess, Dr. Christoph Birghan, Birgit Bessin, Kerstin Przygodda, Alexis 
-Leonard Giersch, Martina Kempf, Stefan Möller, Dr. Paul Schmidt, Gereon 
-Bollmann, Thomas Fetsch und der Fraktion der AfD
-Digital integrierte Versorgungsplattformen, Telemedizin und KI im 
-Gesundheitswesen – Erkenntnisse der Bundesregierung, regulatorische 
-Einordnung sowie Schlussfolgerungen für Telematikinfrastruktur/elektronische 
-Patientenakte, Datenschutz und IT‑Sicherheit
+Nicole Hess, Dr. Christoph Birghan, Birgit Bessin, Kerstin Przygodda, Alexis L. 
+Giersch, Martina Kempf, Stefan Möller, Dr. Paul Schmidt, Gereon Bollmann, 
+Thomas Fetsch und der Fraktion der AfD
+Digital integrierte Versorgungsplattformen, Telemedizin und 
+Künstliche Intelligenz im Gesundheitswesen – Erkenntnisse der 
+Bundesregierung, regulatorische Einordnung sowie Schlussfolgerungen für 
+Telematikinfrastruktur bzw. elektronische Patientenakte, Datenschutz und 
+Informationstechnik‑Sicherheit
 Digital integrierte Versorgungsmodelle, die telemedizinische Leistungen,
 digitale Prozesse (u. a. Terminierung, Dokumentation, Abrechnung) sowie daten- 
-und KI‑gestützte Funktionen in einem Plattformsystem bündeln, werden
-international in unterschiedlichen Ausprägungen erprobt und betrieben. Als Beispiel 
-wird in der öffentlichen Kommunikation und in Unternehmensdarstellungen 
-u. a. das Modell der Ping An Healthcare and Technology Company Limited 
-(u. a. unter den Marken „Ping An Good Doctor“ bzw. „Ping An Health“)
-beschrieben, das telemedizinische Beratung, KI‑gestützte Assistenzfunktionen
-sowie eine Verzahnung mit weiteren Gesundheits‑ und
-Versicherungsdienstleistungen vorsieht (www.prnewswire.com/news-releases/ping-an-health-acquires-
-ping-an-smart-healthcare-301657104.html#:~:text=Ping%20An%20Health%20
-acquires%20Ping%20An%20Smart%20Healthcare). In diesem Zusammenhang 
-werden auch hybride Modelle (Online‑Versorgung plus ergänzende 
-Offline‑Angebote, z. B. automatisierte Kiosklösungen) beschrieben.
+und KI‑gestützte (KI = Künstliche Intelligenz)Funktionen in einem
+Plattformsystem bündeln, werden international in unterschiedlichen Ausprägungen
+erprobt und betrieben. Als Beispiel wird in der öffentlichen Kommunikation und 
+in Unternehmensdarstellungen u. a. das Modell der Ping An Healthcare and 
+Technology Company Limited (u. a. unter den Marken „Ping An Good Doctor“ 
+bzw. „Ping An Health“) beschrieben, das telemedizinische Beratung, 
+KI‑gestützte Assistenzfunktionen sowie eine Verzahnung mit weiteren 
+Gesundheits‑ und Versicherungsdienstleistungen vorsieht (www.prnewswir
+e.com/news-releases/ping-an-health-acquires-ping-an-smart-healthcare-301657
+104.html#:~:text=Ping%20An%20Health%20acquires%20Ping%20An%20Sm
+art%20Healthcare). In diesem Zusammenhang werden auch hybride Modelle 
+(Online‑Versorgung plus ergänzende Offline‑Angebote, z. B. automatisierte
+Kiosklösungen) beschrieben.
 In Deutschland verfolgt die Bundesregierung parallel die Weiterentwicklung 
-der digitalen Versorgungsinfrastruktur (u. a. Telematikinfrastruktur, `ePA für 
-alle´, Interoperabilität) sowie die Rahmenbedingungen für Datenschutz, 
-IT‑Sicherheit und den Einsatz von Künstlicher Intelligenz im
-Gesundheitswesen. Vor diesem Hintergrund soll mit der Kleinen Anfrage geklärt werden, 
-welche Erkenntnisse, Bewertungen, Vorhaben und Schlussfolgerungen die 
-Bundesregierung zu international beobachtbaren Plattformmodellen sowie zu 
-den hierfür relevanten Infrastruktur‑, Daten‑, Sicherheits‑, Wettbewerbs‑ und 
-Regulierungsfragen hat.
+der digitalen Versorgungsinfrastruktur (u. a. Telematikinfrastruktur,
+elektronische Patientenakte „ePA für alle“, Interoperabilität) sowie die
+Rahmenbedingungen für Datenschutz, IT‑Sicherheit (IT = Informationstechnik) und den
+Einsatz von Künstlicher Intelligenz im Gesundheitswesen. Vor diesem Hintergrund 
+soll mit der Kleinen Anfrage geklärt werden, welche Erkenntnisse,
+Bewertungen, Vorhaben und Schlussfolgerungen die Bundesregierung zu international 
+beobachtbaren Plattformmodellen sowie zu den hierfür relevanten 
+Infrastruktur‑, Daten‑, Sicherheits‑, Wettbewerbs‑ und Regulierungsfragen hat.
 Wir fragen die Bundesregierung:
  1. Welche Erkenntnisse liegen der Bundesregierung zu digital integrierten 
 Versorgungsplattformen im Gesundheitswesen (Telemedizin und digitale 
 Prozesse sowie ggf. KI‑Funktionen und Offline‑Ergänzungen) im
 Allgemeinen vor?
  2. Liegen der Bundesregierung Erkenntnisse zu dem in der Vorbemerkung 
-genannten Unternehmen Ping An Healthcare and Technology Company 
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-Limited bzw. zu dessen (nach Unternehmensangaben) beschriebenen
-Versorgungsmodell vor, und wenn ja, aus welchen Quellen (z. B.
-Fachberichte, Marktauswertungen, wissenschaftliche Arbeiten, Behördenkontakte) 
-speisen sich diese Erkenntnisse?
+der Fragesteller genannten Unternehmen Ping An Healthcare and
+Technology Company Limited bzw. zu dessen (nach Unternehmensangaben)
+beschriebenen Versorgungsmodell vor, und wenn ja, aus welchen Quellen 
+(z. B. Fachberichte, Marktauswertungen, wissenschaftliche Arbeiten,
+Behördenkontakte) speisen sich diese Erkenntnisse?
  3. Hat die Bundesregierung seit dem 1. Januar 2023 eigene Analysen,
 Gutachten oder Studien zu vergleichbaren Plattformsystemen (national oder 
 international) beauftragt oder erstellt, und wenn ja, welche (bitte Titel, 
 Auftragnehmer, Datum, Kernfragestellung nennen)?
  4. Welche Chancen und Risiken sieht die Bundesregierung ggf. bei der
-Übertragbarkeit bzw. Teilübertragbarkeit solcher Modelle (vgl. Vorfrage) auf 
-die Versorgung in Deutschland (insbesondere im Hinblick auf Qualität, 
+Übertragbarkeit bzw. Teilübertragbarkeit solcher Modelle (vgl. Frage 3) auf die 
+Versorgung in Deutschland (insbesondere im Hinblick auf Qualität,
 Zugang, Kosten, Datennutzung, Abhängigkeiten etc.)?
  5. Welche Schlussfolgerungen zieht die Bundesregierung aus internationalen 
 Beispielen für die Weiterentwicklung der Telemedizin in Deutschland 
@@ -74,11 +74,11 @@ Standards, Profile, Schnittstellenvorgaben) hält die Bundesregierung ggf. für
 erforderlich, um Plattformsystemansätze ohne proprietäre Abhängigkeiten 
 zu ermöglichen?
 10. Welche Maßnahmen plant die Bundesregierung ggf., um bei der ePA und 
-angrenzenden Diensten Datenportabilität und Wechselmöglichkeiten
+bei angrenzenden Diensten Datenportabilität und Wechselmöglichkeiten 
 (Vermeidung von Lock-in-Effekten) praktisch sicherzustellen?
 11. Welche Erkenntnisse liegen der Bundesregierung zur Anbindung und 
 Nutzbarkeit digitaler Prozesse in der Versorgung vor (z. B. digitale
-Anamnese, Überleitung, strukturierte Dokumentation) und welche Maßnahmen 
+Anamnese, Überleitung, strukturierte Dokumentation), und welche Maßnahmen 
 sind ggf. vorgesehen, um Medienbrüche zu reduzieren?
 12. Welche Erkenntnisse liegen der Bundesregierung ggf. zum Stand der 
 Breitband- und Mobilfunkversorgung bei Leistungserbringern des
@@ -86,29 +86,27 @@ Gesundheitswesens (z. B. Arztpraxen, Krankenhäuser, Pflegeeinrichtungen,
 Rettungsdienststandorte) vor?
 13. Welche Mindestanforderungen (z. B. Verfügbarkeit, Ausfallsicherheit) 
 hält die Bundesregierung für telemedizinische Anwendungen und TI-
-kritische Prozesse für erforderlich und in welcher Form werden diese
+kritische Prozesse für erforderlich, und in welcher Form werden diese
 Anforderungen berücksichtigt?
 14. Plant die Bundesregierung spezifische Maßnahmen zur Verbesserung der 
 Resilienz digitaler Gesundheitsprozesse bei Netzausfällen (z. B. Offline 
 Fallback, Notfallprozesse), und wenn ja, welche?
 15. Hat sich die Bundesregierung eine Auffassung gebildet zum Einsatz KI-
-gestützter Funktionen in der Patientensteuerung (z. B. Symptom Checker,
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-Triage Assistenz, Dokumentationsassistenz), wenn ja welche und welche 
+gestützter Funktionen in der Patientensteuerung (z. B. Symptom-Checker, 
+Triage-Assistenz, Dokumentationsassistenz), wenn ja, welche, und welche 
 Anforderungen hält sie hierbei ggf. für zentral (Patientensicherheit,
 Evidenz, Transparenz, Aufsicht)?
 16. Hat die Bundesregierung seit dem 1. Januar 2023 Konzepte, Leitlinien 
 oder Fördermaßnahmen zum sicheren Einsatz von KI in der Versorgung 
 initiiert oder unterstützt, und wenn ja, welche?
-17. Welche Anforderungen sieht die Bundesregierung an Validierung bzw. 
+17. Welche Anforderungen sieht die Bundesregierung an die Validierung bzw. 
 Evaluierung (z. B. klinische Studien, Real World Evidence, Post Market 
-Surveillance) für KI gestützte Systeme, die unmittelbar oder mittelbar 
+Surveillance) für KI-gestützte Systeme, die unmittelbar oder mittelbar 
 Versorgungsentscheidungen beeinflussen?
 18. Hat sich die Bundesregierung eine Auffassung erarbeitet zu Haftungs- und 
 Verantwortungsfragen bei KI-Assistenzsystemen in der Versorgung (z. B. 
 Verantwortungsabgrenzung zwischen Hersteller, Betreiber,
-Leistungserbringer) und wenn ja, welche?
+Leistungserbringer), und wenn ja, welche?
 19. Welche Maßnahmen hält die Bundesregierung ggf. für erforderlich, um 
 Verzerrungen (Bias) und Qualitätsprobleme durch ungeeignete Trainings- 
 und Einsatzdaten zu minimieren?
@@ -119,17 +117,18 @@ Betroffenen)?
 21. Welche Schlussfolgerungen zieht die Bundesregierung für das Design von 
 Einwilligungs- und Berechtigungsmodellen (insbesondere im Kontext 
 ePA), wenn Plattformmodelle mehrere Dienste bündeln?
-22. Liegen der Bundesregierung Erkenntnisse zu typischen Datenschutz
-Risikokonstellationen bei Plattform Ökosystemen im Gesundheitsbereich vor 
-(z. B. Zusammenführung von Versorgungs-, Abrechnungs-, Wearable- und 
-Versicherungsdaten), und wenn ja, welche?
-23. Welche Anforderungen hält die Bundesregierung an IT‑Sicherheit und
-Cyberresilienz von Versorgungsplattformen im Gesundheitswesen für
-zwingend (z. B. Zero‑Trust‑Ansätze, Logging, Pen‑Tests, Notfallmanagement, 
-Incident Response)?
-24. Welche Rolle spielen aus Sicht der Bundesregierung dabei (vgl. Vorfrage) 
-Vorgaben und Empfehlungen des BSI, und in welcher Weise werden diese 
-bei digitalen Gesundheitsdiensten praktisch umgesetzt oder eingefordert?
+22. Liegen der Bundesregierung Erkenntnisse zu typischen Datenschutz-
+Risikokonstellationen bei Plattform-Ökosystemen im Gesundheitsbereich 
+vor (z. B. Zusammenführung von Versorgungs-, Abrechnungs-, Wearable- 
+und Versicherungsdaten), und wenn ja, welche?
+23. Welche Anforderungen an die IT‑Sicherheit und Cyberresilienz von
+Versorgungsplattformen im Gesundheitswesen hält die Bundesregierung für 
+zwingend notwendig (z. B. Zero‑Trust‑Ansätze, Logging, Pen‑Tests,
+Notfallmanagement, Incident Response)?
+24. Welche Rolle spielen aus Sicht der Bundesregierung dabei (vgl. Frage 23) 
+Vorgaben und Empfehlungen des Bundesamts für Sicherheit in der
+Informationstechnik (BSI), und in welcher Weise werden diese bei digitalen 
+Gesundheitsdiensten praktisch umgesetzt oder eingefordert?
 25. Welche Erkenntnisse liegen der Bundesregierung ggf. zu Abhängigkeiten 
 von einzelnen Herstellern bzw. Plattformen (Lock‑in), Cloud‑Anbietern 
 oder kritischen Zulieferkomponenten im digitalen Gesundheitswesen vor?
@@ -138,13 +137,11 @@ oder kritischen Zulieferkomponenten im digitalen Gesundheitswesen vor?
 bei digitalen Gesundheitsdiensten zu reduzieren, und wenn ja, welche?
 27. Welche wettbewerblichen Risiken sieht die Bundesregierung ggf. bei stark 
 integrierten Plattformsystemen (z. B. Bündelung, Vertikalisierung,
-bevorzugter Zugang zu Daten, Vertriebskanälen, Exklusivitätsbindungen)?
-28. Welche Schlussfolgerungen zieht die Bundesregierung hieraus (vgl.
-Vorfrage) für eigene Förder‑, Vergabe‑ oder Beschaffungsentscheidungen im 
-Bereich Digital Health (z. B. Interoperabilitätsauflagen, 
+bevorzugter Zugang zu Daten, Vertriebskanäle, Exklusivitätsbindungen)?
+28. Welche Schlussfolgerungen zieht die Bundesregierung hieraus (vgl. 
+Frage 27) für eigene Förder‑, Vergabe‑ oder Beschaffungsentscheidungen 
+im Bereich Digital Health (z. B. Interoperabilitätsauflagen, 
 Open‑Standards‑Vorgaben, Wechselpflichten, Exit‑Strategien)?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 29. Welche Programme der Bundesregierung unterstützen ggf. seit dem 1.
 Januar 2023 telemedizinische oder plattformbasierte Versorgungsansätze 
 (bitte Programme, Haushaltstitel, Zielsetzung und Volumina nennen)?
@@ -154,9 +151,9 @@ Portabilitätsanforderungen verbindlich vorgegeben wurden, und wenn ja, welche?
 31. Welche Erkenntnisse liegen der Bundesregierung ggf. zu in Deutschland 
 eingesetzten oder geplanten Kiosklösungen bzw. automatisierten
 Versorgungsstationen (hybride Modelle) im Gesundheitsbereich vor?
-32. Wie ordnet die Bundesregierung solche Modelle (vgl. Vorfrage)
+32. Wie ordnet die Bundesregierung solche Modelle (vgl. Frage 31)
 regulatorisch ein (z. B. berufsrechtliche Anforderungen, Medizinprodukterecht, 
-Datenschutz, IT‑Sicherheit) und sieht sie Anpassungsbedarf, um
+Datenschutz, IT‑Sicherheit), und sieht sie Anpassungsbedarf, um die
 Patientensicherheit und Rechtsklarheit zu gewährleisten?
 33. Welche Auswirkungen erwartet die Bundesregierung durch europäische 
 Regelwerke und Initiativen (insbesondere die europäische
@@ -166,25 +163,24 @@ Plattformmodellen ggf. Fragen grenzüberschreitender
 Datenübermittlungen und der Aufsicht (insbesondere bei Gesundheitsdaten)?
 35. Hat die Bundesregierung seit dem 1. Januar 2023 bilaterale oder
 multilaterale Austauschformate zu Plattform‑ bzw. KI‑Versorgungsmodellen im 
-Gesundheitswesen durchgeführt (z. B. mit EU‑Partnern, OECD, WHO), 
-und wenn ja, welche?
+Gesundheitswesen durchgeführt (z. B. mit EU‑Partnern, der Organisation 
+für wirtschaftliche Zusammenarbeit und Entwicklun [OECD],
+Weltgesundheitsorganisation [WHO]), und wenn ja, welche?
 36. Welche Ressorts und nachgeordneten Behörden sind innerhalb der
 Bundesregierung federführend oder mitzuständig für die Bewertung und
 Gestaltung der Rahmenbedingungen für integrierte Versorgungsplattformen 
 (bitte Zuständigkeiten kurz darstellen)?
 37. Welche kurz‑ und mittelfristigen Maßnahmen (bis 31. Dezember 2026) 
-plant die Bundesregierung ggf., um Interoperabilität, Datensouveränität 
-und IT‑Sicherheit für digital integrierte Versorgungsprozesse konkret zu 
-verbessern?
+plant die Bundesregierung ggf., um die Interoperabilität,
+Datensouveränität und IT‑Sicherheit für digital integrierte Versorgungsprozesse konkret 
+zu verbessern?
 38. Plant die Bundesregierung eine konsolidierte Strategie oder Roadmap zur 
 Einbindung von Telemedizin‑ und KI‑Anwendungen in die
 Regelversorgung unter Berücksichtigung von Datenschutz, IT‑Sicherheit, Wettbewerb 
-und Interoperabilität und falls ja, bis wann ist mit welcher Form (z. B. 
+und Interoperabilität, und wenn ja, bis wann ist mit welcher Form (z. B. 
 Eckpunktepapier, Strategie, Gesetzgebungsvorhaben) zu rechnen?
 Berlin, den 13. April 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.

@@ -1,11 +1,11 @@
 Deutscher Bundestag Drucksache 21/5432
 21. Wahlperiode 17.04.2026
 Kleine Anfrage
-der Abgeordneten Martin Sichert, Dr. Christina Baum, Claudia Weiss, Carina 
-Schießl, Kay-Uwe Ziegler, Thomas Dietz, Joachim Bloch, Tobias, Ebenberger, 
-Nicole Hess, Dr. Christoph Birghan, Birgit Bessin, Kerstin Przygodda, Alexis L. 
-Giersch, Martina Kempf, Stefan Möller, Dr. Paul Schmidt, Gereon Bollmann, 
-Thomas Fetsch und der Fraktion der AfD
+der Abgeordneten der Abgeordneten Martin Sichert, Dr. Christina Baum, 
+Claudia Weiss, Carina Schießl, Kay-Uwe Ziegler, Thomas Dietz, Joachim Bloch, 
+Tobias, Ebenberger, Nicole Hess, Dr. Christoph Birghan, Birgit Bessin, Kerstin 
+Przygodda, Alexis L. Giersch, Martina Kempf, Stefan Möller, Dr. Paul Schmidt, 
+Gereon Bollmann, Thomas Fetsch und der Fraktion der AfD
 Erfassung der Versorgungslage, Kosten und Datenlage zur Verhinderung der 
 Mutter-Kind-Übertragung von HIV und Syphilis in Deutschland (im Lichte der 
 WHO-Validierung für Dänemark)
@@ -20,41 +20,38 @@ Deutschland, insbesondere mit Blick auf messbare Indikatoren, Versorgungsketten 
 Finanzierung (background.tagesspiegel.de/gesundheit-und-e-health/briefing/da
 enemark-hat-mutter-kind-uebertragung-eliminiert#ts-paywall).
 Wir fragen die Bundesregierung:
-1. Welche Bundesbehörde (z. B. RKI, Bonner Institut für Organismische
-Biologie BIOB, www.biologie.uni-bonn.de/biob/de, andere) erhebt bzw.
-koordiniert in Deutschland Daten zur Mutter-Kind-Übertragung von HIV
-und zur kongenitalen Syphilis, und auf welcher Rechtsgrundlage erfolgt
-dies jeweils?
-2. Welche Falldefinitionen (HIV-Mutter-Kind-Übertragung; kongenitale
+ 1. Welche Bundesbehörde (z. B. Robert-Koch-Institut (RKI), Bonner Institut 
+für Organismische Biologie (BIOB), www.biologie.uni-bonn.de/biob/de, 
+andere) erhebt bzw. koordiniert in Deutschland Daten zur Mutter-Kind-
+Übertragung von HIV und zur kongenitalen Syphilis, und auf welcher 
+Rechtsgrundlage erfolgt dies jeweils?
+ 2. Welche Falldefinitionen (HIV-Mutter-Kind-Übertragung; kongenitale
 Syphilis) wendet die Bundesregierung in der Berichterstattung an, und
 inwiefern sind diese mit WHO-Definitionen bzw. Validierungskriterien
 vergleichbar?
-3. Wie viele bestätigte Fälle der Mutter-Kind-Übertragung von HIV wurden
-in Deutschland in den Jahren 2021, 2022, 2023, 2024 und 2025 registriert
+ 3. Wie viele bestätigte Fälle der Mutter-Kind-Übertragung von HIV wurden 
+in Deutschland in den Jahren 2021, 2022, 2023, 2024 und 2025 registriert 
 (bitte nach Jahr und – soweit zulässig – nach Bundesland aufschlüsseln)?
-4. Wie viele Fälle kongenitaler Syphilis wurden in Deutschland in den
+ 4. Wie viele Fälle kongenitaler Syphilis wurden in Deutschland in den
 Jahren 2021 bis 2025 registriert (bitte nach Jahr und – soweit zulässig –
 Bundesland aufschlüsseln)?
-5. Welche Zeitverzögerungen bestehen zwischen Ereignis (z. B. Geburt bzw.
-Diagnose) und bundesweiter Verfügbarkeit bzw. Publikation belastbarer
-Zahlen zur HIV und Syphilisübertragung von Mutter auf Kind (bitte
+ 5. Welche Zeitverzögerungen bestehen zwischen Ereignis (z. B. Geburt bzw. 
+Diagnose) und bundesweiter Verfügbarkeit bzw. Publikation belastbarer 
+Zahlen zur HIV- und Syphilisübertragung von Mutter auf Kind (bitte
 typische Melde- und Auswertefristen nennen)?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
  6. Welche Qualitätssicherungsmaßnahmen (z. B. Plausibilitätsprüfungen, 
 Dublettenprüfung, Nachverfolgung unklarer Meldungen, Audits) werden 
-für die entsprechenden Datenbestände zur HIV und Syphilisübertragung 
+für die entsprechenden Datenbestände zur HIV- und Syphilisübertragung 
 von Mutter auf Kind eingesetzt?
  7. Welche Datenlücken sind der Bundesregierung ggf. bekannt (z. B.
 fehlende Angaben zu Schwangerschaftswoche, Therapiebeginn,
 Versorgungsstatus, Entbindungsmodus, Outcome des Kindes), und welche Maßnahmen 
-sind ggf. geplant, um diese Lücken zur HIV und Syphilisübertragung von 
+sind ggf. geplant, um diese Lücken zur HIV- und Syphilisübertragung von 
 Mutter auf Kind zu schließen?
  8. Plant die Bundesregierung eine regelmäßige, öffentlich zugängliche
 Berichterstattung (z. B. Dashboard, Quartalsberichte) zu zentralen
-Indikatoren zur HIV und Syphilisübertragung von Mutter auf Kind
-(Testabdeckung, Behandlungsabdeckung, Outcomes)?
-Wenn nein, warum nicht?
+Indikatoren zur HIV- und Syphilisübertragung von Mutter auf Kind
+(Testabdeckung, Behandlungsabdeckung, Outcomes), und wenn nein, warum nicht?
  9. Wie hoch war in Deutschland in den Jahren 2021 bis 2025 die
 Testabdeckung in der Schwangerschaftsvorsorge
 a) für HIV und
@@ -64,14 +61,14 @@ Denominators angeben)?
 10. Wie hoch war in Deutschland in den Jahren 2021 bis 2025 der Anteil der 
 positiv getesteten Schwangeren, die
 a) zeitgerecht (bitte Fristen, Referenzpunkte benennen) in fachärztliche 
-Behandlung überführt wurden und
+Behandlung überführt wurden, und
 b) bis zur Entbindung nachweislich in Versorgung blieben
-(bitte getrennt für HIV und Syphilis, nach Jahr)?
+(bitte getrennt für HIV und Syphilis sowie nach Jahr angeben)?
 11. Welche bundesweit einheitlichen (oder nach Kenntnis der
 Bundesregierung bundeslandspezifischen) Versorgungsstandards bzw.
 Leitlinienumsetzungen existieren zur Verhinderung der Mutter-Kind-Übertragung bei 
-HIV und zur Vermeidung kongenitaler Syphilis (bitte zentrale Bausteine 
-nennen: Diagnostik, Therapie, Partnerbehandlung, Nachverfolgung)?
+HIV und zur Vermeidung kongenitaler Syphilis (bitte zentrale Bausteine: 
+Diagnostik, Therapie, Partnerbehandlung, Nachverfolgung, nennen)?
 12. Welche Strukturen existieren in Deutschland für eine interdisziplinäre
 Versorgung (Gynäkologie, Infektiologie, Dermatologie bzw. Venerologie,
 Pädiatrie bzw. Neonatologie, Hebammenwesen, öffentlicher
@@ -90,65 +87,61 @@ Beratung, Anbindung schwer erreichbarer Gruppen)?
 ungeklärtem) Krankenversicherungsschutz geregelt, insbesondere bezüglich
 Testung, Therapie und Nachsorge (bitte Zuständigkeiten, Finanzierungswege 
 benennen)?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-16. In welchem Umfang werden nach Kenntnis der Bunderegierung
-Partnerdiagnostik und Partnerbehandlung (insbesondere bei Syphilis) in der Praxis 
-erreicht, und liegen der Bundesregierung Daten oder Schätzungen zur 
+16. In welchem Umfang werden nach Kenntnis der Bundesregierung
+Partnerdiagnostik und Partnerbehandlung (insbesondere bei Syphilis) in der
+Praxis erreicht, und liegen der Bundesregierung Daten oder Schätzungen zur 
 Umsetzungsquote vor?
-17. Welche Maßnahmen existieren nach Kenntnis der Bunderegierung zur 
+17. Welche Maßnahmen existieren nach Kenntnis der Bundesregierung zur 
 Sicherstellung der Nachsorge des Kindes (HIV-Expositionsprophylaxe, 
-Diagnostik; Syphilis-Diagnostik und oder Therapie), und wie wird die 
+Diagnostik; Syphilis-Diagnostik und/oder Therapie), und wie wird die 
 Nachsorgequote dokumentiert?
 18. Welche Erkenntnisse hat die Bundesregierung zur Versorgungssituation in 
-besonderen Settings zur HIV und Syphilisübertragung von Mutter auf 
+besonderen Settings zur HIV- und Syphilisübertragung von Mutter auf 
 Kind (z. B. Justizvollzug, Unterkünfte, stationäre Einrichtungen, ländliche 
 Räume), und welche spezifischen Programme gibt es dort?
 19. Welche Kosten sind dem Bund in den Jahren 2021 bis 2025 für
-Programme bzw. Projekte im Kontext HIV/Syphilis und Schwangerschaft
-entstanden (bitte nach Jahr, Programm/Projekt, Titelgruppe, Haushaltstitel
-aufschlüsseln)?
+Programme bzw. Projekte im Kontext HIV bzw. Syphilis und Schwangerschaft 
+entstanden (bitte nach Jahr, Programm bzw. Projekt, Titelgruppe,
+Haushaltstitel aufschlüsseln)?
 20. Welche jährlichen Kosten entstehen nach Kenntnis der Bundesregierung 
-in der GKV und der PKV bzw. insgesamt (Schätzung ausreichend) für
-a) HIV-Testung in der Schwangerschaft?
-b) Syphilis-Testung in der Schwangerschaft?
-c) bestätigende Diagnostik (Folgetests)?
-d) Therapien/Medikamente inklusive Begleituntersuchungen?
-e) neonatalpädiatrische Diagnostik/Behandlung bei exponierten oder
-betroffenen Kindern?
+in der gesetzlichen Krankenversicherung GKV und der Privaten
+Krankenversicherung PKV bzw. insgesamt (Schätzung ausreichend) für
+a) HIV-Testung in der Schwangerschaft,
+b) Syphilis-Testung in der Schwangerschaft,
+c) bestätigende Diagnostik (Folgetests),
+d) Therapien bzw. Medikamente inklusive Begleituntersuchungen,
+e) neonatalpädiatrische Diagnostik bzw. Behandlung bei exponierten 
+oder betroffenen Kindern?
 21. Welche Kosten entstehen dem öffentlichen Gesundheitssystem (Bund, 
 Länder, Kommunen) nach Kenntnis der Bundesregierung für Surveillance, 
 Meldesysteme, Auswertung, Qualitätssicherung und ggf. Kampagnen, und 
-wie haben sich diese Kosten 2021 bis 2025 entwickelt?
-22. Welche Fördermittel des Bundes gingen 2021 bis 2025 an
-a) Beratungsstellen, NGOs und
-b) Kommunale sowie landesnahe Stellen
-mit Bezug zu HIV/Syphilis, Schwangerschaft, Sexualgesundheit oder 
-STI-Prävention (bitte Empfänger, Zweck, Summe pro Jahr)?
+wie haben sich diese Kosten von 2021 bis 2025 entwickelt?
+22. Welche Fördermittel des Bundes gingen von 2021 bis 2025 an
+a) Beratungsstellen, Nichtregierungsorganisationen (NGOs) und
+b) kommunale sowie landesnahe Stellen
+mit Bezug zu HIV bzw. Syphilis, Schwangerschaft, Sexualgesundheit 
+oder STI (Sexually Transmitted Infections)-Prävention (bitte Empfänger, 
+Zweck, Summe pro Jahr nennen)?
 23. Welche Erkenntnisse liegen der Bundesregierung ggf. zu Kosten-
 Nutzenbzw. Kosten-Wirksamkeitsbewertungen (Health Technology Assessment, 
-Modellierungen) vor, insbesondere zum Verhältnis von Screening-/
+Modellierungen) vor, insbesondere zum Verhältnis von Screening- bzw. 
 Behandlungskosten zu vermiedenen Folgekosten kongenitaler
 Infektionen?
 24. Sieht die Bundesregierung Reformbedarf bei Abrechnung bzw. Erstattung 
-(EBM/GOÄ/DRG) für Testung, Therapie, interdisziplinäre Versorgung 
-und Nachsorge (z. B. zur Vermeidung von Versorgungslücken durch
-Fehlanreize)?
-Wenn ja, welchen konkret?
+(Einheitliche Bewertungsmaßstab (EBM) bzw. Gebührenordnung für
+Ärzte (GOÄ) bzw. Diagnosis Related Groups (DRG)) für Testung, Therapie, 
+interdisziplinäre Versorgung und Nachsorge (z. B. zur Vermeidung von 
+Versorgungslücken durch Fehlanreize), und wenn ja, welchen konkret?
 25. Strebt die Bundesregierung an, für Deutschland eine nach WHO-Kriterien 
-nachvollziehbare Zielerreichung (`Eliminierung´ der Mutter-Kind-
+nachvollziehbare Zielerreichung („Eliminierung“ der Mutter-Kind-
 Übertragung von HIV und Syphilis) formal zu dokumentieren oder eine 
 WHO-Validierung zu prüfen?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 a) Wenn ja, bis wann, mit welchen Indikatoren, und welche
 Datenvoraussetzungen müssen dafür geschaffen werden?
 b) Wenn nein, warum nicht, und welches alternative Zielsystem verfolgt 
-die Bundesregierung ggf.?
+die Bundesregierung gegebenenfalls?
 Berlin, den 13. April 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.

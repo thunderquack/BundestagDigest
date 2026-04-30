@@ -1,0 +1,250 @@
+Deutscher Bundestag Drucksache 21/5561
+21. Wahlperiode 22.04.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Tobias Matthias Peterka, Knuth Meyer-
+Soltau, Thomas Fetsch, weiterer Abgeordneter und der Fraktion der AfD
+– Drucksache 21/5240 –
+Transparenz, Nachvollziehbarkeit und Kontrolle von Bonitätsscores durch 
+Auskunfteien
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Bonitätsscores von Auskunfteien entscheiden für viele Menschen darüber, ob 
+sie eine Wohnung anmieten, einen Kredit erhalten oder grundlegende
+Dienstleistungen nutzen können. Damit haben sie unmittelbaren Einfluss auf die 
+wirtschaftliche und gesellschaftliche Teilhabe.
+Gleichzeitig bestehen erhebliche Zweifel an der Transparenz und
+Nachvollziehbarkeit dieser Verfahren. Insbesondere ist vielfach unklar, auf welchen 
+Daten und Gewichtungen die Bewertungen beruhen und wie Entscheidungen 
+im Einzelnen zustande kommen.
+Der Europäische Gerichtshof (EuGH) hat mit Urteil vom 7. Dezember 2023 
+(Rechtssachen C‑634/21, C‑26/22 und C‑64/22) klargestellt, dass
+Scoringverfahren unter bestimmten Voraussetzungen als automatisierte Entscheidungen 
+im Sinne der Datenschutz-Grundverordnung (DSGVO) einzustufen sind und 
+damit besonderen rechtlichen Anforderungen unterliegen (www.lto.de/recht/k
+anzleien-unternehmen/k/eugh-entscheidung-urteil-c63421-c2622-c6422-bonit
+aet-score-zahlungsprognose-vorlage-vg-wiesbaden-schufa).
+Zudem weist der Verbraucherzentrale Bundesverband darauf hin, dass
+Betroffene häufig Schwierigkeiten haben, Bewertungen nachzuvollziehen oder
+fehlerhafte Einträge korrigieren zu lassen (www.vzbv.de/meldungen/eugh-urteil-s
+orgt-fuer-nachvollziehbare-scoring-ergebnisse).
+Vor diesem Hintergrund stellt sich den Fragestellern die Frage, inwieweit die 
+bestehenden rechtlichen Regelungen und Kontrollmechanismen geeignet sind, 
+Transparenz, Nachvollziehbarkeit und effektiven Rechtsschutz sicherzustellen.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Die Kleine Anfrage adressiert Themen und Fragestellungen im Zusammenhang 
+mit dem Bonitäts‑Scoring, zu denen am 17. April 2026 eine gesetzliche
+Anpassung im Bundesdatenschutzgesetz in 2. und 3. Lesung verabschiedet wurde.
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums der Justiz und für
+Verbraucherschutz vom 22. April 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+Durch die Neuregelung wird das deutsche Recht unter anderem an das von den 
+Fragestellern angeführte Urteil des Europäischen Gerichtshofes (EuGH) vom 
+7. Dezember 2023 angepasst, in dem der EuGH die Erstellung von Scorewerten 
+rechtlich eingeordnet und weitgehend dem Anwendungsbereich der Regelung 
+zu automatisierten Entscheidungen nach der EU‑Datenschutz‑Grundverordnung 
+(DSGVO) unterworfen hat.
+Artikel 22 Absatz 1 DSGVO verleiht betroffenen Personen das Recht, nicht 
+einer ausschließlich auf einer automatisierten Verarbeitung – einschließlich 
+Profiling – beruhenden Entscheidung unterworfen zu werden. Die DSGVO 
+sieht in Artikel 22 Absatz 2 DSGVO enge Ausnahmen für dieses Verbot vor, 
+darunter eine qualifizierte mitgliedstaatliche gesetzliche Regelung. Dieser
+mitgliedstaatliche Spielraum wird durch die Novellierung der Scoring-Regelung in 
+§ 37a des Bundesdatenschutzgesetzes (BDSG) genutzt.
+Die Regierungsfraktionen haben im parlamentarischen Verfahren zum
+Gesetzentwurf zur Umsetzung der Richtlinie (EU) 2023/2225 über
+Verbraucherkreditverträge eine Regelung zum Scoring (§ 37a BDSG-neu) aufgenommen, die 
+zum einen umfangreiche und differenzierte Regelungen zu den für die
+Berechnung von Scorewerten zulässigen Datenkategorien vorsieht. Neu ist, dass
+einige Datenkategorien ausdrücklich von einer Nutzung bei der Erstellung des
+Scorewertes ausgeschlossen werden: So dürfen künftig besonders sensible Daten 
+nach Artikel 9 DSGVO, der Name der betroffenen Person, personenbezogene 
+Daten aus sozialen Netzwerken, Informationen über Zahlungseingänge und 
+-ausgänge auf und von Bankkonten und Anschriftendaten aufgrund möglicher 
+diskriminierender Wirkung nicht zur Bildung von Scorewerten verwendet
+werden. Daneben bleibt Zulässigkeitsvoraussetzung – in Fortführung der
+etablierten Rechtslage –, dass die zur Berechnung des Wahrscheinlichkeitswerts
+genutzten personenbezogenen Daten unter Zugrundelegung eines
+wissenschaftlich anerkannten mathematisch-statistischen Verfahrens nachweisbar für die 
+Berechnung der Wahrscheinlichkeit des bestimmten Verhaltens erheblich sind. 
+Daneben ist die Erstellung von Scorewerten von Minderjährigen im BDSG 
+künftig ausdrücklich ausgeschlossen.
+Zum anderen sind umfangreiche und differenzierte Regelungen zu Transparenz 
+und Informationspflichten vorgesehen.
+Für die Kontrolle und Durchsetzung des Datenschutzrechts sind die
+Datenschutzaufsichtsbehörden zuständig, die bei der Erfüllung ihrer Aufgaben nach 
+der DSGVO und dem BDSG unabhängig und nur an Recht und Gesetz
+gebunden sind.
+ 1. Welche rechtlichen Grundlagen gelten derzeit für die Erstellung und
+Verwendung von Bonitätsscores durch Auskunfteien?
+Die Erhebung, Verarbeitung und Verwertung personenbezogener Daten durch 
+Auskunfteien, einschließlich der Erstellung und Verwendung von
+Bonitätsscores, richten sich nach der DSGVO und dem BDSG.
+ 2. Welche Datenkategorien werden nach Kenntnis der Bundesregierung
+typischerweise in Scoringverfahren einbezogen?
+ 3. Inwieweit liegen der Bundesregierung Erkenntnisse darüber vor, nach 
+welchen Kriterien und Gewichtungen Bonitätsscores berechnet werden?
+Die Fragen 2 und 3 werden gemeinsam beantwortet.
+Der Bundesregierung liegen keine über die öffentlich zugänglichen Quellen 
+hinausgehenden Informationen vor.
+ 4. Inwieweit sind die verwendeten Scoringverfahren nach Einschätzung der 
+Bundesregierung für Betroffene nachvollziehbar und überprüfbar?
+Die Prüfung und rechtliche Bewertung obliegt den dafür zuständigen
+Datenschutzaufsichtsbehörden der Länder. Im Übrigen wird auf die Vorbemerkung 
+der Bundesregierung verwiesen.
+ 5. Welche konkreten Auskunftsrechte haben Betroffene gegenüber
+Auskunfteien hinsichtlich der sie betreffenden Scoringwerte und deren
+Zustandekommen?
+Gemäß Artikel 15 DSGVO haben betroffene Personen ein Recht auf
+umfassende Auskunft unter anderem über die gespeicherten personenbezogenen Daten, 
+Verarbeitungszwecke, Datenempfänger sowie über das Bestehen einer
+automatisierten Entscheidungsfindung und die zugrundeliegende Logik.
+ 6. Inwieweit wird nach Kenntnis der Bundesregierung sichergestellt, dass 
+diese Auskunftsrechte in der Praxis vollständig und verständlich
+umgesetzt werden?
+Die Kontrolle und Durchsetzung des Datenschutzrechts erfolgt durch die
+unabhängigen Datenschutzaufsichtsbehörden der Länder.
+ 7. Welche Erkenntnisse liegen der Bundesregierung ggf. darüber vor, in 
+welchem Umfang Betroffene von ihren Auskunftsrechten Gebrauch
+machen?
+Mit Blick auf Zuständigkeit der unabhängigen Datenschutzaufsichtsbehörden 
+der Länder liegen der Bundesregierung keine Erkenntnisse darüber vor, in
+welchem Umfang Betroffene von ihren Auskunftsrechten Gebrauch machen.
+ 8. Wenn hierzu (vgl. Frage 7) keine systematische Erfassung erfolgt, aus 
+welchen Gründen wird darauf verzichtet?
+Für die Kontrolle und Durchsetzung des Datenschutzrechts sind die
+unabhängigen Datenschutzaufsichtsbehörden der Länder zuständig. Ob eine
+systematische Erfassung im Sinne der Fragestellung durch die unabhängigen
+Datenschutzaufsichtsbehörden der Länder erfolgt, ist der Bundesregierung nicht
+bekannt.
+ 9. Welche Erkenntnisse liegen der Bundesregierung ggf. über die
+Häufigkeit fehlerhafter oder veralteter Daten in Scoringverfahren vor?
+Mit Blick auf Zuständigkeit der unabhängigen Datenschutzaufsichtsbehörden 
+der Länder liegen der Bundesregierung keine Erkenntnisse über die Häufigkeit 
+fehlerhafter oder veralteter Daten in Scoringverfahren vor.
+10. Welche Verfahren bestehen nach Kenntnis der Bundesregierung zur 
+Korrektur fehlerhafter Bonitätsdaten, und wie bewertet die
+Bundesregierung deren Effektivität?
+Das Recht der Betroffenen auf Berichtigung fehlerhafter Daten ist in Artikel 16 
+DSGVO geregelt. Mit Blick auf Zuständigkeit der unabhängigen
+Datenschutzaufsichtsbehörden der Länder liegen der Bundesregierung keine Kenntnisse 
+über konkrete Verfahren zur Korrektur fehlerhafter Bonitätsdaten vor.
+11. Welche durchschnittlichen Zeiträume sind nach Kenntnis der
+Bundesregierung für die Korrektur fehlerhafter Einträge anzusetzen?
+Gemäß Artikel 16 beziehungsweise 17 DSGVO haben Berichtigung und
+Löschung unverzüglich zu erfolgen.
+12. Inwieweit werden solche Korrekturverfahren (vgl. Frage 11) und deren 
+Dauer systematisch erfasst und ausgewertet?
+13. Wenn eine solche Erfassung nicht erfolgt, aus welchen Gründen wird
+darauf verzichtet?
+Die Fragen 12 und 13 werden gemeinsam beantwortet.
+Für die Kontrolle und Durchsetzung des Datenschutzrechts sind die
+unabhängigen Datenschutzaufsichtsbehörden der Länder zuständig. Ob eine
+systematische Erfassung und Auswertung im Sinne der Fragestellung durch die
+unabhängigen Datenschutzaufsichtsbehörden der Länder erfolgt, ist der
+Bundesregierung nicht bekannt.
+14. Welche Erkenntnisse liegen der Bundesregierung ggf. darüber vor, 
+welche konkreten Auswirkungen Bonitätsscores auf Vertragsabschlüsse 
+und wirtschaftliche Teilhabe haben?
+Die Dienstleistungen der Scoring-Unternehmen dienen dazu, Unternehmen eine 
+fundierte Entscheidung darüber zu ermöglichen, ob sie einen Vertrag mit einer 
+konkreten Person abschließen oder davon wegen Bedenken bezüglich deren 
+Bonität absehen möchten.
+Dies ist nicht nur im Interesse der Unternehmen, sondern auch derjenigen
+Vertragspartner, die ihren Verpflichtungen zuverlässig nachkommen.
+Systematische Auswertungen dazu, welche spezifischen Konsequenzen für ihre
+Entscheidung über Vertragsschlüsse Unternehmen aus bestimmten Bonitätsscores
+ziehen, liegen der Bundesregierung nicht vor.
+15. Inwieweit wird nach Kenntnis der Bundesregierung der Einfluss von 
+Scoringverfahren auf den Zugang zu Wohnraum, Krediten oder
+Dienstleistungen systematisch untersucht, und wenn eine solche Untersuchung 
+nicht erfolgt, aus welchen Gründen wird darauf verzichtet?
+Der Bundesregierung ist keine systematische Untersuchung des Einflusses von 
+Scoringverfahren auf den Zugang zu Wohnraum, Krediten oder
+Dienstleistungen bekannt.
+Für die Bundesregierung ist es entscheidend, den rechtlichen Rahmen für das 
+Scoring effizient und verbraucherschützend auszugestalten und somit klare und
+faire Regelungen für die Auskunfteien, die Betroffenen und die
+Aufsichtsbehörden bereitzustellen.
+16. Welche Behörden sind für die Kontrolle von Auskunfteien zuständig, 
+und wie ist nach Kenntnis der Bundesregierung die Aufsicht konkret
+ausgestaltet?
+Für die Aufsicht über Auskunfteien sind die jeweils für den Sitz des
+Unternehmens zuständigen Landesdatenschutzbehörden zuständig, die bei der Erfüllung 
+ihrer Aufgaben nach der DSGVO und dem BDSG unabhängig und nur an 
+Recht und Gesetz gebunden sind.
+17. Welche Erkenntnisse liegen der Bundesregierung über die Anzahl und 
+Ergebnisse von Prüfungen oder Beanstandungen von Auskunfteien seit 
+2020 vor?
+Der Bundesregierung liegen keine Erkenntnisse vor. Auf die Zuständigkeit der 
+Datenschutzaufsichtsbehörden der Länder wird verwiesen.
+18. Welche Maßnahmen wurden nach Kenntnis der Bundesregierung seit 
+2020 ergriffen, um die Kontrolle von Scoringverfahren zu verbessern?
+Der Bundesregierung liegen keine Erkenntnisse vor. Auf die Zuständigkeit der 
+Datenschutzaufsichtsbehörden der Länder wird verwiesen.
+19. Welche Auswirkungen hat nach Kenntnis der Bundesregierung die 
+Rechtsprechung des Europäischen Gerichtshofs zum Scoring auf die
+derzeitige Praxis in Deutschland?
+Mit Urteil des EuGH vom 7. Dezember 2023 (Rs. C-634/21) hat der EuGH die 
+Erstellung von Scorewerten durch Auskunfteien weitgehend dem
+Anwendungsbereich der Regelung zu automatisierten Entscheidungen nach der DSGVO
+unterworfen. Diese Regelung (Artikel 22 Absatz 1 DSGVO) verleiht betroffenen 
+Personen das Recht, nicht einer ausschließlich auf einer automatisierten
+Verarbeitung – einschließlich Profiling – beruhenden Entscheidung unterworfen zu 
+werden. Der Bundesregierung ist keine systematische Untersuchung dazu
+bekannt, welche spezifischen Auswirkungen die Rechtsprechung des
+Europäischen Gerichtshofs auf die Praxis in Deutschland hat. Im Übrigen wird auf die 
+Vorbemerkung der Bundesregierung verwiesen.
+20. Welche Anpassungen des nationalen Rechtsrahmens wurden seit 2020 
+vorgenommen oder werden derzeit geprüft?
+Die DSGVO sieht in Artikel 22 Absatz 2 DSGVO enge Ausnahmen für das 
+Verbot automatisierter Entscheidungen vor, darunter eine qualifizierte
+mitgliedstaatliche gesetzliche Regelung. Die gegenwärtige Scoring-Regelung in 
+§ 31 BDSG ist nicht als Regelung im Sinne des Artikels 22 Absatz 2 DSGVO 
+abgefasst. Eine Anpassung der Regelung im BDSG ist am 17. April 2026 vom 
+Deutschen Bundestag verabschiedet worden. Im Übrigen wird auf die
+Vorbemerkung der Bundesregierung verwiesen.
+21. Welche Schlussfolgerungen zieht die Bundesregierung aus den
+bisherigen Erkenntnissen für die Weiterentwicklung der Regulierung von
+Scoringverfahren?
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen.
+22. Welche Position vertritt die Bundesregierung ggf. zu der Forderung des 
+Verbraucherzentrale Bundesverbands vom 27. Februar 2025,
+Verbrauchermerkmale aus Scoringverfahren auszuschließen, die keinen direkten 
+Bezug zum Zahlungsverhalten aufweisen (www.vzbv.de/meldungen/eug
+h-urteil-sorgt-fuer-nachvollziehbare-scoring-ergebnisse)?
+Wie in der Vorbemerkung der Bundesregierung erläutert, wurden durch die
+Änderung der Scoring-Regelung in § 37a BDSG – unter Berücksichtigung der 
+Rechtsprechung des EuGH – einige Datenkategorien ausdrücklich von einer 
+Nutzung bei der Erstellung des Scorewertes ausgeschlossen. So dürfen künftig 
+besonders sensible Daten nach Artikel 9 DSGVO, der Name der betroffenen 
+Person, personenbezogene Daten aus sozialen Netzwerken, Informationen über 
+Zahlungseingänge und -ausgänge auf und von Bankkonten und
+Anschriftendaten aufgrund möglicher diskriminierender Wirkung nicht zur Bildung von
+Scorewerten verwendet werden. Daneben bleibt Zulässigkeitsvoraussetzung – in 
+Fortführung der etablierten Rechtslage –, dass die zur Berechnung des
+Wahrscheinlichkeitswerts genutzten personenbezogenen Daten unter
+Zugrundelegung eines wissenschaftlich anerkannten mathematisch-statistischen Verfahrens 
+nachweisbar für die Berechnung der Wahrscheinlichkeit des bestimmten
+Verhaltens erheblich sind.
+23. Hat sich die Bundesregierung eine Positionierung erarbeitet zu der
+Forderung nach der Einführung konkreter Qualitätsanforderungen an
+Scoringverfahren von Auskunfteien, und wenn ja, wie lautet diese (www.vzb
+v.de/meldungen/eugh-urteil-sorgt-fuer-nachvollziehbare-scoring-ergebn
+isse)?
+Auf den in der Vorbemerkung der Bundesregierung erwähnten Gesetzentwurf, 
+in den die Position der Bundesregierung eingeflossen ist, wird verwiesen.
+24. Welche Position vertritt die Bundesregierung ggf. zu dem Vorschlag, eine 
+zentrale Unterstützungseinheit für die Datenschutzaufsichtsbehörden im 
+Bereich Scoring einzurichten (www.vzbv.de/meldungen/eugh-urteil-sorg
+t-fuer-nachvollziehbare-scoring-ergebnisse)?
+Auf die Zuständigkeit und Unabhängigkeit der Datenschutzaufsichtsbehörden 
+der Länder wird verwiesen.
+25. Inwieweit prüft die Bundesregierung ggf. derzeit gesetzgeberische oder 
+regulatorische Maßnahmen in diesen Bereichen?
+Es wird auf die Vorbemerkung der Bundesregierung und auf die Antwort zu 
+Frage 23 verwiesen.
+Darüber hinaus sind gegenwärtig keine Gesetzesinitiativen der
+Bundesregierung in diesem Bereich geplant.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
