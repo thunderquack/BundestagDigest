@@ -1,0 +1,222 @@
+Deutscher Bundestag Drucksache 21/5625
+21. Wahlperiode 23.04.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Stefan Möller, Steffen Janich, Sascha 
+Lensing, weiterer Abgeordneter und der Fraktion der AfD
+– Drucksache 21/5119 –
+Möglicher Einsatz der Datenanalyse-Software Palantir „Gotham“ durch deutsche 
+Nachrichtendienste
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die US-amerikanische Firma Palantir Technologies stellt Software zur
+Verarbeitung und Auswertung großer Datenmengen bereit. Eines der zentralen
+Produkte ist die Software „Gotham“ (PG), die nach Angaben des Unternehmens 
+im Bereich der Kriminalitäts- und Terrorismusbekämpfung eingesetzt wird. 
+Palantir bietet seine Produkte nicht nur als standardisierte Software an,
+sondern passt sie an bestehende Strukturen der jeweils nutzenden Behörden an.
+In Deutschland wird Software von Palantir im polizeilichen Bereich in
+mehreren Bundesländern genutzt, u. a. bezeichnet als „HessenData“ in Hessen,
+„Datenanalyse und Recherche“ (DAR) in Nordrhein-Westfalen und „Vernetzte
+Recherche und Analyse“ (VeRA) in Bayern. Diese Systeme dienen nach
+öffentlich zugänglichen Informationen der Auswertung umfangreicher
+Datenbestände aus unterschiedlichen Quellen, etwa aus Telekommunikationsüberwachung, 
+Funkzellenabfragen, behördlichen Registern, sozialen Netzwerken und
+anderen offenen Quellen (https://netzpolitik.org/2025/verfassungsbeschwerde-das-
+problem-heisst-nicht-nur-palantir/#netzpolitik-pw). In diesem Zusammenhang 
+sind verfassungsrechtliche Fragen aufgeworfen worden, insbesondere im
+Hinblick auf Datenschutz, informationelle Selbstbestimmung und das
+Trennungsgebot zwischen Polizei und Nachrichtendiensten (vgl.
+Bundesverfassungsgericht, Urteil vom 16. Februar 2023 – 1 BvR 1547/19).
+Der Vorstandsvorsitzende von Palantir Technologies, Alexander Karp, hat im 
+Jahr 2023 in einem Interview erklärt, die Software „Gotham“ habe „im
+Alleingang“ den Aufstieg der „extremen Rechten“ in Europa gestoppt (www.cnb
+c.com/video/2023/01/17/palantir-ceo-alex-karp-discusses-economic-and-geop
+olitical-outlook-from-davos.html, Zeitmarke: 8:55). Vor diesem Hintergrund 
+stellt sich den Fragestellern die Frage, ob und in welchem Umfang die
+Software „Gotham“ oder andere Produkte von Palantir auch direkt oder indirekt 
+über Informationsverbundsysteme durch deutsche Nachrichtendienste genutzt 
+werden und wie die Grenzen der Anwendung insbesondere in Bezug auf
+unbeteiligte Dritte definiert sind.
+Von besonderem Interesse ist für die Fragesteller, ob solche Systeme im
+Bereich der Auswertung politischer Aktivitäten eingesetzt werden oder einge-
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern
+vom 23. April 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+setzt werden können, ob dabei Daten über politisch aktive Personen sowie 
+deren privates und berufliches Umfeld verarbeitet werden und welche
+rechtlichen, technischen und organisatorischen Vorkehrungen zum Schutz der 
+Grundrechte getroffen werden.
+ 1. Setzen Nachrichtendienste des Bundes und der Länder nach Kenntnis der 
+Bundesregierung derzeit PG oder ähnliche Softwareprodukte der Firma 
+Palantir Technologies im Gebiet der Bundesrepublik Deutschland zur 
+Auswertung von Daten ein oder haben entsprechende Systeme in den 
+letzten zehn Jahren in Deutschland getestet, evaluiert oder in
+Pilotprojekten genutzt, und wenn ja, welche (bitte nach Behörde,
+Produktbezeichnung sowie Einsatz- bzw. Projektzeitraum aufschlüsseln)?
+ 5. Werden gegebenenfalls durch Software wie PG o. Ä. personenbezogene 
+Merkmale mit Bezug zu parteipolitischer Betätigung in Deutschland
+verarbeitet, etwa Angaben zu Mitgliedschaften in Parteien oder sonstigen 
+politischen Organisationen, zu den dortigen Funktionen und Aufgaben, 
+zu Kandidaturen für öffentliche Wahlen oder zur Teilnahme an
+Parteiveranstaltungen?
+ 6. Werden nach Kenntnis der Bundesregierung gegebenenfalls durch
+Software wie PG o. Ä. Profile oder sonstige Auswertungen von politischen 
+Persönlichkeiten erstellt und in Deutschland genutzt, die u. a. deren
+politische Funktionen, Mandate, Ansichten oder Kontaktpersonen darstellen?
+ 7. Werden im Fall der Beobachtung politisch aktiver Personen in
+Deutschland durch deutsche Nachrichtendienste im Rahmen von möglichen
+Auswertungen mit Systemen wie PG o. Ä. auch Daten über das private und 
+berufliche Umfeld dieser Personen verarbeitet, insbesondere über
+Ehepartner, Kinder, andere Verwandte, enge Freunde sowie berufliche
+Kontakte?
+ 8. Nach welchen Kriterien wird gegebenenfalls entschieden, ob solche
+Daten in die Analyse einbezogen werden, wie lange werden sie gespeichert, 
+und für welche Zwecke dürfen sie genutzt werden?
+ 9. Welche besonderen Schutzvorkehrungen bestehen gegebenenfalls im 
+Hinblick auf Personen, die einem besonderen Berufsgeheimnis
+unterliegen, insbesondere Abgeordnete, Journalisten, Rechtsanwälte sowie 
+Geistliche?
+13. In welcher Größenordnung sind nach Kenntnis der Bundesregierung
+gegebenenfalls Personen von Auswertungen mit Systemen wie PG o. Ä. 
+betroffen, die lediglich in einer verwandtschaftlichen oder sonstigen
+persönlichen Beziehung zu politisch aktiven Personen stehen?
+Es wird auf die Antwort zu Frage 1 verwiesen.
+Die Fragen 1, 5 bis 9 und 13 werden gemeinsam beantwortet.
+Die Beantwortung der Frage betrifft solche Informationen, die in besonders
+hohem Maße das Staatswohl berühren und daher selbst in eingestufter Form nicht 
+beantwortet werden kann. Die Bundesregierung ist nach sorgfältiger Abwägung 
+der widerstreitenden Interessen zu der Auffassung gelangt, dass eine
+Beantwortung der Frage nicht erfolgen kann. Das verfassungsrechtlich verbürgte Frage- 
+und Informationsrecht des Deutschen Bundestages gegenüber der
+Bundesregierung findet seine Grenzen in den gleichfalls Verfassungsrang genießenden 
+schutzwürdigen Interessen des Staatswohls. Eine Offenlegung der angefragten 
+Informationen birgt die Gefahr, dass Einzelheiten zur konkreten Methodik und 
+zu in hohem Maße schutzwürdigen spezifischen Fähigkeiten der
+Nachrichtendienste des Bundes bekannt würden. Infolgedessen könnten sowohl staatliche 
+als auch nichtstaatliche Akteure Rückschlüsse auf spezifische Vorgehensweisen 
+und Fähigkeiten der Nachrichtendienste des Bundes ziehen. Dies könnte
+folgenschwere Einschränkungen der Informationsgewinnung und
+Analysefähigkeit zur Folge haben, womit letztlich der gesetzliche Auftrag der
+Nachrichtendienste des Bundes – die Sammlung und Auswertung von Informationen – 
+nicht mehr sachgerecht erfüllt werden könnte. Die Gewinnung von
+Informationen ist für die Sicherheit der Bundesrepublik Deutschland und für die
+Aufgabenerfüllung der Nachrichtendienste des Bundes jedoch unerlässlich. Sofern 
+solche Informationen entfallen oder wesentlich zurückgehen sollten, würden 
+empfindliche Informationslücken auch im Hinblick auf die Sicherheitslage der 
+Bundesrepublik Deutschland drohen.
+Selbst eine Verschlusssachen-(VS)-Einstufung und Hinterlegung der
+angefragten Informationen in der Geheimschutzstelle des Deutschen Bundestages würde 
+ihrer erheblichen Bedeutung für die Aufgabenerfüllung der Nachrichtendienste 
+des Bundes nicht ausreichend Rechnung tragen, weil auch ein geringfügiges 
+Risiko des Bekanntwerdens unter keinen Umständen hingenommen werden 
+kann.
+Die angefragten Inhalte beschreiben die Arbeitsweise der Nachrichtendienste 
+des Bundes so detailliert, dass eine Bekanntgabe auch gegenüber einem
+begrenzten Kreis von Empfängern ihrem Schutzbedürfnis nicht Rechnung tragen 
+kann. Dies gilt umso mehr für die Frage der Beschaffung nachrichtendienstlich 
+relevanter Techniken oder Fähigkeiten. Bei einem Bekanntwerden der
+schutzbedürftigen Information wäre kein Ersatz durch andere Instrumente der
+Informationsgewinnung möglich.
+Hieraus ergibt sich, dass die erbetenen Informationen in ihrer Detailtiefe derart 
+schutzbedürftige Geheimhaltungsinteressen berühren, dass das Staatswohl
+gegenüber dem parlamentarischen Informationsrecht in diesem besonderen
+Einzelfall wesentlich überwiegt. Insofern muss ausnahmsweise das Fragerecht der 
+Abgeordneten gegenüber dem Geheimhaltungsinteresse der Bundesregierung 
+zurückstehen. Dabei ist der Umstand, dass die Antwort verweigert wird, weder 
+als Bestätigung noch als Verneinung des angefragten Sachverhalts zu werten.
+ 2. Welche technischen, organisatorischen oder rechtlichen Schnittstellen zur 
+direkten oder indirekten Nutzung von Auswertungen durch Software wie 
+PG o. Ä. bestehen gegebenenfalls zwischen Polizeibehörden bzw.
+Nachrichtendiensten anderer Staaten einerseits und den deutschen
+Nachrichtendiensten des Bundes und der Länder andererseits?
+ 3. Befähigen diese in Frage 2 erfragten etwaigen Schnittstellen deutsche 
+Nachrichtendienste des Bundes und nach Kenntnis der Bundesregierung 
+der Länder zumindest teilweise oder indirekt, selbst oder durch andere 
+Behörden oder Staaten gesammelte personenbezogene Daten für Zwecke 
+des eigenen Aufgabenbereichs auszuwerten bzw. Zugriff auf
+entsprechende Auswertungen zu erhalten?
+Die Fragen 2 und 3 werden gemeinsam beantwortet.
+Soweit nach rechtlichen Aspekten gefragt wird, wird auf das einschlägige
+fachspezifische Recht der Polizeibehörden bzw. Nachrichtendienste verwiesen.
+Im Übrigen wird auf die Antwort zu Frage 1 verwiesen.
+ 4. Welche rechtlichen und organisatorischen Beschränkungen bestehen für 
+Nachrichtendienste des Bundes und nach Kenntnis der Bundesregierung 
+der Länder in Bezug auf die Auswertung personenbezogener Daten
+insbesondere aus der technischen Kommunikationsüberwachung außerhalb 
+von strafrechtlichen Ermittlungsverfahren durch Software wie PG o. Ä. 
+in Bezug auf politisch aktive Personen wie Abgeordnete, sonstige
+Mandatsträger, Parteimitglieder oder deren Verwandten-, Freundes- und
+Bekanntenkreis?
+Soweit nach rechtlichen Beschränkungen gefragt wird, verweist die
+Bundesregierung auf die dafür geltenden Vorschriften des Bundes- und Landesrechts.
+Im Übrigen wird auf die Antwort zu Frage 1 verwiesen.
+10. Welche rechtlichen, technischen und organisatorischen Vorkehrungen
+bestehen, um eine Nutzung von personenbezogenen Daten aus
+Datenbeständen der Polizei oder von Nachrichtendiensten anderer Staaten für 
+Auswertungen der Nachrichtendienste des Bundes und nach Kenntnis 
+der Bundesregierung der Länder bzw. vice versa verfassungskonform zu 
+beschränken?
+Soweit nach rechtlichen Beschränkungen gefragt wird, verweist die
+Bundesregierung auf die dafür geltenden Vorschriften des Bundes- und Landesrechts.
+Im Übrigen wird auf die Antwort zu Frage 1 verwiesen.
+11. Welche Kontroll- und Korrekturmechanismen bestehen in Bezug auf die 
+Beauftragung und Nutzung von Auswertungen in oben erfragten
+Sachverhalten?
+Soweit personenbezogene Daten verarbeitet werden, besteht insbesondere die 
+jeweilige unabhängige Datenschutzkontrolle, auf Bundesebene durch die oder 
+den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit.
+12. Welche Möglichkeiten existieren für potenziell Betroffene im Sinne der 
+Fragen 4 bis 9 gegebenenfalls, Auskunft über das Ausmaß der
+Auswertung ihrer personenbezogenen Daten durch Software wie PG o. Ä. zu
+erhalten?
+Betroffene können sich mit einer Auskunftsbitte an die datenverarbeitende
+Stelle wenden. Auskunftsrechte sind dem fachspezifischen Recht zu entnehmen.
+14. In welchem Umfang wird das System „Datenanalyse und Recherche“ in 
+Nordrhein-Westfalen nach Kenntnis der Bundesregierung für die
+Bearbeitung von Fällen der Hasskriminalität, von strafbaren Äußerungen im 
+Internet und zur Beobachtung von Strukturen sogenannter Reichsbürger 
+eingesetzt, und welche deutschen Nachrichtendienste erhalten Zugang zu 
+den hierdurch erzeugten Daten oder Analyseergebnissen?
+Der Bundesregierung liegen hierzu keine über öffentlich zugängliche
+Informationen hinausgehenden Erkenntnisse vor. Im Übrigen fällt der Einsatz
+entsprechender Systeme in die Zuständigkeit des Landes Nordrhein-Westfalen.
+15. Welche Rolle spielen in Deutschland gemeinsam betriebene Zentren und 
+Arbeitsgruppen von Polizei und Verfassungsschutz, insbesondere
+gemeinsame Zentren von Polizei und Verfassungsschutz der Länder oder 
+des Bundes, bei der Nutzung von Systemen der Firma Palantir
+Technologies, und wie wird dort sichergestellt, dass das Trennungsgebot zwischen 
+Polizei und Nachrichtendiensten eingehalten wird und die gesetzlichen 
+Vorgaben zur Beobachtung politischer Aktivitäten beachtet werden?
+Systeme des Unternehmens Palantir spielen in den gemeinsamen
+Kooperationsplattformen der Polizeibehörden und Nachrichtendienste auf Bundes- und
+Länderebene (insbesondere das Gemeinsame Extremismus- und
+Terrorismusabwehrzentrum (GETZ) und das Gemeinsame Terrorismusabwehrzentrum 
+(GTAZ)) keine Rolle, da es sich bei den Kooperationsplattformen um
+Austauschformate zwischen den beteiligten Behörden handelt.
+Auswertungswerkzeuge werden von den Behörden jeweils unabhängig von solchen
+Kooperationsplattformen eingesetzt. Die Zusammenarbeit in den Plattformen stützt sich 
+auf die jeweiligen gesetzlichen Befugnisse der teilnehmenden Behörden. Die 
+rechtlichen Grenzen dieser Befugnisse werden selbstverständlich beachtet.
+16. Welche verfassungsrechtlichen Bewertungen liegen der Bundesregierung 
+gegebenenfalls zum Einsatz der Datenanalyseplattformen wie PG o. Ä. 
+durch deutsche Sicherheitsbehörden und Nachrichtendienste in
+Deutschland vor, insbesondere im Hinblick auf Datenschutz, informationelle 
+Selbstbestimmung, das Trennungsgebot zwischen Polizei und
+Nachrichtendiensten und die Bindung der Nachrichtendienste an die freiheitliche 
+demokratische Grundordnung?
+Verfassungsrechtliche Fragestellungen im Zusammenhang mit dem Einsatz von 
+IT-gestützten Analysefähigkeiten im polizeilichen Bereich des Bundes werden 
+fortlaufend im Rahmen der fachlichen Befassung geprüft und bewertet.
+Maßgeblich ist, dass der Einsatz auf Grundlage der jeweils einschlägigen
+gesetzlichen Befugnisse erfolgt und die verfassungsrechtlichen Vorgaben gewahrt
+werden. Die Anforderungen sind durch die Vorgaben des
+Bundesverfassungsgerichts insbesondere aus dem Urteil vom 16. Februar 2023 (1 BvR 1547/19, 
+BVerfGE 165, 363) konkretisiert und bei der Anwendung zu beachten.
+Im Hinblick auf die Polizeibehörden der Länder nimmt die Bundesregierung 
+keine verfassungsrechtlichen Bewertungen zu konkreten technischen
+Anwendungen vor.
+Hinsichtlich der Nachrichtendienste liegen der Bundesregierung keine
+Bewertungen im Sinne der Frage vor.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

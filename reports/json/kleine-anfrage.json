@@ -7672,9 +7672,9 @@
     "author": "AfD",
     "date": "2026-04-21",
     "title": "Статистика Messerkriminalität на федеральном уровне",
-    "description_ru": "Депутаты задают вопросы о состоянии статистики преступлений с использованием ножей на федеральном уровне, указывая на необходимость более точной и валидной информации. Они выражают недовольство тем, что данные о преступлениях с ножами не являются валидными и требуют более тщательной обработки. Правительство отвечает, что проблемы с валидностью данных касаются только новых значений в каталоге 'Тип использования оружия', и что с 2025 года данные о преступлениях с ножами будут собираться более детально. Однако, правительство также указывает, что проблемы с валидностью данных не могут быть исправлены задним числом.",
-    "description_de": "Die Abgeordneten stellen Fragen zum Stand der Statistik über Messerkriminalität auf Bundesebene und betonen die Notwendigkeit genauerer und valider Informationen. Sie äußern Unzufriedenheit darüber, dass die Daten zu Messerangriffen nicht valide sind und eine gründlichere Bearbeitung erfordern. Die Bundesregierung antwortet, dass die Validitätsprobleme nur die neuen Werte im Katalog 'Art der Waffenverwendung' betreffen und dass seit 2025 die Daten zu Messerangriffen detaillierter erfasst werden. Allerdings weist die Bundesregierung auch darauf hin, dass die Validitätsprobleme nicht rückwirkend behoben werden können.",
-    "saved_date": "2026-04-29"
+    "description_ru": "Депутаты задают вопросы о состоянии статистики преступлений с использованием ножей на федеральном уровне, указывая на необходимость более точной и валидной информации. Они выражают недовольство тем, что данные о Messerangriff не являются валидными и требуют более тщательной обработки. Правительство отвечает, что проблемы с валидностью данных касаются только новых значений в каталоге \"Art der Waffenverwendung\" и что меры по улучшению качества данных уже принимаются. Также подчеркивается, что для 2026 года ожидаются валидные данные о преступлениях с использованием ножей.",
+    "description_de": "Die Abgeordneten stellen Fragen zum Stand der Statistik über Messerkriminalität auf Bundesebene und betonen die Notwendigkeit genauer und valider Informationen. Sie äußern Unzufriedenheit darüber, dass die Daten zu Messerangriffen nicht valide sind und eine gründlichere Bearbeitung erfordern. Die Bundesregierung antwortet, dass die Validitätsprobleme nur die neuen Werte im Katalog \"Art der Waffenverwendung\" betreffen und dass bereits Maßnahmen zur Verbesserung der Datenqualität ergriffen werden. Zudem wird betont, dass für das Jahr 2026 valide Daten zu Messerangriffen erwartet werden.",
+    "saved_date": "2026-05-01"
   },
   "21/5516": {
     "number": "21/5516",
@@ -7900,5 +7900,23 @@
     "description_ru": "Депутаты задают вопросы о том, как изменилась доля Европейского Союза в мировом валовом внутреннем продукте с 1990 года и какие данные использует правительство для анализа этой ситуации. Они также интересуются причинами относительного отставания роста ЕС по сравнению с США и Китаем, а также о наличии индикаторов для измерения регуляторной нагрузки в Германии и ЕС. Правительство отвечает, что данные о ВВП доступны через Международный валютный фонд, и что оно не собирает такие данные самостоятельно. Также упоминается, что правительство использует различные индикаторы для оценки регуляторной нагрузки и что оно реализует меры по улучшению конкурентоспособности Европы.",
     "description_de": "Die Abgeordneten fragen, wie sich der Anteil der Europäischen Union am weltweiten Bruttoinlandsprodukt seit 1990 entwickelt hat und welche Daten die Bundesregierung für ihre Analysen verwendet. Sie erkundigen sich auch nach den Ursachen des relativen Wachstumsrückstands der EU im Vergleich zu den USA und China sowie nach Indikatoren zur Messung der regulatorischen Belastung in Deutschland und der EU. Die Bundesregierung antwortet, dass Daten zum BIP über den Internationalen Währungsfonds verfügbar sind und dass sie keine eigenen Daten erhebt. Zudem wird erwähnt, dass die Bundesregierung verschiedene Indikatoren zur Bewertung der regulatorischen Belastung nutzt und Maßnahmen zur Verbesserung der Wettbewerbsfähigkeit Europas umsetzt.",
     "saved_date": "2026-04-30"
+  },
+  "2026-04-21 21_5506": {
+    "number": null,
+    "author": null,
+    "date": null,
+    "title": "",
+    "description_ru": null,
+    "description_de": null,
+    "saved_date": "2026-05-01"
+  },
+  "21/5625": {
+    "number": "21/5625",
+    "author": "AfD",
+    "date": "2026-04-23",
+    "title": "Возможный Einsatz der Datenanalyse-Software Palantir „Gotham“",
+    "description_ru": "Депутаты интересуются, используется ли программное обеспечение Palantir „Gotham“ немецкими разведывательными службами и в каком объеме. Они задают вопросы о том, обрабатываются ли данные о политически активных лицах и какие меры принимаются для защиты их прав. Правительство отвечает, что раскрытие запрашиваемой информации может угрожать государственным интересам и безопасности, и поэтому не может предоставить конкретные данные.",
+    "description_de": "Die Abgeordneten fragen, ob die Software Palantir „Gotham“ von deutschen Nachrichtendiensten verwendet wird und in welchem Umfang. Sie erkundigen sich, ob Daten über politisch aktive Personen verarbeitet werden und welche Schutzmaßnahmen getroffen werden. Die Bundesregierung antwortet, dass die Offenlegung der angeforderten Informationen die staatlichen Interessen gefährden könnte und daher keine spezifischen Daten bereitgestellt werden können.",
+    "saved_date": "2026-05-01"
   }
 }
