@@ -4,10 +4,10 @@ Kleine Anfrage
 der Abgeordneten Sascha Lensing, Dr. Gottfried Curio, Dr. Christian Wirth, 
 Dr. Bernd Baumann, Christopher Drößler, Jochen Haug, Martin Hess, Steffen 
 Janich, Markus Matzerath, Arne Raue und der Fraktion der AfD
-Sicherheitsrisiken staatlicher Überwachungssysteme und cloudbasierter 
+Sicherheitsrisiken staatlicher Überwachungssysteme und Cloud-basierter 
 IT‑Lösungen
 Nach übereinstimmenden Medienberichten sollen ausländische
-Nachrichtendienste in Iran über einen längeren Zeitraum sicherheitsrelevante technische 
+Nachrichtendienste im Iran über einen längeren Zeitraum sicherheitsrelevante technische 
 Systeme kompromittiert und hierdurch Bewegungsprofile hochrangiger
 Zielpersonen erstellt haben. In den Berichten ist insbesondere von gehackten 
 Verkehrs- und Überwachungskameras (www.fr.de/politik/israel-hacked-irania
@@ -25,37 +25,35 @@ insbesondere auch mit Blick auf die anhaltende angespannte IT-Sicherheitslage,
 zunehmende Vernetzung öffentlicher Systeme, komplexe Lieferketten und Nutzung 
 externer IT-Dienstleister.
 Hinzu kommt, dass in der öffentlichen Verwaltung in Deutschland in
-erheblichem Umfang externe, häufig cloudbasierte IT- und Kommunikationsdienste 
+erheblichem Umfang externe, häufig Cloud-basierte IT- und Kommunikationsdienste 
 eingesetzt werden. Hierzu zählen beispielsweise Videokonferenz- und
 Kollaborationslösungen von Anbietern mit Sitz in Drittstaaten, die sowohl auf Ebene 
-des Bundes als auch in Ländern und Kommunen verbreitet genutzt werden. 
+des Bundes als auch in den Ländern und Kommunen verbreitet genutzt werden. 
 Allein im Jahr 2024 wurden nach einem Medienbericht Ausgaben in Höhe von 
 rund 481,4 Mio. Euro für Lizenzen eines großen ausländischen
 Softwareanbieters in der Bundesverwaltung veranschlagt (www.heise.de/hintergrund/Microso
 ft-Abhaengigkeit-Bund-zahlt-in-einem-Jahr-fast-500-Millionen-Euro-1117093
 1.html), was in den Augen der Fragesteller die weitreichende Verbreitung
-entsprechender cloudbasierter Lösungen unterstreicht.
+entsprechender Cloud-basierter Lösungen unterstreicht.
 Wir fragen die Bundesregierung:
  1. Hat sich die Bundesregierung eine eigene Auffassung gebildet zu der
 Sicherheitslage öffentlicher Überwachungssysteme (insbesondere
 Videoüberwachung, Verkehrssteuerung und vergleichbare Systeme) in
 Deutschland im Hinblick auf mögliche langfristige Kompromittierungen durch
-externe Angreifern und wenn ja, welche ist dies?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+externe Angreifer, und wenn ja, welche ist dies?
  2. Welche Rolle spielen nach Kenntnis der Bundesregierung externe
-Dienstleister (einschließlich Cloud-Anbieter) beim Betrieb, der Speicherung und 
-der Auswertung von Daten aus öffentlichen Überwachungs- und
+Dienstleister (einschließlich Cloud-Anbieter) bei dem Betrieb, der Speicherung 
+und der Auswertung von Daten aus öffentlichen Überwachungs- und
 Sensorsystemen?
- 3. Inwieweit sieht die Bundesregierung beim Einsatz cloudbasierter 
-Kommunikations- und Kollaborationsdiensten aus Drittstaaten (z. B.
+ 3. Inwieweit sieht die Bundesregierung beim Einsatz Cloud-basierter 
+Kommunikations- und Kollaborationsdienste aus Drittstaaten (z. B.
 Videokonferenzlösungen) in der öffentlichen Verwaltung ggf. Risiken für die 
 digitale Souveränität sowie für den Schutz sensibler behördlicher
 Kommunikation, insbesondere im Hinblick auf mögliche Zugriffe
 ausländischer Behörden?
  4. Welche Erkenntnisse liegen der Bundesregierung ggf. über
 Schwachstellen oder bereits erfolgte Angriffe auf die in den vorherigen Fragen
-genannten Systemen in Deutschland vor?
+genannten Systeme in Deutschland vor?
  5. In welchem Umfang werden öffentliche Überwachungs- und
 sicherheitsrelevante Systeme in Bund, Land und Kommunen nach Kenntnis der
 Bundesregierung zentral oder dezentral betrieben, und welche
@@ -70,37 +68,36 @@ Infrastrukturen, insbesondere vor dem Hintergrund extraterritorial
 wirkender Rechtsvorschriften wie beispielsweise dem US-amerikanischen 
 CLOUD Act?
  8. In welchen Bereichen der Bundesverwaltung bestehen ggf.
-Abhängigkeiten von ausländischen Software- oder Cloudanbietern, und wie kritisch 
+Abhängigkeiten von ausländischen Software- oder Cloud-Anbietern, und wie kritisch 
 bewertet die Bundesregierung diese im Hinblick auf die
 Funktionsfähigkeit staatlicher IT-Systeme?
  9. Wie bewertet die Bundesregierung vor dem Hintergrund, dass im Zuge 
-der durch die NSA-Affäre bekannt gewordenen Überwachungsprogramme 
-auch maßgeblich Technologien und Komponenten von Anbietern
-eingesetzt wurden, die personelle Verbindungen zur israelischen
-Nachrichtendiensteinheit „Unit 8200“ aufweisen (vgl. u. a. Mondoweiss, 15. Juni 
-2013; Wired, 3. April 2012 sowie The Guardian, 11. September 2013 zum 
-NSA-ISNU-Memorandum of Understanding: www.theguardian.com/worl
-d/interactive/2013/sep/11/nsa-israel-intelligence-memorandum-understand
-ing-document; S. 1), das Risiko, dass bei der Nutzung der durch deutsche 
-Sicherheitsbehörden eingesetzten Pegasus Spyware, deren
-Entwicklerunternehmen ebenfalls ausgeprägte personelle Verflechtungen mit der 
-Unit 8200 aufweist (www.972mag.com/nso-surveillance-companies-israe
-l-army/), eine unbemerkte Datenabschöpfung, nachrichtendienstliche
-Nutzung oder gezielte Einflussnahme auf politische Entscheidungsträger, 
-Journalisten oder andere relevante Personengruppen durch ausländische 
-Stellen erfolgt oder erfolgen kann, auch vor dem Hintergrund zahlreicher 
-international dokumentierter Einsatzfälle von Pegasus Spyware gegen 
-politische Entscheidungsträger, Journalisten und Aktivisten, darunter der 
-saudi-arabische Journalist und Regimekritiker Jamal Khashoggi, dem 
-Menschenrechtsaktivisten Ahmed Mansoor, dem indischen
+der durch die NSA-Affäre (NSA = National Security Agency) bekannt
+gewordenen Überwachungsprogramme auch maßgeblich Technologien und 
+Komponenten von Anbietern eingesetzt wurden, die personelle
+Verbindungen zur israelischen Nachrichtendiensteinheit „Unit 8200“ aufweisen 
+(vgl. u. a. Mondoweiss, 15. Juni 2013; Wired, 3. April 2012 sowie The 
+Guardian, 11. September 2013 zum NSA-ISNU-Memorandum of
+Understanding [ISNU = Israeli SIGINT National Unit]: www.theguardian.com/
+world/interactive/2013/sep/11/nsa-israel-intelligence-memorandum-under
+standing-document, S. 1), das Risiko, dass bei der Nutzung der durch 
+deutsche Sicherheitsbehörden eingesetzten Pegasus-Spyware, deren
+Entwicklerunternehmen ebenfalls ausgeprägte personelle Verflechtungen mit 
+der „Unit 8200“ aufweist (www.972mag.com/nso-surveillance-companie
+s-israel-army/), eine unbemerkte Datenabschöpfung,
+nachrichtendienstliche Nutzung oder gezielte Einflussnahme auf politische
+Entscheidungsträger, Journalisten oder andere relevante Personengruppen durch
+ausländische Stellen erfolgt oder erfolgen kann, auch vor dem Hintergrund
+zahlreicher international dokumentierter Einsatzfälle von Pegasus-Spyware 
+gegen politische Entscheidungsträger, Journalisten und Aktivisten,
+darunter der saudi-arabische Journalist und Regimekritiker Jamal Khashoggi, 
+der Menschenrechtsaktivist Ahmed Mansoor, der indische
 Oppositionspolitiker Rahul Gandhi sowie der Auswahl von Zielpersonen auf höchster 
 politischer Ebene wie Emmanuel Macron (vgl. Pegasus Project, Forbidden 
-Stories/Amnesty International 2021 sowie Citizen Lab-Berichte: https://se
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+Stories/Amnesty International 2021 sowie Citizen-Lab-Berichte: https://se
 curitylab.amnesty.org/case-study-the-pegasus-project/), und wie
 rechtfertigt die Bundesregierung vor diesem Hintergrund, dass deutsche
-Sicherheitsbehörden Pegasus Spyware einsetzen?
+Sicherheitsbehörden Pegasus-Spyware einsetzen?
 10. Welche konkreten technischen und organisatorischen Maßnahmen werden 
 beim Einsatz ausländischer IT-Systeme, Cloud-Dienste,
 Kommunikationsinfrastrukturen sowie Überwachungstechnologien getroffen, um Zugriffe 
@@ -124,10 +121,6 @@ ausschließlich unter Kontrolle deutscher Behörden verbleiben und nicht
 an Hersteller oder sonstige Dritte im Ausland übermittelt werden können?
 Berlin, den 22. April 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.

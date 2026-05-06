@@ -1,0 +1,310 @@
+Deutscher Bundestag Drucksache 21/5613
+21. Wahlperiode 23.04.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Christina Baum, Martin Sichert, Carina 
+Schießl, weiterer Abgeordneter und der Fraktion der AfD
+– Drucksache 21/5215 –
+Quantitative und qualitative Schwellenwerte zur Auslösung einer Risikowarnung
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die öffentliche Debatte über Sicherheit, Wirksamkeit und Nebenwirkungen 
+der in Deutschland eingesetzten SARS‑CoV‑2‑Impfstoffe ist nach
+Wahrnehmung der Fragesteller weiterhin in besonderer Weise von der Frage geprägt, 
+nach welchen Maßstäben Verdachtsmeldungen ausgewertet und ab wann aus 
+Meldedaten behördliche Risikosignale, Warnungen oder regulatorische
+Maßnahmen abgeleitet werden. Für das Vertrauen in staatliches Handeln ist in den 
+Augen der Fragesteller hierbei eine nachvollziehbare, fortlaufende
+Pharmakovigilanz erforderlich, die nicht nur Fallzahlen ausweist, sondern auch
+offenlegt, ab welchen Schwellenwerten und nach welchen statistischen Verfahren 
+Sicherheitsauffälligkeiten als Signal gewertet werden und welche
+Folgemaßnahmen daraus folgen.
+Vor diesem Hintergrund wird durch die Fragesteller ein erhebliches
+Transparenzdefizit bei der Darstellung und Bewertung von Verdachtsmeldungen zu 
+Nebenwirkungen im Zusammenhang mit SARS‑CoV‑2‑Impfstoffen gesehen. 
+In diesem Zusammenhang weisen sie auf die Stellungnahme der
+Sachverständigen Ramona Gerlinger (Bundesverein Impfgeschädigter e. V.) im Rahmen 
+der Anhörung der Enquete‑Kommission „Aufarbeitung der Corona‑Pandemie 
+und Lehren für zukünftige pandemische Ereignisse“ (Kommissionsdrucksache 
+21(27)8 vom 6. November 2025) hin, in der u. a. auf praktische Hürden bei 
+der Nutzung und Auswertung veröffentlichter Daten hingewiesen wird.
+Danach stellt das Paul‑Ehrlich‑Institut (PEI) Nebenwirkungsdaten in
+Excel‑Datensätzen bereit (ein Datensatz für den Zeitraum 27. Dezember 2020 bis 
+31. Dezember 2023, ein weiterer für 1. Januar 2024 bis 30. Juni 2024), deren 
+Auswertung zur Ermittlung belastbarer Statistiken als sehr aufwendig
+beschrieben wird; zudem wird für Daten auf Ebene der Europäischen
+Arzneimittel‑Agentur (EMA) eine besondere Unübersichtlichkeit vorgetragen (u. a. 
+technische Ausfälle, grobe Suchlogik sowie die Notwendigkeit,
+Nebenwirkungen exakt mit der richtigen Begrifflichkeit zu suchen). Weiter wird ausgeführt, 
+dass die vom PEI veröffentlichten deutschen Zahlen über Jahre nicht mit den 
+EMA‑Zahlen übereingestimmt hätten und dass das PEI seit 2023 nach dieser 
+Darstellung nur noch auf EMA‑Zahlen verweist, ohne eigene
+Sicherheitsberichte weiter zu veröffentlichen (ebd.). In der genannten Stellungnahme
+werden für Deutschland insgesamt 363 785 Verdachtsmeldungen zum Stichtag 
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Gesundheit
+vom 22. April 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+30. Juni 2025 und 364 390 Verdachtsmeldungen zum Stichtag 6. November 
+2025 ausgewiesen; exemplarisch werden u. a. 225 562 Meldungen zu
+Tozinameran (Pfizer/BioNTech), 67 224 zu Elasomeran (Moderna), 55 391 zu ChA-
+dOx1 nCoV‑19 (AstraZeneca), 12 372 zu Ad26.COV2.S (Janssen) sowie 
+1 029 zu Novavax genannt.
+Für die öffentliche und parlamentarische Nachprüfung ist nach Auffassung der 
+Fragesteller entscheidend, dass Kriterien, Grenzwerte und Verfahren, nach 
+denen Risikosignale identifiziert, bewertet und kommuniziert werden,
+transparent und überprüfbar sind. Soweit dies nicht in nachvollziehbarer Weise
+erfolgt, kann dies nicht nur die parlamentarische Kontrolle und öffentliche 
+Nachprüfung beeinträchtigen, sondern auch den Eindruck bzw. den Verdacht 
+einer strukturellen Vertuschung befördern. Die nachfolgenden Fragen zielen 
+daher darauf ab, die Maßstäbe, Schwellenwerte, Meldewege und
+Auswertungsmethoden der zuständigen Stellen, einschließlich des Umgangs mit
+möglicher Untererfassung sowie der Identifikation von Häufungen (z. B. im
+Zeitverlauf oder chargenbezogen), transparent zu machen.
+ 1. Welche quantitativen oder qualitativen Schwellenwerte (z. B. Anzahl 
+schwerwiegender Nebenwirkungen oder Todesfälle je 100 000
+Impfungen und Monat, differenziert nach Chargen) legte bzw. legt das Paul-
+Ehrlich-Institut (PEI) zugrunde, um eine offizielle Risikowarnung, einen
+Sicherheitsalarm oder regulatorische Maßnahmen zu empfehlen?
+ 2. Ist bei der Festlegung der Schwellenwerte (z. B. Anzahl
+schwerwiegender Nebenwirkungen oder Todesfälle je 100 000 Impfungen und Monat) 
+die als sicher anzunehmende Untererfassung berücksichtigt, und wenn ja, 
+durch welchen Faktor?
+ 3. Ab welchen Grenzwerten ist bzw. war das PEI verpflichtet, das
+Bundesministerium für Gesundheit, die Europäische Arzneimittel-Agentur 
+(EMA), oder weitere nationale oder internationale Aufsichtsbehörden 
+formell über Sicherheitsauffälligkeiten zu informieren?
+Die Fragen 1 bis 3 werden aufgrund des Sachzusammenhangs gemeinsam
+beantwortet.
+Grundsätzlich wird bei den Methoden der Risikosignal-Analyse in der
+Pharmakovigilanz zwischen der quantitativen und der qualitativen Risikosignal-
+Analyse unterschieden:
+Die quantitative Risikosignal-Analyse untersucht große Datenmengen (z. B. 
+Datenbanken der Spontanberichterstattung von Nebenwirkungen) und misst die 
+statistische Signalstärke für das Auftreten von disproportional häufigen
+gemeldeten Ereignissen nach Arzneimitteltherapie bzw. nach Impfungen. Aufgrund 
+dieser Risikosignal-Analysen können Hypothesen generiert werden, die weitere 
+Untersuchungen oder epidemiologische Studien zur Folge haben. International 
+werden unterschiedliche statistische Methoden für die Risikosignal-Analysen 
+herangezogen. Die Berechnung der sogenannten Reporting Odds Ratio (ROR) 
+ist dabei die am häufigsten eingesetzte Methode, um Risikosignale in
+Pharmakovigilanz-Datenbanken zu untersuchen. (https://onlinelibrary.wiley.com/doi/p
+df/10.1002/pds.1001)
+Für die Berechnung der ROR werden immer alle validen Meldungen eines
+Verdachtsfalls einer Nebenwirkung nach Arzneimittelgabe bzw. Impfung
+berücksichtigt, unabhängig davon, ob die Nebenwirkung als schwerwiegend oder 
+nicht-schwerwiegend berichtet wurde. Eine valide Meldung eines
+Verdachtsfalls einer Nebenwirkung liegt dann vor, wenn die Mindestkriterien für die 
+Meldung eines Verdachtsfalls erfüllt sind, d. h. es liegen Informationen zu
+einem Arzneimittel, einer Nebenwirkung und die Angaben zu der Person (z. B. 
+Alter und Geschlecht) vor, die von der Nebenwirkung betroffen ist.
+Die qualitative Risikosignal-Analyse prüft die Plausibilität im klinischen
+Kontext der identifizierten Ereignisse im Einzelfall einer Meldung eines
+Verdachtsfalls. Die Analyse liefert eine Aussage zur Wahrscheinlichkeit für den
+ursächlichen Zusammenhang zwischen der Arzneimittelgabe bzw. Impfung und der 
+berichteten Nebenwirkung in dem identifizierten Einzelfall. Hierbei kann ein 
+Risikosignal theoretisch auf der Analyse eines Einzelfalls basieren. Die
+optimale Vorgehensweise für die Risikosignal-Analyse ist eine kombinierte Methode, 
+die ein initiales quantitatives Screening der Pharmakovigilanz-Datenbanken 
+durchführt, gefolgt von einer qualitativen Detailanalyse der identifizierten
+Einzelfälle mit anschließender Diskussion, welche weitere Maßnahmen erfolgen 
+sollten. Die qualitative Risikosignal-Analyse kann jederzeit auch durch
+Berichte von Einzelfällen im Spontanmeldesystem von Nebenwirkungen mit
+erheblicher Latenz zu einen neuen Risikosignal führen. In dem Fall, dass ein
+neues Risikosignal identifiziert wird, erfolgen weitere standardisierte
+Analyseschritte (siehe GVP-Modul XI, www.ema.europa.eu/en/documents/scientific-g
+uideline/guideline-good-pharmacovigilance-practices-gvp-module-ix-signal-ma
+nagement-rev-1_en.pdf), wodurch weitere Evidenz gesammelt werden soll, die 
+Hypothese zu bestätigen oder zu widerlegen, dass es sich um ein neues
+Risikosignal handelt.
+ 4. Welche statistischen Methoden wurden vom PEI angewandt, um eine 
+Häufung von Nebenwirkungen oder Todesfällen einzelner
+Impfstoffchargen zu identifizieren und zu bewerten?
+Für die Analyse der Verdachtsfälle, in denen ein Todesfall nach Impfung
+gemeldet wurde, hat das PEI eine sogenannte Observed-versus-Expected-Analyse 
+(OvE-Analyse) durchgeführt. Dabei wird die Anzahl der dem PEI nach
+Impfung gemeldeten Nebenwirkungen mit der statistisch zufälligen und zu
+erwartenden Anzahl in einer vergleichbaren (nicht geimpften) Bevölkerung unter
+Berücksichtigung verschiedener Zeitfenster verglichen (https://onlinelibrary.wile
+y.com/doi/10.1002/pds.5610). Die Anzahl der gemeldeten Nebenwirkungen 
+pro 100.000 verimpften Dosen einer Impfung ergibt die Melderate, die für den 
+Vergleich berücksichtigt wird. Wird eine signifikant höhere Melderate für eine 
+Nebenwirkung nach Impfung festgestellt, als es statistisch zufällig in einer
+vergleichbaren Population zu erwarten wäre, geht das PEI von einem möglichen 
+Risikosignal aus. Zu beachten ist, dass die OvE-Analyse auf ein Risikosignal 
+hinweist, wobei aber erst weitere Untersuchungen zeigen, ob tatsächlich ein
+Risiko vorliegt oder auch nicht. Eine OvE-Analyse eignet sich jedoch nicht für 
+die Bestätigung eines Risikos. Ein Risikosignal, das z. B. durch eine OvE-
+Analyse ermittelt wurde, sollte durch zusätzliche Studien weiter untersucht werden.
+ 5. Wie viele der beim PEI eingegangenen Meldungen über Verdachtsfälle 
+von Nebenwirkungen wurden in den offiziell veröffentlichten Statistiken 
+des PEI nicht erfasst, und welche Gründe liegen jeweils dafür vor?
+ 6. Nach welchen Kriterien werden vom PEI die an dieses gemeldeten
+Nebenwirkungen in die Statistik aufgenommen?
+ 7. Welche Kriterien schließen die Aufnahme von
+Nebenwirkungsmeldungen in die statistische Erfassung des PEI aus?
+Die Fragen 5 bis 7 werden aufgrund des Sachzusammenhangs gemeinsam
+beantwortet.
+In den quantitativen und qualitativen Risikosignal-Analysen werden alle
+validen Meldungen eines Verdachtsfalls einer Nebenwirkung nach Impfung
+berücksichtigt. Ob eine Meldung eines Verdachtsfalls einer Nebenwirkung nach 
+Impfung als valide eingestuft wird, ist nach der Verwaltungspraxis des PEI
+abhängig von den Kriterien, die im Kapitel „VI.B.2. Validation of reports“ des im 
+GVP-Modul VI beschrieben sind (vgl. www.ema.europa.eu/en/documents/regu
+latory-procedural-guideline/guideline-good-pharmacovigilance-practices-
+gvpmodule-vi-collection-management-submission-reports-suspected-adverse-reacti
+ons-medicinal-products-rev-2_en.pdf).
+In der Berechnung der OvE-Analyse können durch verschiedene Annahmen 
+der möglichen Untererfassung von Nebenwirkungen nach Impfung
+verschiedene Szenarien berücksichtigt werden. Beispielsweise kann die Anzahl der
+tatsächlich gemeldeten Nebenwirkungen hypothetisch verdoppelt werden
+(Untererfassung von 50 Prozent) und mit dieser geänderten Melderate die OvE-
+Analyse wiederholt werden.
+Ergänzend wird auf die Antwort der Bundesregierung auf die Fragen 1 bis 3 
+wird verwiesen.
+ 8. Wie bewertet die Bundesregierung rückblickend sowie gegenwärtig die 
+Angemessenheit der durch das PEI vorgenommenen Qualitäts- und
+Sicherheitsprüfungen im Zusammenhang mit der erstmaligen breiten sowie 
+gegenwärtigen Anwendung modifizierter mRNA (Messenger-
+Ribonukleinsäure)-Impfstoffe?
+Die zentralen Zulassungen und damit einhergehende Qualitäts- und
+Sicherheitsprüfungen der mRNA-Impfstoffe gegen COVID-19 erfolgten nach den
+Maßgaben der Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des 
+Rates vom 31. März 2004. Dies entspricht den rechtlichen Vorgaben und wird 
+als angemessen angesehen.
+ 9. Auf welcher wissenschaftlichen Datenbasis erfolgte die
+Sicherheitsbewertung der bei COVID-19-mRNA-Impfstoffen eingesetzten
+Wirkstoffmenge?
+10. Auf welcher wissenschaftlichen Datenbasis erfolgte die
+Sicherheitsbewertung der Wirkstoffintensität?
+Die Fragen 9 und 10 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Es wird auf die Öffentlichen Bewertungsberichte zu den zugelassenen mRNA 
+COVID-19-Impfstoffen verwiesen, die die EMA auf Ihren Internetseiten
+veröffentlicht hat. Die Toxizitätsstudien wurden entsprechend gültigen EMA- und 
+WHO-Richtlinien zur nicht-klinischen Bewertung von Impfstoffen
+durchgeführt.
+Die Sicherheit der maximalen eingesetzten humanen Wirkstoffmenge und 
+Wirkstoffintensität der COVID-19 mRNA-Impfstoffe wurde in
+Toxizitätsstudien an Nagetieren untersucht. In diesen Studien wurde den Tieren die
+vollständige humane Impfstoffdosis intramuskulär injiziert. Aus diesen
+Studienergebnissen ergaben sich keine Sicherheitsbedenken aus nicht-klinischer Sicht.
+11. Auf welcher wissenschaftlichen Datenbasis erfolgte die
+Sicherheitsbewertung der Wirkungsdauer der modifizierten mRNA im menschlichen 
+Körper?
+12. Auf welcher wissenschaftlichen Datenbasis erfolgte die
+Sicherheitsbewertung der Menge der in menschlichen Zellen produzierten Spike-
+Proteine?
+Die Fragen 11 und 12 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Die Sicherheitsbewertung erfolgte im Rahmen der Zulassung durch die
+Analyse von Daten aus klinischen Prüfungen zu erwarteten und unerwarteten lokalen 
+und systemischen Nebenwirkungen.
+13. Auf welcher wissenschaftlichen Datenbasis erfolgte die
+Sicherheitsbewertung der Stabilität und Verweildauer von mRNA und
+Lipidnanopartikeln im Blutkreislauf und in Organen?
+14. Auf welcher wissenschaftlichen Datenbasis erfolgte die
+Sicherheitsbewertung der Abbaugeschwindigkeit der Inhaltsstoffe der mRNA-
+Impfstoffe im menschlichen Körper?
+15. Auf welcher wissenschaftlichen Datenbasis erfolgte die
+Sicherheitsbewertung der Organ- und Zellverteilung der Wirkstoffe und ihrer
+Abbauprodukte?
+Die Fragen 13 bis 15 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Die Wirkungsdauer, die Stabilität, die Verweildauer, die Abbaugeschwindigkeit 
+und Organ- und Zellverteilung der mRNA und Lipidnanopartikel und ihrer
+Abbauprodukte wurden in nicht-klinischen Pharmakokinetik-Studien an
+Nagetieren untersucht, entsprechend gültiger EMA- und WHO-Richtlinien zur
+nichtklinischen Bewertung von Impfstoffen. Aus diesen Studienergebnissen ergaben 
+sich nach Angaben des PEI keine Sicherheitsbedenken aus nicht-klinischer 
+Sicht.
+16. Auf welcher wissenschaftlichen Datenbasis erfolgte die
+Sicherheitsbewertung für besondere Risikogruppen, insbesondere junge Männer (z. B. 
+im Hinblick auf Myokarditis) sowie Personen mit Autoimmun- oder 
+Krebserkrankungen?
+Die Risikogruppen für eine COVID-19-Erkrankung sind ältere Erwachsene,
+Erwachsene mit Vorerkrankungen, Schwangere und immungeschwächte
+Personen. Ältere Erwachsene und Erwachsene mit Vorerkrankungen wurden in den 
+Zulassungsstudien eingeschlossen und die Arzneimittelsicherheit in diesen 
+Gruppen bewertet. Für Schwangere und immungeschwächte Personen, in
+diesen Fällen Solid-Organ-Transplant-Patienten mit medikamentöser
+Immunsuppression, wurden separate Studien durchgeführt und die Arzneimittelsicherheit 
+und die Wirksamkeit in diesen Gruppen bestimmt.
+Das Risikosignal von Myo-Perikarditis bei jüngeren Männern nach einer
+Impfung mit mRNA-Impfstoffen gegen COVID-19 ist in der
+Sicherheitsüberwachung nach der Zulassung der Impfstoffe im Rahmen der breiten Anwendung 
+erkannt worden, da es sich um eine sehr seltene Nebenwirkung handelt, die 
+auch bei einer hohen Teilnehmerzahl in den Studien nicht erkannt werden 
+konnte. Die mögliche Nebenwirkung von Myo-Perikarditis ist
+dementsprechend nachträglich in die Patienten- und Fachinformation aufgenommen
+worden.
+17. Welche stereochemischen Prüfungen wurden in welchen Zulassungs- 
+und Überwachungsverfahren im Zusammenhang mit COVID-
+Impfstoffen durchgeführt?
+Auf die Antwort der Bundesregierung auf die Fragen 1 bis 4 in der Kleinen 
+Anfrage der Fraktion AfD – Drucksache 21/3426 – „Stereochemische
+Bewertung des ionisierbaren Lipids ALC-0315“ (Drucksache 21/3725 vom 21. Januar 
+2026, Seite 3) wird verwiesen. Die experimentelle Untersuchung von
+Hilfsstoffen ist nicht Teil der behördlichen Chargenprüfung.
+18. Ist der Bundesregierung das Schreiben der Wissenschaftler Prof. Dr. Jörg 
+Matysik, Prof. Dr. Gerald Dyker, Prof. Dr. Andreas Schnepf, 
+Prof. Dr. Tobias Unruh sowie Prof. Dr. Martin Winkler vom 4.
+September 2025 an das Paul-Ehrlich-Institut bekannt, und wie wurde seitens des 
+PEI ggf. auf dieses Schreiben reagiert?
+Das in der Frage genannte Schreiben ist dem PEI bekannt. In dem Schreiben 
+wurde auf eine Publikation von De et al. mit dem Titel „The Overlooked
+Stereoisomers of the Ionizable Lipid ALC315“ (Journal of the American Chemical 
+Society 2025, 147, 28595) Bezug genommen und eine Reihe von Fragen im 
+Zusammenhang mit mRNA-Impfstoffen gestellt. Im Übrigen wird auf die
+Antwort der Bundesregierung auf die Frage 5 in der Kleinen Anfrage der Fraktion 
+AfD – Drucksache 21/3426 – „Stereochemische Bewertung des ionisierbaren 
+Lipids ALC-0315“ (Drucksache 21/3725 vom 21. Januar 2026, Seite 3)
+verwiesen.
+19. Wurde bei den Zulassungsstudien die Stereoproblematik von ALC‑0315 
+beachtet?
+Wenn nicht, wie konnte es zu so einer Vernachlässigung eines nach
+Auffassung der Fragesteller elementaren Aspektes der Arzneimittelsicherheit 
+kommen?
+Auf die Antwort der Bundesregierung auf die Fragen 1 bis 4 in der Kleinen 
+Anfrage der Fraktion AfD – Drucksache 21/3426 – „Stereochemische
+Bewertung des ionisierbaren Lipids ALC-0315“ (Drucksache 21/3725 vom 21. Januar 
+2026, Seite 3) wird verwiesen.
+20. Verwendet der Hersteller von Comirnaty nach Kenntnis der
+Bundesregierung ein Gemisch der Stereoisomeren, und wenn ja, welches genau?
+21. Gab es Untersuchungen an Lipidnanopartikeln, ob die Stereoisomere
+selektiv clustern, d. h. entmischen sich die Stereoisomere bei der
+Herstellung der Nanopartikel?
+Die Fragen 20 und 21 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Die im Herstellungsprozess verwendete Lipid-Mischung wurde in nicht-
+klinischen, klinischen und Stabilitätsstudien untersucht und wird am
+Fertigarzneimittel unter anderem hinsichtlich der Partikelgröße und Polydispersität
+analysiert. Die Stereoisomerenzusammensetzung wurde nach Angaben des PEI als 
+ausreichend kontrolliert erachtet und nicht als eigenständiger kritischer
+Qualitätsparameter identifiziert. Daher wurden auch keine weiteren Untersuchungen 
+gefordert.
+Die Bundesregierung hat kein Verfügungsrecht über die im Rahmen des
+zentralen europäischen Zulassungsverfahrens eingereichten Unterlagen. Als
+verfahrensführende Stelle obliegt der EMA die Veröffentlichung der im Rahmen 
+des zentralen europäischen Zulassungsverfahrens eingereichten Unterlagen. 
+Die europäische Verordnung (EG) Nr. 726/2004 regelt die entsprechenden
+Veröffentlichungsverpflichtungen der EMA im Rahmen der Bewertungsverfahren 
+für zentrale Zulassungen.
+Im Übrigen wird auf die Antwort der Bundesregierung auf die Kleine Anfrage 
+der Fraktion AfD – Drucksache 21/3426 – „Stereochemische Bewertung des 
+ionisierbaren Lipids ALC-0315“ (Drucksache 21/3725 vom 21. Januar 2026) 
+verwiesen.
+22. Sind nach Kenntnis der Bundesregierung, da auch die mRNA chiral ist, 
+unterschiedliche Wechselwirkungen zu erwarten, könnte die
+stereochemische Zusammensetzung in den verschiedenen Chargen des Impfstoffes 
+unterschiedlich sein und so für die verschiedenen Wirkungs- und
+Nebenwirkungsprofile verantwortlich sein?
+Da alle Komponenten für alle Chargen qualitätskontrolliert sind und gemäß
+Zulassung die gleichen Spezifikationen erfüllen, sind nach Einschätzung des PEI 
+keine unterschiedlichen Wechselwirkungen oder unterschiedliche
+Zusammensetzungen in verschiedenen Chargen zu erwarten. Darüber hinaus seien nach 
+Angaben des PEI wegen der kurzen Exposition, der schnellen LNP-
+Degradation und der geringen absoluten Lipidmenge keine neuen Nebenwirkungsprofile 
+oder qualitativ abweichende Immunreaktionen aufgrund einer strukturell
+anderen Proteinexpression zu erwarten.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
