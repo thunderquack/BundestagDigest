@@ -1,0 +1,771 @@
+Deutscher Bundestag Drucksache 21/5806 
+21. Wahlperiode 06.05.2026 
+Beschlussempfehlung und Bericht 
+des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss) 
+zu dem Gesetzentwurf der Bundesregierung 
+– Drucksache 21/3735 – 
+Entwurf eines Gesetzes zur Digitalisierung des Vollzugs von Immobilienverträgen, 
+der gerichtlichen Genehmigungen von notariellen Rechtsgeschäften und der  
+steuerlichen Anzeigen der Notare 
+A. Problem 
+Die Bundesregierung weist in ihrem Gesetzentwurf unter anderem darauf hin, 
+dass – während Notarinnen und Notare mit den Grundbuchämtern teilweise schon 
+elektronisch kommunizierten – die Kommunikation im Rahmen des Vollzugs
+eines Immobilienvertrags fast ausschließlich in Papierform und auf dem Postweg 
+erfolge. Dieses Verfahren verzögere den Vollzug von Immobilienverträgen und 
+verursache einen deutlichen Mehraufwand dadurch, dass identische Daten
+mehrfach erhoben werden müssten. Hinzu komme, dass ein papiergebundener
+Austausch der Vollzugsdokumente im elektronischen Rechtsverkehr mit den
+Grundbuchämtern für Medienbrüche sorge. Schließlich sei ein papiergebundener
+Austausch von Informationen und Bescheinigungen im Hinblick auf die Zahl der
+jährlichen Immobilienverträge ressourcenintensiv. 
+Außerhalb des Anwendungsbereichs von Immobilienverträgen stellten sich die 
+gleichen Probleme immer dann, wenn Notarinnen und Notare mit den Gerichten 
+im Zusammenhang mit der Genehmigung von Rechtsgeschäften kommunizierten 
+oder den Finanzämtern Dokumente und Daten zur Erfüllung steuerlicher
+Anzeigepflichten übermittelten. 
+Ziel des Entwurfs sei die umfassende Digitalisierung des Austauschs von
+Dokumenten und Informationen zwischen Notarinnen und Notaren, Gerichten und
+Verwaltungsstellen anlässlich des Vollzugs eines Immobilienvertrags, zur
+gerichtlichen Genehmigung eines notariellen Rechtsgeschäfts oder zur Erfüllung
+steuerlicher Anzeigepflichten. Ferner verfolge der Entwurf das Ziel, den
+Gutachterausschüssen und dem Statistischen Bundesamt vollständige Datensätze zu
+Immobilientransaktionen zur Verfügung zu stellen.  
+Der Entwurf sehe vor, Notarinnen und Notaren, Gerichten und
+Verwaltungsstellen den elektronischen Austausch von Daten und Bescheinigungen im
+Anwendungsbereich dieses Gesetzes zu ermöglichen. Die Beteiligten sollten dafür über 
+V
+orabfassung - w
+ird durch die lektorierte Fassung ersetzt.
+die EGVP-Struktur (EGVP: Elektronisches Gerichts- und Verwaltungspostfach) 
+beziehungsweise die ELSTER-Struktur (ELSTER: Elektronische
+Steuererklärung) kommunizieren. Herkömmliche Dokumente sollten in geeigneten Fällen 
+durch Strukturdatensätze im Dateiformat XML ersetzt werden können. Die
+Zeitpunkte, ab denen die Kommunikation verpflichtend elektronisch erfolgen müsse, 
+sollten weitestgehend von den Ländern durch Rechtsverordnung bestimmt
+werden, um eine stufenweise, an die technischen Gegebenheiten angepasste
+Einführung des elektronischen Austausches zu ermöglichen. Bei der Ausgestaltung
+dieser Verordnungen seien die Vorgaben des Behindertengleichstellungsgesetzes zu 
+beachten. Die Mitteilungspflicht der Beteiligten eines Immobilienvertrags
+gegenüber den Gutachterausschüssen solle genauer ausgestaltet und durch eine
+Hinweispflicht der Notarinnen und Notare verstärkt werden. Zudem solle zum einen 
+der Datenaustausch zwischen den Notarinnen und Notaren und den
+Gutachterausschüssen digitalisiert und zum anderen den Beteiligten die Möglichkeit gegeben 
+werden, den Gutachterausschüssen die erforderlichen Daten über einen digitalen 
+Fragebogen zur Verfügung zu stellen. 
+B. Lösung
+Annahme des Gesetzentwurfs in geänderter Fassung mit den Stimmen der 
+Fraktionen CDU/CSU, SPD und BÜNDNIS 90/DIE GRÜNEN bei
+Stimmenthaltung der Fraktionen AfD und Die Linke. 
+Der vom Ausschuss angenommene Änderungsantrag sieht insbesondere
+Änderungen mit Blick auf den elektronischen Austausch zwischen Notaren und der 
+Verwaltung vor. 
+C. Alternativen
+Keine.
+D. Kosten
+Wurden im Ausschuss nicht erörtert.
+V
+orabfassung - w
+ird durch die lektorierte Fassung ersetzt.
+Beschlussempfehlung 
+Der Bundestag wolle beschließen, 
+den Gesetzentwurf auf Drucksache 21/3735 mit folgenden Maßgaben, im Übrigen 
+unverändert anzunehmen: 
+1. Artikel 1 Nummer 4 wird wie folgt geändert: 
+a) § 213a wird wie folgt geändert: 
+aa) Die Absätze 2 und 3 werden durch die folgenden Absätze 2 und 3 
+ersetzt: 
+(2) „ Die elektronischen Dokumente nach Absatz 1 sind wie 
+folgt zu übermitteln: 
+1. Anträge nach Absatz 1 Nummer 1 an das besondere
+elektronische Behördenpostfach der für die Genehmigung oder das 
+Zeugnis zuständigen Stelle oder ihres Rechtsträgers, 
+2. Mitteilungen nach Absatz 1 Nummer 2 an das besondere 
+elektronische Behördenpostfach der Gemeinde, 
+3. Dokumente nach Absatz 1 Nummer 3 an das besondere
+elektronische Behördenpostfach des Gutachterausschusses. 
+Die für die elektronische Übermittlung erforderlichen
+Empfängerbezeichnungen der Baugenehmigungsbehörden, Gemeinden, 
+Umlegungsstellen, Enteignungsbehörden und nach § 250 Absatz 2 
+Satz 1 bestimmten Stellen einschließlich der eindeutigen
+technischen Postfachbezeichnungen sind in einer als solche zu
+benennenden „Liste für den elektronischen Notar-Verwaltungs-
+Austausch“ leicht auffindbar auf der Internetseite des jeweiligen 
+Bauministeriums des Landes zu veröffentlichen. 
+(3)  Werden mit dem Antrag nach Absatz 1 Nummer 1 oder 
+der Mitteilung nach Absatz 1 Nummer 2 weitere Dokumente
+übermittelt, so sind diese ebenfalls als elektronische Dokumente zu 
+übermitteln. Für die Übermittlung gelten Absatz 2 Satz 1
+Nummer 1 und 2 sowie die Bestimmungen in den nach § 213b Absatz 1 
+und 2 Nummer 1 und 4 erlassenen Rechtsverordnungen.“ 
+bb) Absatz 5 wird durch den folgenden Absatz 5 ersetzt: 
+(5) „ Ein Verstoß der zuständigen Stelle gegen die
+Verpflichtung, die Genehmigungen und Zeugnisse als elektronische
+Dokumente zu übermitteln, steht der Rechtswirksamkeit der
+Genehmigungen und Zeugnisse nicht entgegen.“ 
+b) § 213b wird durch den folgenden § 213b ersetzt: 
+„§ 213b 
+Verordnungsermächtigung zur elektronischen Übermittlung 
+(1) Die Landesregierungen können für Übermittlungen nach 
+§ 213a Absatz 2 Satz 1 und Absatz 4 Satz 2 durch Rechtsverordnung 
+zusätzliche elektronische Übermittlungswege bestimmen. Die Landes-
+V
+orabfassung - w
+ird durch die lektorierte Fassung ersetzt.
+regierungen können diese Ermächtigung durch Rechtsverordnung auf 
+eine oberste Landesbehörde übertragen. 
+(2) Die Bundesregierung wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates 
+1. Einzelheiten der Datenübermittlung und der Datenspeicherung zu 
+regeln sowie Dateiformate und Anforderungen an die
+Barrierefreiheit für die zu übermittelnden Dokumente festzulegen, 
+2. zu bestimmen, dass Notare neben dem elektronischen Dokument 
+oder, wenn dieses in strukturierter maschinenlesbarer Form
+übermittelt wird, in dem elektronischen Dokument bestimmte
+Angaben in strukturierter maschinenlesbarer Form übermitteln müssen, 
+3. zu bestimmen, dass die zuständigen Stellen neben dem
+elektronischen Dokument oder, wenn dieses in strukturierter
+maschinenlesbarer Form übermittelt wird, in dem elektronischen Dokument
+bestimmte Angaben in strukturierter maschinenlesbarer Form
+übermitteln müssen, und 
+4. Regelungen für den Fall des Auftretens technischer Störungen zu 
+treffen.“ 
+2. Artikel 2 wird gestrichen. 
+3. Artikel 3 wird zu Artikel 2 und Nummer 2 wird wie folgt geändert: 
+a) § 16 Absatz 3 wird durch den folgenden Absatz 3 ersetzt: 
+(3) „ Ist die Übermittlung der in den Absätzen 1 und 2 genannten 
+Dokumente als elektronische Dokumente aus technischen Gründen
+vorübergehend nicht möglich, so sind sie in Papierform zu übermitteln. 
+Auf Anforderung sind sie als elektronische Dokumente
+nachzureichen.“ 
+b) § 17 Absatz 3 wird durch den folgenden Absatz 3 ersetzt: 
+(3) „ Ist die Übermittlung der in Absatz 1 genannten Dokumente 
+als elektronische Dokumente aus technischen Gründen vorübergehend 
+nicht möglich, so sind sie in Papierform zu übermitteln. Auf
+Anforderung sind sie als elektronische Dokumente nachzureichen.“ 
+c) Nach § 19 Absatz 5 Satz 2 wird der folgende Satz eingefügt: 
+„Auf Anforderung sind sie als elektronische Dokumente
+nachzureichen.“ 
+d) § 20 wird wie folgt geändert: 
+aa) Absatz 1 wird durch den folgenden Absatz 1 ersetzt: 
+(1) „ Als strukturierter maschinenlesbarer Datensatz im
+Dateiformat XML sind zu übermitteln: 
+1. aus dem Baugesetzbuch 
+a) die in § 22 Absatz 1 Satz 1, § 51 Absatz 1 Satz 1, § 109 
+Absatz 1, § 144 Absatz 1 und 2, § 172 Absatz 1 Satz 4 
+und § 250 Absatz 1 Satz 1 und Absatz 6 Satz 1
+genannten Genehmigungen, 
+b) die in § 22 Absatz 5 Satz 5, § 28 Absatz 1 Satz 3 und 
+§ 145 Absatz 6 Satz 2 genannten Zeugnisse, 
+V
+orabfassung - w
+ird durch die lektorierte Fassung ersetzt.
+2. aus dem Grundstückverkehrsgesetz 
+a) die in § 2 Absatz 1 Satz 1 genannte Genehmigung,  
+b) das in § 5 Satz 1 und § 6 Absatz 3 genannte Zeugnis,  
+c) die in § 11 Absatz 2 genannte Bescheinigung, 
+3. die in § 2 Absatz 1 Satz 1 der Grundstücksverkehrsordnung 
+genannte Genehmigung.“ 
+bb) Die Absätze 3 und 4 werden durch den folgenden Absatz 3 ersetzt: 
+(3) „ Ist die Übermittlung der in Absatz 1 genannten
+Dokumente als elektronische Dokumente aus technischen Gründen
+vorübergehend nicht möglich, so sind sie in Papierform zu
+übermitteln. Auf Anforderung sind sie als elektronische Dokumente
+nachzureichen.“ 
+4. Die Artikel 4 und 5 werden zu den Artikeln 3 und 4. 
+5. Artikel 6 wird zu Artikel 5 und wird wie folgt geändert: 
+a) In Nummer 1 wird in § 22a in der Angabe vor Nummer 1 die Angabe 
+„für elektronisch zu erteilenden Bescheinigungen“ durch die Angabe 
+„für elektronisch zu erteilende Bescheinigungen“ ersetzt. 
+b) Nummer 2 wird durch die folgende Nummer 2 ersetzt: 
+2. „ § 23 Absatz 16 Satz 2 wird gestrichen.“ 
+6. Artikel 7 wird zu Artikel 6 und wird wie folgt geändert: 
+a) Die Überschrift wird durch die folgende Überschrift ersetzt: 
+Artikel 6„  
+Weitere Änderung des Grunderwerbsteuergesetzes zum … [
+einsetzen: Datum des Inkrafttretens nach Artikel 20 Absatz 1]“. 
+b) Im Eingangssatz wird die Angabe „Artikel 6“ durch die Angabe
+„Artikel 5“ ersetzt. 
+c) In Nummer 2 wird in § 22a Absatz 2 in der Angabe vor Nummer 1 die 
+Angabe „für elektronisch zu erteilenden Bescheinigungen“ durch die 
+Angabe „für elektronisch zu erteilende Bescheinigungen“ ersetzt. 
+d) Nummer 3 wird gestrichen. 
+7. Artikel 8 wird zu Artikel 7 und wird wie folgt geändert: 
+a) Im Eingangssatz wird die Angabe „Artikel 7“ durch die Angabe
+„Artikel 6“ ersetzt. 
+b) Nummer 3 wird gestrichen. 
+V
+orabfassung - w
+ird durch die lektorierte Fassung ersetzt.
+8. Nach dem neuen Artikel 7 wird der folgende Artikel 8 eingefügt: 
+Artikel 8‚  
+Weitere Änderung des Grunderwerbsteuergesetzes 
+Das Grunderwerbsteuergesetz, das zuletzt durch Artikel 7 dieses
+Gesetzes geändert worden ist, wird wie folgt geändert: 
+Nach § 18 Absatz 5 wird der folgende Absatz 6 eingefügt: 
+„(6) Ist einem Notar eine nach § 20 Absatz 1 Nummer 1 erforderliche 
+Identifikationsnummer nach § 139b der Abgabenordnung nicht bereits
+anderweitig bekannt, so hat er diese über die Bundesnotarkammer beim
+Bundeszentralamt für Steuern in einem maschinellen Verfahren zu erfragen. In 
+der Anfrage dürfen nur die in § 139b Absatz 3 der Abgabenordnung
+genannten Daten der betroffenen Person angegeben werden. Das
+Bundeszentralamt für Steuern teilt dem Notar über die Bundesnotarkammer die 
+Identifikationsnummer der betroffenen Person mit, sofern die übermittelten 
+Daten mit den bei ihm nach § 139b Absatz 3 der Abgabenordnung
+gespeicherten Daten übereinstimmen. Der Datenaustausch zwischen dem Notar 
+und dem Bundeszentralamt für Steuern erfolgt durch die
+Bundesnotarkammer im Auftrag des Notars. Die datenschutzrechtliche Verantwortung für 
+den jeweiligen Datenabruf trägt der abrufende Notar.“ ‘ 
+9. Nach Artikel 9 wird der folgende Artikel 10 eingefügt: 
+Artikel 10‚  
+Weitere Änderung des Erbschaftsteuer- und Schenkungsteuergesetzes 
+Das Erbschaftsteuer- und Schenkungsteuergesetz, das zuletzt durch 
+Artikel 9 dieses Gesetzes geändert worden ist, wird wie folgt geändert: 
+Nach § 34 Absatz 2 wird der folgende Absatz 3 eingefügt: 
+„(3) Ist einem Notar eine nach § 7 Absatz 2 Nummer 1 oder § 8
+Absatz 1 Satz 1 in Verbindung mit dem Vordruck nach Muster 6 der
+Erbschaftsteuer-Durchführungsverordnung erforderliche
+Identifikationsnummer nicht bereits anderweitig bekannt, so hat er diese über die
+Bundesnotarkammer beim Bundeszentralamt für Steuern in einem maschinellen
+Verfahren zu erfragen. In der Anfrage dürfen nur die in § 139b Absatz 3 der
+Abgabenordnung genannten Daten der betroffenen Person angegeben werden. 
+Das Bundeszentralamt für Steuern teilt dem Notar über die
+Bundesnotarkammer die Identifikationsnummer der betroffenen Person mit, sofern die 
+übermittelten Daten mit den bei ihm nach § 139b Absatz 3 der
+Abgabenordnung gespeicherten Daten übereinstimmen. Der Datenaustausch zwischen 
+dem Notar und dem Bundeszentralamt für Steuern erfolgt durch die
+Bundesnotarkammer im Auftrag des Notars. Die datenschutzrechtliche
+Verantwortung für den jeweiligen Datenabruf trägt der abrufende Notar.“ ‘ 
+10. Die bisherigen Artikel 10 und 11 werden zu den Artikeln 11 und 12. 
+V
+orabfassung - w
+ird durch die lektorierte Fassung ersetzt.
+11. Der bisherige Artikel 12 wird zu Artikel 13 und im Eingangssatz wird die 
+Angabe „Artikel 11“ durch die Angabe „Artikel 12“ ersetzt. 
+12. Der bisherige Artikel 13 wird zu Artikel 14. 
+13. Der bisherige Artikel 14 wird zu Artikel 15 und im Eingangssatz wird die 
+Angabe „Artikel 13“ durch die Angabe „Artikel 14“ ersetzt. 
+14. Der bisherige Artikel 15 wird zu Artikel 16 und § 26 wird durch den
+folgenden § 26 ersetzt: 
+§ 26„ 
+Elektronische Übermittlung; Verordnungsermächtigungen 
+(1) Anträge nach § 25 Absatz 1 sind an das besondere elektronische 
+Behördenpostfach der Genehmigungsbehörde oder ihres Rechtsträgers zu 
+übermitteln. Die für die elektronische Übermittlung erforderlichen
+Empfängerbezeichnungen der Genehmigungsbehörden oder ihrer Rechtsträger
+einschließlich der eindeutigen technischen Postfachbezeichnungen sind in einer 
+als solche zu benennenden „Liste für den elektronischen Notar-Verwaltungs-
+Austausch“ leicht auffindbar auf der Internetseite des jeweiligen
+Bauministeriums des Landes zu veröffentlichen. 
+(2) Die in § 25 Absatz 1 genannten Genehmigungen, Zeugnisse und 
+Bescheinigungen sind an das besondere elektronische Notarpostfach zu 
+übermitteln. 
+(3) Die Landesregierungen können für Übermittlungen nach den
+Absätzen 1 und 2 durch Rechtsverordnung zusätzliche elektronische
+Übermittlungswege bestimmen. Die Landesregierungen können diese Ermächtigung 
+durch Rechtsverordnung auf eine oberste Landesbehörde übertragen. 
+(4) Ein Verstoß der Genehmigungsbehörde gegen die Verpflichtung, 
+die in § 2 Absatz 1 Satz 1, § 5 Satz 1, § 6 Absatz 3 und § 11 Absatz 2
+genannten Genehmigungen, Zeugnisse und Bescheinigungen als
+elektronisches Dokument zu übermitteln, steht der Rechtswirksamkeit der
+Genehmigungen, Zeugnisse und Bescheinigungen nicht entgegen. 
+(5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung 
+mit Zustimmung des Bundesrates 
+1. Einzelheiten der Datenübermittlung zu regeln sowie Dateiformate und 
+Anforderungen an die Barrierefreiheit für die zu übermittelnden
+Dokumente festzulegen, 
+2. zu bestimmen, dass Notare neben dem elektronischen Dokument oder, 
+wenn dieses in strukturierter maschinenlesbarer Form übermittelt wird, 
+in dem elektronischen Dokument bestimmte Angaben in strukturierter 
+maschinenlesbarer Form übermitteln müssen, 
+3. zu bestimmen, dass Genehmigungsbehörden neben dem elektronischen 
+Dokument oder, wenn dieses in strukturierter maschinenlesbarer Form 
+übermittelt wird, in dem elektronischen Dokument bestimmte Angaben 
+in strukturierter maschinenlesbarer Form übermitteln müssen, und 
+4. Regelungen für den Fall des Auftretens technischer Störungen zu
+treffen. 
+V
+orabfassung - w
+ird durch die lektorierte Fassung ersetzt.
+(6) Die Abschrift der Urkunde über das genehmigungsbedürftige 
+Rechtsgeschäft ist elektronisch zu übermitteln. Für die Übermittlung der
+Abschrift gelten Absatz 1 sowie die Bestimmungen in den nach den Absätzen 3 
+und 5 Nummer 1 und 4 erlassenen Rechtsverordnungen.“ 
+15. Der bisherige Artikel 16 wird zu Artikel 17 und § 13 wird durch den
+folgenden § 13 ersetzt: 
+§ 13„ 
+Elektronische Übermittlung; Verordnungsermächtigungen 
+(1) Anträge nach § 12 Absatz 1 sind an das besondere elektronische 
+Behördenpostfach der nach § 8 zuständigen Stelle zu übermitteln. Die für die 
+elektronische Übermittlung erforderlichen Empfängerbezeichnungen der
+zuständigen Stellen einschließlich der eindeutigen technischen
+Postfachbezeichnungen sind in einer als solche zu benennenden „Liste für den
+elektronischen Notar-Verwaltungs-Austausch“ leicht auffindbar auf der
+Internetseite des jeweiligen Bauministeriums des Landes zu veröffentlichen. 
+(2) Genehmigungen nach § 12 Absatz 2 sind an das besondere
+elektronische Notarpostfach zu übermitteln. 
+(3) Die Landesregierungen können für Übermittlungen nach den
+Absätzen 1 und 2 durch Rechtsverordnung zusätzliche elektronische
+Übermittlungswege bestimmen. Die Landesregierungen können diese Ermächtigung 
+durch Rechtsverordnung auf eine oberste Landesbehörde übertragen. 
+(4) Ein Verstoß der nach § 8 zuständigen Stelle gegen die
+Verpflichtung, die in § 2 Absatz 1 Satz 1 genannte Genehmigung als elektronisches 
+Dokument zu übermitteln, steht der Rechtswirksamkeit der Genehmigung 
+nicht entgegen. 
+(5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung 
+mit Zustimmung des Bundesrates 
+1. Einzelheiten der Datenübermittlung zu regeln sowie Dateiformate und 
+Anforderungen an die Barrierefreiheit für die zu übermittelnden
+Dokumente festzulegen, 
+2. zu bestimmen, dass Notare neben dem elektronischen Dokument oder, 
+wenn dieses in strukturierter maschinenlesbarer Form übermittelt wird, 
+in dem elektronischen Dokument bestimmte Angaben in strukturierter 
+maschinenlesbarer Form übermitteln müssen, 
+3. zu bestimmen, dass die nach § 8 zuständigen Stellen neben dem
+elektronischen Dokument oder, wenn dieses in strukturierter
+maschinenlesbarer Form übermittelt wird, in dem elektronischen Dokument
+bestimmte Angaben in strukturierter maschinenlesbarer Form übermitteln 
+müssen, und 
+4. Regelungen für den Fall des Auftretens technischer Störungen zu
+treffen. 
+(6) Die Abschrift der Urkunde über das genehmigungsbedürftige 
+Rechtsgeschäft ist elektronisch zu übermitteln. Für die Übermittlung der
+Abschrift gelten Absatz 1 sowie die Bestimmungen in den nach den Absätzen 3 
+und 5 Nummer 1 und 4 erlassenen Rechtsverordnungen. 
+V
+orabfassung - w
+ird durch die lektorierte Fassung ersetzt.
+(7) Das Bundesministerium der Justiz und für Verbraucherschutz wird 
+ermächtigt, ohne Zustimmung des Bundesrates durch Rechtsverordnung 
+Bestimmungen nach Absatz 3 Satz 1 zu erlassen, soweit  
+1. die Bundesanstalt für vereinigungsbedingte Sonderaufgaben oder eines 
+ihrer Unternehmen verfügungsbefugt ist oder  
+2. eine Übertragung nach § 8 Satz 3 vorgenommen wurde oder wird. 
+Das Bundesministerium der Justiz und für Verbraucherschutz kann die
+Ermächtigung nach Satz 1 durch Rechtsverordnung auf eine oder mehrere
+andere Stellen des Bundes übertragen.“ 
+16. Die bisherigen Artikel 17 und 18 werden zu den Artikeln 18 und 19. 
+17. Der bisherige Artikel 19 wird durch den folgenden Artikel 20 ersetzt: 
+„Artikel 20 
+Inkrafttreten 
+(1) Dieses Gesetz tritt vorbehaltlich der Absätze 2 bis 5 am … [
+einsetzen: Datum des ersten Tages des zweiten auf die Verkündung folgenden 
+Quartals] in Kraft. 
+(2) Die Artikel 5, 12 und 14 treten am Tag nach der Verkündung in 
+Kraft. 
+(3) Am 1. Januar 2027 treten in Kraft: 
+1. Artikel 1 
+a) Nummer 1, 
+b) in Nummer 2 Buchstabe a § 195 Absatz 3 Satz 2 des
+Baugesetzbuchs, 
+c) Nummer 4, 
+2. Artikel 2  
+a) in Nummer 1 § 1 Absatz 1 Nummer 4 der Elektronischer-
+Rechtsverkehr-Verordnung, 
+b) in Nummer 2 Kapitel 7 der Elektronischer-Rechtsverkehr-
+Verordnung, 
+3. die Artikel 16 und 17. 
+(4) Artikel 7 tritt am 1. Januar 2028 in Kraft. 
+(5) Die Artikel 8 bis 11, 13 und 15 treten an dem Tag in Kraft, an dem 
+die jeweiligen technischen und organisatorischen Voraussetzungen für die 
+jeweilige elektronische Übermittlung vorliegen. Das Bundesministerium der 
+Finanzen gibt den jeweiligen Tag des Inkrafttretens im Bundesgesetzblatt 
+bekannt.“ 
+V
+orabfassung - w
+ird durch die lektorierte Fassung ersetzt.
+Berlin, den 6. Mai 2026 
+Der Ausschuss für Recht und Verbraucherschutz 
+Carsten Müller (Braunschweig) 
+Vorsitzender 
+ 
+ 
+ 
+ 
+Johannes Wiegelmann 
+Berichterstatter 
+Fabian Jacobi 
+Berichterstatter 
+Mahmut Özdemir (Duisburg) 
+Berichterstatter 
+Lukas Benner 
+Berichterstatter 
+Aaron Valent 
+Berichterstatter 
+ 
+ 
+V
+orabfassung - w
+ird durch die lektorierte Fassung ersetzt.
+Bericht der Abgeordneten Johannes Wiegelmann, Fabian Jacobi, Mahmut Özdemir 
+(Duisburg), Lukas Benner und Aaron Valent 
+A. Allgemeiner Teil 
+I. Überweisung 
+Der Deutsche Bundestag hat die Vorlage auf Drucksache 21/3735 in seiner 56. Sitzung am 29. Januar 2026
+beraten und an den Ausschuss für Recht und Verbraucherschutz zur federführenden Beratung und an den
+Finanzausschuss zur Mitberatung überwiesen. 
+Der Haushaltsausschuss wurde nach § 96 der Geschäftsordnung des Deutschen Bundestages beteiligt. 
+II. Stellungnahme des mitberatenden Ausschusses sowie Stellungnahme des 
+Parlamentarischen Beirats für nachhaltige Entwicklung und Zukunftsfragen 
+Der Finanzausschuss hat die Vorlage auf Drucksache 21/3735 in seiner 33. Sitzung am 6. Mai 2026 beraten und 
+empfiehlt mit den Stimmen der Fraktionen CDU/CSU, SPD und BÜNDNIS 90/DIE GRÜNEN bei
+Stimmenthaltung der Fraktionen AfD und Die Linke die Annahme des Gesetzentwurfs. 
+Der Parlamentarische Beirat für nachhaltige Entwicklung und Zukunftsfragen hat sich mit der Vorlage auf 
+Drucksache 21/3735 in seiner 10. Sitzung am 14. Januar 2026 befasst. Er stellt insbesondere fest, dass der
+Gesetzentwurf einen Beitrag sowohl zur Erreichung des Nachhaltigkeitsziels SDG 16 „Frieden, Gerechtigkeit und 
+starke Institutionen“ als auch zur Erreichung des Nachhaltigkeitsziels SDG 9 „Industrie, Innovation und
+Infrastruktur“ leiste. Außerdem berücksichtige der Gesetzentwurf die Leitprinzipien der Deutschen
+Nachhaltigkeitsstrategie „(1) Nachhaltige Entwicklung als Leitprinzip konsequent in allen Bereichen und bei allen
+Entscheidungen anwenden“, „(5) Sozialen Zusammenhalt in einer offenen Gesellschaft wahren und verbessern“ und „(6)
+Bildung, Wissenschaft und Innovation als Treiber einer nachhaltigen Entwicklung nutzen“. Die Ausführungen der 
+Bundesregierung im Rahmen der Nachhaltigkeitsprüfung seien nicht zu beanstanden. Eine Prüfbitte sei folglich 
+nicht erforderlich. 
+III. Beratungsverlauf und Beratungsergebnisse im federführenden Ausschuss 
+Der Ausschuss für Recht und Verbraucherschutz hat in seiner 23. Sitzung am 28. Januar 2026 beschlossen, eine 
+öffentliche Anhörung zu dem Gesetzentwurf auf Drucksache 21/3735 durchzuführen. Der Ausschuss für Recht 
+und Verbraucherschutz hat diese Anhörung in seiner 25. Sitzung am 25. Februar 2026 durchgeführt. Hieran haben 
+folgende Sachverständige teilgenommen: 
+Dr. Philipp Hammerich Vorstandsmitglied im Legal Tech Verband Deutschland e. V. 
+ 
+Dr. Dieter Mehnert Präsidialmitglied der Bundessteuerberaterkammer 
+ 
+Dr. Felix Odersky Vizepräsident des Deutschen Notarvereins e. V. 
+ 
+Prof. Dr. Sebastian Omlor, LL.M. (NYU), 
+LL.M. Eur. 
+Professur für Bürgerliches Recht, Handels- und Wirtschaftsrecht, 
+Bankrecht sowie Rechtsvergleichung, Universität Marburg 
+V
+orabfassung - w
+ird durch die lektorierte Fassung ersetzt.
+Dr. Markus Sikora Präsident der Bundesnotarkammer 
+ 
+Norbert Weide Mitglied im Ausschuss Anwaltsnotariat des Deutschen
+Anwaltvereins 
+ 
+Hinsichtlich der Ergebnisse der öffentlichen Anhörung wird auf das Protokoll der 25. Sitzung vom 25.
+Februar 2026 mit den anliegenden Stellungnahmen der Sachverständigen sowie die Aufzeichnung der Sitzung in der 
+Mediathek des Deutschen Bundestages verwiesen. 
+In seiner 37. Sitzung am 6. Mai 2026 hat der Ausschuss für Recht und Verbraucherschutz den Gesetzentwurf auf 
+Drucksache 21/2735 abschließend beraten. Der Ausschuss für Recht und Verbraucherschutz empfiehlt mit den 
+Stimmen der Fraktionen CDU/CSU, SPD und BÜNDNIS 90/DIE GRÜNEN bei Stimmenthaltung der
+Fraktionen AfD und Die Linke die Annahme des Gesetzentwurfs in der aus der Beschlussempfehlung ersichtlichen
+Fassung. Die Änderungen beruhen auf einem Änderungsantrag, den die Fraktionen der CDU/CSU und SPD auf
+Ausschussdrucksache 21(6)83 in den Ausschuss für Recht und Verbraucherschutz eingebracht haben und der mit den 
+Stimmen der Fraktionen CDU/CSU, AfD, SPD und BÜNDNIS 90/DIE GRÜNEN bei Stimmenthaltung der
+Fraktion Die Linke angenommen wurde. 
+Die Fraktion der SPD begrüßte den Gesetzentwurf, insbesondere seinen Detailgrad, und dankte sowohl dem 
+Ministerium wie auch dem Koalitionspartner für die Zusammenarbeit. Es komme zu einer weiteren
+Digitalisierung und Beschleunigung des Vollzugs von Immobilienverträgen, gerade wo maschinenlesbare Informationen 
+automatisiert abgerufen und übermittelt werden könnten. Hervorzuheben seien insbesondere die Übermittlung an 
+das Behördenpostfach im notariellen Online-Verfahren sowie der Abruf von Steuer-Identnummern. Der
+Änderungsantrag sehe weiterhin eine Verordnungsermächtigung des Bundes für die Länder mit Zustimmung des
+Bundesrates vor. Für die Koalitionsfraktionen gab die Fraktion der SPD ferner folgende Erklärung ab: 
+„Die Fraktionen der CDU/CSU und der SPD im Ausschuss für Recht und Verbraucherschutz sind der Ansicht, 
+dass bestimmte gerichtliche Entscheidungen ausschließlich als XML-Strukturdateien erstellt beziehungsweise 
+übermittelt werden sollten, um Automatisierungspotential auszuschöpfen und Verfahren effektiver und weniger 
+fehleranfällig zu gestalten. Dies gilt insbesondere für die Genehmigungsbeschlüsse, Negativatteste und
+Rechtskraftzeugnisse, die Gerichte an Notarinnen und Notare übersenden. Die Erstellung beziehungsweise Übermittlung 
+ausschließlich von XML-Strukturdaten ermöglicht, dass Entscheidungen maschinenlesbar und automatisch
+verarbeitbar vorliegen. Dies verhindert die mehrfache Eingabe von Datensätzen im Sinne eines Once-Only-Prinzips. 
+Außerdem bedarf es keiner Überprüfung durch Mitarbeiter, ob strukturierte Datensätze mit der im PDF-Format 
+errichteten Entscheidung übereinstimmen.  
+Das Bundesministerium der Justiz und für Verbraucherschutz hat mitgeteilt, dass aus rechtlichen und technischen 
+Gründen derzeit nicht auf die Übermittlung eines PDF-Dokuments neben dem XML-Strukturdatensatz verzichtet 
+werden kann. Erforderlich zur wirksamen Bekanntgabe sei erstens die Übermittlung des vollständigen Inhalts der 
+Entscheidung. Der bisher vorgesehene Standard für den XML-Strukturdatensatz enthält insbesondere für
+Genehmigungsbeschlüsse, Negativatteste und Rechtskraftzeugnisse nicht den vollständigen Inhalt der Entscheidung. 
+Erforderlich wäre eine technische Erweiterung des Standards für den Strukturdatensatz auf den vollständigen 
+Inhalt der Entscheidung. Zweitens seien technische Voraussetzungen zu schaffen, die – auch nach Rückfrage bei 
+den Ländern – derzeit nicht kurzfristig technisch flächendeckend umsetzbar seien: Die IT-Systeme aller
+Verfahrensbeteiligten müssten ertüchtigt werden, um einen überarbeiteten Standard bei der Erstellung und Verarbeitung 
+der jeweiligen Strukturdatensätze verwenden zu können. Daher wäre eine Fortentwicklung des XJustiz-Standards 
+und die rechtlich-technische Begleitung in einem Digitalisierungsprojekt erforderlich, damit die genannte
+technische Implementierung der Ausstellung der genannten Dokumente wie auch deren Visualisierung – also
+menschenlesbare Visualisierung des XJustiz-Datensatzes –, ermöglicht werden kann. Ein derartiges Vorhaben müsse
+einerseits finanziert und andererseits mit den Ländern eng koordiniert werden, um technische Anpassungen in den 
+landeseigenen IT-Systemen der Justiz zu projektieren.  
+V
+orabfassung - w
+ird durch die lektorierte Fassung ersetzt.
+Die Fraktionen der CDU/CSU und der SPD im Ausschuss begrüßen, dass das Bundesministerium der Justiz und 
+für Verbraucherschutz perspektivisch eine Umstellung auf Erstellung beziehungsweise Übermittlung von
+bestimmten gerichtlichen Entscheidungen als Strukturdatensatz anstrebt und an einer Lösung – zusammen mit den 
+Ländern – bereits arbeitet. Die Fraktionen der CDU/CSU und der SPD im Ausschuss bitten das
+Bundesministerium der Justiz und für Verbraucherschutz, in Zusammenarbeit mit den Ländern auf die zeitnahe Schaffung der 
+technischen Voraussetzungen hinzuwirken und die nötigen rechtlichen Voraussetzungen zu schaffen. Ferner
+bitten die Fraktionen der CDU/CSU und der SPD im Ausschuss das Bundesministerium der Justiz und für
+Verbraucherschutz, in einem ersten Schritt insbesondere für Genehmigungsbeschlüsse, Negativatteste und
+Rechtskraftzeugnisse, die die Gerichte an Notare versenden, eine entsprechende rechtliche und technische Lösung
+vorzusehen, sobald hierfür die notwendigen Voraussetzungen geklärt sind.“ 
+Die Fraktion der CDU/CSU dankte ebenfalls dem Koalitionspartner und hob die Ziele des Gesetzentwurfs
+hervor, effizientere und schnellere Verfahren im Bereich des Vollzugs von Immobilienverträgen zu schaffen, mittels 
+Digitalisierung eine beschleunigte Eigentumsumschreibung zu ermöglichen, Medienbrüche abzubauen und
+mehrfache Datenerfassungen zu vermeiden. Der Änderungsantrag führe nicht nur die Abfragemöglichkeit für die 
+Steuer-ID ein und treffe Vorkehrungen bei technischen Störungen, sondern streiche auch die
+Pilotierungsmöglichkeit der Länder, was im Ergebnis dazu führe, dass es zu einer einheitlichen Einführung zum 1. Januar 2027 in 
+der gesamten Bundesrepublik komme. Ferner werde Artikel 2 des Gesetzentwurfs gestrichen, was einen
+erheblichen bürokratischen Mehraufwand vermeide. Für die Koalitionsfraktionen gab die Fraktion der CDU/CSU ferner 
+folgende Erklärung ab: 
+„Die Nutzung des bestehenden, leistungsstarken und verlässlichen Instruments der vom ELSTER-Portal
+eröffneten ERiC-Schnittstelle ermöglicht die im steuerlichen Massenverfahren erforderliche schnelle, digitale und
+ressourcenschonende Bearbeitung der Steuerdaten und stellt eine medienbruchfreie, steuernummerngenaue
+Steuerdatenzuordnung sowie eine effiziente Bearbeitung in den Finanzämtern sicher. Aus diesen Gründen hat die
+elektronische Übermittlung von Nachrichten und Dokumenten an die Steuerverwaltung grundsätzlich über die
+bereitgestellte ELSTER-Schnittstelle (ERiC) zu erfolgen. Dies gilt nach aktueller Rechtslage auch für die elektronische 
+Einlegung eines Einspruchs gegen einen Steuerbescheid (§ 357 AO).  
+Die Koalitionsfraktionen unterstützen nachdrücklich die weitere Digitalisierung der Kommunikation zur
+Steuerverwaltung.  
+Im Hinblick auf die besondere Relevanz eines Einspruches für den effektiven Rechtsschutz der Steuerpflichtigen 
+bitten die Koalitionsfraktionen die Bundesregierung unter Einbindung der für den Vollzug der Steuern
+zuständigen Länder, umgehend zu prüfen, ob und unter welchen Bedingungen und mit welchen Folgen für die
+Aufgabenerfüllung der Finanzämter ergänzend und nachrangig zur Nutzung der ERiC-Schnittstelle beziehungsweise den 
+im ELSTER-Portal bereitgestellten Kommunikationsmöglichkeiten zur Steuerverwaltung die Möglichkeit für 
+eine Übermittlung eines Einspruchs auch über das besondere elektronische Anwaltspostfach ermöglicht werden 
+kann (zum Beispiel an das besondere elektronische Behördenpostfach). Abhängig vom Ergebnis der Prüfung 
+könnte eine eventuelle Änderung der gesetzlichen Regelung zum Einspruch bis Ende des Jahres 2026 in einem 
+der nachfolgenden Steuergesetzgebungsverfahren erfolgen.“ 
+Die Fraktion BÜNDNIS 90/DIE GRÜNEN begrüßte den Gesetzentwurf und kündigte Zustimmung sowohl zum 
+Gesetzentwurf wie auch zum Änderungsantrag an. Bereits in der vergangenen Wahlperiode habe es viele
+Versuche gegeben, mit Blick auf die Digitalisierung – auch bei den Notaren – voranzukommen. Das sei nicht immer 
+gelungen. Umso mehr sei der vorliegende Entwurf zu befürworten; Bürokratieabbau sei ein
+fraktionsübergreifendes Anliegen. Der Änderungsantrag nehme Anregungen aus der öffentlichen Anhörung auf und sehe weitere
+Verbesserungen vor. 
+Die Fraktion der AfD hob ihr Anliegen hervor, eine Abwägung zwischen der Verbesserung behördlicher
+Effizienz durch Digitalisierung und technischen Fortschritt einerseits und dem Recht der Bürger auf ein (auch) analoges 
+Leben andererseits herbeizuführen. Sei dieses Gleichgewicht nach Ansicht der Fraktion der AfD bei
+Gesetzentwürfen in der Vergangenheit nicht gewahrt worden, habe sie diese entsprechend abgelehnt. Der vorliegende
+Gesetzentwurf tangiere den Bürger nicht unmittelbar, sondern betreffe im Wesentlichen die Kommunikation
+zwischen staatlichen und semi-staatlichen Stellen. Insofern gebe es weniger Vorbehalte. Der Änderungsantrag nehme 
+Anregungen aus der Praxis auf, weshalb er zustimmungsfähig sei. Gleichwohl sehe die Fraktion der AfD die 
+zwingende Verwendung des ELSTER-Anschlusses nicht zuletzt aufgrund dringender Hinweise aus der Praxis 
+V
+orabfassung - w
+ird durch die lektorierte Fassung ersetzt.
+kritisch. Dieses Thema arbeite der Änderungsantrag nicht genügend auf, weshalb sich die Fraktion der AfD bei 
+der Abstimmung über den Gesetzentwurf – trotz Sympathien für die Zielrichtung – enthalten werde.  
+Die Fraktion Die Linke begrüßte die fortschreitende Digitalisierung, hätte sich aber einen verstärkten Fokus auf 
+den Datenschutz gewünscht, weshalb sie sich enthalten werde. 
+B. Besonderer Teil 
+Im Folgenden werden lediglich die vom Ausschuss für Recht und Verbraucherschutz empfohlenen Änderungen 
+gegenüber der ursprünglichen Fassung des Gesetzentwurfs erläutert. Soweit der Ausschuss die unveränderte
+Annahme des Gesetzentwurfs empfiehlt, wird auf die jeweilige Begründung in Drucksache 21/3735 verwiesen. 
+I. Allgemeines 
+Neu eingeführt wird eine Abfragemöglichkeit für Notarinnen und Notare, um bei dem Bundeszentralamt für
+Steuern die Steueridentifikationsnummer von Erblasserinnen und Erblassern, Schenkerinnen und Schenkern sowie 
+Erwerberinnen und Erwerbern zu erfragen. Damit können Notarinnen und Notare künftig ihrer Pflicht, bei
+Veräußerungsanzeigen die Steueridentifikationsnummer anzugeben, leichter nachkommen. 
+Erfüllungsaufwand 
+Durch die Anbindung der Bundesnotarkammer an das Bundeszentralamt für Steuern für Zwecke des maschinellen 
+Anfrageverfahrens reduziert sich der Aufwand in den Finanzämtern und damit der Erfüllungsaufwand der
+Verwaltung der Länder in geringem Umfang. 
+Die Einführung einer Abfragemöglichkeit der Steueridentifikationsnummer für Notarinnen und Notare führt 
+gleichzeitig für die Verwaltung des Bundes zu einem einmaligen Erfüllungsaufwand in Höhe von etwa 60 000 
+Euro und einem jährlichen Erfüllungsaufwand in Höhe von rund 12 000 Euro. Der Bundesnotarkammer entsteht 
+für die Inbetriebnahme einer Softwareanwendung zum Abruf der Steueridentifikationsnummer im Auftrag der 
+Notarinnen und Notare ein einmaliger Aufwand in Höhe von etwa 60 000 Euro (netto). Zudem fällt bei der
+Bundesnotarkammer ein jährlicher Aufwand in Höhe von rund 12 000 Euro (netto) für die laufende Betreuung der 
+Softwareanwendung an. Weiterer Aufwand in geringem Umfang entsteht bei dem Bundeszentralamt für Steuern. 
+II. Zu den Änderungen im Einzelnen 
+Die Änderungen gegenüber dem Gesetzentwurf der Bundesregierung beruhen auf folgenden Erwägungen: 
+Zu Nummer 1 (Änderung des Artikels 1 Nummer 4) 
+Zu Buchstabe a (Änderung des § 213a) 
+Zu Doppelbuchstabe aa (Änderung der Absätze 2 und 3) 
+Dem § 213a Absatz 2 des Baugesetzbuchs in der Entwurfsfassung (BauGB-E) wird ein Satz angefügt. Es wird 
+hierin festgesetzt, dass die Empfängerbezeichnungen und eindeutigen technischen Postfachbezeichnungen auf der 
+Internetseite der Bauministerien der einzelnen Länder zu veröffentlichen sind. Die Liste ist ausdrücklich als „Liste 
+für den elektronischen Notar-Verwaltungs-Austausch“ zu benennen. Durch diese Bezeichnung soll den
+Rechtsanwendern ermöglicht werden, die Liste unproblematisch über die Suchfunktion auf der Internetseite des
+Bauministeriums des jeweiligen Landes aufzufinden. Notarinnen und Notare benötigen die Empfängerbezeichnungen 
+und eindeutigen technischen Postfachbezeichnungen, um den zuständigen Behörden elektronische Dokumente 
+über das Elektronische Gerichts- und Verwaltungspostfach (EGVP) übermitteln zu können. In dem
+ursprünglichen Gesetzesentwurf war in § 213b Absatz 2 Satz 3 BauGB-E eine Verpflichtung der Länder vorgesehen, neben 
+dem Zeitpunkt der Einführung der verpflichtenden elektronischen Kommunikation die Empfängerbezeichnungen 
+und eindeutigen technischen Postfachbezeichnungen der zuständigen Behörden in einer Rechtsverordnung
+festzusetzen. Die Einführung der verpflichtenden elektronischen Kommunikation erfolgt jedoch nicht mehr durch 
+Verordnung der Länder (siehe dazu die Änderung des § 213b BauGB-E). Nunmehr den Ländern einen
+Verordnungserlass vorzuschreiben, um allein die Empfängerbezeichnungen und eindeutigen technischen
+Postfachbezeichnungen der zuständigen Behörden festzusetzen, würde einen überschießenden bürokratischen Aufwand
+darstellen. Eine Veröffentlichung einer entsprechenden Liste, die unter einem festgesetzten Namen im Internet ab-
+V
+orabfassung - w
+ird durch die lektorierte Fassung ersetzt.
+rufbar ist, ist eine niederschwellige Maßnahme, um Transparenz für die Rechtsanwender zu schaffen.
+Rechtsanwendern wird hierdurch eine einfache Recherchemöglichkeit gegeben.  
+Die Änderung des § 213a Absatz 3 BauGB-E ist eine redaktionelle Folgeänderung zu den Änderungen des § 213a 
+Absatz 2 und § 213b BauGB-E. Die entsprechenden Verweisungen sind an die Änderungen angepasst. 
+Zu Doppelbuchstabe bb (Änderung des Absatzes 5) 
+In § 213a Absatz 5 BauGB-E wird der Satz 2 gestrichen. Die Regelung sah vor, dass während des
+Übergangszeitraums bis zum 1. Januar 2027 ein Antrag in Papierform nicht unzulässig sei, auch wenn eine Verordnung der 
+Länder bereits eine Verpflichtung zur elektronischen Kommunikation festsetze. Hintergrund dieser Regelung war 
+der Schutz der Rechtsanwender. Etwaige Pilotierungen der elektronischen Kommunikation in einzelnen
+Bereichen durch die Länder hätten aber zu einem unübersichtlichen Flickenteppich führen können (vergleiche dazu 
+Buchstabe b). Dem Schutz hiervor bedarf es nicht mehr. § 213b BauGB-E wird dahingehend geändert, dass die 
+Kompetenz der Länder entfällt, den Zeitpunkt der Einführung der elektronischen Kommunikation durch
+Verordnung festzusetzen (siehe hierzu Buchstabe c). Die elektronische Kommunikation zwischen Notarinnen und
+Notaren und den zuständigen Behörden wird flächendeckend zum 1. Januar 2027 eingeführt. 
+Zu Buchstabe b (Änderung des § 213b) 
+Der bisherige § 213b Absatz 2 BauGB-E entfällt. Dieser sah eine Ermächtigung der Landesregierungen vor, durch 
+Erlass einer Rechtsverordnung die Verpflichtung von Notarinnen und Notaren und den zuständigen Behörden zur 
+elektronischen Kommunikation einzuführen. Die Einführung hätte spätestens zum 1. Januar 2027 erfolgen
+müssen. Zuvor hätten die Länder bereits eine elektronische Kommunikation für einzelne Behörden oder Bereiche 
+anordnen können. Diese Pilotierungsmöglichkeit für einzelne Behörden oder Regionen birgt jedoch die Gefahr 
+einer Zersplitterung der Rechtslage. Für Rechtsanwender wäre die stetige Kontrolle, ob für eine bestimmte
+Behörde schon vorab die elektronische Kommunikation angeordnet wurde, mit erheblichem Aufwand verbunden. 
+Deshalb wird nunmehr durch eine entsprechende Regelung des Inkrafttretens des § 213a BauGB-E
+bundeseinheitlich die elektronische Kommunikation zwischen Notarinnen und Notaren und den zuständigen Behörden zum 
+1. Januar 2027 eingeführt werden. Die entsprechende Verordnungsermächtigung für die Länder entfällt dadurch 
+ersatzlos. 
+Der bisherige Absatz 3 ist zu streichen. Die darin vorgesehene Delegierungsmöglichkeit der
+Verordnungsermächtigung auf eine oberste Landesbehörde bezieht sich nunmehr lediglich auf Absatz 1. Der zuvor ebenfalls in Bezug 
+genommene Absatz 2 wird gestrichen. Der Inhalt des bisherigen Absatzes 3 wird deshalb – soweit er sich bisher 
+auf Absatz 1 bezog – als weiterer Satz an Absatz 1 angefügt.  
+Folgeänderung der Streichungen ist, dass der bisherige Absatz 4 nun Absatz 2 ist. Eine redaktionelle Anpassung 
+ergibt sich hinsichtlich des Verweises auf Absatz 2. Wegen des Entfallens des Absatzes 2 wird nunmehr ohne 
+inhaltliche Änderung von den zuständigen Stellen gesprochen. 
+Zu Nummer 2 (Streichung des Artikels 2) 
+Die vorgesehene Änderung des Beurkundungsgesetzes (BeurkG) durch Einfügen einer notariellen Hinweis- und 
+Vermerkpflicht wird gestrichen. Die Hinweis- und Vermerkpflicht sollte sich auf die Mitteilungspflicht der an 
+einem Immobilienvertrag Beteiligten gegenüber den Gutachterausschüssen beziehen. Die Regelung einer
+notariellen Hinweis- und Vermerkpflicht stellt einen erheblichen bürokratischen Mehraufwand für Notarinnen und
+Notare dar und führt dadurch zu einem nicht unerheblichen jährlichen Erfüllungsaufwand. Dem gegenüber steht nur 
+ein geringer zu erwartender Nutzen. Die Mitteilungspflichten der Beteiligten entstehen erst im Nachgang zu der 
+Beurkundung durch gesonderte ausdrückliche behördliche Aufforderung. Erst in diesem Zeitpunkt sind Adressat, 
+Inhalt und Umfang der Mitteilungspflicht klar. Systematisch wäre eine explizite Hinweis- und Vermerkpflicht im 
+Zeitpunkt der Beurkundung deshalb verfehlt. Dies gilt umso mehr vor dem Hintergrund, dass die übrigen
+Hinweise- und Vermerkpflichten des Beurkundungsgesetzes den Vollzug notarieller Urkunden betreffen. Die
+Mitteilungspflicht der Beteiligten ist hingegen keine unmittelbare Vollzugsvoraussetzung des Vertrages. Für das Ziel, 
+den Datenrücklauf an die Gutachterausschüsse zu steigern, sind die ausdrückliche individuelle Aufforderung 
+durch die Gutachterausschüsse unter Fristsetzung und das niederschwellige Angebot der Mitteilung über ein
+Internetformular ausreichend. Ein zusätzlicher notarieller Hinweis sowie ein Vermerk in der Urkunde, die beide 
+zeitlich im Vorfeld des Entstehens der eigentlichen Mitteilungspflicht liegen, bieten erwartungsgemäß keinen 
+zusätzlichen Nutzen. 
+V
+orabfassung - w
+ird durch die lektorierte Fassung ersetzt.
+Zu Nummer 3 (Änderung des neuen Artikels 2) 
+Die Umnummerierung ist eine redaktionelle Folgeänderung zu der Streichung des Artikels 2 (Änderung des
+Beurkundungsgesetzes). 
+Zu Buchstabe a (Änderung des § 16 Absatz 3) 
+Es wird die Ergänzung aufgenommen, dass im Falle der Übermittlung in Papierform auf Anforderung hin
+elektronische Dokumente nachzureichen sind. Dies dient der Arbeitserleichterung. Die Übermittlung strukturierter 
+Daten ermöglicht eine automatisierte Weiterverarbeitung beim Empfänger. Dieser Vorteil soll bei der
+Übermittlung in Papierform nicht verloren gehen. Sieht der Empfänger eine Nachreichung elektronischer Dokumente als 
+sinnvoll an, um eigene Arbeitsabläufe zu erleichtern, kann er diese anfordern. 
+Zu Buchstabe b (Änderung des § 17 Absatz 3) 
+Es gilt hierzu die Begründung zu Buchstabe a entsprechend. 
+Zu Buchstabe c (Änderung des § 19 Absatz 5) 
+Es gilt hierzu die Begründung zu Buchstabe a entsprechend. 
+Zu Buchstabe d (Änderung des § 20) 
+Zu Doppelbuchstabe aa (Änderung des § 20 Absatz 1) 
+Die Änderung ist eine Folgeänderung zu der Streichung der Pilotierungsmöglichkeit der Länder, die bisher in den 
+in § 20 Absatz 1 der Elektronischer-Rechtsverkehr-Verordnung in der Entwurfsfassung (ERVV-E) in Bezug
+genommenen Paragraphen vorgesehen war. Die vorherige Formulierung bezog sich ausdrücklich auf den Zeitpunkt, 
+ab dem durch eine Rechtsverordnung des Landes eine elektronische Kommunikation verpflichtend eingeführt 
+wird. Da die Verordnungskompetenz der Länder gestrichen wird und eine Einführung der elektronischen
+Kommunikation flächendeckend zum 1. Januar 2027 erfolgt, ist auch § 20 Absatz 1 der ERVV-E entsprechend
+anzupassen. 
+Zu Doppelbuchstabe bb (Änderung des § 20 Absatz 3 und 4) 
+Der bisherige § 20 Absatz 3 ERVV-E ist zu streichen. Dieser betraf den Fall, dass durch die zuständigen Behörden 
+elektronische Dokumente an Notarinnen und Notare bereits vor Erlass einer entsprechenden Rechtsverordnung 
+der Länder zur Einführung der elektronischen Kommunikation übermittelt werden. Für den Übergangszeitraum 
+sollte sichergestellt werden, dass im Falle der elektronischen Übermittlung dennoch die künftigen Formstandards 
+eingehalten werden. Da die Einführung der elektronischen Kommunikation nun flächendeckend zum 1.
+Januar 2027 erfolgt, ist diese Übergangsregelung nicht notwendig. 
+Als Folge der Streichung des bisherigen Absatzes 3 wird Absatz 4 zu Absatz 3. Zu der inhaltlichen Änderung des 
+Absatzes gilt die Begründung zu Buchstabe a entsprechend. 
+Zu Nummer 4 (Verschiebung der Artikel 4 und 5) 
+Aufgrund der Streichung des Artikels 2 zur Änderung des BeurkG verändert sich die Nummerierung der
+darauffolgenden Artikel. 
+Zu Nummer 5 (Verschiebung und Änderung des Artikels 6) 
+Die Umnummerierung ist eine redaktionelle Folgeänderung zu der Streichung des Artikels 2. 
+Zu Buchstabe a (Änderung des § 22a) 
+Durch die Änderung wird § 22a des Grunderwerbsteuergesetzes in der Entwurfsfassung (GrEStG-E) im Hinblick 
+auf einen Rechtschreibfehler redaktionell angepasst. 
+Zu Buchstabe b (Änderung des § 22a Nummer 2) 
+Nach § 23 Absatz 16 Satz 2 des Grunderwerbsteuergesetzes (GrEStG) sollte der Zeitpunkt der erstmaligen
+Anwendung des § 20 des Grunderwerbsteuergesetzes in der am 15. Dezember 2018 geltenden Fassung durch eine 
+nach § 22a GrEStG zu erlassende Rechtsverordnung bestimmt werden. Durch jetzt vorgesehene Streichung des 
+V
+orabfassung - w
+ird durch die lektorierte Fassung ersetzt.
+§ 23 Absatz 16 Satz 2 GrEStG wird die erstmalige Anwendung nunmehr auf das Datum des Inkrafttretens dieses 
+Gesetzes festgelegt. 
+Zu Nummer 6 (Verschiebung und Änderung des Artikels 7) 
+Die Umnummerierung ist eine redaktionelle Folgeänderung zu der Streichung des Artikels 2. 
+Zu Buchstabe c (Änderung des § 22a Absatz 2) 
+Es gilt hierzu die Begründung zu Nummer 5 Buchstabe a. 
+Zu Buchstabe d (Streichung der Nummer 3) 
+Wegen der Streichung des § 23 Absatz 6 Satz 2 GrEStG durch Artikel 5 Nummer 2 ist die in dem bisherigen 
+Artikel 7 Nummer 3 vorgesehene Änderung nicht mehr erforderlich und wird daher gestrichen. 
+Zu Nummer 7 (Verschiebung und Änderung des Artikels 8) 
+Die Umnummerierung ist eine redaktionelle Folgeänderung zu der Streichung des Artikels 2. Im Übrigen gilt die 
+Begründung zu Nummer 6 Buchstabe b. 
+Zu Nummer 8 (Einfügung des neuen Artikels 8) 
+Die elektronische Veräußerungsanzeige der Notarin oder des Notars ist nach Maßgabe des § 93c der
+Abgabenordnung zu übermitteln und muss unter anderem die Identifikationsnummer nach § 139b der Abgabenordnung 
+des Veräußerers und des Erwerbers enthalten. Zur eindeutigen Zuordnung der Veräußerungsanzeigen durch die 
+Finanzbehörden ist die Angabe der Identifikationsnummer unerlässlich. Damit die Notarin beziehungsweise der 
+Notar dieser Verpflichtung praktikabel nachkommen kann, wird geregelt, dass die Identifikationsnummer von der 
+Notarin beziehungsweise dem Notar, sofern nicht bereits vorhanden, über die Bundesnotarkammer beim
+Bundeszentralamt für Steuern elektronisch zu erfragen ist und welche Daten hierfür anzugeben sind.  
+Hierdurch wird es ermöglicht, dass Notarinnen und Notare ihrer Verpflichtung zur Übermittlung der
+Identifikationsnummer auch in Fällen nachkommen können, in denen ihnen die Identifikationsnummer nicht bereits von 
+ihren Mandanten mitgeteilt wurde. Das vereinfacht die Rechtsanwendung für die Bürgerinnen und Bürger sowie 
+die Notarinnen und Notare.  
+Die Durchführung des Datenaustauschs durch die Bundesnotarkammer im Auf-trag der Notarinnen und Notare 
+unterfällt der Aufgabenzuweisung des § 78 Absatz 3 der Bundesnotarordnung. 
+Zu Nummer 9 (Einfügung des neuen Artikels 10) 
+Damit Notarinnen und Notare in Erbfällen und bei Schenkungen und Zweckzuwendungen unter Lebenden ihrer 
+Anzeigepflicht gegenüber dem für die Verwaltung der Erbschaftsteuer zuständigen Finanzamt über
+Beurkundungen, Zeugnisse und Anordnungen, die für die Festsetzung einer Erbschaft- oder Schenkungsteuer von Bedeutung 
+sein können, nachkommen können, wird geregelt, dass die Identifikationsnummer des Erblassers (§ 7 Absatz 2 
+Nummer 1 der Erbschaftsteuer-Durchführungsverordnung – ErbStDV) oder des Schenkers und des Erwerbers 
+(§ 8 Absatz 1 Satz 1 in Verbindung mit Muster 6 ErbStDV) von der Notarin oder dem Notar, sofern nicht bereits 
+vorhanden, über die Bundesnotarkammer beim Bundeszentralamt für Steuern elektronisch erfragt werden kann. 
+Im Übrigen wird auf die Begründung für die Einführung des maschinellen Anfrageverfahrens in der
+Grunderwerbsteuer durch Nummer 8 verwiesen. 
+Zu den Nummern 10 bis 13 (Verschiebung der Artikel 10 bis 14) 
+Aufgrund der Einfügung des neuen Artikels 10 zur weiteren Änderung des Erbschaftsteuer- und
+Schenkungsteuergesetzes verändert sich die Nummerierung der darauffolgenden Artikel. 
+Zu Nummer 14 (Verschiebung und Änderung des Artikels 15) 
+Die Umnummerierung ist Folge der Einfügung des neuen Artikels 10. 
+Die Änderungen entsprechen inhaltlich den Änderungen der §§ 213a und 213b BauGB-E. Auf die Begründungen 
+hierzu wird verwiesen. 
+V
+orabfassung - w
+ird durch die lektorierte Fassung ersetzt.
+Zu Nummer 15 (Verschiebung und Änderung des Artikels 16) 
+Die Umnummerierung ist Folge der Einfügung des neuen Artikels 10. 
+Die Änderungen entsprechen inhaltlich den Änderungen der §§ 213a und 213b BauGB-E. Auf die Begründungen 
+hierzu wird verwiesen. 
+Zu Nummer 16 (Verschiebung der Artikel 17 und 18) 
+Die Umnummerierung ist Folge der Einfügung des neuen Artikels 10. 
+Zu Nummer 17 (Verschiebung und Änderung des Artikels 19) 
+Das Inkrafttreten wird zunächst an den Wegfall des Erfordernisses von Rechtsverordnungen der Länder zum
+Zeitpunkt der Einführung der elektronischen Kommunikation zwischen Notarinnen und Notaren und Behörden
+angepasst. Die entsprechenden Regelungen treten gemäß Artikel 20 Absatz 3 nunmehr flächendeckend am 1.
+Januar 2027 in Kraft. Ebenfalls am 1. Januar 2027 tritt die Verpflichtung der Gutachterausschüsse in Kraft, die
+Erfüllung der Mitteilungspflichten der Beteiligten über ein Internetformular zu ermöglichen. 
+Der Absatz 5 wird ergänzt hinsichtlich des Inkrafttretens der Regelungen zur Abrufmöglichkeit der
+Steueridentifikationsnummer durch Notarinnen und Notare. Insoweit sind noch technische Anschlussarbeiten an das
+Bundeszentralamt für Steuern erforderlich. Absatz 5 stellt sicher, dass die Artikel 8 und 10 jeweils erst an dem Tag in 
+Kraft treten, an dem die jeweiligen technischen und organisatorischen Voraussetzungen vorliegen. 
+ 
+Berlin, den 6. Mai 2026 
+Johannes Wiegelmann 
+Berichterstatter 
+Fabian Jacobi 
+Berichterstatter 
+Mahmut Özdemir (Duisburg) 
+Berichterstatter 
+Lukas Benner 
+Berichterstatter 
+Aaron Valent 
+Berichterstatter 
+ 
+ 
+ 
+V
+orabfassung - w
+ird durch die lektorierte Fassung ersetzt.
