@@ -1,0 +1,2204 @@
+Deutscher Bundestag Drucksache 21/5725
+21. Wahlperiode 05.05.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Sonja Lemke, Clara Bünger, Anne-
+Mieke Bremer, weiterer Abgeordneter und der Fraktion Die Linke
+– Drucksache 21/5007 –
+Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei 
+Rechenzentren
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Klimakrise hat sich weiter verschärft, Forschende warnen, dass die 1,5-
+Grad-Marke bereits überschritten ist. Es gibt immer mehr Warnungen, dass die 
+Nutzung künstlicher Intelligenz (KI) den Anstieg des Stromverbrauchs durch 
+die Digitalisierung erheblich beschleunigt. Studien gehen davon aus, dass der 
+globale Strombedarf für KI-Rechenleistungen bis 2030 etwa elfmal so hoch 
+sein wird wie im Jahr 2023 (www.greenpeace.de/publikationen/20250514-gre
+enpeace-studie-umweltauswirkungen-ki.pdf).
+Schon jetzt machen Rechenzentren (RZ) mit rund 4 Prozent einen erheblichen 
+Teil des deutschen Gesamtstromverbrauchs aus, mit steigendem Trend (www.
+oeko.de/blog/mehr-transparenz-beim-stromverbrauch-von-rechenzentren/), sie 
+müssen daher energieeffizienter und bald klimaneutral werden.
+Ein erster Schritt in diese Richtung war das im September 2023
+verabschiedete Energieeffizienzgesetz (EnEfG), auch wenn dieser aus Sicht der
+Fragestellenden wenig ambitioniert war. Danach waren die Effizienzdaten von RZ ab 
+einer Anschlussleistung von 300 kW gemäß den Anforderungen der EU-
+Richtlinie (EU) 2023/1791 zum 1. Juli 2025 erstmalig an das Bundesamt für 
+Wirtschaft und Ausfuhrkontrolle zu melden, um Eingang in das
+Rechenzentrumsregister (RZ-Register) zu finden (www.bafa.de/SharedDocs/Kurzmeldun
+gen/DE/Energie/20240319_bfee_enefg.html).
+In dem Konsultationsprozess der Bundesregierung für die nationale
+Rechenzentrumsstrategie führt die Bundesregierung als erstes zentrales Ergebnis zur 
+Frage nach Merkmalen und Rahmenbedingungen eines „zukunftsfähigen und 
+leistungsstarken“ Rechenzentrumsstandortes Deutschland im Jahr 2030 die 
+100-prozentige Versorgung von Rechenzentren aus erneuerbaren Energien
+sowie Integration in lokale Energienetze als zentrale Voraussetzungen für
+Zukunftsfähigkeit auf. Als zweites Merkmal wird Energieeffizienz genannt, als 
+Drittes die systematische Nutzung von Abwärme (https://bmds.bund.de/theme
+n/digitale-wirtschaft/recheninfrastruktur/konsultationsprozess). Ein
+ressourcenschonender Betrieb von Rechenzentren wird damit als essenziell
+angesehen. Ein erster Entwurf für die Strategie ist bereits öffentlich geworden.
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Digitales 
+und Staatsmodernisierung vom 4. Mai 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+Bei dem Ziel in diesem Entwurf, die Rechenzentrumskapazitäten bis 2030 zu 
+verdoppeln und die für KI zu vervierfachen, bezieht sich die Bundesregierung 
+auf die IT-Anschlussleistung. Die Strategie ist damit nicht an einem
+prognostizierten Bedarf an Rechenleistung ausgerichtet, sondern stellt eine möglichst 
+hohe Verfügbarkeit von Strom ins Zentrum. Energieeffiziente Rechenzentren, 
+die eine geringere Anschlussleistung für eine bestimmte Rechenleistung
+benötigen, zahlen nach dieser Logik weniger auf das Erreichen des „strategischen 
+Ziels“ ein als solche mit relativ hohem Stromverbrauch. Aus Sicht der
+Fragestellenden steht die Zielsetzung der Bundesregierung damit im Widerspruch 
+zu ihrem Ziel der Förderung nachhaltiger Rechenzentren.
+Dieser Widerspruch zeichnet sich auch im ersten Entwurf zum EnEfG ab: 
+Während die aktuelle Bundesregierung in dem (geleakten) Entwurf für ihre 
+Rechenzentrumsstrategie Energieeffizienz und Abwärmenutzung
+entsprechend der Konsultationsergebnisse als zentrale Faktoren für die Planung und 
+den Betrieb von Rechenzentren bezeichnet, zeigt ein erster (ebenfalls
+geleakter) Referentenentwurf für eine Novelle des Energieeffizienzgesetzes, dass die 
+Effizienzvorgaben für Rechenzentren (PUE (Power Usage Effectiveness)-
+Werte) gelockert werden sollen, für die Pflicht zur Abwärmenutzung für
+Rechenzentren deutlich mehr Ausnahmen eingeführt werden sollen und auch die 
+Pflichten zur Einführung eines Energiemanagementsystems deutlich
+eingeschränkt werden sollen (www.gfbu-consult.de/de/aktuell/entwurf-zur-aenderu
+ng-des-energieeffizienzgesetzes-enefg).
+In der Vergangenheit hatte die Bundesregierung 2021 zur Nachhaltigkeit der 
+IT des Bundes ein weiterentwickeltes Maßnahmenprogramm „Nachhaltigkeit 
+konkret im Verwaltungshandeln umsetzen“ (Maßnahmenprogramm
+Nachhaltigkeit) beschlossen. Dazugehörige jährliche Monitoringberichte der
+Bundesregierung wurden veröffentlicht, zuletzt für das Berichtsjahr 2023 (www.bund
+esregierung.de/resource/blob/992814/2348512/84fb805519ce5d426b78648a6c
+ed80b7/2025-04-23-monitoringbericht-2023-nachhaltigkeit-data.pdf?downlo
+ad=1).
+Weiterhin gibt es eine Green-IT-Initiative des Bundes, die vom IT-Rat und 
+dem CIO (Chief Information Officer)-Board der Bundesregierung gesteuert 
+wird. Ihr Ziel ist die Umsetzung der über 70 Maßnahmen der
+umweltpolitischen Digitalagenda von 2020 (www.bundesumweltministerium.de/themen/di
+gitalisierung/green-it-initiative/ueberblick-green-it-initiative). Hierzu sollte es 
+laut Antwort der Bundesregierung auf die Kleine Anfrage auf
+Bundestagsdrucksache 20/15028 im Jahr 2025 eine Gesamtüberprüfung geben.
+Daneben hat sich beim IT-Planungsrat als zentrales politisches
+Steuerungsgremium zwischen Bund und Ländern im Oktober 2019 eine
+Koordinierungsgruppe Green-IT gegründet (www.it-planungsrat.de/beschluss/beschluss-201
+9-63).
+Zudem gibt es eine Kompetenzstelle Nachhaltige Beschaffung beim
+Bundesministerium des Innern (BMI), die wiederum eigene Leitfäden herausgibt, 
+u. a. für die Produktgruppe Informations- und Kommunikationstechnik (www.
+nachhaltige-beschaffung.info/SharedDocs/Produktgruppenblaetter/PGBL_IT/
+PGB_IT.html?nn=5144814). Nach Ansicht der Fragestellenden lässt diese 
+Organisationsstruktur Zweifel daran aufkommen, ob überhaupt eine
+organisierte und abgestimmte Green-IT-Strategie der Bundesregierung existiert.
+Die vorliegende Kleine Anfrage zielt vor diesem Hintergrund darauf ab, den 
+aktuellen Status-quo der Nachhaltigkeit der RZ des Bundes mit Blick auf ihre 
+Klimawirkung zu erheben sowie eine Fortschrittsbewertung im Vergleich zu 
+den bisherigen Kleinen Anfragen auf Bundestagsdrucksache 20/15028 vom 
+Januar 2025, auf Bundestagsdrucksache 20/9667 vom November 2023, auf 
+Bundestagsdrucksache 20/3619 vom August 2022 und auf
+Bundestagsdrucksache 19/31210 vom Mai 2021 zu ermöglichen, sowohl in Bezug auf das
+Vorhandensein von Daten relevanter Messgrößen als auch in Bezug auf das bisher 
+niedrige Niveau der Nachhaltigkeit.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Eine detailliertere Aufschlüsselung als nachfolgend vorgenommen würde 
+Rückschlüsse auf kritische Infrastruktur zulassen und so gezielte Angriffe auf 
+einzelne Teile der Bundesregierung vereinfachen. Deshalb werden an einigen 
+Stellen Antworten so gewählt, dass kein Rückschluss auf den Ort des
+Rechenzentrums möglich ist. An einigen Stellen war deshalb keine Antwort möglich. 
+Eine Beantwortung würde außerdem Informationen über die technische
+Ausstattung preisgeben, die für fremde Nachrichtendienste von erheblichem
+Interesse sind. Dies würde die Gefahr von Cyberspionage-Aktivitäten gegen
+staatliche Einrichtungen deutlich erhöhen.
+Eine VS-Einstufung und Hinterlegung der angefragten Informationen in der 
+Geheimschutzstelle des Deutschen Bundestages würde ihrer erheblichen
+Brisanz im Hinblick auf die Aufgabenerfüllung der Behörden des Bundes nicht 
+ausreichend Rechnung tragen, weil insoweit auch ein geringfügiges Risiko des 
+Bekanntwerdens unter keinen Umständen hingenommen werden kann (vgl. 
+BVerfGE 124, 78 [139]).
+Zudem wird auf die nachfolgenden Bearbeitungshinweise verwiesen:
+1. Um den Begriff Rechenzentrum von kleineren IT-Installationen, wie
+einzelnen Serverschränken etc., abzugrenzen und eine Vergleichbarkeit zu
+ermöglichen, wird für die Antwort festgelegt, dass die hier genannten
+Rechenzentren über eine IT-Anschlussleistung von mind. 100 kW verfügen. IT-
+Installationen unterhalb dieser Schwelle wurden nicht in die Antwort
+aufgenommen. Auch Rechenzentren, die geheim oder eingestuft sind, wurden für die 
+Beantwortung ausgeschlossen.
+2. Da die Fachaufsicht über das ITZBund zurzeit auf BMF und BMDS
+aufgeteilt ist, ist eine eindeutige Zuordnung im Geschäftsbereich nicht möglich. 
+Das ITZBund wird daher in den Übersichten als eigene Einheit aufgeführt.
+ 1. Wie viele Rechenzentren (RZ) nutzt die Bundesregierung Stand Februar 
+2026 (bitte RZ nach der Definition entsprechend der Antwort zu Frage 8 
+auf Bundestagsdrucksache 20/9667 berücksichtigen und ausdrücklich 
+auch alle RZ im Geschäftsbereich des BMI einschließlich RZ zum
+Betrieb der Netze des Bundes und des Digitalfunks angeben, wie bereits in 
+der Antwort zu Frage 5a auf Bundestagsdrucksache 20/3619)?
+a) Wie hat sich die Anzahl der RZ im Laufe der letzten zwei Jahre 
+(2024, 2025) verändert (die in den Antworten auf die gleichlautende 
+Frage 1a der Kleinen Anfragen auf Bundestagsdrucksache 20/14543, 
+der Antwort zu Frage 8 auf Bundestagsdrucksache 20/9667 und der 
+Antwort zu Frage 5 auf Bundestagsdrucksache 20/3619 nicht
+enthaltenen RZ für die Netze des Bundes bitte miterfassen)?
+Die Fragen 1 und 1a werden gemeinsam beantwortet.
+Die Bundesregierung nutzt aktuell 167 Rechenzentren (Stand: April 2026). 
+Eine Gesamtaufstellung ist der Anlage 1 zu entnehmen.*
+Jahr Anzahl der Rechenzentren
+2024 157
+2025 160
+2026 (April) 157
+* Von einer Drucklegung der Anlage wird abgesehen. Diese ist auf Bundestagsdrucksache 21/5725 auf der Internetseite des Deutschen Bundestages abrufbar.
+b) Wie viele der aktuell genutzten RZ werden im Eigenbetrieb genutzt?
+Derzeit werden 141 Rechenzentren in Eigenbetrieb (Stand: April 2026) genutzt. 
+Eine Gesamtaufstellung ist der Anlage 1 zu entnehmen.*
+c) Wer betreibt die aktuell genutzten RZ, die nicht im Eigenbetrieb 
+stehen?
+Eine Übersicht über die Betreiber der RZ, die nicht im Eigenbetrieb stehen sind 
+der Anlage 1 zu entnehmen.* Zum Schutz der Rechenzentren wird bei
+Rechenzentren im Betrieb von privaten Betreibern auf die Nennung des genauen
+Anbieters verzichtet.
+d) Wie viele RZ sollen in den Jahren 2026, 2027, 2028 und 2029 genutzt 
+werden (bitte entsprechend der Zählweise in Frage 1 jeweils für jedes 
+Bundesministerium und das Bundeskanzleramt sowie deren
+nachgeordneten Behörden und alle nicht zugeordneten Geschäftsbereiche 
+eine jeweils geplante Gesamtzahl für die Anzahl RZ in den genannten 
+Jahren angeben)?
+Ressorts, bei denen der Wert 0 angegeben ist, verfügen entweder nur über
+kleine IT-Installationen unterhalb von 100 kW Leistung oder sind im Rahmen der 
+IT-Konsolidierung vollständig in die IT des ITZBundes integriert.
+2026 2027 2028 2029
+AA 2 2 2 1
+BKAmt 0 0 0 0
+BKM 0 0 0 0
+BMAS 1 1 1 1
+BMDS 0 0 0 0
+BMF 2 2 2 0
+BMFTR 3 3 3 3
+BMFSFJ 0 0 0 0
+BMG 7 7 7 7
+BMI 81 81 81 81
+BMJV 4 4 3 3
+BMLEH 12 11 11 11
+BMUKN 0 0 0 0
+BMV 15 15 15 15
+BMVg 6 6 7 4
+BMWE 12 11 11 11
+BMWSB 2 2 2 2
+BMZ 0 0 0 0
+BPA 2 2 2 2
+ITZBund 12 12 11 10
+ 2. Welche der in Frage 1 erfragten RZ erfüllen jeweils welche Kriterien des 
+Blauen Engels für RZ (DE-UZ (Deutschland – Umweltzeichen) 228; 
+Vergabekriterien unter https://produktinfo.blauer-engel.de/uploads/criteri
+afile/de/211/DE-UZ-228-202301-de-Kriterien-V3.pdf)?
+* Von einer Drucklegung der Anlage wird abgesehen. Diese ist auf Bundestagsdrucksache 21/5725 auf der Internetseite des Deutschen Bundestages abrufbar.
+a) Für welche neuen RZ des Bundes, deren Aufbau seit
+Veröffentlichung der Umweltpolitischen Digitalagenda im März 2020 begann 
+oder deren Aufbau seitdem geplant wurde (vgl. Frage 1), werden
+entsprechend dieser Digitalagenda die Kriterien des Blauen Engels ganz 
+oder teilweise angewendet und für welche nicht (bitte auch angeben, 
+welche Kriterien des Blauen Engels erfüllt werden bzw. künftig
+erfüllt werden und welche nicht; Master-RZ bitte als solche
+markieren)?
+b) Falls die Kriterien des Blauen Engels nur teilweise oder gar nicht
+berücksichtigt wurden oder werden, bitte begründen, warum jeweils 
+nicht?
+Die Fragen 2 bis 2b werden gemeinsam beantwortet.
+Die Antworten zu den Fragen finden sich in Anlage 2.* Da bei einer
+kompletten Aufstellung, welche Kriterien des Blauen Engels für Rechenzentren erfüllt 
+oder nicht erfüllt ist, Rückschlüsse auf den Ort des jeweiligen Rechenzentrums 
+möglich sind, kann dies nicht in diesem Umfang beantwortet werden (Siehe 
+auch die Vorbemerkung der Bundesregierung). Stattdessen wird beantwortet, 
+ob das jeweilige Rechenzentrum alle Kriterien erfüllt oder nicht.
+c) Wird die Bundesregierung diese Kriterien als Förderkriterium in
+Projekten in öffentlich-privater Partnerschaft verbindlich machen?
+In der Bundesregierung gibt es zurzeit keine Pläne, die Kriterien des Blauen 
+Engels als Förderkriterium in Projekten in öffentlich-privater Partnerschaft
+verbindlich machen. Den Ressorts steht es aber frei, dies in eigener Verantwortung 
+zu machen, was auch von den Ressorts zum Teil genutzt wird.
+ 3. Was ist der Stand des Aufbaus des Masterrechenzentrums in Berlin?
+a) Kann das Masterrechenzentrum Berlin wie geplant im März 2026 
+produktiv gesetzt werden?
+b) Wenn nein, wann rechnet die Bundesregierung mit diesem Schritt?
+Die Fragen 3 bis 3b werden gemeinsam beantwortet.
+Ja, das Rechenzentrum befindet sich in der aktiven Inbetriebnahme. Erste
+produktive Systeme sind bereits in Betrieb.
+c) Was ist der Status der Umsetzung des Maßnahmenprogramms zur 
+Umsetzung der Blauer-Engel-Kriterien in den Haupt-RZ, das laut
+Antwort der Bundesregierung vom 20. Februar 2025 auf die Kleine
+Anfrage auf Bundestagsdrucksache 20/15028 weiterverfolgt werden
+sollte?
+Zu hier erfragten Zertifizierungen in Haupt-RZ mit dem Blauem Engel können 
+aufgrund von Sicherheitsbedenken und möglichen Rückschlüssen auf Standorte 
+der Rechenzentren keine Angaben gemacht werden. Für die bestehenden
+Master-Rechenzentren ist eine Zertifizierung nach Blauer Engel nicht wirtschaftlich 
+umsetzbar. Stattdessen wird in 2026 in einigen Masterrechenzentren eine
+Zertifizierung nach „DIN CLC/TS 50600-5-1 VDE V 0801-600-5-1:2023-12 
+Informationstechnik – Einrichtungen und Infrastrukturen von Rechenzentren“ 
+unter Einhaltung des Reifegrad 3 angestrebt.
+* Von einer Drucklegung der Anlage wird abgesehen. Diese ist auf Bundestagsdrucksache 21/5725 auf der Internetseite des Deutschen Bundestages abrufbar.
+ 4. Wie ist der Stand der Umstellung aller RZ des Bundes auf Nutzung
+erneuerbarer Energien?
+Der aktuelle Stand der Umstellung der RZ des Bundes auf Nutzung
+erneuerbarer Energien ist der Anlage 3 zu entnehmen.*
+a) Wie hoch war der Gesamtenergieverbrauch bei jedem der in Frage 1 
+erfragten RZ in den Kalenderjahren 2024 und 2025 in kWh?
+Auf die Vorbemerkung wird verwiesen. Aus Sicherheitsgründen kann der
+Gesamtenergieverbrauch der in der Antwort berücksichtigen Rechenzentren nicht 
+angegeben werden.
+b) Wie hoch war dabei der Anteil erneuerbarer Energien in Prozent in 
+den Jahren 2024 und 2025?
+Der Anteil erneuerbarer Energien in Prozent in 2024 und in 2025 sind der
+Anlage 3 zu entnehmen.*
+c) Wurde die im Maßnahmenprogramm Nachhaltigkeit von 2021
+festgelegte Umstellung aller Bundesliegenschaften auf 100 Prozent
+Ökostrom bis Ende 2024 auch für alle der in Frage 1 erfragten RZ des 
+Bundes erreicht?
+Nein.
+d) Wenn nein, bis wann sollen wirklich alle RZ des Bundes mit 100
+Prozent Ökostrom versorgt sein?
+Es gibt bisher kein klares Datum, bis sicher alle RZ des Bundes mit 100
+Prozent Ökostrom versorgt sein werden.
+e) Welche der in der Antwort zu Frage 1 genannten Rechenzentren
+werden derzeit zu 100 Prozent mit erneuerbaren Energien betrieben?
+Die Antwort ist Anlage 3 zu entnehmen.*
+ 5. Welche Kältemittel werden aktuell in den in Frage 1 erfragten RZ jeweils 
+genutzt, und wie klimaschädlich sind sie (bitte die genaue Substanz und 
+die Beurteilung ihrer Klimaschädlichkeit angeben)?
+a) Wann ist eine Umrüstung der RZ, die klimaschädliche Kältemittel 
+nutzen, auf welche klimafreundlicheren Kältemittel jeweils geplant?
+b) Wenn keine Umrüstung geplant ist, bitte jeweils angeben, warum 
+nicht?
+Die Fragen 5 bis 5b werden gemeinsam beantwortet.
+Die Antworten sind der Anlage 4 zu entnehmen.*
+ 6. Bei welchen der in Frage 1 erfragten RZ erfolgt eine Nutzung ihrer
+Abwärme?
+a) Wenn Abwärme genutzt wird, welcher Anteil Abwärme wird für 
+welche Art der Nachnutzung verwendet (bitte je RZ angeben)?
+* Von einer Drucklegung der Anlage wird abgesehen. Diese ist auf Bundestagsdrucksache 21/5725 auf der Internetseite des Deutschen Bundestages abrufbar.
+b) Bei welchen RZ gibt es Daten zum Energy Reuse Factor (ERF), und 
+was ist der jeweilige Wert (bitte je RZ angeben)?
+c) Bei welchen RZ ist eine Umstellung auf Nutzung der Abwärme bis 
+wann und auf welche Weise geplant?
+Die Fragen 6 bis 6c werden gemeinsam beantwortet.
+Die Antworten sind der Anlage 5 zu entnehmen.*
+ 7. In welcher Form sind Nachhaltigkeitskriterien Bestandteil bestehender 
+Verträge zur Erbringung von RZ-Dienstleistungen im Auftrag des
+Bundes?
+a) Welchen Grad der Verbindlichkeit haben diese Kriterien (hier bitte 
+für jedes in Frage 1 erfragte RZ, das sich nicht im Eigenbetrieb
+befindet, eine konkrete Angabe machen)?
+b) Sind insbesondere die folgenden Kriterien Teil solcher Verträge: (I) 
+Nutzung erneuerbarer Energien für den Betrieb des RZ, (II) Einsatz 
+klimafreundlicher Kältemittel, (III) Mindesteffizienzkriterien
+(beispielsweise PUE-Wert), (IV) Abwärmenutzung?
+Die Fragen 7 bis 7b werden gemeinsam beantwortet.
+Die Antworten sind der Anlage 6 zu entnehmen.* Dabei werden nur
+Rechenzentren aus Frage 1 betrachtet, die sich nicht im Eigenbetrieb befinden.
+ 8. Hält die Bundesregierung an dem in § 15 des Klimaschutzgesetzes
+festgeschriebenen Ziel, sich selbst bis 2030 klimaneutral zu organisieren, 
+fest, oder plant sie Initiativen zur Aufweichung dieses Ziels, und wenn 
+ja, welche?
+Der § 15 Absatz 1 Satz 1 KSG entsprechend verfolgt der Bund weiterhin das 
+Ziel, die Bundesverwaltung bis zum Jahr 2030 klimaneutral zu organisieren. 
+Hierzu wurden bereits verschiedene Maßnahmen ergriffen. Eine Übersicht mit 
+den wichtigsten Maßnahmen lässt sich der „Roadmap klima- und
+treibhausgasneutral organisierte Bundesverwaltung“ entnehmen (www.klimaneutraleverwal
+tung.de). Aktuell erarbeitet die Bundesregierung außerdem ein
+Maßnahmenpaket gemäß § 15 Absatz 1 Satz 2 KSG.
+ 9. Bezieht sich das Ziel der Klimaneutralität der RZ des Bundes bis 2030 
+laut § 15 des Klimaschutzgesetzes aus Sicht der Bundesregierung
+konkret
+a) nur auf die Klimaneutralität des für den Betrieb der RZ
+erforderlichen Stroms,
+b) auch auf die Herstellung der eingesetzten Hardware und
+Netzwerktechnik,
+c) auch auf den Bau und Betrieb des Gebäudes,
+d) auch auf sonstige im Zusammenhang mit der Entstehung, Wartung 
+und dem Betrieb der RZ entstehende Treibhauseffekte und wenn ja, 
+auf welche konkret?
+Aufgrund des inhaltlichen Zusammenhangs werden die Fragen 9a bis 9d
+gemeinsam beantwortet.
+* Von einer Drucklegung der Anlage wird abgesehen. Diese ist auf Bundestagsdrucksache 21/5725 auf der Internetseite des Deutschen Bundestages abrufbar.
+Das Ziel nach § 15 Absatz 1 KSG richtet sich auf die Organisation der
+Bundesverwaltung. Mit „Organisation“ im Sinne der Vorschrift ist die interne
+Organisation des Dienstbetriebs gemeint. Laut Gesetzesbegründung umfasst dies den 
+Umgang mit Vermögen, Ausstattung, Personal und Sachmitteln einschließlich 
+der Beschaffung von Fremdleistung, solange diese der eigenen Nutzung dienen. 
+Nicht umfasst ist hingegen die Wahrnehmung von Aufgaben gegenüber Dritten 
+(Bundestagsdrucksache 19/14337, S. 38).
+10. Was ist der Stand des RZ-Registers?
+a) Wann plant die Bundesregierung, das Portal des
+Rechenzentrumsregisters öffentlich verfügbar zu machen, auf dem die
+Energieeffizienzdaten von Rechenzentren gemäß § 13 EnEfG veröffentlicht werden 
+können?
+Die Fragen 10 und 10a werden gemeinsam beantwortet.
+Die Bereitstellung des Portals zur Veröffentlichung von Daten wird zeitnah
+erfolgen.
+b) Wie viele Rechenzentren haben bisher Effizienzdaten gemäß § 13 
+EnEfG auf anderem Wege veröffentlicht?
+Hierzu liegen der Bundesregierung keine Informationen vor.
+c) Sind alle mutmaßlich dazu verpflichteten RZ ihrer Meldepflicht zum 
+letzten Stichtag am 31. März 2025 bzw. 1. Juli 2025 (RZ mit einer 
+Nennanschlussleistung von 300 bis 500 kW) nachgekommen?
+Hierzu liegen der Bundesregierung keine Informationen vor.
+d) Wie wird geprüft, ob meldepflichtige RZ tatsächlich gemeldet wurden, 
+und welche Art von Mahnungen oder Sanktionen wurden bisher in 
+welcher Anzahl veranlasst?
+Die vorliegenden Meldungen werden mit öffentlich verfügbaren Informationen 
+sowie Vorjahresdaten aus dem RZReg abgeglichen. Im Fall von Diskrepanzen 
+werden Anhörungsschreiben an die Betreiber verschickt, um den Sachverhalt 
+aufzuklären. Dies ist bislang in sechs Fällen erfolgt. Fünf dieser Verfahren
+wurden mittlerweile abgeschlossen oder eingestellt. Im Falle vorliegender
+Ordnungswidrigkeiten werden Geldbußen gemäß § 19 Absatz 1 Nummer 6 i. V. m. 
+§ 19 Absatz 2 verhängt.
+e) Wie viele Meldungen hat das Bundesamt für Ausfuhrkontrolle von
+Betreibern erhalten, deren letztendliche Muttergesellschaft ihren Sitz 
+außerhalb der EU hat (bitte nach USA und sonstigen Drittländern
+aufschlüsseln)?
+Hierzu liegen dem BAFA keine Informationen vor.
+f) Wie viele Bußgeldverfahren gemäß § 19 EnEfG wurden bereits
+eröffnet (bitte gemäß der zugrunde liegenden Vorschrift und bei
+Bußgeldern gemäß §§ 11 und 13 gemäß der Größe der Rechenzentren
+(installierte Leistung: <500 kW, 500 bis 1 000 kW, 1 bis 2MW, 2 bis 10 MW, 
+>10 MW) aufschlüsseln)?
+Siehe Antwort zu Frage 10d.
+11. Wie viele der in Frage 1 erfragten RZ des Bundes beteiligen sich Stand 
+Dezember 2025 mit ihren Daten am RZ-Register?
+Stand Dezember 2025 beteiligen sich 7 der in Frage 1 genannten
+Rechenzentren mit ihren Daten am RZ-Register.
+a) Wie viele dieser im Register erfassten RZ beteiligen sich daran
+aufgrund rechtlicher Verpflichtung (über 300 kW nicht redundante
+Nennleistung), und wie viele freiwillig?
+Vier Rechenzentren davon geben an, die Beteiligung erfolgt aufgrund von 
+rechtlichen Verpflichtungen. Bei den restlichen drei Rechenzentren liegt diese 
+Information nicht vor.
+b) Beabsichtigt die Bundesregierung eine interne Verpflichtung zur
+Beteiligung der RZ des Bundes (mit und ohne Eigenbetrieb) am
+Energieeffizienzregister, die über das gesetzliche Mindestmaß hinausgeht, und 
+wenn ja, welche RZ sollen dann erfasst werden?
+Zurzeit ist dies nicht beabsichtigt.
+12. Wie hat sich die Abwärmenutzung von RZ entwickelt?
+a) Mit welchen Maßnahmen stellt die Bundesregierung sicher, dass
+Unternehmen über ihre Meldepflicht und laufende Fristen bezüglich 
+Abwärme gemäß § 17 Absatz 2 EnEfG in Kenntnis sind und diese 
+einhalten?
+Die Fragen 12 und 12a werden gemeinsam beantwortet.
+BMWE und BAFA stellen die Information der betroffenen Unternehmen unter 
+anderem durch Webinare, Merkblätter, die schriftliche und telefonische
+Beantwortung von Anfragen sowie die Präsenz auf Fachtagungen sicher. Zur
+Rechtsdurchsetzung bei Nichteinhaltung erfolgt gegebenenfalls die Verhängung von 
+Geldbußen gemäß § 19 Absatz 1 Nummer 8 f. EnEfG.
+b) Wie oft wurde die Auskunftspflicht für mögliche Abwärmenutzung 
+gemäß § 17 Absatz 1 bereits von RZ des Bundes in Anspruch
+genommen und mit jeweils welchem Ergebnis?
+Die Auskunftspflicht wurde bisher noch nicht genutzt.
+c) Hat die Bundesregierung Maßnahmen ergriffen oder geplant, um die 
+Abnahme von Abwärme durch Liegenschaften des Bundes oder von 
+Unternehmen mit Beteiligung des Bundes zu fördern, und wenn ja, 
+welche?
+Die Bundesanstalt für Immobilienaufgaben (BImA) plant Maßnahmen der
+Abwärmenutzung in drei Rechenzentren. Außerdem plant das BMUKN
+Maßnahmen zur Steigerung der Abwärmenutzung in einem ihrer Rechenzentren.
+13. Wie ist der Stand der Gesamtüberprüfung des Maßnahmenprogramms 
+Nachhaltigkeit, die laut Antwort der Bundesregierung zu Frage 14c der 
+Kleinen Anfrage auf Bundestagsdrucksache 20/15028 für 2025
+vorgesehen war?
+15. Hält die aktuelle Bundesregierung an dem Maßnahmenprogramm
+Nachhaltigkeit fest, und plant sie, dieses fortzuschreiben (wenn nein, bitte
+begründen)?
+Die Fragen 13 und 15 werden zusammen beantwortet.
+Das Maßnahmenprogramm Nachhaltigkeit behält seine Gültigkeit. Dessen
+Gesamtüberprüfung und Fortschreibung sind weiterhin vorgesehen.
+14. Inwiefern wurden und werden folgende im Maßnahmenprogramm
+Nachhaltigkeit, zuletzt aktualisiert im August 2021 (www.bundesregierun
+g.de/resource/blob/2196306/1953740/ebd13260efc4a78665ced24a90281
+6d4/2021-08-25-massnahmenprogramm-nachhaltigkeit-2021-data.pdf) 
+erwähnte Vorgaben von der Bundesregierung seit Januar 2025 in der
+Praxis tatsächlich umgesetzt:
+a) „In Zukunft zu planende Rechenzentren (Neubau) sind gemäß den 
+Anforderungen der Blauer Engel Kriterien DE-UZ 161 zu
+konzipieren“?
+b) „Wird externe Rechenzentrumsleistung beauftragt (beispielsweise 
+Web-Hosting, Server Hosting, Online Datenspeicherung) müssen 
+ebenfalls die entsprechenden Kriterien des Blauen Engels für
+Rechenzentren eingehalten werden“?
+c) „Wird Rechenzentrumsfläche bei einem Co-Location-
+Rechenzentrum gemietet, müssen die Kriterien des Blauen Engel für Co-
+Location-Rechenzentren (DE-UZ 214) eingehalten werden“?
+Die Fragen 14 bis 14c werden zusammen beantwortet.
+Ein regelmäßiges Monitoring zu den genannten Punkten findet derzeit nicht 
+statt, daher ist kurzfristig eine vollständige Zusammenstellung der Daten nicht 
+möglich.
+Als Orientierung für die Optimierung der Energie- und Ressourceneffizienz in 
+Rechenzentren sollten grundsätzlich die aktualisierten Kriterien des Blauen
+Engels für einen energieeffizienten Rechenzentrumsbetrieb (DE-ZU 228)
+herangezogen werden.
+16. Was ist der Stand der Anwendung des überarbeiteten Berichtswesens 
+Green IT nach Beschluss des CIO-Boards?
+a) Welche Ergebnisse ergab das bisherige Monitoring durch die Green-
+IT-Initiative, das nach Angaben der Bundesregierung in ihrer
+Antwort zu Frage 15d der Kleinen Anfrage auf Bundestagsdrucksache 
+20/15028 im Jahr 2025 (für das Berichtsjahr 2024) erstmals auf einer 
+aufschlussreicheren Datenbasis durchgeführt werden sollte?
+Die Fragen 16 und 16a werden gemeinsam beantwortet.
+Das Monitoring wurde im Jahr 2025 (Berichtsjahr 2024) erstmals auf einer
+erweiterten und strukturierten Datenbasis durchgeführt. Die finale Auswertung 
+der Ergebnisse ist noch nicht abgeschlossen.
+b) Welche Verbindlichkeit ergibt sich aus dem Monitoring der
+Nachhaltigkeit der Bundes-IT für das Handeln der Bundesregierung?
+Aus den Ergebnissen des Monitorings lassen sich Handlungsempfehlungen
+ableiten, mit denen die Behörden der Bundesverwaltung bei der Umsetzung der 
+Nachhaltigkeit ihrer IT unterstützt werden, die aber nicht verbindlich sind.
+c) Sind die Kennzahlen in 2025 erhoben worden, wie in der Antwort zu 
+Frage 15a der Kleinen Anfrage auf Bundestagsdrucksache 20/15028 
+angekündigt (wenn dies nicht oder nur teilweise geschehen ist, bitte 
+begründen)?
+Die Kennzahlen wurden im Jahr 2025 für das Berichtsjahr 2024 erhoben. Die 
+Kennzahlen für das Berichtsjahr 2025 werden aktuell erhoben.
+d) Wann plant die Bundesregierung die Veröffentlichung der Kennzahlen 
+aus 2025 auf der Webseite der Green-IT-Initiative, wie in der Antwort 
+zu Frage 15a der Kleinen Anfrage auf Bundestagsdrucksache 
+20/15028 angekündigt?
+Die Auswertung der Kennzahlen ist noch nicht abgeschlossen (Stand: 31. März 
+2026). Eine Veröffentlichung ist noch im Jahr 2026 geplant.
+e) Hat die Bundesregierung das Tool zur Erhebung dieser Kennzahlen in 
+2025 bereitgestellt (bitte Zeitpunkt nennen), wie in der Antwort zu 
+Frage 15c der Kleinen Anfrage auf Bundestagsdrucksache 20/15028 
+angekündigt?
+Das Tool zur Erhebung der Kennzahlen konnte noch nicht für das Berichtsjahr 
+2025 zur Verfügung gestellt werden.
+f) Ist der Quellcode des Tools wie geplant veröffentlicht worden?
+Der Quellcode ist noch nicht veröffentlicht worden, da das Tool noch nicht zur 
+Verfügung steht.
+g) Wenn dies nicht erfolgt ist, für wann ist die Bereitstellung geplant, 
+oder warum ist sie ggf. nicht mehr geplant?
+Die Bereitstellung des Tools ist für das Berichtsjahr 2026 geplant.
+17. Plant die Bundesregierung, weiterhin Berichte über den
+Gesamtenergieverbrauch der Bundes-IT zu veröffentlichen, wie es bis 2024 jeweils für 
+das Vorjahr erfolgt ist (zuletzt für 2023 unter www.bundesumweltministe
+rium.de/fileadmin/Daten_BMU/Download_PDF/Digitalisierung/green_i
+t_berichtswesen_2023_bf.pdf)?
+a) Wenn ja, wo ist der Bericht für 2024 und 2025 veröffentlicht, oder 
+wann plant die Bundesregierung die Veröffentlichung?
+b) Wenn nein, warum nicht?
+Die Fragen 17 bis 17b werden gemeinsam beantwortet.
+Der Bericht für 2024 und 2025 ist noch nicht veröffentlicht, da die Auswertung 
+für das Berichtsjahr 2024 noch nicht abgeschlossen ist und die Erhebung für 
+2025 derzeit noch läuft. Die Veröffentlichung für das Berichtsjahr 2024 ist noch 
+im Jahr 2026 geplant. Die Veröffentlichung für das Berichtsjahr 2025 ist nach 
+Abschluss der Erhebung und Auswertung geplant (voraussichtlich Ende 2026/
+Anfang 2027).
+c) Mit welchen konkreten Maßnahmen versucht die Bundesregierung, 
+den Gesamtenergieverbrauch durch die Bundes-IT zu senken, auch 
+über die Steigerung der Energieeffizienz von RZ des Bundes hinaus?
+Neben der Steigerung der Energieeffizienz der Rechenzentren hat sich die 
+Green-IT-Initiative den Einsatz umweltverträglicher IT-Produkte und
+Dienstleistungen zum Ziel gesetzt. Im Rahmen der Gestaltung von Ausschreibungen 
+entsprechender Produkte haben bereits Abstimmungen unter Einbeziehung der 
+relevanten Behörden (u. a. Beschaffungsamt des BMI, BSI, BMUKN, UBA) 
+stattgefunden. Zudem wurde ein nachhaltiges Ausstattungskonzept für IT-
+Arbeitsplätze erarbeitet, das als Handlungsempfehlung für die Ressorts dienen 
+soll. Das Ausstattungskonzept wird bei Bedarf auf Potenzial für zusätzliche
+Erweiterungen hin bewertet.
+Weitere Maßnahmen zur Optimierung des IT-Betriebs, unter anderem im
+Themenbereich nachhaltige Software, sowie zur Sensibilisierung der Nutzerinnen 
+und Nutzer befinden sich derzeit in der Vorbereitung.
+18. Wie bewertet die Bundesregierung die Ergebnisse der Umfrage
+„Rechenzentren & Ressourcenverbrauch“ (https://algorithmwatch.org/de/wp-cont
+ent/uploads/2025/10/251027_AW_ORG_FinalReport_Deutschland_DE-
+1.pdf), nach der
+a) mehr als die Hälfte der Befragten in Deutschland sich im
+Zusammenhang mit Rechenzentren Sorgen um ihre Wasserversorgung und
+umliegende Ökosysteme machen und
+b) rund zwei Drittel der Befragten der Maßnahme zustimmen würden, 
+dass Rechenzentren nur gebaut werden sollten, wenn zu diesem 
+Zweck neue erneuerbare Energiequellen geschaffen werden?
+Die Bundesregierung nimmt die Ergebnisse zur Kenntnis. In diesem Kontext 
+weist die Bundesregierung auf die aktuellen Regelungen im
+Energieeffizienzgesetz hin, die Rechenzentren ab 2027 dazu verpflichten, ihre Stromversorgung 
+zu 100 Prozent aus erneuerbaren Energien zu decken. Diese Vorgabe sollte 
+zwangsläufig zu einer steigenden Nachfrage nach erneuerbaren Energien
+führen und damit den Ausbau von erneuerbaren Energien fördern.
+19. Welche Schlüsse und konkreten Maßnahmen leitet die Bundesregierung 
+aus diesen Ergebnissen ab?
+Die Bundesregierung wird auch dies bei der Umsetzung der
+Rechenzentrumsstrategie und der nächsten Aktualisierung der Rechenzentrumsstrategie
+berücksichtigen.
+20. Auf welcher Faktengrundlage, wie z. B. Evaluationsergebnisse oder
+wissenschaftlichen Erkenntnisse, ist die Bundesregierung zu der
+Einschätzung gelangt, dass Vorgaben bei Energieeffizienz und Abwärmenutzung 
+für Rechenzentren gelockert werden sollten, wie es in dem geleakten 
+Referentenentwurf für die Novelle des EnEfG zu lesen ist?
+Die Bundesregierung kommentiert grundsätzlich keine „geleakten“
+Gesetzentwürfe.
+21. Welche Bedarfsplanungen legt die Bundesregierung der derzeit in der
+Erarbeitung befindlichen Rechenzentrumsstrategie zugrunde?
+Die Rechenzentrumsstrategie wurde am 18. März 2026 von der
+Bundesregierung beschlossen. Das dort enthaltene Rechenkapazitätsziel für 2030 orientiert 
+sich wie dort auch dargelegt an aktuellen Prognosen zu KI- und
+Recheninfrastruktur-Bedarfen öffentlicher Studien und Publikationen sowie den aktuellen 
+Wachstums- und Investitionsentwicklungen im Bereich Rechenzentren.
+a) Welche Rechenleistungskapazität in Rechenzentren in Deutschland 
+strebt die Bundesregierung bis 2030 an, und wie quantifiziert sie diese 
+unabhängig vom Stromverbrauch (z. B. in flops)?
+Deutschland strebt bis 2030 eine Verdoppelung der aktuellen
+Rechenleistungskapazitäten an. Gemessen in der IT-Anschlussleistung entspricht das ca. 3 000 
+MW in 2025 und einem Ziel von ca. 6 000 MW in 2030. Die Quantifizierung 
+erfolgt einzig über die IT-Anschlussleistung (Siehe dazu auch Antwort zu 21b)
+b) Hält die Bundesregierung die Anschlussleistung für ein geeignetes 
+Messinstrument für Rechenzentrumskapazitäten, insbesondere vor 
+dem Hintergrund, dass stromsparende Rechenzentren gefördert
+werden sollen und Anschlussleistung keine Aussage über die tatsächliche 
+Rechenleistung treffen kann?
+Die Anschlussleistung hat sich international als die meistgenutzte Kennzahl zur 
+Klassifizierung von Rechenzentren durchgesetzt. Daher hat sich die
+Bundesregierung dazu entschieden, diese Kennzahl neben dem Ziel, dass Investitionen 
+in Rechenkapazität genauso schnell umgesetzt werden können, wie der Bedarf 
+wächst, als Messinstrument für die angestrebten Rechenzentrumskapazitäten in 
+Deutschland zu nutzen.
+Anlage 1, Antwort zur Frage 1 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Stand April 
+2026 existent? 
+(Ja/Nein) 
+2024 
+existent? 
+(Ja/Nein) 
+2025 
+existent? 
+(Ja/Nein) 
+Eigenbetrieb? 
+(Ja/Nein) 
+Betreiber? 2026 
+existent? 
+(Ja/Nein) 
+2027 
+existent? 
+(Ja/Nein) 
+2028 
+existent? 
+(Ja/Nein) 
+2029 
+existent? 
+(Ja/Nein) 
+AA 1 Ja Ja Ja Nein Privater Betreiber Ja Ja Nein Nein 
+AA 2 Ja Ja Ja Ja   Ja Ja Ja Nein 
+AA 3 Nein Nein Nein Ja   Nein Nein Ja Ja 
+BMAS 1 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMF 1 Ja Ja Ja Ja   Ja Ja Ja Nein 
+BMF 2 Ja Ja Ja Ja   Ja Ja Ja Nein 
+BMFTR 1 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMFTR 2 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMFTR 3 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMG 1 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMG 2 Nein Ja Ja Ja   Nein Nein Nein Nein 
+BMG 3 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMG 4 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMG 5 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMG 6 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMG 7 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMG 8 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMG 9 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 1 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 2 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 3 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 4 Ja Ja Ja Nein Privater Betreiber Ja Ja Ja Ja 
+BMI 5 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 6 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 7 Ja Ja Ja Ja   Ja Ja Ja Ja 
+Anlage 1, Antwort zur Frage 1 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Stand April 
+2026 existent? 
+(Ja/Nein) 
+2024 
+existent? 
+(Ja/Nein) 
+2025 
+existent? 
+(Ja/Nein) 
+Eigenbetrieb? 
+(Ja/Nein) 
+Betreiber? 2026 
+existent? 
+(Ja/Nein) 
+2027 
+existent? 
+(Ja/Nein) 
+2028 
+existent? 
+(Ja/Nein) 
+2029 
+existent? 
+(Ja/Nein) 
+BMI 8 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 9 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 10 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 11 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 12 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 13 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 14 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 15 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 16 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 17 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 18 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 19 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 20 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 21 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 22 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 23 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 24 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 25 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 26 Ja Ja Ja Nein Privater Betreiber Ja Ja Ja Ja 
+BMI 27 Ja Ja Ja Nein Privater Betreiber Ja Ja Ja Ja 
+BMI 28 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 29 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 30 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 31 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 32 Ja Ja Ja Ja   Ja Ja Ja Ja 
+Anlage 1, Antwort zur Frage 1 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Stand April 
+2026 existent? 
+(Ja/Nein) 
+2024 
+existent? 
+(Ja/Nein) 
+2025 
+existent? 
+(Ja/Nein) 
+Eigenbetrieb? 
+(Ja/Nein) 
+Betreiber? 2026 
+existent? 
+(Ja/Nein) 
+2027 
+existent? 
+(Ja/Nein) 
+2028 
+existent? 
+(Ja/Nein) 
+2029 
+existent? 
+(Ja/Nein) 
+BMI 33 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 34 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 35 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 36 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 37 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 38 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 39 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 40 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 41 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 42 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 43 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 44 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 45 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 46 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 47 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 48 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 49 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 50 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 51 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 52 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 53 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 54 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 55 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 56 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 57 Ja Ja Ja Ja   Ja Ja Ja Ja 
+Anlage 1, Antwort zur Frage 1 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Stand April 
+2026 existent? 
+(Ja/Nein) 
+2024 
+existent? 
+(Ja/Nein) 
+2025 
+existent? 
+(Ja/Nein) 
+Eigenbetrieb? 
+(Ja/Nein) 
+Betreiber? 2026 
+existent? 
+(Ja/Nein) 
+2027 
+existent? 
+(Ja/Nein) 
+2028 
+existent? 
+(Ja/Nein) 
+2029 
+existent? 
+(Ja/Nein) 
+BMI 58 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 59 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 60 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 61 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 62 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 63 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 64 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 65 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 66 Ja Ja Ja Nein Privater Betreiber Ja Ja Ja Ja 
+BMI 67 Nein Ja Ja Ja   Nein Nein Nein Nein 
+BMI 68 Nein Ja Ja Ja   Nein Nein Nein Nein 
+BMI 69 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 70 Ja Ja Ja Nein ITZBund Ja Ja Ja Ja 
+BMI 71 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 72 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 73 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 74 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 75 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 76 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 77 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 78 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMI 79 Ja Ja Ja Nein ITZBund Ja Ja Ja Ja 
+BMI 80 Nein Nein Nein Ja   Ja Ja Ja Ja 
+BMI 81 Nein Nein Nein Nein BIMA Ja Ja Ja Ja 
+BMI 82 Nein Nein Nein Nein BIMA Ja Ja Ja Ja 
+Anlage 1, Antwort zur Frage 1 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Stand April 
+2026 existent? 
+(Ja/Nein) 
+2024 
+existent? 
+(Ja/Nein) 
+2025 
+existent? 
+(Ja/Nein) 
+Eigenbetrieb? 
+(Ja/Nein) 
+Betreiber? 2026 
+existent? 
+(Ja/Nein) 
+2027 
+existent? 
+(Ja/Nein) 
+2028 
+existent? 
+(Ja/Nein) 
+2029 
+existent? 
+(Ja/Nein) 
+BMI 83 Nein Nein Nein Nein BIMA Ja Ja Ja Ja 
+BMJV 1 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMJV 2 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMJV 3 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMJV 4 Ja Ja Ja Ja   Ja Ja Nein Nein 
+BMLEH 1 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMLEH 2 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMLEH 3 Ja Ja Ja Ja   Ja Nein Nein Nein 
+BMLEH 4 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMLEH 5 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMLEH 6 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMLEH 7 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMLEH 8 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMLEH 9 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMLEH 10 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMLEH 11 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMLEH 12 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMV 1 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMV 2 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMV 3 Nein Ja Ja Nein ITZBund Ja Ja Ja Ja 
+BMV 4 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMV 5 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMV 6 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMV 7 Ja Ja Ja Nein Privater Betreiber Ja Ja Ja Ja 
+BMV 8 Ja Ja Ja Ja   Ja Ja Ja Ja 
+Anlage 1, Antwort zur Frage 1 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Stand April 
+2026 existent? 
+(Ja/Nein) 
+2024 
+existent? 
+(Ja/Nein) 
+2025 
+existent? 
+(Ja/Nein) 
+Eigenbetrieb? 
+(Ja/Nein) 
+Betreiber? 2026 
+existent? 
+(Ja/Nein) 
+2027 
+existent? 
+(Ja/Nein) 
+2028 
+existent? 
+(Ja/Nein) 
+2029 
+existent? 
+(Ja/Nein) 
+BMV 9 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMV 10 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMV 11 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMV 12 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMV 13 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMV 14 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMV 15 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMVg 1 Ja Ja Ja Ja   Ja Ja Ja nein 
+BMVg 2 Ja Ja Ja Ja   Ja Ja Ja nein 
+BMVg 3 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMVg 4 Ja Ja Ja Ja   Ja Ja Ja nein 
+BMVg 5 Ja Ja Ja Nein Privater Betreiber Ja Ja Ja Ja 
+BMVg 6 Ja Nein Ja Nein Privater Betreiber Ja Ja Ja Ja 
+BMVg 7 Nein Nein Nein Nein Privater Betreiber Nein Nein Ja Ja 
+BMWE 1 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMWE 2 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMWE 3 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMWE 4 Ja Nein Ja Ja   Ja Ja Ja Ja 
+BMWE 5 Ja Ja Ja Ja   Ja Nein Nein Nein 
+BMWE 6 Ja Nein Ja Nein ITZBund Ja Ja Ja Ja 
+BMWE 7 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMWE 8 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMWE 9 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMWE 10 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMWE 11 Ja Ja Ja Ja   Ja Ja Ja Ja 
+Anlage 1, Antwort zur Frage 1 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Stand April 
+2026 existent? 
+(Ja/Nein) 
+2024 
+existent? 
+(Ja/Nein) 
+2025 
+existent? 
+(Ja/Nein) 
+Eigenbetrieb? 
+(Ja/Nein) 
+Betreiber? 2026 
+existent? 
+(Ja/Nein) 
+2027 
+existent? 
+(Ja/Nein) 
+2028 
+existent? 
+(Ja/Nein) 
+2029 
+existent? 
+(Ja/Nein) 
+BMWE 12 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMWSB 1 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BMWSB 2 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BPA 1 Ja Ja Ja Ja   Ja Ja Ja Ja 
+BPA 2 Ja Nein Ja Ja   Ja Ja Ja Ja 
+ITZBund 1 Ja Ja Ja Ja ITZBund Ja Ja Nein Nein 
+ITZBund 2 Ja Ja Ja Nein Privater Betreiber Ja Ja Ja Nein 
+ITZBund 3 Ja Ja Ja Nein Privater Betreiber Ja Ja Ja Ja 
+ITZBund 4 Ja Ja Ja Nein Privater Betreiber Ja Ja Ja Ja 
+ITZBund 5 Ja Ja Ja Nein Privater Betreiber Ja Ja Ja Ja 
+ITZBund 6 Ja Ja Ja Nein Privater Betreiber Ja Ja Ja Ja 
+ITZBund 7 Ja Ja Ja Nein Privater Betreiber Ja Ja Ja Ja 
+ITZBund 8 Ja Ja Ja Nein Privater Betreiber Ja Ja Ja Ja 
+ITZBund 9 Ja Nein Nein Nein Privater Betreiber Ja Ja Ja Ja 
+ITZBund 10 Ja Ja Ja Ja ITZBund Ja Ja Ja Ja 
+ITZBund 11 Ja Ja Ja Nein 
+Statistisches 
+Bundesamt Ja Ja Ja Ja 
+ITZBund 12 Ja Ja Ja Nein BVA Ja Ja Ja Ja 
+ 
+Anlage 2, Antwort zur Frage 2 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Alle Kriterien für 
+den Blauen Engel 
+erfüllt? (Alle RZ) 
+(Ja/Nein) 
+Alle Kriterien für den Blauen 
+Engel erfüllt (RZ ab 03/2020)? 
+(Ja/Nein/) 
+Begründung für fehlenden Blauen Engel 
+AA 1 Nein Nein NA 
+AA 2 Nein Nein NA 
+AA 3 Ja Ja NA 
+BMAS 1 Nein RZ vor März 2020 gebaut 
+Die für die Erfüllung der Kriterien des Blauen Engels notwendigen Investitionen sind 
+mit einmaligen und laufenden Kosten verbunden. Diese können im Rahmen der 
+bestehenden Haushaltsplanung und der verfügbaren Mittel nicht immer umgesetzt 
+werden. Unser Rechenzentrum und die IT-Infrastruktur sind über Jahre gewachsen 
+und auf Langlebigkeit sowie Stabilität ausgelegt. Eine grundlegende Modernisierung 
+oder ein Austausch bestehender Systeme ist oft nur schrittweise möglich, da die IT-
+Infrastruktur kontinuierlich verfügbar sein muss, um die Aufgabenerfüllung der 
+Verwaltung zu gewährleisten. Die Umsetzung der Kriterien des Blauen Engels 
+erfordert Planungs-, Umsetzungs- und Dokumentationsprozesse. Diese binden 
+personelle Ressourcen, die bereits durch den laufenden Betrieb und andere 
+gesetzliche oder politische Vorhaben stark ausgelastet sind. 
+BMF 1 Nein Nein Nutzer/kein Halogeenfreies Kältemittel 
+BMF 2 Nein NA NA 
+BMFTR 1 NA Nein NA 
+BMFTR 2 NA Nein NA 
+BMFTR 3 NA Nein NA 
+BMG 1 Nein RZ vor März 2020 gebaut 
+es werden mit jeder Neubeschaffung von Hardware die Kriterien erfüllt, die in den 
+Rahmenverträgen des Bundes enthalten sind 
+BMG 2 NA NA NA 
+BMG 3 Nein RZ vor März 2020 gebaut 
+es werden mit jeder Neubeschaffung von Hardware die Kriterien erfüllt, die in den 
+Rahmenverträgen des Bundes enthalten sind 
+BMG 4 Nein RZ vor März 2020 gebaut es werden mit jeder Neubeschaffung von Hardware die Kriterien erfüllt, die in den 
+Rahmenverträgen des Bundes enthalten sind 
+Anlage 2, Antwort zur Frage 2 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Alle Kriterien für 
+den Blauen Engel 
+erfüllt? (Alle RZ) 
+(Ja/Nein) 
+Alle Kriterien für den Blauen 
+Engel erfüllt (RZ ab 03/2020)? 
+(Ja/Nein/) 
+Begründung für fehlenden Blauen Engel 
+BMG 5 Nein RZ vor März 2020 gebaut es werden mit jeder Neubeschaffung von Hardware die Kriterien erfüllt, die in den 
+Rahmenverträgen des Bundes enthalten sind 
+BMG 6 Nein RZ vor März 2020 gebaut 
+es werden mit jeder Neubeschaffung von Hardware die Kriterien erfüllt, die in den 
+Rahmenverträgen des Bundes enthalten sind 
+BMG 7 Nein RZ vor März 2020 gebaut es werden mit jeder Neubeschaffung von Hardware die Kriterien erfüllt, die in den 
+Rahmenverträgen des Bundes enthalten sind 
+BMG 8 Nein RZ vor März 2020 gebaut es werden mit jeder Neubeschaffung von Hardware die Kriterien erfüllt, die in den 
+Rahmenverträgen des Bundes enthalten sind 
+BMG 9 Nein RZ vor März 2020 gebaut es werden mit jeder Neubeschaffung von Hardware die Kriterien erfüllt, die in den 
+Rahmenverträgen des Bundes enthalten sind 
+BMI 1 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 2 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 3 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 4 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 5 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 6 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 7 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 8 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 9 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 10 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 11 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 12 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 13 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 14 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 15 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 16 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+Anlage 2, Antwort zur Frage 2 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Alle Kriterien für 
+den Blauen Engel 
+erfüllt? (Alle RZ) 
+(Ja/Nein) 
+Alle Kriterien für den Blauen 
+Engel erfüllt (RZ ab 03/2020)? 
+(Ja/Nein/) 
+Begründung für fehlenden Blauen Engel 
+BMI 17 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 18 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 19 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 20 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 21 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 22 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 23 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 24 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 25 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 26 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 27 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 28 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 29 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 30 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 31 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 32 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 33 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 34 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 35 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 36 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 37 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 38 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 39 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 40 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+Anlage 2, Antwort zur Frage 2 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Alle Kriterien für 
+den Blauen Engel 
+erfüllt? (Alle RZ) 
+(Ja/Nein) 
+Alle Kriterien für den Blauen 
+Engel erfüllt (RZ ab 03/2020)? 
+(Ja/Nein/) 
+Begründung für fehlenden Blauen Engel 
+BMI 41 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 42 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 43 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 44 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 45 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 46 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 47 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 48 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 49 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 50 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 51 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 52 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 53 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 54 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 55 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 56 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 57 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 58 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 59 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 60 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 61 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 62 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 63 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 64 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+Anlage 2, Antwort zur Frage 2 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Alle Kriterien für 
+den Blauen Engel 
+erfüllt? (Alle RZ) 
+(Ja/Nein) 
+Alle Kriterien für den Blauen 
+Engel erfüllt (RZ ab 03/2020)? 
+(Ja/Nein/) 
+Begründung für fehlenden Blauen Engel 
+BMI 65 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 66 Nein RZ vor März 2020 gebaut sparsamer Umgang mit Haushaltsmitteln (siehe u.a. § 7 BHO) 
+BMI 67 Nein RZ vor März 2020 gebaut RZ nicht mehr in Betrieb 
+BMI 68 Nein RZ vor März 2020 gebaut RZ nicht mehr in Betrieb 
+BMI 69 Nein RZ vor März 2020 gebaut NA 
+BMI 70 Nein RZ vor März 2020 gebaut 
+RZ befindet sich im Rahmen der IT Konsolidierung im weitgehenden Abbau, neue 
+Komponeten, die alte nicht Green IT Komponenten ersetzen,  werden nicht mehr 
+installiert 
+BMI 71 Nein RZ vor März 2020 gebaut NA 
+BMI 72 Nein RZ vor März 2020 gebaut NA 
+BMI 73 Nein RZ vor März 2020 gebaut NA 
+BMI 74 Nein RZ vor März 2020 gebaut NA 
+BMI 75 Nein RZ vor März 2020 gebaut NA 
+BMI 76 Nein RZ vor März 2020 gebaut NA 
+BMI 77 Nein NA NA 
+BMI 78 Nein RZ vor März 2020 gebaut NA 
+BMI 79 Nein Nein Anmietung ITZBund als einziger möglicher Alternative 
+BMI 80 Nein geplant NA 
+BMI 81 Nein Nein NA 
+BMI 82 Nein Nein NA 
+BMI 83 Nein Nein NA 
+BMJV 1 Nein RZ vor März 2020 gebaut RZ zu alt und nur  
+noch geringe Restnutzdauer. 
+BMJV 2 Nein RZ vor März 2020 gebaut Die bauliche Substanz und die räumliche Situation 
+verhindern eine Zertifizierung nach Blauen Engel Standard. 
+Anlage 2, Antwort zur Frage 2 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Alle Kriterien für 
+den Blauen Engel 
+erfüllt? (Alle RZ) 
+(Ja/Nein) 
+Alle Kriterien für den Blauen 
+Engel erfüllt (RZ ab 03/2020)? 
+(Ja/Nein/) 
+Begründung für fehlenden Blauen Engel 
+BMJV 3 Nein RZ vor März 2020 gebaut 
+Die bauliche Substanz 
+und die räumliche Situation verhindern eine Zertifizierung nach Blauen Engel 
+Standard. 
+BMJV 4 Nein RZ vor März 2020 gebaut War bei der Errichtung noch nicht Standard. 
+BMLEH 1 Nein RZ vor März 2020 gebaut NA 
+BMLEH 2 Nein RZ vor März 2020 gebaut NA 
+BMLEH 3 Nein RZ vor März 2020 gebaut NA 
+BMLEH 4 Nein RZ vor März 2020 gebaut NA 
+BMLEH 5 Nein RZ vor März 2020 gebaut NA 
+BMLEH 6 Nein RZ vor März 2020 gebaut NA 
+BMLEH 7 Nein Nein 
+Gebäude wird von der BImA von privaten Eigentümer für das Nutzerhaus 
+angemietet 
+BMLEH 8 Nein RZ vor März 2020 gebaut bauliche Gegebenheiten 
+BMLEH 9 Nein RZ vor März 2020 gebaut fehlende Ressourcen 
+BMLEH 10 Nein NA Alter 
+BMLEH 11 Nein RZ vor März 2020 gebaut unklare Verantwortlichkeiten 
+BMLEH 12 Nein RZ vor März 2020 gebaut unklare Verantwortlichkeiten 
+BMV 1 NA NA 
+Nutzung Bestandliegenschaften, für die Ertüchtigung der Liegenschaften fehlen 
+personelle und finanzielle Ressourcen. Ein Management System für das Thema 
+Nachhaltigkeit ist im Aufbau befindlich. 
+BMV 2 Nein Nein Aus bautechnischen Gründen ist ein Erreichen der Vorgaben nicht möglich. 
+BMV 3 Ja Ja NA 
+BMV 4 Nein Nein nicht zutreffend 
+BMV 5 Ja NA NA 
+BMV 6 NA NA NA 
+Anlage 2, Antwort zur Frage 2 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Alle Kriterien für 
+den Blauen Engel 
+erfüllt? (Alle RZ) 
+(Ja/Nein) 
+Alle Kriterien für den Blauen 
+Engel erfüllt (RZ ab 03/2020)? 
+(Ja/Nein/) 
+Begründung für fehlenden Blauen Engel 
+BMV 7 Nein Nein NA 
+BMV 8 Nein Nein NA 
+BMV 9 Nein Nein 
+teilweise (Kältemittel, Kalt/Warmgang in RZ2, Klimaanlage, angeschaffte Server nach 
+2020 sind Blauer Engel tauglich)  
+BMV 10 Nein Nein 
+teilweise (Kältemittel, Kalt/Warmgang in RZ2, Klimaanlage, angeschaffte Server nach 
+2020 sind Blauer Engel tauglich)  
+BMV 11 Ja Ja NA 
+BMV 12 Nein Nein NA 
+BMV 13 Nein Nein RZ sind vor 2020 entstanden 
+BMV 14 Nein Nein RZ sind vor 2020 entstanden 
+BMV 15 Nein Nein RZ sind vor 2020 entstanden 
+BMVg 1 Nein RZ vor März 2020 gebaut RZ vor März 2020 gebaut 
+BMVg 2 Nein RZ vor März 2020 gebaut RZ vor März 2020 gebaut 
+BMVg 3 Nein RZ vor März 2020 gebaut RZ vor März 2020 gebaut 
+BMVg 4 Nein RZ vor März 2020 gebaut RZ vor März 2020 gebaut 
+BMVg 5 Nein RZ vor März 2020 gebaut RZ vor März 2020 gebaut 
+BMVg 6 Nein RZ vor März 2020 gebaut RZ vor März 2020 gebaut 
+BMVg 7 Nein Nein Die gesetzlichen Vorgaben werden durch den Betreiber des Rz erfüllt.  
+BMWE 1 Nein NA Depriorisierung wegen Ressourcenengpässen 
+BMWE 2 Nein NA Depriorisierung wegen Ressourcenengpässen 
+BMWE 3 Nein NA Depriorisierung wegen Ressourcenengpässen 
+BMWE 4 Nein NA Depriorisierung wegen Ressourcenengpässen 
+BMWE 5 Nein RZ vor März 2020 gebaut RZ wird außer Betrieb genommen 
+BMWE 6 NA NA NA 
+BMWE 7 Nein RZ vor März 2020 gebaut NA 
+Anlage 2, Antwort zur Frage 2 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Alle Kriterien für 
+den Blauen Engel 
+erfüllt? (Alle RZ) 
+(Ja/Nein) 
+Alle Kriterien für den Blauen 
+Engel erfüllt (RZ ab 03/2020)? 
+(Ja/Nein/) 
+Begründung für fehlenden Blauen Engel 
+BMWE 8 Nein RZ vor März 2020 gebaut hoher Erfüllungsaufwand 
+BMWE 9 Nein RZ vor März 2020 gebaut hoher Erfüllungsaufwand 
+BMWE 10 Nein RZ vor März 2020 gebaut RZ Bau vor 2020 
+BMWE 11 Nein RZ vor März 2020 gebaut zu alt 
+BMWE 12 Nein RZ vor März 2020 gebaut zu alt 
+BMWSB 1 Nein RZ vor März 2020 gebaut NA 
+BMWSB 2 Nein RZ vor März 2020 gebaut NA 
+BPA 1 Nein RZ vor März 2020 gebaut Altbau 
+BPA 2 Nein Nein Altbau 
+ITZBund 1 NA NA NA 
+ITZBund 2 NA NA NA 
+ITZBund 3 NA NA NA 
+ITZBund 4 NA NA NA 
+ITZBund 5 NA NA NA 
+ITZBund 6 NA NA NA 
+ITZBund 7 NA NA NA 
+ITZBund 8 NA NA NA 
+ITZBund 9 NA NA NA 
+ITZBund 10 NA NA NA 
+ITZBund 11 NA NA NA 
+ITZBund 12 NA NA NA 
+ 
+Anlage 3, Antwort zur Frage 4 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Stand der Umstellung 
+auf EE 
+Anteil an EE in 2024 in 
+Prozent 
+Anteil an EE in 2025 in 
+Prozent 
+100% Versorgung mit EE Heute? (Ja/Nein) 
+AA 1 Abgeschlossen 100% 100% Nein 
+AA 2 Abgeschlossen 100% 100% Ja 
+AA 3 Läuft entfällt - siehe Antwort 
+zu Frage 1 d) 
+entfällt - siehe Antwort 
+zu Frage 1 d) 
+NA 
+BMAS 1 Abgeschlossen 100% 100% Ja 
+BMF 1 Abgeschlossen 100% 100% Ja 
+BMF 2 NA NA NA ja 
+BMFTR 1 Abgeschlossen 100% 100% ja 
+BMFTR 2 Abgeschlossen 100% 100% ja 
+BMFTR 3 Abgeschlossen 100% 100% ja 
+BMG 1 Abgeschlossen 100% 100% Ja 
+BMG 2   100% 100% NA 
+BMG 3 Abgeschlossen 100% 100% Ja 
+BMG 4 Abgeschlossen 100% 100% Ja 
+BMG 5 Läuft 4% 4% Nein 
+BMG 6 Läuft 4% 4% Nein 
+BMG 7 Läuft nicht erfasst nicht erfasst Nein 
+BMG 8 Läuft nicht erfasst nicht erfasst Nein 
+BMG 9 Läuft nicht erfasst nicht erfasst Nein 
+BMI 1 Abgeschlossen 100 100 Ja 
+BMI 2 Abgeschlossen 100 100 Ja 
+BMI 3 Läuft NA NA NA 
+BMI 4 Läuft NA NA NA 
+BMI 5 Läuft NA NA NA 
+BMI 6 Abgeschlossen 100 100 Ja 
+BMI 7 Abgeschlossen 100 100 Ja 
+Anlage 3, Antwort zur Frage 4 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Stand der Umstellung 
+auf EE 
+Anteil an EE in 2024 in 
+Prozent 
+Anteil an EE in 2025 in 
+Prozent 
+100% Versorgung mit EE Heute? (Ja/Nein) 
+BMI 8 Läuft NA NA NA 
+BMI 9 Abgeschlossen 100 100 Ja 
+BMI 10 Abgeschlossen 100 100 Ja 
+BMI 11 Abgeschlossen 100 100 Ja 
+BMI 12 Abgeschlossen 100 100 Ja 
+BMI 13 Läuft NA NA NA 
+BMI 14 Läuft NA NA NA 
+BMI 15 Abgeschlossen 100 100 Ja 
+BMI 16 Abgeschlossen 100 100 Ja 
+BMI 17 Abgeschlossen 100 100 Ja 
+BMI 18 Abgeschlossen 100 100 Ja 
+BMI 19 Abgeschlossen 100 100 Ja 
+BMI 20 Abgeschlossen 100 100 Ja 
+BMI 21 Abgeschlossen 100 100 Ja 
+BMI 22 Abgeschlossen 100 100 Ja 
+BMI 23 Abgeschlossen 100 100 Ja 
+BMI 24 Läuft NA NA NA 
+BMI 25 Abgeschlossen 100 100 Ja 
+BMI 26 Läuft NA NA NA 
+BMI 27 Läuft NA NA NA 
+BMI 28 Abgeschlossen 100 100 Ja 
+BMI 29 Abgeschlossen 100 100 Ja 
+BMI 30 Abgeschlossen 100 100 Ja 
+BMI 31 Abgeschlossen 100 100 Ja 
+BMI 32 Abgeschlossen 100 100 Ja 
+BMI 33 Läuft NA NA NA 
+Anlage 3, Antwort zur Frage 4 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Stand der Umstellung 
+auf EE 
+Anteil an EE in 2024 in 
+Prozent 
+Anteil an EE in 2025 in 
+Prozent 
+100% Versorgung mit EE Heute? (Ja/Nein) 
+BMI 34 Abgeschlossen 100 100 Ja 
+BMI 35 Abgeschlossen 100 100 Ja 
+BMI 36 Läuft NA NA NA 
+BMI 37 Abgeschlossen 100 100 Ja 
+BMI 38 Abgeschlossen 100 100 Ja 
+BMI 39 Abgeschlossen 100 100 Ja 
+BMI 40 Abgeschlossen 100 100 Ja 
+BMI 41 Läuft NA NA NA 
+BMI 42 Läuft NA NA NA 
+BMI 43 Abgeschlossen 100 100 Ja 
+BMI 44 Abgeschlossen 100 100 Ja 
+BMI 45 Läuft NA NA NA 
+BMI 46 Läuft NA NA NA 
+BMI 47 Abgeschlossen 100 100 Ja 
+BMI 48 Läuft NA NA NA 
+BMI 49 Abgeschlossen 100 100 Ja 
+BMI 50 Abgeschlossen 100 100 Ja 
+BMI 51 Abgeschlossen 100 100 Ja 
+BMI 52 Abgeschlossen 100 100 Ja 
+BMI 53 Abgeschlossen 100 100 Ja 
+BMI 54 Läuft NA NA NA 
+BMI 55 Abgeschlossen 100 100 Ja 
+BMI 56 Läuft NA NA NA 
+BMI 57 Abgeschlossen 100 100 Ja 
+BMI 58 Läuft NA NA NA 
+BMI 59 Abgeschlossen 100 100 Ja 
+Anlage 3, Antwort zur Frage 4 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Stand der Umstellung 
+auf EE 
+Anteil an EE in 2024 in 
+Prozent 
+Anteil an EE in 2025 in 
+Prozent 
+100% Versorgung mit EE Heute? (Ja/Nein) 
+BMI 60 Abgeschlossen 100 100 Ja 
+BMI 61 Abgeschlossen 100 100 Ja 
+BMI 62 Abgeschlossen 100 100 Ja 
+BMI 63 Abgeschlossen 100 100 Ja 
+BMI 64 Läuft NA NA NA 
+BMI 65 Abgeschlossen 100 100 Ja 
+BMI 66 Läuft 58,9 50,9 NA 
+BMI 67 Abgeschlossen 100 100 NA 
+BMI 68 Abgeschlossen 100 100 NA 
+BMI 69 Abgeschlossen 100 100 Ja 
+BMI 70 Abgeschlossen 100 100 Ja 
+BMI 71 NA 100 100 NA 
+BMI 72 NA 100 100 NA 
+BMI 73 NA 100 100 NA 
+BMI 74 NA 100 100 NA 
+BMI 75 NA 100 100 NA 
+BMI 76 Abgeschlossen 100 100 Ja 
+BMI 77 Abgeschlossen 100 100 Ja 
+BMI 78 Abgeschlossen 100 100 Ja 
+BMI 79 NA unbekannt, Anmietung 
+bei ITZBund 
+unbekannt, Anmietung 
+bei ITZBund unbekannt, Anmietung bei ITZBund 
+BMI 80 Noch nicht begonnen NA NA NA 
+BMI 81 Noch nicht begonnen NA NA NA 
+BMI 82 Noch nicht begonnen NA NA NA 
+BMI 83 Noch nicht begonnen NA NA NA 
+BMJV 1 Abgeschlossen 100% 100% Ja 
+Anlage 3, Antwort zur Frage 4 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Stand der Umstellung 
+auf EE 
+Anteil an EE in 2024 in 
+Prozent 
+Anteil an EE in 2025 in 
+Prozent 
+100% Versorgung mit EE Heute? (Ja/Nein) 
+BMJV 2 Läuft 100% Fehlanzeige Nein 
+BMJV 3 Läuft 100% Fehlanzeige Nein 
+BMJV 4 Abgeschlossen 100% 100% Ja 
+BMLEH 1 Abgeschlossen 100% 100% Ja 
+BMLEH 2 Abgeschlossen 100% 100% Ja 
+BMLEH 3 Abgeschlossen 100% 100% Ja 
+BMLEH 4 NA NA NA NA 
+BMLEH 5 NA NA NA NA 
+BMLEH 6 Abgeschlossen 100% 100% Ja 
+BMLEH 7 Abgeschlossen 0% 50% Ja 
+BMLEH 8 Abgeschlossen 100% 100% Ja 
+BMLEH 9 Läuft 100% 100% Ja 
+BMLEH 10 Abgeschlossen 100% 100% Ja 
+BMLEH 11 Abgeschlossen 100% 100% Ja 
+BMLEH 12 Abgeschlossen 100% 100% Ja 
+BMV 1 Abgeschlossen 69.717 kWh 65.000 kWh Ja 
+BMV 2 Noch nicht begonnen NA NA Nein 
+BMV 3 Abgeschlossen NA NA Ja 
+BMV 4 Abgeschlossen NA NA Ja 
+BMV 5 NA NA NA Ja 
+BMV 6 NA NA NA NA 
+BMV 7 NA NA NA NA 
+BMV 8 NA 100% 100% Ja 
+BMV 9 NA 100% 100% Ja 
+BMV 10 NA 100% 100% Ja 
+BMV 11 NA 100% 100% Ja 
+Anlage 3, Antwort zur Frage 4 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Stand der Umstellung 
+auf EE 
+Anteil an EE in 2024 in 
+Prozent 
+Anteil an EE in 2025 in 
+Prozent 
+100% Versorgung mit EE Heute? (Ja/Nein) 
+BMV 12 NA 100% 100% Ja 
+BMV 13 NA NA NA NA 
+BMV 14 NA NA NA NA 
+BMV 15 NA NA NA NA 
+BMVg 1 Abgeschlossen 58% 58% Nein 
+BMVg 2 Abgeschlossen 58% 58% Nein 
+BMVg 3 Abgeschlossen 58% 58% Nein 
+BMVg 4 Abgeschlossen 58% 58% Nein 
+BMVg 5 Abgeschlossen 100% 100% Ja 
+BMVg 6 Abgeschlossen 100% 100% Ja 
+BMVg 7 Noch nicht begonnen NA NA NA 
+BMWE 1 Noch nicht begonnen nicht zutreffend nicht zutreffend Nein 
+BMWE 2 Noch nicht begonnen nicht zutreffend nicht zutreffend Nein 
+BMWE 3 Noch nicht begonnen nicht zutreffend nicht zutreffend Nein 
+BMWE 4 Noch nicht begonnen nicht zutreffend nicht zutreffend Nein 
+BMWE 5 Abgeschlossen 0% 100% Ja 
+BMWE 6 NA NA NA NA 
+BMWE 7 Abgeschlossen 100% 100% Ja 
+BMWE 8 Abgeschlossen 100% 100% Ja 
+BMWE 9 Abgeschlossen 100% 100% Ja 
+BMWE 10 Abgeschlossen 100% 100% Ja 
+BMWE 11 Abgeschlossen 100% 100% Ja 
+BMWE 12 Abgeschlossen 100% 100% Ja 
+BMWSB 1 NA 100% 100% Ja 
+BMWSB 2 NA 100% 100% Ja 
+BPA 1 Abgeschlossen 100% 100% Ja 
+Anlage 3, Antwort zur Frage 4 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Stand der Umstellung 
+auf EE 
+Anteil an EE in 2024 in 
+Prozent 
+Anteil an EE in 2025 in 
+Prozent 
+100% Versorgung mit EE Heute? (Ja/Nein) 
+BPA 2 Abgeschlossen 100% 100% Ja 
+ITZBund 1 Abgeschlossen 100% 100% Ja 
+ITZBund 2 Abgeschlossen 100% 100% Ja 
+ITZBund 3 Abgeschlossen 100% 100% Ja 
+ITZBund 4 Abgeschlossen 100% 100% Ja 
+ITZBund 5 Abgeschlossen 100% 100% Ja 
+ITZBund 6 Abgeschlossen 100% 100% Ja 
+ITZBund 7 Abgeschlossen 100% 100% Ja 
+ITZBund 8 Abgeschlossen 100% 100% Ja 
+ITZBund 9 Abgeschlossen 100% 100% Ja 
+ITZBund 10 Abgeschlossen 100% 100% Ja 
+ITZBund 11 Abgeschlossen 100% 100% Ja 
+ITZBund 12 Abgeschlossen 100% 100% Ja 
+ 
+Anlage 4, Antwort zur Frage 5 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“ 
+ 
+Ressort Welche Kältemittel werden genutzt. Wann ist eine Umrüstung 
+auf klimafreundlichere 
+Kältemittel geplant? 
+Wenn keine Umrüstung, warum nicht? 
+AA 1 derzeit 134a 2026/2027 Aus Sicht des AA ließen sich aus der Beantwortung dieser Frage 
+Rückschlüsse auf Einstufungsgrad und spezifische Nutzung der 
+Rechenzentren ziehen, die Sicherheitsrisiken für die 
+Bundesregierung schaffen würden. Daher kann eine 
+Beantwortung -- nicht -- erfolgen 
+AA 2 R407C -> Klimaschädlich nein 
+AA 3 entfällt - siehe Antwort zu Frage 1 d) 2028 
+BMAS 1 
+Kältemittel R32, GWP-Wert von 675; 
+Eine Umrüstung auf noch 
+klimafreundlichere Gase ist nicht 
+geplant 
+Keine Umrüstung geplant. 
+Keine Umrüstung geplant, da R32 als moderat klimaschädlich 
+eingestuft ist und den aktuellen gesetzlichen Vorgaben nach der 
+F-Gase-Verordnung entspricht. 
+BMF 1 R410a Ende 2027 NA 
+BMF 2 R410a, R407c NA NA 
+BMFTR 1 
+NA 
+keine Umrüstungen geplant 
+Eine Umstellung auf andere Kältemittel setzt eine Umplanung 
+der Kältetechnik voraus. Diese ist aktuell vom Privaten 
+Gebäudebetreiber und der Gebäudeeigentümerin (BImA) nicht 
+geplant.  
+BMFTR 2 
+NA 
+keine Umrüstungen geplant 
+Eine Umstellung auf andere Kältemittel setzt eine Umplanung 
+der Kältetechnik voraus. Diese ist aktuell vom Privaten 
+Gebäudebetreiber und der Gebäudeeigentümerin (BImA) nicht 
+geplant.  
+BMFTR 3 
+NA 
+keine Umrüstungen geplant 
+Eine Umstellung auf andere Kältemittel setzt eine Umplanung 
+der Kältetechnik voraus. Diese ist aktuell vom Privaten 
+Gebäudebetreiber und der Gebäudeeigentümerin (BImA) nicht 
+geplant.  
+BMG 1 R407c keine Umrüstungen geplant Geringer Verbrauch bei guter Effektivität. Die Klimageräte 
+können mit geringerer Füllmenge befüllt werden.  
+BMG 2 NA NA NA 
+BMG 3 R407c keine Umrüstungen geplant Geringer Verbrauch bei guter Effektivität. Die Klimageräte 
+können mit geringerer Füllmenge befüllt werden.  
+Anlage 4, Antwort zur Frage 5 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“ 
+ 
+Ressort Welche Kältemittel werden genutzt. Wann ist eine Umrüstung 
+auf klimafreundlichere 
+Kältemittel geplant? 
+Wenn keine Umrüstung, warum nicht? 
+BMG 4 R410a keine Umrüstungen geplant Geringer Verbrauch bei guter Effektivität. Die Klimageräte 
+können mit geringerer Füllmenge befüllt werden.  
+BMG 5 R410A keine Umrüstungen geplant Geringer Verbrauch bei guter Effektivität. Die Klimageräte 
+können mit geringerer Füllmenge befüllt werden.  
+BMG 6 R410A keine Umrüstungen geplant 
+Geringer Verbrauch bei guter Effektivität. Die Klimageräte 
+können mit geringerer Füllmenge befüllt werden.  
+BMG 7 R410A keine Umrüstungen geplant Geringer Verbrauch bei guter Effektivität. Die Klimageräte 
+können mit geringerer Füllmenge befüllt werden.  
+BMG 8 R134a keine Umrüstungen geplant Geringer Verbrauch bei guter Effektivität. Die Klimageräte 
+können mit geringerer Füllmenge befüllt werden.  
+BMG 9 R134a keine Umrüstungen geplant 
+Geringer Verbrauch bei guter Effektivität. Die Klimageräte 
+können mit geringerer Füllmenge befüllt werden.  
+BMI 1 R 407C NA NA 
+BMI 2 R 410A NA NA 
+BMI 3 R 410A/R407C NA NA 
+BMI 4 NA NA NA 
+BMI 5 NA NA NA 
+BMI 6 R 410A/R407C NA NA 
+BMI 7 R 410A NA NA 
+BMI 8 R 407C NA NA 
+BMI 9 R 134A NA NA 
+BMI 10 R 407C NA NA 
+BMI 11 R 407C NA NA 
+BMI 12 R 410A NA NA 
+BMI 13 NA NA NA 
+BMI 14 NA NA NA 
+BMI 15 R 407C NA NA 
+Anlage 4, Antwort zur Frage 5 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“ 
+ 
+Ressort Welche Kältemittel werden genutzt. Wann ist eine Umrüstung 
+auf klimafreundlichere 
+Kältemittel geplant? 
+Wenn keine Umrüstung, warum nicht? 
+BMI 16 R 407C NA NA 
+BMI 17 R 410A NA NA 
+BMI 18 R 407C NA NA 
+BMI 19 R 410A NA NA 
+BMI 20 R 410A NA NA 
+BMI 21 R 410A NA NA 
+BMI 22 R 410A NA NA 
+BMI 23 R 410A NA NA 
+BMI 24 R 407C/R410A NA NA 
+BMI 25 R 407C/R410A NA NA 
+BMI 26 NA NA NA 
+BMI 27 NA NA NA 
+BMI 28 R 410A NA NA 
+BMI 29 R 407C NA NA 
+BMI 30 R 410A NA NA 
+BMI 31 R 407C NA NA 
+BMI 32 R 410A NA NA 
+BMI 33 R 410A NA NA 
+BMI 34 R 410A NA NA 
+BMI 35 R 407C NA NA 
+BMI 36 NA NA NA 
+BMI 37 R 410A NA NA 
+BMI 38 R 407C NA NA 
+BMI 39 R 407C NA NA 
+BMI 40 NA NA NA 
+Anlage 4, Antwort zur Frage 5 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“ 
+ 
+Ressort Welche Kältemittel werden genutzt. Wann ist eine Umrüstung 
+auf klimafreundlichere 
+Kältemittel geplant? 
+Wenn keine Umrüstung, warum nicht? 
+BMI 41 R 410A und R407C NA NA 
+BMI 42 R 410A NA NA 
+BMI 43 R 410A NA NA 
+BMI 44 R 410A NA NA 
+BMI 45 R 407C NA NA 
+BMI 46 R 407C NA NA 
+BMI 47 R 407C NA NA 
+BMI 48 R 407C NA NA 
+BMI 49 R 407C NA NA 
+BMI 50 R 410A NA NA 
+BMI 51 R 410A NA NA 
+BMI 52 R 410A NA NA 
+BMI 53 R 407C NA NA 
+BMI 54 R 407C NA NA 
+BMI 55 R 407C NA NA 
+BMI 56 NA NA NA 
+BMI 57 R 407C NA NA 
+BMI 58 R 407C NA NA 
+BMI 59 R 410A NA NA 
+BMI 60 R 407C NA NA 
+BMI 61 R 410A NA NA 
+BMI 62 R 407C NA NA 
+BMI 63 R 407C NA NA 
+BMI 64 R 134A NA NA 
+BMI 65 R 407C NA NA 
+Anlage 4, Antwort zur Frage 5 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“ 
+ 
+Ressort Welche Kältemittel werden genutzt. Wann ist eine Umrüstung 
+auf klimafreundlichere 
+Kältemittel geplant? 
+Wenn keine Umrüstung, warum nicht? 
+BMI 66 R-134a, R-32, R-410a, R-513a NA NA 
+BMI 67 RZ nicht mehr in Betrieb RZ nicht mehr in Betrieb RZ nicht mehr in Betrieb 
+BMI 68 RZ nicht mehr in Betrieb RZ nicht mehr in Betrieb RZ nicht mehr in Betrieb 
+BMI 69 
+Kältemittel R410A (Difluormethan (R-
+32) u. Pentafluorethan (R-125)) / GWP 
+2088 
+keine Umrüstung geplant Unwirtschaftlichkeit, keine Auffälligkeiten bei der Dichtheit  
+BMI 70 
+Kältemitteltyp R410A und R407, GWP 
+(Global Warming Potential) Wert für alle 
+2088 
+noch nicht geplant Entscheidung zur Zukunft des RZ im Rahmen der IT-
+Konsolidierung ausstehend 
+BMI 71 R717 (NH3) keine Umrüstung nicht wirtschaftlich 
+BMI 72 R134a 
+R407c keine Umrüstung nicht wirtschaftlich 
+BMI 73 R410a keine Umrüstung nicht wirtschaftlich 
+BMI 74 R410a keine Umrüstung nicht wirtschaftlich 
+BMI 75 R410a keine Umrüstung nicht wirtschaftlich 
+BMI 76 R-407C / GWP 1774 2026 NA 
+BMI 77 R-32 / GWP 675 keine Umrüstung geplant Zuständigkeitsbereich BIMA  
+BMI 78 R-410A / GWP 2088 keine Umrüstung geplant Zuständigkeitsbereich BIMA  
+BMI 79 unbekannt, Anmietung bei ITZBund unbekannt, Anmietung bei 
+ITZBund unbekannt, Anmietung bei ITZBund 
+BMI 80 noch in Planung noch in Planung NA 
+BMI 81 unbekannt, Anmietung bei BIMA NA NA 
+BMI 82 unbekannt, Anmietung bei BIMA NA NA 
+BMI 83 unbekannt, Anmietung bei BIMA NA NA 
+BMJV 1 R1234ze (gilt als klimafreundlich) entfällt,  
+da bereits klimaneutral 
+entfällt,  
+da bereits klimaneutral 
+BMJV 2 Wasser Umrüstung nicht geplant Klimaanlagen werden durch Wasser gekühlt 
+Anlage 4, Antwort zur Frage 5 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“ 
+ 
+Ressort Welche Kältemittel werden genutzt. Wann ist eine Umrüstung 
+auf klimafreundlichere 
+Kältemittel geplant? 
+Wenn keine Umrüstung, warum nicht? 
+BMJV 3 Wasser Umrüstung nicht geplant Klimaanlagen werden 
+durch Wasser gekühlt 
+BMJV 4 R410A Umrüstung nicht geplant Gebäude wird  
+generalsaniert 
+BMLEH 1 
+R407; R410a; R3 
+R407 wird als klimaschädlich eingestuft. 
+Während es die Ozonschicht nicht 
+schädigt, trägt es zum Treibhauseffekt 
+bei. 
+R410a hat ein Treibhauspotenzial (GWP) 
+von 2.088. Es ist klimaschädlich; ein 
+Kilogramm dieses Kältemittels erwärmt 
+die Erdatmosphäre wie über zwei 
+Tonnen CO₂. 
+R3 hat ein etwa zwei Drittel geringeres 
+klimaschädliches Potenzial als R410a. 
+keine Umrüstung geplant liegt in Verantwortlichkeit der BIMA 
+BMLEH 2 
+R410a; 
+R410a hat ein Treibhauspotenzial (GWP) 
+von 2.088. Es ist klimaschädlich; ein 
+Kilogramm dieses Kältemittels erwärmt 
+die Erdatmosphäre wie X1über zwei 
+Tonnen CO₂. 
+keine Umrüstung geplant liegt in Verantwortlichkeit der BIMA 
+BMLEH 3 
+R410a; 
+R410a hat ein Treibhauspotenzial (GWP) 
+von 2.088. Es ist klimaschädlich; ein 
+Kilogramm dieses Kältemittels erwärmt 
+die Erdatmosphäre wie X1über zwei 
+Tonnen CO₂. 
+keine Umrüstung geplant liegt in Verantwortlichkeit der BIMA 
+BMLEH 4 NA NA NA 
+Anlage 4, Antwort zur Frage 5 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“ 
+ 
+Ressort Welche Kältemittel werden genutzt. Wann ist eine Umrüstung 
+auf klimafreundlichere 
+Kältemittel geplant? 
+Wenn keine Umrüstung, warum nicht? 
+BMLEH 5 NA NA NA 
+BMLEH 6 R410A Nein Betreiberangelegenheit 
+BMLEH 7 R454B Nein Betreiberangelegenheit 
+BMLEH 8 
+Wasser, außerdem 34%-iges Glykosol N 
+(Notkühlkreislauf) bereits abgeschlossen 
+Das 34%-ige Glykosol N ist in vielen Bereichen die
+nichtklimaschädliche Alternative zu anderen Kühlmitteln. 
+BMLEH 9 R410A unbekannt Zuständigkeit BImA 
+BMLEH 10 R513A  keine Umrüstung geplant Kältemittel mit niedrigem Treibhauspotenzial wird verwendet 
+BMLEH 11 unbekannt 2030 entfällt 
+BMLEH 12 unbekannt 2030 entfällt 
+BMV 1 NA k.A k.A 
+BMV 2 NA in Planung für 2027   
+BMV 3 NA Erfüllt   
+BMV 4 NA Keine Umrüstung geplant z. Z. noch nicht möglich 
+BMV 5 NA NA NA 
+BMV 6 NA NA NA 
+BMV 7 NA NA NA 
+BMV 8 
+NA Umrüstung/Umbau der 
+Kälteanlagen bis ca. 2028 
+geplant. Diese sollen dann ein 
+klimafreundlicheres 
+Kältemittel mit GWP < 150 
+nutzen 
+NA 
+BMV 9 
+NA bereits geschehen (Kältemittel 
+R-410A in RZ1 und RZ2) 
+NA 
+BMV 10 
+NA bereits geschehen (Kältemittel 
+R-410A in RZ1 und RZ2) 
+NA 
+Anlage 4, Antwort zur Frage 5 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“ 
+ 
+Ressort Welche Kältemittel werden genutzt. Wann ist eine Umrüstung 
+auf klimafreundlichere 
+Kältemittel geplant? 
+Wenn keine Umrüstung, warum nicht? 
+BMV 11 
+Beide Rzen nutzen R410A als 
+Kältemittel, das zukünftig nicht mehr 
+zum Einsatz kommen darf. Das 
+Treibhauspotenzial (GWP) liegt bei 2088. 
+Das heißt: Ein Kilogramm R410A wirkt 
+klimaschädlicher als zwei Tonnen CO₂., 
+Beide RZen sollen modernisiert werden, 
+dann mit aktuellen Kältemitteln! 
+Modernisierung ist geplant, 
+Zustimmung BMDS offen! 
+NA 
+BMV 12 
+Beide Rzen nutzen R410A als 
+Kältemittel, das zukünftig nicht mehr 
+zum Einsatz kommen darf. Das 
+Treibhauspotenzial (GWP) liegt bei 2088. 
+Das heißt: Ein Kilogramm R410A wirkt 
+klimaschädlicher als zwei Tonnen CO₂., 
+Beide RZen sollen modernisiert werden, 
+dann mit aktuellen Kältemitteln! 
+Modernisierung ist geplant, 
+Zustimmung BMDS offen! 
+NA 
+BMV 13 NA NA NA 
+BMV 14 NA NA NA 
+BMV 15 NA NA NA 
+BMVg 1 R-717 (GWP=0) keine Umrüstung geplant alte Infrastruktur; Ausphasung geplant. 
+BMVg 2 R 410A (GWP=2088) keine Umrüstung geplant alte Infrastruktur; Ausphasung geplant. 
+BMVg 3 R-134a (GWP=1430) keine Umrüstung geplant alte Infrastruktur; Ausphasung geplant. 
+BMVg 4 R-134a (GWP=1430) keine Umrüstung geplant alte Infrastruktur; Ausphasung geplant. 
+BMVg 5 R-134a (GWP=1430), 
+R-407c (GWP=1774) 
+NA siehe 5a) 
+BMVg 6 R410A (GWP=2088), 
+R454b (GWP=466) 
+NA siehe 5a) 
+BMVg 7 NA NA NA 
+Anlage 4, Antwort zur Frage 5 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“ 
+ 
+Ressort Welche Kältemittel werden genutzt. Wann ist eine Umrüstung 
+auf klimafreundlichere 
+Kältemittel geplant? 
+Wenn keine Umrüstung, warum nicht? 
+BMWE 1 NA keine Umrüstung geplant NA 
+BMWE 2 NA keine Umrüstung geplant NA 
+BMWE 3 NA keine Umrüstung geplant Bislang nicht priorisiert 
+BMWE 4 NA keine Umrüstung geplant Bislang nicht priorisiert 
+BMWE 5 R407C NA RZ wird außer Betrieb genommen 
+BMWE 6 NA NA NA 
+BMWE 7 R407C NA NA 
+BMWE 8 R407C/ R434A 2028 NA 
+BMWE 9 R407C nicht geplant 
+Eine Umrüstung der vorhandenen Kaltwassersätze ist nicht 
+möglich. Der Ersatz der vorhandenen Maschinen wäre weder 
+wirtschaftlich noch ökologisch sinnvoll. 
+BMWE 10 R134a keine Umrüstung geplant Bisher keine Anforderung/Notwendigkeit bekannt 
+BMWE 11 R134a 2029 NA 
+BMWE 12 R410A NA nicht nötig 
+BMWSB 1 R-407C, R-32, R-410A  nicht geplant ggf. Umzug in eine andere Liegenschaft 
+BMWSB 2 R-407C, R-32, R-410A  nicht geplant ggf. Umzug in eine andere Liegenschaft 
+BPA 1 NA, klimaschädlich keine Altbau 
+BPA 2 nicht klimaschädlich NA NA 
+ITZBund 1 R134a GWP 1430, R410a GWP 2088 keine Umrüstung geplant Rechenzentrum wird abgelöst 
+ITZBund 2 R134a GWP 1430 keine Umrüstung geplant Rechenzentrum wird abgelöst 
+ITZBund 3 R1234ze GWP:7 keine Umrüstung geplant Aus wirtschaftlichen und technischen Gründen nicht umsetzbar 
+ITZBund 4 R410a, R407c, R134a. GWP: 2088, GWP 
+1774, GWP 1430 
+keine Umrüstung geplant Rechenzentrum wird abgelöst 
+ITZBund 5 R410a, R407c, R134a. GWP: 2088, GWP 
+1774, GWP 1430 keine Umrüstung geplant Rechenzentrum wird abgelöst 
+ITZBund 6 R134a, R1234ze GWP:1430, GWP: 7 keine Umrüstung geplant Aus wirtschaftlichen und technischen Gründen nicht umsetzbar 
+Anlage 4, Antwort zur Frage 5 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“ 
+ 
+Ressort Welche Kältemittel werden genutzt. Wann ist eine Umrüstung 
+auf klimafreundlichere 
+Kältemittel geplant? 
+Wenn keine Umrüstung, warum nicht? 
+ITZBund 7 R1234ze GWP: 1430 keine Umrüstung geplant Aus wirtschaftlichen und technischen Gründen nicht umsetzbar 
+ITZBund 8 R134a, R513a GWP: 1430, GWP: 631 keine Umrüstung geplant Aus wirtschaftlichen und technischen Gründen nicht umsetzbar 
+ITZBund 9 R718 Wasser GWP: 0  keine Umrüstung geplant Bereits klimafreundliches Kältemittel eingesetzt 
+ITZBund 10 R407c GWP 1774 keine Umrüstung geplant Aus wirtschaftlichen und technischen Gründen nicht umsetzbar 
+ITZBund 11 Keine Informationen keine Umrüstung geplant Rechenzentrum wird abgelöst 
+ITZBund 12 Keine Informationen keine Umrüstung geplant Rechenzentrum wird abgelöst 
+ 
+Anlage 5, Antwort zur Frage 6 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Erfolgt eine 
+Abwärmenutzung? 
+(Ja/Nein) 
+Wie hoch ist der Anteil der 
+Abwärmenutzung? 
+Liegt ein ERF Wert vor? Wenn ja, 
+welcher? 
+Ist eine Nutzung der Abwärme geplant? Wann? 
+AA 1 Nein n.n. Umrüstung geplant 2026 n.n. Wert nicht verfügbar Heizen Bürogebäude und Nachbargebäude 
+AA 2 Nein nein entfällt nicht geplant 
+AA 3 Nein   entfällt in Planung 
+BMAS 1 Nein entfällt- Keine 
+Abwärmenutzung 
+0 
+0 Eine Umrüstung ist derzeit aufgrund des 
+geringen Alters der Anlagen noch nicht geplant 
+(Unwirtschaftlichkeit) 
+BMF 1 Nein 0% 0% Nutzer 
+BMF 2         
+BMFTR 1 Ja Anteil nicht berechenbar NA NA 
+BMFTR 2 Ja Anteil nicht berechenbar NA NA 
+BMFTR 3 Nein   NA NA 
+BMG 1 Nein   Nein Nein 
+BMG 2         
+BMG 3 Nein   Nein Nein 
+BMG 4 Nein   Nein Nein 
+BMG 5 Nein   Nein Nein 
+BMG 6 Nein   Nein Nein 
+BMG 7 Nein   Nein Nein 
+BMG 8 Nein   Nein Nein 
+BMG 9 Nein   Nein Nein 
+BMI 1 Nein     in Prüfung 
+BMI 2 Nein     in Prüfung 
+BMI 3 NA     in Prüfung 
+BMI 4 NA     in Prüfung 
+BMI 5 NA     in Prüfung 
+BMI 6 Ja 2% 0,02   
+Anlage 5, Antwort zur Frage 6 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Erfolgt eine 
+Abwärmenutzung? 
+(Ja/Nein) 
+Wie hoch ist der Anteil der 
+Abwärmenutzung? 
+Liegt ein ERF Wert vor? Wenn ja, 
+welcher? 
+Ist eine Nutzung der Abwärme geplant? Wann? 
+BMI 7 Nein     in Prüfung 
+BMI 8 NA     in Prüfung 
+BMI 9 Nein     in Prüfung 
+BMI 10 Nein     in Prüfung 
+BMI 11 Nein     in Prüfung 
+BMI 12 Nein     in Prüfung 
+BMI 13 NA     in Prüfung 
+BMI 14 NA     in Prüfung 
+BMI 15 Nein     in Prüfung 
+BMI 16 Nein     in Prüfung 
+BMI 17 Nein     in Prüfung 
+BMI 18 Nein     in Prüfung 
+BMI 19 Nein     in Prüfung 
+BMI 20 Nein     in Prüfung 
+BMI 21 Nein     in Prüfung 
+BMI 22 Nein     in Prüfung 
+BMI 23 Nein     in Prüfung 
+BMI 24 NA     in Prüfung 
+BMI 25 NA     in Prüfung 
+BMI 26 NA     in Prüfung 
+BMI 27 NA     in Prüfung 
+BMI 28 Nein     in Prüfung 
+BMI 29 Nein     in Prüfung 
+BMI 30 Nein     in Prüfung 
+BMI 31 Nein     in Prüfung 
+Anlage 5, Antwort zur Frage 6 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Erfolgt eine 
+Abwärmenutzung? 
+(Ja/Nein) 
+Wie hoch ist der Anteil der 
+Abwärmenutzung? 
+Liegt ein ERF Wert vor? Wenn ja, 
+welcher? 
+Ist eine Nutzung der Abwärme geplant? Wann? 
+BMI 32 Nein     in Prüfung 
+BMI 33 NA     in Prüfung 
+BMI 34 Nein     in Prüfung 
+BMI 35 Nein     in Prüfung 
+BMI 36 NA     in Prüfung 
+BMI 37 Nein     in Prüfung 
+BMI 38 Nein     in Prüfung 
+BMI 39 Nein     in Prüfung 
+BMI 40 NA     in Prüfung 
+BMI 41 NA     in Prüfung 
+BMI 42 NA     in Prüfung 
+BMI 43 Nein     in Prüfung 
+BMI 44 Nein     in Prüfung 
+BMI 45 NA     in Prüfung 
+BMI 46 NA     in Prüfung 
+BMI 47 Nein     in Prüfung 
+BMI 48 NA     in Prüfung 
+BMI 49 Nein     in Prüfung 
+BMI 50 Nein     in Prüfung 
+BMI 51 Nein     in Prüfung 
+BMI 52 Nein     in Prüfung 
+BMI 53 Nein     in Prüfung 
+BMI 54 NA     in Prüfung 
+BMI 55 Nein     in Prüfung 
+BMI 56 NA     in Prüfung 
+Anlage 5, Antwort zur Frage 6 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Erfolgt eine 
+Abwärmenutzung? 
+(Ja/Nein) 
+Wie hoch ist der Anteil der 
+Abwärmenutzung? 
+Liegt ein ERF Wert vor? Wenn ja, 
+welcher? 
+Ist eine Nutzung der Abwärme geplant? Wann? 
+BMI 57 Nein     in Prüfung 
+BMI 58 NA     in Prüfung 
+BMI 59 Nein     in Prüfung 
+BMI 60 Nein     in Prüfung 
+BMI 61 Nein     in Prüfung 
+BMI 62 Nein     in Prüfung 
+BMI 63 Nein     in Prüfung 
+BMI 64 NA     in Prüfung 
+BMI 65 Nein     in Prüfung 
+BMI 66 Ja NA NA   
+BMI 67 RZ nicht mehr in 
+Betrieb RZ nicht mehr in Betrieb RZ nicht mehr in Betrieb RZ nicht mehr in Betrieb 
+BMI 68 RZ nicht mehr in 
+Betrieb RZ nicht mehr in Betrieb RZ nicht mehr in Betrieb RZ nicht mehr in Betrieb 
+BMI 69 Nein - Nein Nein 
+BMI 70 Nein   Nein Entscheidung zur Zukunft des RZ im Rahmen 
+der IT-Kosolidierung ausstehend 
+BMI 71 nein       
+BMI 72 nein       
+BMI 73 nein       
+BMI 74 nein       
+BMI 75 nein       
+BMI 76 Nein   Nein Zuständigkeitsbereich BIMA  
+BMI 77 Nein   Nein Zuständigkeitsbereich BIMA  
+BMI 78 Nein   Nein Zuständigkeitsbereich BIMA  
+Anlage 5, Antwort zur Frage 6 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Erfolgt eine 
+Abwärmenutzung? 
+(Ja/Nein) 
+Wie hoch ist der Anteil der 
+Abwärmenutzung? 
+Liegt ein ERF Wert vor? Wenn ja, 
+welcher? 
+Ist eine Nutzung der Abwärme geplant? Wann? 
+BMI 79 
+unbekannt, 
+Anmietung bei 
+ITZBund 
+unbekannt, Anmietung bei 
+ITZBund 
+unbekannt, Anmietung bei 
+ITZBund unbekannt, Anmietung bei ITZBund 
+BMI 80 Nein   Nein Nein 
+BMI 81 unbekannt, 
+Anmietung bei BIMA       
+BMI 82 
+unbekannt, 
+Anmietung bei BIMA       
+BMI 83 unbekannt, 
+Anmietung bei BIMA       
+BMJV 1 Nein 0% Nein Nein,  
+Begründung analog zu Frage 2 b 
+BMJV 2 Nein 0% Nein 
+Im Rahmen einer 
+bevorstehenden Kernsanierung zu 
+berücksichtigen 
+BMJV 3 Nein 0% Nein 
+Im Rahmen einer 
+bevorstehenden Kernsanierung zu 
+berücksichtigen 
+BMJV 4 Nein 0% Nein Nein 
+BMLEH 1 Nein   NA keine Umstellung geplant, liegt in 
+Verantwortlichkeit der BIMA 
+BMLEH 2 Nein   NA 
+keine Umstellung geplant, liegt in 
+Verantwortlichkeit der BIMA 
+BMLEH 3 Nein   NA keine Umstellung geplant, liegt in 
+Verantwortlichkeit der BIMA 
+BMLEH 4         
+BMLEH 5         
+BMLEH 6 Nein   Nein Nein 
+Anlage 5, Antwort zur Frage 6 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Erfolgt eine 
+Abwärmenutzung? 
+(Ja/Nein) 
+Wie hoch ist der Anteil der 
+Abwärmenutzung? 
+Liegt ein ERF Wert vor? Wenn ja, 
+welcher? 
+Ist eine Nutzung der Abwärme geplant? Wann? 
+BMLEH 7 Nein   Nein Nein 
+BMLEH 8 Nein NA Nein keine Umstellung geplant 
+BMLEH 9 Nein   Nein Nein 
+BMLEH 10 Nein     Nein 
+BMLEH 11 Nein   nein unbekannt 
+BMLEH 12 Nein   nein unbekannt 
+BMV 1 Nein keine Nutzung keine Nutzung keine Nutzung 
+BMV 2 Nein keine keine keine 
+BMV 3   keine Abwärmenutzung keine Abwärmenutzung keine Abwärmenutzung 
+BMV 4   NA NA nicht geplant 
+BMV 5 Nein     2028, Planung ist im Gange 
+BMV 6         
+BMV 7         
+BMV 8 Ja 6,7%, Gebäudeheizung     
+BMV 9 Nein   Nein Nein 
+BMV 10 Nein   Nein Nein 
+BMV 11 Nein   Nein   
+BMV 12 Nein   Nein   
+BMV 13 Nein       
+BMV 14 Nein       
+BMV 15 Nein       
+BMVg 1 Nein   Nein Nein 
+BMVg 2 Nein   Nein Nein 
+BMVg 3 Ja NA 
+Heizung Büroräume,  Nein Nein 
+Anlage 5, Antwort zur Frage 6 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Erfolgt eine 
+Abwärmenutzung? 
+(Ja/Nein) 
+Wie hoch ist der Anteil der 
+Abwärmenutzung? 
+Liegt ein ERF Wert vor? Wenn ja, 
+welcher? 
+Ist eine Nutzung der Abwärme geplant? Wann? 
+BMVg 4 Nein   Nein Nein 
+BMVg 5 Ja NA 
+Heizung Bürogebäude und Rz 
+ 
+NA keine Planung des Betreibers bekannt 
+BMVg 6 Ja 
+NA 
+Heizung Büroräume und 
+Warmwasserbereitung  
+ 
+NA keine Planung des Betreibers bekannt 
+BMVg 7 Ja NA 
+ 
+NA siehe 6 a) 
+BMWE 1 Nein   Nein Nein 
+BMWE 2 Nein   Nein Nein 
+BMWE 3 Nein   Nein Nein 
+BMWE 4 Nein   Nein Nein 
+BMWE 5 Nein       
+BMWE 6         
+BMWE 7 Nein     Nicht geplant 
+BMWE 8 Nein 0 Nein Nein 
+BMWE 9 Nein 0 Nein Nein 
+BMWE 10 Nein     nein 
+BMWE 11 Nein 0 0,09 ja ab ca. 2030, Einspeisung Wärmenetz 
+BMWE 12 Nein 0 0,04 nein 
+BMWSB 1 Nein       
+BMWSB 2 Nein       
+BPA 1 Nein   Nein Nein 
+BPA 2 Nein   Nein Nein 
+ITZBund 1 Ja 
+100% der genutzten 
+Abwärme: Heizen der 
+Bürofläche 
+Nein Nein 
+Anlage 5, Antwort zur Frage 6 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Erfolgt eine 
+Abwärmenutzung? 
+(Ja/Nein) 
+Wie hoch ist der Anteil der 
+Abwärmenutzung? 
+Liegt ein ERF Wert vor? Wenn ja, 
+welcher? 
+Ist eine Nutzung der Abwärme geplant? Wann? 
+ITZBund 2 Ja 
+100% der genutzten 
+Abwärme: Heizen der 
+Bürofläche 
+Nein Nein 
+ITZBund 3 Ja 
+100% der genutzten 
+Abwärme: Heizen der 
+Bürofläche 
+Nein Nein 
+ITZBund 4 Nein   Nein Nein 
+ITZBund 5 Nein   Nein Nein 
+ITZBund 6 Ja 
+100% der genutzten 
+Abwärme: Heizen der 
+Bürofläche 
+Nein Nein 
+ITZBund 7 Ja 
+100% der genutzten 
+Abwärme: Heizen der 
+Bürofläche 
+Nein Nein 
+ITZBund 8 Ja 
+100% der genutzten 
+Abwärme: Heizen der 
+Bürofläche 
+Nein Nein 
+ITZBund 9 Ja 
+100% der genutzten 
+Abwärme: Heizen der 
+Bürofläche 
+Nein Nein 
+ITZBund 10 Ja 
+100% der genutzten 
+Abwärme: Heizen der 
+Bürofläche 
+Nein Nein 
+ITZBund 11 Nein   Nein Nein 
+ITZBund 12 Nein   Nein Nein 
+ 
+Anlage 6, Antwort zur Frage 7 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Sind
+Nachhaltigkeitskriterien Bestandteil 
+des Vertrags? (Ja/Nein) 
+Wie Verbindlich sind diese Bestandteile? Welche Arten von Nachhaltigkeitskriterien sind das? 
+AA 1 
+Die im Geschäftsbereich des Auswärtigen Amtes beauftragten Web-Hoster orientieren sich bei der Bereitstellung von Webhosting-
+Dienstleistungen für das Ministerium und die Auslandsvertretungen an etablierten, internationalen, marktüblichen Umwelt - und 
+Energieeffizienzstandards, insb. ISO 50001. 
+BMI 4 Nein     
+BMI 26 Nein     
+BMI 27 Nein     
+BMI 66 Nein    
+BMI 70 Nein     
+BMI 79 
+unbekannt, Anmietung 
+bei ITZBund unbekannt, Anmietung bei ITZBund unbekannt, Anmietung bei ITZBund 
+BMI 81 unbekannt, Anmietung 
+bei BIMA     
+BMI 82 unbekannt, Anmietung 
+bei BIMA     
+BMI 83 unbekannt, Anmietung 
+bei BIMA 
+    
+BMV 3 Nein nicht zutreffend nicht zutreffend 
+BMV 7       
+BMVg 5 Ja Der Betreiber muss sich an die gesetzlichen 
+Vorgaben halten Der Betreiber muss sich an die gesetzlichen Vorgaben halten 
+BMVg 6 Ja Der Betreiber muss sich an die gesetzlichen 
+Vorgaben halten 
+Der Betreiber muss sich an die gesetzlichen Vorgaben halten 
+BMVg 7 Ja Der Betreiber muss sich an die gesetzlichen 
+Vorgaben halten Der Betreiber muss sich an die gesetzlichen Vorgaben halten 
+BMWE 6       
+ITZBund 2 Ja Teilweise Ja: i, iii 
+ITZBund 3 Ja Teilweise Ja: i, iii, iv 
+ITZBund 4 Nein     
+Anlage 6, Antwort zur Frage 7 der kleinen Anfrage, BT-Drs. Nr. 21/5007  
+„Klimawirkung und Monitoring der Nachhaltigkeit der IT des Bundes bei Rechenzentren“  
+ 
+Ressort Sind
+Nachhaltigkeitskriterien Bestandteil 
+des Vertrags? (Ja/Nein) 
+Wie Verbindlich sind diese Bestandteile? Welche Arten von Nachhaltigkeitskriterien sind das? 
+ITZBund 5 Nein     
+ITZBund 6 Ja Teilweise Ja: i, iii, iv 
+ITZBund 7 Ja Teilweise Ja: i, iii, iv 
+ITZBund 8 Ja Teilweise Ja: i, iii, iv 
+ITZBund 9 Ja Ganz Ja: i, ii, iii, iv 
+ITZBund 11 Nein     
+ITZBund 12 Nein     
+ 
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
