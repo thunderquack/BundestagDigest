@@ -1,0 +1,1523 @@
+Deutscher Bundestag Drucksache 21/5830 
+21. Wahlperiode 29.04.2026
+Unterrichtung 
+durch die Koordinierungsstelle für Digitale Dienste 
+Tätigkeitsbericht 2025 
+Die Koordinierungsstelle für Digitale Dienste (DSC) erstellt jährlich einen
+Tätigkeitsbericht (Art. 55 des Digital Services Act – DSA in Verbindung mit § 17 des 
+Digitale-Dienste-Gesetzes – DDG). Dabei wird auch die Arbeit der anderen
+zuständigen Behörden abgebildet, soweit deren Tätigkeit eine Zuständigkeit nach 
+dem DSA betrifft. Der Bericht wird den gesetzgebenden Körperschaften des
+Bundes sowie der Europäischen Kommission vorgelegt und veröffentlicht. Es handelt 
+sich um einen Bericht, der der Rechenschaft gegenüber dem nationalen Parlament 
+dient und insbesondere gegenüber den nationalen Gesetzgebungsorganen ein
+Element demokratischer Legitimation begründet, dass die Wahrnehmung
+parlamentarischer Verantwortlichkeit ermöglicht. Stand: April 2026 
+Zugeleitet mit Schreiben der Koordinierungsstelle für Digitale Dienste gemäß § 17 Absatz 1 des Digitale-Dienste-
+Gesetzes vom 29. April 2026. 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+2 | KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE 
+Koordinierungsstelle für digitale Dienste (DSC) in der 
+Bundesnetzagentur für Elektrizität, Gas,  
+Telekommunikation, Post und Eisenbahnen 
+DSC in der Bundesnetzagentur 
+Tulpenfeld 4 
+53113 Bonn 
+Tel.: +49 228 14-0 
+Fax: +49 228 14-8872 
+E-Mail: DSC10-Postfach@bnetza.de
+Drucksache 21/5830 Deutscher Bundestag – 21. Wahlperiode– 2 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE | 3 
+Vorwort 
+Mit diesem Tätigkeitsbericht blickt der DSC auf seine vielfältige Arbeit als Koordinierungsstelle für digitale 
+Dienste im Jahr 2025 zurück - und ich auf meine ersten sechs Monate als ihr Leiter. 
+Das erste volle Kalenderjahr der DSA-Umsetzung in Deutschland war ein spannendes und zugleich 
+herausforderndes. Wir haben weiter Aufbauarbeit geleistet, Strukturen und Prozesse konkretisiert und 
+geschärft, die nationale und internationale Zusammenarbeit intensiviert. Politische Ereignisse und 
+Entwicklungen hatten Auswirkungen auf unsere Arbeit und die Arbeit einiger Akteure im Umfeld des DSA. 
+Die vorgezogene Bundestagswahl erforderte sehr kurzfristig verschiedenen Maßnahmen und Vorbereitungen 
+gemäß DSA zur Sicherstellung der Integrität der Wahl.  
+Die geleistete Aufbauarbeit zeigt erste Erfolge. Die Zusammenarbeit der europäischen DSCs untereinander 
+und mit der Europäischen Kommission im Board hat sich etabliert und funktioniert gut. Die Behörden 
+tauschen Informationen aus und unterstützten sich gegenseitig sowie die Europäische Kommission in 
+mehreren DSA-Verfahren gegen sehr große Online Plattformen. Und diese Verfahren zeigen Wirkung: 
+Online-Plattformen werden stärker in die Pflicht genommen, sie ändern ihr Verhalten. Am 5. Dezember 2025 
+hat die Europäische Kommission ein Bußgeld in Höhe von 120 Millionen Euro gegen X verhängt. Einige der 
+größten Online-Plattformen haben von der Europäischen Kommission für verbindlich erklärte Zusagen 
+gemacht, um Bedenken wegen möglicher Verstöße gegen den DSA auszuräumen, andere haben jüngst 
+Maßnahmen zur Stärkung des Schutzes jüngerer Nutzer angekündigt. 
+Gleichzeitig ist der DSA im vergangenen Jahr unter politischen Druck geraten. Nach dem Start der neuen US-
+amerikanischen Administration haben einige Betreiber sehr großer Online-Plattformen ihre bisherigen 
+Compliance-Zusagen teilweise wieder zurückgenommen. Und nicht nur in Bezug auf die Durchsetzung des 
+DSA, auch bei der Strafverfolgung im digitalen Raum, sind erhebliche Hürden entstanden. Wichtig ist, dass 
+der DSA weiterhin nicht zur außenpolitischen Verhandlungsmasse zwischen der EU und den USA wird. 
+National agiert der DSC bei der Umsetzung des DSA nicht allein, sondern eingebunden in ein System aus 
+nationalen Behörden und zivilgesellschaftlichen Institutionen. Bei der Aufsicht arbeitet der DSC eng mit der 
+BfDI, den Landesmedienanstalten und der BzKJ zusammen, die jeweils über eigene Befugnisse in spezifischen 
+Bereichen verfügen. Daneben spielen zivilgesellschaftliche Organisationen und Forschende eine wichtige 
+Rolle bei der Umsetzung des DSA. Expertinnen und Experten beraten als Beirat den DSC in grundsätzlichen 
+Fragen zur wirkungsvollen und einheitlichen Anwendung und Durchsetzung des DSA. Der Datenzugang für 
+die Forschung, auf den wir uns intensiv vorbereitet haben, kann einen entscheidenden Beitrag leisten, die 
+Funktions- und Wirkungsweise der sehr großen Online-Plattformen besser zu verstehen und potenzielle 
+Risiken für User wissenschaftlich zu untersuchen. 
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/5830– 3 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+4 | KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE 
+Die Notwendigkeit zivilgesellschaftlichen Engagements, das einen wichtigen Beitrag für ein faires und 
+sicheres Internet und zum Schutz der Nutzerinnen und Nutzer leistet, darf nicht in Frage gestellt, die Arbeit 
+der Akteure nicht behindert werden. 
+Kurzum: die Durchsetzung des DSA befindet sich noch in einer frühen Phase. Vieles haben wir schon 2025 auf 
+einen guten Weg gebracht. Aber natürlich braucht es Zeit, bis wir größere und spürbare Ergebnisse sehen. Für 
+die Durchsetzung des DSA bedarf es eines langen Atems. 
+So bleibt also auch für dieses Jahr sehr viel zu tun. Als DSC werden wir die aktuellen und kommenden 
+Herausforderungen weiterhin engagniert und motiviert angehen. 
+Johannes Heidelberger 
+Leiter der Koordinierungsstelle für digitale Dienste in der Bundesnetzagentur 
+Drucksache 21/5830 Deutscher Bundestag – 21. Wahlperiode– 4 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE | 5 
+Inhaltsverzeichnis 
+Vorwort ..............................................................................................................................................................................3 
+Inhaltsverzeichnis .........................................................................................................................................................5 
+1 Einleitung ..............................................................................................................................................................7 
+2 Beschwerden und eingeleitete Maßnahmen (Art. 53 DSA) ............................................................9 
+3 Anordnungen nach Art. 9 und 10 DSA ................................................................................................. 11 
+4 Eingesetzte personelle und finanzielle Ressourcen ........................................................................ 13 
+4.1 Für den DSC......................................................................................................13 
+4.2 Für die Landesmedienanstalten ..........................................................................14 
+4.3 Für die KidD......................................................................................................14 
+4.4 Für die BfDI ......................................................................................................14 
+5 Gespräche mit Unternehmen, Verbänden und sonstigen Interessenvertretern .............. 14 
+6 Anzahl und Gegenstand der festgestellten Verstöße gegen den DSA .................................... 15 
+6.1 Durch den DSC festgestellte DSA-Verstöße..........................................................15 
+6.2 Durch die Landesmedienanstalten festgestellte Verstöße ......................................16 
+6.3 Durch die KidD festgestellte Verstöße .................................................................16 
+6.4 Durch die BfDI festgestellte Verstöße ..................................................................17 
+7 Maßnahmen in Verwaltungs- und Ordnungswidrigkeitenverfahren................................... 18 
+7.1 Allgemeines ......................................................................................................18 
+7.2 Getroffene Maßnahmen.....................................................................................18 
+7.2.1 Für den DSC......................................................................................................18 
+7.2.2 Für die KidD......................................................................................................18 
+7.2.3 Für die BfDI ......................................................................................................18 
+8 Zusammenarbeit auf europäischer Ebene .......................................................................................... 19 
+8.1 European Board for Digital Services (EBDS) .........................................................19 
+8.2 Unterstützung in Verfahren der Europäischen Kommission..................................20 
+8.3 Grenzüberschreitender Zusammenarbeit zwischen DSCs......................................20 
+8.4 EU-Verordnung über die Transparenz und das Targeting politischer Werbung .......21 
+9 Zusammenarbeit auf nationaler Ebene ................................................................................................ 21 
+10 Zertifizierung außergerichtlicher Streitbeilegungsstellen .......................................................... 23 
+11 Zertifizierung vertrauenswürdiger Hinweisgeber........................................................................... 24 
+12 Datenzugang für Forschende .................................................................................................................... 25 
+Anlage 1: Übersicht der vom DSC geführten Gespräche ......................................................................... 27 
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/5830– 5 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+
+KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE | 7 
+ 
+1 Einleitung  
+Der DSA schafft einen europaweit einheitlichen Rechtsrahmen für eine sichere, vorhersehbare und 
+vertrauenswürdige Online-Umgebung. Er macht Vorgaben für sogenannte Vermittlungsdienste wie Online-
+Plattformen, Hostingdienste und Suchmaschinen. Der DSA normiert die Spielregeln, die Vermittlungsdienste 
+beachten müssen. Was genau online und offline rechtswidrig ist, richtet sich aber weiterhin nach dem Recht 
+der Mitgliedsstaaten und vereinzelten Bestimmungen auf europäischer Ebene, beispielsweise zum Strafrecht, 
+Urheberrecht, Recht der Produktsicherheit oder zur Lebensmittel-Kennzeichnung.  
+Zu den Regelungen des DSA gehören insbesondere Transparenzpflichten. Online-Plattformen müssen zum 
+Beispiel offenlegen, wie sie Inhalte moderieren und nach welchen Parametern Empfehlungssysteme arbeiten. 
+Außerdem gibt es neue Möglichkeiten zur Stärkung des zivilgesellschaftlichen Engagements. So können sich 
+vertrauenswürdige Hinweisgeber und außergerichtliche Streitbeilegungsstellen zertifizieren lassen. Weitere 
+Regelungen betreffen den Schutz der Privatsphäre und die Sicherheit von Kindern und Jugendlichen. 
+Für besonders große Anbieter, sogenannte sehr große Online-Plattformen (VLOPs) und sehr große Online-
+Suchmaschinen (VLOSEs) mit durchschnittlich mehr als 45 Millionen aktiven Nutzerinnen und Nutzer im 
+Monat innerhalb der Europäischen Union, gelten weitergehende Anforderungen. Sie müssen beispielsweise 
+systemische Risiken bewerten und Risikominderungsmaßnahmen ergreifen. 
+Die Umsetzung des DSA erfolgt in jedem Mitgliedstaat durch die nationalen Koordinatoren für digitale 
+Dienste (Digital Services Coordinators) und andere nationale Regulierungsbehörden, die in den 
+Mitgliedstaaten als zuständige Behörden benannt wurden. Für VLOPs und VLOSEs ist zum Beispiel im Bereich 
+systemischer Risiken die Europäische Kommission ausschließlich zuständig. 
+Die Koordinierungsstelle für digitale Dienste (DSC) in der Bundesnetzagentur für Elektrizität, Gas, 
+Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur) wurde durch das Digitale-Dienste-Gesetz 
+für alle Fragen im Zusammenhang mit der Überwachung und Durchsetzung des DSA gegenüber Anbietern 
+von Vermittlungsdiensten mit Sitz oder gesetzlichem Vertreter in Deutschland als zuständige Behörde 
+bestimmt, soweit nicht nach § 12 Digitale-Dienste-Gesetz (DDG) die Landesmedienanstalten, die Stelle zur 
+Durchsetzung von Kinderrechten in digitalen Diensten (KidD) bei der Bundeszentrale für Kinder- und 
+Jugendmedienschutz (BzKJ) oder die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit 
+(BfDI) für bestimmte Vorschriften als zuständig benannt werden.  
+In seiner koordinierenden Funktion erstellt der DSC jährlich einen Tätigkeitsbericht (Art. 55 DSA in 
+Verbindung mit § 17 DDG). Dabei wird auch die Tätigkeit der anderen zuständigen Behörden abgebildet, 
+soweit deren Tätigkeit eine Zuständigkeit nach dem DSA betrifft. Der Bericht wird den gesetzgebenden 
+Körperschaften des Bundes vorgelegt und veröffentlicht. Der DSC legt den Bericht ferner der Europäischen 
+Kommission und dem European Board of Digital Services (EBDS) vor. 
+Der Inhalt des Tätigkeitsberichts ergibt sich insbesondere aus Art. 55 Abs. 1, 2 DSA sowie aus § 17 Abs. 2 DDG. 
+Pflichtinhalte sind: 
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/5830– 7 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+8 | KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE  
+1. die Anzahl der eingegangenen Beschwerden gemäß Art. 53 der Verordnung (EU) 2022/2065 und eine 
+Übersicht über die aufgrund der Beschwerden eingeleiteten Maßnahmen, 
+2. die Anzahl und den Gegenstand der Anordnungen zum Vorgehen gegen rechtswidrige Inhalte und der 
+Auskunftsanordnungen, die gemäß den Art. 9 und 10 der Verordnung (EU) 2022/2065 von den nationalen 
+Justiz- oder Verwaltungsbehörden erlassen wurden, 
+3. die Anzahl und den Gegenstand der Ausführungen der in Nummer 2 genannten Anordnungen, wie sie 
+dem DSC gemäß den Art. 9 und 10 der Verordnung (EU) 2022/2065 mitgeteilt wurden, 
+4. Angaben zu den eingesetzten personellen und finanziellen Ressourcen, 
+5. Anzahl der Gespräche, aufgeschlüsselt nach Datum und Namen der Organisation, die der DSC mit 
+Vertreterinnen und Vertretern von Unternehmen, Verbänden oder sonstigen Interessenvertretern im 
+Zusammenhang mit den ihr gesetzlich zugewiesenen Aufgaben zur Durchsetzung der Verordnung (EU) 
+2022/2065 geführt hat, 
+6. Anzahl und Gegenstand der festgestellten Verstöße gegen die Verordnung (EU) 2022/2065 sowie 
+7. Anzahl eingeleiteter Ordnungswidrigkeitenverfahren nach § 33 und weiterer eingeleiteter Maßnahmen 
+nach § 27 sowie die Höhe der festgesetzten Buß- und Zwangsgelder. 
+Zusätzlich enthält der Bericht Informationen zur Zusammenarbeit mit der Europäischen Kommission und 
+den nationalen DSCs der anderen Mitgliedsstaaten im EBDS sowie zur Zusammenarbeit auf nationaler Ebene. 
+Darüber hinaus wird ein Überblick über die Tätigkeiten zur Zertifizierung von außergerichtlichen 
+Streitbeilegungsstellen gem. Art. 21 Abs. 3 DSA und vertrauenswürdigen Hinweisgebern gem. Art. 22 Abs. 2 
+DSA sowie zum Datenzugang für Forschende gem. Art. 40 DSA gegeben. 
+  
+Drucksache 21/5830 Deutscher Bundestag – 21. Wahlperiode– 8 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE | 9 
+2 Beschwerden und eingeleitete Maßnahmen (Art. 53 DSA) 
+Der Art. 53 DSA gibt allen Nutzerinnen und Nutzern von Vermittlungsdiensten das Recht, sich zu beschweren, 
+wenn sie die Auffassung vertreten, dass gegen den DSA verstoßen wurde. Auch Organisationen, 
+Einrichtungen oder Vereinigungen, die im Auftrag anderer deren Rechte vertreten, sind berechtigt, eine 
+solche Beschwerde einzureichen. Beschwerden sind an den DSC desjenigen Mitgliedstaats zu richten, in dem 
+der Nutzende des Dienstes sich aufhält oder niedergelassen ist. Der DSC prüft die Beschwerden und leitet sie 
+gegebenenfalls zusammen mit einer Stellungnahme an den DSC des Mitgliedstaats weiter, in dem der 
+Anbieter des betroffenen Vermittlungsdienstes niedergelassen ist oder seinen gesetzlichen Vertreter benannt 
+hat. Wenn eine andere Behörde nach Art. 49 DSA im selben Land für die Beschwerde zuständig ist, leitet der 
+DSC die Beschwerde dorthin weiter. 
+Der DSC erhält Beschwerden aus Deutschland, aber auch aus anderen EU-Mitgliedstaaten über das EU-
+Informationsaustauschsystem „AGORA“. Nach wie vor werden die dafür notwendigen IT-Prozesse weiter 
+verbessert.  
+Auf der Internetseite https://www.dsc.bund.de/ stellt der DSC ein Nutzerportal mit einem 
+Beschwerdeformular zur Verfügung, welches Schritt für Schritt durch den Beschwerdeprozess führt. Es bietet 
+Auswahlmöglichkeiten und Erläuterungen, um das Einreichen einer Beschwerde zu erleichtern. Nutzerinnen 
+und Nutzer können Dateien wie zum Beispiel Screenshots hochladen, um mögliche Verstöße gegen den DSA 
+zu belegen. Im Beschwerdeformular wird jedoch explizit darauf hingewiesen, dass der DSC nicht dafür 
+zuständig ist, rechtswidrige Inhalte entfernen zu lassen. Solche Inhalte müssen direkt bei den jeweiligen 
+Plattformen gemeldet werden. Alle Plattformen und Hosting Services Provider sind nach Art. 16 Abs. 1 DSA 
+verpflichtet, dafür ein funktionierendes, leicht zugängliches und benutzerfreundliches Meldesystem 
+bereitzustellen.  
+In dem Tätigkeitsbericht sind ausschließlich solche Beschwerden aufzuführen, die beim DSC eingegangen 
+sind.  
+Beschwerden im Jahr 2025 
+Im Berichtszeitraum 2025 verzeichnete der DSC 3321 Eingänge (eingeschlossen Nachträge zu bestehenden 
+Beschwerden) über das DSC-Beschwerdeportal. Es handelte sich dabei um 2033 Beschwerden nach Art. 53 
+DSA, also um solche, die einen möglichen Verstoß gegen den DSA anzeigen. 332 Eingänge über das 
+Nutzerportal hatten keinen Bezug zum DSA. 
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/5830– 9 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+10 | KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE  
+ 
+Per Fax, E-Mail oder Brief erreichten 2688 Eingänge zu Digitalthemen den DSC, die beantwortet oder 
+hausintern weitergeleitet wurden. Dabei handelte es sich nur teilweise um DSA-Beschwerden, bei welchen die 
+Beschwerdeführenden auf das Nutzerportal verwiesen wurden. Zahlreiche dieser Eingänge betrafen Verstöße 
+gegen die Impressumspflicht oder den Datenschutz, Beschwerden über betrügerische Webseiten, 
+Geschäftsmodelle oder Dienstleister sowie Abo-Fallen, Probleme bei der (Rück-)Abwicklung von Online-
+Käufen, Rufnummernmissbrauch oder Probleme mit Internetzugangsanbietern oder dem 
+Hostproviderwechsel. 
+Neben dem DSC in der Bundesnetzagentur haben drei weitere Behörden spezielle Zuständigkeiten bei der 
+Umsetzung des DSA. Dies sind: 
+1. die KidD in der BzKJ, 
+2. die Landesmedienanstalten, koordiniert durch die LfM NRW, sowie 
+3. die BfDI. 
+Von den Beschwerden nach Art. 53 DSA wurden drei an die anderen zuständigen Behörden, konkret an die 
+Landesmedienanstalten, weitergeleitet. Daneben wurden in 2025 insgesamt 255 Beschwerden an DSCs 
+anderer EU-Mitgliedstaaten weitergeleitet. Eine Beschwerdewurde vom deutschen DSC per E-Mail an die 
+Europäische Kommission übermittelt. 
+Weitergeleitete Beschwerden 2025 
+EU-Mitgliedsland Anzahl der Beschwerden 
+Belgien 6 
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+Q4 2025 Q3 2025 Q2 2025 Q1 2025 Q4 2024 Q3 2024 Q2 2024 Q1 2024
+DSA-Beschwerden
+Beschwerden Nachträge zu Beschwerden
+Drucksache 21/5830 Deutscher Bundestag – 21. Wahlperiode– 10 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE | 11 
+ 
+Dänemark  1 
+Frankreich 1 
+Irland  237 
+Luxemburg  3 
+Niederlande 2 
+Tschechische Republik 4 
+Zypern 1 
+ 
+Die Übermittlung der Beschwerden an die anderen DSCs erfolgt über das von der Europäischen Kommission 
+bereitgestellte Informationsaustauschsystem AGORA. Derzeit können Beschwerden inklusive der 
+dazugehörigen Dokumentation lediglich manuell in AGORA eingepflegt werden, da keine technische 
+Schnittstelle existiert. Alle weiterzuleitenden Beschwerden werden ins Englische übersetzt. 
+Dem deutschen DSC wurden im Berichtszeitraum zehn Beschwerden von DSCs eines anderen EU-
+Mitgliedsstaates über AGORA übermittelt. Dabei kamen drei Beschwerden aus Dänemark, je zwei 
+Beschwerden aus Finnland und Litauen und je eine aus Luxemburg, Österreich und Schweden. 
+ 
+3 Anordnungen nach Art. 9 und 10 DSA 
+Der Art. 9 DSA regelt, was Anbieter von Vermittlungsdiensten tun müssen, wenn sie von nationalen
+Justizoder Verwaltungsbehörden eine Anordnung, d.h. einen Verwaltungsakt oder eine gerichtliche Entscheidung 
+erhalten, mit der sie verpflichtet werden, gegen illegale Inhalte vorzugehen. Sobald ein Anbieter eine solche 
+Anordnung erhält, muss er die ausstellende oder eine andere benannte Behörde informieren, ob und wann er 
+die Anordnung umgesetzt hat. 
+Die Behörde, die die Anordnung erlassen hat, muss diese sowie alle Informationen über ihre Ausführung an 
+den DSC weitergeben. Dieser wiederum leitet entsprechend der gesetzlichen Vorgaben die Anordnung an die 
+DSCs anderer Mitgliedstaaten weiter.  
+Der Art. 10 DSA enthält vergleichbare Regelungen für Auskunftsanordnungen. Im Gegensatz zu den in Art. 9 
+DSA behandelten Entfernungsanordnungen geht es bei solchen nach Art. 10 DSA um Anordnungen zur 
+Bereitstellung von Informationen über einzelne Nutzende der Dienste.  
+Die Anordnungen nach Art. 9 und 10 DSA müssen bestimmte formale Anforderungen erfüllen, welche 
+denjenigen des Verwaltungsverfahrensgesetzes, des SGB X sowie den Verfahrensordnungen für gerichtliche 
+und staatsanwaltschaftliche Entscheidungen weitgehend entsprechen.  
+Darüber hinaus bestimmt der DSA, dass der Vermittlungsdienst grundsätzlich den betroffenen Nutzenden 
+über die Anordnung zu informieren hat. Ausnahmen von den Verpflichtungen in Bezug auf die inhaltliche 
+Gestaltung der Anordnungen, die Verpflichtung zur Information des Nutzenden aber auch die Weitergabe an 
+den DSC können sich insbesondere aus der Auslegung nationalen Straf- und Zivilprozessrechts ergeben, Art. 9 
+Abs. 6 und Art. 10 Abs. 6 DSA. Dementsprechend gibt es insbesondere im strafrechtlichen Kontext eine 
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/5830– 11 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+12 | KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE  
+Vielzahl von Ermittlungsanordnungen, die nicht an den DSC übermittelt werden können und über die 
+entsprechend der spezialgesetzlichen Normen betroffene Nutzende keine unverzügliche Kenntnis erhalten. 
+Die Beurteilung, ob ein solcher Ausnahmefall vorliegt, obliegt der rechtlichen Beurteilung der jeweiligen 
+erlassenden Behörde. Die in diesem Bericht aufgeführte Statistik der Anordnungen gibt daher nicht alle in 
+Deutschland erlassenen Anordnungen wieder.  
+Das Portal des DSC für die Übermittlung von Anordnungen nach Art. 9 und 10 DSA steht seit November 2024 
+ausschließlich für Justiz- und Verwaltungsbehörden zur Verfügung und wurde seit dem ersten Quartal 2025 
+sukzessive bekannt gemacht. Die Übermittlung von Anordnungen über das Portal lief im Jahr 2024 sehr 
+langsam an und steigerte sich auch im Jahr 2025 erst nach und nach. Den DSC haben über das eingerichtete 
+Portal im Jahr 2025 19 Anordnungen nach Art. 9 Abs. 1 DSA sowie 23 Anordnungen nach Art. 10 Abs. 1 DSA 
+erreicht. Die Anordnungen verteilen sich wie folgt auf unterschiedliche Behörden: 
+Art. 9 DSA-Anordnungen Informationen zur Ausführung Anzahl 
+Gemeiname Glücksspielbehörde der Länder  
+Mit Informationen zur Ausführung 
+der Anordnung 1 
+ohne Informationen zur 
+Ausführung 3 
+Landesmedienanstalten  
+Mit Informationen zur Ausführung 
+der Anordnung 8 
+Klage gegen die Anordnung 3 
+ohne Informationen zur 
+Ausführung 2 
+Polizei 
+Mit Informationen zur Ausführung 
+der Anordnung 1 
+ohne Informationen zur 
+Ausführung 1 
+ 
+Art. 10 DSA-Anordnungen Informationen zur Ausführung Anzahl 
+Gemeiname Glücksspielbehörde der Länder  
+ohne Informationen zur 
+Ausführung der Anordnung 1 
+Landesmedienanstalten  
+Mit Informationen zur Ausführung 
+der Anordnung 4 
+Polizei 
+Mit Informationen zur Ausführung 
+der Anordnung 15 
+ohne Informationen zur 
+Ausführung der Anordnung 1 
+Staatsanwaltschaft 
+ohne Informationen zur 
+Ausführung 2 
+ 
+Darüber hinaus haben die Landesmedienanstalten textalisch mitgeteilt, drei weitere Anordnungen erlassen zu 
+haben. Die insgesamt 16 Anordnungen, die im Jahr 2025 erlassen wurden, verteilten sich auf folgende Inhalte: 
+sieben Fälle von Volksverhetzung, drei Fälle der Verwendung von Kennzeichen verfassungswidriger 
+Drucksache 21/5830 Deutscher Bundestag – 21. Wahlperiode– 12 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE | 13 
+ 
+Organisationen, vier Fälle von Holocaustleugnung, zwei Verstöße mit Bezug zu Gewalt beziehungsweise 
+Verletzung der Menschenwürde. Neun Inhalte wurden gelöscht. Rechtsgrundlage war jeweils § 4 Abs. 1 und 2 
+Jugendmedienschutzstaatsvertrag (JMStV). 
+Behörden gehen jedoch nicht nur mit Anordnungen gegen rechtswidrige Online-Inhalte vor. Neben 
+Anordnungen als vollziehbaren Handlungsaufforderungen gibt es eine weitaus größere Anzahl 
+unverbindlicher Lösch- und Auskunftsaufforderungen (sogenannte „referrals“), die nicht den Art. 9 und 10 
+DSA unterfallen. Exemplarisch dafür ist das Vorgehen der Landesmedienanstalten: Beim Vorgehen gegen 
+rechtswidrige Inhalte folgen diese einem abgestuften Ansatz. Nach Nutzung der ihnen zur Verfügung stehen 
+Meldewege bei den Vermittlungsdiensten und Aufforderung zur Löschung des rechtswidrigen Inhalts wird 
+mit einer Anhörung das Verwaltungsverfahren eingeleitet. Ein Bescheid, das heißt die Anordnung im Sinne 
+von Art. 9 DSA erfolgt nur, wenn auch nach Anhörung der Inhalt nicht entfernt wird.  
+ 
+4 Eingesetzte personelle und finanzielle Ressourcen  
+4.1 Für den DSC 
+Im Rahmen des nationalen Rechtssetzungsverfahren wurde im Entwurf zum DDG ein Bedarf von insgesamt 
+70,56 Planstellen für Fachaufgaben geschätzt. Von diesen entfallen 41,35 Planstellen auf den höheren Dienst, 
+23,01 auf den gehobenen Dienst und 6,20 auf den mittleren Dienst. Hinzu kommen weitere 20,8 Planstellen 
+für querschnittliche Aufgaben (u.a. IT-Technik, Personalbearbeitung, Beschaffung, Presseangelegenheiten und 
+Justiziariat).  
+Bei der Bundesnetzagentur wurden bereits mit dem Haushalt 2024 für die Aufgaben des DSC zunächst 15 
+neue Planstellen zur initialen Aufgabenerfüllung etatisiert. Darüber hinaus wurden noch im laufenden 
+Haushalt 2024 weitere 33 Stellen aus dem Bereich des Bundesamtes für Justiz (BfJ) in den Haushalt der 
+Bundesnetzagentur umgesetzt. Diese Stellen waren beim BfJ ursprünglich für Aufgaben des 
+Netzwerkdurchsetzungsgesetzes (NetzDG), das im DDG fachlich aufgegangen ist, vorgesehen. Sie trugen auch 
+bei der Bundesnetzagentur zunächst noch einen entsprechenden Vermerk "künftig wegfallend" (kw 
+31.12.2025), der jedoch mit dem Haushalt 2025 entfallen ist.  Im Rahmen der Haushaltsaufstellung 2025 und 
+2026 konnten keine weiteren Planstellen für den DSC etatisiert werden. Abzüglich einer zwischenzeitlich 
+erfolgten Stellenhebung innerhalb des DSC hätten somit in Summe für die Aufgaben insgesamt 47,8 
+Planstellen zur Verfügung gestanden. Die Finanzierung von sogenannten Personaleinzelkosten und anteiligen 
+Sachkosten für zehn dieser Stellen war jedoch bis Ende 2025 nicht gegeben, ist aber in 2026 vorgesehen. 3,8 
+Stellen unterlagen bereits der allgemeinen Stelleneinsparung oder werden in Querschnittsbereichen für 
+Aufgaben des DSC eingesetzt. 
+Es sind 34 Dienstposten (vollzeitäquivalent) dem DSC zugeordnet; zum Stichtag 31.12.2025 waren 30 
+Dienstposten besetzt; für die übrigen Dienstposten laufen fortgeschrittene Besetzungsverfahren.  
+Die für den DSC im Haushaltsgesetz vom 30.09.2025 für das Jahr 2025 ausgewiesenen jährlichen Sachkosten in 
+Höhe von 1,7 Mio. Euro wurden über den Haushalt der Bundesnetzagentur bereitgestellt und eingesetzt. 
+Aufgrund der vorläufigen Haushaltsführung in den ersten neun Monaten des Jahres konnten zahlreiche 
+geplante Vorhaben im Haushaltsjahr 2025 nicht finanzwirksam durchgeführt werden, sodass die Mittel nur 
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/5830– 13 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+14 | KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE 
+anteilig ausgeschöpft wurden. Die veranschlagten Mittel betreffen den Betrieb und die Weiterentwicklung 
+erforderlicher IT-Verfahren, die Nutzung von Software und Lizenzen, Fortbildung, Schulungen, 
+Netzwerkarbeit und die Durchführung von Konferenzen.  
+Die für den DSC im Haushaltsgesetz ausgewiesenen jährlichen Mittel zur Durchführung von Studien und 
+Forschungsprojekten wurden ausgeschöpft. Die durchgeführeten Studien sind unter 
+https://www.dsc.bund.de/DE/Fachthemen/DSC/1_Themen/StudienundForschung/start.html veröffentlicht. 
+Darüber hinaus werden sogenannte Sacheinzelkosten als pauschaler Betrag für jeden Beschäftigten des DSC 
+aus dem Haushalt der Bundesnetzagentur in Anspruch genommen, die insbesondere den Aufwand für die 
+Standard-IT-Ausstattung, Mietkosten, Büromöbel und weitere generell für Beschäftigte einer Behörde 
+anfallenden Sachmittel und Aufwände abdecken. Von einer Ermittlung einzelner kleinteiliger Beträge dieser 
+Ausgaben für den DSC wird jedoch nicht zuletzt aufgrund von Sammelbeschaffungen zahlreicher 
+Ausstattungsgegenstände aus verwaltungsökonomischen Gründen abgesehen. 
+4.2 Für die Landesmedienanstalten 
+Die Medienanstalten setzen den DSA im Rahmen Ihrer bereits vor dem Inkrafttreten des DDG bestehenden 
+Zuständigkeiten aus dem Medienstaatsvertrag (MStV) sowie dem JMStV durch. Für die Aufgaben aus dem DSA 
+und die Zusammenarbeit auf europäischer Ebene werden die vorhandenen Ressourcen eingesetzt.  
+4.3 Für die KidD 
+Die Stelle zur Durchsetzung von Kinderrechten in digitalen Diensten war mit acht Personen im Jahr 2025 
+durchgängig besetzt. Es wurden der Stelle finanzneutral 100.000 Euro im Haushalt im Kapitel 1714 der BzKJ 
+bereitgestellt.  
+4.4 Für die BfDI 
+Die BfDI hat im Jahr 2025 für Tätigkeiten mit Bezug zum DSA ca. 0,6 Vollzeitäquivalente (ca 0,5 hD, ca. 0,1 gD) 
+eingesetzt. Die im Erfüllungsaufwand des DDG geschätzten Stellen wurden nicht abgerufen. Die Aufgaben 
+konnten bislang mit den bestehenden Personalressourcen der BfDI wahrgenommen werden. 
+5 Gespräche mit Unternehmen, Verbänden und sonstigen 
+Interessenvertretern 
+Der DSC führt im Rahmen seiner Tätigkeit zahlreiche Gespräche mit Vertretern von Wissenschaft, Wirtschaft 
+und Zivilgesellschaft. Diese Gespräche dienen dazu, Entwicklungen frühzeitig zu erkennen und ein für die 
+Regulierung erforderliches umfassendes Bild des regulierten Bereiches zu erhalten.  
+Nach § 17 Abs. 2 Nr. 5 DDG enthält der Tätigkeitsbericht die Anzahl der Gespräche, aufgeschlüsselt nach 
+Datum und Namen der Organisation, die die Koordinierungsstelle für digitale Dienste mit Vertreterinnen und 
+Vertretern von Unternehmen, Verbänden oder sonstigen Interessenvertretern im Zusammenhang mit den ihr 
+gesetzlich zugewiesenen Aufgaben zur Durchsetzung der Verordnung (EU) 2022/2065 geführt hat. Gespräche 
+im Rahmen von Verwaltungsverfahren sind hierin nicht enthalten. Diese Vorschrift dient dazu, Transparenz 
+über das Handeln des DSC zu schaffen.  
+Drucksache 21/5830 Deutscher Bundestag – 21. Wahlperiode– 14 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE | 15 
+ 
+Die Übersicht der Gespräche ist als Anlage beigefügt. 
+ 
+6 Anzahl und Gegenstand der festgestellten Verstöße gegen den DSA 
+Innerhalb der sachlichen und örtlichen Grenzen der Zuständigkeit, Art. 56 Abs. 1 DSA, können der DSC und 
+die anderen national zuständigen Behörden Verstöße gegen den DSA feststellen. Örtlich sind der DSC und die 
+anderen national zuständigen Behörden für die Durchsetzung des DSA gegenüber Anbietern von 
+Vermittlungsdiensten mit Sitz oder gesetzlichem Vertreter in Deutschland zuständig. Welche Maßnahmen sie 
+dann ergreifen können, wird im nächsten Abschnitt beschrieben. 
+Soweit der DSC oder eine andere national zuständige Behörde nach § 12 Abs. 2 Satz 1, Abs. 3 DDG (BfDI und 
+KidD) Anhaltspunkte dafür hat, dass ein Vermittlungsdienst die Vorgaben des DSA nicht einhält, entscheidet 
+die jeweilige Behörde über die Einleitung eines Verfahrens, um den Sachverhalt zu ermitteln und konkrete 
+Maßnahmen anzuordnen. Dies kann entweder in einem Verwaltungsverfahren (§ 27 DDG) oder in einem 
+Bußgeldverfahren (§ 33 DDG) geschehen.  
+Zur Sachverhaltsermittlungen im Rahmen von Verwaltungsverfahren richtet der DSC v.a. Auskunftsersuchen 
+(§ 25 DDG) an die Diensteanbieter. Wenn die Anbieter daraufhin die adressierten Mängel beheben, sind meist 
+keine weiteren Maßnahmen notwendig. Unabhängig davon hat der DSC weitere Ermittlungsbefugnisse (vgl. 
+24 -26 DDG).  
+Die Handlungsbefugnisse der Landesmedienanstalten richten sich im Rahmen der europarechtlich auf 
+Deutschland übertragenen Kompetenzen nach Landesrecht.  
+6.1 Durch den DSC festgestellte DSA-Verstöße 
+Der DSC erhält Hinweise auf mögliche DSA-Verstöße in erster Linie durch Beschwerden von Nutzerinnen 
+und Nutzern. Teilweise wird der DSC auch auf andere Weise auf einen möglichen Verstoß aufmerksam (z.B. 
+durch Medienberichte oder im Rahmen der grenzüberschreitenden Zusammenarbeit der DSCs durch 
+Aufforderung nach Art. 58 Abs. 1 DSA durch einen anderen DSC, die Angelegenheit zu prüfen). Wenn solche 
+Hinweise, in der Regel ergänzt durch weitere Ermittlungen, ausreichend belegt sind und sich auf 
+Diensteanbieter mit Sitz oder gesetzlichem Vertreter in Deutschland beziehen, leitet der DSC Verfahren ein. 
+Der DSC ist insoweit zur fehlerfreien Ermessensausübung verpflichtet. Ein mögliches Vorgehen können 
+Verwaltungs- oder Bußgeldverfahren sein. Bis zum Ende des Berichtszeitraums 2025 hat der DSC insgesamt 
+30 Verwaltungsverfahren gegen Diensteanbieter eingeleitet, davon vier im Jahr 2024 und 26 im Jahr 2025. 
+In den Verfahren aus dem Jahr 2025 geht es in zwölf Verfahren um mögliche Verstöße gegen DSA-
+Anforderungen an die Einrichtung von Melde- und Abhilfeverfahren (Art. 16 DSA), die Begründung von 
+Maßnahmen gegenüber Nutzern (Art. 17 DSA) sowie die Ausgestaltung des internen 
+Beschwerdemanagementsystems der Plattformen (Art. 20 DSA). Durch zeitnahe Beseitigung der Mängel 
+seitens des Diensteanbieters konnten zwei der Verfahren 2024 und acht Verfahren 2025 bereits abgeschlossen 
+werden. In den 20 anderen Verfahren sind die Ermittlungen noch nicht abgeschlossen bzw. werden 
+weitergehende aufsichtsrechtliche Maßnahmen vorbereitet. 
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/5830– 15 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+16 | KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE  
+Allerdings finden sich weiterhin zahlreiche Diensteanbieter, die die Anforderungen des DSA entweder nicht 
+oder nur sehr unzureichend umgesetzt haben. Hierzu gehört auch die Verpflichtung für Online-Plattformen 
+aus Art. 24 Abs. 5 DSA, einschränkende Moderationsentscheidungen an die von der Europäischen 
+Kommission betriebene DSA Transparency Database zu übermitteln. Um dieser wichtigen 
+Transparenzanforderung nachzukommen, müssen sich die Plattformen zuvor für die Datenbank registrieren. 
+Das anschließende Onboardingverfahren führt der DSC im Auftrag der Kommission durch. Der DSC ermittelt 
+Online-Plattformen, die ihrer Pflicht zum Onboarding nicht nachkommen und fordert sie zur Registrierung 
+auf. Im Berichtszeitraum konnten hierdurch 21 neue Onboardingverfahren eingeleitet werden. 
+6.2 Durch die Landesmedienanstalten festgestellte Verstöße 
+Die Medienanstalten sind die zuständigen Behörden für die Durchsetzung von Art. 28 Abs. 1 DSA, sofern 
+konkreten Einzelmaßnahmen nach dem JMStV betroffen sind. Die Landesmedienanstalten haben im 
+Geltungsbereich des Art. 56 Abs. 1 DSA (Online-Plattformen mit Sitz oder gesetzlichem Vertreter in 
+Deutschland) keine Verstöße gegen Art. 28 Abs. 1 DSA festgestellt.1 Allerdings wurden bezüglich möglicher 
+Verstöße gegen Art. 28 DSA durch Online-Plattformen mit Sitz im Ausland durch die Medienanstalten zwei 
+Unterstützungsersuchen nach Art. 58 DSA über den DSC in der Bundesnetzagentur an den jeweils 
+zuständigen DSC initiiert. Die Medienanstalten erreichten darüber hinaus zwei Unterstützungsersuchen 
+bezüglich einer in Deutschland ansässigen Online-Plattform. Diesbezüglich wurde die Prüfung am Ende des 
+Berichtszeitraums eingeleitet, jedoch noch nicht abgeschlossen. 
+6.3 Durch die KidD festgestellte Verstöße 
+Im Juli 2025 hat die Europäische Kommission gemäß Art. 28 Abs. 4 DSA Leitlinien zu Art. 28 Abs. 1 DSA 
+erlassen. Im zweiten Halbjahr 2025 hat die KidD unter Berücksichtigung dieser Leitlinien Angebote 
+ausgewertet. Maßnahmen wurden bislang nicht getroffen und auch keine Ordnungswidrigkeitenverfahren 
+eingeleitet. Solche setzen abgeschlossene Anbieterdialoge voraus, was derzeit noch nicht gegeben ist. Zu dem 
+Verfahrensstand im Einzelnen: 
+Handlungsschritte im Bereich 
+Anbietervorsorge (Art. 28 Abs. 1 DSA/  
+§ 24a JuSchG) 
+Handlungssschritte Anzahl Fälle 
+Gesichtete und ausgewertete Angebote 31 
+Gutachten  11 
+Angeforderte „erste Einschätzung“ von jugendschutz.net nach § 24b Abs. 
+2 JuSchG 4 
+Erhaltene „erste Einschätzung“ von jugendschutz.net nach § 24b Abs. 2 
+JuSchG 11 
+Angeforderte Stellungnahmen von der KJM nach § 24b Abs. 2 JuSchG 12 
+ 
+1 Die Landesmedienanstalten haben bei 10 Online-Plattformen (sowie ihren diversen Mirror-Domains) mit Sitz im EU-Ausland 
+(außerhalb des Anwendungsbereichs Art. 56 DSA) Verstöße gegen Verpflichtungen im Zusammenhang mit der Bereitstellung 
+angemessener Altersverifikationssysteme festgestellt, die nach wie vor nicht abgestellt sind und sich in Teilen bereits in der 
+gerichtlichen Klärung befinden. 
+Drucksache 21/5830 Deutscher Bundestag – 21. Wahlperiode– 16 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE | 17 
+ 
+Erhaltene Stellungnahmen von der KJM nach § 24b Abs. 2 JuSchG 6 
+Aufforderungen an Anbieter nach § 24b Abs. 3 JuSchG zur Stellungnahme 12 
+Erhaltene Stellungnahmen nach § 24b Abs. 3 JuSchG 11 
+Anbieterdialoge 8 
+Erfolgreiche Abhilfe seitens der Anbieter nach Dialog § 24b Abs. 3 JuSchG 0 
+Anordnungen von Vorsorgemaßnahmen nach § 24b Abs. 4 JuSchG 0 
+Angeforderte Stellungnahmen zentraler Aufsichtsstelle der Länder für 
+den Jugendmedienschutz nach § 24b Abs. 4 JuSchG 0 
+Erhaltene Stellungnahmen zentraler Aufsichtsstelle der Länder für den 
+Jugendmedienschutz nach § 24b Abs. 4 JuSchG 0 
+Verfahren eingestellt 7 
+ 
+Auch in Bezug auf die Verpflichtungen von Vermittlungsdiensten nach Art. 14 Abs. 3 DSA, ihre Bedingungen 
+und jegliche Einschränkungen in kindgerechter Sprache zu erläutern, wurden zahlreiche Angebote überprüft. 
+Der Verfahrensstand insoweit stellt sie wie folgt dar:  
+Handlungsschritte im Bereich 
+kindgerechte AGB (Art. 14 Abs. 3 
+Digital Services Act, DSA) 
+Handlungssschritte Anzahl Fälle 
+Gesichtete und ausgewertete Angebote 39 
+Aufforderungen an Anbieter nach § 24b Abs. 3 JuSchG zur Stellungnahme 5 
+Erhaltene Stellungnahmen nach § 24 b Abs. 3 JuSchG 4 
+Anbieterdialoge 5 
+Erfolgreiche Abhilfe seitens der Anbieter nach Dialog § 24b Abs. 3 JuSchG 0 
+Anordnungen der kindgerechten Erklärung der AGB nach § 27 Abs. 3 
+DDG 0 
+Festsetzung eines Zwangsgeldes nach § 27 Abs. 4 DDG 0 
+Einleitung eines Bußgeldverfahrens nach § 33 Abs. 5 Nr. 6 DDG 0 
+Erlass eines Bußgeldbescheides (§ 33 Abs. 6 und 7 DDG) 0 
+Verfahren eingestellt 17 
+ 
+6.4 Durch die BfDI festgestellte Verstöße 
+Die BfDI hat keine Verstöße festgestellt. 
+  
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/5830– 17 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+18 | KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE  
+7 Maßnahmen in Verwaltungs- und Ordnungswidrigkeitenverfahren 
+7.1 Allgemeines 
+Stellen der DSC oder eine andere national zuständige Behörde gemäß § 12 Abs. 2 Satz 1, Abs. 3 DDG einen 
+Verstoß gegen den DSA fest, können Maßnahmen nach § 27 Abs. 2 DDG im Rahmen eines 
+Verwaltungsverfahrens und/oder nach § 33 DDG im Rahmen eines Ordnungswidrigkeitenverfahrens 
+getroffen werden. Die Entscheidung des DSC sowie der anderen benannten national zuständigen Behörden, 
+auch hinsichtlich der Verfahrensart, ist nach pflichtgemäßem Ermessen zu treffen.  
+Im Rahmen eines Verwaltungsverfahrens können der DSC und die weiteren benannten zuständigen 
+Behörden eine Anordnung treffen, um die Einhaltung der Verpflichtungen des DSA sicherzustellen. Zur 
+Durchsetzung solcher Anordnungen kann ein Zwangsgeld in Höhe von bis zu fünf Prozent des 
+durchschnittlichen weltweiten Tagesumsatzes oder der durchschnittlichen weltweiten Tageseinnahmen des 
+Diensteanbieters im vorangegangenen Geschäftsjahr festgesetzt werden (§ 27 Abs. 4 DDG, Art. 52 Abs. 4 DSA). 
+Im Ordnungswidrigkeitenverfahren richtet sich der Bußgeldrahmen nach den jeweiligen Tatbeständen (§ 33 
+Abs. 6, 7 DDG). In schwerwiegenden Fällen kann gegen juristische Personen mit einem Jahresumsatz von 
+mehr als fünf Millionen Euro eine Geldbuße von bis zu sechs Prozent des weltweiten Jahresumsatzes des 
+vorausgehenden Geschäftsjahres verhängt werden (§ 33 Abs. 7 Nr. 1 DDG, Art. 52 Abs. 3 DSA)  
+Die Befugnisse der Landesmedienanstalten bei Verstößen gegen den DSA richten sich nach JMStV und MStV 
+und sind ausweislich § 17 Abs. 2 Nr. 7 DDG nicht dazustellen.  
+7.2 Getroffene Maßnahmen 
+7.2.1 Für den DSC 
+Es wurden im Berichtszeitraum 2025 durch den DSC bisher keine Anordnungen in Verwaltungsverfahren 
+nach § 27 Abs. 3 DDG getroffen oder Bußgelder in Ordnungswidrigkeitenverfahren verhängt. Zu laufenden 
+Verfahren wird auf Abschnitt 6.1 verwiesen.  
+7.2.2 Für die KidD 
+Es wurden im Berichtszeitraum 2025 durch den DSC bisher keine Anordnungen in Verwaltungsverfahren 
+nach § 27 Abs. 3 DDG getroffen oder Bußgelder in Ordnungswidrigkeitenverfahren verhängt. Zu laufenden 
+Verfahren wird auf Abschnitt 6.2 verwiesen. 
+7.2.3 Für die BfDI 
+Es wurden im Berichtszeitraum 2025 durch den DSC bisher keine Anordnungen in Verwaltungsverfahren 
+nach § 27 Abs. 3 DDG getroffen oder Bußgelder in Ordnungswidrigkeitenverfahren verhängt. Zu laufenden 
+Verfahren wird auf Abschnitt 6.3 verwiesen. 
+ 
+ 
+Drucksache 21/5830 Deutscher Bundestag – 21. Wahlperiode– 18 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE | 19 
+ 
+8 Zusammenarbeit auf europäischer Ebene 
+Der DSC hat im Jahr 2025 auf europäischer Ebene umfassend mit den DSCs der anderen Mitgliedstaaten sowie 
+der Europäischen Kommission zusammengearbeitet, dies innerhalb des European Boards for Digital Services 
+(EBDS), durch Unterstützung von Verfahren der Europäischen Kommission oder im Rahmen der 
+grenzüberschreitenden Zusammenarbeit mit anderen DSCs.  
+8.1 European Board for Digital Services (EBDS) 
+Der wichtigste Rahmen hierfür blieb weiterhin das EBDS. Insgesamt fanden 2025 sechs reguläre und drei 
+außerordentliche Sitzungen des EBDS statt. Die Kommission, als Vorsitz des EBDS, veröffentlicht die 
+Agenden, Teilnahmelisten und Protokolle der Sitzungen auf ihrer Webseite (siehe Europäische Komission - 
+EBDS). 
+Die ordentlichen Sitzungen des EBDS enthielten wiederkehrende Tagesordnungspunkte, insbesondere 
+Updates der DSCs und der Kommission, aber auch wechselnde inhaltliche Schwerpunktthemen. Zu diesen 
+Schwerpunkten gehörten 2025 etwa der Jugendschutz, der Umgang mit Onlinebetrug und der Schutz des 
+geistigen Eigentums. Zum Thema Onlinebetrug beteiligte der DSC sich an einer gemeinsamen EU-weiten 
+Informationskampagne, die Nutzerinnen und Nutzer ihre Rechte erläutern und dabei helfen soll, sich gegen 
+Onlinebetrug zu schützen (siehe DSC - Meldung Online-Betrug). Zum Thema Jugenschutz startete das EBDS 
+eine koordinierte Aktion, an der sich in Deutschland mit den Landesmedienanstalten und der KidD die für 
+Jugendschutz zuständigen Behörden beteiligten.  
+Die außerordentlichen Sitzungen des EBDS befassten sich mit der Umwandlung des Verhaltenskodex zu 
+Desinformation in einen Verhaltenskodex nach DSA, mit dem koordinierten Vorgehen zu Jugendschutz auf 
+Pornoplattformen sowie den Jugendschutz-Leitlinien nach Artikel 28 DSA. 
+Die bestehenden acht Arbeitsgruppen des EBDS haben 2025 in bewährter Art und Weise die EBDS-Sitzungen 
+inhaltlich vorbereitet. Darüber hinaus dienen sie dem kontinuierlichen fachlichen Austausch zwischen den 
+DSCs. Die Arbeitsgruppen befassen sich mit folgenden Themen: 
+1. Horizontale und rechtliche Themen 
+2. Zusammenarbeit 
+3. Inhaltemoderation und Datenzugang 
+4. Integrität des Informationsraums 
+5. Verbraucherinnen und Verbraucher und Onlinemarktplätze 
+6. Jugendschutz 
+7. Anordnungen und Strafrecht 
+8. IT 
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/5830– 19 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+20 | KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE  
+Den Vorsitz der Arbeitsgruppen übernimmt jeweils die Kommission, den Vizevorsitz ein DSC. Der deutsche 
+DSC ist in allen Arbeitsgruppen vertreten und bringt sich aktiv in deren Arbeit ein. In Arbeitsgruppe 5 hatte 
+der deutsche DSC 2025 weiterhin den Vizevorsitz inne. Die Europäische Kommission, als Vorsitz der 
+Arbeitsgruppen, informiert auf ihrer Webseite über die Schwerpunkte der jeweiligen Arbeitsgruppen (siehe 
+Europäische Komission - EBDS Working Groups). Außerdem enthält der Arbeitsplan des EBDS für 2026 auch 
+einen kurzen Rückblick auf die Arbeit des Boards im Jahr 2025 (siehe Annual Work Plan 2026). 
+8.2 Unterstützung in Verfahren der Europäischen Kommission 
+Nach Maßgabe des DSA sind nationale DSCs verpflichtet, Informationen an die der Europäische Kommission 
+zu übermitteln, sobald sie durch diese über die Einleitung eines Verfahren gegen einen VLOP bzw. einen 
+VLOSE unterrichtet werden.  
+Im Berichtszeitraum eröffnete die Kommission u.a. neue Verfahren gegen die vier sehr großen 
+Onlinepornoplattformen Pornhub, Stripchat, XNXX und XVideos (Stripchat zählt seitdem nicht mehr als "sehr 
+groß", das Verfahren bezieht sich daher nur auf die Zeit, in dem die Plattform als VLOP designiert war). Bei 
+den im Mai 2025 angestoßenen Verfahren geht es um systemische Risiken in Bezug auf den Jugendschutz auf 
+diesen Plattformen, konkret den Schutz von Minderjährigen vor pornographischen Inhalten. 
+Ende 2025 schloss die Kommission Teile ihres Verfahrens gegen X ab. Sie befand, dass die Werbedatenbank 
+und der Zugang für Forschende zu öffentlichen Daten unzureichend sind und dass das Verifizierungssystem 
+irreführend ist. Die Kommission verhängte deshalb ein Bußgeld in Höhe von 120 Millionen Euro.  
+Andere Verfahren der EU-Kommission wurden im Berichtszeitraum durch Verbindlichkerklärung von 
+Verpflichtungszusagen abgeschlossen. Von AliExpress erhielt die Kommission am 18. Juni 2025 verbindliche 
+Verpflichtungszusagen. Hierbei ging es um Transparenz bei Werbung und Empfehlungssystemen und 
+Datenzugang für Forschende. Im Verfahren gegen TikTok erhielt die Kommission am 05. Dezember 2025 
+verbindliche Verpflichtungszusagen zu Verbesserungen an der Werbedatenbank des Unternehmens. Dies 
+erfolgte, nachdem die Kommission zu dem vorläufigen Ergebnis gekommen war, dass Verstößen bei der 
+Werbedatenbank vorliegen.  
+In weiteren Verfahren zu sehr großen Onlineplattformen kam die Kommission im Berichtszeitraum zu 
+vorläufigen Ergebnissen. Sie befand vorläufig, dass bei Facebook und Instagram (Meldewege, Datenzugang für 
+Forschende), Temu (unzureichende Risikoanalysen zu illegalen Produkten) und nochmals TikTok 
+(Datenzugang für Forschende) Verstöße vorliegen. 
+Der deutsche DSC hat in zahlreichen dieser Verfahren Informationen, die von nationalen Stakeholdern 
+abgefragt wurden, an die Europäische Kommission übermittlt. Zu den entsprechenden Tätigkeiten im 
+Berichtszeitraum wird auf Abschnitt 9 verwiesen.  
+In einem Fall hat der deutsche DSC im Berichtszeitraum die Europäische Kommission nach Art. 65 Abs. 2 DSA 
+aufgefordert, eine Angelegenheit zu prüfen.  
+8.3 Grenzüberschreitender Zusammenarbeit zwischen DSCs 
+Auch die nationalen Verfahren der DSCs führten im Berichtzeitraum zu verstärkter grenzüberschreitender 
+Zusammenarbeit. Zum einen haben ausländische DSCs, die Verfahren gegen Anbieter von 
+Drucksache 21/5830 Deutscher Bundestag – 21. Wahlperiode– 20 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE | 21 
+Vermittlungsdiensten in ihrem örtlichen Zuständigkeitsbereich führten, andere DSCs zur Übermittlung von 
+Informationen nach Art. 57 DSA aufgefordert. So hat etwa der irische DSC im November 2025 ein Verfahren 
+gegen X2  wegen eines möglichen Verstoß gegen die Vorschriften über das Meldeverfahren (Art. 20 DSA) sowie 
+im Dezember 2025 Verfahren gegen TikTok und LinkedIn3 wegen einer möglichen Verletzung der 
+Vorschriften über das Melde- und Abhilfeverfahren (Art. 16 DSA) eröffnet.  Zum anderen hat ein ausländischer 
+DSC im Berichtszeitraum Informationen über mögliche DSA-Verstöße durch einen Anbieter von 
+Vermittlungsdiensten mit gesetzlichem Vertreter in Deutschland an den deutschen DSC übermittelt und den 
+deutschen DSC nach Art. 58 DSA aufgefordert, die Angelegenheit zu prüfen.   
+8.4 EU-Verordnung über die Transparenz und das Targeting politischer Werbung 
+Über den DSA hinaus vertiefte der deutsche DSC im Jahr 2025 die Zusammenarbeit auf europäischer Ebene 
+zur Verordnung über die Transparenz und das Targeting politischer Werbung (TTPW-Verordnung). Diese gilt 
+vollumfänglich seit dem 10.10.2025. Sie sorgt für Transparenz bei bezahlter politischer Kommunikation und 
+gibt Regeln für Parteien, andere politische Organisationen sowie für Vermittlungsdienste wie 
+Onlineplattformen vor. Zudem wird der Einsatz von "Targeting"-Verfahren geregelt, die genutzt werden, um 
+mithilfe von personenbezogenen Daten eine politische Anzeige nur an bestimmte Personengruppen zu 
+richten oder diese auszuschließen. Die endgültigen behördlichen Zuständigkeiten für die Umsetzung dieser 
+Regeln werden in einem nationalen Umsetzungsgesetz zur Verordnung geregelt werden, das 2025 noch nicht 
+verabschiedet wurde. 
+In jedem Fall kommen mit der TTPW-Verordnung weitere koordinierende Aufgaben auf den deutschen DSC 
+zu, welche bereits durch die TTPW-Verordnung selbst vorgegeben sind. Vor diesem Hintergrund hat die 
+Bundesregierung den DSC vorläufig als nationale und europäische Kontaktstelle für den Behördenaustausch 
+zur TTPW-Verordnung benannt. Als solche beteiligte sich der DSC 2025 im "Netz der nationalen 
+Kontaktstellen". Dieses Netz ist in der TTPW-Verordnung als Plattform für den regelmäßigen 
+Informationsaustausch und die strukturierte Zusammenarbeit zwischen den nationalen Kontaktstellen und 
+der Kommission vorgesehen. Es tagte 2025 vier Mal, um insbesondere die nationalen Vorbereitungen zur 
+Durchsetzung der TTPW-Verordnung sowie die Aktivitäten der Kommission zu Leitlinien und 
+Durchführungsrechtsakten zu besprechen. Die Europäische Kommission hat im Jahr 2025 u.a. die 
+Durchführungsverordnung (EU) 2025/1410 über das Format, das Muster und die technischen Spezifikationen 
+der Kennzeichnungen und Transparenzbekanntmachungen politischer Anzeigen sowie Leitlinien zur 
+Unterstützung der Durchführung der TTPW-Verordnung veröffentlicht. Hierbei hat sich der deutsche DSC im 
+Vorfeld aktiv eingebracht. 
+9 Zusammenarbeit auf nationaler Ebene 
+Der Aufbau, die Pflege und die Nutzung eines nationalen Netzwerkes stellt eine zentrale Aufgabe des DSC als 
+Koordinierungsstelle dar. Dieses Netzwerk wird insbesondere genutzt, um die Europäische Kommission und 
+andere DSCs bei den eingeleiteten DSA-Verfahren gegen Vermittlungsdienste zu unterstützen.  
+2 https://www.cnam.ie/coimisiun-na-mean-investigation-into-x/ 
+3 https://www.cnam.ie/coimisiun-na-mean-commences-investigations-into-tiktok-and-linkedin/ 
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/5830– 21 –
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+22 | KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE  
+Bei den durch die Europäische Kommission eingeleiteten Verfahren gegen die vier Online-Plattformen mit 
+pornographischen Inhalten sowie bei dem durch den irischen DSC im November 2025 eröffneten Verfahren 
+gegen die Plattform X ging der DSC im Berichtszeitraum gezielt auf nationale Behörden, Verbände und 
+Organisationen der Zivilgesellschaft zu, um Hinweise auf DSA-Verstöße durch die genannten Plattformen zu 
+erhalten. Die übermittelten Hinweise wurden dann anschließend durch den DSC aufbereitet und an die 
+Europäische Kommission bzw. - nach dem Berichtszeitraum - an den irischen DSC übermittelt.  
+Zu den dabei kontaktierten Behörden zählten in der Regel auch die weiteren zuständigen Behörden. Der 
+Einbezug bei DSA-Verfahren stellt dabei jedoch nur eine Ebene der Zusammenarbeit mit diesen Behörden dar. 
+Ebenso wurde vor jedem EBDS-Meeting eine gemeinsame Vorbesprechung zwischen allen zuständigen 
+Behörden und dem Bundeskriminalamt eingeführt. Diese Besprechungen werden auch genutzt, um über die 
+jeweils aktuellen Themen und Projekte zu berichten und sich ggf. abzustimmen.  
+Der DSC koordiniert dazu auch die Teilnahme der weiteren zuständigen Behörden und des 
+Bundeskriminalamtes sowie den dazugehörigen Informationsaustausch zu drei der acht EBDS-
+Arbeitsgruppen. Durch die thematische Expertise und Betroffenheit ist eine Teilnahme an den Gruppen zu 
+den Themen Integrität des Informationsraums, Jugendschutz und Anordnungen und Strafrecht durch die 
+Landesmedianstalten, die KidD, die BfDI sowie das Bundeskriminalamt neben dem DSC sinnvoll. Das 
+Bundeskriminalamt zählt dabei zwar nicht  zu den zuständigen Behörden, wird aber in § 13 DDG für die 
+Umsetzung des Art.18 DSA explizit genannt.  
+Mit Beschluss vom 27.03.2025 hat die Datenschutzkonferenz der unabhängigen 
+Datenschutzaufsichtsbehörden des Bundes und der Länder eine Schnittstellengruppe mit dem DSC 
+ermöglicht. Im Rahmen dieses regelmäßig stattfindenen Austausches wurden verschiedene Themen 
+behandelt. Dazu gehören Fragen des Datenschutzes bei Tätigkeiten des DSC im Rahmen der Zuständigkeiten 
+nach dem DSA und dem DDG sowie eine Erörterung bedeutsamer Leitentscheidungen. Darüber hinaus gab es 
+regelmäßigen Austausch zu laufenden Verfahren und aktuellen Themen von übergreifender Bedeutung für 
+den DSA und die DSGVO, zu denen insbesondere Anträge nach Art. 40 Abs. 8 DSA gehören. Für Letztere 
+wurden in Bezug auf die Prüfung der Einhaltung von Vorgaben des Datenschutzes gemeinsam 
+Arbeitsprozesse, Checklisten und Hilfestellungen für die Bearbeitung von Forschungsdatenzugangsanträgen 
+erarbeitet. 
+Um den in Terminen häufig geäußerten Wunsch nach einem regelmäßigen Austausch zu erfüllen, führte der 
+DSC die Gesprächsreihe "@DSC" ein. Dieses Austauschformat findet mit verschiedenen thematischen 
+Ausprägungen (u.a. Online-Marktplätze und Social-Media-Plattformen) alle zwei Monate statt. Ziel der 
+Veranstaltungen ist es, über die aktuellen Themen des DSC zu informieren sowie auch über zuvor 
+ausgewählte Themen als Schwerpunkt intensiver zu sprechen. Dabei sollen unterschiedliche teilnehmende 
+Gruppen die Möglichkeit erhalten, ihre Fragen und Anmerkungen gezielt an den DSC, aber auch an andere 
+Vertretungen der anwesenden Gruppen zu richten. Die Teilnehmenden setzen sich dabei aus verschiedene 
+Gruppen wie Behörden, Verbände, Vermittlungsdienste, Organisationen der Zivilgesellschaft, Politikerinnen 
+und Politikern sowie Forschenden zusammen. Informationen zu den einzelnen Terminen finden sich auf der 
+Website des DSC.  
+Darüber hinaus nahm der DSC an verschiedenen Veranstaltungen mit Vorträgen oder Wortbeiträgen teil.  
+ 
+Drucksache 21/5830 Deutscher Bundestag – 21. Wahlperiode– 22 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE | 23 
+ 
+10 Zertifizierung außergerichtlicher Streitbeilegungsstellen 
+Einrichtungen mit Sitz in Deutschland können sich bei dem DSC in der Bundesnetzagentur gemäß Art. 21 
+Abs. 3 DSA als außergerichtliche Streitbeilegungsstelle zertifizieren lassen. Die außergerichtliche 
+Streitbeilegung ist ein zentraler Mechanismus des Digital Services Act (DSA) zur Stärkung der Nutzerrechte. 
+Sie bietet Nutzenden eine schnelle, einfache und in der Regel kostenfreie Möglichkeit, Konflikte über 
+Entscheidungen von Online-Plattformen zu lösen.  
+Die Entscheidungen der außergerichtlichen Streitbeilegungsstellen sind nicht bindend. Betroffenen Nutzern 
+bleibt es unbelassen, gerichtlich gegen die Plattform vorzugehen. Die Kosten eines Verfahrens vor der 
+Streitbeilegungsstelle tragen grundsätzlich die Plattformen, Nutzende müssen allenfalls eine geringe 
+Schutzgebühr entrichten.  
+Um als außergerichtliche Streitbeilegungsstelle zertifiziert zu werden, haben antragstellende Einrichtungen 
+nachzuweisen, dass sie alle folgenden Bedingungen erfüllen: 
+1. Unabhängigkeit und Unparteilichkeit von Plattformen und Nutzenden, 
+2. Sachkenntnis über rechtswidrige Inhalte oder über die Anwendung und Durchsetzung der AGB einer 
+oder mehrerer Arten von Plattformen (inkl. juristischer Fachkenntnisse), 
+3. ergebnisunabhängige Vergütung der Streitschlichter,  
+4. leicht zugänglicher Online-Service,  
+5. rasche, effiziente und kostengünstige Beilegung in mindestens einer der Amtssprachen der EU sowie 
+6. klare und faire Verfahrensregeln, die leicht und öffentlich zugänglich und mit geltendem Recht vereinbar 
+sind.  
+Zertifizierungen gelten für einen Zeitraum von höchstens fünf Jahren, der verlängert werden kann. 
+Zertifizierungen können widerrufen werden, wenn die Bedingungen nicht mehr erfüllt sind.  
+Für Anträge auf Zertifizierung als außergerichtliche Streitbeilegungsstelle stellt der DSC ein Online-
+Antragsformular zur Verfügung. Dabei können Eingaben über eine Maske vorgenommen und erforderliche 
+ergänzende Dokumente und Nachweise als Anhänge hochgeladen werden. Der DSC überprüft alle Eingänge 
+auf Ernsthaftigkeit und Vollständigkeit unter Berücksichtigung der gesetzlichen Rahmenbedingungen und 
+dem ergänzend zur Verfügung gestellten Leitfaden.  
+Bei Vollständigkeit des Antrags und Erfüllung der geforderten Bedingungen, erfolgt eine Zertifizierung. 
+Sofern ein Antrag unvollständig ist, werden fehlende Unterlagen und Nachweise nachgefordert. Wenn der 
+Antrag nicht vervollständigt wird oder aus den Unterlagen hervorgeht, dass die Voraussetzungen des Art. 21 
+Abs. 3 DSA nicht erfüllt sind, wird der Antrag nach Anhörung der antragstellenden Einrichtung abgelehnt.  
+Im Jahr 2025 wurde am 04.11.2025 mit Platform Control (KLN information service UG) eine weitere 
+außergerichtliche Streitbeilegungsstelle zertifiziert. Platform Control ist eine Streitbeilegungsstelle, die 
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/5830– 23 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+24 | KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE  
+zunächst Streitigkeiten mit den Plattformen Google Maps, YouTube, Reddit, Tinder, Hinge und OKcupid 
+annimmt. Das Streitbeilegungsangebot soll ab 2026 sukzessive ausgeweitet werden.  
+Mit Bescheid vom 25.06.2025 wurde der User Rights GmbH unter Aufrechterhaltung des bereits im Jahr 2024 
+erlassenen Ausgangsbescheides gestattet, ihre Tätigkeiten als Streitbeilegungsstelle auf weitere Social Media-
+Plattformen (Facebook und Pinterest) sowie auf die Prüfung rechtswidriger Inhalte italienischen Rechts und 
+Unionsrechts sowie Allgemeiner Geschäftsbedingungen der behandelten Online-Plattformen in italienischer 
+und französischer Sprache auszuweiten.  
+Mit User Rights und Platform Control gab es im Jahr 2025 insgesamt zwei nach dem DSA zertifizierte 
+außergerichtliche Streitbeilegungsstellen in Deutschland. Eine Liste aller in der Europäischen Union 
+zertifizierten Streitbeilegungsstellen wird von der Europäischen Kommission veröffentlicht (siehe 
+https://digital-strategy.ec.europa.eu/de/policies/dsa-out-court-dispute-settlement). 
+Die zertifizierten außergerichtlichen Streitbeilegungsstellen erstatten dem DSC jährlich Bericht über ihre 
+Tätigkeit. 
+Auf europäischer Ebene setzte sich der deutsche DSC 2025 für einheitliche europäische Vorgaben für die 
+zeritifzierung außergerichtlicher Streitbeilegungsstellen ein. Zu diesem Zweck beteiligte er sich an einer auf 
+Ebene der DSCs ins Leben gerufenen Initiative zur Erarbeitung von "Best Practices", die in 2026 ihre 
+inhaltliche Arbeit aufnehmen soll. 
+ 
+11 Zertifizierung vertrauenswürdiger Hinweisgeber 
+Das Verfahren zur Meldung rechtswidriger Inhalte sowie zum Umgang mit solchen Meldungen ist in Art. 16 
+DSA umfassend beschrieben. Um rechtswidrige Online-Inhalte noch schneller und effektiv zu behandeln, 
+setzt der DSA darüber hinaus auf die Einbindung nicht rechtsförmlichen und häufig zivilgesellschaftlichen 
+Engagements, indem er die Zertifizierung vertrauenswürdiger Hinweisgeber ermöglicht, Art. 22 Abs. 2 DSA. 
+Die Meldungen solcher Hinweisgeber nach Art. 16 Abs. 1 DSA müssen – soweit sie vermutete rechtswidrige 
+Inhalte betreffen und nicht nur schlichte Verstöße gegen die Terms of Services – von Online-Plattformen 
+priorisiert bearbeitet werden, ohne dass damit eine Richtigkeitsvermutung oder eine Verpflichtung zur 
+Löschung verbunden ist.  
+Die Möglichkeiten der Antragstellung sowie zum Ablauf des Verfahrens entsprechen im Wesentlichen 
+denjenigen, die bei außergerichtlichen Streitbeilegungsstellen dargestellt werden. Auch vertrauenswürdige 
+Hinweisgeber werden durch den DSC zertifiziert. Um als vertrauenswürdiger Hinweisgeber zertifiziert zu 
+werden, müssen antragstellende Organisationen nachweisen, dass sie über besondere Sachkenntnis und 
+Kompetenz im Erkennen, Feststellen und Melden rechtswidriger Inhalte verfügen, unabhängig von jeglichen 
+Anbietern von Online-Plattformen sind  und dass die Meldetätigkeiten sorgfältig, genau und objektiv erbracht 
+werden.  
+Um den Mehrwert des Verfahrens nach Art. 22 Abs. 1 DSA nicht zu mindern, soll die Gesamtzahl der gemäß 
+dieser Verordnung anerkannten vertrauenswürdigen Hinweisgeber begrenzt werden. Vor diesem 
+Hintergrund und um eine hohe Qualität bei den Meldungen durch vertrauenswürdige Hinweisgeber zu 
+Drucksache 21/5830 Deutscher Bundestag – 21. Wahlperiode– 24 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE | 25 
+ 
+sichern, setzt der DSC bei der Prüfung der einzelnen Zertifizierungsvoraussetzungen insgesamt strenge 
+Maßstäbe. Im Jahr 2025 wurden die folgenden Organisationen als vertrauenswürdige Hinweisgeber 
+zertifiziert: 
+- Bundesverband Onlinehandel e.V. (BVOH) 
+- HateAid gGmbH (HateAid) 
+- Verbraucherzentrale Bundesverband e.V. (vzbv) 
+Mit der bereits im Jahr 2024 zertifizierten Meldestelle REspect! hat der deutsche DSC damit insgesamt vier der 
+bislang insgesamt 31 Anträge (Stand: 31.12.2025) auf Zertifizierung als vertrauenswürdiger Hinweisgeber 
+positiv beschieden. Mit Schluss des Jahres 2025 gab es zum Stichtag 31.12.2025 fünf noch laufende Verfahren. 
+Die übrigen Anträge wurden abgelehnt, von den Antragstellenden zurückgenommen oder erfüllten nicht die 
+Anforderungen an einen Antrag nach § 22 Nr. 2 VwVfG.  
+Eine Liste aller in der Europäischen Union zertifizierten vertrauenswürdigen Hinweisgeber wird von der 
+Europäischen Kommission veröffentlicht (siehe https://digital-strategy.ec.europa.eu/de/policies/trusted-
+flaggers-under-dsa ). 
+Im Interesse von europaweit einheitlichen Vorgaben begrüßt es der deutsche DSC, dass die Europäische 
+Kommission im Jahr 2025 mit den Vorarbeiten zu den geplanten Leitlinien zu vertrauenswürdigen 
+Hinweisgebern begonnen hat. Der deutsche DSC hat im Jahr 2025 seine Expertise und die Erfahrungen, die er 
+aus den bereits geführten Verfahren gewonnen hat, bei der Zusammenarbeit auf europäischer Ebene 
+eingebracht. 
+ 
+12 Datenzugang für Forschende 
+Unabhängige Forschung spielt eine entscheidende Rolle, um eine sichere und vertrauenswürdige Online-
+Umgebung für alle Nutzerinnen und Nutzer zu schaffen. Aus diesem Grund bietet der DSA Forschenden unter 
+bestimmten Voraussetzungen die Möglichkeit, für wissenschaftliche Zwecke Zugang zu Daten von VLOPs und 
+VLOSEs zu erhalten. 
+Am 29.10.2025 ist der Durchführungsrechtsakt zum Datenzugang in Kraft getreten und das europäische 
+Datenzugangsportal gestartet. Dies ermöglicht die Erforschung von sehr großen Online-Plattformen und 
+markiert einen wichtigen Schritt bei der Umsetzung des DSA. 
+Der Datenzugang dient dazu, die Funktionsweise von VLOPs und VLOSEs besser zu verstehen und deren 
+potenzielle Risiken für Nutzende zu erforschen. VLOPs und VLOSEs sind verpflichtet, zugelassenen 
+Forschenden Zugang zu nicht-öffentlichen Daten einzuräumen, um wissenschaftliche Forschung zu 
+sogenannten systemischen Risiken zu ermöglichen. Mögliche Forschungsfragen könnten sein: Welche Inhalte 
+werden Kindern und Jugendlichen in Social-Media-Feeds angezeigt? Was unternehmen Plattformen, um die 
+Verbreitung illegaler Inhalte zu verhindern? Wie schützen Plattformen Verbraucherinnen und Verbraucher 
+beispielsweise vor Online-Finanzbetrug und wie wirksam sind diese Maßnahmen? 
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/5830– 25 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+26 | KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE  
+Um Zugang zu den relevanten Daten zu erhalten, müssen Forschende umfassende und detailliert begründete 
+Anträge stellen und strenge Voraussetzungen beispielsweise hinsichtlich ihrer Unabhängigkeit und zum 
+Datenschutz erfüllen. 
+Forschende können ihre Anträge dazu an die jeweils zuständigen DSCs über das von der Europäischen 
+Kommission eigens dazu eingerichtete Datenzugangsportal stellen. Der deutsche DSC hat sich auf den Start 
+des Datenzugangs intensiv vorbereitet, um eingehende Anträge von Forschenden auf Datenzugang zügig und 
+effektiv zu prüfen und die nach DSA vorgesehene Bewertung durchzuführen. In Deutschland erfolgt die 
+Bewertung von Anträgen auf Datenzugang in enger Abstimmung mit den Datenschutzbehörden, die für 
+Datenschutzfragen in die Prüfung einbezogen werden. 
+Im Jahr 2025 sind beim deutschen DSC insgesamt acht Anträge auf Datenzugang gemäß Artikel 40 Abs. 4, 5 
+DSA eingegangen - der erste innerhalb von 24 Stunden nach Inkrafttreten des delegierten Rechtsaktes. 
+Ein Antrag wurde nach der Einreichung zurückgenommen und erneut geändert eingereicht. Er ist nach 
+erfolgter Anfangsbewertung am 29.12.2025 an den DSC am Niederlassungsort der Plattform übermittelt 
+worden. 
+Sechs Anträge wurden zurückgenommen, da für die gewünschten Daten der niederschwellige Datenzugang 
+gemäß Artikel 40 Abs. 12 DSA gewählt wurde. 
+Das Interesse der Forschungscommunity am Datenzugang ist sehr hoch und es ist davon auszugehen, dass 
+kontinuierlich weitere Anträge eingehen werden. Der deutsche DSC befindet sich daher in enger Abstimmung 
+mit den DSCs anderer Mitgliedsstaaten sowie den deutschen Datenschutzbehörden, um das Verfahren 
+kontinuierlich zu verbessern und einen möglichst reibungslosen Ablauf zu gewährleisten. 
+  
+Drucksache 21/5830 Deutscher Bundestag – 21. Wahlperiode– 26 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE | 27 
+ 
+ 
+Anlage 1: Übersicht der vom DSC geführten Gespräche  
+ 
+Gesprächsübersicht 
+Datum Anlass 
+Name der 
+Unternehmen/Verbände 
+/Interessenvertretungen Thema 
+07.01.2025 Externer Austausch X - Twitter International 
+Unlimited Company 
+Austausch zu 
+Bundestagswahl 
+07.01.2025 Externer Austausch Appeal Centre Europe Vorstellung der Arbeit 
+08.01.2025 Externer Austausch BTE Bundesverband des 
+Deutschen Textil-, Schuh- 
+und Lederwareneinzelhandels 
+e.V., Noerr 
+Partnerschaftsgesellschaft 
+mbB, weitere Unternehmen 
+Rechtswidrige Inhalte auf 
+Online-Marktplätzen 
+13.01.2025 Externer Austausch European DSA Research 
+Network (Leibniz Institute for 
+Media Research, Hans-
+Bredow-Institut) 
+Austausch zur Umsetzung 
+DSA 
+17.01.2025 Externer Austausch VAUNET - Verband privater 
+Medien e.V. 
+Allgemeiner Austausch - 
+Austausch zu Runder 
+Tisch  
+24.01.2025 Veranstaltung Europäische Kommission, 
+diverse VLOPs, weitere 
+Behörden 
+Round Table zur 
+Bundestagswahl 
+28.01.2025 Externer Austausch dpa Deutsche Presse-Agentur 
+GmbH 
+Allgemeiner Austausch, 
+Kennenlernen 
+Faktencheck-Team 
+29.01.2025 Externer Austausch Google Germany 
+GmbH/Youtube 
+Austausch zu 
+Bundestagswahl 
+30.01.2025 Externer Austausch Microsoft Deutschland GmbH Austausch zu 
+Bundestagswahl 
+30.01.2025 Externer Austausch Meta Platforms Ireland 
+Limited 
+Austausch zu 
+Bundestagswahl 
+31.01.2025 Veranstaltung Europäische Kommission, 
+diverse VLOPs, Behörden, 
+Zivilgesellschaft und 
+Forschung 
+Stresstest zur 
+Bundestagswahl 
+04.02.2025 Externer Austausch Rumänische 
+Botschaft/German Marshall 
+Fund 
+Austausch zu 
+Bundestagswahl 
+04.02.2025 Externer Austausch X - Twitter International 
+Unlimited Company 
+Austausch zu 
+Bundestagswahl 
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/5830– 27 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+28 | KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE  
+05.02.2025 Externer Austausch TikTok Technology Limited Austausch zu 
+Bundestagswahl 
+07.02.2025 Externer Austausch Anna Cavazini (Bündnis 
+90/Die Grünen), MdEP  
+DSA 
+11.02.2025 Externer Austausch REACT B.V. Rechtswidrige Inhalte auf 
+Online-Marktplätzen 
+14.02.2025 Veranstaltung Max-Planck-Gesellschaft e.V. Konferenzteilnahme / 
+Allgemeiner Austausch zu 
+Fragen der digitalen 
+Öffentlichkeit 
+17.02.2025 Externer Austausch Google Germany 
+GmbH/Youtube 
+Austausch zur 
+Bundestagswahl 
+17.02.2025 Externer Austausch TikTok Technology Limited Austausch zur 
+Bundestagswahl 
+19.02.2025 Externer Austausch Microsoft Deutschland GmbH Austausch zur 
+Bundestagswahl 
+19.02.2025 Externer Austausch Meta Platforms Ireland 
+Limited 
+Austausch zur 
+Bundestagswahl 
+19.02.2025 Externer Austausch ISD Germany - Institute for 
+Strategic Dialogue gGmbH 
+ISD-Briefing zu 
+systemischen Risiken für 
+Wahlprozesse  
+25.02.2025 Externer Austausch Democracy Reporting 
+International (EUROPEAN 
+PARTNERSHIP FOR 
+DEMOCRACY ASBL) 
+Nachlese zur 
+Bundestagswahl 
+03.03.2025 Externer Austausch BMI - Bundesministerium des 
+Innern, CeMAS gGmbH, 
+Institute for Strategic 
+Dialogue gGmbH, Amadeo 
+Antonio Stiftung, Democracy 
+Reporting International 
+gGmbH 
+Austausch zu 
+Bundestagswahl 
+03.03.2025 Externer Austausch Meta Platforms Ireland 
+Limited 
+MWC Barcelona 2025 
+05.03.2025 Externer Austausch Stiftung Mercator GmbH Allgemeiner Austauch zu 
+Mercator Projekten rund 
+um den DSA 
+06.03.2025 Veranstaltung Bits & Bäume (Forum 
+InformatikerInnen für Frieden 
+und gesellschaftliche 
+Verantwortung e.V.) 
+Besucher bei Panel zu EU-
+Digitalpolitik 
+07.03.2025 Externer Austausch BMI - Bundesministerium des 
+Innern (Ausrichter), VLOPs 
+Austausch zur Wahl 
+07.03.2025 Externer Austausch Who Targets Me Ltd. Austausch zu TTPW-VO 
+07.03.2025 Externer Austausch Universität Dresden Austausch zu 
+Forschungsaktivitäten 
+10.03.2025 Externer Austausch Coalition for Independent 
+Technology Research 
+Austausch zu 
+Forschungsaktivitäten 
+Drucksache 21/5830 Deutscher Bundestag – 21. Wahlperiode– 28 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE | 29 
+ 
+12.03.2025 Externer Austausch FSM – Freiwillige 
+Selbstkontrolle Multimedia-
+Diensteanbieter e.V. 
+Austausch zu Age 
+Verfication 
+14.03.2025 Externer Austausch TELUS International Germany 
+GmbH 
+Austausch zu Content 
+Moderation 
+19.03.2025 Externer Austausch Columbia University/Hertie 
+School gGmbH 
+Austausch zu 
+Forschungsaktivitäten 
+02.04.2025 Externer Austausch  HIIG - Alexander von 
+Humboldt Institut für 
+Internet und Gesellschaft 
+Austausch zu Content 
+Moderation 
+03.04.2025 Externer Austausch BMI - Bundesministerium des 
+Innern (Ausrichter), 
+Zivilgesellschaft und 
+Forschung 
+Austausch mit 
+Zivilgesellschaft 
+04.04.2025 Externer Austausch Amadeo Antonio Stiftung DSC Themen 
+04.04.2025 Externer Austausch Amadeu Antonio Stiftung DSA Durchsetzung    
+07.04.2025 Externer Austausch  Zentralverband der deutschen 
+Werbewirtschaft e.V. 
+Artikel 46 
+Verhaltenskodizes 
+08.04.2025 Externer Austausch TikTok Technology Limited Vorstellung TikTop Shop 
+08.04.2025 Externer Austausch  Cosmonauts & Kings GmbH TTPW-VO 
+08.04.2025 Externer Austausch  Forschungscommunity, 
+organisiert von Hertie School 
+gGmbH, AlgorithmWatch 
+gGmbH 
+Datenzugang für 
+zivilgesellschaftliche 
+Forschende 
+10.04.2025 Externer Austausch Universität Magdeburg Vorstellung 
+Forschungsprojekt 
+10.04.2025 Externer Austausch  DSA40 Hackathon 
+(Weizenbaum-Institut e.V., 
+Mozilla Foundation) 
+Datenzugang 
+11.04.2025 Externer Austausch Das NETTZ gGmbH Vorstellung von 
+Umfragen zu 
+Meldesystemen 
+11.04.2025 Externer Austausch Sunstorm Foundation Austausch zu Scientific 
+Board  
+15.04.2025 Vortrag/Panelteilnahme Behördenspiegel (Pro-Press 
+Verlagsgesellschaft mbH) 
+Desinformation – Wie 
+ankämpfen gegen Fake 
+News im Netz? 
+15.04.2025 Externer Austausch Weizenbaum-Institut e.V. Vorgespräch zu 
+Konferenz- und 
+Panelteilnahme 
+16.04.2025 Externer Austausch T-Systems Internationale 
+GmbH, Ministerium für 
+Wirtschaft, Arbeit, Energie 
+und Klimaschutz des Landes 
+Brandenburg 
+Workshop zu EU Digital 
+Identity Wallet 
+17.04.2025 Externer Austausch SPD-Bundestagsfraktion und 
+-Parteivorstand 
+DSA-Durchsetzung 
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/5830– 29 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+30 | KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE  
+23.04.2025 Vortrag/Panelteilnahme Data co-ops group 
+coordinated at Berkman Klein 
+Center 
+Austausch zu 
+Forschungsaktivitäten, 
+Datenzugang 
+23.04.2025 Externer Austausch Columbia University/Hertie 
+School gGmbH 
+Austausch zu DSA-
+Durchsetzung, 
+Datenzugang 
+24.04.2025 Externer Austausch Zalando SE Austausch zu DSA-
+Datenzugang 
+25.04.2025 Externer Austausch Mozilla Foundation Austausch zu 
+Forschungsaktivitäten, 
+Datenzugang 
+30.04.2025 Externer Austausch Atlantic Council, Tremau Datenzugang, 
+Stakeholderengagement, 
+Transparenzberichte 
+05.05.2025 Externer Austausch Civil Liberties Union for 
+Europe e.V.  
+TTPW-VO 
+05.05.2025 Externer Austausch Superrr Lab SL gGmbH DSA-Durchsetzung; 
+systemische Risiken 
+07.05.2025 Vortrag/Panelteilnahme Markenverband e.V. Durchsetzung der 
+Verpflichtungen aus dem 
+DSA 
+12.05.2025 Veranstaltung D64 - Zentrum für Digitalen 
+Fortschritt e.V. 
+Digitalpolitik 
+13.05.2025 Externer Austausch Forschungscommunity, 
+organisert von Hertie School 
+gGmbH, AlgorithmWatch 
+gGmbH 
+Datenzugang für 
+zivilgesellschaftliche 
+Forschende 
+13.05.2025 Vortrag/Panelteilnahme Antidiskriminierungstage 
+(Antidiskriminierungsstelle 
+des Bundes beim 
+Bundesministerium für 
+Bildung, Familie, Senioren, 
+Frauen und Jugend) 
+Panelbegleitung Frau Dr. 
+Brönstrup 
+15.05.2025 Externer Austausch Open Terms Archive Vorstellung der Arbeit 
+15.05.2025 Externer Austausch Mozilla Foundation Datenzugang für 
+zivilgesellschaftliche 
+Forschende 
+16.05.2025 Externer Austausch Reset Tech Austausch zu Projekten 
+von Reset Tech 
+19.05.2025 Externer Austausch Agora Digitale Transformation 
+gGmbH, Netzwerkabend 
+Digitalpolitik 
+20.05.2025 Veranstaltung Knight-Georgetown Institute DSA-Durchsetzung; 
+systemische Risiken; 
+Datenzugang 
+23.05.2025 Externer Austausch University of New York Absprache über die 
+regelmäßige Teilnahme 
+an einer Arbeitsgruppe 
+zum Thema Gaming and 
+Regulation  
+Drucksache 21/5830 Deutscher Bundestag – 21. Wahlperiode– 30 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE | 31 
+ 
+23.05.2025 Externer Austausch CDU, Bundesgeschäftsstelle Allgemeiner Austausch 
+zum DSA  
+26.05.- 
+28.05.2025  
+Veranstaltung re:publica DSA Durchsetzung und 
+Digitalpolitik 
+27.05.2025 Externer Austausch Google Germany 
+GmbH/Youtube 
+u.a. DSA Durchsetzung 
+05.06.2025 Vortrag/Panelteilnahme Weizenbaum-Institut e.V., 
+Weizenbaum Conference 
+Vortrag zur DSA-
+Durchsetzung 
+11.06.2025 Externer Austausch Konrad-Adenauer-Stiftng Allgemeiner Austausch 
+zum DSA  
+18.06.2025 Externer Austausch Konrad-Adenauer-Stiftung  Allgemeiner Austausch 
+zum DSA  
+19.06.2025 Externer Austausch Weizenbaum-Institut e.V. Datenzugang für 
+zivilgesellschaftliche 
+Forschende 
+24.06.2025 Externer Austausch TikTok Technology Limited DSA-Datenzugang 
+24.06.2025 Veranstaltung Stiftung Mercator GmbH Digitalpolitik 
+25.06.2025 Vortrag/Panelteilnahme Bertelsmann Stiftung Voices of Economic 
+Transformation 
+30.06.2025 Externer Austausch Civil Liberties Union for 
+Europe 
+Artikel 26 DSA 
+30.06.2025 Vortrag/Panelteilnahme Heinrich Böll Stiftung Medien- und 
+Digitalpolitik 
+30.06.2025 Veranstaltung Zalando SE Vorstellung der Arbeit 
+02.07.2025 Veranstaltung ISD Germany - Institute for 
+Strategic Dialogue gGmbH 
+Digital Policy Lab 
+04.07.2025 Externer Austausch Bündnis90/Die Grünen Austausch zu DSA-
+Durchsetzung 
+08.07.2025 Veranstaltung BVDW - Bundesverband 
+Digitale Wirtschaft e.V. 
+Digitalpolitik 
+08.07.2025 Externer Austausch  dpa - Deutsche Presse-
+Agentur GmbH 
+Austausch zum DSA 
+10.07.2025 Veranstaltung Democracy Reporting 
+International gGmbH 
+Datenzugang für 
+zivilgesellschaftliche 
+Forschende 
+15.07.2025 Veranstaltung Superrr Lab SL gGmbH Digitale Werbung 
+17.07.2025 Veranstaltung Allianz für die resiliente 
+Informationsgesellschaft 
+Medien- und 
+Digitalpolitik 
+21.07.2025 Externer Austausch Safer Internet Center (c/o 
+Medienanstalt Rheinland-
+Pfalz) 
+Bezüge zum DSA 
+24.07.2025 Veranstaltung ISD Germany - Institute for 
+Strategic Dialogue gGmbH 
+Vorstellung Forschung 
+zur BTW 
+18.08.2025 Externer Austausch Reusch 
+Rechtsanwaltsgesellschaft 
+mbH 
+Allgemeiner Austausch 
+zum DSA  
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/5830– 31 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+32 | KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE  
+28.08.2025 Externer Austausch Epic Games Commerce GmbH Vorstellung Epic 
+28.08.2025 Externer Austausch Weizenbaum-Institut e.V. Vorbereitung DSA40 Data 
+Access Days 
+29.08.2025 Externer Austausch vzbv - Verbraucherzentrale 
+Bundessverband e.V. 
+Austausch zu DSA und 
+Financial Scams 
+03.09.2025 Externer Austausch eBay GmbH Austausch zu etwaiger 
+Veranstaltung zum DSA 
+04.09.2025 Externer Austausch ISD Germany - Institute for 
+Strategic Dialogue gGmbH 
+Datenzugang nach Artikel 
+40 DSA 
+05.09.2025 Externer Austausch Radboud Universiteit Werbekodizes und -
+plattformen unter DSA 
+08.09.2025 Externer Austausch Deutsche Gesellschaft für 
+Internationale 
+Zusammenarbeit (GIZ) GmbH 
+Austausch zu TAIEX 
+Brasilien-EU zum DAS 
+10.09.2025 Externer Austausch AlgorithmWatch gGmbH Workshop zu einer Studie 
+für die Kommission zu 
+Onlinewerbung 
+16.09.2025 Externer Austausch Zalando SE Vorstellung JH 
+18.09.2025 Veranstaltung Gesellschaft für 
+Freiheitsrechte e.V. 
+Datenzugang nach Artikel 
+40 DSA 
+19.09.2025 Externer Austausch SPD Bundestagsfraktion DSA-Durchsetzung 
+19.09.2025 Externer Austausch GESIS - Leibnitz-Institut für 
+Sozialwissenschaften 
+Datenzugang nach Artikel 
+40 DSA 
+25.09.2025 Vortrag/Panelteilnahme European New School of 
+Digital Studies, Weizenbaum-
+Institut e.V. 
+Datenzugang nach Artikel 
+40 DSA 
+25.09.2025 Veranstaltung VAUNET - Verband privater 
+Medien e.V. / Get Together 
+Medien- und 
+Digitalpolitik 
+26.09.2025 Vortrag/Panelteilnahme Kölner Symposium zum 
+Urheber- und Medienrecht ( 
+Wolters Kluwer N.V) 
+Panelteilnahme zum 
+Thema "Deepfakes und 
+DSA" 
+30.09.2025 Vortrag/Panelteilnahme Vertretung des Landes 
+Nordrhein-Westfalen bei der 
+Europäischen Union, 
+Forschungsorganisationen 
+Datenzugang Art 40 
+07.10.2025 Externer Austausch dpa Deutsche Presse-Agentur 
+GmbH 
+Allgemeiner Austausch 
+zum DSA 
+07.10.2025 Externer Austausch ResetTech Allgemeiner Austausch 
+zum DSA und 
+Studienprojekten 
+ResetTech 
+13.10.2025 Externer Austausch vzbv - Verbraucherzentrale 
+Bundessverband e.V. 
+Vorstellung vzbv 
+13.10.2025 Vortrag/Panelteilnahme Bayrischer Rechtstag 
+(Bayerischer Anwaltsverein) 
+Panel zu Durchsetzung 
+europäischer Standards 
+für Digitale Dienste 
+Drucksache 21/5830 Deutscher Bundestag – 21. Wahlperiode– 32 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE | 33 
+ 
+14.10.2025 Veranstaltung EU DesinfoLab Summit 
+(A.S.B.L. EU DisinfoLab) 
+Desinformation 
+16.10.2025 Veranstaltung Berliner Präventionstag DSA, Verbraucherschutz 
+16.10.2025 Externer Austausch SPD-Bundestagsfraktion 
+(Arbeitsgruppe) 
+Vorstellung Arbeit DSC 
+17.10.2025 Externer Austausch Alexandra Geese (Bündnis 
+90/Die Grünen), MdEP 
+Datenzugang 
+20.10.2025 Externer Austausch Die Linke! Bundestagsfraktion DSA-Durchsetzung 
+23.10.2025 Vortrag/Panelteilnahme ERC - European Research 
+Council/Europäische 
+Kommission 
+Art. 40 Datenzugang 
+23.10.2025 Veranstaltung Netzwerk Medienstrukturen 
+(Universität Leipzig) 
+DSA, Digitalpolitik 
+24.10.2025 Externer Austausch dpa - Deutsche Presse-
+Agentur GmbH 
+Allgemeiner Austausch 
+zum DSA  
+31.10.2025 Externer Austausch Alexandra Geese (Bündnis 
+90/Die Grünen), MdEP 
+Austausch zur 
+Durchsetzung des DSA 
+03.11.2025 Veranstaltung TikTok Safety Summit (TikTok 
+Technology Limited) 
+Besuch der Konferenz 
+06.11.2025 Vortrag/Panelteilnahme BVDW - Bundesverband 
+Digitale Witschaft e.V., Data 
+Matters Konferenz 
+Panelteilnahme zu 
+"Wertebasierte 
+Datennutzung" 
+06.11.2025 Veranstaltung vzbv - Verbraucherzentrale 
+Bundesverband e.V. 
+Deutscher 
+Verbrauchertag, 
+Verbraucherschutz, insb. 
+eCommerce 
+07.11.2025 Externer Austausch Bündnis90/Die Grünen Rechtswidrige Inhalte auf 
+Online-Marktplätzen 
+11.11.2025 Externer Austausch TikTok Technology Limited Austausch zu 
+Jugendschutzthemen 
+17.11.2025 Externer Austausch CDT Europe - Centre for 
+Democracy and Technology 
+EU 
+DSA-Durchsetzung, 
+Einbindung 
+Zivilgesellschaft 
+17.11.2025 Externer Austausch GESIS - Leibnitz-Institut für 
+Sozialwissenschaften, 
+Europäische Komission 
+Datenzugang nach Artikel 
+40 DSA 
+17.11.2025 Veranstaltung Bündnis90/Die Grünen 
+Bundestagsfraktion 
+Gemeinwohlorientierte 
+soziale Meiden 
+17.11.2025 Externer Austausch SPD Parteivorstand Vortrag zur DSA-
+Durchsetzung 
+21.11.2025 Veranstaltung dpa - Deutsche Presse-
+Agentur GmbH, 
+Faktencheck25 
+DSA und Faktenchecks 
+21.11.2025 Vortrag/Panelteilnahme Antidiskriminierungsstelle des 
+Bundes 
+DSA und 
+Antidiskriminierung 
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/5830– 33 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+34 | KOORDINIERUNGSSTELLE FÜR DIGITALE DIENSTE  
+21.11.2025 Vortrag/Panelteilnahme CDT Europe - Centre for 
+Democracy and Technology 
+DSA - Cooperation 
+between CSO and 
+Authoritities 
+24.11.2025 Veranstaltung Superrr Lab SL gGmbH VerbraucherInnenschutz 
+25.11.2025 Externer Austausch Amadeu Antonio Stiftung Austausch zu DSA und 
+Gaming-Plattformen 
+26.11.2025 Vortrag/Panelteilnahme Universität Bremen Datenzugang nach Artikel 
+40 DSA 
+26.11.2025 Veranstaltung  Open Knowledge Foundation 
+Deutschland e.V., F5 
+Netzwerkabend 
+Digitalpolitik 
+27.11.2025 Veranstaltung Forschungsprojekt Atributtion 
+Data Analysis 
+Countermeasures 
+Interoperability (ADAC.io) 
+Analyse von FIMI 
+27.11.2025 Vortrag/Panelteilnahme Universität Potsdam Plattformregulierung 
+01.12.2025 Externer Austausch University of Cambridge Vorgespräch Cambridge 
+disinformation summit 
+02.12.2025 Veranstaltung SPD-Bundestagsfraktion, 
+Digitalpolitischer Abend  
+DSA Durchsetzung 
+02.12.2025 Veranstaltung ARD-Generalsekretariat, 
+medienpolitischer Abend 
+Medien- und 
+Digitalpolitik 
+03.12.2025 Veranstaltung Dr. Konrad Körner, CSU (MdB) 
+und HateAid gGmbH 
+Vorstellung des Berichts 
+von HateAid 
+03.12.2025 Externer Austausch ISD Germany - Institute for 
+Strategic Dialogue gGmbH 
+Vorstellung ISD 
+04.12.2025 Externer Austausch Possible Digital GmbH Neue Methoden zur 
+Erfassung von 
+Vermittlungsdiensten 
+04.12.2025 Veranstaltung HateAid gGmbH Vorstellung HateAid-
+Abschlussbericht „Recht 
+ohne Reichweite – der 
+DSA im Praxistest“ mit 
+anschließ. 
+Paneldiskussion 
+08.12.2025 Externer Austausch BVDW - Bundesverband 
+Digitale Wirtschaft e.V. 
+TTPW-VO 
+09.12.2025 Externer Austausch Berliner Forschende, 
+organisiert von 
+AlgorithmWatch gGmbH 
+Computational social 
+sciences; DSA-
+Durchsetzung; 
+Datenzugang 
+16.12.2025 Externer Austausch TeamKompass e.V. DSA, Verbraucherschutz 
+ 
+Drucksache 21/5830 Deutscher Bundestag – 21. Wahlperiode– 34 – 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
