@@ -3,31 +3,30 @@ des Ausschusses für Forschung, Technologie, Raumfahrt
 und Technikfolgenabschätzung (18. Ausschuss) 
 gemäß § 56a der Geschäftsordnung 
 Technikfolgenabschätzung (TA) 
+ 
 Nutzung von Technologien zur Auswertung 
 von Beschäftigtendaten (HR Analytics) 
 in der öffentlichen Verwaltung 
 Inhal tsverzeichnis  
 Seite 
-Vorwort des Ausschusses ............................................................................. 3 
-Das Wichtigste in Kürze .............................................................................. 7 
-1 Einleitung ........................................................................................ 9 
-2 Verbreitung und Anwendung von HR Analytics ......................... 11 
-2.1 Anwendungsfelder ............................................................................ 12 
-2.2 Regulatorische Rahmenbedingungen ............................................... 14 
-2.3 Verbreitung und Anwendung in Deutschland .................................. 15 
-2.4 Anwendungsbeispiele ....................................................................... 18 
-2.5 Internationale Fallbeispiele ............................................................... 19 
-2.6 Treiber für den Einsatz von HR Analytics........................................ 20 
-3 Potenziale und Risiken ................................................................... 22 
-3.1 Potenziale ......................................................................................... 22 
-3.2 Risiken .............................................................................................. 25 
-4 Voraussetzungen für den Einsatz von HR Analytics ................... 29 
-4.1 Infrastruktur und Daten .................................................................... 29 
-4.2 Beschaffung und Finanzierung ......................................................... 31 
+Vorwort des Ausschusses .............................................................................  3 
+Das Wichtigste in Kürze ..............................................................................  7 
+1 Einleitung ........................................................................................  9 
+2 Verbreitung und Anwendung von HR Analytics .........................  11 
+2.1 Anwendungsfelder ............................................................................  12 
+2.2 Regulatorische Rahmenbedingungen ...............................................  14 
+2.3 Verbreitung und Anwendung in Deutschland ..................................  15 
+2.4 Anwendungsbeispiele .......................................................................  18 
+2.5 Internationale Fallbeispiele ...............................................................  19 
+2.6 Treiber für den Einsatz von HR Analytics........................................  20 
+3 Potenziale und Risiken ...................................................................  22 
+3.1 Potenziale .........................................................................................  22 
+3.2 Risiken ..............................................................................................  25 
+4 Voraussetzungen für den Einsatz von HR Analytics ...................  29 
+4.1 Infrastruktur und Daten ....................................................................  29 
+4.2 Beschaffung und Finanzierung .........................................................  31 
 Deutscher Bundestag Drucksache 21/5819 
-21. Wahlperiode 06.05.2026 V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+21. Wahlperiode 06.05.2026
 Seite 
 4.3 Personalkapazitäten, Aus- und Weiterbildung ..................................  32 
 4.4 Organisationsentwicklung und Veränderungsbereitschaft ...............  33 
@@ -40,11 +39,7 @@ menschliche Entscheidungsinstanz ...............................................
 7.2 Teilnehmerinnen, Vorgehensweise und Ergebnisse des 
 Onlineworkshops ..............................................................................  41 
 7.3 Abbildungen .....................................................................................  43 
-7.4 Kästen ...............................................................................................  44 
- 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+7.4 Kästen ...............................................................................................  44
 Vorwort des Ausschusses 
 HR Analytics sind digitale Anwendungen, die eine evidenzbasierte
 Entscheidungsunterstützung im Personalwesen (Human Resources – HR) ermöglichen 
@@ -90,13 +85,7 @@ Berichterstatter
 Dr. Andrea Lübcke 
 Berichterstatterin 
 Sonja Lemke 
-Berichterstatterin  
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Berichterstatterin
 Marlène de Saussure 
 Tobias Hungerland 
 Robert Peters 
@@ -109,18 +98,12 @@ Simone Ehrenberg-Silies
 Nutzung von Technologien zur Auswertung 
 von Beschäftigtendaten (HR Analytics) 
 in der öffentlichen Verwaltung 
-TA-Kompakt Nr. 4 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+TA-Kompakt Nr. 4
 Das Büro für Technikfolgen-Abschätzung beim Deutschen Bundestag (TAB) berät das Parlament und seine
 Ausschüsse in Fragen des wissenschaftlich-technischen Wandels. Das TAB wird seit 1990 vom Institut für
 Technikfolgenabschätzung und Systemanalyse (ITAS) des Karlsruher Instituts für Technologie (KIT) betrieben. Hierbei 
 kooperiert es seit September 2013 mit dem IZT – Institut für Zukunftsstudien und Technologiebewertung gGmbH 
-sowie dem Institut für Innovation und Technik (iit) in der VDI/VDE Innovation + Technik GmbH. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+sowie dem Institut für Innovation und Technik (iit) in der VDI/VDE Innovation + Technik GmbH.
 Das Wichtigste in Kürze 
 Fünf Fragen – fünf Antworten 
  Was bedeutet HR Analytics? 
@@ -168,10 +151,7 @@ die Gefahr von Kontroll- und Autonomieverlust für Arbeitgeber und Führungskrä
 Möglichkeit von Fehlentscheidungen bzw. qualitativ schlechteren Entscheidungen sind zu erwähnen. Die 
 Abhängigkeit der öffentlichen Verwaltung von privaten Technologieanbietern ist ein weiteres Risiko 
 bei der Nutzung von HR Analytics sowohl für den Einsatz in der Personalgewinnung als auch beim 
-Personalmanagement. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Personalmanagement.
  Welche Faktoren müssen für die Gestaltung und die Anwendung von HR-Analytics-Systemen berücksichtigt 
 werden? 
 – Zur flächendeckenden Implementation bedarf es einer geeigneten Dateninfrastruktur, denn bereits
@@ -205,10 +185,7 @@ der Betroffenenrechte ein zentrales Problem.
 gleichzeitig wachsenden Handlungsdruck im Kontext der Verwaltungsmodernisierung. Dadurch besteht
 Bedarf an weitergehenden Untersuchungen, um die Beiträge von HR Analytics zur Modernisierung der 
 Verwaltung im Bereich Personalwesen besser erfassen zu können. Ebenfalls noch unbeantwortet ist die 
-Frage, welche Effekte HR Analytics auf einzelne Betroffene haben können. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Frage, welche Effekte HR Analytics auf einzelne Betroffene haben können.
 1 Einleitung 
 – Als HR Analytics werden digitale Anwendungen bezeichnet, die eine evidenzbasierte
 Entscheidungsunterstützung im Personalwesen auf Basis von Beschäftigtendaten ermöglichen. Mit einer (Teil-)
@@ -257,10 +234,7 @@ der öffentlichen Verwaltung?
  
 1 In der Literatur wird auf dieses Technologiefeld mit einer Vielzahl unterschiedlicher Begriffe Bezug genommen (Kapitel 2). Im
 vorliegenden TA-Kompakt wird die Bezeichnung HR Analytics verwendet, da sich in den durchgeführten Experteninterviews zeigte, dass 
-dieser Begriff der aktuell gängigste ist. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+dieser Begriff der aktuell gängigste ist.
  Welche Potenziale und Risiken der HR-Analytics-Anwendung für Organisationen (öffentliche
 Verwaltung) und Individuen (Beschäftigte und Bewerber/innen) sind bisher erkennbar? 
  Wie lässt sich ein Einsatz von HR Analytics verantwortlich gestalten (Ethik? Datenschutz? [Un-]
@@ -310,10 +284,7 @@ dass die Bereitschaft, Informationen zu teilen, gering gewesen ist. Eine belastb
 Ergebnisqualität ist vor dem Hintergrund der Rücklaufquote zu betrachten. Zumindest für die erste Runde (n = 32) kann sie als
 ausreichend angesehen werden, sodass die Ergebnisse Eingang in den Bericht finden konnten. Für die zweite Runde (n = 3) sind die Ergebnisse 
 nur sehr eingeschränkt belastbar. Vor allem qualitative Rückmeldungen aus beiden Runden konnten zusammen mit den quantitativen 
-Ergebnissen der ersten Runde im Rahmen der Ausarbeitung berücksichtigt werden. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Ergebnissen der ersten Runde im Rahmen der Ausarbeitung berücksichtigt werden.
 2 Verbreitung und Anwendung von HR Analytics 
 – HR-Analytics-Anwendungen (von einfachen statistischen Auswertungen bis hin zu maschinellem Lernen) 
 können in allen Phasen der Personalarbeit in der öffentlichen Verwaltung genutzt werden – von der
@@ -365,10 +336,7 @@ sowie der Richtlinien 2014/90/EU, (EU) 2016/797 und (EU) 2020/1828 (Verordnung �
 5 Benchmarking „ist der kontinuierliche Vergleich von Produkten, Dienstleistungen sowie Prozessen und Methoden mit (mehreren)
 Unternehmen, um die Leistungslücke zum Klassenbesten (Unternehmen, die Prozesse, Methoden etc. hervorragend beherrschen)
 systematisch zu schließen. Grundidee ist es, festzustellen, welche Unterschiede bestehen, warum diese Unterschiede bestehen und welche
-Verbesserungsmöglichkeiten es gibt“ (Gabler Wirtschaftslexikon o. J.a). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Verbesserungsmöglichkeiten es gibt“ (Gabler Wirtschaftslexikon o. J.a).
 Teams ausmachen. Das Projekt zeigte beispielsweise, dass der Erfolg von Teams nicht primär von ihrer
 Zusammensetzung abhängt, sondern von der Art und Weise, wie Mitglieder miteinander interagieren (Shrivastava et al. 
 2018). 
@@ -405,10 +373,7 @@ Person noch als Kandidat/in für eine vakante Stelle adressiert wird (Personalge
 Beschäftigungsdauer (Personalmanagement) bis zum Austritt aufgrund von Kündigung oder Ruhestand 
 (Austrittsmanagement) (Peters et al. 2023). Die Abbildung 2.1 schematisiert die Anwendungsfelder von HR 
 Analytics entlang gängiger Entwicklungsschritte eines/r Arbeitnehmers/in bzw. Arbeitsschritte des
-Personalmanagements und illustriert diese mit Beispielen. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Personalmanagements und illustriert diese mit Beispielen.
 Abbildung 2.1 Anwendungsfelder und Beispiele für HR Analytics 
  
 Quelle: TAB 2023 in Anlehnung an van Vulpen (2019) sowie Workshopinput 
@@ -430,10 +395,7 @@ in Bildungskontexten.
 KI-gestütztes Wissensmanagement 
 KI-Systeme erfassen, verarbeiten und stellen Informationen bereit, was den Zugang zu Erfahrungswissen und 
 Unternehmensdaten erleichtert. Mitarbeiter/innen profitieren von intuitiven Sprachschnittstellen für effiziente 
-Informationssuche. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Informationssuche.
 Transparente Vergütungssysteme und Pay-Gap-Analysen 
 Digitale Systeme ermöglichen Einblicke in Vergütungsstrukturen und Gehaltsentwicklungen. Pay-Gap-
 Analysen decken geschlechterspezifische Ungleichheiten auf und unterstützen Unternehmen bei der Beseitigung 
@@ -481,10 +443,7 @@ Universität 2022). Die DSGVO schützt personenbezogene Daten natürlicher Perso
 anonymisierte Daten nicht in ihren Geltungsbereich fallen. Die Verarbeitung personenbezogener Daten im Rahmen von 
 HR Analytics muss die folgenden Grundsätze berücksichtigen (Hammermann et al. 2022): 
 – Transparenz: Die Datenverarbeitung muss für die betroffenen Personen nachvollziehbar sein. 
-– Zweckbindung: Daten dürfen nur für vorher festgelegte Zwecke genutzt werden. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+– Zweckbindung: Daten dürfen nur für vorher festgelegte Zwecke genutzt werden.
 – Datenminimierung: Die erhobenen Daten müssen auf das notwendige Maß beschränkt sein. 
 – Richtigkeit: Die Daten müssen aktuell und korrekt gehalten werden. 
 – Speicherdauerbegrenzung: Daten sind zu löschen, sobald ihr Verwendungszweck entfällt. 
@@ -533,10 +492,7 @@ Analytics künftig verstärkt einsetzen wird. In den nächsten 2 bis 5 Jahren wi
 Gruppe deutscher HR-Expert/innen befragt wurde. Demnach kommen heute Technologien wie KI-gestützte
 Analysen vor allem bei Routineaufgaben (zum Beispiel für das Reporting) im Personalwesen zum Einsatz. Dabei steht 
 hauptsächlich das Ziel im Mittelpunkt, bestehende Prozesse effizienter zu gestalten. Eine tiefgreifende Integration 
-von datenbasierten Technologien in HR-Prozesse, zum Beispiel um bessere Personalentscheidungen zu treffen, 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+von datenbasierten Technologien in HR-Prozesse, zum Beispiel um bessere Personalentscheidungen zu treffen,
 personalisierte Weiterbildungen zu ermöglichen und die Bindung der Mitarbeiter/innen zu stärken, erfolgt
 hingegen bislang kaum. 
 Bisher existiert keine systematische wissenschaftliche Erhebung zur Verbreitung von HR Analytics in der
@@ -565,10 +521,7 @@ Die Interviews mit Expert/innen bestätigen das Bild einer sehr begrenzten Verbr
 für den Einsatz von HR Analytics in der deutschen Verwaltung kennen. 
 Der geringe Rücklauf der Onlinebefragung verdeutlicht die Herausforderungen bei der Erhebung empirischer 
 Daten zu diesem Themenfeld. Von den rund 550 kontaktierten Expert/innen beteiligten sich lediglich 32 an der 
-ersten Runde der Onlinebefragung, was auf mehrere Faktoren zurückgeführt werden kann. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+ersten Runde der Onlinebefragung, was auf mehrere Faktoren zurückgeführt werden kann.
 Die Gewinnung von Befragungsteilnehmer/innen gestaltete sich schwierig, was unter anderem an der geringen 
 Sichtbarkeit des Themas in der öffentlichen Verwaltung liegen könnte. Zudem war ein hoher Anteil an „weiß 
 nicht/keine Angabe“ in den Antworten festzustellen, was darauf hindeutet, dass viele Befragte entweder wenig 
@@ -603,10 +556,7 @@ Delphi-Befragung und in den Interviews konsultierten Expert/innen
 – die Sicherstellung von Daten- und Netzsicherheit auf höchstem Niveau, 
 – klare regulatorische Rahmenbedingungen für Datenerhebung und -speicherung, 
 – Schulungen und Kompetenzzuwachs für die Nutzenden, 
-– die Modernisierung der bestehenden Hard- und Software sowie 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+– die Modernisierung der bestehenden Hard- und Software sowie
 – eine ausreichende politische Unterstützung. 
 Voraussetzung für HR Analytics seien digitale Dateninputs sowie eine Verbreitung und effiziente Nutzung von 
 digitalen Tools im Verwaltungsalltag (Interview Hammerschmid). Doch liege der Fokus der
@@ -656,10 +606,7 @@ KI für automatisierte Spracherkennung erprobt, um Zeugenaussagen auf ihre Glaub
 7 Barrierefreie-Informationstechnik-Verordnung vom 12. September 2011, zuletzt am 24. Oktober 2023 geändert 
 8 Gesetzliche Krankenkassen zählen nicht direkt zur öffentlichen Verwaltung, sondern sind Körperschaften des öffentlichen Rechts mit 
 Selbstverwaltungsstatus. Das Beispiel bietet aber Hinweise zu einem möglichen vergleichbaren Einsatz dieser Technologie in der
-öffentlichen Verwaltung. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+öffentlichen Verwaltung.
 (Brodowski 2024). Die Bundesagentur für Arbeit nutzt Transkriptionsanwendungen zur Unterstützung ihres
 Wissensmanagements. Darüber hinaus werden Tools zur automatisierten Berichtszusammenfassung aktuell im
 Bundesministerium für Bildung und Forschung (BMBF) erprobt. Ähnliche Pilotprojekte laufen auch in der
@@ -708,10 +655,7 @@ ermöglichen detaillierte Bottom-up-Prognosen die Vorhersage individueller Trenn
 9 Eine GPT-Lösung bezieht sich in der Regel auf den Einsatz von GPT-Modellen, das heißt von KI-Systemen, die mithilfe von Generative-
 Pretrained-Transformer-Technologie natürliche Sprache verstehen und generieren, wie ChatGPT. Diese dienen meistens zur
 Unterstützung oder Automatisierung von Aufgaben im Personalwesen insbesondere bei der Analyse, Auswertung und Kommunikation von HR-
-Daten. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Daten.
 Pandemie beschleunigte die Einführung flexibler Arbeitsmodelle, wobei Echtzeitdaten zur Prognose von
 Abwesenheiten und Personalbedarf integriert wurden. Zusätzlich nutzt das ATO Sentimentanalysen aus Surveys von 
 Mitarbeiter/innen, um Probleme frühzeitig zu erkennen. Intuitive Dashboards vereinfachen den Datenzugang und 
@@ -739,10 +683,7 @@ Personalfragen systematisch zu analysieren und zu adressieren.
 Ein weiterer maßgeblicher Treiber für HR Analytics ist die Veränderung des Arbeitsmarktes. Der öffentliche 
 Dienst sieht sich einem wachsenden Fachkräftemangel gegenüber: Nach Schätzungen des dbb beamtenbund und 
 tarifunion (dbb 2024) fehlen dem Staat derzeit über 570.000 Mitarbeiter/innen und bis 2030 könnten von knapp 
-6 Mio. Stellen bereits über 1 Mio. unbesetzt bleiben (Bernnat et al. 2022; Schramm et al. 2024; Solbrig/Schuster 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+6 Mio. Stellen bereits über 1 Mio. unbesetzt bleiben (Bernnat et al. 2022; Schramm et al. 2024; Solbrig/Schuster
 2024). HR Analytics hat Potenziale, dem Fachkräftemangel im öffentlichen Dienst entgegenzuwirken. Durch die 
 Vereinfachung und Beschleunigung von Einstellungsprozessen können vakante Stellen schneller und gezielter 
 besetzt werden. Gleichzeitig ermöglicht der Einsatz datenbasierter Verfahren, individuelle Kompetenzen und
@@ -757,10 +698,7 @@ Analytics dazu beitragen, Produktivitätspotenziale systematisch zu erschließen
 effizienter zu gestalten. 
 Abbildung 2.5 Fachkräftemangel im öffentlichen Sektor 
  
-Quelle: zitiert nach Bernnat et al. 2022, nach Schramm et al. 2024, S. 12 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Quelle: zitiert nach Bernnat et al. 2022, nach Schramm et al. 2024, S. 12
 3 Potenziale und Risiken 
 – Die Anwendung von HR Analytics hat das Potenzial, Daten zum gesamten Beschäftigungszyklus zu
 erfassen und fortlaufend zu optimieren, angefangen bei Recruitingprozessen bis hin zum Austrittsmanagement 
@@ -809,10 +747,7 @@ Hammerschmid). Die automatisierte Vorauswahl von Kandidat/innen bietet großes P
 könnten Bewerbungen nach festgelegten Kriterien, wie Qualifikationen und Anforderungen, vorselektieren und ein 
  
 10 „Die Vakanzzeit von offenen Arbeitsstellen in der öffentlichen Verwaltung, der Erziehung und Gesundheit lag im gleitenden
-Jahreszeitraum von März 2024 bis Februar 2025 bei durchschnittlich 113 Tagen.“ (Statista Research Department 2025) 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Jahreszeitraum von März 2024 bis Februar 2025 bei durchschnittlich 113 Tagen.“ (Statista Research Department 2025)
 Ranking der am besten geeigneten Personen erstellen. Zudem könnte das Einladungsmanagement künftig durch 
 KI automatisiert werden, was zusätzliche Zeit spart und administrative Aufwände reduziert (Interview Blessin). 
 Führungskräfte können sich so auf die relevantesten Bewerbungen konzentrieren und schneller
@@ -864,11 +799,8 @@ Gesundheit frühzeitig erkennen. Im HR-Bereich wird KI zunehmend genutzt, um anh
 Vorhersagen zu Sprache, Texten und Körpersignalen Anzeichen von Arbeitsüberlastung und
 Mitarbeiterunzufriedenheit zu identifizieren sowie personalisierte Maßnahmen in der Personalentwicklung und der Auswahl von
 Mitarbeiter/innen zu ermöglichen (ITA 2024). Solche Systeme könnten auf Basis relevanter Indikatoren gezielte
-präventive Maßnahmen ermöglichen, um langfristige Erkrankungen zu vermeiden. Dies würde den Fokus von reak-
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-tiven Nachsorgemaßnahmen auf proaktive Interventionen verlagern und somit Personalressourcen besser
+präventive Maßnahmen ermöglichen, um langfristige Erkrankungen zu vermeiden. Dies würde den Fokus von
+reaktiven Nachsorgemaßnahmen auf proaktive Interventionen verlagern und somit Personalressourcen besser
 schützen (Interview Hartwig und Koch). Präventive Maßnahmen, wie die Anpassung von Arbeitsbedingungen oder 
 gezielte Entwicklungsgespräche, stärken die Mitarbeiterbindung und sorgen langfristig für stabilere Teams sowie 
 den Erhalt wichtiger Kompetenzen innerhalb der Organisation. 
@@ -906,10 +838,7 @@ die Grundlage für evidenzbasierte Diskussionen zu unangenehmen, aber notwendige
 Mitarbeiterunzufriedenheit, wodurch proaktiv Lösungsansätze entwickelt werden können (Interview Salomon). Schließlich
 bieten HR Analytics die Möglichkeit, das Vakanzmanagement und die Personalverteilung flexibler zu gestalten. 
 Beispielsweise könnten temporäre Amtshilfeersuchen zwischen Behörden effizienter organisiert werden, um
-Personalengpässe abzufedern und Kapazitäten bedarfsgerecht zu nutzen (Interview Anonym 1). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Personalengpässe abzufedern und Kapazitäten bedarfsgerecht zu nutzen (Interview Anonym 1).
 HR-Analytics-Anwendungen bieten die Möglichkeit, Personalentscheidungen durch datenbasierte
 Evidenzbasierung transparenter und objektiver zu gestalten. Dabei kann die Accountability gewahrt bleiben, da Entscheidungen 
 weiterhin von Menschen verantwortet und nachvollziehbar begründet werden müssen (Interview Korać). HR-
@@ -960,10 +889,7 @@ werden.
 Besonders in Bereichen wie der Personalauswahl spielen weiche Faktoren eine entscheidende Rolle, darunter 
 Teamkompatibilität, soziale Kompetenzen und zwischenmenschliche Dynamiken. Diese Aspekte lassen sich nicht 
 einfach quantifizieren oder durch Algorithmen abbilden und erfordern menschliche Einschätzung. Während KI-
-Systeme bei der Vorauswahl von Kandidat/innen unterstützen können, sollte die finale Entscheidung bei den 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Systeme bei der Vorauswahl von Kandidat/innen unterstützen können, sollte die finale Entscheidung bei den
 Führungskräften oder Recruiter/innen liegen, da sie eine Verantwortung gegenüber dem Team tragen und den 
 Kontext besser einschätzen können (Interview Hartwig und Koch). 
 Ein weiteres wesentliches Risiko beim Einsatz von HR Analytics liegt in der Reproduktion von Diskriminierung 
@@ -1015,10 +941,7 @@ wird. Dies kann nicht nur die Motivation beeinträchtigen, sondern auch das Gef�
  
 11 Im HR-Analytics-Kontext meint man mit Proxies Stellvertretervariablen, also indirekte Messgrößen, die verwendet werden, wenn ein 
 bestimmter Wert oder eine bestimmte Information nicht direkt messbar oder verfügbar ist. Beispiel dafür ist die Analyse der Häufigkeit 
-von Krankmeldungen und der Teilnahme an Weiterbildungen, um die Motivation von Mitarbeiter/innen zu erfassen. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+von Krankmeldungen und der Teilnahme an Weiterbildungen, um die Motivation von Mitarbeiter/innen zu erfassen.
 individuellen Fähigkeiten und Bedürfnissen nicht mehr wertgeschätzt zu werden. Wird zu stark verallgemeinert, 
 gehen die berufsgruppenspezifischen Ursachen für Fehlzeiten, Berufsunfähigkeiten etc. unter Umständen im
 Rahmen der Analyse verloren (Interview Splanemann).  
@@ -1066,10 +989,7 @@ Ein zentrales Risiko beim Einsatz von HR Analytics liegt in der Gefahr von Fehle
 schlechteren Entscheidungen, die durch ein unkritisches Vertrauen in KI-Empfehlungen entstehen können. Die 
 Komplexität, scheinbare Leistungsfähigkeit und vermeintliche Objektivität solcher Systeme können dazu führen, 
 dass Menschen die durch Algorithmen nahegelegten Entscheidungen oft ungeprüft übernehmen, anstatt sie
-kritisch zu hinterfragen. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+kritisch zu hinterfragen.
 Dieses Verhalten wird durch das Phänomen des Automation Bias verstärkt, bei dem Menschen dazu neigen,
 computergenerierten Ergebnissen oder Empfehlungen mehr Vertrauen zu schenken als menschlichen Einschätzungen 
 (Ruschemeier 2024). Systeme werden als objektiv, neutral und fehlerfrei wahrgenommen, was die Bereitschaft 
@@ -1087,10 +1007,7 @@ werden. Ein Wechsel der Technologie bzw. der Infrastruktur stellt aufgrund hoher
 Aufwands ein großes Risiko für potenziellen Ressourcenverlust dar. Einmal entschieden, bleibt die öffentliche
 Verwaltung oft bei einem Anbieter, selbst wenn die Lösung nicht mehr den aktuellen Anforderungen entspricht
 (Interview Salomon). Diese Abhängigkeit erschwert nicht nur die Anpassung an spezifische Bedürfnisse, sondern 
-begrenzt auch die Flexibilität der Verwaltung, auf technologische Entwicklungen eigenständig zu reagieren. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+begrenzt auch die Flexibilität der Verwaltung, auf technologische Entwicklungen eigenständig zu reagieren.
 4 Voraussetzungen für den Einsatz von HR Analytics 
 – Zur flächendeckenden Implementation bedarf es einer geeigneten Dateninfrastruktur, denn bereits
 vorhandene Daten müssen homogenisiert und aufbereitet werden. Für die Sicherstellung von Akzeptanz müssen 
@@ -1136,11 +1053,8 @@ Netzwerkinfrastrukturen oder Datenbanken und Webdienste, bleiben technologische 
 Datenhomogenisierung und -aufbereitung 
 Die zur Anwendung von HR-Analytics-Verfahren erforderlichen Beschäftigtendaten stammen häufig aus
 verschiedenen Datenquellen. Beschäftigtendaten resultieren aus einer Vielzahl interner Prozesse und Systeme eines 
-Unternehmens. Diese Daten umfassen klassische Personalinformationen, wie Stammdaten, An- und Abwesenhei-
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
-ten sowie Einstellungs- und Laufbahninformationen, und stellen die Grundlage für bereits heute existierende
+Unternehmens. Diese Daten umfassen klassische Personalinformationen, wie Stammdaten, An- und
+Abwesenheiten sowie Einstellungs- und Laufbahninformationen, und stellen die Grundlage für bereits heute existierende
 Personalmanagementprozesse dar. Hinzu kommen gesundheitsbezogene Daten aus betrieblichen
 Gesundheitsprogrammen sowie Kommunikationsdaten, die aus unternehmensinternen Plattformen wie Blogs und Chats
 gewonnen werden. Eine weitere Datenquelle können Performancedaten sein. Diese Daten werden häufig durch
@@ -1164,10 +1078,7 @@ Abbildung 4.1 Typische Quellen für Beschäftigtendaten in Betrieben
 Quelle: nach Peters et al. 2023, S. 11 
 Eine weitere technische Herausforderung besteht in der Fragmentierung von Daten. In vielen Organisationen sind 
 relevante Personaldaten auf verschiedene Dateninseln verteilt. Unterschiedliche Softwarelösungen und
-Speicherorte erschweren die Integration dieser Daten in zentrale Systeme, wodurch das Potenzial von HR Analytics nicht 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Speicherorte erschweren die Integration dieser Daten in zentrale Systeme, wodurch das Potenzial von HR Analytics nicht
 ausgeschöpft werden kann (Interview Hammermann). Die Zusammenführung der Daten stellt eine erhebliche 
 Hürde dar, die zusätzlichen Aufwand und gezielte Maßnahmen zur Datenintegration erfordert. 
 Die Qualität der zugrunde liegenden Daten stellt letztlich den zentralen Erfolgsfaktor für den Einsatz von HR 
@@ -1217,10 +1128,7 @@ Ressourcenbelastungen verhindern häufig, dass innovative Lösungen den Weg in d
 weil etablierte Anbieter bevorzugt werden (Interview Salomon). Zudem bestehen rechtliche Einschränkungen: 
  
 12 Hostingkosten sind die laufenden Kosten, die aufkommen, um eine Open-Source-Anwendung betreibbar, erreichbar und nutzbar zu 
-machen. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+machen.
 Software, die potenziell zur Verhaltens- oder Leistungskontrolle genutzt werden könnte, unterliegt strengen
 gesetzlichen Regelungen (Kapitel 2.2), unabhängig davon, ob solche Funktionen tatsächlich verwendet werden. 
 Dies führt zu zusätzlichen Hürden in der Beschaffung und bedarf einer klaren Abstimmung mit
@@ -1266,10 +1174,7 @@ insbesondere diese haben als Mitarbeitervertretung eine zentrale Rolle bei der M
 Entscheidungen sowie der Bewertung neuer Technologien. Ohne fundiertes Wissen über Risiken und Potenziale 
 von HR Analytics können sie die Interessen der Mitarbeiter/innen jedoch nicht effektiv vertreten und
 Entscheidungen mittragen (Interview Anonym 1). Dadurch kann die Einführung von HR-Analytics-Systemen zusätzlich 
-erschwert werden (Interview Anonym 1). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+erschwert werden (Interview Anonym 1).
 4.4 Organisationsentwicklung und Veränderungsbereitschaft 
 Offenheit für Veränderung und Innovationsbereitschaft 
 Der erfolgreiche Einsatz von HR Analytics erfordert eine Veränderung beim Personal und dem
@@ -1318,10 +1223,7 @@ Bedenken präventiv zu begegnen (Interview Hammermann).
 Die Nutzung von HR-Analytics-Systemen zur Unterstützung von Entscheidungen in der Personalauswahl, bei 
 Beförderungen oder in der Personalentwicklung hat in der Regel direkte oder indirekte Auswirkungen auf die 
 Zukunft und das berufliche Leben von Beschäftigten. Bei Beschäftigten dürfte der Einsatz solcher Technologien 
-daher nur dann auf Akzeptanz stoßen, wenn klare ethische Leitlinien, Transparenz und eine verantwortungsvolle 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+daher nur dann auf Akzeptanz stoßen, wenn klare ethische Leitlinien, Transparenz und eine verantwortungsvolle
 Gestaltung gewährleistet sind (Interview Hammermann), wobei Personalvertretungen eine wichtige Rolle spielen 
 (Interview Splanemann). Die Zuweisung von Verantwortlichkeiten auch im Sinne einer Klärung, wer für das 
 Zustandekommen von Entscheidungen technischer Systeme rechenschaftspflichtig ist, ist dabei zentral.
@@ -1369,10 +1271,7 @@ bestehen, Zugang für externe, unabhängige Auditings zu schaffen, zum Beispiel 
 Organisationen. Diese könnten als Unterstützungsstrukturen fungieren, indem sie Betroffene beraten und ihnen helfen, 
 ihre Rechte wahrzunehmen. Entsprechende Ansätze folgen dem Prinzip der Ermächtigung von Betroffenen und 
 versetzen Beschäftigte in der öffentlichen Verwaltung in die Lage, selbst mit den Risiken (Kapitel 3.2)
-umzugehen, die im Zusammenhang mit HR Analytics entstehen können (Interview Burmeister). 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+umzugehen, die im Zusammenhang mit HR Analytics entstehen können (Interview Burmeister).
 5 Verantwortungsvolle Gestaltungsoptionen 
 – Um Potenziale von HR Analytics zu heben und Risiken zu minimieren, steht eine Reihe politischer
 Gestaltungsoptionen zur Verfügung. Vor allem die Schaffung einer homogenen Datenstruktur, die
@@ -1420,10 +1319,7 @@ definierter und objektivierter Kriterien nachvollziehbar gestaltet ist, nutzen z
 Risiken algorithmischer Systeme, vor allem die mangelnde Transparenz, minimiert werden. Algorithmische
 Verzerrungen könnten bestehende Ungleichheiten und Diskriminierung verstärken und ungewollt in den
 Entscheidungsprozess einfließen. Darüber hinaus lassen sich essenzielle Soft Skills in HR Analytics nur schwer abbilden, 
-was dazu führen kann, dass diese im Auswahlprozess eine geringere Berücksichtigung finden. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+was dazu führen kann, dass diese im Auswahlprozess eine geringere Berücksichtigung finden.
 Auch im Bereich des Personalmanagements ermöglicht der datenbasierte Ansatz eine effizientere Gestaltung von 
 Arbeitsprozessen und eine Steigerung der Produktivität. Zudem können Personalentscheidungen durch
 evidenzbasierte Analysen transparenter und objektiver getroffen werden. Ein weiterer Vorteil liegt in der
@@ -1472,10 +1368,7 @@ gestaltet und genutzt werden, wenn Vertrauen und Akzeptanz für diese Systeme ge
 Wichtige Erfolgsfaktoren sind daher die klare Zuweisung von Verantwortlichkeiten sowohl während der
 Implementierung als auch der Anwendung von HR Analytics, die Partizipation von relevanten Akteuren sowie 
 die Fähigkeit menschlicher Entscheidungsträger/innen, Ergebnisse von HR Analytics kritisch reflektieren 
-zu können. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+zu können.
 – Anpassung von Beschaffungsregeln und Finanzierungsrahmen: Um Softwarelösungen anschaffen und
 einsetzen zu können, sind gezielte und nachhaltige finanzielle Investitionen sowie neue Beschaffungsregeln 
 unabdingbar. Das umfasst zum einen ausreichende Budgets für Datenschutz und IT-Sicherheit sowie zum 
@@ -1514,10 +1407,7 @@ unerforscht. Bisher konzentriert sich die wissenschaftliche Literatur vor allem 
 und weniger auf die individuelle. Die qualitative und quantitative Analyse von möglichen bzw. realen
 individuellen Verbesserungen oder Verschlechterungen für einzelne Beschäftigte, etwa im Rekrutierungsprozess, im 
 Laufe der Beschäftigung oder bei Austritt, wäre notwendig, um ein vollständiges Bild der Chancen und
-Herausforderungen von HR Analytics für die Arbeitswelt der Zukunft zu skizzieren. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Herausforderungen von HR Analytics für die Arbeitswelt der Zukunft zu skizzieren.
 6 Literatur 
 Arendt, H. (1970): Macht und Gewalt. München 
 Bart, C.; Münch, A. (2024): Der AI-Act: neue Herausforderungen für Arbeitgeber. Heuking, 
@@ -1562,10 +1452,7 @@ Angewandte Organisationspsychologie (GIO) 55(2), S. 225–236, https://doi.org/1
 Greth, A. (2024): AI-Act: KI-Gesetz stellt HR vor rechtliche Herausforderungen. HR Journal, 
 https://www.hrjournal.de/ai-act-rechtliche-herausforderungen-fuer-hr/ (26.3.2025) 
 Hammermann, A. et al. (2022): HR Analytics. Anwendungsfelder und Erfolgsfaktoren. Institut der deutschen 
-Wirtschaft Köln e. V. IW-Report 28/2022, Köln 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Wirtschaft Köln e. V. IW-Report 28/2022, Köln
 Holzki, L. (2024): Handelsblatt-Sicherheitskonferenz: Verteidigungsministerium plant ein ChatGPT für die 
 Bundeswehr. Handelsblatt, https://www.handelsblatt.com/politik/deutschland/handelsblatt-sicherheitskon-
 ferenz-verteidigungsministerium-plant-ein-chatgpt-fuer-die-bundeswehr/100011218.html (26.3.2025) 
@@ -1611,10 +1498,7 @@ Management International Digest 26(2), S. 3–6, https://doi.org/10.1108/HRMID-0
 Solbrig, M.; Schuster, F. (2024): Wie an neue Leute kommen? Wege aus dem Fachkräftemangel. Zehn
 Handlungsempfehlungen für den öffentlichen Sektor. Institut für den öffentlichen Sektor e. V. Berlin 
 Staritz, S.; Biemann, T. (2018): Hype oder Kurswechsel in HR? Nutzen von People Analytics. In:
-Personalführung 51(5), S. 15–20 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Personalführung 51(5), S. 15–20
 Statista Research Department (2025): Vakanzzeit von Arbeitsstellen nach Wirtschaftszweigen in Deutschland 
 im Zeitraum von März 2024 bis Februar 2025. Statista GmbH, Hamburg 
 TAB (2023): People Analytics – Technologien zur Auswertung von Beschäftigtendaten (Autor/innen: Peters, 
@@ -1635,10 +1519,7 @@ nalwirtschaft.de/news/arbeitsrecht/eu-ai-act-geleakt-was-bedeutet-die-regulierun
 (26.3.2025) 
 Wittenhagen, J. (2024): AI-Act: KI-Einsatz fordert Personaler besonders. Lebensmittel Zeitung, https://www.le-
 bensmittelzeitung.net/handel/karriere/ai-act-ki-einsatz-fordert-personaler-besonders-179047 (26.3.2025) 
-Zweig, K. A. et al. (2021): Sozioinformatik. Ein neuer Blick auf Informatik und Gesellschaft. München 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Zweig, K. A. et al. (2021): Sozioinformatik. Ein neuer Blick auf Informatik und Gesellschaft. München
 7 Anhang 
 7.1 Interviewpartner/innen 
 Name Organisation 
@@ -1672,10 +1553,7 @@ Im Workshop sollten wünschbare und realistische Zukunftsannahmen, Chancen und R
 Anwendungen diskutiert und Zukunftsbilder, die mögliche Entwicklungen des verantwortungsvollen Einsatzes in 
 der öffentlichen Verwaltung skizzieren, entwickelt werden. Damit sollten einerseits bisherige Erkenntnisse aus 
 Literatur- und Interviewanalyse validiert und andererseits auch neue Denkanstöße für die Ableitung von
-politischen Handlungsoptionen sowie zukünftigen Entwicklungsmöglichkeiten erzeugt werden. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+politischen Handlungsoptionen sowie zukünftigen Entwicklungsmöglichkeiten erzeugt werden.
 Vorgehensweise 
 Um diese Ziele zu erreichen, wurde der Onlineworkshop als Zukunftswerkstatt durchgeführt. Die Methode der 
 Zukunftswerkstatt ist ein partizipativer Ansatz, der darauf abzielt, kreative Lösungen für zukünftige
@@ -1724,10 +1602,7 @@ KI schafft Freiräume für Mitarbeiter/innen, indem sie Routineaufgaben übernim
 so die Zufriedenheit der Mitarbeiter/innen steigert. Der Mensch steht klar im Mittelpunkt: Personaler/innen nutzen 
 KI-basierte Empfehlungen für transparente Entscheidungen und konzentrieren sich auf individuelle Beratung und 
 Härtefälle. Die Rolle der KI ist helfend, nicht strafend. Sie bietet Unterstützung zur Selbsthilfe durch Feedback 
-und Entwicklungsimpulse. 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+und Entwicklungsimpulse.
 Die Verwaltung selbst hat sich grundlegend gewandelt: Bürokratie ist nahezu verschwunden, Prozesse sind
 effizient und bürgernah. Anfragen werden schnell bearbeitet und der Staat agiert resilient, wehrhaft und
 demokratisch. Transparente, bedarfsorientierte Regulierung garantiert Datenschutz und die freiwillige Entscheidung über 
@@ -1771,17 +1646,13 @@ werden HR Analytics im Jahr 2030 in der
 Abbildung 2.5 Fachkräftemangel im öffentlichen Sektor ...........................  21 
 Abbildung 3.1 Strategische Personalplanung im Kontext von HR 
 Analytics .............................................................................  24 
-Abbildung 4.1 Typische Quellen für Beschäftigtendaten in Betrieben .......  30 
- 
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Abbildung 4.1 Typische Quellen für Beschäftigtendaten in Betrieben .......  30
 7.4 Kästen 
  Seite 
 Kasten 2.1 Begriffserläuterung zu den Anwendungsfeldern für 
 HR Analytics .......................................................................  13 
 Kasten 5.1 Politische Gestaltungsoptionen ...........................................  36 
  
-V
-orabfassung – w
-ird durch die lektorierte Fassung ersetzt.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
