@@ -75,9 +75,9 @@ Zeitumstellung inkonsistent.
 ggf. ausgewertet oder beauftragt?
 Eine detaillierte Studie zur Überprüfung der Auswirkungen der Sommerzeit auf 
 den Energieverbrauch und weitere Themenfelder wurde vom Büro für
-Technikfolgen-Abschätzung beim Deutschen Bundestag (TAB) im Jahr 2016 publiziert: 
-„Bilanz der Sommerzeit“. Sie erschien in der Bundestagsdrucksache 18/8000 
-im Februar 2016.
+Technikfolgen-Abschätzung beim Deutschen Bundestag (TAB) im Jahr 2016
+durchgeführt: „Bilanz der Sommerzeit“. Sie erschien mit Bundestagsdrucksache 
+18/8000 im März 2016.
 Im Rahmen dieser TAB-Studie hat das Institut für ökologische
 Wirtschaftsforschung (IÖW) eine umfangreiche Analyse mit Auswertung der Literatur zur 
 Thematik sowie Modellsimulationen durchgeführt: „Auswirkungen der
@@ -90,13 +90,13 @@ Zeitumstellungen ernsthafte positive oder negative energetische, wirtschaftliche
 oder gesundheitliche Effekte nach sich ziehen.
 Eine weitere Untersuchung aus dem Jahr 2016 thematisiert die „Stromersparnis 
 der Zeitumstellung bei privaten Haushalten“. Sie erschien im Wirtschaftsdienst,
-96. Jahrgang, 2016, Heft 4. Die Autoren Korbinian von Blanckenburg
-(Hochschule Ostwestfalen-Lippe Lemgo) und Julian Strauch (Universität Kassel)
-zeigen, dass es durch die Zeitumstellung in Deutschland nur zu geringen
-Einsparungen beim Stromverbrauch privater Haushalte in Höhe von 0,78 Prozent 
-kommt.
-Von 2017 ist die Studie (Ex-Post Impact Assessment) des wissenschaftlichen 
-Dienstes des Europäischen Parlamentes: „Ex-post impact assessment EU
+96. Jahrgang, April 2016, Heft 4. Die Autoren Korbinian von Blanckenburg 
+(Hochschule Ostwestfalen-Lippe Lemgo) und Julian Strauch (Universität
+Kassel) zeigen, dass es durch die Zeitumstellung in Deutschland nur zu geringen 
+Einsparungen beim Stromverbrauch privater Haushalte in Höhe von 0,78
+Prozent kommt.
+Von 2017 ist die Studie (ex-post impact assessment) des Wissenschaftlichen 
+Dienstes des Europäischen Parlaments: „Ex-post impact assessment EU
 summer-time arrangements under Directive 2000/84/EC“. Die Studie kommt
 ebenfalls zu dem Ergebnis, dass die Sommerzeit zu geringfügigen Einsparungen 
 beim Energieverbrauch führt.
@@ -105,29 +105,29 @@ Leistungsfähigkeit in den Wochen nach der Zeitumstellung, und welche
 Schlussfolgerungen zieht die Bundesregierung daraus?
 Die TAB-Studie aus dem Jahr 2016 (siehe Antwort zu Frage 3) hat die
 Auswirkungen der Sommerzeit auf die deutsche Volkswirtschaft umfassend analysiert 
-(Bundestagsdrucksache 18/8000). Die Autoren kommen zu dem Schluss, dass 
-ein Mangel an evidenzbasierten wissenschaftlichen Daten keine belastbaren 
-quantitativen Abschätzungen darüber zulässt, wie sich die Sommerzeit auf
-verschiedene Wirtschaftsbereiche auswirkt. Insgesamt spreche allerdings vieles 
-dafür, dass sich die Wirtschaftssektoren an die Sommerzeit angepasst hätten. In 
-einigen Branchen würde die Zeitumstellung als lästig empfunden, in anderen 
-hingegen als vorteilhaft.
+(siehe Bundestagsdrucksache 18/8000). Die Autoren kommen zu dem Schluss, 
+dass ein Mangel an evidenzbasierten wissenschaftlichen Daten keine
+belastbaren quantitativen Abschätzungen darüber zulässt, wie sich die Sommerzeit 
+auf verschiedene Wirtschaftsbereiche auswirkt. Insgesamt spreche allerdings 
+vieles dafür, dass sich die Wirtschaftssektoren an die Sommerzeit angepasst 
+hätten. In einigen Branchen würde die Zeitumstellung als lästig empfunden, in 
+anderen hingegen als vorteilhaft.
 Neuere Untersuchungen zur volkswirtschaftlichen Produktivität und
 Leistungsfähigkeit in Deutschland in den Wochen nach der Zeitumstellung liegen der 
 Bundesregierung nicht vor.
 Eine aktuelle internationale Studie der US-Ökonomen Waddell und Dickinson 
 (2024) untersuchte die Wirkung der Zeitumstellung anhand von GitHub-Daten 
 von etwa rund 175 000 Personen im Zeitraum 2013 bis 2019. GitHub ist eine 
-Versions-Kontroll-Plattform, die u. a. von Software-Entwicklerinnen und
-Entwicklern genutzt wird und weltweit rund 83 Mio. registrierte Nutzende hat. Die 
-Ergebnisse zeigen, dass die Umstellung auf Sommerzeit die
-Arbeitsproduktivität nicht nur ein bis zwei Tage, sondern bis zu zwei Wochen beeinträchtigen 
-kann. Besonders in den frühen Morgenstunden hätten Arbeitende
-Schwierigkeiten, in den Arbeitstag zu starten. Bei der Umstellung auf Winterzeit dagegen, 
-wurde ein gegenläufiger Effekt beobachtet. Die Forscher vermuten, dass der 
-Produktivitätszuwachs auf den zusätzlichen Schlaf zurückzuführen sei. In
-welchem Maße sich die Ergebnisse auf die deutsche Volkswirtschaft insgesamt 
-übertragen lassen, ist jedoch ungewiss.
+Versions-Kontroll-Plattform, die u. a. von Software-Entwicklerinnen und -
+Entwicklern genutzt wird und weltweit rund 83 Millionen registrierte Nutzende 
+hat. Die Ergebnisse zeigen, dass die Umstellung auf Sommerzeit die
+Arbeitsproduktivität nicht nur ein bis zwei Tage, sondern bis zu zwei Wochen
+beeinträchtigen kann. Besonders in den frühen Morgenstunden hätten Arbeitende 
+Schwierigkeiten, in den Arbeitstag zu starten. Bei der Umstellung auf
+Winterzeit dagegen, wurde ein gegenläufiger Effekt beobachtet. Die Forscher
+vermuten, dass der Produktivitätszuwachs auf den zusätzlichen Schlaf
+zurückzuführen sei. In welchem Maße sich die Ergebnisse auf die deutsche Volkswirtschaft 
+insgesamt übertragen lassen, ist jedoch ungewiss.
 6. Werden aus Bundesmitteln laufende oder geplante Forschungsvorhaben 
 zur Thematik „Zeitumstellung und Gesundheit“ gefördert (z. B. Deutsche 
 Forschungsgemeinschaft e. V., Helmholtz-Gemeinschaft Deutscher
@@ -139,13 +139,12 @@ außeruniversitären Forschungsorganisationen durchgeführt werden, entscheiden
 die jeweiligen Einrichtungen eigenständig. Der Bundesregierung liegen keine 
 Kenntnisse zu Forschungsvorhaben zur genannten Thematik vor.
 Derzeit gibt es keine laufenden durch die Deutsche Forschungsgemeinschaft 
-(DFG) geförderten Projekte zum Thema „Zeitumstellung und Gesundheit“. Zu 
-geplanten Forschungsvorhaben liegen der Bundesregierung keine
-Informationen vor.
+geförderten Projekte zum Thema „Zeitumstellung und Gesundheit“. Zu
+geplanten Forschungsvorhaben liegen der Bundesregierung keine Informationen vor.
 Derzeit gibt es keine laufende Forschungsförderung zur Thematik
 „Zeitumstellung und Gesundheit“ seitens des Bundesministeriums für Forschung,
-Technologie und Raumfahrt (BMFTR). Eine diesbezügliche Forschungsförderung ist 
-nicht in Planung.
+Technologie und Raumfahrt. Eine diesbezügliche Forschungsförderung ist nicht in
+Planung.
 7. Welche Schlüsse zieht die Bundesregierung ggf. aus den Ergebnissen der 
 EU-weiten Bürgerbefragung aus dem Jahr 2018, insbesondere im Hinblick 
 auf die Wahrnehmung gesundheitlicher Belastungen (vgl. Frage 6)?
@@ -159,10 +158,10 @@ nationaler Ebene ergriffen, um die Zeitumstellung auszusetzen oder deren
 Folgen zu mindern (vgl. Vorbemerkung der Fragesteller)?
 Bereits seit Anfang der 1980er-Jahre wird die Sommerzeit auf europäischer 
 Ebene festgelegt. Die Zeitumstellung beruht auf der für alle Mitgliedstaaten 
-verbindlichen EU-Richtlinie 2000/84/EG, die in Deutschland durch die
-Sommerzeitverordnung umgesetzt wurde. Die EU-Richtlinie sieht die jährliche 
-Zeitumstellung zwingend vor und belässt den Mitgliedstaaten kein Wahlrecht. 
-Die Zeitumstellung kann daher nur auf EU-Ebene geändert werden. Für eine 
+verbindlichen Richtlinie 2000/84/EG, die in Deutschland durch die
+Sommerzeitverordnung umgesetzt wurde. Die EG-Richtlinie sieht die jährliche
+Zeitumstellung zwingend vor und belässt den Mitgliedstaaten kein Wahlrecht. Die 
+Zeitumstellung kann daher nur auf EU-Ebene geändert werden. Für eine
 entsprechende Änderung liegt das Initiativrecht bei der Europäischen
 Kommission.
 Die Europäische Kommission hat eine Studie zu den Auswirkungen einer
