@@ -1,0 +1,774 @@
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln 
+Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de 
+ISSN 0720-2946 
+Bundesrat Drucksache   342/26 
+ 03.06.26 
+ 
+ EU - DS - In - K - U - Wi 
+ 
+ 
+Unterrichtung 
+durch die Europäische Kommission 
+ 
+ 
+ 
+ 
+Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen 
+Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen: Strategischer Fahrplan 
+für Digitalisierung und KI im Energiesektor 
+COM(2026) 501 final 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Der Bundesrat wird über die Vorlage gemäß § 2 EUZBLG auch durch die Bundesregierung 
+unterrichtet. 
+ 
+Hinweis: Drucksache 538/22 = AE-Nr. 221039 
+DE   DE 
+ 
+ 
+EUROPÄISCHE 
+KOMMISSION 
+Brüssel, den 3.6.2026  
+COM(2026) 501 final 
+ 
+MITTEILUNG DER KOMMISSION AN DAS EUROPÄISCHE PARLAMENT, DEN 
+RAT, DEN EUROPÄISCHEN WIRTSCHAFTS- UND SOZIALAUSSCHUSS UND 
+DEN AUSSCHUSS DER REGIONEN 
+ Strategischer Fahrplan für Digitalisierung und KI im Energiesektor
+1 
+1. Einführung 
+Die Digitalisierung verändert unser Leben, und der Energiesektor bildet dabei keine 
+Ausnahme. Im Bericht von Mario Draghi über die Zukunft der europäischen 
+Wettbewerbsfähigkeit1 wurde betont, dass die Europäische Union die „digitale Revolution“ 
+nutzen und entschlossen in künstliche Intelligenz (KI) und Dateninfrastruktur investieren muss, 
+um ihre Wettbewerbsfähigkeit zu wahren und bei der Energiewende eine Führungsrolle zu 
+übernehmen. 
+Durch die hohen Energiepreise in der EU, die durch die eskalierende Krise bei fossilen 
+Brennstoffen noch verschärft werden, und den Druck, den sie sowohl auf die industrielle 
+Wettbewerbsfähigkeit als auch auf die Privathaushalte ausüben, wird der digitale Wandel des 
+Energiesystems dringlicher denn je. Der Konflikt im Nahen Osten hat zu schwankenden 
+Preisspitzen geführt und die Fragilität aufgrund der Abhängigkeit der EU von weltweiten 
+Einfuhren offenbart.  
+Wahre Technologiesouveränität beruht auf einem digitalisierten, vernetzten Energiesystem, 
+das die Elektrifizierung und die Integration sauberer Energie verstärkt. Digitale Lösungen 
+können den Verbrauchern mehr Kontrolle darüber geben, wann sie Strom verbrauchen, sodass 
+sie ihren Verbrauch auf günstigere Zeiten verlagern und ihre Stromrechnungen senken können. 
+Für die Industrie kann Digitalisierung die Energiekosten senken, die Effizienz steigern und 
+Produktionsprozesse optimieren und es erleichtern, auf Preissignale zu reagieren und an 
+Flexibilitätsmärkten teilzunehmen. Wenn die Flexibilität vieler Geräte, Gebäude und 
+industrieller Prozesse aggregiert wird, kann dies die Spitzennachfrage reduzieren, den Bedarf 
+an kostspieliger Stromerzeugung auf der Grundlage fossiler Brennstoffe begrenzen und die 
+Kosten im gesamten System senken. Gleichzeitig können Netzbetreiber, Kraftwerke, 
+Speicheranlagen und Industriestandorte durch digitale Instrumente und KI effizienter und 
+vorausschauender arbeiten. Dies führt zu einer wettbewerbsfähigeren Industrie, niedrigeren 
+Kosten für die Haushalte und einem insgesamt widerstandsfähigeren und erschwinglicheren 
+Energiesystem2.  
+Der Bedarf an steigenden Rechenkapazitäten wird zu einem entsprechenden Anstieg des 
+Energiebedarfs für die Digitalisierung führen; insbesondere KI und Rechenzentren treiben den 
+Energiebedarf in die Höhe3, was sich möglicherweise auf die Dekarbonisierung, die Preise und 
+den Zugang zu den Netzen für alle Verbraucher auswirkt. Wie in der EU-
+Wasserresilienzstrategie anerkannt wird, geht dies mit einem zunehmenden Druck auf die 
+Wasserressourcen einher4. Einige Mitgliedstaaten und Drittländer sind bereits mit diesen 
+Herausforderungen konfrontiert. Werden diese Herausforderungen nicht bereits jetzt auf EU-
+Ebene angegangen, könnten sie erheblich zunehmen und in den kommenden Jahren 
+schwieriger zu bewältigen sein, da der Energieverbrauch des Sektors voraussichtlich weiter 
+steigen wird. Es ist daher unbedingt sicherzustellen, dass die Digitalisierung keine negativen 
+Auswirkungen auf andere Verbraucher oder die Elektrifizierungsagenda der Kommission hat, 
+ 
+1 The future of European competitiveness: A Competitiveness Strategy for Europe, M. Draghi, 2024. 
+2 Die Digitalisierung könnte zu direkten jährlichen Einsparungen für die Verbraucher in Höhe von mehr als 71 Mrd. EUR und 
+zu umfassenderen Systemvorteilen in Höhe von mehr als 300 Mrd. EUR führen (2030 Demand-side flexibility – Quantification 
+of benefits in the EU (Nachfrageseitige Flexibilität 2030 – Quantifizierung der Nutzen in der EU), Studie, durchgeführt von 
+smartEn und DNV). ACER berichtet, dass schwedische Haushalte, die elektrische Heizungen nutzen, durch nachfrageseitige 
+Flexibilität bis zu 40 % einsparen können, während die IEA schätzt, dass bestehende KI-Anwendungen beim Betrieb und bei 
+der Wartung von Kraftwerken bis 2035 weltweit jährliche Einsparungen in Höhe von 95 Mrd. EUR erzielen könnten (IEA – 
+Energy and AI (Energie und KI), World Energy Outlook Special Report, 2025). 
+3 Schätzungen der IEA zufolge werden Rechenzentren in fortgeschrittenen Volkswirtschaften bis 2030 mehr als 20 % des 
+Anstiegs der Stromnachfrage ausmachen (IEA – Energy and AI, World Energy Outlook Special Report, 2025). 
+4 Europäische Wasserresilienzstrategie.
+2 
+sondern vielmehr so gesteuert wird, dass die Systemintegration ermöglicht und die 
+Auswirkungen auf das Energiesystem begrenzt werden.   
+Ein nachhaltiges digitalisiertes EU-Energiesystem, das das Potenzial digitaler Technologien 
+nutzt, ist daher nicht mehr nur eine Option, sondern eine Notwendigkeit. Es wird jedoch nicht 
+von alleine entstehen: Es erfordert intelligente Netze, intelligente Zähler und einen nahtlosen 
+Datenaustausch über das gesamte Energiesystem hinweg. Auch wird die Digitalisierung 
+Europa nicht automatisch stärken. Um die Wettbewerbsfähigkeit und strategische Autonomie 
+der EU zu stärken, muss die EU die souveräne Kontrolle über die digitalen Lösungen, KI-
+Modelle und Algorithmen behalten, von denen sein Energiesystem zunehmend abhängt. 
+Globale Akteure unternehmen bereits entscheidende Schritte in diese Richtung5. Wenn die EU 
+bei der globalen Energiewende eine Führungsrolle übernehmen will, muss sie einen 
+ambitionierten Fahrplan in diesem Bereich entwickeln. 
+Der vorliegende strategische Fahrplan umfasst Maßnahmen für ein digitalisiertes 
+Energiesystem der EU, in dem KI die Bereitstellung sicherer, sauberer und wettbewerbsfähiger 
+Energie für alle Verbraucher unterstützen wird. Er baut auf den politischen Prioritäten des 
+Aktionsplans für den KI-Kontinent6, der Strategie „KI anwenden“7, der Arbeit des Amts für 
+künstliche Intelligenz und des Aktionsplans für die Digitalisierung des Energiesektors aus dem 
+Jahr 2022 auf, um die Vorteile digitaler Lösungen für den europäischen Energiesektor zu 
+nutzen. Er ergänzt den Rechtsakt über Cloud- und KI-Entwicklung (Cloud and AI 
+Development Act, CADA), mit dem die EU über den geeigneten Rahmen verfügen wird, um 
+Anreize für umfangreiche Investitionen in Cloud- und Edge-Kapazitäten zu schaffen. 
+Bis 2030 werden die in diesem strategischen Fahrplan dargelegten Maßnahmen dazu beitragen, 
+das nachhaltige Wachstum des digitalen Sektors in der EU zu unterstützen, was positive 
+Auswirkungen für alle Energieverbraucher haben wird. Der grenzüberschreitende Austausch 
+und die Bündelung von Energiedaten werden zudem dazu beitragen, die EU auf der 
+internationalen KI-Landkarte zu etablieren, indem KI-Basismodelle ermöglicht werden, die 
+den Datenschutzvorschriften und Werten der EU entsprechen. 
+Dieser strategische Fahrplan ist in drei Säulen gegliedert: Säule I betrifft die nachhaltige 
+Integration von Rechenzentren in das Energiesystem, Säule II umfasst Maßnahmen zur 
+Einführung digitaler und KI-Lösungen im gesamten Energiesystem und Säule III betrifft den 
+Daten-Governance-Rahmen, der erforderlich ist, um intelligente Energiedienstleistungen und 
+KI in großem Maßstab zu ermöglichen. Ergänzt werden diese Säulen durch einen 
+Querschnittsabschnitt zu Vertrauen, Cybersicherheit und der Abwehr hybrider Bedrohungen, 
+Kompetenzen und internationaler Zusammenarbeit sowie durch einen abschließenden 
+Abschnitt zur Überwachung und Überprüfung der Umsetzung. 
+2. Säule I – Energie für KI 
+Die Säule I umfasst spezifische Maßnahmen, mit denen sichergestellt werden soll, dass die 
+nachhaltige Integration von Rechenzentren in das Energiesystem die Versorgungssicherheit, 
+die Wettbewerbsfähigkeit und die Ziele im Bereich der sauberen Energie unterstützt. 
+ 
+5 In den USA wird die KI mit der KI-Strategie (US-Energieministerium, Artificial Intelligence Strategy, Oktober 2025) und 
+der Genesis-Mission (Weißes Haus: Launching the Genesis mission) als strategische Ressource für den Energiesektor 
+positioniert. Mit Chinas Nationalem Plan für die Integration von KI und Energie (Staatsrat: Plan on AI-energy integration und 
+Forbes: China’s new AI Strategy explained (Chinas neue KI-Strategie erklärt)) wird eine koordinierte Strategie zur Einbindung 
+von KI in das Energiesystem dargelegt. 
+6 Aktionsplan für den KI-Kontinent (COM(2025) 165). 
+7 Strategie „KI anwenden“ (COM(2025) 723 final).
+3 
+Rechenzentren sind für die Wettbewerbsfähigkeit und digitale Souveränität der EU von 
+entscheidender Bedeutung, da sie die Rechenkapazität bereitstellen, auf der die meisten 
+digitalen Dienste basieren. Sie können zudem die lokale Wirtschaft ankurbeln und integrierte 
+digitale Wertschöpfungsketten in der gesamten EU stärken. Die EU ist bestrebt, ihre 
+Rechenzentrumskapazität innerhalb von fünf bis sieben Jahren zu verdreifachen, um so 
+sicherzustellen, dass sie ihren Bedarf deckt.  
+Diese Chancen bringen Herausforderungen mit sich. Auf Rechenzentren entfallen derzeit rund 
+2,5 % des Stromverbrauchs in der EU, und ihre Nachfrage dürfte erheblich steigen, da ihre 
+installierte Kapazität voraussichtlich von etwa 12 GW im Jahr 2025 auf etwa 28 GW im Jahr 
+2030 steigen wird8. Die derzeitige Nachfrage konzentriert sich geografisch auf eine begrenzte 
+Anzahl von Hotspots9. Die Anschlussanträge nehmen jedoch stark zu; dabei benötigen einzelne 
+Standorte Kapazitäten, die denen großer Industriestandorte entsprechen. Diese zusätzliche 
+Nachfrage wird den allgemeinen Anstieg aufgrund der Elektrifizierung der Wirtschaft noch 
+verstärken. Es besteht die Gefahr, dass diese Entwicklungen, wenn sie nicht proaktiv gesteuert 
+werden, die Sicherheit und Nachhaltigkeit der Energieversorgung gefährden, Netzengpässe 
+verschärfen und die Strompreise in die Höhe treiben, insbesondere vor dem Hintergrund, dass 
+Rechenzentren mit anderen Energieverbrauchern um den Zugang zu Energie konkurrieren 
+können. In bestimmten Regionen können Umfang und Geschwindigkeit des prognostizierten 
+Nachfragewachstums zusätzlich zu einem rechtzeitigen Netzausbau ergänzende Ansätze für 
+die Energieversorgung und Systemintegration erforderlich machen, etwa die Energieerzeugung 
+vor Ort, die Erzeugung am selben Standort oder „nach dem Zähler“, die in anderen Regionen 
+weltweit zunehmend bei groß angelegten Rechenzentrumscampus eingesetzt werden. 
+Die Integration von Rechenzentren in das Energiesystem erfordert ein effizientes 
+Management der Netzanschlüsse, eine koordinierte Netzplanung und einen koordinierten 
+Netzbetrieb, nachfrageseitige Flexibilität und eine nachhaltige Energieversorgung, etwa durch 
+saubere Erzeugung am selben Standort in der Nähe von Rechenzentren, die zur 
+Systemintegration und Versorgungssicherheit beitragen. Die Netzbetreiber benötigen zeitnahe 
+Informationen über die Errichtung von Rechenzentren, um Netzinvestitionen zu planen und 
+Anschlüsse effizient zu verwalten. Der digitale Sektor trägt Verantwortung dafür, seine 
+nachhaltige Integration in das Energiesystem sicherzustellen. Zudem müssen wasserbezogene 
+Herausforderungen behandelt werden, um dem Zusammenhang zwischen Wasser und Energie 
+und seinen Auswirkungen in vollem Umfang Rechnung zu tragen. Der anstehende digitale 
+Aktionsplan für den Wassersektor dürfte die Entwicklung einer nachhaltigen Integration von 
+Rechenzentren unterstützen und ergänzen. 
+In Rechenzentren wird Strom zum Nutzen der gesamten Wirtschaft und Gesellschaft in 
+intelligente Dienste umgesetzt, und sie können in den kommenden Jahren ein beispielloses 
+Wachstum aufweisen.  Wenngleich Rechenzentren einen einzigartigen Energiebedarf 
+aufweisen, betreffen die Herausforderungen im Zusammenhang mit dem rechtzeitigen 
+Netzzugang und der Flexibilität auch andere Netznutzer. Damit die EU das Potenzial von 
+Cloud und KI in vollem Umfang nutzen kann, benötigen Rechenzentren eine zeitnahe 
+Stromversorgung und einen zeitnahen Netzzugang. Die jüngsten Initiativen der 
+Kommission10 bieten den Mitgliedstaaten, Regulierungsbehörden und Netzbetreibern ein 
+ 
+8 Studie: „Cloud and AI“: Technopolis, Wavestone, Timelex, STL Partners, OpenForum Europe, KAPA Research (2025). 
+9 Insbesondere in der Nähe von Dublin, Frankfurt, Amsterdam und Paris, aber auch in Spanien, Italien, Belgien, Polen und 
+den skandinavischen Regionen. 
+10 Bekanntmachung der Kommission – Leitlinien für effiziente und zeitnahe Netzanschlüsse (C/2025/8473), Bekanntmachung 
+der Kommission über Leitlinien für zukunftssichere Netzentgelte für geringere Energiesystemkosten (C/2025/8574), 
+Bekanntmachung der Kommission über Leitlinien für vorausschauende Investitionen in den Aufbau zukunftsorientierter 
+Stromnetze (C/2025/3291).
+4 
+Instrumentarium zur Deckung des dringendsten Bedarfs im Zusammenhang mit dem 
+Netzzugang, der Netzentwicklung und der effizienten Netznutzung, das auf dem bestehenden 
+Rechtsrahmen11 aufbaut. 
+Verzögerungen beim Netzausbau werden als Hauptgrund für „Anschlussschlangen“ großer 
+Netznutzer wie Rechenzentren betrachtet. Die Kommission hat im Rahmen des Pakets 
+„Europäische Netze“ Bestimmungen zur Beschleunigung der Genehmigungsverfahren 
+vorgelegt und fordert die Regulierungsbehörden und Netzbetreiber auf, die Interessenträger 
+frühzeitig in ihre Netzplanung einzubeziehen, um antizipative Investitionen zu erleichtern. 
+Um das Hindernis einer ineffizienten Netznutzung zu beseitigen, sollten die 
+Regulierungsbehörden sicherstellen, dass die richtigen Anreize für Netzbetreiber und 
+Netznutzer bestehen, dass die Netzentgelte effizient gestaltet werden und Flexibilität bieten, 
+um die Kosten der jeweiligen Nutzergruppen widerzuspiegeln. In dem anstehenden 
+Legislativvorschlag für zukunftssichere Stromrechnungen in der EU werden diese Grundsätze 
+vor dem Sommer präzisiert. 
+Darüber hinaus sollten die Regulierungsbehörden einen Rahmen für flexible 
+Netzanschlussverträge schaffen. Wenn flexible Netzanschlussverträge erforderlich oder für 
+das Energiesystem von Vorteil sind, könnten Rechenzentren eine wichtige Rolle spielen. Sie 
+können sich zudem an Marktmechanismen beteiligen, mit denen Flexibilität vergütet wird, 
+etwa im Zusammenhang mit Regelreserve- oder Systemdienstleistungen und 
+Engpassmanagementmärkten, wenn sie die technischen Bedingungen erfüllen. 
+Darüber hinaus können Netzanschlussverfahren effizienter gestaltet werden, wenn vom 
+Grundsatz „First-come-first-served“ abgerückt wird und die Reife und die Fortschritte bei der 
+Projektentwicklung stärker berücksichtigt werden, um sicherzustellen, dass spekulative 
+Projekte den Netzzugang nicht blockieren. Das unionsweite Portal zur Netzaufnahmekapazität 
+Capacitypedia12 sollte es Rechenzentren erleichtern, ihren Netzanschlussantrag in Gebieten zu 
+stellen, in denen ein ausreichender Netzausbau besteht oder geplant ist. Die Kommission ist 
+entschlossen, die Umsetzung der einschlägigen Leitlinien weiter zu unterstützen, um einen 
+zeitnahen Netzzugang für alle Nutzer zu gewährleisten. 
+Eine EU-weite Koordinierung ist erforderlich, um die nachhaltige Integration von 
+Rechenzentren in das Energiesystem zu beschleunigen. Im Rahmen einer von der Kommission 
+geleiteten Initiative wird ein reproduzierbares Modell für Vereinbarungen zwischen Behörden, 
+Betreibern von Rechenzentren und Akteuren im Energiesektor entwickelt werden, um die 
+Netzintegration, die Versorgung mit sauberer Energie, Flexibilität und verbesserte 
+Energieeffizienz zu fördern und die Wasser- und Umweltressourcen zu schützen. Das Modell 
+wird zudem die Umsetzung der oben genannten horizontalen Maßnahmen für einen 
+nachhaltigen Netzzugang erleichtern, wobei die Besonderheiten von Rechenzentren in vollem 
+Umfang berücksichtigt werden. Als Richtschnur für die Maßnahmen wird die Kommission 
+zudem die Faktengrundlage für den Energieverbrauch von Rechenzentren durch ein EU-
+Instrument für die langfristige Bewertung und Überwachung verbessern, das auf der 
+Berichterstattung im Rahmen der Energieeffizienzrichtlinie, den EU-Statistiken13 und der 
+ 
+11Insbesondere die Bestimmungen der Verordnung (EU) 2019/943 des Europäischen Parlaments und des Rates vom 5. Juni 
+2019 über den Elektrizitätsbinnenmarkt und der Richtlinie (EU) 2019/944 des Europäischen Parlaments und des Rates vom 
+5. Juni 2019 mit gemeinsamen Vorschriften für den Elektrizitätsbinnenmarkt. 
+12 Capacitypedia: Pan-EU Overview on Grid Hosting Capacity Information. 
+13 Europäische Statistiken, einschließlich Daten über den Energieverbrauch in Rechenzentren, werden gemäß den 
+Bestimmungen der Verordnung (EG) Nr. 1099/2008 erhoben.
+5 
+Zusammenarbeit mit der IEA aufbaut. Dadurch wird die Umsetzung des Rechtsrahmens, 
+einschließlich des Pakets „Europäische Netze“, ergänzt und erleichtert.  
+Leitinitiative 1: Ein Muster für eine Dreiparteien-Vereinbarung über die nachhaltige 
+Integration von Rechenzentren in das Energiesystem, um lokale Vereinbarungen 
+zwischen Betreibern von Rechenzentren, Akteuren aus dem Energiesektor und Behörden 
+einzuführen. In dem Modell könnten in Bezug auf folgende Punkte Maßnahmen festgelegt 
+werden: verbesserte Bereitstellung von Informationen für eine bessere Netzplanung, besser 
+informierte Entscheidungsfindung hinsichtlich des optimalen Standorts von 
+Rechenzentrumsprojekten, Erhöhung der Transparenz von Netzanschlussanträgen 
+(einschließlich des Grundsatzes „Use-it-or-lose-it“ zur Vermeidung spekulativer 
+Reservierungen in der Warteschlange), bessere Nutzung von Strombezugsverträgen14 und 
+Bereitstellung zusätzlicher Erzeugungskapazitäten für saubere Energie, Bereitstellung von 
+Lösungen für die Flexibilität des Rechenzentrums (durch marktbasierte Instrumente und 
+unter Nutzung des geltenden Rechtsrahmens), Unterstützung der Rückgewinnung und 
+Nutzung von Abwärme und Verbesserung der Energieeffizienz, Nutzung flexibler 
+Netzanschlussverträge als Mittel für den Netzzugang – sofern erforderlich. Das Modell kann 
+anschließend in den Mitgliedstaaten und Regionen angepasst und erprobt werden. 
+Wasserbezogene Angelegenheiten werden im Einklang mit der Entwicklung des 
+Bewertungssystems der EU für Rechenzentren behandelt. 
+Zeitplan: Parallel zu diesem strategischen Fahrplan wird eine Absichtserklärung 
+angenommen, in der die Bereitschaft der Interessenträger aus der Industrie zur 
+Zusammenarbeit im Rahmen einer Dreiparteien-Vereinbarung bekundet und 
+Schlüsselbereiche für ihr Handeln festgelegt werden; das Muster für die Dreiparteien-
+Vereinbarung wird im zweiten Halbjahr 2026 veröffentlicht und bekannt gemacht. Darüber 
+hinaus wird die Kommission erforderlichenfalls in Erwägung ziehen, einen 
+Legislativvorschlag vorzulegen, um die nachhaltige Integration von Rechenzentren in das 
+Energiesystem der EU sicherzustellen. 
+Erwartete Auswirkungen: bessere Koordinierung zwischen Behörden, Betreibern von 
+Rechenzentren, Stromnetzbetreibern und anderen einschlägigen Interessenträgern; schnellere 
+und nachhaltigere Netzintegration von Rechenzentren; stärkere Nutzung von Lösungen zur 
+Beschaffung sauberer Energie und zur Flexibilisierung; bessere Energieeffizienz; niedrigere 
+Energiepreise; ein kohärenterer, aber anpassungsfähiger Rahmen in allen Mitgliedstaaten. 
+Maximierte Synergien mit Fernwärme. 
+Um das Wachstum der digitalen Infrastruktur mit Umwelt-, Klima- und Energiezielen in 
+Einklang zu bringen, müssen Rechenzentren hinsichtlich Energie- und Ressourceneffizienz 
+sowie Flexibilität eine führende Rolle übernehmen. Als Reaktion darauf wird die Kommission 
+ein Energieeffizienzpaket für Rechenzentren annehmen, das einen Bericht über die 
+Verbesserung der Energieeffizienz von Rechenzentren, einen delegierten Rechtsakt zur 
+Einführung eines Bewertungssystems der EU für die Nachhaltigkeit von Rechenzentren und 
+die Einleitung einer öffentlichen Konsultation über Mindestleistungsstandards für neue und 
+bestehende Rechenzentren in der EU umfasst. Die Initiative zur Führungsrolle in Cloud und 
+KI im Rahmen des Rechtsakts über Cloud- und KI-Entwicklung wird die Einrichtung 
+erstklassiger Rechenzentren in der gesamten Union unterstützen und Anreize dafür schaffen.  
+Leitinitiative 2: Ein Bewertungssystem der EU für Rechenzentren hinsichtlich 
+Energieeffizienz, Wassereffizienz, Nutzung sauberer Energie, Nutzung von Abwärme und 
+ 
+14 Im Einklang mit der Empfehlung der Kommission zur Beseitigung von Hindernissen für die Entwicklung von 
+Strombezugsverträgen und Verträgen über den Bezug von anderer Energie (Empfehlung (EU) 2026/917 der Kommission).
+6 
+Flexibilität15, und Einleitung des Verfahrens für EU-weite Mindestvorgaben für die 
+Gesamtenergieeffizienz.  
+Zeitplan: Annahme des Bewertungssystems im Jahr 2026; erste Label im Jahr 2027; 
+Bewertung des Bedarfs an EU-weiten Mindestvorgaben für die Gesamtenergieeffizienz bis 
+2027. 
+Erwartete Auswirkungen: mehr Transparenz und Förderung der nachhaltigen Entwicklung 
+von Rechenzentren; Optimierung des prognostizierten Energie- und Wasserverbrauchs. 
+3. Säule II – Digitalisierung und KI für das Energiesystem 
+In der Säule II sind spezifische Maßnahmen vorgesehen, um das Energiesystem durch den 
+Einsatz von digitalen und KI-Lösungen intelligenter und datengesteuerter zu gestalten.  
+Im Zuge der fortschreitenden Elektrifizierung und Dekarbonisierung des Energiesektors 
+entwickeln sich Stromnetze zum Rückgrat eines integrierten und widerstandsfähigen 
+Energiesystems. Wie im Paket „Europäische Netze“ hervorgehoben wurde, müssen die Netze 
+intelligenter und stärker, aber auch widerstandsfähiger gegenüber Klima- und 
+Extremereignissen werden, wozu sie Geodaten und KI nutzen müssen, um die Risiken von 
+Naturkatastrophen zu mindern. Intelligente Netze bieten die Sichtbarkeit, Interoperabilität und 
+Steuerung in Echtzeit, die erforderlich sind, um die Nutzung erneuerbarer Energien zu steigern 
+und den Betrieb des Energiesystems unter Nutzung von KI zu optimieren. Intelligente 
+Messsysteme sind eine wichtige Voraussetzung für Laststeuerung und Verträge mit 
+dynamischen Strompreisen, die zur besseren Nutzung der bestehenden Stromnetzinfrastruktur 
+beitragen können, unter anderem durch die Verringerung der Abregelung erneuerbarer 
+Energien und die Erleichterung der Elektrifizierung.  
+Intelligente Netze können Kosten senken, da vorhandene Anlagen und erneuerbare 
+Energien besser genutzt werden. Sie verbessern die Erschwinglichkeit und Resilienz durch 
+ein besseres Netzmanagement und unterstützen die Systemintegration, indem sie Flexibilität in 
+Bezug auf Nachfrage, Erzeugung, Speicherung, Heizung und Mobilität ermöglichen. Das 
+Carsharing-Netz von Utrecht für die Netzintegration von Elektrofahrzeugen zeigt 
+beispielsweise, wie Elektrofahrzeuge überschüssige Solarenergie speichern und zu 
+Spitzenzeiten wieder ins Netz einspeisen können, wodurch die Netzstabilität unterstützt und 
+Einschränkungen verringert werden16. Intelligentes und bidirektionales Laden kann auch zu 
+erheblichen Einsparungen für die Verbraucher führen (zwischen 450 EUR und 2 900 EUR pro 
+Jahr)17. Ein weiteres Beispiel sind Häfen, in denen intelligente Netze dazu beitragen können, 
+den hohen Strombedarf für die landseitige Stromversorgung von Schiffen zu bewältigen, und 
+zusätzliche Flexibilitätsdienste ermöglichen können18. 
+Investitionen in stärkere und intelligentere europäische Stromnetze sind von 
+entscheidender Bedeutung19. Fortschritte werden jedoch nach wie vor durch Regulierungs- 
+und Planungspraktiken, die den herkömmlichen Netzausbau gegenüber intelligenten Lösungen 
+begünstigen, durch uneinheitliche Digitalisierungsansätze innerhalb der EU und durch 
+Unsicherheit hinsichtlich der Leistungsfähigkeit neuer Technologien behindert.  
+ 
+15 Artikel 12 und 33 der Energieeffizienzrichtlinie (EU) 2023/1791, aufbauend auf dem bestehenden Berichterstattungssystem 
+für Rechenzentren, das 2024 mit der Delegierten Verordnung (EU) 2024/1364 der Kommission eingeführt wurde. 
+16 Utrecht becomes Europe’s first city with a V2G electric car‑sharing service. 
+17 Plugging into potential: unleashing the untapped flexibility of EVs, Eurelectric, 2025. 
+18 Geschäftsmodell für Strom im Hafen (Pilotprojekt) – Amt für Veröffentlichungen der EU. 
+19 Im Zeitraum 2024-2040 sollten mehr als 1,2 Bio. EUR investiert werden, davon sind 730 Mrd. EUR für Verteilernetze und 
+430 Mrd. EUR für Übertragungsnetze vorgesehen.
+7 
+Mit dem EU-Rahmen wurden bereits mehrere dieser Hindernisse aufgegriffen, indem mehr 
+Investitionen in intelligente Netze durch die Gestaltung des Strommarkts20, das Paket 
+„Europäische Netze“ und die EU-Forschungsförderung unterstützt werden. Insbesondere hat 
+das Paket „Europäische Netze“21 Vorschläge zur Förderung nicht drahtgebundener und 
+digitaler Lösungen in der Netzplanung vorgelegt, während im Rahmen von Horizont Europa 
+Innovationen in den Bereichen Energiesysteme, Netze und Speicherung gefördert werden22.  
+Um die Einführung intelligenterer Netze weiter zu unterstützen, wird die Kommission 
+Rechtsvorschriften für zukunftssichere EU-Stromrechnungen vorschlagen, einschließlich 
+Bestimmungen, die eine effizientere Nutzung der derzeitigen Netzressourcen durch den 
+Einsatz intelligenter und digitaler Lösungen ermöglichen. Mit dem Vorschlag wird die Agentur 
+für die Zusammenarbeit der Energieregulierungsbehörden (ACER) beauftragt, den 
+Regulierungsbehörden eine Empfehlung zur Verwendung von Indikatoren für intelligente 
+Netze zur Messung der Einführung und Leistung innovativer Technologien und digitaler 
+Lösungen in Übertragungs- und Verteilernetzen vorzulegen. Die Empfehlung wird auf den 
+laufenden Arbeiten in diesem Bereich aufbauen. Die Regulierungsbehörden werden dann 
+Leistungsindikatoren für einen effizienten Netzbetrieb und -ausbau festlegen. ACER wird die 
+Fortschritte überwachen, bewährte Verfahren ermitteln und bei Bedarf weitere Maßnahmen 
+vorschlagen. Diese Indikatoren sollten zudem den Einsatz netzverbessernder Technologien 
+unterstützen, die die Netzkapazität um bis zu 40 % erhöhen und die Kosten für den 
+konventionellen Netzausbau um bis zu 35 % senken können.23. 
+Um den Ausbau zu beschleunigen, wird die Kommission die Übertragungs- und 
+Verteilernetzbetreiber weiterhin bei der Entwicklung und Einführung digitaler 
+Zwillingslösungen unterstützen24, unter anderem durch ein spezielles Instrumentarium zur 
+Verbesserung der Interoperabilität, des Umfangs und der praktischen Einführung. Parallel dazu 
+wird die EU im Rahmen von Horizont Europa weiterhin Innovationen im Bereich der 
+intelligenten Energiesysteme fördern, einschließlich der Finanzierung fortschrittlicher 
+Stromnetzlösungen25. 
+Eine effiziente Nutzung des Stromnetzes hängt davon ab, dass genaue und granulare 
+Verbrauchsdaten verfügbar sind und die Endkunden auf diese Daten zugreifen und darauf 
+reagieren können. Intelligente Messsysteme sind eine wichtige Voraussetzung für 
+Laststeuerung und Verträge mit dynamischen Strompreisen, die zur besseren Nutzung der 
+bestehenden Stromnetzinfrastruktur beitragen können, unter anderem durch die Verringerung 
+der Abregelung erneuerbarer Energien und die Erleichterung der Elektrifizierung. Da es 
+unverzichtbar ist, dass alle Mitgliedstaaten zur intelligenteren Gestaltung des 
+Elektrizitätssystems beitragen, wird die Kommission einen Legislativvorschlag vorlegen, 
+um die Einführung intelligenter Zähler in der EU zu beschleunigen und so die Beteiligung 
+der Verbraucher zu erhöhen, nachfrageseitige Flexibilität zu ermöglichen und eine effizientere 
+Nutzung des Elektrizitätssystems zu unterstützen. 
+Leitinitiative 3: Entwicklung zentraler Leistungsindikatoren der EU für intelligente 
+Netze und Beschleunigung der Einführung intelligenter Zähler 
+ 
+20 Richtlinie (EU) 2024/1711 und Verordnung (EU) 2024/1747. 
+21 Insbesondere im Vorschlag zur Überarbeitung der TEN-E-Verordnung. 
+22 Im Zeitraum 2021-2027 wurde rund 1 Mrd. EUR für Energiesysteme, Netze und Speicherung bereitgestellt.  
+23 CurrENT-Studie: Prospects for innovative power grid technologies, 2024. 
+24 ENTSO-E und EU DSO Entity haben Herausforderungen, Chancen und gemeinsame Anwendungsfälle für digitale 
+Zwillingslösungen in EU-Netzen ermittelt, die einen strategischen kooperativen Ansatz für die Umsetzung erfordern. 
+25 Im Arbeitsprogramm 2026-2027 werden rund 90 Mio. EUR für fortschrittliche Lösungen für Stromnetze bereitgestellt.
+8 
+Zeitplan: Fertigstellung des EU-Indikatorenkatalogs bis Mitte 2026; Legislativvorschlag im 
+Jahr 2026 zur Beschleunigung der Einführung intelligenter Zähler in der EU, der eine 
+Mindestabdeckung in jedem Mitgliedstaat vorsieht, und Auftrag an die ACER, 2028 
+Empfehlungen zu Indikatoren für intelligente Netze abzugeben, wobei die Fortschritte 
+anschließend regelmäßig überwacht werden. 
+Erwartete Auswirkungen: verbesserte Entscheidungen für Investitionen in intelligente und 
+digitalisierte Netze, effizientere Nutzung bestehender Netze, verstärkte Regulierungsaufsicht 
+durch die nationalen Regulierungsbehörden, kosteneffizienterer Einsatz intelligenter und 
+digitaler Lösungen und beschleunigte Integration von erneuerbaren Energien, 
+Elektrifizierung, Resilienz und Energieeffizienz in ganz Europa.  
+KI verbreitet sich rasch im gesamten Energiesystem, da Anlagen, Prozesse und Märkte 
+zunehmend digitalisiert werden. Die Digitalisierung einzelner Akteure reicht jedoch nicht aus: 
+das volle Potenzial eines KI-gestützten Energiesystems wird nur durch die Einführung von KI-
+Lösungen in der gesamten Energiewertschöpfungskette – von der Versorgung über die 
+Erzeugung von Energie aus erneuerbaren Quellen bis hin zu Industrie, Gebäuden und 
+Mobilität – erreicht werden. 
+Angesichts des derzeitigen globalen KI-Wettlaufs26 muss die EU ihre Stärke im Bereich der 
+industriellen Automatisierung nutzen27, um souveräne, sichere KI-Modelle für den 
+Energiesektor zu entwickeln, die mit europäischen Daten trainiert und von EU-Unternehmen 
+entwickelt werden, und bei der nächsten Welle digitaler Energietechnologien eine 
+Führungsrolle übernehmen. In einem Sektor von solch strategischer Bedeutung wie dem 
+Energiesektor ist es für die Technologiesouveränität der EU unerlässlich, neue KI-Modelle in 
+der EU zu entwickeln und zu verwalten. Aufbauend auf der Strategie „KI anwenden“ und der 
+Strategie „KI in der Wissenschaft“ wird die Kommission die Entwicklung von KI-
+Basismodellen für das Netzmanagement und die Netzplanung als digitales Rückgrat für das 
+Energiesystem unterstützen.  
+Wenn KI-Modelle mit großen unterschiedlichen Datensätzen, einschließlich 
+Erdbeobachtungsdaten (z. B. von der Copernicus-Energieplattform), trainiert und auf 
+bestimmte Anwendungsfälle abgestimmt werden, könnten sie die Netzfunktionen28 wie 
+Vorhersage, Engpassmanagement, Fehlererkennung und Investitionsplanung erheblich 
+verbessern und so die Wettbewerbsfähigkeit des Sektors stärken.  
+Über die Stromnetze hinaus kann die KI die Steuerung von Anlagen für erneuerbare Energien 
+verbessern und Einschränkungen verringern, die Sicherheit und den Wirkungsgrad von 
+Kernkraftwerken verbessern29 und die Sanierungsplanung für Gebäude und von Energiearmut 
+betroffene Haushalte unterstützen30. Im Einklang mit dem Netzpaket wird die Kommission die 
+ 
+26 Professor Draghi hebt hervor, dass die USA im Jahr 2024 vierzig bemerkenswerte KI-Modelle produziert haben, China 
+fünfzehn und die EU nur drei. 
+27 IEA – Energy and AI, World Energy Outlook Special Report, 2025. 
+28 Durch eine KI-gestützte Optimierung von Betrieb und Wartung könnten bis 2035 jährlich bis zu 110 Mrd. USD an 
+Brennstoff- sowie Betriebs- und Wartungskosten eingespart werden (gemäß dem Szenario einer weitverbreiteten KI-
+Einführung der IEA (2025), Energy and AI, IEA, Paris). 
+29 KI kann die Sicherheit und den Wirkungsgrad durch vorausschauende Wartung, Erkennung von Anomalien und 
+fortgeschrittene Modellierung verbessern. 
+30 Die KI kann anhand von Daten der Europäischen Beobachtungsstelle für den Gebäudebestand oder einschlägigen Daten aus 
+der Copernicus-Erdbeobachtung trainiert werden, um die Sanierungsplanung insbesondere für von Energiearmut betroffene 
+Haushalte zu unterstützen. Schätzungen der IEA zufolge könnten durch den Einsatz von KI in Energiemanagementsystemen 
+für Gebäude (BEMS) bis 2035 weltweit rund 300 TWh pro Jahr eingespart werden.
+9 
+Entwicklung quelloffener KI-Instrumente unterstützen, um die Einrichtung zentraler digitaler 
+Portale auf nationaler Ebene, die die Genehmigungsverfahren beschleunigen, zu erleichtern. 
+Für den Zeitraum 2026-2027 werden im Rahmen von Horizont Europa rund 75 Mio. EUR 
+für KI-Technologien im Energiebereich bereitgestellt, insbesondere für Netze, 
+Eigenverbrauch, gemeinsame Energienutzung und Speicherung auf Netzebene, sowie weitere 
+190 Mio. EUR für umfassendere digitale Lösungen in den Bereichen erneuerbare Energien, 
+Gebäudesanierung und Energieeffizienz. Im Einklang mit der Strategie für offene digitale 
+Ökosysteme in der EU wird die Kommission Open-Source-Ansätze bei Ausschreibungen der 
+EU für Forschung und Innovation unterstützen. Parallel dazu können Innovatoren, Start-up-
+Unternehmen, Scale-up-Unternehmen und Forschende in der EU auf ergänzende Instrumente 
+in der gesamten Innovationskette zurückgreifen, darunter KI-Fabriken, europäische KI-
+Kompetenzzentren und RAISE31 für den Zugang zu Rechenkapazitäten, Daten, Netzen und 
+Finanzmitteln, um KI-gestützte wissenschaftliche Durchbrüche voranzubringen, sowie der 
+Scaleup Europe Fund32, um Investitionen in Scale-up-Unternehmen im Bereich der 
+strategischen Technologien zu fördern und die Lücke zu den weltweit führenden Unternehmen 
+zu schließen. 
+Leitinitiative 4: Entwicklung von KI-Modellen in der gesamten Energie-
+Wertschöpfungskette 
+Zeitplan: 
+ Parallel zu diesem strategischen Fahrplan wird eine Projektvereinbarung unterzeichnet, 
+mit der eine praxisorientierte Gemeinschaft für die Entwicklung von KI-Modellen für das 
+Netzmanagement und die Netzplanung ins Leben gerufen wird; gezielte Aufforderungen 
+zur Einreichung von Vorschlägen im Rahmen von Horizont Europa (30 Mio. EUR) 
+werden 2026 und 2027 (20 Mio. EUR) veröffentlicht; KI-Modelle für den 
+Konzeptnachweis werden im ersten Quartal 2027 entwickelt und getestet; erste operative 
+Modelle bis Ende 2027. 
+ Entwicklung digitaler Portale für die Mitgliedstaaten mithilfe generativer KI-
+Technologien, um die Prüfung bei Genehmigungen von Projekten in den Bereichen 
+erneuerbare Energien, Speicherung und Netze zu straffen; Konzeption im Jahr 2027; 
+Einführung im Jahr 2028 für die Nutzung durch Behörden. 
+Erwartete Auswirkungen: verbesserte Netzbeobachtbarkeit, Prognosen, verbessertes 
+Engpassmanagement und verbesserte Flexibilitätsintegration; leichterer Zugang zu digitalen 
+Instrumenten, die den Haushalten bei der Kontrolle des Verbrauchs helfen, und eine 
+inklusivere Beteiligung an Systemen für den Eigenverbrauch und die gemeinsame 
+Energienutzung, eine verbesserte Evidenzbasis für öffentliche Maßnahmen durch bessere 
+Daten zum Gebäudebestand und zur Gebäudeleistung; beschleunigter Ausbau von 
+erneuerbaren Energien, Speichern und Netzen durch schnellere und transparentere 
+Genehmigungsverfahren. 
+ 
+ 
+31 RAISE: Resource for AI Science in Europe (Ressource für KI-Wissenschaft in Europa), ein virtuelles Forschungsinstitut für 
+die EU-Forschung zu und mit KI. 
+32 Der Scaleup Europe Fund ist ein mit mehreren Milliarden ausgestatteter Fonds für das Spätphasenwachstum, mit den 
+Investitionen in die vielversprechendsten europäischen Unternehmen geleistet werden sollen.
+10 
+4. Säule III – Daten für KI und das Energiesystem 
+Ein wirksamer Austausch und die Interoperabilität von Energiedaten sind von 
+entscheidender Bedeutung, um intelligente Energiedienstleistungen und die Entwicklung 
+robuster KI-Modelle zu ermöglichen. Im Rahmen der Säule III werden konkrete Maßnahmen 
+zur Schaffung eines umfassenden Rahmens für den Datenaustausch und die Interoperabilität 
+ermittelt, um ein nahtloses digitales Energieökosystem zu gewährleisten. 
+Der bestehende Rechtsrahmen33 bietet wichtige Bausteine für den Austausch von Energiedaten, 
+ist jedoch nach wie vor fragmentiert34. Der EU-Rechtsrahmen umfasst bereits die 
+Primärnutzung von Energiedaten, d. h. den Austausch operativer Daten zwischen 
+bestimmten Akteuren für Dienste wie Verbrauchserfassung, Abrechnung, Anbieterwechsel, 
+Laststeuerung und Netzbetrieb. Die Bestimmungen werden jedoch in den einzelnen 
+Mitgliedstaaten sehr unterschiedlich umgesetzt, was zu Komplexität, Rechtsunsicherheit und 
+Hindernissen für grenzüberschreitende intelligente Energiedienstleistungen führt. Darüber 
+hinaus sehen horizontale Rechtsvorschriften wie die Datenverordnung zwar Grundsätze für den 
+Zugang zu Daten vernetzter Produkte vor, tragen jedoch den Besonderheiten regulierter 
+Energiedaten und beaufsichtigter Unternehmen nicht vollständig Rechnung. Dies hat zur 
+Folge, dass Anbieter von Laststeuerungsdiensten oder intelligenten Ladediensten für 
+Elektrofahrzeuge häufig Softwareschnittstellen neu gestalten und Datenzugangsverfahren für 
+jeden nationalen Markt neu aushandeln, was das grenzüberschreitende Wachstum intelligenter 
+Energiedienstleistungen behindert. 
+Gleichzeitig ist der Rahmen für die Sekundärnutzung von Energiedaten, d. h. die Bündelung 
+und Weiterverwendung von Energiedaten über ihren ursprünglichen operativen Zweck hinaus, 
+z. B. für Forschung, Analyse oder die Entwicklung von KI-Modellen, weniger entwickelt. 
+Öffentliche Datensätze sind noch fragmentiert oder nur begrenzt nutzbar für fortgeschrittene 
+Analysen. Wenngleich horizontale Rechtsvorschriften Garantien für Datenschutz und 
+Cybersicherheit bieten, gibt es keinen klaren sektorspezifischen Rahmen für die strukturierte 
+Bündelung von Energiedaten oder die Nutzung von KI-Modellen. Energieunternehmen oder 
+Netzbetreiber zögern daher häufig, detaillierte Daten zu Forschungszwecken auszutauschen 
+oder KI-Modelle zu trainieren. Aufgrund begrenzter oder synthetischer Datensätze 
+verlangsamt dies die KI-Entwicklung. 
+Die zentrale Herausforderung ist das Fehlen eines kohärenten EU-Ansatzes für einen 
+vertrauenswürdigen, grenzüberschreitenden Austausch von Energiedaten. Um diese Lücken zu 
+schließen, grenzüberschreitende intelligente Energiedienstleistungen zu unterstützen und 
+souveräne KI zu fördern, wird die Kommission Maßnahmen zur Straffung und 
+Vereinfachung des energiespezifischen Datenaustauschs sowohl für die Primär- als auch 
+für die Sekundärnutzung von Energiedaten im Einklang mit der Omnibus-Verordnung für 
+den Digitalbereich, dem Datengesetz, den europäischen Brieftaschen für Unternehmen, den 
+ 
+33 Wie die Datenverordnung (EU) 2023/2854, die Elektrizitätsrichtlinie (EU) 2019/944, die Elektrizitätsverordnung (EU) 
+2019/943, die Richtlinie (EU) 2024/1275 über die Gesamtenergieeffizienz von Gebäuden, die Erneuerbare-Energien-
+Richtlinie (EU) 2018/2001, die Verordnung (EU) 2023/1804 über die Infrastruktur für alternative Kraftstoffe und damit 
+zusammenhängende Durchführungsrechtsakte. 
+34 „Beschränkter Zugang zu hochwertigen Daten“, „mangelnde Dateninteroperabilität“, „Cybersicherheit und gegebenenfalls 
+Datenschutz“ wurden im Rahmen der öffentlichen Konsultation zum strategischen Fahrplan als die größten Hindernisse für 
+die Einführung von intelligenten und KI-Lösungen im Energiebereich genannt; Operational Conclusions and Key Takeaways, 
+dritte gemeinsame Sitzung von D4E, STF und CoW, Berlin, 4./5. November 2025.
+11 
+europäischen Brieftaschen für die digitale Identität und dem umfassenderen horizontalen 
+Datenrahmen der EU koordinieren35.  
+Ziel ist es, den grenzüberschreitenden Austausch von Energiedaten einfacher, effizienter 
+und berechenbar zu gestalten, indem gemeinsame Schnittstellen bereitgestellt  werden 
+und die Vorschriften und vertrauenswürdigen Dienste auf EU-Ebene harmonisiert 
+werden.  
+In Bezug auf die Primärnutzung von Energiedaten wird die Hauptpriorität darin bestehen, 
+die grenzüberschreitende Interoperabilität von Daten zu verbessern und dadurch intelligente 
+Energiedienstleistungen wie nachfrageseitige Flexibilität und bidirektionales Laden von 
+Elektrofahrzeugen zu unterstützen und gleichzeitig die Mitgliedstaaten bei der Entwicklung 
+interoperabler nationaler Datendrehscheiben zu koordinieren. Ein besserer Austausch von 
+Energiedaten kann dazu beitragen, Flexibilität mithilfe von Elektrofahrzeugen, 
+Wärmepumpen, Batterien und regelbarer Nachfrage zu aktivieren, wobei digitale Lösungen bis 
+2030 potenziell etwa 230 GW an Flexibilität freisetzen und die Systemkosten für die 
+Verbraucher senken können. Die Arbeit wird auf dem wichtigen, mit Interessenträgern im 
+Bereich Energie und E-Mobilität vereinbarten EU-weiten Paket von Empfehlungen zum 
+Datenaustausch für intelligente Energiedienstleistungen, das am 20. Mai veröffentlicht 
+wurde36, sowie auf wichtigen Pilotprojekten37 aufbauen. 
+In Bezug auf die Sekundärnutzung von Energiedaten wird der Schwerpunkt darauf liegen, 
+die Bündelung von Energiedaten für das Training von KI-Modellen sowie für Zwecke im 
+öffentlichen Interesse und für Forschungszwecke zu erleichtern, Vertrauensrahmen für KI im 
+Energiebereich zu schaffen und Reallabore zu entwickeln, die auf den Ergebnissen laufender 
+Projekte38 und der praxisorientierten Gemeinschaft für die Entwicklung von KI-Basismodellen 
+für Stromnetze aufbauen. Darüber hinaus wird der anstehende Legislativvorschlag für 
+zukunftssichere EU-Stromrechnungen in der EU einen regulatorischen Anreiz für 
+Netzbetreiber bieten, zu diesem Zweck zusammenzuarbeiten, und eine Rechtsgrundlage für 
+einen Rahmen für die sektorspezifische Sekundärnutzung von Energiedaten bilden. 
+Leitinitiative 5: Schaffung eines EU-Rahmens für einen vereinfachten 
+grenzüberschreitenden Austausch von Energiedaten für intelligente 
+Energiedienstleistungen und das Training von KI-Modellen 
+Zeitplan: Bewertung im Jahr 2026; Entwicklung ab 2027. 
+Erwartete Auswirkungen: verringerte Fragmentierung beim Austausch von Energiedaten; 
+Ermöglichung grenzüberschreitender intelligenter Energiedienstleistungen in großem 
+Maßstab; verbesserte Netzflexibilität und Integration erneuerbarer Energien; Innovation und 
+neue Geschäftsmodelle; ein effizienteres, stärker integriertes und wettbewerbsfähigeres EU-
+Energiesystem sowie ein Binnenmarkt für EU-weit skalierbare intelligente 
+Energiedienstleistungen. 
+ 
+35 So werden beispielsweise die Möglichkeiten der sicheren Identifizierung, Authentifizierung und des sicheren 
+Datenaustauschs genutzt, die die europäischen Brieftaschen für Unternehmen und die EUid-Brieftaschen bieten, um 
+sicherzustellen, dass die Bürgerinnen und Bürger sicher und effizient auf ihre energiebezogenen Daten zugreifen und diese 
+verwalten können, während sie die Kontrolle über ihre personenbezogenen und sensiblen Informationen behalten. 
+36 Datenaustausch für nachfrageseitige Flexibilität und intelligentes und bidirektionales Laden, gemeinsam erstellt von drei 
+Sachverständigengruppen, nämlich der Untergruppe „Data 4 Energy“ der Sachverständigengruppe „Intelligente 
+Energie“, dem Forum für nachhaltigen Verkehr und der Koalition der Willigen für bidirektionales Laden 
+37 Fünf Vorhaben im Rahmen von Horizont Europa (EDDIE, Enershare, Data Cellar, Synergies und Omega-X) befassen sich 
+mit fortgeschrittenen Datenraumtechnologien, die derzeit in 16 Mitgliedstaaten mit Unterstützung von INSIEME, einem 
+aus dem Programm „Digitales Europa“ finanzierten Einführungsprojekt, eingesetzt werden.  
+38 Im Rahmen von drei Horizont-Europa-Projekten (EnerTEF, AI-Effect und EnergyGuard) werden Test- und 
+Versuchseinrichtungen für den Energiesektor erprobt.
+12 
+5. Sicherung der Verknüpfung zwischen Energie und KI: Vertrauen, Talente und globale 
+Zusammenarbeit  
+Die Integration von digitalen Technologien und KI in kritische Energieinfrastrukturen kann die 
+Leistung verbessern, erhöht jedoch auch die Sicherheitsrisiken sowie die hybriden Risiken 
+und Cybersicherheitsrisiken. Im Einklang mit der EU-Strategie für eine Union der 
+Krisenvorsorge und aufbauend auf dem Fachwissen des Automatisierungs- und 
+Luftfahrtsektors wird eine europäische Gruppe zur Transformation der KI-Energiesicherheit 
+den Schwerpunkt auf Transparenz, Erklärbarkeit, menschliche Aufsicht und organisatorische 
+Transformation legen und dazu folgende Maßnahmen treffen: 
+- Förderung der KI-Energiesicherheit auf Systemebene und Beitrag dazu sicherzustellen, 
+dass KI keine systemischen Risiken für kritische Energieinfrastrukturen mit sich bringt, 
+sowie Abwehr hybrider Bedrohungen; 
+- Unterstützung des Austauschs über Sicherheitsvorfälle, gewonnene Erkenntnisse, 
+bewährte Verfahren und Risikominderung auf der Grundlage der KI-Verordnung; 
+- Überwachung von Hochrisiko-KI-Anwendungsfällen in kritischen 
+Energieinfrastrukturen. 
+Die Kommission wird mit den Mitgliedstaaten zusammenarbeiten, um KI-Reallabore für die 
+Erprobung und Validierung von KI-Anwendungen im Energiebereich einzurichten, um 
+Innovationen zu fördern und zu evidenzbasiertem regulatorischen Lernen in Bezug auf 
+Hochrisiko-KI-Systeme beizutragen, und im Einklang mit der KI-Verordnung Leitlinien für 
+Hochrisiko-KI-Systeme herausgeben. Zudem wird die Kommission im Einklang mit dem 
+umfassenderen Cybersicherheitsrahmen der EU souveräne KI-gestützte Instrumente für die 
+Erkennung von Schwachstellen, die kontinuierliche Überwachung, die Erkennung von 
+Anomalien und die automatisierte Reaktion auf Vorfälle fördern. 
+Gleichzeitig ist der Energiesektor aufgrund seiner zunehmenden Elektrifizierung, 
+Digitalisierung und Konnektivität anfälliger für Cybersicherheitsbedrohungen39. In der 
+Gemeinsamen Mitteilung über die Stärkung der wirtschaftlichen Sicherheit in der EU40 werden 
+sechs Bereiche mit hohem Risiko genannt, in denen sofortige Maßnahmen ergriffen werden 
+müssen.  Mehrere der ermittelten vorrangigen Maßnahmen stehen in direktem Zusammenhang 
+mit dem Energiesektor und umfassen Risiken, die sich aus strategischen Abhängigkeiten, dem 
+unbefugten Zugang zu sensiblen Informationen oder Störungen der strategischen Infrastruktur 
+ergeben. Infrastrukturen für die Solar- und Windenergieerzeugung sind innerhalb dieser 
+Kategorien inzwischen ein vorrangiges Cybersicherheitsproblem mit hohen Risiken, zu denen 
+die Manipulation oder Verhinderung der Stromerzeugung, der unbefugte Zugang zu 
+Betriebsdaten, die Infiltration wichtiger Akteure der Lieferkette und die Möglichkeit, 
+Fernausfälle auszulösen, gehören. 
+Um diesen Risiken zu begegnen, führt die Kommission eine systemische Bewertung der 
+Risiken in diesen vorrangigen Bereichen durch, auch in Bezug auf Solar- und 
+Windkraftanlagen in der EU, und sie hat jüngst die Verwendung von EU-Mitteln für Projekte, 
+an denen Wechselrichter von Hochrisikoanbietern beteiligt sind, eingeschränkt. Der neue 
+Vorschlag für einen Rechtsakt zur Cybersicherheit bietet einen Rahmen, um die Verwendung 
+von Wechselrichtern von Hochrisikoanbietern in der EU erforderlichenfalls zu verbieten. 
+Darüber hinaus wird die EU den Rahmen für die Energieversorgungssicherheit überprüfen und 
+ 
+39 Nach Angaben der IEA waren Energieversorgungsunternehmen im Jahr 2024 im Durchschnitt wöchentlich mehr als 
+1 500 Angriffen ausgesetzt, dreimal mehr als im Jahr 2020. 
+40Gemeinsame Mitteilung über die Stärkung der wirtschaftlichen Sicherheit in der EU (JOIN(2025) 977 final).
+13 
+möglicherweise neue Maßnahmen für eine bessere Ermittlung und Bewältigung von 
+Cybersicherheitsrisiken bei kritischer Energieausrüstung aufnehmen. 
+Da die Energieversorgungssicherheit zunehmend von widerstandsfähigen Lieferketten und 
+der Cybersicherheit einzelner Komponenten abhängt, enthält die von der Kommission 
+vorgeschlagene Überarbeitung des Rechtsakts zur Cybersicherheit Anforderungen an die IKT-
+Lieferketten, um die Resilienz und die Fähigkeiten der EU im Bereich der Cybersicherheit 
+weiter zu stärken. Schließlich wird die Kommission die Europäische Gruppe für Ethik der 
+Naturwissenschaften und der Neuen Technologien41 (European Group on Ethics in Science 
+and New Technologies, EGE) um eine Stellungnahme zur vertrauenswürdigen und 
+verantwortungsvollen KI-Governance im Energiesystem der EU und zu der Frage, wie das 
+Vertrauen der Öffentlichkeit, Transparenz und Fairness gewahrt werden können, ersuchen.  
+Leitinitiative 6: Stärkung der Sicherheit von KI und der Cybersicherheit kritischer 
+Ausrüstung 
+Zeitplan: Risikobewertung von Solaranlagen in der EU im Jahr 2026; Überprüfung des 
+Rahmens für die Energieversorgungssicherheit im Jahr 2026. 
+Erwartete Auswirkungen: Gewährleistung von Transparenz, Erklärbarkeit und menschlicher 
+Aufsicht über KI-Technologien, die in kritische Energieinfrastrukturen eingebettet sind; 
+Erhöhung der Cybersicherheit und Widerstandsfähigkeit von Stromnetzen mit 
+Hochrisikogeräten wie Solarumrichtern; Gewährleistung der Angleichung an die Protokolle 
+für Katastrophenschutz und Notfallmaßnahmen 
+Für die Digitalisierung der Energieversorgung werden Arbeitskräfte benötigt, die Fachwissen 
+im Energiebereich mit digitalen Kompetenzen und KI-Kompetenzen kombinieren. Die 
+traditionelle Spezialisierung allein reicht nicht mehr aus: Der Sektor braucht hybride, 
+anpassungsfähige und vielfältige Talente, die in der Lage sind, diese Bereiche abzudecken, 
+wobei besonderes Augenmerk auf ein ausgewogenes Geschlechterverhältnis zu legen ist. 
+Um dem wachsenden Bedarf an Energie-, Digital- und KI-Kompetenzen gerecht zu werden, 
+umfasst die Aufforderung zur Einreichung von Vorschlägen 2026 für das LIFE-Teilprogramm 
+„Energiewende“ eine mit 10 Mio. EUR ausgestattete Maßnahme zu intelligenten Netzen, 
+um die internen digitalen und KI-Kompetenzen der Verteilernetzbetreiber zu stärken. 
+Im Hinblick auf eine mögliche „Netto-Null-Akademie“ für intelligente Netze sollten die 
+Vorschläge der in der Mitteilung über eine „Union der Kompetenzen“ angekündigten 
+Überprüfung der Akademien Rechnung tragen. Die Kommission wird auch über verschiedene 
+andere Kanäle in Kompetenzen und Fähigkeiten investieren: eine erweiterte Partnerschaft im 
+Rahmen des Kompetenzpakts zur Digitalisierung des Energiesystems mit Zielen, die 2026 
+angenommen und 2029 überprüft werden sollen, sowie die fortgesetzte Unterstützung durch 
+Erasmus+ und das EIT / die KIC für Projekte zur Entwicklung digitaler und KI-Kompetenzen 
+in Studienbereichen und Programmen im Energiesektor ab 2026 bei gleichzeitiger Förderung 
+von Talentpipelines unter Berücksichtigung der Vielfalt und der Geschlechtergerechtigkeit. 
+Ein koordiniertes Handeln der EU ist von entscheidender Bedeutung, um die globale 
+Governance in den Bereichen Energie und Digitales so zu gestalten, dass sie sowohl der EU 
+als auch ihren Partnern zugutekommt. Im Einklang mit der internationalen Digitalstrategie der 
+EU42 wird die Kommission die internationale Zusammenarbeit in Bezug auf die 
+Verknüpfung von Energie und KI fördern und mit gleich gesinnten Partnern und 
+ 
+41 Europäische Gruppe für Ethik der Naturwissenschaften und der Neuen Technologien. 
+42 Internationale Digitalstrategie für die Europäische Union.
+14 
+internationalen Organisationen43 zusammenarbeiten, um den G7-Arbeitsplan für Energie und 
+KI ab 2026 voranzubringen. Die Kommission wird gemeinsam mit Städten und Finanzpartnern 
+bis 2028 eine globale Initiative zu digitalen und KI-Instrumenten für die Energiewende und 
+Energiearmut in Städten auf den Weg bringen und im Rahmen der Initiative „KI für das 
+Gemeinwohl“ den Wissenstransfer zu KI-Lösungen für Energie in Partnerländer unterstützen; 
+erste Demonstrationen in diesem Zusammenhang sind für 2027 geplant. 
+6. Umsetzung des strategischen Fahrplans 
+Geografische Unterschiede bei der KI-Bereitschaft könnten zu ungleichen Fortschritten in der 
+EU führen; daher sind gezielte Maßnahmen erforderlich, um eine ausgewogene Entwicklung 
+und stärkere lokale digitale Fähigkeiten sicherzustellen.  Um die Umsetzung des Fahrplans bis 
+2030 zu unterstützen, wird die Kommission ab 2026 ein jährliches Forum für die 
+Digitalisierung der Energieversorgung einberufen, um die Fortschritte zu überprüfen, 
+Hindernisse zu ermitteln, bewährte Verfahren auszutauschen und auf neue Entwicklungen 
+einzugehen, die weitere Maßnahmen erfordern könnten. Die Kommission wird zudem prüfen, 
+wie Digitalisierung und KI besser in den Governance-Rahmen für die Energieunion44 integriert 
+werden können, und darüber hinaus gemeinsam mit den Mitgliedstaaten und Interessenträgern 
+konkrete Ziele und Richtzielwerte erarbeiten, um die Fortschritte bei der Digitalisierung und 
+der Einführung von KI im Energiesystem in den kommenden zehn Jahren zu überwachen. 
+Diese Ziele sollten auf bestehenden Überwachungsrahmen und Indikatoren für intelligente 
+Netze wie der Netzbeobachtbarkeit und der Integration flexibler Ressourcen beruhen und 
+werden sich auf verfügbare Datenquellen stützen.  
+Die jüngste Energiekrise hat gezeigt, wie wichtig hochwertige Energiedaten als Grundlage für 
+die Politikgestaltung und zur Beschleunigung der Energiewende sind. Wie im Draghi-Bericht 
+hervorgehoben wird, besteht erheblicher Spielraum für die Verbesserung der Qualität, 
+Interoperabilität und zeitnahen Verfügbarkeit von Energiedaten und -statistiken in der EU. Als 
+erste Reaktion hat die Kommission eine Beobachtungsstelle für Kraftstoffe45 angekündigt, 
+um das Angebot und die Vorratsverfügbarkeit relevanter Kraftstoffe für den Verkehr zu 
+verfolgen. Darüber hinaus wird die Kommission im Einklang mit dem Datengesetz eine 
+Initiative für bessere Energiedaten ins Leben rufen, um Lücken bei der Verfügbarkeit von 
+Energiedaten zu erfassen und zu schließen, wobei das Hauptaugenmerk darauf liegt, 
+umfassendere, detailliertere, interoperablere und aktuellere Daten zu erhalten und gleichzeitig 
+sicherzustellen, dass sie leicht zugänglich sind. Diese Initiative wird in weitere Schritte zur 
+Straffung und Erleichterung öffentlicher und offener Energiedaten, einschließlich Daten von 
+Behörden, Netzbetreibern und der ACER46, und zur Verbesserung der Energiestatistiken 
+einfließen47. Dies wird die Überwachung der energiepolitischen Ziele der EU verbessern, die 
+Transparenz auf den Energiemärkten erhöhen und eine wirksamere Energiewende 
+unterstützen. 
+ 
+43 Beispielsweise die Internationale Energieagentur (IEA), die Internationale Agentur für erneuerbare Energien (IRENA) und 
+die Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD). 
+44 Verordnung (EU) 2018/1999 über das Governance-System für die Energieunion und für den Klimaschutz.  
+45In der Mitteilung „AccelerateEU“ (COM(2026) 370 final) wurde eine Kraftstoffbeobachtungsstelle angekündigt. 
+46Im Rahmen der REMIT-Verordnung überwacht die ACER die Energiemärkte, wozu sie Transaktionsdaten erhebt und 
+analysiert, um Marktmanipulation aufzudecken. 
+47 Durch die Überarbeitung der Verordnung (EG) Nr. 1099/2008, um die Überwachung der politischen Ziele der EU zu 
+verbessern. Darüber hinaus prüft die Kommission im Einklang mit der Verordnung (EG) Nr. 223/2009 über amtliche 
+Statistiken auch die Erstellung von Statistiken auf der Grundlage innovativer und in privatem Besitz befindlicher Daten.
+15 
+Leitinitiative 7: Verfolgung der Fortschritte bei der Digitalisierung in der EU und 
+Verbesserung der Verfügbarkeit von Energiedaten 
+Zeitplan: ab 2026 Einberufung eines jährlichen Forums zur Digitalisierung der 
+Energiewirtschaft; Festlegung von Parametern zur Überwachung der Fortschritte bei der 
+Digitalisierung und der Einführung von KI im Jahr 2027; Einrichtung einer 
+Beobachtungsstelle für Kraftstoffe im Jahr 2026; Einleitung einer Initiative für bessere 
+Energiedaten im vierten Quartal 2026. 
+Erwartete Auswirkungen: Gewährleistung einer ausgewogenen Digitalisierung in allen 
+Mitgliedstaaten, Verbesserung der Verfügbarkeit von Energiedaten zur Überwachung der 
+energiepolitischen Ziele der EU und zur Unterstützung der Entscheidungsfindung. 
+ 
+Drucksache 342/26 - 16 -
