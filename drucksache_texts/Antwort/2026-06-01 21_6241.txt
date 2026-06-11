@@ -1,0 +1,454 @@
+Deutscher Bundestag Drucksache 21/6241
+21. Wahlperiode 01.06.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Lukas Benner, Dr. Konstantin von Notz, 
+Filiz Polat, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+– Drucksache 21/6042 –
+Auswirkungen der verpflichtenden Nutzung von elektronischen Lichtbildern 
+im Passwesen und dem PointID-System auf Datensicherheit, 
+Anwendungsfreundlichkeit und kommunale Wirtschaft
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Seit dem 1. Mai 2025 sind bei der Beantragung von Reisepässen,
+Personalausweisen, elektronischen Aufenthaltstiteln sowie Reiseausweisen des
+Ausländerrechts ausschließlich elektronisch gefertigte biometrische Lichtbilder zulässig 
+(§ 6 Absatz 2 Satz 3 des Passgesetzes (PassG), § 9 Absatz 3 Satz 2 des
+Personalausweisgesetzes (PAuswG), § 60 Absatz 2 Satz 2 der
+Aufenthaltsverordnung (AufenthV). Die konkrete Umsetzung des Gesetzes wirft zahlreiche
+Fragen in Bezug auf die Praktikabilität und Bezahlbarkeit der neuen
+Verfahrensweisen für Bürgerinnen und Bürger, den Erhalt von Betrieben als Teil
+kommunaler Wirtschaft sowie den Schutz personenbezogener Daten auf.
+Dadurch, dass seit dem Ablauf der Übergangsfrist am 31. Juli 2025 keine
+ausgedruckten Passbilder mehr mit zum Termin im Bürgerservice mitgebracht 
+werden können, müssen die digitalen Passbilder nunmehr direkt in der
+Kommune oder in einem Fotostudio angefertigt werden. Dafür stellt die
+Bundesdruckerei nach eigener Aussage den Kommunen „kostenneutral“ PointID-
+Systeme zur Verfügung, wobei unter anderem unklar bleibt, wie die Wartung der 
+Geräte finanziert wird (www.bundesdruckerei-gmbh.de/de/loesungen/pointid).
+Für Bürgerinnen und Bürger werden zu deren Nutzung Gebühren in Höhe von 
+6 Euro pro Lichtbild erhoben. Diese Gebühren sind zwar in vielen Fällen
+geringer als die Kosten in einem Fotostudio für die Erstellung und Übermittlung 
+von digitalen biometrischen Lichtbildern, die üblicherweise zwischen 10 und 
+30 Euro liegen. Die Bürgerinnen und Bürger können diese Kosten jedoch so 
+nicht mehr durch eigene Aufnahmen vermeiden und tragen somit eine
+Mehrbelastung von mindestens 6 Euro.
+Diese Entwicklungen sind auch aus der Perspektive der kommunalen
+Wirtschaftsförderung problematisch, weil hierdurch Gewerbesteuereinnahmen und 
+Arbeitsplätze wegfallen sowie der Leerstand in den Kommunen verstärkt 
+wird. Der Centralverband Deutscher Berufsfotografen beschreibt die neuen 
+Regelungen als massiven Markteingriff und warnt vor Umsatz- und
+Arbeitsplatzverlusten (www.spiegel.de/panorama/neuregelung-fuer-passfotos-das-aen
+dert-sich-ab-mai-a-b976a432-a769-4c01-9aba-b33220664ad1).
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern vom 1. Juni 2026 
+übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+Zwar können Fotostudios weiterhin die Erstellung von Passbildern anbieten, 
+die Preise bestimmen sie hierbei selbst. Jedoch müssen die Anbieter
+kostendeckend und gleichzeitig wettbewerbsfähig arbeiten können, was bei dem
+kommunalen Angebot von 6 Euro regelmäßig unmöglich ist.
+Hinzu kommt, dass nunmehr für die Fotostudios weitere, zusätzliche Kosten 
+anfallen. Denn um das Angebot aufrechtzuerhalten, kann das von einem
+registrierten Fotodienstleister aufgenommene Lichtbild über eine nach den
+Vorgaben des Bundesamtes für Sicherheit in der Informationstechnik (BSI)
+zertifizierte und verschlüsselte Cloud elektronisch an die Behörde übermittelt 
+werden. Nach der Fotoerstellung vom Fotodienstleister wird ein Ausdruck mit 
+einem Data-Matrix-Code (vergleichbar mit einem QR‑Code) ausgehändigt. 
+Dieser wird in der Behörde vorgelegt und dort eingescannt, um das Lichtbild 
+aus der geschützten Cloud abrufen zu können (www.personalausweisporta
+l.de/SharedDocs/kurzmeldungen/Webs/PA/DE/2025/neue-passbilder.html). 
+Für die Nutzung der Cloud ist allerdings eine entsprechende Software bzw. der 
+Zugang zu dieser Cloud notwendig. Dadurch entstehen für die Fotostudios
+sowohl einmalige Registrierungskosten als auch Kosten für die Übertragung der 
+Lichtbilder (www.e-passtransfer.de/Fotografenportal), die grundsätzlich an 
+Kundinnen und Kunden weitergegeben werden müssen, um die
+Wirtschaftlichkeit des Angebots zu erhalten.
+Zudem wurden parallel zur Einführung der digitalen Lichtbilder die Gebühren 
+für die Ausstellung von Personalausweisen seit dem 7. Februar 2026 um 
+9 Euro erhöht (46 Euro statt zuvor 37 Euro). Dies wird mit gestiegenen
+Herstellungs- und Personalkosten begründet (www.tagesspiegel.de/politik/46-stat
+t-37-euro-personalausweise-werden-ab-heute-teurer-15228471.html). Dadurch 
+sind, inklusive der Gebühr für die Nutzung des PointID-Systems, die Kosten 
+für Bürgerinnen Bürger um 15 Euro gestiegen.
+Einzelne Betreiber von Fotostudios berichten, dass sie vermuten, dass die 
+Kostensteigerung der Personalausweise auch dazu dient, die PointID-Systeme 
+zu refinanzieren und damit die Gebühren für die Erstellung digitaler
+Lichtbilder in der Kommune künstlich gering zu halten. Das führt bei den
+Betreibenden gerade in Bezug auf ihre eigenen Bemühungen, auf lokaler Ebene
+wirtschaftliche Angebote bereitzustellen, zu Unverständnis und einem
+Ungerechtigkeitsgefühl.
+Als ein gesetzgeberisches Ziel ist formuliert, dass Verfahren vereinfacht,
+Bürokratie abgebaut und die Beantragung der Ausweisdokumente
+bürgerfreundlicher werden sollen. Diese vermeintlichen Vereinfachungen werden damit
+begründet, dass nur noch ein Gang zur Behörde nötig sei. Die Möglichkeit, die 
+Lichtbilder im Bürgerinnen- bzw. Bürgerservice aufzunehmen und diese
+unmittelbar in den jeweiligen Antrag zu übertragen, ist grundsätzlich eine
+Vereinfachung, die den Bürgerinnen und Bürgern sowie Sachbearbeiterinnen und 
+Sachbearbeitern in den Kommunen zugutekommen könnte. Jedoch waren 
+Aufnahmen vor Ort auch vor der Einführung des PointID-Systems möglich.
+Außerdem gibt es beim PointID-System starke Einschränkungen. So weisen 
+Kommunen teilweise aus, dass das System nicht für Kinder unter sechs Jahren 
+bzw. unter 120 Zentimeter (cm) Körpergröße geeignet ist und in einem
+solchen Fall ein Fotograf für die Erstellung des Passbildes aufgesucht werden 
+soll.
+In diesen Kommunen müssen Lichtbilder für Kinder weiterhin in Fotostudios 
+bzw. von Fotografinnen und Fotografen gemacht werden. Sollten diese aber 
+aus den genannten Gründen, insbesondere aufgrund gestiegener Kosten 
+(Cloud und Software) mittel- und langfristig das Angebot der Passfotos
+reduzieren oder nur zu höheren Preisen als bisher anbieten können, fehlt für
+Familien mit Kindern eine solche Möglichkeit, das Lichtbild digital zu übersenden. 
+Diese Möglichkeit ist durch die neuen Regelungen für alle anderen
+Bürgerinnen und Bürger geschaffen worden und wäre daher sinnvollerweise, wenn sie 
+schon verpflichtend ist, auch auf Kinder auszuweiten, um eine
+Gleichbehandlung herzustellen.
+Durch die Gesetzesänderung soll laut Gesetzgeber neben der
+Verfahrensvereinfachung auch Manipulationen bei der Passbeantragung durch den Einsatz 
+des sogenannten Morphings verhindert werden. Jedoch sind die Anzahl und 
+Tragweite der bisherigen Manipulationen trotz intensiver Debatten bis heute 
+nicht bekannt. Beim Morphing werden mithilfe von frei verfügbaren
+Computerprogrammen Fotos zweier oder mehrerer Menschen zu einem einzigen Bild 
+verschmolzen. Werden auf diese Weise manipulierte Passfotos in den Ausweis 
+aufgenommen, könnten nicht nur der Inhaber oder die Inhaberin des
+Ausweises, sondern auch alle anderen Personen, deren Gesichtszüge im Foto
+enthalten sind, diesen Ausweis missbräuchlich verwenden. Die direkte digitale
+Erfassung, die verschlüsselte Übertragung sowie die automatisierte Prüfung auf 
+Biometrietauglichkeit sollen das sicherheitspolitische Risiko minimieren,
+dessen genaue Dimension bis heute aber nicht klar dargestellt werden konnte 
+(www.verbraucherzentrale.de/wissen/digitale-welt/datenschutz/digitale-passbi
+lder-pflicht-seit-mai-2025-was-muessen-sie-wissen-108147).
+Diese gesetzlichen Änderungen am bisherigen Verfahren führen damit zu
+starken Einschränkungen was den Datenschutz und die IT-Sicherheit bei Nutzung 
+der Cloudsysteme angeht. So ist unter anderem nicht sichergestellt, dass die 
+personenbezogenen Daten auf direktem Wege vom Fotodienstleister zur
+Behörde gelangen, weil die Zwischenspeicherung in einer Cloud häufig über 
+einen dritten Anbieter läuft. Trotz Verschlüsselung der Daten besteht so
+grundsätzlich die Gefahr, dass diese Daten weiterhin Personen zugeordnet werden 
+könnten, vor allem mit Blick darauf, dass jede Verschlüsselung nur ein Schutz 
+auf Zeit ist und perspektivisch auch von Unbefugten umgangen werden kann. 
+Darüber hinaus ist bisher nicht auszuschließen, dass die Daten, die bei
+Cloudanbietern gespeichert sind, auch in Drittländer außerhalb der EU fließen, was 
+das Risiko staatlicher Zugriffe birgt, selbst wenn die Daten physisch nur auf 
+Servern innerhalb der EU gespeichert sind (https://mint-secure.de/e-passfotos-
+im-realitaetscheck-datenschutz-it-sicherheit/). Der Schutz und die Sicherheit 
+der personenbezogenen Daten müssen jedoch zwingend lückenlos und
+verlässlich sichergestellt werden.
+ 1. Wie hoch ist nach Kenntnis der Bundesregierung der tatsächliche
+Aufwand (bitte jeweils nach unmittelbar finanziellem Aufwand und
+sonstigem Verwaltungsaufwand aufschlüsseln) für die Etablierung eines
+PointID-Systems für
+a) die Kommune und
+Die sogenannte Standortfertigmeldung für die Etablierung eines PointID-
+Systems erfordert einen standardisierten 230V-Spannungsanschluss (Schuko-
+Steckdose) sowie einen Anschluss an das lokale IT-Netzwerk. In Abhängigkeit 
+von den örtlichen Gegebenheiten können weitere Maßnahmen erforderlich sein, 
+wozu der Bundesregierung keine Daten vorliegen. Aufgrund der kommunalen 
+Selbstverwaltung sind die Kommunen für die erforderlichen
+Vorbereitungsarbeiten zur Aufstellung eines PointID-Systems selbst verantwortlich. Für die 
+Bereitstellung des PointID-Systems entsteht der Kommune kein unmittelbarer 
+finanzieller Aufwand.
+b) die Bundesdruckerei?
+Die Etablierung eines PointID-Systems initiiert die Behörde mit einer
+Bedarfsmeldung. Sobald die Module des PointID-Systems in der Behörde eingetroffen 
+sind, erfolgen der Aufbau und die Inbetriebnahme des PointID-Systems durch 
+Personal der Bundesdruckerei, was eine kurze Einweisung des
+Behördenpersonals vor Ort inkludiert. Der tatsächliche Aufwand ist von den örtlichen
+Gegebenheiten und der von der Behörde gewählten Konfiguration abhängig und 
+durch die Bundesregierung nicht bezifferbar.
+ 2. Wie hoch ist nach Kenntnis der Bundesregierung der Anteil der
+Kommunen, die bisher keinen Service zur Lichtbilderfassung vor Ort (PointID-
+System oder andere zur elektronischen Aufnahme von Lichtbildern)
+anbieten?
+Der Bundesregierung liegen nur Zahlen zur Ausstattung mit PointID-Geräten 
+bei den Pass-, Ausweis- und Ausländerbehörden vor. Von rund 6 500
+Behördenstandorten sind etwa 4 950 Standorte mit PointID ausgestattet. Ob eine 
+Kommune den Service zur Lichtbilderfassung vor Ort anbietet oder auf
+Dienstleister außerhalb verweist, liegt in der Entscheidungshoheit der jeweiligen 
+Kommune.
+ 3. In welchen Kommunen werden nach Kenntnis der Bundesregierung
+andere Systeme als das PointID-System der Bundesdruckerei genutzt, und 
+wie hoch sind dabei jeweils die Kosten für
+a) die Kommune und
+b) die antragstellende Person?
+Die Fragen 3a) und 3b) werden im Zusammenhang beantwortet.
+Der Bundesregierung liegen keine Daten vor, welche Kommune Systeme
+anderer Hersteller nutzt und welche vertraglichen Konditionen die Kommunen mit 
+diesen Herstellern vereinbart haben. Der Anteil der Lichtbilder außerhalb
+PointID (stationäre und mobile Lichtbildsysteme anderer Hersteller,
+Fotodienstleister inklusiveCloud) liegt nach Angaben des Pass-/Ausweisherstellers bei zirka 
+68 Prozent mit Blick auf die Pass- und Ausweisbehörden und die
+Ausländerbehörden.
+ 4. Sind die Gebühren in Höhe von 6 Euro pro Lichtbild bei der Aufnahme 
+mit dem PointID System nach Kenntnis der Bundesregierung für die 
+Bundesdruckerei kostendeckend?
+Die Gebühr von sechs Euro deckt den behördlichen Aufwand für den
+kommunalen Betrieb von Lichtbilderfassungssystemen und für die Lichtbildaufnahme 
+ab, sofern das Bild in der Behörde aufgenommen und PointID genutzt wird, 
+und bezieht sich nicht auf die Kosten der Bundesdruckerei.
+ 5. Aus welchen Mitteln sind nach Kenntnis der Bundesregierung die von 
+der Bundesdruckerei bereitgestellten PointID-Systeme finanziert?
+Entsprechend der Vorgabe des Deutschen Bundestages als Gesetzgeber (siehe 
+auch S. 6 der Beschlussempfehlung des Ausschusses für Inneres und Heimat 
+auf Bundestagsdrucksache 19/24007) wird die technische Ausstattung im
+Rahmen des Betreibermodells von der Bundesdruckerei GmbH bereitgestellt.
+Anschaffungskosten für die Pass-, Personalausweis- und Ausländerbehörden fallen 
+nicht an.
+ 6. Wie genau setzt sich die Gebühr in Höhe von 46 Euro (bzw. 27,60 Euro 
+bei Antragstellenden unter 24 Jahren) zusammen (bitte die genaue
+Aufteilung der Herstellungskosten aufschlüsseln), und werden durch diese 
+Gebühren auch Kosten für die PointID-Systeme gedeckt?
+Die Gebühr von 46 Euro für den Personalausweis setzt sich aus
+Verwaltungskosten für die Antragsbearbeitung in Höhe von 16,39 Euro und dem
+Herstellungspreis für den Personalausweis in Höhe von 29,61 Euro zusammen. In den 
+Herstellungskosten werden neben den eigentlichen Kosten für die
+Dokumentenproduktion auch die Kosten zur Verbesserung und Weiterentwicklung des 
+Personalausweises, die in der laufenden Preisprüfungsperiode realisiert werden, 
+sowie für die Infrastruktur, die für das Pass- und Ausweiswesen benötigt wird 
+(z. B. Zertifikatsmanagement für den Zugriff auf den Chip des Ausweises,
+Visualisierungs-Änderungsterminal zur Rücksetzung der PIN oder Änderung der 
+Anschrift, Netzwerkinfrastruktur zur verschlüsselten Entgegennahme der
+Daten, Erfassung biometrischer Daten, mobile Antragserfassung/Bürgerkoffer) 
+einberechnet. Der Herstellungspreis des Personalausweispreis setzt sich daher 
+wie folgt zusammen:
+– Dokumentenherstellung = 17,42 Euro
+– Infrastruktur = 7,46 Euro
+– Umsatzsteuer = 4,73 Euro
+ 7. Sind die Gebühren für die Kommunen nach Kenntnis der
+Bundesregierung kostendeckend, wenn nein, welche Kenntnisse liegen der
+Bundesregierung über etwaige Abweichungen vor, und wie hoch sind diese nach 
+Kenntnis der Bundesregierung im Schnitt für jede Kommune konkret?
+Die bundesweit einheitlichen Gebühren sind so kalkuliert, dass diese für die 
+Kommunen durchschnittlich kostendeckend sind.
+ 8. Haben sich die im Gesetzgebungsverfahren wiederholt geäußerten
+Bedenken, der Bundesdruckerei stünde nicht ausreichend Personal für die 
+Wartung der neuen Geräte in den kommunalen Verwaltungen zur
+Verfügung, aus Sicht der Bundesregierung als nicht zutreffend erwiesen oder 
+haben sie sich bestätigt?
+Die anfänglichen Herausforderungen bei der bundesweiten Auslieferung und 
+Inbetriebnahme der PointID-Systeme sind überwunden. Im laufenden Betrieb 
+werden alle Support-Tickets von der Bundesdruckerei GmbH zeitnah
+bearbeitet. Service- und Support der PointID-Systeme erfolgt entsprechend des
+jeweiligen Bedarfs remote oder auch vor Ort in der Behörde.
+ 9. Werden die Kosten für die PointID-Systeme nach Kenntnis der
+Bundesregierung nicht ausschließlich über deren Nutzungsgebühr, sondern auch 
+durch eine Umlage auf den Preis für Ausweisdokumente gedeckt, und 
+zahlen dadurch Bürgerinnen und Bürger, die das Lichtbild über die 
+Cloud an die Behörde übermitteln, indirekt für einen Service, den sie 
+nicht nutzen?
+Siehe Antwort zu Frage 5. Zur Sicherstellung gleichwertiger
+Lebensverhältnisse in Deutschland war es der Wille des Deutschen Bundestages als
+Gesetzgeber, dass alle Kommunen unabhängig von der Zahl der Antragstellungen den 
+Bürgerinnen und Bürgern den Service einer Lichtbildaufnahme vor Ort bieten 
+können. Insbesondere war zu berücksichtigen, dass in vielen kleineren
+Kommunen mit überschaubaren Antragszahlen privatwirtschaftliche Angebote einer 
+Lichtbilderstellung für die Bürgerinnen und Bürger in zumutbarer räumlicher 
+Nähe nicht vorhanden sind. Aus den für die Erhöhung der Sicherheit im Pass-, 
+Ausweis- und Ausländerwesen in Bundestagsdrucksache 19/21986 genannten 
+Gründen war die flächendeckende Einführung des digitalen Lichtbilds aber
+geboten. Auch bei Bürgerinnen und Bürgern, die das Lichtbild über die Cloud an 
+die Behörde übermitteln, ist die Infrastruktur zur Datenerfassung anderer
+biometrischer Daten (Fingerabdrücke) vor Ort erforderlich und wird von diesen 
+genutzt. Der konkret durch die Aufnahme des Lichtbildes in der Behörde
+entstehende Mehraufwand ist durch die Lichtbildgebühr von sechs Euro
+abgedeckt, welcher nur bei Aufnahme in der Behörde anfällt.
+10. Wie viele Fotostudios oder ähnliche Gewerbe sind nach Kenntnis der 
+Bundesregierung in Deutschland angemeldet (bitte jeweils für die Jahre 
+von 2020 bis 2025 angeben)?
+Da Fotograf zu den freien und künstlerischen Berufen zählt, ist die Tätigkeit 
+nicht anmeldepflichtig.
+11. Welche Möglichkeiten hat ein Fotostudio nach Kenntnis der
+Bundesregierung aktuell, um die digitalen Passbilder über eine nach den
+Vorgaben des Bundesamtes für Sicherheit in der Informationstechnik
+zertifizierte und verschlüsselte Cloud elektronisch an die Behörde zu
+übermitteln?
+Für bei den Fotodienstleistern (Fotografinnen und Fotografen) einzusetzende 
+Client-Software (TR-03170-2), die das Hochladen von Lichtbildern in eine 
+Cloud unterstützt, sind derzeit vier Zertifizierungsverfahren mit Erteilung der 
+Zertifizierungen abgeschlossen worden. Für Cloud-Dienste (TR-03170-1) sind 
+derzeit zwei Zertifizierungsverfahren erfolgreich abgeschlossen worden (www.
+bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zert
+ifizierung/Zertifizierung-und-Anerkennung/Listen/Zertifizierte-Produkte-nach-
+TR/Sichere_Lichtbilduebermittlung/Sichere_Lichtbilduebermittlung_nod
+e.html).
+12. Werden hierfür nach Kenntnis der Bundesregierung Gebühren erhoben, 
+wenn ja, welche konkret, und wie hoch sind diese?
+Die Bundesregierung hat von den Konditionen der Cloud-Anbieter keine 
+Kenntnis.
+13. Wie hoch sind nach Kenntnis der Bundesregierung die Kosten für
+Fotostudios, die digitalen Passbilder mithilfe der Cloud an die Behörde zu 
+übermitteln?
+Die Bundesregierung hat von den Kostenkalkulationen der Fotodienstleister 
+und zu von Cloud-Anbietern ggf. verursachten anteiligen Kosten keine
+Kenntnis.
+14. Wie hoch ist nach Kenntnis der Bundesregierung der Anteil von
+Lichtbildern, die über die Cloud an die Behörde gesendet werden bzw. zuvor als 
+ausgedrucktes Lichtbild mitgebracht wurden (also durch einen externen 
+Anbieter aufgenommen wurden), an allen biometrischen Lichtbildern, 
+die in deutschen Behörden bei Beantragung von Pässen und Ausweisen 
+eingereicht werden (bitte jeweils für die Jahre von 2020 bis 2025
+angeben)?
+Der Anteil der behördlich verarbeiteten Lichtbilder, die von Clouds zugeliefert 
+werden, beträgt rund 40 Prozent. Das Verfahren wurde im Mai 2025 in Kraft 
+gesetzt, für die Jahre davor liegen keine statistischen Daten vor.
+15. Wie viele Fälle von Morphing bei Ausweisdokumenten, die von
+deutschen Behörden ausgestellt wurden, sind der Bundesregierung bekannt 
+(bitte für die Jahre von 2020 bis 2025 und die Monate Januar bis März 
+2026 angeben)?
+Daten konkret zu Fällen von Morphing bei Ausweisdokumenten, die von
+deutschen Behörden ausgestellt wurden, liegen nicht vor. In der Polizeilichen
+Kriminalstatistik (PKS) werden Fälle mit Verdacht auf manipulierte Lichtbilder in 
+echten Ausweisdokumenten für die genannten Jahre zu PKS-Schlüssel 540000 
+„Urkundenfälschung §§ 267–271, 273–279, 281 Strafgesetzbuch (StGB)“
+zusammen mit anderen Straftaten erfasst. In den vergangenen Jahren wurden
+folgende Fälle erfasst:
+Jahr Anzahl erfasster Fälle
+2020 78.252
+2021 90.799
+2022 108.462
+2023 86.644
+2024 87.652
+2025 87.969
+16. In welchem Staat erfolgte und erfolgt die Serienfertigung der PointID-
+Hardware?
+Die Serienfertigung der PointID-Geräte wurde durch die Bundesdruckerei 
+GmbH europaweit ausgeschrieben. Den Zuschlag hat ein Unternehmen aus 
+Deutschland erhalten. Die Serienfertigung wurde im ersten Halbjahr 2025
+abgeschlossen.
+17. Ist es zutreffend, dass die Geräteverwaltung (der PointID-Geräte) über 
+Microsoft Intune und deshalb eine Kommunikation der produktiv
+genutzten PointID-Geräte mit Microsoft-Servern erfolgt, und was bedeutet 
+dies aus Sicht der Bundesregierung für den Grundrechteschutz der
+Bürgerinnen und Bürger angesichts weiterhin bestehender rechtlicher
+Unsicherheiten beim transatlantischen Datenaustausch?
+Die Nutzung von Microsoft Intune erfolgt alleinig für die systemtechnische 
+Verwaltung der PointID-Systeme, beispielsweisedas Verteilen von Updates.
+Personenbezogene Daten, welche vom PointID-System erfasst werden, werden 
+nur innerhalb der Behörde verarbeitet. Diese werden verschlüsselt und lokal auf 
+dem jeweiligen PointID-System gespeichert. Ausschließlich die Kommune, die 
+ein PointID-System erfolgreich in Betrieb genommen hat, kann auf das System 
+zugreifen.
+18. Sind die Cloud-Lösungen, die vom BSI zertifiziert sind, nach Kenntnis 
+der Bundesregierung in Bezug auf Datenschutz und IT-Sicherheit
+ausreichend kritisch geprüft, und kann die Bundesregierung versichern, dass 
+keine personenbezogenen Daten durch Unbefugte abgerufen werden 
+können?
+Die Cloudanbieter müssen im Rahmen der Zertifizierung die Umsetzung
+zahlreicher technischer Anforderungen zur Gewährleistung von Datenschutz und 
+Informationssicherheit nachweisen. Hierzu gehören die Umsetzung des
+Kriterienkatalogs C5 (Mindestanforderungen an sicheres Cloud Computing) des
+BSI, BSI-IT-Grundschutz und der Nachweis eines Datenschutzkonzeptes nach 
+der Datenschutz-Grundverordnung (DSGVO). Zusätzlich dazu bestehen unter 
+anderem Anforderungen an eine Ende-zu-Ende-Verschlüsselung der Lichtbilder 
+vom Dienstleister zur Behörde, der Einsatz einer Transportverschlüsselung 
+nach aktuellen Standards des BSI und eine technische Beschränkung des
+Abrufs der Lichtbilder ausschließlich durch legitimierte Behörden, jeweils nach 
+dem Stand der Technik.
+19. Werden nach Kenntnis der Bundesregierung in diesem Zusammenhang 
+personenbezogene Daten auf Servern außerhalb der EU gespeichert oder 
+haben Unternehmen mit Sitz außerhalb der EU darauf Zugriff?
+Im Rahmen der Zertifizierung wird die Umsetzung der Anforderung BC-01 
+„Angaben zu Gerichtsbarkeit und Lokation“ geprüft: „Der Cloud-Anbieter 
+muss der Gerichtsbarkeit eines Landes der Europäischen Union unterliegen. 
+Der Anbieter des Cloud-Dienstes muss erklären, dass die Verarbeitung,
+Sicherung und Speicherung von Daten zur Bereitstellung des Cloud-Dienstes auf 
+Systemkomponenten in einem Land der Europäischen Union erfolgt und ein 
+Konzept vorlegen, wie er dies technisch sicherstellt.
+20. Wie lange werden nach Kenntnis der Bundesregierung die digitalen 
+Lichtbilder in der Cloud gespeichert?
+In Clouds, die gemäß der Technischen Richtlinie (TR) des BSI BSI TR-03170 
+errichtet wurden, müssen hochgeladene Lichtbilder nach Ablauf von spätestens 
+sechs Monaten gelöscht werden (§ 7 Absatz 2 der Passverordnung). Der
+Cloudanbieter ist folglich verpflichtet, das Lichtbild unverzüglich nach Abruf durch 
+die Behörde, spätestens aber sechs Monate nach Empfang des Lichtbilds von 
+einem Dienstleister, zu löschen, es sei denn, die Behörde hat auf Veranlassung 
+der antragstellenden Person vermerkt, dass das Lichtbild für einen Zeitraum 
+von höchstens sechs Monaten ab Empfang des Lichtbilds durch den
+Cloudanbieter nicht gelöscht werden soll.
+21. Wie lange werden nach Kenntnis der Bundesregierung die digitalen 
+Lichtbilder in der Behörde jeweils gespeichert, wenn sie
+a) vor Ort aufgenommen werden oder
+b) mithilfe der Cloud übermittelt werden?
+Die Fragen 21a und b) werden zusammenhängend beantwortet, weil die
+Regelungen zur Lichtbildspeicherung in den Pass- und Ausweisbehörden nicht nach 
+der Art der Erhebung differenzieren.
+Ein Lichtbild wird im behördlichen Register mindestens bis zur Ausstellung 
+eines neuen Ausweisdokuments, höchstens jedoch bis zu fünf Jahre nach dem 
+Ablauf der Gültigkeit des Ausweises, auf den sich das Lichtbild bezieht,
+gespeichert und dann gelöscht. Ist die Behörde eine deutsche Auslandsvertretung, 
+beträgt die Frist 30 Jahre (§ 23 Absatz 4 Personalausweisgesetz (PAuswG), 
+§ 21 Absatz 4 Passgesetz (PassG)).
+22. Besteht nach Einschätzung der Bundesregierung Handlungsbedarf, um 
+einen höheren Schutz der personenbezogenen Daten zu gewährleisten?
+Nein.
+23. Ab welchem Alter bzw. welcher Körpergröße sind die PointID-Systeme 
+nach Kenntnis der Bundesregierung verlässlich nutzbar?
+Die Hardware des PointID-Systems ist auf Personengrößen von 1,20 m bis zu 
+2,10 m im Sitzen und Stehen ausgelegt. Mit Unterstützung können jedoch auch 
+kleinere oder größere Personen erfasst werden – beispielsweise durch
+entsprechende Sitzerhöhungen, verstellbare Tische oder Begleitung durch Eltern.
+Verbesserungsvorschläge aus der Praxis hinsichtlich der Aufnahme von
+Kleinkindern und Säuglingen wurden infolge der kontinuierlichen Produktpflege und 
+Optimierung mittlerweile umgesetzt. Es liegt kein vermehrtes Feedback bzgl. 
+der Nicht-Erfassung von Personen spezifischer Körpergrößen bei der
+Bundesdruckerei GmbH vor.
+24. Wie viele Ausweisdokumente wurden nach Kenntnis der
+Bundesregierung an Menschen ausgegeben, die das PointID-System aufgrund von 
+Alter bzw. Körpergröße nicht nutzen können (bitte jeweils für die Jahre 
+von 2020 bis 2025 sowie für die Monate Januar bis einschließlich März 
+2026 angeben)?
+Für jede Person, die ein Ausweisdokument beantragen möchte, kann mit
+PointID ein Lichtbild erzeugt werden. Bei bestimmten Personengruppen,
+beispielsweiseSäuglinge in einer Babytrage oder Personen mit eingeschränkten
+motorischen oder kognitiven Fähigkeiten, ist die Mithilfe des Behördenpersonals 
+oder der begleitenden Personen erforderlich. Statistisch nicht erfasst wird die 
+Entscheidung von antragstellenden Personen, die den Service eines
+Fotodienstleisters nutzen wollen, wenngleich eine Lichtbilderstellung mit PointID
+möglich gewesen wäre.
+Weil PointID-Systeme erst ab Februar 2025 in Umlauf gebracht wurden, sind 
+Angaben zu Ausweisdokumenten, deren Lichtbilder mit PointID aufgenommen 
+worden sind, für die Jahre 2020 bis 2024 nicht möglich.
+25. Welche Möglichkeiten haben nach Kenntnis der Bundesregierung
+Menschen, der Pflicht zur elektronischen Übergabe von Lichtbildern
+nachzukommen, wenn das PointID-System nicht nutzbar ist, und werden Wege 
+geprüft, das PointID-System auch für diese Menschen nutzbar zu
+machen oder vergleichbare Alternativen bereitzustellen?
+Der Gesetzgeber hat es in die Entscheidung der Kommune gelegt,
+Lichtbilderfassungstechnik in den Behördenräumlichkeiten anzubieten. Die Kommune
+informiert daher ihre Bürgerinnen und Bürger, sofern Möglichkeiten der
+Lichtbildaufnahme in der Behörde bestehen. Kommunen, die sich nicht mit
+Lichtbilderfassungssystemen ausstatten wollen, bewerten in eigener Zuständigkeit, wie 
+die Bearbeitung von Ausweisanträgen erfolgt, wenn der örtliche Fotograf z. B. 
+wegen Krankheit – temporär nicht verfügbar beziehungsweise ein örtlicher 
+Drogeriemarkt mit Lichtbilderfassungsangebot oder Fotograf wegen
+Geschäftsaufgabe nicht mehr vorhanden ist. Das Bundesministerium des Innern (BMI) 
+empfahl den Kommunen, eine behördeneigene Lichtbildaufnahmetechnik
+zumindest für Notfall-Beantragungen vorzuhalten oder sich mit
+Nachbarkommunen, die mit Lichtbildtechnik ausgestattet sind, abzustimmen.
+Ist ein PointID-System nicht nutzbar und hat die Behörde nach Abklärung 
+möglicher interner Fehlerursachen diesen Umstand dem Support der
+Bundesdruckerei GmbH gemeldet, erfolgt die Remote-Prüfung und soweit möglich 
+Fehlerbehebung bzw. alternativ der Tausch des betroffenen Moduls. Hierfür 
+hält die Bundesdruckerei GmbH einen Reservepool vor, um zeitnah reagieren 
+zu können.
+26. Wie stellt die Bundesregierung sicher, dass durch die vergleichsweise
+geringe Gebühr von 6 Euro in der Kommune der Wettbewerb nicht insofern 
+verzerrt wird, als dass Fotostudios gerade gegenüber Kundinnen und 
+Kunden, für die das PointID-System aus technischen Gründen nicht 
+nutzbar ist, Passbilder nicht mehr zu ähnlichen Preisen anbieten können?
+Siehe Antworten zu den Fragen 4, 6, 7, 13 und 23.
+Vor dem Inkrafttreten der Gebührenregelung zum Lichtbild am 1. Mai 2025 
+stand es den kommunalen Behörden frei, eigene Lösungen zur
+Lichtbilderfassung anzubieten und eine lokale Gebührenhöhe festzulegen. § 20 Absatz 2 
+PassG bzw. § 31 Absatz 2 PAuswG geben vor, dass die Gebühr die mit der
+individuell zurechenbaren öffentlichen Leistung verbundenen Kosten aller an der 
+Leistung Beteiligten decken soll. In die Gebühr sind die mit der Leistung
+regelmäßig verbundenen Auslagen einzubeziehen. Zur Ermittlung der Gebühr sind 
+die Kosten, die nach betriebswirtschaftlichen Grundsätzen als Einzel- und
+Gemeinkosten zurechenbar und ansatzfähig sind, insbesondere Personal- und 
+Sachkosten sowie kalkulatorische Kosten, zugrunde zu legen. Ein
+Preisvergleich mit wirtschaftlichen Angeboten (Fotoautomaten, Fotografen,
+Drogeriemärkte) darf kein Kriterium bei der Ermittlung von Gebührenhöhen sein.
+Fotostudios bieten einen viel umfangreicheren Service an, es liegt in der
+Entscheidung der Antragsteller, diesen zusätzlichen Service in Anspruch zu nehmen und 
+zu vergüten.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
