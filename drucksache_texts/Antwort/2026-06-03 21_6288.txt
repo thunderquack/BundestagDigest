@@ -1,0 +1,1484 @@
+Deutscher Bundestag Drucksache 21/6288
+21. Wahlperiode 03.06.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Jan Köstering, Clara Bünger, Anne-
+Mieke Bremer, weiterer Abgeordneter und der Fraktion Die Linke
+– Drucksache 21/6041 –
+Umfang der polizeilichen Datenhaltung 2026
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+In den polizeilichen Informationssystemen werden umfassend Daten zu
+polizeilichen Vorgängen verarbeitet und gespeichert. Neben der eigentlichen
+Erhebung der personenbezogenen Daten sind auch die weitere Verarbeitung und 
+ggf. Speicherung grundrechtserheblich. Daher erfragt die Fraktion Die Linke 
+im Deutschen Bundestag regelmäßig den Umfang dieser Datenverarbeitung. 
+Aktuell steht die Schaffung neuer digitaler Ermittlungsbefugnisse der
+Polizeibehörden des Bundes zur parlamentarischen Beratung an, nachdem das
+Bundeskabinett am 29. April dieses Jahres entsprechende Gesetzentwürfe
+beschlossen hat. Darin enthalten ist auch der Vorschlag, den Polizeibehörden des 
+Bundes Befugnisse zur automatisierten Auswertung des polizeilichen
+Datenbestandes zu erlauben (§ 9b des Bundeskriminalamtsgesetz-Entwurfs 
+[BKAG‑E], § 58b des Bundespolizeigesetz-Entwurfs [BpolG‑E]). Mit dem 
+§ 22 Absatz 3 BKAG‑E wird sogar eine Befugnis geschaffen, Daten zum
+Training von KI-Tools (KI = Künstliche Intelligenz) auch an Unternehmen in 
+Drittstaaten zu übermitteln.
+Mit Blick auf eine lange Reihe von Kleinen Anfragen der Fraktion und der 
+Gruppe Die Linke, deren Beantwortung durch die Bundesregierung wegen
+unvollständiger Antworten regelmäßig Nachfragen erforderlich gemacht hat, 
+möchten die Fragestellenden das Bundesministerium des Innern und die
+Zuarbeiten liefernden nachgeordneten Behörden ganz ausdrücklich ermutigen, die 
+Fragen sehr aufmerksam zu lesen und die gemachten Angaben auf
+Vollständigkeit zu prüfen.
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern vom 3. Juni 2026 
+übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+ 1. Welche Amts-, Zentral- und Verbunddateien werden derzeit beim
+Bundeskriminalamt (BKA) geführt (bitte mit Bezeichnung der Dateien bzw. 
+Datenbank, Datum der Errichtung, Zweck der Datei bzw. Datenbank, 
+Rechtsgrundlage, Zahl der Datensätze, Zahl der Personendatensätze, 
+Zahl der Datensätze zu Personenzusammenschlüssen, Organisationen 
+und Institutionen, durchschnittlicher Speicherdauer der enthaltenen
+Datensätze aufführen)?
+Die Anfrage wird aufgrund des Kontextes und der Fragestellung dergestalt
+interpretiert, dass sie sich nur auf Dateien bezieht, die personenbezogene Daten 
+(pbD) enthalten. Der Begriff der „Datensätze zu Personenzusammenschlüssen, 
+Organisationen und Institutionen“ kann nicht zugeordnet werden bzw. wird 
+nicht geführt und kann damit nicht beauskunftet werden. Die durchschnittliche 
+Speicherdauer von Daten kann nicht erhoben werden. Werden Daten zum
+Ablauf der Speicherdauer gelöscht, wird lediglich die Löschung protokolliert. Der 
+Datensatz selbst ist nicht mehr abrufbar. Für die Ermittlung der
+durchschnittlichen Speicherdauer besteht damit keine Datengrundlage. Eine
+Untergliederung der Tabelle ist demnach gemäß der Angaben erfolgt, die erhoben werden 
+konnten. Es wird auf die beigefügte Anlage 1 verwiesen.*
+ 2. Welche Daten des Polizeilichen Informations- und Analyseverbunds (PI-
+AV-Operativ-Dateien) führt das BKA, und an welche Verbunddateien in 
+PIAV-Operativ sind diese angebunden (bitte mit Errichtungsdatum, Zahl 
+der gespeicherten Daten, Zahl der gespeicherten Personendatensätze, 
+Zahl der Datensätze zu Institutionen bzw. Gruppen bzw.
+Personenzusammenschlüssen, durchschnittlicher Speicherdauer der enthaltenen
+Datensätze auflisten)?
+Es wird auf die beigefügte Anlage 2 verwiesen.*
+ 3. Wie viele Datensätze (Vorgänge) sind im Vorgangsbearbeitungssystem 
+des BKA gespeichert?
+Im Vorgangsbearbeitungssystem des BKA sind zum Stichtag 27. April 2026 
+insgesamt 33.921.440 Vorgänge gespeichert.
+ 4. Wie viele Strafverfolgungsdateien werden derzeit beim BKA geführt, 
+wie viele davon betreffen laufende Strafverfahren und wie viele
+abgeschlossene Strafverfahren inklusive Vollstreckungsverfahren (bitte
+bezogen auf die verfahrensführenden Abteilungen des BKA angeben)?
+Die Anzahl der Strafverfolgungsdateien kann der nachfolgenden Tabelle
+entnommen werden.
+Abteilungen des BKA Anzahl der Strafverfolgungsdateien je Abteilung
+(Stichtag 22.05.2026)
+ST 358
+TE 322
+SO 337
+CC 142
+Für die Abteilungen ST und TE wurden für die angegebenen Zahlen
+ausschließlich die eFBS Strafverfolgungsdateien (S-Verfahren) berücksichtigt. Es 
+* Von einer Drucklegung der Anlage wird abgesehen. Diese ist auf Bundestagsdrucksache 21/6288 auf der Internetseite des Deutschen Bundestages abrufbar.
+wird auf die Antwort der Bundesregierung auf die Kleine Anfrage der Fraktion 
+Die Linke auf Bundestagsdrucksache 20/7864 verwiesen.
+ 5. Welche Dateien bzw. Datenbanken werden bei der Bundespolizei zu 
+Zwecken der Straftatverhütung bzw. Strafverfolgungsvorsorge geführt 
+(bitte mit Bezeichnung der Dateien bzw. Datenbank, Datum der
+Errichtung, Zweck der Datei bzw. Datenbank, Rechtsgrundlage, Zahl der
+Datensätze, Zahl der Personendatensätze, Zahl der Datensätze zu
+Personenzusammenschlüssen, Organisationen und Institutionen,
+durchschnittlicher Speicherdauer der enthaltenen Datensätze aufführen)?
+ 6. Welche Dateien bzw. Datenbanken werden zu Zwecken der
+Strafverfolgung derzeit bei der Bundespolizei geführt (bitte mit Bezeichnung der 
+Dateien bzw. Datenbank, Datum der Errichtung, Zweck der Datei bzw. 
+Datenbank, Rechtsgrundlage, Zahl der Datensätze, Zahl der
+Personendatensätze, Zahl der Datensätze zu Personenzusammenschlüssen,
+Organisationen und Institutionen, durchschnittlicher Speicherdauer der
+enthaltenen Datensätze aufführen)?
+Die Fragen 5 und 6 werden aufgrund des Sachzusammenhangs zusammen
+beantwortet.
+Die in der Bundespolizei im Sinne der Anfrage geführten Dateien bzw.
+Datenbanken entsprechen sowohl den Zwecken der Straftatenverhütung bzw.
+Strafverfolgungsvorsorge als auch den Zwecken der Strafverfolgung. Es wird auf 
+die beigefügte Anlage 3 verwiesen.*
+ 7. Wie viele der in der Verbunddatei „Innere Sicherheit“ beim BKA
+gespeicherten Personendatensätze sind welchen Phänomenbereichen
+zugeordnet (bitte für die Datensätze in Datenbesitz des BKA und die Gesamtzahl 
+der Datensätze für die Phänomenbereiche getrennt angeben)?
+In der Verbunddatei „Innere Sicherheit“ sind nach Phänomenbereich
+aufgeschlüsselt die folgende Anzahl an Personen in Vorgängen der genannten
+Phänomenbereiche enthalten:
+Phänomenbereich Personen insgesamt davon Personen mit 
+Datenbesitz des BKA
+Rechts 39.513 188
+Links 11.988 35
+Religiöse Ideologie 5.746 1.362
+Ausländische Ideologie 5.393 118
+nicht zuzuordnen 15.476 2
+Dabei ist zu beachten, dass die Zuordnung zu Phänomenbereichen nicht im
+Personenobjekt, sondern für jeden Vorgang einzeln erfasst wird, weshalb eine
+Person in mehreren Phänomenbereichen vorkommen kann.
+* Von einer Drucklegung der Anlage wird abgesehen. Diese ist auf Bundestagsdrucksache 21/6288 auf der Internetseite des Deutschen Bundestages abrufbar.
+ 8. Wird in der Verbunddatei „Innere Sicherheit“ der Katalogwert „Sonstige 
+Zuordnung“ mittlerweile gesondert ausgewiesen, war hierfür eine
+Änderung der Errichtungsanordnung notwendig, und auf welchem
+Verfahrensweg wurde sie vorgenommen?
+Der Katalogwert „Sonstige Zuordnung“ ist in der Verbunddatei „Innere
+Sicherheit“ nicht in dem Katalog enthalten, in dem die Phänomenbereiche abgebildet 
+werden. Lediglich in dem Spezifikationskatalog der Objekte Ereignis/
+Maßnahme liegt ein Wert „Sonstige Zuordnung“ vor. Eine Änderung der
+Errichtungsanordnung ist in diesem Zusammenhang nicht erfolgt.
+ 9. Welche Anträge auf Auskunft, Berichtigung und Löschung von
+personenbezogenen Daten wurden im Jahr 2023 mit Bezug zu den in den 
+Fragen 1 bis 4 erfragten Dateien, Datenbanken etc. beim BKA und bei 
+der Bundespolizei gestellt, und in wie vielen Fällen wurde die Auskunft 
+ganz oder teilweise verweigert?
+Das BKA erteilt in Ausprägung des Rechts auf informationelle
+Selbstbestimmung gemäß § 57 Absatz 1 Bundesdatenschutzgesetz (BDSG) auf Antrag des 
+Betroffenen Auskunft darüber, ob bzw. welche personenbezogenen Daten des 
+Betroffenen vom BKA als Verantwortlichem verarbeitet werden. Daran
+anschließend besteht das Recht, Daten ergänzen, korrigieren oder zu Unrecht
+gespeicherte Daten löschen zu lassen (§ 58 BDSG). Über die in den §§ 57, 58 des 
+BDSG enthaltenen Rechte der betroffenen Person hinaus gilt für die
+Verarbeitung im polizeilichen Informationsverbund die Besonderheit, dass bei Daten, 
+die im polizeilichen Informationsverbund verarbeitet werden, das BKA die 
+Auskunft nach § 57 Absatz 1 BDSG im Einvernehmen mit der Stelle, die die 
+datenschutzrechtliche Verantwortung nach § 31 Absatz 2 trägt, erteilt. Die
+entsprechenden Anträge können frei, den eigenen Bedarfen entsprechend
+formuliert sein.
+Beim BKA sind im Jahr 2023 insgesamt 5.916 Ersuchen auf Auskunft aus den 
+polizeilichen Systemen eingegangen. In 3.508 Fällen ersuchte die betroffene 
+Person das BKA ausschließlich um Auskunft aus dem Schengener
+Informationssystem. In 985 Vorgängen (von den verbleibenden 2.409) hat die betroffene 
+Person (auch) um Auskunft von PNR-Daten gebeten. Eine weitere
+Differenzierung auf die Dateien, Datenbänken wird statistisch nicht vorgehalten, so dass 
+diesbezüglich keine Aussage getroffen werden kann.
+Bezüglich der Auskunftserteilungen durch die Bundespolizei wird auf die
+Antwort der Bundesregierung auf die Kleine Anfrage 20/12944
+(Bundestagsdrucksache 20/13130) verwiesen.
+10. In wie vielen Fällen wurden im Jahr 2025 Personen über die Speicherung 
+von Daten zu Kindern, für die sie sorgeberechtigt sind, nach § 75 des 
+Bundeskriminalamtsgesetzes (BKAG) informiert, und in wie vielen
+Fällen ist eine solche Information wegen der möglichen Gefährdung der 
+Aufgabenwahrnehmung des BKA unterblieben?
+Mangels eines statistischen Nachhalts werden für das BKA im Jahr 2025 keine 
+Fälle im Sinne des § 75 BKAG gemeldet.
+11. Gab es im Jahr 2023 Beanstandungen vonseiten der
+datenschutzrechtlichen Aufsichtsbehörden, wenn ja welche, und wie wurden
+Beanstandungsverfahren abgeschlossen?
+Ja. Die Einzelheiten können dem 32. Tätigkeitsbericht der Bundesbeauftragten 
+für den Datenschutz und die Informationsfreiheit (BfDI) entnommen werden, 
+dort Ziff. 9.1.
+12. In wie vielen Fällen hat das BKA nach § 83 des
+Bundeskriminalamtsgesetzes (BKAG) am Informationsverbund teilnehmende Behörden sowie 
+die zuständige Datenschutzaufsicht über eine Verletzung des Schutzes 
+personenbezogener Daten informiert?
+Es wird davon ausgegangen, dass sich die Frage auf das Jahr 2025 bezieht. Es 
+ist kein Fall der Benachrichtigung von am Informationsverbund teilnehmenden 
+Behörden nach § 83 BKAG bekannt. Die BfDI wurde nach § 65 Absatz 1 
+BDSG in zehn Fällen von der Verletzung des Schutzes personenbezogener
+Daten in Kenntnis gesetzt.
+13. In wie vielen Fällen erfolgte eine solche Information an Verantwortliche 
+in einem anderen Mitgliedstaat der EU (§ 65 Absatz 6 des
+Bundesdatenschutzgesetzes; bitte nach Jahren und für beide Fallkonstellationen
+getrennt auflisten)?
+Es wird davon ausgegangen, dass sich die Frage auf das Jahr 2025 bezieht. Es 
+ist kein Fall der Benachrichtigung nach § 65 Absatz 6 BDSG bekannt.
+14. Wie viele Personen sind nach Kenntnis der Bundesregierung derzeit
+insgesamt im Schengener Informationssystem nach Artikel 36 Absatz 3 des 
+Ratsbeschlusses 2007/533/JI vom 12. Juni 2007 „über die Errichtung, 
+den Betrieb und die Nutzung des Schengener Informationssystems der 
+zweiten Generation“ (RB SIS II) zur verdeckten bzw. gezielten Kontrolle 
+ausgeschrieben, und
+a) wie viele davon mit der Qualifizierung „immediate action“,
+Schengenweite Ausschreibungen:
+Gezielt + Verdeckte Kontrolle nach Artikel 36 Absatz 3 RB SIS II = 91.568 + 
+107.906 = 199.474,
+davon immediate action = 332 + 913 = 1.245.
+b) wie viele der Ausschreibungen wurden von deutschen Stellen
+vorgenommen (bitte ebenfalls Gesamtzahl und Zahl der Datensätze mit der 
+Qualifizierung „immediate action“ angeben) und
+Ausschreibungen aus Deutschland:
+Gezielt + Verdeckte Kontrolle nach Artikel 36 Absatz 3 RB SIS II = 1.187 + 
+3.057 = 4.244,
+davon immediate action = 39 + 258 = 297.
+c) wie viele der von deutscher Seite vorgenommenen Ausschreibungen 
+gingen auf Informationen aus Drittstaaten zurück, welcher Art waren 
+die übermittelten Informationen, und welche qualifizierenden
+Tatbestände für eine Ausschreibung nach Artikel 36 Absatz 3 RB SIS II
+waren erfüllt?
+Diese entsprechenden Informationen liegen ausschließlich in den Ländern vor.
+Seite 1 von 12 
+Anlage 1 zu KA 21/6041 
+ 
+Zu 1.: 
+Zur Beantwortung der Frage wird auf folgende tabellarische Übersicht verwiesen. 
+ 
+Datei/Datenbank 
+Datum der 
+Errichtung 
+Zweck Rechtsgrundlage Zahl der Datensätze 
+N.SIS (Nationaler Teil des 
+Schengener 
+Informationssystems SIS) 
+Als Teil von SIS II – 
+09.04.2013; als Teil 
+von SIS – 
+07.03.2023   
+siehe Artikel 1 der „VERORD- 
+NUNG (EU) 2018/1862 DES EU- 
+ROPÄISCHEN PARLAMENTS 
+UND DES RATES vom 28. 
+November 2018“ Sicherstellung 
+der Anwendung der 
+Bestimmungen des von Teil 3 
+Titel V Kapitel 4 und 5 des AEUV 
+im Bereich des 
+Personenverkehrs 
+VERORDNUNG (EU) 
+2018/1862 DES EU- 
+ROPÄISCHEN 
+PARLAMENTS UND DES 
+RATES vom 28. November 
+2018 über die Einrichtung, 
+den Betrieb und die 
+Nutzung des Schengener 
+Informationssystems (SIS) 
+im Bereich der polizeilichen 
+Zusammenarbeit und der 
+justiziellen 
+Zusammenarbeit in 
+Strafsachen, zur Änderung 
+und Aufhebung des 
+Beschlusses 2007/533/JI 
+des Rates und zur 
+Aufhebung der Verordnung 
+(EG) Nr. 1986/2006 des 
+Europäischen Parlaments 
+und des Rates und des 
+93.255.557 
+Sachfahndungen + 
+2.077.726 
+Personenfahndungen = 
+95.333.283 Datensätze 
+gesamt (Stand 
+01.05.2026) 
+Seite 2 von 12 
+Beschlusses 2010/261/EU 
+der Kommission 
+VERORDNUNG (EU) 
+2018/1861 DES EU- 
+ROPÄISCHEN 
+PARLAMENTS UND DES 
+RATES vom 28. November 
+2018über die Einrichtung, 
+den Betrieb und die 
+Nutzung des Schengener 
+Informationssystems (SIS) 
+im Bereich der 
+Grenzkontrollen, zur 
+Änderung des 
+Übereinkommens zur 
+Durchführung des 
+Übereinkommens von 
+Schengen und zur 
+Änderung und Aufhebung 
+der Verordnung (EG) Nr. 
+1987/2006 VERORDNUNG 
+(EU) 2018/1860 DES EU- 
+ROPÄISCHEN 
+PARLAMENTS UND DES 
+RATES vom 28. November 
+2018 über die Nutzung des 
+Schengener 
+Informationssystems für 
+die Rückkehr illegal 
+aufhältiger 
+Seite 3 von 12 
+Drittstaatsangehöriger § 3 
+Abs. 2 BKAG   
+VBS 
+(Vorgangsbearbeitungssystem) 
+08.08.2005   Das VBS des BKA dient zur 
+Verwaltung (Wiedervorlage, 
+Fristüberwachung, 
+Aussonderung, 
+Vorgangssteuerung etc.) sowie 
+zum Aufnden von polizeilichen 
+Vorgängen (inkl. 
+Amtshilfevorgänge und 
+Grundsatzvorgänge aus dem 
+polizeilichen Bereich) und von 
+nichtpolizeilichen Vorgängen 
+§ 7 Abs. 1 BKAG a.F. (für 
+polizeiliche 
+Vorgangsbearbeitung) § 30 
+Abs. 2 BKAG a.F. (für 
+Vorgangsdokumentation) 
+§  14 Abs. 1 BDSG-alt (für 
+nicht-polizeiliche 
+Vorgänge)   
+33.921.440 (siehe 
+Antwort zu Frage 3) 
+PKS (Polizeiliche 
+Kriminalstatistik) 
+2008 Die PKS ist eine 
+Zusammenstellung aller der 
+Polizei bekannt gewordenen 
+strafrechtlichen Sachverhalte 
+unter Beschränkung auf ihre 
+erfassbaren wesentlichen 
+Inhalte. Sie soll damit im 
+Interesse einer wirksamen 
+Kriminalitätsbekämpfung zu 
+einem überschaubaren und 
+möglichst verzerrungsfreien Bild 
+der angezeigten Kriminalität 
+führen. 
+§ 2 Abs. 6 Nr. 2 BKAG   Ca. 6,5 Millionen  
+ 
+Keine 
+personenbezogenen 
+Daten 
+PKS BAB (PKS BKA als 
+Bundes-land) 
+2013 Erfassungskomponente für die 
+PKS-Fälle; die in den 
+Fachabteilungen SO und ST 
+geführten Ermittlungsverfahren. 
+§ 2 Abs. 6 Nr. 2 BKAG 
+ 
+Ca. 800 
+Seite 4 von 12 
+Lapos (Lageabbildung 
+politischmotivierter 
+Straftaten) 
+Seit 2010 betreibt 
+Inpol-A das DWH 
+für das aktuelle 
+Lapos. Davor waren 
+diese Daten in IN-
+POL-FALL. 
+Die Abteilung ST hat den 
+Auftrag, die anonymisierte, 
+gemeldete Politisch motivierte 
+Kriminalität strategisch 
+auszuwerten. 
+§ 2 Abs 6 Nr. 2 BKAG 812.483 Datensätze 
+(Fälle) (Stand 
+26.05.2026)  
+Keine 
+personenbezogenen 
+Daten 
+AFIS-A 1992 In der Datei „AFIS-A“ werden 
+Daten von Asylsuchenden und 
+sonstigen Ausländern, die
+edbehandelt wurden gespeichert. 
+Sie dient der 
+Identitätsfeststellung. Im 
+Rahmen der internationalen 
+polizeilichen Rechtshilfe dient 
+die Datei der Strafverfolgung, 
+der Strafvollstreckung, der 
+Abwehr von Gefahren für die 
+öffentliche Sicherheit oder der 
+Verhütung oder Verfolgung 
+künftiger Straftaten durch einen 
+Vergleich von Abbildern von 
+Fingerabdrücken bzw. von 
+Fingerabdrücken und 
+Fingerspuren. 
+§ 16 Abs. 3 bis 6 AsylG, §§ 
+49 Abs. 3 bis 9, 89 
+AufenthG, § 1 Abs. 3 AZRG 
+8,1 Millionen 
+Personendatensätze 
+(Stand 22.05.2026) 
+AFIS-P 1992 Die Datei „AFIS-P" dient dazu, 
+durch einen daktyloskopischen 
+Vergleich Personen / 
+unbekannte Tote zur Abwehr 
+von Gefahren für die öffentliche 
+Sicherheit oder Ordnung oder 
+zur Strafverfolgung zu 
+§ 8 Abs. 6 BKAG a.F. 2,4 Millionen 
+Personaldatensätze 
+Stand 08.04.2023) 
+Seite 5 von 12 
+identizieren. Die Datei 
+ermöglicht darüber hin- aus 
+durch einen daktyloskopischen 
+Vergleich von
+Hautleistenspuren und den in der Datei
+erfassten Hautleistenabbildern, 
+um Spurenverursacher zu 
+identizieren. 
+DIGIFABL-P 2003 Die Datei „DigiFABl-P“ dient der   
+Speicherung der von den 
+Polizeien des Bundes und der 
+Länder und des Zolls zu 
+polizeilichen Zwecken 
+aufgenommenen Finger- und 
+Handächenabdruckdaten. Sie 
+ist das Archiv für die 
+angelieferten 
+Fingerabdruckblätter und hat 
+die in Papierform unterhaltenen 
+zentralen Sammlungen von 
+Fingerabdruckblättern abgelöst. 
+§§ 8 Abs. 6, 9 Abs. 3 BKAG 
+a.F. 
+2,9 Millionen 
+(Stand 22.05.2026) 
+DIGIFABL-A 2003 In der Datei „DigiFABl-A“ 
+werden Daten von 
+Asylsuchenden und sonstigen 
+Ausländern, die ed-behandelt 
+wurden, digital gespeichert. Sie 
+hat die in Papierform 
+unterhaltenen zentralen 
+Sammlungen von 
+Fingerabdruckblättern abgelöst. 
+Die Datei dient als Archiv für die 
+§ 16 Abs. 3 bis 6 AsylG, §§ 
+49 Abs. 3 bis 9, 89 
+AufenthG, § 1 Abs. 3 AZRG 
+8,1 Millionen (Stand 
+22.05.2026) 
+Seite 6 von 12 
+angelieferten 
+Fingerabdruckblätter. 
+DIGILIBI Ca. 2007 Gesichtserkennung § 8 Abs. 6 BKAG a. F. (GES): 7,5 Mio. 
+Datensätze. (#25779, 
+Lichtbilder der Bildart 
+20 und 91). 
+DAD-I Ca. 2008 Internationale DNA Muster 
+Recherche 
+Vertrag von Prüm 0,75 Millionen 
+Personen 
+DAD-Z 17.04.1998 Die „DNA-Analyse-Datei“ dient 
+der Vorsorge für die künftige 
+Verfolgung von Straftaten von 
+erheblicher Bedeutung, von 
+Straftaten gegen die sexuelle 
+Selbstbestimmung oder bei 
+wiederholt begangenen 
+sonstigen Straftaten, wenn diese 
+in ihrer Gesamtheit im 
+Unrechtsgehalt einer Straftat 
+von erheblicher Bedeutung 
+gleichstehen. 
+§ 8 Abs. 1, 3 und 6 BKAG 
+a.F.  § 81 g Abs. 5 StPO 
+1.157.070   
+davon 763.349 
+Personendatensätze 
+BKA-Aktennachweis (AN) 30.04.2018 Die Datei weist Kriminalakten 
+nach, die im Bundeskriminalamt   
+aufgrund des 
+kriminalpolizeilichen 
+Meldedienstes oder 
+Schriftverkehrs im 
+Zusammenhang mit 
+Ermittlungsverfahren, 
+erkennungs- dienstlichen 
+Unterlagen, sonstigem 
+polizeilich relevanten 
+Für die Führung der Datei:   
+• § 7 Abs. 1 BKAG a.F. 
+Für die Datenanlieferung 
+durch das BKA:   
+• § 13 Abs. 4 BKAG a.F. 
+Für die Datenanlieferung 
+durch die Länder:   
+• § 13 Abs. 1 BKAG a.F. 
+Für die Übermittlung 
+personenbezogener Daten 
+24.736 
+Seite 7 von 12 
+Schriftverkehr angelegt werden, 
+wenn sie nicht in der Datei 
+Kriminalaktennachweis (KAN) 
+gespeichert sind.  
+an die Mitgliedstaaten der 
+Europäischen Union: 
+• § 14a BKAG a.F. 
+Kriminalaktennachweis (KAN)  09.05.2018 Der KAN dient dem Nachweis 
+von Kriminalakten, die beim 
+Bund und bei den Ländern 
+angelegt sind, sowie zu diesen 
+Kriminalakten erfassten 
+strafrechtlich relevanten 
+Ereignissen (Fallgrunddaten). 
+Für die Führung der Datei: 
+• § 8 Abs. 1 und 2 BKAG a.F. 
+Für die Datenanlieferung 
+durch das BKA: 
+• § 13 Abs. 4 BKAG a.F. 
+Für die Datenanlieferung 
+durch die Länder: 
+• § 13 Abs. 1 BKAG a.F. 
+Für die Datenanlieferung 
+durch die BPOL und den 
+Zoll: 
+• § 13 Abs. 3 BKAG a.F. 
+Für die Übermittlung 
+personenbezogener Daten 
+an die Mitgliedstaaten der 
+Europäischen Union: 
+• § 14a BKAG a.F. 
+3.670.462 
+Erkennungsdienst 27.09.2018 Die Datei dient dem Nachweis 
+von Hautleistenbildern 
+(Einzelnger- und 
+Zehnngerabdrücke sowie 
+polizeilich erhobene 
+Handächenabdrücke), 
+Lichtbildern, 
+Personenbeschreibungen und 
+Handschriften einschließlich der 
+zugehörigen 
+Für die Führung der Datei: 
+• § 8 Abs. 6 BKAG a.F. 
+Für die Datenanlieferung 
+durch das BKA: 
+• § 13 Abs. 4 BKAG a.F. 
+Für die Datenanlieferung 
+durch die Länder:    
+• § 13 Abs. 1 BKAG a.F. 
+• § 16 Abs. 1 i.V.m. § 19 Abs. 
+2 AsylG 
+11.071.897 
+Seite 8 von 12 
+personenbezogenen Daten, der 
+Information über bisherige 
+erkennungsdienstliche 
+Behandlungen.   
+• § 89 Abs. 1 Satz 1 i.V.m. 
+§ 49 AufenthG 
+• § 6 Abs. 3 PassG 
+• § 9 Abs. 4 PAuswG 
+Für die Datenanlieferung 
+durch die Bundespolizei 
+(BPOL) und den Zoll:   
+• § 13 Abs. 3 BKAG a.F.   
+• § 16 Abs. 1 i.V.m. § 18 Abs. 
+5 AsylG 
+• § 89 Abs. 1 Satz 1 i.V.m. 
+§ 49 AufenthG 
+Für die Datenanlieferung 
+durch die 
+Ausländerbehörden, die 
+Erstaufnahmeeinrichtungen 
+der Länder, die 
+Auslandsvertretungen der 
+Bundesrepublik 
+Deutschland oder das 
+Bundesverwaltungsamt 
+(BVA): 
+• § 16 Abs. 1 i.V.m., § 19 
+Abs. 2 
+AsylG 
+• § 73 Abs. 1, 4 oder § 89 
+Abs. 1 Satz 1 i.V.m. § 49 
+AufenthG 
+Für die Datenanlieferung 
+durch das Bundesamt für 
+Migration und 
+Seite 9 von 12 
+Flüchtlingsangelegenheiten 
+(BAMF):  
+• § 16 Abs. 3 AsylG 
+Für die Datenanlieferung 
+durch die Straf-
+Untersuchungshaft- und 
+Maßregelvollzugsbehörden: 
+• § 13 Abs. 5 BKAG a.F.   
+Haftdatei   11.05.2018 Die Haftdatei dient dem 
+Nachweis über Personen, die 
+sich aufgrund richterlich 
+angeordneter 
+Freiheitsentziehung wegen einer 
+rechtswidrigen Tat in 
+behördlichem Gewahrsam 
+benden oder befanden. 
+Für die Führung der Datei:  
+• § 9 Abs. 2 BKAG a.F. 
+Für die Datenanlieferung 
+durch das BKA:   
+• § 13 Abs. 4 BKAG a.F. 
+Für die Datenanlieferung 
+durch die Länder: 
+• § 13 Abs. 1 BKAG a.F. 
+Für die Übermittlung 
+personenbezogener Daten 
+an die Mitgliedstaaten der 
+Europäischen Union: 
+• § 14a BKAG a.F. 
+443.476 
+Personenfahndung 24.05.2018 Die Datei dient dem Zwecke der 
+Fahndung nach Personen, 
+insbesondere zur 
+Festnahme/Ingewahrsamnahme 
+oder Aufenthaltsermittlung, 
+Polizeilichen Beobachtung, 
+Überwachung im Rahmen der 
+Führungsaufsicht und 
+Überwachung nach 
+zollrechtlichen Bestimmungen. 
+Für die Führung der Datei: 
+• § 9 Abs. 1 und 3 BKAG a.F. 
+• § 15 BKAG a.F. 
+Für die Datenanlieferung 
+durch das BKA:   
+• § 13 Abs. 4 BKAG a.F.   
+Für die Datenanlieferung 
+durch die Länder:  
+• § 13 Abs. 1 BKAG a.F. 
+1.015.155 
+Seite 10 von 12 
+Für die Datenanlieferung 
+durch die BPol und den 
+Zoll:   
+• § 13 Abs. 3 BKAG a.F.   
+Für die Datenanlieferung 
+durch BfV, BND und MAD: 
+• § 17 Abs. 3 BVerfSchG 
+Für die Datenanlieferung 
+durch die Ausländerämter: 
+• § 50 Abs. 6 AufenthaltsG 
+Für die Datenanlieferung 
+durch die Polizei des 
+Deutschen Bundestages: 
+• § 29 Abs. 3 Nr. 3 BKAG 
+Für die Datenanlieferung 
+durch die 
+Zollfahndungsämter: 
+• § 29 Abs. 3 Nr. 5 BKAG 
+Für die Datenübermittlung 
+• §§ 10 und 14, § 14a BKAG 
+a.F. 
+Für die Datenanlieferung 
+durch das BAMF 
+(Bundesamt für Migration 
+und Flüchtlinge)   
+• § 66 AsylG 
+Sachfahndung   16.05.2018   Die Datei dient der 
+Ausschreibung von Sachen (PDV 
+384.1 Nr. 2.2.3.3) zur 
+• Sicherstellung/ 
+Beschlagnahme, 
+Für die Führung der Datei: 
+• § 2 Abs. 4 Nr. 2 BKAG a.F. 
+• § 7 Abs. 1 BKAG a.F. 
+• § 9 Abs. 1 BKAG a.F. 
+17.766.380 
+Seite 11 von 12 
+insbesondere zur 
+• Beweissicherung 
+• Einziehung, z.B. 
+Vermögensabschöpfung 
+• kriminaltechnischen 
+Untersuchung 
+• Eigentumssicherung 
+• Gefahrenabwehr 
+• Insassenfeststellung, zur 
+Unterstützung der Fahndung 
+nach Personen können 
+insbesondere Kfz 
+ausgeschrieben werden, 
+wenn Anhaltspunkte bestehen, 
+dass diese von gesuchten 
+Personen genutzt werden 
+• Eigentümer-
+/Besitzerermittlung   
+• Feststellung der Identität einer 
+Person 
+• Kontrolle, soweit nach 
+Polizeirecht zulässig 
+Entstempelung von 
+Fahrzeugkennzeichen 
+• Kraftfahrzeugen, Flugzeugen, 
+Booten und Containern zur 
+polizeilichen Beobachtung oder 
+gezielten Kontrolle zum Zwecke 
+der Strafverfolgung, bzw. 
+Strafvollstreckung oder der 
+Für die Datenanlieferung 
+durch das BKA:   
+• § 13 Abs. 4 BKAG a.F. 
+Für die Datenanlieferung 
+durch die Länder:   
+• § 13 Abs. 1 BKAG a.F. 
+Für die Datenanlieferung 
+durch die BPol: 
+• § 13 Abs. 3 BKAG a.F., § 32 
+Abs. 1 BPolG 
+Für die Datenanlieferung 
+durch den Zoll:   
+• § 13 Abs. 3 BKAG a.F. 
+Für die Datenanlieferung 
+durch BfV, BND und MAD: 
+• § 17 Abs. 3 BVerfSchG 
+Für die Datenanlieferung 
+durch die Polizei des 
+Deutschen Bundestages: 
+• § 29 Abs. 3 Nr. 3 BKAG 
+Für die Datenanlieferung 
+durch die 
+Zollfahndungsämter: 
+• § 29 Abs. 3 Nr. 5 BKAG 
+Für die Datenübermittlung: 
+• §§ 10 und 14, § 14a BKAG 
+a.F 
+Seite 12 von 12 
+Gefahrenabwehr (PDV 384.2, Nr.  
+4.3.1 und 4.3.2) 
+• Beförderungsmitteln zur 
+zollrechtlichen Überwachung 
+(§10 Abs. 1 ZFdG) 
+• Kraftfahrzeugen, Flugzeugen, 
+Booten und Containern zur 
+polizeilichen Beobachtung für 
+die Nachrichtendienste, wenn 
+die Voraussetzungen des Art. 36 
+Abs. 3 SIS II - Ratsbeschluss 
+sowie tatsächliche 
+Anhaltspunkte für einen 
+grenzüberschreitenden Verkehr 
+vorliegen. 
+ 
+ 
+Seite 1 von 2 
+Anlage 2 zu KA 21/6041 
+ 
+Zu 2.: 
+Zur Beantwortung der Frage wird auf folgende tabellarische Übersicht verwiesen. 
+ 
+Verbunddatei Errichtungsdatum 
+Zahl der 
+gespeicherten 
+Daten 
+Zahl der 
+gespeicherten 
+Personendatensätze 
+Zahl der Datensätze 
+zu Institutionen / 
+Gruppen / 
+Personenzusammen
+schlüssen 
+durchschnittliche 
+Speicherdauer der 
+enthaltenen 
+Datensätze 
+Gewaltdelikte / 
+gemeingefährliche 
+Straftaten (vormals Waffen- 
+und 
+Sprengstoffkriminalität) 
+WSK (WSK, WSK_V)  
+Stufe 1, 2 
+02.05.2016 423.506 163.144 18.797 2.138 
+Rauschgiftkriminalität RGK 
+(RGK, RGK_V) Stufe 2 
+01.06.2018 225.227 222.022 4.571 1.388 
+Cybercrime CYB (CYB, 
+CYB_V) Stufe 3 
+17.06.2020 1.218.208 517.043 138.066 1.076 
+Sexualdelikte SXD (SXD, 
+SXD_V) Stufe 3 
+17.06.2020 468.431 252.918 6.018 1.041 
+Eigentumskriminalität/Ver
+mögensdelikte EIV (EIV, 
+EIV_V) Stufe 3 
+17.06.2020 2.347.027 1.652.886 278.125 1.058 
+Dokumentenkriminalität 
+DOK (DOK, DOK_V) Stufe 4 
+17.06.2020 115.793 116.017 9.112 1.059 
+ 
+Seite 2 von 2 
+Schleusung/Menschenhand
+el/Ausbeutung SMA (SMA, 
+SMA_V) Stufe 4 
+17.06.2020 59.165 75.142 3.215 920 
+Arzneimittelkriminalität 
+AMK (AMK, AMK_V) Stufe 5 
+02.03.2026 424 362 24 30 
+Falschgeldkriminalität FGK 
+(FGK, FGK_V) Stufe 5 
+02.03.2026 50.268 5.145 26.779 86 
+Geldwäsche GEW (GEW, 
+GEW_V) Stufe 5 
+02.03.2026 7.029 3.396 1.080 65 
+Korruption KPT (KPT)  
+Stufe 5 
+02.03.2026 39 44 16 44 
+Wirtschaft- und 
+Umweltkriminalität WIK 
+(WIK, WIK_V) Stufe 5 
+02.03.2026 3.023 4.154 1.600 56 
+Politisch motivierte 
+Kriminalität PMK (PMK) 
+Stufe 6 
+02.03.2026 155.311 93.097 17.302 81 
+Organisierte Kriminalität 
+ORK (ORK) Stufe 7 
+02.03.2026 623 2.627 365 73 
+ 
+Hinweise: 
+• Stand der Auswertung - 22.05.2026 15:50 Uhr. 
+• Zahl der gespeicherten Daten entspricht Anzahl der Vorgänge. 
+• Zahl der gespeicherten Personendatensätze entspricht Anzahl der Personalien mit Doppelnennungen (Mischsachverhalte, Redundanzen etc.). 
+• Zahl der Datensätze zu Institutionen/Gruppen/Personenzusammenschlüssen entspricht Anzahl der Organisationen. 
+• Durchschnittliche Speicherdauer der enthaltenen Datensätze kann nicht ermittelt werden, da gelöschte Entitäten nicht protokolliert werden. 
+Angabe auf Basis der aktuellen Speicherdauer (durchschnittliche Tage ab Anlage Vorgang in PIAV bis 22.05.2026). 
+Seite 1 von 21 
+ 
+Anlage 3 zu KA 21/6041 
+ 
+Zu 5. und 6.: 
+Zur Beantwortung der Frage wird auf folgende tabellarische Übersicht verwiesen. 
+ 
+a) 
+1. Bezeichnung: Elektronische Kriminalakte (eKA) der Bundespolizei / Aktennachweis der Bundespolizei (BAN) 
+2. Datum: Seit April 2014 mit bestehender EAO im Wirkbetrieb. 
+3. Rechtsgrundlage im BPolG: Die Rechtsgrundlage im BPOLG bilden die §§ 1 bis 7, 12 und 29 BPolG 
+4. Zweck der Datei/Datenbank: Die eKA dient 
+a) der Bündelung polizeilicher Erkenntnisse zu (in VBS @rtus Bund) gespeicherten Personen 
+b) Ermittlungen zur Aufklärung von polizeilichen Sachverhalten, insbesondere von Straftaten sowie die 
+Feststellungen von Verdächtigen zu unterstützen, 
+c) Information zu Personen-, Tat – und Ereigniszusammenhängen bereitzuhalten, 
+d) Ermittlungsansätze zur Festnahme gesuchter Personen zu liefern, 
+e) Erkenntnisse für die Bewertung und Abwehr von Gefahren bereitzuhalten, 
+f) Hinweise für das taktische Vorgehen und die Eigensicherung bereitzuhalten. 
+ 
+Der BAN dient dem Nachweis von  
+personenbezogenen Akten, deren Dienststellen der  
+Bundespolizei sowie für den  
+grenzpolizeilichen Bereich bei den entsprechenden  
+Stellen der beauftragten Polizeibehörden in den  
+Ländern Bayern und der der Hansestadt Hamburg zur  
+Erfüllung der ihnen obliegenden Aufgaben auf dem  
+Gebiet der Strafverfolgung und der Gefahrenabwehr  
+erforderlich ist. 
+Seite 2 von 21 
+ 
+5. Zahl der Datensätze: 483.387 (Stand: 01. Mai 2026) 
+6. Zahl der Personendatensätze: 483.387 
+7. Zahl der  
+Institutionen/Gruppen/ 
+Personenzusammenschlüsse: 
+-/- 
+8. durchschnittliche 
+Speicherdauer der enthaltenen 
+Datensätze 
+Nach vorheriger Prüfung sind gespeicherte Daten regelmäßig zu löschen, 
+- bei Straftaten: 5 Jahre 
+- nach Erledigung von Fahndungen aufgrund eigener Zuständigkeit: 5 Jahre 
+- Nach Erledigung von Fahndungsersuchen anderer öffentlicher Stellen: 2 Jahre 
+- In allen anderen Fällen, seit dem jeweiligen letzten Ereignis, das für die Speicherung ursächlich war, nach 2 
+Jahren 
+ 
+ 
+b) 
+1. Bezeichnung: Einheitliches Fallbearbeitungssystem eFBS 
+2. Datum: Seit Januar 2008 mit bestehender EAO im Wirkbetrieb. 
+3. Rechtsgrundlage im BPolG: Die Rechtsgrundlage im BPOLG bilden § 29 i.V.m. §12 BPolG 
+4. Zweck der Datei/Datenbank: Die Datei dient im Rahmen der Bundespolizei  
+obliegenden Aufgaben der polizeilichen
+Fallbearbeitung mit komplexen Ermittlungen, der  
+Recherche und der Analyse von Informationen zur  
+Aufklärung und Verhütung von Straftaten und nutzt  
+dabei auch die durch die Bundespolizei bereits in  
+anderen Dateien einmal erfassten
+personenbezogenen Daten über entsprechende Schnittstellen. 
+5. Zahl der Datensätze: 36803025 (Stand 05/2026) 
+6. Zahl der Personendatensätze: 1805952  (rechtmäßige Personalien: 105776) 
+ 
+7. Zahl der  8965 
+Seite 3 von 21 
+ 
+Institutionen/Gruppen/ 
+Personenzusammenschlüsse: 
+8. Durchschnittliche 
+Speicherdauer 
+5 Jahre  
+ 
+c) 
+1. Bezeichnung: @rtus-Bund 
+2. Datum: Seit 2008 mit bestehender EAO im Wirkbetrieb. 
+3. Rechtsgrundlage im BPolG: Zum Zwecke 
+- der Gefahrenabwehr einschließlich der Verhütung von Straftaten: § 1 bis 7, § 12, § 13, § 23 Abs. 1 Nr. 4, § 
+26 Abs. 1 und 3, § 27 S. 1 Nr. 2 und § 29 Abs. 1 bis 3 BPOLG 
+- der Aufgabenwahrnehmung aus übertragenden Gesetzen: §1 Abs. 2 i.V.m. § 29 Abs. 1 BPOLG, 
+insbesondere i.V.m §§ 71 Abs. 3 Nr. 1 und Nr. 7 sowie 67 Abs. 3 Aufenthaltsgesetz (AufenthG). 
+- eines konkreten Strafverfahrens: § 29 Abs. 1 i.V.m. § 12 BPOLG und §§ 483 Abs. 3 i.V.m. 161, 163 stopp 
+- eines künftigen Strafverfahrens: § 29 Absatz 2 i.V.m. § 12 BPOLG und § 484 Abs. 4 stopp 
+- der Verfolgung und Ahndung von Ordnungswidrigkeiten: § 13 i.V.m. § 29 Abs. 1 BPOLG, § 49 c OwiG 
+- der Vorgangsverwaltung oder der befristeten Dokumentation: § 29 Abs. 5 BPOLG 
+- allgemeiner polizeilicher Dienstleistungen und allgemeiner Verwaltungszwecke, insofern nicht 
+spezialgesetzlich geregelt, gem. § 18 Abs. 2 i.V.m. § 12 Bundesdatenschutzgesetz (BDSG) 
+4. Zweck der Datei/Datenbank: Die Datei dient der Vorgangsbearbeitung und der  
+Vorgangsverwaltung oder der befristeten  
+Dokumentation polizeilichen Handelns für die der 
+ Bundespolizei obliegenden Aufgaben nach dem  
+Bundespolizeigesetz, den sich aus diesem Gesetz  
+übertragenen Aufgaben, der Verfolgung von  
+Straftaten und Ordnungswidrigkeiten, die Ahndung  
+von Ordnungswidrigkeiten. 
+Die erfassten Daten können zu statistischen Zwecken  
+ausgewertet werden. 
+Seite 4 von 21 
+ 
+5. Zahl der Datensätze: 3.903.335 Vorgänge (Stand: 1. April 2026) 
+6. Zahl der Personendatensätze: 3.800.542 Personen in @rtus-Bund  
+7. Zahl der  
+Institutionen/Gruppen/ 
+Personenzusammenschlüsse: 
+-/- 
+8. Durchschnittliche 
+Speicherdauer der enthaltenen 
+Datensätze: 
+Das aktuelle Löschkonzept verwirklicht 
+eine Speicherdauer, deren Löschzeitpunkt sich aus einer Kombination aus Personenrolle und Vorgangsart 
+zusammensetzt, 
+und je nach polizeilicher Interaktion in der Sachbearbeitung verlängert oder verkürzt wird; immer unter der 
+Maßgabe der Prüfung  
+und Einhaltung gesetzlicher Aussonderungsprüffristen. Inwieweit eine technische Recherche und 
+Bereitstellung eines  
+Gesamtdatensatzes i.S.d. Anfrage möglich ist, kann von hiesiger Stelle aus nicht beurteilt werden. 
+ 
+ 
+d) 
+1. Bezeichnung: Grenzfahndungsdatei (GFD) 
+2. Datum: Seit August 2008 mit bestehender EAO im Wirkbetrieb. 
+3. Rechtsgrundlage im BPolG: Rechtsgrundlage für die Führung der Datei sind §§ 30, 31 i.V.m. § 2 Abs. 2 Nr. 2b BPolG 
+4. Zweck der Datei/Datenbank: Die Grenzfahndungsdatei dient der  
+Fahndung nach Personen und Sachen, die von der  
+BPOL und/oder von den mit der grenzpolizeilichen  
+Kontrolle beauftragten Behörden/Dienststellen  
+gesucht werden;  
+⇒ Grenzfahndung Bereich 
+Personenfahndung zum Zwecke  
+• der Festnahme,  
+• der Ingewahrsamnahme,  
+• der Kontrolle,  
+Seite 5 von 21 
+ 
+• der Zurückweisung,  
+• der Ausreiseuntersagung und  
+• der grenzpolizeilichen Beobachtung,  
+⇒Grenzfahndung Bereich Sachfahndung zum Zwecke der grenzpolizeilichen Überwachung insbesondere 
+von  
+• Ausweisdokumenten,  
+• Sichtvermerken,  
+• benutzte oder eingesetzte Kraftfahrzeuge die zur Feststellung einer von der Person oder Sache 
+ausgehenden Gefahr dienen. 
+5. Zahl der Datensätze: 
+(Personenfahndungen) 
+3541 (Stand: 1.Mai 2026) (Zahl ist nicht abschließend, hinzu kommt eine unbekannte Anzahl an 
+Sachfahndungen, die statistisch nicht ausgewertet werden können.) 
+6. Zahl der  
+Institutionen/Gruppen/ 
+Personenzusammenschlüsse: 
+werden im GFD nicht geführt 
+7. Durchschnittliche 
+Speicherdauer der enthaltenen 
+Datensätze: 
+Fahndungsausschreibungen von Personen und Sachen in der Grenzfahndungsdatei unterliegen einer 
+Einzelfallprüfung und können im Rahmen der Sachbearbeitung verlängert oder verkürzt werden. Dies 
+erfolgt immer unter der Maßgabe der Prüfung und Einhaltung gesetzlichen Vorgaben und nur solange, wie 
+es für den Fahndungszweck erforderlich ist.  
+Seite 6 von 21 
+ 
+ 
+e) 
+1. Bezeichnung: Polizeilicher Informations- und Analyseverbund  
+(PIAV – Rauschgiftkriminalität) 
+2. Datum: Seit Juni 2018 mit bestehender EAO im Wirkbetrieb 
+3. Rechtsgrundlage im BPolG: Die Befugnis zur Datenverarbeitung ergibt sich aus 
+den §§ 29, 32, 35 Bundespolizeigesetz (BPolG) sowie  
+den §§ 163 ff., 483 Strafprozessordnung (StPO).  
+Die rechtliche Grundlage und die Verpflichtung für die 
+Datenübermittlung an das BKA als Zentralstelle ergibt  
+sich aus §§ 29, 32 Abs. 3 i.V.m. 32 Abs. 1 BKAG,  
+§§ 2, 3 Europolgesetz (EuropolG) i.V.m. § 32 Abs. 1 –  
+3 BPolG. 
+4. Zweck der Datei/Datenbank: Die Datei "PIAV-Rauschgiftkriminalität" als Teil des 
+ PIAV-Operativ Bundespolizei (RGK PIAV-O BPOL) 
+ ermöglicht den Zugriff auf die Verbunddatei "PIAV 
+ Rauschgiftkriminalität" des Bundeskriminalamtes  
+(BKA). Sie bildet das technische Bindeglied zwischen  
+der Datei der Bundespolizei und der Datei des BKA.  
+Alle anlieferungspflichtigen Daten werden aus dem  
+Vorgangsbearbeitungssystem (VBS) und dem  
+Fallbearbeitungssystem (FBS) in die Datei RGK PIAV- 
+O BPOL übertragen und von dort in die Verbunddatei  
+des BKA gespiegelt.   
+Als technisches Bindeglied zur zentralen Datei des  
+BKA PIAV Rauschgiftkriminalität ermöglicht sie die  
+Datenbereitstellung und -verwaltung und  
+gewährleistet damit die Verhütung und Verfolgung von  
+Straftaten mit länderübergreifender, internationaler  
+oder erheblicher Bedeutung.  
+Seite 7 von 21 
+ 
+5. Zahl der Datensätze: 494 (Stand 05/2026) 
+6. Zahl der Personendatensätze: 53 
+7. Zahl der  
+Institutionen/Gruppen/ 
+Personenzusammenschlüsse: 
+0 
+8. Durchschnittliche 
+Speicherdauer 
+3 Jahre, in besonderen Fällen bis zu 5 Jahre 
+ 
+f) 
+1. Bezeichnung: Polizeilicher Informations- und Analyseverbund 
+(PIAV – Gewaltdelikte/gemeingefährliche Straftaten) 
+2. Datum: Seit Juni 2018 mit bestehender EAO im Wirkbetrieb 
+3. Rechtsgrundlage im BPolG: Die Befugnis zur Datenverarbeitung ergibt sich aus 
+den §§ 29, 32, 35 Bundespolizeigesetz (BPolG) sowie  
+den §§ 163 ff., 483 Strafprozessordnung (StPO).  
+Die rechtliche Grundlage und die Verpflichtung für die 
+Datenübermittlung an das BKA als Zentralstelle ergibt  
+sich aus §§ 29, 32 Abs. 3 i.V.m. 32 Abs. 1 BKAG,  
+§§ 2, 3 Europolgesetz (EuropolG) i.V.m. § 32 Abs. 1 –  
+3 BPolG. 
+4. Zweck der Datei/Datenbank: Die Datei "PIAV-Gewaltdelikte und gemeingefährliche Straftaten" als Teil des PIAV-Operativ Bundespolizei 
+(WSK PIAV-O BPOL) ermöglicht den Zugriff auf die Verbunddatei "PIAV Gewaltdelikte und 
+gemeingefährliche Straftaten" des BKA. Sie bildet das technische Bindeglied zwischen der Datei der 
+Bundespolizei und der Datei des BKA. Alle anlieferungspflichtigen Daten werden aus dem VBS und dem FBS 
+in die Datei WSK PIAV-O BPOL übertragen und von dort in die Verbunddatei des BKA gespiegelt. Als 
+technisches Bindeglied zur zentralen Datei des BKA PIAV Gewaltdelikte und gemeingefährliche Straftaten 
+ermöglicht sie die Datenbereitstellung und -verwaltung und gewährleistet damit die Verhütung und 
+Verfolgung von Straftaten mit länderübergreifender, internationaler oder erheblicher Bedeutung. 
+5. Zahl der Datensätze: 26362 (Stand 05/2026) 
+Seite 8 von 21 
+ 
+6. Zahl der Personendatensätze: 2947 
+7. Zahl der  
+Institutionen/Gruppen/ 
+Personenzusammenschlüsse: 
+10 
+8. Durchschnittliche 
+Speicherdauer 
+3 Jahre, in besonderen Fällen bis zu 5 Jahre 
+ 
+g) 
+1. Bezeichnung: Polizeilicher Informations- und Analyseverbund 
+(PIAV –Cybercrime) 
+2. Datum: Seit Juni 2020 mit bestehender EAO im Wirkbetrieb 
+3. Rechtsgrundlage im BPolG: Die Befugnis zur Datenverarbeitung ergibt sich aus 
+den §§ 29, 32, 35 Bundespolizeigesetz (BPolG) sowie  
+den §§ 163 ff., 483 Strafprozessordnung (StPO).  
+Die rechtliche Grundlage und die Verpflichtung für die 
+Datenübermittlung an das BKA als Zentralstelle ergibt  
+sich aus §§ 29, 32 Abs. 3 i.V.m. 32 Abs. 1 BKAG,  
+§§ 2, 3 Europolgesetz (EuropolG) i.V.m. § 32 Abs. 1 –  
+3 BPolG. 
+4. Zweck der Datei/Datenbank: Die Datei "PIAV-Cybercrime“ als Teil des PIAV-Operativ Bundespolizei (CYB PIAV-O BPOL) ermöglicht den 
+Zugriff auf die Verbunddatei "PIAV Cybercrime“ des BKA. Sie bildet das technische Bindeglied zwischen der 
+Datei der Bundespolizei und der Datei des BKA. Alle anlieferungspflichtigen Daten werden aus dem VBS 
+und FBS in die Datei CYB PIAV-O BPOL übertragen und von dort in die Verbunddatei des BKA gespiegelt. 
+Als technisches Bindeglied zur zentralen Datei des BKA PIAV CYB ermöglicht sie die Datenbereitstellung 
+und -verwaltung und gewährleistet damit die Verhütung und Verfolgung von Straftaten mit 
+länderübergreifender, internationaler oder erheblicher Bedeutung. 
+5. Zahl der Datensätze: 4645 (Stand 05/2026) 
+6. Zahl der Personendatensätze: 274 
+7. Zahl der  4 
+Seite 9 von 21 
+ 
+Institutionen/Gruppen/ 
+Personenzusammenschlüsse: 
+8. Durchschnittliche 
+Speicherdauer 
+3 Jahre, in besonderen Fällen bis zu 5 Jahre 
+ 
+h) 
+1. Bezeichnung: Polizeilicher Informations- und Analyseverbund 
+(PIAV – Dokumentenkriminalität) 
+2. Datum: Seit Juni 2020 mit bestehender EAO im Wirkbetrieb 
+3. Rechtsgrundlage im BPolG: Die Befugnis zur Datenverarbeitung ergibt sich aus 
+den §§ 29, 32, 35 Bundespolizeigesetz (BPolG) sowie  
+den §§ 163 ff., 483 Strafprozessordnung (StPO).  
+Die rechtliche Grundlage und die Verpflichtung für die 
+Datenübermittlung an das BKA als Zentralstelle ergibt  
+sich aus §§ 29, 32 Abs. 3 i.V.m. 32 Abs. 1 BKAG,  
+§§ 2, 3 Europolgesetz (EuropolG) i.V.m. § 32 Abs. 1 –  
+3 BPolG. 
+4. Zweck der Datei/Datenbank: Die Datei "PIAV-Dokumentenkriminalität“ als Teil des PIAV-Operativ Bundespolizei (DOK PIAV-O BPOL) 
+ermöglicht den Zugriff auf die Verbunddatei "PIAV Dokumentenkriminalität“ des BKA. Sie bildet das 
+technische Bindeglied zwischen der Datei der Bundespolizei und der Datei des BKA. Alle 
+anlieferungspflichtigen Daten werden aus dem VBS und FBS in die Datei DOK PIAV-O BPOL übertragen 
+und von dort in die Verbunddatei des BKA gespiegelt. Als technisches Bindeglied zur zentralen Datei des 
+BKA PIAV DOK ermöglicht sie die Datenbereitstellung und -verwaltung und gewährleistet damit die 
+Verhütung und Verfolgung von Straftaten mit länderübergreifender, internationaler oder erheblicher 
+Bedeutung. 
+5. Zahl der Datensätze: 144012 (Stand 05/2026) 
+6. Zahl der Personendatensätze: 14362 
+7. Zahl der  
+Institutionen/Gruppen/ 
+106 
+Seite 10 von 21 
+ 
+Personenzusammenschlüsse: 
+8. Durchschnittliche 
+Speicherdauer 
+3 Jahre, in besonderen Fällen bis zu 5 Jahre 
+ 
+i) 
+1. Bezeichnung: Polizeilicher Informations- und Analyseverbund 
+(PIAV – Eigentumskriminalität und Vermögensdelikte) 
+2. Datum: Seit Juni 2020 mit bestehender EAO im Wirkbetrieb 
+3. Rechtsgrundlage im BPolG: Die Befugnis zur Datenverarbeitung ergibt sich aus 
+den §§ 29, 32, 35 Bundespolizeigesetz (BPolG) sowie  
+den §§ 163 ff., 483 Strafprozessordnung (StPO).  
+Die rechtliche Grundlage und die Verpflichtung für die 
+Datenübermittlung an das BKA als Zentralstelle ergibt  
+sich aus §§ 29, 32 Abs. 3 i.V.m. 32 Abs. 1 BKAG,  
+§§ 2, 3 Europolgesetz (EuropolG) i.V.m. § 32 Abs. 1 –  
+3 BPolG. 
+4. Zweck der Datei/Datenbank: Die Datei "PIAV-Eigentumskriminalität und Vermögensdelikte“ als Teil des PIAV-Operativ Bundespolizei 
+(EIV PIAV-O BPOL) ermöglicht den Zugriff auf die Verbunddatei "PIAV Eigentumskriminalität und 
+Vermögensdelikte“ des BKA. Sie bildet das technische Bindeglied zwischen der Datei der Bundespolizei 
+und der Datei des BKA. Alle anlieferungspflichtigen Daten werden aus dem VBS und FBS in die Datei EIV 
+PIAV-O BPOL übertragen und von dort in die Verbunddatei des BKA gespiegelt. Als technisches 
+Bindeglied zur zentralen Datei des BKA PIAV EIV ermöglicht sie die Datenbereitstellung und -verwaltung 
+und gewährleistet damit die Verhütung und Verfolgung von Straftaten mit länderübergreifender, 
+internationaler oder erheblicher Bedeutung. 
+5. Zahl der Datensätze: 65319 (Stand 05/2026) 
+6. Zahl der Personendatensätze: 8395 
+7. Zahl der  
+Institutionen/Gruppen/ 
+Personenzusammenschlüsse: 
+69 
+Seite 11 von 21 
+ 
+8. Durchschnittliche 
+Speicherdauer 
+3 Jahre, in besonderen Fällen bis zu 5 Jahre 
+ 
+j) 
+1. Bezeichnung: Polizeilicher Informations- und Analyseverbund 
+(PIAV – Schleusung, Menschenhandel, Ausbeutung) 
+2. Datum: Seit Juni 2020 mit bestehender EAO im Wirkbetrieb 
+3. Rechtsgrundlage im BPolG: Die Befugnis zur Datenverarbeitung ergibt sich aus 
+den §§ 29, 32, 35 Bundespolizeigesetz (BPolG) sowie  
+den §§ 163 ff., 483 Strafprozessordnung (StPO).  
+Die rechtliche Grundlage und die Verpflichtung für die 
+Datenübermittlung an das BKA als Zentralstelle ergibt  
+sich aus §§ 29, 32 Abs. 3 i.V.m. 32 Abs. 1 BKAG,  
+§§ 2, 3 Europolgesetz (EuropolG) i.V.m. § 32 Abs. 1 –  
+3 BPolG. 
+4. Zweck der Datei/Datenbank: Die Datei "PIAV-Schleusung, Menschenhandel, Ausbeutung“ als Teil des PIAV-Operativ Bundespolizei 
+(SMA PIAV-O BPOL) ermöglicht den Zugriff auf die Verbunddatei "PIAV Schleusung, Menschenhandel, 
+Ausbeutung“ des BKA. Sie bildet das technische Bindeglied zwischen der Datei der Bundespolizei und der 
+Datei des BKA. Alle anlieferungspflichtigen Daten werden aus dem VBS und FBS in die Datei SMA PIAV-O 
+BPOL übertragen und von dort in die Verbunddatei des BKA gespiegelt. Als technisches Bindeglied zur 
+zentralen Datei des BKA PIAV SMA ermöglicht sie die Datenbereitstellung und -verwaltung und 
+gewährleistet damit die Verhütung und Verfolgung von Straftaten mit länderübergreifender, 
+internationaler oder erheblicher Bedeutung. 
+5. Zahl der Datensätze: 246010 (Stand 05/2026) 
+6. Zahl der Personendatensätze: 34456 
+7. Zahl der  
+Institutionen/Gruppen/ 
+Personenzusammenschlüsse: 
+402 
+Seite 12 von 21 
+ 
+8. Durchschnittliche 
+Speicherdauer 
+3 Jahre, in besonderen Fällen bis zu 5 Jahre 
+ 
+k) 
+1. Bezeichnung: Polizeilicher Informations- und Analyseverbund 
+(PIAV – Sexualdelikte) 
+2. Datum: Seit Juni 2020 mit bestehender EAO im Wirkbetrieb 
+3. Rechtsgrundlage im BPolG: Die Befugnis zur Datenverarbeitung ergibt sich aus 
+den §§ 29, 32, 35 Bundespolizeigesetz (BPolG) sowie  
+den §§ 163 ff., 483 Strafprozessordnung (StPO).  
+Die rechtliche Grundlage und die Verpflichtung für die 
+Datenübermittlung an das BKA als Zentralstelle ergibt  
+sich aus §§ 29, 32 Abs. 3 i.V.m. 32 Abs. 1 BKAG,  
+§§ 2, 3 Europolgesetz (EuropolG) i.V.m. § 32 Abs. 1 –  
+3 BPolG. 
+4. Zweck der Datei/Datenbank: Die Datei "PIAV-Sexualdelikte“ als Teil des PIAV-Operativ Bundespolizei (SXD PIAV-O BPOL) ermöglicht 
+den Zugriff auf die Verbunddatei "PIAV Sexualdelikte“ des BKA. Sie bildet das technische Bindeglied 
+zwischen der Datei der Bundespolizei und der Datei des BKA. Alle anlieferungspflichtigen Daten werden 
+aus dem VBS und FBS in die Datei SXD PIAV-O BPOL übertragen und von dort in die Verbunddatei des 
+BKA gespiegelt. Als technisches Bindeglied zur zentralen Datei des BKA PIAV SXD ermöglicht sie die 
+Datenbereitstellung und -verwaltung und gewährleistet damit die Verhütung und Verfolgung von 
+Straftaten mit länderübergreifender, internationaler oder erheblicher Bedeutung. 
+5. Zahl der Datensätze: 1105 (Stand 05/2026) 
+6. Zahl der Personendatensätze: 131 
+7. Zahl der  
+Institutionen/Gruppen/ 
+Personenzusammenschlüsse: 
+1 
+8. Durchschnittliche 
+Speicherdauer 
+3 Jahre, in besonderen Fällen bis zu 5 Jahre 
+Seite 13 von 21 
+ 
+ 
+l) 
+1. Bezeichnung: Polizeilicher Informations- und Analyseverbund 
+(PIAV – Arzneimittelkriminalität) 
+2. Datum: Seit März 2026 mit bestehender EAO im Wirkbetrieb 
+3. Rechtsgrundlage im BPolG: Die Befugnis zur Datenverarbeitung ergibt sich aus 
+den §§ 29, 32, 35 Bundespolizeigesetz (BPolG) sowie  
+den §§ 163 ff., 483 Strafprozessordnung (StPO).  
+Die rechtliche Grundlage und die Verpflichtung für die 
+Datenübermittlung an das BKA als Zentralstelle ergibt  
+sich aus §§ 29, 32 Abs. 3 i.V.m. 32 Abs. 1 BKAG,  
+§§ 2, 3 Europolgesetz (EuropolG) i.V.m. § 32 Abs. 1 –  
+3 BPolG. 
+4. Zweck der Datei/Datenbank: Die Datei "PIAV-Arzneimittelkriminaliät“ als Teil des PIAV-Operativ Bundespolizei (AMK PIAV-O BPOL) 
+ermöglicht den Zugriff auf die Verbunddatei "PIAV Arzneimittelkriminalität“ des BKA. Sie bildet das 
+technische Bindeglied zwischen der Datei der Bundespolizei und der Datei des BKA. Alle 
+anlieferungspflichtigen Daten werden aus dem VBS und FBS in die Datei AMK PIAV-O BPOL übertragen 
+und von dort in die Verbunddatei des BKA gespiegelt. Als technisches Bindeglied zur zentralen Datei des 
+BKA PIAV AMK ermöglicht sie die Datenbereitstellung und -verwaltung und gewährleistet damit die 
+Verhütung und Verfolgung von Straftaten mit länderübergreifender, internationaler oder erheblicher 
+Bedeutung. 
+5. Zahl der Datensätze: 10 (Stand 05/2026) 
+6. Zahl der Personendatensätze: 1 
+7. Zahl der  
+Institutionen/Gruppen/ 
+Personenzusammenschlüsse: 
+0 
+8. Durchschnittliche 
+Speicherdauer 
+3 Jahre, in besonderen Fällen bis zu 5 Jahre 
+ 
+Seite 14 von 21 
+ 
+m) 
+1. Bezeichnung: Polizeilicher Informations- und Analyseverbund 
+(PIAV – Falschgeldkriminalität) 
+2. Datum: Seit März 2026 mit bestehender EAO im Wirkbetrieb 
+3. Rechtsgrundlage im BPolG: Die Befugnis zur Datenverarbeitung ergibt sich aus  
+den §§ 29, 32, 35 Bundespolizeigesetz (BPolG), § 4  
+Bundesdatenschutzgesetz (BDSG), §§ 163ff, 483ff  
+Strafprozessordnung (StPO). 
+Die rechtliche Grundlage und die Verpflichtung für die  
+Datenübermittlung an das BKA als Zentralstelle ergibt  
+sich aus §§ 11, 13 BKAG, §§ 2, 3 Europolgesetz  
+(EuropolG) i.V.m. § 32 Abs. 1 - 3 BPolG.  
+4. Zweck der Datei/Datenbank: Die Datei "PIAV- Falschgeldkriminalität“ als Teil des PIAV-Operativ Bundespolizei (FGK PIAV-O BPOL) 
+ermöglicht den Zugriff auf die Verbunddatei "PIAV Falschgeldkriminalität“ des BKA. Sie bildet das 
+technische Bindeglied zwischen der Datei der Bundespolizei und der Datei des BKA. Alle 
+anlieferungspflichtigen Daten werden aus dem VBS und FBS in die Datei FGK PIAV-O BPOL übertragen 
+und von dort in die Verbunddatei des BKA gespiegelt. Als technisches Bindeglied zur zentralen Datei des 
+BKA PIAV FGK ermöglicht sie die Datenbereitstellung und -verwaltung und gewährleistet damit die 
+Verhütung und Verfolgung von Straftaten mit länderübergreifender, internationaler oder erheblicher 
+Bedeutung. 
+5. Zahl der Datensätze: 20 (Stand 05/2026) 
+6. Zahl der Personendatensätze: 2 
+7. Zahl der  
+Institutionen/Gruppen/ 
+Personenzusammenschlüsse: 
+0 
+8. Durchschnittliche 
+Speicherdauer 
+3 Jahre, in besonderen Fällen bis zu 5 Jahre 
+ 
+Seite 15 von 21 
+ 
+n) 
+1. Bezeichnung: Polizeilicher Informations- und Analyseverbund 
+(PIAV – Geldwäsche) 
+2. Datum: Seit März 2026 mit bestehender EAO im Wirkbetrieb 
+3. Rechtsgrundlage im BPolG: Die Befugnis zur Datenverarbeitung ergibt sich aus  
+den §§ 29, 32, 35 Bundespolizeigesetz (BPolG), § 4  
+Bundesdatenschutzgesetz (BDSG), §§ 163ff, 483ff  
+Strafprozessordnung (StPO). 
+Die rechtliche Grundlage und die Verpflichtung für die  
+Datenübermittlung an das BKA als Zentralstelle ergibt  
+sich aus §§ 11, 13 BKAG, §§ 2, 3 Europolgesetz  
+(EuropolG) i.V.m. § 32 Abs. 1 - 3 BPolG.  
+4. Zweck der Datei/Datenbank: Die Datei "PIAV-Geldwäsche“ als Teil des PIAV-Operativ Bundespolizei (GEW PIAV-O BPOL) ermöglicht 
+den Zugriff auf die Verbunddatei "PIAV Geldwäsche“ des BKA. Sie bildet das technische Bindeglied 
+zwischen der Datei der Bundespolizei und der Datei des BKA. Alle anlieferungspflichtigen Daten werden 
+aus dem VBS und FBS in die Datei GEW PIAV-O BPOL übertragen und von dort in die Verbunddatei des 
+BKA gespiegelt. Als technisches Bindeglied zur zentralen Datei des BKA PIAV GEW ermöglicht sie die 
+Datenbereitstellung und -verwaltung und gewährleistet damit die Verhütung und Verfolgung von 
+Straftaten mit länderübergreifender, internationaler oder erheblicher Bedeutung. 
+5. Zahl der Datensätze: 96 (Stand 05/20226) 
+6. Zahl der Personendatensätze: 13 
+7. Zahl der  
+Institutionen/Gruppen/ 
+Personenzusammenschlüsse: 
+0 
+8. Durchschnittliche 
+Speicherdauer 
+3 Jahre, in besonderen Fällen bis zu 5 Jahre 
+ 
+Seite 16 von 21 
+ 
+o) 
+1. Bezeichnung: Polizeilicher Informations- und Analyseverbund 
+(PIAV – Wirtschafts- und Umweltkriminalität) 
+2. Datum: Seit März 2026 mit bestehender EAO im Wirkbetrieb 
+3. Rechtsgrundlage im BPolG: Die Befugnis zur Datenverarbeitung ergibt sich aus  
+den §§ 29, 32, 35 Bundespolizeigesetz (BPolG), § 4  
+Bundesdatenschutzgesetz (BDSG), §§ 163ff, 483ff  
+Strafprozessordnung (StPO). 
+Die rechtliche Grundlage und die Verpflichtung für die  
+Datenübermittlung an das BKA als Zentralstelle ergibt  
+sich aus §§ 11, 13 BKAG, §§ 2, 3 Europolgesetz  
+(EuropolG) i.V.m. § 32 Abs. 1 - 3 BPolG.  
+4. Zweck der Datei/Datenbank: Die Datei "PIAV-Wirtschafts- und Umweltkriminalität“ als Teil des PIAV-Operativ Bundespolizei (WIK 
+PIAV-O BPOL) ermöglicht den Zugriff auf die Verbunddatei "PIAV Wirtschafts- und Umweltkriminalität“ 
+des BKA. Sie bildet das technische Bindeglied zwischen der Datei der Bundespolizei und der Datei des BKA. 
+Alle anlieferungspflichtigen Daten werden aus dem VBS und FBS in die Datei WIK PIAV-O BPOL 
+übertragen und von dort in die Verbunddatei des BKA gespiegelt. Als technisches Bindeglied zur zentralen 
+Datei des BKA PIAV WIK ermöglicht sie die Datenbereitstellung und -verwaltung und gewährleistet damit 
+die Verhütung und Verfolgung von Straftaten mit länderübergreifender, internationaler oder erheblicher 
+Bedeutung. 
+5. Zahl der Datensätze: 9 (Stand 05/2026) 
+6. Zahl der Personendatensätze: 1 
+7. Zahl der  
+Institutionen/Gruppen/ 
+Personenzusammenschlüsse: 
+0 
+8. Durchschnittliche 
+Speicherdauer 
+3 Jahre, in besonderen Fällen bis zu 5 Jahre 
+ 
+Seite 17 von 21 
+ 
+p) 
+1. Bezeichnung: Polizeilicher Informations- und Analyseverbund 
+(PIAV – Korruption) 
+2. Datum: Seit März 2026 mit bestehender EAO im Wirkbetrieb 
+3. Rechtsgrundlage im BPolG: Die Befugnis zur Datenverarbeitung ergibt sich aus  
+den §§ 29, 32, 35 Bundespolizeigesetz (BPolG), § 4  
+Bundesdatenschutzgesetz (BDSG), §§ 163ff, 483ff  
+Strafprozessordnung (StPO). 
+Die rechtliche Grundlage und die Verpflichtung für die  
+Datenübermittlung an das BKA als Zentralstelle ergibt  
+sich aus §§ 11, 13 BKAG, §§ 2, 3 Europolgesetz  
+(EuropolG) i.V.m. § 32 Abs. 1 - 3 BPolG.  
+4. Zweck der Datei/Datenbank: Die Datei "PIAV-Korruption“ als Teil des PIAV-Operativ Bundespolizei (KPT PIAV-O BPOL) ermöglicht 
+den Zugriff auf die Verbunddatei "PIAV Korruption“ des BKA. Sie bildet das technische Bindeglied 
+zwischen der Datei der Bundespolizei und der Datei des BKA. Alle anlieferungspflichtigen Daten werden 
+aus dem VBS und FBS in die Datei KPT PIAV-O BPOL übertragen und von dort in die Verbunddatei des 
+BKA gespiegelt. Als technisches Bindeglied zur zentralen Datei des BKA PIAV KPT ermöglicht sie die 
+Datenbereitstellung und -verwaltung und gewährleistet damit die Verhütung und Verfolgung von 
+Straftaten mit länderübergreifender, internationaler oder erheblicher Bedeutung. 
+5. Zahl der Datensätze: 0 (Stand 05/2026) 
+6. Zahl der Personendatensätze: 0 
+7. Zahl der  
+Institutionen/Gruppen/ 
+Personenzusammenschlüsse: 
+0 
+8. Durchschnittliche 
+Speicherdauer 
+3 Jahre, in besonderen Fällen bis zu 5 Jahre 
+Seite 18 von 21 
+ 
+ 
+q) 
+1. Bezeichnung: Polizeilicher Informations- und Analyseverbund 
+(PIAV – Politisch motivierte Kriminalität) 
+2. Datum: Seit März 2026 mit bestehender EAO im Wirkbetrieb 
+3. Rechtsgrundlage im BPolG: Die Befugnis zur Datenverarbeitung ergibt sich aus  
+den §§ 29, 32, 35 Bundespolizeigesetz (BPolG), § 4  
+Bundesdatenschutzgesetz (BDSG), §§ 163ff, 483ff  
+Strafprozessordnung (StPO). 
+Die rechtliche Grundlage und die Verpflichtung für die  
+Datenübermittlung an das BKA als Zentralstelle ergibt  
+sich aus §§ 11, 13 BKAG, §§ 2, 3 Europolgesetz  
+(EuropolG) i.V.m. § 32 Abs. 1 - 3 BPolG.  
+4. Zweck der Datei/Datenbank: Die Datei "PIAV-Politisch motivierte Kriminalität“ als Teil des PIAV-Operativ Bundespolizei (PMK PIAV-O 
+BPOL) ermöglicht den Zugriff auf die Verbunddatei "PIAV Politisch motivierte Kriminalität“ des BKA. Sie 
+bildet das technische Bindeglied zwischen der Datei der Bundespolizei und der Datei des BKA. Alle 
+anlieferungspflichtigen Daten werden aus dem VBS und FBS in die Datei PMK PIAV-O BPOL übertragen 
+und von dort in die Verbunddatei des BKA gespiegelt. Als technisches Bindeglied zur zentralen Datei des 
+BKA PIAV PMK ermöglicht sie die Datenbereitstellung und -verwaltung und gewährleistet damit die 
+Verhütung und Verfolgung von Straftaten mit länderübergreifender, internationaler oder erheblicher 
+Bedeutung. 
+5. Zahl der Datensätze: 16 (Stand 05/2026) 
+6. Zahl der Personendatensätze: 2 
+7. Zahl der  
+Institutionen/Gruppen/ 
+Personenzusammenschlüsse: 
+0 
+8. Durchschnittliche 
+Speicherdauer 
+3 Jahre, in besonderen Fällen bis zu 5 Jahre 
+ 
+Seite 19 von 21 
+ 
+r) 
+1. Bezeichnung: Polizeilicher Informations- und Analyseverbund 
+(PIAV – Organisierte Kriminalität) 
+2. Datum: Seit März 2026 mit bestehender EAO im Wirkbetrieb 
+3. Rechtsgrundlage im BPolG: Die Befugnis zur Datenverarbeitung ergibt sich aus  
+den §§ 29, 32, 35 Bundespolizeigesetz (BPolG), § 4  
+Bundesdatenschutzgesetz (BDSG), §§ 163ff, 483ff  
+Strafprozessordnung (StPO). 
+Die rechtliche Grundlage und die Verpflichtung für die  
+Datenübermittlung an das BKA als Zentralstelle ergibt  
+sich aus §§ 11, 13 BKAG, §§ 2, 3 Europolgesetz  
+(EuropolG) i.V.m. § 32 Abs. 1 - 3 BPolG.  
+4. Zweck der Datei/Datenbank: Die Datei "PIAV-Organisierte Kriminalität“ als Teil des PIAV-Operativ Bundespolizei (ORK PIAV-O BPOL) 
+ermöglicht den Zugriff auf die Verbunddatei "PIAV Organisierte Kriminalität“ des BKA. Sie bildet das 
+technische Bindeglied zwischen der Datei der Bundespolizei und der Datei des BKA. Alle 
+anlieferungspflichtigen Daten werden aus dem VBS und FBS in die Datei ORK PIAV-O BPOL übertragen 
+und von dort in die Verbunddatei des BKA gespiegelt. Als technisches Bindeglied zur zentralen Datei des 
+BKA PIAV ORK ermöglicht sie die Datenbereitstellung und -verwaltung und gewährleistet damit die 
+Verhütung und Verfolgung von Straftaten mit länderübergreifender, internationaler oder erheblicher 
+Bedeutung. 
+5. Zahl der Datensätze: 0 (Stand 05/2026) 
+6. Zahl der Personendatensätze: 0 
+7. Zahl der  
+Institutionen/Gruppen/ 
+Personenzusammenschlüsse: 
+0 
+8. Durchschnittliche 
+Speicherdauer 
+3 Jahre, in besonderen Fällen bis zu 5 Jahre 
+ 
+Seite 20 von 21 
+ 
+s) 
+1. Bezeichnung: Passagier Daten Datei (PDD) -Übermittlung von Fluggastdaten 
+2. Datum: Seit 01.04.2008 mit bestehender EAO im Wirkbetrieb 
+3. Rechtsgrundlage im BPolG: Mit dem Dritten Gesetz zur Änderung des Bundespolizeigesetzes (BPOLG) am 1. April 2008 wurde die 
+Richtlinie des Rates 2004/82/EG vom 29. April 2004 über die Verpflichtung von 
+Beförderungsunternehmen, Angaben über die beförderten Personen zu übermitteln, für den Luftverkehr in 
+Deutschland in nationales Recht umgesetzt. Die rechtliche Befugnis des § 31a BPOLG erlaubt dem 
+Bundespolizeipräsidium Luftfahrtunternehmen (LFU), die Passagiere über die Schengenaußengrenzen in 
+das Bundesgebiet befördern, aufzufordern Fluggastdaten zu erheben und an die Bundespolizei zu 
+übermitteln. Die Norm zielt darauf ab, unerlaubte Einreisen wirkungsvoll zu verhindern und Gefahren für 
+die Bundesrepublik Deutschland abzuwehren. Die Befugnis wird in Deutschland nicht als 
+Generalanordnung an alle Luftfahrtunternehmen umgesetzt. Das Bundespolizeipräsidium bestimmt 
+Risikoflugstrecken auf Grundlage einer Lage- und Gefährdungsbewertung 
+4. Zweck der Datei/Datenbank: Die gemäß § 31a Absatz 3 Bundespolizeigesetz zu übermittelnden Daten sind ausreichend und stellen 
+durch eine zeitlich vorgelagerte fahndungsmäßige Überprüfung einen Mehrwert für die grenzpolizeiliche 
+Einreisekontrolle dar. Diese polizeiliche IT-Anwendung ermöglicht den automatisierten Abgleich von 
+Personen-und Sachdaten mit dem polizeilichen Verbund-Informationssystem (INPOL) und die gezielte 
+Übermittlung der Überprüfungsergebnisse an die zuständigen Dienststellen der Bundespolizei und anderer 
+mit der grenzüberschreitenden Aufgabenwahrnehmung beauftragten Behörden. Ziel ist die Übermittlung 
+von Fluggastdaten vor dem Abflug. Ziel ist die Erhöhung der Qualität der grenzpolizeilichen Kontrolle, da 
+bereits bei Ankunft die Ergebnisse der Fahndungsabfragen vorliegen und die Zeit während der Einreise 
+weiteren grenzpolizeilichen Analysen zur Verfügung steht. Die Vorschrift ist ein wichtiges Instrument für 
+die grenzpolizeiliche Kontrolle und verbessert die Bekämpfung der illegalen Migration, des internationalen 
+Terrorismus und sonstiger schwerer Straftaten. 
+5. Zahl der Datensätze: 26.715.881 
+6. Zahl der Personendatensätze: -/- 
+7. Zahl der  
+Institutionen/Gruppen/ 
+Personenzusammenschlüsse: 
+-/- 
+Seite 21 von 21 
+ 
+8. Durchschnittliche 
+Speicherdauer der enthaltenen 
+Datensätze 
+24h nach Einreise 
+ 
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

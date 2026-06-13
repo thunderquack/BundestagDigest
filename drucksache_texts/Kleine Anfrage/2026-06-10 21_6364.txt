@@ -1,0 +1,252 @@
+Deutscher Bundestag Drucksache 21/6364
+21. Wahlperiode 10.06.2026
+Kleine Anfrage
+der Abgeordneten Jan Köstering, Donata Vogtschmidt, Violetta Bock, Clara 
+Bünger, Anne-Mieke Bremer, Katrin Fey, Dr. Gregor Gysi, Luke Hoß, Ferat Koçak, 
+Sonja Lemke, Bodo Ramelow, David Schliesing, Aaron Valent, Christin Willnat 
+und der Fraktion Die Linke
+Umsetzungsstand des Programms P20 im Juni 2026
+Anknüpfend an frühere Kleine Anfragen (zuletzt Bundestagsdrucksache 
+20/13130 will die fragenstellende Fraktion mit dieser Kleinen Anfrage den 
+aktuellen Sachstand des Programm P20 zur Modernisierung und
+Vereinheitlichung der Datenhaltung und -verarbeitung bei der deutschen Polizei erfragen. 
+Das Vorhaben erhält zusätzliche Brisanz aufgrund der von der Bundesregierung 
+beschlossenen Gesetzentwürfe zur Einführung digitaler Ermittlungsbefugnisse 
+im Rahmen der Gefahrenabwehr durch Bundeskriminalamt (BKA) und
+Bundespolizei (BPol) und der Strafprozessordnung. Nach dem Verständnis der
+Fragesteller können alle in den polizeilichen Datenverarbeitungssystemen
+gespeicherten Daten durch die geplante automatisierte Datenverarbeitung genutzt 
+werden. Für das Testen und Trainieren von IT-Anwendungen bestehen hier 
+nicht einmal die ansonsten geltenden Beschränkungen durch die
+verfassungsgerichtlichen Anforderungen an eine zweckändernde Nutzung von durch
+eingriffsintensive Maßnahmen erhobenen personenbezogenen Daten. Ausgeschlossen 
+wird im Gesetzentwurf zwar die Verwendung von Informationen, die aus einer 
+Wohnraumüberwachung oder dem Ausforschen von Smartphones und
+Computern stammen. Stammen die Informationen hingegen aus einer
+Telekommunikationsüberwachung oder von verdeckten Ermittlern bzw. Vertrauenspersonen der 
+Polizei („V-Leute“), können sie verwendet werden (§ 22 Absatz 3
+Bundeskriminalamtgesetzes (BKAG) nach dem Entwurf eines Gesetzes zur Stärkung
+digitaler Ermittlungsbefugnisse in der Polizeiarbeit, www.bundesregierung.de/br
+eg-de/bundesregierung/bundeskanzleramt/kabinett-digitale-ermittlungsbefugnis
+se-2304936).
+Wir fragen die Bundesregierung:
+ 1. Wie ist der aktuelle Sachstand beim Aufbau des Polizeilichen 
+Informations- und Analyseverbundes (PIAV), insbesondere hinsichtlich
+a) der Umsetzung der Stufen 5 bis 7, wurde die Wirkbetriebsaufnahme 
+Anfang März 2026 erreicht (vgl. Bundestagsdrucksache 20/13130, 
+S. 6), und wenn nein, warum nicht?
+b) Über welche Schnittstellen zu welchen Anwendungen und
+Datenbanken verfügen PIAV-Operativ und PIAV-Strategisch derzeit, und welche 
+weiteren Schnittstellen sind derzeit vorgesehen oder bereits in Planung 
+bzw. Implementierung (bitte für beide Systeme getrennt angeben)?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+ 2. Wie ist der Stand des Aufbaus des Informationssystems des BKA nach 
+§ 13 BKAG?
+a) Wie ist die Zielarchitektur des Informationssystems des BKA?
+b) Welche Bestandssysteme und welche neuen Systeme sollen im
+Informationssystem zusammengeschlossen werden?
+c) Für welche Bestandssysteme und ggf. neue Systeme wurde im Verlauf 
+des iterativen und dynamischen Aufbauprozesses entschieden, sie 
+nicht in das Informationssystem zu integrieren?
+d) Gibt es nach derzeitigem Stand einen projektierten Zeitpunkt zum
+Abschluss des Informationssystems, und welche Meilensteine sind bis 
+dahin noch zu erreichen?
+e) Was sind die von der Bundesregierung benannten „Abhängigkeiten“, 
+die in ihrer „Vielzahl“ im Veränderungsprozess berücksichtigt werden 
+müssen (vgl. Bundestagsdrucksache 20/13130, S. 6)?
+ 3. In welcher Art von technischem und organisatorischem Prozess soll
+a) im Informationssystem des BKA (§ 13 BKAG) und
+b) im Polizeilichen Informationsverbund (§ 29 BKAG)
+zukünftig im Rahmen des Konzepts der „hypothetischen
+Datenneuerhebung“ kenntlich gemacht werden, welche Daten in welcher
+Eingriffsintensität erhoben wurden?
+ 4. Welche technischen und organisatorischen Maßnahmen i. S. v. § 48
+Bundesdatenschutzgesetz (BDSG) vorgesehen, um
+a) im Informationssystem des BKA und
+b) im polizeilichen Informationsverbund
+bei der Verarbeitung besonderer Kategorien personenbezogener Daten 
+einen geeigneten Schutz der Rechtsgüter der betroffenen Personen zu
+gewährleisten?
+ 5. Wie ist die Zahl und der Stand der Umsetzung der P20-Projekte und in 
+welchen Releasetrains und Shared Services sind sie derzeit gebündelt?
+ 6. Bei welchen der P20-Projekte kommt Künstliche Intelligenz i. S. d.
+Verordnung (EU) 2024/1689 des Europäischen Parlaments und des Rates zur 
+Festlegung harmonisierter Vorschriften für künstliche Intelligenz (KI-VO) 
+zum Einsatz und welche davon werden als Hochrisiko-Systeme i. S. v. 
+Annex III der KI-VO gewertet (bitte bei der Auflistung auch aufführen, 
+für welches der Systeme eine Folgenabschätzung vorliegt)?
+ 7. Welche der Services und Anwendungen, die im Rahmen von P20
+entwickelt werden, sollen Polizeibeamtinnen und -beamten auf mobilen
+Endgeräten zur Verfügung gestellt werden, und wird dabei auf Cloud-basierte 
+Lösungen zurückgegriffen (wenn ja, welche Mindestanforderungen
+bestehen dabei jeweils hinsichtlich des Standortes des Rechenzentrums, der 
+Personen mit Zugang zu Software und Daten, nichteuropäischen Anteilen 
+im Vorstand involvierter Software-Anbieter oder -Dienstleister, Open-
+Source beim verwendeten Cloud-Stack und Anwendungs-Software sowie 
+Einhaltung der Kriterienkataloge C5 und C3A des BSI)?
+ 8. Welche Projekte innerhalb der Releasetrains und Shared Services konnten 
+bislang erfolgreich abgeschlossen werden und welche der entstandenen 
+Produkte sind aktuell im Wirkbetrieb?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+ 9. Wie der derzeitige Umsetzungs- und Planungsstand beim „Einzug“ der 
+Landespolizeibehörden in das gemeinsame „Datenhaus“ der deutschen 
+Polizei?
+10. Welche Vorgangsbearbeitungssysteme werden derzeit vor der Einführung 
+des einheitlichen Vorgangsbearbeitungssystems (eVBS) von den Bundes- 
+und Landespolizeibehörden genutzt und
+a) wodurch unterscheiden sich die derzeit genutzten
+Vorgangsbearbeitungssysteme,
+b) wie ist der derzeitige Stand und die Planung bei der flächendeckenden 
+Umstellung auf das eVBS?
+11. Sind neben den Vorgangsbearbeitungssystemen des BKA und der
+Landespolizeien auch Verbunddateien und weitere Dateien und Datenbanken 
+(Falldateien etc.) in das SB-Datenhaus integriert, und wenn ja, welche der 
+Verbunddateien?
+12. Wie wurden die Verbunddateien „technisch modernisiert“
+(Bundestagsdrucksache 20/13130, S. 9), und wann werden die Verbunddateien
+vollständig durch ein neues System der Verbunddatenhaltung abgelöst sein?
+13. Welche Fachanwendungen der Teilnehmer an P20 sind derzeit an das
+föderale Identity- and AccessM-Managementsystem (f-IAM) angeschlossen, 
+bei welchen Fachanwendungen steht die Integration noch aus?
+14. Wie weit ist die Umsetzung einer Eigenentwicklung für die
+verfahrensübergreifende Recherche und Analyse, die als Alternative zu
+kommerziellen Produkten dienen soll, im BKA oder BMI mittlerweile gediehen, 
+und
+a) wurden Festlegungen getroffen oder sind in der Entwicklung, auf 
+welche Quellsysteme eine solche Anwendung zugreifen können sollte,
+b) inwiefern und inwieweit soll bei der Analyse und Aufbereitung von 
+Informationen in einem solchen System auf KI-Komponenten
+zurückgegriffen werden,
+c) wurde mittlerweile definiert, welches der Kreis der zu verarbeitenden 
+personenbezogenen Daten sein soll
+d) inwieweit ist die Bundesbeauftragte für den Datenschutz und die
+Informationsfreiheit in die Entwicklung einbezogen und inwieweit
+wurden ihre Empfehlungen dabei berücksichtigt?
+15. Welche Anbieter wurden durch Marktsichtungen, Ausschreibungen,
+Interessensbekundungen, Initiativangebote und Präsentationen („Pitches“) 
+identifiziert, die Systeme zur automatisierten Auswertung anbieten und 
+diese an die rechtlichen und praktischen Vorgaben aus dem BMI oder
+seinen Geschäftsbereichsbehörden anpassen könnten?
+16. Sollen Lagefalldateien weiterhin in INPOL-Fall außerhalb von PIAV-
+Operativ und dem DHÖS weitergeführt werden, und wie ist die weitere 
+Planung innerhalb des Programms P20 für die Lagefalldateien?
+17. Wurde mittlerweile entschieden, wie mit den Tatmittelmeldediensten
+weiter verfahren werden soll (vgl. Bundestagsdrucksache 20/13130, S. 11)?
+18. Sind die Datenmigrationskonzepte für die bisherigen Verbunddateien des 
+BKA in das neue Verbundsystem nach § 29 BKAG mittlerweile weiter 
+spezifiziert worden, und wie ist die Meilensteinplanung für die Migration 
+dieser Daten?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+Welches sind die Eckpunkte der Transformationsplanung mit den
+jeweiligen Verbundteilnehmern?
+19. Wie sieht derzeit die Bilanz der verausgabten Haushaltsmittel für die
+Umsetzung des Programms P20 sowohl innerhalb der Haushaltsmittel für das 
+BKA als auch bei den vom BMI für den Polizei-IT-Fonds aus (Soll-Ist-
+Vergleich nach Haushaltsjahren)?
+20. Von welchen Ansätzen geht die Bundesregierung bei der Planung für die 
+weitere Umsetzung des Programms P20 in den genannten Haushaltstiteln 
+bzw. Titelgruppen aus?
+21. In welcher Weise plant die Bundesregierung bei Umsetzung der
+Gesetzentwürfe für die Einführung digitaler Ermittlungsbefugnisse in der
+Gefahrenabwehr und Strafverfolgung (Beschlüsse des Bundeskabinetts v. 
+29. April 2026) den automatisierten Abgleich biometrischer Daten
+hinsichtlich
+a) der Nutzung und Weiterentwicklung des Gesichtserkennungssystems 
+(GES) des BKA,
+b) der Anschaffung weiterer Systeme zum Abgleich biometrischer Daten 
+aus den öffentlich zugänglichen Teilen des Internets (gegebenenfalls 
+bitte auch ausführen, welche der derzeit bekannten Drittanbieter
+solcher Systeme in Betracht gezogen beziehungsweise nicht in Betracht 
+gezogen werden sollen),
+c) des Aufbaus eigener Referenzdatenbanken mit aus den öffentlich
+zugänglichen Teilen des Internets erhobenen biometrischen
+Gesichtsbildern und anderen biometrischen Daten,
+d) des Aufbaus von Datenbanken zur Speicherung von Bildern aus 
+Videoüberwachung oder Bildaufnahmen aus körpernah getragenen 
+Aufzeichnungsgeräten (zum Beispiel „Bodycams“ oder Erfassungs-
+Apps wie MobileFortify), und welche Datenbanken stehen hierfür
+derzeit bei BKA, Bundespolizei und Zoll zur Verfügung?
+22. Inwieweit sollen die in Frage 18 genannten Systeme und Datenbanken 
+auch für die sogenannte Fernidentifizierung genutzt werden?
+23. Wurden nach Kenntnis der Bundesregierung innerhalb des Programms 
+P20 Anwendungen entwickelt oder geplant oder bereits in den Testlauf 
+gebracht, die einen biometrischen Gesichtsabgleich unmittelbar vor Ort, 
+etwa im Rahmen einer Personenkontrolle, mit einem digitalen Endgerät 
+durch Polizeivollzugsbeamtinnen und -beamte ermöglichen?
+24. Sind der Bundesregierung Systeme bekannt, die biometrische
+Referenzdatenbanken aufbauen oder bereits aufgebaut haben, die nicht unter die 
+Regelungen der KI-Verordnung und damit nicht unter das Verbot des KI-
+gestützten Aufbaus einer solchen biometrischen Datenbank gemäß
+Artikel 5 1e) KI-Verordnung fallen, und welche sind das?
+25. Teilt die Bundesregierung die Befürchtung der Fragensteller, dass durch 
+die Möglichkeit eines biometrischen Abgleichs durch eine
+nichtöffentliche Stelle außerhalb der EU (§ 9a Absatz 5 BKAG-E in der
+Kabinettfassung) als Auftragsdatenverarbeiterin des BKA Unternehmen solche 
+Abgleiche vornehmen, die weder der Datenschutz-Grundverordnung noch 
+der KI-Verordnung der EU unterfallen und damit rechtswidrig
+personenbezogene Daten verarbeiten, und wie soll eine rechtswidrige
+Datenverarbeitung wirksam ausgeschlossen werden?
+26. Teilt die Bundesregierung die Ansicht der Fragensteller, dass durch die 
+Gestaltung der Befugnisnorm § 9a Absatz 1 S. 1 BKAG-E („mit Daten,
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+auf die es zur Erfüllung seiner Aufgaben zurückgreifen darf“) auch solche 
+biometrischen Daten in einen automatisieren Abgleich einbezogen werden 
+können, die nicht im öffentlich zugänglichen Internet, sondern im
+eingeschränkt zugänglichen Internet (Deep Web) abrufbar sind und die das 
+BKA zu beliebigen anderen Zwecken gespeichert hat (wenn nein, bitte
+begründen)?
+27. Plant die Bundesregierung derzeit die Schaffung von Rechtsgrundlagen 
+für die biometrische Fernidentifizierung, und wenn ja,
+a) auf welche Datenquellen sollen entsprechende Systeme zugreifen
+dürfen und
+b) zu welchen Zwecken soll eine solche biometrische Fernidentifizierung 
+vorgenommen werden?
+28. Soll den Zielen der Bundesregierung nach eine biometrische
+Fernidentifizierung auch in Fällen, die über Fragen der nationalen Sicherheit und des 
+Militärs hinausgehen, zur Anwendung kommen können?
+29. Inwiefern plant die Bundesregierung, durch die in Frage 24 genannten 
+Rechtsgrundlagen oder auch bestehende Gesetze künftig
+Sportveranstaltungen und deren Gäste biometrisch zu überwachen, im Sinne eines
+fortlaufenden Abgleichs von Bildern aus der Videoüberwachung mit
+polizeilichen Datenbeständen?
+a) Schließt die Bundesregierung aus, dass es dabei zu einer
+(gegebenenfalls auch retrograden) biometrischen Analyse großer Teile der Gäste 
+von Sportveranstaltungen im Zuge von Sicherungs- und
+Ermittlungsmaßnahmen kommen könnte?
+b) Schließt die Bundesregierung aus, dass dabei diskriminierende
+Algorithmen zum Einsatz kommen (wenn ja, wie)?
+c) Schließt die Bundesregierung aus, dass dabei auch eine
+Datenübermittlung an Dritte im nichteuropäischen Ausland oder an
+Serverstandorte im Ausland erfolgt (wenn nein, warum nicht)?
+30. Wird sich die Bundesregierung ausgehend von Antwort auf Frage 2 auf 
+Drucksache 21/5451 auf der kommenden Konferenz der Innenminister 
+und -senatoren (IMK) dafür einsetzen, dass alle Bestrebungen befürwortet 
+werden, die Fußballveranstaltungen sicherer gestalten, und inwiefern ist 
+eine vorherige Prüfung der Verhältnismäßigkeit, Angemessenheit,
+Geeignetheit und Erforderlichkeit dieser Bestrebungen und der damit
+verbundenen technischen Instrumente im Vorfeld der IMK geplant (wenn geplant, 
+bitte den Prozess genauer ausführen)?
+31. Könnte sich nach Ansicht der Bundesregierung der Erkenntnisgewinn aus 
+behördlichen Datensätzen durch Automatisierung und
+Datenzusammenführung mittels im Rahmen von P 20 geplanten Veränderungen des
+Datenzugriffs, der Digitalisierung und Standardisierung erheblich verbessern, 
+und wenn ja, aus welchen Gründen strebt die Bundesregierung dennoch 
+ergänzend Befugnisse zur biometrischen Überwachung des öffentlichen 
+Raums an?
+Berlin, den 1. Juni 2026
+Heidi Reichinnek, Sören Pellmann und Fraktion
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
