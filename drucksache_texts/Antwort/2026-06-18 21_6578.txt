@@ -1,0 +1,556 @@
+Deutscher Bundestag Drucksache 21/6578
+21. Wahlperiode 18.06.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Jan Köstering, Clara Bünger, Anne-
+Mieke Bremer, weiterer Abgeordneter und der Fraktion Die Linke
+– Drucksache 21/5975 –
+Einsätze von sogenannten stillen SMS, WLAN-Catchern, IMSI-Catchern, 
+Funkzellenabfragen im zweiten Halbjahr 2025
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Seit einigen Jahren erfragt die Fraktion Die Linke im Deutschen Bundestag 
+Zahlen zu einer Reihe von Mitteln der informationstechnischen Überwachung 
+im Rahmen von polizeilicher Gefahrenabwehr und strafprozessualer
+Ermittlungen. Folgt man der Kategorisierung von Grundrechtseingriffen des
+Forschungsberichts „Überwachungsgesamtrechnung für Deutschland“ der
+Pilotstudie des Max-Planck-Instituts zur Erforschung von Kriminalität, Sicherheit 
+und Recht vom Januar 2025 (im Folgenden: Überwachungsgesamtrechnung; 
+mpg.de vom 6. Mai 2025, Deutsche Sicherheitsgesetze auf dem Prüfstand), 
+vereint diese Kategorie unterschiedlich intensive Grundrechtseingriffe, die 
+aber immer in ihrem Zusammenwirken betrachtet werden müssen. So
+vereinen manche der Maßnahmen Kennzeichen einer erhöhten
+Persönlichkeitsrelevanz, haben aber zugleich lediglich eine mittlere Streubreite (beispielsweise 
+der Einsatz von IMSI-Catchern [IMSI = International Mobile Subscriber
+Identity), andere erhobene Daten sind auf erhöhte Art persönlichkeitsrelevant, und 
+die für den Eingriff genutzten Mittel haben eine geringe Streubreite (Erhebung 
+von Zugangsdaten). Damit der Gesetzgeber angesichts der zu erwartenden 
+Entwürfe für eine Neufassung des Bundespolizei- und ggf. des
+Bundeskriminalamtsgesetzes über eine ausreichende Entscheidungsgrundlage bei der
+Bewertung neuer Eingriffsbefugnisse im Sinne der verfassungsrechtlich
+gebotenen Überwachungsgesamtrechnung verfügt, werden die erfragten Daten
+benötigt. Für die öffentlich geführte Auseinandersetzung über die
+Verhältnismäßigkeit von straf- und gefahrenabwehrrechtlichen Befugnissen bzw. der
+entsprechenden Eingriffe in das Recht auf informationelle Selbstbestimmung sind 
+diese Angaben ebenfalls bedeutsam, etwa um die Reichweite neuer
+Eingriffsbefugnisse abschätzen zu können. Lediglich die pauschale Behauptung, es 
+ginge nicht um Massenüberwachung, ist hier nicht ausreichend. Die
+Fragestellerinnen und Fragesteller hoffen, dass die neue Bundesregierung wieder zu 
+einer offeneren Beantwortung der gestellten Fragen bereit ist, statt wie ihre 
+Vorgängerin sämtliche Antworten durch Einstufung als Verschlusssache einer 
+öffentlichen Kenntnisnahme und Bewertung zu entziehen.
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern
+vom 18. Juni 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Die Bundesregierung ist nach sorgfältiger Abwägung der widerstreitenden
+Interessen zu der Auffassung gelangt, dass eine Beantwortung einzelner Fragen 
+dieser Kleinen Anfrage in offener Form nicht erfolgen kann.
+Die erbetenen Auskünfte sind geheimhaltungsbedürftig, weil sie Informationen 
+enthalten, die im Zusammenhang mit der Arbeitsweise und Methodik der 
+Nachrichtendienste des Bundes und insbesondere deren Aufklärungsaktivitäten 
+und Analysemethoden stehen. Der Schutz vor allem der technischen
+Aufklärungsfähigkeiten der Nachrichtendienste des Bundes im Bereich der
+Fernmeldeaufklärung stellt für die Aufgabenerfüllung der Nachrichtendienste einen 
+überragend wichtigen Grundsatz dar. Er dient der Aufrechterhaltung der
+Effektivität nachrichtendienstlicher Informationsbeschaffung durch den Einsatz
+spezifischer Fähigkeiten und somit dem Staatswohl. Eine Veröffentlichung von 
+Einzelheiten betreffend solcher Fähigkeiten würde zu einer wesentlichen 
+Schwächung der den Nachrichtendiensten zur Verfügung stehenden
+Möglichkeiten zur Informationsgewinnung führen. Dies würde für die
+Auftragserfüllung der Nachrichtendienste erhebliche Nachteile zur Folge haben und kann für 
+die Interessen der Bundesrepublik Deutschland schädlich sein. Insofern könnte 
+die Offenlegung entsprechender Informationen die Sicherheit der
+Bundesrepublik Deutschland gefährden oder ihren Interessen schweren Schaden zufügen. 
+Deshalb sind die entsprechenden Informationen als Verschlusssache gemäß der 
+Allgemeinen Verwaltungsvorschrift des Bundesministeriums des Innern zum 
+materiellen und organisatorischen Schutz von Verschlusssachen (VS-
+Anweisung – VSA) mit dem VS-Grad „Geheim“ eingestuft.
+Daher sind die Antworten zu den Fragen 1 bis 4, 9 und 10 für die
+Nachrichtendienste des Bundes „Geheim“ bzw. „VS-Nur für den Dienstgebrauch“
+eingestuft.
+Die Beantwortung der Fragen (bzw. Unterfragen) 2 und 6 bis 11 dieser Kleinen 
+Anfrage betrifft in Teilen solche Informationen, die in besonders hohem Maße 
+das Staatswohl berühren und daher selbst in eingestufter Form nicht
+beantwortet werden können. Die Bundesregierung ist nach sorgfältiger Abwägung der 
+widerstreitenden Interessen zu der Auffassung gelangt, dass eine Beantwortung 
+der Fragen nicht erfolgen kann. Das verfassungsrechtlich verbürgte Frage- und 
+Informationsrecht des Deutschen Bundestages gegenüber der Bundesregierung 
+wird durch gleichfalls Verfassungsrecht genießende schutzwürdige Interessen 
+wie das Staatswohl begrenzt. Durch eine Offenlegung der angefragten
+Informationen würden Einzelheiten zur konkreten Methodik der Nachrichtendienste des 
+Bundes, des Zolls, des Bundeskriminalamtes (BKA) und der Bundeswehr
+bekannt, die die weitere Arbeitsfähigkeit und Aufgabenerfüllung auf dem
+spezifischen Gebiet der technischen Aufklärung gefährden würde. Eine Bekanntgabe 
+von Einzelheiten zu Verfahren zur Erhebung von Daten aus zugriffsgeschützten 
+Bereichen von IT-Infrastrukturen im Ausland im Rahmen der technischen
+Aufklärung würde weitgehende Rückschlüsse auf die technischen Fähigkeiten und 
+damit mittelbar auch auf die technische Ausstattung und das
+Aufklärungspotential der Nachrichtendienste und der Bundeswehr zulassen. Dadurch könnte die 
+Fähigkeit, Erkenntnisse im Wege der technischen Aufklärung zu gewinnen, in 
+erheblicher Weise negativ beeinflusst werden. Die Gewinnung von
+Informationen durch technische Aufklärung ist für die Sicherheit der Bundesrepublik 
+Deutschland und für die Aufgabenerfüllung der Nachrichtendienste und der 
+Bundeswehr jedoch unerlässlich.
+Sofern solche Informationen entfallen oder wesentlich zurückgehen sollten, 
+würden empfindliche Informationslücken auch im Hinblick auf die
+Sicherheitslage der Bundesrepublik Deutschland drohen. Derartige Erkenntnisse dienen 
+insbesondere auch der Beurteilung der Sicherheitslage in den Einsatzgebieten
+der Bundeswehr im Ausland. Ohne dieses Material wäre eine solche
+Sicherheitsanalyse nur noch sehr eingeschränkt möglich, da das Sicherheitslagebild 
+zu einem nicht unerheblichen Teil aufgrund von Informationen, die durch die 
+technische Aufklärung gewonnen werden, erstellt wird. Das sonstige
+Informationsaufkommen der Nachrichtendienste und der Bundeswehr ist nicht
+ausreichend, um ein vollständiges Bild zu erhalten und Informationsdefizite im
+Bereich der technischen Aufklärung zu kompensieren. Insofern birgt eine
+Offenlegung der angefragten Informationen die Gefahr, dass Einzelheiten zur
+konkreten Methodik und zu den – aus den vorgenannten Gründen im hohen Maße 
+schutzwürdigen – spezifischen technischen Fähigkeiten der Nachrichtendienste 
+und der Bundeswehr bekannt würden. Infolgedessen könnten sowohl staatliche 
+als auch nichtstaatliche Akteure Rückschlüsse auf spezifische Vorgehensweisen 
+und technische Fähigkeiten der Nachrichtendienste gewinnen. Dies würde
+folgenschwere Einschränkungen der Informationsgewinnung bedeuten, womit 
+letztlich der gesetzliche Auftrag der Nachrichtendienste und der
+verfassungsrechtliche Auftrag der Bundeswehr nicht mehr sachgerecht erfüllt werden 
+könnte. Auch eine eingestufte Beantwortung dieser Fragen würde ihrer
+erheblichen Brisanz im Hinblick auf die Bedeutung der technischen Aufklärung für 
+die Aufgabenerfüllung der Nachrichtendienste und der Bundeswehr nicht
+ausreichend Rechnung tragen. Die angefragten Inhalte beschreiben die technischen 
+Fähigkeiten so detailliert, dass eine Bekanntgabe auch gegenüber einem
+begrenzten Kreis von Empfängern ihrem Schutzbedürfnis nicht Rechnung tragen 
+kann. Dies gilt umso mehr, als sie Spezifika betreffen, deren technische
+Umsetzung nur in einem bestimmten Verfahren erfolgen kann. Bei einem
+Bekanntwerden der schutzbedürftigen Information wäre kein Ersatz durch andere
+Instrumente möglich. Aus dem Vorgesagten ergibt sich, dass die erbetenen
+Informationen derart schutzbedürftige Geheimhaltungsinteressen berühren, dass das 
+Staatswohl gegenüber dem parlamentarischen Informationsrecht überwiegt.
+Insofern muss ausnahmsweise das Fragerecht der Abgeordneten gegenüber dem 
+Geheimhaltungsinteresse zurückstehen.
+Beim Generalbundesanwalt beim Bundesgerichtshof (GBA) werden die
+fragegegenständlichen Informationen zu den Fragen 1 bis 4 (einschließlich
+Unterfragen) sowie zu Frage 9 statistisch nicht erfasst, sodass insoweit eine
+Beantwortung mit zumutbarem Aufwand nicht möglich ist. Zur Beantwortung wäre die 
+händische Sichtung und einzelfallbezogene Auswertung aller in dem
+fragegegenständlichen Zeitraum geführten Ermittlungsverfahren des GBA erforderlich, 
+was die Ressourcen der betroffenen Abteilungen für einen nicht absehbaren 
+Zeitraum vollständig beanspruchen und deren Ermittlungstätigkeit zum
+Erliegen bringen würde.
+Die Antworten zu den Fragen 1 bis 11 sind in Teilen als „VS-Nur für den 
+Dienstgebrauch“ eingestuft.
+Die erbetenen Auskünfte sind aus Gründen des Staatswohls in Teilen eingestuft 
+zu beantworten, weil sie Informationen enthalten, die im Zusammenhang mit 
+der Arbeitsweise und Methodik der von der Kleinen Anfrage betroffenen 
+Dienststellen des Bundes und insbesondere deren Aufklärungsaktivitäten und 
+Analysemethoden stehen. Die Antworten auf die Kleine Anfrage beinhalten 
+zum Teil detaillierte Einzelheiten zu ihren technischen Fähigkeiten und
+ermittlungstaktischen Verfahrensweisen. Aus ihrem Bekanntwerden könnten
+Rückschlüsse auf ihre Vorgehensweise, Fähigkeiten und Methoden gezogen werden, 
+was wiederum nachteilig für die Aufgabenerfüllung der durchführenden Stellen 
+und damit für die Interessen der Bundesrepublik Deutschland sein kann.
+Deshalb sind die Antworten zu den genannten Fragen gemäß § 2 Absatz 2 
+Nummer 4 der Allgemeinen Verwaltungsvorschrift zum materiellen
+Geheimschutz (VS-Anweisung – VSA) in Teilen als „VS-Nur für den Dienstgebrauch“
+eingestuft und werden als nicht zur Veröffentlichung in einer
+Bundestagsdrucksache bestimmte Anlage übermittelt.
+ 1. Wie oft haben welche Bundesbehörden im zweiten Halbjahr 2025 von 
+„WLAN-Catchern“ Gebrauch gemacht (bitte nach Halbjahren auflisten)?
+a) Welche Bundesbehörden haben zwar selbst keine „WLAN-Catcher“ 
+eingesetzt, sich hierfür aber der Amtshilfe anderer Behörden oder 
+Firmen bedient (bitte außer den Zahlen auch die beteiligten Behörden 
+benennen)?
+b) Wie viele Personen und Ermittlungsverfahren waren jeweils
+insgesamt betroffen (bitte nach Informationsgewinnung, Gefahrenabwehr 
+und Strafverfolgung differenzieren)?
+Die Fragen 1 bis 1b werden gemeinsam beantwortet.
+Das BKA hat im Anfragezeitraum in einem Fall den „WLAN-Catcher“
+eingesetzt.
+Die Bundespolizei hat im fragegegenständlichen Zeitraum von dem besagten 
+Verfahren in eigener Zuständigkeit keinen Gebrauch gemacht.
+WLAN-Catcher-Einsätze werden für den Zoll in Amtshilfe von der
+Bundespolizei vorgenommen.
+Im Übrigen wird auf die Vorbemerkung der Bundesregierung und den als „VS-
+Nur für den Dienstgebrauch“ eingestuften Antwortteil verwiesen.*
+c) Wie viele Betroffene sind hierüber nachträglich benachrichtigt
+worden?
+d) Wie viele Betroffene der Maßnahmen aus dem Jahr 2022 sind über die 
+Maßnahmen mittlerweile nachträglich benachrichtigt worden?
+Die Fragen 1c und1d werden gemeinsam beantwortet.
+Grundsätzlich obliegt die fragegegenständliche Benachrichtigung von
+Betroffenen den jeweils zuständigen Staatsanwaltschaften. Ob bzw. wie oft dies
+geschehen ist, ist der Bundesregierung nicht bekannt.
+Es wurden keine Benachrichtigungen von Betroffenen gemäß § 74 Absatz 1 
+Satz 1 Nummer 11 des Bundeskriminalamtgesetzes (BKAG) durchgeführt.
+Betroffene der fragegegenständlichen Beschränkungsmaßnahmen sind gemäß 
+der §§ 9 Absatz 4 Satz 7, 8b Absatz 7 Satz 1 des
+Bundesverfassungsschutzgesetzes (BVerfSchG) in Verbindung mit § 12 des Artikel 10-Gesetzes (G 10) zu 
+unterrichten.
+Im Übrigen wird auf den als „Geheim“ eingestuften Antwortteil gemäß der 
+Vorbemerkung der Bundesregierung verwiesen.**
+e) Welche Hard- und Software wird für die „WLAN-Catcher“ genutzt 
+bzw. welche Änderungen haben sich hierzu gegenüber dem Jahr 2023 
+ergeben?
+Es wird auf den als „VS-Nur für den Dienstgebrauch“ eingestuften Antwortteil 
+gemäß der Vorbemerkung der Bundesregierung verwiesen.*
+* Das Bundesministerium des Innern hat die Antwort als „VS-Nur für den Dienstgebrauch“ eingestuft. Die Antwort ist im Parlamentssekretariat des Deutschen 
+Bundestages hinterlegt und kann dort von Berechtigten eingesehen werden.
+** Das Bundesministerium des Innern hat die Antwort als „VS-Geheim“ eingestuft. Die Antwort ist in der Geheimschutzstelle des Deutschen Bundestages hinterlegt und 
+kann dort nach Maßgabe der Geheimschutzordnung eingesehen werden.
+Hinsichtlich der Nachrichtendienste des Bundes ist eine Beantwortung aus den 
+in der Antwort der Bundesregierung zu Frage 1e auf die Kleine Anfrage der 
+Fraktion Die Linke auf Bundestagsdrucksache 19/17055 vom 6. Februar 2020 
+aufgeführten Gründen weiterhin nicht möglich.
+f) Inwiefern haben die Maßnahmen im fragegegenständlichen Zeitraum 
+aus Sicht der Bundesregierung Erkenntnisse geliefert, die wesentlich 
+zur Aufklärung von Straftaten bzw. Gefahren beitrugen?
+Es wird auf die Antwort der Bundesregierung zu Frage 1f auf
+Bundestagsdrucksache 21/1520 verwiesen.
+ 2. Welche Bundesbehörden haben im ersten sowie im zweiten Halbjahr 
+2025 wie oft „IMSI-Catcher“ eingesetzt?
+Das BKA hat im Anfragezeitraum 75 Maßnahmen durchgeführt.
+Die Bundespolizei hat den IMSI-Catcher im Jahr 2025 insgesamt in 34 Fällen 
+eingesetzt.
+Im Übrigen wird auf die Vorbemerkung der Bundesregierung sowie die als 
+„VS-Nur für den Dienstgebrauch“* sowie „Geheim“** eingestuften
+Antwortteile gemäß der Vorbemerkung der Bundesregierung verwiesen.
+a) Welche Bundesbehörden haben zwar selbst keine „IMSI-Catcher“
+eingesetzt, sich hierfür aber der Amtshilfe anderer Behörden oder Firmen 
+bedient (bitte außer den Zahlen auch die beteiligten Behörden
+benennen)?
+Der Zoll verfügt über eigene IMSI-Catcher. Neben den eigenen IMSI-Catchern 
+wurden im ersten Halbjahr 2025 IMSI-Catcher Einheiten der Bundespolizei 
+und der Länder Baden-Württemberg, Bayern, Berlin, Hamburg, Hessen,
+Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Sachsen und Schleswig-
+Holstein im Rahmen der Amtshilfe (Artikel 35 Absatz 1 des Grundgesetzes) 
+eingesetzt.
+Darüber hinaus wurden im zweiten Halbjahr 2025 IMSI-Catcher der Länder 
+Baden-Württemberg, Brandenburg, Hamburg, Mecklenburg-Vorpommern,
+Niedersachsen, Nordrhein-Westfalen, Saarland und Sachsen im Rahmen der
+Amtshilfe (Artikel 35 Absatz 1 des Grundgesetzes) eingesetzt.
+b) Welche Bundesbehörden haben im zweiten Halbjahr 2025 wie oft 
+„IMSI-Catcher“ eingesetzt?
+Im zweiten Halbjahr 2025 wurde das Einsatzmittel IMSI-Catcher von der
+Bundespolizei 15 Mal zum Einsatz gebracht.
+Das BKA hat im Anfragezeitraum 41 Maßnahmen durchgeführt.
+Im Übrigen wird auf den als „VS-Nur für den Dienstgebrauch“ eingestuften 
+Antwortteil gemäß der Vorbemerkung der Bundesregierung verwiesen.*
+Hinsichtlich der Nachrichtendienste des Bundes ist eine Beantwortung aus den 
+in der Antwort der Bundesregierung zu Frage 1e auf die Kleine Anfrage der 
+Fraktion Die Linke auf Bundestagsdrucksache 19/17055 vom 6. Februar 2020 
+aufgeführten Gründen weiterhin nicht möglich.
+* Das Bundesministerium des Innern hat die Antwort als „VS-Nur für den Dienstgebrauch“ eingestuft. Die Antwort ist im Parlamentssekretariat des Deutschen 
+Bundestages hinterlegt und kann dort von Berechtigten eingesehen werden.
+** Das Bundesministerium des Innern hat die Antwort als „VS-Geheim“ eingestuft. Die Antwort ist in der Geheimschutzstelle des Deutschen Bundestages hinterlegt und 
+kann dort nach Maßgabe der Geheimschutzordnung eingesehen werden.
+c) Wie viele Personen und Ermittlungsverfahren waren jeweils insgesamt 
+betroffen (bitte in Informationsgewinnung, Gefahrenabwehr und
+Strafverfolgung differenzieren)?
+Der Einsatz des „IMSI-Catcher“ durch das BKA betraf im zweiten Halbjahr 
+2025 43 Personen in 22 Ermittlungsverfahren.
+Die Maßnahme wurde insgesamt in 29 bundespolizeilichen
+Ermittlungsverfahren im Jahr 2025 durchgeführt. In Bezug auf die Anzahl betroffener Personen 
+erhebt die Bundespolizei keine statistischen Daten.
+Im Übrigen wird auf den als „VS-Nur für den Dienstgebrauch“ eingestuften 
+Antwortteil gemäß der Vorbemerkung der Bundesregierung verwiesen.*
+d) Wie viele Betroffene sind hierüber nachträglich benachrichtigt
+worden?
+e) Wie viele Betroffene der Maßnahmen aus dem Jahr 2023 sind über die 
+Maßnahmen mittlerweile nachträglich benachrichtigt worden?
+Die Fragen 2d und 2e werden gemeinsam beantwortet.
+Es wurden seitens des BKA keine Benachrichtigungen von Betroffenen gemäß 
+§ 74 Absatz 1 Satz 1 Nummer 11 BKAG durchgeführt.
+Darüber hinaus obliegt die fragegegenständliche Benachrichtigung von
+Betroffenen in Strafsachen den jeweils zuständigen Staatsanwaltschaften. Ob bzw. 
+wie oft dies geschehen ist, ist der Bundesregierung nicht bekannt.
+Betroffene von Beschränkungsmaßnahmen des Bundesamtes für
+Verfassungsschutz (BfV) werden gemäß der §§ 9 Absatz 4 Satz 7, 8b Absatz 7 Satz 1 
+(BVerfSchG) i. V. m. § 12 des Artikel 10-Gesetzes (G 10) unterrichtet.
+Darüber hinaus wird auf den als „Geheim“ eingestuften Antwortteil gemäß der 
+Vorbemerkung der Bundesregierung verwiesen.**
+f) Inwiefern haben die Maßnahmen im fragegegenständlichen Zeitraum 
+aus Sicht der Bundesregierung Erkenntnisse geliefert, die wesentlich 
+zur Aufklärung von Straftaten bzw. Gefahren beitrugen?
+Es wird auf die Antwort der Bundesregierung zu Frage 2f auf
+Bundestagsdrucksache 21/1520 verwiesen.
+g) Für welche deutschen Firmen bzw. Lizenznehmer ausländischer
+Produkte wurden seitens der Bundesregierung im vergangenen Jahr
+Ausfuhrgenehmigungen für sogenannte IMSI-Catcher in welche
+Bestimmungsländer erteilt?
+Es wird auf den als „VS-Nur für den Dienstgebrauch“ eingestuften Antwortteil 
+gemäß der Vorbemerkung der Bundesregierung verwiesen.*
+* Das Bundesministerium des Innern hat die Antwort als „VS-Nur für den Dienstgebrauch“ eingestuft. Die Antwort ist im Parlamentssekretariat des Deutschen 
+Bundestages hinterlegt und kann dort von Berechtigten eingesehen werden.
+** Das Bundesministerium des Innern hat die Antwort als „VS-Geheim“ eingestuft. Die Antwort ist in der Geheimschutzstelle des Deutschen Bundestages hinterlegt und 
+kann dort nach Maßgabe der Geheimschutzordnung eingesehen werden.
+h) Wie viele „IMSI-Catcher“ bzw. ähnliche Abhöranlagen für den
+Mobilfunkverkehr haben das Bundesamt für Sicherheit in der
+Informationstechnik oder andere zuständige Bundesbehörden (auch in deren
+Auftrag) im Jahr 2024 und im ersten Halbjahr 2025 im Regierungsviertel 
+oder in räumlicher Nähe anderer Bundesbehörden aufgespürt, mit
+welchen Geräten, Techniken und Methoden erfolgte dies, und wer wurde 
+jeweils als Betreiber der Anlagen ausfindig gemacht?
+Es wird auf die Antwort der Bundesregierung zu Frage 2h auf
+Bundestagsdrucksache 21/1520 verwiesen.
+ 3. Welche Strafverfolgungs-, Ermittlungs- und Gefahrenabwehrbehörden 
+sowie Nachrichtendienste des Bundes sind derzeit technisch und
+rechtlich in der Lage, an Mobiltelefone sogenannte stille SMS zum
+Ausforschen des Standortes ihrer Besitzerinnen und Besitzer oder zum Erstellen 
+von Bewegungsprofilen zu verschicken, bzw. welche Änderungen haben 
+sich gegenüber dem ersten Halbjahr 2025 ergeben?
+a) Welche Bundesbehörden haben zwar selbst keine „stillen SMS“
+eingesetzt, sich hierfür aber anderer Behörden oder Firmen bedient 
+(bitte die beteiligten Behörden benennen)?
+e) Welche Hard- und Software wird von den Behörden zum Versand 
+und zur Auswertung von „stillen SMS“ genutzt bzw. welche
+Änderungen haben sich hierzu gegenüber dem zweiten Halbjahr 2025
+ergeben?
+Die Fragen 3, 3a und 3e werden gemeinsam beantwortet.
+Es haben sich keine Änderungen seit der letzten Beantwortung im Sinne der 
+Fragestellung ergeben. Es wird auf die Vorbemerkung der Bundesregierung
+sowie den als „Geheim“ eingestuften Antwortteil verwiesen.*
+b) Wie viele „stille SMS“ wurden von den jeweiligen Behörden bzw. in 
+deren Auftrag durch andere Behörden oder Firmen im zweiten
+Halbjahr 2025 insgesamt jeweils versandt (bitte bezüglich des
+Zollkriminalamtes nach den einzelnen Zollfahndungsämtern aufschlüsseln)?
+Die Bundespolizei hat im zweiten Halbjahr 2025 6 605 „stille SMS“ versandt.
+Im Übrigen wird auf die als „VS-Nur für den Dienstgebrauch“** sowie
+„Geheim“* eingestuften Antwortteile gemäß der Vorbemerkung der
+Bundesregierung verwiesen.
+c) Wie viele Personen und Ermittlungsverfahren waren jeweils betroffen 
+(bitte in Informationsgewinnung, Gefahrenabwehr und
+Strafverfolgung differenzieren)?
+Die Bundespolizei erhebt zur Anzahl der betroffenen Personen keine
+statistischen Daten. Eingesetzt wurden „stille SMS“ im zweiten Halbjahr 2025 in 
+33 strafprozessualen Ermittlungsverfahren der Bundespolizei.
+Im Übrigen wird auf die als „VS-Nur für den Dienstgebrauch“** sowie
+„Geheim“* eingestuften Antwortteile gemäß der Vorbemerkung der
+Bundesregierung verwiesen.
+* Das Bundesministerium des Innern hat die Antwort als „VS-Geheim“ eingestuft. Die Antwort ist in der Geheimschutzstelle des Deutschen Bundestages hinterlegt und 
+kann dort nach Maßgabe der Geheimschutzordnung eingesehen werden.
+** Das Bundesministerium des Innern hat die Antwort als „VS-Nur für den Dienstgebrauch“ eingestuft. Die Antwort ist im Parlamentssekretariat des Deutschen 
+Bundestages hinterlegt und kann dort von Berechtigten eingesehen werden.
+Darüber hinaus können weitere Angaben über die Anzahl betroffener Personen 
+und Ermittlungsverfahren mangels statistischer Erfassung nicht gemacht
+werden.
+d) Wie viele Betroffene sind hierüber nachträglich benachrichtigt
+worden?
+Es wurden seitens des BKA keine Benachrichtigungen von Betroffenen gemäß 
+§ 74 Absatz 1 Satz 1 Nummer 11 BKAG durchgeführt.
+Die Bundespolizei erhebt zur Anzahl der betroffenen Personen keine
+statistischen Daten.
+Hinsichtlich der Maßnahmen des BfV sind betroffene Personen entsprechend 
+§ 12 G 10 über die Beschränkungsmaßnahme zu benachrichtigen.
+Darüber hinaus obliegt die Benachrichtigung von Betroffenen in Strafsachen 
+den jeweils zuständigen Staatsanwaltschaften. Ob bzw. wie oft dies geschehen 
+ist, ist der Bundesregierung nicht bekannt.
+ 4. Wie viele Maßnahmen des sogenannten IP-Catchings (vgl. Die
+Überwachungsmaßnahme, die geheim bleiben soll; netzpolitik.org vom 29. April 
+2025) haben welche Strafverfolgungs-, Ermittlungs- und
+Gefahrenabwehrbehörden sowie Nachrichtendienste des Bundes im zweiten
+Halbjahr 2025 jeweils vorgenommen?
+a) Welche Bundesbehörden haben zwar selbst keine Maßnahmen zum 
+IP-Catching eingesetzt, sich hierfür aber der Amtshilfe anderer
+Behörden bedient (bitte außer den Zahlen auch die beteiligten Behörden 
+benennen)?
+b) Wie viele Anschlüsse, Personen und Ermittlungsverfahren waren
+jeweils insgesamt betroffen?
+c) Durch welche Gerichte oder Gremien wurden Maßnahmen zum IP-
+Catching angeordnet oder zugelassen?
+d) Wie viele Betroffene sind über die Maßnahmen nachträglich
+benachrichtigt worden (bitte nach Informationsgewinnung, Gefahrenabwehr 
+und Strafverfolgung differenzieren)?
+e) Wie viele Betroffene der Maßnahmen aus den Jahren 2024 und 2025 
+sind darüber mittlerweile nachträglich benachrichtigt worden?
+f) Inwiefern haben die Maßnahmen aus dem zweiten Halbjahr 2025 aus 
+Sicht der Bundesregierung Erkenntnisse geliefert, die wesentlich zur 
+Aufklärung von Straftaten bzw. Erforschung oder Abwehr von
+Gefahren beitrugen?
+Die Fragen 4 bis 4f werden gemeinsam beantwortet.
+Durch den Zoll wurden im zweiten Halbjahr 2025 keine Maßnahmen des
+sogenannten IP-Catching durchgeführt.
+Die Bundespolizei hat im fragegegenständlichen Zeitraum das besagte
+Verfahren nicht eingesetzt.
+Das BKA führt keine Statistik zu „IP-Catching“-Maßnahmen.
+Diese Maßnahme ist generell geeignet, um Ermittlungen zu führen und weitere 
+Erkenntnisse im Rahmen der Strafverfolgung zu gewinnen.
+Im Übrigen wird auf die Vorbemerkung der Bundesregierung sowie die als 
+„VS-Nur für den Dienstgebrauch“* sowie „Geheim“** eingestuften
+Antwortteile gemäß der Vorbemerkung der Bundesregierung verwiesen.
+ 5. Wie viele Maßnahmen der Funkzellenauswertung haben welche
+Strafverfolgungs-, Ermittlungs- und Gefahrenabwehrbehörden des Bundes im 
+zweiten Halbjahr 2025 vorgenommen (bitte wie in der Antwort auf die 
+Kleine Anfrage auf Bundestagsdrucksache 17/14714 beantworten)?
+a) Welche Bundesbehörden haben zwar selbst keine Maßnahmen der 
+Funkzellenauswertung eingesetzt, sich hierfür aber der Amtshilfe
+anderer Behörden bedient (bitte außer den Zahlen auch die beteiligten 
+Behörden benennen)?
+b) Wie viele Anschlüsse, Personen und Ermittlungsverfahren waren
+jeweils insgesamt betroffen?
+c) Welche der Funkzellenabfragen wurden vom Ermittlungsrichter beim 
+Bundesgerichtshof gestattet, und im Zusammenhang mit welchen
+Ermittlungen fanden diese statt?
+Die Fragen 5 bis 5c werden gemeinsam beantwortet.
+In Ermittlungsverfahren des GBA wurden im zweiten Halbjahr 2025 keine 
+Funkzellenauswertungen veranlasst.
+Der Zoll führte Funkzellenabfragen ausschließlich im Auftrag der
+Staatsanwaltschaften durch.
+Über die Zahl der betroffenen Anschlüsse können bezüglich des Zolls mangels 
+statistischer Erfassung keine Angaben gemacht werden.
+Die Bundespolizei erhebt hierzu keine statistischen Daten.
+Das BKA hat zwölf Maßnahmen der Funkzellenauswertung im zweiten
+Halbjahr 2025 durchgeführt.
+Es waren in zwei Ermittlungsverfahren, fünf Anschlüsse und vier Personen
+betroffen. Keine der vom BKA durchgeführten Maßnahmen wurde vom
+Ermittlungsrichter beim Bundesgerichtshof angeordnet.
+Im Übrigen wird den als „VS-Nur für den Dienstgebrauch“ eingestuften
+Antwortteil gemäß der Vorbemerkung der Bundesregierung verwiesen.*
+d) Wie viele Betroffene sind über die Maßnahmen nachträglich
+benachrichtigt worden (bitte nach Informationsgewinnung, Gefahrenabwehr 
+und Strafverfolgung differenzieren)?
+Seitens GBA sind mangels Veranlassung von Funkzellenauswertungen im 
+zweiten Halbjahr 2025 keine nachträglichen Benachrichtigungen im Sinne der 
+Fragestellung erfolgt.
+Es wurden keine Benachrichtigungen von Betroffenen gemäß § 74 Absatz 1 
+Satz 1 Nummer 11 BKAG seitens des BKA durchgeführt.
+Hinsichtlich des Zolls und der Bundespolizei obliegt die fragegegenständliche 
+Benachrichtigung von Betroffenen den jeweils zuständigen
+Staatsanwaltschaften. Ob bzw. wie oft dies geschehen ist, ist nicht bekannt. Die Maßnahmen 
+wurden ausschließlich im Bereich der Strafverfolgung eingesetzt.
+* Das Bundesministerium des Innern hat die Antwort als „VS-Nur für den Dienstgebrauch“ eingestuft. Die Antwort ist im Parlamentssekretariat des Deutschen 
+Bundestages hinterlegt und kann dort von Berechtigten eingesehen werden.
+** Das Bundesministerium des Innern hat die Antwort als „VS-Geheim“ eingestuft. Die Antwort ist in der Geheimschutzstelle des Deutschen Bundestages hinterlegt und 
+kann dort nach Maßgabe der Geheimschutzordnung eingesehen werden.
+e) Wie viele Betroffene der Maßnahmen aus dem Jahr 2024 und 2025 
+sind darüber mittlerweile nachträglich benachrichtigt worden?
+Seitens GBA sind bislang keine nachträglichen Benachrichtigungen im Sinne 
+der Fragestellung erfolgt.
+Seitens des BKA fanden keine nachträglichen Benachrichtigungen statt.
+f) Inwiefern haben die Maßnahmen aus dem Jahr 2025 aus Sicht der 
+Bundesregierung Erkenntnisse geliefert, die wesentlich zur
+Aufklärung von Straftaten bzw. zur Erforschung oder Abwehr von Gefahren 
+beitrugen?
+Es wird auf die Antwort der Bundesregierung zu Frage 5f auf
+Bundestagsdrucksache 21/1520 verwiesen.
+ 6. In welchem Umfang haben Bundesbehörden im zweiten Halbjahr 2025 
+geolokalisierte Standortdaten von Mobiltelefonen bei Herstellern der
+Geräte bzw. der Betriebssysteme erfragt (bitte nach Halbjahren getrennt für 
+Bundeskriminalamt, Bundespolizei, Bundesamt für Verfassungsschutz 
+und Zollkriminalamt darstellen)?
+Die Bundespolizei hat im benannten Zeitraum keine geolokalisierten
+Standortbestimmungen durchgeführt.
+Das BKA hat im Anfragezeitraum in keinem abgeschlossenen Verfahren
+geolokalisierte Standortdaten von Mobiltelefonen bei Herstellern der Geräte, bzw. 
+der Betriebssysteme abgefragt.
+Im Übrigen wird auf die Vorbemerkung der Bundesregierung sowie den als 
+„VS-Nur für den Dienstgebrauch“ eingestuften Antwortteil gemäß der
+Vorbemerkung verwiesen.*
+ 7. Inwiefern sind Strafverfolgungs-, Ermittlungs- und
+Gefahrenabwehrbehörden des Bundes sowie die Nachrichtendienste und das militärische 
+Nachrichtenwesen der Bundeswehr mittlerweile in der Lage, Mikrofone 
+von Mobiltelefonen aus der Ferne zu aktivieren, um diese als
+Abhöreinrichtungen zu nutzen bzw. welche Änderungen haben sich gegenüber 
+dem Jahr 2023 ergeben?
+Derartige Maßnahmen werden vom BKA nicht durchgeführt.
+Der GBA verfügt nicht über die in der Fragestellung beschriebene Technik.
+Im Übrigen wird die Vorbemerkung der Bundesregierung und den als „VS-Nur 
+für den Dienstgebrauch“ Antwortteil gemäß der Vorbemerkung verwiesen.*
+ 8. Inwiefern haben Strafverfolgungs-, Ermittlungs- und
+Gefahrenabwehrbehörden sowie die Nachrichtendienste des Bundes und das militärische 
+Nachrichtenwesen der Bundeswehr im zweiten Halbjahr 2025
+Programme bzw. Anwendungen zur Durchführung von Fernzugriffen auf digitale 
+Geräte (Online-Durchsuchung, Quellen-TKÜ [TKÜ =
+Telekommunikationsüberwachung] etc.) eingesetzt oder einsetzen lassen (bitte jeweils 
+nach Halbjahren und Behörden aufschlüsseln)?
+* Das Bundesministerium des Innern hat die Antwort als „VS-Nur für den Dienstgebrauch“ eingestuft. Die Antwort ist im Parlamentssekretariat des Deutschen 
+Bundestages hinterlegt und kann dort von Berechtigten eingesehen werden.
+a) Über welche und wie viele solcher Programme bzw. Anwendungen 
+verfügen die genannten Behörden derzeit, und wie weit sind
+Anstrengungen gediehen, sie selbst zu entwickeln und aktuell zu halten?
+b) In welchem Umfang wurde für die genannten Behörden im zweiten 
+Halbjahr 2025 der Einsatz der fragegegenständlichen Anwendungen 
+angeordnet, und in wie vielen Fällen konnte die Anordnung umgesetzt 
+werden?
+Die Fragen 8 bis 8b werden gemeinsam beantwortet.
+Hinsichtlich der Nachrichtendienste und des Zolls wird auf die Vorbemerkung 
+der Bundesregierung verwiesen.
+Die Fragen 8 bis 8d werden für das BKA und die Bundespolizei jeweils
+zusammen beantwortet.
+Die Anzahl der Anordnungen wird beim BKA nicht statistisch erhoben. Die 
+Beauskunftung der erlassenen Anordnungen liegt gemäß § 101b der
+Strafprozessordnung in der Zuständigkeit der Justiz. Das BKA beauskunftet lediglich 
+die im eigenen Zuständigkeitsbereich durchgeführten Maßnahmen.
+Im Übrigen wird auf den als „VS-Nur für den Dienstgebrauch“ eingestuften 
+Antwortteil gemäß der Vorbemerkung der Bundesregierung verwiesen.*
+Die Bundespolizei hat im fragegegenständlichen Zeitraum eine Quellen-
+Telekommunikationsüberwachung bei einem Gerät und eine Onlinedurchsuchung 
+bei einem Gerät durchgeführt. Die Leistungen wurden in Amtshilfe vom
+Bundeskriminalamt erbracht.
+Die Maßnahme wurde in einem Ermittlungsverfahren bei einem Beschuldigten 
+durchgeführt.
+Angaben über nachträgliche Benachrichtigungen obliegen den zuständigen und 
+sachleitenden Strafverfolgungsbehörden.
+Im Übrigen wird auf den als „VS-Nur für den Dienstgebrauch“ eingestuften 
+Antwortteil gemäß der Vorbemerkung der Bundesregierung verwiesen.*
+Die Fragen 8 bis 8b werden für den GBA zusammen beantwortet.
+Im zweiten Halbjahr 2025 sind in acht Ermittlungsverfahren des GBA
+insgesamt 23 Anordnungen des Einsatzes der fragegegenständlichen Programme 
+bzw. Anwendungen erfolgt, die in 15 Fällen umgesetzt werden konnten.
+Bei den genannten Programmen bzw. Anwendungen handelt es sich um
+Software zur Durchführung von Maßnahmen der Quellen-
+Telekommunikationsüberwachung und der Online-Durchsuchung, wobei durch den GBA
+Anstrengungen, diese Software selbst zu entwickeln, nicht unternommen werden.
+c) Wie viele Personen und Ermittlungsverfahren waren von den
+Anordnungen und den tatsächlich durchgeführten Einsätzen der genannten 
+Anwendungen insgesamt betroffen (bitte für jedes Halbjahr nach 
+Informationsgewinnung, Gefahrenabwehr und Strafverfolgung
+differenzieren)?
+In den zuvor aufgeführten Verfahren des GBA betrafen die Anordnungen und 
+die tatsächlich durchgeführten Einsätze im zweiten Halbjahr 2025 insgesamt 
+17 Personen.
+* Das Bundesministerium des Innern hat die Antwort als „VS-Nur für den Dienstgebrauch“ eingestuft. Die Antwort ist im Parlamentssekretariat des Deutschen 
+Bundestages hinterlegt und kann dort von Berechtigten eingesehen werden.
+d) Wie viele Betroffene sind hierüber nachträglich benachrichtigt
+worden?
+Hinsichtlich der Maßnahmen des BfV werden Betroffene der o. g.
+Beschränkungsmaßnahmen gemäß § 12 G 10 unterrichtet.
+Durch den GBA sind keine nachträglichen Benachrichtigungen erfolgt.
+e) Inwiefern haben die Maßnahmen aus Sicht der Bundesregierung
+Erkenntnisse geliefert, die wesentlich zur Aufklärung von Straftaten bzw.
+Gefahren beitrugen?
+Es wird auf die Antwort zu Frage 2f verwiesen.
+9. Inwiefern haben Strafverfolgungs-, Ermittlungs- und
+Gefahrenabwehrbehörden sowie die Nachrichtendienste des Bundes im zweiten Halbjahr
+2025 die Möglichkeit genutzt, sich Zugang zu Nutzer-Accounts bei den
+Messenger-Diensten Signal, WhatsApp, Telegram oder vergleichbaren
+Anwendungen zu verschaffen, indem sich Ermittlerinnen oder Ermittler
+dort mit einem weiteren Gerät zum Mitlesen einloggen?
+Auf die Vorbemerkung der Bundesregierung und die als „VS-Nur für den 
+Dienstgebrauch“* sowie „Geheim“** eingestuften Antwortteile gemäß der
+Vorbemerkung der Bundesregierung wird verwiesen.
+10. In welchem Umfang haben die Polizeien des Bundes und das Bundesamt
+für Verfassungsschutz zur Erfüllung ihrer gesetzlichen Aufgaben im
+zweiten Halbjahr 2025 Online-Accounts genutzt, deren Zugangsdaten sie
+sich beschafft haben, und inwiefern werden diese auch in anderen
+Ermittlungsverfahren genutzt werden als in jenen, in deren Rahmen sie
+erlangt wurden?
+Die Bundespolizei hat im fragegegenständlichen Zeitraum das besagte
+Verfahren nicht eingesetzt.
+Im Übrigen wird auf die Vorbemerkung der Bundesregierung und die als „VS-
+Nur für den Dienstgebrauch“* sowie „Geheim“** eingestuften Antwortteile
+gemäß der Vorbemerkung der Bundesregierung verwiesen.
+11. Welche Soft- und Hardware hat die Bundesregierung für die
+nachgeordneten Strafverfolgungs-, Ermittlungs- und Gefahrenabwehrbehörden
+sowie die Nachrichtendienste und das militärische Nachrichtenwesen der
+Bundeswehr für die Überwachung öffentlich zugänglicher Quellen und
+geschlossener Foren im Internet beschafft bzw. welche Änderungen
+haben sich gegenüber dem Jahr 2024 ergeben?
+Hinsichtlich des BKA haben sich keine Änderungen ergeben.
+Für den GBA erfolgten keine Beschaffungen im fragegegenständlichen Sinne.
+Im Übrigen wird auf die Vorbemerkung der Bundesregierung und den als „VS-
+Nur für den Dienstgebrauch“ eingestuften Antwortteil gemäß der
+Vorbemerkung der Bundesregierung verwiesen.*
+* Das Bundesministerium des Innern hat die Antwort als „VS-Nur für den Dienstgebrauch“ eingestuft. Die Antwort ist im Parlamentssekretariat des Deutschen 
+Bundestages hinterlegt und kann dort von Berechtigten eingesehen werden.
+** Das Bundesministerium des Innern hat die Antwort als „VS-Geheim“ eingestuft. Die Antwort ist in der Geheimschutzstelle des Deutschen Bundestages hinterlegt und 
+kann dort nach Maßgabe der Geheimschutzordnung eingesehen werden.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
