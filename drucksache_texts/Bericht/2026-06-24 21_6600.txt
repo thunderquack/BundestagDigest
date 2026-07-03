@@ -1,0 +1,2603 @@
+Bericht 
+   
+  
+ 
+des Ausschusses für Forschung, Technologie, Raumfahrt
+und Technikfolgenabschätzung (18. Ausschuss)   
+gemäß  § 56a der Geschäftsordnung  
+Technikfolgenabschätzung (TA) 
+Potenziale des digitalen Zwillings für eine nachhaltige und 
+klimaangepasste Stadtentwicklung 
+Inhal tsverzeichnis  
+Seite 
+Vorwort des Ausschusses ................................................................................... 3 
+Das Wichtigste in Kürze .................................................................................... 7 
+1 Einleitung .............................................................................................. 9 
+2 Urbane digitale Zwillinge für eine klimaangepasste, 
+nachhaltige Stadtentwicklung............................................................ 12 
+2.1 Definition und Konzept ........................................................................ 12 
+2.2 Datentypen und Datenquellen............................................................... 14 
+2.3 Funktionalitäten, Visualisierungen und Einsatz von KI ....................... 16 
+2.4 Stand der Umsetzung ............................................................................ 19 
+3 Potenziale und Anwendungsfelder urbaner digitaler Zwillinge ..... 21 
+3.1 Nutzen- und Wirkungspotenziale ......................................................... 21 
+3.2 Beitrag zu Nachhaltigkeitszielen .......................................................... 23 
+3.3 Praxisbeispiele – Steckbriefe ................................................................ 26 
+4 Grenzen und Herausforderungen ..................................................... 31 
+4.1 Technische Machbarkeit ....................................................................... 31 
+4.2 Interoperabilität unterschiedlicher technischer Systeme ...................... 32 
+4.3 Finanzielle Herausforderungen und mangelnder Nutzennachweis ....... 34 
+Deutscher Bundestag Drucksache 21/6600 
+21. Wahlperiode 24.06.2026 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Seite 
+5 Gelingensbedingungen ....................................................................... 35 
+5.1 Governancestrukturen ........................................................................... 35 
+5.2 Finanzielle Rahmenbedingungen .......................................................... 37 
+5.3 Rechtliche Rahmenbedingungen .......................................................... 38 
+5.4 Ethische Grundsätze ............................................................................. 40 
+6 Urbane digitale Zwillinge im Jahr 2035: drei Szenarien zur 
+künftigen Verbreitung ........................................................................ 42 
+6.1 Entwicklung der Szenarien ................................................................... 42 
+6.2 Szenario 1: Nachhaltige und an den Klimawandel angepasste Städte .. 43 
+6.3 Szenario 2: Insellösungen und verpasste Chancen ............................... 45 
+6.4 Szenario 3: Reaktive Maßnahmen und zögerliche Umsetzung ............ 47 
+7 Gestaltungsoptionen für urbane digitale Zwillinge ......................... 49 
+8 Literatur .............................................................................................. 53 
+9 Anhang................................................................................................. 57 
+9.1 Interviewpartner/innen .......................................................................... 57 
+9.2 Fokusgruppe: Teilnehmer/innen und Vorgehensweise ......................... 57 
+9.3 Abbildungen ......................................................................................... 59 
+9.4 Tabellen ................................................................................................ 59 
+9.5 Kästen ................................................................................................... 59 
+ 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Vorwort des Ausschusses 
+Urbane digitale Zwillinge sind virtuelle, dynamisch aktualisierte Abbilder von 
+Stadt- und Kommunalsystemen. Sie kombinieren Geobasisdaten mit
+bereichsspezifischen Fachinformationen, etwa zu Mobilität, Energie, Klima oder sozialer
+Infrastruktur, und integrieren dafür heterogene Daten aus öffentlichen und privaten 
+Quellen. 
+In Deutschland existieren zwar bereits zahlreiche Pilot- und Forschungsprojekte 
+für die Anwendung urbaner digitaler Zwillinge, allerdings bestehen noch
+regulatorische Lücken und Herausforderungen, etwa im Bereich der Skalierbarkeit von 
+Hardware- und Netzwerkinfrastrukturen oder der dauerhaften Finanzierung von 
+Betriebskosten urbaner digitaler Zwillinge. 
+Vor diesem Hintergrund initiierte der Ausschuss für Bildung, Forschung und 
+Technikfolgenabschätzung (20. WP) eine TA-Kompakt-Studie zum Thema
+„Potenziale des digitalen Zwillings für eine nachhaltige und klimaangepasste
+Stadtentwicklung“. Die Untersuchung wurde vom Büro für Technikfolgen-
+Abschätzung beim Deutschen Bundestag (TAB) durchgeführt, um eine wissenschaftlich 
+fundierte Grundlage für die parlamentarische Meinungsbildung zu schaffen. 
+Der vorliegende Bericht bietet einen Überblick über die Potenziale und Risiken 
+für eine nachhaltige und klimaangepasste Stadtentwicklung mit urbanen digitalen 
+Zwillingen sowie mögliche zukünftige Entwicklungspfade und technologische, 
+organisatorische und politische Gestaltungsoptionen. Während urbane digitale 
+Zwillinge ein wichtiges Instrument für die Stadtentwicklung sein können,
+zeichnet sich ab, dass zwar spezifische Zwillinge für Teilbereiche, wie etwa Verkehr, 
+Wärmeplanung oder die Simulation von Klimaanpassungsmaßnahmen, entstehen, 
+eine ganzheitliche Integration bislang jedoch noch nicht realisiert worden ist. 
+Auf Basis der in der TA-Kompakt-Studie gewonnenen Erkenntnisse wurden drei 
+alternative Szenarien zum Entwicklungsstand urbaner digitaler Zwillinge im Jahr 
+2035 entworfen. Dabei zeigt sich, dass in Abhängigkeit von Schlüsselfaktoren, 
+wie etwa den politischen Rahmenbedingungen und spezifischen
+Governancestrukturen, die Entwicklung von urbanen digitalen Zwillingen gestaltet
+werden kann, um vorhandene Potenziale zu heben. 
+Der Deutsche Bundestag erhält mit diesem Bericht eine aktuelle und fundierte 
+Informationsgrundlage zu einem Themenfeld, das für Forschungs- und
+Innovationspolitik, die Kommunalpolitik, die Baupolitik sowie die Umweltpolitik von 
+strategischer Bedeutung ist. 
+Berlin, den 10. Juni 2026 
+Prof. Dr. Karl Lauterbach 
+Vorsitzender 
+Prof. Dr. Reza Asghari 
+Berichterstatter 
+Prof. Dr.-Ing. habil. 
+Michael Kaufmann 
+Berichterstatter 
+Oliver Kaczmarek 
+Berichterstatter 
+Dr. Andrea Lübcke 
+Berichterstatterin 
+Sonja Lemke 
+Berichterstatterin  
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Marlène de Saussure 
+Susann Sophie Bernhold 
+Tobias Hungerland 
+Sonja Kind 
+ 
+unter Mitarbeit von 
+Tim Gensheimer 
+Potenziale des digitalen Zwillings für 
+eine nachhaltige und klimaangepasste 
+Stadtentwicklung 
+TA-Kompakt Nr. 7 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Das Büro für Technikfolgen-Abschätzung beim Deutschen Bundestag (TAB) berät das Parlament und seine
+Ausschüsse in Fragen des wissenschaftlich-technischen Wandels. Das TAB wird seit 1990 vom Institut für
+Technikfolgenabschätzung und Systemanalyse (ITAS) des Karlsruher Instituts für Technologie (KIT) betrieben.
+Grundlage ist ein Vertrag mit dem Deutschen Bundestag. Hierbei kooperiert es seit September 2013 mit dem IZT – 
+Institut für Zukunftsstudien und Technologiebewertung gGmbH sowie dem Institut für Innovation und Technik 
+(iit) in der VDI/VDE Innovation + Technik GmbH. 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Das Wichtigste in Kürze 
+Sechs Fragen – sechs Antworten 
+ Was sind urbane digitale Zwillinge (UDZ) und welche technischen Voraussetzungen sind notwendig für 
+UDZ? 
+– UDZ werden als virtuelle, dynamisch aktualisierte Abbilder von Stadt- und Kommunalsystemen
+definiert, die Geobasisdaten und bereichsspezifische Fachinformationen modular kombinieren. 
+– UDZ bieten deskriptive, diagnostische, prädiktive und simulationsbasierte Funktionen, visualisieren 
+komplexe Zusammenhänge (2D-/3D-Karten, Dashboards, AR/VR) und nutzen künstliche Intelligenz 
+(KI) für Mustererkennung, Prognosen und teilautonome Entscheidungen. 
+– Der Aufbau von UDZ erfordert die Integration heterogener Daten (zu Geobasis, Mobilität, Energie, 
+Klima, soziale Infrastruktur etc.) aus öffentlichen und privaten Quellen. 
+ Welche Potenziale bieten UDZ für eine nachhaltige Stadtentwicklung? 
+– UDZ können durch Emissionsreduktion, Ressourceneffizienz und transparente Bürgerbeteiligung
+ökologische, ökonomische und soziale Mehrwerte schaffen. 
+– Durch die Verknüpfung von Daten- und Simulationstools können UDZ konkrete Beiträge zur
+Erreichung der Nachhaltigkeitsziele leisten, insbesondere zur Erreichung von Ziel 11 (nachhaltige Städte 
+und Gemeinden) und 13 (Maßnahmen zum Klimaschutz), aber auch zur Erreichung weiterer
+ökologischer, sozialer und ökonomischer Ziele beitragen. 
+ Was sind Hemmnisse für die Entwicklung von UDZ? 
+– Die Skalierbarkeit und technische Leistungsfähigkeit von UDZ wird durch begrenzte Hardware- und 
+Netzwerkinfrastruktur, anspruchsvolle Datenerfassung, -übertragung, -verarbeitung und -visualisierung 
+sowie den hohen Ressourcen- und Energieverbrauch eingeschränkt. 
+– Fragmentierte Datenquellen, unterschiedliche Datenformate und mangelnde Standards erschweren den 
+Datenaustausch, die Integration und die bidirektionale Anbindung von UDZ. 
+– Die hohen Anfangsinvestitionen sowie laufende Betriebs- und Folgekosten von UDZ, die Unsicherheit 
+der langfristigen Finanzierung und bislang fehlende quantifizierte Nutzennachweise stellen vor allem 
+kleinere Kommunen mit begrenzten Haushaltsmitteln vor finanzielle Herausforderungen. 
+ Welche Rahmenbedingungen sind für die Entwicklung von UDZ förderlich? 
+– Klare Governancestrukturen, insbesondere ein robustes Datengovernanceframework mit definierten 
+Rollen, Verantwortlichkeiten und einer zentralen Koordinierungsstelle, sind unverzichtbar, um
+Datenqualität, Interoperabilität, rechtliche Vorgaben und die effektive Nutzung UDZ in kommunalen
+Prozessen zu gewährleisten. 
+– Zwar existieren verschiedene Finanzierungsmodelle und Förderprogramme (öffentliche Subventionen, 
+Public Private Partnerships, EU- und Bundesprogramme), aber die notwendige, langfristige
+Finanzierung für den Aufbau, Betrieb und die Weiterentwicklung von UDZ wird noch unzureichend unterstützt. 
+– Es bedarf klarer und konsistenter rechtlicher Rahmenbedingungen für UDZ, darunter Datenschutz- und 
+Sicherheitsvorgaben, Haftungs- und Genehmigungsregelungen sowie verbindliche Standards und
+Interoperabilitätsanforderungen. 
+– Ethische Grundsätze, wie etwa Nichtdiskriminierung, barrierefreie Zugänglichkeit, transparente
+Entscheidungsprozesse, verantwortungsbewusster Umgang mit Daten und die Vermeidung von Bias,
+müssen beachtet werden, um soziale Gerechtigkeit und Vertrauen zu sichern. 
+ Wie können künftige Entwicklungspfade für UDZ aussehen? 
+– Durch eine systematische Analyse von 37 Einflussfaktoren und auf Basis einer
+Wechselwirkungsanalyse wurden im vorliegenden TA-Kompakt drei plausible Szenarien für das Jahr 2035 entworfen. 
+– Szenario 1 schildert eine mögliche zukünftige Entwicklung, in der UDZ flächendeckend in allen
+Kommunen verankert und gesetzlich vorgeschrieben sind sowie finanziell unterstützt werden, sodass daten- 
+und KI-gestützte Planungsprozesse umfassende Klimaanpassungs- und Nachhaltigkeitsmaßnahmen
+ermöglichen und zugleich aktiv Bürgerbeteiligung sowie offene Datenökosysteme fördern. 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+– Szenario 2 skizziert eine mögliche Entwicklung, in der UDZ nur sporadisch und fragmentiert in
+einzelnen Städten eingesetzt werden, finanzielle und institutionelle Hürden zu unzureichender Skalierung 
+führen und dadurch viele Chancen für wirksame Klimaanpassung und nachhaltige Stadtentwicklung 
+verpasst bleiben. 
+– Szenario 3 beschreibt schließlich eine mögliche Entwicklung, in der UDZ kaum über einzelne
+Pilotprojekte hinaus genutzt werden, weil fehlende Finanzierung, schwacher politischer Wille und mangelnde 
+Integration zu einer reaktiven, fragmentierten Stadtentwicklung führen, bei der Klimarisiken nur
+punktuell und ohne langfristige, datengestützte Maßnahmen adressiert werden. 
+ Welche Gestaltungsoptionen lassen sich ableiten und welcher Forschungsbedarf besteht weiterhin? 
+– Um UDZ flächendeckend und wirkungsvoll für eine klimaangepasste und nachhaltige Stadtentwicklung 
+einsetzen zu können, sollten verschiedene technische, organisatorische und politische
+Gestaltungsoptionen miteinander verknüpft werden. Dazu gehören beispielsweise die Schaffung einer standardisierten 
+Systemarchitektur, der Ausbau von IoT-Sensornetzwerken und skalierbaren Recheninfrastrukturen, die 
+Umsetzung nutzungsfreundlicher Bedienschnittstellen, Einhaltung einer klaren Datengovernance,
+Etablierung nachhaltiger Finanzierungsmodelle, Schaffung eines verbindlichen Rechtsrahmens und die
+Gestaltung, orientiert an ethischen Leitlinien. 
+– Weiterer Forschungsbedarf besteht hinsichtlich robuster Mess- und Bewertungsmetriken, mit denen der 
+tatsächliche Mehrwert, die Kosteneffizienz, die gesellschaftlichen Auswirkungen und die langfristige 
+Wirksamkeit von UDZ-basierten Maßnahmen quantifiziert und deren Integration in Verwaltungs- und 
+Planungsprozesse systematisch untersucht werden. 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+1 Einleitung 
+– Der Anteil der Stadtbevölkerung wächst weiter, wodurch Kommunen zunehmend vor komplexen
+Herausforderungen wie Klimawandel, Ressourcenknappheit, Infrastrukturbelastung sowie sozialer Transformation 
+stehen und nachhaltige Lösungen für Planung, Steuerung und Resilienz entwickeln müssen. 
+– Urbane digitale Zwillinge (UDZ) können dabei als datenbasierte Entscheidungs- und
+Planungsunterstützung dienen, indem sie unterschiedliche Datenquellen integrieren, Wechselwirkungen sichtbar machen und 
+so eine nachhaltige und klimaangepasste Stadtentwicklung fördern. 
+Immer mehr Menschen leben in Städten: In Deutschland lag der Anteil der Stadtbevölkerung 2024 bei rund 78 %, 
+weltweit bei etwa 58 % (Statista 2025). Prognosen zufolge wird sich dieser Trend weiter verstärken. In 10 Jahren 
+sollen über 80 % der deutschen Bevölkerung in Städten wohnen (Statista 2025, S. 21). Städte werden damit auch 
+künftig der zentrale Lebens- und Handlungsraum für einen Großteil der Bevölkerung sein. 
+Mit der zunehmenden Urbanisierung gehen für deutsche Kommunen erhebliche Herausforderungen einher.
+Neben dem wachsenden Druck auf Flächen, Infrastrukturen und Dienstleistungen sind sie verstärkt gefordert, auf 
+übergeordnete Entwicklungen, wie den Klimawandel, demografischen Wandel und die zunehmende
+Ressourcenknappheit, zu reagieren. Hinzu kommen spezifische lokale Fragestellungen, etwa in den Bereichen Mobilität, 
+Energie- und Infrastrukturmanagement. Von besonderer Bedeutung sind zudem die Stärkung der Resilienz
+gegenüber Wetterextremen sowie der Katastrophenschutz (DIN 2024, S. 9; TAB 2023, S. 18 ff.). Lösungen sind 
+insofern nicht nur für die Funktionsfähigkeit städtischer Systeme gefragt. Sie müssen zunehmend auch den
+Anspruch an eine nachhaltige Stadtentwicklung erfüllen und dabei ökologische, soziale und ökonomische
+Zielsetzungen integrieren. 
+Generell sind Kommunen hochkomplexe Systeme, in denen vielfältige Infrastrukturen und öffentliche
+Dienstleistungen in Einklang mit den gesellschaftlichen Bedarfen geplant, betrieben und weiterentwickelt werden müssen. 
+Die hierfür notwendigen Planungs-, Steuerungs- und Entscheidungsprozesse erfolgen bislang über eine Mischung 
+aus analogen, teildigitalisierten und digitalen Verfahren, die häufig in unterschiedlichen fachlichen
+Zuständigkeitsbereichen organisiert sind (DIN 2024). 
+Vor diesem Hintergrund und angesichts der Notwendigkeit, städtische Entwicklungsprozesse stärker an
+Nachhaltigkeits- und Klimazielen auszurichten, gewinnen UDZ als digitales Instrument zur vorausschauenden,
+evidenzbasierten Entscheidungsunterstützung zunehmend an Bedeutung. Sie eröffnen neue Möglichkeiten, bestehende 
+Informationsressourcen aus unterschiedlichen Quellen miteinander zu verknüpfen und auszuwerten,
+Wechselwirkungen sichtbar zu machen, Szenarien zu simulieren sowie Planungs- und Entscheidungsprozesse, beispielsweise 
+durch Visualisierungen städtischer Umgebungen, zu unterstützen. Auf diese Weise können sie ein
+ganzheitlicheres Planen und Handeln in Kommunen fördern (DIN 2024). 
+UDZ sind dabei eng mit dem Konzept der Smart City verbunden. Smart-City-Ansätze verfolgen das Ziel, mithilfe 
+von Informations- und Kommunikationstechnologien einen Beitrag zur Bewältigung ökonomischer, ökologischer 
+und sozialer Herausforderungen zu leisten und nachhaltige Lösungen in der Stadtentwicklung zu fördern. In
+diesem Kontext können UDZ als eine Art digitales Cockpit verstanden werden, das relevante Zustände und
+Entwicklungen in der Stadt sichtbar macht und so eine datenbasierte Steuerung ermöglicht (DIN 2024). 
+Eine zentrale Voraussetzung für die Umsetzung von Smart-City-Konzepten und UDZ sind urbane
+Datenplattformen. Sie bilden die technische und organisatorische Grundlage dafür, heterogene Datenbestände
+zusammenzuführen und für die Planung, Analyse und Koordination zu nutzen. Die Datenplattformen integrieren
+unterschiedliche Datenquellen, etwa über Sensorik erfasste Daten, Daten aus der Verwaltung oder solche aus Systemen
+anderer Städte. Die Datenplattformen müssen vielfältige Anforderungen erfüllen, unter anderem in Bezug auf
+Datenformate, Schnittstellen, Lizenzen, Rechtemanagement und Datenqualität. Darüber hinaus stellen sich Fragen 
+zu geeigneten Betreiber- und Organisationsmodellen sowie zum langfristigen Betrieb von Datenplattformen.
+Aufseiten der kommunalen Akteure besteht zudem ein erheblicher Bedarf an entsprechenden Kompetenzen sowie 
+zeitlichen und finanziellen Ressourcen für deren Betrieb (Wangermann 2024). 
+Das besondere Potenzial von UDZ liegt weniger in einzelnen technischen Funktionen als vielmehr darin,
+unterschiedliche Daten aus verschiedenen Handlungsfeldern zusammenzuführen und Wechselwirkungen sichtbar zu 
+machen. 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Der Fokus der Studie liegt auf der Anwendung von UDZ im Kontext einer nachhaltigen und klimaangepassten 
+Stadtentwicklung. Nachhaltige Stadtentwicklung wird hier im Sinne eines mehrdimensionalen, komplexen
+Nachhaltigkeitskonzepts verstanden, das ökologische, ökonomische und soziale Dimensionen und damit verbundene 
+Zielsetzungen integriert. Dieses Verständnis geht auf das Aktionsprogramm Agenda 21 der Vereinten Nationen 
+zurück, das im Rahmen der Konferenz für Umwelt und Entwicklung in Rio de Janeiro 1992 verabschiedet wurde 
+und seitdem den globalen Handlungsrahmen für nachhaltige Entwicklung bildet. 
+Die ökonomische Dimension umfasst insbesondere langfristige Wertschöpfung, Effizienz sowie die Stabilität 
+ökonomischer Strukturen. Die soziale Dimension zielt auf Gerechtigkeit, gesellschaftlichen Zusammenhalt und 
+die Sicherung gesellschaftlicher Teilhabe (Kilpert/Qasem 2024). Und die ökologische Dimension beinhaltet
+neben dem Erhalt der biologischen Artenvielfalt und der Funktionsfähigkeit von Ökosystemen auch den maßvollen 
+Umgang mit nicht erneuerbaren Ressourcen, die schonende Nutzung regenerierbarer Naturgüter sowie den Schutz 
+des Klimas (Bertelsmann Stiftung o. J.). 
+Bei der Anwendung des komplexen Konzepts Nachhaltigkeit als analytisches Kriterium ist es wichtig, die
+einzelnen Dimensionen nicht isoliert zu betrachten, sondern ihre Wechselwirkungen zu berücksichtigen (DeGEval 
+2025). Eine Weiterentwicklung des Nachhaltigkeitskonzepts erfolgte im Rahmen der Agenda 2030 der Vereinten 
+Nationen, die 2015 von 193 Mitgliedstaaten verabschiedet wurde und 17 Nachhaltigkeitsziele (Sustainable
+Development Goals – SDGs) formuliert. Diese adressieren unter anderem die Bereiche Klimaschutz, sauberes
+Wasser, Gesundheit, Bildung, Armut, Hunger und Frieden (BMUKN o. J). 
+Vor diesem Hintergrund bezeichnet der Begriff „nachhaltige Stadtentwicklung“ einen verantwortungsvollen
+Umgang mit natürlichen, sozialen und ökonomischen Ressourcen im urbanen Raum – sowohl für die heutige als auch 
+zukünftige Stadtbevölkerung sowie für die in der Stadt lebenden Menschen und Besucher/innen (Breckner 2018). 
+Da Städte in erheblichem Maße zum Ressourcenverbrauch, zu Emissionen, zur Flächeninanspruchnahme sowie 
+zu sozialen Ungleichheiten beitragen, kommt ihnen eine besondere Bedeutung bei der Umsetzung von
+Nachhaltigkeitszielen zu. Insbesondere das Nachhaltigkeitsziel 11 „Nachhaltige Städte und Gemeinden“ verpflichtet dazu, 
+Entwicklungsprozesse und Aktivitäten innerhalb von Städten systematisch an den Prinzipien der Nachhaltigkeit 
+auszurichten (UN o. J.). 
+Zielstellung 
+Das vorliegende TA-Kompakt untersucht die Anwendungsmöglichkeiten und Herausforderungen von UDZ im 
+Kontext einer klimaangepassten und nachhaltigen Stadtentwicklung. Ziel ist es, sowohl Potenziale als auch 
+Hemmnisse zu identifizieren und gesellschaftliche Auswirkungen einer zunehmenden Realisierung von UDZ in 
+der Stadtplanung zu beschreiben. Dazu werden der aktuelle Stand der Entwicklung dargestellt sowie ausgewählte 
+praktische Anwendungsfälle beleuchtet. Darauf aufbauend werden mögliche politische Gestaltungsoptionen
+aufgezeigt. 
+Ergänzend wurden Perspektiven aus der Bevölkerung einbezogen, um Einsichten darüber zu gewinnen, welche 
+Erwartungen, Bedarfe und Befürchtungen Bürger/innen mit dem Einsatz von UDZ verbinden und welche
+Implikationen sich daraus für politische Gestaltungsprozesse ergeben. 
+Die Studie orientiert sich an folgenden sechs Leitfragen: 
+– Was sind UDZ und welche technischen Voraussetzungen erfordern sie? 
+– Welche Potenziale bieten UDZ für eine nachhaltige Stadtentwicklung? 
+– Was sind Hemmnisse für die Entwicklung von UDZ? 
+– Welche Rahmenbedingungen sind für die Entwicklung von UDZ förderlich? 
+– Wie können künftige Entwicklungsperspektiven für UDZ aussehen? 
+– Welche Gestaltungsoptionen lassen sich ableiten und welcher Forschungsbedarf besteht weiterhin? 
+Vorgehensweise 
+Es wurde eine Literaturrecherche und -analyse (Desk Research) durchgeführt. Darüber hinaus wurden neun
+leitfadengestützte Interviews mit relevanten Stakeholdern aus dem Bereich der Stadtentwicklung, Kommunalpolitik, 
+Technologieentwicklung, Forschung und Planung geführt. Darauf aufbauend wurden mithilfe der Szenariotechnik 
+sieben zentrale Schlüsselfaktoren für den Einsatz von UDZ im Kontext einer klimaangepassten und nachhaltigen 
+Stadtentwicklung identifiziert. Auf dieser Grundlage wurden drei mögliche Zukunftsszenarien entwickelt, von 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+denen aus methodischen Gründen (Kapitel 9.2) zwei im Rahmen eines Fokusgruppenworkshops mit Vertreter/
+innen der Zivilgesellschaft diskutiert wurden, um Einschätzungen, Bedarfe und Vorbehalte zu erfassen. 
+Aufbau des Berichts 
+Der Bericht beginnt mit der Einführung in das Konzept der UDZ und den technologischen Voraussetzungen
+(Kapitel 2). Danach folgt ein Überblick über Potenziale und Anwendungsfelder von UDZ für nachhaltige und
+klimaangepasste Stadtentwicklung sowie ausgewählte Praxisbeispiele (Kapitel 3). Die Grenzen und Herausforderungen 
+bei der nachhaltigen und klimaangepassten Stadtentwicklung mit UDZ werden in Kapitel 4 diskutiert.
+Anschließend werden Gelingensbedingungen formuliert (Kapitel 5) und in Kapitel 6 drei Szenarien für eine Nutzung von 
+UDZ im Jahr 2035 vorgestellt. Mit einem Resümee und politischen Gestaltungsperspektiven endet der Bericht 
+(Kapitel 7). 
+Zur Erstellung dieses Berichts wurden generative KI-Tools verwendet, und zwar Perplexity AI für die
+Textrecherche sowie AitisiGPT für die Erstellung von Zusammenfassungen. Alle KI-generierten Inhalte wurden sorgfältig 
+überprüft und bearbeitet, um Richtigkeit und Ausgewogenheit sicherzustellen. Die Nutzung erfolgte im Rahmen 
+der TAB-Leitlinien für generative KI (TAB 2025). Die endgültige Verantwortung für die inhaltliche Richtigkeit, 
+die kritische Reflexion und die Interpretation der Ergebnisse liegt bei den Autor/innen. 
+Danksagung 
+Wir bedanken uns sehr herzlich bei den Expert/innen, die mit ihrem Engagement für Interviews zur Verfügung 
+standen. Ein ebenso herzlicher Dank geht an Christoph Kehl und Arnold Sauter für die Durchsicht des
+Berichtsentwurfs und hilfreiche Verbesserungsvorschläge sowie Brigitta-Ulrike Goelsdorf für die Durchsicht und
+Gestaltung der Endfassung des Manuskripts, außerdem an Jost Lüddecke für das Lektorat sowie Anne-Sophie Piehl für 
+die Erstellung der Grafiken. 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+2 Urbane digitale Zwillinge für eine klimaangepasste, nachhaltige Stadtentwicklung 
+– Urbane digitale Zwillinge (UDZ) werden als virtuelle, dynamisch aktualisierte Abbilder von Stadt- und 
+Kommunalsystemen definiert, die Geobasisdaten und bereichsspezifische Fachinformationen modular 
+kombinieren. 
+– UDZ bieten deskriptive, diagnostische, prädiktive und simulationsbasierte Funktionen, visualisieren
+komplexe Zusammenhänge (2D-/3D-Karten, Dashboards, AR/VR) und nutzen KI für Mustererkennung,
+Prognosen und teilautonome Entscheidungen. 
+– Der Aufbau von UDZ erfordert die Integration heterogener Daten (zu Geobasis, Mobilität, Energie, Klima, 
+soziale Infrastruktur etc.) aus öffentlichen und privaten Quellen. 
+– Aktuell lassen sich rund 135 Projekt-Initiativen von UDZ in Deutschland identifizieren, von denen die 
+meisten sich noch in Pilot- oder Prototyp-Phasen befinden, während flächendeckende Implementierungen 
+noch ausstehen. 
+2.1 Definition und Konzept 
+Definition 
+Der Begriff des digitalen Zwillings stammt ursprünglich aus dem industriellen Kontext und wurde zu Beginn der 
+2000er Jahre geprägt (Grieves 2014). Im industriellen Kontext bezeichnet „digitaler Zwilling das virtuelle Abbild 
+eines ausgewählten Teils der Realität, zum Beispiel eines Produktes oder industriellen Prozesses,“ das auf der 
+Grundlage kontinuierlich erhobener Daten erzeugt wird. Werden diese Daten fortlaufend aktualisiert, kann sich 
+der digitale Zwilling dynamisch an Veränderungen des realen Objekts anpassen und dessen Zustand nahezu in 
+Echtzeit abbilden. 
+Die im digitalen Zwilling gebündelten Daten können gezielt ausgewertet werden, um zu verschiedenen
+Fragestellungen Erkenntnisse über Eigenschaften, Zusammenhänge oder Entwicklungsdynamiken des realen Systems zu 
+gewinnen. Auf dieser Grundlage lassen sich Simulationen durchführen und mögliche zukünftige Entwicklungen 
+prognostizieren. Digitale Zwillinge dienen damit nicht nur der Abbildung bestehender Zustände, sondern auch 
+der Analyse, Bewertung und vorausschauenden Unterstützung von Entscheidungsprozessen (CUT o. J.). 
+Die Übertragung dieses Konzepts auf Städte und Kommunen stellt eine Weiterentwicklung der zugrunde
+liegenden Idee dar. Während sich digitale Zwillinge im industriellen Kontext in der Regel auf klar abgegrenzte Objekte 
+oder Prozesse beziehen, sind Städte durch eine hohe strukturelle Komplexität, vielfältige Akteurskonstellationen 
+und dynamische Wechselwirkungen gekennzeichnet. 
+Kasten 2 .1  Definition urbaner digitaler Zwilling 
+UDZ dienen im städtischen und kommunalen Kontext als Konzept zur Organisation und Nutzbarmachung aller 
+Daten, die innerhalb bestimmter Bereiche anfallen. „Diese städtischen Daten betreffen vielfältige Aspekte der 
+Stadt, darunter ihre physischen Bestandteile (Gebäude, Verkehrswege, Parks etc.), ihre logistischen Strukturen 
+(Bildungseinrichtungen, medizinische Einrichtungen, Energieversorgung etc.), ihre Akteure (Unternehmen, 
+Gewerbe, Verwaltung, Bürgerschaft etc.) und deren Handlungsprozesse.“ (Wangermann 2024, S. 3 f.) 
+Ein UDZ bildet also die digitalen Ressourcen einer Kommune ab, wobei technische, organisatorische und
+rechtliche Aspekte eine Rolle spielen. Den einen umfassenden UDZ gibt es allerdings nicht: Aus den vielen zur
+Verfügung stehenden Datenbereichen werden je nach Bedarf und Anforderung aus Geobasisinformationen,
+Anwendungen, Fachdaten, Analysen etc. die erforderlichen Komponenten zu einer Instanz zusammengestellt (fachliche 
+Zwillinge). Eine solche Instanz eines UDZ ergibt somit ein realitätsnahes digitales Abbild eines Stadtausschnittes. 
+Das Thema „Digitale Zwillinge“ in der Stadtentwicklung wurde in den letzten Jahren von zahlreichen Akteuren 
+aus Wissenschaft, Politik und Verwaltung aufgegriffen und bearbeitet, sodass ein umfassender Wissensbestand 
+vorliegt. Dies spiegelt sich in einer Vielzahl öffentlich zugänglicher Berichte (BBSR 2023b, 2023a; Blüml et al. 
+2025; Deutscher Städtetag 2023; Richthofen et al. 2023; Sahr et al. 2023) sowie wissenschaftlichen Publikationen 
+(Argota Sánchez-Vaquerizo 2025; Dembski et al. 2020; Lei et al. 2023; Pan et al. 2024; VanDerHorn/Mahadevan 
+2021). 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Eine besonders relevante Norm ist die 2024 veröffentlichte DIN SPEC 91607 „Digitale Zwillinge für Städte und 
+Kommunen“ (DIN 2024). Diese definiert grundlegende Begriffe, Handlungsfelder und Nutzungsszenarien für 
+UDZ und bietet praxisorientierte Leitlinien für den kommunalen Einsatz. Sie bildet einen wichtigen
+Referenzrahmen für diese Studie. 
+Konzept 
+Im Kern basiert ein UDZ auf drei miteinander verknüpften Komponenten (Abbildung 2.1): 
+– der physischen Realität, also der gebauten und belebten Stadt mit ihren Infrastrukturen, Prozessen und
+Akteuren; 
+– der modellbasierten, virtuellen Repräsentation dieser Realität; und 
+– der bidirektionalen Verbindung zwischen physischer und digitaler Ebene, die einen kontinuierlichen Daten- 
+und Informationsfluss sowie eine Rückkopplung, Analyse und – in begrenztem Umfang – eine Steuerung 
+ermöglicht (DIN 2024). 
+UDZ bauen dabei in der Regel auf bereits bestehende Daten- und Informationssysteme auf und integrieren diese 
+in eine gemeinsame Struktur. 
+Abbildung 2.1  Typische Hauptkomponenten urbaner digitaler Zwillinge 
+ 
+Eigene Darstellung basierend auf DIN (2024, S. 21) 
+UDZ bilden komplexe, dynamische Systeme ab, in denen städtische Prozesse, Infrastrukturen und (ökologische) 
+Lebensräume digital gespiegelt, simuliert und analysiert werden können. Sie ermöglichen eine strukturierte
+Erfassung, Integration und Nutzbarmachung vielfältiger städtischer Datenbestände. Abhängig von der
+Datenverfügbarkeit und der jeweiligen Fragestellung können dabei unterschiedliche Aspekte des urbanen Raums erfasst
+werden, etwa bauliche Strukturen (zum Beispiel Gebäude, Straßen, Brücken, Plätze), technische Infrastrukturen (zum 
+Beispiel Verkehrswege, Energie- und Wasserversorgung, Waren- und Abfallflüsse) oder soziokulturelle
+Interaktionsräume von Menschen, etwa in Bezug auf Wohnen, Arbeiten und Lernen. Diese Elemente lassen sich in ihrer 
+räumlichen und funktionalen Wechselwirkung analysieren (Wangermann 2024). 
+Einbezogen werden können darüber hinaus ökologische Aspekte, wie etwa Wärmeentwicklung, Verschattung, 
+Luftzirkulation oder Biodiversität, sowie sicherheitsrelevante Fragestellungen, beispielsweise die Modellierung 
+von Wasserabflusswegen bei Starkregenereignissen oder die Ausbreitung von Bränden. Damit bieten UDZ
+grundsätzlich die Möglichkeit, umweltbezogene und risikorelevante Prozesse räumlich zu erfassen und in Planungs- 
+und Entscheidungsprozesse einzubeziehen. Insofern liegt der Mehrwert von UDZ im Kontext einer
+klimaangepassten und nachhaltigen Stadtentwicklung in der Möglichkeit, ökologische, technische und soziale Daten
+integriert zu betrachten und Zielkonflikte sowie Synergien zwischen unterschiedlichen Handlungsfeldern sichtbar zu 
+machen. 
+In letzter Konsequenz existiert im urbanen Kontext kein einzelner übergeordneter UDZ. Stattdessen entsteht
+häufig ein funktionales Ökosystem aus mehreren spezialisierten digitalen Zwillingen, die sich modular ergänzen und 
+je nach Anwendungsfall kombiniert werden. 
+Diese spezialisierten digitalen Zwillinge – auch als Instanzen oder Fachzwillinge bezeichnet – erfüllen
+unterschiedliche Zwecke und sind beispielsweise thematisch (zum Beispiel erneuerbare Energien, Gebäudeenergie, 
+Mobilität, Wohnen), räumlich (zum Beispiel Gesamtstadt, Quartier) oder zeitlich (zum Beispiel Echtzeit,
+historische Daten, definierte Zeiträume) ausgerichtet. Einzelne Fachzwillinge können zudem miteinander verknüpft 
+werden, etwa Zwillinge mit Schwerpunkt auf Klima- und Umweltaspekten mit solchen, die soziale oder
+demografische Fragestellungen abbilden (DIN 2024). 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+In der Regel greifen verschiedene UDZ dabei auf gemeinsame technische Komponenten und teilweise identische 
+Datenquellen zurück (Blüml et al. 2025; Deutscher Städtetag 2023; Schubbe et al. 2023) (Abbildung 2.2). Eine 
+zentrale Informationsressource (nummerierte Elemente in Abbildung 2.2) für viele urbane digitale Zwillinge (1) 
+ist der Geobasisdatenzwilling (2). Dieser umfasst geodätische und georeferenzierte Daten, die den räumlichen 
+Bezug definieren und damit die Verknüpfung fachlicher Daten mit Geoinformationen ermöglichen. Dazu zählen 
+unter anderem hochaufgelöste Luftbilder, aus Laserscanning gewonnene 3D-Punktwolken, digitale
+Höhenmodelle sowie Katasterdaten (Stadt Wuppertal o. J.). 
+Abbildung 2.2  Konzept urbaner digitaler Zwilling 
+ 
+Eigene Darstellung angelehnt an Deutscher Städtetag (2023, S. 14) und DIN (2024) 
+Der Geobasisdatenzwilling bildet eine wesentliche Grundlage für Visualisierungen, Simulationen und räumliche 
+Analysen und ist damit für zahlreiche Anwendungsfälle der UDZ von Bedeutung (Deutscher Städtetag 2023). 
+Ergänzend zum Geobasisdatenzwilling können Fachzwillinge mit weiteren daten- und modellbasierten Systemen 
+verknüpft werden. Besonders relevant sind hierbei das Building Information Modeling (BIM)1 (3), welches die 
+Abbildung von Gebäuden und der Infrastrukturen über den Lebenszyklus ermöglicht, sowie das City Information 
+Modeling (CIM) (4), das die BIM-Methoden aus dem Gebäudewesen auf den Maßstab städtischer Strukturen 
+überträgt. 
+Die verschiedenen UDZ bzw. Fachzwillinge ebenso wie der Geobasisdatenzwilling greifen auf Fach- und
+Basisdaten zurück, die in einer urbanen Datenplattform (5) gesammelt, verwaltet und darüber bereitgestellt werden. 
+Diese Plattformen fungieren als zentrale Datendrehscheibe für UDZ. 
+Tabelle 2.1 in Kapitel 2.2 gibt einen Überblick über mögliche Datenquellen. Ergänzend können externe
+Datenquellen (6) einbezogen werden, etwa Daten aus Datenplattformen anderer Kommunen oder aus weiteren
+städtischen IT-Systemen, die bislang (noch) nicht in die urbanen Datenplattformen integriert sind. 
+2.2 Datentypen und Datenquellen 
+Für den Aufbau und den Betrieb von UDZ ist die Integration vielfältiger städtischer Datenbestände erforderlich. 
+Diese Daten bilden die Grundlage für Analyse-, Simulations- und Visualisierungsfunktionen und unterscheiden 
+sich sowohl hinsichtlich ihres thematischen Bezugs als auch ihrer räumlichen und zeitlichen Auflösung. 
+ 
+1  BIM ist eine Methode zur kontinuierlichen Bereitstellung und zum Austausch von Informationen in Bauprojekten. Der Informationsfluss 
+wird in allen Projektphasen über den Gebäudelebenszyklus hinweg koordiniert. Da die Konzepte des BIM-Informationsmanagements 
+nicht auf bauspezifische Abläufe beschränkt sind, können diese auch grundsätzlich von UDZ angewandt werden. BIM-Daten können 
+integriert werden, um detaillierte Informationen über Gebäude und Infrastrukturen zu nutzen. 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Zu den relevanten Datentypen zählen unter anderem Informationen zu Gebäudeeigenschaften, etwa Baujahr,
+Nutzung, eingesetzte Energieträger oder Sanierungszustand (DIN 2024). Ergänzt werden diese durch Mobilitäts- und 
+Verkehrsdaten, die beispielsweise für Emissionsberechnung oder die Bewertung verkehrsbedingter
+Umweltbelastungen herangezogen werden können (Deutscher Städtetag 2023). Weitere wichtige Datenquellen sind
+Fernerkundungsdaten wie Satelliten- oder Luftbilder, die unter anderem zur Analyse von Hitzeentwicklung,
+Dürreperioden oder Flächennutzungsveränderungen genutzt werden. Ebenso relevant sind die Daten aus Baumkatastern 
+oder zu Dachflächenpotenzialen, beispielsweise zur Abschätzung von Verschattungswirkungen oder zur Planung 
+von Photovoltaikanlagen (Deutscher Städtetag 2023). 
+Die Bandbreite typischer Datentypen, die im Rahmen von UDZ genutzt werden können, ist in Tabelle 2.1
+dargestellt. Sie verdeutlicht, dass UDZ Daten aus unterschiedlichen kommunalen Handlungsfeldern zusammenführen 
+und damit eine integrierte Betrachtung städtischer Systeme ermöglichen. 
+Tabelle 2.1  Typische Daten für die Nutzung durch urbane digitale Zwillinge 
+Datenkategorie Beispiele 
+Geobasisdaten Gebäudegrundrisse, 3D-Stadtmodelle, Katasterdaten, Geländemodelle, 
+Luftbilder, Flächennutzung 
+Mobilitätsdaten Verkehrsflüsse, ÖPNV-Fahrpläne und -Auslastung, Fuß- und Radverkehrsdaten, 
+Parkraumbelegung 
+Energiedaten Strom- und Wärmeverbrauch, Energieerzeugung (PV, Wind), Ladeinfrastruktur, 
+Netzauslastung 
+Klimadaten Temperaturverläufe, Starkregenereignisse, Hitzekarten, Winddaten, Luftqualität 
+Gebäudedaten Baujahr, Nutzungstyp, Energieeffizienzklassen, Sanierungsstatus, Materialien 
+Soziale Infrastruktur Kitas, Schulen, Pflegeeinrichtungen, Krankenhäuser, Erreichbarkeiten, 
+Belegungen 
+Umwelt- und Biodiversität Grünflächen, Versiegelungsgrad, Baumkataster, Artenverteilung, 
+Biodiversitätsindikatoren 
+Wasser- und Abwasserdaten Leitungsnetze, Wasserverbrauch, Überflutungsgebiete, Kanalnetz, 
+Rückhaltebecken 
+Bevölkerungsdaten Einwohnerdichte, Altersstruktur, Haushaltsgrößen, sozioökonomische 
+Indikatoren 
+Wirtschaftsdaten Branchenverteilung, Arbeitsplätze, Gewerbeflächen, Leerstände, 
+Immobilienpreise 
+Katastrophenschutzdaten Evakuierungspläne, Notfallrouten, Risikozonen, Feuerwehrstandorte 
+Partizipationsdaten Bürgerbeteiligungen, Umfragen, Feedback aus Beteiligungsplattformen 
+rechtlich-planerische Daten Bebauungspläne, Flächennutzungspläne, Baurechtliche Vorgaben, 
+Umweltauflagen 
+Eigene Zusammenstellung 
+Die für UDZ genutzten Daten stammen in der Regel aus unterschiedlichen institutionellen Kontexten.
+Bereitgestellt werden sie unter anderem von kommunalen Einrichtungen, Behörden, kommunalen und privaten
+Versorgungsunternehmen, Forschungseinrichtungen sowie privatwirtschaftlichen Akteuren (Abbildung 2.3). Diese
+Vielfalt an Datenquellen verdeutlicht einerseits das große Nutzungspotenzial, deutet anderseits aber auch darauf hin, 
+dass zahlreiche organisatorische und rechtliche Anforderungen damit verbunden sind, einen UDZ zu betreiben. 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Abbildung 2.3  Bereitstellende Akteure von Daten zur Nutzung durch UDZ 
+ 
+Eigene Darstellung 
+2.3 Funktionalitäten, Visualisierungen und Einsatz von KI 
+Je nach Fragestellung, Datenverfügbarkeit und technischer Ausprägung können UDZ unterschiedliche
+Funktionalitäten übernehmen. Grundsätzlich lassen sich die Funktionalitäten entlang verschiedener analytischer Ebenen 
+unterscheiden, die von der Beschreibung des aktuellen Ist-Zustands bis hin zur Unterstützung oder teilweisen 
+Automatisierung von Entscheidungen reichen. Die Funktionalitäten werden dabei zunehmend auch durch die 
+technologischen Möglichkeiten von künstlicher Intelligenz (KI) geprägt. 
+Unterschieden werden deskriptive, diagnostische, prädiktive und simulationsbasierte Funktionalitäten sowie – in 
+weiterentwickelten Formen – selbstlernende und (teil)autonome Entscheidungsfunktionen (Blüml et al. 2025) 
+(Tabelle 2.2). In der praktischen Anwendung sind diese Funktionalitäten häufig miteinander kombiniert; die
+Übergänge zwischen den einzelnen Ebenen sind fließend. Mit zunehmendem Anspruch an Prognose- und
+Entscheidungsfähigkeit steigt zugleich der technische, organisatorische und institutionelle Komplexitätsgrad der Systeme. 
+Während deskriptive und diagnostische Funktionalitäten bereits vergleichsweise verbreitet sind, stellen prädiktive 
+und insbesondere simulationsbasierte Anwendungen deutlich höhere Anforderungen an Datenqualität,
+Modellierung und Rechenleistung. Den höchsten Komplexitätsgrad weisen selbstlernende und (teil)autonome Systeme auf 
+(Blüml et al. 2025; DIN 2024; Weil et al. 2023): 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Tabel le 2.2  Funktionalitäten von UDZ 
+ Deskriptiv:  
+Was passiert? 
+Diagnostisch: 
+Warum 
+passiert es? 
+Prädiktiv: 
+Was wird 
+passieren? 
+Simulieren: 
+Was passiert, 
+wenn …? 
+(Teil)autonom
+es 
+Entscheiden: 
+Was soll 
+passieren? 
+Beispiele Darstellung und 
+Visualisierung 
+von
+Oberflächentemperaturen,
+Versiegelungsgraden, 
+Grün- und
+Freiflächen,
+Niederschlagsereignissen 
+Monitoring von 
+Ist- und
+Sollzustand, zum
+Beispiel von
+Energiesystemen
+Wechselwirkung zwischen
+Bebauungsdichte,
+Materialität, Vegetation 
+und lokaler
+Hitzebelastung 
+Prognose von 
+Niederschlägen,
+Windströmungen,
+Hitzebelastungen etc. 
+Bewertung und 
+Ableitung von 
+Empfehlungen 
+zu
+verschiedenen
+Maßnahmen, zum
+Beispiel zur
+Begrünung,
+Entsiegelung, Bebauung 
+auf Mikroklima,
+Abflussverhalten von Wasser 
+oder
+Aufenthaltsqualität 
+(teil)autonome 
+Entscheidungen 
+mittels
+selbstlernender
+Verfahren; zum
+Beispiel
+selbständiges Einleiten 
+von
+Maßnahmen zum
+Energie- oder
+Wassermanagement 
+auf Basis
+gemessener
+Zustände in der 
+Stadt 
+technische  
+Anforderung 
+Verfügbarkeit 
+statistischer
+Daten zum
+physischen Objekt 
+Anbindung des 
+physischen
+Objekts mit
+Sensoren, Internet-of-
+Things-Geräten 
+etc. 
+Erweiterung um 
+prognostische
+Analysemethoden 
+Verfügbarkeit 
+von
+Softwareanwendungen zur 
+Simulation 
+Verfügbarkeit 
+von
+Softwareanwendungen zur
+Entscheidungsfindung und 
+Ausführung, KI-
+gestützte
+Verfahren 
+Eigene Zusammenstellung und Ergänzung basierend auf DIN (2024, S. 40 ff.) und Blüml et al. (2025) 
+– Deskriptive UDZ erfassen relevante Umwelt-, Infrastruktur- und Nutzungsdaten und machen den aktuellen 
+Zustand der Stadt nachvollziehbar. Im Kontext der Klimaanpassung können sie beispielsweise die räumliche 
+Verteilung von Oberflächentemperaturen, Versiegelungsgraden, Grün- und Freiflächen oder
+Niederschlagsereignissen darstellen. Dadurch werden Hitzehotspots, potenziell überflutungsgefährdete Bereiche 
+oder Defizite in der grünen Infrastruktur sichtbar und vergleichbar. Diese Form der Zustandsbeschreibung 
+bildet die Grundlage für weiterführende diagnostische oder prädiktive Auswertungen, die in datenbasierten 
+Klimaanpassungsstrategien münden können. 
+– Diagnostische UDZ gehen über die reine Zustandsdarstellung hinaus und ermöglichen es, Ursachen und
+Zusammenhänge klima- und umweltrelevanter Phänomene zu analysieren. So können etwa Wechselwirkungen 
+zwischen Bebauungsdichte, Materialität, Vegetation und lokaler Hitzebelastung untersucht oder die Ursachen 
+für Überflutungen nachvollzogen werden. Darüber hinaus können Daten aus optischen Sensoren oder
+Kamerasystemen ausgewertet werden, um Auffälligkeiten, Störungen oder Effizienzprobleme in urbanen
+Infrastruktursystemen – etwa in der Energieversorgung – zu identifizieren und zu erklären. 
+– Prädiktive UDZ erweitern diese Analysen um Prognosen zukünftiger Entwicklungen. Auf Basis historischer 
+Daten, aktueller Messwerte und Modellannahmen können sie beispielsweise zukünftige Hitzebelastungen, 
+die Entwicklung des Wasserhaushalts oder die Auswirkungen klimatischer Extremereignisse unter
+veränderten Rahmenbedingungen abschätzen. Damit unterstützen sie eine vorausschauende Planung und die
+Bewertung langfristiger Anpassungsstrategien. 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+– Aufbauend darauf ermöglichen simulationsbasierte UDZ, unterschiedliche Szenarien unter variierenden
+Annahmen zu modellieren und ihre potenziellen Auswirkungen vergleichend zu analysieren. So kann simuliert 
+werden, wie sich etwa städtebauliche Maßnahmen, zum Beispiel zusätzliche Begrünung, Entsiegelung,
+veränderte Bebauungsstrukturen oder wasserwirtschaftliche Eingriffe, auf Mikroklima, Abflussverhalten von 
+Wasser oder Aufenthaltsqualität auswirken könnten. Diese „Was wäre, wenn“-Analysen sind insbesondere 
+für Planungsprozesse und die Abwägung alternativer Maßnahmen im Rahmen einer nachhaltigen
+Stadtentwicklung relevant. 
+– Die komplexeste Ausprägung stellen UDZ dar, die mithilfe selbstlernender und KI-gestützter Verfahren in 
+der Lage sind, Entscheidungen (teil)autonom vorzubereiten oder zu treffen. Solche Systeme kombinieren 
+kontinuierliche Datenerfassung, Modellanpassung und algorithmische Entscheidungslogiken und bewegen 
+sich damit an der Schnittstelle zwischen Entscheidungsunterstützung und automatisierter Steuerung.
+Anwendungsbeispiele finden sich etwa im Energie- oder Wassermanagement, bei denen Betriebsstrategien
+dynamisch an gemessene Zustände angepasst werden können. Derartige Systeme befinden sich bislang
+überwiegend im Forschungs- und Pilotstadium und werfen Fragen hinsichtlich Transparenz, Verantwortlichkeit und 
+rechtlicher Rahmenbedingungen auf. 
+Visualisierungen 
+Im Kontext einer klimaangepassten und nachhaltigen Stadtentwicklung kommt der Aufbereitung und
+Visualisierung von Daten eine zentrale Bedeutung zu. UDZ ermöglichen es, umfangreiche und heterogene Datenbestände 
+– etwa zu Umweltbedingungen, Infrastrukturen, baulicher sowie energetischer Nutzung – zu integrieren,
+auszuwerten und so aufzubereiten, dass sie für Entscheidungs- und Steuerungsprozesse in Kommunen nutzbar werden 
+(Schubbe et al. 2023). Gerade bei klimarelevanten Fragestellungen, die durch räumliche und zeitliche Dynamiken 
+sowie hohe Unsicherheiten geprägt sind, tragen geeignete Darstellungsformen dazu bei, komplexe
+Zusammenhänge verständlich und vergleichbar zu machen. 
+Die Ergebnisse von Analysen und Simulationen werden daher in verschiedene Darstellungs- und Ausgabeformate 
+überführt, die sich an den Bedarfen verschiedener Zielgruppen aus Verwaltung, Politik und in bestimmten Fällen 
+auch der Öffentlichkeit orientieren. 
+Zu den typischen Ausgabemedien zählen interaktive Dashboards, in denen zentrale Kennzahlen, Indikatoren und 
+Zeitreihen in aggregierter Form dargestellt werden. Dies können beispielsweise Klimakenngrößen sein, die als 
+Zeitreihen visualisiert werden, sodass Entwicklungen über längere Zeiträume nachvollziehbar werden. Auf diese 
+Weise lassen sich Trends, Veränderungen und potenzielle Handlungsbedarfe frühzeitig erkennen. 
+Kartenbasierte 2D- oder 3D-Darstellungen auf der Grundlage geodätischer Daten machen räumliche
+Zusammenhänge sichtbar und ermöglichen so zum Beispiel differenzierte Analysen klimatischer Belastungen und
+Vulnerabilitäten auf unterschiedlichen Maßstabsebenen, etwa auf der Quartiers- oder einzelnen Straßenebene (Stadt
+Wuppertal o. J.). Ergänzend erlauben zwei- und dreidimensionale Stadtmodelle, bauliche, funktionale oder
+umweltbezogene Strukturen realitätsnah abzubilden. So können unter anderem Hitzehotspots, Kaltluftentstehungsgebiete 
+oder Abflusswege bei Starkregen anschaulich dargestellt werden (Schlagbauer 2024) (Abbildung 2.4). 
+Abbildung 2.4  Typische Darstellungsformen von UDZ 
+ 
+Eigene Darstellung basierend auf DIN (2024, S. 43) 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Darüber hinaus können aus den mithilfe des UDZ durchgeführten Analysen (teil)automatisierte Berichte generiert 
+werden, die Ergebnisse dokumentieren und für die Verwaltungs-, Planungs- oder Entscheidungsprozesse nutzbar 
+machen. In Kombination mit Augmented(AR)- oder Virtual-Reality(VR)-Technologien erweitern sich die
+Darstellungsformen um immersive Elemente. Stadträume, Quartiere oder einzelne Maßnahmen können so virtuell 
+erkundet, maßstabsgerecht begehbar gemacht werden, wodurch beispielsweise die potenziellen Auswirkungen 
+von Klimaanpassungsmaßnahmen anschaulich vermittelt werden können (Wangermann 2024). 
+Einsatz von KI 
+Aufgrund ihrer rasanten Entwicklung sind Anwendungen der KI eine Schlüsseltechnologie, die auch für UDZ 
+viele Entwicklungspotenziale bieten und deren Funktionalitätsspektrum beeinflussen. Parallel zu den
+Technologieentwicklungen rund um KI, Big Data und IoT-Technologien entwickeln sich somit auch die Möglichkeiten 
+von UDZ weiter (Weil et al. 2023). 
+Methoden der KI können beispielsweise genutzt werden, um Zusammenhänge und Muster in großen Datensätzen 
+automatisiert zu erkennen (zum Beispiel Hotspots, Anomalien), Szenarien und Prognosen zu erstellen (zum
+Beispiel zu Hitzeentwicklung und Luftqualität) und Entscheidungsoptionen zu bewerten (BBSR 2023a; Marx/Seidel 
+2025). Vor allem jene UDZ, die über rein deskriptive Funktionalitäten hinausgehen, und insbesondere solche, die 
+prognostizieren und (teil)autonome Entscheidungen fällen sollen, können nur mithilfe von KI-Anwendungen
+realisiert werden (Blüml et al. 2025; BBSR 2023a; Hu et al. 2023; Lei et al. 2023). 
+Wichtige Ansatzpunkte für KI im Kontext von UDZ sind zum Beispiel (Deutscher Städtetag 2023; m-cons 2025: 
+– Datenanalyse und Simulation: Durch KI können Echtzeitdaten verarbeitet und darauf basierend dynamische, 
+realitätsgetreue Simulationen städtischer Prozesse erstellt werden, etwa eine Simulation der solaren
+Einstrahlung auf Dächer und Wände. 
+– Generierung prädiktiver Aussagen: Mittels KI können Trends und Entwicklungen prognostiziert werden. 
+Diese Vorhersagen erlauben die vorausschauende Planung von Ressourcen und Infrastrukturen. 
+– Automatisierung und Infrastrukturmanagement: Mit KI lassen sich Versorgungssysteme in Echtzeit
+überwachen. So können Muster und Abweichungen erkannt und entsprechende Maßnahmen eingeleitet werden. 
+– Beitrag zu Partizipation und Transparenz: Mittels KI-gestützter Kommunikation können zum Beispiel
+Kontext- oder Assistenzsysteme unterstützt werden, indem Text oder Abbildungen automatisiert generiert
+werden. 
+Neuere KI-gestützte Ansätze gehen dahin, dass georäumliche Daten mittels KI (auch GeoAI) ausgewertet werden, 
+was die georäumlichen Analysen erheblich vereinfacht und zu einer verbesserten Entscheidungsfindung beitragen 
+soll. Allerdings ist die Genauigkeit der GeoAI-Systeme noch nicht sehr hoch. Mit zunehmendem Datenvolumen 
+– etwa durch die Einbindung von Videos – wird ihr Betrieb immer komplexer und fehleranfälliger, weshalb es 
+noch besser entwickelter technologischer Lösungsansätze bedarf (Hu et al. 2023). 
+Technische Herausforderungen ergeben sich beim Einsatz von KI in UDZ vor allem mit Blick auf Datenqualität, 
+Datengovernance und Datensicherheit (Kapitel 4.1) sowie der Interoperabilität verschiedener Systeme
+(Kapitel 4.2). 
+Die zukünftigen Funktionalitäten von UDZ werden maßgeblich davon beeinflusst werden, wie hoch der Einsatz 
+von KI in diesen Systemen letztlich sein wird und inwieweit Entscheidungsabläufe dadurch (teil)automatisiert 
+werden sollen (BBSR 2023a). Dies berührt grundlegende Fragen, die sich generell beim Einsatz von KI stellen, 
+unter anderem: Welche Entscheidungen sollen durch KI getroffen werden? Wer behält die Kontrolle? Wer haftet 
+für diese Entscheidungen? 
+2.4 Stand der Umsetzung 
+Ein systematischer Überblick über den Stand und die Umsetzung von UDZ im Kontext einer nachhaltigen und 
+klimaangepassten Stadtentwicklung liegt bislang nicht vor. Allerdings wurden im Rahmen der vom
+Bundesministerium für Digitales und Verkehr geförderten Studie „Digitale Zwillinge für Infrastruktur, Bau, Wohnen – von 
+Theorie und Konzeption in die Praxis“ (Blüml et al. 2025) bundesweit 135 Projekte in den Bereichen
+Infrastruktur, Bauen und Wohnen identifiziert. Zwar beziehen sich nicht alle diese Projekte explizit auf urbane Räume, viele 
+weisen jedoch Schnittmengen zum Themenfeld Stadtentwicklung auf. Allein der in der Studie definierte
+Anwendungsbereich „Kommunalverwaltung“ umfasst 69 Projekte und damit rund 51 % der erfassten Vorhaben in 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Deutschland. Prinzipiell lassen sich bei allen Projekten in den Bereichen Schieneninfrastruktur und -betrieb (9), 
+Straßeninfrastruktur und -betrieb (7), Wasserstraßen und Gewässermanagement (9), Energie und Wärme (9)
+sowie sektorübergreifendes Bauwesen (28) ein Potenzial für nachhaltige und klimaangepasste Stadtentwicklung 
+vermuten, weil diese Projekte wahrscheinlich ein oder mehrere Nachhaltigkeitsziele adressieren (Kapitel 3). 
+Abbildung 2.5  Verteilung von 135 digitalen Zwillingen in Deutschland in den Bereichen Infrastruktur, 
+Bauen, Wohnen 
+ 
+Eigene Darstellung basierend auf Blüml et al. (2025, S. 25) 
+Viele der digitalen Zwillingsprojekte befinden sich noch in der Entwicklung oder in sehr frühen Phasen der
+Implementierung, beispielsweise in frühen (Test-)Phasen oder im Stadium der Prototypenentwicklung. Eine
+flächendeckende Implementierung von UDZ steht noch aus und ist mit technischen, organisatorischen und finanziellen 
+Herausforderungen verbunden. Die größte Herausforderung bei der Umsetzung ist zum aktuellen Zeitpunkt die 
+Skalierung von Pilotvorhaben (Blüml et al. 2025). 
+Die identifizierten Förder- und Umsetzungsaktivitäten zeigen, dass UDZ bislang überwiegend als
+Querschnittsinstrumente der digitalen Stadtentwicklung adressiert werden. UDZ stellen einen zentralen Baustein bei der
+Digitalisierung von Kommunen dar. Eine explizite strategische Ausrichtung dieser Maßnahmen auf klimaangepasste 
+und nachhaltige Transformationsprozesse ist dabei in der Regel nicht spezifisch ausgewiesen, stattdessen sind 
+diese eher implizit in übergeordnete Smart-City- oder Digitalisierungsstrategien eingebettet. 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+3 Potenziale und Anwendungsfelder urbaner digitaler Zwillinge 
+– UDZ können durch Emissionsreduktion, Ressourceneffizienz und transparente Bürgerbeteiligung
+ökologische, ökonomische und soziale Mehrwerte schaffen. 
+– Durch die Verknüpfung von Daten- und Simulationstools können UDZ konkrete Beiträge zur Erreichung 
+der Nachhaltigkeitsziele leisten, insbesondere von Ziel 11 (nachhaltige Städte und Gemeinden) und 13 
+(Maßnahmen zum Klimaschutz), aber auch zur Erfüllung weiterer ökologischer, sozialer und ökonomischer 
+Ziele beitragen. 
+– Exemplarische Praxissteckbriefe zeigen, wie UDZ in der Realität konkrete Nachhaltigkeitsziele
+unterstützen und wie relevant sie für eine nachhaltige und klimaangepasste Stadtentwicklung sind, etwa indem sie 
+ein verbessertes Wasser- und Starkregenmanagement ermöglichen, die Analyse von Luftqualität, Hitze und 
+Lärm vereinfachen, dem Energiemanagement dienen sowie die Verkehrsplanung und das
+Verkehrsmanagement verbessern. 
+Zur systematischen Darstellung der Potenziale und Anwendungsfelder von UDZ für eine nachhaltige und
+klimaangepasste Stadtentwicklung werden im Folgenden zunächst die Nutzen- und Wirkungspotenziale in den
+verschiedenen Nachhaltigkeitsdimensionen (Kapitel 3.1) sowie mögliche Beiträge zu den konkreten
+Nachhaltigkeitszielen in Form der Sustainable Development Goals (Kapitel 3.2) beschrieben und danach anhand von
+Praxisbeispielen (Kapitel 3.3) verdeutlicht. 
+3.1 Nutzen- und Wirkungspotenziale 
+Typische Anwendungsfelder, wie sie unter anderem in der DIN SPEC (2024) zu UDZ sowie in der einschlägigen 
+Fachliteratur beschrieben werden (BBSR 2023a, 2023b; Blüml et al. 2025; Deutscher Städtetag 2023; Richthofen 
+et al. 2023), umfassen unter anderem die Bereiche Umwelt und Klima, Bauen und Wohnen, Mobilität, Energie 
+und Wärme, digitale und technische Infrastrukturen, Gesundheit, Wirtschaft sowie Katastrophen- und
+Krisenmanagement. Weitere Anwendungsfelder beziehen sich auf Tourismus, Kultur und Freizeit oder Bildung.
+Partizipation von Bürger/innen als weiteres Anwendungsfeld ist ein Querschnittsthema, das prinzipiell bei allen hier
+genannten Anwendungsfeldern eine Rolle spielen kann (Abbildung 3.1). 
+Abbildung 3.1  Potenzielle Anwendungsfelder für urbane digitale Zwillinge 
+ 
+Quelle: nach BBSR (2023a), DIN (2024), Schubbe et al. (2023) 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Die Nutzen- und Wirkungspotenziale von UDZ lassen sich entlang mehrerer, miteinander verknüpfter
+Wirkungsebenen systematisieren. Es werden vier Potenzialkategorien unterschieden, die ökologische, prozessual/
+wirtschaftliche, soziale sowie daten- und wissensbezogene Aspekte abdecken. Diese Kategorien werden hier getrennt 
+behandelt. Die Potenziale treten bei der Anwendung der UDZ in der Praxis jedoch häufig kombiniert auf. Die 
+nachfolgend aufgeführten Beispiele in den Kategorien dienen der Illustration der jeweiligen Potenziale und
+verweisen exemplarisch auf typische Funktionen, Analyseverfahren oder Anwendungszusammenhänge von UDZ 
+(BBSR 2023a; vgl. Blüml et al. 2025; DIN 2024). Sie sind nicht als vollständige Aufzählung zu verstehen. 
+Ökologische und klimabezogene Potenziale 
+UDZ können einen Beitrag zur klimaangepassten und umweltorientierten Quartiers- und Stadtentwicklung
+leisten, indem sie ökologisch relevante Prozesse und Wirkzusammenhänge abbilden und analysierbar machen
+(Fokusgruppe; Abbas et al. 2025; BBSR 2023a; Blüml et al. 2025; DIN 2024; Ebert 2023; Kiehl 2019; Weil et al. 
+2023). Zu den ökologischen und klimabezogenen Potenzialen zählen zum Beispiel: 
+– Emissionsminderung, etwa durch simulationsgestützte Analyse von Verkehrs- und Energieszenarien, 
+– Material- und Ressourceneffizienz, etwa durch simulationsgestützte Planung von Gebäuden,
+Nachverdichtung oder Lebenszyklusbetrachtungen, 
+– Klimaanpassung und -verbesserung, etwa mit Analysen zu Hitze-/Kältebelastungen, Starkregenereignissen, 
+Wasserhaushalt, Biodiversität (Deutscher Städtetag 2023), 
+– Unterstützung integrierter Umwelt- und Klimabewertungen, etwa durch die Analyse von Wechselwirkungen 
+und Zielkonflikten zwischen Bebauung, Freiraum, Klima- und Ressourcenschutz. 
+Prozessuale und wirtschaftliche Potenziale 
+Ein weiteres Potenzial von UDZ liegt in der Unterstützung und Optimierung kommunaler Planungs-,
+Entscheidungs- und Verwaltungsprozesse. Durch die Zusammenführung von Daten und darauf aufbauenden Modellen 
+und Visualisierungen können Abläufe effizienter gestaltet und wirtschaftliche Effekte erzielt werden (Ferré-
+Bigorra et al. 2022; Hämäläinen 2020; Huzzat et al. 2025; Marx/Seidel 2025). Relevante Potenziale sind unter
+anderem: 
+– Effizienzsteigerung in Planung, Genehmigung, Betrieb und Instandhaltung städtischer Infrastrukturen, zum 
+Beispiel durch digital unterstützte Workflows wie automatisierte Erinnerungsfunktionen, verkürzte
+Genehmigungszeiten, bedarfsgerechte Planung, Systemoptimierungen, 
+– verbesserte Abstimmung zwischen relevanten Akteuren, zum Beispiel Stadtverwaltungen, Behörden,
+Versorgungsunternehmen, wissenschaftlichen Einrichtungen, Verkehrsbetrieben, Dienstleistern, 
+– beschleunigte Entscheidungsfindung, zum Beispiel durch Vergleich verschiedener Szenarien, Was-
+wärewenn-Analysen, 
+– verbesserte Nutzung vorhandener Verwaltungs- und Fachdaten für Planungs- und Steuerungsprozesse, zum 
+Beispiel Erkennen von Wechselwirkungen und Zielkonflikten, 
+– Reduzierung von Planungs-, Abstimmungs- und Folgekosten, zum Beispiel durch frühzeitige Identifikation 
+von Konflikten oder nicht intendierten Entwicklungen. 
+– Optimierung von Geschäftsmodellen, zum Beispiel durch verkehrsabhängige Flottenplanung. 
+Soziale Potenziale 
+Neben ökologischen und prozessualen/wirtschaftlichen Aspekten eröffnen UDZ auch soziale Potenziale,
+insbesondere im Kontext transparenter, nachvollziehbarer und partizipativer Stadtentwicklung. Damit können sie dazu 
+beitragen, die Akzeptanz für Planungsentscheidungen zu erhöhen und soziale Belange stärker bei der
+Stadtentwicklung zu berücksichtigen (Fokusgruppe; BBSR 2023a; Blüml et al. 2025; DIN 2024). Zu nennen sind hierbei 
+vor allem 
+– Unterstützung von Beteiligungsprozessen, zum Beispiel durch anschauliche Visualisierung komplexer
+Inhalte, 
+– Erhöhung von Transparenz in Planungs- und Entscheidungsprozessen, 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+– verbesserte Nachvollziehbarkeit von Entscheidungen, zum Beispiel indem Annahmen, Szenarien und
+Wirkungen sichtbar gemacht werden, 
+– bessere Berücksichtigung vulnerabler Bevölkerungsgruppen, zum Beispiel durch räumlich differenzierte 
+Analyse zu Hitze, Lärm, Umweltbelastungen oder Erreichbarkeit, 
+– verbesserte bedarfsgerechte Bereitstellung von Infrastrukturen der (lokalen) Daseinsfürsorge, zum Beispiel 
+durch Nutzungssimulationen von Wasserverbräuchen, Bedarf an Schulen und Lehrpersonal, 
+– Vermeidung und bessere Bewältigung gesundheitsgefährdender Krisen oder Gefahrensituationen, zum
+Beispiel durch Messung von Emissionsgrenzwerten oder Simulation von Überschwemmungen. 
+Daten- und wissensbezogene Potenziale 
+UDZ integrieren unterschiedliche Datenbestände und machen diese für Analysen zugänglich. Über diese
+technische Funktion hinaus eröffnen sie Potenziale für die Unterstützung von Entscheidungen und organisationale
+Lernprozesse in kommunalen Verwaltungen (BBSR 2023a; Blüml et al. 2025; DIN 2024). Wesentliche daten- und 
+wissensbezogene Potenziale umfassen: 
+– Integration heterogener Daten aus vielfältigen Datenquellen zur Erzeugung von Lagebildern, zum Beispiel 
+Verknüpfung von Geobasisdaten, Mobilitätsdaten, Energie- und Klimadaten, Gebäudedaten, Mobilitätsdaten 
+auf Quartiersebene, 
+– Entscheidungsunterstützung mittels Szenarien und Simulationen, zum Beispiel modellhafte Abschätzung
+planerischer Maßnahmen und deren Wechselwirkungen mit Verkehrsflüssen, Energiebedarfen,
+Hitzeentwicklung, 
+– Beitrag zur Transparenz und Nachvollziehbarkeit in Planungsprozessen, zum Beispiel durch Modellierung 
+und Dokumentation von Annahmen, 
+– Unterstützung organisationaler Lern- und Evaluationsprozesse, indem Planungsmaßnahmen mit realen
+Entwicklungen rückgekoppelt und ex post ausgewertet werden, zum Beispiel Soll-Ist-Vergleiche oder
+Monitoring von Zielindikatoren. 
+3.2 Beitrag zu Nachhaltigkeitszielen 
+Um den Beitrag von UDZ zur nachhaltigen Entwicklung sichtbar zu machen, können deren potenzielle
+Anwendungsfelder und exemplarische Anwendungsbeispiele den Zielen für nachhaltige Entwicklung der Vereinten
+Nationen (Nachhaltigkeitsziele/Sustainable Development Goals – SDGs) (Bundesregierung o. J.) gegenübergestellt 
+werden (Tabelle 3.1). Abbildung 3.2 stellt das Ziel dar, Wirkungsschwerpunkte der UDZ im Kontext einer
+nachhaltigen und klimaangepassten Stadtentwicklung exemplarisch einzuordnen. Die SDGs dienen dabei als
+übergeordneter normativer Bezugsrahmen, um potenzielle ökologische, soziale und ökonomische Wirkungen
+darzustellen. 
+Der Fokus liegt darauf, in welchen primären Nachhaltigkeitsdimensionen relevante Wirkungen zu erwarten sind, 
+ohne zwischen direkten und indirekten Effekten zu unterscheiden. Aufgrund des querschnittlichen Charakters der 
+UDZ können sich die Wirkungen einzelner Anwendungsbeispiele sowohl auf mehrere Anwendungsfelder als 
+auch auf mehrere Nachhaltigkeitsziele und -dimensionen erstrecken. 
+Mithilfe der Systematisierung in der Tabelle 3.1 wird deutlich, in welchen Bereichen UDZ zur Erreichung
+nachhaltigkeitsbezogener Zielsetzungen beitragen können. Es zeigt sich, dass UDZ in der Praxis überwiegend als 
+querschnittliche Instrumente der Stadtentwicklung eingesetzt werden. In nahezu allen Anwendungsfeldern
+adressieren sie mehrere Nachhaltigkeitsziele in den Dimensionen Ökologie, Soziales und Wirtschaft. Wirkungen
+können sich dabei überlagern, sodass aufgrund dieser Mehrdimensionalität eine eindeutige Zuordnung nur
+eingeschränkt möglich und sinnvoll ist. 
+Die Anwendungsbeispiele in Tabelle 3.1 deuten darauf hin, dass diese häufig auf Effizienz-, Optimierungs- und 
+Steuerungsziele ausgerichtet sind und damit einen indirekten Beitrag zu nachhaltigkeitsbezogenen Zielsetzungen 
+leisten, ohne dass die Zielsetzung Nachhaltigkeit ausdrücklich ausgewiesen ist. Insofern werden Aspekte des
+Klimaschutzes und der Klimaanpassung häufig implizit mitbearbeitet, etwa im Rahmen von Energie-,
+Mobilitätsoder Quartiersentwicklungsprojekten. In den Beispielen ist also eine explizite Fokussierung auf die
+klimaresiliente Transformation von Kommunen zwar seltener, Wirkungen sind aber durch die verschiedenen genannten 
+Anwendungsbeispiele implizit möglich. 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Darüber hinaus wird deutlich, dass bei den hier dargestellten Anwendungsbeispielen bestimmte
+Nachhaltigkeitsziele eine besondere Rolle spielen. Insbesondere SDG 9 (Industrie, Innovation und Infrastruktur), SDG 11
+(Nachhaltige Städte und Gemeinden) sowie SDG 13 (Maßnahmen und Klimaschutz) werden von einer Vielzahl der 
+Anwendungsfelder adressiert. Demgegenüber spielen andere Nachhaltigkeitsziele, wie sie etwa in den
+Anwendungsfeldern Gesundheit oder Bildung adressiert werden, eine untergeordnete Rolle. 
+Abbildung 3.2  Nachhaltigkeitsdimensionen und Nachhaltigkeitsziele 
+ 
+Eigene Zuordnung nach BMUKN (o. J.) 
+Tabelle 3.1  Zuordnung von Anwendungsfeldern und -beispielen zu Nachhaltigkeitszielen 
+Primäres
+Anwendungsfeld 
+(fachlicher 
+Kontext) 
+Anwendungsbeispiele Nachhaltigkeitsziele (SDG) 
+Dimensionen
+Umwelt
+Soziales
+Wirtschaft 
+Umwelt und  
+Klima 
+Stadtklimasimulationen (Luftqualität, Hitzeinseln),
+Simulation von Hochwasser und Starkregenereignissen 
+6, 7, 
+13, 14 
+3 8, 9,  
+11 
+Bauen und  
+Wohnen 
+Wohnungsmonitoring, Management der Grün- und Freiräume 
+(Kulturlandschaft), automatisierte
+Baugenehmigungsverfahren (Vollständigkeits-/Plausibilitätsprüfungen) 
+12, 13 3, 11 7, 9 
+Bildung Kapazitätsanalysen, Erreichbarkeitsanalysen aus
+Einzugsgebieten 
+ 4, 10, 
+11 
+9 
+Energie und 
+Wärme 
+Energiemanagement (Simulation von energieeffizienter
+Modernisierung wie Solarpotenzial, Wärmebedarf,
+geothermische Energieerzeugung) 
+7, 12, 
+13 
+11 9 
+digitale und  
+technische  
+Infrastruktur 
+Management von Infrastrukturen der kommunalen
+Daseinsfürsorge, Simulation von Auslastungen (in den Bereichen 
+Wasser, Energie, Abfall), Kanalinformationssystem 
+6, 7, 
+12, 13 
+3 9, 11, 
+17 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Gesundheit Bewertung umwelt- und klimabedingter Gesundheitsrisiken 
+(Simulation von Hitzeentwicklung und Luftverschmutzung), 
+Analyse der Erreichbarkeit medizinischer Versorgung 
+13 3 8, 11 
+Katastrophen- 
+und
+Krisenmanagement 
+Vulnerabilitätsanalysen (Überflutung, Detonation, Ausfall 
+kritischer Infrastrukturen), Simulation von Naturgefahren,
+Sicherheitsbewertungen im öffentlichen Raum 
+6, 14, 
+15 
+2, 3,  
+16 
+9, 11 
+Mobilität Modellierung von Verkehrsflüssen und Verkehrssteuerung, 
+Simulation von Emissionen, Nutzungsszenarien zu
+Multimodalität, Erreichbarkeitssimulationen 
+13, 15 3 9, 11 
+Partizipation Onlinebeteiligung, Simulation und Visualisierung von
+Planungsvarianten, Anliegenmanagement 
+10, 16 11  
+Tourismus,
+Kultur und Freizeit 
+Simulation von Besucherströmen bei Großveranstaltungen, 
+Abwägung Denkmalschutz vs. Klimaanpassung 
+12 3, 10 8, 11 
+Wirtschaft Standortanalysen für Gewerbe und Dienstleistungen, Analyse 
+von Erreichbarkeiten und regionalen Lieferketten, Bewertung 
+klimabedingter Risiken für Wirtschaftsstandorte 
+12, 13 3 8, 9,  
+11 
+Die Zuordnung der Anwendungsbeispiele zu Anwendungsfeldern erfolgt auf Basis des primären fachlichen Einsatzkontexts. 
+Aufgrund des querschnittlichen Charakters von UDZ adressieren die Anwendungsbeispiele in der Regel sowohl mehrere 
+Anwendungsfelder als auch Nachhaltigkeitsziele und -dimensionen. Die dargestellte Zuordnung ist exemplarisch und erhebt 
+keinen Anspruch auf Vollständigkeit. 
+Eigene Zusammenstellung basierend auf den dargestellten Anwendungsfällen in DIN (2024); Abbas et al. (2025); Weil et al. 
+(2023) und mit eigenen Ergänzungen in den Anwendungsfeldern Bildung, Gesundheit, Tourismus, Kultur und Freizeit sowie
+Wirtschaft. 
+Um die in Tabelle 3.1 dargestellten Zuordnungen zu Anwendungsfeldern und Nachhaltigkeitszielen zu
+konkretisieren, zeigt Kasten 3.1 exemplarisch potenzielle Wirkungen von UDZ am Beispiel des Anwendungsfelds
+„Umwelt und Klima“. 
+Kasten 3 .1  Potenzielle Beiträge von UDZ zu Nachhaltigkeitszielen am Beispiel des
+Anwendungsfelds „Umwelt und Klima“ 
+Umwelt 
+– SDG 6 – Sauberes Wasser und Sanitäreinrichtungen: UDZ können für Simulationen zu Wasserhaushalt, 
+Starkregen und Überflutung genutzt werden. Dadurch lassen sich Wasserressourcen schützen und
+Maßnahmen zur Optimierung der Wasser- und Abwasserinfrastruktur ableiten. 
+– SDG 7 – Bezahlbare und saubere Energie: UDZ können zur Analyse und Simulation energiebezogener
+Umweltwirkungen beitragen, etwa durch die Bewertung von Einsparpotenzialen durch erneuerbare Energien, 
+von Energiebedarfen oder der klimatischen Effekte energiebezogener Maßnahmen. 
+– SDG 13 – Maßnahmen zum Klimaschutz: UDZ ermöglichen die Simulation, Bewertung und Priorisierung 
+von Klimaschutz- und Anpassungsmaßnahmen (zum Beispiel Hitze, Starkregen) und können mit den Daten 
+eine evidenzbasierte kommunale Klimapolitik unterstützen. 
+– SDG 14 – Leben unter Wasser: UDZ können indirekt durch die Reduktion von Schadstoffeinträgen in
+Gewässern zum Schutz aquatischer Ökosysteme beitragen.  
+Soziales 
+– SDG 3 – Gesundheit und Wohlergehen: UDZ können helfen, klimabedingte Gesundheitsrisiken
+insbesondere für vulnerable Bevölkerungsgruppen (zum Beispiel durch Hitze, Luftbelastung) frühzeitig zu
+identifizieren und gezielt zu reduzieren. 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Wirtschaft 
+– SDG 8 – Menschenwürdige Arbeit und Wirtschaftswachstum: UDZ können durch eine klimaresiliente 
+Stadtentwicklung die Standortattraktivität und Planungssicherheit erhöhen, was die wirtschaftliche
+Entwicklung befördert. 
+– SDG 9 – Industrie, Innovation und Infrastruktur: UDZ können den Aufbau resilienter, digital unterstützter 
+Infrastrukturen fördern und innovative Planungs- und Steuerungsprozesse in Kommunen stärken. 
+– SDG 11 – Nachhaltige Städte und Gemeinden: UDZ können durch Analysen urbaner Risiken und Resilienz 
+von Infrastrukturen zur Ableitung von Handlungsempfehlungen für eine nachhaltigere Stadtentwicklung 
+beitragen. 
+Angepasste und ergänzte Zuordnung der SDGs basierend auf dem Anwendungsfeld „Klimaresiliente Transformation von
+Kommunen“ (DIN 2024, S. 88 ff.) 
+3.3 Praxisbeispiele – Steckbriefe 
+Zur Vertiefung der zuvor dargestellten Anwendungsfelder und Wirkungszusammenhänge der
+Nachhaltigkeitsziele werden im Folgenden ausgewählte Praxisansätze von UDZ exemplarisch näher betrachtet. Die Auswahl 
+konzentriert sich auf Anwendungsfelder, die eine besondere Relevanz für eine nachhaltige und klimaangepasste 
+Stadtentwicklung aufweisen. Dazu zählen das Wasser- und Starkregenmanagement (Kasten 3.2), die Analyse von 
+Luftqualität, Hitze und Lärm (Kasten 3.3), das Energiemanagement (Kasten 3.4) sowie Verkehrsplanung und -
+management (BBSR 2023a; DIN 2024; Pan et al. 2024; Richthofen et al. 2023; Schubbe et al. 2023; CUT 2023) 
+(Kasten 3.5). 
+Kasten 3 .2  Praxissteckbrief „Wasser- und Abwassermanagement inklusive Starkregen/ 
+Überflutung“ 
+Anwendungsfeld 
+Umwelt und Klima/digitale und technische Infrastruktur 
+Kurzbeschreibung des Praxisansatzes 
+UDZ werden im Wasser- und Abwassermanagement eingesetzt, um Starkregenereignisse, Überflutungsrisiken 
+und die Leistungsfähigkeit städtischer Entwässerungssysteme räumlich und zeitlich differenziert zu
+analysieren. Auf Basis von Geodaten, hydrologischer Modelle, Niederschlagsdaten und Informationen zu Kanalnetzen 
+und Oberflächenbeschaffenheiten können Abflussprozesse, Rückstaueffekte sowie potenzielle
+Überflutungsflächen simuliert und bewertet werden. 
+Typische Funktionen des UDZ 
+– Simulation von Starkregenereignissen und Oberflächenabfluss 
+– Modellierung von Kanalnetzen und Entwässerungsinfrastrukturen 
+– Identifikation von Überflutungsschwerpunkten und Schadenpotenzialen 
+– Vergleiche von Szenarien (zum Beispiel bauliche Maßnahmen, Entsiegelung, Retentionsräume) 
+– Unterstützung von Vorsorge-, Investitions- und Notfallplanungen 
+Beitrag zur nachhaltigen und klimaangepassten Stadtentwicklung 
+Der Einsatz von UDZ unterstützt Kommunen dabei, Klimarisiken frühzeitig zu erkennen,
+Anpassungsmaßnahmen zu priorisieren und Schäden durch Extremwetterereignisse zu reduzieren. Gleichzeitig können
+Zielkonflikte zwischen baulicher Verdichtung, Flächennutzung und Wasserrückhalt sichtbar gemacht werden. 
+Adressierte Nachhaltigkeitsziele (exemplarisch) 
+SDG 11 (Nachhaltige Städte und Gemeinden), SDG  13 (Maßnahmen zum Klimaschutz), SDG 6 (Sauberes 
+Wasser und Sanitäreinrichtungen) 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Praxisbeispiele Deutschland 
+– Der Landkreis Hof (hoferLand.digital 2022) beabsichtigt, einen digitalen Zwilling für ein effizienteres und 
+vorausschauendes Wassermanagement zu nutzen. Ziel ist es, Starkregenereignissen besser zu begegnen. 
+Hierzu werden Hochwassersimulationen durchgeführt (BBSR 2023a). 
+– Die Nachbarstädte Deggendorf und Plattling erarbeiten im Förderprogramm „TwinBy – Digitale Zwillinge 
+für Bayern“2 (STMD Bayern o. J.) einen digitalen Zwilling für den Hochwasser- und Katastrophenschutz. 
+Dabei werden Umweltdaten, zum Beispiel von Niederschlagsmengen oder Flusspegelständen, in Echtzeit 
+erfasst und verschiedene Szenarien bei Starkregenfällen oder dem Bruch eines Dammes simuliert (Piqueret 
+Rose 2025). 
+– Das Projekt „HydroZwilling Rheinland-Pfalz“3 soll Städte und Gemeinden einen effektiveren Umgang mit 
+Starkregen- und Hochwasserereignissen ermöglichen. Die Modellierungs- und Visualisierungssoftware
+erstellt Überflutungsszenarien für sehr große Gebiete. Das System ist Teil des nach dem Ahr-Hochwasser 
+2021 entwickelten Plans zur Hochwasservorsorge (Lübbers 2024). 
+– Im Rahmen des Modellprojekts „Smart City Dresden“ wird seit Mai 2024 an der technologisch-
+methodischen Erstellung eines Starkregenzwillings gearbeitet, um Starkregenereignisse simulieren und den
+Hochwasserschutz verbessern zu können (TU Dresden 2024). 
+– In Hannover zielt das Projektvorhaben „ZwillE“4 auf die Entwicklung eines digitalen Zwillings für die 
+städtische Abwasserinfrastruktur einschließlich der Einleitungsgewässer. 
+Praxisbeispiele international 
+– Das Forschungsprojekt „Hydro-Twin“5 (Österreich) zielt auf einen cloudbasierten digitalen Zwilling für 
+das Wassermanagement als Werkzeug für Klimaanpassung, Hochwasserschutz und Planung. 
+– Anhand des Fallbeispiels in Waterloo (USA) werden verschiedene Flutszenarien in Verbindung mit
+Disruptionen von Transportwegen simuliert, um daraus Hinweise für den Katastrophenschutz abzuleiten
+(Kaynak et al. 2025). 
+– „FloodDAM-DT“6 ist ein 2024 beendetes französisch-amerikanisches Kooperationsprojekt. Ziel war es, 
+einen automatisierten Dienst zur Erkennung, Überwachung und Vorhersage von Überschwemmungen auf 
+lokaler und globaler Ebene bereitzustellen. 
+ 
+Kasten 3 .3  Praxissteckbrief „Luftqualität/Hitze/Lärm“ 
+Anwendungsfeld 
+Luftqualität/Hitze/Lärm 
+Kurzbeschreibung des Praxisansatzes 
+UDZ werden zur Modellierung und Prognose von Umweltbelastungen wie Luftschadstoffen,
+Temperaturverteilungen und Lärmemissionen eingesetzt. Durch die Kopplung von Verkehrs-, Wetter- und Bebauungsdaten 
+können räumlich hochaufgelöste Belastungskarten erstellt und unterschiedliche Planungs- oder
+Verkehrsszenarien bewertet und priorisiert werden. 
+Typische Funktionen des UDZ: 
+– Simulation urbaner Hitzeinseln und thermische Belastung 
+– Modellierung der Luftqualität, zum Beispiel bezüglich Feinstaub oder Stickstoff 
+– Lärmkartierung und Szenarien zur Lärmminderung 
+– Bewertung von Planungsvarianten, zum Beispiel Verkehrsverlagerung, Begrünung, Entsiegelung 
+ 
+2  https://www.stmd.bayern.de/themen/twinby/ (21.4.2026) 
+3  https://hydrozwilling.rlp.de/ (21.4.2026) 
+4  https://zwille-projekt.de/ (21.4.2026) 
+5  https://www.vrvis.at/forschung/forschungsprojekte/hydro-twin (21.4.2026) 
+6  https://www.spaceclimateobservatory.org/flooddam-dt (21.4.2026) 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Beitrag zur nachhaltigen und klimaangepassten Stadtentwicklung 
+Die Anwendungen helfen dabei, gesundheitliche Belastungen in urbanen Räumen sichtbar zu machen und 
+Maßnahmen zur Reduktion von Hitze, Luftverschmutzung und Lärm gezielter zu planen. Neben einer
+Verbesserung von Umweltaspekten kann auch die Lebensqualität in Städten erhöht werden. 
+Adressierte Nachhaltigkeitsziele (exemplarisch) 
+SDG 3 (Gesundheit und Wohlergehen), SDG 11 (Nachhaltige Städte und Gemeinden), SDG 13 (Maßnahmen 
+zum Klimaschutz) 
+Praxisbeispiele Deutschland 
+– Im Rahmen der Modellprojekte „Digitaler Zwilling“ „Resilientes Wolfsburg“ kommt unter anderem die 
+Sensorbox KlimaCube7 zum Einsatz, die in Echtzeit verschiedene Umweltparameter wie Temperatur,
+Luftfeuchtigkeit, Niederschlag und Wind erfasst. 
+– Beim „Digitalen Zwilling“8 der Stadt Herrenberg geht es unter anderem um ein Monitoring der
+Feinstaubbelastung. Ein weiterer Schwerpunkt liegt auf der Modellierung von Emissionen in Verbindung mit dem 
+potenziellen Verkehrsaufkommen, unter Berücksichtigung von Wind, Temperatur und Luftfeuchtigkeit, um 
+deren räumliche Verteilung präzise zu bestimmen (BBSR 2023a; Dembski et al. 2020; Richthofen et al. 
+2023). 
+– Der digitale Zwilling der Stadt Krefeld9 ermöglicht unter anderem über Sensoren die Messung von
+Lufttemperatur, Luftfeuchtigkeit und Niederschlag, um Auswirkungen des Klimawandels zu untersuchen 
+(Richthofen et al. 2023). 
+Praxisbeispiele international 
+– Im Projekt „Cooling Singapore“ (Singapur) werden Stadtklimamodelle erarbeitet, um Hitzeinseln zu
+identifizieren und Maßnahmen für deren Beseitigung zu entwickeln. Dazu werden Gebäudeinformationen (Lage 
+der Gebäude, Grundrisse, Höhenangaben) und Temperaturdaten von Messstationen erfasst, um daraus
+Temperaturmodelle zu entwickeln (Gardner 2024). 
+– In der Stadt Enschede (Niederlanden) wurde ein UDZ aufgebaut, der auf der Grundlage eines detaillierten 
+3D‑Modells die Hitzeentwicklung unter verschiedenen Wetterbedingungen in der Stadt simuliert (Koeva et 
+al. 2024). 
+ 
+Kasten 3 .4  Praxissteckbrief „Energiemanagement auf Quartiers- und Stadtebene“ 
+Anwendungsfeld 
+Energie und Wärme/Umwelt und Klima/Digitale und technische Infrastruktur 
+Kurzbeschreibung des Praxisansatzes 
+UDZ im Energiemanagement werden zur Analyse und Optimierung von Energieerzeugung, -verteilung und -
+verbrauch eingesetzt. Dabei werden unter anderem Gebäudedaten, Verbrauchsdaten und Informationen zu
+erneuerbaren Energiequellen integriert, um unterschiedliche Energie- und Versorgungsszenarien zu simulieren. 
+Typische Funktionen des UDZ 
+– Simulation von Energiebedarfen (Strom, Wärme, Kälte) 
+– Analyse von Potenzialen erneuerbarer Energien, zum Beispiel Solar, Geothermie 
+– Modellierung von Wärmenetzen und dezentralen Versorgungssystemen 
+– Szenarien zur energetischen Sanierung 
+– Bewertung von Emissionsminderungen 
+ 
+7  https://www.wolfsburg.de/digital/smart-city/klimacube (21.4.2026) 
+8  https://www.herrenberg.de/de/Rathaus/Buergerservice/Buergerservice-A-Z/Dienstleistung?view=publish&item=service&id=2802 
+(21.4.2026) 
+9  https://www.krefeld.de/de/geoportal (21.4.2026) 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Beitrag zur nachhaltigen und klimaangepassten Stadtentwicklung 
+Durch simulationsgestützte Analysen können Kommunen Strategien zur Reduktion von Emissionen, zur
+Steigerung der Energieeffizienz und Maßnahmen zur Dekarbonisierung des Energiesystems entwickeln.
+Quartiersbezogene Besonderheiten können berücksichtigt und Zielkonflikte zwischen Wirtschaftlichkeit, Klimaschutz 
+und Versorgungssicherheit erarbeitet werden. 
+Adressierte Nachhaltigkeitsziele (exemplarisch) 
+SDG 7 (Bezahlbare und saubere Energie), SDG 11 (Nachhaltige Städte und Gemeinden), SDG 13
+(Maßnahmen zum Klimaschutz) 
+Praxisbeispiele Deutschland 
+– Mit dem digitalen Zwilling der Stadt Hof werden Flächen für regenerative Energien ermittelt. Bürger/innen 
+sollen schnell herausfinden können, ob das eigene Dach für Stromerzeugung oder Warmwasseraufbereitung 
+geeignet ist (Richthofen et al. 2023). 
+– Die Stadt Sulzbach-Rosenberg führt Analysen klimarelevanter Bedarfe und Anpassungserfordernisse
+mittels eines 3D-Stadtmodells und einer urbanen Datenplattform durch. Bei der Datenplattform handelt es sich 
+um eine IoT-Plattform, bestehend aus Sensoren, mit denen Echtzeitdaten erfasst werden können. Auf Basis 
+von Klimadaten werden Einzelmaßnahmen abgeleitet (Richthofen et al. 2023). 
+Praxisbeispiele international 
+– Helsinki (Finnland) nutzt ein visuelles 3D-Modell, das technische Daten zu Gebäuden, Infrastruktur und 
+Umwelt integriert. Mit dem digitalen Zwilling wird unter anderem die Energieeffizienz der Stadt bewertet 
+(vc systems 2025). 
+– Die Stadt Turin (Italien) nutzt ihren digitalen Zwilling für sehr verschiedene Zwecke. Das Modell erfasst 
+den Zustand der Vegetation, der Straßenoberflächen, Gehwege und Beschilderungen. Eine besondere
+Anwendung fokussiert auf den Bereich der erneuerbaren Energien, beispielsweise die Berechnung des
+Solarpotenzials von Dächern und die Bewertung der Energieeffizienz von Gebäuden (Boccardo et al. 2024;
+Politecnico di Torino 2025). 
+ 
+Kasten 3 .5  Praxissteckbrief „Verkehrsplanung und Verkehrsmanagement“ 
+Anwendungsfeld 
+Mobilität/Umwelt und Klima/Digitale und technische Infrastruktur 
+Kurzbeschreibung des Praxisansatzes 
+UDZ werden im Bereich der Verkehrsplanung und des Verkehrsmanagements eingesetzt, um Verkehrsströme, 
+Mobilitätsnachfrage und deren Auswirkungen auf Umwelt und Stadtraum zu analysieren. Dazu werden
+Verkehrs-, Infrastruktur-, Emissions- und teilweise Umweltdaten in digitalen Modellen zusammengeführt, um
+unterschiedliche Verkehrs- und Nutzungsszenarien zu simulieren. 
+Typische Funktionen des UDZ 
+– Modellierung und Simulation von Verkehrsflüssen 
+– Analyse von Emissionen und Lärmbelastungen 
+– Erreichbarkeits- und Einzugsgebietsanalysen für unterschiedliche Verkehrsmittel 
+– Szenarien zur Förderung multimodaler Mobilität 
+– Vergleiche von Szenarien zur Verkehrsverlagerung und Netzoptimierung 
+– Bewertung von Maßnahmen (zum Beispiel Verkehrsberuhigung, neue Infrastrukturen, Umverteilung von 
+Straßenraum) 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Beitrag zur nachhaltigen und klimaangepassten Stadtentwicklung 
+Durch simulationsgestützte Analysen unterstützen UDZ Kommunen dabei, Maßnahmen zur Reduktion
+verkehrsbedingter Emissionen, zur Entlastung belasteter Stadträume und zur Förderung nachhaltiger
+Mobilitätsformen zu entwickeln. Verkehrsbezogene Anwendungen leisten damit einen Beitrag zum Klimaschutz und zur 
+Verbesserung der Umwelt- und Lebensqualität in Städten. 
+Adressierte Nachhaltigkeitsziele (exemplarisch) 
+SDG 11 (Nachhaltige Städte und Gemeinden), SDG 13 (Maßnahmen zum Klimaschutz), SDG 3 (Gesundheit 
+und Wohlergehen) 
+Praxisbeispiele Deutschland 
+– Die Stadt Herrenberg nutzt den digitalen Zwilling unter anderem für Routenvorschläge zur Verbesserung 
+der multimodalen Navigation. Dazu werden herkömmliche Karten- und Navigationsdienste, wie Google 
+Maps, mit zusätzlichen Informationen angereichert, zum Beispiel mit dynamischen Sensordaten aus den 
+Bereichen ÖPNV und Mikromobilität. Außerdem wird ein intelligentes Parkraummanagement unterstützt, 
+das über Sensorik den Belegungsstatus verschiedener Parkhäuser in Echtzeit ausgibt (Richthofen et al. 
+2023). 
+– In der Stadt Kempten wird der digitale Zwilling unter anderem zur Unterstützung der Instandhaltung der 
+Verkehrsinfrastruktur genutzt: Dort werden Fachdaten zur Kontrolle von Straßen, Bäumen und Spielplätzen 
+mit einem Geoinformationssystem verknüpft, um Sanierungsbedarfe zu identifizieren (Richthofen et al. 
+2023). 
+– Die Stadt Krefeld nutzt den digitalen Zwilling unter anderem für das Parkraummanagement, wodurch freie 
+Parkplätze auf der Straße in Echtzeit mittels Sensoren lokalisiert werden können (Richthofen et al. 2023). 
+– In der Stadt Sulzbach-Rosenberg dient eine Anwendung des digitalen Zwillings dazu, mittels Sensoren
+Besucherströme zu erfassen, um so Besucherhotspots in der Innenstadt zu identifizieren (Richthofen et al. 
+2023). 
+Praxisbeispiele international 
+– In London (Vereinigtes Königreich) soll der Emissionsausstoß der U-Bahn verbessert werden. Über
+Sensoren werden Emissionen gemessen und mit Geoinformationsdaten verknüpft dargestellt. Auf Basis von 
+Echtzeit- oder Fast-Echtzeit-Daten soll die Verkehrssteuerung optimiert werden, indem
+Emissionsschwerpunkte ermittelt und Maßnahmen zur Emissionsminderung ergriffen werden. Zunächst nur als Prototyp auf 
+einer Linie realisiert, soll der digitale Zwilling potenziell alle Londoner U-Bahnlinien umfassen (Lago o. J.). 
+– Die Städte Basel und Zürich (Schweiz) zielen mit einem digitalen Zwilling darauf, zukünftig
+Verkehrsanalysen und -simulationen durchzuführen. Dazu werden Daten zu Verkehrsmenge, -dichte, -fluss und -
+geschwindigkeit genutzt (Anz 2025; Kanton Basel-Stadt 2025; Stadt Zürich 2020). 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+4 Grenzen und Herausforderungen 
+– Die Skalierbarkeit und technische Leistungsfähigkeit von UDZ wird durch begrenzte Hardware- und
+Netzwerkinfrastruktur, anspruchsvolle Datenerfassung, -übertragung, -verarbeitung und -visualisierung sowie 
+den hohen Ressourcen- und Energieverbrauch eingeschränkt. 
+– Fragmentierte Datenquellen, unterschiedliche Datenformate und mangelnde Standards erschweren den
+Datenaustausch, die Integration und die bidirektionale Anbindung von UDZ. 
+– Die hohen Anfangsinvestitionen sowie laufende Betriebs- und Folgekosten von UDZ, die Unsicherheit der 
+langfristigen Finanzierung und bislang fehlende quantifizierte Nutzennachweise stellen vor allem kleinere 
+Kommunen mit begrenzten Haushaltsmitteln vor finanzielle Herausforderungen. 
+Obwohl UDZ ein hohes Potenzial für eine nachhaltige und effiziente Stadtentwicklung aufweisen, stehen ihrer 
+Anwendung bislang noch erhebliche technische und finanzielle Herausforderungen entgegen. 
+4.1 Technische Machbarkeit 
+Hardware- und Netzwerkinfrastruktur von UDZ 
+Eine zentrale Herausforderung bei Aufbau und Nutzung UDZ betrifft die zugrunde liegende Hardware- und
+Netzwerkinfrastruktur zur Erfassung, Übertragung, Verarbeitung und Visualisierung von Daten. 
+– Erfassung: Für die Generierung von Echtzeitdaten sind Sensoren und IoT-Geräte unerlässlich (BBSR 
+2023a). Der Ausbau entsprechender Sensornetzwerke ist bislang jedoch begrenzt. Probleme bestehen unter 
+anderem hinsichtlich Zuverlässigkeit, Kalibrierung, Datenintegration sowie bei der Minimierung von
+Störsignalen. Probleme ergeben sich zudem bei der Echtzeiterfassung von Daten, da hierfür eine kontinuierliche 
+Konnektivität, hohe Aktualisierungsfrequenzen und Synchronität erforderlich sind, was bislang jedoch nur 
+eingeschränkt gewährleistet werden kann. In Zusammenhang mit der Nutzung von Sensorik gewinnen Open-
+Source-Technologien zunehmend an Bedeutung (BBSR 2023a, 2023b). Mit diesen lassen sich
+Sensornetzwerke kostengünstig aufbauen. Die Anwendung von Open-Source-Technologien wird von Expert/innen aus 
+Wissenschaft, Verwaltung und Wirtschaft befürwortet, um die Datenerfassung zu zentralisieren und den
+Datenzugang zu vereinfachen (Interviews Anonym, Füller, Kringer, Seelig). 
+– Übertragung: Eine weitere Herausforderung ergibt sich bei der Übertragung der gesammelten Daten an
+Rechenzentren. Hier besteht häufig ein Engpass in der Netzwerkinfrastruktur: Für die Übertragung großer
+Datenmengen ist eine hohe Netzbandbreite unerlässlich, jedoch sind die aktuell verfügbaren
+Netzwerkprotokolle – wie das Long Range Wide Area Network (Open-Source-Netzwerkprotokoll) – meist unzureichend für 
+den durch IoT-Systeme generierten Datenstrom (Weil et al. 2023). 
+– Verarbeitung: Ausgehend von den unterschiedlichen Datenquellen und -typen (Kapitel 2.2) werden
+verschiedene Methoden eingesetzt, um die Daten zu verarbeiten, zu speichern und bereitzustellen
+(Computinglösungen). Im Kontext von UDZ lassen sich vier Computingansätze unterscheiden, die jeweils spezifische Vor- 
+und Nachteile mit sich bringen (Weil et al. 2023): 
+ On-Premise Computing bezeichnet den Betrieb der gesamten IT-Infrastruktur und
+Softwareanwendungen innerhalb der eigenen Organisation. Dies bietet maximale Kontrolle über die IT-Umgebung und 
+Datensicherheit sowie eine maßgeschneiderte Anpassung an individuelle Anforderungen. Allerdings 
+sind sowohl die Einrichtung als auch die Wartung kostenintensiv, und die Skalierbarkeit ist im
+Vergleich zu Cloudlösungen begrenzt. 
+ Cloud Computing stellt Rechenressourcen wie Speicher, Rechenleistung und Software über das Internet 
+bereit. Es bietet die Möglichkeit der Skalierbarkeit und den Vorteil, dass nur für tatsächlich genutzte 
+Ressourcen gezahlt werden muss. Dennoch können bei umfangreichen UDZ auch hier hohe Kosten 
+anfallen, und es bestehen Sicherheits- und Datenschutzbedenken. 
+ Edge Computing, also die dezentrale Datenverarbeitung, verlagert die Datenverarbeitung näher an die 
+Datenquelle, wodurch die zu übertragende Datenmenge reduziert wird. Dies steigert die
+Reaktionsfähigkeit von Anwendungen und kann kosteneffizient sein. Die Verwaltung und Wartung der Edge-
+Geräte ist jedoch komplex, und es stellen sich hohe Anforderungen an die Datensicherheit. 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+ Schließlich verbindet Cluster Computing mehrere Computer zu einem einzigen System, was
+Rechenleistung und Speicherkapazität erhöht und Skalierbarkeit sowie Fehlertoleranz verbessert. Allerdings 
+sind auch hier die Einrichtung und Wartung teuer, und es kann zu Problemen bei der Datenkonsistenz 
+und -koordination zwischen den einzelnen Knoten kommen. 
+Die Auswahl und der Einsatz einer spezifischen Computinglösung hängen stark von den vorhandenen
+finanziellen, technischen und personellen Ressourcen ab. Außerdem wird die Auswahl durch die
+festgelegten Datengovernancestrukturen (Kapitel 5.1) der jeweiligen Anwendungsfälle mitbestimmt. 
+– Visualisierung: Um mit UDZ gut arbeiten zu können, werden unterschiedliche Formen der Datenaufbereitung 
+genutzt – von Kartendarstellungen bis hin zu komplexen 3D-Modellen (Kapitel 2.3). Die dafür erforderlichen 
+Rechenkapazitäten stoßen angesichts stetig wachsender Datenmengen aus dem IoT, der zunehmenden
+Komplexität von 3D-Modellen sowie der hohen Renderinganforderungen für Anwendungen im Bereich
+Augmented Reality (AR) an ihre Grenzen (Weil et al. 2023). 
+In der praktischen Umsetzung zeichnet sich ab, dass UDZ nicht beliebig detailliert und umfassend gestaltet
+werden können, weil technische Grenzen beispielsweise hinsichtlich der Datenverarbeitungskapazität schnell erreicht 
+sind. Daher ist eine umfassende Datengovernancestruktur (Kapitel 5.1) erforderlich, um eine Ausgewogenheit 
+zwischen Ressourcenverfügbarkeit sowie technischer Machbarkeit und Nutzbarkeit zu gewährleisten. 
+Ressourcenverbrauch und ökologisch nachhaltiger Betrieb 
+Die Erstellung und der Betrieb von UDZ sind mit einem erheblichen Ressourcenverbrauch verbunden. Dies
+betrifft sowohl die benötigte Hard- und Softwareinfrastruktur als auch den Energieverbrauch für die Datenerfassung, 
+-verarbeitung und -speicherung. Mit der zunehmenden Verbreitung vernetzter Sensorik, dem Einsatz komplexer 
+3D-Stadtmodelle, der Verwendung daten- und rechenintensiver KI-Verfahren sowie der Integration von AR-
+Anwendungen steigen die technischen Anforderungen und damit auch der Energiebedarf erheblich an. Die konkreten 
+Umweltwirkungen von UDZ insbesondere mit Blick auf den Energieverbrauch sind noch nicht vollständig
+abschätzbar. Gleichwohl sollten diese potenziellen Effekte bereits heute in Kosten-Nutzen-Analysen einbezogen 
+werden. 
+Gerade vor dem Hintergrund, dass UDZ dazu beitragen sollen, eine nachhaltige und klimaangepasste
+Stadtentwicklung zu unterstützen, unterliegen ihre Entwicklung und ihr Betrieb selbst der Verpflichtung,
+Nachhaltigkeitskriterien zu erfüllen. Das umfasst nicht nur den Einsatz energieeffizienter Technologien, die Nutzung
+erneuerbarer Energien und die Optimierung datenintensiver Prozesse, sondern auch die kritische Reflexion ihres
+ökologischen Fußabdrucks entlang des gesamten Datenlebenszyklus, das heißt von der Datenerhebung über die
+Verarbeitung bis hin zur langfristigen Speicherung und Nutzung. 
+4.2 Interoperabilität unterschiedlicher technischer Systeme 
+Interoperabilität und technische Standards 
+Die Zusammenführung von Daten aus verschiedenen Quellen ist essenziell. Eine zentrale Herausforderung für 
+den Aufbau und die Nutzung von UDZ besteht jedoch in der Fragmentierung und Heterogenität der zugrunde 
+liegenden Daten- und Systemlandschaft, die oftmals durch mangelhafte Datenaustauschformate und Datensilos 
+gekennzeichnet ist (DIN 2024, S. 45). 
+Ein Ansatzpunkt ist die Integration von Daten in eine urbane Datenplattform (UDP), die dazu beitragen kann, 
+bestehende Datensilos aufzubrechen und eine zentrale Anlaufstelle für das Datenmanagement zu schaffen
+(Deutscher Städtetag 2023; Wangermann 2024). Voraussetzung hierfür ist jedoch die hinreichende Verfügbarkeit,
+Detailtiefe und Standardisierung der Daten, damit diese mit möglichst wenig Bearbeitungsaufwand
+zusammengeführt werden können (Interviews Anonym, Stubert). 
+Die Standardisierung von Daten bezogen auf Speicher- und Austauschformate verhindert nicht nur die
+Abhängigkeit von einzelnen Anbietern („Vendor Lock-in“), sondern erleichtert auch die Integration bestehender IT-
+Systeme der öffentlichen Verwaltung (BBSR 2023a; Blüml et al. 2025). Hierfür relevante Standardisierungs- und 
+Referenzrahmen für UDZ umfassen die DIN SPEC 91607 „Digitale Zwillinge für Städte und Kommunen“ (DIN 
+2024) als konzeptionellen Handlungsrahmen, XPlanung10 als standardisiertes Austauschformat für Bauleitpläne 
+ 
+10  Dabei handelt es sich um einen Datenstandard und ein Datenaustauschformat für die Digitalisierung der räumlichen Planung in
+Deutschland (BBSR 2023a, S. 25). 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+und BIM als methodischen Standard für digitale Planungsprozesse (Schubbe et al. 2023) sowie Spezifikationen 
+des Open Geospatial Consortium (OGC) für interoperable Geodaten- und Webdienste (Richthofen et al. 2023; 
+Schubbe et al. 2023). 
+Für die Harmonisierung heterogener Datensätze ist auch deshalb ein einheitliches Format für den Datenaustausch 
+notwendig, da die Daten oftmals räumlich verteilt vorliegen und aus einer Vielzahl unterschiedlicher Quellen 
+stammen (Schlagbauer 2024). Dazu müssen die verwendeten Austauschformate, zum Beispiel STEP, XML, 
+JSON, JSON-LD, und die einzuhaltenden Lieferprozesse spezifiziert werden. Die Wahl des Datenmodells, zum 
+Beispiel IFC oder CityGML,11 ist eine wesentliche Entscheidung für die Interoperabilität von Informationen aus 
+unterschiedlichen Quellen in einem UDZ (DIN 2024). 
+Darüber hinaus gewinnt die Bidirektionalität zwischen UDZ und physischen Systemen (Sensornetzwerke,
+Messstationen etc.) zunehmend an Bedeutung, da ohne sie (teil)autonome Entscheidungssysteme des UDZ nicht realisiert 
+werden können (Tabelle 2.2). Erst ein kontinuierlicher, bidirektionaler Datenaustausch zwischen realer und digitaler 
+Welt ermöglicht es, Veränderungen in Echtzeit zu erfassen und darauf aufbauend fundierte präventive
+Planungsentscheidungen zu treffen (BBSR 2023a; Blüml et al. 2025). Bislang dominieren jedoch unidirektionale Verbindungen, 
+insbesondere im Kontext der Steuerung nachhaltiger Stadtentwicklungssysteme. Das heißt, Daten werden
+gesammelt, aufbereitet und in Planungsprozesse eingespeist (Input). Die Rückführung der Ergebnisse (Output) zu den 
+relevanten Verwaltungseinheiten oder in die Öffentlichkeit stellt den Schritt vom UDZ als Analysewerkzeug zu 
+einem aktiven Steuerungsinstrument dar. Im Rahmen der klimaangepassten Stadtentwicklung könnte dies bedeuten, 
+dass über ein Sensornetzwerk Hitzeinseln in einer Stadt entdeckt werden, die Verwaltung auf Grundlage einer
+Analyse Gegenmaßnahmen, beispielsweise zusätzliche Verschattung im öffentlichen Raum, entwickelt und umsetzt und 
+die Erkenntnisse über die Wirkung dieser Gegenmaßnahmen wiederum in den UDZ eingespeist werden. 
+Datenqualität 
+Daten sind das Fundament von digitalen Zwillingen, ihre Qualität und Verfügbarkeit sind entscheidend für die 
+Funktionalität von UDZ. Die vernachlässigte Aktualität, fehlende Genauigkeit, Messfehler und unzureichender 
+Detaillierungsgrad der Daten erschweren bislang die Erfassung von Daten in bestmöglicher Qualität (Blüml et al. 
+2025; Richthofen et al. 2023). Wichtige Faktoren für eine optimale Datenqualität sind die Dateninventur, also die 
+strukturierte Erfassung aller existierender Datenbestände, das Datenmodell, also das Aufbewahrungs-,
+Verwaltungs- und Nutzungssystem der Daten, sowie die Datenpersistenz, also die Langfristigkeit der Speicherung und 
+Verwendbarkeit der Daten (Blüml et al. 2025). 
+– Metadaten und Metadatenkataloge: Ein Kriterium für die Datenqualität ist der Stand der Metadaten und
+Metadatenkataloge. Metadaten sind Daten über Daten und dienen der Beschreibung von Informationsressourcen. 
+Sie umfassen Aspekte wie Klassifizierung, Datenherkunft, Datenqualität, Aktualität, Datenbeschreibungen 
+sowie Nutzungs- und Zugriffsrechte (DIN SPEC 91607, DIN EN ISO 19115-1). Ein Metadatenkatalog ist 
+eine strukturierte Sammlung von Metadaten, die Informationen über die gesamten Datenbestände einer
+Kommune oder Stadt bieten. Im Kontext von UDZ sind Metadaten besonders relevant, da es nicht mehr nur um 
+einzelne Datensätze geht, sondern auch um deren Vernetzung. Prozesse und Analysen selbst müssen
+beschrieben und die verwendeten Parameter transparent gemacht werden, um die Nachvollziehbarkeit von
+Entscheidungen und die Zuverlässigkeit der genutzten Ressourcen sicherzustellen. Zur Interoperabilität von
+Metadaten definiert der internationale Standard DCAT-AP Datenmodelle für Katalogsysteme und zum
+Informationsaustausch für öffentliche Daten in Europa. DCAT-AP.de12 ist das gemeinsame deutsche Metadatenmodell 
+für den Austausch von offenen Verwaltungsdaten. Trotz dieser Vorgaben weisen die befragten Expert/innen 
+zum Teil darauf hin, dass einheitliche Systeme für die Datenbeschreibung und die entsprechende Pflege der 
+Systeme für eine effiziente Datenverwendbarkeit noch fehlen (Interviews Anonym, Zienert). 
+– Datenaktualität: Die Aktualität der Daten ist ebenfalls eine wichtige Anforderung, da veraltete Daten zu 
+Fehlinformationen und -entscheidungen führen können (BBSR 2023a; Blüml et al. 2025). Die Aktualisierung 
+der Informationsbestände unterliegt häufig unterschiedlichen Zyklen, die je nach Projekt und Datentyp
+variieren können. Während beispielsweise der Gebäudebestand oder auch das Straßen- und Wegenetz über
+mehrere Monate bzw. Jahre unverändert bleiben können, eine Aktualisierung entsprechender Daten also in
+größeren Abständen erfolgen kann (statische, anlassbezogene Daten), sind andere Daten dynamischer Natur und 
+werden häufiger aktualisiert (Schubbe et al. 2023, S. 18). Dazu zählen bestimmte gebäudespezifische Daten, 
+ 
+11  Standardisiertes Austauschformat für Geodaten im urbanen Kontext (BBSR 2023a, S. 14). 
+12  https://www.dcat-ap.de/ (21.4.2026) 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+zum Beispiel zum Sanierungsstand, zu Emissionen oder demografische Daten, die oft monatsweise relevant 
+sind, etwa für Planungen konkreter Klimaanpassungsmaßnahmen auf Quartiersebene. Tageweise werden
+beispielsweise Daten zum Wetter aktualisiert, während in Echtzeit Daten über Verkehrsflüsse, Luftqualität oder 
+auch Energieverbräuche erhoben werden (DIN 2024, S. 24; Interviews Anonym, Zienert). 
+– Detailtiefe und Vollständigkeit: Der Anspruch an die Detailtiefe von Daten hängt vom spezifischen
+Anwendungsfall der UDZ ab und davon, welche Informationsbedarfe bei Nutzer/innen bestehen. So sind etwa bei 
+3D-Visualisierungen unterschiedliche Auflösungsstufen je nach Zweck zu realisieren. Bei der Simulation von 
+Umweltauswirkungen sind auf Quartiersebene höhere Detaillierungsgrade erforderlich als bei der
+informativen Darstellung großräumiger Gebiete, beispielsweise bei Hitzekarten (Dembski et al. 2020). In der Praxis 
+wird die Vollständigkeit notwendiger Daten noch als lückenhaft angesehen (Interview Dembski; Richthofen 
+et al. 2023). 
+– Systematische Verzerrungen: Letztlich ist auch der Umgang mit Bias, also systematischen Verzerrungen bei 
+der Datengenerierung und -qualität, eine Herausforderung, wie verschiedene Expert/innen konstatieren 
+(Marx/Seidel 2025, S. 2; Interview Füller). Wenn nur jene Daten erhoben werden, die bereits bekannt sind 
+bzw. sich leicht messen und quantifizieren lassen und von den Beteiligten als relevant erachtet werden, dann 
+laufen die resultierenden Modelle Gefahr, den bestehenden Status quo lediglich abzubilden, anstatt ihn
+kritisch zu hinterfragen und neue Perspektiven auf urbane Prozesse zu eröffnen. Vor allem qualitative Aspekte 
+des städtischen Lebens, wie etwa das Nachbarschaftsgefühl, die subjektive Wahrnehmung des öffentlichen 
+Raums oder auch der Erholungswert von Umgebungen, können dabei unberücksichtigt bleiben. Um dieser 
+Herausforderung zu begegnen, ist die systematische Auseinandersetzung mit relevanten digitalethischen
+Fragestellungen erforderlich, beispielsweise die Art der Einbindung von Menschen in algorithmische
+Entscheidungsprozesse oder die Gestaltung von vertrauenswürdiger KI (Blüml et al. 2025, S. 70 ff.). 
+4.3 Finanzielle Herausforderungen und mangelnder Nutzennachweis 
+Da UDZ mit hohen initialen Investitionen sowie dauerhaft anfallenden Betriebs-, Wartungs- und
+Weiterentwicklungskosten verbunden sind, stellen Finanzierung und Folgekosten zentrale Herausforderungen für ihre
+Implementierung dar (BBSR 2023a; Blüml et al. 2025). Insbesondere kleinere Kommunen verfügen oft über geringere 
+finanzielle, personelle und technische Ressourcen als größere Gemeinden (Interview Seelig). Vor diesem
+Hintergrund stellt sich die Frage, wie UDZ so konzipiert und ausgestaltet werden können, dass sie sowohl in kleinen als 
+auch größeren Kommunen Mehrwerte erzeugen können. Damit verbunden ist das Risiko einer ungleichen
+Verbreitung und Nutzung von UDZ, sofern deren Einsatz primär von der finanziellen Leistungsfähigkeit einzelner 
+Kommunen abhängt. 
+Viele UDZ-Projekte entstehen bislang im Rahmen von öffentlichen Förderprogrammen (Kapitel 5.2). Oft führt 
+die Befristung öffentlicher Mittel dazu, dass vor allem kurzfristig angelegte Demonstratoren oder Pilotprojekte 
+mit Fachzwillingen umgesetzt werden. Die Ausgestaltung langfristig tragfähiger, skalierbarer und in den
+Verwaltungsalltag integrierbarer Lösungen steht noch aus (Blüml et al. 2025). Eine Finanzierung über das Ende des 
+Förderzeitraums hinaus ist in der Regel nicht gesichert (DIN 2024; Richthofen et al. 2023). Vor diesem
+Hintergrund besteht Bedarf an neuen Finanzierungsmodellen und Anreizsystemen, um einen dauerhaften Betrieb und 
+breite Umsetzung zu ermöglichen (Blüml et al. 2025). 
+Ein weiterer Engpass liegt im Bereich der Personalressourcen. Häufig fehlt es an speziell geschultem Personal, 
+da die Konzeption, Umsetzung und der Betrieb von UDZ-Projekten vielfach zusätzlich zu den regulären Aufgaben 
+der Verwaltungen erfolgt. Finanzielle Mittel sind daher nicht nur für die technische Infrastruktur, sondern ebenso 
+für die Qualifizierung und den langfristigen Einsatz datenkompetenter Fachkräfte notwendig (BBSR 2023a; 
+Blüml et al. 2025). 
+Schließlich erschwert eine unzureichend entwickelte Wirkungsmessung die Legitimation von Investitionen. Es 
+fehlen etablierte Metriken, um Effizienzgewinne und Wertschöpfungspotenziale digitaler Zwillinge systematisch 
+zu erfassen (Marx/Seidel 2025). Eine umfassende Bewertung des Nutzens sowie die Hervorhebung von Synergien 
+(beispielsweise die Mehrfachnutzung von Sensorinfrastrukturen für unterschiedliche Zwecke) könnten
+entscheidend dazu beitragen, die Akzeptanz auf politischer und administrativer Ebene zu erhöhen (Blüml et al. 2025). 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+5 Gelingensbedingungen 
+– Klare Governancestrukturen, insbesondere ein robustes Datengovernanceframework mit definierten Rollen, 
+Verantwortlichkeiten und einer zentralen Koordinierungsstelle, sind unverzichtbar, um Datenqualität,
+Interoperabilität, rechtliche Vorgaben und die effektive Nutzung von UDZ in kommunalen Prozessen zu
+gewährleisten. 
+– Zwar existieren verschiedene Finanzierungsmodelle und Förderprogramme (öffentliche Subventionen, 
+Public Private Partnerships, EU- und Bundesprogramme), aber die notwendige, langfristige Finanzierung 
+für den Aufbau, Betrieb und die Weiterentwicklung von UDZ wird noch unzureichend unterstützt. 
+– Es bedarf klarer und konsistenter rechtlicher Rahmenbedingungen für UDZ, darunter Datenschutz- und 
+Sicherheitsvorgaben, Haftungs- und Genehmigungsregelungen sowie verbindliche Standards und
+Interoperabilitätsanforderungen. 
+– Ethische Grundsätze, wie etwa Nicht-Diskriminierung, barrierefreie Zugänglichkeit, transparente
+Entscheidungsprozesse, verantwortungsbewusster Umgang mit Daten und die Vermeidung von Bias, müssen
+beachtet werden, um soziale Gerechtigkeit und Vertrauen zu sichern. 
+Für eine optimale Operationalisierung von UDZ im Kontext von städtischen Infrastrukturen sind umfassende 
+Anwendungsleitlinien und klare rechtliche Rahmenbedingungen entscheidend (Blüml et al. 2025). Solche
+Governancestrukturen gehören neben den finanziellen und rechtlichen Rahmenbedingungen ebenso zu
+Gelingensbedingungen wie auch die Berücksichtigung ethischer Grundsätze. 
+5.1 Governancestrukturen 
+Datengovernance 
+Beim Betrieb von UDZ müssen vielfältige Anforderungen abgedeckt werden, die sich aus technologischen,
+planerischen, datenschutzrechtlichen und partizipativen Perspektiven ergeben. Zentrale und dezentrale
+Verantwortlichkeiten müssen dabei aufeinander abgestimmt werden. 
+Für die Nutzung der einem UDZ zugrundeliegenden Datenbasis (Kapitel 2.2) wird in den DIN-Standards (2024) 
+der Aufbau einer robusten und skalierbaren Datengovernancestruktur empfohlen, die klare Verantwortlichkeiten 
+für Datenfreigabe, -verwaltung und -qualität definiert. Eine solche Struktur sollte darüber hinaus auch Regelungen 
+zur Datensicherheit, zur regelmäßigen Datenaktualisierung, zur Qualitätssicherung sowie zur Archivierung von 
+Daten umfassen (DIN 2024). Die Datengovernancestrukturen tragen dazu bei, Datensilos aufzubrechen, den
+Datenaustausch zwischen Fachbereichen und Institutionen zu fördern und eine stärkere Zentralisierung sowie
+Standardisierung von Datensätzen und Prozessen zu ermöglichen (Blüml et al. 2025). Praxisbezogene Orientierung 
+hierbei bieten unter anderem der Data-Governancewegweiser für Smart Cities oder das Smart District Data
+Infrastructure, die Kommunen bei der konzeptionellen Ausgestaltung und operativen Umsetzung der für sie
+geeigneten Datengovernancemodelle unterstützen (Blüml et al. 2025; Richthofen et al. 2023). 
+Die Implementierung einer solchen Datengovernancestruktur erfordert Anpassungen in den bestehenden
+Verwaltungsstrukturen, insbesondere im Rahmen der Definition klar definierter Rollen und Zuständigkeiten (BBSR 
+2023a; Blüml et al. 2025). 
+Zur Ausgestaltung der Datengovernance kann ein Rollenmodell mit verschiedenen Verantwortungsebenen
+beitragen (Abbildung 5.1), das an die jeweiligen kommunalen Strukturen angepasst werden kann (CUT 2023, S. 3). 
+Auf den obersten Ebenen wird ein strategischer Rahmen durch ein/e Datengovernanceeigentümer/in gesetzt,
+während auf der operativen Ebene die Rolle des/der Datengovernancemanager/in die Übersetzung in verbindliche
+Regelwerke koordiniert. Ergänzend ist zwischen zentralen und dezentralen Zuständigkeiten zu unterscheiden. Eine 
+zentrale Koordinierungsstelle UDZ kann hierbei insbesondere Aufgaben der technischen Interoperabilität und das 
+Plattformmanagement übernehmen. Weitere, dezentrale Rollen – etwa Dateneigentümer/in, Datenlotse/in und
+Datenpfleger/in – sind für die konkrete Umsetzung der Datengovernance in den jeweiligen Fach- und
+Organisationseinheiten verantwortlich. 
+Es wird weiterhin empfohlen, eine zentrale Koordinierungsstelle sowie die dezentralen Verantwortlichen in einem 
+sogenannten Datengovernance‑Komitee zu verankern, das eine konsistente, transparente und effiziente
+Datenstrategie für die gesamte Kommune gewährleisten soll (CUT 2023, S. 6 f.). 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Abbildung 5.1  Rollenmodell mit unterschiedlichen Verantwortungsebenen 
+ 
+Quelle: nach CUT (2023, S. 7) 
+Ein zentrales Erfordernis besteht grundsätzlich darin, ein gemeinsames Verständnis aller beteiligten kommunalen 
+Akteure hinsichtlich des Konzepts „Digitaler Zwilling“ und der damit verbundenen Datenplattformen und
+Schnittstellen zu schaffen (BBSR 2023a; Blüml et al. 2025). Fehlende begriffliche und konzeptionelle Klarheit kann zu 
+divergierenden Zielvorstellungen und zu Verzögerungen in der Projektumsetzung führen. Vor diesem
+Hintergrund sollten Ziele, Nutzungsszenarien sowie konkrete Anwendungsfälle frühzeitig definiert und abgestimmt 
+werden (BBSR 2023a; Blüml et al. 2025). Erforderlich ist dabei eine klare Abgrenzung zu verwandten Konzepten 
+wie BIM, GIS oder CAD, um die spezifischen Potenziale digitaler Zwillinge hervorzuheben (Blüml et al. 2025). 
+Um ferner den Mehrwert von UDZ für unterschiedliche Zielgruppen aufzuzeigen und organisatorische
+Unterstützung zu gewinnen, empfiehlt sich ein stufenweises Vorgehen, das mit risikoarmen Pilotprojekten beginnt. UDZ 
+sollten dabei als modulare Integrationsplattformen konzipiert werden, die sukzessive erweitert und an neue
+Anforderungen angepasst werden können (BBSR 2023a). 
+Für die Akzeptanz und den Erfolg von UDZ ist zudem die frühzeitige Einbindung relevanter Fachabteilungen 
+(zum Beispiel Stadtplanung, Verkehrsplanung, Umweltamt) und Stakeholder (zum Beispiel Bürger/innen,
+Unternehmen, Forschungseinrichtungen) ratsam (Blüml et al. 2025; Wangermann 2024). Interkommunale
+Kooperationen und Entwicklungsgemeinschaften bieten darüber hinaus die Möglichkeit, Synergien zu nutzen, neue
+Technologien gemeinsam zu integrieren und von den Erfahrungen anderer Kommunen zu profitieren. 
+Schließlich setzt der Einsatz von UDZ in der öffentlichen Verwaltung den gezielten Aufbau digitaler
+Kompetenzen voraus (Blüml et al. 2025; Richthofen et al. 2023). Erforderlich sind etwa Schulungen zur Stärkung der Data 
+Literacy, die ein grundlegendes Verständnis für Datenqualität, Analyseverfahren, Interpretationsspielräume und 
+datenschutzrechtliche Anforderungen vermitteln. Der Aufbau digitaler Kompetenzen kann dabei voraussichtlich 
+nicht allein durch Fortbildungen erfolgen, sondern wird in vielen Fällen auch einen zusätzlichen Personalaufbau 
+erfordern, der wiederum mit zusätzlichen finanziellen Ressourcen verbunden ist (Kapitel 4.2). 
+Beteiligungsmöglichkeiten 
+UDZ ermöglichen es, komplexe städtische Zusammenhänge in vereinfachter Form darzustellen, beispielsweise 
+als dreidimensionale Stadtmodelle oder über simulationsbasierte Visualisierungen, die Auswirkungen von
+Klimaanpassungsstrategien aufzeigen (Kapitel 2.3). Dadurch können potenzielle Auswirkungen planerischer
+Entscheidungen für konkret betroffene Personengruppen sichtbar gemacht werden, sodass Bürger/innen die für sie
+relevanten Konsequenzen besser nachvollziehen können. 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Gleichzeitig eröffnen UDZ neue Möglichkeiten der aktiven Beteiligung, indem Bürger/innen auf verschiedene 
+Weise mit dem UDZ interagieren können, etwa indem sie Planungsvorschläge kommentieren, Feedback zu
+Benutzerschnittstellen geben oder freiwillig eigene Daten spenden. Dieses Zusammenspiel aus erhöhter Transparenz 
+und erweiterten Beteiligungsmöglichkeiten kann das Vertrauen in kommunale Entscheidungsprozesse stärken
+sowie Wohlbefinden und Lebensqualität erhöhen (Interview Kringer; Marx/Seidel 2025, S. 3; Richthofen et al. 
+2023, S. 9). 
+Anwendungsbeispiele verdeutlichen das Potenzial der partizipativen Ansätze: Beispielsweise lassen sich bei der 
+Planung von Maßnahmen zur Minderung von Hitzeinseln in dicht bebauten Stadtquartieren mit Hilfe eines UDZ 
+verschiedene Szenarien visualisieren, etwa zu Baumbepflanzungen, Fassadenbegrünungen oder
+Flächenentsiegelungen. Anwohner/innen können so nachvollziehen, wie sich die geplanten Maßnahmen auf die lokalen
+Temperaturen auswirken, und Feedback zu konkreten Gestaltungsvorschlägen geben. Zusätzlich können Bürger/innen 
+selbst Daten, etwa zur Luftqualität, zum Mobilitätsverhalten oder zum Hitzeempfinden, sammeln und in den UDZ 
+einspeisen. Diese zusätzlichen Daten können von den Stadtplaner/innen ausgewertet und bei der weiteren
+Umsetzung der Maßnahmen berücksichtigt werden. 
+Darüber hinaus stellen die Beteiligung an der Entwicklung eines UDZ und Interaktion der Stadtgesellschaft mit 
+einem UDZ selbst einen wesentlichen Erfolgsfaktor für dessen Akzeptanz und Erfolg dar. Für eine erfolgreiche 
+Implementierung besteht eine Voraussetzung darin, dass Bürger/innen sich in Beteiligungsformaten einbringen 
+können oder der Nutzung ihrer Daten für die Verwendung in UDZ zustimmen. Es bedarf daher einer transparenten 
+Kommunikation über Nutzen, Zweck und Risiken bei der Anwendung von UDZ schon während der
+Implementierungsphase, um Vorbehalte gegenüber den UDZ auszuräumen. 
+5.2 Finanzielle Rahmenbedingungen 
+Finanzierungsmodelle 
+Die erfolgreiche Umsetzung von UDZ ist von langfristig tragfähigen Finanzierungsmodellen abhängig
+(Kapitel 4.3). Neben der initialen Projektfinanzierung müssen dabei insbesondere die dauerhaft anfallenden Betriebs-, 
+Wartungs- und Weiterentwicklungskosten berücksichtigt werden. 
+Grundsätzlich kommen verschiedene Finanzierungsmodelle infrage. Eine Subventionierung ist insbesondere dann 
+erforderlich, wenn der UDZ oder die zugehörige Datenplattform kostenfrei für die Nutzer/innen zur Verfügung 
+gestellt werden sollen (BBSR 2023b). Alternativ können kostendeckende oder gewinnorientierte Modelle verfolgt 
+werden, bei denen entweder einzelne Funktionalitäten oder die gesamte Nutzung der gesamten Datenplattform 
+gegen Entgelt angeboten werden (etwa im Rahmen von Software-as-a-Service-Modellen). Ziel solcher Ansätze 
+ist es, die laufenden Betriebskosten zu decken und gegebenenfalls Überschüsse für Reinvestitionen zu
+erwirtschaften (BBSR 2023a, 2023b, S. 15). Ergänzend kann die Einbindung von Sponsoren oder Gewerbetreibenden 
+zusätzliche Finanzierungsbeiträge leisten (BBSR 2023a, 2023b). 
+Art und Umfang der Finanzierung unterscheiden sich zwischen den Kommunen erheblich. Nur wenigen
+Kommunen gelingt eine vollständige Finanzierung aus Eigenmitteln (Richthofen et al. 2023). 
+Darüber hinaus wird auch eine Finanzierung durch Industrie oder Wirtschaft als Option diskutiert, wenngleich 
+entsprechende Public-Private-Partnership-Modelle in diesem Bereich bislang noch selten sind. 
+Ein Potenzial zur Kostensenkung liegt in der interkommunalen Zusammenarbeit. Durch gemeinsame
+Entwicklungs- und Betriebsgemeinschaften können Ressourcen gebündelt, Lizenzkosten reduziert und Synergien bei
+Vertragsverhandlungen mit Dienstleistern erzielt werden. Gleichzeitig trägt diese Form der Kooperation zum Aufbau 
+interkommunaler Kompetenzen und Strukturen bei (BBSR 2023a; Blüml et al. 2025). 
+Unabhängig von den gewählten Finanzierungsmodellen empfiehlt sich die Durchführung von Kosten/Nutzen-
+Analysen, um eine dauerhafte und finanziell tragfähige Implementierung von UDZ zu ermöglichen. Dabei sollte 
+insbesondere geprüft werden, ob und in welcher Form UDZ messbare Mehrwerte für eine ökonomisch nachhaltige 
+und klimaangepasste Stadtentwicklung schaffen (DIN 2024, S. 123 ff.). Die praktische Umsetzung solcher
+Analysen ist derzeit jedoch noch erschwert, da es an etablierten Metriken und standardisierten Evaluationsverfahren 
+mangelt (Kapitel 4.3). 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Förderprogramme 
+Ein bedeutender Teil der in Deutschland realisierten UDZ wurde bislang durch staatliche Förderprogramme
+unterstützt. Lediglich in einigen wenigen Städten existieren Fachzwillinge (zum Beispiel zu den Themen Verkehr 
+oder Starkregen), die vollständig aus kommunalen Eigenmitteln finanziert wurden. 
+In Deutschland erfolgt die Förderung bislang nicht über ein eigenständiges Bundesförderprogramm, das
+ausschließlich UDZ adressiert. Stattdessen werden UDZ und ihre zentralen Komponenten im Rahmen mehrerer
+Förderprogramme und teils indirekt adressiert, etwa durch die Förderung urbaner Datenplattformen, digitaler
+Stadtmodelle oder simulationsbasierter Planungsinstrumente. Häufig sind diese Bausteine in übergeordnete Smart-
+City-Strategien eingebettet und werden dort als Querschnittselemente einer digitalen Stadtentwicklung verortet. 
+Zu den einschlägigen Bundesförderprogrammen zählt das vom Bundesministerium für Wohnen,
+Stadtentwicklung und Bauwesen (BMWSB) initiierte Programm „Smart Cities made in Germany“13, das seit 2019 insgesamt 
+73 Modellprojekte in Modellregionen fördert. Ergänzt wird es durch den „Stufenplan Smarte Städte und
+Regionen“, der einen strategischen Rahmen für die Digitalisierung der Stadt- und Regionalentwicklung bildet und in 
+dem auch UDZ als Baustein verortet sind (BMWSB 2024). 
+Ebenfalls relevant ist das vom Bundesministerium für Verkehr geförderte Programm „Daten.Plus“14 (vormals 
+„mFUND“). Über die zugehörige Datenplattform „Mobilithek“15 werden Mobilitäts-, Geo- und Wetterdaten
+zentral bereitgestellt, die insbesondere in den Bereichen Mobilität, Umwelt und Klimaanpassung als Datengrundlage 
+für UDZ genutzt werden können. 
+Einen spezifischen Beitrag zur praktischen Umsetzung von UDZ leistete zudem das vom BMWSB zwischen 2021 
+und 2025 geförderte Kooperationsprojekt „Connected Urban Twins“ (CUT)16 der Städte Hamburg, Leipzig und 
+München, das mit 21 Mio. Euro Bundesmitteln und zusätzlichen 11 Mio. Euro der drei Partnerstädte finanziert 
+wurde (Blüml et al. 2025; Schubbe et al. 2023). Ziel des Projekts war es, die Entwicklung urbaner
+Datenplattformen und digitaler Zwillinge voranzutreiben und konkrete Anwendungsfälle in der kommunalen Praxis zu
+erproben. Im Rahmen des CUT-Projekts wurde in Zusammenarbeit mit weiteren Partnern auch die Norm „DIN SPEC 
+91607: Digitale Zwillinge für Städte und Kommunen“ erarbeitet (DIN 2024) (Kapitel 2.1). 
+Ergänzend zu den Bundesprogrammen existieren Förderaktivitäten auf Landesebene. So unterstützte das
+Bayerische Staatsministerium für Digitales im Rahmen des Programms „TwinBy – Digitale Zwillinge für Bayern“
+zwischen 2022 und 2024 insgesamt 17 kommunale Vorhaben beim Aufbau digitaler Zwillinge. 
+Darüber hinaus gibt es verschiedene EU-Förderprogramme, die entweder direkt oder indirekt zentrale Bausteine 
+für die Entwicklung von UDZ adressieren. Zu nennen ist hier beispielsweise die im Rahmen von Horizon Europe 
+geförderte Mission „Climate-Neutral and Smart Cities“, die das Ziel hat, bis 2030 112 ausgewählte Städte in 
+Europa klimaneutral zu gestalten und mit geeigneten digitalen Instrumenten auszustatten. Als Teil dieser Mission 
+werden verschiedene Vorhaben gefördert, wie beispielsweise das HARMONIE-Projekt, das digitale Zwillinge 
+zur Reduktion von Luftverschmutzung in Städten und zur Förderung der öffentlichen Gesundheit entwickelt 
+(Fernandenz 2025; MPIC 2025), oder das Projekt „NexTCity“ zur Reduzierung von CO2 in Lissabon (EK o. J). 
+Weiterhin werden im Rahmen des Digital-Europe-Programms Vorhaben wie beispielsweise „Towards networked 
+Local Digital Twins in the EU“ (EK 2024) gefördert, in dem unter anderem ein Augenmerk auf die Vernetzung 
+digitaler Zwillinge verschiedener Städte gelegt wird. 
+Auch auf anderen Wegen unterstützt die EU die (Weiter-)Entwicklung von UDZ, beispielsweise durch das
+Konsortium für eine europäische digitale Infrastruktur, das dazu beitragen soll, die Ziele der „Europe’s Digital
+Decade“ (EK o. J.) zu erreichen. Die in diesem Rahmen geförderte Initiative „CitiVERSE“ soll dazu bestehende 
+UDZ in Europa miteinander verbinden (GD Connect o. J.). 
+5.3 Rechtliche Rahmenbedingungen 
+Eine wichtige Voraussetzung für die erfolgreiche Implementierung von UDZ sind klare und konsistente rechtliche 
+Rahmenbedingungen. Ein zentraler Aspekt betrifft dabei sowohl die Regelung von Zugriffsrechten auf Daten als 
+ 
+13  https://www.smart-city-dialog.de/ueber-uns/modellprojekte-smart-cities (21.4.2026) 
+14  https://daten.plus/ (21.4.2026) 
+15  https://mobilithek.info/ (21.4.2026) 
+16  https://www.connectedurbantwins.de/ (21.4.2026) 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+auch bestehende und zukünftige Verpflichtungen, Daten bereitzustellen. Für beide Bereiche besteht ein
+erheblicher Bedarf an eindeutigen Vorgaben, um Rechtssicherheit für alle beteiligten Akteure zu schaffen (Blüml et al. 
+2025). Auf Bundesebene regelt das E-Government-Gesetz17 die Bereitstellung offener Verwaltungsdaten,
+während das Datennutzungsgesetz18 die Verwendung öffentlich finanzierter Daten definiert. Die Herausforderung 
+besteht dabei, diese bestehenden Regelungen auf die neuen datenintensiven und simulationsbasierten
+Anwendungen zu übertragen. 
+Ein weiterer rechtlich relevanter Aspekt betrifft die Nachvollziehbarkeit verwendeter Datenquellen, Metadaten, 
+Modelle und Softwarekomponenten, insbesondere dann, wenn Simulationsergebnisse als Grundlage für
+administrative oder politische Entscheidungen herangezogen werden. Daher sind eine revisionssichere (also
+manipulationsfreie) Protokollierung sowie die rechtlich verbindliche Signatur von Ergebnissen wesentliche
+Voraussetzungen für den zuverlässigen Einsatz von UDZ in Verwaltungsprozessen (DIN 2024). Hier können Ansätze und 
+Verfahren aus dem Building Information Modeling (BIM), etwa zur Versionierung, Dokumentation und Freigabe 
+von Modellen, als Vorbild dienen, die sich auf UDZ übertragen lassen. Ergänzend zu den formalen Regelungen 
+können Anlaufstellen und Netzwerke, wie beispielsweise die CUT-Akademie,19 Kommunen Hilfestellungen zu 
+Datenzugangsregelungen bereitstellen und diese bei der Umsetzung von Rechtsvorschriften unterstützen (Blüml 
+et al. 2025). 
+Sensible Daten in UDZ stellen zudem besondere Anforderungen an Sicherheitsstandards. Die Implementierung 
+von Standards wie DIN EN ISO/IEC 27001 (DIN 2024), das NIST Cybersecurity Framework20 oder OAuth21 
+können dabei helfen, Daten vor unbefugtem Zugriff und Manipulation zu schützen. Insbesondere bei Daten
+kritischer Infrastrukturen ist die Einhaltung der entsprechenden rechtlichen Vorgaben besonders relevant. Allerdings 
+erschweren variierende Regelungen auf Landes- und kommunaler Ebene eine einheitliche Umsetzung (Blüml et 
+al. 2025). Auf europäischer Ebene schafft die Richtlinie 2007/2/EG22 rechtliche Grundlagen für die Bereitstellung 
+und Nutzung öffentlicher Geodaten. 
+Ein weiterer zentraler rechtlicher Bereich betrifft datenschutzrechtliche Anforderungen. Die Einhaltung der
+Verordnung (EU) 2016/67923, des Bundesdatenschutzgesetzes24 sowie länderspezifischer Regelungen stellt eine
+wesentliche Rahmenbedingung für die Entwicklung und Nutzung von UDZ dar (Schubbe et al. 2023). In diesem 
+Zusammenhang ist zu regeln, welche Daten bei der Entwicklung und Nutzung von UDZ erhoben und verarbeitet 
+werden dürfen, wie mit personenbezogenen Daten umzugehen ist und wie die Nachvollziehbarkeit von
+Systemzugriffen gewährleistet wird (BBSR 2023a). 
+Aufgrund der Komplexität von UDZ und der Vielzahl potenziell verknüpfter Datenquellen ist die
+Anonymisierung häufig eine erhebliche Herausforderung, beispielsweise bei der Erfassung von Mobilitätsdaten über
+Standortinformationen von Mobiltelefonen. In der kommunalen Praxis werden die datenschutzrechtlichen Auflagen daher 
+häufig als Hürde wahrgenommen. Das kann dazu führen, dass bereits hinreichend anonymisierte und aggregierte 
+Daten nicht freigegeben werden (Interview Stubert). 
+Auf kommunaler Ebene besteht vielfach noch Unsicherheit darüber, welche Daten wie geteilt werden dürfen. Vor 
+diesem Hintergrund äußerten die befragten Expert/innen den Wunsch nach einer stärkeren Anpassung der
+datenschutzrechtlichen Anforderungen an die sich dynamisch und rasch entwickelnden Technologien. Rechtliche
+Unklarheiten sollten aufgelöst und vermeidbare Einschränkungen minimiert werden (Interview Kringer). Dies
+betrifft nicht nur den Datenschutz, sondern auch langwierige Vergabe- und Genehmigungsverfahren für Soft- und 
+Hardwarelösungen in Kommunen. Überdies bestehen weiterhin offene rechtliche Fragen zur Haftung,
+insbesondere mit Blick auf Fehlentscheidungen, die auf fehlerhaften Daten oder Analysen beruhen (Blüml et al. 2025). 
+Als möglicher Lösungsansatz wird ein Transparenzgesetz diskutiert, das einen einheitlichen Standard für
+Datennutzung und -transfer in deutschen Kommunen schaffen und zur Erleichterung der Umsetzung beitragen könnte 
+(Interview Anonym). 
+ 
+17  E-Government-Gesetz vom 25. Juli 2013, zuletzt am 2. Dezember 2025 geändert 
+18  Datennutzungsgesetz vom 16. Juli 2021 
+19  https://www.connectedurbantwins.de/wissenstransfer/cut-akademie/ (21.4.2026) 
+20  https://www.nist.gov/cyberframework (21.4.2026) 
+21  https://oauth.net/2/ (21.4.2026) 
+22  Richtlinie 2007/2/EG vom 14. März 2007 zur Schaffung einer Geodateninfrastruktur in der Europäischen Gemeinschaft (INSPIRE) 
+23  Verordnung (EU) 2016/679 vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum 
+freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) 
+24  Bundesdatenschutzgesetz vom 30. Juni 2017, zuletzt am 6. Mai 2024 geändert 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+5.4 Ethische Grundsätze 
+Um die Potenziale von UDZ für eine integrierte, nachhaltige Stadtentwicklung zu heben, kommt der
+Berücksichtigung ethischer Grundsätze bei der Entwicklung und Anwendung sowie der Schaffung von
+Beteiligungsmöglichkeiten für Bürger/innen eine erhebliche Bedeutung zu. 
+Ein wesentlicher ethischer Grundsatz ist die Vermeidung von Benachteiligungen einzelner Personen oder
+Personengruppen infolge datenbasierter Analysen und Entscheidungsprozesse. Dieser Anspruch leitet sich aus den 
+Prinzipien der Antidiskriminierung und Fairness ab. Dies erfordert unter anderem, Datenbestände, Modelle und 
+Auswertungen so zu gestalten, dass unterschiedliche Bedürfnisse und Lebenslagen angemessen berücksichtigt 
+werden. Dazu zählt etwa die Berücksichtigung von Daten zu Menschen mit körperlichen Einschränkungen, um 
+planerische Entscheidungen nicht einseitig zu treffen (Blüml et al. 2025, S. 72; DIN 2024, S. 119). Welche
+Aspekte potenzieller Benachteiligung relevant sind, hängt maßgeblich vom Anwendungsfall ab. Entsprechend
+müssen ethische Anforderungen bei der Gestaltung digitaler Zwillinge angemessen Berücksichtigung finden, um
+sicherzustellen, dass UDZ nicht unbeabsichtigt soziale Ungleichheiten reproduzieren oder verstärken (Blüml et al. 
+2025, S. 74). 
+Zudem ist bei der Gestaltung von Benutzeroberflächen und Schnittstellen zu berücksichtigen, dass Nutzer/innen 
+über sehr unterschiedlich ausgeprägte digitale Kompetenzen verfügen. UDZ sollten daher so konzipiert sein, dass 
+sie auch von Personen mit geringen digitalen Fähigkeiten genutzt werden können (Interview Kringer).
+Anderenfalls besteht das Risiko einer Ausgrenzung einzelner gesellschaftlicher Gruppen, insbesondere von Personen ohne 
+oder mit nur eingeschränktem Zugang zu digitalen Endgeräten oder mit gering ausgeprägter Digitalkompetenz 
+(Fokusgruppe; Argota Sánchez-Vaquerizo 2025, S. 15; Sahr et al. 2023, S. 16). 
+Außerdem erwarten Nutzer/innen und potenziell Betroffene, über Funktionsweise, Einsatzbereiche und mögliche 
+Risiken von UDZ verständlich informiert zu werden und ihre Rechte gegenüber der verantwortlichen Stelle
+wahrnehmen zu können (Fokusgruppe). Dies setzt voraus, dass den Anwender/innen geeignete Kontroll- und
+Einflussmöglichkeiten eingeräumt werden, etwa in Bezug auf die Nutzung ihrer Daten oder die Nachvollziehbarkeit der 
+getroffenen Entscheidungen (Blüml et al. 2025, S. 73). Auch Art und Weise der Informationsvermittlung spielen 
+hierbei eine wichtige Rolle. Potenzielle Nutzer/innen und Betroffene fordern eine möglichst vielfältige und
+zielgruppengerechte Kommunikation ein, die über klassische Informationsveranstaltungen oder rein digitale
+Angebote hinausgeht. Ergänzend sind niedrigschwellige und teilweise auch individuellere Formen der Ansprache
+erforderlich, um die unterschiedlichen Informationsbedarfe angemessen zu adressieren (Fokusgruppe). 
+Damit Betroffene die Entscheidungen von UDZ nachvollziehen können, kommt der transparenten und
+nachvollziehbaren Gestaltung algorithmischer Systeme und Datenverarbeitungsprozesse, die Grundlage von UDZ sind, 
+eine große Bedeutung zu. Dabei ist jedoch hinsichtlich unterschiedlicher Betroffenengruppen zu differenzieren, 
+denn deren Informations- und Transparenzbedarfe können sehr verschieden sein (Blüml et al. 2025, S. 73).
+Beispielsweise könnte mit UDZ simuliert werden, inwieweit einzelne Stadtviertel unterschiedlich von Hitze betroffen 
+sind und welche Maßnahmen, zum Beispiel die Umleitung von Verkehr, hier entlastend umgesetzt werden
+können. Aus Verwaltungsperspektive ist es dann erforderlich, nachvollziehen zu können, wie die Gewichtung von 
+Maßnahmen zustande kommt, während Bewohner/innen der betroffenen Stadtviertel daran interessiert sind,
+welche konkreten Auswirkungen die Maßnahmen vor Ort haben werden. 
+Unabhängig vom Datenschutz können bei Bürger/innen Sorgen entstehen, dass mit ihren persönlichen Daten 
+sorglos umgegangen wird. Die generellen Risiken, die bei der Verwendung von Daten durch Cyberangriffe,
+Datenmissbrauch und -manipulation etc. entstehen können, gelten auch für Daten, die von UDZ verarbeitet werden. 
+Auch die Verletzung von Privatsphäre durch Datenerhebungs- und -verarbeitungsprozesse von UDZ, wie etwa 
+die Erfassung von Daten im öffentlichen Raum sowie deren Vernetzung und Verarbeitung auf einer urbanen
+Datenplattform, ist eine Sorge, die bei Bürger/innen entstehen kann. Insofern kommt einem angemessenen
+Risikomanagement, einschließlich einer differenzierten Risikokommunikation, eine große Bedeutung zu, um Vertrauen 
+und Akzeptanz in UDZ zu schaffen (Sahr et al. 2023, S. 10). 
+Schließlich besteht das Risiko, dass die in UDZ verwendeten Daten gesellschaftliche Gruppen und
+Lebensrealitäten nicht ausreichend repräsentieren. In die Entwicklung und die Anwendung von UDZ fließt eine Vielzahl 
+heterogener Daten aus zahlreichen Quellen ein (Kapitel 2.2). Gleichwohl bleibt fraglich, inwieweit dabei auch 
+schwer messbare, qualitative Aspekte städtischer Lebensumgebungen adäquat abgebildet werden können. Dies 
+spielt insbesondere dann eine Rolle, wenn marginalisierte Bevölkerungsgruppen oder weniger digitalisierte
+Bereiche städtischen Lebens nur unzureichend berücksichtig sind (Interviews Anonym, Füller; Marx/Seidel 2025, 
+S. 2). Wenn digitale Zwillinge kein vollständiges Abbild liefern können, wenn also beispielsweise Informationen 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+über die Lebensqualität einzelner Stadtviertel aus Sicht der dortigen Bevölkerung fehlen oder verzerrt sind, dann 
+besteht die Gefahr, dass bestehende soziale Ungleichheiten weiter vertieft (Marx/Seidel 2025, S. 3) oder neue 
+Formen von Exklusion erzeugt werden (Argota Sánchez-Vaquerizo 2025, S. 15; DIN 2024, S. 10). Dies könnte 
+der Fall sein, wenn ein sozial benachteiligtes Quartier nur unzureichend in einem UDZ abgebildet werden kann, 
+weil beispielsweise die erforderliche Sensorinfrastruktur vor Ort fehlt oder weil die Bevölkerung nur eine niedrig 
+ausgeprägte digitale Ausstattung mit Endgeräten aufweist. In einem solchen Fall, etwa wenn Maßnahmen zur 
+Reduzierung der Hitzebelastung umgesetzt werden sollen, könnte der UDZ bevorzugt Handlungsoptionen für jene 
+Stadtviertel vorschlagen, die datenmäßig vollständiger im UDZ abgebildet sind. 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+6 Urbane digitale Zwillinge im Jahr 2035: drei Szenarien zur künftigen Verbreitung 
+– Durch eine systematische Analyse von 37 Einflussfaktoren und auf Basis einer Wechselwirkungsanalyse 
+wurden im vorliegenden Bericht drei plausible Szenarien für das Jahr 2035 entworfen. 
+– Szenario 1 schildert eine mögliche zukünftige Entwicklung, in der UDZ flächendeckend in allen
+Kommunen verankert sowie gesetzlich vorgeschrieben sind und finanziell unterstützt werden, sodass daten- und 
+KI-gestützte Planungsprozesse umfassende Klimaanpassungs- und Nachhaltigkeitsmaßnahmen
+ermöglichen und zugleich aktiv Bürgerbeteiligung sowie offene Datenökosysteme fördern. 
+– Szenario 2 skizziert eine weitere, alternativ mögliche Entwicklung, in der UDZ nur sporadisch und
+fragmentiert in einzelnen Städten eingesetzt werden, finanzielle und institutionelle Hürden zu unzureichender 
+Skalierung führen und dadurch viele Chancen für wirksame Klimaanpassung und nachhaltige
+Stadtentwicklung verpasst bleiben. 
+– Szenario 3 beschreibt schließlich eine dritte mögliche Entwicklung, in der UDZ kaum über einzelne
+Pilotprojekte hinaus genutzt werden, weil fehlende Finanzierung, schwacher politischer Wille und mangelnde 
+Integration zu einer reaktiven, fragmentierten Stadtentwicklung führen, bei der Klimarisiken nur punktuell 
+und ohne langfristige, datengestützte Maßnahmen adressiert werden. 
+Gegenwärtig zeichnen sich unterschiedliche zukünftige Entwicklungspfade für die weitere Entwicklung von UDZ 
+ab. Während sich zahlreiche Projekte in der Implementierungsphase befinden, ist vor allem die langfristige
+Finanzierung ungelöst. Damit verbunden sind weiterhin grundlegende Unsicherheiten, etwa hinsichtlich des konkreten 
+Mehrwerts von UDZ für eine nachhaltige und klimaangepasste Stadtentwicklung. Zudem liegen bislang nur
+begrenzte Erfahrungswerte zur langfristigen Nutzung von UDZ in der kommunalen Praxis vor. 
+Vor diesem Hintergrund wird in den folgenden Szenarien ein Blick auf unterschiedliche mögliche
+Zukunftsentwicklungen geworfen, wie sich die Nutzung von UDZ ausprägen könnte. Die Szenarien bieten damit erste
+Anhaltspunkte für die Ableitung von möglichen, bereits heute bestehenden Gestaltungsoptionen. Die drei Szenarien 
+basieren auf sieben Schlüsselfaktoren, deren unterschiedliche Ausprägungen als alternative Projektionen
+zukünftiger Entwicklungspfade dargestellt werden. 
+6.1 Entwicklung der Szenarien 
+Vom Einflussfaktor zum Schlüsselfaktor 
+Ausgangspunkt für die Entwicklung plausibler Szenarien ist die Ableitung von Einflussfaktoren (Kosow/Gaßner 
+2008), also jenen Faktoren, die die Entwicklung von UDZ prägen können, indem sie diese bremsen oder
+beschleunigen. Einflussfaktoren lassen sich aus verschiedenen Quellen ableiten, etwa aus der analysierten Literatur sowie 
+den geführten Interviews. Für die künftige Entwicklung von UDZ wurden so 37 Einflussfaktoren identifiziert, die 
+nach dem STEEP+VL-Raster25 systematisiert worden sind, also unterteilt in soziale, technologische,
+wirtschaftliche (E = economy), ökologische (E = ecology) und politische Faktoren, ergänzt um Werte (V = Values) und 
+rechtliche Rahmenbedingungen (L = Legal). 
+Um hieraus Schlüsselfaktoren ableiten zu können, ist die Untersuchung von Wechselwirkungen zwischen den 
+Faktoren wichtig. Hierzu nutzt man Wechselwirkungsanalysen, um sämtliche Faktoren zueinander in Beziehung 
+zu setzen und die Stärke dieser Beziehung (von gar keinem Einfluss aufeinander bis zu einem sehr starken
+Einfluss) zu ermitteln (Fink/Siebe 2016; Godet 2009). Im Ergebnis dieses Analyseschrittes entsteht eine Matrix, die 
+Faktoren nach ihrem Einfluss – ihrer Aktivsumme – auf alle anderen Faktoren sowie ihrem Grad der
+Beeinflussung – ihrer Passivsumme – sortiert. Besonders aktive Faktoren können als starke Hebel betrachtet werden, die 
+viele andere Faktoren stark beeinflussen können. Besonders passive Faktoren sind eher träge Kräfte, die zwar von 
+einer Vielzahl anderer Faktoren stark beeinflusst werden, selbst jedoch kaum andere Faktoren prägen. Diejenigen 
+Faktoren, die gleichzeitig sehr aktiv sind und viele andere Faktoren beeinflussen, allerdings kaum ihrerseits
+beeinflusst werden, können als Schlüsselfaktoren bezeichnet werden (Kosow/Gaßner 2008). 
+Auf Basis der Wechselwirkungsanalyse wurden sieben Schlüsselfaktoren ausgewählt. 
+ 
+25  Es gibt unterschiedliche Systematisierungen: STEEP, PESTL, STEEP+VL (siehe auch ISI 2015, S. 26). 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Tabel le 6.1  Schlüsselfaktoren für die künftige Entwicklung urbaner digitaler Zwillinge 
+soziale Faktoren Bewusstsein für Klimarisiken 
+technologische Faktoren Simulationsmodelle für Extremwetterereignisse und 
+Klimaanpassungsplanung, Verfügbarkeit von sensorbasierten Umwelt- 
+und Klimadaten 
+ökonomische Faktoren Kosten und Investitionen für Klimaanpassungsmaßnahmen 
+ökologische Faktoren Monitoring von Emissionen und Anpassungsmaßnahmen 
+politisch-regulatorische Faktoren Klimaanpassungsstrategien auf Bundes-/Landesebene 
+Verpflichtung zur Klimaanpassung auf kommunaler Ebene 
+Eigene Zusammenstellung 
+Vom Schlüsselfaktor zur Projektion 
+Die Schlüsselfaktoren sind richtungsneutral formuliert, das heißt, sie enthalten keine Annahmen über ihre
+zukünftige Entwicklung. Erst durch die Festlegung einer möglichen Entwicklungsrichtung entstehen sogenannte
+Projektionen (Fink/Siebe 2016; Pillkahn 2007). Ein Schlüsselfaktor kann dabei unterschiedliche zukünftige
+Ausprägungen annehmen. Das Bewusstsein für Klimarisiken in der Gesellschaft kann beispielsweise zunehmen,
+gleichbleiben oder abnehmen. Für alle sieben Schlüsselfaktoren wurden jeweils drei mögliche Ausprägungen formuliert. 
+Dabei wurde die Anzahl bewusst begrenzt, um die Komplexität des Szenarioprozesses in einem handhabbaren 
+Rahmen zu halten. 
+Von der Projektion zum Szenario 
+Die entwickelten Projektionen wurden im nächsten Schritt miteinander in Beziehung gesetzt. Ziel war es zu
+prüfen, welche Kombinationen von Projektionen in sich stimmig sind und sich widerspruchsfrei miteinander
+verbinden lassen (Fink/Siebe 2016; Pillkahn 2007). Auf dieser Grundlage wurden drei plausible und jeweils in sich 
+konsistente Projektionskombinationen identifiziert. Diese unterscheiden sich deutlich voneinander und eröffnen 
+alternative Entwicklungspfade. Sie können als Rohszenarien bezeichnet werden, also als erste verdichtete
+Entwürfe möglicher Zukunftsbilder. Anschließend wurden die drei Rohszenarien zu ausführlichen Szenarien weiter 
+ausgearbeitet und narrativ beschrieben. Die entstandenen Szenarien zeigen unterschiedliche, plausible
+Entwicklungsmöglichkeiten auf, wie sich Städte unter der Verwendung von UDZ nachhaltig und an den Klimawandel 
+angepasst entwickeln können. Jedes Szenario umfasst: 
+– wesentliche technologische Merkmale von UDZ, 
+– prägende gesellschaftliche Entwicklungen, 
+– relevante politische Rahmenbedingungen und Strategien, 
+– die Rolle von Kommunen bei der Anpassung an den Klimawandel, 
+– Finanzierungsmodelle für UDZ und Finanzierungsbedarfe für Klimaanpassungsmaßnahmen, 
+– die Ausprägung der notwendigen Dateninfrastruktur und 
+– den Grad der Entwicklung von deskriptiven Planungsinstrumenten bis zu autonomen
+Entscheidungssystemen. 
+6.2 Szenario 1: Nachhaltige und an den Klimawandel angepasste Städte 
+Robuste Hightech: Sensorik zur flächendeckenden Zustandsermittlung 
+2035 sind UDZ in deutschen Städten weit verbreitet. Ein wesentlicher Baustein dieser Systeme sind umfassende, 
+resilient gestaltete Netzwerke aus Sensoren, die verschiedene Variablen kontinuierlich messen, wie CO2-
+Emissionen, (Verkehrs-)Lärm, Strom- und Wärmeverbrauch, Biodiversität, Luftqualität etc. Anhand dieser Messungen 
+lässt sich ein detailliertes digitales Abbild einer städtischen Umgebung erzeugen. 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Durch Simulationen lässt sich ermitteln, welche Wirkungen durch verschiedene Maßnahmen erzielt werden
+können. Quasi in Echtzeit können so die wirkungsvollsten Maßnahmen, teilweise agentenbasiert, umgesetzt werden. 
+Partizipation und Nachhaltigkeit: die moderne Gesellschaft der 2030er Jahre 
+Im Jahr 2035 leiden die Bewohner/innen zahlreicher Städte in Deutschland unter den Folgen des Klimawandels. 
+Nicht nur extreme Hitzewellen, Starkregenereignisse und Überschwemmungen, sondern auch Waldbrände und 
+Dürren sowie Stürme beeinflussen das alltägliche Leben in Großstädten. Stromausfälle, Wasserknappheit sowie 
+Verkehrsbeeinträchtigungen gehören seit Jahren zur Lebensrealität zahlreicher Menschen. 
+Die Folgen des Klimawandels sind daher einem großen Teil der Bevölkerung bewusst, einerseits durch
+persönliche Betroffenheit und andererseits durch vielfältige Bildungsangebote, die mithilfe digitaler Zwillinge die
+Auswirkungen realitätsnah erfahrbar machen. Zum Einsatz kommen hierzu virtuelle und augmentierte Realitäten, die 
+durch Computersimulationen eine Interaktion der Lernenden mit Handlungsoptionen zu verschiedenen
+Klimaereignissen ermöglichen. Weil UDZ auch für das Katastrophenmanagement eingesetzt werden, sind sie besonders 
+resilient gestaltet, um im Katastrophenfall auch weiter funktionsfähig zu bleiben. 
+Vor dem Hintergrund des sich verstärkenden Klimawandels verlangt die Gesellschaft konsequentes politisches 
+Handeln, um Anpassungsmaßnahmen an den Klimawandel umzusetzen. Ein wirksames Instrument für die
+Umsetzung von Klimaanpassungsmaßnahmen sind Bürgerbeteiligungsverfahren, bei denen Bewohner/innen von 
+Städten die Entwicklung in ihrer unmittelbaren Nachbarschaft beeinflussen können. 
+Verbindliche Ziele und Maßnahmen: politische Masterpläne zum Erreichen der Klimaneutralität 
+Gesellschaftlicher Druck und gesetzliche Vorgaben haben das Handeln der Politik auf Bundes- und Landesebene 
+beeinflusst. Um die verbindlichen Vorgaben zum Schutz des Klimas zu erfüllen und das Ziel der Klimaneutralität 
+zu erreichen, ist die deutsche Anpassungsstrategie an den Klimawandel über Jahre hinweg weiterentwickelt und 
+verschärft worden, sodass mittlerweile für alle Sektoren die jeweiligen Pflichten und Prioritäten nachvollziehbar 
+festgelegt sind. 
+Um diese Maßnahmen in städtischen Gebieten umzusetzen, wurden UDZ als zentrales Planungsinstrument
+etabliert: Ihr Einsatz ist Teil gesetzlicher Vorgaben geworden. 
+Lokal resilient: Kommunen als Vorreiter bei der Anpassung an die Folgen des Klimawandels 
+Der Bund unterstützt die Umsetzung von Anpassungsmaßnahmen an die Folgen des Klimawandels mit
+finanziellen Mitteln in erheblichem Umfang. Allerdings müssen Kommunen eine Reihe von Voraussetzungen erfüllen, 
+um Fördermittel beziehen zu können. Eine davon ist die Entwicklung konkreter Klimaanpassungspläne auf 
+Grundlage digitaler Zwillinge. Fördermittel für einzelne Maßnahmen werden nur vergeben, wenn diese auf
+aktuellen, qualitativ hochwertigen Informationen basieren und deren Wirkung anhand vorheriger Simulationen
+bestmöglich antizipiert werden kann. 
+Da zahlreiche Kommunen über jahrelange Erfahrungen bei der Anwendung digitaler Zwillinge verfügen, gibt es 
+sehr viele positive Beispiele für die Umsetzung von Maßnahmen, sodass Beteiligte in kommunalen Verwaltungen 
+sehr gut voneinander lernen können. 
+Nachhaltige Rendite: Klimaanpassung als Investitionsmotor 
+Die oben skizzierten Maßnahmen zur Anpassung an die Folgen des Klimawandels verursachen enorme finanzielle 
+Anstrengungen. Es gelingt allerdings mit der Nutzung digitaler Zwillinge, diese Anstrengungen in gesellschaftlich 
+verträglicher Art und Weise zu bewältigen. Zum einen ermöglichen UDZ die Konzeption von
+Ausgleichsmechanismen, die dafür sorgen, dass sozial schwache Gruppen weniger durch die steigenden Kosten für
+Klimaanpassungsmaßnahmen belastet werden. Zum anderen können Städte und der Bund mithilfe digitaler Zwillinge
+Priorisierungen innerhalb begrenzter öffentlicher Budgets vornehmen, um ihre verfügbaren Mittel für die Umsetzung 
+von besonders wichtigen Anpassungsmaßnahmen zu verwenden. 
+Nachhaltige Anleihen oder Public Private Partnerships etablieren sich als weitere Instrumente für die
+Finanzierung von Klimaanpassungsmaßnahmen. Informationen über getätigte Investitionen werden in UDZ genutzt, um 
+die Wirksamkeit im Vorfeld durch Simulationen und eine Evaluation des erreichten Impacts im Nachhinein zu 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+ermitteln. Dank der Priorisierung von Investitionsmöglichkeiten durch UDZ überwiegen Investitionen in
+nachhaltige Technologien gegenüber solchen in fossile Technologien, sodass sich ein Festhalten an nicht nachhaltigen 
+Lösungen nicht länger lohnt. 
+Offene urbane Datenökosysteme 
+Bis 2035 entstehen in Städten offene Datenökosysteme mit Informationen über zahlreiche wichtige Parameter, 
+wie Luftqualität, Temperatur, Wasserverbrauch etc. Ein Merkmal dieser Datenökosysteme sind die offenen 
+Schnittstellen, die es Akteuren aus Wirtschaft und Zivilgesellschaft ermöglichen, datenbasierte Anwendungen zu 
+entwickeln. Das können beispielsweise Apps sein, die Ampeln anhand von Verkehrsfluss und Verkehrslärm
+autonom steuern und auch Fußgänger/innen bei der optimalen Routenfindung unterstützen. 
+Grundsätzlich sind digitale Zwillinge nach dem Prinzip der Datensparsamkeit gestaltet, das heißt, es werden nur 
+so viele Daten erfasst und verarbeitet, wie es für spezifische Anwendungsfälle erforderlich ist. Stadtbewohner/
+innen können freiwillig Daten in diese Netze einspeisen, um sie noch präziser zu gestalten und die Modelle und 
+Simulationen zu verbessern. Solche Daten können beispielsweise Bewegungsdaten sein, die auf Barrieren im 
+Alltag hinweisen, oder Gesundheitsdaten, die eine besondere Belastung in bestimmten Umgebungen während 
+Hitzewellen anzeigen. 
+Künstliche Intelligenz zum Wohle der Bevölkerung 
+Die Häufigkeit von durch den Klimawandel verursachten Extremwetterereignissen hat bis zum Jahr 2035
+zugenommen. Umso wichtiger ist es geworden, die Auswirkungen unterschiedlicher Extremwetterereignisse
+vorhersagen zu können, um die Folgen abschwächen zu können. UDZ sind nicht nur in der Lage, hochdetaillierte
+Abbilder von Städten zu erzeugen, sondern auch zu simulieren, welche Wirkungen unterschiedliche Wetterereignisse 
+wie Starkregen, Hitze oder Stürme in einer städtischen Umgebung haben können. 
+Mithilfe künstlicher Intelligenz können diese Simulationen in Echtzeit ausgewertet und entsprechende
+Maßnahmen eingeleitet werden. Dies umfasst beispielsweise eine resiliente Stadtentwicklung, um die negativen Folgen 
+zu minimieren, die Umsetzung von CO2-Ausgleichsmechanismen mit Smart Contracts oder auch ein akutes
+Notfallmanagement im Katastrophenfall zu ermöglichen. 
+6.3 Szenario 2: Insellösungen und verpasste Chancen 
+Minimalziele und niedrige Standards: digitale Zwillinge als unterstützendes Instrument 
+In einer mehrjährigen und kontrovers geführten Auseinandersetzung ist es gelungen, ein einheitliches
+Rahmenwerk für die Nutzung kompatibler digitaler Monitoringinfrastrukturen zu entwickeln; allerdings gestattet es dieses 
+Rahmenwerk den Kommunen, individuelle Lösungen umzusetzen. Damit gelingt immerhin ein einheitliches
+Monitoring von Emissionen sowie von Anpassungsmaßnahmen an den Klimawandel. Jedoch unterscheiden sich die 
+dazu genutzten Systeme zum Teil stark voneinander, weil sie beispielsweise auf unterschiedlichen
+Datengrundlagen basieren und mit unterschiedlichen Algorithmen arbeiten. 
+Digitale Zwillinge sind teilweise in Monitoringsysteme integriert, aber nicht flächendeckend im Einsatz. Somit 
+ist zwar die Vergleichbarkeit der Informationen gegeben, eine umfassende Vorhersage von möglichen (Wechsel-
+)Wirkungen ist jedoch nur in Einzelfällen möglich. 
+Spaltung und Polarisierung: eine fragmentierte Gesellschaft in den 2030er Jahren 
+Im Jahr 2035 sind die Gefahren durch den Klimawandel spürbar gestiegen. Da jedoch trotz zunehmender
+Extremwetterereignisse wie Hitzewellen, Stürmen, Hochwasser und Waldbränden immer nur Teile der deutschen
+Gesellschaft betroffen sind, fehlt ein gesamtgesellschaftlicher Konsens über die Dringlichkeit des Handelns.
+Politische Maßnahmen sind oft nur Reaktionen auf Katastrophen und stoßen vielfach auf Widerstand aus der
+Bevölkerung. 
+Obwohl mit digitalen Zwillingen ein Instrument verfügbar ist, das zur Aufklärung über die Auswirkungen des 
+Klimawandels beitragen kann, werden sie nur vereinzelt in der Bildung eingesetzt. Fehlende Akzeptanz der
+Bevölkerung und mangelnde Bereitschaft, neue Technologien zu nutzen, verhindern eine breitere Nutzung digitaler 
+Zwillinge. 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Unverbindlichkeit und fehlende Orientierung: Klimapolitik mit geringer Priorität 
+Obwohl die Folgen des Klimawandels bis zum Jahr 2035 extremer werden, fehlt es an eindeutigem politischem 
+Willen und juristischer Verpflichtung, um geeignete Maßnahmen zur Anpassung umzusetzen. Eine konsensfähige 
+Strategie und Maßnahmenplanung konnten so bislang nicht entstehen. 
+Punktuell reagiert die Bundesregierung dennoch mit geeigneten Maßnahmen: entweder als Reaktion auf
+besonders extreme Ereignisse oder auf besonderen öffentlichen Druck, beispielsweise bei der Umsetzung geeigneter 
+Schutzmaßnahmen vor extremer Hitze in innerstädtischen Umgebungen. Teilweise gelingt es auch, Maßnahmen 
+umzusetzen, indem internationale Best-Practice-Beispiele als Orientierung dienen. 
+Föderalismus bei der Anpassung an den Klimawandel 
+Eine bundesweite Strategie zum Schutz des Klimas und der Menschen vor den negativen Folgen des
+Klimawandels wurde durch jahrelange politische Auseinandersetzungen und eine stärkere Polarisierung der Gesellschaft 
+immer weniger konsequent umgesetzt und weiterentwickelt. Fehlende Unterstützung des Bundes und ungeklärte 
+Zuständigkeiten zwischen Ländern und Bund trugen dazu bei, dass eine ganzheitliche Umsetzung von UDZ
+ausbleibt. 
+Im Jahr 2035 gehen dennoch einige Bundesländer ihre eigenen, ambitionierten Wege. Vor allem diejenigen
+Regionen in Deutschland, die besonders betroffen sind, wie etwa die Küstenregionen durch den steigenden
+Meeresspiegel, die Bundesländer mit einer hohen Bevölkerungsdichte, aber auch die Bundesländer mit besonders
+innovativen Technologieunternehmen, entwickeln ihre eigenen Maßnahmen. 
+Digitale Zwillinge sind vor allem in größeren Kommunen dieser Bundesländer wirksame Instrumente bei der 
+Maßnahmenplanung und -umsetzung. Beispielsweise können so frühzeitig sich abzeichnende Hitzeinseln in
+Städten identifiziert und die Bevölkerung durch geeignete Maßnahmen präventiv geschützt werden. Kleinere
+Kommunen mit begrenzten finanziellen Spielräumen haben das Nachsehen. 
+Zurückhaltende Investitionsbereitschaft 
+Bis 2035 wird an fossilen Technologien sowie dem Leitbild der Technologieoffenheit festgehalten. Investitionen 
+in nachhaltige Technologien und effektive Maßnahmen zum Schutz von Klima und Bevölkerung erweisen sich 
+daher nicht als besonders profitabel und sind nur von nachgelagertem Interesse. 
+Auch die staatliche Förderung von Maßnahmen orientiert sich vor allem an eindeutig messbaren Wirkungen. 
+Davon profitieren insbesondere die Städte, die bereits umfangreich mit digitalen Zwillingen arbeiten und
+Wirkungszusammenhänge zwischen finanziellen Mitteln und umgesetzten Maßnahmen eindeutig belegen können. 
+Insofern kommt es zu einer Verschärfung regionaler Unterschiede zwischen Kommunen. 
+Einzellösungen und Entscheidungssilos: digitale Zwillinge in der Planung 
+Bis 2035 haben UDZ trotzdem in verschiedenen Fachabteilungen der Kommunalverwaltungen Einzug gehalten. 
+Eine besonders breite Anwendung hat sich in den Bauämtern und bei der Stadtplanung etabliert. Nur punktuell 
+wurden umfassende digitale Zwillinge etabliert, deren Einsatz über die Planung weit hinausgeht und bis zur
+Vorhersage von Wirkungen unterschiedlicher Maßnahmen reicht. 
+Auch die Nutzung der Echtzeitfähigkeit von Datenanalyse, Simulation und Vorhersage sowie die Integration in 
+kommunale Entscheidungsprozesse hat sich bislang nicht flächendeckend etablieren können. 
+Fragmentierte Datenökosysteme 
+Die verfügbaren Datenmengen aus Sensoren sind bis 2035 stark angestiegen. Mittlerweile gibt es zahlreiche
+Möglichkeiten, Daten über den Zustand von Städten zu sammeln. Hierzu kommen unterschiedliche Sensorsysteme als 
+Datenquellen zum Einsatz, vom Smart Device der Bewohner/innen über passive Sensoren bis hin zu
+hochauflösenden Kameras. 
+Jedoch sind nicht alle diese Daten uneingeschränkt für die Analyse mit digitalen Zwillingen nutzbar. Vielmehr 
+gibt es viele Datenfragmente, die unverbunden nebeneinanderstehen: Zum Teil müssen sie aktiv geteilt werden, 
+was in Teilen der Bevölkerung auf Widerstand stößt. Zum Teil sind sie Eigentum von Unternehmen, die nur eine 
+kostenpflichtige Nutzung zulassen. Daneben können bestimmte Daten auch öffentlich und somit uneingeschränkt 
+nutzbar sein. Da sich diese Datenräume von Kommune zu Kommune unterscheiden, sind die digitalen Zwillinge 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+von sehr unterschiedlicher Qualität und nur mit sehr hohem technischem und finanziellem Aufwand untereinander 
+kombinierbar. 
+6.4 Szenario 3: Reaktive Maßnahmen und zögerliche Umsetzung 
+Zögerliche Umsetzung: Digitale Zwillinge bleiben theoretische Konzepte 
+Auf kommunaler Ebene werden Maßnahmen zum Schutz vor den Folgen des Klimawandels häufig nur bei
+konkretem Anpassungsdruck ausreichend priorisiert. Üblicherweise werden andere Bereiche des städtischen Lebens 
+bzw. der städtischen Infrastruktur als wichtiger und dringender erachtet. Eine strategische Entwicklung von
+Städten unter dem Leitbild einer zwingend erforderlichen Anpassung an den Klimawandel erfolgt nicht. 
+Digitale Zwillinge spielen in den strategischen Planungen auf kommunaler Ebene nur eine untergeordnete Rolle. 
+Die Möglichkeiten, mit digitalen Zwillingen nicht nur Maßnahmen der Klimaanpassung, sondern auch andere 
+Maßnahmen zur Entwicklung der städtischen Infrastruktur planerisch umzusetzen, wie beispielsweise
+Investitionen in soziale Einrichtungen oder die Schaffung von Wohnraum, bleiben weitgehend ungenutzt. 
+Trägheit und fehlende Mitwirkung: eine zufriedene Gesellschaft in den 2030er Jahren 
+Im Jahr 2035 sind die Auswirkungen des menschengemachten Klimawandels nicht nur in Deutschland, sondern 
+auch in Europa sowie der restlichen Welt deutlich sichtbar. Die Häufigkeit und Intensität von
+Extremwetterereignissen haben stark zugenommen und der mittlere Temperaturanstieg in Deutschland beträgt 1,7 °C. Obwohl die 
+Zahl der Geschädigten in der deutschen Bevölkerung jährlich steigt, hat sich ein umfassendes Festhalten am Status 
+quo etabliert. Veränderungen zum Schutz der Bevölkerung vor den Auswirkungen des extremen Klimas finden 
+keine gesellschaftlichen und politischen Mehrheiten. 
+Wer es sich leisten kann, ergreift individuelle Maßnahmen, ein Großteil der Gesellschaft ist jedoch den
+Auswirkungen des Klimawandels weitestgehend schutzlos ausgeliefert. Viele Bemühungen, mittels virtueller
+Technologien und UDZ zu einer verbesserten Aufklärung über die Folgen des Klimawandels beizutragen, sind erfolglos 
+gewesen. 
+Unentschlossen und traditionsorientiert: Klimaschutz ist kein politisches Thema mehr 
+Die Bundesregierung im Jahr 2035 handelt nur, wenn sie muss. Klimaschutz und Schutz der Bevölkerung vor den 
+Folgen des Klimawandels haben keine hohe Priorität für politische Entscheidungsträger/innen, und Maßnahmen 
+finden selten Mehrheiten. Lediglich als Reaktion auf konkrete Anlässe, wie beispielsweise Überflutungen an
+Flüssen und Küsten, Hitzewellen und Dürreperioden, die hohen Schaden verursachen, werden kurzfristige
+Maßnahmen veranlasst. Eine übergeordnete Strategie mit einem wirksamen Maßnahmenpaket fehlt. 
+Dementsprechend gibt es keine Ansätze, die die Potenziale digitaler Zwillinge bei der Prävention und Anpassung 
+an die Folgen des Klimawandels in einen strategischen Rahmen fassen. Auch eine integrative Berücksichtigung 
+digitaler Zwillinge bei der Raum- und Infrastrukturplanung für städtische Gebiete fehlt. 
+Fehlende Anreize: Investitionsstau bei Klimaschutzmaßnahmen 
+Obwohl die Schäden, die durch Extremwetterereignisse verursacht werden, mittlerweile hohe Kosten
+verursachen, die das Versicherungswesen vor extreme Herausforderungen stellen, werden zahlreiche Investitionen
+aufgrund fehlender Anreize weiterhin in fossile Energieträger und veraltete Technologien geleitet. Vor allem
+Investitionen aus privatwirtschaftlichen Quellen erzielen auf diese Weise weiterhin auskömmliche Renditen. 
+Öffentliche Fördermittel werden vor allem für diejenigen Maßnahmen verwendet, die notwendig sind, um
+Schäden an der Infrastruktur zu minimieren. Eine vorausschauende Finanzierung von Anpassungsmaßnahmen findet 
+aufgrund fehlenden politischen Willens nur selten statt. Der Beitrag, den digitale Zwillinge bei einer Priorisierung 
+von Maßnahmen leisten können, wird nur sehr vereinzelt genutzt. 
+Kommunale Flickenteppiche: Technische Lösungen werden selten standardisiert genutzt 
+Digitale Zwillinge werden im Jahr 2035 nur vereinzelt für spezifische Anwendungsfälle eingesetzt, beispielsweise 
+die Verkehrsplanung. Eine einheitliche technische Basis hat sich trotz der Standardisierungsbemühungen bislang 
+nicht etabliert. Vielmehr setzen Kommunen bzw. Kommunalverwaltungen auf Einzelfalllösungen, die aufgrund 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+fehlender technischer und organisatorischer Standards selten als Best Practices für andere Kommunen dienen 
+können. 
+Die Potenziale digitaler Zwillinge werden längst nicht ausgeschöpft. Vielmehr wird in einigen Fällen ein
+rudimentäres Monitoring betrieben, das zwar Aufschluss über aktuelle Zustände von Teilen des Systems Stadt bietet, 
+aber keinesfalls ein präzises Gesamtbild liefert. Somit bleibt eine Bewertung der Wirksamkeit von
+unterschiedlichen Maßnahmen lückenhaft. 
+Theoretisch ausgearbeitet, praktisch kaum relevant: Konzepte digitaler Zwillinge überzeugen nur selten 
+Jahrelange theoretische Diskussionen und wissenschaftliche Auseinandersetzungen haben zu komplexen und 
+vollständig ausgearbeiteten Konzepten digitaler Zwillinge geführt. Die Umsetzung dieser Konzepte in die Praxis 
+ist allerdings nicht vollendet. Eine ins Stocken geratene Digitalisierung der öffentlichen Verwaltung hat dazu 
+geführt, dass kaum praktikable Schnittstellen für die Einbindung digitaler Zwillinge in Verwaltungsprozesse
+geschaffen worden sind. 
+Hinzu kommen rechtliche Hürden, beispielsweise unterschiedlich streng formulierte Datenschutzgesetze, die
+einen verwaltungsübergreifenden Transfer von Erfahrungen erschweren. Fehlender Erfahrungsaustausch zwischen 
+Kommunen erschwert die weitere Entwicklung und praktische Umsetzung digitaler Zwillinge. 
+Fehlende Daten: Digitale Zwillinge leiden an Datenarmut 
+Zwar gibt es mittlerweile ein umfangreiches Angebot an unterschiedlichster Sensorik, allerdings werden nur
+wenige Parameter konsistent erfasst. Viele unterschiedliche Sensorsysteme sind herstellergebunden oder werden in 
+der Praxis nicht flächendeckend eingesetzt. Die Daten, die auf diese Weise über den Zustand einer Stadt
+gesammelt werden können, sind oft lückenhaft und zum Teil fehlerhaft. 
+Fehlende Daten führen dazu, dass die Modelle, die mit digitalen Zwillingen arbeiten, unvollständig und wenig 
+vertrauenswürdig sind. Sie bilden die Realität nicht präzise ab und eignen sich nur für rudimentäre Simulationen. 
+Vorhersagen über künftige Systemzustände sind nur sehr eingeschränkt möglich. 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+7 Gestaltungsoptionen für urbane digitale Zwillinge 
+– Um UDZ flächendeckend und wirkungsvoll für eine klimaangepasste und nachhaltige Stadtentwicklung 
+einsetzen zu können, sollten verschiedene technische, organisatorische und politische Gestaltungsoptionen 
+miteinander verknüpft werden. Dazu gehören beispielsweise die Schaffung einer standardisierten
+Systemarchitektur, der Ausbau von IoT-Sensornetzwerken und skalierbaren Recheninfrastrukturen, die
+Umsetzung nutzungsfreundlicher Bedienschnittstellen, Einhaltung einer klaren Datengovernance, Etablierung 
+nachhaltiger Finanzierungsmodelle, Schaffung eines verbindlichen Rechtsrahmens und die Gestaltung,
+orientiert an ethischen Leitlinien. 
+– Weiterer Forschungsbedarf besteht hinsichtlich robuster Mess- und Bewertungsmetriken, mit denen der 
+tatsächliche Mehrwert, die Kosteneffizienz, die gesellschaftlichen Auswirkungen und die langfristige
+Wirksamkeit von UDZ-basierten Maßnahmen quantifiziert und deren Integration in Verwaltungs- und
+Planungsprozesse systematisch untersucht werden. 
+Gegenwärtig befinden sich bereits zahlreiche UDZ in deutschen Kommunen in unterschiedlichen Phasen der
+Umsetzung (Kapitel 2.4). Sie bieten vielfältige Potenziale für eine nachhaltige und klimaangepasste
+Stadtentwicklung, wie beispielsweise effizientere Bewertung von Maßnahmen zum Umweltschutz oder der
+Klimafolgenanpassung sowie die bessere Berücksichtigung vulnerabler Bevölkerungsgruppen durch räumlich differenzierte 
+Analysen (Kapitel 3). Allerdings gibt es noch zahlreiche zu lösende Herausforderungen, etwa die Schaffung
+standardisierter Dateninfrastrukturen, umfassender Sensornetzwerke zur Echtzeitüberwachung städtischer Parameter 
+oder die Entwicklung langfristig tragfähiger Finanzierungsmodelle (Kapitel 4). Um die Potenziale zu heben und 
+die Herausforderungen zu bewältigen, gibt es unterschiedliche Ansatzpunkte, die zu einer erfolgreichen
+Gestaltung von UDZ beitragen können. Dazu gehört unter anderem die Schaffung geeigneter
+Datengovernancestrukturen innerhalb kommunaler Verwaltungen, die Etablierung geeigneter finanzieller Rahmenbedingungen, die
+Berücksichtigung und Weiterentwicklung rechtlicher Rahmenbedingungen sowie die Einbeziehung ethischer 
+Grundsätze in die Entwicklung und Nutzung von UDZ (Kapitel 5). 
+Aktuell kann nicht belastbar prognostiziert werden, in welchem Umfang UDZ künftig als autonome
+Entscheidungssysteme innerhalb der Stadtentwicklung eingesetzt werden, ob es dabei zu einer flächendeckenden
+Anwendung kommt oder der Einsatz/die Nutzung auf wenige Einzelfälle beschränkt bleiben wird. Es erscheint plausibel, 
+dass eine Vielzahl spezifischer Fachzwillinge für unterschiedliche Anwendungsfälle entstehen wird. Inwieweit 
+dadurch die Potenziale für nachhaltige, klimaangepasste Stadtentwicklung gehoben werden können, ist derzeit 
+noch offen. 
+Die drei vorgestellten Szenarien umreißen unterschiedliche mögliche und plausible zukünftige Entwicklungen 
+von UDZ und reduzieren dabei die Komplexität der aktuellen Entwicklungen (Kapitel 6). Einerseits ist denkbar, 
+dass es innerhalb des Zeitraums bis 2035 zu einer dynamischen, politisch sinnvoll gesteuerten und umfassenden 
+Weiterentwicklung von UDZ kommt, sodass sie künftig in vielen deutschen Städten Teil der Stadtentwicklung 
+sein werden (Kapitel 6.2). Andererseits ist aber auch vorstellbar, dass die bisherige Entwicklung von UDZ bereits 
+eine Art Höhepunkt erreicht hat und deren Weiterentwicklung aufgrund unterschiedlicher Faktoren, wie etwa 
+fehlender politischer Zielsetzungen, mangelnder Finanzierungs- und Fördermöglichkeiten und unzureichenden 
+gesellschaftlichen Rückhalts, stockt bzw. zum Erliegen kommt (Kapitel 6.4). Auch ein Mittelweg ist plausibel, 
+bei dem es Städte gibt, die sehr erfolgreich UDZ entwickeln und anwenden, aber auch solche, in denen eine 
+Realisierung nicht zustande kommt. Ein derartiger Flickenteppich erschwert übergreifende Strategien und den 
+Austausch von Erfahrungswissen (Kapitel 6.3). 
+Alle drei Szenarien erscheinen durchaus realistisch. Laut Einschätzung der Fokusgruppe ist allerdings das
+Szenario 1, in dem UDZ weit verbreitet und erfolgreich eingesetzt werden (Kapitel 6.2), klar wünschenswerter als das 
+andere diskutierte Szenario 2 (Fokusgruppe). Begründet wird das damit, dass dieses Szenario erhebliche
+Mehrwerte bietet, etwa indem UDZ konkret an die Bedürfnisse der Bürger/innen angepasst sind und alltagsrelevante 
+Vorteile liefern. Zudem wird in diesem Szenario die Lebensqualität der Bürger/innen, die mit dem
+voranschreitenden Klimawandel leben, durch Stadtentwicklungsmaßnahmen gesteigert. Demgegenüber steht die
+Einschätzung der Fokusgruppe zum Szenario 2, in dem UDZ nur vereinzelt umgesetzt werden (Kapitel 6.3). Dieses
+Szenario wird als realistischer eingeschätzt, aber gleichzeitig als weniger erstrebenswert. Vor allem die Gefahr, dass 
+bestehende soziale Ungleichheiten weiter verstärkt werden, UDZ zusätzliche Bürokratie verursachen und durch 
+mangelnde Transparenz auch zu einem weiteren Vertrauensverlust in Politik und Verwaltung beitragen, wird als 
+problematisch angesehen (Fokusgruppe). Anhand der Auseinandersetzung mit den Szenarien in der Fokusgruppe 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+zeigt sich, dass durchaus Akzeptanz und Beteiligungsbereitschaft bei Mitgliedern der Zivilgesellschaft vorhanden 
+sind. Die zivilgesellschaftliche Perspektive kann daher auch für die künftige Weiterentwicklung von UDZ
+wertvolle Hinweise liefern. 
+Gestaltungsoptionen 
+Um das aus Sicht zivilgesellschaftlicher Personen als besonders positiv wahrgenommene Szenario zu realisieren 
+und damit die weniger positiv eingeschätzten Szenarien zu vermeiden, bietet sich eine Reihe von
+Gestaltungsoptionen technologischer, organisatorischer und politischer Art an. So gibt es technologische Optionen, die der 
+(Weiter-)Entwicklung der technischen Infrastrukturen auf kommunaler Ebene dienen. Hinzu kommen
+organisatorische Optionen, die zur Schaffung institutioneller Voraussetzungen auf Ebene der Kommunalverwaltungen 
+sowie geeigneter Partizipationsmöglichkeiten durch verwaltungsfremde Akteure aus Wirtschaft, Gesellschaft und 
+Wissenschaft beitragen. Schließlich bestehen politische Optionen zur Schaffung geeigneter rechtlicher und
+strategischer Rahmenbedingungen sowie zur Gestaltung geeigneter Förderprogramme auf Bundesebene. 
+Zu den technischen Gestaltungsoptionen gehört zunächst die Umsetzung standardisierter Systemarchitekturen, 
+also die Implementierung von Schnittstellen für den Austausch von Daten, die Bereitstellung von
+Rechenkapazitäten für die Datenverarbeitung sowie die Implementierung von Nutzerschnittstellen. Für die Umsetzung
+technischer Standards liegen bereits umfassende Normen vor (DIN 2024). Eine weitere Option sind der konsequente 
+Auf- und Ausbau von IoT-Sensorinfrastrukturen, mit denen eine Echtzeitdatenerfassung möglich wird. Nur so 
+kann es gelingen, detaillierte Zustandsbeschreibungen städtischer Umgebungen zu erstellen und für weitere
+Analysen zu verwenden. Eine dritte Option ist der Aufbau skalierbarer Computinglösungen für die Verarbeitung 
+sämtlicher anfallender Daten, sodass die Modellierung und Simulierung von Szenarien sowie die Visualisierung 
+von AR/VR-Modellen effizient umgesetzt werden können. Letztlich ist die Gestaltung nutzungsfreundlicher
+Bedienschnittstellen, wie Dashboards und Apps, eine weitere technische Option. Anwendungsfreundliche
+Bedienschnittstellen tragen dazu bei, dass komplexe Zusammenhänge beispielsweise durch 3D-Visualisierungen
+verständlich für Verwaltung und Bevölkerung aufbereitet werden können. Alle vier Gestaltungsoptionen sollten
+gemeinsam realisiert werden, weil sie durch wechselseitige Abhängigkeiten gekennzeichnet sind. Eine umfassende 
+IoT-Sensorinfrastruktur kann nichts zur erfolgreichen Implementierung eines UDZ beitragen, wenn keine
+ausreichenden Rechenkapazitäten entstehen oder ausreichend technische Standards umgesetzt sind. Um die genannten 
+Optionen umzusetzen, bietet es sich an, bei bereits existierenden Pilot- und Einzellösungen anzusetzen und die 
+dort erprobten Lösungen auf ihre Skalierbarkeit zu prüfen. In Form modularer, interoperabler Systeme können 
+einzelne Bestandteile von UDZ weiterentwickelt und für andere Kommunen verfügbar gemacht werden. Auf diese 
+Weise können Baukästen mit unterschiedlichen UDZ entstehen, die bedarfsgenau in den jeweiligen Städten und 
+Kommunen verwendet werden können. 
+Die organisatorischen Gestaltungsoptionen betreffen vor allem die Veränderung von Verwaltungsstrukturen
+sowie die Ermöglichung einer partizipativen Gestaltung von UDZ, das heißt die Etablierung von
+Beteiligungsmöglichkeiten bei der Anwendung von UDZ. Zunächst besteht die Option, innerhalb kommunaler Verwaltungen eine 
+konsequente Umsetzung von Datengovernancevorgaben zu verfolgen. Verbindliche Datengovernancestrukturen 
+stellen eine wichtige Grundlage auch für die Realisierung der technischen Gestaltungsoptionen dar. Um geeignete 
+Datengovernancestrukturen zu schaffen, ist es notwendig, die bisherigen Strukturen in der kommunalen
+Verwaltung weiterzuentwickeln und beispielsweise interdisziplinäre Teams einzurichten, die spezifisch mit der
+Anwendung von UDZ betraut sind und die dafür erforderlichen Organisationseinheiten in der öffentlichen Verwaltung 
+(Fachabteilungen, Ressorts, etc.) vernetzen. Dafür ist die Implementierung entsprechender Rollenmodelle
+(Kapitel 5.1) eine Voraussetzung. Eine dritte organisatorische Gestaltungsoption ist die bürgerzentrierte Entwicklung, 
+die auf einer partizipativen Implementierung und Anwendung von UDZ basiert und von einer
+zielgruppengerechten Kommunikation flankiert wird. Ein Risiko bei der Anwendung von UDZ besteht darin, dass es zu einer
+Ausgrenzung einzelner gesellschaftlicher Gruppen kommt – nämlich derjenigen, die keinen oder nur sehr
+eingeschränkten Zugang zu digitalen Angeboten haben bzw. nur über gering ausgeprägte Digitalkompetenzen
+verfügen. Deshalb sollte bei der Einführung digitaler Zwillinge auch darauf geachtet werden, digitale Kompetenzen 
+der Stadtgesellschaft auf- und eventuelle Zugangsbarrieren abzubauen. Dazu gehört die angemessene
+Kommunikation bzw. Wissensvermittlung über den Nutzen und die Beteiligungsmöglichkeiten digitaler Zwillinge
+(Fokusgruppe), die nicht nur digitale Kommunikationsangebote beinhaltet, sondern auch Gesprächsangebote in
+betroffenen Stadtvierteln bzw. Quartieren umfasst. 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Politische Gestaltungsoptionen können für die Nutzung technischer und organisatorischer Gestaltungsoptionen 
+den langfristigen Rahmen bilden. Teil dieses Rahmens ist die Schaffung verbindlicher rechtlicher Grundlagen für 
+die Nutzung von UDZ. Aus den rechtlichen Grundlagen sollte ersichtlich sein, wie UDZ in
+Klimaanpassungsstrategien integriert werden sollten, um im Einklang mit den Sustainable Development Goals sowie orientiert an 
+Leitbildern der Gemeinwohlorientierung und der langfristigen Resilienz ihre Potenziale entfalten zu können. 
+Ebenfalls sollten die rechtlichen Grundlagen dafür sorgen, dass Standardisierung, Datenschutz und
+Verantwortlichkeiten eindeutig geklärt sind. Eine weitere Option ist die Integration von UDZ als zentrales Werkzeug für die 
+strategische Stadtentwicklung, Klimaanpassung und gesellschaftliche Resilienz in kommunale Klimaschutz- und 
+Stadtentwicklungsstrategien. Dabei kann festgehalten werden, dass die Szenarien zwei unterschiedliche
+Richtungen der politischen Governance implizieren: Dort, wo übergeordnete, auf Bundesebene verbindlich verankerte 
+Strategien und Maßnahmen zum Schutz des Klimas und damit der Lebensgrundlage der Menschen fehlen, können 
+Kommunen im Rahmen ihrer begrenzten Möglichkeiten selbst tätig werden und UDZ realisieren. Die
+Herausforderungen einer langfristigen Finanzierung und verlässlicher rechtlicher Rahmenbedingungen (zum Beispiel
+Haftungsfragen, Vergabe- und Genehmigungsverfahren) müssten in diesem Fall vor allem auf kommunaler Ebene 
+gelöst werden. Wenn umgekehrt jedoch ein bundesweit verbindlicher Rahmen für Klimaschutz und
+Klimaanpassung vorgegeben wird, der explizit die Anwendung von UDZ auf kommunaler Ebene vorsieht und unterstützt 
+(etwa durch langfristige Finanzierungsmöglichkeiten, technische Standardisierung und Interoperabilität,
+Austauschplattformen für Erfahrungswerte etc.), dann besteht eher die Möglichkeit, dass sich Ökosysteme von UDZ 
+in deutschen Städten etablieren können. Eine dritte Option stellt die gezielte Förderung von
+Innovationsökosystemen für UDZ dar. Somit kann dafür gesorgt werden, dass bisher existierende Insellösungen zu skalierbaren und 
+übertragbaren Anwendungsfällen weiterentwickelt werden können. Damit einher geht auch die Schaffung von 
+langfristigen Finanzierungsmöglichkeiten durch geeignete öffentliche Förderung, die insbesondere für
+Kommunen mit begrenztem finanziellem Spielraum einen Anreiz darstellen kann, UDZ zu realisieren. 
+Weiterführender Untersuchungsbedarf 
+Eine politisch unterstützte langfristige Entwicklungsperspektive für UDZ kann auch dazu beitragen, noch
+ungelöste Fragen zu klären. Es lassen sich mehrere zentrale Forschungs- und Analysebedarfe ableiten: 
+– Messung des tatsächlichen Mehrwerts durch Entwicklung und Validierung von Metriken, die den Nutzen von 
+UDZ für Stadtplanung sowie Ressourcen-, Effizienz- und Klimaanpassung quantifizieren 
+– Erbringung von Kausal- und Wirkungsnachweisen mittels Durchführung von Langzeitstudien, die den
+direkten Zusammenhang zwischen UDZ-gestützten Maßnahmen und beobachteten Verbesserungen (zum Beispiel 
+Emissionsreduktion, Hitzeminderung, Resilienz) ermitteln 
+– interdisziplinäre Untersuchungen der Auswirkungen auf die Lebensqualität, v. a. wie UDZ-Anwendungen 
+das Wohlbefinden, die Teilhabe und die soziale Gerechtigkeit in der Stadtbevölkerung beeinflussen 
+– Evaluation von Daten- und Modellqualität durch systematische Prüfungen der Datenintegrität,
+Modellgenauigkeit und Unsicherheitsabschätzungen, um zuverlässige Entscheidungsgrundlagen zu sichern 
+– Analysen, wie UDZ‑Ergebnisse praktisch in Planung, Genehmigung und operative Steuerung eingebettet 
+werden können, inklusive rechtlicher und organisatorischer Rahmenbedingungen, um eine bessere
+Integration in Verwaltungsprozesse zu erreichen 
+– Kosten‑Nutzen‑Analysen und Evaluation von Finanzierungsmodellen mittels wirtschaftlicher
+Untersuchungen, die langfristige Investitions‑ und Betriebskosten gegen erwartete Einsparungen und gesellschaftliche 
+Nutzen abwägen 
+– Partizipations‑ und Akzeptanzforschung zur Frage, wie Bürger/innen UDZ‑Werkzeuge wahrnehmen, welche 
+Barrieren bestehen und welche Beteiligungsformen effektiv funktionieren 
+Insgesamt kann die Frage, welchen Mehrwert UDZ im Rahmen der Stadtentwicklung liefern können, bislang 
+nicht eindeutig beantwortet werden. Das liegt unter anderem darin begründet, dass die Auswirkungen von
+Entscheidungen, die auf Basis von UDZ getroffen werden, oft langfristig und schwer isoliert zu ermitteln sind. Die 
+Messung des tatsächlichen Mehrwerts, die Identifizierung von Kausalzusammenhängen und die Validierung der 
+Modelle erfordern innovative Methoden und Metriken. Es ist wichtig, nicht nur technische Aspekte wie etwa 
+Datenqualität oder Modellgenauigkeit zu bewerten, sondern auch die Auswirkungen auf die Lebensqualität der 
+Bürger/innen und die Erreichung der Nachhaltigkeitsziele. Zukünftige Forschungen werden zeigen müssen, unter 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+welchen Rahmenbedingungen UDZ in der Lage sind, weitere positive Effekte zu erzeugen, zum Beispiel eine 
+höhere Zufriedenheit der Stadtgesellschaft durch transparentere Prozesse (BBSR 2023a, S. 34; Bibri et al. 2025). 
+Damit UDZ wirklich zu einer klimaresilienten und nachhaltigen Stadtentwicklung beitragen können, muss ihr 
+Nutzen mess- und nachweisbar gemacht werden. Zudem müssen ihre Datengovernancestrukturen robust gestaltet 
+und ihre Anwendung konsequent in Planung, Verwaltung und Bürgerbeteiligung verankert werden. 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+8 Literatur 
+Abbas, A. et al. (2025): Integrating Digital Twin and Nature Based Solutions for Climate Resilient Urban
+Design: A Predictive Framework for Future Ready Residential Neighborhoods in the Anthropocene. In:
+European Journal of Science and Modern Technologies 1(5), S. 1–14, 
+https://doi.org/10.59324/ejsmt.2025.1(5).01 
+Anz, P. (2025): Zürich beschafft „Digitalen Zwilling Verkehrsmanagement“. Inside IT, https://www.inside-
+it.ch/zuerich-beschafft-digitalen-zwilling-verkehrsmanagement-20250325 (30.1.2026) 
+Argota Sánchez-Vaquerizo, J. (2025): Urban Digital Twins and metaverses towards city multiplicities: uniting 
+or dividing urban experiences? In: Ethics and information technology 27(4), 
+https://doi.org/10.1007/s10676-024-09812-3 
+BBSR (2023a): Digitale Zwillinge. Potenziale in der Stadtenwicklung (Autor/innen: Brandt, S. et al.).
+Bundesinstitut für Bau-, Stadt- und Raumforschung, Smart City Dialog, Bonn 
+BBSR (2023b): Urbane Datenplattformen. Von der Idee bis zur Umsetzung: Entscheidungshilfen für Kommen. 
+Bundesinstitut für Bau-, Stadt- und Raumforschung, Bonn 
+Bertelsmann Stiftung (o. J.): Ökologische Nachhaltigkeit. https://pub.bertelsmann-stiftung.de/nachhaltiger-
+wohlstand-fuer-alle/oekologische-nachhaltigkeit#section1 (15.8.2025) 
+Bibri, S. E. et al. (2025): Synergistic integration of digital twins and zero energy buildings for climate change 
+mitigation in sustainable smart cities: A systematic review and novel framework. In: Energy and
+Buildings 333, Art. 115484, https://doi.org/10.1016/j.enbuild.2025.115484 
+Blüml, M. et al. (2025): Digitale Zwillinge für Bau, Infrastrukturmanagement und -betrieb: Chancen,
+Anwendungsbereiche, Umsetzungsoptionen. iRights.Lab GmbH, Berlin 
+BMUKN (o. J.): 17 Nachhaltigkeitsziele – SDGs. Bundesministerium für Umwelt, Klimaschutz, Naturschutz 
+und nukleare Sicherheit, https://www.bundesumweltministerium.de/WS5613 (25.3.2026) 
+BMUKN (o. J.): Deutsche Nachhaltigkeitsstrategie. Stand: 2.9.2025. Bundesministerium für Umwelt,
+Klimaschutz, Naturschutz und nukleare Sicherheit, https://www.bundesumweltministerium.de/themen/nachhal-
+tigkeit/strategie-und-umsetzung/nachhaltigkeitsstrategie (2.6.2026) 
+BMWSB (2024): Stufenplan Smarte Städte und Regionen. Gemeinsam digital handlungsfähig sein.
+Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen, Berlin 
+Boccardo, P. et al. (2024): Urban Echoes: Exploring the Dynamic Realities of Cities through Digital Twins. In: 
+Land 13, Art. 635, https://doi.org/10.3390/land13050635 
+Breckner, I. (2018): Nachhaltige Stadtentwicklung. Sozialverträglichkeit und Umweltorientierung in der
+Stadtentwicklung. Bundeszentrale für politische Bildung, https://www.bpb.de/themen/stadt-land/stadt-und-
+gesellschaft/216884/nachhaltige-stadtentwicklung/ (9.3.2026) 
+Bundesregierung (o. J.): Die 17 globalen Nachhaltigkeitsziele. https://www.bundesregierung.de/breg-de/aktuel-
+les/nachhaltigkeitsziele-erklaert-232174 (2.6.2026) 
+CUT (2023): Handlungsfeld Rollen. Connected Urban Twins, https://www.connectedurbantwins.de/app/up-
+loads/2024/07/Rollen_v1.0_CUT_Layout.pdf (2.6.2026) 
+CUT (o. J): Urbaner Digitaler Zwilling. https://www.connectedurbantwins.de/wissenstransfer/glossar/#udz 
+(2.6.2026) 
+DeGEval (2025): Nachhaltigkeit in Evaluationen berücksichtigen. Orientierungshilfe für die Verwendung von 
+Nachhaltigkeit als Evaluationskriterium. DeGEval – Gesellschaft für Evaluation, Saarbrücken 
+Dembski, F. et al. (2020): Urban Digital Twins for Smart Cities and Citizens: The Case Study of Herrenberg, 
+Germany. In: Sustainability 12(6), Art. 2307, https://doi.org/10.3390/su12062307 
+Deutscher Städtetag (2023): Urbane Digitale Zwillinge. Eine Stadt sehen, verstehen und lebenswert gestalten 
+(Autor/innen: Eichhorn, T. et al.). Berlin 
+DIN (2024): DIN SPEC 91607. Digitale Zwillinge für Städte und Kommunen. DIN Deutsches Institut für
+Normung e. V. Berlin, https://doi.org/10.31030/3575521 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Ebert, E. (2023): Klimaschutz versus Naturschutz: Zwei unterschiedliche Themen, deren Zusammenspiel von 
+großer Bedeutung ist. Heinrich-Böll-Stiftung Schleswig-Holstein, https://www.boell-
+sh.de/de/2023/05/10/klimaschutz-versus-naturschutz-zwei-unterschiedliche-themen-deren-
+zusammenspiel-von (9.3.2026) 
+EK (2024): Towards networked Local Digital Twins in the EU. Europäische Kommission, https://ec.eu-
+ropa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/digital-2024-
+clouddata-ai-07-digitaltwin (9.3.2026) 
+EK (o. J): Europe’s Digital Decade. Update: 21.5.2026. Europäische Kommission, https://digital-strategy.ec.eu-
+ropa.eu/de/policies/europes-digital-decade (2.6.2026) 
+EK (o. J.): Smart Sustainable Cities Moving forward with Digital Twins (NexTCity). Europäische Kommission, 
+https://cordis.europa.eu/project/id/101159944/de (9.3.2026) 
+Fernandenz, A. C. (2025): European Initiative Advances Digital Twin Technology for Cleaner, Healthier Cities. 
+Swiss Tropical and Public Health Institute, https://www.swisstph.ch/fr/news/news-detail-1/news/new-
+european-initiative-advances-digital-twin-technology-for-cleaner-healthier-cities (9.3.2026) 
+Ferré-Bigorra, J. et al. (2022): The adoption of urban digital twins. In: Cities 131, Art. 103905, 
+https://doi.org/10.1016/j.cities.2022.103905 
+Fink, A.; Siebe, A. (2016): Szenario-Management. Von strategischem Vorausdenken zu zukunftsrobusten
+Entscheidungen. Frankfurt 
+Gardner, B. (2024): Digital Twins for Climate Action: A Singapore Case Study. https://datasmart.hks.har-
+vard.edu/digital-twins-climate-action-singapore-case-study (9.3.2026) 
+GD Connect (o. J.): Citiverse. Generaldirektion Kommunikationsnetze, Inhalte und Technologien, https://digi-
+tal-strategy.ec.europa.eu/en/factpages/citiverse (9.3.2026) 
+Godet, M. (2009): Toolbox for Scenario Planning. In: Glenn, J. C.; Gordon, T. J. (Hg.): Futures research
+methodology. The Millenium Project, Washington, D.C. 
+Grieves, M. (2014): Digital Twin: Manufacturing Excellence through Virtual Factory Replication. 
+https://www.3ds.com/fileadmin/PRODUCTS-SERVICES/DELMIA/PDF/Whitepaper/DELMIA-
+APRISO-Digital-Twin-Whitepaper.pdf (2.6.2026) 
+Hämäläinen, M. (2020): Smart city development with digital twin technology. In: Pucihar, A. et al. (Hg.): 33rd 
+Bled eConference – Enabling Technology for a Sustainable Society. June 28 – 29, 2020, Online
+Conference Proceedings. Univerzitetna založba Univerze v Mariboru, S. 291–303 
+hoferLand.digital (2022): Digitaler Zwilling: Nachstellung von Starkregen- und Hochwasserereignissen. 
+https://www.hoferland.digital/digitaler-zwilling-nachstellung-von-starkregen-und-hochwasserereignissen/ 
+(2.6.2026) 
+Hu, J. et al. (2023): A spatiotemporal intelligent framework and experimental platform for urban digital twins. 
+In: Virtual Reality & Intelligent Hardware 5(3), S. 213–231, https://doi.org/10.1016/j.vrih.2022.08.018 
+Huzzat, A. et al. (2025): A comprehensive review of Digital Twin technologies in smart cities. In: Digital
+Engineering(4), Art. 100040, https://doi.org/10.1016/j.dte.2025.100040 
+ISI (2015): Models of Horizon Scanning. How to integrate Horizon Scanning into European Research and
+Innovation Policies (Autor/innen: Cuhls, K. et al.). Fraunhofer-Institut für System- und Innovationsforschung, 
+Karlsruhe 
+Kanton Basel-Stadt (2025): Die Geburt eines Zwillings. https://www.bs.ch/news/2025-die-geburt-eines-zwil-
+lings (9.3.2026) 
+Kaynak, S. et al. (2025): City-scale digital twin framework for flood impact analysis: Integrating urban
+infrastructure and real-time data analytics. In: Urban Climate 64, Art. 102640, https://doi.org/10.1016/j.u-
+clim.2025.102640 
+Kiehl, K. (2019): Urban-industrielle Ökosysteme. In: Kollmann, J. et al. (Hg.): Renaturierungsökologie. Berlin, 
+S. 389–410, https://doi.org/10.1007/978-3-662-54913-1_22 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Kilpert, A.-M.; Qasem, R. A. (2024): Nachhaltige Stadtentwicklung: Mit Smart City und digitalem Zwilling die 
+Nachhaltigkeit von Städten fördern. Fraunhofer-Institut für Experimentelles Software Engineering, 
+https://www.iese.fraunhofer.de/blog/nachhaltigkeit-stadtentwicklung/ (9.3.2026) 
+Koeva, M. et al. (2024): The role of digital twins in mitigating urban heat islands. How cities are leveraging
+innovative technology for sustainable urban development. GIM International, https://www.gim-internatio-
+nal.com/content/article/the-role-of-digital-twins-in-mitigating-urban-heat-islands (9.3.2026) 
+Kosow, H.; Gaßner, R. (2008): Methoden der Zukunfts- und Szenarioanalyse. Überblick, Bewertung und
+Auswahlkriterien. IZT – Institut für Zukunftsstudien und Technologiebewertung, Berlin 
+Lago, C. (o. J.): Going underground: The digital twin tech turning the Piccadilly line green. ERP Today, 
+https://erp.today/going-underground-the-digital-twin-tech-turning-the-piccadilly-line-green/ (9.3.2026) 
+Lei, B. et al. (2023): Challenges of urban digital twins: A systematic review and a Delphi expert survey. In:
+Automation in Construction 147, Art. 104716, https://doi.org/10.1016/j.autcon.2022.104716 
+Lübbers, A. (2024): Starkregen: Digitaler Zwilling im Dienst der Kommunen. Vorsorge gegen Wetterextreme. 
+kommunal.de, https://kommunal.de/Starkregen-Hochwasser-Hydro-Zwilling-Rheinland-Pfalz (9.3.2026) 
+Marx, A.; Seidel, T. (2025): Digitale Zwillinge in deutschen Städten: Vergleichende Analyse von
+Leistungsindikatoren und messbaren Auswirkungen. TUM Think Tank, München 
+m-cons (2025): Künstliche Intelligenz und digitale Zwillinge für nachhaltige Stadtplanung. https://www.m-
+cons.de/kuenstliche-intelligenz-schluessel-zur-nachhaltigen-stadtentwicklung-mit-digitalen-zwillingen/ 
+(2.6.2026) 
+MPIC (2025): Europäische Initiative für gesündere Städte. Max-Planck-Institut für Chemie 
+https://www.mpic.de/5820328/harmonie (9.3.2026) 
+Pan, X. et al. (2024): Assessing and forecasting collective urban heat exposure with smart city digital twins. In: 
+Scientific reports 14(1), Art. 9653, https://doi.org/10.1038/s41598-024-59228-8 
+Pillkahn, U. (2007): Trends und Szenarien als Werkzeuge zur Strategieentwicklung. Der Weg in die
+unternehmerische Zukunft. Siemens AG, Erlangen 
+Piqueret Rose, C. (2025): Hochwasser- und Katastrophenschutz: Den Zugang zum Digitalen Zwilling
+beschleunigen. aconium, https://aconium.eu/hochwasser-und-katastrophenschutz-den-zugang-zum-digitalen-zwil-
+ling-beschleunigen/ (30.1.2026) 
+Politecnico di Torino (2025): Digital Twins of Urban and Territorial Areas to Improve Public Services. 
+https://www.polito.it/en/polito/communication-and-press-office/poliflash/digital-twins-of-urban-and-
+territorial-areas-to-improve (2.6.2026) 
+Richthofen, A. von et al. (2023): Wissenschaftliche Begleituntersuchung zu digitalen Zwillingen von
+Kommunen im Bundesgebiet. Stadt Regensburg, Amt für Stadtentwicklung, Regensburg, 
+https://doi.org/10.5281/zenodo.10014903 
+Sahr, F. et al. (2023): Resilienz in der Smart City. Wie Kommunen besser mit Krisen umgehen und proaktiv 
+eine nachhaltige Zukunft gestalten können. Bundesinstitut für Bau-, Stadt- und Raumforschung;
+Kompetenzzentrum Wasser Berlin; Deutsches Institut für Urbanistik, Bonn 
+Schlagbauer, A. (2024): Daten aufspüren und nutzen. Anhand des Anwendungsfalls des
+Quartiersentwicklungstools. Connected Urban Twins, o. O. 
+Schubbe, N. et al. (2023): Urbane Digitale Zwillinge als Baukastensystem: Ein Konzept aus dem Projekt 
+Connected Urban Twins (CUT). In: zfv 148(1), S. 14–23 
+Stadt Wuppertal (o. J.): DigiTal Zwilling. https://smart.wuppertal.de/projekte/digital-zwilling.php (9.3.2026) 
+Stadt Zürich (2020): Digitaler Zwilling: Verbindung von realer und virtueller Welt. https://www.stadt-zu-
+erich.ch/artikel/de/klick/digitaler-zwilling.html (2.6.2026) 
+Stadtverwaltung Herrenberg (o.  J.) Digitaler Zwilling. https://www.herrenberg.de/de/Rathaus/Buergerser-
+vice/Buergerservice-A-Z/Dienstleistung?view=publish&item=service&id=2802 (2.6.2026) 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+Statista (2025): Urbanisierung und Städte weltweit. https://de.statista.com/themen/7020/urbanisierung/#topicO-
+verview (2.6.2026) 
+TAB (2023): Sustainable Cooling – nachhaltige Kühlungsstrategien. (Autor/innen: Hungerland, T. et al.) Büro 
+für Technikfolgen-Abschätzung beim Deutschen Bundestag, TAB-Kurzstudie 4, Berlin, 
+https://doi.org/10.5445/IR/1000158817 
+TAB (2025): Leitlinien für den Einsatz generativer KI im TAB. Büro für Technikfolgen-Abschätzung beim 
+Deutschen Bundestag, Berlin, https://doi.org/10.5445/IR/1000188419 
+TU Dresden (2024): Smarte Lösung für Hochwasser-schutz: Forscher:innen der TU Dresden entwickeln eine 
+App für die Simulation von Starkregener-eignissen. https://tu-dresden.de/bu/der-bereich/news/smarte-
+loesung-fuer-hochwasserschutz-forscher-innen-der-tu-dresden-entwickeln-eine-app-fuer-die-
+simulationvon-starkregenereignissen (9.3.2026) 
+UN (o. J.): Goal 11: Make cities and human settlements inclusive, safe, resilient and sustainable. United
+Nations, https://sdgs.un.org/goals/goal11 (9.3.2026) 
+VanDerHorn, E.; Mahadevan, S. (2021): Digital Twin: Generalization, characterization and implementation. In: 
+Decision Support Systems 145, Art. 113524, https://doi.org/10.1016/j.dss.2021.113524 
+vc systems (2025): Helsinki: Automating Urban 3D Data for Living Digital Twins. virtualcitysystems Gmbh, 
+Berlin 
+Wangermann, T. (2024): Werkzeuge für eine smarte Stadtentwicklung: Urbane Digitale Zwillinge. Smart City 
+als Plattform organisieren. Konrad Adenauer Stiftung, Analysen & Argumente 535, Berlin 
+Weil, C. et al. (2023): Urban Digital Twin Challenges: A Systematic Review and Perspectives for Sustainable 
+Smart Cities. In: Sustainable Cities and Society 99, Art. 104862, 
+https://doi.org/10.1016/j.scs.2023.104862 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+9 Anhang 
+9.1 Interviewpartner/innen 
+Name Organisation 
+Giovanni Betti Universität der Künste Berlin 
+Prof. Dr. Fabian Dembski High-Performance Computing Center Stuttgart 
+Dr. Henning Füller Humboldt Universität zu Berlin 
+Korbinian Kringer Landeshauptstadt München 
+Emiliano Lupo Henn GmbH, Berlin 
+Anonym Landesbetrieb für Geoinformation und Vermessung der Freien und Hansestadt 
+Hamburg 
+Dr. Sebastian Seelig Buro Happold, Berlin 
+Lisa Stubert Technologiestiftung Berlin 
+Ronny Zienert Landesamt für Geobasisinformation Sachsen 
+9.2 Fokusgruppe: Teilnehmer/innen und Vorgehensweise 
+Tabelle 9.1  Demografische Auswahlkriterien 
+Geschlecht Alter Wohnort 
+w 36 Hamburg 
+w 65 Leipzig 
+m 47 Mannheim 
+m 31 München 
+m 38 Leipzig 
+m 51 zwischen Heidelberg und Mannheim 
+w 28 Mannheim 
+Die Fokusgruppe wurde am 28. August 2025 zwischen 18 und 20 Uhr online durchgeführt. 
+Ziel der Fokusgruppe 
+Durch die Fokusgruppe sollte herausgefunden werden, wie Nichtexpert/innen auf die Themen Stadtentwicklung, 
+das Tool „Digitaler Zwilling“ in der Stadtentwicklung und mögliche Zukunftsszenarien schauen. 
+Vorgehensweise 
+Um dieses Ziel zu erreichen, hat das SINUS-Institut für Markt- und Sozialforschung Teilnehmer/innen für eine 
+Fokusgruppe rekrutiert. Auswahlkriterien waren neben den in Tabelle 9.1 aufgeführten demografischen Kriterien 
+eine ausgewogene Mischung hinsichtlich des Einkommens, des persönlichen Engagements für
+Stadtentwicklungs- und Nachhaltigkeitsthemen sowie des Bildungsstands und des Berufs. 
+Die Durchführung und Moderation sowie Ergebnisdokumentation oblag dem Team von SINUS. Nach einer
+Vorstellungsrunde wurde der persönliche Erfahrungsschatz zum Klimawandel abgefragt, und die Teilnehmenden 
+konnten formulieren, was sie sich in Bezug auf Klimaanpassungsmaßnahmen zukünftig wünschen. Anschließend 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+wurde das Konzept des digitalen Zwillings eingeführt. Ein Teil der Teilnehmenden war mit diesem Konzept
+bereits vertraut, jedoch nicht zwangsläufig mit der Anwendung im Bereich Stadtentwicklung. Da aus methodischen 
+Gründen nur ein begrenzter Zeitraum für die Durchführung der Fokusgruppe vorgesehen war, wurden nur zwei 
+der drei Szenarien (korrespondierend zu Szenario 1 und 2 in Kapitel 6.2 u. 6.3) anhand einer kurzen
+Zusammenfassung vorgestellt und diskutiert. In der Diskussion wurden spontane Assoziationen sowie Vor- und Nachteile 
+der jeweiligen Szenarien erörtert. Abschließend wurden die jeweils diskutierten Aspekte zusammengeführt. 
+Die Ergebnisse der Fokusgruppe sind an geeigneten Stellen in den Studientext eingeflossen. 
+Diskutierte Szenarien 
+Alltag 2035: Leben mit dem Klimawandel und digitalen Zwillingen 
+Stellen Sie sich das Jahr 2035 vor: In deutschen Großstädten gehören Hitzewellen, Starkregen und Stürme zum 
+Alltag. Stromausfälle, Wasserknappheit oder Verkehrschaos nach Unwettern sind nichts Ungewöhnliches 
+mehr. Um damit umzugehen, setzen Städte stark auf Technik. 
+Jede Stadt hat eigene Pläne zur Klimaanpassung und nutzt dafür digitale Zwillinge. Das sind sehr genaue
+Computersimulationen einer Stadt. Sie verknüpfen viele Daten – etwa zu Luftqualität, Energieverbrauch oder
+Verkehr. Bevor eine Stadt neue Klima-Maßnahmen umsetzt, wird erst im digitalen Zwilling getestet, was diese 
+bringen. Außerdem helfen digitale Zwillinge in Echtzeit bei Katastrophenwarnungen, beim Energiesparen oder 
+zeigen, welche Viertel besonders finanzielle Unterstützung bei Klimaschutz brauchen. 
+Auch Bürgerinnen und Bürger machen mit: Am Computer oder über eine App können sie selbst ausprobieren, 
+wie Bäume gegen Hitze helfen, wo neue Radwege sinnvoll wären oder welche Fußwege im Sommer am
+kühlsten bleiben. Wer möchte, gibt eigene Daten weiter – zum Beispiel, wo man sich bewegt oder wie man sich 
+fühlt – und verbessert so die digitalen Zwillinge. 
+Im Ergebnis begleiten digitale Zwillinge den Alltag – manchmal sichtbar in einer App, manchmal unbemerkt 
+im Hintergrund. Sie tragen dazu bei, dass Städte trotz Klimakrise lebenswert bleiben. 
+ 
+Alltag 2035: Insellösungen und verpasste Chancen 
+Stellen Sie sich das Jahr 2035 vor: Viele Städte in Deutschland spüren die Folgen des Klimawandels deutlich 
+- Hitzewellen, Starkregen, Hochwasser oder Stürme. Manche Regionen leiden stark, andere kaum. Deshalb 
+fehlt ein gemeinsamer Wille, etwas zu verändern. Die Politik reagiert oft nur auf einzelne Katastrophen, anstatt 
+rechtzeitig vorzusorgen. 
+Digitale Zwillinge könnten eigentlich helfen, Klimaschutzmaßnahmen vorher auszuprobieren oder besser
+vorherzusagen, wie sich der Klimawandel vor Ort auswirkt. Doch in der Realität werden sie nur in einigen Städten 
+genutzt, meist in Bauämtern für die Planung von Plätzen oder Vierteln. In anderen Bereichen – etwa
+Verwaltung, Katastrophenschutz oder Bildung – fehlen klare Vorgaben und Akzeptanz. 
+Einige Bundesländer oder besonders betroffene Regionen entwickeln mit digitalen Zwillingen eigene
+Schutzmaßnahmen, etwa gegen Hitze oder an der Küste. Andere hängen weit zurück. 
+Hinzu kommt: Die nötigen Daten sind verstreut. Manche Daten gehören Unternehmen und kosten Geld, andere 
+Daten werden lokal gesammelt und nicht geteilt. Das macht Vergleiche schwer und Vorhersagen teuer. 
+Insgesamt gleicht der Einsatz digitaler Zwillinge einem Flickenteppich: manche Städte sind im Jahr 2035 recht 
+gut vorbereitet, andere dagegen verwundbar - und viele Chancen für besseren Schutz und mehr Lebensqualität 
+werden verpasst. 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
+9.3 Abbildungen 
+Seite 
+Abbildung 2.1 Typische Hauptkomponenten urbaner digitaler 
+Zwillinge .............................................................................  13 
+Abbildung 2.2 Konzept urbaner digitaler Zwilling .....................................  14 
+Abbildung 2.3 Bereitstellende Akteure von Daten zur Nutzung 
+durch UDZ ..........................................................................  16 
+Abbildung 2.4 Typische Darstellungsformen von UDZ .............................  18 
+Abbildung 2.5 Verteilung von 135 digitalen Zwillingen in 
+Deutschland in den Bereichen Infrastruktur, Bauen, 
+Wohnen ...............................................................................  20 
+Abbildung 3.1 Potenzielle Anwendungsfelder für urbane digitale 
+Zwillinge .............................................................................  21 
+Abbildung 3.2 Nachhaltigkeitsdimensionen und Nachhaltigkeitsziele .......  24 
+Abbildung 5.1 Rollenmodell mit unterschiedlichen Verantwortungsebenen 36 
+9.4 Tabellen 
+Tabelle 2.1 Typische Daten für die Nutzung durch urbane 
+digitale Zwillinge ................................................................  15 
+Tabelle 2.2 Funktionalitäten von UDZ ..................................................  17 
+Tabelle 3.1 Zuordnung von Anwendungsfeldern und -beispielen 
+zu Nachhaltigkeitszielen .....................................................  24 
+Tabelle 6.1 Schlüsselfaktoren für die künftige Entwicklung 
+urbaner digitaler Zwillinge ..................................................  43 
+Tabelle 9.1 Demografische Auswahlkriterien ........................................  57 
+9.5 Kästen 
+Kasten 2.1 Definition urbaner digitaler Zwilling ..................................  12 
+Kasten 3.1 Potenzielle Beiträge von UDZ zu 
+Nachhaltigkeitszielen am Beispiel des ' 
+Anwendungsfelds „Umwelt und Klima“ .............................  25 
+Kasten 3.2 Praxissteckbrief „Wasser- und Abwassermanagement 
+inklusive Starkregen/Überflutung“ .....................................  26 
+Kasten 3.3 Praxissteckbrief „Luftqualität/Hitze/Lärm“ ........................  27 
+Kasten 3.4 Praxissteckbrief „Energiemanagement auf Quartiers- 
+und Stadtebene“ ..................................................................  28 
+Kasten 3.5 Praxissteckbrief „Verkehrsplanung und 
+Verkehrsmanagement“ ........................................................  29 
+ 
+V
+orabfassung – w
+ird durch die lektorierte V
+ersion ersetzt.
