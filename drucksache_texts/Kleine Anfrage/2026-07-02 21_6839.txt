@@ -1,0 +1,139 @@
+Deutscher Bundestag Drucksache 21/6839
+21. Wahlperiode 02.07.2026
+Kleine Anfrage
+der Abgeordneten Gerold Otten, Nicole Höchst, Udo Theodor Hemmelgarn, 
+Stefan Keuter, Dr. Alexander Gauland, Tobias Teich, Dr. Malte Kaufmann, 
+Dr. Anna Rathert, Dr. Rainer Rothfuß, Uwe Schulz und der Fraktion der AfD
+Entwicklung und Einsatz von Künstlicher Intelligenz (KI) in der 
+Rüstungskontrolle – Potenziale, Risiken und strategische Ausrichtung der 
+Bundesregierung
+Die rasante Entwicklung der Künstlichen Intelligenz (KI) verändert die globale 
+Sicherheitsarchitektur grundlegend. In der rüstungskontrollpolitischen Debatte 
+nimmt KI eine Doppelrolle ein: Einerseits fungiert sie als regulatorischer
+Gegenstand, da die Entstehung autonomer Waffensysteme (Lethal Autonomous 
+Weapon Systems – LAWS) die klassische, hardwarefokussierte
+Rüstungskontrolle vor existenzielle Herausforderungen stellt. Andererseits bietet KI als 
+Werkzeug (z. B. durch automatisierte Satellitenbildanalyse, Mustererkennung 
+und multisensorielle Datenfusion) neue, hocheffiziente Möglichkeiten zur
+Verifikation internationaler Rüstungsabkommen (www.prif.org/fileadmin/Daten/Pu
+blikationen/Prif_Reports/2019/PRIF0419_barrierefrei.pdf).
+Möglichkeiten des Einsatzes von KI als Werkzeug finden sich in der
+automatisierten Satelliten- und Sensorauswertung, bei der multisensoriellen
+Datenfusion, bei der Überwachung globaler Lieferketten sowie in der Open Source
+Intelligence. Im Einzelnen geht es beispielsweise darum, dass KI-Veränderungen 
+an nuklearen oder militärischen Infrastrukturen (z. B. Bewegungen von
+Trägersystemen, Baumaßnahmen an Silos) in Echtzeit aufspüren kann, indem sie
+Gigabytes an täglichen Satellitendaten filtert oder Korrelationen in Daten über 
+seismische Aktivitäten, um verdeckte Explosionen (geheime Atomwaffentests) 
+von natürlichen Erdbeben zu unterscheiden. Bei Dual-Use-Gütern können KI-
+gestützte Text- und Datenanalysen (Natural Language Processing)
+Handelsdaten, Zollpapiere und Firmenregister weltweit durchsuchen, um verdächtige
+Beschaffungsmuster oder Umgehungsnetzwerke zu identifizieren (siehe PRIF-
+Report, S. 18–25).
+Die konkrete behördliche Praxis im Inland wirft bei den Fragestellern
+allerdings Fragen auf. Aus Antworten der Bundesregierung auf frühere
+parlamentarische Anfragen geht hervor, dass Bundesbehörden wie das Auswärtige Amt KI 
+im operativen Bereich der Rüstungskontrolle derzeit kaum nutzen
+(beispielsweise https://dserver.bundestag.de/btd/20/112/2011281.pdf, hier Antwort der 
+Bundesregierung auf Frage 1). Gleichzeitig fließen finanzielle Mittel in externe 
+Forschungsinitiativen (u. a. am IFSH www.hamburg-armscontrol.de/ oder im 
+Rahmen von iPRAW www.ssoar.info/ssoar/bitstream/handle/document/77402/s
+soar-2021-Focus_on_National_Regulations_on.pdf?sequence=1&isAllowed=y) 
+oder in nationale und internationale Veranstaltungen und Formate („Künstliche 
+Intelligenz und Massenvernichtungswaffen“ im Juni 2024: www.auswaertiges-
+amt.de/de/aussenpolitik/sicherheitspolitik/abruestung-ruestungskontrolle/26650
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+58-2665058) etc. (vgl. Jahresabrüstungsbericht 2024, www.auswaertiges-am
+t.de/resource/blob/2728538/44f35608348f9b5108a696eaef98ceb6/abrbericht20
+24-data.pdf, hier S. 39–40; Jahresabrüstungsbericht 2025 https://dserver.bundes
+tag.de/btd/21/058/2105850.pdf, hier S. 12), deren konkreter Nutzen und
+Einfluss auf die deutsche Außen- und Sicherheitspolitik für die Fragesteller schwer 
+nachvollziehbar sind.
+Wir fragen die Bundesregierung:
+ 1. In welchen Bundesministerien, nachgeordneten Behörden etc. werden
+bereits heute KI-gestützte Systeme oder Verfahren des maschinellen Lernens 
+direkt oder indirekt zur Rüstungs-, Export- oder Verifikationskontrolle 
+eingesetzt (bitte nach System, Einsatzzweck und Behörde aufschlüsseln)?
+ 2. In welchen Bundesministerien, nachgeordneten Behörden etc. ist ein
+solcher Einsatz vorgesehen oder geplant?
+Wie ist der Stand der Einführung?
+ 3. Welche konkreten Pläne oder Machbarkeitsstudien existieren seitens der 
+Bundesregierung, um KI-Anwendungen zur automatisierten Auswertung 
+von Satellitenbildern, Lieferkettenüberwachungen oder Open-Source-
+Daten (OSINT) in den kommenden Jahren in die behördliche Praxis der 
+Export- und Rüstungskontrolle zu integrieren?
+ 4. Inwieweit unterstützt die Bundesregierung internationale
+Kontrollbehörden (wie die IAEO oder die CTBTO) personell, finanziell oder
+technologisch bei der Entwicklung und Implementierung von KI-
+Verifikationswerkzeugen (Bitte um Aufschlüsselung der Unterstützung)?
+ 5. Welche konkreten Exportkontrollmaßnahmen wendet das Bundesamt für 
+Wirtschaft und Ausfuhrkontrolle (BAFA) derzeit an, um den
+unkontrollierten Abfluss von hochspezialisierter KI-Software und Algorithmen-
+Designs in Drittstaaten zu verhindern, und wo sieht die Bundesregierung 
+hier ggf. regulatorischen Anpassungsbedarf?
+ 6. Welche konkreten Forschungsprojekte im Bereich „KI in der
+Rüstungskontrolle / Verifikation“ wurden seit dem Jahr 2021 durch Bundesmittel 
+gefördert (bitte nach Projekttitel, Zuwendungsempfänger, Laufzeit,
+federführendem Ministerium und genauer Fördersumme aufschlüsseln)?
+ 7. Welche konkreten wissenschaftlichen oder politischen
+Handlungsempfehlungen sind aus dem vom Auswärtigen Amt geförderten „Forschungs- und 
+Transferprojekt Rüstungskontrolle und Neue Technologien“ am Institut 
+für Friedensforschung und Sicherheitspolitik (IFSH, www.hamburg-armsc
+ontrol.de/) sowie aus anderen Projekten, Veranstaltungen etc.
+hervorgegangen, und inwieweit wurden diese in die praktische Politik des
+Auswärtigen Amts übernommen?
+ 8. Welche Bedeutung hat die Agentur für Innovation in der Cybersicherheit 
+(Cyber-Agentur, www.cyberagentur.de/) bei der Erforschung von KI-
+Regulierungs- und Verifikationsmethoden, und welche konkreten Budgets 
+wurden dort für diesen spezifischen Bereich bisher bereitgestellt?
+ 9. Wie soll nach Ansicht der Bundesregierung verifiziert werden, ob ein 
+Staat ein KI-Modell für militärische Zwecke trainiert, zumal Algorithmen 
+digital verborgen, modifiziert oder kopiert werden können?
+10. Gibt es dementsprechend ein Konzept, wie ein Kontrollregime für
+immaterielle Technologie (Codes) aussehen kann, ohne dass Staaten
+tiefgehende und damit völkerrechtlich undenkbare Einblicke in ihre sensibelsten 
+Serverstrukturen gewähren müssen?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+11. Welche Kriterien muss ein KI-Modell mit allgemeinem
+Verwendungszweck (General Purpose AI, www.bundesnetzagentur.de/DE/Fachthemen/
+Digitales/KI/3_Modelle/start.html) erfüllen, um als rüstungsrelevant
+eingestuft zu werden und wie will man in diesem Zusammenhang das Open-
+Source-Schlupfloch (sobald der Code öffentlich ist, greift das
+Exportkontrollrecht laut Ausnahmeregelungen oft nicht mehr, da es „allgemein
+zugänglich“ ist) schließen?
+12. Hat sich die Bundesregierung mit dem möglichen Risiko
+auseinandergesetzt, dass kleine und mittlere Unternehmen (KMU) sowie innovative KI-
+Start-ups in Deutschland aufgrund mangelnder Ressourcen und fehlender 
+spezialisierter Rechtsabteilungen unwissentlich gegen komplexe
+exportkontrollrechtliche Vorgaben – beispielsweise durch die weltweite
+Bereitstellung von API-Schnittstellen (Intangible Technology Transfer) –
+verstoßen, wenn ja, wie positioniert sie sich ggf. dazu und wie will sie dieser 
+Überforderung ggf. begegnen?
+a) Welche konkreten, niederschwelligen Beratungs-, Aufklärungs- und 
+Hilfsangebote stellt das Bundesamt für Wirtschaft und
+Ausfuhrkontrolle (BAFA) ggf. speziell für junge KI-Unternehmen und 
+Entwickler-Teams bereit, um diese vor unbeabsichtigten
+strafrechtlichen Konsequenzen beim Export von Software und API-Zugängen 
+zu schützen?
+b) Sieht die Bundesregierung die Gefahr, dass der hohe bürokratische 
+Aufwand im Bereich der Exportkontrolle für Dual-Use-fähige
+Software die Gründerszene in Deutschland im internationalen Vergleich 
+(insbesondere gegenüber den USA und China) systematisch
+benachteiligt und somit dringend benötigte technologische Innovationen im 
+Inland blockiert?
+c) Welche Pläne verfolgt die Bundesregierung ggf., um
+exportkontrollrechtliche Genehmigungsverfahren für digitale Güter und Software-
+Dienstleistungen von KMUs und Start-ups zu entbürokratisieren und 
+zu beschleunigen (z. B. durch automatisierte Prüfverfahren oder
+Bagatellgrenzen bei API-Nutzungen)?
+Berlin, den 24. Juni 2026
+Dr. Alice Weidel, Tino Chrupalla und Fraktion
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
