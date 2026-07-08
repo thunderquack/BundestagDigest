@@ -1,0 +1,261 @@
+Deutscher Bundestag Drucksache 21/6820
+21. Wahlperiode 01.07.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Danny Meiners, Stephan Protschka, 
+Bernd Schattner, weiterer Abgeordneter und der Fraktion der AfD
+– Drucksache 21/6546 –
+Datensouveränität landwirtschaftlicher Betriebe, digitale Agrarplattformen und 
+der Einsatz künstlicher Intelligenz in der Landwirtschaft
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Digitalisierung der Landwirtschaft wird von der Bundesregierung sowie 
+von Organen der Europäischen Union seit Jahren aktiv gefördert. Moderne 
+Landmaschinen, Sensoren, Melkroboter, Tierüberwachungssysteme,
+satellitengestützte Anwendungen, Farm-Management-Informationssysteme sowie
+Anwendungen der künstlichen Intelligenz erzeugen und verarbeiten zunehmend 
+große Mengen betrieblicher Daten. Die Bundesregierung verweist hierbei 
+regelmäßig auf Potenziale zur Steigerung von Effizienz, Ressourcenschonung 
+und Wettbewerbsfähigkeit der Landwirtschaft (Bundestagsdrucksachen 
+19/16229 und 20/1649).
+Auch die Europäische Kommission betrachtet die Digitalisierung als einen 
+wesentlichen Baustein für die Weiterentwicklung des Agrarsektors und fördert 
+datengetriebene Anwendungen in der Landwirtschaft (https://digital-strategy.e
+c.europa.eu/en/policies/digitalisation-agriculture).
+Mit dem Data Act hat die Europäische Union neue Regelungen für den
+Zugang zu und die Nutzung von Daten aus vernetzten Geräten geschaffen. Ziel 
+ist es unter anderem, Nutzern einen besseren Zugang zu den durch ihre Geräte 
+erzeugten Daten zu ermöglichen und den Wechsel zwischen
+Datenverarbeitungs- und Cloud-Diensten zu erleichtern (Verordnung [EU] 2023/2854, 
+https://eur-lex.europa.eu/eli/reg/2023/2854/oj?locale=de).
+Nach Auffassung der Fragesteller werfen diese Entwicklungen grundlegende 
+Fragen hinsichtlich der Datensouveränität landwirtschaftlicher Betriebe auf. 
+Insbesondere erscheint ihnen klärungsbedürftig, in welchem Umfang
+Landwirte die Kontrolle über die von ihnen erzeugten Betriebsdaten behalten, 
+welche wirtschaftlichen Abhängigkeiten von digitalen Plattformen und Cloud-
+Anbietern entstehen können und welche Auswirkungen dies auf Wettbewerb, 
+Anbieterwechsel und die Zukunft familiengeführter Landwirtschaftsbetriebe 
+hat.
+Vor diesem Hintergrund erscheint in den Augen der Fragesteller eine
+Untersuchung der Datensouveränität landwirtschaftlicher Betriebe, der
+Marktstruktur digitaler Agrarplattformen sowie möglicher Abhängigkeiten von
+internationaler Technologie angebracht zu sein.
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Landwirtschaft, Ernährung 
+und Heimat vom 1. Juli 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+ 1. Welche Erkenntnisse liegen der Bundesregierung über die gegenwärtige 
+Verbreitung digitaler Farm-Management-Informationssysteme in der 
+deutschen Landwirtschaft vor?
+ 2. Welche Erkenntnisse liegen der Bundesregierung über die Verbreitung 
+KI‑gestützter Anwendungen in landwirtschaftlichen Betrieben vor?
+Die Fragen 1 und 2 werden aufgrund des Sachzusammenhangs gemeinsam
+beantwortet.
+In einer vom Bundesministerium für Landwirtschaft, Ernährung und Heimat 
+(BMLEH) beauftragten Befragung wurden im Zeitraum von Dezember 2024 
+bis Januar 2025 landwirtschaftliche Betriebe unter anderem zum Einsatz von 
+Künstlicher Intelligenz (KI) und zu den bereits im Einsatz befindlichen
+digitalen Technologien befragt.
+Die Befragung zeigt, dass bereits über 85 Prozent der Betriebe mindestens eine 
+digitale Technologie einsetzen.
+In Bezug auf Farm- oder Herdenmanagementsysteme gaben 36,5 Prozent der 
+Betriebe an, dass sie Farm- oder Herdenmanagementsysteme bereits
+verwenden. Weitere 10,2 Prozent der Betriebe gaben an, dass sie planen diese Systeme 
+einzuführen. Bei KI und Big-Data gaben 5 Prozent der Betriebe an, dass sie KI 
+und Big-Data schon verwenden. Weitere 15,9 Prozent gaben an, dass sie planen 
+KI und Big-Data einzusetzen.
+Die Studie gibt auch Auskunft über die Verbreitung weiterer KI-gestützter
+Anwendungen wie zum Beispiel Anwendungen zur teilflächenspezifischen
+Ausbringung von Dünger oder Pflanzenschutzmitteln, Melkrobotern oder
+Feldrobotern.
+Die Befragung ist auf der Internetseite des BMLEH unter dem Link www.bmle
+h.de/DE/themen/digitalisierung/befragung-digitalisierung-betriebe.html
+einsehbar.
+ 3. Welche Arten betrieblicher Daten werden nach Kenntnis der
+Bundesregierung typischerweise durch digitale Agrartechnik, Sensorik,
+Landmaschinen, Melkroboter, Tierüberwachungssysteme, Drohnen und Farm-
+Management-Systeme erfasst?
+Folgende Datenarten werden nach Kenntnis der Bundesregierung
+typischerweise erfasst:
+Maschinendaten: GPS (Global Positioning System (deutsch: Globales
+Positionsbestimmungssystem)-Position, Geschwindigkeit, bearbeitete Flächen,
+Motor- und Betriebsstunden, Kraftstoffverbrauch, Spurführung, Applikationsdaten 
+(Saatgut-Ausbringung, Dünger, Pflanzenschutz).
+Sensoren: Bodensensoren, Ertragssensoren.
+Tierüberwachungssysteme/Melkroboter: Milchmenge, Fett/Eiweißgehalt,
+Leitfähigkeit, Körpertemperatur, Aktivität, Liegezeiten, Futteraufnahme und
+Stallklima.
+Drohnen: Bild- und Fernerkundungsdaten.
+Farm-Management-Systeme (FMIS): Schlaggrenzen, Kulturen, Fruchtfolgen, 
+geplante und durchgeführte Maßnahmen (Ackerschlagkartei).
+ 4. Welche Erkenntnisse liegen der Bundesregierung darüber vor, wem die 
+durch digitale Agrarsysteme erzeugten Betriebsdaten rechtlich
+zugeordnet werden können?
+ 5. Welche gesetzlichen Regelungen bestehen nach Kenntnis der
+Bundesregierung hinsichtlich der Eigentums-, Nutzungs- und Verfügungsrechte 
+an landwirtschaftlichen Betriebsdaten?
+Die Fragen 4 und 5 werden aufgrund des Sachzusammenhangs gemeinsam
+beantwortet.
+Nach geltendem deutschem Zivilrecht gibt es kein (sachenrechtliches)
+Eigentum an Daten, weil Eigentum systematisch auf körperliche Sachen beschränkt 
+ist und eine Ausdehnung auf Daten sowohl wegen der gesetzlichen Vorgaben 
+als auch aufgrund der Eigenart von Daten nicht in Betracht kommt. Das
+Verhältnis zu ihnen regelt sich stattdessen über Zugangs- und Nutzungsrechte, die 
+festlegen, wer die Daten zu welchen Zwecken nutzen und verwenden darf oder 
+ob sie gegebenenfalls herauszugeben sind.
+Maßgeblich für die rechtliche Bewertung ist Verordnung (EU) 2023/2854 über 
+harmonisierte Vorschriften für einen fairen Datenzugang und eine faire
+Datennutzung (Data Act), soweit es sich bei den „digitalen Agrarsystemen“ um
+vernetzte Geräte oder verbundene Dienste im Sinne des Data Act handelt. Dieser 
+in allen Mitgliedstaaten der Europäischen Union (EU) seit dem 12. September 
+2025 geltenden Verordnung liegt ein nutzerzentrierter Ansatz zugrunde. Dieser 
+berücksichtigt die Miturheberschaft der Nutzerinnen und Nutzer an den bei der 
+Geräte- oder Diensteverwendung erzeugten Daten. Die EU-Verordnung gilt für 
+Daten mit und ohne Personenbezug sowie für alle Sektoren. Sie stärkt damit 
+auch die Landwirtinnen und Landwirte als Nutzerinnen und Nutzer
+entsprechender digitaler Agrarsysteme. Die Ansprüche der Landwirtinnen und
+Landwirte gegenüber Herstellerinnen und Herstellern oder Dienstanbieterinnen und 
+Dienstanbietern umfassen insbesondere:
+– Recht auf Information über die durch das Gerät erzeugten Produktdaten,
+Artikel 3 Absatz 2 Data Act,
+– Recht auf Bereitstellung der Daten, Artikel 4 Absatz 1 Data Act,
+– Recht der Weitergabe der Daten an Dritte, Artikel 5 Absatz 1 Data Act.
+Darüber hinaus dürfen Herstellerinnen und Hersteller oder Dienstanbieterinnen 
+und Dienstanbieter gemäß dem geltenden Artikel 4 Absatz 13 Data Act die 
+ohne Weiteres verfügbaren Daten, bei denen es sich um nicht-
+personenbezogene Daten handelt, nur auf der Grundlage eines Vertrags mit der Nutzerin
+beziehungsweise dem Nutzer nutzen. Ergänzend enthalten Artikel 8 und
+Artikel 13 Data Act Vorgaben im Hinblick auf Fairness und Ausgewogenheit von 
+Vertragsbedingungen.
+Im Ergebnis werden Landwirtinnen und Landwirte, wie auch sonstige
+Nutzerinnen und Nutzer vernetzter Geräte oder verbundener Dienste, durch die EU-
+Verordnung gestärkt, indem sie mit zahlreichen Rechten ausgestattet werden 
+und insbesondere ihre vertragliche Zustimmung für die Einräumung von
+Nutzungsrechten gesetzlich vorgeschrieben ist.
+ 6. Welche Erkenntnisse liegen der Bundesregierung ggf. über
+Vertragsbedingungen digitaler Agrarplattformen vor, die Herstellern,
+Plattformbetreibern oder Dritten den Zugriff auf Betriebsdaten ermöglichen?
+Grundsätzlich ist die Einräumung von Nutzungsrechten auf vertraglicher Ebene 
+unter Beachtung des geltenden Rechts möglich und üblich. Für
+personenbezogene Daten ist (zusätzlich) die Datenschutz-Grundverordnung (DSGVO) zu
+beachten. Der Bundesregierung liegen zu konkreten Vertragsgestaltungen
+digitaler Agrarplattformen keine Erkenntnisse vor.
+ 7. Welche Untersuchungen hat die Bundesregierung ggf. zur Frage
+durchgeführt, ob Landwirte die tatsächliche Kontrolle über die von ihnen
+erzeugten Betriebsdaten behalten?
+Untersuchungen über die tatsächliche Kontrolle der Landwirtinnen und
+Landwirte über die von ihnen erzeugten Betriebsdaten wurden seitens der
+Bundesregierung nicht durchgeführt.
+Bei Fragen des Zugangs zu und Entscheidung über die Nutzung von Daten 
+stehen rechtliche Aspekte im Vordergrund. Beides wird durch den Data Act 
+adressiert, soweit anwendbar. Nach dem Regelungskonzept des Data Act haben 
+sich die beteiligten Unternehmen auf der Vertragsebene über die Modalitäten 
+von Zugang und Nutzung der Daten zu einigen. BMLEH unterstützt hierbei 
+durch die Bereitstellung von Musterbedingungen für Verträge über Agrardaten 
+und fördert mit dem AgriData Observatory eine Beobachtungsstelle für
+entsprechende Verträge bei der Universität Osnabrück. Auf die Antworten zu den 
+Fragen 4 und 5 wird verwiesen.
+ 8. Welche Erkenntnisse liegen der Bundesregierung ggf. über die
+Speicherung landwirtschaftlicher Betriebsdaten auf Servern außerhalb
+Deutschlands vor?
+ 9. Welche Erkenntnisse liegen der Bundesregierung ggf. über die
+Speicherung landwirtschaftlicher Betriebsdaten außerhalb der Europäischen 
+Union vor?
+Die Fragen 8 und 9 werden aufgrund des Sachzusammenhangs gemeinsam
+beantwortet.
+Die Umstände der Datenspeicherung sind Gegenstand der
+privatwirtschaftlichen Vertragsgestaltung zwischen den Vertragsparteien. Mit welchen 
+(Cloud-)Dienstleisterinnen und -Dienstleitern die Inhaberin beziehungsweise 
+der Inhaber eines landwirtschaftlichen Betriebs kontrahiert, ist nicht
+Gegenstand von Erhebungen der Bundesregierung.
+10. Welche Erkenntnisse liegen der Bundesregierung ggf. über die
+Marktanteile großer Anbieter digitaler Agrarplattformen und von Farm-
+Management-Systemen in Deutschland vor?
+11. Welche Erkenntnisse liegen der Bundesregierung über mögliche
+wirtschaftliche oder technische Abhängigkeiten landwirtschaftlicher Betriebe 
+von einzelnen Software-, Cloud- oder Plattformanbietern vor?
+12. Hat sich die Bundesregierung auseinandergesetzt mit der möglichen
+Gefahr, dass sich durch Digitalisierung und künstliche Intelligenz
+marktbeherrschende Strukturen im Bereich digitaler Agrartechnologien
+entwickeln könnten, und wenn ja, zu welchen Schlussfolgerungen ist sie dabei 
+gekommen?
+13. Welche Erkenntnisse liegen der Bundesregierung ggf. über die
+Marktstellung internationaler Anbieter digitaler Agrartechnik und digitaler
+Agrarplattformen auf dem deutschen Markt vor?
+Die Fragen 10 bis13 werden aufgrund des Sachzusammenhangs gemeinsam
+beantwortet.
+In Deutschland ist eine Vielzahl von Landtechnik-Unternehmen aktiv. Der
+Bundesregierung sind derzeit keine Anhaltspunkte für eine marktbeherrschenden 
+Position einzelner Anbieterinnen und Anbietern bekannt. In verschiedenen
+Bereichen ist die Marktposition einzelner Unternehmen unterschiedlich stark
+ausgeprägt. Insgesamt ist jedoch eine größere Zahl von Landtechnikunternehmen 
+in Deutschland aktiv, so dass Landwirtinnen und Landwirte eine große
+Auswahl bei der Landtechnik haben.
+14. Welche Erkenntnisse liegen der Bundesregierung ggf. über den Umfang 
+der Datenerhebung durch digitale Plattformen im Zusammenhang mit 
+Landmaschinen, Betriebsmanagementsystemen und sonstigen digitalen 
+Agraranwendungen vor?
+Zum tatsächlichen Umfang der Datenerhebung liegen der Bundesregierung
+derzeit keine Informationen vor. Ein Umfang der Datenerhebung könnte aus den 
+vertraglich vereinbarten Zugangs- und Nutzungsrechten abgeschätzt werden. 
+Auf die Ausführungen zu den Fragen 4, 5 und 7 zu dem am 12. September 
+2025 in Kraft getretenen Data Act wird verwiesen.
+15. Welche Untersuchungen liegen der Bundesregierung ggf. zur
+Interoperabilität unterschiedlicher digitaler Agrarsysteme und Plattformen vor?
+Interoperabilität ist für die Bundesregierung ein wichtiges Thema. Das 
+BMLEH fördert vor diesem Hintergrund beispielsweise elf Forschungsprojekte 
+im Rahmen der Bekanntmachung zur „Förderung der Interoperabilität in der 
+Landwirtschaft bei Anwendungsfällen für die Außen- und Innenwirtschaft und 
+entlang der Wertschöpfungskette im Rahmen von Forschungsvorhaben“. Auch 
+seitens der Privatwirtschaft gibt es Bestrebungen, die Interoperabilität in der 
+Landwirtschaft zu erhöhen. Exemplarisch hervorzuheben sind der Agrirouter 
+(DKE-Data (Digitale Kompetenz und Entwicklung)) oder die AgIN
+(Agricultural Interoperability Framework) der AEF (Agricultural Industry Electronics 
+Foundation).
+16. Welche Erkenntnisse liegen der Bundesregierung ggf. darüber vor, ob 
+Landwirte beim Wechsel eines Anbieters ihre historisch gespeicherten 
+Betriebsdaten vollständig exportieren und in andere Systeme übertragen 
+können?
+17. Welche technischen oder vertraglichen Hindernisse beim Wechsel von 
+Plattformanbietern sind der Bundesregierung ggf. bekannt?
+18. Welche Erkenntnisse liegen der Bundesregierung ggf. über sogenannte 
+Lock-in-Effekte vor, die landwirtschaftliche Betriebe langfristig an
+einzelne digitale Plattformen oder Anbieter binden können?
+Die Fragen 16 bis 18 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Grundsätzlich sind Aspekte der Interoperabilität geeignet, einem reibungslosen 
+Wechsel digitaler Dienstleistungen entgegen zu stehen. Dies kann in einigen 
+Fällen zu den erwähnten Lock-in-Effekten führen, die einem
+marktwirtschaftlichen Wettbewerb abträglich sind und darüber hinaus als Innovationshindernis 
+wirken können.
+Diesen potenziellen Risiken für einen europäischen Datenbinnenmarkt soll der 
+bereits erwähnte Data Act entgegenwirken. Insbesondere der dort geregelte
+Zugangsanspruch der Nutzerin beziehungsweise des Nutzers der vernetzten
+Geräte oder verbundenen Dienste (Landwirtin/Landwirt) sowie sein Anspruch auf 
+Datenweitergabe an Dritte sollen seit dem 12. September 2025 in allen EU-
+Mitgliedstaaten die Entstehung unerwünschter Lock-in-Effekte erschweren und
+zugleich Innovationen insbesondere für kleine und mittlere Unternehmen
+erleichtern.
+19. Welche Maßnahmen plant die Bundesregierung ggf., um die
+Interoperabilität digitaler Agrarsysteme zu stärken und den Wechsel zwischen
+verschiedenen Anbietern zu erleichtern?
+20. Welche Maßnahmen plant die Bundesregierung ggf., um sicherzustellen, 
+dass landwirtschaftliche Betriebe dauerhaft die Verfügungsgewalt über 
+die von ihnen erzeugten Betriebsdaten behalten?
+Die Fragen 19 und 20 werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet.
+Die Bundessregierung ist durch verschiedene Maßnahmen aktiv.
+Mit dem am 30. Mai 2026 in Kraft getretenen Gesetz zur Durchführung des 
+Data Act wurde die Bundesnetzagentur als zuständige nationale Behörde für 
+die Anwendung und Durchsetzung des Data Act festgelegt. Dies umfasst auch 
+die Aufsicht hinsichtlich der nutzerbezogenen Ansprüche des Data Act, wie 
+Datenzugang und Weitergabe der Daten an Dritte.
+Wichtig für die Interoperabilität sind unter anderem Normen und
+Standardisierung. Die Bundesregierung finanziert aufgrund dessen beispielsweise über das 
+DIN e. V. (Deutsches Institut für Normung) das Sekretariat des Technical
+Committee 347 (datengestützte Agrar- und Lebensmittelsysteme) in der ISO
+(Internationale Organisation für Normung). Außerdem fördert das BMLEH die
+Umsetzung des europäischen Agrardatenraums (Common European Agricultural 
+Data Space (CEADS)), durch den ein sicherer und vertrauenswürdiger
+Datenaustausch in der Landwirtschaft vorangetrieben werden soll.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

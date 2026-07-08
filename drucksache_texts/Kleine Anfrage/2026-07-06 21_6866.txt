@@ -1,0 +1,362 @@
+Deutscher Bundestag Drucksache 21/6866
+21. Wahlperiode 06.07.2026
+Kleine Anfrage
+der Abgeordneten Rebecca Lenhard, Dr. Konstantin von Notz, Jeanne 
+Dillschneider, Dr. Anna Lührmann, Lukas Benner und der Fraktion 
+BÜNDNIS 90/DIE GRÜNEN
+Umsetzungsstand, Projektsteuerung und technische Ausgestaltung der 
+deutschen EUDI‑Wallet
+Die Europäische Digitale Identitäts-Wallet (EUDI-Wallet) soll Bürgerinnen und 
+Bürgern künftig ermöglichen, sich europaweit digital auszuweisen und
+persönliche Nachweise sicher, selbstbestimmt und grenzüberschreitend zu verwenden. 
+Sie ist damit ein zentrales Vorhaben für die Digitalisierung der öffentlichen 
+Verwaltung. Voraussetzung für ihre Akzeptanz sind nach Auffassung der
+fragestellenden Fraktion ein hohes Maß an Sicherheit und Datenschutz, eine
+einfache und barrierefreie Nutzung sowie transparente organisatorische Verfahren.
+Die Bundesregierung hat angekündigt, die deutsche EUDI-Wallet zum 2.
+Januar 2027 bereitstellen zu wollen. Aktuelle Medienberichte und Äußerungen von 
+Projektbeteiligten werfen jedoch vielfältige Fragen zum konkreten Zeitplan, 
+zum Funktionsumfang, zur technischen Architektur und zur Steuerung des
+Projekts auf (www.tagesspiegel.de/politik/verzogerungen-bei-digitaler-
+brieftaschewildbergers-leute-steuern-prestigeprojekt-ins-chaos-15692691.html). Demnach 
+bestünden unter anderem Unsicherheiten hinsichtlich der rechtzeitigen
+Bereitstellung zentraler Funktionen, der verwendeten technischen Standards sowie 
+möglicher Interessenkonflikte bei der Projektsteuerung und Auftragsvergabe. 
+Insgesamt bleibt intransparent, welche Auswirkungen sich derzeit
+abzeichnende Verzögerungen auf die europarechtlichen Verpflichtungen Deutschlands und 
+auf weitere Vorhaben der digitalen Verwaltung haben, wie beispielsweise die 
+Bereitstellung der sogenannten „Deutschland-App“.
+Aus Sicht der fragestellenden Fraktion muss die Bundesregierung Sorge tragen, 
+dass sich ein Scheitern wie bei der App „ID Wallet“ des digitalen Führerschein 
+und anderer E‑Government-Vorhaben der vergangenen Jahre nicht wiederholt, 
+um das Vertrauen der Bürgerinnen und Bürger in die Digitalisierungsfähigkeit 
+des Staates nicht zu untergraben (www.sueddeutsche.de/wirtschaft/fuehrerschei
+n-digital-id-wallet-1.5425432). Angesichts der zentralen Bedeutung der EUDI-
+Wallet für einen modernen, nutzerfreundlichen und vertrauenswürdigen
+digitalen Staat ist aus Sicht der fragestellenden Fraktion daher umfassende
+Transparenz über den aktuellen Projektstand, bestehende Risiken, Zuständigkeiten und 
+die weiteren Umsetzungsschritte erforderlich.
+Wir fragen die Bundesregierung:
+ 1. Hält die Bundesregierung unverändert an dem Ziel fest, die staatlich
+bereitgestellte deutsche EUDI-Wallet am 2. Januar 2027 für Bürger*innen in 
+Betrieb zu nehmen, und wie bewertet sie gegenwärtig das Risiko, dass 
+dieser Termin nicht eingehalten werden kann?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+ 2. Welche verbindlichen Meilensteine und Fristen wurden seit Beginn der 
+Entwicklung der deutschen EUDI-Wallet festgelegt, welche davon wurden 
+jeweils fristgerecht erreicht, welche wurden verschoben und aus welchen 
+Gründen erfolgten die jeweiligen Verschiebungen?
+ 3. Welche konkreten Funktionen und Nachweise sollen am 2. Januar 2027 
+tatsächlich zur Verfügung stehen, und welche ursprünglich für den Start 
+vorgesehenen Funktionen werden zu diesem Zeitpunkt voraussichtlich 
+noch nicht verfügbar sein?
+ 4. Zu welchem Zeitpunkt sollen nach derzeitiger Planung insbesondere
+a) qualifizierte elektronische Signaturen,
+b) die Verwendung von Pseudonymen,
+c) die Autorisierung von Zahlungen,
+d) der digitale Führerschein,
+e) Bildungs- und Berufsqualifikationsnachweise
+f) elektronische Gesundheits- oder Versicherungsnachweise
+g) Vollmachten und Mandate, eine natürliche oder juristische Person zu 
+vertreten und
+h) behördliche Genehmigungen und Lizenzen
+über die deutsche EUDI-Wallet nutzbar sein?
+ 5. Wird die deutsche EUDI-Wallet zum Zeitpunkt ihrer erstmaligen
+Bereitstellung sämtliche nach der Verordnung (EU) 2024/1183 und den
+dazugehörigen Durchführungsrechtsakten erforderlichen Funktionen und
+Anforderungen erfüllen, und wenn nein,
+a) welche Anforderungen werden noch nicht erfüllt,
+b) aus welchen Gründen
+c) welche rechtlichen und praktischen Folgen ergeben sich daraus und
+d) bis wann werden die erforderlichen Funktionen jeweils den
+Bürger*innen zur Verfügung stehen?
+ 6. In welcher Form und in welchem Umfang werden die Umsetzung
+folgender Projekte mit der Umsetzung der EUDI-Wallet in Deutschland durch 
+die Bundesregierung konzeptionell und praktisch berücksichtigt:
+a) Errichtung des National-Once-Only-Technical-System (NOOTS) im 
+Rahmen der SDG-Verordnung;
+b) Erarbeitung der föderalen Zielarchitektur für Postfach- und
+Kommunikationslösungen (ZaPuK);
+c) Einführung des Digitalen Euro;
+d) Einführung der EU-Brieftaschen für Unternehmen?
+ 7. Steht aus Sicht der Bundesregierung durch etwaige Verspätungen bei der 
+Bereitstellung der EUDI-Wallet auch der bisher anvisierte Starttermin der 
+„Deutschland-App“ in Frage?
+Falls ja, mit wie viel Wochen/Monaten der verzögerten Bereitstellung 
+rechnet die Bundesregierung bisher?
+ 8. Welche konkreten Auswirkungen hätte eine Verzögerung oder zunächst 
+nur eingeschränkte Bereitstellung der deutschen EUDI-Wallet auf andere 
+geplante Digitalisierungsvorhaben des Bundes, insbesondere auf die
+angekündigte Deutschland-App, und
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+a) welche Funktionen der Deutschland-App oder anderer
+Digitalisierungsvorhaben setzen die rechtzeitige und vollständige Verfügbarkeit 
+der deutschen EUDI-Wallet voraus,
+b) welche zeitlichen und, technischen Abhängigkeiten bestehen zwischen 
+diesen Vorhaben,
+c) welche Zeitpläne und vorgesehenen Funktionsumfänge müssten bei 
+einer Verzögerung der deutschen EUDI-Wallet angepasst werden?
+ 9. Wird zum geplanten Start der deutschen EUDI-Wallet am 2. Januar 2027 
+Zero-Knowledge-Proof oder ein vergleichbares kryptografisches
+Verfahren einsatzbereit sein und wenn nein,
+a) welches technische Verfahren soll stattdessen verwendet werden,
+b) welche personenbezogenen Daten werden bei diesem Verfahren an die 
+vertrauenden Beteiligten (Relying Parties) übermittelt,
+c) können die übermittelten Daten von diesen Beteiligten gespeichert, 
+mit anderen Daten verknüpft oder weiterverarbeitet werden und
+d) zu welchem Zeitpunkt soll ein Zero-Knowledge-Proof oder ein
+vergleichbar datensparsames kryptografisches Verfahren zur Verfügung 
+stehen?
+10. Welche personenbezogenen Daten, Identitätsdaten, Nachweise sowie 
+Protokoll-, Diagnose-, und Metadaten sollen bei der Nutzung der
+deutschen EUDI-Wallet gespeichert oder verarbeitet werden, aufgeschlüsselt 
+danach, welche Daten
+a) unmittelbar auf dem Endgerät der Nutzer*innen,
+b) in zentralen oder dezentralen Hintergrundsystemen des Bundes, der 
+Bundesagentur für Sprunginnovationen (SPRIND) oder beauftragter 
+Dritter,
+c) bei den Aussteller*innen der jeweiligen Nachweise und
+d) bei den vertrauenden Beteiligten
+gespeichert oder verarbeitet werden, und welche jeweiligen Speicher- und 
+Löschfristen sind vorgesehen?
+11. Bei welchen der für die deutsche EUDI-Wallet geplanten
+Anwendungsfälle ist eine Klarnamenabfrage vorgesehen, und auf welcher jeweiligen
+gesetzlichen Grundlage beruht dies?
+12. Artikel 5a Absatz 9 der Verordnung (EU) 2024/1183 sieht vor, dass
+vertrauende Beteiligte die Nutzung von Pseudonymen nicht verweigern
+dürfen, sofern eine Identifizierung nicht gesetzlich vorgeschrieben ist. Durch 
+welche technischen und organisatorischen Maßnahmen wird
+sichergestellt, dass vertrauende Beteiligte bzw. das System nicht zwischen einer 
+Klarnamen- und einer Pseudonymnutzung unterscheiden können, sodass 
+dieses Recht nicht durch eine faktische Diskriminierung pseudonym
+auftretender Nutzer*innen unterlaufen wird?
+13. Ist vorgesehen, in der deutschen EUDI-Wallet ein biometrisches Lichtbild 
+oder andere biometrische Daten zu speichern oder zu verarbeiten, und 
+wenn ja,
+a) für welche Anwendungsfälle,
+b) an welchem technischen Speicherort,
+c) auf welcher Rechtsgrundlage und
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+d) mit welchen Zugriffsmöglichkeiten für Dritte?
+14. Welche Position hat die Bundesregierung in den Verhandlungen auf
+europäischer Ebene zur verpflichtenden Aufnahme biometrischer Lichtbilder 
+in die EUDI-Wallet zu welchem Zeitpunkt vertreten, und aus welchen 
+Gründen hat sie ihre Position gegebenenfalls geändert?
+15. Wie soll das Register der vertrauenden Beteiligten ausgestaltet werden, 
+und
+a) welche Angaben müssen Beteiligte für die Registrierung abseits von 
+Artikel 5b Absatz 2 der Verordnung (EU) Nr. 910/2024 machen,
+b) wird vor der Registrierung geprüft, zu welchen konkreten Zwecken 
+ein Dienst welche personenbezogenen Daten und Attribute über die 
+deutsche EUDI-Wallet abfragen möchte,
+c) wird geprüft, ob die angeforderten Daten und Attribute für den
+jeweiligen Zweck erforderlich und verhältnismäßig sind und wenn ja, nach 
+welchen Kriterien,
+d) welche Maßnahmen werden getroffen, sofern die Anforderung von
+bestimmten Daten nicht erforderlich und verhältnismäßig ist,
+e) welche Kontrollen erfolgen vor der Registrierung und welche
+nachträglich oder kontinuierlich und
+f) aufgrund welcher konkreten tatsächlichen oder rechtlichen Gründe
+abseits unzureichende Angaben nach Artikel 5b Absatz 2 der
+Verordnung (EU) Nr. 910/2024 könnte eine Registrierung verweigert,
+ausgesetzt oder entzogen werden?
+16. Hat die Bundesregierung in ihrem Zeitplan vorgesehen, dass vor dem
+geplanten Start eine vollständige datenschutzrechtliche Bewertung der
+konkreten technischen Ausgestaltung einschließlich einer Datenschutz-
+Folgenabschätzung und einer Bewertung durch die Bundesbeauftragte für 
+den Datenschutz und die Informationsfreiheit (BfDI) vorliegt, und wenn 
+ja, welchen Zeitraum räumt sie der Prüfung ein?
+17. Wie bewertet die Bundesregierung Datenmissbrauchsrisiken in der
+Verwendung signierter Daten gegenüber dem Einsatz authentifizierter Kanäle 
+(vgl. zu diesen Alternativen www.vzbv.de/sites/default/files/2025-02/vzb
+v-Gutachten%20zur%20Architektur%20der%20EUDI-Wallet.pdf), wie 
+stellt die Bundesregierung sicher, dass solche Risiken bei der Nutzung
+signierter Daten im Zusammenhang mit der EUDI-Wallet vermieden oder
+zumindest reduziert werden und ist eine Beschränkung der Nutzung
+signierter Daten auf bestimmte Anwendungsfälle vorgesehen und wenn ja, 
+welche?
+18. Sieht der Zeitplan der Bundesregierung vor, dass vor dem geplanten Start 
+der deutschen EUDI-Wallet am 2. Januar 2027
+a) die Technische Richtlinie BSI TR‑03189 des Bundesamtes für
+Sicherheit in der Informationstechnik (BSI) in ihrer für die deutsche EUDI-
+Wallet maßgeblichen Fassung vorliegt,
+b) die Übereinstimmung der konkreten technischen Ausgestaltung der 
+deutschen EUDI-Wallet mit dieser Technischen Richtlinie vollständig 
+geprüft wurde und
+c) eine abschließende Sicherheitsbewertung des BSI vorliegt, und falls 
+eine oder mehrere dieser Voraussetzungen zum geplanten Start nicht 
+erfüllt sein werden,
+d) welche Schlussfolgerungen zieht die Bundesregierung daraus,
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+e) unter welchen Voraussetzungen hält sie eine Inbetriebnahme dennoch 
+für vertretbar,
+f) welche Einschränkungen des Betriebs oder des Funktionsumfangs
+wären in diesem Fall vorgesehen und
+g) welche Stelle trifft die abschließende Entscheidung über die
+Inbetriebnahme?
+19. Welche internen oder externen Sicherheits- und Datenschutzbedenken
+hinsichtlich der Architektur der deutschen EUDI-Wallet wurden seit
+Projektbeginn gegenüber der Bundesregierung, der SPRIND, der BfDI oder dem 
+BSI geäußert, und wie wurden diese jeweils bewertet, dokumentiert und 
+im Projekt berücksichtigt?
+20. Auf welchen Betriebssystemen und Gerätetypen soll die staatlich
+bereitgestellte deutsche EUDI-Wallet zum geplanten Start am 2. Januar 2027
+nutzbar sein, und
+a) ist vorgesehen, die Wallet zunächst ausschließlich für Geräte mit den 
+Betriebssystemen Android und iOS anzubieten,
+b) welche Mindestanforderungen gelten jeweils hinsichtlich
+Betriebssystemversion, Hardware und Sicherheitskomponenten,
+c) wie viele in Deutschland genutzte mobile Endgeräte werden diese
+Voraussetzungen nach Schätzung der Bundesregierung nicht erfüllen,
+d) welche Nutzungsmöglichkeiten werden für Personen geschaffen, die 
+kein kompatibles Smartphone, kein Gerät mit Android oder iOS oder 
+überhaupt kein eigenes mobiles Endgerät besitzen, und
+e) ist eine Nutzung über andere Betriebssysteme, Desktop-Geräte, 
+Hardware-Wallets oder durch eine alternative staatliche Lösung
+geplant?
+21. Wie bewertet die Bundesregierung mit Blick auf die digitale Souveränität 
+Deutschlands und Europas die Abhängigkeit der Nutzung einer zentralen 
+staatlichen digitalen Infrastruktur von mobilen Betriebssystemen, App-
+Stores, Sicherheitskomponenten und technischen Vorgaben
+außereuropäischer Unternehmen, und
+a) welche konkreten Abhängigkeiten von Apple, Google und weiteren 
+außereuropäischen Anbietern bestehen bei Entwicklung, Verbreitung, 
+Betrieb und Aktualisierung der deutschen EUDI-Wallet,
+b) welche Auswirkungen hätten eine Sperrung, verzögerte Freigabe oder 
+Änderung der Geschäfts- und Zugangsbedingungen der jeweiligen 
+App-Stores oder Betriebssystemanbieter,
+c) welche technischen und vertraglichen Vorkehrungen bestehen, um 
+einen dauerhaften und diskriminierungsfreien Zugang zur Wallet 
+sicherzustellen,
+d) welche Alternativen zu den App-Stores von Apple und Google werden 
+geprüft und
+e) welche Maßnahmen plant die Bundesregierung, um diese
+Abhängigkeiten mittel- und langfristig zu reduzieren?
+22. Wie stellt die Bundesregierung sicher, dass die Nutzung der deutschen 
+EUDI-Wallet entsprechend den europarechtlichen Vorgaben freiwillig 
+bleibt und Personen, die die Wallet nicht nutzen können oder möchten, 
+keine rechtlichen oder tatsächlichen Nachteile entstehen, und
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+a) welche alternativen digitalen und nicht digitalen Zugangswege werden 
+für diese Dienstleistungen dauerhaft vorgehalten,
+b) wie wird verhindert, dass die Nutzung der Wallet durch längere
+Bearbeitungszeiten, zusätzliche Kosten oder einen eingeschränkten
+Funktionsumfang alternativer Zugangswege faktisch verpflichtend wird,
+c) an welche Stelle können sich Bürger*innen wenden, wenn ihnen eine 
+Leistung wegen der Nichtnutzung der EUDI-Wallet verweigert oder 
+erschwert wird
+23. Plant die Bundesregierung die Einführung einer Stand-Alone Anwendung 
+zur Altersverifikation (sogenannte Mini-Wallet) und wenn ja, wie sieht 
+hierfür der konkrete Zeitplan aus?
+24. Welche Haushaltsmittel sind seit Beginn des Projekts in die Entwicklung 
+der deutschen EUDI-Wallet geflossen, aufgeschlüsselt nach Kalenderjahr 
+und nach
+a) Personalkosten,
+b) externen Dienstleistungen und Beratung,
+c) IT-Infrastruktur und Cloud-Diensten,
+d) technischer Entwicklung,
+e) Konsultations- und Beteiligungsverfahren,
+f) Standardisierung und internationaler Gremienarbeit,
+g) Kommunikation und Öffentlichkeitsarbeit, sowie
+h) sonstige?
+25. Mit welchen Gesamtkosten rechnet die Bundesregierung bis zur
+erstmaligen Bereitstellung der deutschen EUDI-Wallet und bis zur Bereitstellung 
+des vollständigen vorgesehenen Funktionsumfangs?
+26. Wie viele Personen waren seit Beginn des Projekts bei der SPRIND mit 
+der Entwicklung der deutschen EUDI-Wallet befasst, aufgeschlüsselt nach 
+Quartal, Vollzeitäquivalenten und den Tätigkeitsbereichen Entwicklung 
+und Technik, Architektur und Standards, Datenschutz und Sicherheit, 
+Recht, Projektmanagement und Verwaltung sowie Kommunikation und 
+Konsultation unterschieden nach
+a) fest angestelltem SPRIND-Personal,
+b) externen Dienstleisterinnen und Beraterinnen?
+27. Wurden durch das Bundesministerium für Digitales und
+Staatsmodernisierung seit seiner Übernahme der Zuständigkeit Änderungen an der
+Projektstruktur, der Aufgabenverteilung, der Projektsteuerung oder den
+beteiligten Akteuren vorgenommen, und wenn ja,
+a) welche Änderungen,
+b) zu welchem Zeitpunkt,
+c) aus welchen Gründen und
+d) mit welchen Auswirkungen auf Zeitplan, Kosten und technische
+Architektur?
+28. Nach welchen Kriterien und Kompetenzprofilen wurde die Jury des 
+SPRIND-Funke-Wettbewerbs zur EUDI-Wallet besetzt, und
+a) welche beruflichen, geschäftlichen oder ehrenamtlichen Verbindungen 
+von Jurymitgliedern zu Wettbewerbsteilnehmenden, deren Auftrag-
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+nehmer*innen, der Open Wallet Foundation waren der
+Bundesregierung oder der SPRIND bekannt,
+b) wie wurden mögliche Interessenkonflikte geprüft und dokumentiert 
+und
+c) welche Befangenheits- oder Ausschlussregelungen kamen zur
+Anwendung?
+29. Welche förmlichen Auswahl- und Bewertungsentscheidungen traf die Jury 
+des SPRIND-Funke-Wettbewerbs in den einzelnen Wettbewerbsstufen, 
+wie lauteten die jeweiligen aggregierten Abstimmungsergebnisse und in 
+welchen Fällen nahmen Jurymitglieder aufgrund möglicher Befangenheit 
+nicht an Beratung oder Abstimmung teil?
+30. Waren Jurymitglieder bzw. an der Bewertung beteiligte Personen zugleich 
+als Referent*innen auf Konferenzen vertreten, auf denen auch Funke-
+Teilnehmende bzw. deren Produkte vorgestellt wurden und gab es
+gemeinsame öffentliche Auftritte von Mitgliedern des SPRIND-Wallet-Teams mit 
+Vertreter*innen von Unternehmen, die zugleich Funke-Teilnehmende oder 
+deren Zulieferer waren (z. B. im Bereich Hardware-Sicherheitstoken)?
+Falls ja, bitte mit Datum, Anlass und beteiligten Personen/Unternehmen 
+auflisten.
+31. Welche Treffen fanden seit 2022 auf Leitungs-, Arbeits- oder
+Projektebene mit externen Stakeholdern aus Wirtschaft, Verbänden, Wissenschaft 
+und Zivilgesellschaft zur EUDI-Wallet statt, jeweils aufgeschlüsselt nach 
+Datum, beteiligten Organisationen, Gegenstand und Dauer des Treffens?
+32. Ist der Bundesregierung die vom Chaos Computer Club (CCC) und von 
+einzelnen IT-Sicherheitsexpert*innen öffentlich geäußerte Kritik an der 
+technischen und organisatorischen Ausgestaltung der deutschen EUDI-
+Wallet bekannt, insbesondere die von Bianca Kastl auf dem 39. Chaos 
+Communication Congress dargestellten möglichen strukturellen Parallelen 
+zu Sicherheitsproblemen anderer staatlicher Digitalisierungsprojekte, und
+a) wie bewertet die Bundesregierung diese Kritik und was hat sie konkret 
+unternommen, um diese zu entkräften,
+b) welche Schlussfolgerungen wurden daraus für die Entwicklung,
+Sicherheitsarchitektur und Projektsteuerung der deutschen EUDI-Wallet 
+gezogen,
+c) welche offiziellen Gespräche oder sonstigen Austauschformate zur 
+deutschen EUDI-Wallet fanden seit Projektbeginn zwischen der
+Bundesregierung, der SPRIND oder dem BSI und dem Chaos Computer 
+Club statt?
+33. Welche Gremien, insbesondere Lenkungsausschüsse, Expertenräte und 
+Steuerungsgruppen, haben sich seit der Anhörung des Ausschusses für
+Digitales im Jahr 2022 mit der Entwicklung der deutschen EUDI-Wallet
+befasst, und
+a) wie setzen sich diese Gremien jeweils zusammen,
+b) welche Aufgaben und Entscheidungsbefugnisse haben sie,
+c) in welcher Frequenz haben sie getagt?
+34. In welcher Form waren oder sind die Open Wallet Foundation, deren
+Beschäftigte, Gremienmitglieder oder Mitgliedsunternehmen an der
+Konzeption, Entwicklung oder technischen Ausgestaltung der deutschen EUDI-
+Wallet beteiligt, und
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+a) an welchen Gesprächen, Konsultationen, Arbeitsgruppen oder
+Entscheidungsprozessen waren sie beteiligt,
+b) welche Vorschläge oder technischen Spezifikationen wurden von 
+ihnen eingebracht,
+c) welche dieser Vorschläge oder Spezifikationen wurden in die
+Anforderungen oder die technische Architektur der deutschen EUDI-Wallet 
+übernommen,
+d) bestanden oder bestehen Vertrags-, Beratungs- oder sonstige
+entgeltliche Beziehungen zur Bundesregierung, zur SPRIND oder zu deren 
+Auftragnehmer*innen und
+e) welche Maßnahmen wurden getroffen, um mögliche
+Interessenkonflikte zu erkennen und zu vermeiden?
+Berlin, den 22. Juni 2026
+Katharina Dröge, Britta Haßelmann und Fraktion
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
