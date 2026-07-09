@@ -1,0 +1,189 @@
+Deutscher Bundestag Drucksache 21/6932 
+21. Wahlperiode 07.07.2026 
+Antrag 
+der Abgeordneten Ruben Rupp, Robin Jünger, Alexander Arpaschi, Tobias 
+Ebenberger, Lars Haise, Sebastian Maack, Edgar Naujok, Steffen Janich, 
+Dr. Michael Kaufmann, Martin Sichert, Dr. Christina Baum, Carina Schießl, Claudia 
+Weiss, Kay-Uwe Ziegler, Thomas Dietz, Joachim Bloch, Tobias Ebenberger, Nicole 
+Hess, Dr. Christoph Birghan, Birgit Bessin, Kerstin Przygodda, Alexis L. Giersch, 
+Martina Kempf, Stefan Möller, Dr. Paul Schmidt, Gereon Bollmann, Thomas Fetsch, 
+Carolin Bachmann, Adam Balten, Carsten Becker, René Bochmann, Erhard 
+Brucker, Hans-Jürgen Goßner, Dr. Ingo Hahn, Mirco Hanker, Udo Theodor 
+Hemmelgarn, Karsten Hilse, Nicole Höchst, Dr. Malte Kaufmann, Rocco Kever, Kurt 
+Kleinschmidt, Maximilian Kneller, Heinrich Koch, Reinhard Mixl, Andreas Paul, 
+Denis Pauli, Arne Raue, Christian Reck, Manfred Schiller, Bernd Schuhmann, 
+Thomas Stephan, Martina Uhr, Mathias Weiser, Wolfgang Wiehle, Dr. Daniel Zerbin, 
+Jörg Zirwes, Ulrich von Zons und der Fraktion der AfD 
+Verbesserung des Sicherheitskonzepts der elektronischen Patientenakte 
+Der Bundestag wolle beschließen: 
+I. Der Deutsche Bundestag stellt fest:
+Die Einführung einer elektronischen Patientenakte (ePA) für die rund 70 Mio. 
+gesetzlich Versicherten in Deutschland wurde bereits vor 20 Jahren diskutiert, 
+doch dauerten Planung und Aufsetzung bis heute. Seit Ende April 2025 kann die 
+ePA bundesweit genutzt werden, sie soll nach Darstellung des
+Bundesministeriums für Gesundheit (BMG) den Austausch und die Nutzung von
+Gesundheitsdaten vorantreiben und die medizinische Versorgung gezielt unterstützen.1 Dabei 
+gilt die sogenannte Widerspruchslösung, nach der alle gesetzlich Versicherten, 
+die nicht aktiv bei ihrer Krankenkasse widersprechen, von dieser eine ePA
+angelegt bekommen; bereinigt über alle Krankenkassen, haben dies bis Mitte Mai 2025 
+rund fünf Prozent der gesetzlich Versicherten getan.2 Die neue Bundesregierung 
+hält am Zeitplan der Einführung der ePA fest und will ihre Nutzung überdies für 
+die Leistungserbringer obligat machen: „Noch 2025 rollen wir die elektronische 
+Patientenakte stufenweise aus, von einer bundesweiten Testphase zu einer
+verpflichtenden sanktionsbewehrten Nutzung. Wir vereinfachen den Austausch zwi-
+ 
+1 Vgl. https://www.bundesgesundheitsministerium.de/themen/digitalisierung/elektronische-patienten-
+akte/epa-fuer-alle.html 
+2 Vgl. https://www.welt.de/politik/deutschland/article255973254/Millionen-Menschen-haben-elektroni-
+scher-Patientenakte-widersprochen.html 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+schen den Versicherungsträgern und den Ärztinnen und Ärzten.
+Doppeldokumentationen vermeiden wir.“3  
+In der ePA sollen dem BMG zufolge alle Dokumente in der Krankheits-
+beziehungsweise Behandlungsgeschichte eines Menschen digital abgelegt werden
+können: Arztbesuche in Praxis und Klinik, Untersuchungen, Laborbefunde,
+Röntgenbilder, MRT, chronische Erkrankungen, Therapien, Medikationen, Impfungen. 
+Idealerweise sollen auch ältere Dokumente über erfolgte Behandlungen Schritt 
+für Schritt digitalisiert und in die ePA hochgeladen werden. Der Patient soll diese 
+digitale Datensammlung über eine App auf seinem mobilen Telefon verwalten 
+und dabei bestimmen können, welcher Leistungserbringer auf welche Daten
+Zugriff haben kann. Das BMG stellt ab auf die Annehmlichkeiten und Vorteile der 
+ePA: So habe der Patient einen raschen Überblick auf aktuelle Befunde,
+Diagnosen und Therapieempfehlungen; Ärzten und Psychotherapeuten läge die
+vollständige Medikation ihres Patienten vor; auch länger zurückliegende Diagnosen und 
+Therapien könnten erfasst werden; der Patient könne bestimmen, wer welche
+Daten lesen könne; zudem seien die Daten der ePA mit ihren sensiblen Daten
+besonders geschützt.4 
+Die sogenannte Telematikinfrastruktur zum Austausch der ePA wird von der 
+mehrheitlich im Bundesbesitz befindlichen gematik GmbH zur Verfügung
+gestellt.5 Praxen, Kliniken und Apotheken sind über ihre Systeme und geeignete 
+Schnittstellen an die Telematikinfrastruktur angebunden, die Leistungserbringer 
+legitimieren sich durch ihre jeweiligen Heilberufeausweise. Den Zugang zur
+jeweiligen ePA inklusive Schreibrechten bekommen sie durch den Patienten, der 
+ihnen seine ePA mit seiner Gesundheitskarte freischaltet. Die ePA-Daten selbst 
+liegen auf Servern der Krankenkassen, die hierfür auf die Angebote
+professioneller Dienstleister zurückgreifen.6 Die Einrichtung und Wartung der technischen 
+Infrastruktur der ePA mitsamt den verbauten Komponenten wird sowohl vom 
+Bundesamt für die Sicherheit in der Informationstechnik (BSI) als auch der
+Bundesbeauftragten für den Datenschutz und die Informationsfreiheit kritisch
+begleitet. 
+Allen Beteuerungen des BMG zum Trotz, wurden in der jüngeren Vergangenheit 
+immer wieder zum Teil gravierende Sicherheitslücken im Zusammenhang der 
+ePA aufgedeckt. So hat der Chaos Computer Club im Januar 2025 ausdrücklich 
+davor gewarnt, die ePA in ihrer gegenwärtigen Form in den Regelbetrieb zu
+überführen;7 zu einfach sei es für technisch Versierte, sich mit einem simulierten
+Heilberufeausweis Zugriff auf die komplette Datenbank der ePA auf der Telematik-
+Infrastruktur zu erschleichen. Der Sprecher der AG Kritis, Manuel Atug, geht in 
+einem Interview noch weiter, wenn er sagt, es sei nur eine Frage der Zeit, bis ein 
+eklatanter Missbrauch der in der ePA gesammelten Daten passiere.8 Zu einem 
+besonders dramatischen Fall kam es Atug zufolge 2020 in Finnland. Dort hatten 
+sich Kriminelle Zugang zu zahlreichen digitalisierten Datensätzen aus
+Psychotherapiesitzungen verschafft und die Betroffenen damit erpresst, die Daten im Netz 
+ 
+3 Vgl. https://www.koalitionsvertrag2025.de/sites/www.koalitionsvertrag2025.de/files/koav_2025.pdf, 
+Seite 110, Zeile 3250ff. 
+4 Vgl. https://www.bundesgesundheitsministerium.de/themen/digitalisierung/elektronische-patienten-
+akte/epa-fuer-alle.html 
+5 Vgl. https://www.gematik.de/anwendungen/epa-fuer-alle 
+6 Die Techniker (TK) schreibt beispielhaft, dass zu diesem Zweck Server „in Europa“ genutzt werden, 
+deren Betreiber europäischem Datenschutzrecht unterliegen. Tatsächlich greift die TK auf Dienste des 
+US-Unternehmens IBM zurück; vgl. https://www.tk.de/techniker/leistungen-und-mitgliedschaft/online-
+services-versicherte/elektronische-patientenakte-tk-safe/elektronische-patientenakte-2025-
+2171702?tkcm=ab.  
+7 Vgl. https://www.ccc.de/de/updates/2025/epa-transparenz 
+8 https://www.berliner-zeitung.de/gesundheit-oekologie/elektronische-patientenakte-it-experten-prophe-
+zeien-datenklau-bei-kassenpatienten-li.2287423 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+zu veröffentlichen, sollten sie nicht zahlen; in der Folge kam es zu manchen
+Suiziden.9 Weiter moniert Atug die Praxis der mangelhafte Zugriffssteuerung der 
+ePA durch die Patienten. Bisher erlaubten es die Einstellungen in der App
+lediglich, die Daten der ePA pauschal für alle Leistungserbringer freizuschalten oder 
+für keine. Eine selektive Differenzierung, welcher Arzt, Psychotherapeut oder 
+Apotheker welche Daten zu sehen bekomme, fehle entgegen den Ankündigungen 
+aus dem BMG bisher.10 
+Offen bleibt abschließend, inwieweit die ePA vor einer Beschlagnahmung durch 
+die Strafverfolgungsbehörden geschützt ist. Nach § 97 der Strafprozessordnung 
+(StPO) ist die Beschlagnahmung medizinischer oder psychologischer Daten, die 
+der Arzt oder Psychotherapeut in seiner Praxis oder in einer Klinik über einen 
+Patienten erhebt, analysiert und speichert, aufgrund dessen
+Zeugnisverweigerungsrechts verboten; gleiches gilt für die kompilierten Daten eines Patienten auf 
+den Servern der Krankenkassen.11 Die ePA, zu deren Verwalter der Patient mit 
+seinem mobilen Telefon werden soll, taucht in der StPO hingegen nicht auf. 
+Schon werden Stimmen laut, dass die Polizei zur besseren Prävention von
+Attentaten einen Zugriff brauche auf die medizinischen Daten psychisch auffälliger 
+Personen. Ein solch drohendes Aushebeln des Datenschutzes gerade bei den
+hochsensiblen Daten, die in einer elektronischen Patientenakte gesammelt werden,
+erscheint den Antragstellern höchst bedenklich. 
+Die Antragsteller sind der Auffassung, dass das derzeitige Ökosystem der
+Datensicherheit und des Datenschutzes der elektronischen Patientenakte nicht geeignet 
+ist, ihre zum Teil erheblichen Sicherheitsmängel auszugleichen und das Vertrauen 
+der Patienten in die ePA im Besonderen und in die Digitalisierung des
+Gesundheitswesens im Allgemeinen zu fördern. Um diese an sich wünschenswerten Ziele 
+zu erreichen, sind noch deutliche Änderungen an der ePA erforderlich, von einem 
+ordentlichen Regelbetrieb in Praxis und Klinik kann derweil keine Rede sein; eine 
+Verlängerung des Testbetriebs erscheint vor diesem Hintergrund dringend
+geboten.12 
+II. Der Deutsche Bundestag fordert die Bundesregierung auf, 
+1. in enger Abstimmung mit den Standesvertretern der ambulant wie stationär 
+arbeitenden Ärzten und Psychotherapeuten eine Liste besonders sensibler
+Diagnosen sowie Medikationen zu erarbeiten und regelmäßig nach dem Stand 
+der medizinischen Wissenschaft zu aktualisieren, deren Details keinesfalls in 
+unbefugte Hände geraten dürfen. Dazu zählen nach Auffassung der
+Antragsteller mindestens Depressionen, HIV-Infektionen, Suchterkrankungen, 
+Schwangerschaftsabbrüche und Essstörungen, da diese die Betroffenen, wenn 
+sie ungewollt öffentlich werden, emotional und sozial stigmatisieren können. 
+Diese Diagnosen sollen nur auf ausdrücklichen Wunsch der Patienten
+Eingang in die ePA finden können; 
+2. in enger Abstimmung mit der gematik und den Krankenkassen eine
+technische Erweiterung der ePA auf den Weg zu bringen, die es ermöglicht, die 
+unter 1. genannten Diagnosen in einem besonders abgesicherten Bereich der 
+ePA unterzubringen, der für den Routineabruf unsichtbar ist und der nur auf 
+ausdrücklichen Wunsch des Patienten zur Einsicht und zur Bearbeitung
+freigeschaltet werden kann; 
+ 
+9 ebenda 
+10 ebenda 
+11 Vgl. https://www.gesetze-im-internet.de/stpo/__97.html  
+12 Vgl. https://www.bundesaerztekammer.de/presse/aktuelles/detail/baek-unterstuetzt-verlaengerung-der-
+testphase-und-schrittweise-einfuehrung 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+3. in enger Abstimmung mit den Standesvertretern der ambulant wie stationär 
+tätigen Ärzten und Psychotherapeuten sowie den Krankenkassen,
+Sicherheitsfachleuten und Datenschützern eine breit angelegte, analog wie digital 
+gespielte Informationskampagne auf den Weg zu bringen, die die Patienten 
+über die Chancen und Risiken der ePA aufklärt, um sie zu einer informierten 
+Entscheidung bezüglich ihrer Nutzung zu befähigen; 
+4. bei der Anlage weiterer elektronischer Patientenakten die jetzt geltende
+Widerspruchslösung durch eine Zustimmungslösung zu ersetzen, nach der nur 
+der gesetzlich versicherte Patient eine ePA bekommt, der es aktiv einfordert; 
+5. zur Verwaltung der Daten der ePA eine Lösung zu erarbeiten, die nicht nur 
+als App auf dem mobilen Telefon des Patienten funktioniert, sondern zudem 
+auf einem handelsüblichen Rechner. Angesichts der zu erwartenden Vielfalt 
+und Komplexität der in der ePA auflaufenden Dateien wird es am Monitor 
+einfacher sein, den Überblick über die eigenen Daten und ihre Freischaltung 
+zu behalten; 
+6. in der ePA eine gesonderte Funktion einzurichten, nach der der Patient der 
+Nutzung seiner anonymisierten Daten zu Forschungszwecken durch Dritte 
+ausdrücklich zustimmen muss; 
+7. den Kreis der Unternehmen, die einen Zugang zu anonymisierten Daten zu 
+Forschungszwecken bean-tragen können, eng zu stecken und auf
+Unternehmen aus der Medizin, der Biologie und der Pharmazie zu beschränken.
+Hiervon sollen Unternehmen, deren Geschäftsmodell das Sammeln, Speichern, 
+Analy-sieren und Monetarisieren von Daten zu Werbezwecken ist,
+ausgeschlossen werden können; 
+8. den § 97 Beschlagnahmeverbot der Strafprozessordnung (StPO) ausdrücklich 
+um die derzeit und künf-tig in der individuellen elektronischen Patientenakte 
+gespeicherten Daten zu erweitern. 
+Berlin, den 7. Juli 2026 
+Dr. Alice Weidel, Tino Chrupalla und Fraktion 
+ 
+ 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
