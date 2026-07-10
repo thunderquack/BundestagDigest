@@ -27,24 +27,22 @@ In öffentlich zugänglichen Materialien zur Wärmebedarfskartierung wird
 beschrieben, dass theoretisch berechnete Heizwärmebedarfe durch empirische 
 Anpassungsfaktoren an reale Verbrauchswerte angepasst werden; verwiesen 
 wird dabei unter anderem auf Gebäudetypologie-, IWU- beziehungsweise 
-TABULA-Ansätze. Das Institut Wohnen und Umwelt beschreibt TABULA als 
-Ansatz zur Entwicklung von Gebäudetypologien zur energetischen Bewertung 
-des Wohngebäudebestands und verweist dabei auch auf eine Kalibrierung auf 
-typische Verbrauchsniveaus (www.iwu.de/index.php?id=205). In der
-Kurzbeschreibung der Methodik der digitalen Wärmebedarfskarte Niedersachsen wird 
-ein solcher Anpassungsfaktor als „APF“ bezeichnet und die Methodik als 
-Grundlage zur Unterstützung kommunaler Wärmeplanung beschrieben (www.k
-limaschutz-niedersachsen.de/_downloads/Veranstaltungsdokumente/Waermebe
-darfskarte/2023-11-Kurzbeschreibung_der_Methodik_Waermebedarfskarte.pdf
-?m=1707313903&).
+TABULA-Ansätze. Das Institut Wohnen und Umwelt (IWU) beschreibt TABU-
+LA als Ansatz zur Entwicklung von Gebäudetypologien zur energetischen
+Bewertung des Wohngebäudebestands und verweist dabei auch auf eine
+Kalibrierung auf typische Verbrauchsniveaus (www.iwu.de/index.php?id=205). In der 
+Kurzbeschreibung der Methodik der digitalen Wärmebedarfskarte
+Niedersachsen wird ein solcher Anpassungsfaktor als „APF“ bezeichnet und die Methodik 
+als Grundlage zur Unterstützung kommunaler Wärmeplanung beschrieben 
+(www.klimaschutz-niedersachsen.de/_downloads/Veranstaltungsdokumente/W
+aermebedarfskarte/2023-11-Kurzbeschreibung_der_Methodik_Waermebedarfs
+karte.pdf?m=1707313903&).
 Aus Sicht der Fragesteller ist deshalb offenzulegen, welche Annahmen zu
 Wärmebedarf, Energiepreisen, CO2-Preisen, Netzentgelten, Investitionskosten,
 Sanierungsraten, Heizungstauschraten, Anschlussquoten und
 Technologievergleichen verwendet werden. Dies gilt insbesondere, soweit Bundesleitfäden,
-Bundesförderverfahren, Bundesinstitutionen oder bundesrechtliche Vorgaben kom-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-munale Wärmepläne, Wärmebedarfskarten, Transformationspläne oder
+Bundesförderverfahren, Bundesinstitutionen oder bundesrechtliche Vorgaben
+kommunale Wärmepläne, Wärmebedarfskarten, Transformationspläne oder
 Machbarkeitsstudien mittelbar beeinflussen.
 Die Bundesförderung für effiziente Wärmenetze fördert nach Angaben des 
 Bundesamtes für Wirtschaft und Ausfuhrkontrolle unter anderem
@@ -60,7 +58,7 @@ Machbarkeitsstudien.
 Wir fragen die Bundesregierung:
  1. Welche Änderungen und neuen Erkenntnisse liegen der Bundesregierung 
 nach aktuellem Stand zum Zeitpunkt der Beantwortung dieser Kleinen 
-Anfrage gegenüber ihren Antworten auf Bundestagsdrucksachen 
+Anfrage gegenüber ihren Antworten auf den Bundestagsdrucksachen 
 20/14581 und 21/1346 zum Stand der kommunalen Wärmeplanung,
 insbesondere in Gemeindegebieten mit mehr als 100 000 Einwohnern, vor?
  2. Welche Erkenntnisse, Quellen und Datenbestände nutzt die
@@ -71,9 +69,9 @@ Meldungen der Länder, Daten oder Informationen des
 Kompetenzzentrums Kommunale Wärmewende, des Bundesamtes für Wirtschaft 
 und Ausfuhrkontrolle, des Bundesinstituts für Bau-, Stadt- und
 Raumforschung, Förderverfahren der Bundesförderung für effiziente
-Wärmenetze oder sonstige Bundesquellen?
+Wärmenetze oder sonstige Bundesquellen,
 b) der derzeit erhobenen, gespeicherten oder genutzten Datenfelder zu 
-kommunalen Wärmeplänen?
+kommunalen Wärmeplänen,
 c) der künftig nach § 34 des Wärmeplanungsgesetzes zentral zu
 erfassenden und zu veröffentlichenden Datenfelder?
  3. Hält die Bundesregierung die derzeitige Datenlage zu Fernwärmepreisen, 
@@ -92,28 +90,27 @@ Gebäudeenergiegesetz und Wärmeplanung ausgewiesen wurden,
 b) der Wirtschaftlichkeitsvergleiche zwischen Fernwärme,
 Gasheizungen, Ölheizungen, Wärmepumpen, Biomasseheizungen und
 Hybridheizungen sowie entsprechender Förderentscheidungen, Leitfäden und 
-Bewertungsmaßstäbe zur Wärmeplanung und
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+Bewertungsmaßstäbe zur Wärmeplanung,
 c) der vorgesehenen Festlegung beziehungsweise Ermittlung von
 Primärenergiefaktoren für Fernwärme, insbesondere bei Kraft-Wärme-
 Kopplung nach der Carnot-Methode, auf Wirtschaftlichkeits-, 
 Primärenergie- und Klimabilanzvergleiche zwischen Fernwärme und 
 dezentralen Heizungsalternativen?
  5. Inwieweit macht der Bund in seinen Leitfäden, Förderbedingungen (z. B. 
-BEW) oder durch das Bundesinstitut für Bau-, Stadt- und Raumforschung 
-(BBSR) ggf. Vorgaben zur Verwendung von Anpassungsfaktoren (wie 
-APF, IWU, TABULA) für die kommunale Wärmeplanung?
+Bundesförderung für effiziente Wärmenutzung [BEW]) oder durch das 
+Bundesinstitut für Bau-, Stadt- und Raumforschung (BBSR) ggf.
+Vorgaben zur Verwendung von Anpassungsfaktoren (wie APF, IWU, TABU-
+LA) für die kommunale Wärmeplanung?
  6. Welche Kenntnisse hat die Bundesregierung ggf. darüber, welche
 Anpassungsfaktoren, Verbrauchskalibrierungen oder empirischen
-Korrekturfaktoren, insbesondere auf Grundlage von IWU-, TABULA- oder
-Gebäudetypologieansätzen, in kommunalen Wärmeplänen, Wärmebedarfskarten, 
-Bundesleitfäden oder durch Bundesmittel geförderten
-Transformationsplänen verwendet werden, auf welcher empirischen Datengrundlage beruhen 
-diese Faktoren und welche Auswirkungen haben sie nach Kenntnis der 
-Bundesregierung auf Technologievergleiche zwischen Wärmepumpen, 
-Fernwärme, Gasbrennwerttechnik, Ölheizungen, Biomasseheizungen und 
-Hybridheizungen?
+Korrekturfaktoren, insbesondere auf Grundlage von IWU-, TABULA- oder 
+Gebäudetypologie-Ansätzen, in kommunalen Wärmeplänen,
+Wärmebedarfskarten, Bundesleitfäden oder durch Bundesmittel geförderten
+Transformationsplänen verwendet werden, auf welcher empirischen
+Datengrundlage beruhen diese Faktoren, und welche Auswirkungen haben sie 
+nach Kenntnis der Bundesregierung auf Technologievergleiche zwischen 
+Wärmepumpen, Fernwärme, Gasbrennwerttechnik, Ölheizungen,
+Biomasseheizungen und Hybridheizungen?
  7. Welche Annahmen werden nach Kenntnis der Bundesregierung in
 kommunalen Wärmeplänen, Wärmebedarfskarten, Bundesleitfäden und durch 
 Bundesmittel geförderten Transformationsplänen für
@@ -134,7 +131,7 @@ auf Grundlage einer Vollkostenbetrachtung ausweisen?
 Gutachten, Förderprogramme, gesetzliche Begründungen oder
 Ressortabstimmungen verfügt, ob der Ausbau von Fernwärme gegenüber
 dezentralen Wärmeversorgungslösungen für Verbraucher, öffentliche Haushalte 
-und das Energiesystem vorteilhaft ist und wenn ja, auf welcher
+und das Energiesystem vorteilhaft ist, und wenn ja, auf welcher
 methodischen Grundlage?
 10. Welche Erkenntnisse hat die Bundesregierung ggf. zu externen
 Dienstleistern, Gutachtern, Instituten oder Konsortien im Zusammenhang mit
@@ -143,13 +140,11 @@ und Machbarkeitsstudien, soweit diese Erkenntnisse Methodik,
 Datenbasis, Szenarioannahmen, Textbausteine, Bewertungsmodelle oder
 Softwarewerkzeuge betreffen, und zwar hinsichtlich
 a) der in entsprechenden Vorhaben verwendeten Datengrundlagen,
-Annahmen, Bewertungsmodelle und Softwarewerkzeuge?
+Annahmen, Bewertungsmodelle und Softwarewerkzeuge,
 b) der Mehrfachverwendung gleichartiger Methodiken,
 Szenarioannahmen, Textbausteine, Bewertungsmodelle oder Softwarewerkzeuge,
-soweit diese Erkenntnisse aus Bundesförderverfahren (insbesondere den 
-Verwendungsnachweisen und Qualitätsprüfungen im Rahmen der
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+soweit diese Erkenntnisse aus Bundesförderverfahren (insbesondere den
+Verwendungsnachweisen und Qualitätsprüfungen im Rahmen der 
 Bundesförderung für effiziente Wärmenetze), Bundesleitfäden, dem 
 Kompetenzzentrum Kommunale Wärmewende, dem Bundesinstitut 
 für Bau-, Stadt- und Raumforschung oder sonstigen Bundesquellen 
@@ -161,11 +156,11 @@ Transformationsplänen, und zwar hinsichtlich
 a) der dort typischerweise unterstellten Sanierungs- und
 Heizungstauschraten sowie der aus Sicht der Bundesregierung bis 2030, 2035, 
 2040 und 2045 realistisch erreichbaren Sanierungs- und
-Heizungstauschrate im Gebäudebestand?
+Heizungstauschrate im Gebäudebestand,
 b) der Vereinbarkeit dieser Annahmen mit den tatsächlichen Sanierungs- 
 und Heizungstauschraten der vergangenen Jahre und des privaten
 Investitionsbedarfs von Eigentümern zur Erreichung der unterstellten 
-Wärmebedarfsreduktionen und Heizungstauschpfade?
+Wärmebedarfsreduktionen und Heizungstauschpfade,
 c) der Frage, ob entsprechende Pläne Szenarien für den Fall enthalten, 
 dass geplante Anschlussquoten, Heizungstauschraten oder
 angenommene Gebäudesanierungsraten nicht erreicht werden?
@@ -174,5 +169,3 @@ Dr. Alice Weidel, Tino Chrupalla und Fraktion
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.

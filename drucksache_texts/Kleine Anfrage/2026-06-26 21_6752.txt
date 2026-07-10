@@ -5,7 +5,7 @@ des Abgeordneten Jan Köstering, Clara Bünger, Anne-Mieke Bremer, Agnes
 Conrad, Mandy Eißing, Katrin Fey, Dr. Gregor Gysi, Luke Hoß, Ferat Koçak, Sonja 
 Lemke, Bodo Ramelow, David Schliesing, Aaron Valent, Donata Vogtschmidt, 
 Christin Willnat und der Fraktion Die Linke
-Software-Ankauf durch das Bundesamt für Verfassungsschutz
+Softwareankauf durch das Bundesamt für Verfassungsschutz
 Die nach Medienberichten erfolgte Entscheidung des Bundesamtes für
 Verfassungsschutz (BfV), die Analysesoftware „ArgonOS“ des französischen
 Unternehmens ChapsVision zu beschaffen, wirft aus Sicht der Fragestellenden 
@@ -31,8 +31,8 @@ informationelle Selbstbestimmung, wie das Bundesverfassungsgericht klargestellt
 hat (1 BvR 1547/19 und 1 BvR 2634/20 – v. 16. Februar 2023). Hinzu kommen 
 Fragen nach der Nachvollziehbarkeit algorithmischer Prozesse, möglichen
 Diskriminierungseffekten sowie der Kontrolle hochkomplexer Software durch
-Parlamente und Öffentlichkeit. (Vgl.: https://freiheitsrechte.org/themen/freiheit-i
-m-digitalen-zeitalter/palantir-bayern, )
+Parlamente und Öffentlichkeit (vgl. https://freiheitsrechte.org/themen/freiheit-im-d
+igitalen-zeitalter/palantir-bayern).
 Dass sich das BfV nun offenbar für eine europäische statt US-amerikanische 
 Lösung entschieden hat, löst diese grundsätzlichen Probleme nicht. Auch bei 
 ArgonOS stellt sich die Frage, welche Datenbestände verarbeitet werden sollen, 
@@ -41,10 +41,8 @@ Umfang automatisierte Auswertungssysteme, insbesondere selbstlernende
 Systeme, eingesetzt werden und wie Grundrechte wirksam geschützt werden sollen. 
 Darüber hinaus besteht ein erhebliches öffentliches Interesse daran zu erfahren, 
 welche finanziellen Mittel für die Beschaffung aufgewendet werden, welche 
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-Unternehmen beteiligt sind und welche parlamentarischen
-Kontrollmechanismen vorgesehen sind.
+Unternehmen beteiligt und welche parlamentarischen Kontrollmechanismen 
+vorgesehen sind.
 Die Fragestellenden sehen die zunehmende Zentralisierung und Vernetzung 
 personenbezogener Datenbestände in Sicherheitsbehörden mit großer Sorge. 
 Der Ausbau digitaler Überwachungs- und Analysekapazitäten darf nicht zu 
@@ -56,54 +54,50 @@ nachvollziehbar ist („black box“).
 Wir fragen die Bundesregierung:
 1. Kann die Bundesregierung die Entscheidung des BfV für die Beschaffung 
 der Analysesoftware „ArgonOS“ des französischen Unternehmens Chaps-
-Vision bestätigen?
-Und wenn ja,
+Vision bestätigen, und wenn ja,
 a) welche Arten und Formate von Daten bzw. Datenobjekten können von 
 ArgonOS verarbeitet werden, und wie werden die Ergebnisse
-ausgegeben?
+ausgegeben,
 b) werden die Ergebnisse in einer Weise ausgegeben, dass der Weg zu den 
-gefundenen Ergebnissen nachvollziehbar und reproduzierbar ist?
+gefundenen Ergebnissen nachvollziehbar und reproduzierbar ist,
 c) auf welcher rechtlichen Grundlage soll die Verarbeitung von Daten im 
-BfV durchgeführt werden?
-d) auf welche Datenquellen wird ArgonOS im BfV zugreifen können?
-e) mit welchen anderen Analyseprogrammen oder -plattformen ist
-ArgonOS verknüpft oder verknüpfbar?
-f) für welche Aufgaben nutzt die Software Künstliche Intelligenz?
-g) auf welche Weise ergänzt oder übernimmt Künstliche Intelligenz
-Aufgaben im Rahmen der erworbenen Software?
-h) nutzt ArgonOS generative KI und falls ja, mit welchen Daten wird oder 
-wurde diese für die Nutzung durch deutsche Behörden trainiert?
-i) in welcher technischen Umgebung soll ArgonOS betrieben werden?
+BfV durchgeführt werden,
+d) auf welche Datenquellen wird ArgonOS im BfV zugreifen können,
+e) mit welchen anderen Analyseprogrammen oder Analyseplattformen ist 
+ArgonOS verknüpft oder verknüpfbar,
+f) für welche Aufgaben nutzt die Software künstliche Intelligenz (KI),
+g) auf welche Weise ergänzt oder übernimmt künstliche Intelligenz
+Aufgaben im Rahmen der erworbenen Software,
+h) nutzt ArgonOS generative KI, und wenn ja, mit welchen Daten wird 
+oder wurde diese für die Nutzung durch deutsche Behörden trainiert,
+i) in welcher technischen Umgebung soll ArgonOS betrieben werden,
 j) werden die Daten und Auswertungsergebnisse im Zuge der Anwendung 
-von ArgonOS ausschließlich auf Servern des BfV gespeichert? Wenn 
-nicht, auf welchen Servern welcher Behörden oder Unternehmen
-werden sonst Daten gespeichert?
+von ArgonOS ausschließlich auf Servern des BfV gespeichert, und 
+wenn nein, auf welchen Servern welcher Behörden oder Unternehmen 
+werden sonst Daten gespeichert,
 k) auf welche Weise, von wo und durch wen erfolgt die Wartung und
-Aktualisierung der Software?
+Aktualisierung der Software,
 l) kam der Kaufvertrag direkt mit ChapsVision zustande oder mit rola
-Security Solutions oder sowohl als auch?
-m) welche finanziellen Mittel wurden für den Kauf insgesamt
-aufgewendet?
+Security Solutions oder sowohl als auch,
+m) welche finanziellen Mittel wurden für den Kauf insgesamt aufgewendet,
 n) stehen sämtliche Funktionen von ArgonOS im Einklang mit den in 
-Deutschland derzeit geltenden Gesetzen?
+Deutschland derzeit geltenden Gesetzen,
 o) stehen sämtliche Funktionen von ArgonOS im Einklang mit den in 
 Deutschland derzeit geltenden Datenschutzbestimmungen, und wer war 
-an der Prüfung der datenschutzrechtlichen Compliance beteiligt?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+an der Prüfung der datenschutzrechtlichen Compliance beteiligt,
 p) waren mit der Bedienung der Software im Rahmen der Testphase auch 
-Personen betraut, die keine Mitarbeitenden des BfV sind, wenn ja, 
-welche Personen und in welchem Umfang?
+Personen betraut, die keine Mitarbeitenden des BfV sind, und wenn ja, 
+welche Personen, und in welchem Umfang,
 q) werden im Regelbetrieb der Software auch Personen in die Bedienung 
-eingebunden werden, die keine Mitarbeitenden des BfV sind, wenn ja, 
-welche Personen und in welchem Umfang?
+eingebunden werden, die keine Mitarbeitenden des BfV sind, und wenn 
+ja, welche Personen, und in welchem Umfang,
 r) gab es ein Ausschreibungsverfahren, und was war der ausgeschriebene 
-Leistungskatalog?
-s) hat das BfV in der Vergangenheit schon Produkte der Firma Chapvision 
-gekauft?
-t) hat das BfV eine Vollversion gekauft oder eine Testversion?
+Leistungskatalog,
+s) hat das BfV in der Vergangenheit schon Produkte der Firma Chaps
+Vision gekauft,
+t) hat das BfV eine Vollversion gekauft oder eine Testversion,
 u) wann hat das BfV die Software gekauft, wann begann die Testphase, in 
-welchem Rahmen wurde getestet und in welchem Rahmen wird die 
+welchem Rahmen wurde getestet, und in welchem Rahmen wird die 
 Software bereits seit wann genutzt?
 2. Prüft das Bundesministerium des Innern weiterhin den Kauf von Produkten 
 zur automatisierten Datenanalyse der Firma Palantir oder weiterer Anbieter, 
@@ -112,20 +106,16 @@ und wenn ja, welcher?
 Palantir oder anderer Anbieter von automatisierten Datenanalysewerkzeugen?
 4. Schließt die Bundesregierung zukünftige Käufe von Produkten der Firma 
 Palantir aus?
-5. Halten Mitglieder der Bundesregierung Aktien der Firma Palantir, wenn ja 
+5. Halten Mitglieder der Bundesregierung Aktien der Firma Palantir, wenn ja, 
 in welchem Umfang?
-6. Hatte der heutige Bundeskanzler Friedrich Merz 2019 in seiner Funktion 
-als Aufsichtsratsvorsitzender beim Vermögensverwalter BlackRock Asset 
-Management Deutschland im Zuge der Übernahme des Unternehmens 
-eFront für 1,3 Milliarden Dollar Kontakt mit Olivier Dellenbach, Gründer 
-von eFront und heute CEO der Firma ChapsVision (vgl.: https://corporate.c
-oheris.com/en/company/board-of-directors/)?
+6. Hatte der heutige Bundeskanzler Friedrich Merz im Jahr 2019 in seiner 
+Funktion als Aufsichtsratsvorsitzender beim Vermögensverwalter Black-
+Rock Asset Management Deutschland im Zuge der Übernahme des
+Unternehmens eFront für 1,3 Milliarden Dollar Kontakt mit Olivier Dellenbach, 
+Gründer von eFront und heute CEO der Firma ChapsVision (vgl.: https://co
+rporate.coheris.com/en/company/board-of-directors/)?
 Berlin, den 8. Juni 2026
 Heidi Reichinnek, Sören Pellmann und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.

@@ -10,7 +10,7 @@ Streitkräfte müssen Fähigkeiten in den Dimensionen Land, Luft, See, Cyber- un
 Informationsraum, Weltraum sowie im elektromagnetischen Spektrum so
 verbinden, dass Aufklärung, Führung, Wirkung und Schutz schnell, interoperabel 
 und resilient zusammenwirken. Die Bundeswehr bezeichnet dies unter anderem 
-als „Multi-Domain Operations“ (vgl.: https://hardthoehenkurier.de/multi-domai
+als „Multi-Domain Operations“ (vgl. https://hardthoehenkurier.de/multi-domai
 n-operations-und-software-defined-defence/).
 Nach öffentlicher Fachberichterstattung plant die Bundeswehr, bis 2029 eine 
 erste Langstrecken-Artilleriebatterie (vgl. www.hartpunkt.de/tiefer-einblick-
@@ -22,8 +22,8 @@ weltraumgestützte Dienste, geschützte Kommunikation, Munitionsbevorratung, sch
 Datenverarbeitung und interoperable Führungsstrukturen nur eingeschränkt 
 möglich ist. Andere große Militärmächte verfügen zudem über erhebliche
 Fähigkeiten in den Bereichen weitreichendes Feuer, Drohnen, elektronische 
-Kampfführung, GPS-Störung, Luftverteidigung, Cyberoperationen und tief
-gestaffelte Führungssysteme.
+Kampfführung, GPS-Störung (GPS = Global Positioning System),
+Luftverteidigung, Cyberoperationen und tief gestaffelte Führungssysteme.
 Wir fragen die Bundesregierung:
  1. Was versteht die Bundesregierung konkret unter einer deutschen Multi-
 Domain Task Force, und wie grenzt sie diese von bestehenden Strukturen 
@@ -38,12 +38,10 @@ eigenständiger operativer Fähigkeitsträger zu verstehen ist?
  4. Welche Zielstruktur, Anfangsbefähigung und Vollbefähigung sind für eine 
 deutsche Multi-Domain Task Force geplant, und bis wann sollen diese
 jeweils erreicht werden?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
  5. Trifft es zu, dass die Bundeswehr bis 2029 eine erste Langstrecken-
 Artilleriebatterie als Kern einer künftigen Multi-Domain Task Force
-aufstellen will (vgl. Vorbemerkung)?
- 6. Wenn die Vorfrage bejaht wird, welche Fähigkeiten sollen zusätzlich zu 
+aufstellen will (vgl. Vorbemerkung der Fragesteller)?
+ 6. Wenn die Frage 5 bejaht wird, welche Fähigkeiten sollen zusätzlich zu 
 dieser Langstrecken-Artilleriebatterie notwendig sein, damit daraus
 tatsächlich eine Multi-Domain Task Force und nicht lediglich eine
 Raketenartillerieeinheit wird?
@@ -77,19 +75,17 @@ deutschen Multi-Domain Task Force spielen?
 Auswertekapazitäten und Führungsverfahren, um weitreichendes Feuer in einem
 zeitkritischen Einsatzumfeld eigenständig und durchhaltefähig einzusetzen?
 12. Welche Abhängigkeiten bestehen beim Aufbau einer deutschen Multi-
-Domain Task Force von Fähigkeiten verbündeter Staaten in den Bereichen 
-Satellitenaufklärung, Kommunikationssatelliten, Zielaufklärung,
-Luftbetankung, strategische Aufklärung, elektronische Kampfführung,
+Domain Task Force von den Fähigkeiten verbündeter Staaten in den
+Bereichen Satellitenaufklärung, Kommunikationssatelliten, Zielaufklärung, 
+Luftbetankung, strategische Aufklärung, elektronische Kampfführung, 
 Cyberfähigkeiten und weitreichende Präzisionswaffen?
 13. Wie bewertet die Bundesregierung die Risiken, die entstehen, wenn 
 Deutschland zwar weitreichende Wirkmittel beschafft, aber bei
 Zielaufklärung, Lagebild, Datenverarbeitung, Satellitennutzung oder
 Führungsfähigkeit weiterhin wesentlich von Partnerstaaten abhängig bleibt?
 14. Welche Rolle spielen die geplanten oder diskutierten Systeme MARS 3 
-beziehungsweise EuroPULS, GMARS, Typhon, Tomahawk, SM‑6, hyper-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-sonische Systeme, Joint Fire Support Missile oder vergleichbare
+beziehungsweise EuroPULS, GMARS, Typhon, Tomahawk, SM‑6,
+hypersonische Systeme, Joint Fire Support Missile oder vergleichbare
 Effektoren in den Überlegungen der Bundesregierung zu einer deutschen Multi-
 Domain Task Force?
 15. Welche Reichweiten-, Präzisions-, Munitions- und Zielkategorien hält die 
@@ -97,18 +93,18 @@ Bundesregierung für erforderlich, damit eine deutsche Multi-Domain Task
 Force einen glaubwürdigen Beitrag zur Abschreckung und Verteidigung 
 an der NATO-Ostflanke leisten kann?
 16. Welche Schlussfolgerungen zieht die Bundesregierung aus den
-Fähigkeiten moderner Streitkräfte im Bereich weitreichendes Feuer,
-Drohnenkriegführung, elektronische Kampfführung, GPS-Jamming und GPS-Spoofing, 
-Cyberoperationen, Luftverteidigung und tief gestaffelter Führung für den 
-Aufbau einer deutschen Multi-Domain Task Force?
+Fähigkeiten moderner Streitkräfte in den Bereichen weitreichendes Feuer,
+Drohnenkriegführung, elektronische Kampfführung, GPS-Jamming und GPS-
+Spoofing, Cyberoperationen, Luftverteidigung und tief gestaffelter
+Führung für den Aufbau einer deutschen Multi-Domain Task Force?
 17. Welche Fähigkeiten zur eigenen Resilienz gegen elektronische
 Kampfführung, GPS-Störung, Cyberangriffe, Drohnenaufklärung, gegnerisches 
-Counter-Battery-Fire und gegnerische Luftangriffe sollen für eine
+Counter-Battery Fire und gegnerische Luftangriffe sollen für eine
 deutsche Multi-Domain Task Force vorgesehen werden?
 18. Welche Maßnahmen plant die Bundesregierung ggf., um die
 Verwundbarkeit von Werfern, Führungsstellen, Munitionslagern, Sensoren und
 Kommunikationsknoten einer Multi-Domain Task Force zu verringern?
-19. Welche Rolle sollen künstliche Intelligenz, automatisierte Datenfusion, 
+19. Welche Rolle sollen Künstliche Intelligenz, automatisierte Datenfusion, 
 automatisierte Zielpriorisierung, Entscheidungsunterstützung und 
 Mensch-Maschine-Teams in der Führungs- und Zielkette einer deutschen 
 Multi-Domain Task Force spielen?
@@ -129,10 +125,6 @@ nach Vorstellung der Bundesregierung in das organisatorische Gesamtbild
 der Bundeswehr einfügen?
 Berlin, den 17. Juni 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
