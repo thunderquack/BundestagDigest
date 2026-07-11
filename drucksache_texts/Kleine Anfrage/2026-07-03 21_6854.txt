@@ -6,26 +6,27 @@ Münzenmaier, Volker Scheurell, Otto Strauß, Bastian Treuheit, René Bochmann,
 Dr. Paul Schmidt und der Fraktion der AfD
 Sachstand der automatisierten Baucode-Prüfung und des Building Information 
 Modeling-basierten Bauantrags in Deutschland
-Die Digitalisierung des Bauwesens hat mit dem „Einer-für-Alle"-Dienst (EfA) 
-des Digitalen Bauantrags eine erste Stufe erreicht. Die nächste logische Stufe 
+Die Digitalisierung des Bauwesens hat mit dem „Einer-für-Alle“-Dienst (EfA) 
+des digitalen Bauantrags eine erste Stufe erreicht. Die nächste logische Stufe 
 wäre eine automatisierte, regelbasierte Prüfung der Einhaltung von
 Bauvorschriften direkt aus einem dreidimensionalen Gebäudedatenmodell (Building 
-Information Modeling, BIM) – international als Automated Code Compliance 
+Information Modeling [BIM]) – international als Automated Code Compliance 
 Checking (ACCC) bezeichnet.
 In den Vereinigten Staaten von Amerika hat das Department of Housing and 
 Urban Development (HUD) hierzu mit der „Automated Permitting Systems 
-Demonstration, NOFO" ein Demonstrationsprogramm aufgelegt, das den
+Demonstration, NOFO“ ein Demonstrationsprogramm aufgelegt, das den
 Echtbetrieb einer automatisierten Genehmigungsplattform in einer realen
 Genehmigungsumgebung testet. Ferner sollen empirische Erkenntnisse zu
 Bearbeitungszeit, Workflow-Effizienz, Personalrollen, Kosten, Governance-Anforderungen 
-und Einsparpotenzialen gewinnen werden (www.huduser.gov/portal/ota/fundin
+und Einsparpotenzialen gewonnen werden (www.huduser.gov/portal/ota/fundin
 g-opportunities.html).
-In Deutschland bestehen mit Vorhaben wie dem „BIM-basierten Bauantrag", 
-„MBO2BIM" des Deutschen Instituts für Bautechnik (DIBt), Projekten der 
-Forschungsinitiative „Zukunft Bau" des BBSR sowie dem EU-Horizon-Projekt 
-„ACCORD" (Demonstrator Berlin-Tegel) vergleichbare Forschungsansätze.
-Die Bundesregierung hatte 2023 eingeräumt, dass kein System aus einem BIM-
-Modell einen BIM-basierten Bauantrag generieren kann
+In Deutschland bestehen mit Vorhaben wie dem „BIM-basierten Bauantrag“, 
+„MBO2BIM“ des Deutschen Instituts für Bautechnik (DIBt), Projekten der 
+Forschungsinitiative „Zukunft Bau“ des Bundesinstituts für Bau-, Stadt- und 
+Raumforschung (BBSR) sowie dem EU-Horizon-Projekt „ACCORD“
+(Demonstrator Berlin-Tegel) vergleichbare Forschungsansätze.
+Die damalige Bundesregierung hatte 2023 eingeräumt, dass kein System aus 
+einem BIM-Modell einen BIM-basierten Bauantrag generieren kann
 (Bundestagsdrucksache 20/7809).
 Wir fragen die Bundesregierung:
  1. Welche vom Bund geförderten Forschungs- und Entwicklungsvorhaben 
@@ -33,34 +34,33 @@ zur automatisierten bzw. regelbasierten Prüfung der Einhaltung von
 Bauvorschriften (ACCC) bestehen derzeit oder sind seit 2020 abgeschlossen, 
 und mit welchem jeweiligen Fördervolumen (bitte je Vorhaben Titel, 
 Träger, Laufzeit und Fördersumme angeben)?
- 2. Welche Ergebnisse liegen aus dem Vorhaben „MBO2BIM" des DIBt
+ 2. Welche Ergebnisse liegen aus dem Vorhaben „MBO2BIM“ des DIBt
 sowie aus den einschlägigen Vorhaben der Forschungsinitiative „Zukunft 
-Bau" des BBSR zur maschinenlesbaren Abbildung
+Bau“ des BBSR zur maschinenlesbaren Abbildung
 bauordnungsrechtlicher Vorschriften vor?
  3. Welche Kenntnisse hat die Bundesregierung über das EU-Horizon-Projekt 
-„ACCORD" und dessen deutschen Demonstrator (u. a. Tegel Projekt 
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-GmbH, XLeitstelle Hamburg, Fraunhofer IBP), und welche übertragbaren 
-Erkenntnisse zieht sie daraus?
+„ACCORD“ und dessen deutschen Demonstrator (u. a. Tegel Projekt 
+GmbH, XLeitstelle Hamburg, Fraunhofer-Institut für Bauphysik [
+Fraunhofer IBP]), und welche übertragbaren Erkenntnisse zieht sie daraus?
  4. Plant die Bundesregierung ein eigenes Demonstrations- oder Reallabor-
 Vorhaben zur Erprobung automatisierter Baugenehmigungsverfahren im 
-Echtbetrieb (vergleichbar der HUD-NOFO), und falls nein, warum nicht?
+Echtbetrieb (vergleichbar der HUD-NOFO), und wenn nein, warum nicht?
  5. Wie bewertet die Bundesregierung den aktuellen Reifegrad verfügbarer 
 Prüfsoftware für ein vollständig modellbasiertes
 Baugenehmigungsverfahren, und welche Funktionslücken bestehen aus ihrer Sicht?
  6. Inwieweit ist die Erzeugung und automatisierte Prüfung eines BIM-
-basierten Bauantrags seit der Auskunft in Bundestagsdrucksache 20/7809 
-fortgeschritten, und welcher Stand wurde im dort genannten Teilprojekt 
-erreicht?
+basierten Bauantrags seit der Auskunft auf Bundestagsdrucksache 
+20/7809 fortgeschritten, und welcher Stand wurde im dort genannten
+Teilprojekt erreicht?
  7. Welche offenen Standards (insbesondere XBau, XPlanung, IFC/
 ISO 16739) legt die Bundesregierung der automatisierten Prüfung
 zugrunde, und wie stellt sie Herstellerneutralität und die Vermeidung von
 Anbietermonopolen sicher?
  8. Auf welcher Rechtsgrundlage könnten automatisierte Prüfergebnisse im 
 Baugenehmigungsverfahren verbindlich werden, und wie verhält sich dies 
-zum Verbot des vollständig automatisierten Verwaltungsakts (§ 35a 
-VwVfG) sowie zu Artikel 22 der Datenschutz-Grundverordnung?
+zum Verbot des vollständig automatisierten Verwaltungsakts (§ 35a des 
+Verwaltungsverfahrensgesetzes [VwVfG]) sowie zu Artikel 22 der 
+Datenschutz-Grundverordnung?
  9. Wie sollen Verantwortlichkeit und Haftung bei fehlerhaften
 automatisierten Prüfungen verteilt werden (Behörde, Softwarehersteller,
 Entwurfsverfasser)?
@@ -69,9 +69,9 @@ einheitlichen automatisierten Prüfsystems zum landesrechtlichen
 Bauordnungsrecht und zum kommunalen Selbstverwaltungsrecht nach Artikel 28 
 Absatz 2 des Grundgesetzes?
 11. Welche Erkenntnisse aus bundesgeförderten Vorhaben oder Pilotprojekten 
-(etwa BIM Deutschland, Zukunft Bau) liegen der Bundesregierung zu den 
-Auswirkungen automatisierter Prüfung auf Bearbeitungszeiten,
-Verfahrenseffizienz und Personalbedarf vor, und plant sie eine Erhebung im
+(etwa BIM Deutschland, „Zukunft Bau“) liegen der Bundesregierung zu 
+den Auswirkungen automatisierter Prüfung auf Bearbeitungszeiten,
+Verfahrenseffizienz und Personalbedarf vor, und plant sie eine Erhebung im 
 Rahmen ihrer Zuständigkeit?
 12. Welche Kosten und welche möglichen Einsparungen erwartet die
 Bundesregierung, und beabsichtigt sie – anders als beim digitalen Bauantrag – 
@@ -85,5 +85,3 @@ Dr. Alice Weidel, Tino Chrupalla und Fraktion
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
