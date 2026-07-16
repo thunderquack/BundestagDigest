@@ -1,0 +1,200 @@
+Deutscher Bundestag Drucksache 21/7079
+21. Wahlperiode 08.07.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Jan Köstering, Clara Bünger, 
+Anne‑Mieke Bremer, weiterer Abgeordneter und der Fraktion Die Linke
+– Drucksache 21/6752 –
+Softwareankauf durch das Bundesamt für Verfassungsschutz
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die nach Medienberichten erfolgte Entscheidung des Bundesamtes für
+Verfassungsschutz (BfV), die Analysesoftware „ArgonOS“ des französischen
+Unternehmens ChapsVision zu beschaffen, wirft aus Sicht der Fragestellenden 
+grundlegende Fragen hinsichtlich Datenschutz, informationeller
+Selbstbestimmung, demokratischer Kontrolle sowie der fortschreitenden Aufrüstung von 
+Polizei und Geheimdiensten auf. Nach Medienberichten verzichtete das BfV 
+dabei auf eine Zusammenarbeit mit dem US-Unternehmen Palantir
+Technologies, dessen Software seit Jahren wegen erheblicher Grundrechtsbedenken in 
+der Kritik steht. (Vgl.: www.tagesschau.de/investigativ/ndr-wdr/verfassungssc
+hutz-palantir-100.html, https://taz.de/Deutscher-Geheimdienst-setzt-zur-Terror
+abwehr-auf-eine-Palantir-Alternative-aus-Frankreich/!6178800/)
+Die Debatte um den Einsatz von Palantir-Produkten zeigt exemplarisch die 
+Gefahren zunehmend intransparenter Datenanalyseplattformen im
+Sicherheitsbereich. Bürgerrechtsorganisationen, Datenschutzbeauftragte sowie
+Wissenschaftlerinnen und Wissenschaftler kritisieren seit Jahren die Möglichkeit
+umfassender Datenzusammenführungen, automatisierter Verdachtsgenerierung 
+und algorithmischer Profilbildung. Insbesondere der Einsatz solcher Systeme 
+im polizeilichen und nachrichtendienstlichen Kontext birgt nach Auffassung 
+der Fragestellenden erhebliche Risiken für Grundrechte und den
+demokratischen Rechtsstaat. Schon die automatisierte Datenverarbeitung an sich, selbst 
+mit ohnehin bei den Polizeibehörden gespeicherten Daten, ist ein Eingriff in 
+die informationelle Selbstbestimmung, wie das Bundesverfassungsgericht 
+klargestellt hat (1 BvR 1547/19 und 1 BvR 2634/20 – v. 16. Februar 2023). 
+Hinzu kommen Fragen nach der Nachvollziehbarkeit algorithmischer
+Prozesse, möglichen Diskriminierungseffekten sowie der Kontrolle hochkomplexer 
+Software durch Parlamente und Öffentlichkeit (vgl. https://freiheitsrechte.org/t
+hemen/freiheit-im-digitalen-zeitalter/palantir-bayern).
+Dass sich das BfV nun offenbar für eine europäische statt US-amerikanische 
+Lösung entschieden hat, löst diese grundsätzlichen Probleme nicht. Auch bei 
+ArgonOS stellt sich die Frage, welche Datenbestände verarbeitet werden
+sollen, welche Analyse- und Verknüpfungsmöglichkeiten bestehen, in welchem 
+Umfang automatisierte Auswertungssysteme, insbesondere selbstlernende 
+Systeme, eingesetzt werden und wie Grundrechte wirksam geschützt werden 
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums der Innern vom 7. Juli 2026 
+übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+sollen. Darüber hinaus besteht ein erhebliches öffentliches Interesse daran zu 
+erfahren, welche finanziellen Mittel für die Beschaffung aufgewendet werden, 
+welche Unternehmen beteiligt und welche parlamentarischen
+Kontrollmechanismen vorgesehen sind.
+Die Fragestellenden sehen die zunehmende Zentralisierung und Vernetzung 
+personenbezogener Datenbestände in Sicherheitsbehörden mit großer Sorge. 
+Der Ausbau digitaler Überwachungs- und Analysekapazitäten darf nicht zu 
+einer schleichenden Aushöhlung von Datenschutz, informationeller
+Selbstbestimmung und rechtsstaatlichen Prinzipien führen. Dies droht insbesondere bei 
+automatisierten und insbesondere selbstlernenden Analysewerkzeugen, bei 
+denen der Rechenweg zum Ergebnis der Analyse für die Nutzer/innen nicht 
+nachvollziehbar ist („black box“).
+1. Kann die Bundesregierung die Entscheidung des BfV für die Beschaffung 
+der Analysesoftware „ArgonOS“ des französischen Unternehmens Chaps-
+Vision bestätigen, und wenn ja,
+a) welche Arten und Formate von Daten bzw. Datenobjekten können von 
+ArgonOS verarbeitet werden, und wie werden die Ergebnisse
+ausgegeben,
+b) werden die Ergebnisse in einer Weise ausgegeben, dass der Weg zu 
+den gefundenen Ergebnissen nachvollziehbar und reproduzierbar ist,
+c) auf welcher rechtlichen Grundlage soll die Verarbeitung von Daten im 
+BfV durchgeführt werden,
+d) auf welche Datenquellen wird ArgonOS im BfV zugreifen können,
+e) mit welchen anderen Analyseprogrammen oder Analyseplattformen ist 
+ArgonOS verknüpft oder verknüpfbar,
+f) für welche Aufgaben nutzt die Software künstliche Intelligenz (KI),
+g) auf welche Weise ergänzt oder übernimmt künstliche Intelligenz
+Aufgaben im Rahmen der erworbenen Software,
+h) nutzt ArgonOS generative KI, und wenn ja, mit welchen Daten wird 
+oder wurde diese für die Nutzung durch deutsche Behörden trainiert,
+i) in welcher technischen Umgebung soll ArgonOS betrieben werden,
+j) werden die Daten und Auswertungsergebnisse im Zuge der
+Anwendung von ArgonOS ausschließlich auf Servern des BfV gespeichert, 
+und wenn nein, auf welchen Servern welcher Behörden oder
+Unternehmen werden sonst Daten gespeichert,
+k) auf welche Weise, von wo und durch wen erfolgt die Wartung und
+Aktualisierung der Software,
+l) kam der Kaufvertrag direkt mit ChapsVision zustande oder mit rola 
+Security Solutions oder sowohl als auch,
+m) welche finanziellen Mittel wurden für den Kauf insgesamt
+aufgewendet,
+n) stehen sämtliche Funktionen von ArgonOS im Einklang mit den in 
+Deutschland derzeit geltenden Gesetzen,
+o) stehen sämtliche Funktionen von ArgonOS im Einklang mit den in 
+Deutschland derzeit geltenden Datenschutzbestimmungen, und wer 
+war an der Prüfung der datenschutzrechtlichen Compliance beteiligt,
+p) waren mit der Bedienung der Software im Rahmen der Testphase auch 
+Personen betraut, die keine Mitarbeitenden des BfV sind, und wenn ja, 
+welche Personen, und in welchem Umfang,
+q) werden im Regelbetrieb der Software auch Personen in die Bedienung 
+eingebunden werden, die keine Mitarbeitenden des BfV sind, und 
+wenn ja, welche Personen, und in welchem Umfang,
+r) gab es ein Ausschreibungsverfahren, und was war der ausgeschriebene 
+Leistungskatalog,
+s) hat das BfV in der Vergangenheit schon Produkte der Firma Chaps
+Vision gekauft,
+t) hat das BfV eine Vollversion gekauft oder eine Testversion,
+u) wann hat das BfV die Software gekauft, wann begann die Testphase, 
+in welchem Rahmen wurde getestet, und in welchem Rahmen wird die 
+Software bereits seit wann genutzt?
+Das Bundesverfassungsschutzgesetz (BVerfSchG) regelt in allgemeiner Form 
+und somit technologieneutral die Verarbeitung personenbezogener Daten in
+Dateien.
+Soweit die Einhaltung der entsprechenden Vorschriften der §§ 10, 11 und 12 
+BVerfSchG durch ein Dateiverfahren gewährleistet ist, besteht gegen dessen 
+Einsatz zur Verarbeitung personenbezogener Daten kein datenschutzrechtlicher 
+Hinderungsgrund.
+Darüber hinaus ist die Bundesregierung nach sorgfältiger Abwägung zu der 
+Auffassung gelangt, dass die Fragen nicht – auch nicht in eingestufter Form – 
+beantwortet werden können. Die Fragen betreffen solche Informationen, die in 
+besonderem Maße das Staatswohl berühren. Das verfassungsrechtlich verbürgte 
+Frage- und Informationsrecht des Deutschen Bundestages gegenüber der
+Bundesregierung wird wiederum durch verfassungsrechtlich geschützte Interessen 
+sowie das Staatswohl begrenzt. Eine Bekanntgabe von Einzelheiten zu der im 
+Rahmen der erfragten Maßnahme genutzten Software würde weitgehende 
+Rückschlüsse auf die technischen Fähigkeiten und unmittelbar auf die
+technische Ausstattung sowie das Aufklärungspotenzial des BfV zulassen. Dadurch 
+könnten die Fähigkeiten des BfV, nachrichtendienstliche Erkenntnisse im Wege 
+der technischen Aufklärung zu gewinnen, in erheblicher Weise negativ
+beeinflusst werden. Die Gewinnung von Informationen durch technische Aufklärung 
+ist für die Sicherheit der Bundesrepublik Deutschland und für die
+Aufgabenerfüllung des BfV jedoch unerlässlich. Die Aufklärung nationaler und
+internationaler extremistischer Bestrebungen gegen die freiheitlich demokratische 
+Grundordnung und die Aufklärung des Personenpotenzials, das diesen
+Bestrebungen zugrunde liegt, sind in erheblichem Maße auf den Einsatz technischer 
+Mittel angewiesen. Sofern solche Informationen entfallen oder wesentlich
+zurückgehen, würden der Bundesrepublik Deutschland empfindliche
+Informations- und damit Sicherheitslücken drohen. Die konkrete Nennung von Firmen 
+und Produkten würde weitgehende Rückschlüsse auf die Arbeitsweise des BfV 
+ermöglichen. Dies würde einen erheblichen Nachteil für die Interessen der 
+Bundesrepublik Deutschland bedeuten und gleichwohl eine Angriffsfläche für 
+ausländische Dienste bieten.
+Insofern birgt eine Offenlegung der angefragten Informationen die Gefahr, dass 
+Einzelheiten zur konkreten Methodik und zu aus den vorgenannten Gründen im 
+hohen Maße schutzwürdigen spezifischen Fähigkeiten des BfV bekannt
+würden. Dies würde folgenschwere Einschränkungen der Informationsgewinnung 
+bedeuten, womit letztlich der gesetzliche Auftrag des BfV aus § 3 Absatz 1 
+BVerfSchG nicht mehr sachgerecht erfüllt werden könnte.
+Eine Einstufung als Verschlusssache (VS) und Hinterlegung der angefragten
+Informationen in der Geheimschutzstelle des Deutschen Bundestages kommt
+angesichts ihrer Relevanz und Sensibilität im Hinblick auf die Bedeutung der 
+nachrichtendienstlichen Aufklärung für die Aufgabenerfüllung des BfV nicht in
+Betracht. Das Risiko, dass derart sensible Informationen bekannt werden, kann 
+unter keinen Umständen hingenommen werden. Eine Bekanntgabe der
+erfragten Informationen auch gegenüber einem begrenzten Kreis von Empfängern 
+würde dem Schutzbedürfnis deshalb nicht Rechnung tragen.
+2. Prüft das Bundesministerium des Innern weiterhin den Kauf von
+Produkten zur automatisierten Datenanalyse der Firma Palantir oder weiterer
+Anbieter, und wenn ja, welcher?
+Im Bund-Länder-Programm P20 wurde zu Beginn des Jahres der Aufbau von 
+Fähigkeiten zur Auswertung und Analyse im Rahmen eines modularen und 
+hybriden Ansatzes beschlossen. Die benötigten Fähigkeiten sollen nunmehr 
+über eine Kombination einzelner Module bereitgestellt werden, die neben
+Bestandsprodukten und Eigenentwicklungen auch marktverfügbare Kaufprodukte 
+umfassen kann. Die weitere Ausgestaltung befindet sich im fachlichen
+Prüfprozess. Abschließende Produktbewertungen, die für eine Beschaffung notwendig 
+wären, liegen derzeit nicht vor.
+3. Prüfen andere Bundesministerien den Kauf von Produkten der Firma
+Palantir oder anderer Anbieter von automatisierten
+Datenanalysewerkzeugen?
+Für andere Bundesministerien ist eine Beschaffung von Produkten der Firma 
+Palantir derzeit nicht beabsichtigt. Beschaffungsbedarfe im Bereich
+automatisierter Datenanalysewerkzeuge würden grundsätzlich im Rahmen der jeweils 
+geltenden vergabe-, haushalts-, sicherheits- und datenschutzrechtlichen
+Vorgaben geprüft.
+4. Schließt die Bundesregierung zukünftige Käufe von Produkten der Firma 
+Palantir aus?
+Die Bundesregierung verfolgt grundsätzlich das Ziel, dass auch im
+Sicherheitsbereich effiziente Technologien genutzt werden. Zugleich ist die digitale
+Souveränität Deutschlands und Europas entschieden zu gewährleisten, indem
+Datenhoheit und Transparenz bei jeder IT-Lösung sichergestellt sind. Die
+Bundesregierung spricht sich daher nicht für oder gegen eine bestimmte Software aus, 
+sondern trifft in jedem Einzelfall die Entscheidung nach den dargetanen
+Kriterien. Der Einsatz jeder Technologie erfolgt nach den geltenden Sicherheits-, 
+Vergabe- und Datenschutzvorgaben.
+5. Halten Mitglieder der Bundesregierung Aktien der Firma Palantir, wenn 
+ja, in welchem Umfang?
+Anzeige- und Genehmigungspflichten für Bundesministerinnen und
+Bundesminister sind abschließend im Bundesministergesetz (BMinG) geregelt.
+Vermögenswerte müssen Mitglieder der Bundesregierung danach nicht anzeigen. Der 
+Bundesregierung liegen folglich keine zentralen Erhebungen im Sinne der
+Fragestellung vor.
+6. Hatte der heutige Bundeskanzler Friedrich Merz im Jahr 2019 in seiner 
+Funktion als Aufsichtsratsvorsitzender beim Vermögensverwalter Black-
+Rock Asset Management Deutschland im Zuge der Übernahme des
+Unternehmens eFront für 1,3 Milliarden Dollar Kontakt mit Olivier Dellenbach, 
+Gründer von eFront und heute CEO der Firma ChapsVision (vgl.: https://c
+orporate.coheris.com/en/company/board-of-directors/)?
+Die Frage bezieht sich ausschließlich auf eine frühere Funktion des heutigen 
+Bundeskanzlers und betrifft nicht die Tätigkeit der aktuellen Bundesregierung. 
+Die Frage unterliegt damit nicht der parlamentarischen Kontrolle, so dass sich 
+die Bundesregierung einer Stellungnahme enthält.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
