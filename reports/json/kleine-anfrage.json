@@ -12280,9 +12280,9 @@
     "author": "die Grünen",
     "date": "2026-07-14",
     "title": "Неисполненные ордера на арест",
-    "description_ru": "Депутаты фракции \"Зеленых\" задают вопросы о количестве неисполненных ордеров на арест в Германии и их динамике по сравнению с предыдущим годом. Они подчеркивают, что неисполненные ордера представляют собой серьезную угрозу безопасности, особенно в случае лиц, осужденных за насильственные преступления или политически мотивированные преступления. Правительство отвечает, что на 1 июля 2026 года в стране было 170 667 открытых национальных ордеров на арест, и предоставляет данные о распределении ордеров по федеральным землям и категориям преступлений.",
-    "description_de": "Die Abgeordneten der Fraktion \"BÜNDNIS 90/DIE GRÜNEN\" stellen Fragen zur Anzahl der nicht vollstreckten Haftbefehle in Deutschland und deren Entwicklung im Vergleich zum Vorjahr. Sie betonen, dass nicht vollstreckte Haftbefehle ein ernstzunehmendes Sicherheitsrisiko darstellen, insbesondere bei Personen, die wegen Gewalttaten oder politisch motivierter Straftaten verurteilt wurden. Die Bundesregierung antwortet, dass zum Stichtag 1. Juli 2026 in Deutschland 170.667 offene nationale Haftbefehle existieren und liefert Daten zur Verteilung der Haftbefehle nach Bundesländern und Straftatskategorien.",
-    "saved_date": "2026-07-22"
+    "description_ru": "Депутаты фракции \"Зеленых\" задают вопросы о количестве неисполненных ордеров на арест в Германии и их динамике по сравнению с предыдущим годом. Они подчеркивают, что неисполненные ордера представляют собой серьезную угрозу безопасности, особенно в случае лиц, осужденных за насильственные преступления или политически мотивированные преступления. Правительство отвечает, что на 1 июля 2026 года в стране было 170 667 открытых ордеров на арест, и предоставляет данные по различным категориям и регионам.",
+    "description_de": "Die Abgeordneten der Fraktion \"BÜNDNIS 90/DIE GRÜNEN\" stellen Fragen zur Anzahl der nicht vollstreckten Haftbefehle in Deutschland und deren Entwicklung im Vergleich zum Vorjahr. Sie betonen, dass nicht vollstreckte Haftbefehle ein ernsthaftes Sicherheitsrisiko darstellen, insbesondere bei Personen, die wegen Gewaltdelikten oder politisch motivierter Straftaten verurteilt wurden. Die Bundesregierung antwortet, dass zum Stichtag 1. Juli 2026 in Deutschland 170.667 offene Haftbefehle vorliegen und stellt Daten zu verschiedenen Kategorien und Regionen zur Verfügung.",
+    "saved_date": "2026-07-24"
   },
   "21/7157": {
     "number": "21/7157",
@@ -12445,5 +12445,104 @@
     "description_ru": "Депутаты интересуются развитием праворадикальных молодежных групп и их влиянием на общество, особенно среди молодежи. Они задают вопросы о радикализации, насилии и возможных переходах в террористические структуры. Правительство подтверждает, что наблюдается рост насильственных праворадикальных групп, которые активно действуют как в интернете, так и в реальной жизни. Эти группы используют социальные сети для привлечения новых членов, что создает угрозу для различных социальных групп, включая ЛГБТКИА+ и мигрантов.",
     "description_de": "Die Abgeordneten fragen nach der Entwicklung von rechtsextremen Jugendgruppen und deren Einfluss auf die Gesellschaft, insbesondere unter Jugendlichen. Sie stellen Fragen zur Radikalisierung, Gewalt und möglichen Übergängen in terroristische Strukturen. Die Bundesregierung bestätigt, dass ein Anstieg gewalttätiger rechtsextremer Gruppen beobachtet wird, die sowohl online als auch offline aktiv sind. Diese Gruppen nutzen soziale Medien, um neue Mitglieder zu rekrutieren, was eine Bedrohung für verschiedene soziale Gruppen, einschließlich der LGBTQIA+-Community und Migranten, darstellt.",
     "saved_date": "2026-07-23"
+  },
+  "21/7197": {
+    "number": "21/7197",
+    "author": "die Linke",
+    "date": "2026-07-16",
+    "title": "Бригада „Литва“ и бывший партизанский лагерь в лесу Руднинкай",
+    "description_ru": "Депутаты задают вопросы о статусе и защите бывшего еврейского партизанского лагеря в лесу Руднинкай, а также о действиях правительства по этому вопросу. Правительство отвечает, что оно поддерживает сохранение лагеря как исторического места, но литовские власти не признают его защитный статус. В ответах также упоминается, что правительство Германии активно взаимодействует с литовскими министерствами по этому вопросу и подчеркивает важность сохранения исторической памяти.",
+    "description_de": "Die Abgeordneten stellen Fragen zum Status und Schutz des ehemaligen jüdischen Partisanenlagers im Wald von Rūdninkai sowie zu den Maßnahmen der Bundesregierung in dieser Angelegenheit. Die Bundesregierung antwortet, dass sie den Erhalt des Lagers als historischer Ort unterstützt, jedoch die litauischen Behörden dessen Schutzwürdigkeit nicht anerkennen. In den Antworten wird auch erwähnt, dass die Bundesregierung aktiv mit litauischen Ministerien zu diesem Thema in Kontakt steht und die Bedeutung der historischen Erinnerung betont.",
+    "saved_date": "2026-07-24"
+  },
+  "21/7198": {
+    "number": "21/7198",
+    "author": "AfD",
+    "date": "2026-07-16",
+    "title": "Состояние автоматизированной проверки строительных норм",
+    "description_ru": "Депутаты задают вопросы о текущем состоянии автоматизированной проверки соблюдения строительных норм и о проектах, связанных с цифровизацией строительного процесса в Германии. Правительство отвечает, что в стране существуют различные инициативы и проекты, направленные на развитие автоматизированных систем, такие как 'BIM-базированный строительный запрос'. Также упоминается, что правительство не планирует собственные демонстрационные проекты, аналогичные американским, но поддерживает развитие существующих инициатив.",
+    "description_de": "Die Abgeordneten fragen nach dem aktuellen Stand der automatisierten Prüfung der Einhaltung von Bauvorschriften und den Projekten, die mit der Digitalisierung des Bauprozesses in Deutschland verbunden sind. Die Bundesregierung antwortet, dass es im Land verschiedene Initiativen und Projekte gibt, die auf die Entwicklung automatisierter Systeme abzielen, wie den 'BIM-basierten Bauantrag'. Es wird auch erwähnt, dass die Bundesregierung derzeit keine eigenen Demonstrationsprojekte plant, die mit den amerikanischen vergleichbar sind, aber die Entwicklung bestehender Initiativen unterstützt.",
+    "saved_date": "2026-07-24"
+  },
+  "21/7199": {
+    "number": "21/7199",
+    "author": "die Linke",
+    "date": "2026-07-16",
+    "title": "Водородный проект «Hyphen» в Намибии и колониальная ответственность Германии",
+    "description_ru": "Депутаты интересуются, какую роль играют немецкие компании и государственные органы в проекте по производству водорода в Намибии, а также соблюдаются ли права коренных народов, таких как Нама. Правительство отвечает, что соблюдение правовых норм является обязанностью участвующих компаний, и оно не знает о правонарушениях. Также подчеркивается важность экологических и социальных стандартов, которые должны соблюдаться в рамках проекта.",
+    "description_de": "Die Abgeordneten fragen, welche Rolle deutsche Unternehmen und staatliche Stellen im Zusammenhang mit dem Wasserstoffprojekt in Namibia spielen und ob die Rechte der indigenen Nama ausreichend beachtet werden. Die Bundesregierung antwortet, dass die rechtliche Umsetzung des Projekts Aufgabe der beteiligten Unternehmen ist und keine Rechtsverstöße bekannt sind. Zudem wird die Bedeutung von ökologischen und sozialen Standards betont, die im Rahmen des Projekts eingehalten werden müssen.",
+    "saved_date": "2026-07-24"
+  },
+  "21/7201": {
+    "number": "21/7201",
+    "author": "AfD",
+    "date": "2026-07-16",
+    "title": "Беurlaubung Beamten des Auswärtigen Amts",
+    "description_ru": "Депутаты задают вопросы о возможных конфликтах интересов и практике назначения сотрудников Министерства иностранных дел на работу в частные компании, такие как Capgemini SE. Они интересуются, был ли Хинрих Тёлькен, упомянутый в ответе правительства, действительно уволен для работы в Capgemini и как это повлияло на его предыдущую работу в министерстве. Правительство подтверждает, что Тёлькен был уволен, но не имеет информации о том, как был установлен контакт между ним и Capgemini. Также правительство сообщает о развитии контрактов между Capgemini и Министерством иностранных дел с 2016 года.",
+    "description_de": "Die Abgeordneten stellen Fragen zu möglichen Interessenkonflikten und der Praxis der Entsendung von Mitarbeitern des Auswärtigen Amts in private Unternehmen wie Capgemini SE. Sie erkundigen sich, ob Hinrich Thölken, der in der Antwort der Bundesregierung erwähnt wird, tatsächlich für die Arbeit bei Capgemini beurlaubt wurde und wie sich dies auf seine frühere Tätigkeit im Ministerium ausgewirkt hat. Die Bundesregierung bestätigt, dass Thölken beurlaubt wurde, hat jedoch keine Informationen darüber, wie der Kontakt zwischen ihm und Capgemini hergestellt wurde. Außerdem informiert die Bundesregierung über die Entwicklung der Verträge zwischen Capgemini und dem Auswärtigen Amt seit 2016.",
+    "saved_date": "2026-07-24"
+  },
+  "21/7202": {
+    "number": "21/7202",
+    "author": "AfD",
+    "date": "2026-07-16",
+    "title": "Государственные средства для церквей и религиозных учреждений",
+    "description_ru": "Депутаты задают вопросы о размере и распределении бюджетных средств, выделяемых на поддержку церквей и религиозных организаций в период с 2020 по 2025 годы. Они требуют подробной информации о суммах, выделенных на каждое отдельное учреждение, а также о правовых основаниях для этих выплат. Правительство отвечает, что запрашиваемая информация не может быть предоставлена из-за значительных трудозатрат, связанных с её сбором и обработкой. Оно указывает, что не существует единой системы учета и что многие данные доступны только в разрозненном виде.",
+    "description_de": "Die Abgeordneten stellen Fragen zur Höhe und Verteilung der Haushaltsmittel, die in den Jahren 2020 bis 2025 zur Unterstützung von Kirchen und religiösen Organisationen bereitgestellt werden. Sie verlangen detaillierte Informationen über die Beträge, die an jede einzelne Einrichtung gezahlt wurden, sowie über die rechtlichen Grundlagen für diese Zahlungen. Die Bundesregierung antwortet, dass die angeforderten Informationen aufgrund des erheblichen Aufwands, der mit ihrer Erhebung und Verarbeitung verbunden ist, nicht bereitgestellt werden können. Sie weist darauf hin, dass es kein einheitliches System zur Erfassung gibt und dass viele Daten nur in fragmentierter Form verfügbar sind.",
+    "saved_date": "2026-07-24"
+  },
+  "21/7203": {
+    "number": "21/7203",
+    "author": "AfD",
+    "date": "2026-07-16",
+    "title": "Риски для предотвращения отмывания денег и прозрачности",
+    "description_ru": "Депутаты задают вопросы о возможных рисках, связанных с новой европейской корпоративной формой \"EU Inc.\", которая может повлиять на предотвращение отмывания денег и прозрачность. Они выражают опасения, что упрощение процесса регистрации компаний может привести к злоупотреблениям и недостаточной проверке идентичности учредителей. Правительство отвечает, что оно поддерживает инициативу, но подчеркивает необходимость тщательной проверки и соблюдения существующих стандартов контроля, чтобы избежать рисков, связанных с отмыванием денег и финансированием терроризма.",
+    "description_de": "Die Abgeordneten stellen Fragen zu den möglichen Risiken, die mit der neuen europäischen Unternehmensform \"EU Inc.\" verbunden sind, die sich auf die Geldwäscheprävention und Transparenz auswirken könnte. Sie äußern Bedenken, dass die Vereinfachung des Registrierungsprozesses zu Missbrauch und unzureichender Überprüfung der Identität der Gründer führen könnte. Die Bundesregierung antwortet, dass sie die Initiative unterstützt, jedoch die Notwendigkeit einer gründlichen Prüfung und die Einhaltung bestehender Kontrollstandards betont, um Risiken im Zusammenhang mit Geldwäsche und Terrorismusfinanzierung zu vermeiden.",
+    "saved_date": "2026-07-24"
+  },
+  "21/7205": {
+    "number": "21/7205",
+    "author": "AfD",
+    "date": "2026-07-16",
+    "title": "Уточнение по вопросам о финансировании профсоюзов",
+    "description_ru": "Депутаты задают вопросы о том, почему правительство не ответило на некоторые вопросы, касающиеся финансирования профсоюзов и их организаций. Они указывают на несоответствие в ответах правительства, где оно утверждает, что не может определить, является ли получатель финансирования профсоюзом или его объединением, хотя в других случаях правительство указывает на возможность идентификации профсоюзов. Также депутаты интересуются, может ли правительство дать дополнительные разъяснения по этим вопросам.",
+    "description_de": "Die Abgeordneten fragen, warum die Bundesregierung auf bestimmte Fragen zur Finanzierung von Gewerkschaften und deren Organisationen nicht geantwortet hat. Sie weisen auf Widersprüche in den Antworten der Bundesregierung hin, die behauptet, nicht feststellen zu können, ob ein Empfänger von Fördermitteln eine Gewerkschaft oder deren Dachorganisation ist, obwohl sie in anderen Fällen die Möglichkeit zur Identifizierung von Gewerkschaften angibt. Die Abgeordneten erkundigen sich auch, ob die Bundesregierung zusätzliche Klarstellungen zu diesen Fragen geben kann.",
+    "saved_date": "2026-07-24"
+  },
+  "21/7204": {
+    "number": "21/7204",
+    "author": "die Linke",
+    "date": "2026-07-17",
+    "title": "Альтернативные меры по борьбе с бедностью среди пожилых людей",
+    "description_ru": "Депутаты из фракции \"Die Linke\" задают вопросы о состоянии бедности среди пожилых людей в Германии и о мерах, которые правительство планирует предпринять для ее снижения. В частности, они интересуются статистикой по пенсионерам, уровню бедности и различиям между мужчинами и женщинами. Правительство отвечает, что количество людей, находящихся в бедности, остается высоким, и подчеркивает необходимость комплексного подхода к решению этой проблемы. В ответах также упоминаются существующие различия в доходах между мужчинами и женщинами, а также влияние частичной занятости на пенсионные выплаты.",
+    "description_de": "Die Abgeordneten der Fraktion \"Die Linke\" stellen Fragen zur Altersarmut in Deutschland und zu den Maßnahmen, die die Bundesregierung plant, um diese zu bekämpfen. Insbesondere interessieren sie sich für Statistiken zu Rentnern, Armutsquoten und Geschlechterunterschieden. Die Bundesregierung antwortet, dass die Zahl der von Armut betroffenen Personen hoch bleibt und betont die Notwendigkeit eines umfassenden Ansatzes zur Lösung dieses Problems. In den Antworten werden auch bestehende Einkommensunterschiede zwischen Männern und Frauen sowie die Auswirkungen von Teilzeitarbeit auf die Rentenzahlungen erwähnt.",
+    "saved_date": "2026-07-24"
+  },
+  "21/7209": {
+    "number": "21/7209",
+    "author": "die Grünen",
+    "date": "2026-07-17",
+    "title": "Генеральное разрешение на продление промежуточного хранения высокорадиоактивных отходов",
+    "description_ru": "Депутаты задают вопросы о процессе продления разрешений на промежуточное хранение высокорадиоактивных отходов, указывая на необходимость соблюдения всех норм и правил. Правительство отвечает, что для продления хранения необходимо пройти полное разрешительное производство, которое займет около восьми лет. Также подчеркивается, что безопасность хранения зависит от состояния контейнеров и их защиты от внешних угроз.",
+    "description_de": "Die Abgeordneten stellen Fragen zum Genehmigungsprozess für die Verlängerung der Zwischenlagerung hochradioaktiver Abfälle und betonen die Notwendigkeit, alle Vorschriften und Regeln einzuhalten. Die Bundesregierung antwortet, dass für die Verlängerung der Lagerung ein vollständiges Genehmigungsverfahren erforderlich ist, das etwa acht Jahre in Anspruch nehmen wird. Zudem wird hervorgehoben, dass die Sicherheit der Lagerung von dem Zustand der Behälter und ihrem Schutz vor externen Bedrohungen abhängt.",
+    "saved_date": "2026-07-24"
+  },
+  "21/7210": {
+    "number": "21/7210",
+    "author": "die Linke",
+    "date": "2026-07-17",
+    "title": "Немецкая внешняя политика в Боснии и Герцеговине",
+    "description_ru": "Депутаты интересуются позицией правительства Германии по вопросам внешней политики в Боснии и Герцеговине, включая участие в миссии EUFOR Althea и влияние на политическую ситуацию в стране. Правительство подчеркивает важность мирного соглашения в Дейтоне и его роль в поддержании стабильности, а также сообщает о своих усилиях по борьбе с коррупцией и поддержке демократических процессов в регионе. В ответах также упоминается о необходимости реформы конституции и о поддержке антикоррупционных мер на всех уровнях.",
+    "description_de": "Die Abgeordneten fragen nach der Position der Bundesregierung zur Außenpolitik in Bosnien und Herzegowina, einschließlich der Beteiligung an der EUFOR Althea-Mission und dem Einfluss auf die politische Situation im Land. Die Bundesregierung betont die Bedeutung des Dayton-Abkommens und dessen Rolle bei der Aufrechterhaltung der Stabilität und berichtet über ihre Bemühungen zur Bekämpfung von Korruption und zur Unterstützung demokratischer Prozesse in der Region. In den Antworten wird auch die Notwendigkeit von Verfassungsreformen und die Unterstützung von Antikorruptionsmaßnahmen auf allen Ebenen erwähnt.",
+    "saved_date": "2026-07-24"
+  },
+  "21/7212": {
+    "number": "21/7212",
+    "author": "die Linke",
+    "date": "2026-07-17",
+    "title": "Социальное жилье и его финансирование",
+    "description_ru": "Депутаты из фракции \"Die Linke\" задают вопросы о состоянии социального жилья в Германии, включая количество доступных квартир и финансирование. Они указывают на нехватку жилья и необходимость увеличения финансирования для социальных проектов. Правительство отвечает, что с 2022 года финансирование социального жилья увеличилось, и что оно стремится создать больше доступных квартир, однако указывает на сложности с реализацией проектов и недостаток информации о текущем состоянии.",
+    "description_de": "Die Abgeordneten der Fraktion \"Die Linke\" stellen Fragen zur Situation des sozialen Wohnungsbaus in Deutschland, einschließlich der Anzahl der verfügbaren Wohnungen und der Finanzierung. Sie weisen auf den Mangel an Wohnraum hin und betonen die Notwendigkeit, die Mittel für soziale Projekte zu erhöhen. Die Bundesregierung antwortet, dass die Bundesmittel für den sozialen Wohnungsbau seit 2022 gestiegen sind und dass sie bestrebt ist, mehr bezahlbaren Wohnraum zu schaffen, jedoch auf Schwierigkeiten bei der Umsetzung von Projekten und einen Mangel an Informationen über den aktuellen Stand hinweist.",
+    "saved_date": "2026-07-24"
   }
 }

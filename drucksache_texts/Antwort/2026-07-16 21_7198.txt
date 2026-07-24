@@ -1,0 +1,258 @@
+Deutscher Bundestag Drucksache 21/7198
+21. Wahlperiode 16.07.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Olaf Hilmer, Marc Bernhard, Carolin 
+Bachmann, weiterer Abgeordneter und der Fraktion der AfD 
+– Drucksache 21/6854 –
+Sachstand der automatisierten Baucode-Prüfung und des Building Information 
+Modeling-basierten Bauantrags in Deutschland
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Digitalisierung des Bauwesens hat mit dem „Einer-für-Alle“-Dienst (EfA) 
+des digitalen Bauantrags eine erste Stufe erreicht. Die nächste logische Stufe 
+wäre eine automatisierte, regelbasierte Prüfung der Einhaltung von
+Bauvorschriften direkt aus einem dreidimensionalen Gebäudedatenmodell (Building 
+Information Modeling [BIM]) – international als Automated Code
+Compliance Checking (ACCC) bezeichnet.
+In den Vereinigten Staaten von Amerika hat das Department of Housing and 
+Urban Development (HUD) hierzu mit der „Automated Permitting Systems 
+Demonstration, NOFO“ ein Demonstrationsprogramm aufgelegt, das den 
+Echtbetrieb einer automatisierten Genehmigungsplattform in einer realen
+Genehmigungsumgebung testet. Ferner sollen empirische Erkenntnisse zu
+Bearbeitungszeit, Workflow-Effizienz, Personalrollen, Kosten, Governance-
+Anforderungen und Einsparpotenzialen gewonnen werden (www.huduser.gov/porta
+l/ota/funding-opportunities.html).
+In Deutschland bestehen mit Vorhaben wie dem „BIM-basierten Bauantrag“, 
+„MBO2BIM“ des Deutschen Instituts für Bautechnik (DIBt), Projekten der 
+Forschungsinitiative „Zukunft Bau“ des Bundesinstituts für Bau-, Stadt- und 
+Raumforschung (BBSR) sowie dem EU-Horizon-Projekt „ACCORD“
+(Demonstrator Berlin-Tegel) vergleichbare Forschungsansätze.
+Die damalige Bundesregierung hatte 2023 eingeräumt, dass kein System aus 
+einem BIM-Modell einen BIM-basierten Bauantrag generieren kann
+(Bundestagsdrucksache 20/7809).
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+In der Bundesrepublik Deutschland ist die Zuständigkeit für die
+Baugesetzgebung auf verschiedene Ebenen verteilt. Während der Bund für das
+Baugesetzbuch und das Verwaltungsverfahrensgesetz des Bundes verantwortlich ist,
+obliegt nach dem Grundgesetz das Bauordnungsrecht und das
+Landesverwaltungsverfahrensgesetz den jeweiligen Bundesländern. Die Bundesländer stim-
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Wohnen, Stadtentwicklung und 
+Bauwesen vom 16. Juli 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+men ihre grundlegende Ausrichtung des Bauordnungsrechts untereinander ab. 
+Dazu wurde durch die Länder die Musterbauordnung (MBO) erarbeitet. Die 
+MBO ist für die Landesgesetzgeber nicht verbindlich und dient den jeweiligen 
+Ländern als konsentierter Orientierungsrahmen für die eigenständige
+gesetzgeberische Ausgestaltung der jeweiligen Landesbauordnungen. Dem Bund stehen 
+keine Aufsichts- oder Weisungsrechte zu. Building Information Modeling 
+(BIM) ist derzeit keine gesetzliche Verpflichtung, doch es gibt Initiativen, die 
+den Einsatz dieser fortschrittlichen Technologie unterstützen.
+Ein bedeutender Schritt zur Digitalisierung der Verwaltungsverfahren ist das 
+Onlinezugangsgesetz (OZG), das ein neues System des „Bund-Länder-
+Tandems“ mit der „Einer-für-alle“-Lösung (EfA-Lösung) eingeführt hat. In diesem 
+Rahmen hat das Bundesministerium für Wohnen, Stadtentwicklung und
+Bauwesen (BMWSB) gemeinsam mit dem Land Mecklenburg-Vorpommern (MV) 
+die Verantwortung für das Themenfeld „Bauen und Wohnen“ übernommen. Ein 
+zentrales Projekt in diesem Bereich ist die Entwicklung eines web-basierten 
+Vorgangsraums „Digitale Baugenehmigung“, der mit Mitteln des
+Konjunkturpakets des Bundes zur Verwaltungsdigitalisierung mit einer Laufzeit von 2020 
+bis 2023 finanziert wurde. Auf Basis des Reifegradmodells konnte mittels der 
+Abnahme von Meilensteinen so ein System für die digitale Einreichung von 
+Bauantragsunterlagen entwickelt und in nachnutzungsinteressierten Ländern 
+ausgerollt werden. Mit dem OZG-Änderungsgesetz (OZGÄndG) verschob sich 
+der Fokus bei der Verwaltungsdigitalisierung seit 2024 von der reinen
+Neuentwicklung und dem flächendeckenden Rollout hin zur flächendeckenden
+Verknüpfung der bestehenden Systeme und der Standardisierung von IT-
+Schnittstellen, damit EfA-Anträge ohne manuellen Aufwand direkt in den Systemen 
+beziehungsweise Fachverfahren der Sachbearbeitenden eingebunden werden 
+können.
+Zur Unterstützung der Verwaltungsdigitalisierung wurde auf Beschluss des IT-
+Planungsrats 2017 die verbindliche Anwendung der Standards XBau und 
+XPlanung als Austauschstandards im Bau- und Planungsbereich sowie die
+Einrichtung einer Stelle zur Pflege- und Weiterentwicklung der Standards
+vereinbart. Der XBau Standard ist ein föderaler Standard für das
+Baugenehmigungsverfahren, der einheitliche technische Regeln sowie Datenstrukturen für den
+digitalen Austausch von Bauanträgen und den dazugehörigen Dokumenten
+definiert. Die Pflege und Weiterentwicklung des Standards werden gemeinsam von 
+den Ländern und dem Bund getragen. Die Aufgaben sind in der XLeitstelle, 
+angesiedelt beim Landesbetrieb Geoinformation und Vermessung in Hamburg, 
+verortet worden.
+Die Bundesregierung hat BIM als wesentliches Mittel für die Digitalisierung 
+des Bauwesens identifiziert. Die regierenden Parteien führen dazu im
+Koalitionsvertrag 2025 aus: „Building Information Modeling (BIM) wird zum
+zentralen Instrument der Digitalisierung des Bauwesens weiterentwickelt.“ Die 
+Verbreitung von BIM in den Prozessen des Planens, Bauens und Betreibens 
+von Bauwerken ist ein wesentlicher Hebel für Effizienzsteigerung. Das 
+BMWSB beteiligt sich an der ressortübergreifenden Initiative „BIM
+Deutschland“, zur Unterstützung der Wertschöpfungskette Bau bei der Verbreitung der 
+Methode BIM. So werden im Rahmen der Initiative auch allgemeine
+Informationen zum BIM-basierten Bauantrag bereitgestellt.
+Im Rahmen seiner Möglichkeiten unterstützt der Bund vor allem durch die 
+oben aufgezeigten Maßnahmen die Länder bei den Weiterentwicklungen des 
+Digitalen Bauantrages hin zu einem BIM-basierten
+Baugenehmigungsverfahren. Einzelne der für das Baugenehmigungsverfahren zuständigen
+Vollzugsbehörden konnten bereits über Pilotierungen oder Testungen im Realbetrieb
+Erfahrungen sammeln. Diese liegen dem Bund im Detail nicht vor.
+ 1. Welche vom Bund geförderten Forschungs- und Entwicklungsvorhaben 
+zur automatisierten bzw. regelbasierten Prüfung der Einhaltung von
+Bauvorschriften (ACCC) bestehen derzeit oder sind seit 2020 abgeschlossen, 
+und mit welchem jeweiligen Fördervolumen (bitte je Vorhaben Titel, 
+Träger, Laufzeit und Fördersumme angeben)?
+Im Rahmen der Forschungsförderung „Zukunft Bau“ wurde das Projekt „3D-
+Lageplan zum Baugesuch“ (Grundlagenforschung) vom Bund der Öffentlich 
+bestellten Vermessungsingenieure e. V. (BDVI) durchgeführt. Laufzeit: 
+10.2024 bis 08.2026, Fördersumme: 247.535 Euro.
+Das BMWSB unterstützt die Weiterentwicklung der EfA-Lösung
+„Bauvorbescheid und Baugenehmigung“ (auch „Digitaler Bauantrag“ genannt) hin zu 
+einem BIM-basierten Baugenehmigungsverfahren aktuell mit dem
+Entwicklungsvorhaben „Integration von Gebäudedaten in die digitale
+Baugenehmigung“. Laufzeit: 10.2025 bis 08.2026, Zuweisung: 450.000 Euro.
+ 2. Welche Ergebnisse liegen aus dem Vorhaben „MBO2BIM“ des DIBt
+sowie aus den einschlägigen Vorhaben der Forschungsinitiative „Zukunft 
+Bau“ des BBSR zur maschinenlesbaren Abbildung
+bauordnungsrechtlicher Vorschriften vor?
+Die Ergebnisse aus dem Vorhaben „MBO2BIM" des Deutschen Instituts für 
+Bautechnik (DIBt) sind auf der Projektwebseite abrufbar (https://mbo2bim.de) 
+und können von allen Bundesländern als Grundlage für die Weiterentwicklung 
+der jeweiligen digitalen Verwaltungsprozesse genutzt werden. Die Ergebnisse 
+von MBO2BIM wurden zudem im BIM-Portal von BIM Deutschland
+veröffentlicht (https://via.bund.de/bim/infrastruktur/landing).
+Das Forschungsvorhaben wurde vom Deutschen Institut für Bautechnik (DIBt) 
+in Auftrag gegeben und von der Ruhr-Universität Bochum durchgeführt.
+Projektpartner war die Behörde für Stadtentwicklung und Wohnen, Freie und
+Hansestadt Hamburg.
+Im Rahmen des Innovationsprogramms „Zukunft Bau“ des BMWSB wird das 
+Projekt „3D-Lageplan zum Baugesuch“ (Grundlagenforschung) vom BDVI 
+umgesetzt. Die Ergebnisse sollen noch in diesem Jahr vorliegen und können auf 
+der Webpräsenz des Forschungsprogramms abgerufen werden. Aktuelle
+Informationen zum Projekt sind verfügbar unter www.zukunftbau.de/projekte/forsch
+ungsfoerderung/1008187-2423.
+ 3. Welche Kenntnisse hat die Bundesregierung über das EU-Horizon-
+Projekt „ACCORD“ und dessen deutschen Demonstrator (u. a. Tegel Projekt 
+GmbH, XLeitstelle Hamburg, Fraunhofer-Institut für Bauphysik [
+Fraunhofer IBP]), und welche übertragbaren Erkenntnisse zieht sie daraus?
+Das EU-Horizon-Projekt ACCORD (Automated Compliance Checks for
+Construction, Renovation or Demolition Works) ist eine europäische
+Forschungsinitiative mit dem Ziel, Baugenehmigungs- und Konformitätsprozesse durch 
+Digitalisierung und Bauwerksdatenmodellierung (BIM) zu automatisieren. Die 
+Ergebnisse sind unter https://accordproject.eu/ veröffentlicht und stehen den 
+jeweils für die Weiterentwicklung des Digitalen Bauantrages zuständigen
+Organisationen zur Verfügung.
+ 4. Plant die Bundesregierung ein eigenes Demonstrations- oder Reallabor-
+Vorhaben zur Erprobung automatisierter Baugenehmigungsverfahren im 
+Echtbetrieb (vergleichbar der HUD-NOFO), und wenn nein, warum 
+nicht?
+Die Bundesregierung plant derzeit kein eigenes Demonstrations- oder
+Reallabor-Vorhaben zur Erprobung automatisierter Baugenehmigungsverfahren im 
+Echtbetrieb, das vergleichbar mit der HUD-NOFO (U.S. Department of
+Housing and Urban Development's Notice of Funding Opportunity) wäre. Siehe 
+dazu auch Erläuterungen zu den Zuständigkeiten in der Vorbemerkung. Das 
+Land Mecklenburg-Vorpommern hat im Rahmen der Entwicklung des EfA-
+Online-Dienstes von Reallaborvorhaben und Demonstratoren Gebrauch gemacht 
+und wird dies auch bei den Weiterentwicklungsmaßnahmen tun.
+ 5. Wie bewertet die Bundesregierung den aktuellen Reifegrad verfügbarer 
+Prüfsoftware für ein vollständig modellbasiertes
+Baugenehmigungsverfahren, und welche Funktionslücken bestehen aus ihrer Sicht?
+In den jeweiligen Bundesländern werden, unterstützt durch den IT-Planungsrat, 
+über den Onlinedienst „Digitale Baugenehmigung“ sowie die Geschäftsstelle 
+„Digitale Baugenehmigung“, gemeinsame Evaluationsmaßnahmen und
+Reallabore koordiniert, um geeignete Prüfsoftware zu bewerten und auszuwählen. Die 
+Bewertungen sind noch nicht abgeschlossen.
+ 6. Inwieweit ist die Erzeugung und automatisierte Prüfung eines BIM-
+basierten Bauantrags seit der Auskunft auf Bundestagsdrucksache 20/7809 
+fortgeschritten, und welcher Stand wurde im dort genannten Teilprojekt 
+erreicht?
+Einzelne Vollzugsbehörden konnten bereits über Pilotierungen oder Testungen 
+im Realbetrieb Erfahrungen mit dem BIM-basierten Bauantrag sammeln. Eine 
+genaue Übersicht der BIM-fähigen Vollzugsbehörden liegt dem Bund nicht vor.
+Das BMWSB unterstützt aktuell ein Projekt zur technischen Integration von 
+BIM-Gebäudedaten in den Vorgangsraum „Digitale Baugenehmigung“ (siehe 
+Antwort zu Frage 1). Dieses Projekt zielt auf die technische Anbindung des 
+BIM-basierten Bauantrags an die modulare EfA-Lösung ab. Das Projekt
+Integration von BIM-Gebäudedaten in den Vorgangsraum „Digitale
+Baugenehmigung“ ist im November 2025 gestartet und soll im Sommer 2026 abgeschlossen 
+werden. Das Projekt umfasst die Ertüchtigung des Onlinedienstes „Digitale 
+Baugenehmigung“ www.digitalebaugenehmigung.de/ für Empfang,
+Verarbeitung und Darstellung von BIM-Modellen sowie Konzeption und Entwicklung 
+einer generischen Schnittstelle zur Anbindung von Prüfsoftware an den
+Onlinedienst „Digitale Baugenehmigung“.
+ 7. Welche offenen Standards (insbesondere XBau, XPlanung, IFC/ISO 
+16739) legt die Bundesregierung der automatisierten Prüfung zugrunde, 
+und wie stellt sie Herstellerneutralität und die Vermeidung von
+Anbietermonopolen sicher?
+Die Bundesregierung legt keine Standards für die (teil-) automatisierte Prüfung 
+für Baugenehmigungsverfahren zugrunde, da sie hier keine Zuständigkeit hat 
+(siehe Vorbemerkung).
+Der Bund unterstützt grundsätzlich den Einsatz offener Standards, um die
+Interoperabilität, Herstellerneutralität und die Vermeidung von Anbietermonopolen 
+zu gewährleisten.
+Der Industry Foundation Classes (IFC)-Standard ist ein internationaler
+anerkannter Standard für den Datenaustausch im Bauwesen und ISO-normiert (ISO 
+16739) und erfüllt daher die Anforderungen für eine Anwendung in digitalen 
+Verwaltungsverfahren.
+Zur Unterstützung der Verwaltungsdigitalisierung wurde auf Beschluss des IT-
+Planungsrats 2017 die verbindliche Anwendung der Standards XBau und 
+XPlanung als Austauschstandards im Bau- und Planungsbereich vereinbart. Der 
+XBau Standard ist ein föderaler Standard, der bereits im digitalen
+Bauantragsverfahren genutzt wird.
+ 8. Auf welcher Rechtsgrundlage könnten automatisierte Prüfergebnisse im 
+Baugenehmigungsverfahren verbindlich werden, und wie verhält sich 
+dies zum Verbot des vollständig automatisierten Verwaltungsakts (§ 35a 
+des Verwaltungsverfahrensgesetzes [VwVfG]) sowie zu Artikel 22 der 
+Datenschutz-Grundverordnung?
+Dem Bund ist nicht bekannt, dass in einem Bundesland automatisierte
+Prüfergebnisse im Baugenehmigungsverfahren verbindlich werden sollen.
+Die Schaffung der rechtlichen Grundlagen obliegt dem jeweiligen Bundesland 
+(siehe Vorbemerkung).
+ 9. Wie sollen Verantwortlichkeit und Haftung bei fehlerhaften
+automatisierten Prüfungen verteilt werden (Behörde, Softwarehersteller,
+Entwurfsverfasser)?
+Es wird auf die Antwort zu Frage 8 verwiesen.
+10. Wie bewertet die Bundesregierung das Verhältnis eines bundesweit
+einheitlichen automatisierten Prüfsystems zum landesrechtlichen
+Bauordnungsrecht und zum kommunalen Selbstverwaltungsrecht nach Artikel 
+28 Absatz 2 des Grundgesetzes?
+Die Weiterentwicklung des Digitalen Bauantrags erfolgt in der bereits
+etablierten EfA-Systematik. Sie wurde als neues Instrument der Bund-Länder-
+Zusammenarbeit etabliert, um die Digitalisierung von Verwaltungsleistungen zu
+unterstützen. Dabei können Online-Dienste, die von einem Land zentral entwickelt 
+und betrieben werden, von den anderen Ländern und ihren Kommunen 
+deutschlandweit kosteneffizient nachgenutzt werden. Im Zuge der Nachnutzung 
+durch Bundesländer wird die IT-Anwendung jeweils an das Landesrecht
+angepasst.
+11. Welche Erkenntnisse aus bundesgeförderten Vorhaben oder
+Pilotprojekten (etwa BIM Deutschland, „Zukunft Bau“) liegen der Bundesregierung 
+zu den Auswirkungen automatisierter Prüfung auf Bearbeitungszeiten, 
+Verfahrenseffizienz und Personalbedarf vor, und plant sie eine Erhebung 
+im Rahmen ihrer Zuständigkeit?
+Aktuell liegen der Bundesregierung aus bundesgeförderten Vorhaben oder
+Pilotprojekten keine Erkenntnisse zur Auswirkung von automatisierten Prüfungen 
+im Baugenehmigungsprozess vor. Mit der Weiterentwicklung des Digitalen
+Bauantrages sowie der Implementierung von BIM-basierten Prozessen ins
+Genehmigungsverfahren wird durch das den EfA-Dienst entwickelnde Land 
+Mecklenburg-Vorpommern ein Evaluierungskonzept erarbeitet.
+12. Welche Kosten und welche möglichen Einsparungen erwartet die
+Bundesregierung, und beabsichtigt sie – anders als beim digitalen Bauantrag 
+– eine systematische, empirische Evaluierung (bitte begründen)?
+Die Automatisierung von Teilprozessschritten des digitalen
+Baugenehmigungsverfahrens führt zu einer Effizienzsteigerung des Verwaltungsverfahrens. Die 
+konkreten Einsparungen sind abhängig vom Digitalisierungsgrad der
+Vollzugsbehörde sowie dem Vorgangstyp.
+Aktuell wird die EfA-Lösung – der webbasierte Vorgangsraum –
+weiterentwickelt und den weiteren Ländern zur Nachnutzung angeboten sowie
+ausgerollt. Eine Evaluierung ist erst nach einer Implementierung im Echtbetrieb und 
+in Abstimmung mit den Ländern sinnvoll.
+13. Welche Qualifizierungs- und Schulungsangebote zur automatisierten 
+Prüfung stellt der Bund im Rahmen seiner Zuständigkeit bereit oder
+fördert er (etwa über BIM Deutschland oder den Bundesbau), und plant er, 
+solche Angebote auszubauen?
+Als Teil der Weiterentwicklung der EfA-Lösung werden Schulungen zum
+System für die nachnutzenden Länder bereitgestellt.
+Im Rahmen der Initiative BIM Deutschland werden regelmäßig Online-
+Veranstaltungen durchgeführt, um Informationen zum Thema Digitalisierung im 
+Bauwesen zu vermitteln. Hier werden auch Veranstaltungen zum BIM-
+basierten Baugenehmigungsverfahren angeboten. Qualifizierungs- und
+Schulungsangebote fallen nicht in den Zuständigkeitsbereich des Bundes.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
