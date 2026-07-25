@@ -9,71 +9,70 @@ Isabelle Vandre, Sarah Vollath, Sascha Wagner und der Fraktion Die Linke
 Arbeitsbedingungen und psychischer Gesundheitsschutz von 
 Datenarbeiterinnen und Datenarbeitern
 Künstliche Intelligenz (KI) entsteht nicht von selbst. Hinter jedem trainierten 
-Modell steht menschliche Arbeit: Menschen generieren, kennzeichnen
-(„labeln“), validieren und korrigieren die Datenmengen, auf denen KI-Systeme
-beruhen, simulieren KI-Verhalten und prüfen die Ausgaben generativer Modelle. 
-Mit dem Aufstieg generativer KI und großer Sprachmodelle („Large Language 
-Models“) hat diese Datenarbeit erheblich zugenommen. Die Forscherin Dr.
+Modell steht menschliche Arbeit: Menschen generieren, kennzeichnen (labeln), 
+validieren und korrigieren die Datenmengen, auf denen KI-Systeme beruhen, 
+simulieren KI-Verhalten und prüfen die Ausgaben generativer Modelle. Mit 
+dem Aufstieg generativer KI und großer Sprachmodelle (Large Language
+Models) hat diese Datenarbeit erheblich zugenommen. Die Forscherin Dr.
 Milagros Miceli des Weizenbaum-Instituts bringt es auf die Formel: „Ohne
-Datenarbeiter und -arbeiterinnen gibt es keine KI“ (www.bundestag.de/dokumente/te
-xtarchiv/2026/kw16-pa-digitales-data-labelern-1161962).
+Datenarbeiter und -arbeiterinnen gibt es keine KI“ (www.bundestag.de/dokumente/text
+archiv/2026/kw16-pa-digitales-data-labelern-1161962).
 Über die Menschen, die diese Arbeit leisten, ist gleichwohl wenig bekannt.
-Anders als Plattformarbeiterinnen und -arbeiter im Liefer- oder Fahrdienst, die im 
-Straßenbild sichtbar sind, arbeiten Datenarbeiterinnen und -arbeiter weitgehend 
-unsichtbar – häufig im Homeoffice, bei Subunternehmen oder als Crowd
-Workerinnen und -Worker in Plattformarbeit und vielfach grenzüberschreitend. Die 
-Weltbank schätzte die Zahl der weltweit in Online- bzw. Datenarbeit Tätigen 
-auf eine Größenordnung zwischen 150 und 430 Millionen Menschen (Datta, 
-Namita et al. (2023): Working Without Borders: The Promise and Peril of
-Online Gig Work). Ein erheblicher Teil von ihnen arbeitet nach Angaben von 
-Dr. Miceli auch in Europa; ebenso beauftragten deutsche Unternehmen – etwa 
-aus der Automobil- und Pharmabranche sowie Technologiekonzerne –
-entsprechende Drittunternehmen mit Datenarbeit.
-Im Fachgespräch des Ausschusses für Digitales und Staatsmodernisierung am 
-15. April 2026 zu den Arbeitsbedingungen von Data Labelerinnen und
-Labelern berichteten geladene Sachverständige übereinstimmend von prekären
-Verhältnissen. Die Branche sei durch Intransparenz gekennzeichnet; niedrige
-Löhne, unbezahlte Arbeitszeit und psychische Belastungen ließen sich als
-durchgängiges Muster und als Geschäftsmodell beschreiben. Die ehemalige
-Datenarbeiterin und Vorsitzende der Data Labelers Association, Joan Kinyua,
-schilderte ihre achtjährige Tätigkeit: vielfach ohne Vertrag und ohne
-Krankenversicherung, mit zahlreichen unbezahlten Arbeitsstunden und einem Verdienst von 
-rund 30 000 kenianischen Schilling im Monat (umgerechnet etwa 250 US-
-Dollar). Niemand habe ihr erklärt, wozu die Arbeit diene oder wohin die Daten 
-gelangten. Neben dem Kennzeichnen von Daten – etwa für selbstfahrende
-Autos – habe sie auch vertrauliche Dokumente, Aufnahmen von Überwachungska-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-meras und Gewaltdarstellungen sichten müssen und in der Folge Panikattacken 
-und Angstzustände entwickelt. Beschäftigte würden zudem häufig selbst zu 
-Datensubjekten, weil Kameras dauerhaft Informationen aufzeichneten, deren 
-Verwendung den Betroffenen unbekannt bleibe. Viele Datenarbeiterinnen und 
--arbeiter entwickelten posttraumatische Belastungsstörungen und würden „wie 
-Austauschware“ ersetzt.
+Anders als Plattformarbeiterinnen und Plattformarbeiter im Liefer- oder
+Fahrdienst, die im Straßenbild sichtbar sind, arbeiten Datenarbeiterinnen und
+Datenarbeiter weitgehend unsichtbar – häufig im Homeoffice, bei Subunternehmen 
+oder als Crowd-Workerinnen und Crowd-Worker in Plattformarbeit und
+vielfach grenzüberschreitend. Die Weltbank schätzte die Zahl der weltweit in 
+Online- bzw. Datenarbeit Tätigen auf eine Größenordnung zwischen 150
+Millionen und 430 Millionen Menschen (Datta, Namita et al. (2023): Working
+Without Borders: The Promise and Peril of Online Gig Work). Ein erheblicher Teil 
+von ihnen arbeitet nach Angaben von Dr. Milagros Miceli auch in Europa; 
+ebenso beauftragten deutsche Unternehmen – etwa aus der Automobil- und 
+Pharmabranche sowie Technologiekonzerne – entsprechende Drittunternehmen 
+mit Datenarbeit.
+Im Fachgespräch des Ausschusses für Digitales und Staatsmodernisierung des 
+Deutschen Bundestages am 15. April 2026 zu den Arbeitsbedingungen von 
+Data-Labelerinnen und Data-Labelern berichteten geladene Sachverständige 
+übereinstimmend von prekären Verhältnissen. Die Branche sei durch
+Intransparenz gekennzeichnet; niedrige Löhne, unbezahlte Arbeitszeit und psychische 
+Belastungen ließen sich als durchgängiges Muster und als Geschäftsmodell
+beschreiben. Die ehemalige Datenarbeiterin und Vorsitzende der Data Labelers 
+Association, Joan Kinyua, schilderte ihre achtjährige Tätigkeit: vielfach ohne 
+Vertrag und ohne Krankenversicherung, mit zahlreichen unbezahlten
+Arbeitsstunden und einem Verdienst von rund 30 000 Kenia-Schilling im Monat
+(umgerechnet etwa 250 US-Dollar). Niemand habe ihr erklärt, wozu die Arbeit
+diene oder wohin die Daten gelangten. Neben dem Kennzeichnen von Daten –
+ etwa für selbstfahrende Autos – habe sie auch vertrauliche Dokumente,
+Aufnahmen von Überwachungskameras und Gewaltdarstellungen sichten müssen 
+und in der Folge Panikattacken und Angstzustände entwickelt. Beschäftigte 
+würden zudem häufig selbst zu Datensubjekten, weil Kameras dauerhaft
+Informationen aufzeichneten, deren Verwendung den Betroffenen unbekannt bleibe. 
+Viele Datenarbeiterinnen und Datenarbeiter entwickelten posttraumatische
+Belastungsstörungen und würden „wie Austauschware“ ersetzt.
 Die Digitalexpertin Julia Kloiber (Superrr Lab) wies darauf hin, dass
 Beschäftigte vielfach Verschwiegenheitsvereinbarungen (Non-Disclosure-Agreements, 
-NDAs) unterzeichnen müssen, die sie zum Stillschweigen über ihre Tätigkeit 
-verpflichten. Viele befänden sich in vulnerablen Lebenslagen; die Tätigkeit
-erweise sich häufig als Sackgasse, weil die Beschäftigten gar nicht nachweisen 
-könnten, was sie genau geleistet hätten. Mit Blick auf den Gesundheitsschutz 
-mahnte Kloiber: „Wer unseren digitalen Raum schützt, darf dabei nicht
-psychisch zugrunde gehen.“ Dass die reichsten Unternehmen der Welt in KI
-investierten, wesentliche Arbeit jedoch an Drittfirmen auslagerten, statt für faire 
-Löhne und gute Arbeitsbedingungen zu sorgen, sei nicht hinnehmbar.
+unterzeichnen müssen, die sie zum Stillschweigen über ihre Tätigkeit
+verpflichten. Viele befänden sich in vulnerablen Lebenslagen; die Tätigkeit erweise sich 
+häufig als Sackgasse, weil die Beschäftigten gar nicht nachweisen könnten, was 
+sie genau geleistet hätten. Mit Blick auf den Gesundheitsschutz mahnte Julia 
+Kloiber: „Wer unseren digitalen Raum schützt, darf dabei nicht psychisch
+zugrunde gehen.“ Dass die reichsten Unternehmen der Welt in KI investierten, 
+wesentliche Arbeit jedoch an Drittfirmen auslagerten, statt für faire Löhne und 
+gute Arbeitsbedingungen zu sorgen, sei nicht hinnehmbar.
 Die Problematik reiht sich in frühere Befassungen des Deutschen Bundestages 
-ein. Bereits in der 20. Wahlperiode beriet der Digitalausschuss in einer
-Selbstbefassung über die Arbeitsbedingungen von Content-Moderatorinnen und 
--Moderatoren; Content-Moderation ist ein Teilbereich der Datenarbeit, in dem 
-Beschäftigte täglich mit Darstellungen von Gewalt, Missbrauch und
-Hinrichtungen konfrontiert sind.
+ein. Bereits in der 20. Wahlperiode beriet der Ausschuss für Digitales in einer 
+Selbstbefassung über die Arbeitsbedingungen von Content-Moderatorinnen 
+und Content-Moderatoren; Content-Moderation ist ein Teilbereich der
+Datenarbeit, in dem Beschäftigte täglich mit Darstellungen von Gewalt, Missbrauch 
+und Hinrichtungen konfrontiert sind.
 Wie aktuell der Handlungsbedarf auch in Deutschland ist, zeigte der Fall des 
 Berliner TikTok-Standorts im Jahr 2025: Der Konzern entließ rund 150
 Beschäftigte der für die Content-Moderation zuständigen Abteilung „Trust and 
 Safety“ und lagerte ihre Arbeit an eine, von ihnen zuvor selbst trainierte, 
 Künstliche Intelligenz sowie an externe Dienstleister aus. Die Beschäftigten 
 wehrten sich mit dem ersten Streik bei einer Social-Media-Plattform in 
-Deutschland (Faßmann, Alix (2025): Arbeitskampf bei TikTok beendet: 
-Content-Moderatoren verlieren ihre Jobs, in: Der Tagesspiegel, 7. November 
+Deutschland (Faßmann, Alix [2025]: Arbeitskampf bei TikTok beendet: 
+Content-Moderatoren verlieren ihre Jobs, in: TAGESSPIEGEL, 7. November 
 2025).
 Mit dieser Kleinen Anfrage sollen der Umfang der Datenarbeit in Deutschland, 
 die vorherrschenden Arbeitsbedingungen und Beschäftigungsverhältnisse
@@ -88,26 +87,24 @@ von Fehlern, das Bewerten von KI-Ausgaben einschließlich Verfahren wie
 Moderation), und liegt der Bundesregierung eine einheitliche begriffliche 
 Abgrenzung dieser Tätigkeiten vor?
  2. Wie viele Menschen sind nach Kenntnis der Bundesregierung in
-Deutschland in der Datenarbeit im Sinne von Frage 1 tätig (bitte nach
-Tätigkeitsart, Geschlecht, jährlich ab 2020 und, soweit möglich, nach Branche, 
-Alter und Region differenzieren, sowie angeben, auf welcher
-Datengrundlage bzw. auf Basis welcher Schätzungen die Bundesregierung diese
+Deutschland in der Datenarbeit im Sinne von Frage 1 tätig (bitte jeweils nach
+Tätigkeitsart, Geschlecht, jährlich ab 2020 und, soweit möglich, nach
+Branche, Alter und Region differenzieren, sowie angeben, auf welcher
+Datengrundlage bzw. auf Basis welcher Schätzungen die Bundesregierung diese 
 Angaben macht)?
  3. Inwiefern werden Tätigkeiten der Datenarbeit in den amtlichen
-Klassifikationen, insbesondere in der Klassifikation der Berufe (KldB 2010) sowie 
-in der Beschäftigungs- und Sozialversicherungsstatistik, erfasst, und falls
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+Klassifikationen, insbesondere in der Klassifikation der Berufe (KldB) 2010 sowie 
+in der Beschäftigungs- und Sozialversicherungsstatistik, erfasst, wenn 
 eine eigenständige Erfassung nicht erfolgt, was ist nach Kenntnis der
-Bundesregierung der Grund hierfür und ist eine gesonderte statistische
+Bundesregierung der Grund hierfür, und ist eine gesonderte statistische
 Erfassung geplant (bitte begründen)?
- 4. Wie viele und welche Unternehmen und Subunternehmen, die Datenarbeit 
-anbieten oder durchführen, sind der Bundesregierung in Deutschland
+ 4. Wie viele und welche Unternehmen und Subunternehmen in Deutschland, 
+die Datenarbeit anbieten oder durchführen, sind der Bundesregierung
 bekannt, und wie viele Beschäftigte sind dort jeweils angestellt?
  5. Welche Online-Plattformen, die Datenarbeit vermitteln und hierfür
 überwiegend Solo-Selbstständige bzw. Freelancer (Crowdworkerinnen und 
--worker) beauftragen, sind der Bundesregierung bekannt, und welche
-Erkenntnisse hat sie über die Zahl der über solche Plattformen in
+Crowdworker) beauftragen, sind der Bundesregierung bekannt, und 
+welche Erkenntnisse hat sie über die Zahl der über solche Plattformen in 
 Deutschland tätigen Personen?
  6. Welche Erkenntnisse liegen der Bundesregierung darüber vor, in welchem 
 Umfang in Deutschland ansässige Unternehmen – etwa aus der 
@@ -118,20 +115,20 @@ gehen?
 im Bereich der Datenarbeit und Content-Moderation ihre Standorte in 
 Deutschland in andere EU-Mitgliedstaaten wie Bulgarien oder in
 Drittstaaten mit niedrigeren Lohnkosten verlagern, und welche Auswirkungen 
-auf Beschäftigung, Lohn- und Arbeitsbedingungen sind ihr in diesem
+auf die Beschäftigung, Lohn- und Arbeitsbedingungen sind ihr in diesem 
 Zusammenhang bekannt?
  8. Welche Beschäftigungsformen herrschen nach Kenntnis der
 Bundesregierung in der Datenarbeit in Deutschland vor (bitte nach
 sozialversicherungspflichtiger Festanstellung, Arbeitnehmerüberlassung nach dem 
 Arbeitnehmerüberlassungsgesetz, Werk- und Dienstverträgen, Solo-
-Selbstständigkeit sowie Plattform- bzw. Crowdwork differenzieren und, 
-soweit möglich, jeweils Anteile angeben)?
+Selbstständigkeit sowie Plattformarbeit bzw. Crowdwork differenzieren 
+und, soweit möglich, jeweils Anteile angeben)?
  9. Welche Erkenntnisse liegen der Bundesregierung über die Einkommens- 
 und Lohnverhältnisse in der Datenarbeit vor, und inwieweit werden in
 diesem Bereich die in Deutschland geltenden gesetzlichen Bestimmungen 
 eingehalten?
 a) Welche Erkenntnisse hat die Bundesregierung über den Umfang
-unbezahlter Arbeitszeit in der Datenarbeit (etwa durch nicht vergütete Vor- 
+unbezahlter Arbeitszeit in der Datenarbeit (etwa durch nichtvergütete Vor- 
 und Nachbereitungszeiten, Wartezeiten, abgelehnte Aufgaben oder 
 nachzuholende Pausen)?
 b) Inwieweit werden nach Kenntnis der Bundesregierung in der
@@ -150,8 +147,6 @@ Betriebsräten)?
 Arbeitgeber in der Datenarbeit und Content-Moderation die Bildung von
 Betriebsräten oder die gewerkschaftliche Organisation behindern
 (sogenanntes Union Busting), und wie bewertet sie solche Behinderungen?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 12. Welche Erkenntnisse liegen der Bundesregierung über die Verbreitung 
 und die Ausgestaltung von Verschwiegenheitsvereinbarungen (Non-
 Disclosure-Agreements) in der Datenarbeit vor, und wie bewertet sie 
@@ -160,7 +155,7 @@ Arbeitsbedingungen sprechen, ihre Tätigkeit gegenüber künftigen Arbeitgebern
 nachweisen und sich beraten lassen können?
 13. Welche Erkenntnisse hat die Bundesregierung über grenzüberschreitende 
 Wertschöpfungs- bzw. Lieferketten in der Datenarbeit, insbesondere über 
-die Beauftragung von Datenarbeit im globalen Süden durch in
+die Beauftragung von Datenarbeit im Globalen Süden durch in
 Deutschland oder der Europäischen Union ansässige Unternehmen, und inwiefern 
 erstrecken sich die Sorgfaltspflichten nach dem
 Lieferkettensorgfaltspflichtengesetz sowie nach der EU-Richtlinie über die Sorgfaltspflichten 
@@ -172,11 +167,11 @@ und wie wird die Umsetzung der EU-Richtlinie zur Verbesserung der
 Arbeitsbedingungen in der Plattformarbeit (Plattformarbeitsrichtlinie) in 
 Deutschland diese Beschäftigten erfassen?
 15. Inwieweit findet das Arbeitsschutzgesetz nach Auffassung der
-Bundesregierung auf Datenarbeiterinnen und -arbeiter Anwendung, insbesondere 
-auf Beschäftigte im Homeoffice, auf Solo-Selbstständige und
-Crowdworkerinnen und -worker sowie auf Personen, die im Ausland für in
-Deutschland ansässige Unternehmen tätig sind, und wo sieht die Bundesregierung 
-gegebenenfalls Schutzlücken?
+Bundesregierung auf Datenarbeiterinnen und Datenarbeiter Anwendung,
+insbesondere auf Beschäftigte im Homeoffice, auf Solo-Selbstständige und 
+Crowdworkerinnen und Crowdworker sowie auf Personen, die im
+Ausland für in Deutschland ansässige Unternehmen tätig sind, und wo sieht 
+die Bundesregierung gegebenenfalls Schutzlücken?
 16. In welchem Umfang werden nach Kenntnis der Bundesregierung in
 Betrieben der Datenarbeit Gefährdungsbeurteilungen unter Berücksichtigung 
 psychischer Belastungen nach § 5 des Arbeitsschutzgesetzes durchgeführt, 
@@ -184,14 +179,14 @@ und welche Erkenntnisse liegen ihr über deren Ergebnisse vor?
 17. Welche Erkenntnisse und Studien liegen der Bundesregierung über
 psychische Belastungen und Erkrankungen – insbesondere Depressionen, 
 Angststörungen und posttraumatische Belastungsstörungen – bei Content-
-Moderatorinnen und -moderatoren sowie Data Labelern vor (bitte auch 
-auf den Zusammenhang mit der wiederholten Konfrontation mit
-traumatisierenden Inhalten eingehen und Bezug zu Bundestagsdrucksache 21/6077 
-herstellen)?
+Moderatorinnen und Content-Moderatoren sowie Data-Labelern vor (bitte 
+auch auf den Zusammenhang mit der wiederholten Konfrontation mit 
+traumatisierenden Inhalten eingehen und Bezug zu Bundestagsdrucksache 
+21/6579 herstellen)?
 18. Welche Erkenntnisse liegen der Bundesregierung über Urlaubs- und
 Erholungszeiten in der Datenarbeit und Content-Moderation vor, und hält sie 
 den gesetzlichen Mindesturlaub angesichts der besonderen psychischen 
-Belastung in diesen Tätigkeiten für ausreichend, oder sieht sie Anlass für 
+Belastung in diesen Tätigkeiten für ausreichend oder sieht sie Anlass für 
 zusätzliche Erholungs- bzw. Schutzregelungen (etwa analog zu
 Zusatzurlaub bei besonders belastenden Tätigkeiten; bitte begründen)?
 19. Wie bewertet die Bundesregierung die Angemessenheit der
@@ -201,15 +196,13 @@ Wohlfühl-Angebote), und welche Anforderungen sind aus ihrer Sicht an
 eine unabhängige, fachlich qualifizierte psychologische Betreuung zu
 stellen, die nicht den Vorgesetzten der Beschäftigten unterstellt ist?
 20. Welche Erkenntnisse hat die Bundesregierung darüber, dass
-Datenarbeiterinnen und -arbeiter im Rahmen ihrer Tätigkeit selbst zu Datensubjekten 
-werden (etwa durch dauerhafte Bild- oder Tonaufzeichnung sowie durch 
-die Verarbeitung sensibler personenbezogener Daten Dritter), und welche
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-datenschutzrechtlichen Schutzmaßnahmen hält sie in diesem
+Datenarbeiterinnen und Datenarbeiter im Rahmen ihrer Tätigkeit selbst zu
+Datensubjekten werden (etwa durch dauerhafte Bild- oder Tonaufzeichnung sowie 
+durch die Verarbeitung sensibler personenbezogener Daten Dritter), und 
+welche datenschutzrechtlichen Schutzmaßnahmen hält sie in diesem
 Zusammenhang für geboten?
 21. Inwieweit werden nach Kenntnis der Bundesregierung die
-Arbeitsbedingungen von Content-Moderatorinnen und – Moderatoren in den
+Arbeitsbedingungen von Content-Moderatorinnen und Content-Moderatoren in den
 Risikobewertungen und Risikominderungsmaßnahmen sehr großer Online-
 Plattformen nach den Artikeln 34 und 35 des Digital Services Act
 berücksichtigt, und wird sich die Bundesregierung auf europäischer Ebene dafür 
@@ -224,8 +217,9 @@ Risiken sieht sie dabei sowohl im Sinne eines unzureichenden Schutzes
 der Nutzerinnen und Nutzer als auch im Sinne einer übermäßigen
 Entfernung zulässiger Inhalte (Überzensur)?
 23. Welche Kenntnisse hat die Bundesregierung über algorithmische
-Leistungsüberwachung von Datenarbeiterinnen und -arbeiter (etwa Qualitäts-
-Scores, Produktivitätsvorgaben oder automatische Account Sperren)?
+Leistungsüberwachung von Datenarbeiterinnen und Datenarbeitern (etwa 
+Qualitäts-Scores, Produktivitätsvorgaben oder automatische Account-
+Sperren)?
 24. Wie bewertet die Bundesregierung den Umstand, dass die im Jahr 2010 
 überarbeitete Liste der Berufskrankheiten der Internationalen
 Arbeitsorganisation psychische und Verhaltensstörungen einschließlich
@@ -239,33 +233,25 @@ Maßnahmen plant sie, um diese Lücken zu schließen (etwa durch eine
 empirische Studie oder eine gesonderte statistische Erfassung)?
 26. Welche Vorhaben plant die Bundesregierung in der laufenden
 Legislaturperiode, um die Arbeitsbedingungen und den Gesundheitsschutz in der 
-Datenarbeit zu verbessern, und wie steht sie zu der im Fachgespräch
-erhobenen Forderung, die Datenarbeit als Ausbildungsberuf anzuerkennen, 
-und welche Maßnahmen hat die Bundesregierung gegebenenfalls schon 
-unternommen, um eine solche Anerkennung voranzutreiben (bitte
-ausführen und begründen)?
+Datenarbeit zu verbessern, wie steht sie zu der im Fachgespräch
+erhobenen Forderung, die Datenarbeit als Ausbildungsberuf anzuerkennen, und 
+welche Maßnahmen hat die Bundesregierung gegebenenfalls schon
+unternommen, um eine solche Anerkennung voranzutreiben (bitte ausführen 
+und begründen)?
 27. Inwieweit sieht die Bundesregierung große Social-Media- und
 Technologieunternehmen in der Verantwortung für die Arbeits- und
-Gesundheitsbedingungen, wenn sie für ihr Geschäftsmodell wesentliche Tätigkeiten wie 
-Content-Moderation und Datenarbeit an Dritt- und Subunternehmen
+Gesundheitsbedingungen, wenn diese für ihr Geschäftsmodell wesentliche Tätigkeiten 
+wie Content-Moderation und Datenarbeit an Dritt- und Subunternehmen 
 auslagern, und hält sie die geltende Zurechnung arbeitsrechtlicher
 Verantwortung in solchen Auslagerungsketten für ausreichend?
 28. Welche Schlussfolgerungen zieht die Bundesregierung aus dem Umstand, 
 dass wirtschaftlich besonders erfolgreiche Unternehmen in erheblichem 
 Umfang in KI investieren, die hierfür notwendige Datenarbeit jedoch
-vielfach an Drittunternehmen auslagern, in denen niedrige Löhne, unbezahlte
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+vielfach an Drittunternehmen auslagern, in denen niedrige Löhne, unbezahlte 
 Arbeitszeit und psychische Belastungen verbreitet sind, und welchen
 gesetzgeberischen Handlungsbedarf leitet sie daraus ab?
 Berlin, den 1. Juli 2026
 Heidi Reichinnek, Sören Pellmann und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
