@@ -4,47 +4,46 @@ Kleine Anfrage
 der Abgeordneten Victoria Broßart, Matthias Gastel, Tarek Al-Wazir, Swantje 
 Henrike Michaelsen und der Fraktion BÜNDNIS 90/DIE GRÜNEN
 Generalsanierung Rosenheim–Salzburg
-Die DB InfraGO plant vom 7. Februar 2027 bis zum 9. Juli 2027 die
-Generalsanierung zwischen Rosenheim und Salzburg. Ziel ist gemäß Website die
-Reduzierung von Verspätungen – vermutlich durch reduzierte Infrastrukturstörungen 
-sowie die Verbesserung der Bahnhöfe. Sanierungsumfang seien der Austausch 
-von Gleisen, Weichen sowie der Oberleitung. Die Generalsanierung ist auch für 
-Österreich von großem Interesse, wesentliche Teile des österreichischen
-Fernverkehrs nutzen diese Strecke.
+Die DB InfraGO AG als Tochterunternehmen der Deutschen Bahn AG plant 
+vom 7. Februar 2027 bis zum 9. Juli 2027 die Generalsanierung zwischen
+Rosenheim und Salzburg. Ziel ist gemäß Website die Reduzierung von
+Verspätungen – vermutlich durch reduzierte Infrastrukturstörungen sowie die
+Verbesserung der Bahnhöfe. Sanierungsumfang seien der Austausch von Gleisen,
+Weichen sowie der Oberleitung. Die Generalsanierung ist auch für Österreich von 
+großem Interesse, wesentliche Teile des österreichischen Fernverkehrs nutzen 
+diese Strecke.
 Wir fragen die Bundesregierung:
- 1. Welche Zustandsnoten werden im Bereich der Generalsanierung gemäß 
-des InfraGO-Zustandsberichts zwischen den Jahren 2021 und 2025
+ 1. Welche Zustandsnoten wurden im Bereich der Generalsanierung gemäß 
+dem InfraGO-Zustandsbericht zwischen den Jahren 2021 und 2025
 vergeben?
  2. Welche Zustandsnoten wurden für jede Anlagenklasse im Bereich der
-Generalsanierung gemäß InfraGO-Zustandsberichts zwischen den Jahren 
-2021 bis 2025 jeweils vergeben?
+Generalsanierung gemäß dem InfraGO-Zustandsbericht in den Jahren 2021 
+bis 2025 jeweils vergeben?
  3. Welche Sanierungsmaßnahmen wurden im Bereich der Generalsanierung 
 zwischen 2021 und 2025 ergriffen (bitte in geeigneten Einheiten für jedes 
 Gewerk angeben)?
- 4. Welche Zustandsnoten für Ingenieurbauwerke gemäß Methodik 
-Infrastrukturzustands- und -entwicklungsbericht werden aktuell im
+ 4. Welche Zustandsnoten für Ingenieurbauwerke gemäß der Methodik des 
+Infrastrukturzustands- und -entwicklungsberichts werden aktuell im
 Bereich der Generalsanierung jeweils vergeben (bitte für jede Anlagenklasse 
 auflisten)?
  5. Wie hoch sind die Gesamtkosten für die Generalsanierung (inklusive
-Risikopuffer) und wie hoch sind die für den der Deutschen Bahn
-vorgesehenen Eigenmittel?
+Risikopuffer), und wie hoch sind die für die Deutsche Bahn AG vorgesehenen 
+Eigenmittel?
  6. Wie haben sich die erwarteten Kosten seit Planungsbeginn entwickelt 
-(spätestens seit Aufnahme des Projekts in das Großprojekt-Portfolio, bitte 
+(spätestens seit Aufnahme des Projekts in das Großprojekt-Portfolio; bitte 
 alle Zwischenstände bezüglich Kostenschätzung und Zeitpunkt nennen)?
  7. Erfolgen Sanierungsarbeiten im Rahmen der Generalsanierung zeitweise 
-unter nur eingleisiger Sperrung der Strecke und wenn ja, wie verteilen 
+unter nur eingleisiger Sperrung der Strecke, und wenn ja, wie verteilen 
 sich die Sperrzeiten auf eingleisige Sperrungen und Totalsperrungen?
- 8. Wurde eine Aufrechterhaltung der Öffnung der Strecke geprüft und was 
+ 8. Wurde eine Aufrechterhaltung der Öffnung der Strecke geprüft, und was 
 war das Ergebnis der Prüfung?
  9. Welches Nutzen-Kosten-Verhältnis weist die Generalsanierung auf?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 10. Welche Nutzen- und Kostenparameter wurden im Rahmen der
-Wirtschaftlichkeitsprüfung erhoben und was sind die jeweiligen Barwerte (bitte
+Wirtschaftlichkeitsprüfung erhoben, und was sind die jeweiligen Barwerte (bitte
 jeweils angeben)?
 11. Zu welchem Zeitpunkt wurde die Wirtschaftlichkeitsprüfung
 durchgeführt?
-12. In wie viele Lose wurde das Bauvolumen aufgeteilt und aus welchen 
+12. In wie viele Lose wurde das Bauvolumen aufgeteilt, und aus welchen 
 Maßnahmen setzen sich diese jeweils zusammen (bitte inklusive der
 jeweiligen Kosten angeben)?
 13. In welchem Planungsstadium befinden sich die verschiedenen
@@ -61,12 +60,13 @@ g) Gleismagnete inklusive Geschwindigkeitsprüfeinrichtungen
 (Anzahl),
 h) Heißläuferortungsanlagen (Anzahl),
 i) Bahnübergänge (Anzahl),
-j) LZB (m),
-k) ETCS (m),
-l) GNT (m),
+j) Linienförmige Zugbeeinflussung (LZB; m),
+k) European Train Control System (ETCS; m),
+l) Geschwindigkeitsüberwachung für Neigetechnikzüge (GNT; m),
 m) Schallschutzwände (m),
 n) Durchlässe (Anzahl),
-o) Modulgebäude ESTW/DSTW/LZB/ETCS (Anzahl),
+o) Modulgebäude Elektronisches Stellwerk (ESTW)/Digitales
+Stellwerk (DSTW)/LZB/ETCS (Anzahl),
 p) Bahnsteige (m),
 q) Personenunterführungen (Anzahl),
 r) Aufzüge bzw. Höhenfördertechnik (Anzahl),
@@ -76,66 +76,65 @@ u) Weichenheizstationen (Anzahl),
 v) Oberleitung (m),
 w) Oberleitungsmasten (Anzahl),
 x) Quertragwerke (Anzahl),
-y) GSM-R-Masten (Anzahl),
-z) Brücken (qm),
+y) GSM-R-Masten (GSM-R = Global System for Mobile
+Communications – Railway; Anzahl),
+z) Brücken (qm) und
 aa) Tunnel (m)?
-15. Welche Mengen der in vorheriger Frage aufgelisteten Anlagen werden im 
+15. Welche Mengen der in Frage 14 aufgelisteten Anlagen werden im
 Rahmen der Generalsanierung saniert bzw. ersetzt (bitte jeweils angeben)?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-16. Welche Mengen der zuvor aufgelisteten Anlagen werden im Rahmen der 
-Generalsanierung neu errichtet (bitte jeweils angeben)?
+16. Welche Mengen der in Frage 14 aufgelisteten Anlagen werden im
+Rahmen der Generalsanierung neu errichtet (bitte jeweils angeben)?
 17. Wie viele Meter Oberleitung weisen im Bereich der Generalsanierung 
 eine Netzzustandsnote von vier oder schlechter auf?
-18. Welche Stellwerke befinden sich im Bereich der Generalsanierung und 
+18. Welche Stellwerke befinden sich im Bereich der Generalsanierung, und 
 was ist deren Netzzustandsnote jeweils (das bedeutet, dass die Stellwerke 
 Stelleinheiten steuern, die sich im Bereich der Generalsanierung befinden; 
-bitte jeweils unter Angabe des Stellwerktyps)?
+bitte jeweils den Stellwerkstyp angeben)?
 19. Welche Stellwerke im Bereich der Generalsanierung werden ausgetauscht, 
-angepasst oder saniert (bitte jeweils unter Angabe des Stellwerkstyps und 
-der ergriffenen Maßnahmen beziehungsweise der neuen
-Stellwerksbauform)?
+angepasst oder saniert (bitte jeweils den Stellwerkstyp und die ergriffenen 
+Maßnahmen bzw. die neue Stellwerksbauform angeben)?
 20. Welche Maßnahmen zum Ausbau von GSM‑R werden ergriffen?
-21. Welche vorbereitenden Maßnahmen für FRMCS werden ergriffen?
+21. Welche vorbereitenden Maßnahmen für das Future Railway Mobile
+Communication System (FRMCS) werden ergriffen?
 22. Wie viele Bahnübergänge im Bereich der Generalsanierung werden
-jeweils aufgelassen und durch Überführungen/Unterführungen ersetzt sowie 
-aufgelassen ohne Ersatz (bitte jeweils auflisten)?
+jeweils aufgelassen und durch Überführungen bzw. Unterführungen ersetzt 
+sowie ohne Ersatz aufgelassen (bitte jeweils auflisten)?
 23. Welche weiteren Instandhaltungs- und Ersatzarbeiten werden im Bereich 
 der Generalsanierungen durchgeführt, die nicht von den vorherigen
 Fragen erfasst sind?
-24. Was ist die aktuelle Pünktlichkeitsquote für Züge, die in Bereich der
+24. Was ist die aktuelle Pünktlichkeitsquote für Züge, die im Bereich der
 Generalsanierung ein- bzw. ausfahren (bitte Einbruchs- sowie
-Ausbruchspünktlichkeit angeben sowie getrennt nach SPFV, SPNV und SGV)?
+Ausbruchspünktlichkeit sowie getrennt nach Schienenpersonenfernverkehr [SPFV], 
+Schienenpersonennahverkehr SPNV] und Schienengüterverkehr [SGV] 
+angeben)?
 25. Welche Ausweichstrecken werden im Zeitraum der Generalsanierung
-genutzt (bitte unter Aufschlüsselung nach Verkehrsarten SPFV, SPNV und 
-SGV und unter Angabe der Elektrifizierung der Ausweichstrecken)?
-26. Welche regulären Fernverkehrs- oder Nahverkehrs-Angebote auf den
+genutzt (bitte nach den Verkehrsarten SPFV, SPNV und SGV aufschlüsseln 
+und die Elektrifizierung der Ausweichstrecken angeben)?
+26. Welche regulären Fernverkehrs- oder Nahverkehrsangebote auf den
 Ausweichstrecken werden für die Zeit der Generalsanierung zugunsten von 
 Umleiterverkehren gestrichen, in der Häufigkeit vermindert oder im
-Routenverlauf angepasst (bitte unter Nennung der Relation und der
-vorgenommenen Anpassung)?
-27. Welche Sanierungs- sowie andere Maßnahmen werden auf diesen
+Routenverlauf angepasst (bitte die Relation und die vorgenommene
+Anpassung nennen)?
+27. Welche Sanierungs- sowie anderen Maßnahmen werden auf diesen
 Ausweichstrecken vor Beginn der Generalsanierung jeweils ergriffen (bitte für 
-jede Strecke jeweils angeben, auch Instandhaltungsmaßnahmen sowie
-Gesamtkosten)?
+jede Strecke jeweils und auch Instandhaltungsmaßnahmen sowie
+Gesamtkosten angeben)?
 28. Welche Maßnahmen wären nach dem zu erstellenden Bericht für temporär 
 überlastete Schienenwege auf den Umleitungsstrecken jeweils sinnvoll 
-gewesen und konnten diese jeweils umgesetzt werden (bitte
-Umsetzungsstand und Kosten angeben bzw. Verhinderungsgrund)?
+gewesen, und konnten diese jeweils umgesetzt werden (bitte
+Umsetzungsstand und Kosten angeben bzw. Verhinderungsgrund nennen)?
 29. Werden alle vorbereitenden Maßnahmen nach aktuellem Stand rechtzeitig 
-abgeschlossen und wenn nein, wie wird sichergestellt, dass die
+abgeschlossen, und wenn nein, wie wird sichergestellt, dass die
 Generalsanierung nicht in Verzug gerät und zum geplanten Ende der
 Totalsperrung in Betrieb genommen werden kann?
 30. Welche anderen Projekte (z. B. Bedarfsplanprojekte) werden aufgrund der 
 Generalsanierung verzögert (z. B. durch fehlende Sperrpausen)?
 31. Sofern kein ETCS im Rahmen der Generalsanierung verbaut wird und 
 nicht bereits installiert ist, wann ist eine Ausrüstung der Strecke im
-Bereich der Generalsanierung mit ETCS vorgesehen und welche
-Ausrüstungsform (meint Level sowie ob mit Signalen oder ohne Signale) ist da-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-bei anvisiert (bitte aufgeschlüsselt in die einzelnen Streckenabschnitte,
-sofern hier Unterschiede bestehen)?
+Bereich der Generalsanierung mit ETCS vorgesehen, und welche
+Ausrüstungsform (meint Level sowie ob mit Signalen oder ohne Signale) ist
+dabei anvisiert (bitte in die einzelnen Streckenabschnitte, sofern hier
+Unterschiede bestehen, aufschlüsseln)?
 32. Welche Anpassungen im Bereich der Leit- und Sicherungstechnik (z. B. 
 Position Achszähler, Signalstandorte) erfolgen im Rahmen der
 Generalsanierung?
@@ -143,22 +142,23 @@ Generalsanierung?
 (ETCS-Ready-Maßnahmen) werden im Rahmen der Generalsanierung
 ergriffen (bitte auflisten)?
 34. Welche Anlagen im Bereich der Generalsanierung werden nicht durch das 
-Projekt in den ETCS-Ready-Zielzustand versetzt und wodurch begründet 
+Projekt in den ETCS-Ready-Zielzustand versetzt, und wodurch begründet 
 sich das?
 35. Werden die neu errichteten Signale für die Ausrüstung von ETCS Level 2 
 mit Signalen vorbereitet (beispielsweise Platz für NE14-Tafel,
-Dunkelschaltung) und wenn nicht, warum nicht?
+Dunkelschaltung), und wenn nein, warum nicht?
 36. Mit welchen Zugsicherungssystemen, Stellwerksbauformen und
-Funktechnologien sowie darauf aufbauende Vorrichtungen für den
-digitalisierten Zugbetrieb (beispielsweise iLBS oder APS) soll die Strecke im
-Bereich der Generalsanierung im Zielzustand ausgerüstet sein, wann soll
-dieser Zielzustand erreicht werden und inwieweit wird dadurch der ERTMS-
-Standard erfüllt?
+Funktechnologien sowie darauf aufbauenden Vorrichtungen für den
+digitalisierten Zugbetrieb (beispielsweise integriertes Leit- und Bediensystem [iLBS] 
+oder Anlagenpreissystem [APS]) soll die Strecke im Bereich der
+Generalsanierung im Zielzustand ausgerüstet sein, wann soll dieser Zielzustand 
+erreicht werden, und inwieweit wird dadurch der ERTMS-Standard 
+(ERTMS = European Rail Traffic Management System) erfüllt?
 37. Wie viele Bahnübergänge im Bereich der Generalsanierung werden so 
-umgerüstet, dass sie dem Zielzustand ETCS-Ready entsprechen und wie 
+umgerüstet, dass sie dem Zielzustand ETCS-Ready entsprechen, und wie 
 viele der Bahnübergänge entsprechen bereits diesem Zustand?
 38. Werden im Rahmen der Generalsanierung Blockverdichtungen
-vorgenommen und wenn ja, wo (bitte genauen Standort der zusätzlichen Signale
+vorgenommen, und wenn ja, wo (bitte genauen Standort der zusätzlichen Signale 
 jeweils angeben)?
 39. Welche kleinen und mittleren Maßnahmen sind nach den durchgeführten 
 eisenbahnbetriebswissenschaftlichen Untersuchungen im Bereich der
@@ -167,49 +167,47 @@ Generalsanierung sinnvollerweise zu errichten?
 Generalsanierung umgesetzt (bitte auflisten)?
 41. An welchen Stellen der Strecke im Bereich der Generalsanierung befinden 
 sich Überleitmöglichkeiten (bitte alle Überleitmöglichkeiten mit genauem 
-Standort angeben sowie Art der Überleitstelle; einfach inklusive
-Richtungsangabe, doppelt, Trapez inklusive Richtungsangabe)?
+Standort sowie Art der Überleitstelle: einfach inklusive Richtungsangabe, 
+doppelt, Trapez inklusive Richtungsangabe angeben)?
 42. Welche Anpassung der Überleitgeschwindigkeiten erfolgen an
-bestehenden Überleitmöglichkeiten und wenn keine Anpassung erfolgt, warum 
+bestehenden Überleitmöglichkeiten, und wenn keine Anpassung erfolgt, warum 
 nicht?
 43. Welche zusätzlichen Überleitmöglichkeiten werden an welchen Stellen 
-neu errichtet und welche Überleitgeschwindigkeiten sind dort jeweils
+neu errichtet, und welche Überleitgeschwindigkeiten sind dort jeweils
 vorgesehen?
 44. In welchen Abschnitten erfolgt eine Erhöhung der Geschwindigkeit in 
 durchgehenden Hauptgleisen (bitte genauen Standort sowie Distanz,
-Geschwindigkeit vor der Maßnahmen sowie nach der Maßnahme jeweils
+Geschwindigkeit vor der Maßnahme sowie nach der Maßnahme jeweils
 benennen)?
 45. Bei welchen Weichen wird die aktuelle Zweiggleisgeschwindigkeit erhöht 
-(bitte jeweils auflisten unter Nennung der Zweiggleisgeschwindigkeit vor 
-und nach der Maßnahmen, gegebenenfalls auch nach Bahnhöfen
-gruppiert)?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+(bitte jeweils unter Nennung der Zweiggleisgeschwindigkeit vor und nach 
+der Maßnahme, gegebenenfalls auch nach Bahnhöfen gruppiert,
+auflisten)?
 46. Welche Überholgleise sollen im Rahmen der Generalsanierung neu
-errichtet werden (bitte auflisten unter Angabe des genauen Standortes)?
+errichtet werden (bitte unter Angabe des genauen Standortes auflisten)?
 47. Welche Überholgleise sollen im Rahmen der Generalsanierung verlängert 
-bzw. angepasst werden (bitte auflisten unter Angabe des genauen
-Standortes)?
+bzw. angepasst werden (bitte unter Angabe des genauen Standortes
+auflisten)?
 48. Welche Überholgleise im Bereich der Generalsanierung werden neu
-errichtet (bitte auflisten unter Angabe des genauen Standorts mit Zeitpunkt 
-der Inbetriebnahme)?
-49. Welche Genehmigungsverfahren wie beispielsweise Planfeststellungen 
-oder Plangenehmigungen laufen aktuell im Wirkungsbereich der
-Generalsanierung (bitte auflisten unter Nennung des aktuellen Stand sowie
-Umsetzungszeitraum)?
+errichtet (bitte unter Angabe des genauen Standorts mit Zeitpunkt der
+Inbetriebnahme auflisten)?
+49. Welche Genehmigungsverfahren, wie beispielsweise Planfeststellungen 
+oder Plangenehmigungen, laufen aktuell im Wirkungsbereich der
+Generalsanierung (bitte unter Nennung des aktuellen Stands sowie
+Umsetzungszeitraums auflisten)?
 50. Welche Maßnahmen für den Deutschlandtakt werden im Rahmen der
 Generalsanierung umgesetzt?
-51. Was ist der Umsetzungsstand des 740-m-Gleis in Prien am Chiemsee und 
+51. Was ist der Umsetzungsstand des 740-m-Gleises in Prien am Chiemsee, 
 sofern dieses noch nicht umgesetzt wird, erfolgt die Umsetzung im
-Rahmen dieser Generalsanierung und wenn nein, warum nicht?
+Rahmen dieser Generalsanierung, und wenn nein, warum nicht?
 52. Welche 740-m-Gleise werden im Rahmen der Generalsanierung
-umgesetzt (bitte auflisten unter Angabe des genauen Standorts)?
+umgesetzt (bitte unter Angabe des genauen Standorts auflisten)?
 53. In welchem Maße wird im Rahmen der Generalsanierung die Kapazität 
 angehoben (bitte Änderung der Nennleistung angeben)?
 54. Welche Maßnahmen werden an welchen Bahnhöfen ergriffen (bitte für
 jeden Bahnhof alle Maßnahmen auflisten)?
 55. Welche Bahnhöfe werden im Rahmen der Generalsanierung zu
-Zukunftsbahnhöfe ausgebaut und welche der umgesetzten Maßnahmen sind dafür 
+Zukunftsbahnhöfe ausgebaut, und welche der umgesetzten Maßnahmen sind dafür 
 ursächlich, dass der jeweilige Bahnhof als Zukunftsbahnhof klassifiziert 
 werden kann (bitte alle auflisten)?
 56. Wie ist der aktuelle Planungsstand zur Gewährleistung eines attraktiven 
@@ -230,10 +228,8 @@ d) Wie viele Busse werden mit Recycling-Diesel (HVO 100) betankt?
 werden die SEV-Linien gefahren?
 63. Wie wird die Barrierefreiheit des SEV sichergestellt?
 64. Wie werden die Kommunen dabei unterstützt, ausreichende
-Haltemöglichkeiten für die SEV-Busse an den geplanten SEV-Haltestellen sicherzu-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-stellen, und wie werden die Kommunen dabei unterstützt, diese SEV-
+Haltemöglichkeiten für die SEV-Busse an den geplanten SEV-Haltestellen
+sicherzustellen, und wie werden die Kommunen dabei unterstützt, diese SEV-
 Haltestellen barrierefrei zu gestalten?
 65. Wo werden Ruheräume und Toiletten für die Fahrerinnen und Fahrer der 
 SEV-Busse vorgesehen, und wer ist für den Betrieb dieser zuständig?
@@ -243,20 +239,19 @@ a) Oberbau,
 b) Leit- und Sicherungstechnik,
 c) Oberleitungen,
 d) Telekommunikation,
-e) Elektrische Energieanlagen (50 Hz),
+e) Elektrische Energieanlagen (50 Hz) und
 f) Konstruktiver Ingenieurbau?
 67. Welche für den Bereich der Generalsanierung geplanten Maßnahmen zur 
 Verbesserung des Zustands oder der Kapazität sind nicht umsetzbar
-gewesen und welche rechtlichen Limitation haben die Umsetzung verhindert 
+gewesen, und welche rechtlichen Limitationen haben die Umsetzung verhindert 
 (bitte jeweils aufführen)?
 68. Wie viele infrastrukturbedingte Störungen gab es in den letzten fünf
-Jahren jeweils im Bereich der Generalsanierung (bitte jeweils unterteilen in 
-Stellwerksanlage, Signale, Weichen, Zugfunk, Oberbau, Kabel,
-Oberleitung, Zugsicherung)?
-69. Bei welchen Anlagen erfolgt im Rahmen dieser Generalsanierung kein 
-1:1‑Ersatz, sondern ein Ersatz z. B. mit Erhöhung der
-Abzweiggeschwindigkeit von Weichen und wie erfolgt hier die Finanzierung durch den 
-Bund?
+Jahren jeweils im Bereich der Generalsanierung (bitte jeweils in
+Stellwerksanlage, Signale, Weichen, Zugfunk, Oberbau, Kabel, Oberleitung und 
+Zugsicherung unterteilen)?
+69. Bei welchen Anlagen erfolgt im Rahmen dieser Generalsanierung kein 1 : 
+1‑Ersatz, sondern ein Ersatz z. B. mit Erhöhung der
+Abzweiggeschwindigkeit von Weichen, und wie erfolgt hier die Finanzierung durch den Bund?
 70. Welche Gleisanschlüsse werden während der Sanierung nicht mehr durch 
 den Güterverkehr bedient?
 71. Welche Gleisanschlüsse werden auch während der Sanierung durch den 
@@ -270,20 +265,14 @@ b) Welche Lokomotiven werden zur Bedienung eingesetzt?
 c) Zu welchen Tageszeiten findet die Bedienung des Zementwerks 
 statt?
 d) Wie viele Fahrten zum und vom Zementwerk sind pro Tag geplant?
-e) Welche Änderungen an den Anlagen der Strecke Abzw. Landl–
-Rohrdorf werden während der Sanierung der Strecke Rosenheim–
-Salzburg vorgenommen?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+e) Welche Änderungen an den Anlagen der Strecke Abzweigung 
+(Abzw) Landl–Rohrdorf werden während der Sanierung der Strecke 
+Rosenheim–Salzburg vorgenommen?
 f) Welche Änderungen am Betriebsablauf werden auf der Strecke 
-Abzw. Landl–Rohrdorf während der Sanierung der Strecke
+Abzw Landl–Rohrdorf während der Sanierung der Strecke
 Rosenheim–Salzburg vorgenommen?
 Berlin, den 6. Juli 2026
 Katharina Dröge, Britta Haßelmann und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
