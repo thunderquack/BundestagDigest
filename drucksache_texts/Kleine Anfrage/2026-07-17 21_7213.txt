@@ -9,13 +9,13 @@ und der Fraktion Die Linke
 Monitoring des Ausbaus von Rechenkapazität
 Die Bundesregierung hat am 18. März 2026 ihre Rechenzentrumsstrategie
 vorgelegt. Darin setzt sie sich das Ziel, die Rechenkapazitäten in Deutschland bis 
-2030 zu verdoppeln und die Rechenkapazitäten für KI mindestens zu
-vervierfachen. Eine Kenngröße für die tatsächliche Rechenkapazität benennt die
-Strategie nicht, die Ist-Beschreibung bezieht sich im Wesentlichen auf die IT-
-Anschlussleistung, die ausweislich der Strategie mit knapp 3 Megawatt
-beziffert wird. Eine Verdoppelung würde jedenfalls bedeuten, dass eine Vielzahl 
-neuer Rechenzentren gebaut werden müssten, mit den entsprechenden Folgen 
-auf Strom-, Wasser- und Flächenverbrauch.
+2030 zu verdoppeln und die Rechenkapazitäten für Künstliche Intelligenz (KI) 
+mindestens zu vervierfachen. Eine Kenngröße für die tatsächliche
+Rechenkapazität benennt die Strategie nicht, die Ist-Beschreibung bezieht sich im
+Wesentlichen auf die IT-Anschlussleistung, die ausweislich der Strategie mit knapp 
+3 Megawatt beziffert wird. Eine Verdoppelung würde jedenfalls bedeuten, dass 
+eine Vielzahl neuer Rechenzentren gebaut werden müsste, mit den
+entsprechenden Folgen für Strom-, Wasser- und Flächenverbrauch.
 Wir fragen die Bundesregierung:
  1. Gibt es in der Bundesregierung eine Übersicht über Rechenzentren, die 
 sich in Planung oder im Bau befinden, die auf das Ziel der Verdoppelung 
@@ -36,47 +36,46 @@ den verfügbaren Strom benennt, andere Indikatoren oder Kennzahlen zur
 Messung der tatsächlichen Rechenkapazität in Deutschland, die die
 Bundesregierung verdoppeln will?
  5. An welchen Indikatoren und auf welcher Datengrundlage misst die
-Bundesregierung während der nächsten 4 Jahre den Fortschritt bei der
-Erreichung der ihrer Ziele, insbesondere,
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+Bundesregierung während der nächsten vier Jahre den Fortschritt bei der
+Erreichung ihrer Ziele, insbesondere,
 a) ob sie ihre Ziele „Verdoppelung der der Rechenkapazität“ und
 „Vervierfachung der Rechenkapazität für KI“ erreicht bzw. bis 2030 noch 
 erreichen kann,
 b) ob Maßnahmen, die sie zur Erreichung dieser Ziele ergriffen hat,
 tatsächlich die gewünschte Wirkung haben?
  6. Welche Vorschriften und Maßnahmen plant die Bundesregierung, um
-Anreize für die Betreiber von Rechenzentren zu schaffen, den tatsächlich 
+Anreize für die Betreiber von Rechenzentren zu schaffen, den tatsächlichen 
 Stromverbrauch der in einem Rechenzentrum verbauten Hardware auf das 
-Minimum zu reduzieren, vor dem Hintergrund, dass der PUE-Wert
-lediglich das Verhältnis zwischen dem Stromverbrauch für die Hardware und 
-dem Stromverbrauch für die Kühlung darstellt, und damit
-klimafreundlicher wirkt, je höher der Stromverbrauch der Hardware ist?
- 7. Wie bewertet die Bundesregierung die mit der Verdopplung der
+Minimum zu reduzieren, vor dem Hintergrund, dass der Power-Usage-
+Effectiveness-Wert lediglich das Verhältnis zwischen dem
+Stromverbrauch für die Hardware und dem Stromverbrauch für die Kühlung
+darstellt und damit klimafreundlicher wirkt, je höher der Stromverbrauch der 
+Hardware ist?
+ 7. Wie bewertet die Bundesregierung die mit der Verdoppelung der
 Rechenkapazität einhergehenden Umwelt- und Klimaauswirkungen?
- 8. Welche eigenen Bewertungen oder solche von Externen zieht die
+ 8. Welche eigenen Bewertungen oder welche von Externen zieht die
 Bundesregierung für diese Bewertung heran?
  9. Wie gedenkt die Bundesregierung eine transparente Datengrundlage für 
 die Bewertung der Umwelt- und Klimaauswirkungen sicherzustellen, 
-wenn sie mit dem am 24. Juni 2026 beschlossenen Entwurf Gesetz zur 
-Beschleunigung der Umsetzung der Energieeffizienzrichtlinie (insbes. 
-§ 13 EnEfG) plant, die Öffentlichkeit von wesentlichen Informationen 
-auszuschließen?
+wenn sie mit dem am 24. Juni 2026 beschlossenen Entwurf eines Gesetzes 
+zur Beschleunigung der Umsetzung der Energieeffizienzrichtlinie
+(insbesondere § 13 des Energieeffizienzgesetzes) plant, die Öffentlichkeit von 
+wesentlichen Informationen auszuschließen?
 10. Inwieweit fördert der Bund die Ansiedlung und den Neubau oder Ausbau 
 von Rechenzentren der Privatwirtschaft durch Mittel aus dem
 Bundeshaushalt oder durch steuerliche Begünstigungen?
 a) Welche Unternehmen haben für den Neubau oder Ausbau von
 Rechenzentren seit Amtsantritt der aktuellen Bundesregierung bereits 
-Förderung bekommen (Bitte jeweils Unternehmen, geförderten 
+Förderung bekommen (bitte jeweils Unternehmen, geförderten 
 Rechenzentrumsstandort und Fördersumme angeben)?
 b) Aus welchen Titeln des Bundeshaushaltes stehen für 2026 noch
 Förderungsmöglichkeiten in welcher Höhe zur Verfügung?
 c) Welche Förderkriterien gelten für entsprechende Zuwendungen?
-d) In welchen Haushaltstiteln sind im Regierungsentwurf zum Haushalt 
-2027 dafür Mittel in welcher Höhe für den Neubau oder Ausbau von 
-Rechenzentren durch private Unternehmen vorgesehen?
-11. Nach Einschätzung der Bunderegierung, wie hoch ist der prognostizierte 
-tatsächliche zusätzliche Strombedarf für Deutschland verursacht durch 
+d) In welchen Haushaltstiteln sind im Regierungsentwurf zum
+Bundeshaushalt 2027 Mittel in welcher Höhe für den Neubau oder Ausbau 
+von Rechenzentren durch private Unternehmen vorgesehen?
+11. Wie hoch ist nach Einschätzung der Bundesregierung der prognostizierte 
+tatsächliche zusätzliche Strombedarf für Deutschland, verursacht durch 
 neue Rechenzentren in den Jahren 2030 bzw. 2040 im Vergleich zu 2025?
 12. In welchen Szenarien bzw. Planungen ist dieser Strombedarf bereits
 berücksichtigt und in welchen gegebenenfalls noch nicht (beispielsweise 
@@ -87,5 +86,3 @@ Heidi Reichinnek, Sören Pellmann und Fraktion
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
