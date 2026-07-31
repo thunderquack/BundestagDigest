@@ -1,0 +1,451 @@
+Deutscher Bundestag Drucksache 21/7323
+21. Wahlperiode 23.07.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Gerold Otten, Nicole Höchst, 
+Udo Theodor Hemmelgarn, weiterer Abgeordneter und der Fraktion der AfD 
+– Drucksache 21/6839 –
+Entwicklung und Einsatz von künstlicher Intelligenz in der Rüstungskontrolle – 
+Potenziale, Risiken und strategische Ausrichtung der Bundesregierung
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die rasante Entwicklung der künstlichen Intelligenz (KI) verändert die globale 
+Sicherheitsarchitektur grundlegend. In der rüstungskontrollpolitischen Debatte 
+nimmt KI eine Doppelrolle ein: Einerseits fungiert sie als regulatorischer
+Gegenstand, da die Entstehung autonomer Waffensysteme (Lethal Autonomous 
+Weapon Systems (LAWS)) die klassische, hardwarefokussierte
+Rüstungskontrolle vor existenzielle Herausforderungen stellt. Andererseits bietet KI als 
+Werkzeug (z. B. durch automatisierte Satellitenbildanalyse, Mustererkennung 
+und multisensorielle Datenfusion) neue, hocheffiziente Möglichkeiten zur
+Verifikation internationaler Rüstungsabkommen (www.prif.org/fileadmin/Daten/
+Publikationen/Prif_Reports/2019/PRIF0419_barrierefrei.pdf).
+Möglichkeiten des Einsatzes von KI als Werkzeug finden sich in der
+automatisierten Satelliten- und Sensorauswertung, bei der multisensoriellen
+Datenfusion, bei der Überwachung globaler Lieferketten sowie in der Open Source
+Intelligence. Im Einzelnen geht es beispielsweise darum, dass KI Veränderungen 
+an nuklearen oder militärischen Infrastrukturen (z. B. Bewegungen von
+Trägersystemen, Baumaßnahmen an Silos) in Echtzeit aufspüren kann, indem sie 
+Gigabytes an täglichen Satellitendaten filtert, oder Korrelationen in Daten 
+über seismische Aktivitäten, um verdeckte Explosionen (geheime
+Atomwaffentests) von natürlichen Erdbeben unterscheidet. Bei Dual-Use-Gütern
+können KI-gestützte Text- und Datenanalysen (Natural Language Processing) 
+Handelsdaten, Zollpapiere und Firmenregister weltweit durchsuchen, um
+verdächtige Beschaffungsmuster oder Umgehungsnetzwerke zu identifizieren 
+(siehe PRIF (Peace Research Institute Frankfurt)-Report, S. 18 bis 25).
+Die konkrete behördliche Praxis im Inland wirft bei den Fragestellern
+allerdings Fragen auf. Aus Antworten der Bundesregierung auf frühere
+parlamentarische Anfragen geht hervor, dass Bundesbehörden wie das Auswärtige Amt 
+KI im operativen Bereich der Rüstungskontrolle derzeit kaum nutzen
+(beispielsweise hier Antwort zu Frage 1 auf Bundestagsdrucksache 20/11281). 
+Gleichzeitig fließen finanzielle Mittel in externe Forschungsinitiativen (u. a. 
+am IFSH (Institut für Friedensforschung und Sicherheitspolitik an der
+Universität Hamburg; www.hamburg-armscontrol.de/) oder im Rahmen von iPRAW 
+(International Panel on the Regulation of Autonomous Weapons; www.ssoar.i
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Auswärtigen Amts vom 23. Juli 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+nfo/ssoar/bitstream/handle/document/77402/ssoar-2021-Focus_on_National_
+Regulations_on.pdf?sequence=1&isAllowed=y) oder in nationale und
+internationale Veranstaltungen und Formate („Künstliche Intelligenz und
+Massenvernichtungswaffen“ im Juni 2024: www.auswaertiges-amt.de/de/aussenpolitik/si
+cherheitspolitik/abruestung-ruestungskontrolle/2665058-2665058) etc. (vgl. 
+Jahresabrüstungsbericht 2024, www.auswaertiges-amt.de/resource/blob/27285
+38/44f35608348f9b5108a696eaef98ceb6/abrbericht2024-data.pdf, hier S. 39 
+bis 40; Jahresabrüstungsbericht 2025 Bundestagsdrucksache 21/5850, hier 
+S. 12), deren konkreter Nutzen und Einfluss auf die deutsche Außen- und 
+Sicherheitspolitik für die Fragesteller schwer nachvollziehbar sind.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Die Bundesregierung nimmt die Vorbemerkung der Fragesteller zur Kenntnis, 
+ohne den darin enthaltenen Wertungen zuzustimmen.
+Künstliche Intelligenz (KI) unterliegt einer rasanten Entwicklung. Der Einsatz 
+von Künstlicher Intelligenz im militärischen Bereich bleibt eine der wichtigsten 
+Herausforderungen für die Rüstungs- und Exportkontrolle und ist mit Risiken, 
+aber auch Chancen verbunden.
+Das Thema Exportkontrolle liegt primär in der Verantwortung des
+Bundesministeriums für Wirtschaft und Energie. Der Themenbereich
+Rüstungskontrolle, Nichtverbreitung und Abrüstung, einschließlich Fragen der Verifikation, 
+liegt grundsätzlich in der Verantwortung des Auswärtigen Amts. Die
+Implementierung von Rüstungskontrollmaßnahmen obliegt dem Bundesministerium 
+der Verteidigung und der Bundeswehr, insbesondere dem Zentrum für
+Verifikationsaufgaben der Bundeswehr (ZVBw). Darüber hinaus liegt im Fall
+multilateraler Verträge die Verifikation, soweit vorgesehen, bei den jeweils zuständigen 
+internationalen Organisationen.
+Bestehende Rüstungskontrollverträge sehen bislang keinen Einsatz von KI-
+gestützten Systemen vor. Folglich werden zum jetzigen Zeitpunkt durch die
+Bundesregierung keine KI-gestützten Systeme oder Verfahren des maschinellen 
+Lernens direkt oder indirekt im Rahmen der Rüstungs- oder der
+Exportkontrolle eingesetzt. Potential und Grenzen des Einsatzes von KI sind noch nicht
+ausreichend erforscht. Insbesondere im Kontext von bi- und multilateraler
+Rüstungskontrolle stellen die Akzeptanz und das Vertrauen in Ergebnisse der KI 
+eine besondere Herausforderung dar.
+Die Bundesregierung bekräftigt die Notwendigkeit, Chancen der KI im Bereich 
+der Rüstungskontrolle/Verifikation und Exportkontrolle sinnvoll zu nutzen. Die 
+Einsatzmöglichkeiten von KI in der Verifikation werden derzeit im Zentrum für 
+Verifikationsaufgaben der Bundeswehr in einer geschlossenen Testumgebung 
+erprobt. Im Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird im 
+Bereich der Exportkontrolle aktuell die Neuauflage des digitalen Antrags- und 
+Bearbeitungsportals vorbereitet und in diesem Rahmen auch der künftige
+Einsatz von KI geprüft. Darüber hinaus fördert die Bundesregierung Projekte aus 
+der Wissenschaft und der Zivilgesellschaft sowie den Austausch mit und unter 
+Expertinnen und Experten sowohl aus dem naturwissenschaftlichen als auch 
+aus dem politischen Bereich, um die Expertise in diesem Bereich zu stärken 
+und so die Entwicklung verlässlicher und geeigneter KI-gestützter
+Verifikationstechnologien zu beschleunigen.
+In diesem Zusammenhang wird auf die Leitlinien für den Einsatz Künstlicher 
+Intelligenz in der Bundesverwaltung 2025, die KI‑CHARTA für das
+Auswärtige Amt (abrufbar unter: www.auswaertiges-amt.de/resource/blob/2704198/946
+ef839ee2ee57a5d1e6c40ff975d8f/250306-ki-charta-pdf-data.pdf) und den 
+Bericht der Bundesregierung zum Stand der Bemühungen um
+Rüstungskontrolle, Abrüstung und Nichtverbreitung sowie über die Entwicklung der
+Streitkräftepotenziale für das Jahr 2025 verwiesen.
+ 1. In welchen Bundesministerien, nachgeordneten Behörden etc. werden 
+bereits heute KI-gestützte Systeme oder Verfahren des maschinellen 
+Lernens direkt oder indirekt zur Rüstungs-, Export- oder
+Verifikationskontrolle eingesetzt (bitte nach System, Einsatzzweck und Behörde
+aufschlüsseln)?
+ 2. In welchen Bundesministerien, nachgeordneten Behörden etc. ist ein
+solcher Einsatz vorgesehen oder geplant, und wie ist der Stand der
+Einführung?
+Die Fragen 1 und 2 werden zusammen beantwortet.
+Auf die Vorbemerkung der Bundesregierung wird verwiesen.
+ 3. Welche konkreten Pläne oder Machbarkeitsstudien existieren seitens der 
+Bundesregierung, um KI-Anwendungen zur automatisierten Auswertung 
+von Satellitenbildern, Lieferkettenüberwachungen oder Open-Source-
+Daten (OSINT) in den kommenden Jahren in die behördliche Praxis der 
+Export- und Rüstungskontrolle zu integrieren?
+Auf die Vorbemerkung der Bundesregierung und die Antwort zu Frage 6 wird 
+verwiesen.
+ 4. Inwieweit unterstützt die Bundesregierung internationale
+Kontrollbehörden (wie die Internationale Atomenergie-Organisation (IAEO) oder die 
+Comprehensive Nuclear-Test-Ban Treaty Organization (CTBTO))
+personell, finanziell oder technologisch bei der Entwicklung und
+Implementierung von KI-Verifikationswerkzeugen (bitte Unterstützung
+aufschlüsseln)?
+Die Bundesregierung unterstützt internationale Organisationen mit
+Verifikations- und Monitoringaufgaben, wie etwa die Internationale Atomenergie
+Organisation (IAEO), die Organisation des Vertrags über ein umfassendes Verbot 
+von Nuklearversuchen (CTBTO; Provisorisches Technisches Sekretariat) und 
+die Organisation für das Verbot chemischer Waffen (OVCW) personell,
+finanziell und technologisch. Die Entwicklung und Implementierung von KI-
+Verifikationswerkzeugen ist bislang kein expliziter Bestandteil der Förderung.
+ 5. Welche konkreten Exportkontrollmaßnahmen wendet das Bundesamt für 
+Wirtschaft und Ausfuhrkontrolle (BAFA) derzeit an, um den
+unkontrollierten Abfluss von hoch spezialisierter KI-Software und Algorithmen-
+Designs in Drittstaaten zu verhindern, und wo sieht die Bundesregierung 
+hier gegebenenfalls regulatorischen Anpassungsbedarf?
+KI-Software und Designs von Algorithmen unterliegen analog zu
+konventioneller Software und Technologie hinsichtlich ihrer Funktionalitäten der
+Exportkontrolle. Im militärischen Bereich ist Software, besonders konstruiert oder
+geändert für militärische Zwecke, von Listennummer A0021 der Ausfuhrliste
+erfasst. Source-Code und andere Technologie zur Entwicklung von militärischer 
+Software ist erfasst von Listennummer A0022.
+Nicht militärische KI-Software und Technologie hierfür mit doppeltem
+Verwendungszweck unterliegt ebenfalls anhand ihrer Funktionalitäten der
+exportkontrollrechtlichen Überprüfung anhand Anhang I der Verordnung (EU) 
+2021/821.
+ 6. Welche konkreten Forschungsprojekte im Bereich „KI in der
+Rüstungskontrolle bzw. Verifikation“ wurden seit dem Jahr 2021 durch
+Bundesmittel gefördert (bitte nach Projekttitel, Zuwendungsempfänger, Laufzeit, 
+federführendem Bundesministerium und genauer Fördersumme
+aufschlüsseln)?
+Die erbetenen Informationen können der Anlage 1 entnommen werden.
+ 7. Welche konkreten wissenschaftlichen oder politischen
+Handlungsempfehlungen sind aus dem vom Auswärtigen Amt geförderten „Forschungs- 
+und Transferprojekt Rüstungskontrolle und Neue Technologien“ am
+Institut für Friedensforschung und Sicherheitspolitik (IFSH; www.hamburg-
+armscontrol.de/) sowie aus anderen Projekten, Veranstaltungen etc.
+hervorgegangen, und inwieweit wurden diese in die praktische Politik des 
+Auswärtigen Amts übernommen?
+Die Ergebnisse und Handlungsempfehlungen des vom Auswärtigen Amt
+geförderten „Forschungs- und Transferprojekts Rüstungskontrolle und Neue
+Technologien“ am Institut für Friedensforschung und Sicherheitspolitik (IFSH, www.h
+amburg-armscontrol.de/) sind öffentlich zugänglich. Die
+Handlungsempfehlungen dieses, wie auch anderer relevanter wissenschaftlicher und
+zivilgesellschaftlicher Projekte und Publikationen, darunter auch der CNTR-Monitor des 
+vom Auswärtigen Amt geförderten Clusters Natur- und
+Technikwissenschaftliche Rüstungskontrollforschung des Peace Research Institute Frankfurt (PRIF 
+Leibniz-Institut für Friedens- und Konfliktforschung, www.cntrarmscontrol.or
+g/de/publikationen/cntr-monitor), fließen in den Meinungsbildungsprozess der 
+Bundesregierung ein.
+ 8. Welche Bedeutung hat die Agentur für Innovation in der Cybersicherheit 
+(Cyber-Agentur; www.cyberagentur.de/) bei der Erforschung von KI-
+Regulierungs- und Verifikationsmethoden, und welche konkreten Budgets 
+wurden dort für diesen spezifischen Bereich bisher bereitgestellt?
+Die Agentur für Innovation in der Cybersicherheit (Cyberagentur) hat derzeit 
+keine Programme oder Projekte, die sich mit der Erforschung von KI-
+Regulierungs- und Verifikationsmethoden insbesondere in der Rüstungskontrolle
+befassen.
+ 9. Wie soll nach Ansicht der Bundesregierung verifiziert werden, ob ein 
+Staat ein KI-Modell für militärische Zwecke trainiert, zumal
+Algorithmen digital verborgen, modifiziert oder kopiert werden können?
+10. Gibt es dementsprechend ein Konzept, wie ein Kontrollregime für
+immaterielle Technologie (Codes) aussehen kann, ohne dass Staaten
+tiefgehende und damit völkerrechtlich undenkbare Einblicke in ihre sensibelsten 
+Serverstrukturen gewähren müssen?
+Die Fragen 9 und 10 werden zusammen beantwortet.
+Nach Ansicht der Bundesregierung ist es aufgrund des Dual-Use Charakters 
+neuer Technologien sowie als Folge von Geheimhaltung und Intransparenz
+hinsichtlich des militärischen Einsatzes von KI nicht abschließend möglich zu
+verifizieren, ob und inwieweit andere Staaten KI-Modelle für militärische Zwecke 
+trainieren. Die Bundesregierung setzt sich für eine verantwortungsvolle
+militärische Entwicklung und Nutzung von Künstlicher Intelligenz im Rahmen der 
+völkerrechtlichen Bestimmungen ein. Im Übrigen wird auf den Bericht der 
+Bundesregierung zum Stand der Bemühungen um Rüstungskontrolle,
+Abrüstung und Nichtverbreitung sowie über die Entwicklung der
+Streitkräftepotenziale für das Jahr 2025 verwiesen.
+11. Welche Kriterien muss ein KI-Modell mit allgemeinem
+Verwendungszweck (General Purpose AI, www.bundesnetzagentur.de/DE/Fachtheme
+n/Digitales/KI/3_Modelle/start.html) erfüllen, um als rüstungsrelevant 
+eingestuft zu werden und wie will man in diesem Zusammenhang das 
+Open-Source-Schlupfloch (sobald der Code öffentlich ist, greift das
+Exportkontrollrecht laut Ausnahmeregelungen oft nicht mehr, da es
+„allgemein zugänglich“ ist) schließen?
+Als rüstungsrelevant wird Software entsprechend der Kriterien der
+Listennummer A0021 der Ausfuhrliste eingestuft.
+12. Hat sich die Bundesregierung mit dem möglichen Risiko
+auseinandergesetzt, dass kleine und mittlere Unternehmen (KMU) sowie innovative 
+KI-Start-ups in Deutschland aufgrund mangelnder Ressourcen und
+fehlender spezialisierter Rechtsabteilungen unwissentlich gegen komplexe 
+exportkontrollrechtliche Vorgaben – beispielsweise durch die weltweite 
+Bereitstellung von API (Application Programming Interface)-
+Schnittstellen (Intangible Technology Transfer) – verstoßen, und wenn ja, wie
+positioniert sie sich gegebenenfalls dazu, und wie will sie dieser
+Überforderung gegebenenfalls begegnen?
+a) Welche konkreten, niederschwelligen Beratungs-, Aufklärungs- und 
+Hilfsangebote stellt das Bundesamt für Wirtschaft und
+Ausfuhrkontrolle (BAFA) gegebenenfalls speziell für junge KI-Unternehmen 
+und Entwicklerteams bereit, um diese vor unbeabsichtigten
+strafrechtlichen Konsequenzen beim Export von Software und API-
+Zugängen zu schützen?
+b) Sieht die Bundesregierung die Gefahr, dass der hohe bürokratische 
+Aufwand im Bereich der Exportkontrolle für Dual-Use-fähige
+Software die Gründerszene in Deutschland im internationalen Vergleich 
+(insbesondere gegenüber den USA und China) systematisch
+benachteiligt und somit dringend benötigte technologische Innovationen im 
+Inland blockiert?
+c) Welche Pläne verfolgt die Bundesregierung gegebenenfalls, um
+exportkontrollrechtliche Genehmigungsverfahren für digitale Güter und 
+Software-Dienstleistungen von KMU und Start-ups zu
+entbürokratisieren und zu beschleunigen (z. B. durch automatisierte
+Prüfverfahren oder Bagatellgrenzen bei API-Nutzungen)?
+Frage 12 bis 12c werden zusammen beantwortet.
+Das Bundesministerium für Wirtschaft und Energie hat zusammen mit dem 
+Bundesamt für Wirtschaft und Ausfuhrkontrolle seit August 2023 mehrere 
+Maßnahmenpakete erlassen, durch welche die Bearbeitungszeiten deutlich 
+reduziert wurden.
+Die Bundesregierung arbeitet weiter aktiv daran, die Verfahrensdauer bei der 
+Bearbeitung von Ausfuhranträgen weiter zu beschleunigen, um Belastungen für 
+die deutsche Industrie, gerade auch den Mittelstand, zu beseitigen. Dabei steht 
+die Exportkontrolle weiterhin vor der Herausforderung, dass die berechtigten
+Interessen der Exporteure an schnelleren Genehmigungsverfahren mit den
+gebotenen vertieften Prüfungen in Einklang zu bringen sind.
+Das BAFA informiert die deutsche Industrie über die Einhaltung der
+Exportkontrollen allgemein mittels einer Bandbreite an Merkblättern (insbesondere 
+auch Technologietransfer), Informationen auf der BAFA-Internetseite über
+Updates/Änderungen/Neuigkeiten sowie einem Newsletter und diversen
+Veranstaltungen (u. a. Informationstag Exportkontrolle, Exportkontrolltag,
+Veranstaltungen der Deutschen Industrie- und Handelskammer (DIHK)/ Industrie- und
+Handelskammer (IHK)) sowie Austausch mit dem Bundesverband der Deutschen 
+Industrie e. V. (BDI) und weiteren Verbänden.
+Die Einhaltung von Verboten und Genehmigungspflichten ist vor jeder Ausfuhr 
+von dem Ausführer in eigener Verantwortung zu prüfen, ein Verstoß ist
+strafbewährt. Unternehmen stehen verschiedene niederschwellige Antragsverfahren 
+zur Verfügung, z. B. Allgemeine Auskünfte zur Güterliste und sonstige
+Anfragen.
+Anlage 1
+6. Welche konkreten Forschungsprojekte im Bereich „KI in der Rüstungskontrolle / Verifikation“ wurden seit dem Jahr 2021 durch Bundesmittel gefördert
+(bitte nach Projekttitel, Zuwendungsempfänger, Laufzeit, federführendem Ministerium und genauer Fördersumme aufschlüsseln)?
+Die erbetenen Informationen können nachstehender Tabelle entnommen werden. Alle nachgenannten Maßnahmen wurden mit Abrüstungsmitteln aus
+Haushaltstitel 0501–687 27 des Auswärtigen Amtes (AA) finanziert.
+Haushaltsjahr
+Projekttitel Zuwendungsempfänger Laufzeit Federführendes
+Ministerium
+Fördersumme in Euro
+2021 The International Panel on the
+Regulation of Autonomous Weapons 3 
+(iPraw 3)
+Stiftung Wissenschaft und
+Politik (SWP)
+04.02.2020– 
+30.06.2022
+AA 2021: 91.479,81
+2022: 91.479,81
+Stockholmer Sicherheitskonferenz 2021 
+- Battlefields of the Future: Trends of
+Conflict and Warfare in the 21st Century
+Stockholm International
+Peace and Research Institute
+(SIPRI)
+2021 AA 21.101,00
+Unpacking Technological Complexity &
+Approaches to Nuclear Policy
+Formulation
+European Leadership Network 
+(ELN)
+01.03.2021-
+31.12.2022
+AA 2021: 210.411,00
+2022: 223.779,40
+Rüstungskontrolle und Neue
+Technologien
+Institut für Friedensforschung 
+und Sicherheitspolitik an der 
+Universität Hamburg (IFSH)
+21.03.2019-
+31.12.2022
+AA 2021: 957.720,35
+2022: 969.816,51
+2023 Cluster Natur- und Leibniz-Institut für Friedens- 01.01.2023- AA 2023: 758.751,39
+Technikwissenschaftliche und Konfliktforschung / Peace 31.12.2027 2024: 964.052,30
+Rüstungskontrollforschung (CNTR) Research Institute Frankfurt 2025: 542.367,00
+(PRIF) 2026: 570.405,00 (SOLL)
+Simulating Technological Complexity &
+Advancing Risk Reduction in the NPT
+European Leadership Network 
+(ELN)
+01.09.2023-
+31.08.2025
+AA 2023: 77.369,02
+2024: 176.665,34
+2025: 157.356,89
+Rüstungskontrolle und Neue Institut für Friedensforschung 19.01.2023- AA 2023: 981.713,56
+Technologien (Phase II) und Sicherheitspolitik an der 31.12.2026 2024: 1.108.000,00
+Universität Hamburg (IFSH) 2025: 1.157.000,00
+2026: 1.157.000,00
+ 
+    
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+    
+  
+ 
+ 
+ 
+ 
+  
+ 
+   
+ 
+ 
+ 
+  
+   
+ 
+      
+      
+  
+  
+ 
+ 
+ 
+  
+  
+   
+  
+  
+ 
+  
+  
+   
+  
+ 
+ 
+ 
+ 
+ 
+    
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+ 
+Anlage 1
+2024 Bias in Military Artificial Intelligence and
+Compliance with International
+Humanitarian Law
+Stockholm International
+Peace and Research Institute
+(SIPRI)
+01.07.2024-
+31.12.2025
+AA 2024: 71.401,00
+2025: 163.599,00
+Zuwendung zu UNIDIR‘s Science & Institut der Vereinten 01.12.2024– AA 400.000,00
+Technology Programme 2024/2025 Nationen für 
+Abrüstungsforschung 
+(UNIDIR)
+31.12.2025
+Red Lines, Threat Perceptions and the
+AI and Nuclear Nexus
+Stockholm International
+Peace Research Institute
+(SIPRI)
+01.02.2024-
+30.11.2025
+AA 2024: 118.580,00
+2025: 165.704,00
+NPT PrepCom Side Event „AI and
+Nuclear Decision-Making”
+Institut für Friedensforschung 
+und Sicherheitspolitik an der 
+Universität HH (IFSH)
+15.06.2024-
+31.08.2024
+AA 3.872,00
+Konferenz Rethinking Arms Control – KI 
+und Massenvernichtungswaffen
+Externe Dienstleister 28.06.2024 AA 68.752,00
+OVCW Konferenz KI Marokko OVCW 2024 AA 65.000,00
+2025 Zuwendung zu UNIDIR‘s Science &
+Technology Programme 2025/2026
+UNIDIR 01.12.2025– 
+31.12.2026
+AA 500.000,00
+Modelling Risk Reduction and European Leadership Network 01.09.2025- AA 2025: 67.672,78
+Advancing the Guardrails and Self-
+Assessment Framework: Developing an
+AI Nuclear Risk Reduction Support Tool
+(NURIST)
+(ELN) 31.08.2026 2026: 243.623,26 (SOLL)
+2026 Fulfilling Opportunities at the AI-
+Nuclear Nexus
+Stockholm International
+Peace Research Institute
+(SIPRI)
+01.04.2026-
+30.11.2027
+AA 2026: 122.428,50 (SOLL)
+2027: 175.931,50 (SOLL)
+Exploring the Role of Quantum 
+Technologies in Nuclear Arms Control 
+Verification
+Stockholm International
+Peace Research Institute
+(SIPRI)
+01.04.2026-
+30.11.2027
+AA 2026: 142.419,00 (SOLL)
+2027: 156.735,00 (SOLL)
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
