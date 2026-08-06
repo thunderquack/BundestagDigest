@@ -1,5 +1,41 @@
 [
   {
+    "number": "21/7431",
+    "author": "die Linke",
+    "date": "2026-07-29",
+    "title": "Состояние безопасности в области космоса",
+    "description_ru": "Депутаты интересуются, какие основные принципы безопасности лежат в основе космической стратегии правительства и как оно оценивает баланс между национальными возможностями и международной стабильностью. Правительство отвечает, что оно определяет космос как важную область безопасности и подчеркивает необходимость предотвращения гонки вооружений в космосе. Оно также акцентирует внимание на важности международного сотрудничества и разработки норм, регулирующих использование космоса.",
+    "description_de": "Die Abgeordneten fragen, welche sicherheitspolitischen Leitvorstellungen der Weltraumsicherheitsstrategie zugrunde liegen und wie die Bundesregierung das Spannungsverhältnis zwischen nationalem Fähigkeitsaufbau und internationaler Stabilität bewertet. Die Bundesregierung antwortet, dass der Weltraum als sicherheitspolitische Handlungsdomäne betrachtet wird und die Verhinderung eines Wettrüstens im Weltraum von zentraler Bedeutung ist. Zudem wird die Notwendigkeit internationaler Kooperation und Normenbildung hervorgehoben.",
+    "saved_date": "2026-08-06"
+  },
+  {
+    "number": "21/7432",
+    "author": "AfD",
+    "date": "2026-07-29",
+    "title": "Развитие технологий для производства электроэнергии из рек",
+    "description_ru": "Депутаты интересуются развитием и поддержкой технологий, таких как Energyfish, для производства электроэнергии из рек. Они задают вопросы о том, какие министерства занимаются этой темой и какова их роль. Правительство отвечает, что в рамках инициативы \"Биологическая экономика\" нет активной поддержки проектов, подобных Energyfish, и что текущие программы не финансируют такие технологии. Также поднимаются вопросы о критериях выбора проектов для финансирования и о сотрудничестве с землями в этой области.",
+    "description_de": "Die Abgeordneten fragen nach der Entwicklung und Förderung von Technologien wie Energyfish zur Stromerzeugung aus Fließgewässern. Sie möchten wissen, welche Ministerien sich mit diesem Thema befassen und welche Rolle sie spielen. Die Bundesregierung antwortet, dass im Rahmen der Initiative \"Blaue Bioökonomie\" keine aktive Unterstützung für Projekte wie Energyfish besteht und dass aktuelle Programme solche Technologien nicht finanzieren. Zudem werden Fragen zu den Auswahlkriterien für geförderte Projekte und zur Zusammenarbeit mit den Ländern in diesem Bereich aufgeworfen.",
+    "saved_date": "2026-08-06"
+  },
+  {
+    "number": "21/7433",
+    "author": "die Grünen",
+    "date": "2026-07-29",
+    "title": "Актуальный статус обеспечения безопасности поставок крови и плазмы в Германии",
+    "description_ru": "Депутаты интересуются текущим состоянием обеспечения безопасности поставок крови и плазмы в Германии, а также мерами, которые предпринимает правительство для улучшения ситуации. В ответе правительство сообщает, что данные о готовности к донорству не систематически собираются, но отмечает положительную динамику в количестве плазмодонорств с 2020 года. Также обсуждаются причины снижения числа новых доноров, особенно среди молодежи, и меры, направленные на повышение готовности к донорству, включая рекламные кампании и поддержку донорских служб.",
+    "description_de": "Die Abgeordneten fragen nach dem aktuellen Stand der Versorgungssicherheit mit Blut und Plasma in Deutschland sowie nach den Maßnahmen der Bundesregierung zur Verbesserung der Situation. In der Antwort teilt die Bundesregierung mit, dass keine systematischen Daten zur Spendenbereitschaft vorliegen, jedoch eine positive Entwicklung bei den Plasmaspenden seit 2020 festgestellt wurde. Zudem werden die Gründe für den Rückgang neuer Spender, insbesondere unter jungen Menschen, sowie Maßnahmen zur Stärkung der Spendenbereitschaft, einschließlich Werbekampagnen und Unterstützung von Spendediensten, erörtert.",
+    "saved_date": "2026-08-06"
+  },
+  {
+    "number": "21/7435",
+    "author": "AfD",
+    "date": "2026-07-29",
+    "title": "Деятельность по уходу за немецкими военными захоронениями за границей",
+    "description_ru": "Депутаты задают вопросы о финансировании и состоянии немецких военных захоронений за границей, включая количество полученных субсидий и участие различных министерств в этой деятельности. Правительство отвечает, что финансирование осуществляется через Volksbund Deutsche Kriegsgräberfürsorge e. V., который получает ежегодные средства на поддержку своих проектов. Также упоминается о проблемах, связанных с уходом за захоронениями в условиях ухудшения безопасности в Восточной Европе, особенно в связи с конфликтом в Украине.",
+    "description_de": "Die Abgeordneten stellen Fragen zur Finanzierung und zum Zustand der deutschen Kriegsgräberstätten im Ausland, einschließlich der Höhe der erhaltenen Zuschüsse und der Beteiligung verschiedener Ministerien an dieser Tätigkeit. Die Bundesregierung antwortet, dass die Finanzierung über den Volksbund Deutsche Kriegsgräberfürsorge e. V. erfolgt, der jährlich Mittel zur Unterstützung seiner Projekte erhält. Es wird auch auf Probleme hingewiesen, die mit der Pflege der Gräber unter den sich verschlechternden Sicherheitsbedingungen in Osteuropa verbunden sind, insbesondere im Zusammenhang mit dem Konflikt in der Ukraine.",
+    "saved_date": "2026-08-06"
+  },
+  {
     "number": "7372",
     "author": "AfD",
     "date": "2026-07-27",
@@ -186,42 +222,6 @@
     "title": "Статус финансирования проектов по охране природы",
     "description_ru": "Депутаты интересуются, какие земельные приобретения были осуществлены некоммерческими организациями с использованием средств программы \"Естественная защита климата\". Они задают вопросы о критериях оценки стоимости, а также о том, как правительство проверяет экономическую целесообразность этих приобретений. Правительство отвечает, что все проекты проверяются в соответствии с действующими нормами и что финансирование осуществляется на основе независимых оценок.",
     "description_de": "Die Abgeordneten fragen, welche Flächenerwerbe durch nichtstaatliche Naturschutzverbände mit Mitteln des Aktionsprogramms \"Natürlicher Klimaschutz\" durchgeführt wurden. Sie stellen Fragen zur Ermittlung der Kaufpreise und zur Wirtschaftlichkeit der Projekte. Die Bundesregierung antwortet, dass alle Vorhaben gemäß den geltenden Vorschriften geprüft werden und die Finanzierung auf unabhängigen Gutachten basiert.",
-    "saved_date": "2026-08-01"
-  },
-  {
-    "number": "21/7345",
-    "author": "die Linke",
-    "date": "2026-07-27",
-    "title": "Колонialrechtliche Diskriminierung и Staatsangehörigkeitsfragen",
-    "description_ru": "Депутаты интересуются вопросами, связанными с колониальным правом и дискриминацией, а также с правами гражданства, касающимися семьи Лейбл из Того. Они поднимают вопросы о том, как немецкие власти обрабатывали случаи смешанных браков и какие последствия это имело для потомков. Правительство отвечает, что исторические документы доступны в архиве и что они не могут предоставить конкретные данные о выплатах алиментов после окончания колониального правления. Также подчеркивается, что правовые нормы 1908 года не позволяют однозначно ответить на вопросы о регистрации браков между немцами и местными жителями.",
-    "description_de": "Die Abgeordneten fragen nach kolonialrechtlicher Diskriminierung und Staatsangehörigkeitsfragen im Zusammenhang mit der Familie Liebl aus Togo. Sie stellen Fragen zur Behandlung von Mischehen und den Auswirkungen auf die Nachkommen. Die Bundesregierung antwortet, dass historische Dokumente im Archiv verfügbar sind und dass sie keine spezifischen Informationen über Unterhaltszahlungen nach dem Ende der Kolonialherrschaft bereitstellen kann. Zudem wird betont, dass die rechtlichen Normen von 1908 keine eindeutigen Antworten auf die Fragen zur Registrierung von Ehen zwischen Deutschen und Einheimischen zulassen.",
-    "saved_date": "2026-08-01"
-  },
-  {
-    "number": "21/7351",
-    "author": "die Linke",
-    "date": "2026-07-27",
-    "title": "Альтернативы для борьбы с бедностью среди пожилых людей",
-    "description_ru": "Депутаты интересуются, как правительство планирует бороться с бедностью среди пожилых людей в Германии, особенно в Саарланде. Они указывают на высокие уровни бедности среди женщин старше 65 лет и на необходимость конкретных мер для улучшения ситуации. Правительство отвечает, что оно осведомлено о проблеме и ссылается на различные отчеты и статистику, однако конкретные меры по борьбе с бедностью среди пожилых людей пока не представлены.",
-    "description_de": "Die Abgeordneten fragen die Bundesregierung, welche Maßnahmen zur Bekämpfung der Altersarmut in Deutschland, insbesondere im Saarland, geplant sind. Sie weisen auf die hohe Armutsquote bei Frauen über 65 Jahre hin und fordern konkrete Schritte zur Verbesserung der Situation. Die Bundesregierung antwortet, dass sie sich der Problematik bewusst ist und auf verschiedene Berichte und Statistiken verweist, jedoch bisher keine konkreten Maßnahmen zur Bekämpfung der Altersarmut vorgelegt hat.",
-    "saved_date": "2026-08-01"
-  },
-  {
-    "number": "21/7352",
-    "author": "die Linke",
-    "date": "2026-07-27",
-    "title": "Альтернативные меры по борьбе с бедностью среди пожилых людей",
-    "description_ru": "Депутаты задают вопросы о состоянии бедности среди пожилых людей в Тюрингии и Германии, указывая на высокие уровни бедности среди людей старше 65 лет. Они выражают обеспокоенность по поводу возможных сокращений в пенсионной системе и предлагают альтернативные меры для улучшения ситуации. Правительство отвечает, что оно не имеет конкретных мер по борьбе с бедностью среди пожилых людей и ссылается на существующие отчеты и статистику, подчеркивая, что бедность является сложным и многогранным явлением, требующим комплексного подхода.",
-    "description_de": "Die Abgeordneten stellen Fragen zur Altersarmut in Thüringen und Deutschland und weisen auf die hohen Armutsraten bei über 65-Jährigen hin. Sie äußern Besorgnis über mögliche Kürzungen im Rentensystem und schlagen alternative Maßnahmen zur Verbesserung der Situation vor. Die Bundesregierung antwortet, dass sie keine konkreten Maßnahmen zur Bekämpfung der Altersarmut hat und verweist auf bestehende Berichte und Statistiken, wobei sie betont, dass Armut ein komplexes und vielschichtiges Phänomen ist, das einen umfassenden Ansatz erfordert.",
-    "saved_date": "2026-08-01"
-  },
-  {
-    "number": "21/7353",
-    "author": "die Linke",
-    "date": "2026-07-27",
-    "title": "Альтернативные меры по борьбе с бедностью среди пожилых людей",
-    "description_ru": "Депутаты интересуются, как правительство планирует бороться с бедностью среди пожилых людей в Берлине и Германии. В частности, они спрашивают о статистике по количеству пенсионеров, их доходам и мерам, которые могут быть предприняты для улучшения ситуации. Правительство отвечает, что бедность среди пожилых людей остается серьезной проблемой, особенно среди женщин, и что необходимо улучшение условий труда и пенсионного обеспечения. Также подчеркивается, что меры по снижению бедности должны быть комплексными и учитывать региональные особенности.",
-    "description_de": "Die Abgeordneten fragen, wie die Bundesregierung die Altersarmut in Berlin und Deutschland bekämpfen will. Insbesondere interessieren sie sich für Statistiken über die Anzahl der Rentner, deren Einkommen und welche Maßnahmen ergriffen werden können, um die Situation zu verbessern. Die Bundesregierung antwortet, dass Altersarmut ein ernstes Problem bleibt, insbesondere bei Frauen, und dass die Arbeitsbedingungen und die Rentenversicherung verbessert werden müssen. Es wird auch betont, dass Maßnahmen zur Bekämpfung von Armut umfassend sein und regionale Besonderheiten berücksichtigen sollten.",
     "saved_date": "2026-08-01"
   }
 ]
