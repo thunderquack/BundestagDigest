@@ -13237,5 +13237,68 @@
     "description_ru": "Депутаты задают вопросы о финансировании и состоянии немецких военных захоронений за границей, включая количество полученных субсидий и участие различных министерств в этой деятельности. Правительство отвечает, что финансирование осуществляется через Volksbund Deutsche Kriegsgräberfürsorge e. V., который получает ежегодные средства на поддержку своих проектов. Также упоминается о проблемах, связанных с уходом за захоронениями в условиях ухудшения безопасности в Восточной Европе, особенно в связи с конфликтом в Украине.",
     "description_de": "Die Abgeordneten stellen Fragen zur Finanzierung und zum Zustand der deutschen Kriegsgräberstätten im Ausland, einschließlich der Höhe der erhaltenen Zuschüsse und der Beteiligung verschiedener Ministerien an dieser Tätigkeit. Die Bundesregierung antwortet, dass die Finanzierung über den Volksbund Deutsche Kriegsgräberfürsorge e. V. erfolgt, der jährlich Mittel zur Unterstützung seiner Projekte erhält. Es wird auch auf Probleme hingewiesen, die mit der Pflege der Gräber unter den sich verschlechternden Sicherheitsbedingungen in Osteuropa verbunden sind, insbesondere im Zusammenhang mit dem Konflikt in der Ukraine.",
     "saved_date": "2026-08-06"
+  },
+  "21/7436": {
+    "number": "21/7436",
+    "author": "AfD",
+    "date": "2026-07-30",
+    "title": "Саботаж и шпионаж иностранных государств против Германии",
+    "description_ru": "Депутаты интересуются, какие конкретные данные о шпионаже, саботаже и запугивании со стороны иностранных государств имеются у правительства Германии за последние пять лет. Они хотят знать, какие инциденты были зафиксированы федеральными органами. Правительство отвечает, что не может предоставить запрашиваемую информацию, так как это может угрожать безопасности и работоспособности разведывательных служб. Также подчеркивается, что раскрытие таких данных может привести к утечке информации о методах работы служб, что недопустимо.",
+    "description_de": "Die Abgeordneten fragen, welche konkreten Erkenntnisse die Bundesregierung über Spionage, Sabotage und Einschüchterung durch ausländische Staaten in den letzten fünf Jahren hat. Sie möchten wissen, welche Vorfälle von Bundesbehörden erfasst wurden. Die Bundesregierung antwortet, dass sie die angeforderten Informationen nicht bereitstellen kann, da dies die Sicherheit und Funktionsfähigkeit der Nachrichtendienste gefährden könnte. Zudem wird betont, dass die Offenlegung solcher Daten zu einer Gefährdung der Arbeitsmethoden der Dienste führen könnte, was nicht akzeptabel ist.",
+    "saved_date": "2026-08-07"
+  },
+  "21/7437": {
+    "number": "21/7437",
+    "author": "AfD",
+    "date": "2026-07-31",
+    "title": "Вопросы к правительству по ЛГБТК-политике",
+    "description_ru": "Депутаты от фракции AfD задают вопросы о политике правительства в отношении ЛГБТК и законе о самоопределении. Они указывают на резкий рост диагнозов гендерной дисфории среди молодежи и требуют статистики по этому вопросу. Правительство отвечает, что не планирует проводить общенациональный сбор данных о молодежи с гендерной дисфорией и что лечение должно основываться на индивидуальных оценках врачей, а не на общих рекомендациях.",
+    "description_de": "Die Abgeordneten der AfD-Fraktion stellen Fragen zur LGBTQ-Politik der Bundesregierung und zum Selbstbestimmungsgesetz. Sie weisen auf den dramatischen Anstieg von Diagnosen der Geschlechtsdysphorie bei Jugendlichen hin und fordern Statistiken zu diesem Thema. Die Bundesregierung antwortet, dass sie keine landesweite Erfassung von Jugendlichen mit Geschlechtsdysphorie plant und dass die Behandlung auf individuellen Bewertungen der Ärzte basieren sollte, anstatt auf allgemeinen Empfehlungen.",
+    "saved_date": "2026-08-07"
+  },
+  "21/7442": {
+    "number": "21/7442",
+    "author": "die Grünen",
+    "date": "2026-07-31",
+    "title": "Учет потребностей финансового сектора в зданий энергетическом реестре",
+    "description_ru": "Депутаты задают вопросы о значении национального здания энергетического реестра для оценки энергоэффективности зданий и его влиянии на финансирование недвижимости. Правительство отвечает, что реестр будет создан в соответствии с европейскими нормами и будет полезен для кредиторов и страховщиков в оценке недвижимости. Также подчеркивается важность стандартизированных данных для выполнения регуляторных требований и оценки рисков.",
+    "description_de": "Die Abgeordneten fragen nach der Bedeutung des nationalen Gebäudeenergieregisters für die Bewertung der Energieeffizienz von Gebäuden und dessen Einfluss auf die Immobilienfinanzierung. Die Bundesregierung antwortet, dass das Register gemäß den europäischen Vorgaben eingerichtet wird und für Kreditgeber und Versicherer bei der Immobilienbewertung hilfreich sein wird. Zudem wird die Notwendigkeit standardisierter Daten zur Erfüllung regulatorischer Anforderungen und zur Risikobewertung betont.",
+    "saved_date": "2026-08-07"
+  },
+  "21/7443": {
+    "number": "21/7443",
+    "author": "die Linke",
+    "date": "2026-07-31",
+    "title": "Использование генеративного искусственного интеллекта правительством",
+    "description_ru": "Депутаты задают вопросы о том, использует ли правительство генеративный искусственный интеллект (ИИ) для создания речей и статей. В ответе правительство сообщает, что ИИ является инструментом, который помогает в административной работе, но не заменяет человеческое участие. Также упоминается, что использование ИИ должно быть прозрачным и подлежит проверке. Правительство подчеркивает, что все материалы, созданные с помощью ИИ, должны проходить проверку людьми перед использованием.",
+    "description_de": "Die Abgeordneten fragen, ob die Bundesregierung generative Künstliche Intelligenz (KI) zur Erstellung von Reden und Artikeln verwendet. In der Antwort erklärt die Bundesregierung, dass KI ein Werkzeug ist, das die Verwaltungsarbeit unterstützt, aber nicht das menschliche Engagement ersetzt. Es wird auch betont, dass der Einsatz von KI transparent sein und überprüft werden muss. Die Bundesregierung hebt hervor, dass alle mit KI erstellten Materialien vor der Verwendung von Menschen geprüft werden müssen.",
+    "saved_date": "2026-08-07"
+  },
+  "21/7445": {
+    "number": "21/7445",
+    "author": "AfD",
+    "date": "2026-07-31",
+    "title": "Уведомление о планировании теракта",
+    "description_ru": "Депутаты задают вопросы о возможном теракте, который, по сообщениям, планировался палестинцами в Берлине. Они интересуются, когда израильская разведка передала информацию о планируемом нападении и была ли названа личность, связанная с этой угрозой. Правительство отвечает, что не может предоставить информацию из-за соображений государственной безопасности и правил конфиденциальности, касающихся международного обмена разведывательной информацией. Также подчеркивается, что раскрытие информации может угрожать безопасности и эффективности работы разведывательных служб.",
+    "description_de": "Die Abgeordneten stellen Fragen zu einem möglichen Terroranschlag, der angeblich von Palästinensern in Berlin geplant wurde. Sie erkundigen sich, wann der israelische Geheimdienst Informationen über den geplanten Anschlag übermittelt hat und ob eine Person, die mit dieser Bedrohung in Verbindung steht, namentlich genannt wurde. Die Bundesregierung antwortet, dass sie aus Gründen der nationalen Sicherheit und der Vertraulichkeit internationaler Geheimdienstinformationen keine Auskunft geben kann. Es wird auch betont, dass die Offenlegung von Informationen die Sicherheit und Effizienz der Geheimdienstarbeit gefährden könnte.",
+    "saved_date": "2026-08-07"
+  },
+  "21/7446": {
+    "number": "21/7446",
+    "author": "die Grünen",
+    "date": "2026-07-31",
+    "title": "Транспарентность и отслеживаемость расходов на электромобильность",
+    "description_ru": "Депутаты задают вопросы о прозрачности и отслеживаемости расходов, связанных с европейской программой восстановления и устойчивости в Германии. Они интересуются, как распределяются средства, выделенные на экологически чистую мобильность, и какие конкретные статьи бюджета используются для этих целей. Правительство отвечает, что с 2020 по 2026 годы было выделено около 10,1 миллиарда евро на экологический бонус и инновационные премии, а также предоставляет детальную информацию о распределении этих средств по годам и производителям. Также обсуждаются меры по улучшению прозрачности и отчетности в будущем.",
+    "description_de": "Die Abgeordneten stellen Fragen zur Transparenz und Nachverfolgbarkeit der Ausgaben im Zusammenhang mit dem europäischen Aufbau- und Resilienzplan in Deutschland. Sie interessieren sich dafür, wie die Mittel für klimafreundliche Mobilität verteilt werden und welche konkreten Haushaltstitel dafür verwendet werden. Die Bundesregierung antwortet, dass von 2020 bis 2026 etwa 10,1 Milliarden Euro für den Umweltbonus und die Innovationsprämie bereitgestellt wurden und gibt detaillierte Informationen zur Verteilung dieser Mittel nach Jahren und Herstellern. Zudem werden Maßnahmen zur Verbesserung der Transparenz und Nachvollziehbarkeit in der Zukunft erörtert.",
+    "saved_date": "2026-08-07"
+  },
+  "21/7447": {
+    "number": "21/7447",
+    "author": "AfD",
+    "date": "2026-07-31",
+    "title": "Управление расходами обязательного медицинского страхования",
+    "description_ru": "Депутаты задают вопросы о расходах на управление обязательным медицинским страхованием, в частности о счете 07390 \"Прочие вознаграждения другим\". Правительство сообщает, что расходы на этот счет составляют значительную часть общих расходов на управление и предоставляют данные о расходах за 2014-2025 годы. Также упоминается, что без реформ могут возникнуть финансовые дефициты в будущем.",
+    "description_de": "Die Abgeordneten stellen Fragen zu den Verwaltungsausgaben der gesetzlichen Krankenversicherung, insbesondere zu Konto 07390 \"Sonstige Vergütungen an andere\". Die Bundesregierung berichtet, dass die Ausgaben auf diesem Konto einen erheblichen Teil der Gesamtausgaben ausmachen und legt Daten zu den Ausgaben von 2014 bis 2025 vor. Es wird auch erwähnt, dass ohne Reformen in der Zukunft Finanzierungsdefizite entstehen könnten.",
+    "saved_date": "2026-08-07"
   }
 }

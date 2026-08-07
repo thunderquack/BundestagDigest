@@ -1,0 +1,1591 @@
+Deutscher Bundestag Drucksache 21/7443
+21. Wahlperiode 31.07.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Sonja Lemke, Donata Vogtschmidt, 
+Anne-Mieke Bremer, weiterer Abgeordneter und der Fraktion Die Linke 
+– Drucksache 21/7187 –
+Nutzung von generativer Künstlicher Intelligenz durch die Bundesregierung
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Wochenzeitung „DIE ZEIT“ berichtete am 13. Juni 2026, eine Recherche 
+zur Nutzung von Künstlicher Intelligenz (KI) für Reden und Artikel des
+Bundesministers für Digitales und Staatsmodernisierung, Dr. Karsten Wildberger, 
+habe ergeben, dass mindestens eine seiner Reden vollständig KI-generiert
+gewesen sei. Bei weiteren seien vermutlich zumindest ganze Passagen durch KI 
+erstellt worden, darunter vier Reden vor dem Deutschen Bundestag. Auch ein 
+Gastbeitrag in der „Frankfurter Allgemeinen Sonntagszeitung (FAS)“ klinge 
+so, als sei er maschinell geschrieben worden (www.zeit.de/politik/deutschlan
+d/2026-06/karsten-wildberger-bundesdigitalminister-reden-ki-generierung).
+Die Nutzung von KI sei Redaktionen nicht gesondert offengelegt worden,
+habe ein Sprecher des Bundesministeriums für Digitales und
+Staatsmodernisierung (BMDS) der Zeitung „DIE ZEIT“ mitgeteilt. Zu den redaktionellen 
+Grundsätzen der „Frankfurter Allgemeinen Zeitung (FAZ)“ gehört es, keine 
+Originalbeiträge mit von KI generiertem Text zu veröffentlichen. Infolge der 
+Berichterstattung hat die „FAZ“ den Text von ihrer Website entfernt (www.zei
+t.de/digital/internet/2026-06/karsten-wildberger-ki-reden-gastbeitrag-
+cdugxe). Ein weiterer Gastbeitrag des Bundesministers am 4. April 2026 im 
+„Handelsblatt“ wurde von dessen Redaktion infolge der Berichterstattung
+zunächst depubliziert und auf KI-Nutzung überprüft (Deutsche Presse-Agentur).
+Die vom Bundesministerium des Innern (BMI) 2025 veröffentlichten
+„Leitlinien für den Einsatz Künstlicher Intelligenz in der Bundesverwaltung“
+empfehlen: „Ein transparenter Umgang mit der KI-Nutzung kann wesentlich dazu 
+beitragen, das Vertrauen der Bevölkerung in den KI-Einsatz durch den Staat 
+zu stärken – dies gilt insbesondere in der Kommunikation nach außen.“
+In einem Interview mit der Zeitung „DIE ZEIT“ sagte der Bundesminister im 
+Dezember 2025, er nutze KI-Chatbots privat ein bis zwei Stunden am Tag 
+(www.zeit.de/2025/54/karsten-wildberger-digitalminister-kuenstliche-intellige
+nz-china-usa). In einer Antwort des Bundesministeriums auf eine Anfrage 
+zum Informationsfreiheitsgesetz mit Bezug auf dieses Interview teilte das 
+Bundesministerium mit, „Minister Wildberger hat in seiner Funktion als
+Bundesminister für Digitales und Staatsmodernisierung bisher keine KI-Chatbots 
+genutzt“ (https://fragdenstaat.de/anfrage/chat-protokolle-von-karsten-wildberg
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Digitales und
+Staatsmodernisierung vom 30. Juli 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+er-mit-ki-chatbots/1081108/anhang/2026-02-02-bescheidchat-protokolleki-ch
+atbots_geschwaerzt.pdf).
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Künstliche Intelligenz (KI) ist Schlüsseltechnologie. Durch den Einsatz von KI 
+kann die öffentliche Verwaltung zentralen Herausforderungen mit innovativen 
+Lösungen begegnen, um Verwaltungsabläufe effizienter zu gestalten und zur 
+Arbeitsentlastung beizutragen. Eine moderne Verwaltung muss auch KI als
+Arbeitswerkzeug nutzen. KI kann dabei bei der Erstellung von Reden und
+Artikeln – aber auch bei weiteren Texten sowie allgemeiner Verwaltungsarbeit
+eingesetzt werden, stets eingebettet in einen Prozess mit menschlicher Prüfung 
+und Letztverantwortung. Der maßgebliche Standard lautet: Inhalt und
+Verantwortung liegen beim Menschen. KI kann unterstützen, aber sie ersetzt weder 
+Zielsetzung noch Struktur, Inhalt, Urteilsvermögen oder politische Haltung. KI 
+ist ein unterstützendes Werkzeug, der Mensch führt.
+Nach den Empfehlungen der Leitlinien für den Einsatz Künstlicher Intelligenz 
+in der Bundesverwaltung prüfen Nutzerinnen und Nutzer KI-generierte Inhalte 
+vor der weiteren Verwendung fachlich (vgl. Leitsatz A 4). Wenn KI-generierte 
+Inhalte von Menschen geprüft werden – fachlich, redaktionell und qualitativ, ist 
+regelmäßig keine weitere Kennzeichnung notwendig (vgl. Leitsatz A 5). Dies 
+entspricht auch den Anforderungen von Artikel 50 Absatz 4 Sätze 4 und 5 der 
+KI-VO.
+KI ist ein leistungsfähiges Werkzeug zur Unterstützung. Die Bundesregierung 
+fördert die Nutzung von KI in der Verwaltung, weil sie überzeugt ist, dass die 
+Leistungsfähigkeit der Bundesverwaltung – aber auch der Wirtschaft – hier 
+einen erheblichen Produktivitätsschub nehmen kann und auch muss.
+ 1. Hat der Bundesminister für Digitales und Staatsmodernisierung, 
+Dr. Karsten Wildberger, Reden vor dem Deutschen Bundestag gehalten, 
+die zum Teil oder vollständig durch Software zur Erzeugung von Text, 
+sogenannte generative KI, erstellt wurden?
+a) Wie viele Reden wurden auf diese Weise erstellt, und um welche
+Reden handelt es sich konkret?
+b) Welche dieser Reden wurden vollständig durch KI entworfen oder 
+erstellt?
+c) Welches KI-Modell welchen Betreibers kam dabei jeweils zum
+Einsatz?
+d) Mit welchen Prompts wurden die Reden erstellt?
+e) Was wurde zu dem Vorgang jeweils im BMDS veraktet?
+f) Ist aus der Akte jeweils ersichtlich, dass und in welchem Umfang KI 
+zum Einsatz kam?
+KI ist ein unterstützendes Arbeitswerkzeug, das in zahlreichen
+Arbeitsprozessen genutzt wird. Nutzerinnen und Nutzer prüfen KI-generierte Inhalte generell 
+vor der weiteren Verwendung fachlich und überarbeiten diese auch
+entsprechend redaktionell. Etwaige Prompt-Formulierungen oder die Nutzungstiefe 
+der KI sind insoweit regelmäßig Zwischenergebnisse im Rahmen interner
+Arbeitsprozesse der Verwaltung. Weitergehende Informationen im Sinne der
+Fragestellung liegen nicht vor.
+Im Übrigen wird auf die Vorbemerkung sowie auf die Antworten zu Frage 5 
+verwiesen.
+ 2. Hat der Bundesminister für Digitales und Staatsmodernisierung, 
+Dr. Karsten Wildberger, Artikel in Zeitungen oder Zeitschriften
+veröffentlicht, die zum Teil oder vollständig durch KI erstellt wurden?
+a) Wie viele Artikel wurden auf diese Weise erstellt, und um welche
+Artikel handelt es sich konkret?
+b) Wenn ja, in welchen Fällen wurde das den Redaktionen offengelegt?
+c) Auf welche Weise und durch wen wurde KI für die Erstellung der 
+Artikel genutzt?
+d) Welches KI-Modell welchen Betreibers kam dabei jeweils zum
+Einsatz?
+e) Was wurde zu dem Vorgang jeweils im BMDS veraktet?
+f) Ist aus der Akte jeweils ersichtlich, dass und in welchem Umfang KI 
+zum Einsatz kam?
+Der Bundesminister für Digitales und Staatsmodernisierung geht transparent 
+mit dem Einsatz von KI um und hat dies beispielsweise in mehreren Interviews 
+– schriftlich wie mündlich – erläutert. Auf der BMDS-Webseite findet sich
+zudem eine Stellungnahme zum KI-Einsatz in Reden und Gast-beiträgen, auf die 
+zur Beantwortung der Fragen explizit verwiesen wird: https://bmds.bund.de/akt
+uelles/aktuelle-meldungen/detail/ki-einsatz-in-reden-des-ministers
+Im Übrigen wird auf die Vorbemerkung sowie auf die Antworten zu Fragen 1 
+und 5 verwiesen.
+ 3. Wurden in anderen Bundesministerien oder in nachgeordneten Behörden 
+Reden oder Artikel der Bundesminister oder Bundesministerinnen oder 
+Staatssekretärinnen oder Staatssekretäre teilweise oder vollständig durch 
+generative KI erstellt?
+a) Wie viele Reden oder Artikel wurden auf diese Weise erstellt, und 
+um welche Reden oder Artikel handelt es sich konkret?
+b) Welche dieser Reden oder Artikel wurden vollständig durch KI
+entworfen oder erstellt?
+c) Welches KI-Modell welchen Betreibers kam dabei jeweils zum
+Einsatz?
+d) Mit welchen Prompts wurden die Reden erstellt?
+e) Was wurde zu dem Vorgang jeweils veraktet?
+f) Ist aus der Akte jeweils ersichtlich, dass und in welchem Umfang KI 
+zum Einsatz kam?
+Es wird auf die Vorbemerkung sowie auf die Antworten auf die Fragen 1, 4 und 
+5 verwiesen.
+ 4. In welchen Bundesministerien und nachgeordneten Behörden gibt es, 
+über die allgemeinen Leitlinien des BMI hinausgehend, Leitfäden,
+Richtlinien oder sonstige Regeln für die Nutzung von KI?
+a) Für wen gelten diese Leitfäden oder Richtlinien jeweils?
+b) Auf welche Arten der Nutzung von KI beziehen sie sich?
+c) Werden für die Nutzung von KI Weiterbildungen angeboten, und 
+wenn ja welche und in welchem Umfang?
+Die Leitlinien für den Einsatz Künstlicher Intelligenz in der Bundesverwaltung 
+(KI-Leitlinien) setzen allgemeine Leitplanken für die Nutzung von KI in der 
+Bundesverwaltung. Daneben können innerhalb der Bundesverwaltung in den 
+Ressorts und Behörden gegebenenfalls weitere spezifische Regelungen für den 
+Einsatz von KI etabliert werden.
+In der Bundesverwaltung steht für den Themenbereich "Künstliche Intelligenz" 
+ein Fortbildungsangebot der Bundesakademie für öffentliche Verwaltung (BA-
+köV) zur Verfügung. Dieses wird durch anwendungsspezifische sowie
+ressortspezifische Fortbildungsangebote ergänzt.
+Im Übrigen wird auf die Anlage zur Antwort auf Frage 4 sowie auf die
+Vorbemerkung verwiesen.*
+ 5. Auf welche Weise wird die Nutzung von KI begrenzt, wenn es solche 
+Begrenzungen gibt (bitte nach Bundesministerien aufschlüsseln)?
+KI wird in der Bundesverwaltung als reguläres Arbeitswerkzeug eingesetzt, 
+stets eingebettet in einen Prozess mit menschlicher Vorbesprechung, Prüfung 
+und letztlicher Verantwortung. Die Nutzung von KI in der Bundesverwaltung 
+erfolgt im Rahmen der bestehenden Rechtsgrundlagen, insbesondere der KI-
+VO, der DSGVO, des BDSG, des SÜG sowie der jeweiligen Fachgesetze und 
+zugehörigen Verwaltungsvorschriften. Darüber hinaus bestehen Leitlinien für 
+den Einsatz Künstlicher Intelligenz in der Bundesverwaltung.
+Im Übrigen wird auf die Vorbemerkung und die Antwort zu Frage 4 verwiesen.
+ 6. Werden in Bundesministerien und nachgeordneten Behörden Texte oder 
+andere Daten (zum Beispiel Bilder oder Grafiken) für die Nutzung von 
+KI an Anbieter von KI-Systemen oder Sprachmodellen übermittelt (bitte 
+nach Bundesministerien und jeweils genutzter KI aufschlüsseln)?
+Die Nutzung von KI in der Bundesverwaltung erfolgt im Rahmen der
+bestehenden Rechtsgrundlagen, insbesondere der KI-VO, der DSGVO, des BDSG, des 
+SÜG sowie der jeweiligen Fachgesetze und zugehörigen
+Verwaltungsvorschriften.
+Für die Verarbeitung sensibler dienstlicher Daten besteht insbesondere die
+zentrale KI-Plattform der Bundesverwaltung KIPITZ. KIPITZ wird in den
+Rechenzentren des ITZBund betrieben. Auf KIPITZ können als Verschlusssache
+eingestufte Daten des Geheimhaltungsgrades VS-NUR FÜR DEN DIENSTGE-
+BRAUCH verarbeitet werden. Eine Übermittlung von Daten an externe
+Anbieter von KI-Systemen besteht bei KIPITZ dabei nicht.
+Im Übrigen wird auf die Beantwortung der Fragen 4 und 5 verwiesen.
+* Von einer Drucklegung der Tabelle wird abgesehen. Diese ist auf Bundestagsdrucksache 21/07443 auf der Internetseite des Deutschen Bundestages abrufbar.
+ 7. Kann die Bundesregierung ausschließen, dass interne und insbesondere 
+eingestufte Dokumente durch extern gehostete KI-Software ausgewertet 
+wurde und wird?
+Es wird auf die Antwort zu Frage 6 verwiesen.
+ 8. Welche KI wird in Bundesministerien und nachgeordneten Behörden für 
+die Erstellung von Reden, Artikeln oder anderen Text- oder
+Bildmaterialien benutzt (bitte nach Geschäftsbereichen aufschlüsseln)?
+a) Wer hostet diese KI-Angebote?
+b) Welche Anwendungen für welche KI-Basismodelle (Foundation
+Models) werden dabei genutzt, und von wem wurden sie gegebenenfalls 
+nachtrainiert?
+Einen Überblick über den KI-Einsatz in der Verwaltung bietet der über www.ki
+marktplatz.bund.de öffentlich einsehbare „Marktplatz der KI-Möglichkeiten“ 
+(MaKI). Das zentrale KI-Transparenzregister für Bund, Länder und Kommunen 
+ermöglicht dabei einen transparenten Überblick über eingesetzte oder geplante 
+KI-Systeme und unterstützt die konsequente Nachnutzung bewährter KI-
+Systeme, fördert Kooperationen und die Nutzung von Synergiepotenzialen.
+Im Übrigen wird auf die Vorbemerkung sowie auf die Antwort auf Frage 3
+verwiesen.
+ 9. Hat der Bundesminister für Digitales und Staatsmodernisierung
+dienstlich in irgendeiner Weise Chatbots oder andere Formen generativer KI 
+benutzt, und wenn ja, wozu?
+Es wird auf die Vorbemerkung sowie auf die Antworten zu Frage 1, 2 und 5 
+verwiesen.
+10. Wie viel Dienstzeit verbringen Beschäftigte der Leitungsebene des
+Bundesministeriums für Digitalisierung und Staatsmodernisierung
+durchschnittlich mit Chatbots oder anderen Formen generativer KI?
+Entsprechende personenbezogene Daten werden nicht erhoben und liegen nicht 
+vor.
+11. In welchen Bundesministerien oder nachgeordneten Behörden werden 
+interne dienstliche Dokumente (Vermerke, Vorlagen, E‑Mails) teilweise 
+oder ganz mit generativer KI erstellt?
+a) Werden Mitarbeitende angewiesen, generative KI (teilweise) für die 
+Erstellungen dienstlicher Dokumente zu nutzen?
+b) Steht es den Mitarbeitenden frei, generative KI für die (teilweise)
+Erstellung dieser Dokumente zu nutzen?
+c) Nach welchen dienstlichen Kriterien wird entschieden, ob dienstliche 
+Dokumente (teilweise) mit generativer KI erstellt werden?
+d) Wird die (teilweise) Verwendung generativer KI kenntlich gemacht, 
+wenn ja, in welchen Fällen und wie?
+Es wird auf die Vorbemerkung und die Antworten zu Fragen 4 bis 6 und 8
+verwiesen.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
+Anlage 1 
+Ressort
+Geschäftsbereichsbehörde 
+Frage 4: In welchen Bundesministerien und nachgeordneten Behörden gibt es, über die 
+allgemeinen Leitlinien des BMI hinausgehend, Leitfäden, Richtlinien oder sonstige Regeln für 
+die Nutzung von KI? 
+    
+a) Für wen gelten diese 
+Leitfäden oder Richtlinien 
+jeweils? 
+b) Auf welche Arten der Nutzung 
+von KI beziehen sie sich?  
+c) Werden für die Nutzung 
+von KI Weiterbildungen 
+angeboten, und wenn ja 
+welche und in welchem 
+Umfang?  
+Bundesministerium 
+für Forschung, 
+Technologie und 
+Raumfahrt 
+  Alle Beschäftigten des 
+BMFTR 
+Das BMFTR verfügt im Rahmen des 
+Informationssicherheitsmanagemen
+ts über eine Richtlinie zum Einsatz 
+von generativer KI (interne KI-
+Richtlinie).Die interne KI-Richtlinie 
+differenziert zwischen externen KI-
+Angeboten, KI-Diensten der 
+Bundesverwaltung und 
+selbstgehosteten KI-Anwendungen. 
+Mitarbeiterinnen und Mitarbeiter 
+dürfen generative KI im BMFTR 
+unter strenger Beachtung dieser 
+Richtlinie nutzen, um sie in 
+Geschäftsprozesse zu integrieren 
+und um Erfahrung mit 
+Sprachmodellen sammeln zu 
+können. 
+Mitarbeiterinnen und 
+Mitarbeiter nutzen die 
+regelmäßig durchgeführten, 
+mehrmoduligen, KI-
+Kompetenzen vermittelnden 
+KI-Fortbildungen der 
+BAköV, ferner die 
+hauseigenen Schulungen zur 
+Informationssicherheit. 
+Bundesministerium 
+für Wirtschaft und 
+Energie 
+  Alle Beschäftigten des 
+BMWE 
+Auf die Nutzung von KIPITZ und 
+großen Sprachmodellen im 
+Allgemeinen. 
+Im BMWE wird das KI-
+System KIPITZ genutzt. Die 
+Voraussetzung für die 
+Nutzung von KIPITZ ist der 
+erfolgreiche Abschluss des 
+sogenannten KI-
+Anlage 1 
+Führerscheins. Der KI-
+Führerschein ist ein 
+eLearning-Element, das aus 
+5 Modulen besteht und 
+einen zeitlichen Umfang von 
+insgesamt 2 Stunden 
+umfasst. Jedes Modul 
+schließt mit einem Test ab. 
+Der KI-Führerschein 
+informiert die Beschäftigten 
+im Hinblick auf die Nutzung 
+von KI-Systemen und 
+sensibilisiert u.a. zu 
+datenschutzrechtlichen 
+sowie ethischen Fragen. 
+Bundesministerium 
+für Wirtschaft und 
+Energie 
+Bundesamt für 
+Wirtschaft und 
+Ausfuhrkontrolle 
+Alle Beschäftigten des 
+BAFA 
+Nutzung von generativen KI 
+Anwendungen. 
+Neben den von der BAKöV 
+angebotenen Schulungen 
+gibt es eine Onlineschulung 
+über das SAM Secova 
+Unterweisungstool. Dort 
+wird gem. Art 4 der EU-VO 
+ein ausreichendes Maß an KI 
+Kompetenz vermittelt und 
+die Beschäftigten werden 
+gegenüber KI Anwendungen 
+sensibilisiert. 
+Bundesministerium 
+für Wirtschaft und 
+Energie 
+Bundesanstalt für 
+Materialforschung und  
+-prüfung (BAM) 
+Alle Beschäftigten des 
+BAM 
+Es wird in einem LLM-Leitfaden 
+neben einem Verweis auf die Cloud-
+Richtlnie auf die Einhaltung der 
+Guten Wissenschaftlichen Praxis 
+(GWP) hingewiesen. Der 
+Fortbildungen der BAköV, 
+darüber hinaus keine 
+zusätzlichen, da zum Thema 
+Cloud-Nutzung  und GWP 
+bereits eigene Prozesse, 
+Anlage 1 
+Schwerpunkt liegt auf der 
+wissenschaftlichen Arbeit.  
+Dokumentation und 
+Schulung existieren.  
+Bundesministerium 
+für Wirtschaft und 
+Energie 
+Bundesanstalt für 
+Geowissenschaften und 
+Rohstoffe (BGR) 
+Alle Beschäftigten der BGR Jede Nutzungsart von KI. Ja. Die Nutzung jeglicher KI-
+Systeme ohne 
+entsprechende Qualifikation 
+ist unzulässig. 
+Bundesministerium 
+für Wirtschaft und 
+Energie 
+Bundeskartellamt 
+(BKartA) 
+Alle Beschäftigten des 
+BKartA 
+Nutzung von amtsexternen 
+Werkzeugen der Künstlichen 
+Intelligenz, insbesondere großen 
+Sprachmodellen 
+Fortbildungen der BAköV. 
+Bundesministerium 
+für Wirtschaft und 
+Energie 
+Bundesnetzagentur 
+(BNetzA) 
+Alle Beschäftigten der 
+BNetzA. 
+Auf die Nutzung generativer KI. 
+Handlungsanweisung zur Nutzung 
+von großen Sprachmodellen sowie 
+die KIPITZ Nutzungsbedingungen. 
+Führungskräfte erhalten 
+eine zielgruppenorientierte 
+KI-Schulung. Darüberhinaus 
+werden Workshops zum 
+Prompten sowie zur KI-
+Plattform "KIPITZ" 
+angeboten. 
+Bundesministerium 
+für Wirtschaft und 
+Energie 
+Physikalisch-Technische 
+Bundesanstalt (PTB) 
+Alle Beschäftigten der PTB. KI-Systeme im Sinne dieser Leitlinie 
+sind sämtliche in der PTB 
+eingesetzten, allgemeinen, 
+generativen KI-Systeme, die Inhalte 
+erzeugen (z. B. Texte, Bilder, 
+Videos), gleich ob diese von 
+externen Anbietenden (z. B. 
+ChatGPT, Gemini, Copilot, Claude, 
+kostenfrei und kostenpflichtig), vom 
+Bund oder der PTB selbst (z. B PTB-
+Transkript) bereitgestellt oder lokal 
+auf Endgeräten betrieben werden. 
+Verbindliche 
+Grundlagenschulung 
+Künstliche Intelligenz als 
+Online-Unterweisung 
+Anlage 1 
+Dies umfasst insbesondere 
+Sprachmodelle, die Texte 
+verarbeiten und erstellen können, 
+aber auch solche generativen KI-
+Systeme, die aus Textvorgaben Bild-
+, Audio- oder Videoinhalte 
+generieren. 
+Bundesministerium 
+der Justiz und für 
+Verbraucherschutz 
+Bundesverwaltungsgeric
+ht (BVerwG) 
+Für alle Angehörigen des 
+Gerichts. 
+"Dienstanweisung für die 
+dienstliche Nutzung von KI-
+Systemen" gilt für sämtliche 
+dienstliche Nutzungen von KI-
+Systemen, unabhängig davon, ob 
+diese 
+• lokal (on-premises), 
+• über private oder staatliche Cloud-
+Dienste oder 
+• als Web-Anwendungen 
+bereitgestellt werden. 
+Mit der Dienstanweisung für 
+die dienstliche Nutzung von 
+KI-Systemen im 
+Bundesverwaltungsgericht 
+ist geregelt, dass Endnutzer 
+KI-Systeme nur verwenden 
+dürfen, wenn sie über eine 
+ausreichende Schulung 
+verfügen und die 
+Funktionsweise sowie die 
+Grenzen des jeweiligen 
+Systems kennen. Zur 
+einheitlichen und 
+nachweisbaren Umsetzung 
+dieser Anforderung ist 
+beabsichtigt, eine 
+verpflichtende 
+Schulungsmaßnahme mit 
+Kompetenznachweis 
+Anlage 1 
+einzuführen. Alle 
+Beschäftigten sollen das von 
+der Bundesakademie für 
+öffentliche Verwaltung 
+(BAköV) angebotene 
+Lernprogramm 
+„Möglichkeiten und Grenzen 
+von Künstlicher Intelligenz 
+(KI) in der öffentlichen 
+Verwaltung“ absolvieren 
+und im Anschluss den Test 
+zum Erwerb des KI-
+Kompetenzscheins (KEKS) 
+nachweislich durchführen. 
+Bundesministerium 
+der Justiz und für 
+Verbraucherschutz 
+Deutsches Patent- und 
+Markenamt (DPMA) 
+Für die jeweiligen 
+Nutzenden einer KI-
+Anwendung. 
+Auf die Nutzung der jeweiligen KI-
+Anwendung. 
+Ja, zur allgemeinen 
+Sensibilisierung und für 
+einzelne KI-Anwendungen. 
+Bundesministerium 
+der Justiz und für 
+Verbraucherschutz 
+Bundesfinanzhof (BFH) Alle Beschäftigten des BFH. Dienstliche Nutzung (Recherchen, 
+Unterstützung bei der Erstellung 
+von Texten, Zusammenfassung von 
+Texten u.ä.). 
+Fortbildungen der BAköV. 
+Bundesministerium 
+für Wohnen, 
+Stadtentwicklung 
+und Bauwesen 
+  Alle Beschäftigten des 
+BMWSB. 
+Sie beziehen sich ausschließlich auf 
+die Nutzung der KI-Plattform 
+KIPITZ und der darauf 
+angebotenen Funktionalitäten. 
+Es werden folgende 
+Angebote genutzt: 
+- BAköV Lernpfad 
+„Kompetenzaufbau zum 
+Einsatz von Künstlicher 
+Intelligenz in der 
+öffentlichen Verwaltung. 
+- BMZ Datenlabor Lernpfad 
+„KI verstehen im 
+öffentlichen Dienst“: 
+Anlage 1 
+- BMWSB interne 
+Veranstaltung für 
+Führungskräfte: 
+- Geschäftsstelle 
+Fortbildung Bundesbau: KI 
+Tools für die 
+Bundesbauverwaltung. 
+Die Inanspruchnahme 
+weiterer (externer) 
+Weiterbildungsangebote ist 
+möglich. 
+Bundesministerium 
+der Finanzen 
+- Alle Beschäftigten des BMF Auf die Nutzung des 
+behördeninternen KI-Dienst 
+KIPITZ und stark eingeschränkt 
+über öffentliche KI-
+Dienste:ausschließlich nur für 
+öffentlich zugängliche Daten und 
+ohne Anmeldung/persönliche 
+Identität, insbesondere für 
+Recherche und Übersetzungen. 
+Ausschluss sensibler Daten, 
+Kennzeichnungspflichten und die 
+persönliche, redaktionelle 
+Verantwortung der Beschäftigten 
+stehen bei Dienstanweisung im 
+Mittelpunkt. 
+Die BAköV 
+(Bundesakademie für 
+öffentliche Verwaltung) 
+bietet als zentrale 
+Fortbildungseinrichtung des 
+Bundes den BMF-
+Beschäftigten diverse 
+Fortbildungen zum Thema 
+„KI“ an. Diese werden 
+kontinuierlich erweitert und 
+fortentwickelt. Der 
+Zeitansatz ist individuell je 
+nach Veranstaltung und 
+richtet sich zwischen 2-
+stündigen Impuls-Vorträgen 
+bis hin zu 2-tägigen 
+Lehrgängen.  
+Zudem stehen den BMF-
+Beschäftigten E-Learnings 
+sowie Fortbildungen aus 
+Anlage 1 
+dem BMZ-Datenlabor zur 
+Verfügung. Die Dauer der 
+Fortbildungen variieren von 
+1- 2 Stunden bis zu 
+mehreren Wochen. Die 
+Inhalte werden 
+entsprechend den 
+Entwicklungen auf dem 
+Gebiet der KI ständig 
+angepasst.  
+Weiterhin wird den BMF-
+Beschäftigten in der 
+hausinternen 
+Fortbildungsreihe "KI-
+Kompakt" praxisnahes 
+Wissen zum Thema KI in 
+einem 15 Minütigen 
+Onlineformat angeboten.  
+Bundesministerium 
+der Finanzen 
+Generalzolldirektion Alle Beschäftigten der 
+Zollverwaltung 
+Auf jegliche Nutzung von KI - Laut 
+einer eigenen Dienstvereinbarung 
+ist die Nutzung von KI nur mit den 
+vorgeschrieben (fachspezifischen) 
+KI-Systemen erlaubt 
+Eigenes KI-Lernmodul für 
+alle Zollbeschäftigten sowie 
+die oben beschriebenes 
+Lernangebote der BaKöV 
+und des BWZ nach 
+individuellem Bedarf und 
+Notwendigkeit. 
+Anlage 1 
+Bundesministerium 
+der Finanzen 
+Bundeszentralamt für 
+Steuern (BZSt) 
+Alle Beschäftigten des 
+BZSt. 
+Auf die Nutzung von öffentlich 
+zugänglichen KI-Systemen im 
+Internet (unter Beachtung der 
+weiteren Bestimmungen der 
+Dienstanweisung)..  
+ 
+Die Nutzung darf ausschließlich 
+• als anonymer Nutzer ohne 
+Registrierung (eine Ausnahme gilt 
+sofern ein dienstlicher Account zur 
+Nutzung eines Dienstes in den eine 
+KI-Funktion integriert ist, zur 
+Verfügung gestellt wird) 
+• zur Durchführung moderner 
+Internetrecherchen und zur 
+Übersetzung von 
+bestimmungsgemäß öffentlich 
+zugänglichen Informationen 
+• zur dienstlichen 
+Aufgabenwahrnehmung 
+erfolgen. 
+Vor der erstmaligen 
+Nutzung öffentlich 
+zugänglicher generativer KI-
+Systeme ist durch den 
+Dienstherrn sicherzustellen, 
+dass die Beschäftigten 
+ausreichende KI-Kompetenz 
+erwerben.  
+Als zentraler 
+Fortbildungsdienstleister 
+bietet die BAköV (die oben 
+beschreiben) modulare 
+Bausteine für Schulungs-
+und 
+Sensibilisierungsmaßnahme
+n an.  
+Zur Aneignung der 
+notwendigen Kompetenzen 
+sollen die Beschäftigten, den 
+Screencast „Möglichkeiten 
+und Grenzen von KI“ der 
+BaKöV anschauen und den 
+zugehörigen Test 
+(KIKompetenz-Schein – 
+KEKS) absolvieren. 
+Bundesministerium 
+für Bildung, Familie, 
+Senioren, Frauen 
+und Jugend 
+  Alle Beschäftigten des 
+BMBFSFJ 
+KI-Systeme dürfen ausschließlich 
+unterstützend im Kontext 
+dienstlicher Tätigkeiten eingesetzt 
+werden. 
+Ja, Angebote der BAKöV, 
+Schulungsangebot des BMZ, 
+ergänzende Angebote im 
+Haus nach Bedarf. 
+Anlage 1 
+Bundesministerium 
+für Landwirtschaft, 
+Ernährung und 
+Heimat 
+  Alle KIPITZ-Nutzenden im 
+BMLEH 
+Die Nutzungsbedingungen beziehen 
+sich auf die dienstliche Nutzung von 
+generativen KI-Anwendungen im 
+KIPITZ-Portal 
+Es besteht eine 
+verpflichtende 
+Einführungsschulung mit 
+KI- und KIPITZ-Grundlagen 
+sowie begleitende  
+Befähigungsformate und 
+Angebote für verschiedene 
+Zielgruppen (u.a. 
+Expertenvorträge), i.d.R. mit 
+einer Dauer von ca. 60-90 
+Minuten. 
+Bundesministerium 
+für Landwirtschaft, 
+Ernährung und 
+Heimat 
+BfR Alle Beschäftigten des BfR Es gibt im BfR 
+darüberhinausgehende Regeln, die 
+für alle Personen innerhalb des BfR 
+gelten. Dies sind: 
+– Ethischer Leitfaden: 
+Gemeinsames Bekenntnis vom BfR 
+und 
+vom JKI zur chancenorientierten 
+und verantwortungsvollen 
+Anwendung von KI-Methoden 
+– Hausverfügung: Regeln beim 
+Einsatz künstlicher Intelligenz, 
+insbesondere als Umsetzung der 
+KI-VO 
+– Operativer Freigabeprozess: 
+interner Antrag per Checkliste zur 
+Einführung und Nutzung von KI-
+Systemen 
+– Systemspezifische Regeln: weitere 
+Regeln, die im Zuge des 
+Für die Basisqualifikation 
+nach Art. 4 KI-VO nutzt das 
+BfR die 
+Angebote der BAköV und 
+den KI-Kompetenz-Schein 
+(KEKS) als 
+Nachweis. Eine Fortführung 
+und Ausweitung dieses 
+Angebots 
+werden begrüßt. 
+Für fortgeschrittene 
+Themen nutzt das BfR die 
+Fortbildungen des 
+KIDA-Verbunds. Für 
+produktspezifische 
+Qualifikationen greifen wir 
+auf Angebote der Hersteller 
+zurück. 
+Das BfR verfügt darüber 
+hinaus über ein KI-
+Anlage 1 
+Freigabeprozesses für ein KI-
+System festgelegt werden 
+Die genannten Dokumente 
+beziehen sich auf alle Nutzungen 
+innerhalb der Arbeit des BfR, 
+insbesondere in der Verwaltung, 
+Bewertung und Wissenschaft. 
+Schulungskonzept, das 
+schrittweise umgesetzt wird. 
+Bundesministerium 
+für Landwirtschaft, 
+Ernährung und 
+Heimat 
+JKI Alle Mitarbeitenden des JKI 
+in Forschung und 
+Verwaltung 
+Im JKI gibt es den gemeinsam mit 
+dem BfR erarbeiteten „Leitfaden: 
+Anwendung von KI-Methoden in 
+Arbeitsbereichen des BfR und JKI“. 
+Die Regelungen gelten für alle 
+Arten von Nutzung in Forschung 
+und Verwaltung. 
+Für die Nutzung von KI 
+werden die 
+Fortbildungsmodule der 
+BAKöV einschließlich des 
+„KI-Führerscheins“ KEKS 
+beworben und genutzt. 
+Forschende, welche im 
+Rahmen ihrer Projekte 
+spezielle Modell nutzen 
+oder anpassen und 
+weiterentwickeln, werden 
+auf das sich aufbauende 
+Anlage 1 
+Fortbildungs- und 
+Austauschangebot des KI-
+Verbundes im Rahmen von 
+KIDA orientiert. Der 
+Umfang der Fortbildungen 
+reicht von online-Kursen bis 
+zu Summer-Schools. 
+Anlage 1 
+Bundesministerium 
+für Landwirtschaft, 
+Ernährung und 
+Heimat 
+MRI Gesamte Belegschaft. Die MRI-interne KI-Handreichung 
+richtet sich an die gesamte 
+Belegschaft; nach einer 
+tiefgehenden Überarbeitung der KI-
+Handreichung im Juli 2026 wurde 
+ein Kapitel ausgekoppelt, das sich 
+ausschließlich an 
+Entwicklungsteams richtet. Dieses 
+wird nun in einer Art Zusatz-
+Leitfaden für Entwickler und 
+Entwicklerinnen aufbereitet und 
+deckt insbesondere Anforderungen 
+durch die KI-Verordnung ab. 
+Daneben gibt es einen Leitfaden zur 
+Nutzung des internen KI-basierten 
+Chatbots, der sich ebenfalls an alle 
+richtet und dessen Inhalte speziell 
+für Entwicklungsteams und 
+Fortgeschrittene im Rahmen von 
+Fachvorträgen vertieft werden. 
+Zusätzlich steht im Intranet eine 
+detaillierte Liste mit Cloud- und KI-
+Diensten bereit, die genaue 
+Informationen zum 
+Datenfreigabelevel für die 
+jeweiligen Anwendungen liefert. Die 
+KI-Handreichung soll im Grunde 
+alle Arten der KI-Nutzung 
+abdecken. Sowohl die Nutzung 
+interner Dienste, wie bspw. des 
+Chatbots, eines Transkriptionstools 
+Es werden sowohl 
+Fachvorträge, als auch 
+Workshops und kürzere 
+sogenannte Coffee Lectures 
+angeboten. Die 
+Fachvorträge und 
+Workshops sind zw. 1 und 
+1,5 Stunden lang. Die Coffee 
+Lectures sind 30 min lang. 
+Im laufenden Jahr wurden 
+bereits 9 Fachvorträge und 
+Workshops zu folgenden 
+Themen durchgeführt:* 
+Nutzung interner KI-
+Dienste* Nutzung von 
+externen Diensten in der 
+Public Cloud* Sicherer 
+Umgang mit KI-
+Ergebnissen* KI-Chatbot für 
+Anfänger* KI-Chatbot und 
+Retrieval Augmented 
+Generation für 
+FortgeschritteneDaneben 
+gab es Coffee Lectures u.a. 
+zu KI-Agenten und KI-
+Chatbots. Bis zum 
+Jahresende sind 
+Wiederholungen der 
+Fachvorträge geplant. 
+Zusätzlich werden alle 
+Beschäftigen auf das 
+Anlage 1 
+oder eines Übersetzungstools, als 
+auch die Nutzung public-
+cloudbasierter KI-Dienste, für die das 
+MRI Lizenzen vorhält (bspw. 
+BioRender, Scopus AI, Statista AI,..). 
+Insbesondere sensibilisiert die 
+Handreichung die Belegschaft für 
+erwartbare Risiken durch die 
+Nutzung von Diensten in der Public 
+Cloud, für die keine Lizenzen 
+bereitstehen.  
+Angebot der BAköV 
+hingewiesen. Außerdem gibt 
+es die Möglichkeit, sich 
+Aufzeichnungen 
+vergangener Fachvorträge 
+online anzuschauen, bspw. 
+zu den Themen Prompting, 
+Computer Vision, Data 
+Labelling, usw. 
+Anlage 1 
+Bundesministerium 
+für Landwirtschaft, 
+Ernährung und 
+Heimat 
+Thünen-Institut Die Thünen-KI-Richtlinie 
+und auch der 
+Handlungsleitfaden zum 
+Umgang mit großen 
+Sprachmodellen gelten für 
+alle Mitarbeitenden des 
+Thünen-Instituts, sowie für 
+alle sonstigen Personen, 
+die sich im Rahmen von 
+Besuchen, Praktika, 
+Ausbildungen, Projekten 
+oder sonstigen Tätigkeiten 
+mit Zustimmung des 
+Thünen-Instituts in dessen 
+Verantwortungsbereich 
+aufhalten und IT-
+Infrastrukturen nutzen. 
+Das Thünen-Institut sieht mit dem 
+Einsatz Künstlicher Intelligenz (KI) 
+eine große Chance, die Zukunft der 
+Forschung - aber auch der 
+Verwaltung - proaktiv zu gestalten. 
+Mit dem Einsatz Künstlicher 
+Intelligenz (KI) verfolgt das 
+Thünen-Institut das Ziel, mithilfe 
+von KI die Mitarbeitenden in allen 
+Bereichen bei der Ausübung ihrer 
+Aufgaben zu unterstützen und 
+repetitive oder besonders 
+zeitintensive Arbeitsschritte zu 
+übernehmen. Die KI dient daher als 
+Hilfsmittel und soll keine 
+Kernaufgaben übernehmen oder 
+Arbeitskraft ersetzen. Das Thünen-
+Institut verfolgt insofern einen 
+menschenzentrierten Ansatz. 
+Inhaltliche Entscheidungen müssen 
+immer durch den Menschen 
+getroffen werden. 
+Die Thünen-KI-Richtlinie regelt den 
+Umgang mit KI-Anwendungen/ 
+Systemen unabhängig davon, ob sie 
+kostenpflichtig oder kostenlos, 
+bundesintern, Thünen-intern oder 
+von externen Anbietern, wie dem 
+eigenen KIDA (KI- und 
+Datenakzelerator) -Verbund im 
+Ressort, zur Verfügung stehen. 
+Ja, es werden KI-
+Weiterbildungen angeboten. 
+Das Thünen-Institut 
+unterstützt seine 
+Mitarbeitenden gezielt bei 
+der Weiterqualifizierung im 
+Bereich der Künstlichen 
+Intelligenz (KI). Hierfür 
+stehen unterschiedliche 
+Formate zur Verfügung, die 
+je nach Vorkenntnissen, 
+Interessen und 
+Aufgabenfeld flexibel 
+genutzt werden können. So 
+gibt es neben
+Thüneninternen Online-Kursen, 
+auch die Online-
+Lernplattform KI-Campus, 
+die Angebote des eGov-
+Campus sowie das 
+gemeinsame 
+Fortbildungsangebot des 
+KIDA-Verbunds. Hier eine 
+Übersicht der Thünen-KI-
+Schulungen im Thünen-
+Fortbildungsprogramm für 
+das Jahr 2026: 
+(1) KI-Grundschulung 
+(eintägiges Webinar für alle 
+Mitarbeitenden, die sich mit 
+KI beschäftigen) 
+Anlage 1 
+Die Entscheidung darüber, ob und 
+welche KI-Systeme eingesetzt 
+werden, obliegt der Leitung des 
+Thünen-Instituts. Diese entscheidet 
+unter anderem vor dem 
+Hintergrund von 
+Informationssicherheit, 
+Datenschutz und Geheimschutz, ob 
+und welche KI-Systeme für 
+dienstliche Zwecke genutzt werden 
+dürfen. 
+(2) KI-Einsatz in der 
+Wissenschaft – 
+wissenschaftliches 
+Schreiben und 
+Literaturrecherche 
+(eintägige Online-Schulung 
+für alle Mitarbeitenden, die 
+KI-gestützte Werkzeuge für 
+ihre wissenschaftliche Arbeit 
+kennenlernen und reflektiert 
+einsetzen möchten) 
+(3) KI für die quantitative 
+Datenanalyse (eintägige 
+Online-Schulung, 
+Vertiefungskurs für 
+Fortgeschrittene) 
+(4) KI-Campus-Original: KI 
+für Alle 1 – Einführung in 
+die Künstliche Intelligenz 
+(Online-Kurs (E-Learning), 
+14 Wochen à 3 Stunden, 
+Angebot für alle, keine 
+Vorkenntnisse erforderlich) 
+(5) KI-Campus-Original: KI 
+für Alle 2 – Verstehen, 
+Bewerten, Reflektieren 
+(Online-Kurs (E-Learning), 
+14 Wochen à 3 Stunden, 
+Angebot für alle, Aufbau auf 
+Teil 1) 
+(6) KI-Campus-Original: 
+Anlage 1 
+Von der Datenanalyse zur 
+Datengeschichte (Online-
+Kurs (E-Learning), 36 
+Stunden, Angebot für alle 
+Mitarbeitenden mit 
+Interesse an Datenanalyse 
+und Data Storytelling) 
+(7) KI-Campus-Original: KI 
+in öffentlichen 
+Verwaltungen (Online-Kurs 
+(E-Learning), 5 Wochen à 60 
+min, Angebot für 
+Mitarbeitende mit einem 
+grundlegenden Verständnis 
+von den Aufgaben 
+öffentlicher Verwaltungen 
+(8) eGov-Campus: KI in 
+öffentlichen Verwaltungen 
+(Online-Kurs (E-Learning), 
+14 Wochen à 3 Stunden, 
+Angebot für alle 
+Mitarbeitenden) 
+Anlage 1 
+Bundesmiisterium 
+der Verteidigung 
+BMVg sowie 
+Geschäftsbereich 
+Gesamte Belegschaft. Im Geschäftsbereich des 
+Bundesministeriums der 
+Verteidigung (GB BMVg) gilt neben 
+den allgemeinen Leitlinien des BMI 
+die Konzeption “Künstliche 
+Intelligenz im GB BMVg“. Darüber 
+hinaus gelten alle Vorschriften, 
+Sicherheitsrichtlinien und 
+Regelungen des GB BMVg zur 
+Nutzung von IT-Systemen.  
+Die Konzeption bezieht sich auf 
+jede Art der Nutzung und 
+Erprobung von KI im GB BMVg 
+Im GB BMVg regelt die 
+„Konzeption Künstliche 
+Intelligenz“ eine dreistufige 
+Ausbildung und 
+Qualifizierung mit 
+Basisbefähigung, erweiterte 
+Befähigung und 
+Führungskräfte die. Darüber 
+hinaus ist bei der 
+Beschaffung von KI-
+Systemen jeweils eine 
+weitergehende Befähigung 
+zu prüfen. Das Angebot wird 
+zunehmend ausgebaut. 
+Bundesministerium 
+für Umwelt, 
+Klimaschutz, 
+Naturschutz und 
+nukleare Sicherheit 
+  Die Leitlinien gelten für alle 
+Mitarbeitenden. 
+Im BMUKN ist die Nutzung von KI-
+Systemen auf externen Servern 
+wegen der damit verbundenen 
+Risiken derzeit nicht zugelassen. 
+Stattdessen steht den 
+Mitarbeitenden das Assistenzsystem 
+KIRAS auf Basis eines open weights 
+LLM zur Verfügung, das auf interner 
+Infrastruktur betrieben wird. Die 
+Leitlinien regelen die Nutzung von 
+KIRAS und ergänzt die allgemeinen 
+Leitlinien des BMI. 
+ 
+Die Leitlinien beziehen sich auf die 
+dienstliche Nutzung insbesondere 
+für folgende Einsatzfelder: 
+Erzeugung von Textentwürfen; 
+Es gibt ein mehrstufiges 
+Schulungskonzept – von 
+einer einmaligen 
+Einführungsveranstaltung 
+über regelmäßige 
+Basissensibilisierungen bis 
+hin zu individuellen 
+Beratungsterminen und 
+dauerhaftem 
+Help-Desk-Support. 
+Zusätzlich stehen 
+bundesweite 
+e-Learning-Angebote 
+(BAköV) und weitere 
+Informationsmaterialien 
+(BeKI, KIPITZ) zur 
+Verfügung, sodass das 
+Anlage 1 
+Brainstorming; Umformulierungen 
+(sprachlicher Feinschliff, einfache 
+Sprache); Zusammenfassung von 
+Texten; Extraktion von 
+Informationen (z.B. behandelte 
+Hauptargumente oder 
+Themenbereiche) aus längeren 
+Texten; Allgemeine Übersetzung 
+von Texten 
+Personal je nach Bedarf und 
+Erfahrung mehrere 
+Weiterbildungs- und 
+Unterstützungsoptionen 
+nutzen kann. 
+Bundesministerium 
+für Umwelt, 
+Klimaschutz, 
+Naturschutz und 
+nukleare Sicherheit 
+Bundesamt für 
+Strahlenschutz (BfS) 
+Die Leitlinien gelten für alle 
+Mitarbeitenden. 
+Die Leitlinien beziehen sich auf die 
+dienstliche Nutzung der im 
+Bundesamt für Strahlenschutz (BfS) 
+bereitgestellten KI-Anwendungen. 
+Hierzu werden auf der amtsinternen 
+Infrastruktur verschiedene 
+Sprachmodelle zur Verfügung 
+gestellt. Die Ausgestaltung der 
+Leitlinien orientiert sich an den 
+einschlägigen Vorgaben des 
+Bundesministeriums des Innern 
+(BMI) sowie den 
+Handlungsempfehlungen der 
+Für die Beschäftigten des 
+BfS werden amtsweite 
+Basisschulungen zur 
+Nutzung von KI-
+Anwendungen angeboten. 
+Ergänzend stehen 
+bedarfsorientierte 
+Workshopformate zur 
+Vertiefung spezifischer 
+Anwendungsfälle sowie 
+individuelle Beratungs- und 
+Begleitungsangebote zur 
+Verfügung. Darüber hinaus 
+erfolgt eine bedarfsgerechte 
+Anlage 1 
+Beratungsstelle Künstliche 
+Intelligenz (BeKI). 
+Unterstützung bei der 
+Identifikation geeigneter 
+interner und externer 
+Weiterbildungsangebote. 
+Bundesministerium 
+für Umwelt, 
+Klimaschutz, 
+Naturschutz und 
+nukleare Sicherheit 
+Umweltbundesamt 
+(UBA) 
+Die KI-Leitlinien gelten 
+sowohl für Mitarbeitende 
+des UBA als auch für 
+Auftragnehmende. Sie 
+ergänzen die allgemeinen 
+Leitlinien des BMI und sind 
+speziell auf die 
+Anforderungen des 
+Umweltressorts 
+zugeschnitten. 
+Die Leitlinien regeln den Einsatz 
+generativer KI-Modelle in 
+folgenden Bereichen: Fachliche 
+Nutzung (z. B. Zusammenfassen, 
+Übersetzen, Stilvorschläge, 
+Rechtschreibkorrektur),
+Kreativschöpferische Nutzung (z. B. 
+Schreiben von Texten, Erstellen von 
+Bildern), Wissenschaftliches 
+Arbeiten (insbesondere bei 
+Publikationen), Barrierefreie 
+Gestaltung. 
+Das KI-Lab am UBA 
+vermittelt im Rahmen des 
+"SmartLab" Mitarbeitenden 
+des Geschäftsbereichs 
+umfassende Kompetenzen 
+im Bereich KI. Die ANgebote 
+umfassen die Vermittlung 
+von technischen 
+Grundlagen, Prinzipien 
+verantwortungsvollen 
+Einsatzes von KI, praktische 
+Anwendungen und 
+Kompetenzen im Bereich 
+Arbeitskultur. Zudem gibt es 
+eine KI-Sprechstunde für 
+bedarfsgetriebene Beratung. 
+Diese internen Angebote 
+ergänzen die externen 
+Fortbildungen insbesondere 
+der BAköV.  
+Anlage 1 
+Bundesministerium 
+für Umwelt, 
+Klimaschutz, 
+Naturschutz und 
+nukleare Sicherheit 
+Bundesamt für die 
+Sicherheit der nuklearen 
+Entsorgung (BASE) 
+Die Leitlinien gelten für alle 
+Mitarbeitenden. 
+Die Richtlinien sollen den 
+Beschäftigten des BASE 
+Orientierung für die sichere und 
+verantwortungsvolle Nutzung von 
+Online-Diensten im Arbeitskontext, 
+beispielsweise von 
+Internetsuchmaschinen (z. B. 
+Google), Online-
+Übersetzungsdiensten (z. B. DeepL) 
+und Online-Sprachmodellen (z.B. 
+ChatGPT, Gemini und Co.) sowie 
+vergleichbaren Online-Diensten 
+bieten. Ziel der Richtlinien ist es, 
+datenschutzrechtliche Vorgaben 
+einzuhalten, vertrauliche 
+Informationen zu schützen und 
+Risiken durch die Nutzung dieser 
+Dienste zu minimieren. Darüber 
+hinaus wird derzeit eine Governance 
+zu regulatorischen Anforderungen 
+und organisationsinternen 
+Vorgaben für die Einführung von KI 
+entwickelt. 
+Alle Mitarbeitende im BASE 
+haben eine grundlegende 
+KI-Schulung mit 
+Abschlusstest absolviert. Für 
+einen zielgruppengerechten 
+und aufgabenbezogenen 
+Kompetenzausbau wird bis 
+Herbst 2026 ein KI-
+Kompetenzmodell 
+fertigstellt, das anhand von 
+Nutzungsprofilen und 
+Kompetenzniveaus 
+Weiterbildungsangebote, 
+auf Basis eines vorab 
+duchgeführten 
+Kompetenzchecks, über 
+Lernpfade ermöglicht. In 
+internen Kurzformaten steht 
+allen Mitarbeitenden 
+zusätzlich eine 
+praxisorientierte 
+Wissensvermittlung (z.B. 
+Prompting, KI-Ethik, 
+Regulatorien) zur 
+Verfügung. 
+Anlage 1 
+Bundesministerium 
+für Umwelt, 
+Klimaschutz, 
+Naturschutz und 
+nukleare Sicherheit 
+Bundesamt für 
+Naturschutz (BfN) 
+Der Leitfaden gilt für alle 
+Mitarbeitenden 
+Dieser erweiterte, BfN-interne 
+Leitfaden ist das Ergebnis der 
+Pilotphase zur Nutzung von 
+Anwendungen generativer 
+Künstlicher Intelligenz (genKI) wie 
+beispielsweise großen 
+Sprachmodellen oder 
+Bildgeneratoren. Er fasst Hinweise 
+für den Umgang mit genKI 
+zusammen und richtet sich an 
+alle Mitarbeitenden. Der Leitfaden 
+fokussiert sich gegenwärtig auf die 
+Nutzung von genKI-Anwendungen, 
+die frei verfügbar sind und die über 
+den Webbrowser oder Apps genutzt 
+werden können 
+Neben den E-Learning 
+Angeboten der BaköV und 
+insb. Des Lernpfads zur KI 
+bietet das BfN im Rahmen 
+seiner Möglichkeiten über 
+die KI-Koordination auch 
+eigene 
+Weiterbildungsformate an. 
+Diese reichen von 
+hausweiten 
+Informationsveranstaltunge
+n zu KI-Kompetenzen, über 
+Themenlabs zu KI-
+Anwendungsfeldern oder 
+der Individualberatung z.B. 
+bei der Ausgestaltung von 
+Forschungsvorhaben mit KI-
+Bezug.  
+Bundesministerium 
+für wirtschaftliche 
+Zusammenarbeit 
+und Entwicklung 
+  Handreichung gilt sowohl 
+für BMZ-Mitarbeitende als 
+auch für 
+Dienstleistungsunternehm
+en des 
+BMZ. 
+Richtlinien für den Einsatz 
+generativer KI im BMZ. Diese gilt 
+für BMZ-intern entwickelte sowie 
+externe generative KI-
+Anwendungen, sofern nicht anders 
+angegeben. 
+Eine 1,5-stündige 
+KI-Grundlagenschulung ist 
+für alle Mitarbeitenden im 
+BMZ vor der Nutzung von 
+KI für den Dienstgebrauch 
+verpflichtend. In dieser 
+Schulung werden die 
+Richtlinien der 
+Handreichung erläutert 
+sowie weitere Regeln und 
+Prinzipien für die ethische 
+und rechtliche Nutzung von 
+KI vermittelt. Darüber 
+Anlage 1 
+hinaus werden freiwillige 
+Prompting-Schulungen zur 
+effektiven Nutzung von KI 
+angeboten sowie 
+vertiefende Schulungen zu 
+Recht und Ethik im Bereich 
+KI. 
+Bundesministerium 
+für Gesundheit 
+  Beschäftigte des BMG KI-Erprobung Regelmäßige sowie 
+bedarfsorientierte 
+Schulungen und 
+Nutzungseinweisungen zur 
+KI-Erprobung in Inhouse-
+Formaten sowie 
+Empfehlung der Teilnahme 
+an den Formaten der BAköV 
+(ILIAS) 
+Bundesministerium 
+für Gesundheit 
+Bundesinstitut für 
+Öffentliche Gesundheit 
+(BIÖG) 
+Beschäftigte des BIÖG. Ausgewählte Browserlösungen in 
+kostenfreien Varianten. Interne 
+Daten dürfen nicht verarbeitet 
+werden. 
+KI-Führerschein: 
+verpflichtende E-Learning 
+Basisschulung (2 Stunden), 
+KI-Kompetenzanalyse mit 
+Bertelsmann Stiftung zur 
+Erstellung individueller KI-
+Kompetenzprofile und 
+Lernpfade. 
+Bundesministerium 
+für Gesundheit 
+Bundesinstitut für 
+Arzneimittel und 
+Medizinprodukte 
+(BfArm) 
+Beschäftigte des BfArm Vergleichbar mit den allg. Leitlinien 
+des BMI ist der Fokus nicht auf 
+spezifische KI eingeschränkt. 
+Ja, wiederkehrend hausweit 
+für die Nutzung große 
+Sprachmodelle und bei 
+Bedarf Spezialschulungen 
+für KI-Experten.  
+Anlage 1 
+Bundesministerium 
+für Gesundheit 
+Paul-Ehrlich-Institut, 
+Bundesinstitut für 
+Impfstoffe und 
+biomedizinische 
+Arzneimittel (PEI) 
+KI-Leitlinien für die 
+Medien- und 
+Öffentlichkeitsarbeit des 
+PEI 
+Unterstützende Nutzung in der 
+Medien- und Öffentlichkeitsarbeit, 
+z. B. Formulierungshilfe bei 
+Texterstellung, Ideenfindung, 
+Erstellung von Illustrationen 
+(Icons), Transkription 
+Ja, u.a. externe Team-
+Schulung zu KI in der 
+Wissenschaftskommunikati
+on im Oktober 2025. 
+Weitere Schulungen z.B. 
+über BAköV (ILIAS) sind 
+vorgesehen. 
+Bundesministerium 
+für Gesundheit 
+Robert Koch-Institut 
+(RKI) 
+Beschäftigte des RKI Nutzung cloudbasierter externer 
+generativer KI-Sprachmodelle (z. B. 
+ChatGPT und vergleichbare 
+Dienste). Die Leitlinie regelt 
+insbesondere Datenschutz und 
+Vertraulichkeit, Urheberrecht, 
+Kennzeichnung der KI-Nutzung, 
+Verantwortlichkeiten sowie 
+wissenschaftliche und 
+nichtwissenschaftliche Nutzung. 
+Ja, strukturierte KI-
+Weiterbildungen und 
+Selbstlernangebote wie E-
+Learnings sowie Angebote 
+der BAköV (ILIAS). 
+Ergänzende Seminare zu 
+ChatGPT, Kommunikation 
+mit KI und KI-
+Anwendungen in der 
+Verwaltung. Das Angebot 
+reicht von Grundlagen bis zu 
+Vertiefungskursen. 
+Bundesministerium 
+für Arbeit und 
+Soziales 
+  Beschäftigte des BMAS Im BMAS gilt eine 
+Dienstvereinbarung zur Erprobung 
+und Nutzung einer auf künstlicher 
+Intelligenz basierten Suche.  
+Ja, auf Basis eines Konzeptes 
+zum systematischern 
+Aufbau von KI-Kompetenz 
+werden im BMAS 
+zielgruppenspezifsiche 
+Weiterbildungen angeboten. 
+Sie vermitteln Kenntnise zur 
+technischen Funktionsweise 
+von KI, Bedeutung von 
+Daten und Umgang mit KI-
+generierten Inhalten. Es 
+werden u.a. Schulungen zur 
+Anlage 1 
+Grundsensibilisierung zum 
+Thema KI und Prompting 
+für unterschiedliche 
+Erfahrungsstufen 
+angeboten. 
+Bundesministerium 
+für Arbeit und 
+Soziales 
+Bundesamt für Soziale 
+Sicherung 
+Beschäftigte des BAS Das BAS hat auf der Grundlage der 
+Allgemeinen Leitlinien des BMI 
+einen Entscheidungsbaum für die 
+Nutzung generativer AI festgelegt. 
+Das BAS bietet 
+zielgruppenspezifische 
+Weiterbildungsangebote, 
+die Lerninhalten von 
+Bildungsdienstleistern, 
+Schulungsplattformen (u.a. 
+eGov) und anderer 
+Behörden (u.a. BMDS) 
+bündelt. Zudem führt das 
+BAS verpflichtende 
+Grundschulungen zum 
+Umgang mit KI durch. 
+Bundesministerium 
+für Arbeit und 
+Soziales* 
+Bundessozialgericht 
+(BSG) 
+Beschäftigte des 
+Bundessozialgerichtes 
+ Das Bundessozialgericht hat 
+Hinweise zur Nutzung von KI-
+Anwendungen im 
+Bundessozialgericht erarbeitet. Die 
+Hinweise sind für die 
+nichtrichterlichen 
+Gerichtsangehörigen verbindlich 
+und dienen  - unter Wahrung der 
+richterlichen Unabhängigkeit - im 
+Kernbereich der Rechtsprechung 
+den Richterinnen und Richtern der 
+Orientierung für den Einsatz von KI 
+im dienstlichen Kontext. 
+Das Bundessozialgericht 
+nutzt 
+Weiterbildungsangebote der 
+BaköV zum Aufbau von KI-
+Kompetenz. 
+Anlage 1 
+Auswärtiges Amt   KI-Charta: Auswärtiger 
+Dienst 
+jegliche Nutzung KI-Briefing: Schnelllernkurs, 
+wie sich KI-Werkzeuge an 
+den Auslandsvertretungen 
+nutzen lassen (nach Bedarf, 
+60 Min.) 
+KI-Minis:Kurzschulungen zu 
+verschiedensten Themen im 
+Bereich KI und Daten mit 
+Fokus auf Anwendungen, 
+die im AA verfügbar sind (1-
+2x monatlich, 30 Min.) 
+Anwendungsspezifische 
+Trainings wie F13-
+Sprechstunden & PLAIN 
+Bootcamps (Workshops bis 
+zu 10 Std.) werden nach 
+Bedarf angeboten, zum 
+Beispiel nach der 
+Veröffentlichung neuer 
+Funktionen oder 
+Anwendungen. 
+"KI und Daten"-Tag zu KI-
+Nutzung, Datenqualität und 
+Strategie (1x pro 
+Ausbildungs-Kohorte) 
+Bundesministerium 
+für Verkehr 
+  Für alle Beschäftigten  generelle Nutzung von KI Das BMV bietet für alle 
+Beschäftigten 
+verpflichtende E-Learning-
+Module zur KI-
+Qualifizierung an, die zentral 
+für das Ministerium und 
+Anlage 1 
+seinen Geschäftsbereich 
+bereitgestellt werden. Die 
+Schulungen vermitteln 
+Grundlagen zu KI, KI-
+Anwendungsfeldern, 
+rechtlichen 
+Rahmenbedingungen, 
+Risiken, der Bewertung von 
+KI-Ergebnissen sowie dem 
+Prompting. Sie erfüllen 
+zugleich die Anforderungen 
+des EU AI Act. 
+Bundesministerium 
+für Verkehr 
+alle Behörden im Ressort 
+BMV 
+Für alle Beschäftigten generelle Nutzung von KI Das Angebot von Fort- und 
+Weiterbildungen obliegt 
+grundsätzlich den einzelnen 
+Geschäftsbereichsbehörden. 
+Das BMV bietet für alle 
+Beschäftigten 
+verpflichtende E-Learning-
+Module zur KI-
+Qualifizierung an, die zentral 
+für das Ministerium und 
+seinen Geschäftsbereich 
+bereitgestellt werden. 
+Bundesministerium 
+des Innern 
+  Für alle Beschäftigten Dienstliche Nutzung der KI-
+Plattform des ITZBund (KIPITZ)  
+Im Ressort des 
+Bundesinnenministeriums 
+wird inbsesondere das 
+Fortbildungsangebot des 
+Lehrpfads "Künstliche 
+Intelligenz" der 
+Bundesakademie für 
+Anlage 1 
+öffentliche Verwaltung 
+(BAköV) genutzt. KI-
+Kompetenzen werden 
+zusätzlich in Sprechstunden 
+vertieft. 
+Bundesministerium 
+für Digitales und 
+Staatsmodernisierun
+g 
+      Im BMDS werden neben 
+dem Fortbildungsangebot 
+des Lehrpfads "Künstliche 
+Intelligenz" der 
+Bundesakademie für 
+öffentliche Verwaltung 
+(BAköV) zusätzlich u.a. 
+folgende 
+Schulungsmöglichkeiten 
+angeboten: 
+- Wöchentliches KI-
+Multiplikatorenformat 
+- KIPITZ-
+Anwendungsschulung 
+inklusive KI-
+Grundlagenschulung 
+- KI-Prompitng-Schulungen 
+- KI-
+Führungskräfteschulungen
