@@ -1,0 +1,205 @@
+Deutscher Bundestag Drucksache 21/7453
+21. Wahlperiode 31.07.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Sonja Lemke, Clara Bünger, 
+Doris Achelwilm, weiterer Abgeordneter und der Fraktion Die Linke 
+– Drucksache 21/7213 –
+Monitoring des Ausbaus von Rechenkapazität
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Bundesregierung hat am 18. März 2026 ihre Rechenzentrumsstrategie 
+vorgelegt. Darin setzt sie sich das Ziel, die Rechenkapazitäten in Deutschland 
+bis 2030 zu verdoppeln und die Rechenkapazitäten für Künstliche
+Intelligenz (KI) mindestens zu vervierfachen. Eine Kenngröße für die tatsächliche 
+Rechenkapazität benennt die Strategie nicht, die Ist-Beschreibung bezieht sich 
+im Wesentlichen auf die IT-Anschlussleistung, die ausweislich der Strategie 
+mit knapp 3 Megawatt beziffert wird. Eine Verdoppelung würde jedenfalls
+bedeuten, dass eine Vielzahl neuer Rechenzentren gebaut werden müsste, mit 
+den entsprechenden Folgen für Strom-, Wasser- und Flächenverbrauch.
+ 1. Gibt es in der Bundesregierung eine Übersicht über Rechenzentren, die 
+sich in Planung oder im Bau befinden, die auf das Ziel der Verdoppelung 
+der Rechenkapazität in Deutschland einzahlen sollen?
+ 2. Welche Informationen hat die Bundesregierung zum Bau von neuen
+Rechenzentren in Deutschland (bitte, soweit bekannt, jeweils geplante
+Rechenkapazität, geplante Stromanschlussleistung, Betreiber, Standort,
+Planungs- bzw. Baufortschritt sowie den Zeitpunkt der geplanten
+Inbetriebnahme angeben)?
+ 3. Welche Informationen hat die Bundesregierung zum Ausbau von bereits 
+im Betrieb befindlichen Rechenzentren (bitte, soweit bekannt, jeweils 
+geplante zusätzliche Rechenkapazität, geplante zusätzliche
+Stromanschlussleistung, Betreiber, Standort, Planungs- bzw. Baufortschritt sowie 
+den Zeitpunkt der geplanten Inbetriebnahme der zusätzlichen
+Kapazitäten angeben)?
+Die Fragen 1, 2 und 3 werden zusammen beantwortet.
+Auch weil es sich im Wesentlichen um private Investitionen und Unternehmen 
+handelt, existiert eine umfassende Liste mit allen in Planung und Bau
+befindlichen Rechenzentren in der Bundesregierung nicht.
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Digitales und
+Staatsmodernisierung vom 31. Juli 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+Über manche Projekte sind in der Bundesregierung Informationen vorhanden, 
+die teilweise über das öffentlich bekannte hinausgehen.
+Informationen zu im Bau und/oder im Betrieb befindlichen Rechenzentren in 
+Deutschland, die über das öffentlich Bekannte hinaus gehen, sind in
+vertraulichen Gesprächen durch die jeweils verantwortlichen Organisationen der
+Bundesregierung mitgeteilt wurden und können aus Gründen von Betriebs- und
+Geschäftsgeheimnissen dieser Unternehmen (Art 12 und Artikel 14 GG) nicht mit 
+der Öffentlichkeit geteilt werden. Zudem wurden der Bundesregierung soweit 
+vorhanden diese Informationen, die relevant für interne Arbeitsprozesse sind, 
+nur unter der Maßgabe der Vertraulichkeit mitgeteilt.
+ 4. Hat die Bundesregierung neben der IT-Anschlussleistung, die lediglich 
+den verfügbaren Strom benennt, andere Indikatoren oder Kennzahlen zur 
+Messung der tatsächlichen Rechenkapazität in Deutschland, die die
+Bundesregierung verdoppeln will?
+Das öffentlich bekannte Ziel zum Recheninfrastrukturausbau aus der
+Rechenzentrumsstrategie orientiert sich bewusst an der IT-Anschlussleistung, dem
+Kriterium, dass sich international zur Messung der Rechenkapazität durchgesetzt 
+hat und aktuell die bestmögliche Vergleichbarkeit bietet.
+ 5. An welchen Indikatoren und auf welcher Datengrundlage misst die
+Bundesregierung während der nächsten vier Jahre den Fortschritt bei der
+Erreichung ihrer Ziele, insbesondere,
+a) ob sie ihre Ziele „Verdoppelung der der Rechenkapazität“ und
+„Vervierfachung der Rechenkapazität für KI“ erreicht bzw. bis 2030 noch 
+erreichen kann,
+b) ob Maßnahmen, die sie zur Erreichung dieser Ziele ergriffen hat,
+tatsächlich die gewünschte Wirkung haben?
+Frage 5, 5 a) und 5 b) werden zusammen beantwortet.
+Die Bundesregierung plant im 12-monatlichen Abstand nach Verabschiedung 
+der ersten Version der Rechenzentrumsstrategie (18. März 2026) eine
+Aktualisierung der Rechenzentrumsstrategie inklusive Aufnahme eines Monitorings. 
+Das Monitoring gilt den angekündigten Maßnahmen und soll übersichtlich und 
+verständlich darstellen, wie der aktuelle Status zur jeweiligen Maßnahme ist 
+und welche Wirkung damit verbunden wird. Ein erstes Monitoring zur
+quantitativen Zielerreichung des Rechenkapazitätsausbaus soll zum Ende der laufenden 
+Legislatur erfolgen, um den angekündigten und umgesetzten Maßnahmen
+ausreichend Zeit zu geben, ihre Wirkung zu entfalten.
+ 6. Welche Vorschriften und Maßnahmen plant die Bundesregierung, um 
+Anreize für die Betreiber von Rechenzentren zu schaffen, den
+tatsächlichen Stromverbrauch der in einem Rechenzentrum verbauten Hardware 
+auf das Minimum zu reduzieren, vor dem Hintergrund, dass der Power-
+Usage-Effectiveness-Wert lediglich das Verhältnis zwischen dem
+Stromverbrauch für die Hardware und dem Stromverbrauch für die Kühlung 
+darstellt und damit klimafreundlicher wirkt, je höher der Stromverbrauch 
+der Hardware ist?
+Maßnahmen, die ausschließlich auf die Senkung des Energieverbrauchs der IT-
+Hardware in Rechenzentren abzielen sind nicht geplant. Energieeffizienz senkt 
+die Energiekosten, verringert die Abhängigkeit von Energieimporten und damit 
+die Anfälligkeit für Preisschwankungen und trägt dazu bei, Unternehmen vor
+Preisschocks zu schützen. Betreiber von Rechenzentren haben damit
+grundsätzlich ein Eigeninteresse an der Steigerung der Energieeffizienz ihrer IT-
+Hardware. Deutschland verfügt zudem über ein breites und wirksames Portfolio 
+langjährig etablierter Energieeffizienzmaßnahmen. Dieses stützt sich auf die 
+Bereiche Regulierung (u. a. Energieeffizienzgesetz), Förderung (u. a.
+Bundesförderung für Energie- und Ressourceneffizienz in der Wirtschaft, EEW) und 
+Information (u. a. Initiative Energieeffizienz- und Klimaschutz-Netzwerke, 
+IEEKN).
+ 7. Wie bewertet die Bundesregierung die mit der Verdoppelung der
+Rechenkapazität einhergehenden Umwelt- und Klimaauswirkungen?
+Deutschland zählt aufgrund der Energieeffizienz seiner Wirtschaft und des
+hohen Anteils an erneuerbaren Energien im Strommix und mit einem
+durchschnittlichen PUE-Wert von 1,43 zu einem Rechenzentrumsstandort mit einer 
+vergleichsweise hohen Energieeffizienz und einer vergleichsweise guten
+Umweltbilanz.
+Auch neue Rechenkapazitäten, die jetzt und zukünftig in Deutschland
+entstehen, sollen sehr energieeffizient sein. Dazu macht das Energieeffizienzgesetz, 
+dessen Novellierung sich gerade im parlamentarischen Verfahren befindet, 
+klare Vorgaben. So wird durch eine noch strengere Vorgabe beim PUE-Wert die 
+Effizienzvorgabe noch ambitionierter. Mit dieser und weiterer, teilweise
+zukünftig praxisnäher ausgestalteter Regelungen bleibt Deutschland Vorreiter 
+beim Thema Energieeffizienz und Nachhaltigkeit für Rechenzentren in Europa 
+und der Welt.
+Insgesamt sind Rechenzentren in den EU-Emissionshandel mit ihrem
+Strombezug (Scope 2) einbezogen, wodurch sichergestellt ist, dass die Klimaziele 
+Deutschlands präzise erreicht werden. Zudem ist der Ausbau der
+Rechenzentrumskapazitäten wichtig für die Erreichung des Ziels digitaler Souveränität.
+ 8. Welche eigenen Bewertungen oder welche von Externen zieht die
+Bundesregierung für diese Bewertung heran?
+Die in der Antwort zu Frage 7 dargestellte Bewertung basiert auf Informationen 
+zum Energieverbrauch und -effizienz von Rechenzentren in Deutschland und 
+anderen Ländern, Ergebnissen der laufenden EU-Vorhaben im Bereich Energie 
+und Rechenzentren, sowie Informationen zum Energiemix.
+ 9. Wie gedenkt die Bundesregierung eine transparente Datengrundlage für 
+die Bewertung der Umwelt- und Klimaauswirkungen sicherzustellen, 
+wenn sie mit dem am 24. Juni 2026 beschlossenen Entwurf eines
+Gesetzes zur Beschleunigung der Umsetzung der Energieeffizienzrichtlinie 
+(insbesondere § 13 des Energieeffizienzgesetzes) plant, die
+Öffentlichkeit von wesentlichen Informationen auszuschließen?
+Dies wird durch § 13 EnEfG sichergestellt. Die Änderungen dienen der
+Anpassung an die Vorgaben des Artikel 12 Absatz 1 der Richtlinie (EU) 2023/1791, 
+der eine Ausnahme von der Veröffentlichungspflicht für Betreiber von
+Rechenzentren für Informationen zulässt, die dem Unionsrecht oder dem nationalen 
+Recht zum Schutz von Betriebs- und Geschäftsgeheimnissen und der
+Vertraulichkeit unterliegen. Zudem wird die Erfüllung der Pflichten aus Absatz 1 für 
+Betreiber von Rechenzentren, insbesondere für Anbieter von Co-Lokation, 
+durch eine Mitwirkungspflicht durch Betreiber von Informationstechnik mit 
+dem neuen Absatz 2 erleichtert.
+10. Inwieweit fördert der Bund die Ansiedlung und den Neubau oder Ausbau 
+von Rechenzentren der Privatwirtschaft durch Mittel aus dem
+Bundeshaushalt oder durch steuerliche Begünstigungen?
+Der Bund verfügt bislang über keine Förderprogramme etc., die speziell den 
+Ausbau oder Neubau von Rechenzentren der Privatwirtschaft durch Mittel aus 
+dem Bundeshaushalt oder durch steuerliche Begünstigungen fördert. Im
+Rahmen von EuroHPC wird derzeit die Ausschreibung der AI‑Gigafactories
+vorbereitet. Für den Fall, dass eine deutsche Bewerbung durch ein privates
+Konsortium im geplanten Wettbewerb erfolgreich ist, wird der Bund durch einen
+garantierten Rechenzeitkauf den Aufbau unterstützen. Nähere Angaben (auch zu 
+den Teilfragen unten) sind zum jetzigen Zeitpunkt nicht möglich. Im Rahmen 
+des Important Project of Common European Interest (IPCEI) Verteiltes
+Rechen-Kontinuum (IPCEI‑CIC) soll der Aufbau eines souveränen und verteilten 
+Rechen-Kontinuums in Europa erfolgen. Hierzu ist der Ausbau von Edge-
+Rechenkapazitäten und der standortübergreifenden Vernetzung vorgesehen.
+a) Welche Unternehmen haben für den Neubau oder Ausbau von
+Rechenzentren seit Amtsantritt der aktuellen Bundesregierung bereits 
+Förderung bekommen (bitte jeweils Unternehmen, geförderten 
+Rechenzentrumsstandort und Fördersumme angeben)?
+Keine. Siehe Antwort zu Frage 10.
+b) Aus welchen Titeln des Bundeshaushaltes stehen für 2026 noch
+Förderungsmöglichkeiten in welcher Höhe zur Verfügung?
+In Kapitel 6093 Titel 892 51 („Digitale Infrastruktur für verteilte
+Datenverarbeitung und KI“) stehen in 2026 Barmittel i. H. v. max. 5 Mio. Euro für das 
+IPCEI-CIC zur Verfügung.
+c) Welche Förderkriterien gelten für entsprechende Zuwendungen?
+Die Kriterien werden in Kürze im Zuge der Bekanntmachung zur
+Durchführung eines Interessenbekundungsverfahrens zum IPCEI‑CIC bekanntgegeben.
+d) In welchen Haushaltstiteln sind im Regierungsentwurf zum
+Bundeshaushalt 2027 Mittel in welcher Höhe für den Neubau oder Ausbau 
+von Rechenzentren durch private Unternehmen vorgesehen?
+Der Regierungsentwurf für den Wirtschaftsplan 2027 des Sondervermögens 
+Infrastruktur und Klimaneutralität sieht in Kapitel 6093 Titel 892 51 („Digitale 
+Infrastruktur für verteilte Datenverarbeitung und KI“) einen Barmittelansatz 
+i. H. v. 80 Mio. Euro für das IPCEI‑CIC vor. Die Höhe dieses Ansatzes kann 
+sich im Zuge des parlamentarischen Verfahrens noch ändern.
+11. Wie hoch ist nach Einschätzung der Bundesregierung der prognostizierte 
+tatsächliche zusätzliche Strombedarf für Deutschland, verursacht durch 
+neue Rechenzentren in den Jahren 2030 bzw. 2040 im Vergleich zu 
+2025?
+Der Strombedarf von Rechenzentren und kleineren IT-Installationen in 
+Deutschland lag im Jahr 2025 bei rund 21,3 TWh, wie Berechnungen des
+Borderstep Institut im Auftrag des Bitkom zeigen. Nach einem Gutachten im
+Auftrag des Bundeswirtschaftsministeriums zu „Stand und Entwicklung des 
+Rechenzentrumsstandorts Deutschland“, das am 17. Januar 2025 veröffentlicht 
+wurde (abrufbar unter: www.bundeswirtschaftsministerium.de/Redaktion/DE/P
+ublikationen/Technologie/stand-und-entwicklung-des-rechenzentrumsstandort
+s-deutschland.pdf?__blob=publicationFile&v=1) werden im Jahr 2030
+voraussichtlich 31 TWh Strom für die in Deutschland betriebenen Rechenzentren
+benötigt. Für das Jahr 2045 prognostiziert das Gutachten einen Verbrauch von 
+80 TWh. Der zweite Entwurf des "Netzentwicklungsplan Strom 2025–
+2037/2045", der sich zurzeit in der Konsultationsphase der Bundesnetzagentur 
+befindet, geht aufgrund der gemeldeten Anschlussleistungen über die
+Großverbraucherabfrage von einem steigenden Stromverbrauch für 2037/2045 von 
+78 TWh bis 116 TWh aus. Tatsächlich ist der Stromverbrauch in Deutschland 
+in den letzten Jahren nicht gestiegen, sondern gesunken, trotz des o. g.
+Volumens im Bereich der Rechenzentren. Daher ist die Entwicklung des
+Strombedarfs hier nicht isoliert zu betrachten.
+12. In welchen Szenarien bzw. Planungen ist dieser Strombedarf bereits
+berücksichtigt und in welchen gegebenenfalls noch nicht (beispielsweise 
+Systementwicklungsstrategie, Bundesbedarfsplan und
+Netzentwicklungsplan 2025, Langfristszenarien usw.)?
+Der wachsende Strombedarf von Rechenzentren wird in aktuellen Szenarien 
+bzw. Planungen bereits berücksichtigt, darunter die veröffentlichten Entwürfe 
+des Netzentwicklungsplans Strom 2025 und des Szenariorahmens für den
+Netzentwicklungsplan Strom 2027, neue Langfristszenarien (in Erarbeitung) und die 
+Systementwicklungsstrategie 2027 (in Erarbeitung).
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
