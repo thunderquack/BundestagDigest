@@ -128,7 +128,7 @@ def summarize_files(paths: List[str]) -> int:
     except Exception:
         # If file is corrupt or unreadable, proceed with a fresh dict
         db = {}
-    model = os.environ.get("OPENAI_MODEL") or "gpt-4o-mini"
+    model = os.environ.get("OPENAI_MODEL") or "gpt-5.6-luna"
     try:
         default_max = int(os.environ.get("SUMMARY_MAX_CHARS", "20000"))
     except ValueError:
