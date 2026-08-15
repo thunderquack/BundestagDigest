@@ -1,0 +1,287 @@
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln 
+Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de 
+ISSN 0720-2946 
+Bundesrat  Drucksache 429/26  
+ 
+ 
+12.08.26   
+Fz - R 
+Verordnung 
+des Bundesministeriums  
+der Finanzen 
+Verordnung über den elektronischen Austausch zwischen 
+Notaren und Finanzämtern im Bereich der Grunderwerbsteuer 
+(GrESteAV) 
+A. Problem und Ziel 
+§ 18 Absatz 1 Satz 2 des Grunderwerbsteuergesetzes in der ab dem 1. Oktober 2026 
+geltenden Fassung nach Artikel 6 des Gesetzes zur Digitalisierung des Vollzugs von
+Immobilienverträgen, der gerichtlichen Genehmigungen von notariellen Rechtsgeschäften 
+und der steuerlichen Anzeigen der Notare vom 22. Juni 2026 (BGBl. 2026 I Nr. 192) 
+(GrEStG n. F.) sieht vor, dass Notare dem zuständigen Finanzamt Anzeige über
+Rechtsvorgänge nach dem Grunderwerbsteuergesetz nach amtlich vorgeschriebenem Datensatz 
+über die amtlich bestimmte Schnittstelle nach Maßgabe des § 22a GrEStG und des § 93c 
+der Abgabenordnung zu erstatten haben. 
+Hierzu wird das Bundesministerium der Finanzen durch § 22a Absatz 2 GrEStG
+ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz 
+sowie mit Zustimmung des Bundesrates für Anzeigen nach § 18 Absatz 1 Satz 2 GrEStG 
+n. F. und für Abschriften von Urkunden nach § 18 Absatz 1 Satz 3 GrEStG n. F.
+Einzelheiten zur Datenübermittlung durch Verordnung zu regeln. 
+B. Lösung 
+Aufgrund des § 22a Absatz 2 GrEStG wird die Verordnung über das Verfahren zur
+elektronischen Übermittlung der Anzeigen nach § 18 Absatz 1 Satz 2 GrEStG n. F. und der 
+Abschriften der Urkunden nach § 18 Absatz 1 Satz 3 GrEStG n. F. erlassen.  
+Es werden Einzelheiten der Datenübermittlung geregelt sowie Dateiformate für die zu 
+übermittelnden Dokumente festgelegt. 
+C. Alternativen 
+Keine. 
+D. Haushaltsausgaben ohne Erfüllungsaufwand 
+Dem Bund entstehen durch diese Verordnung keine Ausgaben. 
+Die Haushalte der Länder und Kommunen werden nicht belastet.
+E. Erfüllungsaufwand 
+E.1 Erfüllungsaufwand für Bürgerinnen und Bürger 
+Die Regelungen dieser Verordnung führen zu keinem Erfüllungsaufwand für Bürgerinnen 
+und Bürger. Die Veränderungen des Erfüllungsaufwands durch die Regelungen dieser 
+Verordnung sind bereits in dem Entwurf eines Gesetzes zur Digitalisierung des Vollzugs 
+von Immobilienverträgen, der gerichtlichen Genehmigungen von notariellen
+Rechtsgeschäften und der steuerlichen Anzeigen der Notare vollständig berücksichtigt (vergleiche 
+Bundestagsdrucksache 21/3735, S. 33 ff.). 
+E.2 Erfüllungsaufwand für die Wirtschaft 
+Die Regelungen dieser Verordnung führen zu keinem Erfüllungsaufwand für die
+Wirtschaft; die Ausführungen zu E.1 gelten insoweit entsprechend. 
+Davon Bürokratiekosten aus Informationspflichten 
+Keine. 
+E.3 Erfüllungsaufwand der Verwaltung 
+Die Regelungen dieser Verordnung führen zu keinem Erfüllungsaufwand der Verwaltung. 
+Die Ausführungen zu E.1 gelten insoweit entsprechend. 
+F. Weitere Kosten 
+Keine. 
+ 
+ 
+ 
+ 
+ 
+Bundesrat  Drucksache 429/26  
+ 
+ 
+12.08.26   
+Fz - R 
+Verordnung 
+des Bundesministeriums  
+der Finanzen 
+Verordnung über den elektronischen Austausch zwischen 
+Notaren und Finanzämtern im Bereich der Grunderwerbsteuer 
+(GrESteAV) 
+Bundeskanzleramt               Berlin, 12. August 2026 
+Staatsminister beim Bundeskanzler 
+An den 
+Präsidenten des Bundesrates 
+Herrn Bürgermeister 
+Dr. Andreas Bovenschulte 
+ 
+Sehr geehrter Herr Bundesratspräsident, 
+hiermit übersende ich die vom Bundesministerium der Finanzen zu erlassende 
+Verordnung über den elektronischen Austausch zwischen  
+Notaren und Finanzämtern im Bereich der Grunderwerbsteuer 
+(GrESteAV)  
+mit Begründung und Vorblatt. 
+Ich bitte, die Zustimmung des Bundesrates aufgrund des Artikels 80 Absatz 2 des 
+Grundgesetzes herbeizuführen. 
+Mit vorzüglicher Hochachtung 
+Philipp Amthor 
+ 
+ 
+Verordnung über den elektronischen Austausch zwischen
+Notaren und Finanzämtern im Bereich der Grunderwerbsteuer 
+(GrESteAV) 
+Vom ... 
+Das Bundesministerium der Finanzen verordnet aufgrund des § 22a des
+Grunderwerbsteuergesetzes in der Fassung der Bekanntmachung vom 26. Februar 1997 (BGBl. 
+1997 I S. 418, 1804), das zuletzt durch Artikel 9 des Gesetzes vom 29. Juni 2026 (BGBl. 
+2026 I Nr. 197) geändert worden ist, im Einvernehmen mit dem Bundesministerium der 
+Justiz und für Verbraucherschutz:
+§ 1
+Anwendungsbereich 
+Diese Verordnung regelt die elektronische Übermittlung der Anzeige von Notaren an 
+Finanzämter nach § 18 Absatz 1 Satz 2 und 3 des Grunderwerbsteuergesetzes. 
+§ 2
+Übermittlung der Anzeige 
+(1) Die elektronische Anzeige nach § 18 Absatz 1 Satz 2 des
+Grunderwerbsteuergesetzes ist nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte
+Schnittstelle (§ 87b Absatz 1 und 2 der Abgabenordnung) nach Maßgabe des § 93c der
+Abgabenordnung zu übermitteln. Der Datensatz hat neben den Inhalten nach § 20 des
+Grunderwerbsteuergesetzes auch die für die Übermittlung der Unbedenklichkeitsbescheinigung
+erforderlichen Daten zu enthalten. Der Notar ist verpflichtet, der Anzeige eine
+maschinenlesbare und durchsuchbare Abschrift der Urkunde als elektronisches Dokument im Dateiformat 
+PDF beizufügen.
+(2) Kann die Abschrift der Urkunde aufgrund der Dateigröße nicht über die amtlich
+bestimmte Schnittstelle übermittelt werden, so hat insoweit eine gesonderte Übermittlung 
+in Papierform zu erfolgen.
+§ 3
+ 
+ 
+ 
+ 
+ 
+Inkrafttreten 
+Diese Verordnung tritt am 1. Oktober 2026 in Kraft.
+Der Bundesrat hat zugestimmt.
+Begründung 
+A. Allgemeiner Teil
+I. Zielsetzung und Notwendigkeit der Regelungen
+Das Ziel der Verordnung ist es, die Einzelheiten der elektronischen Übermittlung der
+Anzeigen der Notare nach § 18 Absatz 1 Satz 2 des Grunderwerbsteuergesetzes in der ab dem 
+1. Oktober 2026 geltenden Fassung nach Artikel 6 des Gesetzes zur Digitalisierung des
+Vollzugs von Immobilienverträgen, der gerichtlichen Genehmigungen von notariellen
+Rechtsgeschäften und der steuerlichen Anzeigen der Notare vom 22. Juni 2026 (BGBl.
+2026 I Nr. 192) (GrEStG n. F.) zu regeln. Diese Regelungen sind notwendig, da Notare ab
+dem 1. Oktober 2026 gesetzlich verpflichtet werden sollen, die betreffenden Anzeigen
+ausschließlich elektronisch zu übermitteln.
+II. Wesentlicher Inhalt des Entwurfs
+In der Vergangenheit haben Notare die Anzeigen nach § 18 Absatz 1 Satz 1 des
+Grunderwerbsteuergesetzes (GrEStG) schriftlich erstattet. Mit dem Jahressteuergesetz 2024 
+vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) wurde es den Notaren erstmals eröffnet, die 
+Anzeige der Rechtsvorgänge nach § 18 GrEStG statt auf Papier elektronisch an das
+Finanzamt zu erstatten. Durch Artikel 6 des Gesetzes zur Digitalisierung des Vollzugs von 
+Immobilienverträgen, der gerichtlichen Genehmigungen von notariellen Rechtsgeschäften 
+und der steuerlichen Anzeigen der Notare sollen die Notare nunmehr verpflichtet werden, 
+ab dem 1. Oktober 2026 die Anzeigen ausschließlich elektronisch an die Finanzämter zu 
+erstatten.
+Danach haben Notare die Anzeigen elektronisch nach amtlich vorgeschriebenem
+Datensatz über die amtlich bestimmte Schnittstelle nach Maßgabe des § 22a GrEStG und des 
+§ 93c der Abgabenordnung (AO) zu erstatten. Der Anzeige ist eine Abschrift der Urkunde
+über den Rechtsvorgang, den Antrag, den Beschluss oder die Entscheidung beizufügen.
+Mit dieser Verordnung werden Einzelheiten des Datensatzes zur Anzeige und das Format
+der Abschrift der Urkunde geregelt. Auch für den Fall, dass eine elektronische Übermittlung
+der Abschrift aufgrund ihrer Dateigröße nicht möglich sein sollte, enthält die Verordnung
+eine Regelung.
+Die elektronische Übermittlung erfolgt über den zentralen Kommunikationsweg der
+Finanzverwaltung – ELSTER –, der sich auch bei anderen elektronischen Mitteilungsverfahren
+bewährt hat. Nur über ELSTER erhält die Finanzverwaltung strukturierte Daten in einer
+Qualität, die auch in den steuerlichen IT-Verfahren der Länder verarbeitbar sind.
+III. Exekutiver Fußabdruck
+Interessenvertreter sowie beauftragte Dritte haben nicht wesentlich zum Inhalt des
+Gesetzentwurfs beigetragen (§ 43 Absatz 1 Nummer 13 der Gemeinsamen Geschäftsordnung der 
+Bundesregierung).
+IV. Alternativen
+Eine digitale Übermittlung steuerlicher Anzeigen ohne strukturierten Datensatz würde
+jedenfalls auf Empfängerseite, der Finanzverwaltung, keine Erleichterungen schaffen,
+sondern konträr den Verwaltungsaufwand und die Bearbeitungsdauer erhöhen. Eine
+Alternative besteht daher nicht.
+V. Regelungskompetenz
+Die Verordnungsermächtigung folgt aus § 22a GrEStG. Danach setzt der Erlass der
+Verordnung das Einvernehmen mit dem Bundesministerium der Justiz und für
+Verbraucherschutz sowie die Zustimmung des Bundesrates voraus.
+VI. Vereinbarkeit mit dem Recht der Europäischen Union und völkerrechtlichen 
+Verträgen
+Bezüge zum Recht der Europäischen Union oder zu völkerrechtlichen Verträgen bestehen 
+nicht.
+VII. Regelungsfolgen
+1. Rechts- und Verwaltungsvereinfachung
+Die elektronische Übermittlung der Anzeige nach § 18 Absatz 1 GrEStG wird durch die 
+Festlegung von Einzelheiten des Datensatzes und des Formats der Abschriften der
+Urkunde vereinfacht. Aufgrund der Verpflichtung des Notars, der Anzeige eine
+maschinenlesbare und durchsuchbare Abschrift der Urkunde als elektronisches Dokument im Dateiformat 
+PDF beizufügen, wird die Bearbeitung der Finanzämter wesentlich vereinfacht.
+2. Nachhaltigkeitsaspekte
+Nachhaltigkeitsaspekte entsprechend der Deutschen Nachhaltigkeitsstrategie sind nicht 
+betroffen.
+3. Haushaltsausgaben ohne Erfüllungsaufwand 
+Dem Bund entstehen durch die Verordnung keine Mehrausgaben. 
+Die Haushalte der Länder und Kommunen werden nicht belastet. 
+4. Erfüllungsaufwand
+4.1. Erfüllungsaufwand für Bürgerinnen und Bürger 
+Die Regelungen dieser Verordnung führen zu keinem Erfüllungsaufwand für Bürgerinnen 
+und Bürger, da die Veränderungen des Erfüllungsaufwands durch die beabsichtigten
+Neuregelungen bereits in dem Gesetz zur Digitalisierung des Vollzugs von
+Immobilienverträgen, der gerichtlichen Genehmigungen von notariellen Rechtsgeschäften und der
+steuerlichen Anzeigen der Notare vollständig berücksichtigt wurden (vergleiche
+Bundestagsdrucksache 21/3735, S. 33 ff.).
+4.2. Erfüllungsaufwand für die Wirtschaft 
+Die Regelungen dieser Verordnung führen zu keinem Erfüllungsaufwand für die Wirtschaft. 
+Die Ausführungen zu 4.1 gelten insoweit entsprechend.
+4.3. Erfüllungsaufwand der Verwaltung 
+Die Regelungen dieser Verordnung führen zu keinem Erfüllungsaufwand der Verwaltung. 
+Die Ausführungen zu 4.1 gelten insoweit entsprechend.
+5. Weitere Kosten 
+Weitere Kosten entstehen nicht. 
+6. Weitere Regelungsfolgen 
+Keine.
+VIII. Befristung; Evaluierung
+Eine Befristung der Verordnung ist nicht vorgesehen, da die durch Artikel 6 des Gesetzes 
+zur Digitalisierung des Vollzugs von Immobilienverträgen, der gerichtlichen
+Genehmigungen von notariellen Rechtsgeschäften und der steuerlichen Anzeigen der Notare
+eingeführte Pflicht zur elektronischen Anzeige durch Notare zeitlich unbefristet ist. Eine
+Evaluierung der Regelung ist nicht vorgesehen.
+B. Besonderer Teil
+Zu § 1 (Anwendungsbereich) 
+§ 1 regelt den Anwendungsbereich der Verordnung. Es wird die elektronische Übermittlung 
+der Anzeige von Notaren an Finanzämter gemäß § 18 Absatz 1 Satz 2 GrEStG n. F. und 
+der Abschrift der Urkunde nach § 18 Absatz 1 Satz 3 GrEStG n. F. geregelt. Die Anzeigen 
+der Gerichte und Behörden sind nicht Gegenstand der Verordnung, diese übermitteln
+weiterhin in Papierform.
+Zu § 2 (Übermittlung der Anzeige)
+Zu Absatz 1
+§ 2 regelt Einzelheiten des Datensatzes der Anzeigen durch Verweis auf § 20 GrEStG und 
+subsidiär auf § 93c AO.
+Die elektronische Anzeige nach § 18 Absatz 1 Satz 2 GrEStG n. F. ist nach amtlich
+vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle (§ 87b Absatz 1 und 2 AO) 
+nach Maßgabe des § 93c AO zu übermitteln. Die elektronische Übermittlung erfolgt über 
+den Übermittlungsweg der Finanzverwaltung ELSTER.
+Der zu übermittelnde Datensatz hat neben den Inhalten nach § 20 GrEStG auch die für die 
+Übermittlung der Unbedenklichkeitsbescheinigung erforderlichen Daten zu enthalten, wenn 
+zum Beispiel ein Notar die Veräußerungsanzeige einreicht und ein anderer Notar die
+Unbedenklichkeitsbescheinigung erhalten soll. Nach § 20 GrEStG muss die Anzeige alle für 
+die Steuerfestsetzung erforderlichen Einzelheiten enthalten. Das sind nach § 20 Absatz 1 
+GrEStG insbesondere Angaben zu den Vertragsparteien und vom Vertrag begünstigter
+Personen sowie Angaben zur Bestimmung des Grundstücks. Des Weiteren sind die
+Einzelheiten des anzeigepflichtigen Vorgangs und der Beurkundung, die Gegenleistung sowie Name 
+und Anschrift der Urkundsperson anzuzeigen. Anzeigen, die sich auf Anteile an einer
+Gesellschaft beziehen, müssen gemäß § 20 Absatz 2 GrEStG außerdem Angaben zur
+Gesellschaft und ihrer Anteile, auf die sich die Anzeige bezieht, enthalten. Bei mehreren
+beteiligten Rechtsträgern ist auch eine Beteiligungsübersicht zu übermitteln. Ergänzend sind nach
+§ 93c AO weitere Angaben erforderlich, soweit das GrEStG keine abweichenden
+Bestimmungen enthält. Angaben zum Zeitpunkt, zum Inhalt der Anzeige und zum örtlich
+zuständigen Finanzamt folgen aus den insoweit speziellen Regelungen der §§ 17 bis 20 GrEStG. 
+Ergänzende Angaben nach § 93c AO sind insbesondere der Zeitpunkt der Erstellung des 
+Datensatzes und die Angabe, ob es sich um eine erstmalige, korrigierte oder stornierende 
+Mitteilung im Sinne des § 93c Absatz 1 Nummer 2 Buchstabe e AO handelt. Darüber hinaus 
+haben Notare die Steuerpflichtigen nach § 93c Absatz 1 Nummer 3 AO darüber zu
+informieren, welche für ihre Besteuerung relevanten Daten sie an die Finanzbehörden
+übermittelt haben oder übermitteln werden. Nach § 93c Absatz 1 Nummer 4 AO haben sie die
+übermittelten Daten aufzuzeichnen und diese Aufzeichnungen sowie die der Mitteilung
+zugrunde liegenden Unterlagen bis zum Ablauf des siebten auf den Besteuerungszeitraum 
+oder Besteuerungszeitpunkt folgenden Kalenderjahres aufzubewahren. Für den Fall, dass 
+Daten unzutreffend übermittelt wurden, gilt § 93c Absatz 3 AO.
+Der Notar ist außerdem verpflichtet, der Anzeige eine maschinenlesbare und eine von 
+Mensch und Maschine durchsuchbare Abschrift der Urkunde als elektronisches Dokument 
+im Dateiformat PDF beizufügen. Die Übersendung einer PDF-Datei in einer nicht
+maschinenlesbaren und durchsuchbaren Form führt jedoch nicht zur Unvollständigkeit der Anzeige 
+nach § 18 GrEStG. In diesem Fall muss der Notar bei eigenem Erkennen, spätestens auf 
+Verlangen des Finanzamtes eine Korrekturmeldung mit beigefügter Abschrift der Urkunde 
+in maschinenlesbarer und durchsuchbarer Form als PDF innerhalb angemessener Frist 
+übermitteln. Unschädlich ist, wenn Daten, die nicht für die Maschinenlesbarkeit geeignet 
+sind, also beispielsweise eingescannte Unterschriften oder bildliche Darstellungen, nicht 
+umfasst werden. Für sie ist im Falle einer Divergenz zwischen dem mittels Texterkennung 
+erstellten Text und den Bilddateien eines Scans allein die bildliche wiedergegebene
+Information maßgeblich.
+Die notwendigen Informationen zu den Verfahrensabläufen und Schnittstellen sind unter 
+anderem unter www.esteuer.de einsehbar.
+Zu Absatz 2
+Kann die Abschrift der Urkunde aufgrund der Dateigröße nicht über die amtlich bestimmte 
+Schnittstelle übermittelt werden, so hat insoweit eine gesonderte Übermittlung innerhalb 
+der Frist nach § 18 Absatz 3 Satz 1 GrEStG in Papierform zu erfolgen. Die Anzeige selbst 
+nach § 18 Absatz 1 Satz 2 GrEStG n. F. erfolgt in diesem Fall jedoch elektronisch. Lediglich 
+die beizufügende Abschrift ist gesondert in Papierform zu übermitteln.
+Zu § 3 (Inkrafttreten) 
+Durch § 3 wird das Inkrafttreten der Verordnung geregelt. Es ist ein Inkrafttreten zeitgleich 
+zum Inkrafttreten der verpflichtenden elektronischen Übermittlung der Anzeige nach § 18 
+Absatz 1 Satz 2 GrEStG n. F. vorgesehen.
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+- 5 - Drucksache 429/26

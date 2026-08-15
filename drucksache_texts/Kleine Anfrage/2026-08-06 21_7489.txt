@@ -39,14 +39,12 @@ Bund und Ländern, entwickelt gemeinsame justizspezifische IT-Standards und
 trifft richtungsweisende Entscheidungen über den Einsatz digitaler
 Anwendungen. Nach Darstellung des E‑Justice-Rats sind mit bundesweiten Projekten
 bereits Schritte hin zu einer einheitlicheren digitalen Justizlandschaft eingeleitet 
-worden. Hierzu zählen die bundeseinheitliche Justizcloud sowie die für einen 
+worden. Hierzu zählen die bundeseinheitliche „Justizcloud“ sowie die für einen 
 bund- und länderübergreifenden Betrieb vorgesehenen Fachverfahren, nämlich 
-das Gemeinsame Fachverfahren (GeFa; https://westernacher-solutions.com/gef
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-a-das-gemeinsame-fachverfahren-der-justiz/), das bundeseinheitliche
-Datenbankgrundbuch (dabag; www.grundbuch.eu/) und die Elektronische
-Registerführung (AuRegis; www.justiz.nrw/JM/online_verfahren_projekte/auregis).
+das Gemeinsame Fachverfahren (GeFa) (https://westernacher-solutions.com/ge
+fa-das-gemeinsame-fachverfahren-der-justiz/), das bundeseinheitliche
+Datenbankgrundbuch (dabag) (www.grundbuch.eu/) und die elektronische
+Registerführung (AuRegis) (www.justiz.nrw/JM/online_verfahren_projekte/auregis).
 Auch finanziell beteiligt sich der Bund an der Digitalisierung der Justiz. Nach 
 Angaben der Bundesregierung stellt der Bund in den Haushaltsjahren 2023 bis 
 2026 im Rahmen der Digitalisierungsinitiative für die Justiz bis zu 200 Mio. 
@@ -63,7 +61,7 @@ Updatefähigkeit lägen ihr jedoch nicht vor. Ebenso verfügte die Bundesregieru
 seinerzeit über keine Erkenntnisse zu einer flächendeckenden Risikoanalyse der 
 an den Gerichten verwendeten Hard- und Software. Zugleich verwies sie auf 
 das seit 2017 von allen 16 Ländern entwickelte Gemeinsame Fachverfahren 
-GeFa, mit dem bestehende Fachverfahren sukzessive abgelöst werden sollen.
+(GeFa), mit dem bestehende Fachverfahren sukzessive abgelöst werden sollen.
 In ihrer Antwort auf die Kleine Anfrage „Digitalisierung der
 Sozialgerichtsbarkeit im Dienst der Bürger – Stand, Wirkung und Akzeptanz in
 Rentenverfahren“ auf Bundestagsdrucksache 21/1954 verwies die Bundesregierung bei
@@ -95,8 +93,6 @@ Fragesteller voraus, dass elektronische Akten und strukturierte Verfahrensdaten
 auch zwischen Gerichten verschiedener Länder ohne vermeidbare
 Medienbrüche, Informationsverluste oder manuelle Nachbearbeitung ausgetauscht werden 
 können.
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Wir fragen die Bundesregierung:
  1. Wann erhielt die Bundesregierung erstmals Kenntnis von dem am 13. Juli 
 2026 eingetretenen Ausfall der informationstechnischen Systeme der
@@ -107,14 +103,14 @@ technischen Ursache des in Frage 1 genannten Ausfalls vor?
 Dauer der Einschränkung des regulären Geschäftsbetriebs infolge des in 
 Frage 1 genannten Ausfalls vor?
  4. Wurde der in Frage 1 genannte Ausfall seit dem 13. Juli 2026 im 
-E‑Justice-Rat behandelt, und wenn ja, wann und wenn nein, warum nicht?
+E‑Justice-Rat behandelt, wenn ja, wann, und wenn nein, warum nicht?
  5. Wurde der in Frage 1 genannte Ausfall seit dem 13. Juli 2026 in der 
 Bund-Länder-Kommission für Informationstechnik in der Justiz
-behandelt, und wenn ja, wann, und wenn nein, warum nicht?
+behandelt, wenn ja, wann, und wenn nein, warum nicht?
  6. Hat die Bundesregierung seit dem 13. Juli 2026 gegenüber dem Land
 Berlin oder innerhalb eines Bund-Länder-Gremiums eine Auswertung der
-Ursachen des in Frage 1 genannten Ausfalls angeregt oder angefordert?
-Wenn ja, mit welchem Ergebnis, und wenn nein, warum nicht?
+Ursachen des in Frage 1 genannten Ausfalls angeregt oder angefordert, wenn 
+ja, mit welchem Ergebnis, und wenn nein, warum nicht?
  7. Besteht innerhalb des E-Justice-Rats oder der Bund-Länder-Kommission 
 für Informationstechnik in der Justiz ein verbindliches Verfahren, nach 
 dem schwerwiegende Ausfälle informationstechnischer Systeme der
@@ -145,8 +141,6 @@ wird?
 nach Kenntnis der Bundesregierung für Digitalisierungsvorhaben der
 Gerichte, deren Entwicklung oder Einführung aus Bundesmitteln finanziert 
 wird?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 15. Wird bei der Bewilligung von Bundesmitteln für Digitalisierungsvorhaben 
 der Gerichte die Vorlage eines Notfallkonzepts für den vollständigen oder 
 teilweisen Ausfall des betreffenden Systems verlangt, und wenn nein,
@@ -161,10 +155,9 @@ testen, und wenn nein, warum nicht?
 18. Hat die Bundesregierung geprüft, ob zentrale informationstechnische
 Systeme der Gerichte aufgrund ihrer Bedeutung für die Aufrechterhaltung der 
 Rechtspflege besonderen, mit den Anforderungen an kritische
-Infrastrukturen vergleichbaren Anforderungen an kritische Infrastrukturen
-vergleichbaren Anforderungen an Ausfallsicherheit und Resilienz
-unterworfen werden sollten und wenn ja, mit welchem Ergebnis, wenn nein,
-warum nicht?
+Infrastrukturen vergleichbaren Anforderungen an Ausfallsicherheit und Resilienz 
+unterworfen werden sollten, wenn ja, mit welchem Ergebnis, und wenn 
+nein, warum nicht?
 19. Beabsichtigt die Bundesregierung, die für die Jahre 2027 bis 2029
 vorgesehenen Bundesmittel zur Digitalisierung der Justiz an nachprüfbare
 Mindestanforderungen zur Ausfallsicherheit zu knüpfen, und wenn nein,
@@ -177,19 +170,19 @@ der Bundesregierung gegenwärtig bei den Gerichten der Länder eingesetzt
 (bitte nach Land und Gerichtsbarkeit aufschlüsseln)?
 22. Welche Stelle des Bundes oder welches Bund-Länder-Gremium verfügt 
 gegebenenfalls über eine fortlaufend aktualisierte Übersicht der in den 
-Antworten der Bundesregierung auf die Fragen 19 und 20 genannten 
-Fachverfahren und elektronischen Aktensysteme?
+Fragen 19 und 20 genannten bzw. erfragten Fachverfahren und
+elektronischen Aktensysteme?
 23. Wenn weder eine Stelle des Bundes noch ein Bund-Länder-Gremium über 
-die in Frage 21 bezeichnete Übersicht verfügt, aus welchen Gründen hält 
-die Bundesregierung einen solchen Überblick trotz der Tätigkeit des 
+die in Frage 22 genannte Übersicht verfügt, aus welchen Gründen hält die 
+Bundesregierung einen solchen Überblick trotz der Tätigkeit des 
 E‑Justice-Rats, der Bund-Länder-Kommission für Informationstechnik in 
 der Justiz und der Beteiligung des Bundes an der Finanzierung der
 Justizdigitalisierung nicht für erforderlich?
-24. Welche der in den Antworten der Bundesregierung auf die Fragen 19 und 
+24. Welche der in den Antworten der Bundesregierung zu den Fragen 19 und 
 20 gegebenenfalls genannten Systeme unterstützen nach Kenntnis der 
-Bundesregierung die zum Zeitpunkt der Beantwortung dieser Anfrage
-gültige Version des Standards XJustiz?
-25. Für welche der in den Antworten der Bundesregierung auf die Fragen 19 
+Bundesregierung die zum Zeitpunkt der Beantwortung dieser Kleinen
+Anfrage gültige Version des Standards XJustiz?
+25. Für welche der in den Antworten der Bundesregierung zu den Fragen 19 
 und 20 gegebenenfalls genannten Systeme liegen der Bundesregierung 
 keine Erkenntnisse darüber vor, welche Version des Standards XJustiz
 unterstützt wird?
@@ -197,8 +190,6 @@ unterstützt wird?
 Fristen für die Umsetzung einer neu in Kraft tretenden Version des Standards 
 XJustiz in den Fachverfahren und elektronischen Aktensystemen der
 Gerichte, und wenn nein, warum nicht?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 27. Sind der Bundesregierung seit dem 1. Januar 2023 Fälle bekannt
 geworden, in denen strukturierte Verfahrensdaten zwischen Gerichten
 verschiedener Länder aufgrund unterschiedlicher Fachverfahren, unterschiedlicher 
@@ -238,14 +229,6 @@ Ausfallsicherheit, Notbetrieb und Wiederanlauf bei künftig mit Bundesmitteln
 geförderten Digitalisierungsvorhaben der Gerichte?
 Berlin, den 3. August 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
