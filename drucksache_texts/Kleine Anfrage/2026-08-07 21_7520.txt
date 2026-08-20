@@ -6,17 +6,17 @@ Gläser, Matthias Helferich, Sven Wendorf, Dr. Alexander Gauland, Tobias Teich
 und der Fraktion der AfD
 Projektförderung von Medienunternehmen durch Bundesministerien im Bereich 
 digitaler Desinformation seit dem Jahr 2026
-Die Bundesregierung hat seit Beginn des Jahres 2026 insgesamt fünfzehn
-Projekte von Medienunternehmen durch Bundesministerien gefördert. Unter den 
-sechs Projekten mit der höchsten Förderung befinden sich mehrere der
-Deutschen Welle sowie ein Teilvorhaben der CORRECTIV – Recherchen für die 
+Die Bundesregierung hat seit Beginn des Jahres 2026 insgesamt 15 Projekte 
+von Medienunternehmen durch Bundesministerien gefördert. Unter den sechs 
+Projekten mit der höchsten Förderung befinden sich mehrere der Deutschen 
+Welle (DW) sowie ein Teilvorhaben der CORRECTIV – Recherchen für die 
 Gesellschaft gemeinnützige GmbH im Verbundprojekt
-„Kulturalisierungssensible KI-Assistenz für eine desinformationsresiliente multilinguale Gesellschaft 
-– kuKI“ mit einer Förderung in Höhe von 720 418 Euro und einer Laufzeit von 
-März 2026 bis März 2029 (Antwort des Bundesbeauftragten für Kultur und 
-Medien Dr. Wolfram Weimer vom 27. Mai 2026 auf Schriftliche Frage 2 auf 
-Bundestagsdrucksache 21/6164 der Abgeordneten Nicole Hess; www.fzi.de/20
-26/04/23/kuki-gegen-desinformation/).
+„Kulturalisierungssensible KI-Assistenz [KI = Künstliche Intelligenz] für eine
+desinformationsresiliente multilinguale Gesellschaft“ (kuKI) mit einer Förderung in Höhe von 
+720 418 Euro und einer Laufzeit von März 2026 bis März 2029 (Antwort des 
+Bundesbeauftragten für Kultur und Medien auf die Schriftliche Frage 2 der
+Abgeordneten Nicole Hess auf Bundestagsdrucksache 21/6164; www.fzi.de/2026/
+04/23/kuki-gegen-desinformation/).
 Bereits in früheren parlamentarischen Vorgängen wurden die staatliche
 Mitfinanzierung von CORRECTIV und anderen privaten Medienbetrieben sowie 
 Kontakte der Bundesregierung zu CORRECTIV behandelt
@@ -26,54 +26,53 @@ auf die seit dem Jahr 2026 benannten Förderungen von Medienunternehmen,
 insbesondere im Bereich der Erkennung und Abwehr „digitaler
 Desinformation“ sowie auf die damit verbundenen Auswahl-, Kontroll-, Transparenz- und 
 Abgrenzungsfragen.
-Die Förderrichtlinie des Ministeriums für Forschung, Technologie und
-Raumfahrt zur Förderung von Projekten zum Thema „Vertrauen in Demokratie und 
-Staat: Digitale Desinformation erkennen und abwehren“ sieht die Förderung 
-von Forschungsvorhaben vor, die sich dem Erkennen und Abwehren von
-Desinformation zuordnen lassen; sie nennt unter anderem Methoden und Techniken 
-zur Erkennung expliziter und impliziter Narrative von Desinformation sowie 
-Schutzstrategien gegen Desinformation und zur Herstellung von Vertrauen in 
-Staat und demokratisches System (www.bmftr.bund.de/SharedDocs/Bekanntm
-achungen/DE/2024/07/2024-07-19-Bekanntmachung-Desinformation.html ; 
-www.bundesanzeiger.de/pub/publication/M2SNT9uIjbgfCbFEd3g/content/M2
-SNT9uIjbgfCbFEd3g/BAnz%20AT%2019.07.2024%20B2.pdf).
+Die Förderrichtlinie des Bundesministeriums für Forschung, Technologie und 
+Raumfahrt zur Förderung von Projekten zum Thema „Vertrauen in Demokratie 
+und Staat: Digitale Desinformation erkennen und abwehren“ sieht die
+Förderung von Forschungsvorhaben vor, die sich dem Erkennen und Abwehren von 
+Desinformation zuordnen lassen; sie nennt unter anderem Methoden und
+Techniken zur Erkennung expliziter und impliziter Narrative von Desinformation 
+sowie Schutzstrategien gegen Desinformation und zur Herstellung von
+Vertrauen in Staat und demokratisches System (www.bmftr.bund.de/SharedDocs/Beka
+nntmachungen/DE/2024/07/2024-07-19-Bekanntmachung-Desinformatio
+n.html; www.bundesanzeiger.de/pub/publication/M2SNT9uIjbgfCbFEd3g/cont
+ent/M2SNT9uIjbgfCbFEd3g/BAnz%20AT%2019.07.2024%20B2.pdf).
 Nach öffentlichen Angaben des „FZI Forschungszentrums Informatik“
 entwickelt das Projekt „Kulturalisierungssensible KI-Assistenz für eine
-desinformationsresiliente multilinguale Gesellschaft” (kurz: kuKI) einen KI-
-Assistenten, der Desinformation auf Deutsch, Russisch und Türkisch erkennen, 
-einordnen und Gegenmaßnahmen unterstützen soll (www.fzi.de/2026/04/23/ku
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-ki-gegen-desinformation/). Nach Angaben des FZI soll eine „Integration in 
-CeMAS-Monitoring und CORRECTIV.Faktenforum“ stattfinden. Dort heißt es 
-unter anderem: „Das sichtbare Ergebnis des Vorhabens wird ein KI-Assistent 
-sein, den das gemeinwohlorientierte Medienhaus CORRECTIV an das COR-
-RECTIV.Faktenforum anschließt. […] Mit dem CORRECTIV.Faktenforum 
-bietet es zudem das erste Beteiligungsprojekt im deutschsprachigen Raum, das 
-Menschen in den gesamten Faktencheck-Prozess einbindet. Bürger*innen
-können dort potenzielle Desinformationen einreichen, diskutieren und unter
-redaktioneller Anleitung von CORRECTIV recherchieren. Mithilfe der
-automatisierten Übersetzungsfunktion wird CORRECTIV den Austausch künftig auf 
-Deutsch, Russisch und Türkisch ermöglichen“ (ebd.). Es soll über das „Center 
-für Monitoring, Analyse und Strategie“ (CeMAS) dabei eine KI-gestützte 
-Infrastruktur entstehen, die manipulative Inhalte auf Deutsch, Russisch und 
-Türkisch systematisch analysiert und Faktenchecks sowie Gegenmaßnahmen 
-unterstützt (https://cemas.io/press/releases/ki-projekt-analysiert-desinformatio
-n-sprachuebergreifend/).
+desinformationsresiliente multilinguale Gesellschaft“ einen KI-Assistenten, der
+Desinformation auf Deutsch, Russisch und Türkisch erkennen, einordnen und
+Gegenmaßnahmen unterstützen soll (www.fzi.de/2026/04/23/kuki-gegen-desinfor
+mation/). Nach Angaben des FZI soll eine „Integration in CeMAS-Monitoring 
+[CeMAS = Center für Monitoring, Analyse und Strategie] und CORREC-
+TIV.Faktenforum“ stattfinden. Dort heißt es unter anderem: „Das sichtbare
+Ergebnis des Vorhabens wird ein KI-Assistent sein, den das
+gemeinwohlorientierte Medienhaus CORRECTIV an das CORRECTIV.Faktenforum anschließt. 
+[…] Mit dem CORRECTIV.Faktenforum bietet es zudem das erste
+Beteiligungsprojekt im deutschsprachigen Raum, das Menschen in den gesamten 
+Faktencheck-Prozess einbindet. Bürger*innen können dort potenzielle
+Desinformationen einreichen, diskutieren und unter redaktioneller Anleitung von 
+CORRECTIV recherchieren. Mithilfe der automatisierten
+Übersetzungsfunktion wird CORRECTIV den Austausch künftig auf Deutsch, Russisch und
+Türkisch ermöglichen“ (ebd.). Es soll über das „Center für Monitoring, Analyse 
+und Strategie“ dabei eine KI-gestützte Infrastruktur entstehen, die manipulative 
+Inhalte auf Deutsch, Russisch und Türkisch systematisch analysiert und
+Faktenchecks sowie Gegenmaßnahmen unterstützt (https://cemas.io/press/releases/
+ki-projekt-analysiert-desinformation-sprachuebergreifend/).
 Wir fragen die Bundesregierung:
- 1. Welche fünfzehn Projekte von Medienunternehmen wurden seit dem 
-1. Januar 2026 durch Bundesministerien gefördert bzw. erhielten eine
-Förderungszusage, und in welcher Höhe wurden jeweils Bundesmittel
-bewilligt beziehungsweise ausgezahlt (mit der Bitte um Aufschlüsselung nach 
-Ressort, Zuwendungsempfänger, Projekttitel, Laufzeit, Förderhöhe,
-Haushaltstitel und Fördergrundlage und Auszahlungsdatum)?
+ 1. Welche 15 Projekte von Medienunternehmen wurden seit dem 1. Januar 
+2026 durch Bundesministerien gefördert bzw. erhielten eine
+Förderungszusage, und in welcher Höhe wurden jeweils Bundesmittel bewilligt bzw. 
+ausgezahlt (bitte nach Ressort, Zuwendungsempfänger, Projekttitel,
+Laufzeit, Förderhöhe, Haushaltstitel und Fördergrundlage und
+Auszahlungsdatum aufschlüsseln)?
  2. Welche Definition von „Medienunternehmen“ hat die Bundesregierung 
 ihrer Antwort auf die Schriftliche Frage 2 der Abgeordneten Nicole Hess 
 auf Bundestagsdrucksache 21/6164 zugrunde gelegt?
- 3. Inwiefern handelt es sich bei den in der Antwort auf diese Schriftliche 
-Frage genannten fünfzehn Projekten nach Kenntnis der Bundesregierung 
-um neue Bewilligungen, Fortsetzungen, Aufstockungen oder
-Anschlußförderungen bereits früher geförderter Vorhaben?
+ 3. Inwiefern handelt es sich bei den in der Antwort auf dieSchriftliche 
+Frage 2 der Abgeordneten Nicole Hess auf Bundestagsdrucksache 
+21/6164 genannten 15 Projekten nach Kenntnis der Bundesregierung um 
+neue Bewilligungen, Fortsetzungen, Aufstockungen oder
+Anschlussförderungen bereits früher geförderter Vorhaben?
  4. Welche Kriterien wurden bei der Auswahl der seit dem 1. Januar 2026
 geförderten Medienunternehmen und Projekte zugrunde gelegt bzw. waren 
 von den Antragstellern zu erfüllen?
@@ -85,49 +84,46 @@ Bundestagsdrucksache 20/12475 enthalten sind (bitte nach Jahr, Ressort, Projekt,
 Förderhöhe, Laufzeit und Fördergrundlage aufschlüsseln)?
  6. Sind außer den genannten Projektpartnern (www.fzi.de/2026/04/23/kuki-g
 egen-desinformation/) weitere Verbundpartner, Unterauftragnehmer oder 
-sonstigen Kooperationspartner nach Kenntnis der Bundesregierung am 
+sonstige Kooperationspartner nach Kenntnis der Bundesregierung am
 Projekt „Kulturalisierungssensible KI-Assistenz für eine
-desinformationsresiliente multilinguale Gesellschaft – kuKI“ beteiligt?
-Wenn ja, welche?
+desinformationsresiliente multilinguale Gesellschaft“ beteiligt, und wenn ja, welche?
  7. Welche konkreten Arbeitspakete, technischen Systeme, Datenbanken,
 Modelle, Analysewerkzeuge, Berichte, Handlungsempfehlungen oder
 sonstigen Ergebnisse sollen im Rahmen des Projekts „Kulturalisierungssensible 
-KI-Assistenz für eine desinformationsresiliente multilinguale Gesellschaft 
-– kuKI“ erstellt werden?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+KI-Assistenz für eine desinformationsresiliente multilinguale
+Gesellschaft“ erstellt werden?
  8. Welche Arten von Daten, Inhalten, Plattformen, Medienangeboten oder 
 Kommunikationsräumen sollen im Rahmen des Projekts
 „Kulturalisierungssensible KI-Assistenz für eine desinformationsresiliente
-multilinguale Gesellschaft – kuKI“ nach Kenntnis der Bundesregierung untersucht, 
+multilinguale Gesellschaft“ nach Kenntnis der Bundesregierung untersucht,
 ausgewertet oder verarbeitet werden?
  9. Inwiefern ist es nach Kenntnis der Bundesregierung vorgesehen, dass im 
 Rahmen des Projekts „Kulturalisierungssensible KI-Assistenz für eine 
-desinformationsresiliente multilinguale Gesellschaft – kuKI“ Inhalte auf 
-Plattformen wie Telegram, YouTube, TikTok, X, Facebook, Instagram 
-oder anderen sozialen Netzwerken analysiert werden, und wie ist nach 
-Ansicht der Bundesregierung mit Inhalten zu verfahren, die als
-„Desinformation“ oder „Deep Fake“ oder Bestandteil einer
-„Desinformationskampagne“ ausgemacht werden?
-10. Welche Stellen beziehungsweise Institutionen des Bundes oder der Länder 
-erhalten nach Kenntnis der Bundesregierung Zugriff auf Ergebnisse,
-Berichte, Werkzeuge, Modelle, Datenbestände oder Handlungsempfehlungen 
-aus dem Projekt „Kulturalisierungssensible KI-Assistenz für eine
-desinformationsresiliente multilinguale Gesellschaft – kuKI“ oder sollen
-künftig Informationen daraus erhalten?
+desinformationsresiliente multilinguale Gesellschaft“ Inhalte auf
+Plattformen wie Telegram, YouTube, TikTok, X, Facebook, Instagram oder
+anderen sozialen Netzwerken analysiert werden, und wie ist nach Ansicht der 
+Bundesregierung mit Inhalten zu verfahren, die als „Desinformation“ oder 
+„Deep Fake“ oder Bestandteil einer „Desinformationskampagne“
+ausgemacht werden?
+10. Welche Stellen bzw. Institutionen des Bundes oder der Länder erhalten 
+nach Kenntnis der Bundesregierung Zugriff auf Ergebnisse, Berichte, 
+Werkzeuge, Modelle, Datenbestände oder Handlungsempfehlungen aus 
+dem Projekt „Kulturalisierungssensible KI-Assistenz für eine
+desinformationsresiliente multilinguale Gesellschaft“ oder sollen künftig
+Informationen daraus erhalten?
 11. Welche Auffassung hat sich die Bundesregierung dazu erarbeitet, dass 
 dem „Recherchenetzwerk CORRECTIV“ durch das – noch nicht
-rechtskräftige – Urteil des Landgerichts Berlin bescheinigt wird, seinerseits eine 
-„unwahre Tatsachenbehauptung“ und in irreführender Weise
-„unvollständige Berichterstattung“ verbreitet zu haben (17. März 2026, Az. 27 
-O 379/25), und hält die Bundesregierung es in Anbetracht dieser Tatsache 
-für angemessen, CORRECTIV staatliche Förderung zuteilwerden zu
-lassen und dass CORRECTIV perspektivisch Teil einer
-Beobachtungsstruktur gegen sogenannte Desinformation werden kann (vergl. www.lto.de/rec
-ht/hintergruende/h/so-begruendet-das-lg-berlin-ii-die-correctiv-niederlage; 
-www.berliner-zeitung.de/article/urteilsbegruendung-deswegen-stuft-geric
-ht-correctiv-bericht-als-unwahre-tatsachenbehauptung-ein-10030447; 
-bitte Position erläutern)?
+rechtskräftige – Urteil des Landgerichts (LG) Berlin bescheinigt wird,
+seinerseits eine „unwahre Tatsachenbehauptung“ und in irreführender Weise 
+„unvollständige Berichterstattung“ verbreitet zu haben (17. März 2026, 
+LG Berlin, Az. 27 O 379/25), und hält die Bundesregierung es in
+Anbetracht dieser Tatsache für angemessen, CORRECTIV staatliche Förderung 
+zuteilwerden zu lassen und dass CORRECTIV perspektivisch Teil einer 
+Beobachtungsstruktur gegen sogenannte Desinformation werden kann 
+(vgl. www.lto.de/recht/hintergruende/h/so-begruendet-das-lg-berlin-ii-
+diecorrectiv-niederlage; www.berliner-zeitung.de/article/
+urteilsbegruendungdeswegen-stuft-gericht-correctiv-bericht-als-unwahre-tatsachenbehauptun
+g-ein-10030447; bitte Position erläutern)?
 12. Welche Vorkehrungen bestehen nach Ansicht der Bundesregierung, um 
 auszuschließen, dass rechtmäßige politische Meinungsäußerungen,
 journalistische oder satirische Beiträge, offizielle Erklärungen von staatlichen 
@@ -135,44 +131,42 @@ Stellen oder legitime oppositionelle Positionen als „Desinformation“,
 „Deep Fake“ oder Bestandteil einer „Desinformationskampagne“
 klassifiziert, markiert oder in sonstiger Weise zum Gegenstand staatlich
 geförderter Maßnahmen bzw. Löschung gemacht werden, und wie beabsichtigt die 
-Bundesregierung dies zu beaufsichtigen und transparent zu handhaben?
+Bundesregierung, dies zu beaufsichtigen und transparent zu handhaben?
 13. Welche Kriterien legt die Bundesregierung zugrunde, um im Rahmen der 
 Förderrichtlinie „Vertrauen in Demokratie und Staat: Digitale
 Desinformation erkennen und abwehren“ zwischen nachweislich falschen
 Tatsachenbehauptungen, gezielt irreführenden Darstellungen, legitimer
 politischer Bewertung, Satire und zulässiger Meinungsäußerung zu
-unterscheiden (vergl. www.bmftr.bund.de/SharedDocs/Bekanntmachungen/DE/202
-4/07/2024-07-19-Bekanntmachung-Desinformation.html)?
+unterscheiden (vgl. www.bmftr.bund.de/SharedDocs/Bekanntmachungen/DE/2024/0
+7/2024-07-19-Bekanntmachung-Desinformation.html)?
 14. Welche Berichtspflichten sowie Evaluations- und Transparenzpflichten 
 bestehen für Zuwendungsempfänger im Rahmen der genannten
-Förderrichtlinie gegenüber der Bundesregierung und dem Bundestag?
+Förderrichtlinie gegenüber der Bundesregierung und dem Deutschen Bundestag?
 15. Inwiefern werden Projektergebnisse aus der genannten Förderrichtlinie an 
-Bundesministerien, nachgeordnete Bundesbehörden, Sicherheitsbehörden,
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-Plattformbetreiber, Öffentlich-Rechtliche Rundfunkanstalten oder sonstige 
+Bundesministerien, nachgeordnete Bundesbehörden, Sicherheitsbehörden, 
+Plattformbetreiber, öffentlich-rechtliche Rundfunkanstalten oder sonstige 
 Dritte weitergegeben?
 16. Welche Maßnahmen trifft die Bundesregierung, um bei der Förderung von 
 Medienunternehmen Interessenkonflikte, politische Abhängigkeiten oder 
-staatliche Einflußnahme auf journalistische Arbeit zu vermeiden?
-17. Welche Kenntnis besitzt die Bundesregierung darüber, ob oder inwieweit 
+staatliche Einflussnahme auf journalistische Arbeit zu vermeiden?
+17. Welche Kenntnis hat die Bundesregierung darüber, ob oder inwieweit 
 „Desinformation“ oder „Deep Fakes“ im Besonderen in türkischer,
 russischer oder deutscher Sprache zu finden sind oder wie die Fokussierung 
 des Projektes „kuKI“ auf diese Sprachen zustande kommt?
 18. Welche konkreten Ziele verfolgt die Bundesregierung mit den durch das 
 Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung 
 (BMZ) geförderten Regionalprogrammen der Deutschen Welle für
-Lateinamerika, Osteuropa sowie Nahost/Nordafrika?
+Lateinamerika, Osteuropa sowie Nahost bzw. Nordafrika?
 19. Besteht eine vollständige Übereinstimmung der durch das BMZ
 geförderten Regionalprogramme der Deutschen Welle mit dem gesetzlichen
 Auftrag der Deutschen Welle nach dem Deutsche-Welle-Gesetz?
 20. Plant die Bundesregierung, dem Deutschen Bundestag künftig regelmäßig 
 eine vollständige Übersicht über die Förderungen von
-Medienunternehmen bzw. deren Projekte durch Bundesministerien vorzulegen, und wenn 
+Medienunternehmen bzw. deren Projekten durch Bundesministerien vorzulegen, und wenn 
 nein, weshalb erachtet die Bundesregierung dies nicht als notwendig?
 21. Kann die staatliche Finanzierung von sechs Projekten der Deutschen 
-Welle (DW) mit einem Volumen von zusammen rund 19 Mio. Euro (vergl. 
-Antwort auf Schriftliche Frage auf Bundestagsdrucksache 21/6164) nach 
+Welle mit einem Volumen von zusammen rund 19 Mio. Euro (vgl.
+Antwort auf Schriftliche Frage 2 auf Bundestagsdrucksache 21/6164) nach 
 Auffassung der Bundesregierung als Kompensation für die im
 Haushaltsplan 2026 erfolgten Kürzungen der Mittel für die DW gewertet werden?
 Berlin, den 15. Juli 2026
@@ -180,5 +174,3 @@ Dr. Alice Weidel, Tino Chrupalla und Fraktion
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
