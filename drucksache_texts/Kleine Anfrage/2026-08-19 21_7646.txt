@@ -1,0 +1,752 @@
+Deutscher Bundestag Drucksache 21/7646
+21. Wahlperiode 19.08.2026
+Kleine Anfrage
+der Abgeordneten Dr. Michael Blos, Christan Reck und der Fraktion der AfD
+Grundwasser in Deutschland – Messstellenabdeckung, Datenqualität, regionale 
+Nutzungskonkurrenzen und politische Einflussfaktoren
+Das Grundwasser ist die größte nicht gefrorene Süßwasserressource unserer
+Erde und erfüllt zentrale Funktionen für Trinkwasser, Bewässerung und
+Brauchwasser, für grundwasserabhängige Ökosysteme sowie für den regionalen
+Wasserhaushalt und die Stützung von Mindestabflüssen in Flüssen (https://hess.cop
+ernicus.org/articles/29/2925/2025). Grundwasser ist auch in Deutschland die 
+mit Abstand wichtigste Quelle der öffentlichen Trinkwasserversorgung. Aus 
+Grundwasser wurden im Jahr 2022 rund 3,33 Milliarden Kubikmeter Wasser 
+gewonnen; dies entsprach 62,5 Prozent der öffentlichen Wassergewinnung 
+(www.destatis.de/DE/Presse/Pressemitteilungen/2024/08/PD24_304_3231
+1.html). Insgesamt liegt das über viele Jahre gemittelte potenzielle
+Wasserdargebot in Deutschland bei 176 Milliarden Kubikmetern im Jahr. Davon wurden 
+im Jahr 2022 in Deutschland 17,9 Mrd. m3, das sind 10,1 Prozent des
+langjährigen potentiellen Wasserdargebots aus den Gewässern (Oberflächengewässer 
+und Grundwasser) entnommen (www.umweltbundesamt.de/themen/wasser/extr
+emereignisseklimawandel/trockenheit-in-deutschland-fragen-antworten, www.
+umweltbundesamt.de/daten/umweltzustand-trends/wasser/wasserressourcen-ihr
+e-nutzung). Für das Jahr 2022 beträgt der gemittelte Gesamtniederschlag in 
+Deutschland beträgt 670 Liter pro Quadratmeter, das entspricht übertragen auf 
+die deutsche Staatsfläche 239,6 Milliarden Kubikmetern Niederschlagswasser 
+(www.dwd.de/DE/presse/pressemitteilungen/DE/2022/20221230_deutschland
+wetter_jahr2022.pdf). Umgerechnet wurden in Deutschland 7,47 Prozent des 
+Niederschlagswassers 2022 durch den Menschen verwendet.
+Nach der Berichterstattung im Rahmen der Wasserrahmenrichtlinie (s. Quelle 
+unten und am Absatzende) befindet sich der überwiegende Teil der
+Grundwasserkörper in Deutschland mengenmäßig in einem guten Zustand. Nach
+Angaben des Umweltbundesamtes verfehlen aktuell 62 der 1 291
+Grundwasserkörper den guten mengenmäßigen Zustand; dies entspricht 4,8 Prozent. Die
+Ursachen für einen schlechten mengenmäßigen Zustand werden unter anderem in 
+Salzwasserintrusionen sowie in jahrzehntelangen bergbaubedingten
+Grundwasserabsenkungen gesehen (www.umweltbundesamt.de/themen/wasser/grundwas
+ser/zustand-des-grundwassers/mengenmaessiger-zustand-des-grundwassers). 
+Zugleich werden Prognosesysteme wie GRUVO genutzt, die an rund 120
+bundesweiten Referenzmessstellen sowie über 4 200 Clustermessstellen
+Vorhersagen zur Entwicklung des mengenmäßigen Grundwasserzustandes erstellen und 
+gemessene, modellierte und prognostizierte Informationen miteinander
+verbinden (https://gruvo.bgr.de/website/stand). Grundwasserkörper sind dabei keine 
+geologischen Körper im engeren Sinne, sondern Bewertungs- und
+Berichtseinheiten der Wasserrahmenrichtlinie. Sie werden als abgegrenzte Grundwasservo-
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+lumen innerhalb eines oder mehrerer Grundwasserleiter beschrieben (www.um
+weltbundesamt.de/themen/wasser/grundwasser/zustand-des-grundwassers).
+Für eine sachgerechte Bewertung der Entwicklung von Grundwasserständen 
+kommt es daher nach Auffassung der Fragesteller nicht auf pauschale
+Durchschnittswerte oder politische Alarmbegriffe an, sondern auf
+Messstellenabdeckung, Messnetzzweck, Zeitreihenlänge, Messfrequenz, Datenqualität,
+Metadaten, hydrogeologische Einordnung und die Trennung zwischen Messwerten, 
+interpolierten Werten, Modellwerten und Prognosen (Taylor, C. J. &
+Alley, W. M. [2001]: Ground-Water-Level Monitoring and the Importance of 
+Long-Term Water-Level Data. U.S. Geological Survey Circular 1217. Denver: 
+U.S. Geological Survey. https://pubs.usgs.gov/circ/circ1217/pdf/circular121
+7.pdf, Hannappel, S., Borrmann, S., Köpp, C. & Kappler, W. [2018]: Leitfaden 
+zur Anwendung von Qualitätsanforderungen an Grundwasserstands- und -
+gütemessstellen nach EG-Wasserrahmenrichtlinie [WRRL] in Nordrhein-Westfalen. 
+Landesamt für Natur, Umwelt und Verbraucherschutz Nordrhein-Westfalen 
+[LANUV NRW]. www.lanuk.nrw.de/fileadmin/lanuv/wasser/pdf/QS-Leitfade
+n_Grundwassermessstellen_20181130_mit_Anhang_korr__01.pdf).
+Nach Angaben des Umweltbundesamtes werden für die Überwachung des 
+mengenmäßigen Zustands 7 715 Messstellen und für die Überwachung des 
+chemischen Zustands 7 869 Messstellen herangezogen (www.umweltbundesam
+t.de/themen/wasser/gewaesser/grundwasser/ueberwachung-bewertung).
+Demgegenüber verzeichnet umwelt.info in seinem Datenkatalog zu
+Grundwasserständen und teils chemischen Messungen einen deutlich größeren öffentlichen 
+Rohbestand an Messstellen; genannt werden unter anderem rund 97 000
+Messstellen, 38 436 aktive Messstellen mit online verfügbaren Daten im Jahr 2007 
+und 29 380 Einträge für das Jahr 2023, wobei Datenbereitstellung und Online-
+Verfügbarkeit länderseitig unterschiedlich sind (https://umwelt.info/de/artikel/k
+arte_grundwasser).
+Der chemische Zustand des Grundwasserkörpers wird lokal unterschiedlich
+beeinflusst. So wird in Teilen Deutschlands im Grundwasser eine erhöhte
+Nitratbelastung festgestellt. Die Ursachen hierfür sind komplex und regional
+unterschiedlich. Neben aktuellen Einträgen spielen auch langfristige Entwicklungen, 
+natürliche Gegebenheiten sowie standortspezifische Einflussfaktoren eine 
+Rolle. Vor diesem Hintergrund ist eine differenzierte Betrachtung von
+Einträgen erforderlich. Darüber hinaus werden Spurenstoffe wie
+Arzneimittelrückstände, per- und polyflourierte Alkylsubstanzen (PFAS), Sulfate, Chloride, 
+Schwermetalle oder auch Pflanzenschutzmittel in Umweltmedien
+nachgewiesen (BMUV/UBA 2022. Die Wasserrahmenrichtlinie – Gewässer in
+Deutschland 2021. Fortschritte und Herausforderungen. S. 67 Bonn, Dessau.; www.um
+weltbundesamt.de/publikationen/die-wasserrahmenrichtlinie-gewaesser-in-deut
+schland).
+Die Fragesteller halten es vor diesem Hintergrund für erforderlich, regionale 
+Wasserprobleme nicht vorschnell unter klimapolitische Deutungsmuster zu 
+stellen. Entnahmen, Grundwasserneubildung, Verdunstung,
+Niederschlagsverteilung, Oberflächenabfluss, Flächenversiegelung, Bodenverdichtung, lokale 
+wetterrelevante bzw. klimatische Beeinflussung durch Windenergie (Bodini 
+[2021], https://doi.org/10.1038/s41598-021-02089-2, insbesondere dortige 
+Quellen; auch Al Fahel et al. [2020], https://link.springer.com/article/10.1007/s
+42865-020-00012-7; Roy & Traiteur [2010], https://doi.org/10.1073/pnas.1000
+493107, l'Agence nationale de la recherche [ANR] und dort „Scientific
+productions and patents“, https://anr.fr/en/funded-projects-and-impact/funded-project
+s/project/funded/project/b2d9d3668f92a3b9fbbf7866072501ef-279c9a2f01/?t
+x_anrprojects_funded%5Bcontroller%5D=Funded&cHash=09b9ec942e5532bd
+8809438c246c7a9c). Landwirtschaft, Bergbaufolgen, Bevölkerungs- und
+Siedlungsentwicklung, Energieinfrastruktur, Stoffeinträge, Zustand der Wasserver-
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+sorgungsinfrastruktur sowie Datenlücken sind gemeinsam und fachlich
+differenziert zu betrachten. Neue Daten des Umweltbundesamts zur
+Grundwasserneubildung und zur Nutzungsintensität beruhen unter anderem auf den im
+Forschungsvorhaben WADKlim erarbeiteten Datensätzen (www.umweltbundesam
+t.de/themen/neue-uba-daten-zur-grundwasserneubildung-in).
+Die Antwort der Bundesregierung auf die Kleine Anfrage
+(Bundestagsdrucksache 21/1727) der Fraktion BÜNDNIS 90/DIE GRÜNEN „Folgen der
+Klimakrise in Deutschland – Besonders betroffene Regionen“ hat zudem gezeigt, 
+dass der Bundesregierung zu mehreren regionalen Fragen keine vollständigen 
+Erkenntnisse vorliegen, dass Angaben auf Ebene von Landkreisen bei
+Grundwasser teilweise fachlich nicht sinnvoll sind und dass geologische Einheiten 
+nicht an Verwaltungsgrenzen gebunden sind (https://dserver.bundestag.de/btd/2
+1/017/2101727.pdf). Die Fragesteller fragen daher nach den fachlichen,
+datenbezogenen und politischen Grundlagen der Grundwasserbewertung in
+Deutschland.
+Frühere Antworten der Bundesregierung zu Trockenheit, Wasserknappheit, 
+Grundwasserständen, Nutzungskonkurrenzen und Wasserversorgung zeigen
+zudem, dass der Bundesregierung in den Jahren 2017 bis 2019 zu lokalen
+Grundwasserständen, aktuellen Grundwasserzahlen, regionalen
+Entnahmebeschränkungen und temporären Engpässen teilweise keine eigenen oder keine aktuellen 
+Erkenntnisse vorlagen (Bundestagsdrucksachen 18/13055, 19/3762 [Antwort 
+der Bundesregierung auf Frage 141], 19/12849 [Antwort der Bundesregierung 
+auf Frage 113] und 19/12713). In einer früheren Antwort der Bundesregierung 
+auf eine Kleine Anfrage zur Sicherheit der Wasserversorgung wurden
+Knappheiten der Sommer 2018 und 2019 überwiegend auf infrastrukturelle oder 
+technische Beschränkungen zurückgeführt (Bundestagsdrucksache 19/14261). 
+Fragen der Trinkwassernotversorgung und möglicher PFAS-Einträge sind
+ebenfalls Gegenstand früherer Antworten der Bundesregierung gewesen
+(Bundestagsdrucksache 19/20965 und Bundestagsdrucksache 21/3236 [Antwort der 
+Bundesregierung auf Frage 178]). Vor diesem Hintergrund ist in den Augen der 
+Fragesteller zu klären, welche Daten der Bundesregierung heute tatsächlich 
+vorliegen und welche früheren Erkenntnislücken geschlossen wurden. Die
+Bundestagsdrucksachen 21/6476 und 20/11035 sind den Fragestellern bekannt, 
+allerdings sind die darin enthaltenen Antworten der Bundesregierung für die 
+Beantwortung der Fragen in der vorliegenden Drucksache nach Auffassung der 
+Fragesteller nicht zweckdienlich und somit für die sie nicht ausreichend.
+Wir fragen die Bundesregierung:
+ 1. Wie erklärt die Bundesregierung die unterschiedlichen Größenordnungen 
+zwischen den für die Wasserrahmenrichtlinie (s. Vorbemerkung)
+herangezogenen Messstellen zur Überwachung des mengenmäßigen und
+chemischen Zustands der Grundwasserkörper einerseits und dem deutlich
+größeren öffentlichen Rohbestand an Grundwassermessstellen im Datenkatalog 
+von umwelt.info andererseits?
+a) Wie viele Grundwassermessstellen sind der Bundesregierung im
+Bundesgebiet insgesamt bekannt, aufgeschlüsselt nach Bundesländern, 
+Flussgebietseinheiten, Grundwasserkörpern, hydrogeologischen
+Großräumen, Grundwasserleitertypen, Messzweck, Messparameter, aktiven 
+und inaktiven Messstellen sowie zuständiger Stelle?
+b) Sind die Angaben des Umweltbundesamts zur Menge der
+Grundwassermessstellen für die Überwachung des mengenmäßigen und
+chemischen Grundwasserzustands aus dem Jahr 2022 weiterhin aktuell, und 
+wenn nein, welche aktuellen Zahlen liegen der Bundesregierung
+diesbezüglich vor?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+c) Nach welchen fachlichen Kriterien werden nach Kenntnis der
+Bundesregierung Messstellen für bundesweite, länderübergreifende oder
+modellgestützte Aussagen zur Entwicklung des mengenmäßigen und
+chemischen Grundwasserzustands ausgewählt oder ausgeschlossen?
+d) Wie verteilen sich nach Kenntnis der Bundesregierung die Messstellen 
+nach bundesweitem Gesamtbestand, aktiven Messstellen, inaktiven 
+Messstellen, Messstellen mit online verfügbaren Messdaten,
+Messstellen mit maschinenlesbar abrufbaren Zeitreihen, Messstellen zur
+Überwachung des mengenmäßigen Zustands nach Wasserrahmenrichtlinie 
+und Messstellen zur Überwachung des chemischen Zustands nach 
+Wasserrahmenrichtlinie?
+e) Wie viele Messstellen für den mengenmäßigen und chemischen
+Zustand dienen nach Kenntnis der Bundesregierung ausschließlich der 
+Überwachung des mengenmäßigen Zustands, wie viele ausschließlich 
+der Überwachung des chemischen Zustands und wie viele werden für 
+beide Überwachungszwecke genutzt?
+f) Welche fachlichen, technischen, rechtlichen oder wirtschaftlichen 
+Gründe sprechen nach Kenntnis der Bundesregierung dafür oder
+dagegen, jede Grundwassermessstelle sowohl für mengenmäßige als auch 
+für chemische Aussagen zu nutzen?
+g) Wie viele operative Messstellen zur Überwachung von
+Grundwasserkörpern im schlechten chemischen Zustand (vgl. Vorbemerkung) sind 
+nach Kenntnis der Bundesregierung aktuell im Einsatz und wie hat 
+sich deren Zahl seit 2021 entwickelt (bitte nach Jahr,
+Grundwasserkörper, Ort und Einrichtung aufschlüsseln)?
+h) Wie viele Messstellen entfallen nach Kenntnis der Bundesregierung 
+auf das EUA-Grundwassermessnetz, das EU-Nitratmessnetz, das 
+AVV-Ausweisungsmessnetz und weitere bundes- oder länderrelevante 
+Messnetze, in welchem Umfang überschneiden sich diese Messnetze 
+und welche Messstellen aus den genannten Messnetzen werden für die 
+Überwachung des mengenmäßigen und chemischen
+Grundwasserzustands verwendet (bitte aufgeschlüsselt nach Bundesländern,
+Flussgebietseinheiten, Grundwasserkörpern, hydrogeologischen Großräumen, 
+Grundwasserleitertypen, Messzweck auflisten)?
+i) Wie viele Grundwasserkörper werden nach Kenntnis der
+Bundesregierung jeweils durch eine, zwei, drei, vier, fünf oder mehr Messstellen 
+überwacht, getrennt nach mengenmäßigem und chemischem Zustand?
+j) Welche Grundwasserkörper oder hydrogeologischen Räume weisen 
+nach Kenntnis der Bundesregierung eine besonders geringe
+Messstellendichte auf (mit Bitte um Begründung), und welche Bedeutung hat 
+dies für die Aussagekraft der Bewertung des mengenmäßigen und
+chemischen Zustands?
+k) Liegt der Bundesregierung eine bundesweit einheitliche Karte oder ein 
+GIS-Datensatz vor, der Grundwasserkörper, Grundwassermessstellen, 
+hydrogeologische Großräume und Grundwasserleitertypen gemeinsam 
+darstellt, und falls ja, wo ist dieser abrufbar, und falls nein, warum 
+wird eine solche gemeinsame Darstellung bislang nicht bereitgestellt?
+l) Welche Erkenntnisse hat die Bundesregierung je nach Messnetz und 
+Messzweck zum Zustand der Grundwassermessstellen und deren
+Eignung und Repräsentativität, vor dem Hintergrund, dass 2020
+gravierende Mängel an Grundwassermessstellen festgestellt wurden (www.b
+auernverband-mv.de/gutachten-weist-gravierende-maengel-im-messst
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+ellennetz-des-landes-nach/, www.agrarheute.com/pflanze/niedersachse
+n-fast-zweite-messstelle-hat-gravierende-maengel-566896) und wie 
+stellt die Bundesregierung sicher, dass sie ihre Daten ausschließlich 
+von intakten, geeigneten und repräsentativen Messstellen bezieht?
+m) Welche Bedeutung misst die Bundesregierung der Tatsache bei, dass 
+anhand mangelhafter Messstellen Rote Gebiete ausgewiesen wurden 
+(vgl. Frage 1 l), was für Flächenbesitzer hohe finanzielle Verluste
+verursacht hat, und welche Maßstäbe setzt die Bundesregierung an die 
+Zuverlässigkeit der Messstellen und Messnetze im Bundesgebiet?
+n) Was hat die Bundesregierung bisher gegebenenfalls unternommen, um 
+Mängel an Messstellen und in Messnetzen zu beheben?
+ 2. Wie unterscheidet die Bundesregierung fachlich und rechtlich zwischen 
+Grundwasserkörpern im Sinne der Wasserrahmenrichtlinie und
+Grundwasserleitern im hydrogeologischen Sinn?
+a) Inwiefern berücksichtigen nach Kenntnis der Bundesregierung die im 
+Rahmen der Wasserrahmenrichtlinie festgelegten Grundwasserkörper 
+die geologischen und hydrogeologischen Gegebenheiten der
+Grundwasserleiter im Bundesgebiet?
+b) Welche Grundwasserleitertypen, insbesondere Poren-, Kluft- und 
+Karstgrundwasserleiter sowie obere und tiefere
+Grundwasserstockwerke, sind nach Auffassung der Bundesregierung in den einzelnen 
+Grundwasserkörpern jeweils maßgeblich?
+c) Welche hydrogeologischen Einheiten oder Grundwasserleitertypen 
+sind nach Kenntnis der Bundesregierung durch das WRRL-Messnetz 
+nur eingeschränkt oder nicht repräsentativ abgedeckt?
+d) Welche Bedeutung hat die Unterscheidung zwischen
+Grundwasserkörper und Grundwasserleiter nach Kenntnis der Bundesregierung für die 
+Interpretation von Messwerten, Trends, chemischen Belastungen und 
+regionalen Wasserbilanzen?
+ 3. Welche Angaben liegen der Bundesregierung zu Zeitreihenlänge,
+Messfrequenz, Datenlücken und Qualitätssicherung der
+Grundwassermessstellen im Bundesgebiet vor?
+a) Wie viele Grundwassermessstellen verfügen nach Kenntnis der
+Bundesregierung über Zeitreihen von mindestens 10, 20, 30, 40, 50, 60 
+und 100 Jahren?
+b) Wie viele dieser Zeitreihen sind nach Kenntnis der Bundesregierung 
+lückenlos oder nahezu lückenlos, und nach welchen Kriterien werden 
+Datenlücken in Trendanalysen behandelt?
+c) Wie viele Grundwasserstandsmessstellen verfügen nach Kenntnis der 
+Bundesregierung seit 1990, 2000, 2010 und 2020 über mindestens
+monatliche Messwerte?
+d) Wie viele Messstellen verfügen nach Kenntnis der Bundesregierung 
+über durchgängige Monatswerte, wie viele über Jahresmittelwerte und 
+wie viele lediglich über unregelmäßige Einzelmessungen?
+e) Welche Zeitreihen werden nach Kenntnis der Bundesregierung für 
+bundesweite oder länderübergreifende Aussagen tatsächlich
+verwendet, und welche vorhandenen Messstellen werden wegen Datenlücken, 
+kurzer Zeitreihen, anthropogener Beeinflussung oder fehlender
+Vergleichbarkeit ausgeschlossen?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+f) In welchen zeitlichen Abständen werden nach Kenntnis der
+Bundesregierung Messwerte für den mengenmäßigen und chemischen
+Zustand erhoben, und wie einheitlich sind Messfrequenz, Messmethodik, 
+Metadaten, Plausibilitätsprüfung und Qualitätskontrolle zwischen den 
+Ländern?
+g) Welche Informationen liegen der Bundesregierung zur Ausbautiefe, 
+Filterstrecke, Erfassung des oberen oder tieferen Grundwasserleiters 
+und möglichen anthropogenen Beeinflussung der Messstellen vor?
+h) Wie wird nach Kenntnis der Bundesregierung bei Trendanalysen mit 
+Messstellen umgegangen, deren Messfrequenz, Ausbautiefe,
+Filterstrecke, Betreiber, Messmethode oder Standortumfeld sich im
+Beobachtungszeitraum geändert hat?
+i) Wie stellt die Bundesregierung sicher, dass anthropogene lokale
+Einflüsse wie Wasserentnahmen, Entwässerung, Bergbau,
+Gewässerausbau, Versiegelung, landwirtschaftliche Beregnung oder bauliche
+Eingriffe nicht fälschlich als natürlich bedingte Grundwassertrends
+interpretiert werden?
+ 4. Welche Grundwasserstandsdaten und Grundwasserbeschaffenheitsdaten 
+sind nach Kenntnis der Bundesregierung bundesweit offen,
+maschinenlesbar, automatisiert abrufbar und regelmäßig aktualisiert verfügbar?
+a) In welchen Bundesländern bestehen nach Kenntnis der
+Bundesregierung Defizite beim offenen, maschinenlesbaren und automatisierten 
+Abruf von Grundwasserstandsdaten und
+Grundwasserbeschaffenheitsdaten?
+b) Welche Unterschiede bestehen nach Kenntnis der Bundesregierung 
+zwischen den Ländern hinsichtlich Datenlizenz, Datenformat,
+Datenaktualität, API-Zugang, Downloadmöglichkeit, Metadaten und
+Nachnutzbarkeit?
+c) Plant die Bundesregierung gemeinsam mit den Ländern ein
+einheitliches, maschinenlesbares und regelmäßig aktualisiertes
+Grundwasserdatenportal, und falls nein, warum nicht?
+d) Welche Bedeutung misst die Bundesregierung umwelt.info als
+zentralem Such- und Datenzugangsportal für Grundwasserdaten und andere 
+umwelt- und naturschutzbezogene Themen bei, und welche
+Datenlücken oder Beschränkungen bestehen dort nach Kenntnis der
+Bundesregierung noch?
+ 5. Welche wissenschaftliche Aussagekraft misst die Bundesregierung den 
+langfristigen Projektionen des Datenportals GRUVO zu den
+Grundwasserständen bei, soweit diese auf Klimaszenarien beruhen, die inzwischen 
+nicht mehr als plausibler Zukunftspfad gelten oder aus dem Spektrum 
+plausibler Zukunftsszenarien herausgefallen sind, insbesondere dem
+früheren Worst-Case-Szenario RCP8.5 beziehungsweise SSP5‑8.5, und vor 
+dem Hintergrund, dass für langfristige Projektionen nur eine begrenzte 
+Zahl von Referenzmessstellen herangezogen wird (https://climate.ec.euro
+pa.eu/news-other-reads/news/five-things-you-should-know-about-
+climatescenarios-2026-06-05_en) und lediglich 118 Referenzmessstellen dafür 
+die Datengrundlage bilden (https://gruvo.bgr.de/website/methodik)?
+a) Welche Schlussfolgerungen zieht die Bundesregierung daraus für 
+fachpolitisches Handeln hinsichtlich der Prognose von
+Grundwasserständen und der Bereitstellung der dafür notwendigen
+Datengrundlage?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+b) Sind der Bundesregierung andere sich in der Entwicklung befindliche 
+Projekte und wissenschaftliche Untersuchungen bekannt, die dem 
+Zweck der Prognose der Grundwasserstände dienen sollen und
+inwieweit plant die Bundesregierung gegebenenfalls hier neue Projekte und 
+Untersuchungen durchzuführen (bitte nach Jahr der voraussichtlichen 
+Fertigstellung, Förderungshöhe und Einrichtung aufschlüsseln)?
+c) Welche Unsicherheiten weist die Bundesregierung für die GRUVO-
+Vorhersagen und -Projektionen aus und welche Schlussfolgerungen 
+zieht sie daraus für ihr Handeln?
+d) Wie werden nach Kenntnis der Bundesregierung die GRUVO-
+Prognosen validiert, und welche Abweichungen zwischen früheren 
+Prognosen und später tatsächlich gemessenen Grundwasserständen 
+wurden bislang festgestellt?
+e) Wann rechnet die Bundesregierung gegebenenfalls mit einer
+Ausweitung der Messstellenbasis, einer Verbesserung der räumlichen
+Auflösung und einer Übertragung von Messstelleninformationen in die
+Fläche zum Zwecke der Prognose von Grundwasserständen zu rechnen?
+ 6. Welche Grundwasserstandsdaten, Grundwasserbeschaffenheitsdaten und 
+Zeitreihen lagen der Bundesregierung bei ihren früheren Antworten auf 
+den Bundestagsdrucksachen 18/13055, 19/3762 [Antwort der
+Bundesregierung auf Frage 141] und 19/12849 [Antwort der Bundesregierung auf 
+Frage 113] nicht vor, liegen ihr aber heute vor?
+a) Welche konkreten Datenbestände, Portale, Länderlieferungen, LAWA-
+Auswertungen, Umweltbundesamtdaten, BGR-Anwendungen, 
+GRUVO-, WADKlim-, mGROWA- oder sonstigen
+Forschungsergebnisse haben nach Kenntnis der Bundesregierung seit 2017 zu einer 
+Verbesserung der bundesweiten Auswertbarkeit von
+Grundwasserständen geführt?
+b) Welche der in früheren Antworten der Bundesregierung genannten
+Erkenntnislücken zu lokalen Grundwasserständen, regionalen
+Grundwasserentwicklungen, Grundwasserknappheit,
+Entnahmebeschränkungen und temporären Engpässen kann oder konnte die Bundesregierung 
+gegebenenfalls inzwischen schließen, welche dieser Erkenntnislücken 
+bestehen nach Kenntnis der Bundesregierung weiterhin, und aus
+welchen fachlichen, rechtlichen, statistischen oder föderalen bzw.
+subsidiären Gründen?
+c) Wie unterscheidet die Bundesregierung bei Aktualisierungen früherer 
+Antworten zwischen neu erhobenen Messdaten, nachträglich
+digitalisierten Zeitreihen, Ländermeldungen, Modellierungen, Interpolationen 
+und Prognosen?
+ 7. Wie haben sich die mengenmäßigen und chemischen Zustände der
+Grundwasserkörper im Bundesgebiet nach Kenntnis der Bundesregierung seit 
+2009, 2015, 2021 und bis zum neuesten verfügbaren Stand entwickelt?
+a) Wie haben sich die mengenmäßigen Zustände der Grundwasserkörper 
+im Bundesgebiet nach Kenntnis der Bundesregierung für den
+genannten Zeitraum unter Berücksichtigung rein quantitativer Aspekte,
+ausgenommen Salzwasserintrusionen, entwickelt im Vergleich zu den
+Angaben des Umweltbundesamts, dessen Arbeitsdefinition für den
+Zustand des mengenmäßigen Zustands auch qualitative, ökologische 
+Aspekte berücksichtigt, sofern der Bundesregierung Daten vorliegen 
+(BMUV/UBA 2022. Die Wasserrahmenrichtlinie – Gewässer in
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+Deutschland 2021. Fortschritte und Herausforderungen., S. 62, Bonn, 
+Dessau.)?
+b) Welche fachlichen, hydrologischen Gründe sind der Bundesregierung 
+bekannt, aufgrund derer das Umweltbundesamt für die Bewertung des 
+quantitativen Zustands der Grundwasserkörper gegebenenfalls auch 
+qualitative Aspekte berücksichtigt?
+c) Wie haben sich Zahl, Abgrenzung, Fläche und Zuordnung der
+Grundwasserkörper nach Kenntnis der Bundesregierung seit den 
+Grundwasser-Bewirtschaftungsplänen 2009, 2015 und 2021
+verändert?
+d) Welche Veränderungen beruhen nach Kenntnis der Bundesregierung 
+auf tatsächlichen Zustandsänderungen und welche auf geänderter
+Abgrenzung, Methodik, Datenlage oder Berichterstattung?
+e) Welche Grundwasserkörper und hydrogeologischen Räume weisen 
+nach Kenntnis der Bundesregierung seit 1990, 2000, 2010 und 2020 
+fallende, stabile oder steigende Grundwasserstände auf (bitte
+Wasserstände und Reservoire bzw. Durchsätze nennen)?
+f) Welche Messwerte liegen der Bundesregierung zu räumlichen und
+saisonalen Schwankungen der Grundwasserspiegel (diese bitte angeben) 
+im Bundesgebiet für die letzten 10, 20, 30 und 50 Jahre vor?
+g) Welche Regionen gelten nach Kenntnis der Bundesregierung als
+besonders von sinkenden Grundwasserständen, ungünstiger
+Grundwasserbilanz (bitte Wasserstände und Reservoire bzw. Durchsätze nennen) 
+oder chemischer Belastung betroffen?
+h) Wie hat sich der Anteil der Stoffe und Stoffgruppen, die für die
+Einstufung des chemischen Zustands der Grundwasserkörper
+herangezogen werden und zu einem schlechten chemischen Zustand führen, 
+nach Kenntnis der Bundesregierung seit Veröffentlichung des Berichts 
+„Die Wasserrahmenrichtlinie – Gewässer in Deutschland 2021.
+Fortschritte und Herausforderungen“ entwickelt, bitte prozentual
+aufgeschlüsselt nach für die Einstufung maßgeblicher Stoffe und
+Stoffgruppen?
+i) Welche Erkenntnisse liegen der Bundesregierung darüber hinaus
+gegebenenfalls zu weiteren beobachteten Spurenstoffen, insbesondere 
+PFAS, Arzneimittelrückständen, Industriechemikalien, Mikroplastik 
+oder sonstigen persistenten Stoffen im Grundwasser vor, soweit diese 
+nicht oder nicht vollständig für die formale Einstufung des
+chemischen Zustands nach Wasserrahmenrichtlinie herangezogen werden, 
+und welche regionalen Trends sind der Bundesregierung hierzu
+bekannt?
+j) Wie bewertet die Bundesregierung die Aussagekraft des Befunds, dass 
+der überwiegende Teil der Grundwasserkörper mengenmäßig in gutem 
+Zustand ist, im Verhältnis zu etwaigen lokalen, saisonalen oder
+messstellenbezogenen Problemlagen (vgl. Vorbemerkung)?
+k) Welche Grundwasserkörper befinden sich aufgrund von
+Bergbaufolgen, Sümpfungsmaßnahmen, Grubenwasseranstieg oder
+Salzwasserintrusionen in einem schlechten mengenmäßigen oder chemischen 
+Zustand, und welche Entwicklung erwartet die Bundesregierung dort 
+bis 2030?
+l) Bei welchen Grundwasserkörpern und Grundwasserleitern in welchen 
+Regionen des Bundesgebiets herrschen nach Kenntnis der
+Bundesregierung Zustände vor, die einen natürlichen Nitratabbau im Grund-
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+wasser bedingen und inwiefern wird der mengenmäßige und
+chemische Zustand dieser Grundwasserkörper als gut oder nicht gut
+eingestuft, sofern der Bundesregierung Daten vorliegen (bitte inklusive der 
+N2-Argon-Methode erläutern)?
+m) Welche Grundwasserkörper und Grundwasserleiter in welchen
+Regionen des Bundesgebiets wurden nach Kenntnis der Bundesregierung im 
+Rahmen des Regionalisierungsverfahrens als Rote Gebiete eingestuft 
+und weisen eine Nitratbelastung höher als 50 mg/Liter bzw. höher als 
+35mg/Liter mit steigender Tendenz auf und wie viele dieser Roten
+Gebiete sind gleichzeitig Trinkwasserschutzgebiete (bitte dazu die
+entsprechenden Karten mitsenden)?
+ 8. Welche Erkenntnisse hat die Bundesregierung zur
+Grundwasserneubildung für den Zeitraum 1990 bis 2026 im Bundesgebiet, aufgeschlüsselt 
+nach hydrogeologischen Räumen, Grundwasserkörpern, Bundesländern 
+und, soweit fachlich sinnvoll, nach Landkreisen beziehungsweise
+kreisfreien Städten?
+a) Welche regionalen Trends zeigen sich nach Kenntnis der
+Bundesregierung bei Grundwasserneubildung, Verdunstung,
+Niederschlagsverteilung, Oberflächenabfluss, Bodeninfiltration und Speicherfähigkeit der 
+Böden?
+b) Welche Regionen weisen nach Kenntnis der Bundesregierung ein
+ungünstiges Verhältnis zwischen Grundwasserneubildung und
+tatsächlichen oder genehmigten Grundwasserentnahmen auf?
+c) Welche Ergebnisse aus WADKlim, mGROWA,
+Grundwassergewinnungsindex oder vergleichbaren Forschungsvorhaben nutzt die
+Bundesregierung für die Bewertung von Wasserbilanzrisikogebieten,
+insbesondere mit Blick auf die auf Bundestagsdrucksache 21/1727
+genannte deutliche räumliche Differenzierung des Wasserdargebots?
+d) Welche Rolle spielen nach Kenntnis der Bundesregierung
+Flächenversiegelung, Bodenverdichtung, Entwässerung, Neubaugebiete,
+Gewerbegebiete, Verkehrsflächen, Windenergiegebiete und Siedlungsdruck 
+für die Grundwasserneubildung?
+e) Welche Erkenntnisse hat die Bundesregierung gegebenenfalls dazu, in 
+welchem Umfang Starkregenereignisse aufgrund von Versiegelung, 
+Kanalisation, Bodenverdichtung oder fehlender Rückhaltung
+oberflächlich abfließen, statt der Grundwasserneubildung zugutekommen 
+zu können?
+f) Welche grundwasserabhängigen Landökosysteme, Feuchtgebiete, 
+Moore oder Schutzgebiete sind nach Kenntnis der Bundesregierung 
+von sinkenden Grundwasserständen, veränderter
+Grundwasserneubildung oder Wasserentnahmen betroffen?
+ 9. Wie haben sich die wasserrechtlich zugelassenen und tatsächlich
+entnommenen Grundwassermengen nach Kenntnis der Bundesregierung seit 2015 
+entwickelt, aufgeschlüsselt nach öffentlicher Wasserversorgung, privaten 
+Haushalten und Kleingewerbe, Landwirtschaft, Industrie,
+Energieversorgung, Eigenversorgung und sonstigen Nutzungen?
+a) Welche Erkenntnislücken entstehen dadurch, dass die amtliche
+Erhebung der Wasserwirtschaft nach Kenntnis der Bundesregierung nur in 
+größeren zeitlichen Abständen erfolgt, insbesondere für Trocken- und 
+Dürrejahre zwischen den Erhebungsterminen?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+b) Welche Daten liegen der Bundesregierung zu tatsächlichen Entnahmen 
+in den Trockenjahren 2018, 2019, 2022 und 2023 vor, und welche
+Daten fehlen ihr gegebenenfalls hierzu?
+c) Wie stellt die Bundesregierung sicher, dass kurzfristige regionale
+Entnahmespitzen durch landwirtschaftliche Beregnung, private Brunnen, 
+Industrie, Gewerbe, Energieversorgung oder kommunale
+Verbrauchsspitzen überhaupt erkannt werden?
+d) Wie hat sich der Wasserverbrauch seit 2015 pro Kopf und absolut
+entwickelt, und welche regionalen Unterschiede zwischen urbanem und 
+ländlichem Raum als auch Ursachen für die Unterschiede sind der 
+Bundesregierung bekannt?
+e) Wie groß ist nach Kenntnis der Bundesregierung der Anteil von 
+Grundwasser, Oberflächenwasser, Uferfiltrat, angereichertem
+Grundwasser und Talsperrenwasser an der öffentlichen
+Trinkwasserversorgung nach Bundesländern und Regionen?
+f) Welche Kommunen, Landkreise, Wasserversorger oder
+Wasserbehörden haben nach Kenntnis der Bundesregierung seit 2018
+Nutzungseinschränkungen, Entnahmeverbote, Bewässerungsverbote oder sonstige 
+Maßnahmen zur Sicherung der Wasserversorgung angeordnet oder
+angekündigt?
+g) Welche Daten liegen der Bundesregierung zu privaten Brunnen,
+gewerblicher Eigenversorgung und nichtöffentlichen
+Grundwasserentnahmen vor?
+h) Welche Nutzungskonkurrenzen zwischen Trinkwasserversorgung, 
+Landwirtschaft, Industrie, Energieversorgung, Naturschutz und
+Siedlungsentwicklung sind der Bundesregierung bekannt?
+i) Welche gesetzlichen Regelungen, wasserbehördlichen Leitlinien,
+Verwaltungsvorgaben oder fachlichen Empfehlungen bestehen nach 
+Kenntnis der Bundesregierung für die Priorisierung verschiedener 
+Wassernutzungen bei regionaler Wasserknappheit, insbesondere
+zwischen öffentlicher Trinkwasserversorgung, Landwirtschaft, Industrie, 
+Energieversorgung, Naturschutz, Siedlungsentwicklung und privater 
+Nutzung, und wie unterscheiden sich diese Vorgaben zwischen den 
+Bundesländern?
+j) Sind der Bundesregierung Bestrebungen seitens der
+Landesregierungen dahingehend bekannt, dass die Wasserentnahmerechte der 
+Landwirtschaft eingeschränkt werden, und wenn ja, in welchen
+Bundesländern, in welcher Höhe und in welchen Entnahmezeiträumen?
+10. Welche Annahmen zur Bevölkerungsentwicklung, einschließlich
+Zuwanderung, Binnenwanderung, demografischer Entwicklung und kurzfristiger 
+Unterbringungsbedarfe, werden nach Kenntnis der Bundesregierung in der 
+Wasserbedarfsplanung des Bundes, der Länder und der kommunalen
+Versorger zugrunde gelegt?
+a) Welche Erkenntnisse hat die Bundesregierung gegebenenfalls dazu, 
+wie zusätzliche Wohngebiete, öffentliche
+Unterbringungseinrichtungen, Gewerbegebiete und Infrastruktureinrichtungen seit 2015 in der 
+kommunalen Wasser- und Abwasserplanung berücksichtigt wurden?
+b) Welche Daten liegen der Bundesregierung zur Entwicklung des
+Wasserbedarfs in Kommunen mit starkem Bevölkerungszuwachs seit 2015 
+vor?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+c) Sind der Bundesregierung Kommunen bekannt, die aufgrund starken 
+Bevölkerungszuwachses, zusätzlicher Unterbringungskapazitäten oder 
+neuer Siedlungsflächen ihre Trinkwasserversorgung,
+Abwasserinfrastruktur oder Fernwasserversorgung kurzfristig ausbauen mussten?
+d) Welche Erkenntnisse hat die Bundesregierung gegebenenfalls dazu, in 
+welchem Umfang seit 2015 durch neue Wohn-, Gewerbe-, Verkehrs-, 
+Energie- und Unterbringungsflächen zusätzliche Flächenversiegelung 
+entstanden ist und wie sich dies auf Grundwasserneubildung und 
+Oberflächenabfluss auswirkt?
+11. Welche Erkenntnisse hat die Bundesregierung zum Zustand der 
+Wasserversorgungs- und Abwasserinfrastruktur im Bundesgebiet,
+insbesondere zu Wassergewinnung, Wasseraufbereitung, Leitungsnetzen,
+Speichern, Talsperren, Fernwasserversorgung, Notverbünden und
+Krisenplänen?
+a) Welche Investitionen sind nach Kenntnis der Bundesregierung bei 
+Wasserversorgern, Leitungsnetzen, Speicheranlagen, Talsperren,
+Fernwasserversorgung und Abwasserinfrastruktur notwendig,
+aufgeschlüsselt nach Bundesland, Art bzw. Zweck der Maßnahme, Kosten und 
+Zeitbedarf?
+b) Welche Erkenntnisse hat die Bundesregierung zur Entwicklung der 
+Leitungsverluste in der öffentlichen Wasserversorgung seit 2015?
+c) Welche Regionen oder Versorgungsgebiete gelten nach Kenntnis der 
+Bundesregierung als besonders anfällig für Engpässe in
+Trockenperioden oder bei Verbrauchsspitzen?
+d) Welche der seit 2018 festgestellten oder gemeldeten Engpässe in der 
+Trinkwasserversorgung waren nach Kenntnis der Bundesregierung auf 
+tatsächliche Rohwasserknappheit und welche auf technische oder 
+infrastrukturelle Beschränkungen zurückzuführen?
+e) Inwieweit teilt die Bundesregierung weiterhin frühere Bewertungen, 
+wonach Knappheiten der Sommer 2018 und 2019 überwiegend auf 
+infrastrukturelle oder technische Beschränkungen wie fehlende
+Druckerhöhungsanlagen, Hochbehälter oder Leitungsdimensionierungen 
+zurückzuführen waren (Bundestagsdrucksache 19/14261), und welche 
+aktualisierten Daten liegen ihr hierzu vor?
+f) Welche Daten liegen der Bundesregierung zu Druckerhöhungsanlagen, 
+Hochbehältern, Leitungsdimensionierung, Verbundleitungen,
+Spitzenlastfähigkeit und Redundanzen kommunaler Wasserversorger vor?
+g) Welche Förderprogramme des Bundes dienen aktuell gegebenenfalls 
+der Sicherung der Trinkwasserinfrastruktur, der Sanierung von
+Leitungsnetzen, dem Bau von Speichern, der Vernetzung von Versorgern 
+oder der Verbesserung der Wasserwiederverwendung, Kläranlagen 
+eingeschlossen?
+h) Welche Erkenntnisse hat die Bundesregierung zum Zustand und zur 
+Funktionsfähigkeit der Trinkwassernotversorgung, insbesondere der 
+Notbrunnen nach dem Wassersicherstellungsgesetz, ohne Offenlegung 
+sicherheitsrelevanter Standorte?
+i) Wie haben sich Wartung, Betriebsfähigkeit, Instandhaltungsbedarf und 
+Bundesmittel für Trinkwassernotbrunnen seit der Antwort der
+Bundesregierung auf Bundestagsdrucksache 19/20965 entwickelt?
+12. Wie haben sich potenziell bewässerbare und tatsächlich bewässerte
+landwirtschaftliche Flächen nach Kenntnis der Bundesregierung seit 2009,
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+2015 und 2019 bis zum neuesten verfügbaren Stand entwickelt,
+aufgeschlüsselt nach Bundesländern, Regionen, Kulturen, Wasserherkunft und 
+Entnahmerechten?
+a) Welche landwirtschaftlichen und produktionsgartenbaulichen Kulturen 
+sind nach Kenntnis der Bundesregierung in welchen Regionen
+besonders auf zusätzliche Bewässerung angewiesen?
+b) Welche Entwicklung erwartet die Bundesregierung beim
+Bewässerungsbedarf der Landwirtschaft in den kommenden zehn Jahren, und 
+welche Datengrundlagen nutzt sie hierfür?
+c) Welche wasserrechtlichen Entnahmebeschränkungen,
+Nutzungskonflikte oder Vorrangregelungen zwischen Landwirtschaft und
+öffentlicher Trinkwasserversorgung sind der Bundesregierung bekannt?
+d) Welche Möglichkeiten sieht die Bundesregierung für Speicherbecken, 
+Wasserüberleitungen, betriebliches Wassermanagement,
+Tröpfchenbewässerung, Regenwasserrückhalt und sonstige Maßnahmen zur
+Entlastung regionaler Grundwasserkörper?
+e) Welche Daten liegen der Bundesregierung zu Unterschieden im
+Bewässerungsbedarf zwischen konventionellen und ökologischen
+Anbaumethoden vor, und welche Ursachen sieht sie für etwaige
+Unterschiede?
+13. Welche Möglichkeiten sieht die Bundesregierung, gereinigtes Abwasser 
+unter Beachtung wasserrechtlicher, bodenschutzrechtlicher und
+hygienischer Anforderungen für landwirtschaftliche Bewässerung,
+Brauchwassernutzung, Waldstabilisierung, urbane Bewässerung oder technische
+Grundwasseranreicherung einzusetzen?
+a) Welche rechtlichen, technischen, hygienischen und stofflichen
+Hindernisse bestehen nach Kenntnis der Bundesregierung für eine stärkere 
+Nutzung gereinigten Abwassers, insbesondere mit Blick auf
+Spurenstoffe, Arzneimittelrückstände, Mikroplastik, PFAS und Nährstoffe?
+b) Welche Pilotprojekte oder Regelungsvorhaben zur
+Wasserwiederverwendung sind der Bundesregierung gegebenenfalls bekannt, und 
+welche Schlussfolgerungen zieht sie daraus für Regionen mit
+saisonaler Wasserknappheit?
+14. Welche Erkenntnisse hat die Bundesregierung zu Auswirkungen von 
+Freiflächen-Photovoltaik, Windenergieanlagen (inklusive deren lokalen 
+klimatischen Einflüssen, vgl. Einleitung), Zuwegungen, Fundamenten, 
+Kabeltrassen, Umspannwerken und sonstiger Energieinfrastruktur auf
+Flächenversiegelung, Bodenverdichtung, Oberflächenabfluss und
+Grundwasserneubildung (auch durch Niederschläge in Zusammenhang mit der
+obigen Aufzählung)?
+a) Welche Anforderungen bestehen nach Kenntnis der Bundesregierung 
+bei Planung, Bau und Betrieb von Windenergieanlagen und 
+Freiflächen-Photovoltaikanlagen in Wasserschutzgebieten,
+Trinkwassereinzugsgebieten und grundwassersensiblen Räumen, insbesondere 
+mit Blick auf Windenergie-Vorranggebiete?
+b) Welche Erkenntnisse hat die Bundesregierung zu möglichen
+Auswirkungen von Waldrodungen, Bodenabtrag, Drainagen oder
+Baustelleneingriffen im Zuge des Ausbaus sogenannter erneuerbarer Energien 
+auf den lokalen Wasserhaushalt, insbesondere mit Blick auf 
+Windenergie-Vorranggebiete?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+c) Welche zusätzlichen Wasserbedarfe (bitte nach den unten erfragten 
+Branchen und Projekten aufschlüsseln) erwartet die Bundesregierung 
+durch Wasserstoffwirtschaft, Rechenzentren, Industrieansiedlungen, 
+Batteriefertigung, Halbleiterindustrie oder sonstige energie- und
+wasserintensive Projekte und wie werden diese zusätzlichen
+Wasserbedarfe nach Kenntnis der Bundesregierung in regionalen
+Wasserversorgungskonzepten und wasserrechtlichen Genehmigungsverfahren
+berücksichtigt?
+15. Welche Erkenntnisse aus bundesweitem systematischem Monitoring oder 
+fallbezogenen Studien hat die Bundesregierung zu möglichen Einträgen 
+von PFAS oder anderen persistenten Stoffen durch Bau, Betrieb, Wartung 
+oder Rückbau von Windenergieanlagen in Wasserschutzgebieten,
+Trinkwassereinzugsgebieten oder im Umfeld von Talsperren, bzw. soweit
+solche nicht vorhanden sein sollten, weshalb nicht?
+a) Welche Untersuchungen, Messprogramme oder Forschungsvorhaben 
+hat die Bundesregierung seit ihrer Antwort auf Bundestagsdrucksache 
+21/3236 (Antwort der Bundesregierung auf Frage 178) veranlasst oder 
+ausgewertet, um mögliche PFAS-Einträge durch Bau, Betrieb,
+Wartung, Abrieb oder Rückbau von Windenergieanlagen in Grundwasser, 
+Wasserschutzgebiete oder Talsperren zu prüfen?
+b) Inwieweit sind der Bundesregierung gegebenenfalls abgeschlossene 
+oder laufende Untersuchungen zum Einfluss von Windenergieanlagen 
+im Einzugsbereich von Talsperren auf das lokale Grundwasser und 
+Talsperrenwasser bekannt, und welche Schlussfolgerungen zieht sie 
+daraus für Wasserschutzgebiete und Trinkwassereinzugsgebiete?
+c) Welche Talsperren im Bundesgebiet sind nach Kenntnis der
+Bundesregierung mit PFAS belastet, welche Messwerte liegen vor, und 
+welche Quellen oder Eintragspfade werden jeweils angenommen?
+d) Welche Mindestabstände, Prüfpflichten, Monitoringvorgaben oder 
+Ausschlusskriterien gelten nach Kenntnis der Bundesregierung für 
+Windenergieanlagen in Wasserschutzgebieten (insbesondere mit Blick 
+auf Windenergie-Vorranggebiete), Trinkwassereinzugsgebieten und im 
+Umfeld von Talsperren?
+e) Welche Erkenntnisse hat die Bundesregierung zu PFAS-haltigen
+Betriebsstoffen, Beschichtungen, Feuerlöschmitteln, technischen
+Bauteilen oder sonstigen Materialien im Zusammenhang mit
+Windenergieanlagen?
+16. Ist der Bundesregierung der im November 2022 veröffentlichte 
+Grundwasser-Atlas des Recherche-Netzwerks CORRECTIV (https://corre
+ctiv.org/aktuelles/kampf-um-wasser/2022/10/25/klimawandel-grundwasse
+r-in-deutschland-sinkt/) bekannt und welche Bedeutung misst sie ihm
+gegebenenfalls für die fachliche Bewertung der Grundwasserentwicklung in 
+Deutschland bei?
+a) Ist der Bundesregierung dessen Datengrundlage,
+Messstellenabdeckung, Methodik und regionale Aussagekraft bekannt und hält sie
+gegebenenfalls sie für ausreichend, um daraus bundesweite oder
+regionale politische Schlussfolgerungen abzuleiten?
+b) Wie bewertet gegebenenfalls die Bundesregierung, soweit ihr bekannt 
+ist, die Tatsache, dass nichtamtliche oder journalistische
+Auswertungen von europäischen Institutionen zitiert werden (https://eur-lex.euro
+pa.eu/legal-content/EN/TXT/?uri=celex:52025SC0025, dort Quelle 
+18), wenn gleichzeitig amtliche Daten je nach Bundesland nur einge-
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+schränkt, nicht einheitlich oder nicht maschinenlesbar verfügbar sind 
+(https://umwelt.info/de/artikel/karte_grundwasser)?
+c) Welche amtlichen Datenquellen haben aus Sicht der Bundesregierung 
+Vorrang, wenn gegebenenfalls nichtamtliche Auswertungen von
+amtlichen Bewertungen abweichen?
+d) Plant die Bundesregierung Mindeststandards für Transparenz,
+Messstellenangaben, Zeitreihenlänge, Datenlücken und Methodik bei
+öffentlich verwendeten Grundwasserauswertungen?
+17. Welche kurzfristigen, mittelfristigen und langfristigen Maßnahmen sieht 
+die Bundesregierung zur Stabilisierung des regionalen Wasserhaushalts, 
+insbesondere in Regionen mit saisonal niedrigen Grundwasserständen, 
+vor?
+a) Welche Maßnahmen zur Rückhaltung von Niederschlagswasser,
+Entsiegelung, Versickerung, technischen Grundwasseranreicherung,
+Renaturierung, Speicherbildung, Verbesserung der Bodeninfiltration und 
+Verringerung von Oberflächenabfluss hält die Bundesregierung für
+geeignet und welche dieser Maßnahmen können nach Kenntnis der
+Bundesregierung ohne zusätzliche Belastung kommunaler Haushalte
+umgesetzt werden?
+b) Welche gesetzlichen, planerischen oder finanziellen Hemmnisse
+erschweren nach Kenntnis der Bundesregierung die Umsetzung von 
+Wasserrückhalt, Speicherlösungen, Wasserwiederverwendung oder 
+technischer Grundwasseranreicherung (bitte etwaige Finanzbedarfe 
+und Projektdauern angeben)?
+c) Welche Bundesprogramme, Fördermittel oder Änderungen des 
+Wasser-, Bau-, Naturschutz- oder Planungsrechts wären aus Sicht der 
+Bundesregierung gegebenenfalls erforderlich, um Kommunen,
+Landkreise, Wasserversorger und Landwirtschaft zu unterstützen?
+d) Wie bewertet die Bundesregierung eigene und, soweit sie ihr bekannt 
+sind, gegebenenfalls in Zusammenschau mit anderen Maßnahmen, in 
+wasserreichen Perioden durch landwirtschaftliche, wasserbauliche 
+oder landschaftsplanerische Maßnahmen den Wasserrückhalt in der 
+Fläche zu verbessern (bitte Annahmen zu Kosten und Nutzen
+gegenüberstellen)?
+18. Welche der in dieser Kleinen Anfrage abgefragten Daten liegen der
+Bundesregierung nicht oder nur unvollständig vor, und aus welchen Gründen?
+a) Welche Daten liegen ausschließlich den Ländern, Kommunen,
+Wasserbehörden oder Wasserversorgern vor, inwieweit plant die
+Bundesregierung gegebenenfalls dabei gegebenenfalls die Erlangung solcher 
+Daten und wie stellt die Bundesregierung sicher, dass bundespolitische 
+Entscheidungen dennoch auf belastbaren Daten beruhen?
+b) Welche Maßnahmen plant die Bundesregierung gegebenenfalls, um 
+Daten zu Grundwasserständen, Grundwasserneubildung,
+Bodenfeuchte, Wasserentnahmen, Nutzungseinschränkungen, Leitungsverlusten 
+und Wasserbedarfsplanung bundesweit vergleichbarer zu machen?
+c) Welche Rolle spielen Nationale Wasserstrategie,
+Wasserrahmenrichtlinie, Klimaanpassungsgesetz und andere Bundesprogramme für die 
+Verbesserung der Datenlage und Versorgungssicherheit?
+d) Welche Faktoren gewichtet die Bundesregierung bei etwaigen
+regionalen Wasserproblemen jeweils, wie etwa Niederschlagsentwicklung, 
+Verdunstung, Grundwasserneubildung, Entnahmen, Flächenversiege-
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+lung, Bodenverdichtung, Landnutzungsänderungen, Gewässerausbau, 
+Bergbaufolgen, Siedlungsentwicklung, Bevölkerungsentwicklung, 
+Landwirtschaft, Energieinfrastruktur und Zustand der
+Wasserversorgungsinfrastruktur?
+Berlin, den 29. Juli 2026
+Dr. Alice Weidel, Tino Chrupalla und Fraktion
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
