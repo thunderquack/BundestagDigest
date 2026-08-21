@@ -101,7 +101,6 @@ def call_openai_markdown(text: str, model: str, temperature: float) -> str:
     resp = client.chat.completions.create(
         model=model,
         messages=messages,
-        temperature=temperature,
     )
 
     choice = resp.choices[0]
@@ -188,7 +187,6 @@ def call_openai_structured(
     resp = client.chat.completions.create(
         model=model,
         messages=messages,
-        temperature=temperature,
         response_format={
             "type": "json_schema",
             "json_schema": schema,
