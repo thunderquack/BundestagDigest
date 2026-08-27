@@ -10,7 +10,7 @@ Wissensabflüsse im Zusammenhang mit China
 Die Helmholtz-Gemeinschaft gehört zu den bedeutendsten öffentlich
 finanzierten Wissenschaftsorganisationen in Deutschland. Ihre Forschungszentren
 arbeiten in zahlreichen technologisch, wirtschaftlich sowie sicherheitspolitisch
-relevanten Bereichen, darunter Künstliche Intelligenz, Cybersicherheit,
+relevanten Bereichen, darunter künstliche Intelligenz, Cybersicherheit,
 Datenschutztechnologien, Hochleistungsrechnen, Materialforschung, Energie, Luft- 
 und Raumfahrt sowie weitere Schlüssel- und Dual-Use-Technologien (www.hel
 mholtz.de/ueber-uns/wer-wir-sind/). Viele dieser Forschungsfelder sind nicht 
@@ -31,9 +31,9 @@ miteinander (www.verfassungsschutz.de/SharedDocs/hintergruende/DE/praeve
 ntion_wirtschafts-_und_wissenschaftsschutz/chinas-neue-wege-der-spionag
 e.html).
 Anlass der vorliegenden Kleinen Anfrage sind aktuelle Medienberichte über 
-mögliche Sicherheitsrisiken im Umfeld des CISPA Helmholtz-Zentrums für
+mögliche Sicherheitsrisiken im Umfeld des CISPA – Helmholtz-Zentrums für 
 Informationssicherheit in Saarbrücken. Nach öffentlicher Berichterstattung soll 
-geprüft werden, ob sensibles Wissen aus den Bereichen Künstliche Intelligenz, 
+geprüft werden, ob sensibles Wissen aus den Bereichen künstliche Intelligenz, 
 Cybersicherheit und Datenschutztechnologien über Forschungskooperationen, 
 personelle Verflechtungen oder wissenschaftliche Kontakte mit Bezug zur 
 Volksrepublik China abgeflossen sein könnte (www.zeit.de/news/2026-06/22/z
@@ -42,11 +42,9 @@ dass ein externer Sonderprüfer eingesetzt und der Gründungsdirektor des CIS-
 PA vorerst von seinen Aufgaben als wissenschaftlicher Leiter freigestellt
 worden sei (www.zeit.de/news/2026-06/22/zu-viel-naehe-zu-china-sonderpruefun
 g-bei-cispa).
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Besondere Fragen wirft in diesem Zusammenhang die personelle
 Zusammensetzung einzelner Forschungsgruppen mit Bezug zu China auf. In einer
-Forschungsgruppe zu Fragen von IT-Sicherheit, Datenschutz und Künstlicher
+Forschungsgruppe zu Fragen von IT-Sicherheit, Datenschutz und künstlicher
 Intelligenz sollen 18 von 19 Mitgliedern chinesischer Herkunft gewesen sein (www.
 zeit.de/news/2026-06/22/zu-viel-naehe-zu-china-sonderpruefung-bei-cispa). 
 Eine weitere Forschungsgruppe an der Schnittstelle von maschinellem Lernen 
@@ -85,7 +83,7 @@ berichteten Vorgängen am CISPA Helmholtz-Zentrum für
 Informationssicherheit in Saarbrücken im Zusammenhang mit möglichen Wissensabflüssen, 
 Forschungskooperationen oder personellen Verflechtungen mit Bezug zur 
 Volksrepublik China vor?
- 2. Seit wann hat die Bundesregierung Kenntnis von den Vorwürfen und 
+ 2. Seit wann hat die Bundesregierung Kenntnis von den Vorwürfen, und 
 durch welche Stelle oder auf welchem Weg wurde sie erstmals darüber 
 informiert?
  3. Welche Bundesministerien, Bundesbehörden oder nachgeordneten Stellen 
@@ -94,14 +92,12 @@ waren oder sind mit der Prüfung der Vorgänge am CISPA befasst?
 Kenntnis der Bundesregierung durch das CISPA, die Helmholtz-
 Gemeinschaft, zuständige Landesstellen, Bundesministerien oder
 Sicherheitsbehörden eingeleitet?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
  5. Welche Aufgaben, Befugnisse und Prüfschwerpunkte hat nach Kenntnis 
-der Bundesregierung der eingesetzte externe Sonderprüfer und bis wann 
+der Bundesregierung der eingesetzte externe Sonderprüfer, und bis wann 
 ist mit Ergebnissen der Sonderprüfung zu rechnen?
  6. Ist nach Kenntnis der Bundesregierung vorgesehen, die Ergebnisse der 
 Sonderprüfung dem Deutschen Bundestag oder den zuständigen
-Ausschüssen zugänglich zu machen und falls nein, aus welchen Gründen 
+Ausschüssen zugänglich zu machen, und wenn nein, aus welchen Gründen 
 nicht?
  7. Aus welchen Gründen wurde der Gründungsdirektor des CISPA nach 
 Kenntnis der Bundesregierung vorerst von seinen Aufgaben als
@@ -127,12 +123,12 @@ insbesondere chinesischen Universitäten, Unternehmen, Förderprogrammen
 sowie staatlichen oder staatsnahen Einrichtungen?
 12. Wurden Kooperationen des CISPA mit chinesischen Partnern vor Beginn 
 einer sicherheits-, exportkontroll- oder dual-use-bezogenen Risikoprüfung 
-unterzogen, wenn ja, nach welchen Kriterien und wenn nein, warum 
+unterzogen, wenn ja, nach welchen Kriterien, und wenn nein, warum 
 nicht?
 13. Welche Kenntnisse hat die Bundesregierung über die personelle
 Zusammensetzung der im Kontext der Berichterstattung genannten
-Forschungsgruppen am CISPA und wurde geprüft, ob personelle Konzentrationen mit 
-Bezug zur Volksrepublik China in sensiblen Forschungsbereichen ein
+Forschungsgruppen am CISPA, und wurde geprüft, ob personelle Konzentrationen 
+mit Bezug zur Volksrepublik China in sensiblen Forschungsbereichen ein 
 erhöhtes Risiko für Wissensabfluss, Einflussnahme oder
 nachrichtendienstliche Nutzung begründen können?
 14. Werden Drittstaatenbezüge, frühere Tätigkeiten, Förderbindungen,
@@ -143,14 +139,12 @@ systematisch erfasst, bewertet oder dokumentiert?
 15. Welche Maßnahmen bestehen nach Kenntnis der Bundesregierung am 
 CISPA und innerhalb der Helmholtz-Gemeinschaft, um sensible
 Forschungsdaten, Quellcodes, Modelle, Trainingsdaten, IT-
-Sicherheitsanalysen und unveröffentlichte Forschungsergebnisse vor
-unbefugtem Zugriff, Kopieren, Export oder Weitergabe zu schützen?
+Sicherheitsanalysen und unveröffentlichte Forschungsergebnisse vor unbefugtem
+Zugriff, Kopieren, Export oder Weitergabe zu schützen?
 16. Welche externen Cloud-, Code-Hosting-, Dateiablage- und
 Kollaborationsplattformen werden nach Kenntnis der Bundesregierung am CISPA 
-bzw. innerhalb der Helmholtz-Gemeinschaft für Forschungsdaten, Quell-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-codes, KI-Modelle, Trainingsdaten oder interne Projektdokumentation
+bzw. innerhalb der Helmholtz-Gemeinschaft für Forschungsdaten,
+Quellcodes, KI-Modelle, Trainingsdaten oder interne Projektdokumentation
 genutzt, und welche Vorgaben bestehen hierbei hinsichtlich
 Datenklassifizierung, Zugriffsbeschränkung, Standort der Datenverarbeitung,
 Verschlüsselung und Protokollierung?
@@ -167,7 +161,7 @@ protokollieren?
 19. Wurde nach Kenntnis der Bundesregierung überprüft, ob es am CISPA in 
 den vergangenen fünf Jahren unberechtigte Datenzugriffe, ungewöhnliche 
 Download-Aktivitäten, externe Datenabflüsse, verdächtige
-Netzwerkverbindungen oder sonstige IT-Sicherheitsvorfälle gab und falls ja, mit
+Netzwerkverbindungen oder sonstige IT-Sicherheitsvorfälle gab, und wenn ja, mit
 welchem Ergebnis?
 20. Welche Rolle spielen Exportkontrollrecht, Außenwirtschaftsrecht und 
 Dual-Use-Regelungen bei der Bewertung von Forschungskooperationen 
@@ -185,5 +179,3 @@ Dr. Alice Weidel, Tino Chrupalla und Fraktion
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.

@@ -1,0 +1,171 @@
+Deutscher Bundestag Drucksache 21/7678
+21. Wahlperiode 20.08.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Dr. Paula Piechotta, 
+Matthias Gastel, Victoria Broßart, weiterer Abgeordneter und der Fraktion 
+BÜNDNIS 90/DIE GRÜNEN 
+– Drucksache 21/7451 –
+Kundenkommunikation über den DB Navigator
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+In einem Bericht an den Haushaltsausschuss des Deutschen Bundestages 
+(Ausschussdrucksache 20(8)7519) zum Thema „DB Navigator“, in der für 
+eine Trennung von personeller Verantwortung für Zugdisposition und Eingabe 
+in Kundeninformationsportale geworben wurde, damit eine lückenlose
+Echtzeitübertragung der Angaben aus der Zugverkehrssteuerung auf den DB
+Navigator erfolgen kann, hatte die Bundesregierung erläutert, dass keine
+Veränderungen geplant seien. Vor dem Hintergrund des damaligen Berichts und des 
+am 8. Juli 2025 vom Bundesminister für Verkehr, Patrick Schnieder, und der 
+DB-Vorstandsvorsitzenden Evelyn Palla bekannt gegebenen Sofortprogramms 
+„Bessere Kundenkommunikation“, das schnellere Kundeninformation auch 
+für den DB-Navigator bringen soll, stellen sich Fragen, welche konkreten
+Veränderungen nunmehr beim DB-Navigator vorgenommen werden sollen.
+1. Wie viele Ausfälle, Verspätungen oder Gleichwechsel konnten nicht
+korrekt auf dem DB Navigator oder dem damit verbundenen Buchungsportal 
+(bahn.de) angegeben werden (bitte monatsweise für 2024, 2025 und das 
+laufende Jahr 2026 angeben)?
+Eine historische Auswertung, ob, wann und in welcher Form diese Daten an die 
+jeweiligen Abnehmer ausgespielt wurden, ist nicht möglich.
+2. Welche einzelnen messbaren Zielgrößen sind mit der Ankündigung des 
+Sofortprogramms „Bessere Kundenkommunikation“ verbunden, und bis 
+wann sollen die einzelnen Zielgrößen erreicht werden, welche Pönalen 
+sind bei Zielverfehlungen vorgesehen, und in welchen Haushaltstitel
+sollen diese fließen?
+Das Bundesministerium für Verkehr (BMV) hat zusammen mit der DB AG ein 
+Gesamtpaket geschnürt, das eine spürbare und unmittelbare Verbesserung der 
+Kundenkommunikation gewährleistet.
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Verkehr vom 20. August 2026 
+übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+Die DB AG hat hierzu mitgeteilt, dass mit dem Sofortprogramm in den
+verschiedenen Hebeln die nachfolgenden messbaren Zielgrößen verbunden sind:
+• Hebel 1: Rechtzeitige Information zu Halteausfällen bei DB Verkehren:
+> 90 Prozent (in 12/2026)
+• Hebel 1: Qualität Verspätungsprognose bei verspäteten DB Zügen:
+> 74 Prozent (in 12/2026)
+• Hebel 2: Rollout KI-Chat auf bahn.de (in Q4/2026)
+• Hebel 2: Installierte Zug-Informationsmonitore: 900 (Ziel 12/2026)
+• Hebel 2: Latenz Bahnhofsanzeiger/DB Navigator: max. 10 Sekunden (Ziel 
+12/2026)
+• Hebel 3: Aufbau betreiberübergreifende Meldungsseite (09/2026)
+• Hebel 3: Einführung anbieterneutrale App DB Info (12/2026)
+• Hebel 3: Übertragung der Organisationseinheit Reisendeninformationen und 
+ihrer Tätigkeiten an InfraGO (01/2027)
+Das BMV wird die Wirksamkeit der Maßnahmen des Sofortprogramms eng 
+überwachen.
+3. Wie wird künftig verhindert, dass nicht fahrbare Verbindungen im DB
+Navigator und in der damit verbundenen Internetpräsenz angezeigt werden?
+Die DB AG hat hierzu mitgeteilt, dass die Anzeige der Verbindungen
+grundsätzlich auf Algorithmen basiert, die auf die verfügbaren Informationen der 
+Eisenbahnverkehrsunternehmen (EVU) aufbauen. Alle EVU sind verpflichtet, 
+über die Reisendeninformationsplattform aktuelle und korrekte Informationen 
+zur Verfügung zu stellen. Ist diese Datenbasis gegeben, generieren die
+Fahrplanauskunftssysteme ausschließlich fahrbare Verbindungen. Kein bekanntes
+Auskunftssystem, so auch der DB Navigator, ist in der Lage, die Korrektheit der 
+von den EVU übermittelten Daten zu valideren bzw. zu korrigieren. Insofern ist 
+eine korrekte Information zu fahrbaren Verbindungen nur dann möglich, wenn 
+die EVU korrekte Reisendeninformationen zur Verfügung stellen.
+Mit dem Sofortprogramm zielt die DB AG darauf ab die Qualität der den
+Auskunftssystemen zugrunde liegenden Daten für alle Verkehre – unabhängig vom 
+Betreiber – zu verbessern
+4. Welche Maßnahmen zur Verbesserung der Datenbanken und IT-
+Infrastrukturen im Hintergrund sind geplant, um die Funktionsfähigkeit der
+Anwendung zu gewährleisten?
+Zur Verbesserung der Datengrundlagen werden die Betriebsleitsysteme der 
+EVU DB Fernverkehr und der DB Regio im Rahmen des
+Sofortprogramms “Bessere Kundenkommunikation” grundlegend erneuert. Künstliche 
+Intelligenz verarbeitet Störungsmeldungen in den Leitstellen schneller, um
+Halteausfälle oder Verspätungen zügiger an die Kanäle zu übermitteln.
+Ebenfalls wird im Rahmen des Sofortprogramms “Bessere
+Kundenkommunikation” die Zusammenarbeit mit der Branche intensiviert, damit sich auch die
+Datenverfügbarkeit und -qualität der Nicht‑DB EVU in den Auskunftsmedien 
+strukturell verbessert.
+Für gegenüber Endkunden zeitkritische Informationsfälle wie Gleiswechsel 
+oder Wagenreihung wurden im Rahmen des Sofortprogramms technische
+Lösungen geschaffen, um bestehende Latenzen weitestgehend zu beseitigen.
+5. Welche organisatorischen und personellen Veränderungen sind neben der 
+Modernisierung der IT in den Leitstellen vorgesehen für eine lückenlose 
+Echtzeitübertragung der Angaben aus der Zugverkehrssteuerung auf den 
+DB Navigator und die damit verbundene Internetpräsenz?
+Die DB AG hat hierzu mitgeteilt, dass bereits heute die in den
+Verkehrsleitungen der DB Fernverkehr und DB Regio erfassten Informationen unmittelbar an 
+die Reisendeninformationsplattform übertragen, dort in Echtzeit verarbeitet und 
+unmittelbar an alle Abnehmenden, darunter auch die digitalen Kanäle der 
+DB AG, verteilt und dort für die Veröffentlichung aufbereitet und ausgespielt 
+werden. Für die Verarbeitung der Daten auf der Vertriebs- und Serviceplattform 
+der DB AG, welche die technische Basis der Kanäle DB Navigator und bahn.de 
+bildet, besteht eine technisch bedingte Latenz von rund 60 Sekunden, die
+jedoch weder über organisatorische noch personelle Veränderungen reduziert 
+werden kann.
+Für gegenüber Endkunden zeitkritische Informationsfälle wie Gleiswechsel 
+oder Wagenreihung wurden im Rahmen des Sofortprogramms technische
+Lösungen geschaffen, um diese Latenz weitestgehend zu beseitigen.
+Unabhängig davon soll die organisatorische und personelle Verantwortung für 
+die Reisendeninformationsplattform ab dem 1. Januar 2027 gesamthaft von der 
+DB InfraGO AG wahrgenommen werden, um eine betreiberübergreifende
+Bereitstellung der Daten sicherzustellen.
+6. Welche Veränderungen am DB Navigator und an der damit verbundenen 
+Internetpräsenz werden im Rahmen des Sofortprogramms „Bessere
+Kundekommunikation“ mit Blick auf den Vertrieb vorgenommen, um
+a) einen fairen Zugang zum Verkauf von Tickets und die neutrale
+Darstellung von Reiseoptionen mit verschiedenen Eisenbahnunternehmen 
+sicherzustellen, und
+b) es Kunden zu ermöglichen, Dienstleistungen verschiedener
+Eisenbahnunternehmen in einem einzigen Ticket buchen zu können?
+Die DB AG hat hierzu mitgeteilt, dass im Rahmen des Sofortprogramms
+„Bessere Kundeninformation“ an den digitalen Endkundenkanälen DB Navigator 
+und bahn.de, welche von den DB‑EVU DB Fernverkehr AG und DB Regio AG 
+sowie von der Vertriebsdienstleisterin DB Vertrieb GmbH als
+(eigenwirtschaftliche) Vertriebskanäle genutzt werden, keine Veränderungen mit Blick auf den 
+Vertrieb vorgenommen werden.
+Im Grundsatz gilt, dass die DB AG in ihren Vertriebskanälen zunächst ihre 
+eigenen DB-Produkte verkauft, die sie dann im Sinne der Kunden um Produkte 
+von Verkehrsverbünden und Kooperationen mit DB-Beteilung ergänzen.
+Direkte Wettbewerber verkauft die DB AG derzeit nicht.
+Wo die DB AG gesetzlich verpflichtet ist, andere Anbieter in ihren Kanälen 
+(als Reiseoption) anzuzeigen, erfolgt dies.
+Bei der Buchung unterschiedlicher Dienstleistungen verschiedener EVU in 
+einem einzigen Ticket ist die Ausgabe sogenannter Durchgangstickets ohne 
+vorherige Aufstellung von gesonderten Durchgangstarifen durch die jeweiligen 
+EVU derzeit aus technischen sowie (fahrgast)-rechtlichen Gründen nicht
+möglich. Daher erfolgt bei der DB AG bei kombinierten Verbindungen von der 
+DB AG und anderen von DB AG vertriebenen EVU in den Vertriebskanälen 
+der DB AG die Anzeige eines Gesamtpreises, der in einem einheitlichen
+Buchungs- und Bezahlvorgang buchbar ist. Danach erfolgt auf Basis des
+europäischer Industriestandards OSDM (Open Sales and Distribution Model) die
+Ausgabe mehrerer rechtlich selbständiger Tickets der beteiligten Anbieter.
+7. Wie ist der Stand bei der Übertragung des DB Navigators sowie der damit 
+verbundenen Internetpräsenz in die Verantwortung der DB InfraGO, die 
+das Bundesministerium für Verkehr (BMV) in seiner „Agenda für
+zufriedene Kunden auf der Schiene – Eckpunkte zur Reform der Deutschen 
+Bahn“ im September 2025 gefordert hat mit dem Ziel der Stärkung des 
+Gemeinwohls und der Wettbewerbsneutralität?
+Die Europäische Kommission hat am 13. Mai 2026 Vorschläge vorgelegt, um 
+Bahnreisen in der EU für die Kunden zu vereinfachen. U. a. sollen
+Vertriebsplattformen von marktbeherrschenden EVU verpflichtet werden, sowohl
+Verbindungen anderer EVU anzuzeigen als auch deren Tickets zu verkaufen.
+Die Übertragung des DB Navigators von der DB Fernverkehr AG auf die 
+DB InfraGO AG wurde daher bis auf weiteres ausgesetzt, da sie durch den
+Vorschlag der Europäischen Kommission für einheitliche europaweite Regelungen 
+für Bahnticket-Vertriebsplattformen gegebenenfalls kurzfristig weitere
+Anpassungen erforderlich würden, wenn es neue einheitliche, europaweite
+Regelungen gibt.
+8. Welchen Buchwert hat der DB Navigator sowie die damit verbundene
+Internetpräsenz aktuell, und wie hoch war er bei der Übertragung von DB 
+Vertrieb auf die DB Fernverkehr, die zum 1. April 2023 erfolgte?
+Bei den erfragten Informationen handelt es sich um Betriebs- und
+Geschäftsgeheimnisse der DB AG und der betroffenen privaten Unternehmen. Die
+Offenlegung der Informationen kann wirtschaftliche und finanzielle Nachteile
+sowohl der DB AG als auch der genannten Unternehmen zur Folge haben. Im 
+Hinblick auf die DB AG kann das fiskalische Interesse des Bundes betroffen 
+sein. Unter Abwägung zwischen dem parlamentarischen Auskunftsanspruch 
+der Abgeordneten des Deutschen Bundestages einerseits und dem Schutz von 
+Betriebs- und Geschäftsgeheimnissen sowohl der DB AG als auch der
+betroffenen privaten Unternehmen andererseits werden die erbetenen Informationen als 
+Verschlusssache „VS-Vertraulich“* eingestuft und in der Geheimschutzstelle 
+des Bundestages hinterlegt, soweit sie der Bundesregierung vorliegen.
+* Das Bundesministerium für Verkehr hat die Antwort als „VS-Vertraulich“ eingestuft. Die Antwort ist in der Geheimschutzstelle des Deutschen Bundestages hinterlegt 
+und kann dort nach Maßgabe der Geheimschutzordnung eingesehen werden.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

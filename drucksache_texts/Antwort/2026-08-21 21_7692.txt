@@ -1,0 +1,397 @@
+Deutscher Bundestag Drucksache 21/7692
+21. Wahlperiode 21.08.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Tobias Matthias Peterka, Thomas 
+Fetsch, Martina Kempf, weiterer Abgeordneter und der Fraktion der AfD 
+– Drucksache 21/7489 –
+Ausfallsicherheit und Interoperabilität digitaler Gerichtssysteme im föderalen 
+Justizwesen
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Am 13. Juli 2026 kam es aufgrund einer technischen Störung der zentralen 
+Betriebsumgebung des IT-Dienstleistungszentrums Berlin zu erheblichen
+Einschränkungen bei den Berliner Gerichten der ordentlichen Gerichtsbarkeit 
+(www.tagesspiegel.de/berlin/handgeschriebene-haftbefehle-prozesse-abgesag
+t-berliner-justiz-nach-stundenlangem-ausfall-wieder-online-15834832.html). 
+Betroffen waren die Amtsgerichte, die Landgerichte und das Kammergericht. 
+Richter und Mitarbeiter konnten sich nicht an ihren Arbeitsplätzen anmelden, 
+auf elektronische Akten nicht zugreifen und ihre dienstliche elektronische 
+Kommunikation nicht regulär nutzen (ebd.). Verhandlungen mussten teilweise 
+verlegt oder abgesagt werden. Der Justizbetrieb konnte zeitweise nur im
+Notbetrieb aufrechterhalten werden. Die Berliner Senatsverwaltung für Justiz und 
+Verbraucherschutz teilte am 14. Juli 2026 mit, dass ein Software-Update als 
+Ursache identifiziert und die Störung durch dessen Rücknahme behoben
+worden sei (ebd.).
+Der Vorfall zeigt nach Auffassung der Fragesteller, dass mit zunehmender
+Digitalisierung nicht allein die Einführung elektronischer Akten und digitaler 
+Verfahrensabläufe über die Funktionsfähigkeit der Justiz entscheidet. Mit der 
+Abhängigkeit des gerichtlichen Geschäftsbetriebs von
+informationstechnischen Systemen gewinnen deren Verfügbarkeit, technische Redundanz,
+Notbetriebsfähigkeit und Wiederherstellbarkeit erhebliche Bedeutung. Ein
+technischer Fehler darf nach Auffassung der Fragesteller nicht dazu führen, dass 
+wesentliche Teile einer Gerichtsbarkeit über Stunden nicht regulär arbeitsfähig 
+sind.
+Die technische Ausstattung und der Betrieb der Gerichte der Länder fallen in 
+die Verantwortung der Länder. Die Digitalisierung der Justiz ist jedoch
+zugleich Gegenstand einer institutionalisierten Zusammenarbeit von Bund und 
+Ländern. Der E-Justice-Rat bezeichnet sich als zentrales strategisches
+Steuerungsgremium für die digitale Transformation der Justiz (www.justiz.de/laend
+er-bund-europa/e_justice_rat/index.php). Er koordiniert gemeinsam mit der 
+Bund-Länder-Kommission für Informationstechnik in der Justiz die
+Zusammenarbeit von Bund und Ländern, entwickelt gemeinsame justizspezifische 
+IT-Standards und trifft richtungsweisende Entscheidungen über den Einsatz 
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums der Justiz und für
+Verbraucherschutz vom 21. August 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+digitaler Anwendungen. Nach Darstellung des E‑Justice-Rats sind mit
+bundesweiten Projekten bereits Schritte hin zu einer einheitlicheren digitalen
+Justizlandschaft eingeleitet worden. Hierzu zählen die bundeseinheitliche
+„Justizcloud“ sowie die für einen bund- und länderübergreifenden Betrieb
+vorgesehenen Fachverfahren, nämlich das Gemeinsame Fachverfahren (GeFa) (https://w
+esternacher-solutions.com/gefa-das-gemeinsame-fachverfahren-der-justiz/), 
+das bundeseinheitliche Datenbankgrundbuch (dabag) (www.grundbuch.eu/) 
+und die elektronische Registerführung (AuRegis) (www.justiz.nrw/JM/online_
+verfahren_projekte/auregis).
+Auch finanziell beteiligt sich der Bund an der Digitalisierung der Justiz. Nach 
+Angaben der Bundesregierung stellt der Bund in den Haushaltsjahren 2023 bis 
+2026 im Rahmen der Digitalisierungsinitiative für die Justiz bis zu 200 Mio. 
+Euro zur Verfügung. Für die Jahre 2027 bis 2029 sind im Rahmen des neuen 
+Pakts für den Rechtsstaat weitere 210 Mio. Euro für die Digitalisierung
+vorgesehen (www.bmjv.de/DE/themen/pakt_fuer_den_rechtsstaat/digitalisierung_d
+er_justiz/digitalisierung_der_justiz_node.html).
+Bereits in ihrer Antwort auf die Kleine Anfrage „Digitalisierung der Justiz“ 
+auf Bundestagsdrucksache 20/2910 führte die Bundesregierung aus, ihr sei
+bekannt, dass in den Ländern eine Vielzahl unterschiedlicher IT‑Programme für 
+verschiedene Verfahren eingesetzt werde. Detaillierte Kenntnisse zur Art der 
+Programme, zum Beginn der Inbetriebnahme, zu Betriebskosten und zur
+Updatefähigkeit lägen ihr jedoch nicht vor. Ebenso verfügte die Bundesregierung 
+seinerzeit über keine Erkenntnisse zu einer flächendeckenden Risikoanalyse 
+der an den Gerichten verwendeten Hard- und Software. Zugleich verwies sie 
+auf das seit 2017 von allen 16 Ländern entwickelte Gemeinsame
+Fachverfahren (GeFa), mit dem bestehende Fachverfahren sukzessive abgelöst werden 
+sollen.
+In ihrer Antwort auf die Kleine Anfrage „Digitalisierung der
+Sozialgerichtsbarkeit im Dienst der Bürger – Stand, Wirkung und Akzeptanz in
+Rentenverfahren“ auf Bundestagsdrucksache 21/1954 verwies die Bundesregierung bei 
+mehreren Fragen zu den Sozialgerichten der Länder erneut auf deren
+Zuständigkeit und erklärte, hierzu nicht über eigene Erkenntnisse zu verfügen.
+Nach Auffassung der Fragesteller entsteht damit eine erhebliche Diskrepanz 
+zwischen der zunehmenden gemeinsamen Steuerung und Finanzierung der 
+Justizdigitalisierung einerseits und dem wiederholt erklärten begrenzten
+Erkenntnisstand des Bundes über die tatsächlich eingesetzte IT-Landschaft
+andererseits. Wo Bund und Länder gemeinsame digitale Infrastrukturen
+entwickeln, gemeinsame Standards festlegen und Bundesmittel für
+Digitalisierungsvorhaben eingesetzt werden, besteht aus Sicht der Fragesteller ein
+parlamentarisches Interesse daran, welchen Überblick die Bundesregierung über
+Ausfallsicherheit und Interoperabilität der hierbei eingesetzten Systeme besitzt.
+Besondere Bedeutung kommt der Interoperabilität der unterschiedlichen
+Fachverfahren und elektronischen Aktensysteme zu. Mit XJustiz (https://xjustiz.jus
+tiz.de/) besteht ein von der Bund-Länder-Kommission für Informationstechnik 
+in der Justiz herausgegebener Standard für den strukturierten Datenaustausch 
+im elektronischen Rechtsverkehr. Strukturierte Daten sollen dadurch
+automatisiert an das zuständige IT-System weitergeleitet und bereits erfasste Daten 
+möglichst automatisiert in das empfangende System übernommen werden 
+können. Seit 2021 wird grundsätzlich jährlich eine neue XJustiz-Version
+gültig, die die bisherige Version ablöst.
+Die Existenz eines gemeinsamen Standards beantwortet jedoch noch nicht die 
+Frage, ob die bei den Gerichten eingesetzten unterschiedlichen Fachverfahren 
+und elektronischen Aktensysteme diesen Standard jeweils vollständig und 
+zeitgleich umsetzen. Eine funktionsfähige digitale Justiz setzt nach
+Auffassung der Fragesteller voraus, dass elektronische Akten und strukturierte
+Verfahrensdaten auch zwischen Gerichten verschiedener Länder ohne
+vermeidbare Medienbrüche, Informationsverluste oder manuelle Nachbearbeitung
+ausgetauscht werden können.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Der Betrieb der informationstechnischen Systeme für die Justiz erfolgt derzeit 
+dezentral durch den Bund beziehungsweise im jeweiligen Land. Der Bund hat 
+keine Zuständigkeit für den Betrieb von informationstechnischen Systemen im 
+jeweiligen Land. Der Bundesregierung liegen außerhalb von einer etwaigen
+Befassung mit solchen Fragen in Bund-Länder-Gremien und der allgemeinen 
+Presseberichterstattung daher grundsätzlich keine eigenen Informationen über 
+betriebliche Themen der Länder vor.
+ 1. Wann erhielt die Bundesregierung erstmals Kenntnis von dem am 
+13. Juli 2026 eingetretenen Ausfall der informationstechnischen Systeme 
+der Berliner Gerichte der ordentlichen Gerichtsbarkeit?
+ 2. Welche Erkenntnisse liegen der Bundesregierung gegebenenfalls zur 
+technischen Ursache des in Frage 1 genannten Ausfalls vor?
+ 3. Welche Erkenntnisse liegen der Bundesregierung gegebenenfalls zur 
+Dauer der Einschränkung des regulären Geschäftsbetriebs infolge des in 
+Frage 1 genannten Ausfalls vor?
+Die Fragen 1 bis 3 werden aufgrund des Sachzusammenhangs gemeinsam
+beantwortet:
+Die Bundesregierung erhielt von dem Ausfall informationstechnischer Systeme 
+der Berliner Gerichte der ordentlichen Gerichtsbarkeit im Zuge der allgemeinen 
+Presseberichterstattung Kenntnis. Der Bundesregierung liegen keine über die 
+allgemeine Presseberichterstattung hinausgehenden Informationen zu dem
+Ausfall vor.
+ 4. Wurde der in Frage 1 genannte Ausfall seit dem 13. Juli 2026 im E‑
+Justice-Rat behandelt, wenn ja, wann, und wenn nein, warum nicht?
+Seit dem 13. Juli 2026 hat keine Sitzung des E-Justice-Rats stattgefunden. Die 
+nächste reguläre Sitzung findet am 30. September 2026 statt.
+ 5. Wurde der in Frage 1 genannte Ausfall seit dem 13. Juli 2026 in der 
+Bund-Länder-Kommission für Informationstechnik in der Justiz
+behandelt, wenn ja, wann, und wenn nein, warum nicht?
+Seit dem 13. Juli 2026 hat keine Sitzung der Bund-Länder-Kommission für 
+Informationstechnik in der Justiz stattgefunden. Die nächste reguläre Sitzung 
+findet vom 11. bis 12. November 2026 statt.
+ 6. Hat die Bundesregierung seit dem 13. Juli 2026 gegenüber dem Land 
+Berlin oder innerhalb eines Bund-Länder-Gremiums eine Auswertung 
+der Ursachen des in Frage 1 genannten Ausfalls angeregt oder
+angefordert, wenn ja, mit welchem Ergebnis, und wenn nein, warum nicht?
+Die Bundesregierung hat mangels Zuständigkeit für den Betrieb
+informationstechnischer Systeme im Land Berlin keine Auswertung der Ursachen angeregt 
+oder angefordert.
+ 7. Besteht innerhalb des E-Justice-Rats oder der Bund-Länder-Kommission 
+für Informationstechnik in der Justiz ein verbindliches Verfahren, nach 
+dem schwerwiegende Ausfälle informationstechnischer Systeme der
+Gerichte des Bundes und der Länder gemeldet werden?
+Nein.
+ 8. Nach welchen Kriterien wird ein Ausfall informationstechnischer
+Systeme der Gerichte im Rahmen der Bund-Länder-Zusammenarbeit als 
+schwerwiegend eingestuft?
+Weder der E-Justice-Rat noch die Bund-Länder-Kommission für
+Informationstechnik in der Justiz ist für den Betrieb informationstechnischer Systeme im 
+jeweiligen Land zuständig. Die Festlegung von Kriterien zur Bewertung von 
+Ausfällen obliegt den jeweils verantwortlichen staatlichen Ebenen.
+ 9. Wie viele schwerwiegende Ausfälle informationstechnischer Systeme 
+von Gerichten der Länder sind der Bundesregierung seit dem 1. Januar 
+2020 gegebenenfalls bekannt geworden (bitte nach Land, Jahr und Dauer 
+des Ausfalls aufschlüsseln)?
+Es wird auf die Antwort zu den Fragen 1 bis 3 Bezug genommen.
+10. Werden die Ursachen schwerwiegender Ausfälle informationstechnischer 
+Systeme von Gerichten durch ein Bund-Länder-Gremium systematisch 
+ausgewertet, und wenn nein, warum nicht?
+Es wird auf die Antworten zu den Fragen 7 und 8 Bezug genommen.
+11. Welche verbindlichen Anforderungen an die Verfügbarkeit
+informationstechnischer Systeme gelten nach Kenntnis der Bundesregierung für
+Digitalisierungsvorhaben der Gerichte, deren Entwicklung oder Einführung 
+aus Bundesmitteln finanziert wird?
+12. Welche verbindlichen Anforderungen an technische Redundanzen gelten 
+nach Kenntnis der Bundesregierung für Digitalisierungsvorhaben der
+Gerichte, deren Entwicklung oder Einführung aus Bundesmitteln finanziert 
+wird?
+13. Welche verbindlichen Anforderungen an das Update-Management gelten 
+nach Kenntnis der Bundesregierung für Digitalisierungsvorhaben der
+Gerichte, deren Entwicklung oder Einführung aus Bundesmitteln finanziert 
+wird?
+14. Welche verbindlichen Anforderungen an das Lizenzmanagement gelten 
+nach Kenntnis der Bundesregierung für Digitalisierungsvorhaben der
+Gerichte, deren Entwicklung oder Einführung aus Bundesmitteln finanziert 
+wird?
+15. Wird bei der Bewilligung von Bundesmitteln für
+Digitalisierungsvorhaben der Gerichte die Vorlage eines Notfallkonzepts für den vollständigen 
+oder teilweisen Ausfall des betreffenden Systems verlangt, und wenn 
+nein, warum nicht?
+16. Wird bei der Bewilligung von Bundesmitteln für
+Digitalisierungsvorhaben der Gerichte die Vorlage eines Wiederanlaufkonzepts verlangt, und 
+wenn nein, warum nicht?
+17. Wird bei aus Bundesmitteln finanzierten Digitalisierungsvorhaben der 
+Gerichte verlangt, die Funktionsfähigkeit der vorgesehenen Notfall- und 
+Wiederanlaufverfahren vor Aufnahme des Regelbetriebs praktisch zu
+testen, und wenn nein, warum nicht?
+Die Fragen 11. bis 17. werden aufgrund des Sachzusammenhangs gemeinsam 
+beantwortet:
+Die Bundesregierung beteiligt sich in den Jahren 2023 bis 2026 im Zuge der 
+Digitalisierungsinitiative für die Justiz im Rahmen einer Anschubfinanzierung 
+an der Entwicklung von informationstechnischen Systemen der Länder im
+Bereich der Justiz. Sie plant, solche Anschubfinanzierungen in den Jahren 2027 
+bis 2029 im neuen Pakt für den Rechtsstaat fortzusetzen. Die
+Anschubfinanzierung beschränkt sich auf die Entwicklung der Systeme. Der Betrieb erfolgt
+anschließend eigenverantwortlich in den Ländern im Rahmen ihrer Zuständigkeit 
+und wird durch das jeweilige Land finanziert.
+18. Hat die Bundesregierung geprüft, ob zentrale informationstechnische 
+Systeme der Gerichte aufgrund ihrer Bedeutung für die
+Aufrechterhaltung der Rechtspflege besonderen, mit den Anforderungen an kritische 
+Infrastrukturen vergleichbaren Anforderungen an Ausfallsicherheit und 
+Resilienz unterworfen werden sollten, wenn ja, mit welchem Ergebnis, 
+und wenn nein, warum nicht?
+Mit den Anforderungen an kritische Infrastrukturen vergleichbare
+Anforderungen sind für die Bundesgerichte aufgrund der gemäß Richtlinie 
+(EU) 2022/2555 des Europäischen Parlaments und des Rates vom 14.
+Dezember 2022 über Maßnahmen für ein hohes gemeinsames Cybersicherheitsniveau 
+in der Union, zur Änderung der Verordnung (EU) Nr. 910/2014 und der
+Richtlinie (EU) 2018/1972 sowie zur Aufhebung der Richtlinie (EU) 2016/1148 
+(NIS-2-Richtlinie) sowie dem Gesetz über das Bundesamt für Sicherheit in der 
+Informationstechnik und über die Sicherheit in der Informationstechnik von 
+Einrichtungen bestehenden Regelungen nicht anzuwenden. Im Übrigen wird 
+auf die Vorbemerkung der Bundesregierung verwiesen.
+19. Beabsichtigt die Bundesregierung, die für die Jahre 2027 bis 2029
+vorgesehenen Bundesmittel zur Digitalisierung der Justiz an nachprüfbare 
+Mindestanforderungen zur Ausfallsicherheit zu knüpfen, und wenn nein, 
+warum nicht?
+Es wird auf die Antwort zu den Fragen 11 bis 17 Bezug genommen.
+20. Welche Fachverfahren zur Verfahrenssteuerung werden nach Kenntnis 
+der Bundesregierung gegenwärtig bei den Gerichten der Länder
+eingesetzt (bitte nach Land und Gerichtsbarkeit aufschlüsseln)?
+Nach Kenntnis der Bundesregierung werden gegenwärtig verschiedene
+Fachverfahren zur Verfahrenssteuerung eingesetzt.
+In der ordentlichen Gerichtsbarkeit wird forumSTAR in Baden-Württemberg, 
+Bayern, Berlin, Brandenburg, Hamburg, Mecklenburg-Vorpommern,
+Rheinland-Pfalz, Sachsen, Schleswig-Holstein und Thüringen eingesetzt. In Bremen,
+Hessen, Niedersachsen, dem Saarland und Sachsen-Anhalt wird EUREKA
+eingesetzt. Nordrhein-Westfalen setzt JUDICA ein.
+In den Fachgerichtsbarkeiten kommen insbesondere EUREKA-Fach, GO§A, 
+1TRIUS-Fach beziehungsweise TRIJUS, VG/FG, FOKUS und JUSTUS-FACH 
+zum Einsatz. Nach dem der Bundesregierung vorliegenden Kenntnisstand wird 
+in Baden-Württemberg in der Arbeitsgerichtsbarkeit FOKUS und in den
+übrigen Fachgerichtsbarkeiten JUSTUS-FACH eingesetzt. In Bayern wird in der 
+Verwaltungsgerichtsbarkeit GO§A und in den übrigen Fachgerichtsbarkeiten 
+EUREKA-Fach eingesetzt. In Bremen, Hamburg, Hessen, Mecklenburg-
+Vorpommern, Niedersachsen, Rheinland-Pfalz, dem Saarland und Sachsen-Anhalt 
+kommt in den Fachgerichtsbarkeiten EUREKA-Fach zum Einsatz. In
+Nordrhein-Westfalen und Sachsen wird in der Verwaltungs- und
+Finanzgerichtsbarkeit VG/FG und in der Arbeits- und Sozialgerichtsbarkeit EUREKA-Fach
+eingesetzt. In Schleswig-Holstein wird in der Arbeitsgerichtsbarkeit FOKUS und 
+in den übrigen Fachgerichtsbarkeiten EUREKA-Fach eingesetzt. In Thüringen 
+wird in der Arbeitsgerichtsbarkeit TRIJUS und in der Sozial-, Verwaltungs- 
+und Finanzgerichtsbarkeit GO§A eingesetzt.
+In Berlin und Brandenburg kommen in den Fachgerichtsbarkeiten nach
+Kenntnis der Bundesregierung EUREKA-Fach, GO§A und/oder TRIUS-Fach
+beziehungsweise TRIJUS zum Einsatz. Eine darüber hinausgehende aktuelle
+Zuordnung zu sämtlichen einzelnen Gerichtsbarkeiten liegt der Bundesregierung 
+nicht vor.
+Die Angaben beziehen sich auf die zentralen Fachverfahren zur
+Verfahrenssteuerung. Besondere Fachanwendungen, etwa für Grundbuch-, Register-, Mahn-, 
+Insolvenz- oder Zwangsvollstreckungssachen, sind hiervon nicht umfasst.
+21. Welche Systeme zur elektronischen Aktenführung werden nach Kenntnis 
+der Bundesregierung gegenwärtig bei den Gerichten der Länder
+eingesetzt (bitte nach Land und Gerichtsbarkeit aufschlüsseln)?
+Nach Kenntnis der Bundesregierung werden bei den Gerichten der Länder
+gegenwärtig im Wesentlichen die Systeme e²A, eIP und eAS (VIS-Justiz) zur 
+elektronischen Aktenführung eingesetzt.
+e²A wird in Bremen, Hessen, Niedersachsen, Nordrhein-Westfalen, dem
+Saarland und Sachsen-Anhalt eingesetzt. eIP wird in Bayern, Berlin, Brandenburg, 
+Hamburg, Mecklenburg-Vorpommern und Rheinland-Pfalz eingesetzt. eAS 
+(VIS-Justiz) wird in Baden-Württemberg, Sachsen, Schleswig-Holstein und 
+Thüringen eingesetzt.
+Daneben werden in einzelnen Fachgerichtsbarkeiten auch elektronische
+Aktenfunktionalitäten des Fachverfahrens GO§A (GO§A-eGA) genutzt, insbesondere 
+in Bayern, Berlin und Thüringen.
+Die konkrete technische Ausgestaltung kann je nach Land, Gerichtsbarkeit und 
+eingesetztem Fachverfahren variieren.
+22. Welche Stelle des Bundes oder welches Bund-Länder-Gremium verfügt 
+gegebenenfalls über eine fortlaufend aktualisierte Übersicht der in den 
+Fragen 19 und 20 genannten bzw. erfragten Fachverfahren und
+elektronischen Aktensysteme?
+Dem E-Justice-Rat wird durch die Bund-Länder-Kommission für
+Informationstechnik in der Justiz zu jeder Sitzung eine aktualisierte Übersicht über die in
+der Justiz eingesetzten informationstechnischen Systeme, inklusive der
+elektronischen Aktensysteme, vorgelegt.
+23. Wenn weder eine Stelle des Bundes noch ein Bund-Länder-Gremium 
+über die in Frage 22 genannte Übersicht verfügt, aus welchen Gründen 
+hält die Bundesregierung einen solchen Überblick trotz der Tätigkeit des 
+E‑Justice-Rats, der Bund-Länder-Kommission für Informationstechnik in 
+der Justiz und der Beteiligung des Bundes an der Finanzierung der
+Justizdigitalisierung nicht für erforderlich?
+Es wird auf die Antworten zu Fragen 21 und 22 Bezug genommen.
+24. Welche der in den Antworten der Bundesregierung zu den Fragen 19 und 
+20 gegebenenfalls genannten Systeme unterstützen nach Kenntnis der 
+Bundesregierung die zum Zeitpunkt der Beantwortung dieser Kleinen 
+Anfrage gültige Version des Standards XJustiz?
+Nach Kenntnis der Bundesregierung unterstützen die in den Antworten auf die 
+Fragen 19 und 20 genannten Systeme, soweit für den jeweiligen
+Datenaustausch der Standard XJustiz einschlägig ist, die jeweils gültige Version des 
+Standards XJustiz.
+25. Für welche der in den Antworten der Bundesregierung zu den Fragen 19 
+und 20 gegebenenfalls genannten Systeme liegen der Bundesregierung 
+keine Erkenntnisse darüber vor, welche Version des Standards XJustiz 
+unterstützt wird?
+Die Bundesregierung hat hinsichtlich der in den Antworten auf die Fragen 19 
+und 20 genannten Systeme, soweit für den jeweiligen Datenaustausch der
+Standard XJustiz einschlägig ist, – soweit ersichtlich- keine Erkenntnislücken.
+26. Bestehen innerhalb der Bund-Länder-Zusammenarbeit verbindliche
+Fristen für die Umsetzung einer neu in Kraft tretenden Version des Standards 
+XJustiz in den Fachverfahren und elektronischen Aktensystemen der
+Gerichte, und wenn nein, warum nicht?
+Eine gesonderte, für sämtliche Fachverfahren und elektronischen Aktensysteme 
+einheitliche Umsetzungsfrist besteht nicht. Für XJustiz besteht jedoch ein
+geregelter Releasezyklus. Einmal jährlich wird eine neue XJustiz-Version gültig 
+und löst die bis dahin gültige Version ab. Die XJustiz-Versionen werden
+grundsätzlich zwölf Monate vor Beginn ihrer Gültigkeit veröffentlicht. Damit besteht 
+für die erforderlichen Anpassungen der Fachverfahren und elektronischen
+Aktensysteme ein entsprechender zeitlicher Vorlauf.
+Für den XJustiz-basierten Datenaustausch ist die jeweils gültige Version
+maßgeblich ((§ 5 der Elektronischer-Rechtsverkehr-Verordnung in Verbindung mit 
+Nummer 2 der Elektronischer-Rechtsverkehr-Bekanntmachung 2025). Die
+konkrete technische Umsetzung erfolgt in Verantwortung der für die jeweiligen 
+Systeme zuständigen Stellen.
+Zum Zeitpunkt der Beantwortung dieser Anfrage ist die XJustiz-Version 3.6.2 
+gültig.
+27. Sind der Bundesregierung seit dem 1. Januar 2023 Fälle bekannt
+geworden, in denen strukturierte Verfahrensdaten zwischen Gerichten
+verschiedener Länder aufgrund unterschiedlicher Fachverfahren,
+unterschiedlicher Versionen des Standards XJustiz oder fehlender Schnittstellen nicht 
+automatisiert übernommen werden konnten?
+Der Bundesregierung sind seit dem 1. Januar 2023 keine entsprechenden Fälle 
+bekannt geworden. Damit ist keine Aussage darüber verbunden, ob
+entsprechende Fälle im Verantwortungsbereich einzelner Länder aufgetreten sind. Eine 
+zentrale Erfassung derartiger Einzelfälle durch den Bund erfolgt nicht.
+28. Sind der Bundesregierung seit dem 1. Januar 2023 Fälle bekannt
+geworden, in denen bei der elektronischen Übermittlung von Akten zwischen 
+Gerichten verschiedener Länder eine manuelle Nachbearbeitung
+aufgrund technisch nicht vollständig kompatibler Fachverfahren oder
+elektronischer Aktensysteme erforderlich war?
+Der Bundesregierung sind seit dem 1. Januar 2023 keine konkreten Fälle
+bekannt geworden. Damit ist keine Aussage darüber verbunden, ob entsprechende 
+Fälle im Verantwortungsbereich einzelner Länder aufgetreten sind. Eine
+zentrale Erfassung derartiger Einzelfälle durch den Bund erfolgt nicht.
+29. Sind der Bundesregierung seit dem 1. Januar 2023 Fälle bekannt
+geworden, in denen strukturierte Verfahrensdaten bei der elektronischen
+Übermittlung zwischen Gerichten verschiedener Länder technisch nicht
+vollständig übernommen werden konnten?
+Der Bundesregierung sind seit dem 1. Januar 2023 keine entsprechenden Fälle 
+bekannt geworden. Ergänzend wird auf die Antwort zu Frage 27 verwiesen.
+30. Werden technische Störungen oder Fehler beim elektronischen
+Datenaustausch zwischen Gerichten verschiedener Länder von einer Stelle des 
+Bundes oder einem Bund-Länder-Gremium zentral erfasst, und wenn 
+nein, warum nicht?
+Eine zentrale Erfassung erfolgt aufgrund des dezentral organisierten Betriebs 
+der informationstechnischen Systeme der Justiz nicht.
+31. Welches Prüfverfahren wird angewandt, um vor der Einführung eines 
+länderübergreifend eingesetzten Fachverfahrens festzustellen, ob dessen 
+Datenaustausch mit den bereits eingesetzten Fachverfahren und
+elektronischen Aktensystemen technisch interoperabel ist?
+Ein einheitliches Prüfverfahren besteht nicht. Die technische Interoperabilität 
+wird im Rahmen der Entwicklung und Einführung des jeweiligen
+Fachverfahrens durch die hierfür verantwortlichen Projekte beziehungsweise
+Entwicklungsverbünde geprüft.
+32. Besteht ein einheitliches Verfahren zur Prüfung oder Zertifizierung der 
+XJustiz-Konformität von Fachverfahren und elektronischen
+Aktensystemen der Gerichte, und wenn nein, warum nicht?
+Ein einheitliches Verfahren zur Zertifizierung der XJustiz-Konformität von 
+Fachverfahren und elektronischen Aktensystemen der Gerichte besteht nicht.
+Die Einhaltung der technischen Vorgaben von XJustiz kann anhand der für die 
+jeweilige XJustiz-Version veröffentlichten Schemadateien und ergänzenden 
+Prüfregeln überprüft werden. Die Prüfung der konkreten Implementierung von 
+XJustiz in einem Fachverfahren oder elektronischen Aktensystem erfolgt im 
+Rahmen der Entwicklung und Pflege des jeweiligen Systems. Ein
+darüberhinausgehendes zentrales Zertifizierungsverfahren ist nicht erforderlich, da die 
+Einhaltung der technischen Vorgaben auf diese Weise überprüft werden kann 
+und die konkrete Implementierung systembezogen geprüft wird.
+33. Beabsichtigt die Bundesregierung, innerhalb des E-Justice-Rats auf ein 
+einheitliches Verfahren zur Prüfung der Interoperabilität
+länderübergreifend eingesetzter gerichtlicher IT-Systeme hinzuwirken, und wenn nein, 
+warum nicht?
+Die Interoperabilität wird im Rahmen der Entwicklung und Weiterentwicklung 
+der jeweiligen Systeme geprüft. Ergänzend bestehen mit der IT-Governance der 
+Justiz übergreifende Vorgaben für das Zusammenspiel von Anwendungen und 
+deren Schnittstellen. Vor diesem Hintergrund wird ein zusätzliches einheitliches 
+Prüfverfahren derzeit nicht für erforderlich gehalten. Hinsichtlich der XJustiz-
+Konformität wird ergänzend auf die Antwort zu Frage 32 verwiesen.
+34. Beabsichtigt die Bundesregierung, mögliche künftige Bundesmittel für 
+Digitalisierungsvorhaben der Gerichte an den Nachweis der
+Interoperabilität mit den für den länderübergreifenden Datenaustausch maßgeblichen 
+Standards zu knüpfen, und wenn nein, warum nicht?
+Nach den Finanzierungsbedingungen der Digitalisierungsinitiative für die
+Justiz, die mit dem Haushaltsausschuss des Deutschen Bundestages abgestimmt 
+wurden und den Finanzierungsbedingungen der Digitalsäule des neuen Pakts 
+für den Rechtsstaat ist eine Komptabilität der entwickelten
+informationstechnischen Systeme mit dem XJustiz-Standard eine Finanzierungsvoraussetzung.
+35. Welche konkreten Folgerungen zieht die Bundesregierung aus dem
+Berliner IT-Ausfall vom 13. Juli 2026 für die Anforderungen an
+Ausfallsicherheit, Notbetrieb und Wiederanlauf bei künftig mit Bundesmitteln 
+geförderten Digitalisierungsvorhaben der Gerichte?
+Auf die Vorbemerkung und die Antwort zu Frage 6 wird verwiesen.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

@@ -5,28 +5,28 @@ der Abgeordneten Charlotte Antonia Neuhäuser, Desiree Becker, Gökay Akbulut,
 Jan van Aken, Janina Böttger, Maik Brückner, Katrin Fey, Vinzenz Glaser, Cansu 
 Özdemir, Lea Reisner, Zada Salihović, Ulrich Thoden, Donata Vogtschmidt, 
 Christin Willnat und der Fraktion Die Linke
-Datenleck nach Cyberangriff und die Zusammenarbeit des UN-
-Welternährungsprogramms (WFP) mit dem US-Unternehmen Palantir im 
+Datenleck nach Cyberangriff und die Zusammenarbeit des 
+UN‑Welternährungsprogramms mit dem US‑Unternehmen Palantir im 
 Gazastreifen
 Durch ein jüngstes Daten-Leak beim World Food Programme (WFP) durch 
 einen Cyberangriff am 14. Mai 2026 (www.thenewhumanitarian.org/news/202
 6/06/02/data-600000-gaza-households-exposed-wfp-cyber-attack) wurden 
-Namen, Telefonnummern und weitere hochsensible Daten von mehr als 
-600.000 Haushalten im Gazastreifen entwendet. Bei dem Leak handelt es sich 
-um den bislang größten bekannten Datendiebstahl im humanitären System.
+Namen, Telefonnummern und weitere hochsensible Daten von mehr als 600 
+000 Haushalten im Gazastreifen entwendet. Bei dem Leak handelt es sich um 
+den bislang größten bekannten Datendiebstahl im humanitären System.
 Angesichts regelmäßiger israelischer Luftschläge stellen jegliche Daten, aus denen 
 sich Wohnorte, Standorte oder Bewegungsprofile ableiten lassen können, ein 
 massives Risiko für die Menschen in Gaza dar.
 Daher scheint es umso unverständlicher, warum das WFP erst 14 Tage später 
-die betroffenen Haushalte via Telegramm-Nachricht zum Verlust ihrer Daten 
-informierte. Die vielkritisierte Zusammenarbeit des WFP mit Palantir (www.de
-vex.com/news/opinion-the-wfp-and-palantir-controversy-should-be-a-wake-
-upcall-for-humanitarian-community-94307), dem umstrittenen US-Unternehmen 
-für Big-Data Analyse-Software, wirft weitere Fragen auf. Seit 2019 setzt das 
-WFP zur Integration und Vernetzung seiner Daten auf die Dienstleistungen von 
-Palantir, welche an anderer Stelle KI-gestützte Luftschläge des israelischen
-Militärs in Gaza ermöglichen (www.aa.com.tr/en/middle-east/palantir-ai-technolo
-gies-used-in-israeli-attacks-say-reports/3933223).
+die betroffenen Haushalte via Telegram-Nachricht zum Verlust ihrer Daten
+informierte. Die vielkritisierte Zusammenarbeit des WFP mit Palantir (www.deve
+x.com/news/opinion-the-wfp-and-palantir-controversy-should-be-a-wake-up-ca
+ll-for-humanitarian-community-94307), dem umstrittenen US-Unternehmen für 
+Big-Data Analyse-Software, wirft weitere Fragen auf. Seit 2019 setzt das WFP 
+zur Integration und Vernetzung seiner Daten auf die Dienstleistungen von
+Palantir, welche an anderer Stelle KI-gestützte (KI = Künstliche Intelligenz)
+Luftschläge des israelischen Militärs in Gaza ermöglichen (www.aa.com.tr/en/midd
+le-east/palantir-ai-technologies-used-in-israeli-attacks-say-reports/3933223).
 Wie das WFP mit dem Daten-Leak und der Kooperation mit Palantir umgeht, 
 dürfte zum Präzedenzfall für den zukünftigen Umgang mit personenbezogenen 
 Daten in der Entwicklungszusammenarbeit und humanitären Hilfe werden. 
@@ -38,37 +38,36 @@ Aufklärung durch das WFP steht die Bundesregierung als größter
 Zuwendungsgeber des WFP aus Sicht der Fragestellenden in besonderer Verantwortung.
 Wir fragen die Bundesregierung:
  1. Wann wurde die Bundesregierung als wichtige Zuwendungsgeberin des 
-World Food Programme (WFP) über den Verlust personenbezogener
-Daten von 600 000 Haushalten in Gaza am 14. Mai 2026 informiert, der am 
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-2. Juni 2026 nach Kenntnis der Fragestellenden auf journalistische
-Anfrage durch das WFP bestätigt wurde?
+World Food Programme über den Verlust personenbezogener Daten von 
+600 000 Haushalten in Gaza am 14. Mai 2026 informiert, der am 2. Juni 
+2026 nach Kenntnis der Fragestellenden auf journalistische Anfrage durch 
+das WFP bestätigt wurde?
  2. Welche Erkenntnisse liegen der Bundesregierung über Art, Umfang und 
 Kategorien der betroffenen Daten vor, etwa zur Nutzung durch
 militärische Akteure und Sicherheitsbehörden?
  3. Welche Folgenabschätzung, insbesondere für die Sicherheit vulnerabler 
-Personengruppen im Gazastreifen wurde vonseiten der Bundesregierung 
-im Zusammenhang des Datenlecks und der Zusammenarbeit von WFP 
+Personengruppen im Gazastreifen, wurde vonseiten der Bundesregierung 
+im Zusammenhang mit dem Datenleck und der Zusammenarbeit von WFP 
 und Palantir vorgenommen?
  4. Welche Kenntnisse besitzt die Bundesregierung über die technische
 Systemlandschaft des WFP (insbesondere People Portal, Self Registration 
-Application, SCOPE und DOTS), und wie bewertet sie die
-Datensicherheit dieser technischen Systeme?
+Application, SCOPE [Archivinformationssystem für digitale
+Langzeitarchivierung] und DOTS [Data-Oriented Technology Stack]), und wie
+bewertet sie die Datensicherheit dieser technischen Systeme?
  5. Welche Datenflüsse zwischen Registrierungs-, Fach- und
 Analyseplattformen bei technischen Systemen des WFP sind der Bundesregierung
 bekannt?
  6. Welche Bundesmittel flossen seit 2019 in WFP-Programme im
 Gazastreifen, die digitale Registrierungs-, Verwaltungs- oder Analyseplattformen 
-wie das vom Datenverlust betroffene People Portal nutzen (aufschlüsseln 
-nach Haushaltsjahren, Haushaltstiteln, Höhe der Mittel)?
+wie das vom Datenverlust betroffene People Portal nutzen (bitte nach 
+Haushaltsjahren, Haushaltstiteln und Höhe der Mittel aufschlüsseln)?
  7. Welche Auflagen zu Datenschutz, Informationssicherheit oder Daten-
-Governance waren mit diesen Zuwendungen nach Kenntnis der
-Bundesregierung konkret verbunden?
+Governance waren nach Kenntnis der Bundesregierung mit diesen
+Zuwendungen konkret verbunden?
  8. Welche unabhängigen Audits oder Prüfberichte wurden von der
-Bundesregierung im Rahmen der Mittelbewilligung aus Frage 6 angefordert oder 
-ausgewertet (Nennung der beauftragten Stellen und Auftragnehmer), und 
-zu welchen Ergebnissen kamen diese Audits oder Prüfberichte?
+Bundesregierung im Rahmen der Mittelbewilligung in Frage 6 angefordert oder 
+ausgewertet (bitte die beauftragten Stellen und Auftragnehmer nennen), 
+und zu welchen Ergebnissen kamen diese Audits oder Prüfberichte?
  9. Welche Konsequenzen zieht die Bundesregierung für zukünftige
 Förderentscheidungen, insbesondere im Hinblick auf Anforderungen an
 internationale Organisationen hinsichtlich Auditierbarkeit, Datenhoheit und 
@@ -88,18 +87,12 @@ Zweckbindung, Datenminimierung und Zugriffsbeschränkungen in der WFP-
 Zusammenarbeit mit Palantir Technologies eingehalten werden?
 14. Beabsichtigt die Bundesregierung eine Zusammenarbeit mit Palantir 
 Technologies im Rahmen der Entwicklungszusammenarbeit, wenn ja, 
-welche, wenn nein, warum nicht?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+welche, und wenn nein, warum nicht?
 15. Beabsichtigt die Bundesregierung eine Zusammenarbeit mit Palantir 
-Technologies im Rahmen der humanitären Hilfe, wenn ja, welche, wenn 
-nein, warum nicht?
+Technologies im Rahmen der humanitären Hilfe, wenn ja, welche, und 
+wenn nein, warum nicht?
 Berlin, den 12. August 2026
 Heidi Reichinnek, Sören Pellmann und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.

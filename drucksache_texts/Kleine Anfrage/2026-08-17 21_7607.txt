@@ -16,19 +16,19 @@ kann. Der digitale Zugfunk GSM-R dient dabei der Kommunikation zwischen
 Triebfahrzeugführern, Betriebszentralen, Stellwerken und Leitstellen und stellt 
 eine zentrale technische Grundlage für den laufenden Bahnbetrieb dar.
 In der Nacht vom 23. auf den 24. Juni 2026 kam es zu einer bundesweiten
-Störung des digitalen Bahnfunks GSM-R. Infolge der Störung wurden Züge aus 
-Sicherheitsgründen zeitweise an Bahnhöfen zurückgehalten, wodurch es zu
-erheblichen Einschränkungen im Regional- und Fernverkehr kam. Nach Angaben 
-der Deutschen Bahn wurde die Ursache später auf planmäßige
-Instandhaltungsarbeiten an einer Kernkomponente des GSM-R-Systems zurückgeführt 
-(www.deutschebahn.com/de/presse/Newsblog-12829716). Beim Tausch einer 
-Netzwerkverteilkomponente sei ein singulärer Softwarefehler aufgetreten, der 
-keine Fehlermeldung ausgelöst habe (www.tagesschau.de/inland/was-zur-bahn-
-stoerung-bekannt-ist-100.html). Dadurch sei die vorhandene Redundanz des 
-Systems nicht automatisch aktiviert worden, erst nach Ausschluss eines
-Cyberangriffs sei nach rund 90 Minuten manuell auf die Rückfallebene umgeschaltet 
-worden (www.tagesschau.de/inland/was-zur-bahn-stoerung-bekannt-ist-10
-0.html).
+Störung des digitalen Bahnfunks Global System for Mobile Communications – 
+Railway (GSM-R). Infolge der Störung wurden Züge aus Sicherheitsgründen 
+zeitweise an Bahnhöfen zurückgehalten, wodurch es zu erheblichen
+Einschränkungen im Regional- und Fernverkehr kam. Nach Angaben der Deutschen 
+Bahn wurde die Ursache später auf planmäßige Instandhaltungsarbeiten an 
+einer Kernkomponente des GSM-R-Systems zurückgeführt (www.deutschebah
+n.com/de/presse/Newsblog-12829716). Beim Tausch einer
+Netzwerkverteilkomponente sei ein singulärer Softwarefehler aufgetreten, der keine
+Fehlermeldung ausgelöst habe (www.tagesschau.de/inland/was-zur-bahn-stoerung-bekan
+nt-ist-100.html). Dadurch sei die vorhandene Redundanz des Systems nicht
+automatisch aktiviert worden, erst nach Ausschluss eines Cyberangriffs sei nach 
+rund 90 Minuten manuell auf die Rückfallebene umgeschaltet worden (www.ta
+gesschau.de/inland/was-zur-bahn-stoerung-bekannt-ist-100.html).
 Der Vorfall wirft grundlegende Fragen zur technischen Robustheit,
 Überwachung und Ausfallsicherheit zentraler Bahninfrastruktur auf. Von besonderer 
 Bedeutung ist dabei, warum ein planmäßiger Komponententausch in einem
@@ -41,23 +41,21 @@ getestet und überwacht werden.
 Der Ausfall des digitalen Zugfunks zeigt die Abhängigkeit des
 Schienenverkehrs von funktionierenden digitalen Kommunikationssystemen. Vor dem
 Hintergrund der geplanten weiteren Digitalisierung des Bahnbetriebs, insbesondere 
-durch digitale Stellwerke, ETCS und weitere vernetzte Leit- und Sicherungs-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-technik, kommt der Resilienz solcher Systeme eine wachsende Bedeutung zu. 
-Störungen, Softwarefehler, fehlgeschlagene Redundanzmechanismen oder
-unzureichend getestete Wartungsprozesse können erhebliche Auswirkungen auf 
-den Bahnbetrieb, die Pünktlichkeit, die Sicherheit und das Vertrauen der
-Fahrgäste haben. Gleichzeitig ist zu berücksichtigen, dass die Deutsche Bahn und 
-ihre Infrastrukturgesellschaften eine zentrale Rolle beim Betrieb kritischer
-Verkehrsinfrastruktur einnehmen und in erheblichem Umfang aus öffentlichen
-Mitteln finanziert werden. Daraus ergibt sich ein parlamentarisches
-Informationsbedürfnis darüber, welche technischen und organisatorischen Ursachen der 
-GSM‑R-Störung zugrunde lagen, welche Auswirkungen der Vorfall auf
-Fahrgäste und den Bahnverkehr hatte, welche Maßnahmen zur Vermeidung
-vergleichbarer Störungen ergriffen wurden und ob die bestehenden Vorgaben für 
-Wartung, Redundanz, IT-Sicherheit und Störfallmanagement bei der digitalen 
-Bahninfrastruktur ausreichend sind. 
+durch digitale Stellwerke, ETCS (European Train Control System) und weitere 
+vernetzte Leit- und Sicherungstechnik, kommt der Resilienz solcher Systeme 
+eine wachsende Bedeutung zu. Störungen, Softwarefehler, fehlgeschlagene
+Redundanzmechanismen oder unzureichend getestete Wartungsprozesse können 
+erhebliche Auswirkungen auf den Bahnbetrieb, die Pünktlichkeit, die
+Sicherheit und das Vertrauen der Fahrgäste haben. Gleichzeitig ist zu berücksichtigen, 
+dass die Deutsche Bahn und ihre Infrastrukturgesellschaften eine zentrale Rolle 
+beim Betrieb kritischer Verkehrsinfrastruktur einnehmen und in erheblichem 
+Umfang aus öffentlichen Mitteln finanziert werden. Daraus ergibt sich ein
+parlamentarisches Informationsbedürfnis darüber, welche technischen und
+organisatorischen Ursachen der GSM‑R-Störung zugrunde lagen, welche
+Auswirkungen der Vorfall auf Fahrgäste und den Bahnverkehr hatte, welche Maßnahmen 
+zur Vermeidung vergleichbarer Störungen ergriffen wurden und ob die
+bestehenden Vorgaben für Wartung, Redundanz, IT-Sicherheit und
+Störfallmanagement bei der digitalen Bahninfrastruktur ausreichend sind. 
 Wir fragen die Bundesregierung:
  1. Welche Erkenntnisse liegen der Bundesregierung zum bundesweiten
 Ausfall bzw. zur bundesweiten Störung des digitalen Zugfunks GSM‑R bei 
@@ -67,11 +65,11 @@ GSM‑R-Systems waren nach Kenntnis der Bundesregierung konkret von
 der Störung betroffen?
  3. Trifft es nach Kenntnis der Bundesregierung zu, dass die Störung im
 Zusammenhang mit planmäßigen Instandhaltungsarbeiten bzw. dem
-Austausch einer Netzwerkverteilkomponente stand und wenn ja, welche
+Austausch einer Netzwerkverteilkomponente stand, und wenn ja, welche
 konkreten Wartungs-, Austausch- oder Konfigurationsarbeiten wurden
 durchgeführt?
  4. Welche Rolle spielte nach Kenntnis der Bundesregierung der von der 
-Deutschen Bahn genannte „singuläre Softwarefehler“ und warum führte 
+Deutschen Bahn genannte „singuläre Softwarefehler“, und warum führte 
 dieser Fehler weder zu einer automatischen Fehlermeldung noch zu einer 
 automatischen Aktivierung der vorgesehenen Redundanz?
  5. Welche technischen, organisatorischen oder prozessualen
@@ -88,18 +86,16 @@ Redundanzmechanismen frühzeitig zu erkennen?
 planmäßige Wartungsarbeiten an zentralen Komponenten des digitalen
 Zugfunks GSM‑R, insbesondere hinsichtlich Risikoanalyse, Testbetrieb, 
 Rückfallkonzepten, Vier-Augen-Prinzip, Freigabeprozessen und
-Echtzeitüberwachung und wurden diese Vorgaben im vorliegenden Fall
+Echtzeitüberwachung, und wurden diese Vorgaben im vorliegenden Fall
 vollständig eingehalten?
  9. Welche Prüfungen wurden nach Kenntnis der Bundesregierung während 
 der Störung durchgeführt, um einen Cyberangriff, Sabotage,
-Manipulation, Fehlkonfigurationen oder unbefugte Zugriffe auszuschließen und 
-welche Rolle spielten hierbei das Bundesamt für Sicherheit in der Infor-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-mationstechnik, das Eisenbahn-Bundesamt, die Bundespolizei oder andere 
+Manipulation, Fehlkonfigurationen oder unbefugte Zugriffe auszuschließen, und 
+welche Rolle spielten hierbei das Bundesamt für Sicherheit in der
+Informationstechnik, das Eisenbahn-Bundesamt, die Bundespolizei oder andere 
 Sicherheitsbehörden?
 10. Wurde der Vorfall als Störung einer kritischen Infrastruktur bzw. als IT-
-Sicherheitsvorfall eingestuft, und falls ja, nach welcher Rechtsgrundlage 
+Sicherheitsvorfall eingestuft, und wenn ja, nach welcher Rechtsgrundlage, 
 und mit welcher Risikobewertung?
 11. Wie viele Züge, Fahrgäste, Streckenabschnitte, Stellwerke und
 Betriebszentralen waren nach Kenntnis der Bundesregierung unmittelbar oder
@@ -126,13 +122,13 @@ Bundesregierung unmittelbar nach dem Vorfall ergriffen, um eine Wiederholung
 eines vergleichbaren Ausfalls zu verhindern?
 17. Welche Rolle spielen nach Kenntnis der Bundesregierung externe
 Dienstleister, Hersteller oder Softwareanbieter beim Betrieb, bei der Wartung 
-und bei der Weiterentwicklung des GSM‑R-Systems und inwieweit
+und bei der Weiterentwicklung des GSM‑R-Systems, und inwieweit
 bestehen Abhängigkeiten von einzelnen Herstellern, proprietären
 Softwarekomponenten oder nicht kurzfristig ersetzbaren Systemlieferanten?
 18. Welche Konsequenzen zieht die Bundesregierung aus dem Vorfall für die 
 weitere Digitalisierung der Bahninfrastruktur, insbesondere mit Blick auf 
-digitale Stellwerke, ETCS, FRMCS und andere vernetzte Leit- und
-Sicherungssysteme?
+digitale Stellwerke, ETCS, FRMCS (Future Railway Mobile
+Communication System) und andere vernetzte Leit- und Sicherungssysteme?
 19. Inwieweit bestehen nach Kenntnis der Bundesregierung bei der
 Umstellung von GSM‑R auf künftige digitale Bahnkommunikationssysteme
 Risiken durch Übergangsarchitekturen, Schnittstellen, Altsysteme, fehlende 
@@ -143,10 +139,6 @@ Störfallmanagement digitaler Kommunikationssysteme im
 Schienenverkehr zu verbessern?
 Berlin, den 12. August 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
