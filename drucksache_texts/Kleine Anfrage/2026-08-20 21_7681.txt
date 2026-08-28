@@ -14,41 +14,40 @@ sowie Angriffen auf unsere kritische Infrastruktur sind nahezu täglich spürbar
 Die Bundesregierung hat angesichts dieser Bedrohungslage die Personalziele 
 für die Bundeswehr und die Reserve der Bundeswehr deutlich erhöht. Bis 2035 
 beläuft sich der personelle militärische Zielumfang laut Bundesministerium der 
-Verteidigung (BMVg) auf mindestens 460 000 Soldat:innen. Diese gliedern 
-sich in 260 000 aktive Soldat:innen und 200 000 beorderte Reservist:innen auf. 
-Dazu ist nahezu eine Verdopplung der aktuellen Personalzahlen von
-Soldat:innen (derzeit circa 185 000) und beorderten Reservist:innen (circa 66 000)
-notwendig (www.bundeswehr.de/de/organisation/zahlen-daten-fakten/personalzahl
-en-bundeswehr, www.tagesschau.de/inland/innenpolitik/bundeswehr-reserviste
-n-104.html.
-Um diese Ziele zu erreichen ist eine deutlich bessere Personalgewinnung und 
-ein verbesserter Personalerhalt im GB BMVg notwendig. Damit geeignete 
-Menschen in einem immer kompetitiveren Wettbewerb um gutes Personal zur 
-Bundeswehr kommen und bei der Bundeswehr bleiben wollen, muss ein
-attraktives Angebot gemacht werden, dass den Personen mit ihren jeweiligen
-Lebensumständen, Bedürfnissen und Wünschen gerecht wird. Um dazu geeignete 
-Angebote machen zu können und Lösungen für die Personalgewinnung und 
-den Personalerhalt treffen zu können, bedarf es eines umfassenden Überblicks 
-darüber, was diese Umstände, Bedürfnisse und Wünsche des Personals sind. 
-Dies gilt für die neu erfasstes Personal im Rahmen des Neuen Wehrdienstes 
-ebenso wie für bewährtes und qualifiziertes Bestandspersonal. Beruf und Leben 
-müssen zusammenpassen, damit beides langfristig zusammengeht.
-Lebensplanung, Lebensmittelpunkt, Entwicklungswünsche, Fähigkeiten und
-Gesundheitszustand sind nur einige der Faktoren, die darüber entscheiden, wer zu 
-einem Dienst bei der Bundeswehr passt und was der Person geboten werden 
-muss, um sich für den Dienst bei der Bundeswehr zu entscheiden.
+Verteidigung (BMVg) auf mindestens 460 000 Soldatinnen und Soldaten. Diese 
+gliedern sich in 260 000 aktive Soldatinnen und Soldaten und 200 000
+beorderte Reservistinnen und Reservisten auf. Dazu ist nahezu eine Verdopplung der 
+aktuellen Personalzahlen von Soldatinnen und Soldaten (derzeit circa 185 000) 
+und beorderten Reservistinnen und Reservisten (circa 66 000) notwendig 
+(www.bundeswehr.de/de/organisation/zahlen-daten-fakten/personalzahlen-bun
+deswehr, www.tagesschau.de/inland/innenpolitik/bundeswehr-reservisten-10
+4.html.
+Um diese Ziele zu erreichen, ist eine deutlich bessere Personalgewinnung und 
+ein verbesserter Personalerhalt im GB (Geschäftsbereich) BMVg notwendig. 
+Damit geeignete Menschen in einem immer kompetitiveren Wettbewerb um 
+gutes Personal zur Bundeswehr kommen und bei der Bundeswehr bleiben
+wollen, muss ein attraktives Angebot gemacht werden, das den Personen mit ihren 
+jeweiligen Lebensumständen, Bedürfnissen und Wünschen gerecht wird. Um 
+dazu geeignete Angebote machen zu können und Lösungen für die
+Personalgewinnung und den Personalerhalt treffen zu können, bedarf es eines
+umfassenden Überblicks darüber, was diese Umstände, Bedürfnisse und Wünsche des 
+Personals sind. Dies gilt für die neu erfasstes Personal im Rahmen des neuen 
+Wehrdienstes ebenso wie für bewährtes und qualifiziertes Bestandspersonal. 
+Beruf und Leben müssen zusammenpassen, damit beides langfristig
+zusammengeht. Lebensplanung, Lebensmittelpunkt, Entwicklungswünsche,
+Fähigkeiten und Gesundheitszustand sind nur einige der Faktoren, die darüber
+entscheiden, wer zu einem Dienst bei der Bundeswehr passt und was der Person
+geboten werden muss, um sich für den Dienst bei der Bundeswehr zu entscheiden.
 Damit solche Informationen über das Bundeswehrpersonal rechtskonform
 erhoben und verarbeitet werden können und um alle für berufliche Entscheidungen 
 notwendigen Voraussetzungen und Merkmale zu kennen, bedarf es einer
 detaillierten Erhebung von personenbezogenen Daten neuer und bestehender
-Soldat:innen und Reservist:innen im GB BMVg unter Einhaltung datenschutz-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-rechtlicher Anforderungen sowie einer geeigneter digitalen Dateninfrastruktur 
-zur rechtskonformen und grundrechtsschützenden Verarbeitung und
-Aggregation dieser Personaldaten. Nur so können passende Angebote für neues und
-vorhandenes Personal gemacht werden und somit langfristig und nachhaltig die 
-Personalziele der Bundeswehr erfüllt werden.
+Soldatinnen und Soldaten und Reservistinnen und Reservisten im GB BMVg unter 
+Einhaltung datenschutzrechtlicher Anforderungen sowie einer geeigneter
+digitalen Dateninfrastruktur zur rechtskonformen und grundrechtsschützenden
+Verarbeitung und Aggregation dieser Personaldaten. Nur so können passende
+Angebote für neues und vorhandenes Personal gemacht und somit langfristig und 
+nachhaltig die Personalziele der Bundeswehr erfüllt werden.
 Wir fragen die Bundesregierung:
  1. Welche konkreten Softwareanwendungen, IT-Verfahren und Datenbanken 
 (bitte unter Angabe von Produktnamen, Herstellern und Versionen)
@@ -57,17 +56,19 @@ Personaldaten genutzt?
  2. Sollen im Zeitraum bis Ende 2027 neue Softwareanwendungen im GB 
 BMVg zur Datenverarbeitung zur Erhebung, Speicherung und
 Verarbeitung von Personaldaten genutzt werden?
- 3. Welche Abteilungen, Referate, Behörden (z. B. BAPersBw) oder
-sonstigen organisatorischen Einheiten im GB BMVg sind mit der Erhebung und 
-Verarbeitung von personenbezogenen Personaldaten betraut (bitte nach 
+ 3. Welche Abteilungen, Referate, Behörden (z. B. das Bundesamt für das 
+Personalmanagement der Bundeswehr (BAPersBw)) oder sonstigen
+organisatorischen Einheiten im GB BMVg sind mit der Erhebung und
+Verarbeitung von personenbezogenen Personaldaten betraut (bitte nach
 Zuständigkeit für ziviles und militärisches Personal aufschlüsseln)?
  4. Auf welche spezifischen gesetzlichen Grundlagen stützen das BMVg und 
 sein Geschäftsbereich die Erhebung, Verarbeitung und Sicherung von
 personenbezogenen Personaldaten?
  5. Welche rechtlichen und administrativen Unterschiede gibt es bei der
-Datenerhebung und -verarbeitung für militärisches Personal
-(Berufssoldat:innen, Soldat:innen auf Zeit, Freiwillig Wehrdienstleistende,
-Reservist:innen) und zivile Beschäftigte?
+Datenerhebung und Datenverarbeitung für militärisches Personal
+(Berufssoldatinnen und Berufssoldaten, Soldatinnen und Soldaten auf Zeit,
+Freiwillig Wehrdienstleistende, Reservistinnen und Reservisten) und zivile
+Beschäftigte?
  6. Wie wird die technische Umsetzung der Fristen zur Löschung
 personenbezogener Personaldaten (z. B. nach Ausscheiden aus dem Dienst) in den 
 IT-Systemen überwacht?
@@ -77,26 +78,24 @@ Einverständniserklärungen (Einwilligungen) zur Datenerhebung von den
 Beschäftigten oder Soldatinnen und Soldaten eingeholt?
  8. An welchen Stellen und in welchem Umfang arbeitet das BMVg im
 Bereich des Personalwesens oder der IT-Infrastruktur mit externen Entitäten 
-(z. B. Beratungsunternehmen, IT-Dienstleistern) zusammen, bei denen 
+(z. B. Beratungsunternehmen, IT-Dienstleister) zusammen, bei denen 
 diese externen Akteure Zugriff auf personenbezogene Personaldaten
 erhalten oder diese selbst erheben?
  9. Welche datenschutzrechtlichen Vereinbarungen (z. B.
-Auftragsverarbeitungsverträge nach Artikel 28 DSGVO) werden bei der Zusammenarbeit 
-mit diesen externen Entitäten standardmäßig getroffen, und wie wird 
-deren Einhaltung kontrolliert?
+Auftragsverarbeitungsverträge nach Artikel 28 der Datenschutz-Grundverordnung 
+(DSGVO)) werden bei der Zusammenarbeit mit diesen externen Entitäten 
+standardmäßig getroffen, und wie wird deren Einhaltung kontrolliert?
 10. Nach welchen genauen Kategorien, Klassen, Merkmalen und
 Merkmalsausprägungen werden die Personaldaten im GB BMVg standardmäßig 
-erfasst (bitte vollständig auflisten und gegebenenfalls differenzieren nach 
-Berufssoldat:innen, Soldat:innen auf Zeit [lang/kurz], Freiwilligen
-Wehrdienstleistenden, zivilen Beschäftigten und Reservist:innen falls
-Unterschiede bestehen)?
-11. Werden die in der Frage 10 genannten Daten systemseitig zentral,
-anonymisiert und verarbeitet, oder existieren dezentrale Datensammlungen in 
-den einzelnen Teilstreitkräften oder Organisationsbereichen?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+erfasst (bitte vollständig auflisten und gegebenenfalls nach
+Berufssoldatinnen und Berufssoldaten, Soldatinnen und Soldaten auf Zeit [lang/kurz], 
+Freiwilligen Wehrdienstleistenden, zivilen Beschäftigten und
+Reservistinnen und Reservisten, falls Unterschiede bestehen, differenzieren)?
+11. Werden die in Frage 10 genannten Daten systemseitig zentral,
+anonymisiert und verarbeitet, oder existieren dezentrale Datensammlungen in den 
+einzelnen Teilstreitkräften oder Organisationsbereichen?
 12. Wie werden die in Frage 10 genannten personenbezogenen Daten
-gesichert und welche Schutzvorkehrungen werden vorgenommen, um diese 
+gesichert, und welche Schutzvorkehrungen werden vorgenommen, um diese 
 sensiblen Daten abzusichern?
 13. Wie, durch welche Stellen und anhand welcher Parameter werden
 Ausfallquoten im GB BMVg erfasst, und findet hierzu eine zentrale
@@ -104,32 +103,28 @@ Anonymisierung und statistische Aggregation statt?
 14. Welche rechtlichen Grundlagen und IT-Verfahren nutzt die Bundeswehr 
 aktuell für die Wehrerfassung (z. B. Datenübermittlungen der
 Meldebehörden nach dem Bundesmeldegesetz bzw. Wehrpflichtgesetz)?
-15. Welche konkreten Kategorien, Klassen, Merkmalen und
+15. Welche konkreten Kategorien, Klassen, Merkmale und
 Merkmalsausprägungen personenbezogener Daten werden im Rahmen der Wehrerfassung 
 von potenziell Wehrpflichtigen oder Wehrfähigen erhoben, automatisiert 
 verarbeitet und gespeichert?
 16. In welchen Systemen und Datenbanken werden die Daten zur
 Wehrerfassung abgelegt, und wer besitzt innerhalb und außerhalb des GB BMVg 
 Zugriff auf diese Datensätze?
-17. Wie unterscheidet sich die Datenerhebung und -speicherung bei Personen, 
-die aktiv Informationsmaterial anfordern oder eine Bereitschaft zum 
-Dienst erklären, von der rein gesetzlichen Erfassung von Jahrgängen?
+17. Wie unterscheidet sich die Datenerhebung und Datenspeicherung bei
+Personen, die aktiv Informationsmaterial anfordern oder eine Bereitschaft 
+zum Dienst erklären, von der rein gesetzlichen Erfassung von Jahrgängen?
 18. Welche Lösch- und Sperrfristen gelten für Daten, die im Zuge der
 Wehrerfassung generiert wurden, insbesondere wenn die erfassten Personen
 keinen Dienst in den Streitkräften antreten?
-19. Welche spezifischen personenbezogenen Kategorien, Klassen, Merkmalen 
+19. Welche spezifischen personenbezogenen Kategorien, Klassen, Merkmale 
 und Merkmalsausprägungen erfasst das BMVg jeweils beim Ausscheiden 
 von Personal aus dem aktiven Dienst in welcher Weise (mit Klarnamen, 
 pseudonymisiert oder anonymisiert)?
 20. Welche konkreten Daten werden bezüglich offener bzw. unbesetzter 
-Dienstposten im GB BMVg erfasst und inwiefern werden diese Daten mit 
+Dienstposten im GB BMVg erfasst, und inwiefern werden diese Daten mit 
 personenbezogenen Daten von potenziellen Nachfolgenden verknüpft?
 Berlin, den 18. August 2026
 Katharina Dröge, Britta Haßelmann und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
