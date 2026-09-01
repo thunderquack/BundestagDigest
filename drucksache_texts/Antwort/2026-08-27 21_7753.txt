@@ -1,0 +1,379 @@
+Deutscher Bundestag Drucksache 20/7753
+20. Wahlperiode 27.08.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Robin Jünger, Ruben Rupp, Sebastian 
+Maack , weiterer Abgeordneter und der Fraktion der AfD 
+– Drucksache 21/7753 –
+Kriterien und Grenzen für den Einsatz Künstlicher Intelligenz bei 
+Verwaltungsentscheidungen des Bundes
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Bundesregierung verknüpft ihre Vorhaben zur Digitalisierung und
+Staatsmodernisierung mit dem Anspruch, die Leistungsfähigkeit, Effizienz und
+Bürgerorientierung staatlicher Verwaltungsstrukturen grundlegend zu erhöhen. 
+Der Koalitionsvertrag zwischen CDU, CSU und SPD für die 21. Wahlperiode 
+sieht hierfür unter anderem eine umfassende Modernisierung der Verwaltung, 
+einen spürbaren Bürokratierückbau, stärker wirkungsorientiertes
+Regierungshandeln sowie Effizienzsteigerungen durch Digitalisierung vor (www.cdu.de/a
+pp/uploads/2025/04/KoaV-2025-Gesamt-final-0424.pdf). Zugleich formuliert 
+die Bundesregierung das Ziel, Deutschland als KI-Nation zu etablieren und 
+hierfür insbesondere in Cloud- und KI-Infrastruktur zu investieren. Für die 
+Umsetzung dieser Vorhaben kommt dem Bundesministerium für
+Digitalisierung und Staatsmodernisierung (BMDS) eine zentrale Koordinierungs- und 
+Steuerungsfunktion zu.
+Vor diesem Hintergrund stellt der Einsatz Künstlicher Intelligenz (KI) in der 
+Bundesverwaltung nicht nur eine technische Modernisierungsfrage dar,
+sondern berührt zentrale rechtsstaatliche und organisatorische Grundlagen
+staatlichen Verwaltungshandelns. Dies gilt insbesondere für Anwendungen, die 
+über rein assistierende Funktionen hinausgehen und Einfluss auf
+Sachverhaltsermittlung, Verfahrenssteuerung, Priorisierung, rechtliche Bewertung,
+Ermessensvorbereitung oder Bescheiderstellung nehmen. Je stärker KI in
+entscheidungsrelevante Verwaltungsschritte eingreift, desto klarer und
+nachvollziehbarer müssen die Regeln sein. Es geht um Verantwortung, menschliche
+Letztentscheidung, Nachvollziehbarkeit und Aktenführung. Ebenso betroffen sind
+Datenschutz, Diskriminierungsfreiheit, IT-Sicherheit, Fehlerkorrektur, Haftung, 
+Rechtsschutz und parlamentarische Kontrolle. Die Verordnung (EU) 
+2024/1689 über künstliche Intelligenz setzt hierfür einen risikobasierten
+Rahmen. Sie regelt insbesondere Hochrisiko-KI-Systeme, Risikomanagement,
+Datenqualität, technische Dokumentation, Protokollierung, Transparenz und 
+menschliche Aufsicht.
+Auf die Schriftliche Frage 119 auf Bundesdrucksache 21/5846 antwortete die 
+Bundesregierung, der Einsatz Künstlicher Intelligenz in der Verwaltung
+erfolge im Rahmen der geltenden gesetzlichen Grundlagen, insbesondere der KI-
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Digitales und
+Staatsmodernisierung vom 27. August 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+Verordnung, des Verwaltungsverfahrensgesetzes, der Datenschutz-
+Grundverordnung und der einschlägigen Fachgesetze. Diese Antwort enthält nach
+Auffassung der Fragesteller keinen konkreten Kriterienkatalog, keine Aussage zu 
+internen Prüfmaßstäben, keine Benennung verbindlicher Grenzen und keine 
+Darstellung möglicher Ausschlussbereiche für vollständig oder weitgehend 
+KI-basierte Verwaltungsentscheidungen. Sie beantwortet damit den Kern der 
+Frage nur abstrakt. Dass geltendes Recht einzuhalten ist, stellt eine
+Selbstverständlichkeit dar; parlamentarisch relevant ist jedoch, wie die
+Bundesregierung die allgemeinen gesetzlichen Vorgaben praktisch in verbindliche
+Verwaltungsvorgaben, technische Prüfverfahren, Freigabeprozesse,
+Risikoabwägungen und Projektentscheidungen übersetzt.
+Die Verordnung (EU) 2024/1689 über künstliche Intelligenz sieht
+risikobasierte Vorgaben für KI-Systeme vor und enthält unter anderem Anforderungen an 
+Hochrisiko-KI-Systeme, menschliche Aufsicht, Risikomanagement,
+Datenqualität, technische Dokumentation, Protokollierung und Transparenz. Für den 
+Bereich der öffentlichen Verwaltung kann darüber hinaus je nach Fachrecht 
+entscheidend sein, ob eine automatisierte oder KI-gestützte Entscheidung mit 
+dem Grundsatz rechtmäßiger Verwaltung, dem Anspruch auf effektiven 
+Rechtsschutz, der Pflicht zur Begründung von Verwaltungsakten, dem
+Untersuchungsgrundsatz, dem Aktenführungsgrundsatz und dem Anspruch auf
+ermessensfehlerfreie Entscheidung vereinbar ist.
+Die Fragesteller halten es deshalb für erforderlich, dass die Bundesregierung 
+konkret offenlegt, ob sie über allgemeine Gesetzesverweise hinaus bereits 
+bundesministerielle, ressortübergreifende oder behördeninterne Kriterien für 
+KI-Einsätze in der Bundesverwaltung entwickelt hat. Von besonderem
+Interesse ist, ob die Bundesregierung zwischen rein assistierenden Anwendungen, 
+entscheidungsvorbereitenden Anwendungen, teilautomatisierten
+Entscheidungen und vollständig automatisierten Verwaltungsentscheidungen
+unterscheidet. Ebenso ist zu klären, ob die Bundesregierung bestimmte Einsatzbereiche 
+von vornherein ausschließt, etwa wegen besonderer Grundrechtsrelevanz,
+hoher Fehlerfolgen, fehlender Nachvollziehbarkeit, unzureichender
+Datenqualität, mangelnder IT-Sicherheit oder unklarer Verantwortlichkeit.
+Die bisherige Antwort der Bundesregierung lässt ferner offen, ob das BMDS 
+in seiner koordinierenden Rolle gegenüber anderen Ressorts eigene
+verbindliche Standards anstrebt oder ob jedes Ressort eigenständig über die Grenzen 
+des KI-Einsatzes entscheidet. Eine solche Fragmentierung könnte zu
+unterschiedlichen Schutzstandards innerhalb der Bundesverwaltung führen. Für 
+Bürger, Unternehmen und Gerichte wäre dann schwerer nachvollziehbar, 
+welche Maßstäbe für KI-gestützte Verwaltung gelten. Gleichzeitig könnten 
+Behörden aus Effizienz- oder Kostengründen KI-Systeme einsetzen, ohne dass 
+vorher hinreichend geklärt ist, wie menschliche Verantwortung, Akteneinsicht, 
+Widerspruchsverfahren, Fehlerkorrektur, Haftung und parlamentarische
+Nachprüfbarkeit gesichert werden.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Künstliche Intelligenz (KI) ist Schlüsseltechnologie. Durch den Einsatz von KI 
+kann die öffentliche Verwaltung zentralen Herausforderungen mit innovativen 
+Lösungen begegnen, um Verwaltungsabläufe effizienter zu gestalten und zur 
+Arbeitsentlastung beizutragen. Eine moderne Verwaltung muss auch KI als
+Arbeitswerkzeug nutzen. KI kann bei der Erstellung von Reden und Artikeln – 
+aber auch bei weiteren Texten sowie allgemeiner Verwaltungsarbeit eingesetzt 
+werden, stets eingebettet in einen Prozess mit menschlicher Prüfung und
+Letztverantwortung. Der maßgebliche Standard lautet: Inhalt und Verantwortung
+liegen beim Menschen. KI kann unterstützen, aber sie ersetzt weder Zielsetzung 
+noch Struktur, Inhalt, Urteilsvermögen oder politische Haltung. KI ist ein
+unterstützendes Werkzeug, der Mensch führt.
+KI ist ein neues, leistungsfähiges Werkzeug zur Unterstützung. Die
+Bundesregierung fördert die Nutzung von KI in der Verwaltung, weil sie überzeugt ist, 
+dass Deutschland den produktiven und zugleich maßvollen Umgang mit KI 
+schnell weiter lernen muss.
+ 1. Welche konkreten rechtlichen, technischen, organisatorischen, ethischen 
+und sicherheitsbezogenen Kriterien verwendet die Bundesregierung
+derzeit, um zu entscheiden, ob ein KI-System in der Bundesverwaltung
+eingesetzt, pilotiert, beschafft, weiterentwickelt oder ausgeschlossen wird?
+ 2. Gibt es innerhalb der Bundesregierung einen ressortübergreifenden
+Kriterienkatalog für den Einsatz von KI in der Bundesverwaltung, und wenn 
+ja, wann wurde er beschlossen, welches Ressort ist federführend, welche 
+Ressorts waren beteiligt, und welche Verbindlichkeit besitzt er?
+ 3. Falls es keinen ressortübergreifenden Kriterienkatalog gibt, aus welchen 
+Gründen hat die Bundesregierung einen solchen bislang nicht erstellt, 
+und bis wann plant sie die Erarbeitung eines solchen Kriterienkatalogs?
+Die Fragen 1, 2 und 3 werden zusammen beantwortet. Die Bundesregierung
+beachtet bei der oben genannten Auswahl von KI-Systemen alle gesetzlichen 
+Grundlagen, wie etwa die KI-Verordnung (KI‑VO), die Datenschutz-
+Grundverordnung (DSGVO), das Bundesdatenschutzgesetz (BDSG) und
+haushaltsrechtliche Aspekte. Darüber hinaus hat die Bundesregierung ressortübergreifend
+abgestimmten Leitlinien für den Einsatz von KI in der Bundesverwaltung
+eröffnet, die wichtige Leitplanken für den Einsatz von KI in der Bundesverwaltung 
+setzen.
+ 4. Wie unterscheidet die Bundesregierung begrifflich und praktisch
+zwischen assistierendem KI-Einsatz, entscheidungsvorbereitendem KI-
+Einsatz, teilautomatisierter Verwaltungsentscheidung, vollautomatisierter 
+Verwaltungsentscheidung und agentischer KI im Verwaltungskontext?
+Die Bundesregierung folgt den einschlägigen Bestimmungen der KI-VO.
+ 5. Welche Verwaltungsbereiche des Bundes hält die Bundesregierung 
+grundsätzlich für ungeeignet für vollständig oder weitgehend KI-basierte 
+Entscheidungen, und aus welchen rechtlichen oder tatsächlichen
+Gründen und in welchen Verwaltungsbereichen des Bundes hält die
+Bundesregierung vollständig oder weitgehend KI-basierte
+Verwaltungsentscheidungen demgegenüber grundsätzlich für denkbar?
+ 6. Welche verbindlichen Ausschlussbereiche für KI-basierte
+Verwaltungsentscheidungen plant die Bundesregierung mit Blick auf
+Grundrechtsrelevanz, Eingriffsintensität, Ermessensausübung, besondere
+Schutzbedürftigkeit Betroffener, Diskriminierungsrisiken oder Fehlerfolgen, und nach 
+welchen Kriterien bestimmt die Bundesregierung, ob eine menschliche 
+Mitwirkung nur formal oder tatsächlich entscheidungserheblich ist?
+Die Fragen 5 und 6 werden zusammen beantwortet.
+Die Bundesregierung richtet sich bei der Frage, in welchen Bereichen KI-
+basierte Entscheidungen eingesetzt werden nach den geltenden Rechtsgrundlagen, 
+insb. Art. 5 KI‑VO, § 35a VwVfG. Zudem ist die Grundrechtsintensität eines 
+etwaigen Eingriffs durch eine KI-basierte Entscheidung von Relevanz. In
+welchen Verwaltungsbereichen der Einsatz von vollständig oder weitgehend KI-
+basierten Entscheidungen geeignet oder ungeeignet ist, unterliegt einer
+fortlaufenden Kontrolle.
+ 7. Welche Anforderungen stellt die Bundesregierung an „Human in the 
+Loop“, „Human on the Loop“ und „Human in Command“ in der
+Bundesverwaltung, und welche dieser Aufsichtsformen hält sie in welchen
+Verwaltungskonstellationen für ausreichend?
+ 8. Wie stellt die Bundesregierung sicher, dass menschliche Aufsicht nach 
+Artikel 14 der Verordnung (EU) 2024/1689 nicht zu einer bloßen
+Abzeichnung KI-generierter Ergebnisse wird, und welche Vorgaben
+bestehen oder sind geplant, um Automatisierungsbias bei Beschäftigten der 
+Bundesverwaltung zu verhindern, die KI-generierte Vorschläge prüfen 
+oder übernehmen?
+Die Fragen 7 und 8 werden zusammen beantwortet.
+Die Bundesregierung richtet sich nach den Vorgaben des Art. 14 KI‑VO, der 
+eine differenzierte Beurteilung abhängig von dem konkreten System vorsieht.
+ 9. Welche Anforderungen stellt die Bundesregierung an die
+Nachvollziehbarkeit, Begründbarkeit und Aktenmäßigkeit KI-gestützter
+Verwaltungsvorgänge, und welche Vorgaben gelten oder sind geplant, damit
+Betroffene in Verwaltungsverfahren erkennen können, ob und in welchem
+Umfang KI an einer Entscheidung mitgewirkt hat?
+Die Bundesregierung verlangt, dass KI‑gestützte Verwaltungsvorgänge
+nachvollziehbar, begründbar und aktenmäßig dokumentiert werden. Alle erzeugten 
+Ergebnisse müssen von Nutzerinnen und Nutzern fachlich geprüft und
+gegebenenfalls redaktionell überarbeitet werden. Dabei müssen die
+Transparenzpflichten nach Art. 50 KI‑VO beachtet werden.
+10. Welche Vorgaben gelten oder sind geplant, damit Betroffene in
+Widerspruchs-, Klage- oder sonstigen Rechtsschutzverfahren die KI-bezogenen 
+Entscheidungsgrundlagen überprüfen lassen können, und wie stellt die 
+Bundesregierung sicher, dass KI-gestützte Entscheidungen mit dem
+Untersuchungsgrundsatz, dem Anspruch auf rechtliches Gehör und der 
+Pflicht zur ermessensfehlerfreien Entscheidung vereinbar bleiben?
+Es gelten die hierfür in der Verwaltungsgerichtsordnung (VwGO) und im
+Verwaltungsverfahrensgesetz (VwVfG) vorgesehenen Regelungen.
+11. Welche Rolle spielen Datenschutz-Folgenabschätzungen, Grundrechte-
+Folgenabschätzungen, IT-Sicherheitsprüfungen und
+Wirtschaftlichkeitsuntersuchungen bei der Freigabe von KI-Systemen in der
+Bundesverwaltung, und welche Bundesbehörden haben seit Beginn der 21.
+Wahlperiode KI-Systeme für Verwaltungsverfahren pilotiert, beschafft oder in 
+den Regelbetrieb übernommen, und für welche konkreten
+Verfahrensschritte werden diese Systeme eingesetzt?
+Es werden die gesetzlichen Anforderungen bei der Freigabe von KI-Systemen 
+durch die Bundesverwaltung beachtet. Einen Überblick über die seit Beginn der 
+21. Wahlperiode pilotierten, beschafften oder in den Regelbetrieb
+übernommenen KI-Systeme bietet der Marktplatz der KI-Möglichkeiten (MaKI; https://ww
+w.kimarktplatz.bund.de/Webs/MaKI/DE/startseite/startseite-node.html).
+12. Welche KI-Systeme in der Bundesverwaltung unterstützen nach
+Kenntnis der Bundesregierung bereits die Sachverhaltsermittlung,
+Rechtsprüfung, Priorisierung von Vorgängen, Risikobewertung,
+Ermessensvorbereitung oder Bescheiderstellung?
+Es kann dem MaKI entnommen werden, welche KI-Systeme in der
+Bundesverwaltung nach Kenntnis der Bundesregierung bereits die
+Sachverhaltsermittlung, Rechtsprüfung, Priorisierung von Vorgängen, Risikobewertung,
+Ermessensvorbereitung oder Bescheiderstellung unterstützen.
+13. Welche internen oder externen Gutachten, Studien, Prüfvermerke, 
+Rechtsgutachten oder Beratungsergebnisse liegen der Bundesregierung 
+zu Grenzen KI-basierter Verwaltungsentscheidungen vor?
+14. Welche externen Dienstleister, Beratungsunternehmen,
+Forschungseinrichtungen oder sonstigen Dritten wurden seit Beginn der 21.
+Wahlperiode mit Arbeiten zu Kriterien, Risiken, Grenzen oder Governance 
+des KI-Einsatzes in der Bundesverwaltung beauftragt?
+15. Welche Haushaltsmittel wurden seit Beginn der 21. Wahlperiode für
+Governance, Prüfung, Evaluation, Beschaffung, Entwicklung oder
+Pilotierung von KI-Systemen in der Bundesverwaltung veranschlagt, gebunden 
+oder verausgabt?
+Die Fragen 13, 14 und 15 werden zusammen beantwortet.
+Die Antworten können der als „VS-Nur für den Dienstgebrauch“ eingestuften 
+Anlage 1* entnommen werden.
+Das verfassungsrechtlich verbürgte Frage- und Informationsrecht des
+Deutschen Bundestages
+gegenüber der Bundesregierung findet seine Grenzen in den gleichfalls
+Verfassungsrang genießenden schutzwürdigen Interessen des Staatswohls. Die
+Beantwortung der Fragen betrifft solche Informationen, die in besonders hohem
+Maße die Methoden und Fähigkeiten des Bundesnachrichtendienst (BND) im
+Bereich der Datenverarbeitung berühren. Eine weitgehende Offenlegung der
+angefragten Informationen birgt die Gefahr, dass Einzelheiten zur konkreten
+Methodik und gleichsam in hohem Maße schutzwürdigen technischen Fähigkeiten des 
+BND bekannt würden. Infolgedessen könnten sowohl staatliche als auch
+nichtstaatliche Akteure Rückschlüsse auf Vorgehensweisen und Fähigkeiten des 
+BND und seines Personals ziehen. Darauf aufbauende Aktivitäten anderer 
+Nachrichten- oder Geheimdienste gegen den BND könnten folgenschwere
+Einschränkungen der Datenverarbeitungsfähigkeiten des BND zur Folge haben, 
+womit letztlich der gesetzliche Auftrag des BND – die Sammlung und
+Auswertung von Informationen über das Ausland, die von außen- und
+sicherheitspolitischer Bedeutung für die Bundesrepublik Deutschland sind (§ 1 Abs. 2 BNDG) 
+– nicht mehr sachgerecht erfüllt werden könnte. Die wirksame und zugleich 
+rechtstaatlich eingehegte Auslandsaufklärung des BND sieht das
+Bundesverfassungsgericht jedoch als einen unverzichtbaren Beitrag zum Schutz von
+Rechtsgütern von überragendem verfassungsrechtlichen Gewicht an; namentlich der 
+verfassungsmäßigen Ordnung, den Bestand und die Sicherheit des Bundes oder 
+der Länder sowie für Leib, Leben und Freiheit (BVerfGE 154, 152 bis 312, 
+163). Sofern solche Informationen entfallen oder wesentlich zurückgehen
+sollten, wäre der Beitrag der Auslandsaufklärung zum Schutz der o. g. Rechtsgüter 
+gefährdet. Selbst eine VS-Einstufung und Hinterlegung der angefragten Infor-
+* Das Bundesministerium für Digitales und Staatsmodernisierung hat die Antwort als „VS-Nur für den Dienstgebrauch“ eingestuft. Die Antwort ist im
+Parlamentssekretariat des Deutschen Bundestages hinterlegt und kann dort von Berechtigten eingesehen werden.
+mationen in der Geheimschutzstelle des Deutschen Bundestages würde ihrer
+erheblichen Bedeutung für die Aufgabenerfüllung des BND nicht ausreichend 
+Rechnung tragen. Die angefragten Inhalte der Frage beschreiben zum Teil die 
+Fähigkeiten und Arbeitsweisen des BND so detailliert, dass eine Bekanntgabe 
+auch gegenüber einem begrenzten Kreis von Empfängern ihrem
+Schutzbedürfnis nicht Rechnung tragen kann. Hierunter fällt insbesondere auch die Frage, ob 
+der Einsatz oder die Entwicklung einer Technologie, die von
+nachrichtendienstlicher Bedeutung sein könnte, stattgefunden hat oder stattfindet. Bei einem
+Bekanntwerden der schutzbedürftigen Information wäre derzeit kein Ersatz durch 
+andere Instrumente der Datenverarbeitung möglich. Hieraus ergibt sich, dass 
+die erbetenen Informationen in ihrer Detailtiefe derart schutzbedürftige
+Geheimhaltungsinteressen berühren, dass das Staatswohl sowie das öffentliche
+Interesse an einem wirksamen Schutz der o. g. Rechtsgüter gegenüber dem
+parlamentarischen Informationsrecht in diesem besonderen Einzelfall wesentlich 
+überwiegen. Insofern muss ausnahmsweise das Fragerecht der Abgeordneten 
+gegenüber dem Geheimhaltungsinteresse der Bundesregierung zurückstehen. 
+Der BND ist deshalb nach sorgfältiger Abwägung dieser widerstreitenden
+Interessen zu der Auffassung gelangt, dass eine Beantwortung der Frage nicht
+erfolgen kann.
+Bezüglich der Fragen nach Beauftragung von externen Dienstleistern,
+Beratungsunternehmen, Forschungseinrichtungen oder sonstigen Dritten bzw. nach 
+der Höhe und Art der Haushaltsmittel für Governance, Prüfung, Evaluation, 
+Beschaffung, Entwicklung oder Pilotierung von KI-Systemen ist das
+Bundesamt für Verfassungsschutz (BfV) nach sorgfältiger Abwägung zur Auffassung 
+gelangt, dass die Fragen nicht beantwortet werden können. Gegenstand der
+Fragen sind solche Informationen, die in besonderem Maße das Staatswohl
+berühren und daher in einer zur Veröffentlichung vorgesehenen Fassung nicht
+behandelt werden können. Eine Bekanntgabe von diesbezüglichen Einzelheiten
+würde weitgehende Rückschlüsse auf technische Fähigkeiten und
+Aufklärungspotenziale des BfV ermöglichen. Der Erfolg zukünftiger Maßnahmen könnte
+gefährdet und damit die Erkenntnisgewinnung beeinträchtigt werden. Diese ist 
+zur Aufgabenerfüllung der Sicherheitsbehörden jedoch unerlässlich.
+Mit Auskünften zur Beauftragung von externen Dienstleistern,
+Beratungsunternehmen, Forschungseinrichtungen oder sonstigen Dritten bzw. zur Höhe und 
+Art der Haushaltsmittel für Governance, Prüfung, Evaluation, Beschaffung, 
+Entwicklung oder Pilotierung von KI-Systemen würde das BfV die
+nachrichtendienstlichen Vorgehensweisen – sowohl zur Informationsbeschaffung als 
+auch Auswertung und Datenhaltung – offenlegen oder Rückschlüsse darauf
+ermöglichen und damit die Arbeitsfähigkeit und Aufgabenerfüllung des BfV
+gefährden, weil (potentielle) Zielpersonen ihr Verhalten anpassen, technische
+Gegenmaßnamen ergreifen und so informationstechnische Maßnahmen im
+Bereich der Kommunikationsüberwachung dadurch erschweren oder gar vereiteln 
+könnten. Kenntnisse über eingesetzte Produkte würden Gegenmaßnahmen und 
+Abwehrmechanismen seitens fremder Mächte ermöglichen. Eine Preisgabe 
+solch sensibler Informationen würde sich auf die Aufgabenwahrnehmung im 
+Gefahrenabwehrbereich und die nachrichtendienstliche
+Informationsbeschaffung daher außerordentlich nachteilig auswirken. Eine VS-Einstufung und
+Weiterleitung der angefragten Informationen an die Geheimschutzstelle des
+Deutschen Bundestages kommt angesichts ihrer erheblichen Brisanz im Hinblick 
+auf die Bedeutung der technischen Aufklärung für die Aufgabenerfüllung des 
+BfV nicht in Betracht. Auch ein geringfügiges Risiko des Bekanntwerdens
+derart sensibler Informationen kann unter keinen Umständen hingenommen
+werden. Die angefragten Inhalte lassen Rückschlüsse auf die technischen
+Fähigkeiten des BfV in einem durch den Bezug auf bestimmte Produkte derart hohen 
+Detaillierungsgrad zu, dass eine Bekanntgabe auch gegenüber einem
+begrenzten Kreis von Empfängern ihrem Schutzbedürfnis nicht Rechnung tragen kann.
+Bei einem Bekanntwerden solch schutzbedürftiger Informationen könnte ein
+erfolgreicher Einsatz bestimmter Produkte durch das BfV ausgeschlossen
+werden. Ein adäquater Ersatz durch andere Instrumente wäre kaum möglich.
+Daraus folgt, dass die erbetenen Informationen derartig schutzbedürftige evidente 
+Geheimhaltungsinteressen berühren, dass auch das geringfügige Risiko eines 
+Bekanntwerdens aus Staatswohlgründen vermieden werden muss. In der
+Abwägung des parlamentarischen Informationsrechts der Abgeordneten einerseits 
+und der staatswohlbegründeten Geheimhaltungsinteressen andererseits muss 
+das parlamentarische Informationsrecht daher ausnahmsweise zurückstehen.
+16. Welche Rolle hat das BMDS bei der ressortübergreifenden Steuerung des 
+KI-Einsatzes in der Bundesverwaltung, und welche Weisungs-,
+Koordinierungs- oder Standardsetzungskompetenzen bestehen insoweit
+gegenüber anderen Ressorts?
+Das BMDS bündelt wichtige digitale Kompetenzen und Ressourcen, schafft 
+klare Verantwortlichkeiten und wird die IT des Bundes zentral steuern. Dies 
+gilt auch für den KI-Einsatz in der Bundesverwaltung. Umgesetzt wird dieser 
+Anspruch unter anderem durch den Deutschland-Stack, der Steuerung einer 
+zentralen KI-Plattform und den Zustimmungsvorbehalt.
+17. Welche Abstimmungen gab es seit Beginn der 21. Wahlperiode zwischen 
+dem BMDS, dem Bundesministerium des Innern, dem
+Bundesministerium der Finanzen, dem Bundesministerium der Justiz und für
+Verbraucherschutz, dem Bundesamt für Sicherheit in der Informationstechnik, 
+der Bundesbeauftragten für den Datenschutz und die
+Informationsfreiheit, dem Informationstechnikzentrum Bund, der DigitalService GmbH 
+des Bundes und weiteren Stellen zu Kriterien und Grenzen des KI-
+Einsatzes in Verwaltungsverfahren, plant die Bundesregierung eine
+Verwaltungsvorschrift, Leitlinie, Rechtsverordnung, technische Richtlinie oder 
+sonstige verbindliche Regelung zum Einsatz von KI in der
+Bundesverwaltung, und wenn ja, mit welchem Inhalt und in welchem Zeitplan?
+Die Leitlinien für den Einsatz von KI in der Bundesverwaltung wurden
+ressortübergreifend abgestimmt. Außerdem bestehen fortlaufende Abstimmungen mit 
+sämtlichen Ressorts sowie weiteren Dienstleitern des Bundes zu sämtlichen 
+Themen, darunter auch Grenzen und Kriterien des KI-Einsatzes. Es handelt 
+sich hierbei um übliche Regierungsarbeit ohne gesonderte Dokumentation.
+18. Wie bewertet die Bundesregierung das Risiko, dass unterschiedliche
+Ressorts oder Bundesbehörden ohne einheitliche Vorgaben unterschiedliche 
+Maßstäbe für KI-gestützte Verwaltungsentscheidungen anwenden?
+Es bestehen gesetzliche Vorgaben für KI-gestützte Verwaltungsentscheidungen, 
+sodass hierdurch ein einheitliches Maß gewährleistet wird.
+19. Welche messbaren Ziele hat die Bundesregierung für den KI-Einsatz in 
+der Bundesverwaltung festgelegt, insbesondere mit Blick auf
+Bearbeitungsdauer, Kosten, Personalentlastung, Fehlerquote,
+Rechtsbehelfsquote, Nutzerzufriedenheit und IT-Sicherheit?
+20. Welche Kriterien verwendet die Bundesregierung, um zu prüfen, ob der 
+KI-Einsatz in der Bundesverwaltung wirtschaftlicher ist als
+herkömmliche IT-Unterstützung oder organisatorische Prozessreform?
+Die Fragen 19 und 20 werden zusammen beantwortet.
+Der Koalitionsvertrag zwischen CDU, CSU und SPD der 21. Legislaturperiode 
+benennt verschiedene Ziele und Einsatzbereiche für Künstliche Intelligenz in 
+der Bundesverwaltung. Auch laut Modernisierungsagenda Bund soll „Nutzung 
+und Verbreitung von KI-Anwendungen in der gesamten Bundesverwaltung 
+weiter ausgebaut werden und auch anspruchsvollere Fachaufgaben
+unterstützen“. Weiter werden konkrete Maßnahmen mit entsprechenden Zielwerten
+aufgeführt. Die Hightech Agenda Deutschland hat Künstliche Intelligenz als eine 
+Schlüsseltechnologie identifiziert und ebenfalls verschiedene Ziele definiert. 
+§ 7 BHO findet auch beim Einsatz von KI Anwendung. Dementsprechend führt 
+die Bundesregierung sachgerechte Wirtschaftlichkeitsuntersuchungen durch.
+21. Welche Fehler-, Schadens- und Haftungsszenarien hat die
+Bundesregierung für KI-gestützte Verwaltungsentscheidungen geprüft?
+Bei KI-gestützten Verwaltungsentscheidungen handelt es sich stets um eine 
+Einzelfallentscheidung, bei welcher die Letztverantwortung beim Menschen 
+liegt. Daher gelten die bisher bekannten Fehler-, Schadens- und
+Haftungsszenarien weiterhin.
+22. Welche Melde-, Prüf- und Korrekturverfahren sind vorgesehen, wenn ein 
+KI-System in der Bundesverwaltung rechtswidrige, diskriminierende, 
+fehlerhafte oder nicht nachvollziehbare Ergebnisse erzeugt?
+Die entsprechenden Melde-, Prüf- und Korrekturverfahren richten sich nach der 
+KI‑VO i. V. m. dem KI-Marktüberwachungs-und-Innovationsförderungs-
+Gesetz (KI‑MIG) und werden von der Bundesnetzagentur (BNetzA) sowie den
+übrigen Marktüberwachungsbehörden und notifizierenden Behörden sowie
+weiteren Stellen wie der Bundesbeauftragten für den Datenschutz und die
+Informationsfreiheit (BfDI) und dem Bundesamt für Sicherheit in der
+Informationstechnik (BSI) umgesetzt bzw. kontrolliert.
+23. Warum hat die Bundesregierung in ihrer Antwort auf die Schriftliche 
+Frage 119 auf Bundesdrucksache 21/5846 keine konkreten Kriterien, 
+Grenzen oder Ausschlussbereiche benannt, obwohl ausdrücklich danach 
+gefragt wurde?
+Aus Sicht der Bundesregierung wurde mit dem Verweis auf bestehende
+gesetzliche Grundlagen diese Frage hinreichend beantwortet.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
