@@ -1,0 +1,130 @@
+Deutscher Bundestag Drucksache 21/7843
+21. Wahlperiode 04.09.2026
+Kleine Anfrage
+der Abgeordneten Ruben Rupp, Robin Jünger, Alexander Arpaschi, Sebastian 
+Maack, Tobias Ebenberger, Lars Haise, Edgar Naujok, Steffen Janich, 
+Prof. Dr. Michael Kaufmann, Micha Fehre, Beatrix von Storch, Ronald Gläser, 
+Peter Bohnhof, Thomas Ladzinski und der Fraktion der AfD
+Zum KI-gestützten Assistenzsystem zur Unterstützung und Beschleunigung von 
+Planungs- und Genehmigungsverfahren („SPARK“)
+Die Bundesregierung hat mit der KI-Software SPARK ein Assistenzsystem
+vorgestellt, das durch die Automatisierung von Teilaufgaben – wie dem
+Strukturieren von Unterlagen und der Vorformulierung von Bescheiden – Planungs- und 
+Genehmigungsverfahren auf allen Verwaltungsebenen beschleunigen soll. Erste 
+Module wurden im April 2026 als quelloffene Software veröffentlicht (vgl. 
+https://bmds.bund.de/themen/kuenstliche-intelligenz/ki-in-der-verwaltung/s
+park).
+Die Bundesregierung verfolgt mit dem Projekt „SPARK“ (Beschleunigung von 
+Planungs- und Genehmigungsverfahren durch KI) das Ziel, bürokratische
+Prozesse in der öffentlichen Verwaltung durch den Einsatz von KI-Modulen
+zeitlich zu straffen, ohne dass darunter die Qualität der assistierten Entscheidung 
+litte. Mitte Juni hat das Bundesministerium für Digitales und
+Staatsmodernisierung (BMDS) die KI-Lösung SPARK Workflow vollständig als quelloffene 
+Software bereitgestellt (vgl. https://bmds.bund.de/aktuelles/pressemitteilungen/
+detail/neue-ki-software-halbiert-genehmigungszeiten-bei-grossen-infrastrukturp
+rojekten). Das System soll in der Lage sein, Unterlagen zu strukturieren,
+einschlägige Gesetze zu ermitteln und Bescheidentwürfe vorzuformulieren. Erste 
+Pilotprojekte laufen in Hamburg (Wasserstoffkernnetz), Nordrhein-Westfalen 
+(Genehmigungen von Anträgen nach dem Bundesimmissionsschutz-Gesetz 
+(BImSchG-Verfahren) und beim Fernstraßen-Bundesamt (FBA). Der
+Bundesminister für Digitales und Staatsmodernisierung Dr. Karsten Wildberger gibt 
+sich überzeugt, dass mit dem Projekt SPARK „die moderne Verwaltung […] 
+schnell, transparent und nutzerzentriert“ funktionieren werde (ebenda).
+Große Infrastrukturprojekte sollen mit Hilfe der Software bereits nach der
+Hälfte der bisherigen Genehmigungszeiten aufgesetzt werden, zeigt sich das BMDS 
+zuversichtlich (vgl. www.heise.de/news/Projekt-Spark-KI-Tool-soll-Behoerde
+n-deut l ich-schnel le r -machen-11336188.html). SPARK soll Teil des 
+Deutschland-Stacks werden und den digitalen Wildwuchs in Bund, Ländern 
+und Kommunen beenden helfen (ebenda). Die KI-Software SPARK Workflow 
+kann von allen Behörden auf jeder föderalen Ebene benutzt werden, sie steht 
+auf der Plattform Open Code zum Download bereit (vgl. https://gitlab.opencod
+e.de/bmds/planungs-und-genehmigungsbeschleunigung/spark-workflow).
+Die Fragesteller begrüßen die Modernisierung der deutschen Verwaltung mit 
+digitalen Mitteln ausdrücklich. Aus ihrer Sicht ist jedoch angesichts der
+angespannten Haushaltslage und der unvermindert hohen bürokratischen Belastung 
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+der Bürger und Unternehmen eine kritische Evaluierung der bisherigen
+Entwicklungskosten sowie des tatsächlichen Nutzens der SPARK-Software
+geboten. Es muss sichergestellt werden, dass die Digitalisierung nicht lediglich zu 
+einer Verlagerung bürokratischer Aufwände in die IT-Systeme führt, sondern zu 
+einer realen Zeit- und Kostenersparnis im Sinne eines bleibenden Minus an
+Bürokratie.
+Wir fragen die Bundesregierung:
+ 1. Welche externen Dienstleister waren neben dem BMDS an der
+Konzeption, der Entwicklung und dem Testen der KI-Assistenz SPARK Workflow 
+beteiligt?
+Mit welchen Datenbeständen erfolgte das Training der Software?
+ 2. Welcher IT-Anbieter übernimmt das Verarbeiten und Speichern der Daten 
+im Betrieb der KI-Assistenz SPARK Workflow, und wo stehen dessen 
+Server?
+Wie erfolgte die Auswahl dieses IT-Anbieters?
+ 3. Greift die KI-Assistenz SPARK Workflow während des Betriebes über 
+Schnittstellen auf Large Language Models (LLM) proprietärer Anbieter 
+zurück?
+Wenn ja, auf welche(s) LLM?
+ 4. Wie hoch sind sich die bisher angelaufenen Kosten für die Entwicklung 
+der KI-Software SPARK Workflow seit Projektbeginn (bitte aufschlüsseln 
+nach Haushaltsjahren und Kostenstellen, insbesondere Personalkosten)?
+ 5. Welche weiteren finanziellen Mittel sind im laufenden sowie im
+kommenden Haushaltsjahr für die Weiterentwicklung und den Betrieb von SPARK 
+eingeplant?
+Über welchen Einzelplan erfolgt die Finanzierung von SPARK?
+ 6. Hat sich die Bundesregierung vor der Konzeption und Entwicklung des 
+KI-Assistenten SPARK Workflow mit Ländern über ihre Erfahrungen mit 
+vergleichbarer digitaler Unterstützung ausgetauscht, deren Verwaltung im 
+Gegensatz zur deutschen bereits weitgehend oder gar vollständig
+digitalisiert ist?
+Wenn ja, mit welchen Ergebnissen?
+ 7. In welchem Umfang konnten in den bisherigen Pilotprojekten
+Verfahrenslaufzeiten durch den Einsatz von SPARK verkürzt werden (bitte
+prozentuale Zeitersparnis pro abgeschlossenem Verfahren angeben)?
+Mit welcher Zeitersparnis für Bürger, Unternehmen und Verwaltung
+rechnet die Bundesregierung für den kommenden Regelbetrieb von SPARK 
+Workflow?
+ 8. Welche Ministerien und nachgeordnete Behörden nutzen SPARK
+Workflow derzeit im Pilotbetrieb und mit welchen ersten Ergebnissen (bitte
+föderal differenzieren)?
+ 9. Wie bewertet die Bundesregierung das Verhältnis zwischen den
+Entwicklungskosten von SPARK und der dadurch erzielten monetären Entlastung 
+der öffentlichen Verwaltung durch eingesparte Arbeitsstunden?
+10. Welche Kriterien legt die Bundesregierung an, um den Erfolg des KI-
+Assistenten SPARK Workflow im Praxisbetrieb in Bezug auf den
+angestrebten Bürokratieabbau objektiv zu messen?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+11. Kann die Bundesregierung bei der Nutzung der KI-Assistenz SPARK 
+Workflow eine digitale Souveränität garantieren, speziell hinsichtlich der 
+verarbeiteten und aufbereiteten Daten?
+Welche Abhängigkeiten bestehen gegebenenfalls bei der genutzten IT-
+Infrastruktur (etwa bei der Cloud-Speicherung, der Rechenleistung, bei 
+Lizenzen und Wartungsverträgen) gegenüber außereuropäischen IT-
+Unternehmen?
+12. An welcher Stelle des von SPARK Workflow begleiteten Planungs- und 
+Genehmigungsprozesses greift ein Sachbearbeiter routiniert ein?
+Welche Schritte im Planungs- und Genehmigungsprozess absolviert 
+SPARK Workflow autonom?
+13. Bestehen seitens der Bundesregierung Überlegungen, SPARK Workflow 
+bei unterstellten positiven Rückmeldungen aus der Verwaltungspraxis für 
+weitere, über Planungs- und Genehmigungsverfahren hinausgehende
+Verwaltungsbereiche zu adaptieren, und wenn ja, welche Bereiche kämen 
+hierfür nach Auffassung der Bundesregierung in Frage?
+14. Wie stellt die Bundesregierung sicher, dass die mit SPARK Workflow
+erstellten Bescheidentwürfe vor Gericht einer vollumfänglichen rechtlichen 
+Überprüfung standhalten, insbesondere im Hinblick auf die
+Begründungstiefe und Ermessensausübung?
+15. Lassen sich mit der KI-Assistenzsoftware SPARK im Bedarfsfall Daten 
+aus unterschiedlichen föderalen Registern identifizieren, heranziehen und 
+verarbeiten?
+Ist SPARK kompatibel mit den jeweiligen bestehenden Softwarelösungen 
+der Verwaltungen des Bundes, der Länder und der Kommunen (bitte
+ausführen)?
+Berlin, den 24. August 2026
+Dr. Alice Weidel, Tino Chrupalla und Fraktion
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.

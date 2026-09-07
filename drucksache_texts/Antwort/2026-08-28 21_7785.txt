@@ -1,0 +1,181 @@
+Deutscher Bundestag Drucksache 21/7785
+21. Wahlperiode 28.08.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Rocco Kever, Matthias Rentzsch, 
+Denis Pauli, weiterer Abgeordneter und der Fraktion der AfD 
+– Drucksache 21/7334 –
+Transparenz und Datenqualität im Transparenzportal der deutschen 
+Entwicklungszusammenarbeit
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Das Transparenzportal der Bundesregierung bildet entwicklungspolitische 
+Maßnahmen der Bundesrepublik Deutschland ab und stellt Informationen zu 
+Projekten, Finanzierungen, Durchführungsorganisationen sowie
+Mittelabflüssen bereit (vgl. www.transparenzportal.bund.de/de). Die dort veröffentlichten 
+Daten umfassen unter anderem IATI-Maßnahmen (IATI = International Aid 
+Transparency Initiative), Finanzierungsvolumen, Ausgabenstände sowie
+projektbezogene Basisinformationen (a. a. O.).
+ 1. Welche organisatorischen Einheiten innerhalb des Bundesministeriums 
+für wirtschaftliche Zusammenarbeit und Entwicklung sind jeweils für
+a) strategische Steuerung,
+b) technische Umsetzung,
+c) Datenmanagement und
+d) fachliche Weiterentwicklung
+des Transparenzportals zuständig (vgl. Vorbemerkung der Fragesteller)?
+Die Frage 1 a) bis d) werden zusammen beantwortet.
+Es wird auf die Antwort der Bundesregierung auf Frage 1 der Kleinen Anfrage 
+der Fraktion der AfD in Bundestagsdrucksache 21/4547 verwiesen.
+ 2. Welche externen Dienstleister, IT-Unternehmen oder sonstigen
+Auftragnehmer sind derzeit sowie seit Einführung des Transparenzportals mit 
+Entwicklung, Betrieb, Hosting, Wartung oder Datenaufbereitung
+beauftragt (vgl. Vorbemerkung der Fragesteller)?
+Es wird auf das Impressum des Transparenzportals verwiesen (www.transparen
+zportal.bund.de/de/impressum).
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für wirtschaftliche
+Zusammenarbeit und Entwicklung vom 28. August 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+ 3. Welche Gesamtkosten sind seit Einrichtung des Transparenzportals für 
+Entwicklung, Implementierung, Betrieb, Wartung, Weiterentwicklung 
+und Datenmanagement entstanden (vgl. Vorbemerkung der Fragesteller)?
+ 4. Wie verteilen sich diese Gesamtkosten (vgl. Frage 3) auf einmalige
+Einrichtungskosten, laufende Betriebskosten, Personalaufwand sowie
+externe IT-, Beratungs- und Entwicklungsleistungen (vgl. Vorbemerkung der 
+Fragesteller)?
+ 5. Welche jährlichen laufenden Betriebskosten entstehen derzeit für den
+Betrieb des Transparenzportals (vgl. Vorbemerkung der Fragesteller)?
+ 6. Welche einmaligen Investitionskosten sind im Zusammenhang mit der 
+Einführung des Transparenzportals angefallen (vgl. Vorbemerkung der 
+Fragesteller)?
+Die Fragen 3 bis 6 werden zusammen beantwortet.
+Gesamtkosten (Stand 30.07.2026): 421.787,83 Euro netto, davon:
+Einrichtungskosten: 167.031,79 Euro netto
+Betriebskosten: 153.656,04 Euro netto
+Weiterentwicklung: 101.100 Euro netto
+Jährliche Betriebskosten: 38.580 Euro netto
+Einmalige Investitionskosten: 167.031,79 Euro netto
+Im Rahmen der allgemeinen Aufgabenwahrnehmung wurden verschiedenste 
+Unterstützungsarbeiten erbracht, die nicht erfasst und finanziell nicht beziffert 
+werden können.
+ 7. Welche Datenquellen und Datenlieferanten speisen das
+Transparenzportal konkret, und welche Stellen sind jeweils für die Datenbereitstellung 
+verantwortlich (vgl. Vorbemerkung der Fragesteller)?
+Es wird auf den Bereich „Häufig gestellte Fragen“ des Transparenzportals
+verwiesen (www.transparenzportal.bund.de/de/faq).
+ 8. Nach welchen technischen, fachlichen und zeitlichen Standards erfolgt 
+die Datenübermittlung in das Transparenzportal (vgl. Vorbemerkung der 
+Fragesteller)?
+Die IATI-Meldung des BMZ wird im XML-Format veröffentlicht und über eine 
+Schnittstelle (API) automatisiert in das Transparenzportal eingelesen. Die
+fachlichen und zeitlichen Standards für die IATI-Meldung des BMZ basieren auf 
+den Vorgaben des Datenstandards der International Aid Transparency Initiative 
+(IATI, https://iatistandard.org/en/iati-standard/).
+ 9. In welchem Umfang erfolgt eine manuelle Nachbearbeitung,
+Plausibilisierung oder Validierung der automatisiert übermittelten Daten (vgl.
+Vorbemerkung der Fragesteller)?
+Nach der Veröffentlichung der IATI-Meldung wird der Datensatz automatisiert 
+in das Transparenzportal eingelesen. Nach der automatisierten Übermittlung 
+finden keine manuellen Nachbearbeitungen, Plausibilisierungen oder
+Validierungen der Daten statt.
+10. Welche Qualitätssicherungsmechanismen bestehen vor der
+Veröffentlichung von Daten im Transparenzportal (vgl. Vorbemerkung der
+Fragesteller)?
+Vor der Veröffentlichung werden die Daten gegenüber dem Regelwerk des IA-
+TI-Datenstandards (https://iatistandard.org/en/guidance/standard-overview/iati-
+reference/) qualitätsgesichert und plausibilisiert. Die formale Korrektheit der 
+Daten wird über den IATI Validator (https://iatistandard.org/en/iati-tools-and-re
+sources/iati-validator/) geprüft.
+11. In welchen zeitlichen Abständen werden die im Transparenzportal
+enthaltenen Daten aktualisiert, und welche typischen Verzögerungen
+bestehen zwischen Mittelabfluss und Veröffentlichung (vgl. Vorbemerkung 
+der Fragesteller)?
+Es wird auf den Bereich „Häufig gestellte Fragen“ des Transparenzportals
+verwiesen (www.transparenzportal.bund.de/de/faq).
+12. Wie erklärt die Bundesregierung Abweichungen zwischen bewilligtem 
+Finanzierungsvolumen und tatsächlich ausgewiesenen Ausgaben in
+einzelnen Projekten (vgl. Vorbemerkung der Fragesteller)?
+Auch beendete Vorhaben sind zum Zeitpunkt des Dateneintrags gegebenenfalls 
+noch nicht final abgerechnet. Daher können Abweichungen zwischen den zu 
+einem bestimmten Zeitpunkt im Transparenzportal ausgewiesenen Ausgaben 
+und dem ausgewiesenen Finanzierungsvolumen existieren. Auch nach der
+finalen Abrechnung können reale Ausgaben unterhalb der insgesamt zur Verfügung 
+gestellten Mittel liegen.
+13. Nach welchen Kriterien wird entschieden, ob Projekte vollständig,
+teilweise oder mit eingeschränkter Datentiefe im Transparenzportal
+dargestellt werden (vgl. Vorbemerkung der Fragesteller)?
+Es wird keine Unterscheidung zwischen Projekten hinsichtlich der Datentiefe 
+vorgenommen. Sämtliche Projekte werden nach einheitlichen Kriterien
+dargestellt. Ergänzend wird auf den Bereich „Häufig gestellte Fragen“ des
+Transparenzportals verwiesen (www.transparenzportal.bund.de/de/faq).
+14. Welche Maßnahmen werden ergriffen, um eine einheitliche und
+vergleichbare Darstellung von Projektdaten über unterschiedliche
+Durchführungsorganisationen hinweg sicherzustellen (vgl. Vorbemerkung der
+Fragesteller)?
+Die Vergleichbarkeit von Projektdaten über unterschiedlichen
+Durchführungsorganisationen hinweg wird durch die Verwendung derselben Kodierlisten
+sichergestellt. Dabei folgt die Bundesregierung dem internationalen IATI-
+Standard, insbesondere den dort verwendeten Kodierlisten, die sich an den ODA-/
+OECD-Vorgaben orientieren.
+15. Welche Gründe führen dazu, dass Ausgaben in einzelnen Fällen
+gebündelt oder zeitlich verzögert einzelnen Haushalts- oder Projektjahren
+zugeordnet werden (vgl. Vorbemerkung der Fragesteller)?
+Es wird auf den Bereich „Häufig gestellte Fragen“ des Transparenzportals
+verwiesen (www.transparenzportal.bund.de/de/faq). Ausgaben vor 2013 werden 
+als kumulierter Betrag ausgewiesen, da der Schwerpunkt des
+Transparenzportals auf dem Engagement des BMZ ab 2013 liegt.
+16. In welchem Umfang werden die im Transparenzportal veröffentlichten 
+Daten durch externe Stellen, insbesondere den Bundesrechnungshof,
+geprüft oder auditiert (vgl. Vorbemerkung der Fragesteller)?
+Mit der Veröffentlichung der IATI-Daten ist das BMZ eine freiwillige
+Verpflichtung für mehr Transparenz in der Entwicklungszusammenarbeit
+eingegangen. Ein externer Audit ist in diesem Rahmen nicht vorgesehen.
+Die International Aid Transparency Initiative sichert regelmäßig und mit
+verschiedenen Ansätzen die Qualität der nach dem Standard veröffentlichten
+Daten. Zu den Instrumenten der Initiative gehören u. a. der IATI Validator (https://
+iatistandard.org/en/iati-tools-and-resources/iati-validator/).
+17. Welche internen Kontroll- und Prüfmechanismen bestehen zur
+Sicherstellung der Richtigkeit, Vollständigkeit und Konsistenz der
+veröffentlichten Daten (vgl. Vorbemerkung der Fragesteller)?
+Es wird auf die Antwort zu Frage 10 verwiesen.
+18. Welche durchschnittlichen Kosten entstehen für die Erfassung,
+Aufbereitung und Veröffentlichung eines einzelnen Projektdatensatzes im
+Transparenzportal (vgl. Vorbemerkung der Fragesteller)?
+Die durchschnittlichen Kosten für die Erfassung eines einzelnen
+Projektdatensatzes sind nicht belastbar darstellbar, da der hierfür entstehende Aufwand 
+überwiegend als systembezogene Fix- und Gemeinkosten (IT-Infrastruktur, 
+Wartung, Schulung, Datenmanagement) anfällt.
+19. Welche Maßnahmen wurden seit Einführung des Portals ergriffen, um 
+Transparenz, Nutzerfreundlichkeit, technische Stabilität und
+Datenqualität zu verbessern (vgl. Vorbemerkung der Fragesteller)?
+Seit Einführung des Portals wurden insbesondere das Maßnahmendashboard 
+und der Filterbereich grundlegend überarbeitet sowie zusätzliche Angebote für 
+Nutzende mit Hilfestellungen zur Nutzung der Funktionen des Portals
+geschaffen. Dadurch wurden Transparenz, Nutzerfreundlichkeit und Datenqualität
+gezielt verbessert.
+Die Detailtiefe des Datensatzes wurde durch die Aufteilung von Auszahlungs- 
+und Ausgabendaten auf einzelne Jahre substantiell verbessert.
+20. Welche strategischen Ziele verfolgt die Bundesregierung mit dem
+Transparenzportal im Hinblick auf parlamentarische Kontrolle, öffentliche
+Rechenschaftslegung und internationale Berichtspflichten (vgl.
+Vorbemerkung der Fragesteller)?
+Das BMZ verfolgt mit der Veröffentlichung von Informationen auf dem
+Transparenzportal das Ziel, die öffentliche Rechenschaftslegung zu verbessern.
+Zudem kommt das BMZ damit seiner internationalen Selbstverpflichtung zur 
+Transparenz über die Verwendung öffentlicher Mittel nach.
+21. Welche Defizite bestehen nach Einschätzung der Bundesregierung
+derzeit bei Datenqualität, Aktualität, Vollständigkeit oder Vergleichbarkeit 
+der im Transparenzportal veröffentlichten Informationen (vgl.
+Vorbemerkung der Fragesteller)?
+Sofern das BMZ Defizite beim Transparenzportal erkennt oder
+nachvollziehbare Hinweise für eine Verbesserung der bestehenden Angebote erhält, werden 
+diese zeitnah bearbeitet.
+22. Welche konkreten Maßnahmen sind geplant, um Kostenstruktur,
+Datenqualität, Steuerung und Transparenz des Portals künftig weiter zu
+verbessern (vgl. Vorbemerkung der Fragesteller)?
+Entsprechend der Vorgaben der Bundeshaushaltsordnung setzt das BMZ alle 
+ihm anvertrauten Steuermittel sorgsam ein und achtet auf einen
+wirtschaftlichen und sparsamen Umgang mit Steuergeld. Dies gilt auch für die mit dem 
+Transparenzportal verbundenen Ausgaben. Im Übrigen wird auf die Antwort zu 
+Frage 19 verwiesen.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
