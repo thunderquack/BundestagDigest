@@ -1,0 +1,171 @@
+Deutscher Bundestag Drucksache 21/7920
+21. Wahlperiode 07.09.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Ruben Rupp, Robin Jünger, Alexander 
+Arpaschi, weiterer Abgeordneter und der Fraktion der AfD 
+– Drucksache 21/7709 –
+Digitale Informationsbeschaffung in der Grauzone – Umfang und 
+Rechtsgrundlagen des Datenkaufs durch Nachrichtendienste
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die fortschreitende Digitalisierung führt zur Entstehung gewaltiger Mengen 
+an personenbezogenen Daten, die von kommerziellen Datenhändlern (Data 
+Broker) systematisch erhoben, aggregiert und zum Verkauf angeboten werden. 
+Diese Datensätze umfassen häufig hochsensible Informationen wie detaillierte 
+Bewegungsprofile, Kommunikationsmetadaten, App-Nutzungsgewohnheiten 
+oder Konsuminteressen von Bürgern. Während der staatliche Zugriff auf
+solche Daten durch klassische Ermittlungsmaßnahmen wie die
+Telekommunikationsüberwachung an strenge gesetzliche Hürden und richterliche Vorbehalte 
+gebunden ist, hat sich mit dem kommerziellen Ankauf von Daten durch
+Sicherheitsbehörden ein neues, weitgehend unreguliertes Feld der
+Informationsbeschaffung etabliert.
+Anlass der vorliegenden Kleinen Anfrage sind aktuelle Berichte über eine
+systematische Aufrüstung der deutschen Nachrichtendienste durch den gezielten 
+Ankauf kommerziell verfügbarer Datensätze (https://netzpolitik.org/2026/aufr
+uestung-der-geheimdienste-innenministerium-laesst-datenkaeufe-in-der-grauz
+one/). Berichten zufolge lässt das Bundesministerium des Innern (BMI) den 
+Nachrichtendiensten des Bundes dabei erheblichen Spielraum, diese Daten in 
+einer rechtlichen „Grauzone“ zu beschaffen (https://netzpolitik.org/2026/aufru
+estung-der-geheimdienste-innenministerium-laesst-datenkaeufe-in-der-grauz
+one/). Kritiker und Datenschutzexperten weisen in diesem Zusammenhang
+darauf hin, dass durch den Zukauf von Broker-Daten die strengen
+verfassungsrechtlichen Schranken der klassischen Überwachungsgesetze faktisch
+umgangen werden könnten (https://netzpolitik.org/2026/aufruestung-der-geheimdien
+ste-innenministerium-laesst-datenkaeufe-in-der-grauzone/). Die
+Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) mahnte, dass 
+für den Ankauf von Daten aus kommerziellen Quellen eine spezifische und 
+hinreichend präzise gesetzliche Ermächtigungsgrundlage fehle (https://netzpol
+itik.org/2026/aufruestung-der-geheimdienste-innenministerium-laesst-datenka
+eufe-in-der-grauzone/). Wenn staatliche Stellen Informationen, die sie durch 
+eigene Überwachungsmaßnahmen nicht erheben dürften, einfach auf dem
+freien Markt erwerben, droht eine Aushöhlung des Schutzes der informationellen 
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern vom 4. September 2026 
+übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+Selbstbestimmung und des Fernmeldegeheimnisses gemäß Artikel 10 des 
+Grundgesetzes.
+Besonders kritisch ist zu bewerten, dass für diese Form der digitalen
+Informationsgewinnung bislang keine spezifische und hinreichend transparente 
+Rechtsgrundlage existiert. Während die technologischen Möglichkeiten der 
+Datenanalyse, insbesondere durch den Einsatz von künstlicher Intelligenz und 
+Big‑Data-Anwendungen, massiv ausgebaut werden, hinkt die rechtliche
+Einhegung und parlamentarische Kontrolle dieser Praktiken hinterher. Es besteht 
+die Gefahr, dass eine Schattenüberwachungsinfrastruktur entsteht, die sich der 
+öffentlichen Debatte und der gerichtlichen Überprüfung weitgehend entzieht.
+Vor diesem Hintergrund besteht ein erhebliches parlamentarisches
+Informationsbedürfnis darüber, in welchem Umfang die Nachrichtendienste des Bundes 
+bisher Daten von kommerziellen Anbietern erworben haben, welche
+Haushaltsmittel hierfür aufgewendet wurden und auf welcher konkreten rechtlichen 
+Basis diese Transaktionen erfolgen. Zudem gilt es zu klären, wie die
+Bundesregierung sicherstellt, dass beim Ankauf und der anschließenden Analyse
+dieser Massendaten die Grundrechte der Bürger gewahrt bleiben und ein
+Missbrauch dieser Informationen technisch wie organisatorisch ausgeschlossen ist.
+ 1. In welchem Umfang haben nach Kenntnis der Bundesregierung das
+Bundesamt für Verfassungsschutz (BfV), der Bundesnachrichtendienst 
+(BND) und der Militärische Abschirmdienst (MAD) in den Jahren 2024, 
+2025 und im ersten Halbjahr 2026 personenbezogene oder anonymisierte 
+Datensätze von kommerziellen Datenhändlern (Data Broker) erworben?
+ 2. Welche Gesamtsummen an Haushaltsmitteln wurden nach Kenntnis der 
+Bundesregierung in den genannten Zeiträumen für den Ankauf solcher 
+Daten aufgewendet (bitte nach Geheimdienst und Haushaltstiteln
+aufschlüsseln)?
+ 3. Welche Kategorien von Daten wurden nach Kenntnis der
+Bundesregierung konkret angekauft (z. B. Werbe-IDs, GPS-Bewegungsprofile, App-
+Nutzungsdaten, Browsing-Historien, Kreditkartendaten oder Social-
+Media-Interaktionen)?
+ 4. Nach welchen Kriterien erfolgt die Auswahl der kommerziellen
+Anbieter, und wie stellt die Bundesregierung sicher, dass diese Daten nicht aus 
+unrechtmäßigen Quellen stammen?
+ 5. Beziehen die Nachrichtendienste nach Kenntnis der Bundesregierung die 
+Daten direkt von den Herstellern oder über spezialisierte
+Zwischenhändler (Datenaggregatoren)?
+10. Welche technischen Systeme oder Softwarelösungen (z. B. KI-basierte 
+Big-Data-Analyseplattformen) nutzen nach Kenntnis der
+Bundesregierung die Nachrichtendienste, um die angekauften Massendatenbestände 
+zu prozessieren und auszuwerten?
+11. Werden die angekauften kommerziellen Daten mit internen behördlichen 
+Datenbanken verknüpft, um Personen gezielt zu identifizieren, deren
+Daten ursprünglich anonymisiert oder pseudonymisiert waren?
+12. Inwieweit setzt die Bundesregierung bei der Analyse dieser Daten Tools 
+externer, insbesondere außereuropäischer, Unternehmen ein, und wie 
+wird in diesem Kontext ein Abfluss von Erkenntnissen an ausländische 
+Dienste technisch unterbunden?
+Die Fragen 1 bis 5 und 10 bis 11 werden zusammen beantwortet.
+Gegenstand der Fragen sind Informationen, die in besonders hohem Maße das 
+Staatswohl berühren und daher selbst in eingestufter Form nicht beantwortet 
+werden können. Das verfassungsrechtlich verbürgte Frage- und
+Informationsrecht des Deutschen Bundestages gegenüber der Bundesregierung wird durch 
+gleichfalls Verfassungsrecht genießende schutzwürdige Interessen wie das 
+Staatswohl begrenzt.
+Eine Offenlegung der angefragten Informationen u. a. nach Umfang,
+Mitteleinsatz, Daten-Kategorien, technischen Systemen, Softwarelösungen oder
+möglichen Kooperationen birgt die Gefahr, dass Einzelheiten zur konkreten
+Methodik und Arbeitsweise, sowie zu im hohen Maße schutzwürdigen spezifischen 
+Fähigkeiten der Nachrichtendienste des Bundes sowie zu IT-Infrastrukturen
+bekannt würden. Neben der Preisgabe der generellen Nutzung entsprechender
+Angebote können insbesondere durch Informationen zur Auswahl und den
+genutzten Zeiträumen Rückschlüsse auf den Kenntnisstand der Nachrichtendienste
+sowie den aktuellen Bearbeitungsschwerpunkten gezogen werden. Zudem könnte 
+eine Beantwortung staatliche und nichtstaatliche Akteure dazu verleiten,
+entsprechende Unternehmen anzugreifen, um die jeweiligen Datenbestände im 
+eigenen Sinne zu manipulieren oder auszuforschen. Dies könnte folgenschwere 
+Einschränkungen der Informationsgewinnung zur Folge haben, womit letztlich 
+der gesetzliche Auftrag der Nachrichtendienste – die Sammlung und
+Auswertung von Informationen, die von außen- und sicherheitspolitischer Bedeutung 
+für die Bundesrepublik Deutschland sind – nicht mehr sachgerecht erfüllt
+werden könnte. Die Gewinnung von Informationen ist für die Sicherheit der
+Bundesrepublik Deutschland und für die Aufgabenerfüllung der Nachrichtendienste 
+des Bundes jedoch unerlässlich. Sofern solche Informationen entfallen oder 
+wesentlich zurückgehen sollten, würden empfindliche Informationslücken auch 
+im Hinblick auf die Sicherheitslage der Bundesrepublik Deutschland drohen.
+Selbst eine VS-Einstufung und Hinterlegung der angefragten Informationen in 
+der Geheimschutzstelle des Deutschen Bundestages würde ihrer erheblichen 
+Brisanz im Hinblick auf die Bedeutung für die Aufgabenerfüllung der
+Nachrichtendienste des Bundes nicht ausreichend Rechnung tragen. Die angefragten 
+Inhalte beschreiben die technischen Fähigkeiten und Arbeitsweisen so
+detailliert, dass eine Bekanntgabe auch gegenüber einem begrenzten Kreis von
+Empfängern ihrem Schutzbedürfnis nicht Rechnung tragen kann. Dies gilt umso 
+mehr, als sie Spezifika betreffen, deren technische Umsetzung nur in einem
+bestimmten Verfahren erfolgen kann. Bei einem Bekanntwerden der
+schutzbedürftigen Information wäre kein Ersatz durch andere Instrumente der
+Informationsgewinnung möglich.
+Aus dem Vorgesagten ergibt sich, dass die erbetenen Informationen derart 
+schutzbedürftige Geheimhaltungsinteressen berühren, dass das Staatswohl
+gegenüber dem parlamentarischen Informationsrecht wesentlich überwiegt.
+Insofern muss ausnahmsweise das Fragerecht der Abgeordneten gegenüber dem 
+Geheimhaltungsinteresse der Bundesregierung zurückstehen.
+Dabei ist der Umstand, dass die Antwort verweigert wird, weder als
+Bestätigung noch als Verneinung des angefragten Sachverhalts zu werten.
+ 6. Auf welcher konkreten Rechtsgrundlage basiert der kommerzielle
+Ankauf dieser Datensätze durch die Nachrichtendienste aktuell, solange 
+keine spezifische Ermächtigungsgrundlage im Nachrichtendienstgesetz 
+existiert?
+Aktuell wird, soweit ein Grundrechtseingriff vorliegt, der kommerzielle Ankauf 
+dieser Datensätze durch die Nachrichtendienste auf § 8 Absatz 1 Satz 1 Gesetz 
+über die Zusammenarbeit des Bundes und der Länder in Angelegenheiten des
+Verfassungsschutzes und über das Bundesamt für Verfassungsschutz 
+(BVerfSchG), §§ 1 Absatz 2 und 2 Absatz 1 Gesetz über den
+Bundesnachrichtendienst (BNDG) und § 4 Absatz 1 Gesetz über den Militärischen
+Abschirmdienst (MADG) gestützt.
+ 7. Wie nimmt die Bundesregierung zu der Kritik der Bundesbeauftragten 
+für den Datenschutz und die Informationsfreiheit (BfDI) Stellung,
+wonach der Ankauf kommerziell verfügbarer Datensätze ohne hinreichend 
+präzise Rechtsgrundlage das Risiko einer faktischen Umgehung der
+hohen Schutzstandards des G 10-Gesetzes birgt?
+Da der Anwendungsbereich des G10-Gesetzes nicht eröffnet ist, liegt keine 
+Umgehung des Gesetzes vor.
+ 8. Aus welchen Gründen sieht der aktuelle Entwurf zur Reform des
+Nachrichtendienstrechts keine explizite und hinreichend präzise
+Ermächtigungsgrundlage für den Erwerb von Daten von privaten Dritten vor?
+Der aktuelle Entwurf zur Reform des Nachrichtendienstrechts enthält in § 9 
+BVerfSchG-E, §§ 5 und 7 BNDG-E eine hinreichend präzise Befugnis zur
+Datenerhebung bei Dritten.
+ 9. Inwieweit plant die Bundesregierung, im weiteren
+Gesetzgebungsverfahren noch Nachbesserungen vorzunehmen, um den Ankauf kommerzieller 
+Daten einer wirksamen parlamentarischen und gerichtlichen Kontrolle zu 
+unterwerfen?
+Die Bundesregierung sieht keinen Bedarf für Nachbesserungen (vgl. Antwort 
+zu Frage 8).
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
