@@ -1,0 +1,309 @@
+Deutscher Bundestag Drucksache 21/7900 
+21. Wahlperiode 10.09.2026
+Unterrichtung 
+durch die Bundesregierung 
+Bericht zur Umsetzung der nach § 57 Absatz 1 Nummer 12 des 
+Personenbeförderungsgesetzes erlassenen Verordnung  
+Zugeleitet mit Schreiben des Bundesministeriums für Verkehr vom 10. September 2026 gemäß § 66 Absatz 1 des 
+Personenbeförderungsgesetzes. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Bericht zur Umsetzung  
+der nach § 57 Absatz 1  
+Nummer 12 des  
+Personenbeförderungsgesetzes 
+(PBefG) erlassenen  
+Verordnung 
+mit Beiträgen von 
+PD – Berater der öffentlichen Hand GmbH 
+Referat F5 Vernetzte Mobilität 
+Bundesanstalt für Straßen- und Verkehrswesen) 
+Drucksache 21/7900 Deutscher Bundestag – 21. Wahlperiode– 2 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Inhalt 
+1 Einleitung ____________________________________ 4 
+2 Bericht ______________________________________ 5 
+2.1 Anzahl der Dienstleistungsangebote, die sich nach der Bereitstellung von 
+Mobilitätsdaten entwickelt haben oder sich in der Entwicklung befinden _________ 5 
+2.2 Vollständigkeit und Zugänglichkeit der nach § 3a bereitzustellenden Daten _______ 6 
+2.3 Marktbarrieren im Hinblick auf die Weiterverwendungsmöglichkeit von Daten nach 
+§ 3b und Vorschläge hinsichtlich der Verbesserung der Nutzung von Daten _______ 9
+2.4 Abkürzungen _________________________________________________________ 10 
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/7900– 3 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+4 BASt / Bericht gemäß § 66 Abs. 1 PBefG 
+1 Einleitung 
+Grundlage des Beitrags ist die Berichtspflicht nach § 66 Abs 1. PBefG zur
+Umsetzung der nach § 57 Abs. 1 Nr. 12 PBefG erlassenen Mobilitätsdatenverordnung 
+(MDV).  
+Basierend auf der Novellierung des Personenbeförderungsgesetzes (PBefG) aus 
+dem Jahr 2021 besteht in Deutschland eine Datenbereitstellungspflicht (§§ 3a bis 
+3c, § 57 PBefG)1 für die nach der Mobilitätsdatenverordnung (MDV) definierten 
+Daten. Dies betrifft vorhandene Daten im Zusammenhang mit der Beförderung 
+von Personen im Linienverkehr und im Gelegenheitsverkehr sowie vorhandene 
+Daten zu den Zugangsknoten und deren Infrastruktur im Linien- und
+Gelegenheitsverkehr.2  
+1 https://www.gesetze-im-internet.de/pbefg/  
+2 https://www.gesetze-im-internet.de/mdv/anlage.html  
+Drucksache 21/7900 Deutscher Bundestag – 21. Wahlperiode– 4 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+5 BASt / Bericht gemäß § 66 Abs. 1 PBefG 
+2 Bericht 
+2.1 Anzahl der Dienstleistungsangebote, die sich nach der 
+Bereitstellung von Mobilitätsdaten entwickelt haben oder 
+sich in der Entwicklung befinden 
+Für die Zwecke dieses Berichts werden Dienstleistungsangebote im Folgenden
+bezogen auf ein konkretes Angebot an Endnutzer bzw. Anwendungsnutzer in
+Abgrenzung zu Forschungs- und Demonstrator-Vorhaben betrachtet. Weiterhin sind 
+nur solche Dienstleistungsangebote inbegriffen, welche explizit auf die über den 
+Nationalen Zugangspunkt (NAP) bereitzustellenden Pflichtdaten beruhen und 
+nach der Novellierung von 2021 entstanden sind. Nach § 3a PBefG sind
+Unternehmer und Vermittler verpflichtet, ihre Daten über den Nationalen Zugangspunkt 
+nach dem Intelligente-Verkehrssysteme-Gesetz vom 15. Mai 2026 (BGBl. 2026 I 
+Nr. 148) bereitzustellen. Der Nationale Zugangspunkt ist eine zentrale digitale 
+Schnittstelle für den Zugang zu Daten. In Deutschland nimmt die Mobilithek3 des 
+BMV die Aufgaben des NAP wahr.  
+Eine ausführliche Recherche am Markt und in der Literatur hat keine
+nennenswerte Zahl von Dienstleistungsangeboten ergeben, die seit der Novellierung des 
+PBefG 2021 entstanden oder in Entwicklung sind, und im Wesentlichen auf nach 
+der MDV verpflichtend bereitgestellten Daten beruhen.  
+Das bedeutet nicht, dass in der Mobilithek keine Daten zur Verfügung stehen oder 
+dass diese Daten nicht genutzt werden. Es bestehen Projekte, die die nach der 
+MDV bereitgestellten Daten nutzen. Diese sind aber entweder bereits vor der
+Novellierung entstanden (bspw. Projekt SATURN4) oder explorieren das Potenzial 
+ohne ein eindeutiges Angebot zu verstetigen (DB-Hackathon „Anschluss
+erreichen“5). Bei Angeboten, die ÖPNV-Daten nutzen (wie dem multimodalen Router 
+Motis der Triptix GmbH), ist nicht eindeutig nachvollziehbar, inwieweit direkt
+Daten aus der Mobilithek genutzt werden, da die ÖPNV-Daten neben der
+Bereitstellung über die Mobilithek auch – bundesweit gebündelt vom DELFI e. V. oder
+regional von verschiedenen Akteuren insbesondere Verkehrsverbünden –auf deren 
+Plattformen bereitgestellt werden. Das Datenangebot des DELFI e. V. ging der 
+PBefG Novelle zeitlich voraus.  
+Zwar sind einzelne Dienstleistungsangebote zu identifizieren, die nach der
+Novellierung des PBefG 2021 entstanden sind (ohne direkte Kausalität zum Gesetz
+feststellen zu können). Es handelt sich dabei aber entweder um kleinere regionale
+Angebote und/oder ihr Mehrwert wird im Wesentlichen erst durch die Verknüpfung 
+von weiteren, nicht durch die MDV regulierte Daten geschaffen, wie z.B.
+Parkplatzdaten oder Daten von Sharing-Unternehmen.  
+3 https://mobilithek.info 
+4 https://mobilithek.info/blog/forschungsprojekt-saturn  
+5 https://data.deutschebahn.com/opendata/Veranstaltungen/Anschluss-erreichen-Hackathon-13704734  
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/7900– 5 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+6 BASt / Bericht gemäß § 66 Abs. 1 PBefG 
+Aus quantitativer Sicht können somit keine neu entstandene und kausal
+zurechenbare, breit verfügbare Dienstleistungsangebote durch die Novellierung des PBefG 
+festgestellt werden. Dies wird zum Teil daran liegen, dass die im gesetzlichen
+Auftrag genannte „umfassende Bereitstellung“ von Mobilitätsdaten suggeriert, dass 
+Daten flächendeckend oder alle benötigten Daten in den betrachteten
+geografischen Räumen zur Verfügung stehen sollten. Dies konnte jedoch nicht
+vollumfänglich erreicht werden, da die Datenbereitstellungspflicht gemäß PBefG nicht
+zeitgleich auch mit einer Erhebungs- und Digitalisierungsverpflichtung verknüpft 
+wurde. 
+2.2 Vollständigkeit und Zugänglichkeit der nach § 3a 
+bereitzustellenden Daten 
+Einleitend muss klargestellt werden, dass das PBefG keine Verpflichtung zur
+Digitalisierung von Informationen beinhaltet. Bei Unternehmen und Vermittlern
+vorliegende analoge Informationen müssen aufgrund des PBefG nicht in
+maschinenlesbare, digitale Formate gebracht werden und fallen damit auch nicht unter die 
+Datenbereitstellungsverpflichtung.  
+Ebenso ist bei der Betrachtung zu berücksichtigen, dass die Verpflichtung zur
+Datenlieferung nach § 3a (1) Pkt. 3 PBefG nicht für Einzelunternehmen gilt.  
+Daten im Zusammenhang mit der Beförderung von Personen im Linienverkehr 
+Die Daten zu Angeboten im liniengebundenen öffentlichen Verkehr werden in 
+Deutschland durch den DELFI e. V. von den Dateninhabern eingesammelt und in 
+deutschlandweiten Datensätzen über die Mobilithek zur Verfügung gestellt. Die 
+geografische Abdeckung hierbei ist nahezu vollständig. Allerdings sind nicht alle 
+im PBefG genannten Datenarten vollständig enthalten.  
+Zentraler Datensatz sind das Haltestellenverzeichnis6 und die deutschlandweiten 
+Fahrplansolldaten7 zu den Verkehrsmitteln Bahn (Fernverkehr), Bahn
+(Regionalverkehr, S-Bahn), U-Bahn, Stadtbahn, Straßenbahn, Bus, Fernbus, O-Bus sowie 
+Schiffsverkehr. Diese umfassen Informationen zu  
+• Betriebskalender
+• Umsteigepunkte
+• Netztopologien, Routen und Linien
+• Betreiber
+• Statische Fahrpläne
+• Betriebszeiten
+• Fahrzeugdetails, Ausstattung
+Datenlücken existieren in Bezug auf die Kontaktdaten der jeweiligen Anbieter. 
+Diese sind in den Datensätzen nicht vollständig enthalten, um das Datenvolumen 
+6 https://mobilithek.info/offers/631185048592105472  
+7 https://mobilithek.info/offers/552567007080263680  
+Drucksache 21/7900 Deutscher Bundestag – 21. Wahlperiode– 6 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+7 BASt / Bericht gemäß § 66 Abs. 1 PBefG 
+der ohnehin sehr umfangreichen Daten nicht unnötig zu vergrößern. Diese Daten 
+sind grundsätzlich verfügbar und über Betreiber-IDs zuzuordnen. Sollen alle
+Kontaktinformationen in den Datensätzen enthalten sein, sind Anpassungen der
+technischen Systeme, die diese Daten liefern, erforderlich. Allerdings ist fraglich, ob 
+dieser Aufwand gerechtfertigt ist, da diese Informationen für die
+Reiseauskunftsdienste nicht unbedingt erforderlich sind. 
+Ebenfalls Defizite gibt es bei den Daten über Preise und Tarifstrukturen sowie
+Buchungs- und Bezahlmöglichkeiten. Diese Informationen sind in den DELFI-Daten 
+derzeit noch nicht enthalten und auch nicht anderweitig über die Mobilithek
+verfügbar. Ein Grund ist das Fehlen europaweit vereinheitlichter Datenmodelle für 
+diese Art von Daten. Derzeit läuft ein europäisches Projekt European Fare
+Information Profile (EFIP) zur Erarbeitung eines entsprechenden Standards. Mit einer 
+Veröffentlichung ist in 2027 zu rechnen. Danach kann mit einer steigenden
+Verfügbarkeit derartiger Informationen gerechnet werden. 
+Auch Informationen zur Barrierefreiheit und zum Umweltstandard der
+eingesetzten Fahrzeuge sind heute nur vereinzelt verfügbar. Der Datenstandard NeTEx
+erlaubt die Weitergabe solcher Informationen. Allerdings liegen solche
+Informationen bei den Datenlieferanten verbreitet noch nicht in digitalisierter Form vor und 
+fallen somit nicht unter die Bereitstellungsverpflichtung. Für die Verbesserung der 
+Datenbereitstellung müssten größere Anpassungen an den datenliefernden
+Systemen der Verkehrsbetriebe vorgenommen werden. Die mangelnde Finanzierung 
+solcher Anpassungen wird oft als Argument angeführt, warum diese Daten nicht 
+verfügbar gemacht werden.  
+Bei den Informationen zu aktuellen Verspätungen und Ausfällen hat es in den 
+letzten Jahren deutliche Fortschritte gegeben. Auch wenn sicherlich noch nicht 
+von einer 100 %igen Verfügbarkeit ausgegangen werden darf, werden alle
+verfügbaren Daten von den Verkehrsunternehmen bzw. Landessystemen standardisiert 
+an DELFI weitergegeben und sind auf der Mobilithek verfügbar.  
+Informationen zur Auslastung von Fahrzeugen können technisch weitergegeben 
+werden. Allerdings werden solche Daten nur von einigen Unternehmen erhoben 
+und zur Verfügung gestellt. Die Abdeckung in den Datensätzen ist daher gering.  
+Daten zu Bahnhöfen, Haltestellen und andere Zugangsknoten liegen im
+Haltestellenverzeichnis von DELFI auf der Mobilithek vor. Informationen zu deren
+Barrierefreiheit und Ausstattungsmerkmalen, insb. dem Betriebsstatus, sind allerdings 
+nicht deutschlandweit über die Mobilithek verfügbar. Es gibt lediglich einzelne
+Angebote, z.B. für Baden-Württemberg8 und Bremen/Niedersachsen9, oder aus
+Forschungsprojekten10, allerdings liegen solche Daten in unterschiedlichen, nicht
+harmonisierten Datenformat vor. 
+8 https://mobilithek.info/offers/-7950436594240060646 
+9 https://mobilithek.info/offers/814888419202080768 
+10 https://mobilithek.info/offers/754670881017339904 
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/7900– 7 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+8 BASt / Bericht gemäß § 66 Abs. 1 PBefG 
+Daten im Zusammenhang mit der Beförderung von Personen im
+Gelegenheitsverkehr 
+In Deutschland gab es laut den aktuellsten Zahlen des Statistischen Bundesamtes 
+(DESTATIS) vom Jahr 2024 18.876 Taxibetriebe. Für dieses Jahr liegen allerdings 
+keine Informationen über die Verteilung der Betriebe auf die unterschiedlichen 
+Rechtsformen vor. Für die Jahre bis 2020 existieren diese Zahlen. In 2019 gab es 
+24.095 Taxibetriebe, davon entfielen 20.602 auf Einzelunternehmen, was einem 
+Anteil von 85,5 % entspricht. In 2020 waren es 20.878 Betriebe, davon 17.734 
+bzw. 84,9 % Einzelunternehmen11. Unter der Annahme eines konstanten Anteils 
+an Eigenunternehmen von 85 % kann für den aktuellen Stand von ca. 2.700
+Taxibetrieben, die nach PBefG § 3a zur Datenlieferung verpflichtet sind, ausgegangen 
+werden.  
+Im Mietwagensektor ist die Entwicklung noch dynamischer und die Verfügbarkeit 
+von belastbaren Zahlen schwierig. Laut DESTATIS gab es 2024 im Bereich der
+Personenbeförderung im Nahverkehr zu Lande (ohne Taxis) 2.462 Unternehmen. Der 
+Anteil an Einzelunternehmen lag in den Jahren 2019/2020 bei 53 %, so dass im 
+Mietwagensektor mit aktuell ca. 1.150 datenlieferpflichtigen Unternehmen zu 
+rechnen ist.  
+Insgesamt führt dies zu ca. 3.850 Unternehmen, die Daten zu
+Personenbeförderung im Gelegenheitsverkehr an die Mobilithek liefern müssen. 
+Die Situation hinsichtlich der Datenverfügbarkeit auf der Mobilithek stellt sich
+aktuell (Juni 2026) folgendermaßen dar: es existieren ca. 510 Datenangebote mit
+Bezug zu Anbietern von Gelegenheitsverkehr. Davon werden 255 von
+Erfüllungsgehilfen bereitgestellt, der Rest von Betreibern von Taxi- oder
+Mietwagenunternehmen direkt.  
+Jeder Taxi-/Mietwagenbetrieb muss zwei Datenangebote auf der Mobilithek
+bereitstellen. Zum einen sind dies die statischen Informationen zum Unternehmen 
+selbst sowie u.a. zum Bediengebiet, den Preisen und der Fahrzeugflotte. Zum
+anderen sind dynamische Daten zu liefern, aus denen die aktuelle georeferenzierte 
+Verfügbarkeit von Fahrzeugen hervorgeht. Unter Berücksichtigung der 510 auf der 
+Mobilithek zu findender Datenangebote kann somit von einer Zahl von Daten
+liefernden Betrieben von 255 ausgegangen werden. Damit und der oben
+dargestellten Gesamtzahl an datenlieferpflichtigen Unternehmen liegt der Anteil an
+Unternehmen, die ihrer Datenlieferpflicht nachkommen bei ca. 6,6 %. Selbst große
+Anbieter/Vermittler von Taxi- und Mietwagendienstleistungen liefern keine Daten. 
+Z. B. gab der Anbieter Freenow im Oktober 2024 an, dass er in Deutschland mehr 
+als 20.000 Taxi vermittelt, deren Echtzeit-Verfügbarkeitsdaten damit vorhanden 
+und über die Anbieter-App abrufbar sein sollten.12 Diese Daten sollten nach PBefG 
+auch über die Mobilithek verfügbar gemacht werden, was derzeit nicht der Fall ist. 
+11 https://genesis.destatis.de/datenbank/online/statistic/47415/table/47415-0006/  
+12 https://www.free-now.com/de/presse/freenow-erreicht-gewinnzone/  
+Drucksache 21/7900 Deutscher Bundestag – 21. Wahlperiode– 8 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+9 BASt / Bericht gemäß § 66 Abs. 1 PBefG 
+2.3 Marktbarrieren im Hinblick auf die
+Weiterverwendungsmöglichkeit von Daten nach § 3b und Vorschläge 
+hinsichtlich der Verbesserung der Nutzung von Daten 
+Eine tiefgehende Diskussion über die intendierte und eingetretene Wirkung der 
+§§ 3a bis 3c PBefG hat im Rahmen der umfangreichen Stakeholderbeteiligung zum
+geplanten Mobilitätsdatengesetzes (MDG) bereits stattgefunden, die das
+Bundesministerium für Digitales und Verkehr (BMDV) zwischen September 2022 und Juni
+2023 durchgeführt hat. Im Gesetzesentwurf des Mobilitätsdatengesetzes heißt es:
+„Der Stakeholderprozess hat themen- und verkehrsübergreifend vier wesentliche
+Handlungsfelder aufgezeigt: erstens bessere Durchsetzung der bestehenden
+Pflichten zur Datenbereitstellung, zweitens die Sicherstellung der Datenqualität
+und Interoperabilität der Daten, drittens einfache Zugänglichkeit der Daten und
+viertens Rechtsklarheit für alle Beteiligten.“13 Damit griff der Gesetzentwurf des
+MDG die neuralgischen Probleme der Nicht-Bereitstellung von Mobilitätsdaten
+auf Grundlage des PBefG auf. Auch die für die Weiterverwendung in
+Endkundendiensten als hinderlich empfundenen Einschränkungen der Datennutzung in § 3b
+wurden im MDG berücksichtigt. Der Entwurf zum MDG ist im Frühjahr 2025
+infolge der Diskontinuität verfallen.
+Wesentliche Bestandteile des MDG Gesetzesentwurfs wurden in die Novelle des 
+Intelligente-Verkehrssysteme-Gesetz (IVSG) aufgenommen. Die Erkenntnisse aus 
+dem Stakeholder-Beteiligungsprozess führten zum gesetzgeberischen Handeln in 
+Bezug auf die Datenverfügbarkeit. Das Gesetz zur Neuregelung des
+Rechtsrahmens für intelligente Verkehrssysteme im Straßenverkehr und deren
+Schnittstellen zu anderen Verkehrsträgern und die Datenbereitstellung über den Nationalen 
+Zugangspunkt wurde am 26.03.2026 vom Deutschen Bundestag in zweiter und 
+dritter Lesung beschlossen. Es ist am 21.5.2026 in Kraft getreten. Damit tritt die 
+MDV mit Ablauf des 30. November 2028 außer Kraft und im PBefG werden zum 
+01.12.2028 die Paragrafen § 1 Absatz 3, § 2 Absatz 1b und die §§ 3a bis 3c
+gestrichen.14  
+Im Gesetzgebungsverfahren zum IVS-Gesetz wurden bereits Stellungnahmen von 
+Branchenvertretern, Verbänden und Sachverständigen berücksichtigt.
+Insbesondere die Problematiken der Datenverfügbarkeit und -qualität werden durch das 
+IVSG adressiert. Wesentlich in diesem Zusammenhang ist die Übertragung
+zahlreicher Aufgaben an die Nationale Stelle gemäß § 9 IVSG, die bei der BASt
+angesiedelt ist. Dies wird schrittweise zur Verbesserung der Datenverfügbarkeit und -
+qualität beitragen, sobald diese Stelle mit den notwendigen Ressourcen ausgestattet 
+ist. Die Aufgaben umfassen u.a. die Identifizierung und Ansprache von
+Dateninhabern (Erstansprache, auch bei der Identifizierung von Fehlern), die Beratung von 
+Dateninhabern zu den Vorgaben der Datenbereitstellung, die Ausarbeitung und 
+Veröffentlichung von Leitlinien für die Datenbereitstellung, regelmäßige
+stichprobenartige Überprüfung der Quantität und Qualität der bereitgestellten Daten aber 
+13 BT-Drucksache 20/13954: https://dserver.bundestag.de/btd/20/139/2013954.pdf 
+14 https://www.recht.bund.de/bgbl/1/2026/148/VO  
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/7900– 9 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+10 BASt / Bericht gemäß § 66 Abs. 1 PBefG 
+auch das regelmäßige Durchführen von Analysen zur Datennutzung und die
+Ansprache der Datennutzer. 
+Während des Gesetzgebungsprozesses zum IVSG wurde die Option einer
+Sanktionierungsmöglichkeit bei Nicht-Befolgung der Datenbereitstellungspflicht geprüft. 
+Regelungen zur Sanktionierung sind im novellierten IVSG zunächst nicht
+enthalten, jedoch soll die Nationale Stelle Dateninhaber bzw. Datennutzer ansprechen, 
+soweit eine Nichterfüllung von Pflichten nach dem IVSG festgestellt wird. „Zu
+etwaigen unbeabsichtigten Nebenfolgen und Vollzugsproblemen, insbesondere in 
+Bezug auf die Erforderlichkeit von Sanktionsvorschriften bei Nichteinhaltung der 
+Vorgaben dieses Gesetzes“15 ist in dem fünf Jahre nach Inkrafttreten zu
+erstellenden Evaluierungsbericht zu berichten.  
+2.4 Abkürzungen 
+DELFI Durchgängige elektronische Fahrgastinformation 
+IVSG Intelligente-Verkehrssysteme-Gesetz 
+MDV Mobilitätsdatenverordnung 
+NAP Nationaler Zugangspunkt für Mobilitätsdaten (National Access Point) 
+ÖPNV Öffentlicher Personennahverkehr 
+PBefG Personenbeförderungsgesetz 
+15 § 15 Abs. 2, 7 IVSG. 
+Drucksache 21/7900 Deutscher Bundestag – 21. Wahlperiode– 10 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
