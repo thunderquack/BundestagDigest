@@ -1,0 +1,191 @@
+Deutscher Bundestag Drucksache 21/7988
+21. Wahlperiode 10.09.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Ruben Rupp, Robin Jünger, Alexander 
+Arpaschi, weiterer Abgeordneter und der Fraktion der AfD 
+– Drucksache 21/7607 –
+Bundesweiter Funkausfall bei der Deutschen Bahn – Ursachen, Auswirkungen 
+und Konsequenzen für die digitale Bahninfrastruktur
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Der zuverlässige Betrieb der Eisenbahninfrastruktur ist für die Mobilität der 
+Bürger, die Funktionsfähigkeit des Wirtschaftsstandortes Deutschland sowie 
+die Resilienz kritischer Infrastrukturen von erheblicher Bedeutung. Dies gilt 
+insbesondere für die Kommunikations- und Leitsysteme des
+Schienenverkehrs, ohne die ein sicherer und geordneter Bahnbetrieb nicht gewährleistet 
+werden kann. Der digitale Zugfunk GSM-R dient dabei der Kommunikation 
+zwischen Triebfahrzeugführern, Betriebszentralen, Stellwerken und Leitstellen 
+und stellt eine zentrale technische Grundlage für den laufenden Bahnbetrieb 
+dar.
+In der Nacht vom 23. auf den 24. Juni 2026 kam es zu einer bundesweiten 
+Störung des digitalen Bahnfunks Global System for Mobile Communications 
+– Railway (GSM-R). Infolge der Störung wurden Züge aus
+Sicherheitsgründen zeitweise an Bahnhöfen zurückgehalten, wodurch es zu erheblichen
+Einschränkungen im Regional- und Fernverkehr kam. Nach Angaben der
+Deutschen Bahn wurde die Ursache später auf planmäßige Instandhaltungsarbeiten 
+an einer Kernkomponente des GSM-R-Systems zurückgeführt (www.deutsche
+bahn.com/de/presse/Newsblog-12829716). Beim Tausch einer
+Netzwerkverteilkomponente sei ein singulärer Softwarefehler aufgetreten, der keine
+Fehlermeldung ausgelöst habe (www.tagesschau.de/inland/was-zur-bahn-stoerun
+g-bekannt-ist-100.html). Dadurch sei die vorhandene Redundanz des Systems 
+nicht automatisch aktiviert worden, erst nach Ausschluss eines Cyberangriffs 
+sei nach rund 90 Minuten manuell auf die Rückfallebene umgeschaltet worden 
+(www.tagesschau.de/inland/was-zur-bahn-stoerung-bekannt-ist-100.html).
+Der Vorfall wirft grundlegende Fragen zur technischen Robustheit,
+Überwachung und Ausfallsicherheit zentraler Bahninfrastruktur auf. Von besonderer 
+Bedeutung ist dabei, warum ein planmäßiger Komponententausch in einem
+redundanten System zu einer bundesweiten Störung führen konnte, weshalb die 
+automatische Umschaltung auf ein funktionsfähiges Ersatzsystem nicht griff 
+und welche technischen, organisatorischen oder prozessualen Schwachstellen 
+hierbei erkennbar wurden. Ebenso stellt sich die Frage, ob Wartungsarbeiten 
+an kritischen Kommunikationssystemen der Bahn ausreichend risikobewertet, 
+getestet und überwacht werden.
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Verkehr vom 
+9. September 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+Der Ausfall des digitalen Zugfunks zeigt die Abhängigkeit des
+Schienenverkehrs von funktionierenden digitalen Kommunikationssystemen. Vor dem 
+Hintergrund der geplanten weiteren Digitalisierung des Bahnbetriebs,
+insbesondere durch digitale Stellwerke, ETCS (European Train Control System) 
+und weitere vernetzte Leit- und Sicherungstechnik, kommt der Resilienz
+solcher Systeme eine wachsende Bedeutung zu. Störungen, Softwarefehler,
+fehlgeschlagene Redundanzmechanismen oder unzureichend getestete
+Wartungsprozesse können erhebliche Auswirkungen auf den Bahnbetrieb, die
+Pünktlichkeit, die Sicherheit und das Vertrauen der Fahrgäste haben. Gleichzeitig ist 
+zu berücksichtigen, dass die Deutsche Bahn und ihre
+Infrastrukturgesellschaften eine zentrale Rolle beim Betrieb kritischer Verkehrsinfrastruktur
+einnehmen und in erheblichem Umfang aus öffentlichen Mitteln finanziert werden. 
+Daraus ergibt sich ein parlamentarisches Informationsbedürfnis darüber, 
+welche technischen und organisatorischen Ursachen der GSM‑R-Störung
+zugrunde lagen, welche Auswirkungen der Vorfall auf Fahrgäste und den
+Bahnverkehr hatte, welche Maßnahmen zur Vermeidung vergleichbarer Störungen 
+ergriffen wurden und ob die bestehenden Vorgaben für Wartung, Redundanz, 
+IT-Sicherheit und Störfallmanagement bei der digitalen Bahninfrastruktur
+ausreichend sind.
+ 1. Welche Erkenntnisse liegen der Bundesregierung zum bundesweiten 
+Ausfall bzw. zur bundesweiten Störung des digitalen Zugfunks GSM‑R 
+bei der Deutschen Bahn in der Nacht vom 23. auf den 24. Juni 2026 vor?
+ 2. Welche technischen Systeme, Komponenten oder Netzbereiche des 
+GSM‑R-Systems waren nach Kenntnis der Bundesregierung konkret von 
+der Störung betroffen?
+ 3. Trifft es nach Kenntnis der Bundesregierung zu, dass die Störung im
+Zusammenhang mit planmäßigen Instandhaltungsarbeiten bzw. dem
+Austausch einer Netzwerkverteilkomponente stand, und wenn ja, welche 
+konkreten Wartungs-, Austausch- oder Konfigurationsarbeiten wurden 
+durchgeführt?
+ 4. Welche Rolle spielte nach Kenntnis der Bundesregierung der von der 
+Deutschen Bahn genannte „singuläre Softwarefehler“, und warum führte 
+dieser Fehler weder zu einer automatischen Fehlermeldung noch zu einer 
+automatischen Aktivierung der vorgesehenen Redundanz?
+ 5. Welche technischen, organisatorischen oder prozessualen
+Voraussetzungen müssen im GSM‑R-System normalerweise erfüllt sein, damit eine 
+automatische Umschaltung auf eine redundante Systemkomponente oder 
+Rückfallebene erfolgt?
+ 6. Warum konnte die Umschaltung auf die Rückfallebene nach Kenntnis 
+der Bundesregierung erst manuell und erst nach rund 90 Minuten
+erfolgen?
+ 7. Welche Monitoring-, Alarmierungs- und Echtzeitdiagnosesysteme
+werden nach Kenntnis der Bundesregierung im GSM‑R-Betrieb eingesetzt, 
+um Softwarefehler, Fehlkonfigurationen, Netzstörungen oder
+ausgefallene Redundanzmechanismen frühzeitig zu erkennen?
+ 8. Welche Vorgaben bestehen nach Kenntnis der Bundesregierung für
+planmäßige Wartungsarbeiten an zentralen Komponenten des digitalen
+Zugfunks GSM‑R, insbesondere hinsichtlich Risikoanalyse, Testbetrieb, 
+Rückfallkonzepten, Vier-Augen-Prinzip, Freigabeprozessen und
+Echtzeitüberwachung, und wurden diese Vorgaben im vorliegenden Fall
+vollständig eingehalten?
+ 9. Welche Prüfungen wurden nach Kenntnis der Bundesregierung während 
+der Störung durchgeführt, um einen Cyberangriff, Sabotage,
+Manipulation, Fehlkonfigurationen oder unbefugte Zugriffe auszuschließen, und 
+welche Rolle spielten hierbei das Bundesamt für Sicherheit in der
+Informationstechnik, das Eisenbahn-Bundesamt, die Bundespolizei oder
+andere Sicherheitsbehörden?
+10. Wurde der Vorfall als Störung einer kritischen Infrastruktur bzw. als IT-
+Sicherheitsvorfall eingestuft, und wenn ja, nach welcher
+Rechtsgrundlage, und mit welcher Risikobewertung?
+12. Inwieweit war nach Kenntnis der Bundesregierung während der GSM‑R-
+Störung die Notfallkommunikation zwischen Triebfahrzeugführern,
+Betriebszentralen, Stellwerken und Leitstellen beeinträchtigt, insbesondere 
+mit Blick auf die Möglichkeit, Notrufe abzusetzen?
+16. Welche Maßnahmen hat die Deutsche Bahn nach Kenntnis der
+Bundesregierung unmittelbar nach dem Vorfall ergriffen, um eine Wiederholung 
+eines vergleichbaren Ausfalls zu verhindern?
+20. Welche strukturellen Maßnahmen plant die Bundesregierung, um die IT-
+Resilienz, Ausfallsicherheit, Redundanz, Echtzeitüberwachung und das 
+Störfallmanagement digitaler Kommunikationssysteme im
+Schienenverkehr zu verbessern?
+Die Fragen 1 bis 10, 12, 16 und 20 werden aufgrund ihres Sachzusammenhangs 
+gemeinsam beantwortet.
+Nach sorgfältiger Abwägung ist die Bundesregierung zu der Auffassung
+gelangt, dass die Beantwortung der oben genannten Fragen nicht öffentlich
+erfolgen kann. Die Verkehrsinfrastruktur stellt einen wichtigen Baustein der
+Resilienzfähigkeit der Bundesrepublik Deutschland im Krisen- und Katastrophenfall 
+dar. In Anbetracht der sich in den letzten Jahren sowohl global als auch in 
+Deutschland zunehmend verschärfenden Sicherheitslage würde durch die
+Veröffentlichung der Daten ein Sicherheitsrisiko entstehen, weil dadurch gezielte 
+Sabotagen und Angriffe auf diese Infrastrukturen ermöglicht würden. Der 
+Deutsche Bundestag hat am 28. Januar 2026 in einem Entschließungsantrag auf 
+Bundestagsdrucksache 21/3906 verschärfte Transparenzregeln zum Schutz
+Kritischer Infrastrukturen von der Bundesregierung eingefordert. Der Beschluss 
+fordert einen zeitgemäßen Umgang mit bestehenden Transparenz- und
+Informationspflichten.
+Infolge einer Abwägung der Informationsrechte des Deutschen Bundestages 
+mit den Belangen des Staatswohls der Bundesrepublik Deutschland sind die
+erbetenen Informationen als „VS-VERTRAULICH“ geheimhaltungsbedürftig 
+eingestuft und in der Geheimschutzstelle des Deutschen Bundestages
+hinterlegt.
+11. Wie viele Züge, Fahrgäste, Streckenabschnitte, Stellwerke und
+Betriebszentralen waren nach Kenntnis der Bundesregierung unmittelbar oder 
+mittelbar von der Störung betroffen?
+Nach Angaben der Deutschen Bahn AG (DB AG) wurde der Zugverkehr
+bundesweit eingestellt. Es waren 2.586 Züge betroffen (Stand 29. Juni 2026).
+Angaben zur Anzahl der Fahrgäste liegen der Bundesregierung nicht vor.
+13. Welche vergleichbaren Störungen des GSM‑R-Systems oder anderer
+zentraler digitaler Kommunikations- und Leitsysteme der Deutschen Bahn 
+gab es in den letzten fünf Jahren?
+Nach Auskunft der DB AG gab es in den letzten fünf Jahren keine
+vergleichbaren Störungen. Die betroffene zentrale Systemkomponente war noch nie Teil 
+eines Ausfalls des GSM-R Systems.
+14. Welche Erkenntnisse liegen der Bundesregierung über wiederkehrende 
+Schwachstellen, veraltete Komponenten, Softwareprobleme, fehlende 
+Redundanzen oder mangelnde Interoperabilität im GSM‑R-System der 
+Deutschen Bahn vor?
+Das GSM-R System entspricht den anerkannten Regeln der Technik für
+Bahnanwendungen und es sind keine grundsätzlichen Schwachstellen des GSM-R 
+Systems bekannt. Das System wird fortlaufend erneuert und die Resilienz
+weiter erhöht.
+15. Wie bewertet die Bundesregierung die technische Zukunftsfähigkeit des 
+mehr als 20 Jahre alten und auf dem Mobilfunkstandard 2G basierenden 
+GSM‑R-Systems, insbesondere im Hinblick auf begrenzte
+Netzressourcen, Ersatzteilverfügbarkeit, Wartbarkeit, Cybersicherheit,
+Ausfallsicherheit und die Abhängigkeit des Bahnbetriebs von einem veralteten
+Kommunikationsstandard?
+Die GSM-R Technik ist eine bewährte digitale Funktechnik für den
+Eisenbahnbetrieb in Europa. Die Lösung wird fortlaufend aktualisiert, und sobald die 
+Nachfolgetechnik FRMCS verfügbar ist, wird die Migration gestartet.
+17. Welche Rolle spielen nach Kenntnis der Bundesregierung externe 
+Dienstleister, Hersteller oder Softwareanbieter beim Betrieb, bei der 
+Wartung und bei der Weiterentwicklung des GSM‑R-Systems, und
+inwieweit bestehen Abhängigkeiten von einzelnen Herstellern,
+proprietären Softwarekomponenten oder nicht kurzfristig ersetzbaren
+Systemlieferanten?
+Die eingesetzten Komponenten und SW-Lösungen kommen von Herstellern 
+aus dem Kommunikationsmarkt.
+18. Welche Konsequenzen zieht die Bundesregierung aus dem Vorfall für die 
+weitere Digitalisierung der Bahninfrastruktur, insbesondere mit Blick auf 
+digitale Stellwerke, ETCS, FRMCS (Future Railway Mobile
+Communication System) und andere vernetzte Leit- und Sicherungssysteme?
+Der Vorfall ist im spezifischen technischen und betrieblichen Kontext des 
+GSM-R-Systems zu betrachten und lässt keine unmittelbaren Rückschlüsse auf 
+die weitere Digitalisierung der Bahninfrastruktur oder andere digitale Leit- und 
+Sicherungssysteme zu.
+19. Inwieweit bestehen nach Kenntnis der Bundesregierung bei der
+Umstellung von GSM‑R auf künftige digitale Bahnkommunikationssysteme
+Risiken durch Übergangsarchitekturen, Schnittstellen, Altsysteme, fehlende 
+Interoperabilität oder parallele Systemlandschaften?
+Nach aktuellem Kenntnisstand sind keine Risiken bekannt, die über die
+marktüblichen Migrationsrisiken bei technologischen Weiterentwicklungen
+hinausgehen. Die Migration wird bahnbetrieblich und technisch begleitet.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
