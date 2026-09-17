@@ -42,8 +42,6 @@ der rechtsstaatlichen Kontrollmechanismen. Da ein Großteil der Verfahren
 automatisiert abläuft, bleibt für die parlamentarische Kontrolle weitgehend
 intransparent, welche Behörden in welchem Maße von diesem Instrument
 Gebrauch machen, wie hoch der Anteil rein zivilrechtlicher Auskunftsbegehren im 
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Vergleich zur Strafverfolgung ist und wie effektiv die Protokollierung sowie 
 Missbrauchskontrolle bei einer derart hohen Taktung der Zugriffe technisch
 gewährleistet werden kann. Vor diesem Hintergrund besteht ein erhebliches
@@ -69,35 +67,35 @@ technischen Einschränkungen bei der Bundesnetzagentur oder den
 angeschlossenen Provider-Datenbanken (bitte unter Angabe von Datum, Dauer 
 und technischer Ursache auflisten)?
  5. Wie hoch stellt sich das prozentuale Verhältnis zwischen
-vollautomatisierten Abrufen und manuellen/halbautomatischen Auskunftsersuchen, die 
-über die Systeme der BNetzA im Jahr 2025 elektronisch abgewickelt
+vollautomatisierten Abrufen und manuellen bzw. halbautomatischen Auskunftsersuchen, 
+die über die Systeme der BNetzA im Jahr 2025 elektronisch abgewickelt 
 wurden, datentechnisch dar?
  6. Über welche konkreten technischen Schnittstellen, Übertragungswege und 
 Protokolle wird der Abruf der Bestandsdaten zwischen den abfragenden 
 Stellen, der Bundesnetzagentur und den Telekommunikationsanbietern im 
 Detail realisiert?
  7. Auf welchen technischen Standards basiert das automatisierte
-Abrufsystem der BNetzA und in welchen standardisierten Datenformaten werden 
+Abrufsystem der BNetzA, und in welchen standardisierten Datenformaten werden 
 die Bestandsdatensätze übermittelt?
  8. Welche datentechnischen Suchkriterien und Suchmasken (z. B. exakte
-Namensübereinstimmung, phonetische Suche, Platzhalter/Wildcards oder
-unvollständige Rufnummern) sind im automatisierten Abrufsystem der 
-BNetzA technisch implementiert?
+Namensübereinstimmung, phonetische Suche, Platzhalter bzw. Wildcards 
+oder unvollständige Rufnummern) sind im automatisierten Abrufsystem 
+der BNetzA technisch implementiert?
  9. Wie viele der im Jahr 2025 registrierten automatisierten Abfragen betrafen 
 die Identifizierung von Anschlussinhabern hinter dynamischen oder
 statischen IP-Adressen?
 10. Wie hoch ist der datentechnisch erfasste Anteil der IP-Abfragen, die rein 
 repressiv (Strafverfolgung) im Vergleich zu zivilrechtlichen
-Auskunftsansprüchen (z. B. zur Durchsetzung von Urheberrechten gemäß § 101 UrhG) 
-über die Schnittstellen durchgeführt wurden?
-11. Welche Bundessicherheitsbehörden und Bundesministerien (z. B. BKA, 
-Bundespolizei, Zoll, Bundesamt für Verfassungsschutz, BND, MAD)
-verfügen über eine direkte, automatisierte Softwareschnittstelle zum
-Abrufsystem der BNetzA und wie oft haben diese im Jahr 2025 Gebrauch von
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-der Schnittstelle gemacht (bitte nach Behörde, Abrufhäufigkeit und
-genutzter Client-Software aufschlüsseln)?
+Auskunftsansprüchen (z. B. zur Durchsetzung von Urheberrechten gemäß § 101 des 
+Urheberrechtsgesetzes (UrhG)) über die Schnittstellen durchgeführt
+wurden?
+11. Welche Bundessicherheitsbehörden und Bundesministerien (z. B.
+Bundeskriminalamt (BKA), Bundespolizei, Zoll, Bundesamt für
+Verfassungsschutz, Bundesnachrichtendienst (BND), Militärischer Abschirmdienst 
+(MAD)) verfügen über eine direkte, automatisierte Softwareschnittstelle 
+zum Abrufsystem der BNetzA, und wie oft haben diese im Jahr 2025
+Gebrauch von der Schnittstelle gemacht (bitte nach Behörde,
+Abrufhäufigkeit und genutzter Client-Software aufschlüsseln)?
 12. Welche geschätzten IT-Investitions- und Betriebskosten entstanden dem 
 Bund in den Jahren 2024 und 2025 für die Wartung, Modernisierung und 
 den IT-Sicherheitsbetrieb der behördeneigenen Abruf-Clients?
@@ -117,15 +115,16 @@ Benachrichtigung der betroffenen Bürger angestoßen oder datentechnisch erfasst
 Sicherheits- und Strafverfolgungsbehörden (wie z. B. Rundfunkanstalten, 
 kommunale Ordnungsämter, Baubehörden oder Hauptzollämter) verfügen 
 über eine eigene gesetzliche Zugriffsberechtigung auf die
-Bestandsdatenbanken der BNetzA und wie oft haben diese im Jahr 2025 Daten abgefragt 
-(bitte einzeln auflisten)?
+Bestandsdatenbanken der BNetzA, und wie oft haben diese im Jahr 2025 Daten
+abgefragt (bitte einzeln auflisten)?
 18. In wie vielen Fällen im Jahr 2025 wurde eine Bestandsdatenauskunft zur 
 Identifizierung von Internetnutzern im Zusammenhang mit dem Vorwurf 
-von „Äußerungsdelikten“ (insbesondere Beleidigung gemäß § 185 StGB, 
-Beleidigung von Personen des politischen Lebens gemäß § 188 StGB oder 
-Volksverhetzung gemäß § 130 StGB) durchgeführt und wie rechtfertigt 
-die Bundesregierung die Aufhebung der digitalen Anonymität bei solchen 
-Delikten im Hinblick auf das Übermaßverbot?
+von „Äußerungsdelikten“ (insbesondere Beleidigung gemäß § 185 des 
+Strafgesetzbuches (StGB), Beleidigung von Personen des politischen
+Lebens gemäß § 188 StGB oder Volksverhetzung gemäß § 130 StGB)
+durchgeführt, und wie rechtfertigt die Bundesregierung die Aufhebung der
+digitalen Anonymität bei solchen Delikten im Hinblick auf das
+Übermaßverbot?
 19. Gibt es statistische Erfassungen oder Schätzungen der Bundesregierung 
 darüber, in wie vielen Fällen im Jahr 2025 unbescholtene Bürger
 fälschlicherweise ins Visier von Ermittlungsmaßnahmen gerieten, weil die vom 
@@ -133,10 +132,6 @@ Provider übermittelten IP-Adressen-Zuordnungen unrichtig oder
 fehlerhaft waren?
 Berlin, den 3. September 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.

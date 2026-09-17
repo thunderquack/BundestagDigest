@@ -2,9 +2,9 @@ Deutscher Bundestag Drucksache 21/7844
 21. Wahlperiode 04.09.2026
 Kleine Anfrage
 der Abgeordneten Ruben Rupp, Robin Jünger, Alexander Arpaschi, Sebastian 
-Maack, Tobias Ebenberger, Lars Haise, Edgar Naujok, Steffen Janich, 
-Prof. Dr. Michael Kaufmann, Micha Fehre, Beatrix von Storch, Thomas Ladzinski, 
-Ronald Gläser, Peter Bohnhof und der Fraktion der AfD
+Maack, Tobias Ebenberger, Lars Haise, Edgar Naujok, Steffen Janich, Dr. Michael 
+Kaufmann, Micha Fehre, Beatrix von Storch, Thomas Ladzinski, Ronald Gläser, 
+Peter Bohnhof und der Fraktion der AfD
 Zu existenzbedrohenden Cyberangriffen auf deutsche Unternehmen
 Die Bedrohungslage für die deutsche Wirtschaft, speziell den Mittelstand, 
 durch Cyberangriffe hat offenbar eine neue existenzbedrohende Qualität
@@ -15,15 +15,15 @@ Wochen vollständig lahmgelegt hatte (vgl. www.t-online.de/finanzen/aktuelles/wi
 tschaft/id_101335202/insolvenz-textil-firma-aus-deutschland-wegen-eines-cyb
 erangriff-insolvent.html). Dieser Fall ist beileibe kein Einzelfall; auch der
 Mittelständler Fasana, ein Serviettenhersteller aus Euskirchen, geriet infolge
-massiver Hackerattacken in eine schwere finanzielle Schieflage (ebenda).
+massiver Hackerattacken in eine schwere finanzielle Schieflage (ebd.).
 Laut den Daten des Branchenverbands Bitkom von 2024 sind acht von zehn 
 Unternehmen in Deutschland von Cyberangriffen betroffen, wobei der jährliche 
 Gesamtschaden für die deutsche Wirtschaft auf rund 267 Mrd. Euro geschätzt 
 wird (vgl. www.bitkom.org/sites/main/files/2024-08/240828-bitkom-charts-wir
 tschaftsschutz-cybercrime.pdf). Besonders Ransomware-Attacken und DDoS-
-Angriffe führen immer häufiger zu langwierigen Betriebsausfällen, die gerade 
-für den kapitalgebundenen Mittelstand oft nur schwer zu kompensieren sind 
-(ebenda).
+Angriffe (DDoS = Distributed Denial-of-Service ) führen immer häufiger zu 
+langwierigen Betriebsausfällen, die gerade für den kapitalgebundenen
+Mittelstand oft nur schwer zu kompensieren sind (ebd.).
 Aus Sicht der Fragesteller ist es von großer Bedeutung, ob in Ergänzung der 
 unternehmensinternen Mechanismen der IT-Sicherheit staatliche
 Schutzmechanismen zur Unterstützung angeboten werden, um das Rückgrat der deutschen 
@@ -35,19 +35,16 @@ zunehmend vernetzten und damit verwundbaren digitalen Wirtschaftswelt.
 Wir fragen die Bundesregierung:
  1. Wie viele Cyberangriffe auf Unternehmen in Deutschland sind der
 Bundesregierung beziehungsweise den zuständigen Behörden (etwa dem
-Bundesamt für Sicherheit in der Informationstechnik (BSI) und dem
-Bundeskriminalamt (BKA)) seit 2022 zur Kenntnis gelangt (bitte nach Jahren und 
+Bundesamt für Sicherheit in der Informationstechnik [BSI] und dem
+Bundeskriminalamt [BKA]) seit 2022 zur Kenntnis gelangt (bitte nach Jahren und 
 Unternehmensgröße aufschlüsseln)?
  2. Werden im Nationalen Cyber-Abwehrzentrum (vgl. www.bsi.bund.de/DE/
 Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Reaktio
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 n/Nationales-IT-Lagezentrum/Nationales-Cyber-Abwehrzentrum/national
 es-cyber-abwehrzentrum_node.html) versuchte und im Sinne des
 Angreifers erfolgreiche Cyberattacken auf deutsche Unternehmen seit 2022
-dokumentiert und evaluiert?
-Wenn ja, mit welchen Ergebnissen und welchen Konsequenzen?
-Wenn nein, warum nicht?
+dokumentiert und evaluiert, wenn ja, mit welchen Ergebnissen und welchen 
+Konsequenzen, und wenn nein, warum nicht?
  3. Mit welchen Maßnahmen zum Schutz durch Aufklärung und Prävention 
 tritt das BSI seit 2022 an Unternehmen heran, um deren bestehende
 Aktivitäten zur Cybersicherheit zu prüfen, zu bewerten und gegebenenfalls zu 
@@ -90,18 +87,16 @@ Ransomware vor (bitte ausführen)?
 Start-ups und KMU zur Härtung ihrer IT-Infrastruktur, und wenn ja, wie 
 hoch waren die Abrufquoten dieser Mittel seit 2022?
 13. Plant die Bundesregierung steuerliche Anreize oder
-Sonderabschreibungsmöglichkeiten für Investitionen von Unternehmen in die Cyber-Resilienz, 
+Sonderabschreibungsmöglichkeiten für Investitionen von Unternehmen in die Cyberresilienz, 
 um die wirtschaftliche Belastung durch notwendige IT-Aufrüstungen
 abzufedern (bitte ausführen)?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 14. Sieht die Bundesregierung die Notwendigkeit, eine zentrale Meldestelle 
 für Cyberangriffe zu schaffen, die über die reine Statistik hinaus eine 
-Soforthilfe-Koordination für Unternehmen, die keine Kritischen
+Soforthilfe-Koordination für Unternehmen, die keine kritischen
 Infrastrukturen betreiben, leistet (bitte begründen)?
 15. Liegen der Bundesregierung Erkenntnisse über konkrete Muster vor, nach 
 denen Cyberkriminelle gegen Unternehmen vorgehen, differenziert etwa 
-nach Branchen, Unternehmensgröße, langer Lieferketten und Umsatz 
+nach Branchen, Unternehmensgröße, langen Lieferketten und Umsatz 
 (bitte ausführen)?
 16. Kann die Bundesregierung Angaben zu möglichen Motiven hinter den
 dokumentierten Cyberattacken machen, und in wie vielen Fällen führten die 
@@ -114,12 +109,8 @@ vor (bitte ausführen)?
 Einsatz von Künstlicher Intelligenz (KI) Cyberattacken auf deutsche
 Unternehmen seit 2022 an Quantität und Qualität zugenommen haben (bitte 
 ausführen)?
-Berlin, den 24. August .2026
+Berlin, den 24. August 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.

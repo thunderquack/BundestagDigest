@@ -5,13 +5,13 @@ der Abgeordneten Ruben Rupp, Robin Jünger, Alexander Arpaschi, Sebastian
 Maack, Tobias Ebenberger, Lars Haise, Edgar Naujok, Steffen Janich, Dr. Michael 
 Kaufmann, Thomas Ladzinski und der Fraktion der AfD
 Effiziente Strafverfolgung im digitalen Raum – Technische Methoden und digitale 
-Analyseverfahren des BKA gegen Kinderpornografie
+Analyseverfahren des Bundeskriminalamts gegen Kinderpornografie
 Die Bekämpfung der Verbreitung von Darstellungen sexualisierter Gewalt 
-gegen Kinder (oftmals als Child Sexual Abuse Material – CSAM bezeichnet) 
+gegen Kinder (oftmals als Child Sexual Abuse Material (CSAM) bezeichnet) 
 und des sexuellen Missbrauchs von Kindern zählt zu den dringlichsten
 Aufgaben der deutschen Strafverfolgungsbehörden. Die fortschreitende
-Digitalisierung und die zunehmende Nutzung verschlüsselter Messenger-Dienste, globaler 
-Cloud-Speicher sowie international agierender Plattformen führen dazu, dass 
+Digitalisierung und die zunehmende Nutzung verschlüsselter Messengerdienste, globaler 
+Cloudspeicher sowie international agierender Plattformen führen dazu, dass 
 Komplexität und Umfang entsprechender Ermittlungsverfahren in den
 vergangenen Jahren massiv zugenommen haben. Gleichzeitig stehen Ermittler vor der 
 Herausforderung, stetig anwachsende und hochgradig datenintensive
@@ -20,7 +20,7 @@ Die Dimension des Problems wird durch die offiziellen Zahlen des
 Bundeskriminalamts (BKA) verdeutlicht. Laut dem Bundeslagebild „Sexualdelikte zum 
 Nachteil von Kindern und Jugendlichen 2024“ verbleiben die registrierten 
 Straftaten des sexuellen Kindesmissbrauchs mit 16 354 Fällen auf einem hohen 
-Niveau über dem Fünf-Jahres-Durchschnitt, dabei wurden 18 085 Opfer unter 
+Niveau über dem Fünfjahresdurchschnitt, dabei wurden 18 085 Opfer unter 
 14 Jahren erfasst (www.bka.de/DE/AktuelleInformationen/StatistikenLagebilde
 r/Lagebilder/SexualdeliktezNvKindernuJugendlichen/SexualdeliktezNvKinder
 nuJugendlichen_node.html). Einen historischen Höchstwert erreichte das
@@ -42,8 +42,6 @@ s-problem-bei-der-bekaempfung-von-kindesmissbrauch-ist-die-dunkelziffer-10
 Eine zentrale Rolle bei der Erkennung dieser Delikte nimmt das BKA als
 nationale Zentralstelle ein. Dies zeigt sich insbesondere an der Flut digitaler
 Hinweise aus dem Ausland. Im Jahr 2024 leitete das US-amerikanische National 
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Center for Missing and Exploited Children (NCMEC) insgesamt 205 728
 Verdachtsmeldungen an das BKA weiter (www.bka.de/DE/AktuelleInformationen/
 StatistikenLagebilder/Lagebilder/SexualdeliktezNvKindernuJugendlichen/Sexu
@@ -61,7 +59,7 @@ sowie nationale und internationale Ermittlungs- und Auswertungsmaßnahmen
 zu koordinieren. Die Bewältigung dieser stetig anwachsenden Beweismengen 
 im digitalen Raum erfordert von den zuständigen Strukturen den Einsatz
 moderner technischer, operativer und kriminalistischer Werkzeuge. Die
-polizeiliche Praxis steht dabei vor der Herausforderung neben herkömmlichen
+polizeiliche Praxis steht dabei vor der Herausforderung, neben herkömmlichen
 Ermittlungsmethoden auch auf softwaregestützte Verfahren zur Bild- und
 Videoanalyse sowie auf moderne Methoden zur Strukturierung forensischer Massendaten 
 zurückzugreifen, um eine zeitnahe Auswertung überhaupt zu ermöglichen.
@@ -77,9 +75,9 @@ Ressourceneinsatz und die Effizienz dieser spezialisierten Strukturen bewertet.
 Wir fragen die Bundesregierung:
  1. Wie stellt sich die personelle und materielle Ausstattung der
 spezialisierten Gruppe SO 4 (Gewalt- und Sexualdelikte zum Nachteil von Kindern 
-und Jugendlichen) im BKA im laufenden Haushaltsjahr dar (bitte nach 
-Referaten, Planstellen, tatsächlich besetzten Stellen sowie Sach- und IT-
-Mitteln aufschlüsseln)?
+und Jugendlichen) im BKA im laufenden Haushaltsjahr 2026 dar (bitte 
+nach Referaten, Planstellen, tatsächlich besetzten Stellen sowie Sach- und 
+IT-Mitteln aufschlüsseln)?
  2. Wie viele der in der Gruppe SO 4 beschäftigten Mitarbeiter sind speziell 
 im Bereich der IT-Forensik, Datenanalyse und Softwareentwicklung tätig?
  3. In welchem Umfang und mit welchen spezifischen Softwarelösungen 
@@ -87,24 +85,22 @@ nutzt das BKA das sogenannte Hashing-Verfahren, um bekanntes Bild-
 und Videomaterial in sichergestellten Datenträgern oder Datenströmen 
 automatisiert zu identifizieren?
  4. Wie wird sichergestellt, dass bei der Nutzung von Hashing-Verfahren die 
-Fehlerquote minimiert wird und findet vor einer strafrechtlichen
+Fehlerquote minimiert wird, und findet vor einer strafrechtlichen
 Verfolgung in jedem Fall eine manuelle Verifizierung durch menschliche
 Ermittler statt?
  5. Inwieweit nutzt das BKA Hashing-Datenbanken im internationalen
-Verbund (z. B. über Europol, Interpol oder das NCMEC) und wie ist der
+Verbund (z. B. über Europol, Interpol oder das NCMEC), und wie ist der
 datenschutzkonforme Austausch dieser Hashwerte rechtlich und technisch 
 geregelt?
  6. Welche konkreten KI-gestützten oder automatisierten Bild- und
-Videoanalyseverfahren (z. B. zur Erkennung von Mustern, Objekten oder zur
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+Videoanalyseverfahren (z. B. zur Erkennung von Mustern, Objekten oder zur 
 Altersbestimmung auf Bilddateien) werden im BKA derzeit erprobt oder 
 bereits im Wirkbetrieb eingesetzt, um bisher unbekanntes Material
 vorzusortieren?
  7. Setzt das BKA im Rahmen der Bekämpfung von CSAM im In- oder
 Ausland verdeckte Ermittlungsmethoden ein, bei denen eigene Plattformen, 
-Foren oder Server als sogenannte “Honeypots“ betrieben oder
-übernommen werden, um die Identität von Nutzern aufzudecken?
+Foren oder Server als sogenannte Honeypots betrieben oder übernommen 
+werden, um die Identität von Nutzern aufzudecken?
 a) Wenn ja, auf welchen rechtlichen Grundlagen (z. B. im
 Bundeskriminalamtgesetz oder der Strafprozessordnung) basiert das Betreiben oder 
 die Infiltration solcher Honeypots?
@@ -114,7 +110,7 @@ Material hosten, übertragen oder zugänglich machen müssen
 (Problematik der staatlichen Tatprovokation bzw. Strafbarkeit der Ermittler)?
  8. In wie vielen Fällen in den Jahren 2023, 2024 und 2025 haben Ermittler 
 des BKA verdeckt auf ausländischen Foren, Darknet-Marktplätzen oder 
-Chatplattformen agiert und wie viele Täteridentifizierungen konnten
+Chatplattformen agiert, und wie viele Täteridentifizierungen konnten
 hieraus direkt abgeleitet werden?
  9. Wie stellt sich der genaue technische und administrative Ablauf dar,
 sobald eine Verdachtsmeldung des US-amerikanischen National Center for 
@@ -126,7 +122,7 @@ Meldung im BKA im Jahr 2024 und 2025 von der Übermittlung bis zur
 Abgabe an das zuständige Bundesland?
 11. Wie viele der im Jahr 2024 vom BKA als strafrechtlich relevant
 eingestuften 106 353 NCMEC-Hinweise führten nach Kenntnis der
-Bundesregierung in den Bundesländern zu:
+Bundesregierung in den Bundesländern zu
 a) der Einleitung eines Ermittlungsverfahrens,
 b) der Durchführung von Durchsuchungsmaßnahmen,
 c) einer Anklageerhebung oder Verurteilung?
@@ -135,7 +131,7 @@ Datenaustausch und der IT-Interoperabilität zwischen der Spezialgruppe
 SO 4 des BKA und den entsprechenden Dienststellen der 16
 Bundesländer?
 13. Inwieweit sind die im BKA genutzten Analysewerkzeuge vollumfänglich 
-mit den Systemen der Bundesländer kompatibel und welche
+mit den Systemen der Bundesländer kompatibel, und welche
 Verzögerungen ergeben sich durch Medienbrüche bei der Übermittlung digitaler
 Beweismittel?
 14. Anhand welcher konkreten, messbaren Indikatoren bewertet das BKA die 
@@ -144,8 +140,6 @@ CSAM-Bekämpfung?
 15. Welche der eingesetzten Methoden haben nach Einschätzung der
 Bundesregierung in den vergangenen fünf Jahren den größten Beitrag zur
 Identifizierung von Opfern und Tatverdächtigen geleistet?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 16. Welche Maßnahmen plant die Bundesregierung, um die Wirksamkeit der 
 eingesetzten Methoden zur Bekämpfung von Darstellungen sexualisierter 
 Gewalt gegen Kinder weiter zu erhöhen?
@@ -154,5 +148,3 @@ Dr. Alice Weidel, Tino Chrupalla und Fraktion
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.

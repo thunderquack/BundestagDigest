@@ -7,7 +7,7 @@ René Bochmann, Robin Jünger, Maximilian Kneller, Sergej Minich, Martin
 Reichardt, Dr. Paul Schmidt, Sven Wendorf, Olav Hilmer, Tobias Teich und der 
 Fraktion der AfD
 Smart-City-Forschung des Bundes – Umsetzung der Smart City Charta sowie 
-Förderung datenbasierter Stadtentwicklungs- und Governancekonzepte unter 
+Förderung datenbasierter Stadtentwicklungs- und Governance-Konzepte unter 
 Einbeziehung europäischer Programme und Mittel
 Seit der Veröffentlichung der „Smart City Charta“ im Jahr 2017 durch die 
 Nationale Dialogplattform Smart Cities fungiert dieses Dokument als
@@ -30,8 +30,8 @@ entworfen. Insbesondere das Szenario einer „Post-Voting Society“, in dem
 datenbasierte Echtzeit-Rückkopplungen demokratische Wahlprozesse teilweise
 ersetzen könnten, steht in einem potenziellen Spannungsverhältnis zu den
 Grundsätzen der repräsentativen Demokratie und der kommunalen Selbstverwaltung
-gemäß Artikel 28 Absatz 2 des Grundgesetzes (yumpu.com/de/document/read/65
-588789/smart-city-charta-langfassung/1, vgl. S. 42 f.).
+gemäß Artikel 28 Absatz 2 des Grundgesetzes (GG; yumpu.com/de/document/rea
+d/65588789/smart-city-charta-langfassung/1, vgl. S. 42 f.).
 Gleichzeitig wird die Smart-City-Entwicklung nach Wahrnehmung der
 Fragesteller massiv durch europäische Programme wie die EU-Mission 
 „100 Climate-Neutral and Smart Cities by 2030“ und das Digital Europe
@@ -41,8 +41,6 @@ zahlreichen Fällen inhaltliche, organisatorische oder finanzielle Bezüge.
 Teilweise erfolgen Projektbeteiligungen oder Kofinanzierungen im Rahmen
 europäischer Programme. Dabei stellt sich den Fragestellern die Frage, inwieweit 
 durch diese Förderarchitektur eine schleichende Zentralisierung zulasten der 
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 kommunalen Eigenverantwortung erfolgt und in welchem Umfang deutsche 
 Kommunen in technologische Abhängigkeiten von internationalen IT-
 Großkonzernen („Vendor Lock‑in“) geraten.
@@ -55,10 +53,11 @@ Wir fragen die Bundesregierung:
  1. Welche Fördermittel des Bundes wurden seit 2017 insgesamt für Smart-
 City-bezogene Forschung und Modellprojekte bewilligt (bitte nach
 Haushaltsjahren, Einzelplänen und Haushaltstiteln aufschlüsseln)?
- 2. Welche Hochschulen, Forschungseinrichtungen, Unternehmen oder NGOs 
-erhielten Fördermittel mit einem kumulierten Volumen von mehr als 
-250 000 Euro für Vorhaben im Kontext der Smart City Charta (bitte nach 
-Zuwendungsempfänger, Projektziel und Fördersumme auflisten)?
+ 2. Welche Hochschulen, Forschungseinrichtungen, Unternehmen oder
+Nichtregierungsorganisationen (NGOs) erhielten Fördermittel mit einem
+kumulierten Volumen von mehr als 250 000 Euro für Vorhaben im Kontext der 
+Smart City Charta (bitte nach Zuwendungsempfänger, Projektziel und 
+Fördersumme auflisten)?
  3. Wie hoch ist der Anteil der Kofinanzierung durch EU-Mittel
 (insbesondere Horizon Europe und Digital Europe) bei den durch den Bund
 geförderten Smart-City-Modellprojekten?
@@ -70,11 +69,11 @@ Gegenstand haben?
 Begleitstudien nehmen explizit oder implizit Bezug auf die in der
 Langfassung der Smart City Charta (2017) beschriebenen Szenarien einer „Post-
 Voting Society“, „Post-Ownership Society“ oder „Post-Choice Society“ 
-(vgl. Vorbemerkung)?
+(vgl. Vorbemerkung der Fragesteller)?
  6. In welchem Umfang wurden seit 2017 Projekte gefördert, die sich mit 
 „Predictive Governance“, algorithmischer Entscheidungsunterstützung in 
 der Verwaltung oder der Ersetzung klassischer Beteiligungsformate durch 
-datenbasierte Feedbacksysteme befassen?
+datenbasierte Feedback-Systeme befassen?
  7. Welche Projekte untersuchen im Kontext von Smart Cities den Einsatz 
 von „Behavioural Insights“, „Nudging“ oder vergleichbaren Instrumenten 
 zur Beeinflussung des Bürgerverhaltens (z. B. in den Bereichen Mobilität, 
@@ -93,8 +92,6 @@ Erfassung und KI-gestützte Auswertung von Bewegungsdaten,
 Aufenthaltsdaten oder Energieverbrauchsdaten einzelner Haushalte in geförderten
 Reallaboren erprobt, und welche Anonymisierungsstandards sind hierfür nach 
 Kenntnis der Bundesregierung verbindlich?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 11. Welche Forschungsvorhaben befassen sich mit der Verknüpfung digitaler 
 Identitäten (Wallets) mit dem Zugang zu kommunalen Dienstleistungen 
 im Sinne einer „Smart Governance“?
@@ -121,17 +118,13 @@ kommunalen Regelstrukturen übernommen werden sollen?
 17. Hat sich die Bundesregierung zu verfassungsrechtlichen Grenzen für den 
 Einsatz von KI und Big Data bei der Steuerung kommunaler Prozesse im 
 Hinblick auf das Prinzip der kommunalen Selbstverwaltung juristischen 
-Rat eingeholt und wenn ja, was besagt dieser?
+Rat eingeholt, und wenn ja, was besagt dieser?
 18. Wie stellt die Bundesregierung gegebenenfalls sicher, dass Smart-City-
 Forschungsvorhaben nicht zur Vorbereitung von gesetzlichen Regelungen 
 genutzt werden, die die informationelle Selbstbestimmung ohne
 hinreichende parlamentarische Debatte einschränken?
 Berlin, den 3. September 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
