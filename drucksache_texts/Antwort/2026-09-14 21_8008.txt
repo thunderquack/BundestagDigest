@@ -1,0 +1,936 @@
+Deutscher Bundestag Drucksache 21/8008
+21. Wahlperiode 14.09.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Robin Jünger, Ruben Rupp und der 
+Fraktion der AfD 
+– Drucksache 21/7535 –
+Agentische KI und vollständige Verwaltungsentscheidungsprozesse in der 
+Bundesverwaltung
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Bundesregierung verknüpft ihre Vorhaben zur Digitalisierung und
+Staatsmodernisierung mit dem Anspruch, staatliche Entscheidungs-, Prozess- und 
+Organisationsstrukturen grundlegend zu modernisieren. Der Koalitionsvertrag 
+zwischen CDU, CSU und SPD sieht hierfür ausdrücklich eine grundlegende 
+Modernisierung der Verwaltung, Bürokratierückbau, Ziel- und
+Wirkungsorientierung sowie Effizienzsteigerungen durch Digitalisierung vor (KoaV‑2025-
+Gesamt-final-0424.pdf). Im Koalitionsvertrag zwischen CDU, CSU und SPD 
+wird das Ziel formuliert, Verwaltungsleistungen zu digitalisieren, barrierefrei 
+anzubieten und die Verwaltung vernetzt, effizient, leistungsfähig,
+niedrigschwellig und nutzerfreundlich auszugestalten. Darüber hinaus soll
+Deutschland als KI-Nation etabliert werden. Dies umfasst insbesondere massive 
+Investitionen in Cloud- und KI-Infrastruktur sowie in die Verbindung von KI 
+und Robotik (ebd.).
+Vor diesem Hintergrund gewinnt der Einsatz agentischer KI-Systeme in der 
+Bundesverwaltung eine besondere Bedeutung. Unter agentischen KI-
+Systemen werden im fachlichen Diskurs regelmäßig Anwendungen verstanden, die 
+nicht lediglich isolierte Antworten erzeugen, sondern auf Zielvorgaben hin 
+mehrschrittige Handlungsabläufe planen, externe Werkzeuge oder
+Datenquellen einbeziehen, Informationen beschaffen, Zwischenergebnisse bewerten und 
+komplexe Aufgabenketten mit einem hohen Grad operativer Eigenständigkeit 
+ausführen können (www.ibm.com/de-de/think/topics/agentic-ai). Nach
+Auffassung der Fragesteller eröffnen sich einerseits erhebliche Rationalisierungs-, 
+Beschleunigungs- und Standardisierungspotenziale für die öffentliche
+Verwaltung. Andererseits entstehen neue rechtsstaatliche und organisatorische
+Risiken, sofern solche Systeme Verwaltungsvorgänge nicht nur unterstützen,
+sondern strukturieren, priorisieren, rechtlich vorbewerten oder zum Beispiel
+Bescheidentwürfe erzeugen. Mit zunehmender funktionaler Tiefe des KI-
+Einsatzes in der Bundesverwaltung stellen sich daher umso nachdrücklicher Fragen 
+nach Verantwortungszurechnung, menschlicher Kontrolle, tragfähiger
+Rechtsgrundlage, Datenzugriff, IT-Sicherheit, Fehlerkorrektur, Aktenmäßigkeit, 
+Transparenz, Rechtsschutzfähigkeit und parlamentarischer Nachprüfbarkeit.
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Digitales und
+Staatsmodernisierung vom 14. September 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+Die Bundesregierung hat in ihrer Antwort zu Frage 17 auf
+Bundestagsdrucksache 21/5842 ausgeführt, Ziel des Agentic AI Hubs sei nicht nur eine
+Vernetzung von Marktakteuren und Verwaltung, sondern auch die Entwicklung eines 
+Vehikels, das den Einsatz agentischer KI-Systeme skalierbar mache. Ferner
+erklärte sie, ein Fahrplan für das weitere Vorgehen werde im Rahmen eines
+laufenden Vorgangs erarbeitet. Für die Pilotierung agentischer KI-Lösungen sei 
+im Rahmen der Beauftragung der DigitalService GmbH ein Sachkostenbudget 
+von maximal 500 000 Euro vereinbart worden. Davon seien 212 849 Euro für 
+die unmittelbare Pilotierung der Pilotprojekte veranschlagt. Die
+Bundesregierung erklärte zudem, inwiefern diese Mittel auch für Verstetigung oder
+Nachnutzung zur Verfügung gestellt werden könnten, sei Gegenstand laufender 
+Überlegungen. Offensichtlich will die Bundesregierung Start-ups und kleine 
+und mittlere Unternehmen (KMU) stärker in staatliche Innovations- und
+Digitalisierungsprojekte einbeziehen. Der Agentic AI Hub soll offenbar auch als 
+Schnittstelle zwischen Verwaltung und Marktakteuren dienen.
+Auf die Schriftliche Frage 120 auf Bundesdrucksache 21/5846 antwortete die 
+Bundesregierung, das Bundesministerium für Digitales und
+Staatsmodernisierung (BMDS) habe sich zum Ziel gesetzt, moderne, leistungsfähige und
+innovative Verwaltungsprozesse mit KI zu unterstützen. Derzeit stünden
+Unterstützungsleistungen unter Beachtung der Maßgabe „Human in the Loop“ im
+Vordergrund. Ob und wann ein Verwaltungsentscheidungsprozess vollständig von 
+KI durchgeführt werden könne, hänge von verschiedenen Faktoren ab.
+Genannt wurden technische Umsetzungsmöglichkeit, Rechtsgrundlagen zur
+Datenverarbeitung, Grundrechtsrelevanz der Entscheidungen, ausreichende 
+menschliche Aufsicht im Sinne des Artikels 14 der Verordnung (EU) 
+2024/1689, Nachvollziehbarkeit von Entscheidungen und IT-Sicherheit.
+Diese Antwort benennt zwar einzelne relevante Prüffaktoren, lässt aber den 
+Kern der Frage offen. Nicht mitgeteilt wurde, ob die Bundesregierung
+konkrete Vorhaben plant, prüft oder ausschließt, bei denen KI-Systeme vollständige 
+Verwaltungsentscheidungsprozesse übernehmen sollen. Ebenfalls offen blieb, 
+ob es bereits eine Roadmap, Projektliste, ressortübergreifende Abstimmung, 
+technische Architektur, rechtliche Bewertung oder Evaluation für agentische 
+KI in der Bundesverwaltung gibt. Auch wurde nicht beantwortet, ob die
+Bundesregierung einen Zeitpunkt oder jedenfalls Meilensteine erwartet, zu denen 
+agentische KI-Systeme über bloße Unterstützungsleistungen hinausgehen 
+könnten.
+Agentische KI im Verwaltungskontext unterscheidet sich qualitativ von
+einfachen Assistenzsystemen. Ein KI-System, das nur Textbausteine vorschlägt, 
+wirft andere Fragen auf als ein System, das selbstständig Akten durchsucht, 
+externe Datenquellen abfragt, Rechtsnormen zuordnet, Ermessenskriterien
+gewichtet, Entscheidungsvorschläge erstellt oder Bescheide generiert. Gerade 
+wenn der Staat solche Systeme im Kontakt mit Bürgern und Unternehmen
+einsetzt, muss frühzeitig geklärt werden, ob menschliche Verantwortung
+tatsächlich wirksam bleibt oder lediglich nachträglich formalisiert wird.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Künstliche Intelligenz (KI) ist Schlüsseltechnologie. Durch den Einsatz von KI 
+kann die öffentliche Verwaltung zentralen Herausforderungen mit innovativen 
+Lösungen begegnen, um Verwaltungsabläufe effizienter zu gestalten und zur 
+Arbeitsentlastung beizutragen. Eine moderne Verwaltung muss auch KI als
+Arbeitswerkzeug nutzen. KI kann dabei bei der Erstellung von Reden und
+Artikeln – aber auch bei weiteren Texten sowie allgemeiner Verwaltungsarbeit
+eingesetzt werden, stets eingebettet in einen Prozess mit menschlicher Prüfung 
+und Letztverantwortung. Der maßgebliche Standard lautet: Inhalt und
+Verantwortung liegen beim Menschen. KI kann unterstützen, aber sie ersetzt weder 
+Zielsetzung noch Struktur, Inhalt, Urteilsvermögen oder politische Haltung. KI 
+ist ein unterstützendes Werkzeug, der Mensch führt.
+Nach den Empfehlungen der Leitlinien für den Einsatz Künstlicher Intelligenz 
+in der Bundesverwaltung prüfen Nutzerinnen und Nutzer KI-generierte Inhalte 
+vor der weiteren Verwendung fachlich (vgl. Leitsatz A 4). Wenn KI-generierte 
+Inhalte von Menschen geprüft werden – fachlich, redaktionell und qualitativ, ist 
+regelmäßig keine weitere Kennzeichnung notwendig (vgl. Leitsatz A 5). Dies 
+entspricht auch den Anforderungen von Artikel 50 Absatz 4 Sätze 4 und 5 der 
+KI-VO.
+KI ist ein neues, leistungsfähiges Werkzeug zur Unterstützung. Die
+Bundesregierung fördert die Nutzung von KI in der Verwaltung, weil sie überzeugt ist, 
+dass Deutschland den produktiven und zugleich maßvollen Umgang mit KI 
+schnell weiter lernen muss.
+ 1. Welche Definition von „agentischer KI“ oder „Agentic AI“ verwendet 
+die Bundesregierung im Zusammenhang mit dem Agentic AI Hub und 
+vergleichbaren Vorhaben der Bundesverwaltung?
+ 2. Welche konkreten Funktionen, Fähigkeiten oder Autonomiegrade
+müssen nach Auffassung der Bundesregierung vorliegen, damit ein KI-
+System als agentisch gilt?
+Die Fragen 1 und 2 werden zusammen beantwortet.
+Die Bundesregierung definiert „agentische KI“ bzw. „Agentic AI“ im
+Zusammenhang mit dem Agentic AI Hub als ein KI‑System, das über die reine
+Erzeugung isolierter Antworten hinaus mehrstufige Handlungsabläufe planen kann, 
+externe Werkzeuge oder Datenquellen einbindet, Informationen beschafft,
+Zwischenergebnisse bewertet und komplexe Aufgabenketten mit einem hohen Grad 
+operativer Eigenständigkeit ausführt.
+ 3. Welche konkreten Vorhaben, Pilotprojekte, Marktdialoge, Tests,
+Prototypen oder Konzeptstudien zum Einsatz agentischer KI in der
+Bundesverwaltung gibt es derzeit?
+ 4. Welche dieser Vorhaben betreffen ausschließlich unterstützende
+Tätigkeiten, und welche betreffen Verfahrensschritte mit unmittelbarer Relevanz 
+für Verwaltungsentscheidungen?
+Die Fragen 3 und 4 werden zusammen beantwortet.
+Es wird auf die Anlage 1 verwiesen.*
+ 5. Welche Bundesministerien, Bundesbehörden, bundeseigenen
+Unternehmen, Projektträger oder sonstigen Stellen sind am Agentic AI Hub
+beteiligt?
+ 6. Welche Rolle nimmt das BMDS beim Agentic AI Hub ein, und welche 
+Aufgaben wurden der DigitalService GmbH des Bundes konkret
+übertragen?
+Die Fragen 5 und 6 werden zusammen beantwortet.
+Der Agentic AI Hub ist ein Vorhaben des BMDS. Der DigitalService
+unterstützt das BMDS als Dienstleister im Rahmen des Agentic AI Hub. Darüber 
+hinaus wurden weitere Akteure nach Bedarf beteiligt.
+* Von einer Drucklegung der Anlage wird abgesehen. Diese ist auf Bundestagsdrucksache 21/8008 auf der Internetseite des Deutschen Bundestages abrufbar.
+Das BMDS definiert die übergeordneten Ziele, die strategische Leitung, die
+finale Prüfung und die Rahmenbedingungen. Die DigitalService GmbH
+übernimmt die Operationalisierung, etwa in der Vorauswahl der Pilot‑Tandems oder 
+der Evaluation anhand definierter Kennzahlen.
+ 7. Welche Verträge, Verwaltungsvereinbarungen, Leistungsbeschreibungen, 
+Projektaufträge oder sonstigen Beauftragungsdokumente liegen dem 
+Agentic AI Hub zugrunde?
+Für den Agentic AI Hub wurde die DigitalService GmbH beauftragt. Verträge 
+für die Lizenzen der einzelnen agentischen KI-Lösungen wurden zwischen der 
+DigitalService GmbH und den einzelnen Start-ups geschlossen.
+ 8. Welche Gesamtkosten sind für den Agentic AI Hub für die Jahre 2025, 
+2026, 2027 und 2028 jeweils geplant, veranschlagt, gebunden oder
+bereits verausgabt?
+Die Gesamtkosten belaufen sich im angegebenen Zeitraum wie folgt:
+2025: 243 341,30 Euro
+2026: 3 180 582,45 Euro
+Für die Jahre 2027 und 2028 sind die konkreten Planungen nicht
+abgeschlossen.
+Mit den eingesetzten Haushaltsmitteln wurden die Kommunen und Start-ups 
+unterstützt, effiziente und modernste KI-Systeme zur Arbeitserleichterung in 
+den Wirkbetrieb zu bringen. Dies hat zu Effizienz- und Qualitätssteigerungen 
+bei den Kommunen und direkter Wirkung bei Bürgerinnen und Bürgern
+beigetragen. Zusätzlich konnten im Nachgang zum Agentic AI Hub die Start-ups
+anschließende Investitionen und Aufträge außerhalb der Förderung des Agentic 
+AI Hubs anschließen. Im Übrigen wird auf den Abschlussbericht zum Agentic 
+AI Hub verwiesen: (https://bmds.bund.de/themen/kuenstliche-intelligenz/ki-in-
+der-verwaltung/agentic-ai-hub).
+ 9. Aus welchen Haushaltstiteln werden der Agentic AI Hub und
+vergleichbare Vorhaben agentischer KI finanziert?
+Der Agentic AI Hub wird aus Kapitel 2402 Titel 532 16 finanziert.
+10. Welche Mittel des in der Antwort der Bundesregierung auf die Kleine 
+Anfrage auf Bundestagsdrucksache 21/5842 genannten
+Sachkostenbudgets von maximal 500 000 Euro wurden bisher konkret wofür
+verausgabt, und welche konkreten Leistungen wurden für die in der Antwort 
+der Bundesregierung auf die Kleine Anfrage auf
+Bundestagsdrucksache 21/5842 genannten 212 849 Euro zur unmittelbaren Pilotierung 
+konkret beauftragt oder erbracht?
+Es besteht ein maximales Sachkostenbudget von 500 000 Euro (420 168 Euro 
+netto) für die DigitalService GmbH. Die genannten 212 849 Euro (netto)
+beziehen sich auf die Kosten für die Pilotierung der zwanzig Pilot-Tandems.
+11. Welche Kriterien verwendet die Bundesregierung, um Start-ups, KMU, 
+Forschungseinrichtungen oder sonstige Anbieter für eine Beteiligung am 
+Agentic AI Hub auszuwählen, welche konkreten vergaberechtlichen
+Verfahren wurden für Leistungen im Zusammenhang mit dem
+Agentic AI Hub durchgeführt, und welche Auftragswerte,
+Zuschlagsempfänger und Leistungsgegenstände ergaben sich jeweils?
+Der Vertragsschluss fand zwischen dem DigitalService GmbH und den
+Startups auf Vorschlag und Vorauswahl der DigitalService GmbH statt. Ein
+Vertragsverhältnis mit dem BMDS besteht nicht. Die Auswahl der Start-ups durch 
+die DigitalService GmbH erfolgte insbesondere nach folgenden Kriterien:
+Produktreife, Alter der Start-ups/Skale-ups (für die Definition eines Start-ups/
+Skale-ups), Skalierbarkeit der Lösung, Umsetzbarkeit des Produkts
+(Vorbereitungszeit und Realisierbarkeit), Lizenzkosten, Compliance (insb. Datenschutz 
+und KI-VO), Abdeckung sowohl kleiner als auch größerer Kommunen sowie 
+der verschiedenen Bundesländer, Nachhaltigkeit, Implementierungsaufwand 
+und Skalierbarkeit, IT-Sicherheit, Open Source Komponenten.
+12. Welche Anforderungen stellt die Bundesregierung beim Agentic AI Hub 
+an Open Source, offene Standards, Portabilität, Interoperabilität und
+Vermeidung von Anbieterabhängigkeiten, und welche konkreten
+Datenbestände der Bundesverwaltung werden oder sollen im Rahmen des
+Agentic AI Hub für Training, Test, Evaluation, Prompting, Retrieval-
+Augmented Generation oder sonstige Systemfunktionen genutzt werden?
+Die Grundidee des Agentic AI Hub besteht darin zu testen, ob existierende
+Lösungen von Start-ups in wenigen Wochen und mit niedrigem Budget für
+kommunale Verwaltungen nutzbar gemacht werden können. Die Nutzung von 
+OpenSource-Komponenten und offenen APIs ist in dieser Phase vorteilhaft. Für 
+eine Skalierung über die Erprobung hinaus ist die Einhaltung von
+Souveränitätsanforderungen erforderlich, ohne dabei aber die lokalen Anbieter gegenüber 
+konkurrierenden Anbietern aus Drittstaaten zu benachteiligen.
+13. Welche personenbezogenen, vertraulichen, sicherheitsrelevanten oder VS 
+(Verschlusssache)-eingestuften Daten sind von Vorhaben des
+Agentic AI Hub ausgeschlossen, und welche
+Datenschutzfolgenabschätzungen, IT-Sicherheitskonzepte, Bedrohungsanalysen oder
+Grundrechtefolgenabschätzungen wurden für Vorhaben agentischer KI erstellt?
+Es wurden keine vertraulichen, sicherheitsrelevanten oder VS‑eingestufte
+Informationen verarbeitet. Die gesetzlichen Anforderungen bei der Verarbeitung 
+personenbezogener Daten wurden beachtet und soweit erforderlich
+Datenschutz‑Folgenabschätzung (DSFA), IT‑Sicherheitskonzepte und
+Grundrechte‑Folgenabschätzung erstellt bzw. durchgeführt.
+14. Welche Rolle spielen das Bundesamt für Sicherheit in der
+Informationstechnik (BSI), der Bundesbeauftragte für den Datenschutz und die
+Informationsfreiheit, das Informationstechnikzentrum Bund (ITZBund) und 
+die Rechtsabteilungen der Ressorts bei der Prüfung agentischer KI-
+Vorhaben?
+Das BSI, der Bundesbeauftragte für den Datenschutz und die
+Informationsfreiheit, das ITZBund und die Rechtsabteilungen der Ressorts nehmen bei
+agentischen KI-Vorhaben gesetzlichen Aufgaben im Rahmen ihrer Zuständigkeiten 
+wahr.
+15. Welche konkreten Bewertungskriterien werden in der von der
+Bundesregierung genannten Evaluation des Agentic AI Hub verwendet?
+16. Welche messbaren Zielwerte bestehen für technische Leistungsfähigkeit, 
+fachliche Leistungsfähigkeit, Rechtskonformität, Skalierbarkeit,
+Wirtschaftlichkeit, Bearbeitungsdauer, Fehlerquote und Nutzerzufriedenheit?
+Die Fragen 15 und 16 werden zusammen beantwortet.
+Es wird auf den Abschlussbericht zum Agentic AI Hub verwiesen: (https://bmd
+s.bund.de/themen/kuenstliche-intelligenz/ki-in-der-verwaltung/agentic-ai-hub).
+17. Wann soll der in der Antwort der Bundesregierung auf die Kleine
+Anfrage auf Bundestagsdrucksache 21/5842 erwähnte Fahrplan für das
+weitere Vorgehen beim Agentic AI Hub abgeschlossen werden?
+18. Welche Meilensteine enthält oder soll dieser Fahrplan nach dem
+aktuellen Planungsstand enthalten?
+Die Fragen 17 und 18 werden zusammen beantwortet.
+Der Agentic AI Hub soll als Maschinenraum, der Start-ups und Verwaltung
+zusammenbringt verstetigt werden. Die zweite Bewerbungsrunde/Pilotierung
+sowie die Etablierung der erforderlichen Vehikel für eine Skalierung der
+Lösungen soll Ende 2026/Anfang 2027 abgeschlossen sein.
+19. Welche Entscheidungskriterien gelten für die Überführung einzelner
+Pilotprojekte in eine breitere Pilotierung, einen Wirkbetrieb oder einen
+Regelbetrieb?
+20. Welche Stellen entscheiden jeweils über Fortführung, Skalierung,
+Abbruch oder Regelbetrieb agentischer KI-Projekte, und welche konkreten 
+Verwaltungsentscheidungsprozesse hält die Bundesregierung für
+geeignet, künftig vollständig oder weitgehend durch KI-Systeme durchgeführt 
+zu werden?
+Die Fragen 19 und 20 werden zusammen beantwortet.
+Die Entscheidung, ob ein Pilotprojekt fortgeführt, in den Wirkbetrieb oder
+Regelbetrieb überführt oder abgebrochen wird, liegt in der Entscheidungshoheit 
+der Kommunen. Über das in Planung befindliche dynamische
+Beschaffungsverfahren wird eine Skalierung der Lösungen angestrebt. Im Übrigen wird auf die 
+Antwort zu den Fragen 15 und 16 verwiesen.
+21. Welche Verwaltungsentscheidungsprozesse hält die Bundesregierung
+wegen Grundrechtsrelevanz, Ermessensausübung, hoher Fehlerfolgen,
+fehlender Nachvollziehbarkeit oder besonderer Schutzbedürftigkeit
+Betroffener für ungeeignet?
+Die Bundesregierung richtet sich bei der Beurteilung, welche Bereiche für eine 
+Automatisierung ungeeignet sind, nach den gesetzlichen Anforderungen, wie 
+der KI-VO (etwa verbotene Praktiken nach Artikel 5 KI-VO).
+22. Plant, prüft oder erprobt die Bundesregierung derzeit Systeme, die
+Sachverhaltsermittlung, rechtliche Bewertung, Ermessensvorbereitung,
+Ermessensausübung und Bescheiderstellung in einem integrierten KI-
+gestützten Prozess verbinden?
+a) Wenn ja, welche Ressorts, Behörden, Fachverfahren und
+Rechtsbereiche sind betroffen?
+b) Wenn nein, weshalb hat die Bundesregierung in ihrer Antwort auf die 
+Schriftliche Frage 120 auf Bundestagsdrucksache 21/5846 nicht
+ausdrücklich klargestellt, dass entsprechende Vorhaben derzeit nicht
+bestehen?
+Die Fragen 22 bis 22b werden zusammen beantwortet.
+Es wird auf die Anlage 1 verwiesen.*
+23. Wie stellt die Bundesregierung sicher, dass „Human in the Loop“ bei 
+agentischen KI-Systemen nicht lediglich eine nachträgliche Bestätigung 
+eines faktisch bereits durch KI vorentschiedenen Ergebnisses bedeutet, 
+und welche konkreten organisatorischen Vorgaben bestehen für
+Beschäftigte der Bundesverwaltung, die Ergebnisse agentischer KI-Systeme
+prüfen, ändern, verwerfen oder freigeben sollen?
+Es wird auf die Antwort der Fragen 7 und 8 der Kleinen Anfrage 21/7315
+verwiesen.
+24. Welche Qualifikations-, Schulungs- und Fortbildungsanforderungen
+gelten für Beschäftigte, die agentische KI-Systeme in
+Bundesverwaltungsverfahren einsetzen, und welche Protokollierungs-, Dokumentations- und 
+Aktenführungspflichten gelten für Zwischenschritte agentischer KI-
+Systeme?
+Es werden die in der KI-VO und DS-GVO genannten Anforderungen an
+Qualifikations-, Schulungs- und Fortbildungsanforderungen und Protokollierungs-, 
+Dokumentations- und Akten-führungspflichten beachtet.
+25. Wie wird sichergestellt, dass bei agentischen KI-Systemen sämtliche 
+relevanten Eingaben, Zwischenschritte, Tool-Nutzungen, Datenabrufe, 
+Modellversionen und Ausgaben nachträglich überprüfbar bleiben, und 
+welche Rechtsgrundlagen hält die Bundesregierung für erforderlich,
+bevor agentische KI-Systeme Verwaltungsentscheidungen vollständig oder 
+weitgehend übernehmen können?
+Es werden die Anforderungen in der KI-VO (insbesondere Artikel 14), des
+Verwaltungsverfahrensgesetz (insbesondere § 35a VwVfG) sowie der DSGVO 
+(insbesondere Art. 22) beachtet.
+26. Plant die Bundesregierung Änderungen des
+Verwaltungsverfahrensgesetzes, des E‑Government-Gesetzes, fachgesetzlicher Regelungen oder 
+haushaltsrechtlicher Vorgaben, um agentische KI in
+Verwaltungsverfahren zu ermöglichen oder zu begrenzen?
+Die Bundesregierung plant keine gesetzlichen Änderungen oder Änderungen 
+haushaltsrechtlicher Vorgaben, die explizit den Einsatz agentischer KI
+betreffen.
+* Von einer Drucklegung der Anlage wird abgesehen. Diese ist auf Bundestagsdrucksache 21/8008 auf der Internetseite des Deutschen Bundestages abrufbar.
+27. Welche Haftungs-, Verantwortungs- und Zurechnungsfragen hat die
+Bundesregierung für den Fall geprüft, dass ein agentisches KI-System
+fehlerhafte, rechtswidrige oder diskriminierende Ergebnisse erzeugt?
+Die Bundesregierung prüft fortlaufend die gesetzlichen Vorgaben und beachtet 
+diese.
+28. Welche Melde- und Abhilfeverfahren sind vorgesehen, wenn agentische
+KI-Systeme in Pilotierung oder Betrieb Fehlentscheidungen,
+Sicherheitsvorfälle, Datenschutzverstöße oder systematische Verzerrungen
+verursachen?
+Für Fehlentscheidungen, Sicherheitsvorfälle, Datenschutzverstöße oder
+systematische Verzerrungen sind klare gesetzliche Melde‑ und Abhilfeverfahren
+vorgegeben. Für IT‑Sicherheitsvorfälle bestehen insbesondere Meldewege an das 
+BSI, für Datenschutzverstöße an den BfDI und die KI-VO sieht individuelle 
+Betroffenenrechte, Meldepflichten der Anbieter/Betreiber und behördliche 
+Marktüberwachung für KI-Systeme vor. Zudem sind in Behörden Governance-
+Prozesse etabliert.
+29. Welche Rolle soll der Agentic AI Hub für Start-ups und KMU konkret
+spielen, und wie verhindert die Bundesregierung, dass nur wenige große
+Anbieter mit bestehender Marktmacht von staatlichen KI-Projekten
+profitieren?
+Der Agentic AI Hub soll als Schnittstelle zwischen Verwaltung und Start-ups 
+fungieren. Für die Skalierung wird als Vehikel derzeit u. a. ein Dynamisches 
+Beschaffungssystem mit Wettbewerben errichtet.
+30. Weshalb hat die Bundesregierung in ihrer Antwort auf die Schriftliche
+Frage 120 auf Bundesdrucksache 21/5846 weder einen konkreten
+Planungsstand einzelner Vorhaben noch einen belastbaren Zeitplan für
+vollständige KI-gestützte Verwaltungsentscheidungsprozesse benannt?
+Die Bundesregierung hat diese Frage beantwortet.
+Anlage 1      Kleine Anfrage 21/7535 
+Ressort
+Geschäftsbereichsbehörde 
+Frage 3: Welche konkreten 
+Vorhaben, Pilotprojekte, 
+Marktdialoge, Tests, 
+Prototypen oder 
+Konzeptstudien zum Einsatz 
+agentischer KI in der 
+Bundesverwaltung gibt es 
+derzeit?  
+Frage 4: Welche dieser 
+Vorhaben betreffen 
+ausschließlich unterstützende 
+Tätigkeiten, und welche 
+betreffen Verfahrensschritte 
+mit unmittelbarer Relevanz 
+für 
+Verwaltungsentscheidungen?   
+Frage 22: Plant, prüft oder 
+erprobt die Bundesregierung 
+derzeit Systeme, die 
+Sachverhaltsermittlung, 
+rechtliche Bewertung, 
+Ermessensvorbereitung, 
+Ermessensausübung und 
+Bescheiderstellung in einem 
+integrierten KI-gestützten 
+Prozess verbinden?   
+Bundesministerium 
+für Wirtschaft und 
+Energie 
+  KIPITZ 
+Die aktuelle Nutzung der 
+Plattform KIPITZ im BMWE 
+betrifft ausschließlich 
+unterstützende Tätigkeiten. 
+ 
+Auch die konzeptionellen 
+Prüfungen im Bereich 
+agentischer KI zielen primär 
+auf die Unterstützung 
+administrativer Prozesse ab. 
+/ 
+Bundesministerium 
+für Wirtschaft und 
+Energie 
+Bundesanstalt für 
+Materialforschung und -
+prüfung (BAM) 
+Im Moment werden nur RAG-
+basierte Systeme genutzt und 
+erprobt, keine Agentic-KI wie 
+in der Anfrage definiert. 
+Es handelt sich hier um reine 
+unterstützenden Assistenz-
+Systeme. 
+/ 
+Bundesministerium 
+für Wirtschaft und 
+Energie 
+Bundesnetzagentur 
+(BNetzA) 
+Testung der Nutzung von 
+agentischen KI in SPARK im 
+Rahmen des 
+Stromnetzausbaus, 
+insbesondere 
+Einwendungsmanagement 
+Dies betrifft ausschließlich 
+arbeitsunterstützende Hilfe 
+und keinen Ersatz für 
+Verfahrensbestandteile. 
+/ 
+Anlage 1      Kleine Anfrage 21/7535 
+Bundesministerium 
+für Wirtschaft und 
+Energie 
+Physikalisch-
+Technische 
+Bundesanstalt (PTB) 
+Konkrete Aktivitäten bezogen 
+auf den Einsatz spezieller 
+agentischer KI existieren nicht. 
+Es kann nicht ausgeschlossen 
+werden, dass im Rahmen 
+allgemeiner KI-Tests auch 
+agentische Verfahren integriert 
+sind. 
+Es wird derzeit von 
+ausschließlich unterstützenden 
+Tätigkeiten ausgegangen ohne 
+unmittelbare Relevanz für 
+Verwaltungsentscheidungen. 
+/ 
+Bundesministerium 
+der Finanzen 
+Bundeszentralamt für 
+Steuern (BZSt) 
+zeitkritische 
+Antragsbearbeitung aufgrund 
+der Reform der privaten 
+Altervorsorgung (pAV) 
+ausschließlich unterstützende 
+Tätigkeiten bei der 
+Zertifizierung der Anträge für 
+die Verfahrensschritte: Prüfung 
+der Vollständigkeit und 
+inhaltliche Prüfung 
+BZSt plant in einem ersten 
+Schritt, 
+Zertifizierungsbescheide inkl. 
+Gebührenbescheide für 
+Produkte der pAV KI-gestützt 
+vorzubereiten und zur 
+abschließenden manuellen 
+Bearbeitung zu übergeben 
+Auswärtiges Amt 
+inklusiveDeutsches 
+Archäologisches Institut 
+(DAI) und Bundesamt 
+für Auswärtige 
+Angelegenheiten (BfAA) 
+Im Auswärtigen Amt wird 
+derzeit ein Proof-of-Concept 
+(PoC) für einen agentischen KI-
+Assistenten zur Erstellung 
+kontextspezifischer 
+Dokumente sowie zum 
+Ausfüllen strukturierter 
+Vorlagen und Formulare 
+erprobt. Es wurde außerdem 
+ein Konzept zur 
+Weiterentwicklung der 
+Plattform PLAIN erarbeitet, um 
+die Anbindung von KI-
+Werkzeugen über einen 
+Keine dieser Vorhaben bezieht 
+sich auf 
+Verwaltungsentscheidungen im 
+engeren Sinne.  
+Das Auswärtige Amt plant den 
+Einsatz von KI zur 
+Unterstützung des 
+Visumverfahrens. Eine 
+entsprechende Anpassung des 
+AufenthG wurde am 
+29.07.2026 durch das Kabinett 
+beschlossen, muss aber noch 
+durch den Deutschen 
+Bundestag verabschiedet 
+werden.  
+Anlage 1      Kleine Anfrage 21/7535 
+einheitlichen Standard (MCP) 
+zu ermöglichen.  
+Bundesministerium 
+der Justiz und für 
+Verbraucherschutz 
+Bundesfinanzhof (BFH) 
+Mittels einer lokal betriebenen 
+KI-Teststellung werden die 
+Einsatzmöglichkeiten 
+agentischer KI im Rahmen des 
+Gerichtsfachverfahrens GO§A 
+sowie der elektronischen 
+Gerichtsakte EGA getestet 
+Es handelt sich bei den Tests 
+ausschließlich um 
+unterstützende und 
+vorbereitende Tätigkeiten 
+/ 
+Bundesministerium 
+für Arbeit und 
+Soziales 
+  
+KI-gestützte interne 
+Wissensdatenbank zu BMAS-
+Forschungsberichten 
+(Minimum Viable Product); KI-
+gestützte 
+Entwicklungsumgebung zur 
+effizienteren Entwicklung von 
+Programmcodes 
+Ausschließlich unterstützend / 
+Bundesministerium 
+für Landwirtschaft, 
+Ernährung und 
+Heimat 
+Bundesamt für 
+Verbraucherschutz und 
+Lebensmittelsicherheit 
+(BVL) 
+/ / 
+Ja, es sollen unterstützende KI-
+Prozesse erprobt und ggf. auch 
+eingeführt werden. Die 
+menschliche Prüfung der 
+Ergebnisse ist hierbei 
+verpflichtend und findet immer 
+statt. 
+ 
+a) Es gibt Erprobungen unter 
+anderem im Zusammenhang 
+mit Anträgen an die ZKBS 
+(Gentechnik). 
+Anlage 1      Kleine Anfrage 21/7535 
+Bundesministerium 
+für Landwirtschaft, 
+Ernährung und 
+Heimat 
+Max Rubner-Institut 
+(MRI) 
+Einsatz agentischer KI als 
+unterstützendes Hilfsmittel bei 
+der Softwareprogrammierung 
+im NRZ-Authent (Nationales 
+Referenzzentrum für 
+authentische Lebensmittel am 
+MRI) 
+Der Einsatz dient ausschließlich 
+zur Unterstützung. 
+/ 
+Bundesministerium 
+für Umwelt, 
+Klimaschutz, 
+Naturschutz und 
+nukleare Sicherheit  
+  
+KIRAS - KI-basiertes 
+Recherche- und 
+Assistenzsystem 
+(https://maki.beki.bund.de/a/b
+mi-
+makimoapp/steckbriefe/BD202474834
+53)  
+KIRAS verbindet über einen KI-
+Agenten ein intern gehostetes 
+Sprachmodell mit dem Zugriff 
+auf zentrale Dokumente (z.B. 
+Gesetzes- und Pressetexte, 
+Geschäftsordnung, 
+Geschäftsverteilungsplan) und 
+strukturierte Daten. 
+Mitarbeitende erhalten 
+Unterstützung beim Erstellen 
+von Textentwürfen, 
+Zusammenfassungen, 
+Übersetzungen und der 
+Extraktion relevanter 
+Informationen. Es betrifft 
+damit ausschließlich 
+unterstützende Tätigkeiten. 
+Ein Pilotprojekt zur 
+Evaluierung der Rulemapping-
+Methodik zur Unterstützung 
+von Vollzugsaufgaben im 
+Umwelt- und Naturschutz ist 
+in Vorbereitung. 
+Anlage 1      Kleine Anfrage 21/7535 
+Bundesministerium 
+für Umwelt, 
+Klimaschutz, 
+Naturschutz und 
+nukleare Sicherheit  
+Bundesamt für die 
+Sicherheit der nuklearen 
+Entsorgung (BASE) 
+/ / 
+Das BASE wird ggf. eine 
+mögliche Nachnutzung der 
+vom BMDS entwickelten 
+Einwendungs- und 
+Beteiligungsplattform SPARK 
+für Planungs- und 
+Genehmigungsverfahren 
+prüfen. 
+(https://maki.beki.bund.de/a/b
+mi-
+makimoapp/steckbriefe/BD202671952
+25) 
+Bundesministerium 
+für Umwelt, 
+Klimaschutz, 
+Naturschutz und 
+nukleare Sicherheit  
+Bundesamt für 
+Naturschutz (BfN) 
+Die Projekte des BfN im 
+Kontext von KI sind im 
+Marktplatz für Künstliche 
+Intelligenz aufgeführt und 
+öffentlich einsehbar unter 
+https://maki.beki.bund.de/a/b
+mi-makimo-app?kiosk 
+Keine KI-Projekte für 
+Verwaltungsentscheidungen im 
+Einsatz oder geplant 
+Das BfN plant, prüft oder 
+erprobt derzeit keine KI 
+Systeme für die genannten 
+Einsatzgebiete 
+Bundesministerium 
+für Umwelt, 
+Klimaschutz, 
+Naturschutz und 
+nukleare Sicherheit  
+Umweltbundesamt 
+(UBA) 
+Tests: einzelne Mitarbeitende 
+testen KI-Agenten in der 
+Softwareentwicklung ("Vibe 
+Coding") 
+ausschlielich unterstützende 
+Tätigkeit / 
+Anlage 1      Kleine Anfrage 21/7535 
+Bundesministerium 
+für Forschung, 
+Technologie und 
+Raumfahrt 
+  
+Prototyp eines agentischen 
+Workflows zur Befragung von 
+Daten aus dem 
+Dokumentations- und 
+Informationssystem für 
+Parlamentsmaterialien (DIP); 
+Prototyp eines agentischen 
+Workflows zur Befragung von 
+Daten aus der Genesis-
+Datenbank (Destatis); Test von 
+agentischen 
+Textdurchsuchungsfunktionen 
+als Funktionalität in 
+OpenWebUI; Test der Nutzung 
+von Opencode als agentisches 
+Coding Tool 
+Unterstützende Tätigkeit. / 
+Bundesministerium 
+für wirtschaftliche 
+Zusammenarbeit und 
+Entwicklung 
+  
+KIEZ, ein KI-Assistent, greift 
+auf Werkzeuge wie 
+Internetsuche und 
+Wissensdatenbanken zu. 
+Informationen aus laufenden 
+Verwaltungsentscheidungen 
+werden nicht mit der KI 
+verarbeitet. 
+/ 
+Bundesministerium 
+für Verkehr 
+Bundesanstalt für 
+Straßen- und 
+Verkehrswesen (BASt) 
+BASti - der BASt-interne KI-
+Assistent 
+BASti - unterstützende 
+Tätigkeiten, aber keine 
+Wirkung in Verfahrensschritten 
+oder 
+Verwaltungsentscheidungen. 
+Trifft für BASt und die 
+Anwendung BASti nicht zu. 
+Anlage 1      Kleine Anfrage 21/7535 
+Bundesministerium 
+für Verkehr 
+Deutscher Wetterdienst 
+(DWD) 
+In Kooperation mit 
+europäischen Partnern 
+(EUMETNET E-AI Programm) 
+wurde der Digitale Assistent 
+(DAWID) inkl. Agenten-Modus 
+mit Fokus auf Anwendungen 
+für Wetter und Klima 
+entwickelt. Der Agentenmodus 
+von DAWID ist ein 
+strukturierter 
+Projekt-Controller innerhalb 
+des DWD-KI-Ökosystems. Er 
+erlaubt, komplexe, mehrstufige 
+Prozesse zu planen, 
+automatisiert auszuführen und 
+kontrolliert abzuschließen – 
+von Datenbeschaffung über 
+Modell-Runs bis hin zur 
+Ergebnis-Publikation – und das 
+alles unter Einhaltung der 
+strengen 
+DWD-Sicherheits- und 
+Governance-Richtlinien. 
+Eingesetzt wird er z.B. zur 
+Unterstützung bei der 
+Generierung von 
+Wettervorhersagen oder 
+Beratungsdienstleistungen 
+oder bei der Software-
+Entwicklung für Anwendungen 
+für Wetter und Klima. 
+DAWID dient ausschließlich als 
+Unterstützungssystem, die 
+Herausgabe von offiziellen 
+Vorhersagen, Warnungen oder 
+weiteren Dienstleistungen 
+erfolgt weiterhin durch 
+Expertinnen und Experten des 
+DWD. 
+DAWID wird lediglich für 
+fachliche Anwendungen im 
+Bereich Wetter und Klima 
+eingesetzt und trifft daher 
+nicht eigenständig rechtliche 
+Bewertungen und verantwortet 
+keine Bescheide. 
+Anlage 1      Kleine Anfrage 21/7535 
+Bundesministerium 
+für Verkehr 
+Fernstraßen-Bundesamt 
+(FBA) 
+SPARK/KI - es handelt sich um 
+ein BMDS-Projekt 
+Strukturieren, priorisieren, 
+rechtlich vorbewerten und 
+Bescheidentwürfe erzeugen. 
+Die endgültige rechtliche 
+Würdigung und Entscheidung 
+verbleiben stets bei den 
+Behördenmitarbeitenden. 
+Es handelt sich um einen 
+integrierten KI-gestützten 
+Prozess, jedoch mit der 
+Möglichkeit des menschlichen 
+Intervinierens/Entscheidens/ 
+Korrigierens pro Prozesschritt. 
+Bundesministerium 
+für Verkehr 
+Fernstraßen-Bundesamt 
+(FBA) 
+wirkRG (Planungsphase) - es 
+handelt sich um ein BMDS 
+Projekt im Rahmen von SPARK 
+Ausschließlich unterstützende 
+Tätigkeit. 
+Noch nicht spezifiziert, 
+vermutlich nicht. 
+Bundesministerium 
+für Verkehr 
+Luftfahrt-Bundesamt 
+(LBA) 
+Im LBA werden zentrale 
+Plattformen des ITZBund für 
+die Bereitstellung von KI Tools 
+verwendet. Es handelt sich um 
+die in der Pilotierung 
+befindliche KIPITZ Plattform 
+und den Chatbot des ITZBund. 
+Agentische KI wird im LBA 
+derzeit nicht genutzt. Die 
+Bereitstellung einer neuen 
+Softwarelösung zur 
+Unterstützung der 
+Fachverfahren des LBA wird im 
+Projekt Appl 2.0 bearbeiet. In 
+diesem Zusammenhang 
+erfolgte auch die 
+Markterkundung für Anbieter 
+agentischer KI. Bedarf zur 
+Nutzung besteht u.a. für den 
+Die möglichen 
+Nutzungsszenarien betreffen 
+Verwaltungsprozesse, die 
+durch einen menschlichen 
+Entscheider abschließend 
+bearbeitet werden. KI Tools 
+dienen in diesem Fall der 
+Entscheidungsunterstützung, 
+als Recherchemittel, zur 
+Dokumentenanalyse und -
+aufbereitung sowie zur 
+Unterstützung der 
+Kommunikation mit 
+Antragstellern bzw. Kunden 
+des LBA. 
+Zu dem geannten Szenario 
+besteht im LBA derzeit kein 
+Vorhaben. 
+Anlage 1      Kleine Anfrage 21/7535 
+Bereich Luftfahrtpersonal, 
+insbesondere Flugmedizin.  
+Bundesministerium 
+für Digitales und 
+Staatsmodernisierung 
+  
+KIPITZ 
+AgenticAI Hub 
+SPARK (Beschleunigung von 
+Planungs- und 
+Genehmigungsverfahren) 
+KI-basierte 
+Verwaltungsplattform 
+("Deutschland-App") 
+KIPITZ: unterstützend, keine 
+Entscheidung 
+AgenticAI Hub: Die endgültige 
+Entscheidung verbleibt stets 
+beim Behördenmitarbeitenden. 
+Es wurde das Prinzip Human in 
+the loop verfolgt.  
+SPARK: Die endgültige 
+rechtliche Würdigung und 
+Entscheidung verbleiben stets 
+bei den 
+Behördenmitarbeitenden; 
+SPARK liefert nur 
+unterstützende Vorschläge.  
+KI-basierte 
+Verwaltungsplattform: Betrifft 
+ausschließlich unterstützende 
+Tätigkeiten 
+SPARK: Es handelt sich um 
+einen integrierten KI-
+gestützten Prozess, jedoch mit 
+der Möglichkeit des 
+menschlichen 
+Intervinierens/Entscheidens/K
+orrigierens pro Prozesschritt. 
+Anlage 1      Kleine Anfrage 21/7535 
+Bundesministerium 
+des Innern  
+Bundesamt für 
+Migration und 
+Flüchtlinge (BAMF) 
+Aktuell sind keine agentischen 
+KI-Systeme beim BAMF im 
+Einsatz.  
+ 
+Die KI-Plattform des ITZBunds 
+"KIPITZ" (Einführung im BAMF 
+in Arbeit) entwickelt aktuell 
+eine neue Funktionalität 
+namens "KI-Assistent", welche 
+verschiedene KI-Fähigkeiten 
+agentisch miteinander 
+verbindet, um Nutzereingaben 
+zu beantworten.  
+ 
+Erste Tests im Bereich 
+agentischer 
+Programmierunterstützung 
+finden statt. 
+  / 
+Bundesministerium 
+des Innern  
+Bundeskriminalamt 
+(BKA) 
+Konzeptstudie zur 
+automatisierten Steuerung von 
+E-Mails im Stab. Ziel ist es E-
+Mail-Eingänge automatisch zu 
+kategorisieren und 
+Weiterleitungsentwürfe 
+automatisch zu fertigen, 
+welche anschließend durch 
+einen Menschen gesichtet, 
+geprüft und bei Bedarf 
+überarbeitet werden, um so 
+Steuerungszeiten zu verkürzen.  
+Das Vorhaben betrifft eine rein 
+unterstützende Tätigkeit, da 
+die agentisch generierten 
+Inhalte durch einen Menschen 
+kuratiert und qualitätsgesichert 
+werden.  
+/ 
+Anlage 1      Kleine Anfrage 21/7535 
+Bundesministerium 
+des Innern  
+Bundesamt für 
+Sicherheit in der 
+Informationstechnik 
+(BSI) 
+Im Rahmen der 
+Schwachstellenerkennung wird 
+prototypisch Agentic AI 
+verwendet. Dies soll weiter 
+ausgebaut werden. 
+/ / 
+ 
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
