@@ -1,0 +1,912 @@
+Deutscher Bundestag Drucksache 21/8021
+21. Wahlperiode 14.09.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten René Springer, Gerrit Huy, 
+Robert Teske, weiterer Abgeordneter und der Fraktion der AfD
+– Drucksache 21/6107 –
+Rentenzahlungen und Altersarmut im Jahr 2025
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die gesetzliche Rente stand als eine der wichtigsten Formen staatlich
+organisierter Sozialversicherungsleistungen in Deutschland in den letzten
+Jahrzehnten immer wieder im Mittelpunkt gesellschaftlicher Debatten. Insbesondere 
+ihre Belastbarkeit angesichts des demografischen Wandels stand in der letzten 
+Zeit im Fokus. Ein wesentlicher Aspekt innerhalb dieser Diskussionen stellt 
+die Frage nach den Rentenhöhen dar und ob die gesetzliche Rente auch in
+Zukunft noch als alleiniges Sicherungssystem ausreicht, um Altersarmut zu
+verhindern.
+Schon jetzt zeigt sich ein Anstieg der relativen Einkommensarmut bei Älteren 
+bzw. Menschen ab 65 Jahren. „Ältere Menschen ab 65 Jahren waren über viele 
+Jahre seltener arm als die Durchschnittsbevölkerung. Jedoch zeigt sich eine 
+steigende Tendenz: Während der Anteil der älteren Menschen, die von Armut 
+betroffen waren, im Jahr 2005 bei 11 Prozent und damit 3,7 Prozentpunkte
+unterhalb des Bevölkerungsdurchschnitts lag, näherte sich die Altersarmutsquote 
+in den letzten Jahren immer mehr der Gesamtbevölkerung an und erreichte 
+2016 14,8 Prozent. Mit 15,7 Prozent hat sie 2019 einen neuen Höchstwert
+erreicht“, stellt das zur Hans-Böckler-Stiftung gehörende Wirtschafts- und
+Sozialwissenschaftliche Institut in diesem Zusammenhang fest (www.wsi.de/de/ar
+mut-14596-armutsquoten-kinder-und-aeltere-15193.htm).
+Aktuelle Daten des Statistischen Bundesamts unterstreichen diese
+Entwicklung: Demnach „waren hierzulande 16,1 Prozent der Bevölkerung von Armut 
+bedroht. Mit 19,5 Prozent lag die Armutsgefährdungsquote für Personen ab 
+65 Jahren über diesem Durchschnittswert. Ein ähnliches Bild zeigt sich auch 
+für Personen ab 75 Jahren, deren Armutsgefährdungsquote bei 19,1 Prozent 
+lag“ (www.destatis.de/DE/Themen/Querschnitt/Demografischer-Wandel/Aelt
+ere-Menschen/armutsgefaehrdung.html).
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Arbeit und Soziales vom 
+14. September 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+Ferner steigt die Zahl die Rentner, die trotz Rentenbezug weiterhin
+erwerbstätig sind (www.zeit.de/arbeit/2026-08/erwerbstaetigkeit-rentner-altersrente-arb
+eiten-minijob-gxe). Zwar stellte eine Studie des Instituts für Arbeitsmarkt- 
+und Berufsforschung fest, dass eine deutliche Mehrheit von 90 Prozent der
+erwerbstätigen Rentner die sozialen Aspekte bei ihrer Entscheidung für die
+Fortsetzung ihrer Erwerbstätigkeit betonten, dennoch gab mehr als die Hälfte der 
+Befragten auch finanzielle Gründe für die Erwerbsarbeit an (https://iab.de/pres
+seinfo/erwerbstaetige-im-rentenalter-arbeiten-nur-zum-teil-des-geldes-we
+gen/).
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Nach Ansicht der Bundesregierung können ausnahmsweise nicht alle Fragen 
+vollständig beantwortet werden.
+Das parlamentarische Informations- und Auskunftsrecht steht unter dem
+Vorbehalt der Zumutbarkeit bei der Beibringung der erbetenen Informationen (Urteil 
+des Bundesverfassungsgerichts (BVerfG) vom 7. November 2017, 2 BvE 2/11, 
+Rz. 249). Es sind alle Informationen mitzuteilen, über die die Bundesregierung 
+verfügt oder die sie mit zumutbarem Aufwand in der für die Beantwortung der 
+Kleinen Anfrage zur Verfügung stehenden Zeit in Erfahrung bringen kann.
+Parlamentarische Kontrolle ist politische Kontrolle, nicht administrative
+Überkontrolle (BVerfGE 67, 100, 140).
+Ausgehend von Umfang und Detailtiefe der 47 Fragen kann die Bereitstellung 
+einiger, nicht bereits statistisch erfasster, Informationen von der
+Bundesregierung unter Wahrung ihrer Funktionsfähigkeit nicht geleistet werden, da der
+Arbeitsaufwand zur Bereitstellung dieser Informationen unzumutbar ist und
+hierdurch in den mit der Erstellung, Auswertung und Aufbereitung befassten
+Arbeitseinheiten die funktionsadäquate Erledigung der Fachaufgaben gefährdet 
+wäre. Es besteht weder eine rechtliche Verpflichtung, noch ist es im Sinne einer 
+effizienten und ressourcenschonenden öffentlichen Verwaltung leistbar, diese 
+erfragten Informationen als Daten vollständig statistisch zu erfassen bzw.
+standardmäßig auszuwerten und aufzubereiten.
+So müssten zunächst umfangreiche Sonderauswertungen von Mikrodaten
+erstellt werden, d. h., die Skripte für diese Sonderauswertungen müssten zunächst 
+programmiert werden. Dies betrifft beispielsweise Fragen nach dem
+Rentenzahlbetrag unter dem EU‑SILC-Schwellenwert, dem Bruttorentenbetrag oder 
+den Median-Zahlbeträgen, da der Rentenzahlbetrag in den Statistiken der
+Deutschen Rentenversicherung nur als durchschnittlicher Rentenzahlbetrag sowie in 
+bestimmten Rentenzahlbetragsklassen vorliegt. Die komplexen Fallgruppen 
+und Differenzierungen erfordern einen hohen Programmierungsaufwand und 
+entsprechende Programmlaufzeiten, da je Berichtsjahr mehrere Millionen Fälle 
+auszuwerten wären. Darüber hinaus liegen die statistisch erfassten Daten der 
+Deutschen Rentenversicherung nicht als relationale Datenbank vor, sondern 
+voraggregiert und klassifiziert in hierarchischen Kategorien (z. B. Wohnort, 
+Geschlecht, Staatsangehörigkeit) und Kennzahlen (z. B. Rentenzahlbetrag,
+Versicherungsjahre), die für die Datenauswertung entsprechend der Fragestellung 
+händisch zu kreuzen wären. Das ist vor dem Hintergrund der hierarchischen 
+Kategorien und der komplexen Fallgruppen nur in mehreren, getrennt
+voneinander vorzunehmenden, Auswertungen möglich. Außerdem sind aus den
+voraggregierten Kategorien, ebenfalls händisch und je nach Fragestellung,
+Kategorien u. a. für die erfragten Staatsangehörigkeiten oder Versicherungsjahre zu 
+bilden bzw. nicht benötigte Merkmale einer Kategorie durch Filter zu
+entfernen.
+Da die Datenauswertung aus den vorhandenen Daten ebenfalls mehrere
+Millionen Fälle für jedes Berichtsjahr umfasst bzw. Daten für Zeiträume von bis zu 
+16 Jahren erfragt werden, würden zudem sehr lange Programmlaufzeiten
+benötigt. Im Anschluss wären die Ergebnisse zu exportieren, auf Qualität zu prüfen 
+und zum Zwecke der Antwort aufzubereiten.
+Insgesamt ist für die Programmierung der Sonderauswertungen, die
+Programmlaufzeit, die Zusammenstellung der Kreuztabellen aus den vorhandenen
+Statistiken, den Datenexport, die Qualitätsprüfung und die Aufbereitung der Tabellen 
+von einem Arbeitsaufwand auszugehen, der deutlich über dem nach der
+Geschäftsordnung des Bundestages für die Bearbeitung einer Kleinen Anfrage 
+vorgesehenen Zeitraum liegt und auch nicht im Rahmen einer
+Fristverlängerung realisierbar wäre.
+ 1. Wie hoch war nach Kenntnis der Bundesregierung der durchschnittliche 
+Rentenzahlbetrag bei Altersrenten (bitte für die Jahre seit 2010 angeben 
+und jeweils für die gesamte Bundesrepublik Deutschland sowie für Ost- 
+und Westdeutschland getrennt nach Männern, Frauen, Frauen ohne
+Kinder, Frauen mit einem Kind, Frauen mit zwei Kindern, Frauen mit drei 
+Kindern sowie Frauen mit vier und mehr Kindern aufschlüsseln und
+darüber hinaus jeweils für Renten nach 40 und 45 Versicherungsjahren
+angeben)?
+ 2. Wie hoch war nach Kenntnis der Bundesregierung der durchschnittliche 
+Rentenzahlbetrag bei Altersrenten (bitte für die Jahre seit 2010 angeben 
+und jeweils für die gesamte Bundesrepublik Deutschland sowie für Ost- 
+und Westdeutschland getrennt nach Nationalität: Deutsche, Ausländer, 
+EU-Ausländer, EU‑11, Türken, Ukrainer und Top‑8-nichteuropäische-
+Asylherkunftsländer insgesamt sowie nach Syrern, Afghanen, Irakern, 
+Pakistanern, Iranern, Eritreern, Somaliern und Nigerianern, aufschlüsseln 
+und darüber hinaus jeweils für Renten nach 40 und 45
+Versicherungsjahren angeben)?
+Die Fragen 1 und 2 werden gemeinsam beantwortet.
+Angaben zu den durchschnittlichen Rentenzahlbeträgen in Deutschland können 
+für die Jahre 2010 bis 2014 den jährlichen Statistikbänden „Rentenbestand am 
+31. 12.“ (Tabelle 52.00 G) bzw. ab dem Jahr 2015 den Statistikbänden „Rente“ 
+(Tabelle 21.00 G bis 21.02 G) der Deutschen Rentenversicherung entnommen 
+werden: https://statistik-rente.de/drv/extern/publikationen/(Rente). Im Übrigen 
+wird auf die Vorbemerkung der Bundesregierung verwiesen.
+ 3. Wie hoch waren in den Jahren 2010, 2020, 2024 und 2025 die
+Medianzahlbeträge der Versichertenrenten insgesamt und differenziert nach den 
+Rentenarten Altersrenten mit Regelaltersrenten, Renten für besonders 
+langjährig Versicherte und für langjährig Versicherte sowie Renten bei 
+voller und teilweiser Erwerbsminderung (bitte neben dem Median auch 
+den Durchschnitt ausweisen)?
+Angaben zu den durchschnittlichen Rentenzahlbeträgen können den jährlichen 
+Statistikbänden „Rentenbestand am 31. Dezember 2010“ (Tabelle 3.00 G) bzw. 
+ab dem Jahr 2020 den Statistikbänden „Rente“ (Tabelle 1.00 G und 3.00 G) der 
+Deutschen Rentenversicherung entnommen werden: https://statistik-rente.de/dr
+v/extern/publikationen/ (Rente). Im Übrigen wird auf die Vorbemerkung der 
+Bundesregierung verwiesen.
+ 4. Wie verteilten sich nach Kenntnis der Bundesregierung die in Frage 3
+erfragten Medianrenten auf Männer und Frauen, das Bundesgebiet, West- 
+und Ostdeutschland, die einzelnen Bundesländer sowie auf die einzelnen 
+Nationalitäten: Deutsche, Ausländer, EU-Ausländer, EU‑11, Türken, 
+Ukrainer und Top‑8-nichteuropäische-Asylherkunftsländer insgesamt
+sowie differenziert nach Syrern, Afghanen, Irakern, Pakistanern, Iranern, 
+Eritreern, Somaliern und Nigerianern (bitte neben den Medianwerten 
+auch den Durchschnitt ausweisen)?
+Es wird auf die Antwort zu den Fragen 1 und 2 verwiesen.
+5. Wie hoch waren Anzahl und Anteil (an allen Rentnern) der Rentner, die 
+in den Jahren 2020 und 2025 eine Nettorente (Rentenzahlbetrag) von 
+unter 2 000 Euro und über 2 000 Euro erhalten haben (bitte getrennt für 
+jedes Jahr auch für unter und über 1 800 Euro, unter und über 
+1 600 Euro, unter und über 1 400 Euro, unter und über 1 300 Euro, unter 
+und über 1 200 Euro, unter und über 1 100 Euro, unter und über 
+1 000 Euro und bitte jeweils auch für mindestens 40 Versicherungsjahre 
+angeben)?
+ 6. Wie hoch waren Anzahl und Anteil (an allen Rentnern mit mindestens 
+45 Versicherungsjahren) der Rentner, die in den Jahren 2020 und 2025 
+mindestens 45 Versicherungsjahre erreicht hatten und eine Nettorente 
+(Rentenzahlbetrag) von unter 2 000 Euro und über 2 000 Euro erhalten 
+haben (bitte getrennt für jedes Jahr auch für unter und über 1 800 Euro, 
+unter und über 1 600 Euro, unter und über 1 400 Euro, unter und über 
+1 300 Euro, unter und über 1 200 Euro, unter und über 1 100 Euro, unter 
+und über 1 000 Euro und bitte jeweils auch für mindestens 40
+Versicherungsjahre angeben)?
+ 7. Wie hoch waren Anzahl und Anteil (an allen Rentnern in
+Westdeutschland) der Rentner in Westdeutschland, die in den Jahren 2020 und 2025 
+eine Nettorente (Rentenzahlbetrag) von unter 2 000 Euro und über 
+2 000 Euro erhalten haben (bitte getrennt für jedes Jahr auch für unter 
+und über 1 800 Euro, unter und über 1 600 Euro, unter und über 
+1 400 Euro, unter und über 1 300 Euro, unter und über 1 200 Euro, unter 
+und über 1 100 Euro, unter und über 1 000 Euro und bitte jeweils auch 
+für mindestens 40 Versicherungsjahre angeben)?
+ 8. Wie hoch waren Anzahl und Anteil (an allen Rentnern in
+Westdeutschland mit mindestens 45 Versicherungsjahren) der Rentner in
+Westdeutschland, die in den Jahren 2020 und 2025 mindestens 45
+Versicherungsjahre erreicht hatten und eine Nettorente (Rentenzahlbetrag) von 
+unter 2 000 Euro und über 2 000 Euro erhalten haben (bitte getrennt für 
+jedes Jahr auch für unter und über 1 800 Euro, unter und über 
+1 600 Euro, unter und über 1 400 Euro, unter und über 1 300 Euro, unter 
+und über 1 200 Euro, unter und über 1 100 Euro, unter und über 
+1 000 Euro und bitte jeweils auch für mindestens 40 Versicherungsjahre 
+angeben)?
+ 9. Wie hoch waren Anzahl und Anteil (an allen Rentnern in
+Ostdeutschland) der Rentner in Ostdeutschland, die in den Jahren 2020 und 2025 
+eine Nettorente (Rentenzahlbetrag) von unter 2 000 Euro und über 
+2 000 Euro erhalten haben (bitte getrennt für jedes Jahr auch für unter 
+und über 1 800 Euro, unter und über 1 600 Euro, unter und über 
+1 400 Euro, unter und über 1 300 Euro, unter und über 1 200 Euro, unter 
+und über 1 100 Euro, unter und über 1 000 Euro und bitte jeweils auch 
+für mindestens 40 Versicherungsjahre angeben)?
+10. Wie hoch waren Anzahl und Anteil (an allen Rentnern in Ostdeutschland 
+mit mindestens 45 Versicherungsjahren) der Rentner in Ostdeutschland, 
+die in den Jahren 2020 und 2025 mindestens 45 Versicherungsjahre
+erreicht hatten und eine Nettorente (Rentenzahlbetrag) von unter 
+2 000 Euro und über 2 000 Euro erhalten haben (bitte getrennt für jedes 
+Jahr auch für unter und über 1 800 Euro, unter und über 1 600 Euro, 
+unter und über 1 400 Euro, unter und über 1 300 Euro, unter und über 
+1 200 Euro, unter und über 1 100 Euro, unter und über 1 000 Euro und 
+bitte jeweils auch für mindestens 40 Versicherungsjahre angeben)?
+Die Fragen 5 bis 10 werden gemeinsam beantwortet.
+Die Anzahl der Renten wegen Alters mit einem Rentenzahlbetrag unterhalb der 
+angefragten Höhen kann der Tabelle zu den Fragen 5 bis 10 im Tabellenanhang 
+entnommen werden. Die Anzahl der Renten über den jeweiligen Zahlbeträgen 
+ergibt sich im Umkehrschluss durch Abzug von der Gesamtzahl. Es wird darauf 
+hingewiesen, dass allein aus der Höhe einer Altersrente der gesetzlichen
+Rentenversicherung grundsätzlich nicht auf die Höhe des Alterseinkommens
+geschlossen werden kann, da u. a. weitere (Alters-) Einkommen und der
+Haushaltskontext nicht berücksichtigt sind. Die Höhe der Renten aus der
+gesetzlichen Rentenversicherung verteilt sich von Kleinstrenten bis hin zu sehr hohen 
+Rentenbeträgen. Ein Rentenanspruch entsteht bereits nach einer Wartezeit von 
+fünf Jahren. Gerade bei geringen Renten bestehen aber oft auch Ansprüche in 
+anderen (inländischen oder ausländischen) Sicherungssystemen, über die in der 
+Statistik der Deutschen Rentenversicherung keine Informationen vorliegen. Der 
+Alterssicherungsbericht 2024 bestätigt den Zusammenhang: So fällt das
+Haushaltseinkommen in den Paar-Haushalten mit den kleinsten Rentenzahlbeträgen 
+durchschnittlich am höchsten aus, (vgl. hierzu auch die Tabelle “Anteil der 
+Rente aus der gesetzlichen Rentenversicherung am Bruttoeinkommen nach 
+Rentengrößenklassen“ im Alterssicherungsbericht 2024
+(Bundestagsdrucksache 20/14086, Seite 89).
+11. Wie hoch waren Anzahl und Anteil (an allen ausländischen Rentnern) 
+der ausländischen Rentner, die in den Jahren 2020 und 2025 eine
+Nettorente (Rentenzahlbetrag) von unter 2 000 Euro und über 2 000 Euro
+erhalten haben (bitte getrennt für jedes Jahr auch für unter und über 
+1 800 Euro, unter und über 1 600 Euro, unter und über 1 400 Euro, unter 
+und über 1 300 Euro, unter und über 1 200 Euro, unter und über 
+1 100 Euro, unter und über 1 000 Euro und bitte jeweils auch für
+mindestens 40 Versicherungsjahre angeben)?
+12. Wie hoch waren Anzahl und Anteil (an allen ausländischen Rentnern mit 
+mindestens 45 Versicherungsjahren) der ausländischen Rentner, die in 
+den Jahren 2020 und 2025 mindestens 45 Versicherungsjahre erreicht 
+hatten und eine Nettorente (Rentenzahlbetrag) von unter 2 000 Euro und 
+über 2 000 Euro erhalten haben (bitte getrennt für jedes Jahr auch für 
+unter und über 1 800 Euro, unter und über 1 600 Euro, unter und über 
+1 400 Euro, unter und über 1 300 Euro, unter und über 1 200 Euro, unter 
+und über 1 100 Euro, unter und über 1 000 Euro und bitte jeweils auch 
+für mindestens 40 Versicherungsjahre angeben)?
+13. Wie hoch waren Anzahl und Anteil (an allen ausländischen Rentnern in 
+Westdeutschland) der ausländischen Rentner in Westdeutschland, die in 
+den Jahren 2020 und 2025 eine Nettorente (Rentenzahlbetrag) von unter 
+2 000 Euro und über 2 000 Euro erhalten haben (bitte getrennt für jedes 
+Jahr auch für unter und über 1 800 Euro, unter und über 1 600 Euro, 
+unter und über 1 400 Euro, unter und über 1 300 Euro, unter und über 
+1 200 Euro, unter und über 1 100 Euro, unter und über 1 000 Euro und 
+bitte jeweils auch für mindestens 40 Versicherungsjahre angeben)?
+14. Wie hoch waren Anzahl und Anteil (an allen ausländischen Rentnern in 
+Westdeutschland mit mindestens 45 Versicherungsjahren) der
+ausländischen Rentner in Westdeutschland, die in den Jahren 2020 und 2025
+mindestens 45 Versicherungsjahre erreicht hatten und eine Nettorente
+(Rentenzahlbetrag) von unter 2 000 Euro und über 2 000 Euro erhalten haben 
+(bitte getrennt für jedes Jahr auch für unter und über 1 800 Euro, unter 
+und über 1 600 Euro, unter und über 1 400 Euro, unter und über 
+1 300 Euro, unter und über 1 200 Euro, unter und über 1 100 Euro, unter 
+und über 1 000 Euro und bitte jeweils auch für mindestens 40
+Versicherungsjahre angeben)?
+15. Wie hoch waren Anzahl und Anteil (an allen ausländischen Rentnern in 
+Ostdeutschland) der Rentner in Ostdeutschland, die in den Jahren 2020 
+und 2025 eine Nettorente (Rentenzahlbetrag) von unter 2 000 Euro und 
+über 2 000 Euro erhalten haben (bitte getrennt für jedes Jahr auch für 
+unter und über 1 800 Euro, unter und über 1 600 Euro, unter und über 
+1 400 Euro, unter und über 1 300 Euro, unter und über 1 200 Euro, unter 
+und über 1 100 Euro, unter und über 1 000 Euro und bitte jeweils auch 
+für mindestens 40 Versicherungsjahre angeben)?
+16. Wie hoch waren Anzahl und Anteil (an allen ausländischen Rentnern in 
+Ostdeutschland mit mindestens 45 Versicherungsjahren) der Rentner in 
+Ostdeutschland, die in den Jahren 2020 und 2025 mindestens 45
+Versicherungsjahre erreicht hatten und eine Nettorente (Rentenzahlbetrag) 
+von unter 2 000 Euro und über 2 000 Euro erhalten haben (bitte getrennt 
+für jedes Jahr auch für unter und über 1 800 Euro, unter und über 
+1 600 Euro, unter und über 1 400 Euro, unter und über 1 300 Euro, unter 
+und über 1 200 Euro, unter und über 1 100 Euro, unter und über 
+1 000 Euro und bitte jeweils auch für mindestens 40 Versicherungsjahre 
+angeben)?
+Die Fragen 11 bis 16 werden gemeinsam beantwortet.
+Die Anzahl der Renten wegen Alters mit einem Rentenzahlbetrag unterhalb der 
+angefragten Höhen kann der Tabelle zu den Fragen 11 bis 16 im
+Tabellenanhang entnommen werden. Die Anzahl der Renten über den jeweiligen
+Zahlbeträgen ergibt sich im Umkehrschluss durch Abzug von der Gesamtzahl. Im
+Übrigen wird auf die Antwort zu den Fragen 5 bis 10 verwiesen.
+17. Wie viele Jahre muss ein Durchschnittsverdiener aktuell arbeiten, um auf 
+einen Rentenzahlbetrag in Höhe von 1 200 Euro zu kommen (bitte auch 
+für 1 100 Euro, 1 400 Euro, 1 600 Euro und 2 000 Euro angeben), und 
+wie hoch ist die Anzahl und der Anteil (an allen
+sozialversicherungspflichtig Beschäftigten (SvB)) der sozialversicherungspflichtig
+Vollzeitbeschäftigten, die aktuell ein Gehalt unter dem Gehalt des
+Durchschnittsverdieners erhalten?
+Unter der in der Fragestellung vorgegebenen unrealistischen Annahme eines 
+über den gesamten Erwerbsverlauf unveränderten Lohnverhältnisses und
+Erzielung eines rentenversicherungspflichtigen Einkommens in Höhe des
+Durchschnittsentgelts nach Anlage 1 zum Sechsten Buch Sozialgesetzbuch (SGB VI) 
+sind zum 1. Juli 2025 für einen monatlichen Rentenzahlbetrag in Höhe von 
+1.100 Euro rein rechnerisch 30,7 Beitragsjahre (1.200 Euro/Monat: 33,5
+Beitragsjahre, 1.400 Euro/Monat: 39,1 Beitragsjahre, 1.600 Euro/Monat: 44,7
+Beitragsjahre und 2.000 Euro/Monat: 55,8 Beitragsjahre) erforderlich. Es wird
+darauf hingewiesen, dass aus der Höhe des sozialversicherungspflichtigen
+Entgelts eines einzelnen Jahres nicht auf eine Erwerbskarriere und ebenso wenig 
+auf die Einkommenssituation im Alter geschlossen werden kann. Die
+tatsächliche Höhe einer Rentenanwartschaft steht erst dann fest, wenn die
+Versicherungsbiografie vollständig abgeschlossen ist. Hinzu kommt, dass das Ergebnis 
+nicht stabil ist, da die Rentenhöhe mangels Vorliegens des endgültigen
+Durchschnittsentgelts für 2025 mit dem vorläufigen Durchschnittsentgelt gemäß
+Anlage 1 zum SGB VI berechnet werden musste.
+Im Übrigen wird auf die Vorbemerkung der Bundesregierung verwiesen.
+18. Wie hoch waren in den Jahren von 2010 bis 2025 Anzahl und jeweils der 
+Anteil (am Rentenzugang insgesamt sowie am Rentenzugang der
+jeweiligen Gruppe) der Personen mit einer Rente wegen verminderter
+Erwerbsfähigkeit (bitte jeweils nach Geschlecht: Männer und Frauen, sowie nach 
+Nationalität: Deutsche, Ausländer, EU-Ausländer, EU‑11, Türken,
+Ukrainer und Top‑8-nichteuropäische-Asylherkunftsländer insgesamt, sowie 
+differenziert nach Syrern, Afghanen, Irakern, Pakistanern, Iranern,
+Eritreern, Somaliern und Nigerianern aufschlüsseln)?
+19. Wie stellte sich in den Jahren von 2010 bis 2025 jeweils die Höhe des 
+durchschnittlichen Zahlbetrages der Renten wegen verminderter
+Erwerbsfähigkeit im Rentenzugang dar, unterschieden nach insgesamt,
+teilweiser Erwerbsminderung, voller Erwerbsminderung (bitte jeweils nach 
+Geschlecht: Männer und Frauen, sowie nach Nationalität: Deutsche, 
+Ausländer, EU-Ausländer, EU‑11, Türken, Ukrainer und Top‑8-
+nichteuropäische-Asylherkunftsländer insgesamt, sowie differenziert nach
+Syrern, Afghanen, Irakern, Pakistanern, Iranern, Eritreern, Somaliern und 
+Nigerianern aufschlüsseln)?
+Die Fragen 18 und 19 werden gemeinsam beantwortet.
+Angaben zur Anzahl und den durchschnittlichen Rentenzahlbeträgen der
+Renten wegen verminderter Erwerbsfähigkeit können für die Jahre 2010 bis 2014 
+den jährlichen Statistikbänden „Rentenzugang“ (Tabelle 52.00 Z) bzw. ab dem 
+Jahr 2015 den Statistikbänden „Rente“ (Tabelle 21.00 Z bis 21.02 Z) der
+Deutschen Rentenversicherung entnommen werden: https://statistik-rente.de/drv/ext
+ern/publikationen/ (Rente). Im Übrigen wird auf die Vorbemerkung der
+Bundesregierung verwiesen.
+20. Wie hoch war nach Kenntnis der Bundesregierung in den Jahren 2020 bis 
+2025 jeweils der durchschnittliche Bruttobedarf von Empfängern der 
+Grundsicherung im Alter, die außerhalb von Einrichtungen lebten (bitte 
+differenziert nach Bund, nach neuen und alten Bundesländern insgesamt 
+sowie nach Ländern getrennt ausweisen)?
+Der durchschnittliche Bruttobedarf von Personen, die die Altersgrenze zum 
+Renteneintrittsalter erreicht haben und Leistungen der Grundsicherung im Alter 
+nach dem Vierten Kapitel des Zwölften Buches Sozialgesetzbuch (SGB XII) 
+außerhalb von Einrichtungen beziehen, kann der nachfolgenden Tabelle
+entnommen werden.
+Durchschnittlicher Bruttobedarf von Empfängerinnen und Empfängern von 
+Grundsicherung im Alter1) außerhalb von Einrichtungen in Euro, Ende des
+Jahres
+Jahr 2020 2021 2022 2023 2024 2025
+Deutschland 835 856 865 942 1.011 1.027
+1) Ab der Altersgrenze zum Renteneintrittsalter nach § 41 Abs. 2 SGB XII.
+Quelle: Statistisches Bundesamt
+Die erbetene Differenzierung nach Bundesländern liegt lediglich für das 
+Jahr 2020 vor. Im Übrigen wird auf die Vorbemerkung der Bundesregierung 
+verwiesen.
+Durchschnittlicher Bruttobedarf von Empfängerinnen und Empfängern von 
+Grundsicherung im Alter1) außerhalb von Einrichtungen, nach Bundesländern 
+in Euro, am Ende des Jahres 2020
+Bundesland Bruttobedarf in Euro
+Schleswig-Holstein 837
+Hamburg 914
+Niedersachsen 808
+Bremen 2) 839
+Nordrhein-Westfalen 819
+Hessen 856
+Rheinland-Pfalz 793
+Baden-Württemberg 841
+Bayern 860
+Saarland. 816
+Berlin 878
+Brandenburg 787
+Mecklenburg-Vorpommern 776
+Sachsen 750
+Sachsen-Anhalt 754
+Thüringen 766
+1) Ab der Altersgrenze zum Renteneintrittsalter nach § 41 Abs. 2 SGB XII.
+2) Mit hochgerechneten Daten für Bremen.
+Quelle: Statistisches Bundesamt
+21. Welches versicherungspflichtige Jahresentgelt war nach Kenntnis der 
+Bundesregierung in den Jahren 2020 bis 2025 jeweils notwendig, um 
+nach 45 Jahren versicherungspflichtiger Beschäftigung eine Nettorente 
+oberhalb der in Frage 14 genannten durchschnittlichen Bruttobedarfe zu 
+erhalten?
+Es wird davon ausgegangen, dass auf die in der Frage 20 genannten
+durchschnittlichen Bruttobedarfe von Empfängerinnen und Empfängern von
+Grundsicherung im Alter außerhalb von Einrichtungen abgestellt werden soll. Unter 
+der in der Fragestellung vorgegebenen unrealistischen Annahme eines über den 
+gesamten Erwerbsverlauf unveränderten Entgeltverhältnisses lag das
+versicherungspflichtige Bruttojahresentgelte, das rein rechnerisch notwendig wäre, um 
+1/45 der Entgeltpunkte des Rentenzahlbetrages (ohne Berücksichtigung eines 
+eventuell zustehenden Grundrentenzuschlages) in Höhe des jeweiligen
+durchschnittlichen Bruttobedarfes einer/eines Beziehenden in der Grundsicherung im 
+Alter (außerhalb von Einrichtungen) zu erreichen, im Jahr 2020 bei 
+23.857 Euro, im Jahr 2021 bei 25.295 Euro, im Jahr 2022 bei 25.215 Euro, im 
+Jahr 2023 bei 28.140 Euro, im Jahr 2024 bei 30.417 Euro und im Jahr 2025 bei 
+32.158 Euro.
+Es wird darauf hingewiesen, dass aus der Höhe des
+sozialversicherungspflichtigen Entgelts eines einzelnen Jahres nicht auf den Erwerbsverlauf und ebenso 
+wenig auf die Einkommenssituation im Alter geschlossen werden kann. Hinzu 
+kommt, dass das Ergebnis nicht stabil ist, da die Rentenhöhe mangels
+Vorliegens des endgültigen Durchschnittsentgelts für 2025 mit dem vorläufigen
+Durchschnittsentgelt gemäß Anlage 1 zum SGB VI berechnet werden musste. 
+Ferner wird darauf hingewiesen, dass aus der Höhe der gesetzlichen Rente 
+allein nicht auf Hilfebedürftigkeit im Alter geschlossen werden kann, da
+weitere Einkünfte und der Haushaltskontext nicht berücksichtigt werden.
+22. Wie viele sozialversicherungspflichtig Beschäftigte haben nach Kenntnis 
+der Bundesregierung insgesamt in den Jahren 2020 bis 2025 jeweils ein 
+versicherungspflichtiges Jahresentgelt erzielt, das nicht ausreichte, um 
+nach 45 Jahren sozialversicherungspflichtiger Beschäftigung eine Rente 
+oberhalb der Grundsicherung im Alter zu erreichen (bitte differenziert 
+nach Bund, nach West- und Ostdeutschland insgesamt, nach Ländern
+sowie nach soziodemografischen Merkmalen: Männer, Frauen, nach
+Staatsangehörigkeit: Deutsche, Ausländer, EU-Ausländer, EU‑11, Türken, 
+Ukrainer und Top‑8-nichteuropäische-Asylherkunftsländer insgesamt, 
+sowie nach Syrern, Afghanen, Irakern, Pakistanern, Iranern, Eritreern, 
+Somaliern und Nigerianern ausweisen), und wie hoch war ihr Anteil an 
+den SvB ihrer jeweiligen Gruppe (siehe erbetene Differenzierung)?
+23. Wie viele sozialversicherungspflichtig Beschäftigte, die einer
+Beschäftigung mit dem Anforderungsniveau „Helfer“ nachgingen, haben nach 
+Kenntnis der Bundesregierung insgesamt in den Jahren 2020 bis 2025 
+jeweils ein versicherungspflichtiges Jahresentgelt erzielt, das nicht
+ausreichte, um nach 45 Jahren versicherungspflichtiger Beschäftigung eine 
+Rente oberhalb der Grundsicherung im Alter zu erreichen (bitte
+differenziert nach Bund, nach West- und Ostdeutschland insgesamt, nach
+Ländern sowie nach soziodemografischen Merkmalen: Männer, Frauen, nach 
+Staatsangehörigkeit: Deutsche, Ausländer, EU-Ausländer, EU‑11,
+Türken, Ukrainer und Top‑8-nichteuropäische-Asylherkunftsländer
+insgesamt sowie nach Syrern, Afghanen, Irakern, Pakistanern, Iranern,
+Eritreern, Somaliern und Nigerianern, ausweisen), und wie hoch war ihr 
+Anteil an den SvB ihrer jeweiligen Gruppe (siehe erbetene
+Differenzierung)?
+24. Wie viele sozialversicherungspflichtig Beschäftigte, die einer
+Beschäftigung mit dem Anforderungsniveau „Fachkraft“ nachgingen, haben nach 
+Kenntnis der Bundesregierung insgesamt in den Jahren 2020 bis 2025 
+jeweils ein versicherungspflichtiges Jahresentgelt erzielt, das nicht
+ausreichte, um nach 45 Jahren versicherungspflichtiger Beschäftigung eine 
+Rente oberhalb der Grundsicherung im Alter zu erreichen (bitte
+differenziert nach Bund, nach West- und Ostdeutschland insgesamt, nach
+Ländern sowie nach soziodemografischen Merkmalen: Männer, Frauen, nach 
+Staatsangehörigkeit: Deutsche, Ausländer, EU-Ausländer, EU‑11,
+Türken, Ukrainer und Top‑8-nichteuropäische-Asylherkunftsländer
+insgesamt, sowie nach Syrern, Afghanen, Irakern, Pakistanern, Iranern,
+Eritreern, Somaliern und Nigerianern ausweisen), und wie hoch war ihr
+Anteil an den SvB ihrer jeweiligen Gruppe (siehe erbetene
+Differenzierung)?
+25. Wie viele sozialversicherungspflichtig Beschäftigte, die einer
+Beschäftigung mit dem Anforderungsniveau „Spezialist“ nachgingen, haben nach 
+Kenntnis der Bundesregierung insgesamt in den Jahren 2020 bis 2025 
+jeweils ein versicherungspflichtiges Jahresentgelt erzielt, das nicht
+ausreichte, um nach 45 Jahren versicherungspflichtiger Beschäftigung eine 
+Rente oberhalb der Grundsicherung im Alter zu erreichen (bitte
+differenziert nach Bund, nach West- und Ostdeutschland insgesamt, nach
+Ländern sowie nach soziodemografischen Merkmalen: Männer, Frauen, nach 
+Staatsangehörigkeit: Deutsche, Ausländer, EU-Ausländer, EU‑11,
+Türken, Ukrainer und Top‑8-nichteuropäische-Asylherkunftsländer
+insgesamt, sowie nach Syrern, Afghanen, Irakern, Pakistanern, Iranern,
+Eritreern, Somaliern und Nigerianern ausweisen) und wie hoch war ihr
+Anteil an den SvB ihrer jeweiligen Gruppe (siehe erbetene
+Differenzierung)?
+26. Wie viele sozialversicherungspflichtig Beschäftigte, die einer
+Beschäftigung mit dem Anforderungsniveau „Experte“ nachgingen, haben nach 
+Kenntnis der Bundesregierung insgesamt in den Jahren 2020 bis 2025 
+jeweils ein versicherungspflichtiges Jahresentgelt erzielt, das nicht
+ausreichte, um nach 45 Jahren versicherungspflichtiger Beschäftigung eine 
+Rente oberhalb der Grundsicherung im Alter zu erreichen (bitte
+differenziert nach Bund, nach West- und Ostdeutschland insgesamt, nach
+Ländern sowie nach soziodemografischen Merkmalen: Männer, Frauen, nach 
+Staatsangehörigkeit: Deutsche, Ausländer, EU-Ausländer, EU‑11,
+Türken, Ukrainer und Top‑8-nichteuropäische-Asylherkunftsländer
+insgesamt, sowie nach Syrern, Afghanen, Irakern, Pakistanern, Iranern,
+Eritreern, Somaliern und Nigerianern ausweisen) und wie hoch war ihr
+Anteil an den SvB ihrer jeweiligen Gruppe (siehe erbetene
+Differenzierung)?
+27. Wie viele Renten lagen nach Kenntnis der Bundesregierung im Jahr 2025 
+unter dem EU‑SILC (European Union Statistics on Income and Living 
+Conditions)-Schwellenwert der Armutsgefährdung für das Jahr 2025 von 
+1 446 Euro pro Monat (bitte nach Anzahl und Anteil an der jeweiligen 
+Gruppe, Bruttorentenbetrag und Rentenzahlbetrag, Bund, West- und
+Ostdeutschland insgesamt, nach Ländern sowie nach soziodemografischen 
+Merkmalen: Männer, Frauen, nach Staatsangehörigkeit: Deutsche,
+Ausländer, EU-Ausländer, EU‑11, Türken, Ukrainer und Top‑8-
+nichteuropäische-Asylherkunftsländer insgesamt, sowie nach Syrern, Afghanen,
+Irakern, Pakistanern, Iranern, Eritreern, Somaliern und Nigerianern
+differenzieren)?
+28. Wie viele Renten lagen nach Kenntnis der Bundesregierung im Jahr 2024 
+unter dem EU‑SILC-Schwellenwert der Armutsgefährdung für das Jahr 
+2024 von 1 378 Euro pro Monat (bitte nach Anzahl und Anteil an der 
+jeweiligen Gruppe, Bruttorentenbetrag und Rentenzahlbetrag, Bund, 
+West- und Ostdeutschland insgesamt, nach Ländern sowie nach
+soziodemografischen Merkmalen: Männer, Frauen, nach Staatsangehörigkeit: 
+Deutsche, Ausländer, EU-Ausländer, EU‑11, Türken, Ukrainer und 
+Top‑8-nichteuropäische-Asylherkunftsländer insgesamt, sowie nach
+Syrern, Afghanen, Irakern, Pakistanern, Iranern, Eritreern, Somaliern und 
+Nigerianern differenzieren)?
+29. Wie viele Renten lagen nach Kenntnis der Bundesregierung im Jahr 2020 
+unter dem EU‑SILC-Schwellenwert der Armutsgefährdung für das Jahr 
+2020 von 1 300 Euro pro Monat (bitte nach Anzahl und Anteil an der 
+jeweiligen Gruppe, Bruttorentenbetrag und Rentenzahlbetrag, Bund, 
+West- und Ostdeutschland insgesamt, nach Ländern sowie nach
+soziodemografischen Merkmalen: Männer, Frauen, nach Staatsangehörigkeit: 
+Deutsche, Ausländer, EU-Ausländer, EU‑11, Türken, Ukrainer und 
+Top‑8-nichteuropäische-Asylherkunftsländer insgesamt, sowie nach
+Syrern, Afghanen, Irakern, Pakistanern, Iranern, Eritreern, Somaliern und 
+Nigerianern differenzieren)?
+30. Wie viele Renten lagen nach Kenntnis der Bundesregierung im Jahr 2015 
+unter dem EU‑SILC-Schwellenwert der Armutsgefährdung für das Jahr 
+2015 von 1 064 Euro pro Monat (bitte nach Anzahl und Anteil an der 
+jeweiligen Gruppe, Bruttorentenbetrag und Rentenzahlbetrag, Bund, 
+West- und Ostdeutschland insgesamt, nach Ländern sowie nach
+soziodemografischen Merkmalen: Männer, Frauen, nach Staatsangehörigkeit: 
+Deutsche, Ausländer, EU-Ausländer, EU‑11, Türken, Ukrainer und 
+Top‑8-nichteuropäische-Asylherkunftsländer insgesamt, sowie nach
+Syrern, Afghanen, Irakern, Pakistanern, Iranern, Eritreern, Somaliern und 
+Nigerianern differenzieren)?
+31. Wie viele Renten lagen nach Kenntnis der Bundesregierung im Jahr 2010 
+unter dem EU‑SILC-Schwellenwert der Armutsgefährdung für das Jahr 
+2010 von 952 Euro pro Monat (bitte nach Anzahl und Anteil an der
+jeweiligen Gruppe, Bruttorentenbetrag und Rentenzahlbetrag, Bund, West- 
+und Ostdeutschland insgesamt, nach Ländern sowie nach
+soziodemografischen Merkmalen: Männer, Frauen, nach Staatsangehörigkeit:
+Deutsche, Ausländer, EU‑Ausländer, EU‑11, Türken, Ukrainer und Top‑8-
+nichteuropäische-Asylherkunftsländer insgesamt, sowie nach Syrern,
+Afghanen, Irakern, Pakistanern, Iranern, Eritreern, Somaliern und
+Nigerianern differenzieren)?
+32. Wie viele Renten langjährig Versicherter lagen im Jahr 2025 unter dem 
+EU‑SILC-Schwellenwert der Armutsgefährdung für das Jahr 2025 in 
+Höhe von 1 446 Euro (bitte nach Anzahl und Anteil an der jeweiligen 
+Gruppe, Bruttorentenbetrag und Rentenzahlbetrag, jeweils nach
+Versicherungsjahren mit mindestens 35 Jahren sowie 45 Jahren, Bund, West- 
+und Ostdeutschland insgesamt, nach Ländern sowie nach
+soziodemografischen Merkmalen: Männer, Frauen, nach Staatsangehörigkeit:
+Deutsche, Ausländer, EU-Ausländer, EU‑11, Türken, Ukrainer und Top‑8-
+nichteuropäische-Asylherkunftsländer insgesamt, sowie nach Syrern,
+Afghanen, Irakern, Pakistanern, Iranern, Eritreern, Somaliern und
+Nigerianern differenzieren)?
+33. Wie viele Renten langjährig Versicherter lagen im Jahr 2024 unter dem 
+EU-SILC-Schwellenwert der Armutsgefährdung für das Jahr 2024 in 
+Höhe von 1 378 Euro (bitte nach Anzahl und Anteil an der jeweiligen 
+Gruppe, Bruttorentenbetrag und Rentenzahlbetrag, jeweils nach
+Versicherungsjahren mit mindestens 35 Jahren sowie 45 Jahren, Bund, West- 
+und Ostdeutschland insgesamt, nach Ländern sowie nach
+soziodemografischen Merkmalen: Männer, Frauen, nach Staatsangehörigkeit:
+Deutsche, Ausländer, EU-Ausländer, EU‑11, Türken, Ukrainer und Top‑8-
+nichteuropäische-Asylherkunftsländer insgesamt, sowie nach Syrern,
+Afghanen, Irakern, Pakistanern, Iranern, Eritreern, Somaliern und
+Nigerianern differenzieren)?
+34. Wie viele Renten langjährig Versicherter lagen im Jahr 2020 unter dem 
+EU-SILC-Schwellenwert der Armutsgefährdung für das Jahr 2020 in 
+Höhe von 1 300 Euro (bitte nach Anzahl und Anteil an der jeweiligen 
+Gruppe, Bruttorentenbetrag und Rentenzahlbetrag, jeweils nach
+Versicherungsjahren mit mindestens 35 Jahren sowie 45 Jahren, Bund, West- 
+und Ostdeutschland insgesamt, nach Ländern sowie nach
+soziodemografischen Merkmalen: Männer, Frauen, nach Staatsangehörigkeit:
+Deutsche, Ausländer, EU-Ausländer, EU‑11, Türken, Ukrainer und Top‑8-
+nichteuropäische-Asylherkunftsländer insgesamt, sowie nach Syrern,
+Afghanen, Irakern, Pakistanern, Iranern, Eritreern, Somaliern und
+Nigerianern differenzieren)?
+35. Wie viele Renten langjährig Versicherter lagen im Jahr 2015 unter dem 
+EU‑SILC-Schwellenwert der Armutsgefährdung für das Jahr 2015 in 
+Höhe von 1 064 Euro (bitte nach Anzahl und Anteil an der jeweiligen 
+Gruppe, Bruttorentenbetrag und Rentenzahlbetrag, jeweils nach
+Versicherungsjahren mit mindestens 35 Jahren sowie 45 Jahren, Bund, West- 
+und Ostdeutschland insgesamt, nach Ländern sowie nach
+soziodemografischen Merkmalen: Männer, Frauen, nach Staatsangehörigkeit:
+Deutsche, Ausländer, EU-Ausländer, EU‑11, Türken, Ukrainer und Top‑8-
+nichteuropäische-Asylherkunftsländer insgesamt, sowie nach Syrern,
+Afghanen, Irakern, Pakistanern, Iranern, Eritreern, Somaliern und
+Nigerianern differenzieren)?
+36. Wie viele Renten langjährig Versicherter lagen im Jahr 2010 unter dem 
+EU‑SILC-Schwellenwert der Armutsgefährdung für das Jahr 2010 in 
+Höhe von 952 Euro (bitte nach Anzahl und Anteil an der jeweiligen 
+Gruppe, Bruttorentenbetrag und Rentenzahlbetrag, jeweils nach
+Versicherungsjahren mit mindestens 35 Jahren sowie 45 Jahren, Bund, West- 
+und Ostdeutschland insgesamt, nach Ländern sowie nach
+soziodemografischen Merkmalen: Männer, Frauen, nach Staatsangehörigkeit:
+Deutsche, Ausländer, EU-Ausländer, EU‑11, Türken, Ukrainer und Top‑8-
+nichteuropäische-Asylherkunftsländer insgesamt, sowie nach Syrern,
+Afghanen, Irakern, Pakistanern, Iranern, Eritreern, Somaliern und
+Nigerianern differenzieren)?
+Die Fragen 22 bis 36 werden gemeinsam beantwortet.
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen.
+37. Wie hoch waren in den Jahren 2010, 2015, 2020, 2024 und 2025 Anzahl 
+und Anteil (bezogen auf die jeweilige Grundgesamtheit) der
+Altersrentner, bei denen nach Kenntnis der Bundesregierung der Rentenzahlbetrag 
+(nach Abzug von Beiträgen zur gesetzlichen Kranken- und
+Pflegeversicherung sowie dem durchschnittlichen Zusatzbeitrag in der
+gesetzlichen Krankenversicherung) unter dem Bruttobedarf von Empfängern von 
+Grundsicherung im Alter lag (bitte nach insgesamt sowie nach West- und 
+Ostdeutschland, nach Männern, Frauen, Frauen ohne Kinder, Frauen mit 
+einem Kind, Frauen mit zwei Kindern, Frauen mit drei Kindern sowie 
+Frauen mit drei Kindern und mehr differenzieren)?
+38. Wie hoch waren in den Jahren 2010, 2015, 2020, 2024 und 2025 Anzahl 
+und Anteil (bezogen auf die jeweilige Grundgesamtheit) der
+Altersrentner, bei denen nach Kenntnis der Bundesregierung der Rentenzahlbetrag 
+(nach Abzug von Beiträgen zur gesetzlichen Kranken- und
+Pflegeversicherung sowie dem durchschnittlichen Zusatzbeitrag in der
+gesetzlichen Krankenversicherung) unter dem Bruttobedarf von Empfängern von 
+Grundsicherung im Alter lag (bitte nach insgesamt sowie nach West- und 
+Ostdeutschland, nach Staatsangehörigkeit: Deutsche, Ausländer, EU-
+Ausländer, EU‑11, Türken, Ukrainer und Top‑8-nichteuropäische-
+Asylherkunftsländer insgesamt sowie nach Syrern, Afghanen, Irakern,
+Pakistanern, Iranern, Eritreern, Somaliern und Nigerianern differenzieren)?
+Die Fragen 37 und 38 werden gemeinsam beantwortet.
+Der durchschnittliche monatliche Bruttobedarf in der Grundsicherung im Alter 
+lag jeweils am Jahresende bei 679 Euro im Jahr 2010, bei 785 Euro im Jahr 
+2015, bei 833 Euro im Jahr 2020, bei 1.007 Euro im Jahr 2024 und bei 
+1.024 Euro im Jahr 2025. Für die Auswertung wurde daher auf Altersrenten mit 
+monatlichen Zahlbeträgen unter 700 Euro (für das Jahr 2010), unter 800 Euro 
+(für das Jahr 2015), unter 850 Euro (für das Jahr 2020) und unter 1.000 Euro 
+(für die Jahre 2024 und 2025) abgestellt. Die Anzahl und Anteil der Renten in 
+der erbetenen Differenzierung kann der Tabelle zu den Fragen 37 und 38 im 
+Tabellenanhang entnommen werden. Die Anzahl der Kinder je versicherter 
+Frau ist nicht bekannt. Anhand der Statistik der Deutschen Rentenversicherung 
+sind nur Angaben zur Anzahl der Kinder, für die Kindererziehungszeiten zu 
+berücksichtigen sind, möglich. Die relativ hohen Anteile beinhalten unter
+anderem auch Kleinstrenten aufgrund von kurzen Beitragszeiten von Personen, bei 
+denen diese Renten für die Alterssicherung nur eine geringe Rolle spielen, weil 
+andere Alterseinkommen vorhanden sind. Entsprechend liefert die Rentenhöhe 
+für sich genommen nur eingeschränkt Hinweise auf die Einkommenssituation 
+im Alter. Im Übrigen wird auf die Antwort zu den Fragen 5 bis 10 verwiesen.
+39. Wie hoch waren nach Kenntnis der Bundesregierung Anzahl und Anteil 
+der Personen, die in den Jahren 2010, 2015, 2020, 2024 und 2025
+Grundsicherung im Alter bezogen, und wie hoch sind aktuell Anzahl und
+Anteil der Personen, die Grundsicherung im Alter beziehen (bitte den
+aktuellen Datenstand darstellen und nach insgesamt sowie nach West- und 
+Ostdeutschland, nach Geschlecht: Männer, Frauen, nach
+Staatsangehörigkeit: Deutsche, Ausländer, EU-Ausländer, EU‑11, Türken, Ukrainer 
+und Top‑8-nichteuropäische-Asylherkunftsländer insgesamt, sowie nach 
+Syrern, Afghanen, Irakern, Pakistanern, Iranern, Eritreern, Somaliern 
+und Nigerianern differenzieren)?
+Anzahl und Anteil der Personen, die die Regelaltersgrenze erreicht und in den 
+erfragten Jahren Leistungen der Grundsicherung im Alter nach dem Vierten 
+Kapitel des SGB XII bezogen haben, können der nachfolgenden Tabelle
+entnommen werden.
+Empfängerinnen und Empfänger von Grundsicherung im Alter1) nach dem 
+4. Kapitel SGB XII am Ende des jeweiligen Jahres
+Jahr Anzahl Anteil an den
+Empfänger/innen insgesamt in %
+2010 412.081 51,7
+2015 536.121 51,6
+2020 564.110 51,3
+2024 738.840 58,6
+2025 764.065 59,5
+1) Ab der Altersgrenze zum Renteneintrittsalter nach § 41 Abs. 2 SGB XII.
+Quelle: Statistisches Bundesamt
+Die Darstellung des aktuellen Datenstands (Ende des 1. Quartals 2026) ergibt 
+sich aus nachfolgender Tabelle, soweit die Daten in der erbetenen
+Differenzierung vorliegen.
+Empfängerinnen und Empfänger von Grundsicherung im Alter1) nach dem 
+4. Kapitel SGB XII am Ende des 1. Quartals 2026
+Gebiet, Geschlecht,
+Staatsangehörigkeit/Herkunft
+Anzahl Anteil in %
+Insgesamt 771.275 100
+davon
+Früheres Bundesgebiet 643.005 83,4
+Neue Länder mit Berlin 128.270 16,6
+davon
+Männer 333.150 43,2
+Frauen 438.125 56,8
+davon
+Deutsche 492.000 63,8
+Ausländer 279.275 36,2
+ darunter
+ EU-Ausländer 41.875 5,4
+darunter
+EU‑11-Ausländer2) 20.040 2,6
+Türken 23.935 3,1
+Ukrainer 106.905 13,9
+Top‑8-Asylherkunftsländer 36.555 4,7
+davon
+Gebiet, Geschlecht,
+Staatsangehörigkeit/Herkunft
+Anzahl Anteil in %
+Afghanistan 9.240 1,2
+Eritrea 670 0,1
+Irak 5.085 0,7
+Iran 5.165 0,7
+Nigeria 135 0,0
+Pakistan 1.455 0,2
+Somalia 370 0,0
+Syrien 14.430 1,9
+1) Ab der Altersgrenze zum Renteneintrittsalter nach § 41 Abs. 2 SGB XII.
+2) Bulgarien, Estland, Kroatien, Lettland, Litauen, Polen, Rumänien, Slowakei, 
+Slowenien, Tschechien und Ungarn.
+Quelle: Statistisches Bundesamt und eigene Berechnungen
+40. Wie hoch waren nach Kenntnis der Bundesregierung Anzahl und Anteil 
+der Personen, die in den Jahren 2010, 2015, 2020, 2024 und 2025
+Grundsicherung im Alter und bei Erwerbsminderung bezogen, und wie hoch 
+sind aktuell Anzahl und Anteil der Personen, die Grundsicherung im 
+Alter und bei Erwerbsminderung nach dem Zwölften Buch
+Sozialgesetzbuch (SGB XII) beziehen (bitte den aktuellen Datenstand darstellen und 
+nach insgesamt sowie nach West- und Ostdeutschland, nach Geschlecht: 
+Männer, Frauen, nach Staatsangehörigkeit: Deutsche, Ausländer, EU-
+Ausländer, EU‑11, Türken, Ukrainer und Top‑8-nichteuropäische-
+Asylherkunftsländer insgesamt, sowie nach Syrern, Afghanen, Irakern,
+Pakistanern, Iranern, Eritreern, Somaliern und Nigerianern differenzieren)?
+Anzahl und Anteil der Personen, die in den erfragten Jahren Leistungen der 
+Grundsicherung im Alter und bei Erwerbsminderung nach dem Vierten Kapitel 
+des SGB XII bezogen haben, können der nachfolgenden Tabelle entnommen 
+werden.
+Empfängerinnen und Empfänger von Grundsicherung im Alter und bei
+Erwerbsminderung nach dem 4. Kapitel SGB XII am Ende des jeweiligen Jahres
+Jahr Anzahl insgesamt Anteil an den
+Empfänger/innen insgesamt in %
+2010 796.646 100
+2015 1.038.008 100
+2020 1.098.625 100
+2024 1.261.005 100
+2025 1.283.860 100
+Quelle: Statistisches Bundesamt
+Die Darstellung des aktuellen Datenstands (Ende des 1. Quartals 2026) ergibt 
+sich aus nachfolgender Tabelle, soweit die Daten in der erbetenen
+Differenzierung vorliegen.
+Empfängerinnen und Empfänger von Grundsicherung im Alter und bei
+Erwerbsminderung nach dem 4. Kapitel SGB XII am Ende des 1. Quartals 2026
+Gebiet, Geschlecht,
+Staatsangehörigkeit/Herkunft
+Anzahl Anteil in %
+Insgesamt 1.292.155 100,0
+davon
+Früheres Bundesgebiet 1.050.495 81,3
+Neue Länder mit Berlin 241.660 18,7
+davon  
+Männer 630.790 48,8
+Frauen 661.365 51,2
+davon
+Deutsche 940.555 72,8
+Ausländer 351.600 27,2
+darunter  
+EU-Ausländer 58.715 4,5
+darunter
+EU‑11-Ausländer1) 28.540 2,2
+Türken 40.900 3,2
+Ukrainer 112.170 8,7
+Top‑8-Asylherkunftsländer 49.115 3,8
+davon  
+Afghanistan 11.425 0,9
+Eritrea 1.045 0,1
+Irak 7.230 0,6
+Iran 6.440 0,5
+Nigeria 365 0,0
+Pakistan 1.990 0,2
+Somalia 665 0,1
+Syrien 19.955 1,5
+1) Bulgarien, Estland, Kroatien, Lettland, Litauen, Polen, Rumänien, Slowakei, 
+Slowenien, Tschechien und Ungarn.
+Quelle: Statistisches Bundesamt und eigene Berechnungen
+41. Wie hoch war nach Kenntnis der Bundesregierung der jährliche
+Gesamtbetrag, der in den Jahren 2010, 2015, 2020, 2024 und 2025 an Personen, 
+die Grundsicherung im Alter bezogen, ausgezahlt wurde (bitte nach
+insgesamt sowie nach West- und Ostdeutschland, nach Geschlecht: Männer, 
+Frauen, nach Staatsangehörigkeit: Deutsche, Ausländer, EU-Ausländer, 
+EU‑11, Türken, Ukrainer und Top‑8-nichteuropäische-
+Asylherkunftsländer insgesamt, sowie nach Syrern, Afghanen, Irakern, Pakistanern,
+Iranern, Eritreern, Somaliern und Nigerianern differenzieren)?
+42. Wie hoch war nach Kenntnis der Bundesregierung der jährliche
+Gesamtbetrag, der in den Jahren 2010, 2015, 2020, 2024 und 2025 an Personen, 
+die Grundsicherung im Alter und bei Erwerbsminderung nach dem 
+Zwölften Buch Sozialgesetzbuch bezogen, ausgezahlt wurde (bitte nach 
+insgesamt sowie nach West- und Ostdeutschland, nach Geschlecht:
+Männer, Frauen, nach Staatsangehörigkeit: Deutsche, Ausländer, EU-
+Ausländer, EU‑11, Türken, Ukrainer und Top‑8-nichteuropäische-
+Asylherkunftsländer insgesamt, sowie nach Syrern, Afghanen, Irakern,
+Pakistanern, Iranern, Eritreern, Somaliern und Nigerianern differenzieren)?
+Die Fragen 41 und 42 werden gemeinsam beantwortet.
+Bis zum Berichtsjahr 2016 hat die amtliche SGB-XII-Statistik die Ausgaben 
+der Grundsicherung im Alter und bei Erwerbsminderung nach dem Vierten
+Kapitel des SGB XII insgesamt erfasst, allerdings nicht nach soziodemografischen 
+Merkmalen der Leistungsberechtigten. Die Nettoausgaben der Jahre 2010 und 
+2015 können der nachfolgenden Tabelle entnommen werden.
+Nettoausgaben der Grundsicherung im Alter und bei Erwerbsminderung nach 
+dem 4. Kapitel SGB XII nach Jahren
+Gebiet 2010
+insgesamt in Tsd. 
+Euro
+2015 
+insgesamt in Tsd. 
+Euro
+Deutschland 4.107.431 5.925.778
+Baden-Württemberg 394.172 572.818
+Bayern 484.800 710.790
+Berlin 318.050 453.619
+Brandenburg 80.936 124.541
+Bremen 63.430 86.096
+Hamburg 160.926 253.783
+Hessen 360.143 535.023
+Mecklenburg-Vorpommern 71.767 112.663
+Niedersachsen 448.565 617.833
+Nordrhein-Westfalen 1.090.507 1.531.660
+Rheinland-Pfalz 173.166 245.858
+Saarland 58.047 89.055
+Sachsen 105.055 157.623
+Sachsen-Anhalt 77.505 122.643
+Schleswig-Holstein 166.690 232.131
+Thüringen 53.671 79.642
+Quelle: Statistisches Bundesamt
+Seit dem Jahr 2017 werden die jährlichen Gesamtausgaben für das Vierte
+Kapitel des SGB XII als Nettoausgaben für Geldleistungen aus den
+Erstattungszahlungen des Bundes nach § 46a SGB XII an die Länder ermittelt. Diese lassen 
+sich weiterhin nicht nach soziodemografischen Merkmalen differenzieren,
+jedoch ist eine Unterscheidung nach Leistungsberechtigten möglich, die die 
+Altersgrenze überschritten haben. Die Angaben für die Jahre 2020, 2024 
+und 2025 können der nachfolgenden Tabelle entnommen werden.
+Nettoausgaben der Grundsicherung im Alter und bei Erwerbsminderung nach 
+dem 4. Kapitel SGB XII nach Jahren
+Jahr, Gebiet Insgesamt in Tsd. 
+Euro
+Darunter im Alter1)
+in Tsd. Euro
+2020
+Deutschland 7.559.442 3.303.539
+Baden-Württemberg 732.757 327.131
+Bayern 871.140 429.508
+Berlin 595.467 281.797
+Brandenburg 165.558 41.955
+Bremen 112.077 56.054
+Hamburg 345.951 184.341
+Hessen 693.123 330.047
+Mecklenburg-Vorpommern 133.527 33.735
+Niedersachsen 786.622 315.896
+Nordrhein-Westfalen 1.934.802 880.072
+Jahr, Gebiet Insgesamt in Tsd. 
+Euro
+Darunter im Alter1)
+in Tsd. Euro
+Rheinland-Pfalz 326.446 137.554
+Saarland 108.108 49.246
+Sachsen 194.441 58.360
+Sachsen-Anhalt 149.661 35.784
+Schleswig-Holstein 300.396 115.946
+Thüringen 109.367 26.114
+2024
+Deutschland 11.470.840 5.938.246
+Baden-Württemberg 1.117.925 611.113
+Bayern 1.330.413 771.584
+Berlin 888.830 488.829
+Brandenburg 258.788 90.906
+Bremen 165.887 95.633
+Hamburg 515.264 303.925
+Hessen 1.039.097 572.029
+Mecklenburg-Vorpommern 202.673 66.560
+Niedersachsen 1.207.576 572.372
+Nordrhein-Westfalen 2.891.838 1.521.078
+Rheinland-Pfalz 502.936 251.020
+Saarland 165.215 96.926
+Sachsen 311.641 138.626
+Sachsen-Anhalt 216.768 76.362
+Schleswig-Holstein 485.521 218.470
+Thüringen 170.467 62.811
+2025
+Deutschland 11.807.626 6.198.744
+Baden-Württemberg 1.157.450 642.643
+Bayern 1.370.390 802.741
+Berlin 915.693 514.412
+Brandenburg 268.588 97.682
+Bremen 171.381 99.500
+Hamburg 526.580 312.700
+Hessen 1.067.613 593.387
+Mecklenburg-Vorpommern 210.464 72.247
+Niedersachsen 1.223.472 597.870
+Nordrhein-Westfalen 2.976.403 1.587.759
+Rheinland-Pfalz 518.621 259.523
+Saarland 172.333 91.651
+Sachsen 327.307 151.003
+Sachsen-Anhalt 226.366 81.193
+Schleswig-Holstein 498.518 226.979
+Thüringen 176.447 67.454
+1) Ab der Altersgrenze zum Renteneintrittsalter nach § 41 Absatz 2 SGB XII.
+Quelle: Auswertung auf der Grundlage von Jahresnachweisen, die die Länder dem Bund im
+Rahmen des Erstattungsverfahrens nach § 46a Absatz 5 SGB XII vorzulegen haben (Stand 20. April 
+2026)
+43. Wie hoch war in den Jahren 2010, 2015, 2020, 2024 und 2025 und wie 
+hoch ist aktuell die Zahl der Altersrentner, die trotz Rentenbezug
+aufgrund Alters weiterhin eine Erwerbstätigkeit ausübten beziehungsweise 
+ausüben (bitte getrennt nach: sozialversicherungspflichtige
+Vollzeitbeschäftigte, sozialversicherungspflichtige Teilzeitbeschäftigte,
+ausschließlich geringfügig Beschäftigte, Frauen, Männer, West- sowie
+Ostdeutschland nach Geschlecht: Männer, Frauen, nach Staatsangehörigkeit:
+Deutsche, Ausländer, EU-Ausländer, EU‑11, Türken, Ukrainer und Top‑8-
+nichteuropäische-Asylherkunftsländer insgesamt, sowie nach Syrern,
+Afghanen, Irakern, Pakistanern, Iranern, Eritreern, Somaliern und
+Nigerianern, ausweisen)?
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen.
+44. Wie hoch war in den Jahren 2010, 2015, 2020, 2024 und 2025 und wie 
+hoch ist aktuell die Zahl der Personen über der Regelaltersgrenze eine 
+Erwerbstätigkeit ausübten beziehungsweise ausüben (bitte getrennt nach: 
+sozialversicherungspflichtige Vollzeitbeschäftigte,
+sozialversicherungspflichtige Teilzeitbeschäftigte, ausschließlich geringfügig Beschäftigte, 
+Frauen, Männer, West- sowie Ostdeutschland nach Geschlecht: Männer, 
+Frauen, nach Staatsangehörigkeit: Deutsche, Ausländer, EU-Ausländer, 
+EU‑11, Türken, Ukrainer und Top‑8-nichteuropäische-
+Asylherkunftsländer insgesamt, sowie nach Syrern, Afghanen, Irakern, Pakistanern,
+Iranern, Eritreern, Somaliern und Nigerianern, ausweisen)?
+Angaben der Statistik der Bundesagentur für Arbeit zu Beschäftigten über der 
+Regelaltersgrenze können in der erbetenen Differenzierung der Tabelle zu der 
+Frage 44 im Tabellenanhang entnommen werden. Als Jahreswert wurde der
+Juni-Wert ausgewiesen. Angaben liegen bis Februar 2026 vor.
+45. Wie hoch waren seit dem Jahr 2010 die jährlichen Einnahmen der
+Deutschen Rentenversicherung aus freiwilligen Zahlungen von
+Rentenbeiträgen zum Ausgleich der Abschläge bei vorzeitigem Rentenbeginn (bitte 
+tabellarisch in absoluten Zahlen angeben sowie die prozentuale
+Steigerung zwischen den einzelnen Jahren darstellen)?
+Die erbetenen Informationen können der Tabelle zu der Frage 45 im
+Tabellenanhang entnommen werden.
+46. Wie hoch waren seit dem Jahr 2010 jeweils (pro Jahr) die
+Gesamtausgaben des Bundes an die gesetzliche Rentenversicherung (Steuermittel in 
+Form von Bundesmitteln und Bundeszuschüssen) im Verhältnis zum
+nominalen Bruttoinlandsprodukt des betreffenden Jahres (bitte in Prozent 
+unter Angabe des jeweiligen Bruttoinlandsproduktes und in
+Jahresscheiben angeben)?
+47. Wie hoch waren seit dem Jahr 2010 (pro Jahr) die Ausgaben der
+gesetzlichen Rentenversicherung im Verhältnis zum nominalen
+Bruttoinlandsprodukt des betreffenden Jahres (bitte in Prozent unter Angabe des
+jeweiligen Bruttoinlandsproduktes und in Jahresscheiben angeben)?
+Die Fragen 46 und 47 werden gemeinsam beantwortet.
+Die erbetenen Informationen können der Tabelle zu den Fragen 46 und 47 im 
+Tabellenanhang entnommen werden.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
