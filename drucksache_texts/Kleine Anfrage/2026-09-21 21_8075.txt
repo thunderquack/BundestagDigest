@@ -1,0 +1,152 @@
+Deutscher Bundestag Drucksache 21/8075
+21. Wahlperiode 21.09.2026
+Kleine Anfrage
+der Abgeordneten Nicole Höchst, Dr. Michael Kaufmann, Adam Balten, 
+Dr. Christoph Birghan, Dr. Ingo Hahn, Andreas Mayer, Stefan Schröder, René 
+Bochmann, Robin Jünger, Maximilian Kneller, Sergej Minich, Martin Reichardt, 
+Dr. Paul Schmidt, Sven Wendorf und der Fraktion der AfD
+Forschung, Förderung, Haushaltstitel und sicherheitsrelevante Aspekte 
+hochminiaturisierter vernetzter Sensorsysteme – von MEMS und NEMS über 
+Smart Dust, Wireless Sensor Networks und Internet of Nano-Things bis zu 
+Neural Dust, StimDust, BioMEMS und Brain-Computer-Interfaces
+Die Miniaturisierung elektronischer Systeme – von Mikroelektromechanischen 
+Systemen (MEMS) bis hin zu hochsensiblen Brain-Computer-Interfaces (BCI) 
+– ist ein entscheidender Treiber für den technologischen Fortschritt. Während 
+etablierte MEMS-Technologien heute unverzichtbare Grundlagenkomponenten 
+für mittelständische Unternehmen (z. B. Automobil- und Medizintechnik) und 
+Industrie bilden, stellen neuartige Felder wie „Smart Dust“, BioMEMS oder 
+neuronale Schnittstellen sowohl ökonomische Chancen als auch komplexe
+ethische und sicherheitsrelevante Herausforderungen dar.
+Unter dem wissenschaftlichen Begriff Smart Dust werden miniaturisierte, 
+drahtlos kommunizierende Sensorknoten („Motes“) verstanden, die Sensorik, 
+Datenverarbeitung, Kommunikation und Energieversorgung möglichst auf 
+kleinstem Raum – idealerweise in einem Volumen von etwa einem
+Kubikmillimeter – integrieren. Das Konzept wurde Ende der 1990er Jahre von einer
+Forschungsgruppe der University of California, Berkeley, unter Leitung von
+Professor Kristofer S. J. Pister im Rahmen des MEMS-Programms der Defense 
+Advanced Research Projects Agency (DARPA) entwickelt und beschrieb
+ausdrücklich sowohl zivile als auch militärische Anwendungsmöglichkeiten
+(Projektseite: https://people.eecs.berkeley.edu/~pister/SmartDust). Bereits 2001 
+legten Wissenschaftler der University of California, Berkeley die Grundlagen 
+dar: https://people.eecs.berkeley.edu/~pister/publications/2001/Warneke2001_
+Smart_Dust_communicating_with_a_cubic-millimeter_computer.pdf bzw. 
+https://ieeexplore.ieee.org/document/895117/).
+Aus dem Forschungsprogramm gingen kommerzielle Entwicklungen hervor; 
+Professor Pister war Mitgründer von Dust Networks. Parallel dazu entwickelten 
+sich das Forschungsgebiet des Internet of Nano-Things (IoNT) sowie
+implantierbare Systeme wie Neural Dust und StimDust (exemplarisch: https://news.be
+rkeley.edu/2018/04/10/berkeley-engineers-build-smallest-volume-most-efficien
+t-wireless-nerve-stimulator/).
+Deutschland muss im internationalen Wettbewerb, insbesondere gegenüber 
+China und den USA, seine technologische Souveränität sichern. Gleichzeitig 
+beobachten die Fragesteller eine zunehmende Verwendung dieser Technologien 
+im Rahmen einer „Dual-Use“-Strategie durch die Bundesregierung. Dies steht 
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+in einem Spannungsverhältnis zur historischen Positionierung von einigen
+Regierungsparteien, die in der Vergangenheit durch das Propagieren von
+„Zivilklauseln“ die Verbindung von Forschung und Verteidigungsinteressen strikt
+ablehnten.
+Vor diesem Hintergrund besteht ein erhebliches parlamentarisches Interesse
+daran, das Handeln der Bundesregierung hinsichtlich der Forschungsförderung, 
+der Abgrenzung zwischen ziviler und militärischer Nutzung sowie des Schutzes 
+geistiger Integrität (Neurorechte) transparent zu machen.
+Wir fragen die Bundesregierung:
+ 1. Welche Forschungs- und Entwicklungsvorhaben mit einem
+Fördervolumen von jeweils mehr als 500.000 Euro, die sich auf hochsensible Felder 
+wie Neurotechnologien (Neural Dust, StimDust, Brain-Computer-
+Interfaces) oder hochminiaturisierte Sensorsysteme mit Dual-Use-
+Potenzial (Smart Dust, IoNT, neuromorphe Sensorik) beziehen, wurden 
+seit dem 1. Januar 2018 durch Bundesmittel gefördert (bitte aufschlüsseln 
+nach Ressort, Förderprogramm, Zuwendungsempfänger, Laufzeit,
+Fördersumme und Projektziel)?
+ 2. Inwiefern ist die Förderung dieser Projekte in die Strategie der
+„Technologischen Souveränität“ eingebunden, und welche Vorhaben auf nationaler 
+und EU-Ebene werden spezifisch dazu genutzt, Abhängigkeiten von 
+außereuropäischen Akteuren (insbesondere USA und China) zu
+verringern?
+ 3. Aus welchen Einzelplänen, Kapiteln und Haushaltstiteln sowie
+Sondervermögen werden diese genannten Forschungsbereiche finanziert (bitte nach 
+Haushaltsjahr 2018 bis 2026 aufschlüsseln)?
+ 4. Wie bewertet die Bundesregierung die Rolle der Agentur für
+Sprunginnovationen (SPRIND) bei der Beschleunigung von Technologien, die ein 
+hohes Risiko für die informationelle Selbstbestimmung bergen?
+ 5. Führten die zu Frage 1 aufgeführten Projekte bereits zu
+Patentanmeldungen, Lizenzvergaben und wirtschaftlichen Ausgründungen, und wenn ja, 
+welche sind das (bitte gegebenenfalls jeweils nennen: Patentanmelder,
+Titel und Nummer des Patents, Lizenzgeber, Lizenznehmer, Name und 
+Rechtsform der Ausgründung)?
+ 6. Sieht die Bundesregierung Maßnahmen vor, um sicherzustellen, dass 
+diese IP-Rechte nicht an ausländische Investoren fließen, und wenn ja, 
+welche sind das, und wenn nein, warum nicht?
+ 7. Welche deutschen Einrichtungen waren seit 2018 an europäischen
+beziehungsweise internationalen Projekten (z. B. Chips JU, EDF, EIC)
+beteiligt, die explizit Technologien entwickeln, die sowohl zivil als auch für 
+Verteidigungszwecke (Dual‑Use) einsetzbar sind?
+ 8. Wie positioniert sich die Bundesregierung zur historisch von Teilen der 
+Koalition geforderten „Zivilklausel“ an Forschungseinrichtungen,
+angesichts der heutigen massiven staatlichen Förderung von Dual-Use-
+Technologien (z. B. EDF-Projekte) sowie zur geänderten geopolitischen 
+und wirtschaftlichen Weltlage?
+ 9. Welche Kenntnisse hat die Bundesregierung über Kooperationen
+deutscher Forschungseinrichtungen mit der DARPA oder anderen US-
+Verteidigungsbehörden im Bereich der Neurotechnologie?
+10. Welche Exportkontrollmechanismen greifen, um zu verhindern, dass in 
+Deutschland mit Bundesmitteln entwickelte Hochtechnologien (z. B.
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+Smart Dust, Sensor-Knoten) ungewollt in die Hände ausländischer
+Nachrichtendienste, autoritärer Regime oder solcher, die sich in kriegerischen 
+Konflikten befinden, gelangen?
+11. Welche Vorhaben mit Bezug zu hochminiaturisierten Sensoren wurden 
+seit 2018 durch das BMVg gefördert, und welche dieser Projekte dienen 
+explizit dem Schutz kritischer Infrastrukturen (KRITIS) oder der
+Sicherung der europäischen Außengrenzen?
+12. Sieht die Bundesregierung in der Nutzung von „Smart Dust“-
+Technologien ein effektives Instrument zur lückenlosen
+Grenzüberwachung, und wenn ja, welche konkreten Pilotprojekte existieren hierzu, und 
+wenn nein, aus welchen Gründen nicht?
+13. Welche sicherheitsrelevanten Verwundbarkeiten (Manipulation, Spoofing) 
+wurden in geförderten Projekten identifiziert, und welche
+Absicherungsstrategien für KRITIS wurden hieraus abgeleitet?
+14. Liegen Erkenntnisse darüber vor, ob aus Bundesmitteln finanzierte
+Patente in sicherheitskritischen Anwendungen im Ausland genutzt werden, 
+ohne dass eine deutsche oder europäische Verwertung erfolgte?
+15. Welche datenschutzrechtlichen und ethischen Bewertungen hat die
+Bundesregierung seit 2018 spezifisch zu Projekten im Bereich Brain-
+Computer-Interfaces (BCI) vorgenommen, um die „kognitive Freiheit“ 
+(Cognitive Liberty) der Bürger zu schützen?
+16. Wie bewertet die Bundesregierung die Übernahme von Vorgaben durch 
+supranationale Organisationen (z. B. EU-Kommission, WHO) bei der
+Regulierung von Neurotechnologien, und inwieweit wird hierbei die
+nationale Souveränität des deutschen Gesetzgebers eingeschränkt?
+17. Hält die Bundesregierung die bestehenden Gesetze für ausreichend, um 
+neuronale Daten als eigenständige, besonders schützenswerte Kategorie 
+zu definieren (analog zu Biometrie-Daten), und falls nein, wann plant sie 
+eine entsprechende Gesetzesinitiative?
+18. Welche Maßnahmen plant die Bundesregierung zum Schutz vulnerabler 
+Personengruppen (Minderjährige, nicht einwilligungsfähige Personen) vor 
+einer potenziellen Beeinflussung durch BCI-Technologien?
+19. Plant die Bundesregierung eine ressortübergreifende Strategie, die
+industrielle Innovationskraft in der Sensorik mit einem robusten Schutz der 
+Bürgerrechte und der nationalen Sicherheit verbindet?
+20. Welche interministeriellen Abstimmungsmechanismen existieren, um 
+sicherzustellen, dass die Forschungsförderung nicht die technologische 
+Souveränität Deutschlands untergräbt, indem sie Forschungsergebnisse 
+ohne hinreichende Verwertungssicherung an globale Technologiekonzerne 
+abfließen lässt?
+21. Beabsichtigt die Bundesregierung, dem Deutschen Bundestag jährlich 
+einen Bericht über den Stand der Dual-Use-Forschung, die Einhaltung 
+ethischer Standards und den Schutz der Bevölkerung vor missbräuchlicher 
+Nutzung hochminiaturisierter Technologien vorzulegen, um die
+parlamentarische Kontrolle zu gewährleisten, und wenn nein, aus welchen Gründen 
+sieht sie davon ab?
+Berlin, den 4. September 2026
+Dr. Alice Weidel, Tino Chrupalla und Fraktion
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
