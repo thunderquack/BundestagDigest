@@ -7,11 +7,11 @@ Verhältnismäßigkeit staatlicher Eingriffe und Auswirkungen auf den
 Rechenzentrumsstandort Deutschland
 Rechenzentren sind in den Augen der Fragesteller eine wesentliche
 Voraussetzung für die digitale Infrastruktur Deutschlands. Zugleich unterliegen sie
-zunehmend energie-, klima- und umweltpolitischen Regulierungen. Mit 
-dem Energieeffizienzgesetz (EnEfG) vom 13. November 2023, insbesondere 
-den §§ 11 bis 17 EnEfG, sowie weiteren Vorgaben verfolgt die
-Bundesregierung das Ziel, den Energieverbrauch von Rechenzentren zu senken und die 
-Nutzung anfallender Abwärme auszuweiten.
+zunehmend energie-, klima- und umweltpolitischen Regulierungen. Mit dem 
+Energieeffizienzgesetz (EnEfG) vom 13. November 2023, insbesondere den 
+§§ 11 bis 17 EnEfG, sowie weiteren Vorgaben verfolgt die Bundesregierung 
+das Ziel, den Energieverbrauch von Rechenzentren zu senken und die Nutzung 
+anfallender Abwärme auszuweiten.
 Kritiker weisen jedoch darauf hin, dass die Nutzung von
 Rechenzentrumsabwärme aufgrund niedriger Temperaturniveaus oftmals nur unter zusätzlichem 
 technischem und energetischem Aufwand möglich ist (www.eco.de/presse/wae
@@ -22,14 +22,14 @@ Kosten, Wettbewerbsnachteilen und Investitionshemmnissen führen und ob die
 angestrebten klima- und umweltpolitischen Effekte in einem angemessenen
 Verhältnis zum wirtschaftlichen Aufwand stehen.
 Vor dem Hintergrund des zunehmenden Strombedarfs durch Digitalisierung, 
-Cloud-Dienste und Anwendungen der Künstlichen Intelligenz stellt sich den 
-Fragestellern die Frage, ob zusätzliche regulatorische Anforderungen die
+Cloud-Dienste und Anwendungen der Künstlichen Intelligenz (KI) stellt sich 
+den Fragestellern die Frage, ob zusätzliche regulatorische Anforderungen die 
 Attraktivität Deutschlands als Rechenzentrumsstandort beeinträchtigen.
 Wir fragen die Bundesregierung:
  1. Welche tatsächlichen CO2-Einsparungen wurden seit Einführung der
 gesetzlichen Vorgaben zur Abwärmenutzung von Rechenzentren nach 
 Kenntnis der Bundesregierung erzielt (bitte mit vollständigen Life-Cycle-
-Analysen (LCAs) erläutern)?
+Analysen [LCAs] erläutern)?
  2. Welche wissenschaftlichen Untersuchungen oder Erkenntnisse aus
 konkreten Projekten belegen nach Kenntnis der Bundesregierung
 gegebenenfalls die Wirksamkeit (insbesondere unter Beachtung von Frage 1) und 
@@ -40,29 +40,27 @@ Investitionskosten je vermiedener Tonne CO2 bei Projekten zur Nutzung
 von Rechenzentrumsabwärme?
  4. Wie gestaltet sich nach Kenntnis der Bundesregierung die Kosteneffizienz 
 im Vergleich zu anderen Maßnahmen zur Vermeidung von CO2?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
  5. Welche Gesamtzusatzkosten entstehen nach Kenntnis der
-Bundesregierung Rechenzentrumsbetreibern nach Kenntnis der Bundesregierung allein 
-durch die Umsetzung der gesetzlichen Vorgaben zur Abwärmenutzung?
+Bundesregierung Rechenzentrumsbetreibern allein durch die Umsetzung der
+gesetzlichen Vorgaben zur Abwärmenutzung?
  6. Welche Kosten entstehen nach Kenntnis der Bundesregierung den
-Rechenzentrumsbetreibern (bitte möglichst als Zusatzkosten für Installation/
-Veranlassung und für laufende Aufwendungen aufgeschlüsselt angeben) 
-aufgrund der Umsetzung der gesetzlichen Vorgaben zur Abwärmenutzung 
-durch
-a) Energieeffizienzregister?
-b) Abwärmenutzung?
-c) Nachweise, dass keine Abwärmenutzung möglich ist?
+Rechenzentrumsbetreibern (bitte möglichst als Zusatzkosten für Installation 
+bzw. Veranlassung und für laufende Aufwendungen aufgeschlüsselt
+angeben) aufgrund der Umsetzung der gesetzlichen Vorgaben zur
+Abwärmenutzung durch
+a) Energieeffizienzregister,
+b) Abwärmenutzung,
+c) Nachweise, dass keine Abwärmenutzung möglich ist, und
 d) Energie- und Umweltmanagementsysteme?
  7. Welche zusätzlichen Kosten, Bürokratie- und Dokumentationspflichten
 ergeben sich nach Kenntnis der Bundesregierung für Betreiber von
 Rechenzentren durch die Novelle des Energieeffizienzgesetzes (bitte pro Anlage 
-bzw. nach Energieverbrauch/kWh aufschlüsseln)?
+bzw. nach Energieverbrauch pro Kilowattstunde [kWh] aufschlüsseln)?
  8. Wie viele Ausnahmeanträge, Befreiungsanträge oder Härtefallregelungen 
 wurden nach Kenntnis der Bundesregierung bei Projekten für
-Rechenzentren seit Einführung des Energieeffizienzgesetzes bislang beantragt
-beziehungsweise bewilligt und wie viele Rechenzentren wurden in diesem
-Zeitraum insgesamt beantragt?
+Rechenzentren seit Einführung des Energieeffizienzgesetzes bislang beantragt bzw. 
+bewilligt, und wie viele Rechenzentren wurden in diesem Zeitraum
+insgesamt beantragt?
  9. Welche Erkenntnisse liegen der Bundesregierung gegebenenfalls über die 
 Wirtschaftlichkeit der Nutzung von Rechenzentrumsabwärme ohne
 staatliche Förderung vor (bitte quantitativ aufschlüsseln)?
@@ -70,8 +68,8 @@ staatliche Förderung vor (bitte quantitativ aufschlüsseln)?
 Projekte zur Nutzung von Rechenzentrumsabwärme bereitgestellt,
 beantragt, bewilligt und ausgezahlt?
 11. Welche CO2-Minderung wurde durch die möglichen geförderten Projekte 
-(vgl. Vorfrage) jeweils erreicht beziehungsweise wird erwartet (bitte pro 
-Anlage bzw. nach Energieverbrauch/kWh aufschlüsseln)?
+(vgl. Frage 10) jeweils erreicht bzw. wird erwartet (bitte pro Anlage bzw. 
+nach Energieverbrauch/kWh aufschlüsseln)?
 12. Liegen der Bundesregierung Erkenntnisse über Projekte zur Nutzung von 
 Rechenzentrumsabwärme ohne öffentliche Förderung vor (bitte
 gegebenenfalls Anlagen mit Leistungsabgabe, Kühl- bzw.
@@ -91,26 +89,24 @@ gegenüberstellen)?
 16. Wer trägt nach Kenntnis der Bundesregierung die Kosten der in Frage 15 
 genannten Infrastrukturmaßnahmen (bitte Akteure und deren Anteile
 benennen)?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 17. Welche Auswirkungen sieht die Bundesregierung bei den gesetzlichen 
 Vorgaben zur Wärmenutzung aus Rechenzentren auf die
 Wettbewerbsfähigkeit Deutschlands gegenüber anderen europäischen
-Rechenzentrumsstandorten (insbesondere mit Blick auf Frankreich, Polen, Tschechien,
+Rechenzentrumsstandorten (insbesondere mit Blick auf Frankreich, Polen, Tschechien, die 
 Slowakische Republik und Ungarn)?
 18. Gibt es nach Kenntnis der Bundesregierung in anderen EU-Ländern
 analoge Vorgaben für Rechenzentren oder sind solche geplant?
 19. Welche Erkenntnisse liegen der Bundesregierung gegebenenfalls über
 Investitionsentscheidungen von Rechenzentrumsbetreibern zugunsten
-anderer Staaten (insbesondere USA, China, Tschechien, Polen, Bulgarien,
+anderer Staaten (insbesondere der USA, China, Tschechien, Polen, Bulgarien, 
 Ungarn und Rumänien) aufgrund deutscher Energiepreise oder
-regulatorischer Anforderungen vor und welche Folgen erwartet sie im Lichte dessen 
-in Bezug auf eine mögliche Verlagerung von Rechenkapazitäten in das 
+regulatorischer Anforderungen vor, und welche Folgen erwartet sie im Lichte
+dessen in Bezug auf eine mögliche Verlagerung von Rechenkapazitäten in das 
 Ausland?
 20. Welchen Strombedarf erwartet die Bundesregierung durch den
 gleichzeitigen Ausbau energieintensiver KI-Rechenzentren, der Elektromobilität
-sowie der Umstellung auf Wärmepumpen für die nächsten 20 Jahre,
-aufgeschlüsselt nach Jahreszeiten und Tagesverlauf?
+sowie der Umstellung auf Wärmepumpen für die nächsten 20 Jahre (bitte 
+nach Jahreszeiten und Tagesverlauf aufschlüsseln)?
 21. Welche zusätzlichen Erzeugungs- und Speicherkapazitäten
 (Erzeugungsbzw. Speicherart, Menge und zeitliches Nachfrageprofil) wären nach
 Auffassung der Bundesregierung erforderlich, um diesen Bedarf sicher zu
@@ -118,14 +114,14 @@ decken?
 22. Welche Strategie verfolgt die Bundesregierung gegebenenfalls beim
 etwaigen Zielkonflikt zwischen steigender Digitalisierung, wachsendem KI-
 Einsatz und einer etwaig zugleich verfolgten Reduzierung des
-Energieverbrauchs beziehungsweise welche etwaigen Effizienzgewinne unterstellt 
-sie gegebenenfalls für die kommenden 20 Jahre?
+Energieverbrauchs bzw. welche etwaigen Effizienzgewinne unterstellt sie
+gegebenenfalls für die kommenden 20 Jahre?
 23. Welche Erkenntnisse liegen der Bundesregierung gegebenenfalls darüber 
 vor, ob die Anforderungen des Energieeffizienzgesetzes die Ansiedlung 
 neuer Rechenzentren in Deutschland möglicherweise erschweren (bitte 
 begründen bzw. erläutern)?
 24. Welche Folgen erwartet die Bundesregierung gegebenenfalls für
-Wertschöpfung, Steuereinnahmen und Beschäftigung, falls Investitionen im 
+Wertschöpfung, Steuereinnahmen und Beschäftigung, wenn Investitionen im 
 Rechenzentrumssektor in andere Staaten verlagert werden?
 25. Welche konkreten Umwelt- und CO2-Vermeidungseffekte wären ohne das 
 EnEfG, insbesondere mit Blick auf Rechenzentren, nicht erreichbar
@@ -135,10 +131,6 @@ wenn ja, welche zusätzlichen Kosten erwartet sie hierdurch für Betreiber
 und Verbraucher?
 Berlin, den 15. September 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
