@@ -228,8 +228,8 @@ def main(argv: list[str]) -> int:
     parser.add_argument("path", help="Путь к текстовому файлу документа (.txt)")
     parser.add_argument(
         "--model",
-        default=getenv_str("OPENAI_MODEL") or "gpt-4o-mini",
-        help="Модель OpenAI (по умолчанию: env OPENAI_MODEL или gpt-4o-mini)",
+        default=getenv_str("OPENAI_MODEL") or "gpt-6-luna",
+        help="Модель OpenAI (по умолчанию: env OPENAI_MODEL или gpt-6-luna)",
     )
     parser.add_argument(
         "--temperature",
