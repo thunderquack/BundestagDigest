@@ -1,0 +1,341 @@
+Deutscher Bundestag Drucksache 21/8102
+21. Wahlperiode 22.09.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Ruben Rupp, Robin Jünger, Alexander 
+Arpaschi, weiterer Abgeordneter und der Fraktion der AfD 
+– Drucksache 21/7874 –
+Rekordwerte bei der Bestandsdatenauskunft – Technische Abwicklung, 
+automatisierte Behördenabfragen und IT-Infrastruktur der Bundesnetzagentur
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Bestandsdatenauskunft nach dem Telekommunikationsgesetz (TKG) stellt 
+für deutsche Sicherheits- und Strafverfolgungsbehörden eines der am
+häufigsten genutzten Ermittlungswerkzeuge im digitalen Zeitalter dar. Sie ermöglicht 
+es Behörden, bei Telekommunikationsdienstleistern Informationen darüber
+abzufragen, welchem Anschlussinhaber eine bestimmte Rufnummer, IP‑Adresse 
+oder ein Internetanschluss zu einem bestimmten Zeitpunkt zugeordnet war 
+(www.gesetze-im-internet.de/tkg_2021/__174.html). Während die
+gesetzlichen Regelungen zur Bestandsdatenauskunft in den vergangenen Jahren
+mehrfach reformiert und durch das Bundesverfassungsgericht an strenge
+verfassungsrechtliche Hürden geknüpft wurden, verzeichnen die tatsächlichen
+Abfragezahlen in der Praxis eine kontinuierliche und dynamische Steigerung.
+Die Dimension dieser behördlichen Praxis wird durch die jüngsten Statistiken 
+der Bundesnetzagentur für das Jahr 2025 verdeutlicht. Demnach stieg die Zahl 
+der automatisierten Datenabfragen auf einen historischen Rekordwert von 
+35,11 Millionen (https://netzpolitik.org/2026/bestandsdatenauskunft-2025-beh
+oerden-fragen-oefter-als-jede-sekunde-wem-eine-telefonnummer-gehoert/). 
+Dies stellt nicht nur einen erheblichen Anstieg gegenüber den Vorjahren dar, 
+in denen sich die Abfragen meist im Bereich von rund 27 Millionen bewegten, 
+sondern bedeutet auch eine statistische Verdopplung der behördlichen
+Abfrageaktivitäten innerhalb der letzten fünf Jahre (https://netzpolitik.org/2026/best
+andsdatenauskunft-2025-behoerden-fragen-oefter-als-jede-sekunde-wem-
+einetelefonnummer-gehoert/). Rein rechnerisch wird in Deutschland damit jede 
+Sekunde mindestens eine Bestandsdatenauskunft durch eine berechtigte Stelle 
+eingeleitet.
+Dieser massive Anstieg wirft grundlegende Fragen zur Effizienz, zur
+technischen Infrastruktur sowie zur Verhältnismäßigkeit des Verfahrens auf. Es gilt 
+daher zu klären, wie die technischen Schnittstellen der Bundesnetzagentur
+sowie die Systeme der Telekommunikationsanbieter diese datenintensive
+Dauerlast bewältigen, welche finanziellen Ressourcen hierdurch gebunden werden 
+und in welchem Umfang fehlerhafte oder ins Leere laufende Abfragen das 
+System belasten.
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Digitales und
+Staatsmodernisierung vom 21. September 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+Gleichzeitig verlangt die Masse der Abfragen eine transparente Überprüfung 
+der rechtsstaatlichen Kontrollmechanismen. Da ein Großteil der Verfahren 
+automatisiert abläuft, bleibt für die parlamentarische Kontrolle weitgehend
+intransparent, welche Behörden in welchem Maße von diesem Instrument
+Gebrauch machen, wie hoch der Anteil rein zivilrechtlicher Auskunftsbegehren 
+im Vergleich zur Strafverfolgung ist und wie effektiv die Protokollierung
+sowie Missbrauchskontrolle bei einer derart hohen Taktung der Zugriffe
+technisch gewährleistet werden kann. Vor diesem Hintergrund besteht ein
+erhebliches parlamentarisches Informationsbedürfnis bezüglich des Ausmaßes, der 
+technischen Abwicklung und der behördlichen Praxis bei der Nutzung der
+Bestandsdatenauskunft im Jahr 2025.
+ 1. Wie viele automatisierte und manuelle Bestandsdatenabfragen wurden 
+im Jahr 2025 insgesamt über die IT-Schnittstellen der Bundesnetzagentur 
+(BNetzA) datentechnisch abgewickelt (bitte nach Quartalen, Bundes- 
+und Landesbehörden sowie Abfragearten wie Rufnummern- und IP-
+Adressen-Abfragen aufschlüsseln)?
+IP-Adressen werden über das Automatisierte Auskunftsverfahren (AAV) nicht 
+beauskunftet.
+Über die manuellen Auskunftsverlangen der berechtigten Stellen nach § 174 
+TKG liegen der BNetzA keine Zahlen oder Erkenntnisse vor, da die BNetzA in 
+diesem Verfahren lediglich für die Erarbeitung von technischen Vorgaben zur 
+Beauskunftung zuständig ist und kein im Auskunftsverfahren eingebundenes 
+IT-System betreibt, wie dies – für das AAV gesetzlich vorgegeben ist.
+Im Übrigen wird auf die Antwort zu Frage 11 verwiesen.
+ 2. Wie erklärt die Bundesregierung den rasanten Anstieg der Abfragen auf 
+über 35 Millionen im Jahr 2025?
+Die Bundesregierung kann mangels statistischer Erhebungen keine Aussage zu 
+den Gründen des Anstiegs der Abfragezahlen treffen.
+ 3. Sind die technischen Systeme der Bundesnetzagentur, die diese Abfragen 
+sekündlich verarbeiten, für diese Dauerlast ausgelegt, und wie bewertet 
+die Bundesregierung die technische Skalierbarkeit der BNetzA-Server-
+Infrastruktur (bitte die durchschnittliche Server-Antwortzeit bzw. Latenz 
+pro Abruf angeben)?
+Ja. Die Skalierbarkeit ist angemessen ausgelegt. Das AAV und die
+dazugehörigen autarken IT-Systeme werden entsprechend des steigenden Bedarfs
+kontinuierlich fortentwickelt und an den Stand der Technik angepasst. Die Latenzen 
+liegen im Rahmen und stellen keine Beeinträchtigung des Gesamtsystems dar. 
+Zur Latenz bzw. durchschnittlichen Serverantwortzeit liegen keine
+durchschnittlichen Werte vor.
+ 4. Kam es in den Jahren 2024 und 2025 zu IT-Systemausfällen,
+Überlastungen der Abrufschnittstellen, ungeplanten Wartungsfenstern oder
+sonstigen technischen Einschränkungen bei der Bundesnetzagentur oder den 
+angeschlossenen Provider-Datenbanken (bitte unter Angabe von Datum, 
+Dauer und technischer Ursache auflisten)?
+Das AAV bei der BNetzA hatte keinerlei Ausfälle in den Jahren 2024 und 
+2025. Die verpflichteten Telekommunikationsunternehmen sind ebenfalls zur
+hochverfügbaren Bereitstellung der Abfragesysteme des AAV verpflichtet, 
+weswegen sie in der Regel entsprechende Vorkehrungen treffen.
+ 5. Wie hoch stellt sich das prozentuale Verhältnis zwischen
+vollautomatisierten Abrufen und manuellen bzw. halbautomatischen
+Auskunftsersuchen, die über die Systeme der BNetzA im Jahr 2025 elektronisch
+abgewickelt wurden, datentechnisch dar?
+Das AAV verarbeitet nur automatisierte Auskunftsersuchen der berechtigten 
+Stellen. Zu manuellen Auskunftsersuchen wird auf die Antwort zu Frage 1
+verwiesen.
+ 6. Über welche konkreten technischen Schnittstellen, Übertragungswege 
+und Protokolle wird der Abruf der Bestandsdaten zwischen den
+abfragenden Stellen, der Bundesnetzagentur und den
+Telekommunikationsanbietern im Detail realisiert?
+ 7. Auf welchen technischen Standards basiert das automatisierte
+Abrufsystem der BNetzA, und in welchen standardisierten Datenformaten werden 
+die Bestandsdatensätze übermittelt?
+Die Fragen 6 und 7 werden gemeinsam beantwortet.
+Die technischen Schnittstellen sind in der geltenden TR AAV 2.0 geregelt 
+(www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Telekom
+munikation/Unternehmen_Institutionen/Anbieterpflichten/OeffentlicheSicherhe
+it/AutomatisiertesAuskunftsverfahren/TR_AAV_2.0.html?nn=697970).
+ 8. Welche datentechnischen Suchkriterien und Suchmasken (z. B. exakte 
+Namensübereinstimmung, phonetische Suche, Platzhalter bzw.
+Wildcards oder unvollständige Rufnummern) sind im automatisierten
+Abrufsystem der BNetzA technisch implementiert?
+Die Suchmöglichkeiten sind in den §§ 2 bis 5 der Verordnung über das
+automatisierte Verfahren zur Auskunft über Kundendaten nach § 112 des
+Telekommunikationsgesetzes (KDAV) sowie der TR AAV 2.0 geregelt. Diese sind
+entsprechend implementiert.
+ 9. Wie viele der im Jahr 2025 registrierten automatisierten Abfragen
+betrafen die Identifizierung von Anschlussinhabern hinter dynamischen oder 
+statischen IP-Adressen?
+10. Wie hoch ist der datentechnisch erfasste Anteil der IP-Abfragen, die rein 
+repressiv (Strafverfolgung) im Vergleich zu zivilrechtlichen
+Auskunftsansprüchen (z. B. zur Durchsetzung von Urheberrechten gemäß § 101 
+des Urheberrechtsgesetzes (UrhG)) über die Schnittstellen durchgeführt 
+wurden?
+Die Fragen 9 und 10 werden gemeinsam beantwortet.
+Das AAV nach § 173 TKG erlaubt keine Abfragen von Bestandsdaten aufgrund 
+einer IP-Adresse.
+11. Welche Bundessicherheitsbehörden und Bundesministerien (z. B.
+Bundeskriminalamt (BKA), Bundespolizei, Zoll, Bundesamt für
+Verfassungsschutz, Bundesnachrichtendienst (BND), Militärischer
+Abschirmdienst (MAD)) verfügen über eine direkte, automatisierte
+Softwareschnittstelle zum Abrufsystem der BNetzA, und wie oft haben diese im 
+Jahr 2025 Gebrauch von der Schnittstelle gemacht (bitte nach Behörde, 
+Abrufhäufigkeit und genutzter Client-Software aufschlüsseln)?
+BKA:
+Die Bundesregierung kann hierzu keine Angaben machen. Eine statistische
+Erfassung dieser Daten findet im BKA nicht statt.
+Bundespolizei:
+Die Bundespolizei verfügt über keine direkte, automatisierte
+Softwareschnittstelle zum Abrufsystem der BNetzA.
+BfV:
+Die Bundesregierung ist nach sorgfältiger Abwägung zu der Auffassung
+gelangt, dass die Frage, sofern sie sich auf die Häufigkeit des Gebrauchs der 
+Schnittstelle durch das Bundesamt für Verfassungsschutz (BfV) bezieht, aus 
+Gründen des Staatswohls nur eingestuft beantwortet werden kann.
+Zwar ist der parlamentarische Informationsanspruch grundsätzlich auf die
+Beantwortung gestellter Fragen in der Öffentlichkeit angelegt. Die Einstufung der 
+Antwort als Verschlusssache (VS) mit dem Geheimhaltungsgrad „VS-Nur für 
+den Dienstgebrauch“ ist aber im vorliegenden Fall erforderlich. Nach § 3
+Nummer 4 der Allgemeinen Verwaltungsvorschrift zum materiellen und
+organisatorischen Schutz von Verschlusssachen (Verschlusssachenanweisung, VSA) sind 
+Informationen, deren Kenntnisnahme durch Unbefugte für die Interessen der 
+Bundesrepublik Deutschland oder eines ihrer Länder nachteilig sein können, 
+entsprechend einzustufen.
+Arbeitsmethoden und Vorgehensweisen der Sicherheitsbehörden des Bundes 
+sind im Hinblick auf die künftige Aufgabenerfüllung besonders schutzwürdig. 
+Eine zur Veröffentlichung bestimmte Antwort der Bundesregierung auf die
+vorliegende Frage würde spezifische Informationen zur Tätigkeit, insbesondere zur 
+Methodik und zum technischen Aufklärungspotential der Nachrichtendienste 
+des Bundes einem nicht eingrenzbaren Personenkreis – auch der
+Bundesrepublik Deutschland möglicherweise gegnerisch gesinnten Kräften – nicht nur im 
+Inland, sondern auch im Ausland zugänglich machen.
+Dabei würde die Gefahr entstehen, dass ihre bestehenden oder in der
+Entwicklung befindlichen operativen Fähigkeiten und Methoden aufgeklärt würden. 
+Dies kann für die wirksame Erfüllung der gesetzlichen Aufgaben der
+Sicherheitsbehörden und damit für die Interessen der Bundesrepublik Deutschland 
+nachteilig sein. Die erfragten Informationen werden daher gemäß § 3
+Nummer 4 VSA als „VS- Nur für den Dienstgebrauch“ eingestuft und dem
+Deutschen Bundestag gesondert übermittelt (Anlage VS- Nur für den
+Dienstgebrauch).*
+Bezüglich der Frage nach Art, Herkunft und konkretem Umfang der Nutzung 
+der eingesetzten Software durch das BfV ist die Bundesregierung nach
+sorgfältiger Abwägung der Auffassung, dass die Frage im Übrigen nicht beantwortet 
+werden kann.
+Gegenstand der Frage im Übrigen sind solche Informationen, die in
+besonderem Maße das Staatswohl berühren und daher in einer zur Veröffentlichung 
+* Das Bundesministerium für Digitales und Staatsmodernisierung hat die Antwort als „VS-Nur für den Dienstgebrauch“ eingestuft. Die Antwort ist im
+Parlamentssekretariat des Deutschen Bundestages hinterlegt und kann dort von Berechtigten eingesehen werden.
+vorgesehenen Fassung nicht behandelt werden können. Eine Bekanntgabe von 
+Einzelheiten zu Hersteller und Funktionsweise von Software sowie deren
+konkreter Anwendung durch BfV würde weitgehende Rückschlüsse auf technische 
+Fähigkeiten und Aufklärungspotenzial ermöglichen.
+Der Erfolg zukünftiger Maßnahmen könnte durch Beantwortung der Fragen
+gefährdet und damit die Erkenntnisgewinnung beeinträchtigt werden. Angaben 
+über die Nutzungshäufigkeit betreffen unmittelbar die nachrichtedienstliche 
+Methodik und Arbeitsweise. Mit der Beantwortung würden bestimmte
+Arbeitsmethoden und Vorgehensweisen des BfV offengelegt oder Rückschlüsse darauf 
+ermöglicht.
+Durch Informationen zu konkret genutzten Client-Softwares könnten die
+betreffenden Unternehmen darüber hinaus Ziel fremder staatlicher Akteure werden. 
+Die erbetenen Informationen zielen im Kern auf die Offenlegung bestimmter 
+Arbeitsmethoden und Vorgehensweisen im Bereich der technischen Ressourcen 
+ab. Solche durch die Kooperation mit Unternehmen nachvollziehbaren
+Arbeitsmethoden sind im Hinblick auf die künftige Erfüllung des gesetzlichen
+Auftrags der Nachrichtendienste jedoch besonders schutzwürdig. Die besondere 
+Schutzwürdigkeit spezifischer technischer Fähigkeiten dient der
+Aufrechterhaltung effektiver Arbeitsfähigkeit der Nachrichtendienste.
+Auch die Grundrechte der betreffenden Unternehmen sind in diesem
+Zusammenhang besonders schutzwürdig.
+Eine VS-Einstufung und Hinterlegung der angefragten Informationen in der 
+Geheimschutzstelle des Deutschen Bundestages kommt angesichts ihrer
+Relevanz/Sensibilität im Hinblick auf die Bedeutung der nachrichtendienstlichen 
+Aufklärung für die Aufgabenerfüllung des BfV nicht in Betracht.
+Auch ein geringfügiges Risiko des Bekanntwerdens derart sensibler
+Informationen kann unter keinen Umständen hingenommen werden. Bei Art, Herkunft 
+und konkretem Umfang der Nutzung der eingesetzten Software handelt es sich 
+wie bereits dargelegt um hochsensible Aspekte. Es handelt sich um solche
+Informationen, deren Kenntnisnahme durch Unbefugte auch die Sicherheit der 
+Bundesrepublik gefährden könnte. So besteht die Gefahr, dass feindliche
+Mächte entsprechende Abwehrstrategien entwickeln könnten. Eine Einstufung als 
+VS-NfD allein ist nicht geeignet, dieser Gefahr entgegenzuwirken.
+Eine VS-Einstufung kommt auch mit Blick auf die operativen Fähigkeiten und 
+Methoden des BfV nicht in Betracht. Ein Bekanntwerden dieser Informationen 
+würde den Einsatzerfolg laufender und künftiger Maßnahmen gefährden und 
+könnte damit einen erheblichen Nachteil für die Sicherheitsinteressen der
+Bundesrepublik Deutschland bedeuten.
+In der Abwägung des parlamentarischen Informationsrechts der Abgeordneten 
+einerseits und der staatswohlbegründeten Geheimhaltungsinteressen
+andererseits muss das parlamentarische Informationsrecht daher ausnahmsweise
+zurückstehen.
+Zoll:
+Der Zoll verfügt über eine automatisierte Softwareschnittstelle zum
+Abrufsystem der BNetzA.
+Eine verlässliche Angabe über den Gebrauch der Schnittstelle kann nicht
+getroffen werden, da weder die Erhebung der Zahlen noch die Zählweise bekannt 
+ist.
+MAD:
+Das Bundesamt für den Militärischen Abschirmdienst verfügt über eine
+Softwareschnittstelle zum Abrufsystem der BNetzA.
+Von einer weiteren Beantwortung der Frage wird abgesehen, weil diese
+Rückschlüsse auf die operativen Fähigkeiten des Militärischen Abschirmdienstes 
+(MAD) zuließe. Es wird insofern auf die Beantwortung der Frage zum BND 
+verwiesen.
+BND:
+Die Beantwortung der Frage betrifft solche Informationen, die in besonders
+hohem Maße das Staatswohl berühren und daher selbst in eingestufter Form nicht 
+beantwortet werden können. Der Bundesnachrichtendienst ist nach sorgfältiger 
+Abwägung der widerstreitenden Interessen zu der Auffassung gelangt, dass 
+eine Beantwortung der Fragen nicht erfolgen kann. Das verfassungsrechtlich 
+verbürgte Frage- und Informationsrecht des Deutschen Bundestages gegenüber 
+der Bundesregierung findet seine Grenzen in den gleichfalls Verfassungsrang 
+genießenden schutzwürdigen Interessen des Staatswohls. Eine Offenlegung der 
+angefragten Informationen birgt die Gefahr, dass Einzelheiten zur konkreten 
+Methodik und zu in hohem Maße schutzwürdigen spezifischen Fähigkeiten des 
+Bundesnachrichtendienstes (BND) bekannt würden. Infolgedessen könnten
+sowohl staatliche als auch nichtstaatliche Akteure Rückschlüsse auf spezifische 
+Vorgehensweisen und Fähigkeiten des BND ziehen. Dies könnte folgenschwere 
+Einschränkungen der Informationsgewinnung und Analysefähigkeit zur Folge 
+haben, womit letztlich der gesetzliche Auftrag des BND – die Sammlung und 
+Auswertung von Informationen über das Ausland, die von außen- und
+sicherheitspolitischer Bedeutung für die Bundesrepublik Deutschland sind (§ 1
+Absatz 2 BNDG) – nicht mehr sachgerecht erfüllt werden könnte. Die Gewinnung 
+von auslandsbezogenen Informationen ist für die Sicherheit der Bundesrepublik 
+Deutschland und für die Aufgabenerfüllung des BND jedoch unerlässlich.
+Sofern solche Informationen entfallen oder wesentlich zurückgehen sollten,
+würden empfindliche Informationslücken auch im Hinblick auf die Sicherheitslage 
+der Bundesrepublik Deutschland drohen. Selbst eine VS-Einstufung und
+Hinterlegung der angefragten Informationen in der Geheimschutzstelle des
+Deutschen Bundestages würde ihrer erheblichen Bedeutung für die
+Aufgabenerfüllung des BND nicht ausreichend Rechnung tragen. Die angefragten Inhalte
+beschreiben die Arbeitsweise des BND so detailliert, dass eine Bekanntgabe auch 
+gegenüber einem begrenzten Kreis von Empfängern ihrem Schutzbedürfnis 
+nicht Rechnung tragen kann. Dies gilt umso mehr für die Frage der
+Beschaffung nachrichtendienstlich relevanter Techniken oder Fähigkeiten. Bei einem 
+Bekanntwerden der schutzbedürftigen Information wäre kein Ersatz durch
+andere Instrumente der Informationsgewinnung möglich. Hieraus ergibt sich, dass 
+die erbetenen Informationen in ihrer Detailtiefe derart schutzbedürftige
+Geheimhaltungsinteressen berühren, dass das Staatswohl gegenüber dem
+parlamentarischen Informationsrecht in diesem besonderen Einzelfall wesentlich 
+überwiegt. Insofern muss ausnahmsweise das Fragerecht der Abgeordneten
+gegenüber dem Geheimhaltungsinteresse der Bundesregierung zurückstehen.
+Dabei ist der Umstand, dass die Antwort verweigert wird, weder als Bestätigung 
+noch als Verneinung des angefragten Sachverhalts zu werten.
+12. Welche geschätzten IT-Investitions- und Betriebskosten entstanden dem 
+Bund in den Jahren 2024 und 2025 für die Wartung, Modernisierung und 
+den IT-Sicherheitsbetrieb der behördeneigenen Abruf-Clients?
+Die Bundesregierung verweist für alle betroffenen Stellen auf die Antwort des 
+BND zu Frage 11.
+13. Wie wird die Einhaltung der verfassungsrechtlichen Vorgaben technisch 
+und systemseitig kontrolliert und protokolliert?
+Die Prüfung der Zulässigkeit im automatisierten Auskunftsverfahren richtet 
+sich nach § 173 Absatz 7 TKG. Die technischen und organisatorischen
+Anforderungen an das Verfahren ergeben sich aus § 173 TKG, der KDAV und der 
+TR-AAV. Die technische und systemseitige Protokollierung der Abrufe erfolgt 
+nach § 173 Absatz 8 TKG über die genutzte Software und die Anbindung an 
+die Netzinfrastruktur der BNetzA. Das Vorliegen der rechtlichen
+Voraussetzungen prüft die jeweils zur Abfrage berechtigte Stelle.
+14. Auf welche Weise wird die automatisierte, datenschutzkonforme
+Löschung der Protokolldaten nach Ablauf der gesetzlichen
+Aufbewahrungsfristen systemseitig gesteuert und kontrolliert?
+Die Protokolldaten sind doppelt verschlüsselt und nur im Vier-Augen-Prinzip 
+gemeinsam mit der BfDI zu entschlüsseln. Die automatisierte,
+datenschutzkonforme Löschung der Protokolldaten wird durch die genutzte Software
+systemseitig, tagesgenau sichergestellt.
+15. Gab es in den Jahren 2024 und 2025 dokumentierte IT-
+Sicherheitsvorfälle, unberechtigte Datenzugriffe über die Schnittstellen oder Fälle, in 
+denen Behördenmitarbeiter nachweislich unberechtigte oder
+missbräuchliche Bestandsdatenabfragen durchgeführt haben?
+Die Beantwortung der Frage betrifft solche Informationen, die in besonders
+hohem Maße das Staatswohl berühren und daher selbst in eingestufter Form nicht 
+beantwortet werden können. Eine Offenlegung der angefragten Informationen 
+birgt die Gefahr, dass Einzelheiten zur konkreten Methodik und zu in hohem 
+Maße schutzwürdigen spezifischen Fähigkeiten der Nachrichtendienste bekannt 
+würden. Insofern wird auf die Antwort zu Frage 11 verwiesen.
+16. In wie vielen Fällen wurde bei den über die BNetzA-Schnittstellen
+abgewickelten Abfragen im Jahr 2025 systemseitig eine nachträgliche
+Benachrichtigung der betroffenen Bürger angestoßen oder datentechnisch 
+erfasst?
+Nachträgliche Benachrichtigungen von betroffenen Bürgern werden nicht
+angestoßen, da die BNetzA keinen Einblick in die personenbezogenen Daten von 
+Bürgern hat.
+17. Welche Bundes- und Landesbehörden außerhalb der klassischen
+Sicherheits- und Strafverfolgungsbehörden (wie z. B. Rundfunkanstalten,
+kommunale Ordnungsämter, Baubehörden oder Hauptzollämter) verfügen 
+über eine eigene gesetzliche Zugriffsberechtigung auf die
+Bestandsdatenbanken der BNetzA, und wie oft haben diese im Jahr 2025 Daten
+abgefragt (bitte einzeln auflisten)?
+Die berechtigten Stellen sind in § 173 Absatz 4 TKG abschließend geregelt. 
+Die BNetzA betreibt keine Bestandsdatenbanken; sämtliche Ersuchen von
+Behörden werden an die Telekommunikationsanbieter weitergeleitet.
+18. In wie vielen Fällen im Jahr 2025 wurde eine Bestandsdatenauskunft zur 
+Identifizierung von Internetnutzern im Zusammenhang mit dem Vorwurf 
+von „Äußerungsdelikten“ (insbesondere Beleidigung gemäß § 185 des 
+Strafgesetzbuches (StGB), Beleidigung von Personen des politischen
+Lebens gemäß § 188 StGB oder Volksverhetzung gemäß § 130 StGB) 
+durchgeführt, und wie rechtfertigt die Bundesregierung die Aufhebung 
+der digitalen Anonymität bei solchen Delikten im Hinblick auf das
+Übermaßverbot?
+Das AAV ermöglicht keine Identifizierung von Internetnutzern.
+19. Gibt es statistische Erfassungen oder Schätzungen der Bundesregierung 
+darüber, in wie vielen Fällen im Jahr 2025 unbescholtene Bürger
+fälschlicherweise ins Visier von Ermittlungsmaßnahmen gerieten, weil die vom 
+Provider übermittelten IP-Adressen-Zuordnungen unrichtig oder
+fehlerhaft waren?
+Es wird auf die Antworten zu den Fragen 9 und 18 verwiesen.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

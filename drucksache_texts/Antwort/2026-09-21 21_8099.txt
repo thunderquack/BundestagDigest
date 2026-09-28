@@ -1,0 +1,230 @@
+Deutscher Bundestag Drucksache 21/8099
+21. Wahlperiode 21.09.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Ruben Rupp, Robin Jünger, Alexander 
+Arpaschi, weiterer Abgeordneter und der Fraktion der AfD 
+– Drucksache 21/7851 –
+Hochleistungsrechnen als Schlüsseltechnologie – Konsequenzen aus Chinas 
+Spitzenposition für die deutsche Forschungs- und Sicherheitsarchitektur
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Hochleistungsrechnen (High-Performance Computing [HPC]) ist ein zentraler 
+Pfeiler für den wissenschaftlichen Fortschritt und die technologische
+Innovationsfähigkeit eines modernen Staates. Die Leistungsfähigkeit nationaler
+Supercomputing-Infrastrukturen entscheidet heute maßgeblich über die digitale 
+Souveränität sowie die Wettbewerbsfähigkeit in strategischen
+Schlüsselbereichen wie der Künstlichen Intelligenz (KI) und der Simulation komplexer
+industrieller Prozesse. Zudem bildet HPC die technische Grundlage für die
+Entwicklung hochsicherer kryptografischer Verfahren, die für den Schutz
+staatlicher Kommunikation und kritischer Infrastrukturen vor künftigen
+technologischen Bedrohungen, zum Beispiel durch Quantencomputer, unverzichtbar 
+sind.
+Die aktuelle Weltrangliste der Supercomputer dokumentiert seit der
+Jahrtausendwende eine signifikante Verschiebung der technologischen
+Kräfteverhältnisse. Nach den vorliegenden Erkenntnissen hat die Volksrepublik China mit 
+einem System, das eine Rechenleistung von 2,198 Exaflops erzielt, die
+Spitzenposition übernommen und damit die Exascale-Grenze deutlich
+überschritten (https://de.euronews.com/next/2026/06/24/schnellster-supercomputer-der-
+welt-steht-in-china-und-ubertrifft-usa-und-deutschland). Dieser
+technologische Vorsprung unterstreicht die globale Dynamik in einem Bereich, der als 
+kritische technologische Infrastruktur gilt und unter Gesichtspunkten wie 
+Wirtschaft, Innovation sowie nationale Sicherheit hoch relevant ist. Während 
+Deutschland mit dem Supercomputer JUPITER im Forschungszentrum Jülich 
+derzeit den fünften Platz der Weltrangliste belegt und die 1‑Exascale-Marke 
+erreicht hat, verfügt das führende chinesische System bereits über mehr als die 
+doppelte Rechenkapazität (https://de.euronews.com/next/2026/06/24/schnellst
+er-supercomputer-der-welt-steht-in-china-und-ubertrifft-usa-und-deutschland; 
+www.fz-juelich.de/de/jupiter).
+Die Vormachtstellung Chinas in diesem Bereich wirft grundlegende Fragen 
+zur strategischen Autonomie Europas auf. Wenn die technologische
+Führerschaft bei der Rechenkapazität massiv in Richtung autoritärer Akteure
+abwandert, besteht das Risiko, dass Europa nicht nur bei der KI‑Entwicklung,
+sondern auch bei der digitalen Sicherheit und der technologischen Gestaltung 
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Forschung, Technologie und 
+Raumfahrt vom 21. September 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+künftiger Standards in Abhängigkeiten gerät. Dabei geht es nicht nur um die 
+reine Rechenleistung, sondern auch um den Zugriff auf Hardware-
+Architekturen, Betriebssysteme und Software-Stacks, die den Kern der digitalen
+Wertschöpfung bilden.
+Vor diesem Hintergrund besteht ein erhebliches parlamentarisches
+Informationsbedürfnis darüber, wie die Bundesregierung die aktuelle Verschiebung in 
+der Weltrangliste bewertet, inwieweit sie das deutsche HPC-Modell für
+zukunftsfähig hält und welche sicherheitspolitischen Konsequenzen sie aus der 
+chinesischen Führungsposition für die digitale Souveränität Deutschlands 
+zieht. Es ist zu prüfen, ob die bisherige Strategie der Bundesregierung
+ausreicht, um im internationalen Wettbewerb der Supermächte technologisch 
+Schritt zu halten oder ob es einer Kurskorrektur bei der staatlichen
+Forschungsförderung und der IT-Infrastrukturplanung bedarf.
+ 1. Wie bewertet die Bundesregierung die Tatsache, dass die Volksrepublik 
+China mit einem System, welches eine Rechenleistung von 2,198
+Exaflops erzielt, derzeit den ersten Platz der Weltrangliste einnimmt,
+während das deutsche Spitzenmodell JUPITER den fünften Platz belegt?
+ 2. Sieht die Bundesregierung in der massiven Überlegenheit der
+chinesischen Rechenkapazitäten eine Gefährdung für die digitale Souveränität 
+Deutschlands sowie Europas, wenn ja, welche, und wenn nein, aus
+welchen Gründen nicht?
+Die Fragen 1 und 2 werden gemeinsam beantwortet.
+Die TOP500-Liste ordnet die weltweit schnellsten Supercomputer anhand ihrer 
+Rechenleistung im standardisierten High Performance Linpack (HPL)-
+Benchmark, gemessen in Gleitkommaoperationen pro Sekunde (FLOPS). Die
+Rechenleistung für die Durchführung des Benchmarks ist eine Kennzahl, die nur 
+eingeschränkt aussagt, wie schnell Supercomputer im direkten Vergleich
+komplexe Simulationsmodelle und anwendungsspezifische Berechnungsaufgaben 
+lösen. Einfluss auf die Leistungsfähigkeit haben auch die unterschiedlichen
+Architekturen. Im Vergleich zum chinesischen Großrechner LineShine, welcher – 
+nach den vorliegenden Informationen – ausschließlich auf Basis von Central 
+Processing Units (CPU) mit integrierten Vektorberechnungseinheiten aufgebaut 
+ist, verfügt JUPITER neben CPU auch insbesondere über leistungsstarke
+Graphics Processing Units (GPU), was ihn flexibler und insbesondere für KI-
+Anwendungen und Simulationen sehr leistungsfähig macht. Aus dem bloßen
+Performancevergleich im HPL-Benchmark zwischen LineShine und JUPITER
+leitet sich daher keine Überlegenheit chinesischer Rechenkapazitäten ab.
+ 3. Welche Erkenntnisse hat die Bundesregierung über die beim
+chinesischen Spitzen-System eingesetzte Hardware-Architektur, und inwieweit 
+basieren diese, nach Einschätzung der Bundesregierung, auf nationalen 
+chinesischen Eigenentwicklungen beziehungsweise in welchem Umfang 
+auf europäischer oder deutscher Technologie?
+Gemäß den öffentlich verfügbaren Informationen nutzt LineShine sogenannte 
+LX2-Prozessoren, die eine chinesische Eigenentwicklung darstellen. Das
+Prozessordesign basiert auf der Architektur ARMv9 des britischen Unternehmens 
+Arm. Dabei sind jeweils 304 aktive ARMv9-Kerne, getaktet mit 1,55 GHz,
+verteilt auf zwei Compute-Chiplets in einen LX2-Sockel integriert.
+ 4. Sieht die Bundesregierung durch die chinesische Führungsposition im 
+Bereich der Exascale-Rechner eine Gefahr für die Sicherheit aktueller 
+deutscher Verschlüsselungsverfahren, insbesondere mit Blick auf die
+Fähigkeit zur Entschlüsselung staatlicher Kommunikation oder auf den 
+Schutz kritischer Infrastrukturen?
+Das Bundesamt für Sicherheit in der Informationstechnik (BSI) empfiehlt
+sichere kryptografische Algorithmen (TR-02102). Werden die BSI-
+Empfehlungen umgesetzt, ist eine sichere Kommunikation auch im Zeitalter von Exascale-
+Rechnern möglich. Das BSI stellt den Betreibern Kritischer Infrastrukturen und 
+allen anderen Nutzern entsprechende Informationen auf seiner Website zur
+Verfügung.
+ 5. Welche Risiken sieht die Bundesregierung für die deutsche Industrie, 
+wenn chinesische Wettbewerber durch überlegene HPC-Kapazitäten 
+deutlich schnellere Simulations- und Entwicklungszyklen realisieren 
+können?
+ 6. Ist die Bundesregierung angesichts der aktuellen Weltrangliste weiterhin 
+mit der Leistungsfähigkeit, dem Ausbautempo und der strategischen 
+Ausrichtung des deutschen Modells JUPITER zufrieden?
+ 7. Welche konkreten Maßnahmen plant die Bundesregierung, um die
+technologische Lücke zwischen den deutschen Systemen und der
+chinesischen Weltspitze in den kommenden drei Jahren signifikant zu
+verringern?
+Die Fragen 5 bis 7 werden gemeinsam beantwortet.
+Aus den reinen Kennzahlen von LineShine leiten sich keine überlegenen
+Kapazitäten des High-Performance Computing (HPC) Chinas ab (siehe auch die 
+Antwort zu den Fragen 1 und 2). Gleichwohl geht die Bundesregierung davon 
+aus, dass HPC-Kapazitäten weltweit weiter ausgebaut und sowohl schneller zu 
+neuen wissenschaftlichen Erkenntnissen als auch zu einer beschleunigten
+Entwicklung von Hightech-Produkten beitragen können.
+Die Bundesregierung hält an ihren Ausbauplänen für die öffentlich-finanzierte 
+HPC-Infrastruktur fest – v. a. angesichts der wachsenden Bedarfe für
+Anwendungen mit Künstlicher Intelligenz (KI). Sie vergrößert die Rechenkapazität für 
+die Wissenschaft und Unternehmen, insbesondere durch die Inbetriebnahme 
+neuer Rechner an den AI Factories in Jülich und Stuttgart bis zum Jahr 2027 
+sowie neuer GCS-Großrechner in München und Stuttgart im Jahr 2027
+erheblich. Zudem beabsichtigt die Bundesregierung, eine der europäischen AI
+Gigafactories nach Deutschland zu holen.
+Der zukünftige Bedarf nach Rechenleistung wird dabei jedoch nur zu einem 
+Teil durch öffentlich-finanzierte Höchstleistungsrechner wie JUPITER bedient 
+werden können. Wesentlich ist hier insbesondere auch der Ausbau von privaten 
+Rechenkapazitäten. Erklärtes Ziel der am 18. März 2026 veröffentlichten 
+Nationalen Rechenzentrumsstrategie ist es daher, die
+Rechenzentrumskapazitäten in Deutschland bis zum Jahr 2030 mindestens zu verdoppeln und die
+Rechenkapazitäten für HPC und KI mindestens zu vervierfachen.
+ 8. Wie hoch war die Gesamtförderung des Bundes für den Bereich
+Hochleistungsrechnen in den Jahren 2023, 2024 und 2025, und welche
+Steigerungen sind für die kommenden Haushaltsjahre geplant?
+Der Bund hat in den Jahren 2023, 2024 und 2025 den Auf- und Ausbau der 
+öffentlichen Höchstleistungsrechner in Deutschland mit Projektfördermitteln in 
+Höhe von insgesamt rund 290 Mio. Euro unterstützt. Diese Summe wurde 
+durch Förderungen der Europäischen Union sowie der Länder ergänzt. Für die 
+kommenden Jahre ist eine deutliche Erhöhung der Fördersummen des Bundes 
+in diesem Bereich geplant, insbesondere um den Aufbau der AI Gigafactory in 
+Deutschland zu unterstützen. Die Planungen sehen bis zum Jahr 2029 derzeit 
+eine Summe in Höhe von rund 1 Mrd. Euro vor.
+ 9. Inwieweit ist das deutsche Modell JUPITER nach Ansicht der
+Bundesregierung ausreichend flexibel, um auf die rasanten technologischen 
+Sprünge im Bereich KI-optimierter Hardware zu reagieren?
+Wie in der Antwort zu den Fragen 1 und 2 ausgeführt, zeichnet sich die
+Architektur von JUPITER durch eine hoch leistungsfähige Hardware in einer sehr 
+flexibel einsetzbaren Architektur aus. Konkret werden im Booster-Modul 
+NVIDIA GH200 Grace-Hopper Superchips eingesetzt, die zum
+Beschaffungszeitpunkt neueste Generation der NVIDIA Hochleistungschips für HPC-
+Anwendungen. Die modulare Bauweise von JUPITER ermöglicht zugleich bei 
+Bedarf gezielte Erweiterungen. Die JUPITER AI Factory (JAIF) ergänzt JUPI-
+TER um ein zusätzliches Modul speziell für Inferenzanwendungen. Über 
+Cloud-Zugänge können trainierte KI-Modelle somit auch effizient für
+praktische Anwendungen bereitgestellt werden. JUPITER ist dabei nicht
+ausschließlich auf KI-Anwendungen optimiert, sondern ist auch für andere
+Höchstleistungsrechenanwendungen wie wissenschaftliche Exascale-Simulationsmodelle 
+und industriell relevante Anwendungen wie beispielsweise
+Strömungssimulationen und quantenchemische Simulationen ausgelegt.
+10. Wie bewertet die Bundesregierung die Abhängigkeit deutscher
+Supercomputer von US-amerikanischer Hardware (z. B. Prozessoren und
+Graphics Processing Units [GPUs] von NVIDIA, AMD oder Intel)?
+11. Welche Bestrebungen verfolgt die Bundesregierung, um die Entwicklung 
+europäischer Hochleistungsprozessoren (z. B. im Rahmen der European 
+Processor Initiative [EPI]) zu beschleunigen und die Abhängigkeit von 
+außereuropäischen Lieferketten, insbesondere Taiwan und den USA, zu 
+reduzieren?
+Die Fragen 10 und 11 werden gemeinsam beantwortet.
+Supercomputer müssen mit der neuesten und leistungsfähigsten Hardware
+ausgerüstet und mit den gängigen Programmierschnittstellen (wie CUDA)
+kompatibel sein, um im internationalen Vergleich wettbewerbsfähig zu sein. Die 
+Marktführer für Hochleistungsprozessoren sind derzeit US-Unternehmen 
+(NVIDIA, AMD, Intel).
+Die führende Marktstellung ermöglicht den Unternehmen, die enormen
+Entwicklungs- und Fertigungskosten für die Weiterentwicklung der
+Hochleistungsprozessoren für Cloud- und KI-Anwendungen aufzubringen. Die
+Bundesregierung strebt an, die technologische Unabhängigkeit und Wettbewerbsfähigkeit 
+Deutschlands im HPC‑Bereich zu stärken. Dies ist nur gemeinsam mit den 
+Partnern in Europa möglich. Die Bundesregierung unterstützt daher die Ziele 
+der europäischen Kommission, mittel- bis langfristig auch im Bereich der
+Cloud- und KI-Chips die technologische Souveränität zu stärken. Dies erfolgt 
+einerseits durch die Förderung der europäischen Kompetenzen im Chipdesign 
+durch Kofinanzierung entsprechender Förderaufrufe (beispielsweise DIGITAL-
+JU-CHIPS-2026-AI1-SG, DIGITAL-JU-CHIPS-2026-AI-GfP) im Chips Joint 
+Undertaking (Chips JU). Andererseits bereitet der Entwurf des Cloud and AI 
+Development Acts den Rahmen vor, um durch Vorgaben im
+Beschaffungswesen gezielt die Nachfrage nach europäischer Technologie in öffentlich
+finanzierten Supercomputern zu stärken.
+12. Inwieweit sieht die Bundesregierung die Gefahr, dass China durch
+Exportbeschränkungen oder den gezielten Aufkauf von
+Schlüsseltechnologien die europäische HPC-Entwicklung behindern könnte?
+Die Fertigung von Hochleistungsprozessoren und sonstiger Hardware für HPC-
+Systeme erfolgt, wie in allen Bereichen der Halbleiterproduktion, in komplexen 
+globalen Lieferketten mit gegenseitigen Abhängigkeiten. Viele Akteure
+besetzen an einzelnen Punkten der Zulieferketten eine Schlüsselposition, so etwa 
+China bei kritischen Rohstoffen. Beeinträchtigungen der Halbleiterlieferkette 
+hätten über den HPC-Bereich hinaus in nahezu allen Bereichen der
+Mikroelektronik Auswirkungen. Die Bundesregierung setzt sich daher dafür ein, die
+Resilienz der europäischen HPC‑Infrastruktur und Lieferketten, u. a. durch
+Diversifizierung und den Ausbau europäischer Halbleiter-Kapazitäten, zu stärken. 
+Dem gezielten Aufkauf von Schlüsseltechnologien wirkt die Bundesregierung 
+mit den Mitteln der Investitionsprüfung entgegen.
+13. Welchen Stellenwert hat die HPC-Infrastruktur in der „Digitalstrategie 
+Deutschland“ für den Zeitraum bis 2030, und welche Etappenziele
+wurden für den weiteren Ausbau definiert?
+Die Ziele der Digitalpolitik der aktuellen Bundesregierung ergeben sich aus 
+dem Koalitionsvertrag für die 21. Legislaturperiode zwischen CDU, CSU und 
+SPD, aus der Hightech Agenda Deutschland (HTAD) sowie aus der
+Rechenzentrumsstrategie der Bundesregierung. Die „Digitalstrategie“ ist der früheren 
+Bundesregierung zugeordnet.
+In der HTAD wird die zentrale Bedeutung des Ausbaus der Recheninfrastruktur 
+für die Nutzung im KI-Bereich besonders betont. Leistungsfähige und
+möglichst souveräne Rechenkapazitäten sollen insbesondere KI-Forschung und 
+-Anwendung ermöglichen, aber auch andere Schlüsseltechnologien wie
+Biotechnologie, Quantentechnologien, Mikroelektronik und klimaneutrale
+Energietechnologien unterstützen und somit auch digitale Wertschöpfung in
+Deutschland sichern. Die HTAD nennt den Ausbau von Recheninfrastruktur
+ausdrücklich als Voraussetzung für technologische Souveränität und Wertschöpfung; 
+dazu gehören unter anderem JUPITER, der Ausbau von KI-Rechenkapazitäten 
+im Nationalen Hochleistungsrechnen sowie das Ziel, mindestens eine
+europäische AI Gigafactory nach Deutschland zu holen. Zum Ausbauplan wird auf die 
+Antwort zu den Fragen 5 bis 7 verwiesen.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
