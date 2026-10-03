@@ -1,0 +1,4446 @@
+Deutscher Bundestag Drucksache 21/8150 
+21. Wahlperiode 23.09.2026
+Unterrichtung 
+durch die Bundesregierung 
+Bundesbericht Energieforschung 2026 
+Zugeleitet mit Schreiben des Bundesministeriums für Wirtschaft und Energie vom 23. September 2026. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Impressum
+Herausgeber
+Bundesministerium für  
+Wirtschaft und Energie (BMWE)  
+Öffentlichkeitsarbeit  
+10100 Berlin  
+www.bundeswirtschaftsministerium.de
+Stand
+August 2026
+Diese Publikation wird ausschließlich als Download angeboten.
+Gestaltung
+PRpetuum GmbH,  81541 München 
+Bildnachweis
+© Siemens Energy / Titel 
+AdobeStock / ARMMY PICCA / S. 4 
+AdobeStock / Mdisk / S. 6 
+HZB / S. Steinbach / S. 7, 57  
+MPI für Plasmaphysik, Jan Michael Hosan / S. 7, 55 
+AdobeStock / eigens / S. 11 
+AdobeStock / scharfsinn86 / S. 12, 71 
+MPI für Plasmaphysik, Volker Steger / S. 16 
+© Fraunhofer ISE / Dirk Mahler / S. 17, 60 
+Projektträger Jülich, Forschungszentrum Jülich GmbH / S. 21, 22, 24, 28, 30, 34 
+AdobeStock / panuwat / S. 23 
+EnBW / Fotograf ARTIS-Uli Deck / S. 25 
+HHLA / S. 26, 27 
+DEMIRAG Architekten / S. 27 
+AdobeStock/ kflgalore / S. 28 
+ASCA GmbH & Co. KG / S. 29 
+AdobeStock / malp / S. 31 
+Privat / S. 32 
+Portal Green II / S. 33 
+AdobeStock / InfiniteFlow / S. 35 
+EnBW / S. 36 
+Energiedienst / S. 37 
+ronaldbonss.com / Fraunhofer IWS / S. 38 
+Adobestock / PeakCC / peopleimages.com / S. 39 
+Fraunhofer ISE / Joscha Feuerstein / S. 41 
+PtJ / Stranzenbach / S. 42 
+AdobeStock / Gerd / S. 43 
+KIT / DLR / S. 44, 45 
+AdobeStock / Corona Borealis / S. 47 
+AdobeStock / Naiyana / S. 49 
+AdobeStock / Pituk / S. 50 
+Fraunhofer EMI / S. 51 
+Fraunhofer ISE / Jakob Ungerland / S. 52 
+PtJ / Pakura / S. 53 
+Kurt Fuchs / Forschungszentrum Jülich / S. 58, 59 
+Kurt Fuchs / Solar TAB / S. 59 
+AdobeStock / upixa / S. 62 
+AdobeStock / vegefox.com / S. 64 
+AdobeStock / comofoto / S. 67 
+AdobeStock / Anela Ramba / peopleimages.com / S. 69 
+AdobeStock / Grispb / S. 71, 72 
+AdobeStock / rogerphoto / S. 73 
+Alle Icons: Magnific
+Titelbild: Teilansicht eines Elektrolyseurs. Elektrolyseure spielen beim 
+Umbau des Energiesystems eine zentrale Rolle. Sie wandeln Strom aus 
+Erneuerbare-Energie-Anlagen in Wasserstoff um. Dieser kann gespeichert 
+und später energetisch oder stofflich genutzt werden. Die Energieforschung 
+mit ihren Innovationen trägt unter anderem dazu bei, dass Elektrolyseure 
+effizienter arbeiten und Wasserstoff in größeren Mengen und
+kostengünstiger produziert werden kann.
+Diese Publikation wird vom Bundesministerium für Wirtschaft und Energie 
+im Rahmen der Öffentlichkeitsarbeit herausgegeben. Die Publikation wird 
+kostenlos abgegeben und ist nicht zum Verkauf bestimmt. Sie darf nicht zur 
+Wahlwerbung politischer Parteien oder Gruppen eingesetzt werden.
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 2 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Inhalt
+1. Energieforschungspolitik der Bundesregierung ............................................................................................................................................................4
+1.1 Mittelentwicklung .....................................................................................................................................................................................................................................10
+1.2 Governance ............................................................................................................................................................................................................................................................11
+1.3 Perspektive Fusion ...................................................................................................................................................................................................................................15
+2. Projektförderung des BMWE in der  angewandten  Energieforschung ................................................17
+2.1  Forschungsmission Energiesystem 
+„Innovationen für den Wandel zu einem effizienten, resilienten und 
+nachhaltigen Energiesystem vorantreiben.“ ..................................................................................................................................................22
+2.2 Forschungsmission Wärme 
+ „Den Wandel zur nachhaltigen und effizienten Wärme- und 
+Kälteversorgung beschleunigen.“ .....................................................................................................................................................................................24
+2.3 Forschungsmission Strom
+ „Innovationen für eine sichere und bezahlbare Stromversorgung, 
+die dem Klimaschutz dient, schaffen.“ .....................................................................................................................................................................28
+2.4 Forschungsmission Wasserstoff
+ „Den Weg zur nachhaltigen Wasserstoffwirtschaft durch neue
+Technologielösungen und Konzepte entlang der gesamten Wertschöpfungskette ebnen.“ ...............................30
+2.5 Forschungsmission Transfer
+ „Die Rolle der Energieforschung als Impulsgeberin des Fortschritts 
+in Wirtschaft und Gesellschaft stärken.“ ..............................................................................................................................................................34
+2.6  Gezielte Programmsteuerung durch Monitoring und Evaluation .....................................................................38
+3.  Projektförderung des BMFTR in der anwendungsorientierten
+Grundlagenforschung und Fusionsforschung ................................................................................................................................................................41
+3.1 Strategische Förderformate ....................................................................................................................................................................................................42
+3.2 Energiewende in den Verbrauchssektoren ..................................................................................................................................................48
+3.3 Energieerzeugung ......................................................................................................................................................................................................................................50
+3.4 Systemintegration: Netze, Speicher, Sektorenkopplung ....................................................................................................50
+3.5 Systemübergreifende Forschungsthemen der Energiewende .................................................................................53
+3.6 Aktionsplan Fusion und Förderprogramm Fusion 2040 .....................................................................................................54
+4. Institutionelle Energieforschung ..........................................................................................................................................................................................................................57
+5. Weitere Fördermaßnahmen der Bundesregierung mit Energiebezug .................................................60
+6. Forschungsförderung der Länder ........................................................................................................................................................................................................................64
+7. Europäische und internationale Zusammenarbeit ...........................................................................................................................................67
+8. Übersichten .............................................................................................................................................................................................................................................................................................................................73
+8.1 Fördermittel in der Energieforschungsförderung des Bundes ................................................................................74
+8.2 Fördermittel in der Energieforschungsförderung der Länder ..................................................................................84
+8.3 Entwicklungsstand von Technologien anhand des Technologiereifegrads ......................................86
+3
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 3 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+4
+1.
+Energieforschungspolitik der
+Bundesregierung
+Im Fokus der Energiepolitik der Bundesregierung 
+steht das Zieldreieck Versorgungssicherheit,
+Wettbewerbsfähigkeit und Klimaschutz. Der
+Energieforschung als strategisches Instrument der Energiepolitik 
+kommt hierbei eine zentrale Rolle zu. Sie trägt durch 
+die Vorbereitung und das Verfügbarmachen der
+notwendigen Energieinnovationen dazu bei, das
+Energiesystem bezahlbar, resilient und nachhaltig  
+zu gestalten.
+Die Forschungsförderung der Bundesregierung im Energiebereich 
+schafft nicht nur technologische Grundlagen, sondern richtet den Blick 
+verstärkt auf den Markthochlauf von Innovationen und die
+Systemintegration von Forschungsergebnissen in die Praxis. Aufgrund der
+geopolitischen Verhältnisse wächst zudem der Druck, Förderinstrumente noch 
+strategischer und dynamischer einzusetzen. Die Bundesregierung 
+reagiert darauf, indem sie ihr Energieforschungsprogramm konsequent 
+weiterentwickelt. Die passgenauen Förderleitplanken tragen dazu bei, 
+dass Innovationszyklen verkürzt und Investitionen in Innovation
+mobilisiert werden.
+Entsprechend sieht die Hightech Agenda Deutschland (HTAD) der
+Bundesregierung die Bündelung der Forschung zu Schlüsseltechnologien der 
+Energiewende in einem zielorientierten und technologieoffenen
+Energieforschungsprogramm vor. Das zu entwickelnde
+Energieforschungsprogramm soll dabei wissenschaftliche Exzellenz mit wirtschaftlicher
+Verwertbarkeit verbinden und dazu beitragen, in allen Bereichen des
+Energiesystems, von der Energiebereitstellung bis zur Energienutzung in 
+allen Sektoren, neue Technologien entlang der gesamten
+Innovationskette – von der Grundlagenforschung bis zur Markteinführung –
+voranzubringen. Damit stärkt es nicht nur die technologische Souveränität 
+Deutschlands, sondern schafft auch die Grundlage für neue
+Wertschöpfung, industrielle Wettbewerbsfähigkeit und hochwertige Arbeitsplätze.
+Forschung für die Energiewende
+Die Innovationsimpulse aus der Energieforschungsförderung wirken 
+weit über den Energiesektor hinaus. Sie tragen maßgeblich zur
+Modernisierung zentraler Infrastrukturen bei – von Strom- und Wärme netzen über 
+Wasserstoffsysteme bis hin zu digitalen Steuerungs- und
+Flexibilitätslösungen. Durch die enge Verzahnung von Forschung, Industrie und 
+Anwendung entstehen Lösungen, die im internationalen Wettbewerb 
+bestehen und zugleich den Umbau des Energiesystems in Deutschland 
+beschleunigen. Gerade vor dem Hintergrund globaler Dynamiken, 
+bedrohter Transportketten und zunehmender technologischer
+Konkurrenz gewinnt diese strategische Ausrichtung weiter an Bedeutung.
+Die Resilienz der
+Energieversorgung wird angesichts der  
+geopolitischen Lage immer 
+wichtiger.
+Die Energieforschung ist ein 
+Kernelement der Hightech 
+Agenda der Bundesregierung.
+Die Wertschöpfungstreiber von 
+morgen — Künstliche Intelligenz, 
+Rechenzen tren, elektrifizierte 
+Industrie, digitale
+Dienstleistungen — benötigen preis werten 
+Strom und eine resiliente
+Energieinfrastruktur.
+1 . ENERGIEFORSCHUNGSPOLITIK DER BUNDESREGIERUNG 5
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 5 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+6 1. ENERGIEFORSCHUNGSPOLITIK DER BUNDESREGIERUNG
+Ein wichtiger Baustein hierfür sind die „Reallabore der Energiewende“ 
+des Bundesministeriums für Wirtschaft und Energie (BMWE). Diese 
+Maßnahme hat das BMWE im November 2025 mit einem neuen
+Förderaufruf als praxisnahes Forschungsformat gezielt gestärkt. Die
+„Reallabore der Energiewende“ ermöglichen es, inno vative Technologien und 
+Anwendungen unter realen Bedingungen zu erproben und schneller in 
+die Energiewirtschaft zu überführen. Sie fördern sektorübergreifende 
+Ansätze und liefern wertvolle Erkenntnisse für die Weiterentwicklung 
+von Markt- und Rahmen bedingungen. Der Fokus des Förderaufrufes 
+2025 lag auf den Programm-Missionen Strom und Wärme des 8.
+Energieforschungsprogramms zur angewandten Energieforschung des BMWE. 
+Hier sollen die „Reallabore der Energiewende“ einen entscheidenden 
+Beitrag zur Beschleunigung des Markthochlaufs klimaverträglicher 
+Technologien leisten (siehe auch Seite 36). So soll das Format in den 
+kommenden Jahren verstetigt werden. Die Maßnahme wird aus dem 
+Sondervermögen „Klima- und Transformationsfonds“ (KTF) finanziert.
+Deutschland benötigt eine diversifizierte
+Energieinfrastruktur
+Mit der im Jahr 2025 gestarteten „Explorationsinitiative Geothermie“ 
+unterstreicht das BMWE die strategische Ausrichtung der
+Energieforschungsförderung. Ziel ist es, bislang ungenutzte Potenziale der
+Tiefengeothermie systematisch zu erschließen und damit eine verläss liche, 
+grundlastfähige und klimaneutrale Energiequelle für die
+Wärmeversorgung verfügbar zu machen. Durch die gezielte Förderung von 
+Erkundungsmaßnahmen werden Investitionsrisiken reduziert und neue 
+Projekte angestoßen – ein wichtiger Schritt für den Aufbau einer 
+zukunftsfähigen und diversifizierten Energieinfrastruktur. Die
+Maßnahme finanziert der Bund im Rahmen des Sondervermögens
+„Infrastruktur und Klimaneutralität“ (SVIK). Damit trägt auch die
+Energieforschung dazu bei, den Wirtschaftsstandort Deutschland infrastrukturell 
+zu erneuern und zukunftssicher aufzustellen.
+Die Bundesregierung fördert mit 
+ihrer Energieforschungspolitik
+technologieoffen Forschung und
+Innovation.
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 6 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+7
+Mit dem Aktionsplan Fusion (siehe auch Seite 54) stärkt das BMFTR die 
+Entwicklung der Fusionsenergie als Zukunftstechnologie für eine
+klimaverträgliche und sichere Energieversorgung. Ziel ist es, Deutschland 
+zu einem führenden Innovationsstandort für Fusionstechnologien zu 
+machen und den Weg für das weltweit erste Fusionskraftwerk in 
+Deutschland zu ebnen. Dafür sollen Forschung, Infrastruktur,
+Technologiedemonstratoren und Kooperationen zwischen Wissenschaft und 
+Industrie gezielt ausgebaut werden.
+Insgesamt zeigt sich: Die Energieforschung ist weit mehr als ein
+wissenschaftliches Förderfeld. Sie ist ein wichtiges strategisches
+Gestaltungsinstrument der Energie- und Wirtschaftspolitik. Indem sie Innovationen 
+ermöglicht, Märkte vorbereitet und Infrastruktur modernisiert, trägt sie 
+entscheidend dazu bei, den Wirtschaftsstandort Deutschland zu stärken 
+und den Umbau des Energiesystems erfolgreich umzusetzen. 
+Wendelstein 7-X ist die
+weltweit größte Fusionsanlage des 
+Typs Stellarator.
+Innovationen aus der
+Energieforschung tragen maßgeblich 
+zum Umbau des
+Energiesystems bei. Hier die Innenansicht 
+des Instituts für Solare
+Brennstoffe des Helmholtz-Zentrums 
+Berlin (HZB).
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 7 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+8 1. ENERGIEFORSCHUNGSPOLITIK DER BUNDESREGIERUNG
+2025 hat die Bundesregierung
+in der Energieforschung
+6.434 Projekte gefördert
+(Vorjahr: 6.763)
+973 Mio. Euro
+Gesamtfördermittel
+der Projektförderung 2025
+Gesamtfördermittel 
+(inkl. institutioneller
+Förderung)  
+307,11 Mio. Euro
+Eigenanteil deutscher Unternehmen
+bei neu bewilligten Forschungs- 
+und Entwicklungsprojekten 
+in 2025
+(Vorjahr: 309 Mio. Euro)  
+ 
+ 
+Zuwendungsempfänger neu bewilligter Projekte*
+21,7 %
+17,6 %
+22,2 %
+32,5 %
+6 %
+Forschungseinrichtung Großunternehmen    
+Hochschule
+     
+ KMU
+     
+Sonstige
+2025 hat der Bund
+1.214 Projekte 
+neu bewilligt
+(Vorjahr: 1.256)
+1,54 
+Mrd. Euro
+Gesamtfördermittel 2025
+in der Energieforschungsförderung
+(Vorjahr: 1,4 Mrd. Euro) 
+171,41 Mio.   Euro
+Fördermittel für KMU* für 2025
+neu bewilligte Projekte
+ 
+ 
+* nach deutscher KMU-Denition
+1.311
+1.462 1.414
+1.514
+20252024202320222021
+945
+1.112 1.078
+975 973
+1.217
+Projektförderung
+Entwicklung Fördermittel in Mio. Euro
+Abbildung 1: Die Förderung der Energieforschung auf einen Blick
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 8 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+1. ENERGIEFORSCHUNGSPOLITIK DER BUNDESREGIERUNG 9
+Quelle: GeoBasis-DE/BKG 2021 (Daten verändert)/Geodaten des BKG für Adressen der ausführenden 
+Stellen aus der BMFTR profi-Datenbank/Projektträger Jülich
+Abbildung 2: Übersicht über die laufenden (blau) und neu bewilligten (grün) Projekte 
+der Energieforschung in Deutschland
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 9 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+10 1. ENERGIEFORSCHUNGSPOLITIK DER BUNDESREGIERUNG
+1.1 Mittelentwicklung
+Im Jahr 2025 hat die Bundesregierung 1,539 Milliarden Euro in die 
+Energieforschung investiert. Damit wurden neue Technologien und 
+Anwendungen entlang der gesamten Innovationskette entwickelt – 
+von der Grundlagenforschung bis zur anwendungsnahen Forschung 
+und Erprobung für den Markthochlauf von Energieinnovationen.
+Das Bundesministerium für Wirtschaft und Energie (BMWE) und das 
+Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) 
+haben davon 973 Millionen Euro für die Projektförderung bereitgestellt 
+und 6.434 laufende Vorhaben gefördert. 1.214 Projekte wurden 2025  
+neu bewilligt. Hinzu kommen 502 Millionen Euro für die institutionelle 
+Förderung der Helmholtz Energy und weitere Mittel für begleitende 
+Maßnahmen.
+Forschung, Entwicklung und Demonstration von Energie- und
+Effizienztechnologien sind maßgeblich Aufgaben der Wirtschaft.
+Unternehmen beteiligten sich daher mit 307,11 Millionen Euro Eigenmitteln an 
+innovativen Projekten. 
+1.214
+Die Bundesregierung hat im 
+Jahr 2025 im Rahmen der  
+Energieforschung 1.214 Projekte 
+mit insgesamt 646 Mio. Euro 
+neu bewilligt.
+BMWE Forschungsmission Energiesystem
+BMWE Forschungsmission Wärme
+BMWE Forschungsmission Strom
+BMWE Forschungsmission Wasserstoff
+BMWE Sonstige
+BMFTR Grundlagenforschung (nicht-nuklear)
+BMFTR Fusionsforschung
+BMFTR Nukleare Sicherheitsforschung (Nachwuchsförderung)
+BMFTR Institutionelle Förderung (HGF)
+BMWE & BMFTR Begleitende Maßnahmen
+173,51
+210,72
+102,53
+5,46
+327,34
+41,21
+13,05
+502,4
+64,54 98,95
+Abbildung 3: Mittelabfluss in 2025 in der Energieforschungsförderung des Bundes in Mio. Euro
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 10 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+1. ENERGIEFORSCHUNGSPOLITIK DER BUNDESREGIERUNG 11
+1.2 Governance
+Seit den 1970er Jahren ist die Energieforschung ein zentraler
+Bestandteil der Energiepolitik der Bundesregierung. Auslöser war damals die 
+Ölkrise – und die Erkenntnis, dass Deutschland in der
+Energieversorgung unabhängiger werden muss. Energieforschung leistet dazu einen 
+substanziellen Beitrag. Heutzutage umfasst die Forschungsförderung 
+der Bundes regierung unter der Federführung des BMWE die gesamte 
+Innovationskette – von der Grundlagenforschung über die angewandte 
+Forschung bis hin zur Erprobung marktnaher Lösungen. Die Basis
+hierfür bilden aufeinander aufbauende Energieforschungsprogramme. 
+Komplementäre Förderung für wirksame Energieforschung
+Die Energieforschungsförderung ist innerhalb der Bundesregierung 
+anhand der aktuellen Zuständigkeitsregelung der Ressorts arbeitsteilig 
+organisiert: In der nicht-nuklearen Energieforschung ist das
+Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) für 
+die anwendungsorientierte Grundlagenforschung im Bereich der 
+Techno logiereifegrade 1 bis 3 zuständig, während das
+Bundesministerium für Wirtschaft und Energie (BMWE) die angewandte
+Energieforschung im Bereich der Technologiereifegrade 3 bis 9 fördert (siehe  
+TRL-Definition im Kapitel 8.3). Zudem verantwortet das BMFTR die 
+Fusionsforschung und fördert die HGF Energy. 
+Das Bundesministerium für Wirtschaft und Energie setzt neben der 
+klassischen Projektförderung verstärkt auf praxisnahe Instrumente wie 
+die „Reallabore der Energiewende“ (siehe Kapitel 2, Seite 36). Mit dem 
+vom BMWE im Oktober 2023 vorgelegten 8. Energieforschungsprogramm 
+zur angewandten Energieforschung hat das Ministerium zudem auf  
+2 bis 3
+Um durchschnittlich zwei bis 
+drei  Stufen erhöht sich das 
+Technology Readiness Level 
+während der Laufzeit eines 
+BMWE-geförderten
+Energieforschungsprojekts.  
+Die Energieforschungsförderung 
+der Bundesregierung ist
+entsprechend den aktuellen
+Ressortzuständigkeiten aufgeteilt.
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 11 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+den Anpassungsbedarf in der Energiewirtschaft und Industrie reagiert – 
+nicht zuletzt aufgrund der geopolitischen Entwicklungen und den sich 
+daraus ergebenden veränderten Rahmenbedingungen bei der
+Energieversorgung. Dabei verfolgt das BMWE erstmals einen
+missionsorientierten Ansatz: In fünf Forschungsmissionen sind konkrete Programmziele 
+formuliert. Sie sind förderpolitische Orientierungsmarken, um messbar zu 
+einem widerstandsfähigen und bezahlbaren Energiesystem, das auch dem 
+Klimaschutz dient, beizutragen (siehe Kapitel 2, Seite 21).
+Das Bundesministerium für Forschung, Technologie und Raumfahrt 
+fokussiert sich bei seiner Forschungsförderung darauf, wissenschaftliche 
+Grundlagen zu stärken. Zudem werden neue technologische Optionen 
+begleitet, etwa im Rahmen der Nationalen Wasserstoffstrategie. Das 
+BMFTR förderte die nicht-nukleare Energieforschung 2025 im Rahmen 
+des 7. Energieforschungsprogramms der Bundesregierung. Die Förderung 
+der Fusionsforschung setzt das BMFTR seit 2023 außerdem im Programm 
+„Fusion 2040“ um (siehe Kapitel 3.6, Seite 54). Ziel ist es, in Deutschland 
+das weltweit erste Fusionskraftwerk an den Start zu bringen. 
+Über die klassische Energieforschung hinaus unterstützt die
+Bundesregierung derzeit auch Forschungs- und Innnovationsvorhaben mit 
+Energiebezug im Rahmen verschiedener nationaler Strategien und
+Programme mit anderen fachpolitischen Schwerpunkten (siehe Kapitel 5, 
+Seite 60).
+Die Energieforschung ist Bestandteil der Hightech Agenda 
+Deutschland
+Ein ressortübergreifendes Energieforschungsprogramm wurde als
+Maßnahme der 2025 verabschiedeten Hightech Agenda Deutschland (HTAD) 
+angekündigt. Mit der HTAD verfolgt die Bundesregierung das Ziel,  
+Forschung und anwendungsorientierte Entwicklungen in
+Schlüsseltechnologien, darunter „Fusion und klimaneutrale Energieerzeugung“,
+voranzubringen. Durch geförderte Spitzenforschung sollen deutsche
+Hersteller weiterhin im internationalen Wettbewerb eine führende Stellung 
+Die Energieforschung, etwa zum 
+Thema Wasserstoff, ist Bestandteil 
+der Hightech Agenda Deutschland 
+(HTAD).
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 12 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+1. ENERGIEFORSCHUNGSPOLITIK DER BUNDESREGIERUNG 13
+einnehmen. Das stärkt den Innovationsstandort Deutschland und sichert 
+Arbeitsplätze und Wohlstand. Die für den Energiebereich relevanten 
+HTAD-Roadmaps „Batterietechnologie“ und „Fusion“ sowie die aktuell in 
+Entwicklung befindliche Roadmap „Wasserstoff“ definieren Meilensteine, 
+um die Erforschung und anwendungsorientierte Entwicklung in den oben 
+genannten Technologiefeldern gezielt und transparent voranzutreiben. 
+Koordinierung 
+Die Koordination der Energieforschungspolitik verantwortet das BMWE 
+als federführendes Ministerium der Energiepolitik. In der
+Koordinierungsplattform Energieforschung stimmen sich die an der
+Energieforschung beteiligten Ministerien zu geplanten Forschungs- und
+Innovationsmaßnahmen ab. So werden Synergien zwischen den jeweiligen 
+Programmen erschlossen, was einen schnelleren Ergebnistransfer in die 
+Praxis ermöglicht. Das Energieforschungsprogramm als zentrales Element 
+deutscher Energiepolitik wirkt in Strukturen der europäischen und 
+internationalen Energieforschungskooperation mit Fokus auf das
+Energiesystem der Zukunft mit. Das BMWE vertritt die Bundesregierung in 
+den dafür vorgesehenen europäischen und internationalen  
+Gremien (siehe Kapitel 7, Seite 67).
+Bund und Länder arbeiten ebenfalls eng zusammen. Zusätzlich wird  
+ein transparenter Überblick über die Forschungsförderung der Länder 
+durch einen jährlichen Bericht unterstützt (siehe Kapitel 6, Seite 64).
+Bundesbericht Energieforschung
+Der Bundesbericht Energieforschung informiert Bundestag und 
+Öffentlichkeit transparent über die Verwendung der Förder mittel 
+des Bundes in der Energieforschung im Berichtsjahr. Er stellt
+Förderschwerpunkte, Programmelemente und Projekte sowie deren 
+Fortschritte und Ergebnisse dar. Zudem informiert er über etwaige 
+Aktualisierungen der Programmziele des lernenden Programms. 
+Damit schafft der Bericht eine fundierte Grundlage zur
+Nachvollziehbarkeit staatlicher Forschungsförderung der Bundesregierung 
+im Bereich Energie und dokumentiert, wie Inno vationen für eine 
+sichere, klimaverträgliche und wettbewerbsfähige
+Energieversorgung unterstützt werden.
+Der Bundesbericht Energieforschung wird im 2-Jahres-Rhythmus 
+fortgeführt. Ein jährlicher Status zur Energieforschungsstatistik 
+der Bundesregierung ergänzt die transparente Berichterstattung 
+und wird online auf www.energieforschung.de erscheinen.
+I N F O
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 13 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+14 1. ENERGIEFORSCHUNGSPOLITIK DER BUNDESREGIERUNG
+Eng vernetztes Agieren der Stakeholder
+Um Forschung effizient und passgenau zu den Anforderungen zu
+fördern, ist ein enger und regelmäßiger Austausch zwischen Industrie, 
+Hochschulen, wissenschaftlichen Institutionen, Vertretern aus Politik 
+und Verbänden sowie der Gesellschaft geboten. Nur so kann die
+Transformation des Energiesystems in ein resilientes, bezahlbares und
+klimaverträgliches System gelingen. 
+Dialogorientierte Foren: die Forschungsnetzwerke Energie 
+Auf Initiative des Bundesministeriums für Wirtschaft und Energie sind 
+seit 2014 insgesamt acht dialogorientierte Netzwerke zu den
+Schwerpunktthemen Bioenergie, Energiewendebauen, Erneuerbare Energien, 
+Industrie und Gewerbe, Stromnetze, Systemanalyse, Wasserstoff sowie 
+Energiewende und Gesellschaft gegründet worden. Sie repräsentieren 
+die breite Forschungslandschaft in Deutschland. Die Netzwerke bieten 
+ihren rund 3.400 aktiven Mitgliedern aus Industrie, Forschung,
+Verbänden und Politik die Möglichkeit zur Partizipation an
+innovationspolitischen Fragestellungen im Energiebereich. Sie tauschen sich über 
+den aktuellen Forschungsstand verschiedener Technologien aus,
+vernetzen sich für gemeinsame Forschungsprojekte und geben Impulse für 
+künftige Programmentwicklungen und Fortschreibungen. Neben  
+Präsenztreffen bieten die Netzwerke auch virtuelle Energie-Dialoge zu 
+Forschungsprojekten und übergreifenden Themenstellungen an.
+3.400
+Die Forschungsnetzwerke  
+Energie haben rund 3.400 aktive 
+Mitglieder (Stand Ende 2025).
+Seit Herbst 2024 beraten zehn Beirätinnen und Beiräte aus
+Wirtschaft und Wissenschaft das Bundeswirtschaftsministerium zum 
+8. Energieforschungsprogramm des BMWE und dessen
+strategischer Weiterentwicklung. Das Expertenteam hat im September
+2026 sein zweites Impulspapier veröffentlicht.
+I N F O
+Akademienprojekt ESYS
+Das BMFTR fördert das Akademienprojekt „Energiesysteme der Zukunft“ 
+(ESYS) von acatech, Leopoldina und Akademienunion. Dort entwickeln 
+mehr als 160 Fachleute die wissenschaftsbasierte Einordnung und Auf-
+ÜBER DEN  
+PROGRAMMBEIRAT
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 14 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+1. ENERGIEFORSCHUNGSPOLITIK DER BUNDESREGIERUNG 15
+bereitung von Handlungsoptionen für eine sichere, bezahlbare und 
+nachhaltige Energieversorgung. Aktuelle Themen waren in 2025 u. a. 
+Geologischer Wasserstoff, die Energiewende im Gebäudebereich und  
+die globale Transformation des Energiesystems. ESYS organisiert dazu 
+Austauschformate mit Fachleuten und der Öffentlichkeit.
+Transparente Informationen
+Um interessierte Forschungseinrichtungen und Unternehmen über  
+die Schwerpunkte der Förderung der Bundesregierung zu informieren, 
+bieten sowohl das Bundesministerium für Wirtschaft und Energie als 
+auch das Bundesministerium für Forschung, Technologie und
+Raumfahrt umfangreiche Informationsangebote an. Dort informieren die
+beiden Ministerien laufend über aktuelle Entwicklungen und Fortschritte 
+in der Energieforschung und deren Förderung. Das unterstützt die enge 
+Verzahnung zwischen Forschung und energiewirtschaftlicher Praxis.
+Informationssystem EnArgus
+EnArgus ist das digitale Informationssystem über die Energieforschung 
+in Deutschland. Es stellt die seit 1977 vom Bund im Rahmen seiner 
+Energieforschungsprogramme geförderten Projekte vor. Die Projekt- 
+und Wissensdatenbank umfasst Daten zu über 40.000 Projekten.
+1.3 Perspektive Fusion
+Mit dem im März 2024 veröffentlichten Programm „Fusion 2040 –  
+Forschung auf dem Weg zum Fusionskraftwerk“ ergänzt das BMFTR 
+die institutionelle Förderung der Fusion durch strategische
+Projektförderung. Im Oktober 2025 veröffentlichte die Bundesregierung im 
+Rahmen der Hightech Agenda Deutschland den Aktionsplan
+„Deutschland auf dem Weg zum Fusionskraftwerk“. 
+Die Hightech Agenda Deutschland definiert Fusion zur eigenständigen 
+Schlüsseltechnologie mit dem Ziel, Deutschland zum führenden
+Innovationsstandort sowie deutsche Unternehmen zu Weltmarktführern in 
+Fusionstechnologien zu machen. Dazu sollen in der laufenden
+Legislaturperiode bis zu 2,4 Milliarden Euro in die Fusion investiert werden. 
+Zum Erreichen des Ziels wurden, ausgehend von der Hightech Agenda 
+Deutschland, erste vier Flaggschiffmaßnahmen definiert (s. nächste Seite):
+Auf www.enargus.de finden 
+Interessierte Informationen 
+über laufende und
+abgeschlossene Forschungsvorhaben rund 
+um das Thema
+Energieforschung.
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 15 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+• Aktionsplan Fusion (Ende 2025 veröffentlicht)
+• Forschungs- und Innovationsroadmap FusionsEnergie
+(FIRE)
+(finale Veröffentlichung: Anfang 2027, eine erste Fassung
+wurde am 24. März 2026 vorgestellt)
+• Hubs zur Magnet- und Laserfusion sowie zu
+Brennstoffkreislauf und Materialentwicklung (Förderbeginn: 1. August
+2026)
+• Neue Förderinitiativen von explorativer Forschung bis zur
+Förderung der Entwicklung von Basistechnologien (beide
+Bekanntmachungen wurden im November 2025
+veröffentlicht)
+Im experimentellen
+Fusionsreaktor ASDEX Upgrade werden 
+wesentliche Grundlagen für ein 
+Fusionskraftwerk erarbeitet.
+Der Aktionsplan Fusion definiert acht zentrale Maßnahmen der
+Bundesregierung, die dazu beitragen sollen, dass das erste Fusionskraftwerk der 
+Welt in Deutschland errichtet werden kann:
+1. Stärkung der Forschungsförderung (rund 1,7 Milliarden Euro in
+der aktuellen Legislaturperiode)
+2. Aufbau eines Fusionsökosystems
+3. Auf- bzw. Ausbau von Forschungsinfrastrukturen und
+Technologiedemonstratoren (bis zu 755 Millionen Euro in der aktuellen
+Legislaturperiode)
+4. Aus- und Weiterbildung von Fachkräften
+5. Einbindung der Öffentlichkeit
+6. Regulierung im Strahlenschutzgesetz
+7. Schutz geistigen Eigentums und Standardisierung
+8. Strategische internationale Kooperationen
+Als Teil dieser Maßnahmen starteten in den Jahren 2024 und 2025 bereits 
+insgesamt 30 Projekte mit rund 238 Millionen Euro Fördervolumen über 
+die Projektförderung. Die institutionelle Förderung z. B. des Max-Planck-
+Instituts für Plasmaphysik (IPP), des Forschungszentrums Jülich (FZJ) 
+und des Karls ruher Instituts für Technologie (KIT) sichert Deutschlands 
+Führungsrolle in der Magnetfusion langfristig. Eine Erweiterung der
+institutionellen Förderung auf die Laserfusion ist geplant.
+Auf der Website www.fusionstechnologien.de informiert das
+Bundesministerium für Forschung, Technologie und Raumfahrt über die Ziele, 
+Förderangebote und Fortschritte im Bereich der Fusion.
+8
+zentrale Maßnahmen stehen im 
+Aktionsplan Fusion der
+Bundesregierung. Sie sollen dazu
+beitragen, dass das erste
+Fusionskraftwerk der Welt in 
+Deutschland steht.
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 16 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+2. Projektförderung
+des BMWE in der
+ angewandten 
+ Energieforschung
+Energieforschung leistet einen wichtigen Beitrag für den 
+Wirtschaftsstandort Deutschland und für die
+Energiewende. Das Bundesministerium für Wirtschaft und Energie 
+unterstützt hier mit seinem missionsorientierten 8.
+Energieforschungsprogramm. Innovationen gelangen durch  
+passgenaue Forschungsförderung zügig in die Praxis.
+Mit seinem missionsorientierten Förderprogramm zur angewandten 
+Energieforschung hat das BMWE klare Forschungsziele in fünf
+strategischen Themenfeldern formuliert. Die Forschungsmissionen
+Energiesystem, Wärme, Strom, Wasserstoff und Transfer fokussieren die zentralen 
+Herausforderungen für ein zukunftsfestes Energiesystem. Dieses muss 
+resilient, bezahlbar, effizient und versorgungssicher ausgelegt sein.
+Zudem gilt es, die Treibhausgasemissionen im gesamten System zu
+verringern, um bis 2045 die anvisierte Klimaneutralität zu erreichen.
+Das 8. Energieforschungsprogramm des BMWE – 
+lernend und damit anpassungsfähig
+Um diese Ziele zu erreichen, kann das BMWE bei Bedarf die
+Forschungsziele an veränderte energiepolitische Gegebenheiten anpassen. 
+Das 8. Energieforschungsprogramm des BMWE ist als lernendes
+Programm angelegt. Ein regelmäßiges Monitoring (siehe Seite 38) schafft 
+Transparenz über die Programmfortschritte. So kann das Programm  
+flexibel und zügig auf neue Erkenntnisse und Entwicklungen angepasst 
+werden. Mit Blick auf die Weiterentwicklung des lernenden Programms 
+bzw. die geplante Vorlage eines ressortübergreifenden
+Energieforschungsprogramms der Bundesregierung wurden 2025/2026 Prozesse 
+zur Nachjustierung der Programm- und Sprinterziele in verschiedenen 
+Missionen durchgeführt. Das Ergebnis wird im Rahmen des neuen 
+Energieforschungsprogramms veröffentlicht. 
+1.112
+2025 hat das BMWE insgesamt 
+1.112 neue Projekte bewilligt.
+18
+2045
+2. PROJEKTFÖRDERUNG DES BMWE IN DER ANGEWANDTEN ENERGIEFORSCHUNG
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 18 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+19
+Abbildung 4: Die Governance-Systematik des 8. Energieforschungsprogramms zur 
+angewandten Energieforschung des BMWE
+8. Energieforschungsprogramm des
+Bundesministeriums für Wirtschaft und Energie
+Steuerung lernendes Programm
+Missionskoordinierung
+Wärme, Wasserstoff, Strom, System, Transfer
+Koordinierungsplattform 
+Energieforschung
+Bundesressorts, Bund-Länder
+Transparenz 
+Energieforschung
+EnArgus, Bundesbericht 
+Energieforschung
+Institutionelle Förderung
+HGF Energy
+Forschungsnetzwerke 
+Energie
+Stakeholder
+Projektförderung der angewandten Energieforschung
+Programmbeirat
+Evaluation
+Monitoring (KPI) 
+und Prozessdesign
+Des Weiteren hat das Bundeswirtschaftsministerium die klassische 
+ Projektförderung durch agile Förderformate ergänzt. Dazu zählen die 
+Reallabore der Energiewende, die Mikroprojekte und die
+vorkommerzielle Auftragsvergabe (siehe Seite 34). Ein interdisziplinär
+zusammengesetzter Beirat berät das BMWE zudem seit 2024 in Fragen der
+Energieforschungspolitik und bei der Umsetzung des
+Energieforschungsprogramms. So fließen neue Impulse aus Wirtschaft, Wissenschaft und 
+Industrie ein. Auch die Forschungsnetzwerke Energie erarbeiten als breit 
+aufgestellte und fachspezifische Stakeholder-Formate mit rund 3.400 
+Mitgliedern (siehe Kapitel 1.2 Governance, Seite 11) regelmäßig
+Empfehlungen zu Fragestellungen rund um die Transformation des
+Energiesystems.
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 19 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Sind Sie an weiteren 
+Informationen über die 
+angewandte Energieforschung des 
+Bundeswirtschaftsministeriums 
+interessiert? 
+Diese finden Sie auf  
+www.energieforschung.de
+212. PROJEKTFÖRDERUNG DES BMWE IN DER ANGEWANDTEN ENERGIEFORSCHUNG
+8. Energieforschungsprogramm des Bundesministeriums für Wirtschaft und Energie
+Forschungsmission Wärme
+Forschungsmission Wärme: 
+„Den Wandel zur nachhaltigen  
+und effizienten Wärme- und  
+Kälteversorgung beschleunigen.“
+Forschungsmission Energiesystem
+Forschungsmission Energiesystem: 
+„Innovation für den Wandel zu einem 
+effizienten, resilienten uhd nachhaltigen 
+Energiesystem vorantreiben.“
+Forschungsmission Strom
+Forschungsmission Strom: 
+„Innovationen für eine sichere und 
+bezahlbare Stromversorgung, die  
+dem Klimaschutz dient, schaffen.“
+Forschungsmission Wassesrstoff
+Forschungsmission Wasserstoff: 
+„Den Weg zur nachhaltigen Wasserstoffwirtschaft 
+durch neue Technologielösungen und  
+Konzepte entlang der gesamten  
+Wertschöpfungskette ebnen.“
+Forschungsmission Transfer
+Forschungsmission Transfer: 
+„Die Rolle der Energieforschung 
+als Impulsgeberin des  
+Fortschritts in Wirtschaft und 
+Gesellschaft stärken.“
+Quelle Icons: Projektträger Jülich, Forschungszentrum Jülich GmbH
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 21 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+22 2. PROJEKTFÖRDERUNG DES BMWE IN DER ANGEWANDTEN ENERGIEFORSCHUNG
+Das BMWE fördert Projekte für ein Energiesystem, in dem immer mehr 
+Verbrauchssektoren mit erneuerbarer, elektrischer Energie versorgt 
+werden. Die Mission zielt darauf ab, den Strom- und Wärmesektor 
+gemeinsam zu denken und effizient sowie systemdienlich miteinander 
+zu verzahnen. Forschungsprojekte liefern zudem Grundlagen für
+Transformationspfade für die Energieversorgung, modellbasierte Analysen 
+und praxisnahe Lösungen. Durch die Förderprojekte soll das
+Gesamtsystem digital vernetzter, effizienter und resilienter gegen Störungen
+werden. Gleichzeitig fördert das BMWE neben innovativen Technologien 
+auch nicht-technologische Innovationen und das Reduzieren von
+Treibhausgasen und Ressourcen über den gesamten Lebenszyklus. Ziel ist ein 
+technisch, wirtschaftlich und gesellschaftlich ausgewogener und
+klimaverträglicher Umbau des Energiesystems. Darüber hinaus unterstützt 
+das BMWE im Rahmen der Mission auch Forschung zu Bioenergie und 
+für mehr Energieeffizienz in Industrie und Gewerbe.
+2.1 Forschungsmission Energiesystem
+Mit der Forschungsmission Energiesystem rückt das
+Bundesministerium für Wirtschaft und Energie den Umbau des Energiesystems in  
+den Fokus. Vorrangiges Ziel: Versorgungssicherheit und Resilienz im 
+Zusammenspiel aller Akteure zu bezahlbaren Preisen.
+Fortschritte der Projektförderung
+• Förderaufruf Reallabore der Energiewende 2025
+• Förderaufruf „Vom Plan zur Wende“
+• Förderaufruf Energieforschung für Zirkuläre Wirtschaft –
+Wind, PV und System
+• Innovationswettbewerb „Systematische Cyberresilienz im
+Energiesystem (CYANE)“
+30
+Projektideen (Skizzen) wurden 
+für den Innovationswettbewerb 
+„Systematische Cyberresilienz 
+im Energiesystem (CYANE)“  
+eingereicht.
+„Innovationen für den Wandel zu einem 
+effizienten, resilienten und nachhaltigen 
+Energiesystem vorantreiben.“
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 22 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+FORSCHUNGSMISSION  
+ENERGIESYSTEM
+SyntheseREADY – Flexible Biomasseheizkraftwerke für die 
+Sektorkopplung
+Das Forschungsteam des Projekts SyntheseREADY hat ein flexibles 
+Biomasseheizkraftwerk entwickelt, das Strom, Wärme und
+synthetisches Methan bedarfsgerecht bereitstellen kann. Kern der 
+Innovation ist die Kombination einer Oxyfuel-Holzvergasung mit 
+biologischer Methanisierung und intelligenter Anlagenregelung. 
+Die Forschenden konnten zeigen, dass sich Strom aus
+erneuerbaren Energien, Wärme und chemische Energieträger effizient
+koppeln lassen. Damit legt das Projekt den Grundstein dafür,
+regionale Biomasse flexibel einzusetzen, erneuerbare Energien besser 
+einzubinden und den Energie- und Wärmesektor von fossilen 
+Energieträgern unabhängig zu machen.
+I N F O
+Programmziele
+• Zielbild und Umsetzungspfade für den Wandel des
+Energiesystems weiterentwickeln
+• Gesamteffizienz des Energiesystems verbessern
+• Resilienz und Versorgungssicherheit im Energiesystem
+sicherstellen
+• Nachhaltigkeit im Energiesystem erhöhen
+• Den Umbau des Energiesystems wirtschaftlich und balanciert
+gestalten
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 23 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+24 2. PROJEKTFÖRDERUNG DES BMWE IN DER ANGEWANDTEN ENERGIEFORSCHUNG
+Die Wärme- und Kälteversorgung verursacht über die Hälfte des
+Endenergieverbrauchs in Deutschland. 2024 lag der Anteil erneuerbarer 
+Energien in diesem Sektor erst bei 18,1 Prozent. Der Wärmemarkt ist 
+damit weiterhin stark fossil geprägt – obwohl Biomasse und
+Umweltwärme verstärkt genutzt werden. Der meiste Verbrauch entfällt dabei 
+auf Raumwärme (circa 27 Prozent), Prozesswärme (circa 21 Prozent) und 
+Warmwasser (circa 5 Prozent).
+2.2 Forschungsmission Wärme
+Mit der Forschungsmission Wärme unterstützt das Bundesministerium 
+für Wirtschaft und Energie den Umbau des Wärme- und Kältesektors  
+zu mehr Effizienz und Klimaschutz. Gleichzeitig will das BMWE durch 
+Forschungsförderung die Verlässlichkeit und Bezahlbarkeit erhalten 
+und die Flexibilität erhöhen.
+Fortschritte der Projektförderung
+• Förderaufruf Explorationsinitiative Geothermie
+• Förderaufruf für Testinfrastrukturen in der Transferoffensive
+Energieinnovationen
+• Förderaufruf Reallabore der Energiewende 2025
+• Förderaufruf „Transferoffensive Großwärmepumpen und
+thermische Speicher für die Industrie“
+• Förderaufruf Modernisierung im Bestand (MiB)
+• Förderaufruf „Vom Plan zur Wende“
+• Förderaufruf Ideenwettbewerb zur Erschließung von
+entfernten Wärmequellen
+• Förderaufruf „Kosteneffiziente Erschließung von entfernten
+klimaneutralen Wärmequellen durch innovative Anbindung
+(KEWinnA)“ – Innovationswettbewerb
+8
+Das BMWE hat 2025 acht  
+Förderaufrufe zur Erreichung 
+der Programmziele in der  
+Forschungsmission Wärme  
+veröffentlicht.
+„Den Wandel zur nachhaltigen und  
+effizienten Wärme­ und Kälteversorgung 
+beschleunigen.“
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 24 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+FORSCHUNGSMISSION 
+WÄRME
+Die Großwärmepumpe in Stuttgart-
+Münster nutzt die Abwärme aus 
+dem Kühlwasserablauf des
+benachbarten Restmüll-Heizkraftwerks, 
+um bis zu 24 Megawatt Fernwärme 
+zu erzeugen.
+Programmziele
+• Wärme- und Kältebedarf in Gebäuden klimaneutral und
+nachhaltig decken
+• Wärme- und Kälteversorgung in Industrie und Gewerbe
+defossilisieren und effizienter machen
+• Robuste Infrastruktur zum effizienten Verteilen und Speichern
+von Wärme und Kälte gestalten
+• Flexibilitätspotenzial des Wärme- und Kältesektors nutzen
+Um CO2-Emissionen und die Importabhängigkeit im Bereich der 
+Wärme- und Kälteversorgung signifikant zu senken, sind ein deutlich 
+höherer Anteil an erneuerbarer Energie, mehr Abwärmenutzung sowie 
+effiziente Speicher-, Transport- und Infrastrukturlösungen erforderlich. 
+Forschung und Entwicklung sind entscheidend, um fossile
+Energieträger zu ersetzen, Strom- und Wärmesysteme zu koppeln und Energie 
+in Gebäuden und Quartieren effizient zu nutzen. Viele Technologien 
+sind vorhanden, jedoch noch nicht überall einsetzbar. Forschung bereitet 
+sie für Praxis, Integration, Standardisierung und den flächendeckenden 
+Einsatz vor – unter Berücksichtigung regionaler und sozioökonomischer 
+Bedingungen.
+Mit der Forschungsmission Wärme fördert das BMWE gezielt
+Innovationen, um bis 2030 vier zentrale Sprinterziele zu erreichen. Dazu zählen 
+Hochtemperatur-Wärmepumpen für Industrieprozesse, die
+Erschließung von zehn Terawattstunden Geothermie, kosteneffiziente
+Wärmespeicher für Quartiere und Industrie sowie neuartige Dämmstoffe mit 
+halbiertem Primärenergiebedarf bei gleicher Dämmleistung.
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 25 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Den Grundstein hierfür hat ein engagiertes
+Forschungsteam im Projekt „CO2-neutrales Welterbe 
+Speicherstadt Hamburg“ gelegt. Fachleute aus den 
+unterschiedlichsten Bereichen haben gemeinsam 
+mit der Hamburger Hafen und Logistik
+Aktiengesellschaft (HHLA) und den zuständigen Behörden 
+ein auf das Gebäude zugeschnittenes
+Wärmeversorgungssystem entwickelt. Projektkoordinator 
+Peter Modlich, Leiter der HHLA-
+Projektentwicklung: „Unser Ansatz war ganzheitlich. Wir haben 
+innovative anlagentechnische Systeme, digitale 
+Modelle, bauliche Maßnahmen und
+Denkmalschutz erfolgreich miteinander verknüpft. Klar ist: 
+Die Speicherstadt kann auf Basis der gewonnenen 
+Erkenntnisse CO2-neutral umgebaut werden.“
+Dachflächen werden sowohl elektrisch als auch 
+thermisch genutzt
+Eine der großen Herausforderungen war, wie das 
+Gebäude durch Nutzung der vorhandenen
+Dachflächen und mit Hilfe von Speichern möglichst 
+autark und emissionsfrei mit Wärme versorgt 
+ werden kann – und das, ohne die Optik der
+historischen Dächer zu verändern. Dies ist gelungen:  
+Die neu entwickelten Dachflächen in Schiefer- und 
+Kupferoptik werden sowohl thermisch als auch 
+elektrisch genutzt. Verschiedene Speicher im 
+Untergeschoss speichern die Wärme bei Bedarf 
+zwischen. Eine Wärmepumpe regelt und verteilt 
+die Energie.
+Multiplikatoreneffekt: Führungen stoßen auf 
+großes Interesse
+Das Hamburger Forschungsprojekt hat
+Modellcharakter. Das Projekt liefert übertragbare
+methodische und technische Erkenntnisse für die
+Planungspraxis und zeigt, wie integrale Sanierungsstrategien 
+für denkmalgeschützte Quartiere entwickelt, 
+bewertet und schrittweise umgesetzt werden
+können. Architekturbüros, Handwerkerbetriebe,
+Investoren oder Bauherren verfolgen das Projekt mit 
+großem Interesse. Die HHLA hat daher im
+Erdgeschoss des Gebäudes eine Forschungswerkstatt
+eingerichtet. Hier steht Technik zum Anschauen und 
+Anfassen. 
+Speicherstadt Hamburg: Wie Denkmalschutz und moderne Wärmetechnik 
+erfolgreich kombiniert werden
+Hamburgs Weltkulturerbe geht energetisch mit der Zeit. Bis 2040 soll das einzigartige 
+Ensemble zum CO2­neutralen Quartier umgebaut werden.
+E R F O L G S G E S C H I C H T E
+„Wir gewinnen auf dem Gebäude die 
+Energie, die wir im Gebäude 
+benötigen.“
+Projektkoordinator Peter Modlich,  
+Leiter Projektentwicklung; Hamburger Hafen und 
+Logistik Aktiengesellschaft
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 26 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Bild oben: Wegweisendes Forschungsprojekt – im Sandtorkaispeicher 
+der Speicherstadt Hamburg demonstriert das Projektteam, wie  
+ein Speicherblock emissionsfrei beheizt werden kann, ohne die
+historische Optik der Dachlandschaft zu beeinträchtigen.
+Hamburger Speicherstadt ist Touristenmagnet
+Die zwischen 1885 und 1927 errichtete
+Speicherstadt ist das größte zusammenhängende
+Lagerblock-Ensemble der Welt. Ursprünglich dienten die 
+Gebäude als zollfreies Gebiet am Überseehafen. Seit 
+2015 unterliegt es als UNESCO-Weltkulturerbe 
+besonders strengen denkmalhistorischen Auflagen. 
+Doch die Speicherstadt ist kein museales
+Ensemble: Handelsfirmen für Tee oder Teppiche, Mode-
+Agenturen und Start-ups sitzen ebenso im
+weltberühmten Quartier wie verschiedene touristische 
+Attraktionen.
+EnEff:Stadt:0-CO2-WSHH – CO2-
+neutrales Welterbe Speicherstadt 
+Hamburg
+Technology Readiness Level  
+nach Projektende: 7
+Zuwendungsempfänger: HHLA 1
+Speicherstadt Immobilien, Universität Stuttgart,  
+HafenCity Universität Hamburg, RWTH Aachen
+Förderndes Ministerium:  
+Bundesministerium für Wirtschaft und Energie
+Fördermittel: 2,90 Millionen Euro
+Projektlaufzeit: 10/2021 – 06/2025
+I N F O
+Seit 2015 UNESCO-Weltkulturerbe: die Speicherstadt in Hamburg
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 27 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+28 2. PROJEKTFÖRDERUNG DES BMWE IN DER ANGEWANDTEN ENERGIEFORSCHUNG
+2.3 Forschungsmission Strom
+Deutschland ist eine Industrie- und Exportnation. Bezahlbare
+Energiekosten und eine resiliente Stromversorgung sind dafür wichtige
+Voraussetzungen. Die Forschungsförderung des BMWE trägt dazu bei, dass der 
+Umbau des Energiesystems in ausbalancierten Schritten gelingt.
+Deutschland ist auf einem guten Weg, bis 2030 80 Prozent des
+Strombedarfs aus erneuerbaren Energiequellen zu decken. Damit einher gehen 
+Herausforderungen an das Energiesystem. Stromnetze müssen fit und 
+flexibilisiert für die vielen tausend dezentralen Einspeiser werden. Neue 
+Speichertechnologien sind gefragt, um erzeugte Stromspitzen
+zwischenzuspeichern. Auch Fragen der Systemstabilität müssen gelöst werden. 
+Digitalisierung und Sektorkopplung bieten hierfür Lösungsoptionen.
+60
+2025 stammte fast 60 Prozent 
+des erzeugten Stroms aus 
+erneuerbaren Energiequellen.
+Fortschritte der Projektförderung
+• Förderaufruf für Testinfrastrukturen in der Transferoffensive
+Energieinnovationen
+• Förderaufruf Reallabore der Energiewende 2025
+• Förderaufruf Energieforschung für Zirkuläre Wirtschaft –
+Wind, PV und System
+„Innovationen für eine sichere und 
+bezahlbare Stromversorgung, die dem 
+Klimaschutz dient, schaffen.“
+Erneuerbare-Energie-Anlagen speisen 
+vielerorts in das Stromnetz ein.
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 28 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+292. PROJEKTFÖRDERUNG DES BMWE IN DER ANGEWANDTEN ENERGIEFORSCHUNG
+Mehr Durchblick und niedrigere Produktionskosten bei 
+flexiblen organischen PV-Modulen
+Organische Solar-Module bestechen durch ihre Eigenschaften. Sie 
+sind biegsam, kostengünstig und attraktiv im Design. Das macht 
+sie zu echten Hinguckern, etwa an Bürogebäuden, Autoscheiben 
+oder Gewächshäusern. Im Forschungsprojekt Durchblick-PV 
+haben Partner aus Industrie und Wissenschaft innovative
+Komponenten für eine höhere Lichtdurchlässigkeit entwickelt – und das 
+zu niedrigeren Herstellungskosten. Zudem lassen sich einige der 
+Innovationen schnell in die Fertigung integrieren. Die
+Entwicklungen im Detail lesen Sie hier.
+I N F O
+Programmziele
+• Strom aus erneuerbaren Energien effizient und nachhaltig
+erzeugen
+• Stabiles Stromnetz für eine zuverlässige Stromversorgung
+garantieren
+• Strom effizient nutzen und speichern
+• Dezentrale Stromerzeuger und -verbraucher effizient vernetzen
+Energieforschung liefert Lösungen
+Die Energieforschung leistet wesentliche Beiträge für den Umbau des 
+Energiesystems: Innovative Speichertechnologien oder Lösungen für 
+intelligente und flexible Netzsteuerungen sowie neue Ansätze der
+Sektorkopplung stehen im Fokus vieler Forschungsprojekte. Das
+Bundeswirtschaftsministerium unterstützt dabei nicht nur mit klassischer
+Projektförderung. Es steht auch kontinuierlich im engen Austausch mit allen 
+relevanten Akteuren aus dem Energiesektor zu strategischen und
+förderpolitischen Fragestellungen. 
+Im September 2025 hat beispielsweise im Rahmen des
+Forschungsnetzwerks Erneuerbare Energien – Wind eine gemeinsame Veranstaltung 
+mit dem Verband Deutscher Maschinen- und Anlagenbau, kurz VDMA, 
+stattgefunden. Ziel der Veranstaltung war es, die Expertinnen und 
+Experten der beiden Interessengruppen zusammenzubringen, um die 
+Bedarfe der Windenergiebranche in Deutschland besser identifizieren 
+und gemeinsame Projektideen entwickeln zu können.
+FORSCHUNGSMISSION  
+STROM 
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 29 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+30 2. PROJEKTFÖRDERUNG DES BMWE IN DER ANGEWANDTEN ENERGIEFORSCHUNG
+2.4 Forschungsmission Wasserstoff
+In der Mission Wasserstoff fördert das Bundesministerium für
+Wirtschaft und Energie Forschungsprojekte für Innovationen in den Bereichen 
+Produktion von Wasserstoff und seinen Derivaten, Brennstoff zellen, 
+Wiederverstromung und Wasserstoffspeicher und -transport.
+Die Bundesregierung treibt den Einsatz klimafreundlicher
+Wasserstofftechnologien voran, um Industrie, Verkehrssektor und
+Energieerzeugung weiter zu dekarbonisieren und die Resilienz des Energiesystems zu 
+stärken. Bis 2045 soll Deutschland klimaneutral werden. Für dieses Ziel 
+muss der Markthochlauf von Wasserstoff, seinen Derivaten und
+Wasserstoffanwendungstechnologien deutlich beschleunigt werden. Das
+generiert auch Wertschöpfungspotenziale „Made in Germany“.
+Um den künftigen Wasserstoffbedarf resilient und kosteneffizient zu 
+decken und die Speicher- und Transporteigenschaften von Wasserstoff 
+für das deutsche Energiesystem zu nutzen, wird – neben Importen – 
+auch eine substanzielle Produktion in Deutschland notwendig sein. 
+Innovationen aus der Energieforschung inklusive entsprechender Lern- 
+und Skaleneffekte sind dafür eine wichtige Voraussetzung. 
+159
+neu bewilligte Projekte in 
+dieser Mission
+„Den Weg zur nachhaltigen
+Wasserstoffwirtschaft durch neue Technologielösungen 
+und Konzepte entlang der gesamten 
+Wertschöpfungskette ebnen.“
+Programmziele
+• Wasserstoff und seine Derivate effizient erzeugen
+• Resiliente Wasserstoffinfrastruktur entwickeln und erproben
+• Effizienz bei der flexiblen Rückverstromung von Wasserstoff
+erhöhen
+• Industrieprozesse auf effiziente Wasserstofftechnologien
+umstellen
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 30 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+312. PROJEKTFÖRDERUNG DES BMWE IN DER ANGEWANDTEN ENERGIEFORSCHUNG
+Die Bundesregierung will den Wasserstoff-Hochlauf beschleunigen und damit auch den 
+Industriestandort im internationalen Wettbewerb stärken.
+Enger Schulterschluss zwischen Politik, Forschung und Praxis
+Die Forschungsförderung geschieht in engem Schulterschluss zwischen 
+Politik und Fachleuten aus der Forschung und Praxis. Diese sind unter 
+anderem im Forschungsnetzwerk Wasserstoff aktiv. 2020 auf Initiative 
+des Bundeswirtschaftsministeriums gegründet, zählt das Netzwerk
+mittlerweile über 1.600 Mitglieder aus Industrie, Energiewirtschaft,
+Forschungseinrichtungen, Hochschulen und weiteren Institutionen. Auf 
+großes Interesse in der Fachcommunity stoßen die vom Netzwerk
+angebotenen virtuellen Energie-Dialoge „Wasserstand – Aktuelles aus der 
+Wasserstoffforschung“. 2025 haben durchschnittlich über 150
+Interessierte an den insgesamt neun Veranstaltungen teilgenommen und sich 
+dabei unter anderem über Elektrolyse-Forschungsprojekte oder über 
+innovative Einsatzmöglichkeiten von Wasserstoff für ein
+zukunftsorientiertes Stromnetz ausgetauscht.
+FORSCHUNGSMISSION 
+WASSERSTOFF
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 31 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Warum sind Planung, Genehmigung und
+Umsetzung derzeit ein entscheidender Engpass beim 
+Hochlauf der Wasserstoffwirtschaft?
+Die Hemmnisse liegen weniger im technischen 
+Know-how, da sind wir dank intensiver Forschung 
+bereits sehr weit. Die Herausforderungen liegen 
+eher in den komplexen, mehrstufigen Planungs- 
+und Genehmigungsverfahren, fehlender
+Standardisierung und Erfahrungen sowie in
+Sicherheitsbedenken. Wasserstoffleitungen unterliegen zum 
+Beispiel vielen verschiedenen Gesetzen und
+Verordnungen. Hierzu zählen das Wasserrecht, der 
+Arten- und Naturschutz, für Power-to-Gas-Anlagen 
+das Immissionsschutzrecht und das Bergrecht bei 
+Untergrundspeichern. Hinzu kommt der fehlende 
+bundeseinheitliche Rahmen. Das macht die
+Verfahren komplex. Dadurch sind Projektierer und 
+Behörden oft in einer ungünstigen Situation, da 
+auf beiden Seiten Planungssicherheit fehlt. Daher 
+haben wir mit den Leitfäden versucht, eine Art 
+Harmonisierung und Orientierung zu erzeugen.
+Was lösen die von Ihnen entwickelten Leitfäden  
+konkret für Planer, Netzbetreiber und
+Genehmigungsbehörden?
+Grundsätzlich sollen alle fünf Leitfäden für die 
+Beteiligten Interpretationsspielräume reduzieren 
+und die Planungs- und Investitionssicherheit 
+unterstützen. Damit tragen wir hoffentlich dazu 
+bei, dass Wasserstoffprojekte schneller und
+effizienter umgesetzt werden können. Zunächst haben 
+wir für Planer und Netzbetreiber klare
+Entscheidungsbäume entwickelt, an denen sie sich
+orientieren können. Die Leitfäden sind recht umfangreich, 
+weil im Wasserstoffbereich zahlreiche
+Anforderungen bestehen, die beachtet werden müssen,
+beispielsweise im Bereich Explosionsschutz,
+Werkstoffbewertung, Sicherheitsanforderungen sowie 
+Natur- und Wasserschutz. Fakt ist jedoch auch, dass 
+Behördenmitarbeitenden in diesem Bereich oft die 
+Erfahrung mit Wasserstoff fehlt. Viele bestehende 
+Hilfen richten sich vor allem an die fachliche 
+Ebene. Somit gab es für diesen Personenkreis
+bislang keine auf sie zugeschnittene Orientierung.  
+Das wollten wir mit unseren Leitfäden ebenfalls 
+ändern.
+Wie haben Netzbetreiber, Behörden und
+Industriepartner an den Leitfäden mitgewirkt?
+Der Austausch mit den relevanten Akteuren war 
+uns sehr wichtig. Daher haben wir die Praxis sehr 
+Interpretationsspielräume reduzieren und Planungs- und
+Investitionssicherheit unterstützen
+Beim Aufbau der Wasserstoffinfrastruktur entscheiden nicht nur Technik und Investitionen, 
+sondern vor allem Planung und Genehmigung über das Tempo. Josephine Glandien von der 
+DBI Gas­ und Umwelttechnik GmbH und Projektleiterin von PORTAL GREEN II erklärt, wie 
+praxisnahe Leitfäden und Werkzeuge Planungsprozesse in Zukunft erleichtern sollen. 
+E R F O L G S G E S C H I C H T E
+„Das Feedback war, dass die Leitfäden 
+in der Praxis helfen, typische Fragen 
+im Planungs­ und
+Genehmigungsprozess sowie im Baubetrieb 
+schneller beantworten zu können.“
+Josephine Glandien, MBA, Projektleiterin Portal 
+Green II
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 32 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+eng eingebunden, beispielsweise durch einen
+Projektbegleitkreis, mehrere Workshops und
+zahlreiche Feedbackrunden. Durch die Zusammenarbeit 
+konnten wir testen, ob die Leitfäden wirklich 
+anwendbar und verständlich sind.
+Welche Rolle spielt die H2-Einspeiselandkarte für 
+Transparenz und Planungssicherheit? 
+Die Karte zeigt im Bau befindliche Projekte und 
+bereits im Betrieb befindliche Wasserstoffanlagen. 
+Dabei war uns ganz wichtig, dass die Landkarte nur 
+finanziell gesicherte Projekte darstellt, die eine FID 
+haben und somit auch wirklich umgesetzt werden. 
+Welche Rückmeldungen haben Sie aus der Praxis 
+erhalten? 
+Sehr positiv. Das Feedback war, dass die Leitfäden 
+in der Praxis helfen, typische Fragen im Planungs- 
+und Genehmigungsprozess sowie im Baubetrieb 
+schneller beantworten zu können.
+Wo besteht weiterhin Forschungs- oder
+Handlungsbedarf?
+Die Harmonisierung der Behördenpraxis haben 
+wir mit dem Projekt bereits angereizt. Im Bereich 
+Digitalisierung, bei klaren Anforderungen,
+kürzeren Fristen, stärkerer Standardisierung,
+Musteranträgen oder auch einheitlichen Anlaufstellen bei 
+den Behörden gibt es weiterhin
+Optimierungspotenzial. 
+PORTAL GREEN II
+Zuwendungsempfänger: DBI Gas- und
+Umwelttechnik GmbH, Gesellschaft für Anlagen- und 
+Reaktorsicherheit (GRS) und DVGW Deutscher 
+Verein des Gas- und Wasserfaches e. V.
+Förderndes Ministerium:  
+Bundesministerium für Wirtschaft und Energie
+Förderkennzeichen: 03EI3078A-C
+Fördermittel: 1,3 Millionen Euro
+Projektlaufzeit: 01/2023 – 12/2025
+Projektbeschreibung auf EnArgus:
+I N F O
+Die im Forschungsprojekt Portal Green II entwickelten Leitfäden tragen dazu bei, dass
+Wasserstoffprojekte schneller und effizienter umgesetzt werden können. 
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 33 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+34 2. PROJEKTFÖRDERUNG DES BMWE IN DER ANGEWANDTEN ENERGIEFORSCHUNG
+2.5 Forschungsmission Transfer
+Innovationen in der Energieforschung und ihr wirksamer Transfer in 
+die Praxis sind ausschlaggebend für den erfolgreichen Umbau des
+Energiesystems und den Wirtschaftsstandort Deutschland. Das
+Bundesministerium für Wirtschaft und Energie setzt dabei unter anderem auf 
+Open Science und agile Förderformate.
+Gute Lösungen aus Forschungslaboren und Entwicklungsabteilungen 
+müssen für die Transformation des Energiesektors zügig in den Markt 
+gelangen. Daher legt das BMWE mit seinem 8.
+Energieforschungsprogramm ein besonderes Augenmerk auf einen effizienten Transfer der 
+Forschungsinnovationen in die Praxis. Das Ministerium unterstützt 
+durch agile Förderformate und eine offene Wissenschaft, damit neue 
+Geschäftsmodelle, Produkte und Dienstleistungen schneller entwickelt 
+und marktfähig werden.
+Mikroprojekte und Reallabore der Energiewende
+Mit dem 8. Energieforschungsprogramm hat das BMWE das bestehende 
+Format der klassischen Projektförderung durch agile Formate ergänzt. 
+Förderinteressierte können seitdem Forschungsideen schnell und  
+„Die Rolle der Energieforschung als 
+Impulsgeberin des Fortschritts in Wirtschaft 
+und Gesellschaft stärken.“
+Neues Förderformat für den Praxistransfer 
+Das Bundeswirtschaftsministerium schärft kontinuierlich sein Förderformatangebot. So hat das 
+Ministerium 2025 das Format Vorkommerzielle Auftragsvergabe (PCP für Pre-Commercial
+Procurement) für einen Start in 2026 vorbereitet. Hierbei definiert der öffentliche Auftraggeber ein eng 
+abgestecktes Innovationsbedürfnis, schreibt dieses europaweit aus und vergibt Aufträge in der Regel 
+parallel an mehrere Unternehmen. PCP unterstützt Unternehmen beim Transfer von Innovationen 
+in den Markt. Die Formatentwicklung ist Teil des lernenden Ansatzes des 8.
+Energieforschungsprogramms des BMWE.
+I N F O
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 34 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+352. PROJEKTFÖRDERUNG DES BMWE IN DER ANGEWANDTEN ENERGIEFORSCHUNG
+Programmziele
+• Verfügbarkeit von qualifiziertem Fachpersonal für die
+Energiewende ausbauen
+• Innovations- und Portfoliomanagement in der
+Energieforschung festigen
+• Agile Prozesse und Formate nutzen
+• Technologisches Innovationspotenzial erschließen sowie
+Wertschöpfungsketten erhalten und ausbauen
+• Akzeptanz und Nachnutzungsmöglichkeiten in der
+Energieforschung durch Prinzipien der offenen Wissenschaft steigern
+unbürokratisch als sogenannte Mikroprojekte mit einer kurzen Laufzeit  
+bis zu einem Jahr beantragen. Hierzu zählen etwa Projekte, die die 
+Machbarkeit von Innovationsideen untersuchen, umfangreichere
+Forschungsprojekte vorbereiten oder neuartige Technologien an die  
+Marktreife annähern.
+Mit den Reallaboren der Energiewende führt das Ministerium ein
+bewährtes, umfängliches Instrument in seinem Förderportfolio fort. Die
+Reallabore der Energiewende ermöglichen es, innovative Technologien 
+unter realen Bedingungen und im industriellen Maßstab zu testen.  
+Die Projektkonsortien sind in der Regel große, unternehmensgeführte 
+Verbünde. Die Labore in der Realität umfassen einzelne Stadtviertel, 
+Industrieareale, ganze Städte oder können sich über mehrere
+Bundesländer erstrecken.
+FORSCHUNGSMISSION 
+TRANSFER
+Frei verfügbare Daten
+beschleunigen Innovationen in das
+Energiesystem. 
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 35 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Das Reallabor der Energiewende GWP analysiert unter anderem im Kraftwerk Stuttgart-Münster, wie
+Großwärmepumpen in die Fernwärmeversorgung integriert werden können.
+Wie die Reallabore der Energiewende den Wandel des Energiesystems voranbringen
+Großwärmepumpen in Fernwärmenetzen? Ein Laufwasserkraftwerk, in dem Wasserstoff  
+produziert wird? Reallabore der Energiewende erproben Innovationen in realer Umgebung.
+E R F O L G S G E S C H I C H T E
+Open versus Closed Science
+Das laufende Monitoring zeigt: Projektteams planen mehr 
+als dreimal so viele Open-Access-Publikationen wie Closed-
+Access-Publikationen. Damit zeigt die Energiebranche, dass 
+sie sich stark vernetzen und die Forschungsergebnisse 
+anwenden will.
+Geplante Open-Access-Publikationen
+Geplante Closed-Access-Publikationen
+Quelle: PtJ-Monitoring, geförderte Forschungsprojekte mit Start zwischen 
+01.01.2024 und 31.12.2025
+6.194
+1.951
+Im Reallabor der Energiewende GWP werden
+erstmals Großwärmepumpen an Kraftwerksstandorten 
+in Berlin, Stuttgart, Mannheim und Rosenheim in 
+das Fernwärmenetz integriert und im Betrieb
+optimiert. Bisher ist deren Einsatz oftmals noch nicht 
+wirtschaftlich. Das möchten die Fachleute im
+Realbetrieb durch Analysen und Optimierungen ändern. 
+Im Reallabor der Energiewende H2-Wyhlen
+hingegen wird mit Strom aus dem Rhein in einem
+Laufwasserkraftwerk vor Ort Wasserstoff produziert. 
+Mit Erfolg: Die H2-Infrastruktur wird nun mit 
+einem angrenzenden Quartier und Industrieareal 
+zu einem realen Testraum ausgebaut.
+Das sind zwei Beispiele von insgesamt 16 laufenden 
+Real laboren der Energiewende, die das
+Bundeswirtschaftsministerium im Jahr 2025 gefördert hat. 
+Das Angebot, innovative Technologien unter realen 
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 36 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Förderformat Mikroprojekte: 
+2025 stark nachgefragt
+Auch das im 8. Energieforschungsprogramm 
+des BMWE neu etablierte Format der
+Mikroprojekte stößt in der Energiebranche auf große 
+Resonanz. Erste Auswertungen zeigen, dass das 
+niederschwellige Förderangebot, mit dem sich 
+zukunftsweisende Ideen schnell und effizient 
+erproben lassen, sowohl von Unternehmen als 
+auch von Forschungseinrichtungen und
+Hochschulen gerne in Anspruch genommen wird. 
+Bei dem einstufigen Verfahren sind im Jahr 
+2025 150 Anfragen eingegangen. Nach der 
+fachlichen Prüfung wurden 50 Mikroprojekte 
+bewilligt. Die geförderten Mikroprojekte
+deckten Forschungsfragen aus sämtlichen
+Themenfeldern ab.
+FÖRDERFORMAT 
+MIKROPROJEKTE
+I N F O
+Im Reallabor H2-Wyhlen erproben Expertinnen und Experten, wie grüner Wasserstoff aus 
+erneuerbaren Energien effizient erzeugt, gespeichert und für die Energiewende nutzbar gemacht 
+werden kann.
+Bedingungen und im industriellen Maßstab zu
+testen, trägt mit seinen Erkenntnissen laut Monitoring/ 
+Evaluation (siehe Kapitel 2.6, Seite 38) maßgeblich 
+zu den Fortschritten in der Transformation des 
+Energiesystems bei.
+Neuer Förderaufruf zu den Reallaboren der 
+Energiewende
+Daher hat das BMWE im Herbst 2025 einen
+weiteren Förderaufruf für dieses Format gestartet. Ein 
+besonderer Ausschreibungsfokus lag auf den
+Themen in den Missionen Strom und Wärme. Darüber 
+hinaus waren Skizzen zu den Querschnittsthemen 
+Energie- und Ressourceneffizienz, Digitalisierung, 
+zirkuläre Wirtschaft und Resilienz gefragt. Die
+Resonanz war groß: Bis zum Ende der Einreichungsfrist 
+Mitte Februar 2026 wurden 62 Skizzen eingereicht.
+Das Förderformat Reallabore der Energiewende ist 
+Teil der Hightech Agenda Deutschland der
+Bundesregierung. Diese verfolgt das 
+Ziel, durch Forschung und 
+technologische Innovationen 
+die Wettbewerbsfähigkeit 
+Deutschlands auszubauen, 
+zusätzliche Wertschöpfung zu 
+generieren und die
+technologische Souveränität am
+Innovationsstandort Deutschland 
+nachhaltig auszubauen.
+REALLABORE DER 
+ENERGEIEWENDE 
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 37 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+38 2. PROJEKTFÖRDERUNG DES BMWE IN DER ANGEWANDTEN ENERGIEFORSCHUNG
+2.6 Gezielte Programmsteuerung durch Monitoring 
+und Evaluation
+Das Bundesministerium für Wirtschaft und Energie richtet das 8.
+Energieforschungsprogramm für die angewandte Energieforschung
+passgenau auf die industrie- und energiepolitischen Ziele der
+Bundesregierung aus. Im Mittelpunkt steht, das Energiesystem zukunftsfest zu 
+gestalten, das heißt innovationsoffen, resilient, bezahlbar und
+klimaverträglich. Das missionsorientierte und lernende 8.
+Energieforschungsprogramm des BMWE sichert dies nachhaltig. 
+Drei Governance-Kernpunkte stützen das Programm:
+1. Zielsetzung und Monitoring: Ziele werden definiert, priorisiert und
+durch Indikatoren (KPIs) messbar gemacht. Strategisches Lernen
+ermöglicht Anpassungen.
+2. Instrumente und Maßnahmen: In der Projektförderung werden
+neue Ansätze genutzt, um Effektivität und Flexibilität zu steigern.
+Die Priorisierungen berücksichtigen Budgetgrenzen.
+3. Umsetzung und Evaluation: Fördermaßnahmen werden regelmäßig
+überwacht und durch externe Evaluationen, die unter anderem auch
+die Stakeholder einbinden, analysiert und bewertet. So bleibt das
+Programm agil und wirkungsvoll.
+Haushaltsmittel für finanzwirksame Maßnahmen wie Förderprogram me 
+müssen effizient und wirksam eingesetzt werden. Die Grundlage hierfür 
+ist § 7 der Bundeshaushaltsordnung. Monitoring und Evaluation dienen 
+dazu, den verantwortungsvollen und zielorientierten Einsatz der
+Finanzmittel zu überprüfen. Die Ergebnisse fließen unter anderem in die
+finanzielle, administrative, strategische oder inhaltliche Planung künftiger 
+Fördermaßnahmen ein.
+Die angewandte
+Energieforschungsförderung des BMWE leistet einen 
+erheblichen Beitrag, damit
+Deutschlands Energiesystem zukunftsfest
+aufgestellt ist und bleibt. 
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 38 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Laufendes Monitoring der angewandten Energieforschung durch 
+den Projektträger Jülich
+Der Projektträger Jülich setzt die Projektförderung und das Monitoring 
+der angewandten Energieforschung im Auftrag des BMWE um. Ein
+Fachteam analysiert kontinuierlich die umfänglichen Projekt-Informationen 
+aus dem Fördermanagementdienst „Projektförder-Informationssystem“ 
+(profi). Des Weiteren führt der Projektträger im Auftrag des BMWE über 
+den Förderzeitraum der Projekte hinweg eine dreistufige Online-
+Befragung durch. Das laufende Monitoring zeigt: Die geförderten Projekte 
+decken alle Förderschwerpunkte des 8. Energieforschungsprogramms 
+des BMWE gut ab. Übergreifend liegt häufig ein Forschungsfokus auf 
+Fragestellungen rund um Effizienzmaßnahmen und Kostenreduktion. 
+Monitoring und Evaluation
+tragen entscheidend dazu bei, dass 
+die Fördermaßnahmen des 
+BMWE zielgenau erfolgen.
+Hochschulen 
+21,6 %
+Forschungseinrichtungen
+20,4 %
+Großunternehmen
+18,3 %
+Sonstige
+6,2 %
+KMU*
+33,5 %
+Das laufende Monitoring zeigt: 
+Das BMWE fördert
+Unternehmen und wissenschaftliche 
+Einrichtungen ausgewogen in 
+ seinem 8.
+Energieforschungsprogramm. 
+Die größte Gruppe der 2025 neu 
+Geförderten stellen die kleineren 
+und mittleren Unternehmen 
+(KMU).
+*KMU nach deutscher Definition
+Wirtschaftliche Verwertung ist für die geförderten Projekte von 
+zentraler Bedeutung
+Das Monitoring zeigt zudem, dass die Förderung im 8.
+Energieforschungsprogramm stark anwendungsorientiert ist: Die meisten Projekte 
+starten auf Technology Readiness Level (TRL) 3 oder 4 und streben zum 
+Projektende TRL 5 oder 6 an. Der Fokus liegt somit in allen
+Forschungsmissionen auf dem Überführen von Ergebnissen in die Validierung und 
+Demonstration unter realen Bedingungen.
+3, 4, 5, 6
+Die meisten Projekte starten 
+auf Technology Readiness 
+Level 3 oder 4 und streben 
+zum Projektende 5 oder 6 an.
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 39 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+40 2. PROJEKTFÖRDERUNG DES BMWE IN DER ANGEWANDTEN ENERGIEFORSCHUNG
+Die meisten Unternehmen planen laut Monitoring, die Ergebnisse 
+innerhalb von drei Jahren nach Projektende wirtschaftlich zu verwerten. 
+Über 80 Prozent der Projekte streben eine Verwertung der Ergebnisse 
+durch das Angebot neuer oder verbesserter Produkte oder
+Dienstleistungen an. Zudem erwägen knapp 20 Prozent der Akteure mittel- bis 
+langfristig Ausgründungen zu ihrem Forschungsthema.
+Evaluationsschlussbericht zum 7. Energieforschungsprogramm 
+veröffentlicht
+Das BMWE hat 2021 ein Konsortium mit einer unabhängigen Evaluation 
+der Projektförderung der angewandten Energieforschung beauftragt. 
+Das AIT Austrian Institute of Technology, Kerlen Evaluation und KMU 
+Forschung Austria analysierten und bewerteten die BMWE-
+Projektförderung im 7. Energieforschungsprogramm.
+In seinem Schlussbericht hat das externe Evaluationsteam dem 7.
+Energieforschungsprogramm eine hohe strategische Relevanz für den 
+Umbau des bundesdeutschen Energiesystems bescheinigt. Die Beiträge 
+in den Bereichen Leistungssteigerung, Effizienz und Steigerung der 
+technologischen Reife seien klar erkennbar. Auch den Reallaboren der 
+Energiewende komme ein hoher Stellenwert beim Umbau des
+Energiesystems zu, indem sie den Übergang von der Forschung in die Praxis 
+erleichterten (siehe auch Seite 36). Hervorgehoben wurde zudem die 
+Förderung von Vernetzung und Kooperation, beispielsweise durch die 
+Forschungsnetzwerke Energie (siehe Seite 14).
+Lessons Learned aus dem 7. Energieforschungsprogramm
+Dem zunehmend systemischen und interdisziplinären Charakter des 
+Programms hat das BMWE in seinem 8. Energieforschungsprogramm 
+durch den missionsorientierten Ansatz entsprochen. Dieser richtet die 
+Forschungsförderung und Governance verstärkt an
+gesamtgesellschaftlichen Herausforderungen aus. Hierfür hat das BMWE unter anderem 
+einen Programmbeirat etabliert, der aus Sicht von Wirtschaft und
+Wissenschaft Empfehlungen zur Weiterentwicklung des Programms
+ausspricht.
+Das Konsortium sprach sich im Evaluationsschlussbericht auch dafür 
+aus, die Dauer der Bewilligungsverfahren zu verkürzen und
+Entscheidungsprozesse in Antragsverfahren in der Forschungsförderung
+transparenter zu gestalten. Diesen Empfehlungen wurde sowohl bei den 
+Antragsbearbeitungszeiten als auch in der Öffentlichkeitsarbeit
+entsprochen. Seit 2025 steht auf der Internetseite www.energieforschung.de ein 
+erweitertes Informationsangebot zur Projektförderung online.
+>80
+Über 80 Prozent der 
+Projektteams möchten 
+mit der Forschung neue 
+oder verbesserte Produkte 
+bzw. Dienstleistungen 
+anbieten.
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 40 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+3. Projektförderung des
+BMFTR in der
+anwendungsorientierten
+Grundlagenforschung
+und Fusionsforschung
+Das Bundesministerium für Forschung, Technologie und 
+Raumfahrt (BMFTR) legt mit seinen Fördermaßnahmen 
+Grundlagen für ein zukunftssicheres Energiesystem. Das  
+7. Energieforschungsprogramm der Bundesregierung bildet
+dafür den Rahmen. Mit seinem Förderprogramm zur
+Fusionsforschung unterstützt das BMFTR zudem die Entwicklung
+einer Technologie, mit deren Hilfe langfristig der wachsende
+Strombedarf klimaneutral und unabhängiger von
+Energieimporten abgedeckt werden könnte.
+42 3. PROJEKTFÖRDERUNG DES BMFTR IN DER ANWENDUNGSORIENTIERTEN GRUNDLAGENFORSCHUNG
+Deutschland befindet sich in einem tiefgreifenden 
+Transformationsprozess seines Energiesystems, der 
+eine Vielzahl von Wirtschafts- und
+Lebensbereichen betrifft. Neben einzelnen technologischen 
+Innovationen gewinnen dabei zunehmend Fragen 
+der Kopplung der Energiesektoren an Bedeutung. 
+Die anwendungsorientierte Grundlagenforschung 
+bildet das verbindende Element zwischen
+wissenschaftlicher Erkenntnis und angewandter
+Energieforschung. Grundlagenforschung und angewandte 
+Energieforschung legen das Fundament für den 
+Umbau des Energiesystems. Mit dem 7.
+Energieforschungsprogramm hat die Bundesregierung 
+klare Leitlinien für die Förderung gesetzt. Die bisher größte Initiative 
+dazu, die Wasserstoff-Leitprojekte, lieferten 2025 umfangreiche
+Ergebnisse in den Bereichen Elektrolyse, Transportlösungen und Offshore-
+Erzeugung. So unterstützt die Förderung des BMFTR die Forschung an 
+Lösungen für eine klimaneutrale, sichere, verlässliche und bezahlbare 
+Energieversorgung.
+In der Hightech Agenda sind Fusion und klimaneutrale
+Energieerzeugung sowie Technologien für eine klimaneutrale Mobilität explizit als 
+Schlüsseltechnologiefelder genannt. Auf beide Felder zahlt die
+anwendungsorientierte Grundlagenforschung im Bereich Energie ein. Neue 
+Energietechnologien sind zugleich ein wesentlicher Wertschöpfungs- 
+und Standortfaktor. 
+3.1 Strategische Förderformate
+Mit strategisch ausgerichteten Förderformaten wird die Energiewende 
+konsequent ganzheitlich vorangetrieben. In langfristig angelegten
+Projekten bündeln Wissenschaft, Wirtschaft und Gesellschaft ihre Kräfte, 
+um die Transformation des Energiesystems spürbar zu beschleunigen.
+Wasserstoff-Leitprojekte: Wegbereiter einer Wasserstoffwirtschaft
+Mit den Wasserstoff-Leitprojekten H2Giga, H2Mare und TransHyDE 
+setzte das BMFTR ein starkes Signal für den Aufbau einer
+leistungsfähigen Wasserstoffwirtschaft. Sie sind die größte Initiative des BMFTR zur 
+Energieforschung. Sie bringen mehr als 230 Partner aus Forschung, 
+Industrie und Zivilgesellschaft zusammen und adressieren
+entscheidende Hebel entlang der gesamten Wertschöpfungskette für Wasserstoff 
+– von der industriellen Serienproduktion von Elektrolyseuren über die
+Erzeugung auf See bis hin zu Transport- und Speicherlösungen. Die
+Forschung der Leitprojekte endete am 31. Dezember 2025.
+Das Wissenschaftsjahr 2025 
+stand unter dem Motto 
+„Zukunftsenergie“ und widmete 
+sich den neuesten
+Erkenntnissen der Energieforschung auf 
+dem Weg zu einem
+Energiesystem der Zukunft. Die MS
+Wissenschaft tourte als
+schwimmendes Science Center, unter 
+anderem mit Exponaten der 
+BMFTR-geförderten
+Wasserstoff-Leitprojekte und der 
+Kopernikus-Projekte, quer durch 
+Deutschland. In diesem Rahmen 
+wurde die breite Öffentlichkeit 
+mit dem Podcast „Schlauer
+Einschlafen“, einem
+Kunstwettbewerb, einem Science Slam, der 
+Ausstellung „Power2Change: 
+Mission Energiewende“, der 
+Tour des Energiemobils sowie 
+einer YouTube-Dokumentation 
+über die Wasserstoff-Forschung 
+des BMFTR angesprochen.  
+(Die große Wasserstoff-Doku 
+2025 mit Breaking Lab)
+Der digitale Comic „Electra und  
+das Geheimnis des Wasserstoffs“ 
+zeigt auf dem Ausstellungsschiff  
+MS Wissenschaft die
+Energiezukunft.
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 42 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+3. PROJEKTFÖRDERUNG DES BMFTR IN DER ANWENDUNGSORIENTIERTEN GRUNDLAGENFORSCHUNG 43
+Highlights aus den Wasserstoff-Leitprojekten
+• Auf den Abschlusskonferenzen der Wasserstoff-Leitprojekte
+präsentierten die Projektpartner umfassende Ergebnisse, die
+den Hochlauf der Wasserstoffwirtschaft entscheidend
+voranbringen – von neuen Materialien, Analysemethoden und
+Modellen bis hin zu Fertigungsverfahren,
+Anlagenkomponenten und Systemkonzepten.
+• Die Analysen von TransHyDE liefern eine detaillierte
+Bestandsaufnahme bestehender Regelwerke für Wasserstoff-
+Transportoptionen. Es wurden konkrete Forschungs- und
+Normungsbedarfe sowie prioritäre Handlungsfelder definiert.
+Diese Erkenntnisse zeigen die politischen Handlungsoptionen,
+um regulatorische Hemmnisse abzubauen und
+Investitionssicherheit zu schaffen.
+• Die Roadmap von H2Giga zeigt die weiteren
+Forschungsbedarfe auf, um die Kapazitäten für die Herstellung von
+Elektrolyseuren und die Produktion von grünem Wasserstoff bis zum
+Jahr 2030 auf ein Niveau im Gigawatt-Maßstab zu heben. Die
+Roadmap bündelt die Ergebnisse aus fünf Jahren intensiver
+Zusammenarbeit zwischen Wissenschaft und Industrie.
+• Das H2Mare-Projekt PtX-Wind hat die weltweit erste
+Produktion von synthetischen Kraftstoffen auf einer schwimmenden
+Plattform auf dem offenen Meer erfolgreich demonstriert.
+H I G H L I G H T S
+Deutschland transformiert sein Energiesystem: Dabei gewinnt die Kopplung der
+Energiesektoren immer mehr an Bedeutung.
+3
+Die Wasserstoff-Leit projekte 
+waren für sechs Monate Teil der 
+Weltausstellung im japanischen 
+Osaka. Über 3 Millionen
+Menschen haben sie dort im
+Deutschen Pavillon besucht.
+Campfire Open Innovation 
+Lab (COIL)
+Im COIL auf dem Gelände der 
+Yara bei Rostock wird die 
+gesamte Prozesskette für  
+„grünen Ammoniak“ – von der 
+Herstellung über Transport  
+(z. B. per Schiff), Lagerung und 
+Nutzung als Energiequelle bis 
+hin zu Tankstellen demonstriert. 
+Dabei wurden nicht nur
+Technologien erforscht, sondern auch 
+Recht, Akzeptanz und
+wirtschaftliche Lösungen geprüft. 
+Grünes Ammoniak ermöglicht 
+eine klimafreundliche Energie- 
+und Düngemittelversorgung 
+und stellt einen
+vielversprechenden Vektor für den
+Schiffsimport von Wasserstoff dar.
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 43 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Im Wasserstoffleitprojekt H2Mare wird Wasserstoff auf hoher See erzeugt.
+Power-to-X-Produkte sind Energieträger, die aus 
+Strom hergestellt werden. Das können zum
+Beispiel Kraftstoffe oder chemische Grundstoffe sein. 
+Mit Strom aus Wind- oder Solarkraft ist die
+Herstellung dieser Produkte klimaneutral. Besonders 
+sinnvoll ist das, wenn gerade viel erneuerbarer 
+Strom zur Verfügung steht, der sonst ungenutzt 
+bliebe. Offshore, also auf See, wird viel
+erneuerbarer Strom in Windparks produziert. Das Projekt 
+PtX-Wind, Teil des Wasserstoff-Leitprojekts H2Mare, 
+hat jetzt erfolgreich erforscht, wie direkt bei diesen 
+Windparks im Meer Produkte wie E-Fuels
+hergestellt werden können. So müsste der Strom
+zukünftig nicht erst von Offshore-Windenergieanlagen an 
+Land gebracht werden, sondern könnte sofort vor 
+Ort genutzt werden. 
+E R F O L G S G E S C H I C H T E
+Power-to-X-Produkte auf hoher See herstellen
+Das Projekt PtX­Wind hat die weltweit erste schwimmende Plattform zur Power­to­
+XProduktion entwickelt und erfolgreich in der Nordsee getestet.
+Alles an Bord!
+Auf der schwimmenden Versuchsplattform findet 
+die gesamte Prozesskette für die Herstellung von 
+E-Fuels auf einem Raum von 60 mal 15 Metern statt. 
+Eine Weltpremiere! Die Technik wurde in
+Containern aufgebaut, um auch unter den rauen
+Bedingungen auf dem Meer verlässlich zu funktionieren. 
+In den Containern an Bord befinden sich unter 
+anderem eine Elektrolyse-Anlage. Hier wird im
+ersten Schritt grüner Wasserstoff hergestellt und dann 
+weiterverarbeitet. Die benötigten Ressourcen,
+Wasser und CO2, können direkt aus der Umgebung auf 
+dem Meer gewonnen werden, denn auf der
+Plattform gibt es auch eine eigene
+Meerwasserentsalzungs- und Direct-Air-Capture-Anlage. Der Aufbau 
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 44 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Die H2Mare-Versuchsplattform aus der Vogelperspektive: Sie verfügt über eine Direct-Air- 
+Capture-Anlage zum Gewinnen von CO2 aus der Umgebungsluft, eine
+Meerwasserentsalzungsanlage sowie eine Hochtemperatur-Elektrolyse zur Erzeugung von Synthesegas.
+PROJEKT PTX-WIND
+Technology Readiness Level  
+nach Projektende: 5
+Zuwendungsempfänger: KIT, TU Berlin, DLR, 
+Uni Stuttgart u. a.
+Förderndes Ministerium:  
+Bundesministerium für Forschung, Technologie 
+und Raumfahrt
+Förderkennzeichen: 03HY302A-R
+Fördermittel: 37,7 Millionen Euro
+Projektlaufzeit: 04/2021 – 12/2025
+Projektbeschreibung auf EnArgus:
+I N F O
+S T R O M E R Z E U G U N G
+P L AT T F O R M - C O N T R O LH O C H T E M P E R AT U R - 
+E L E K T R O LY S E
+D I R E C T  A I R  
+C A P T U R E - A N L A G E
+W A S S E R A U F B E R E I T U N G 
+E N T S A L Z U N G & A B W A S S E R
+F I S C H E R -T R O P S C H -
+S Y N T H E S E
+900
+Die Versuchsplattform von 
+H2Mare, die in einer modularen 
+Containerbauweise aufgebaut 
+ist, um auch bei Wellengang und 
+starkem Wind verlässlich zu 
+funktionieren, ist 900 m2 groß.
+macht es möglich, die gesamte Prozesskette
+flexibel und unabhängig vom Stromnetz zu betreiben – 
+abgestimmt auf die gerade verfügbare Menge an 
+erneuerbarem Strom aus Offshore-Windparks.
+Raus auf hohe See!
+Nach dem Aufbau der Plattform im Hafen in 
+ Bremerhaven ging es Ende 2025 in die heiße Phase 
+und raus auf die Nordsee. Vor Helgoland musste 
+die Plattform beweisen, ob sie Wind und Wetter 
+tatsächlich standhalten kann. Zwei Wochen lang 
+waren Forschende und erfahrenes seemännisches 
+Personal unterwegs. Trotz wiederholter
+Stromausfälle, hohem Wellengang und schwerer
+Sturmwarnungen waren die Tests ein voller Erfolg! Die
+Forschenden, die teilweise zusätzlich auch noch mit 
+Seekrankheit zu kämpfen hatten, konnten die 
+Plattform dauerhaft betreiben und die Prozesskette 
+intakt halten. Für diese ersten Tests kam der Strom 
+noch von einem Generator, nicht direkt von der 
+Windenergieanlage. Die erzielten Ergebnisse  liefern 
+jetzt wichtige Erkenntnisse für die Entwicklung 
+größerer PtX-Plattformen, die zukünftig eine  
+CO2-neutrale Kraftstoffproduktion auf dem Meer 
+real werden lassen könnten.
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 45 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Kopernikus-Projekte: Systemische Lösungen für 
+die Energiewende
+Die Kopernikus-Projekte ENSURE, P2X, SynErgie 
+und Ariadne gehören zu den größten deutschen 
+Forschungsinitiativen zur Energiewende. Seit 2016 
+erarbeiten sie praxisnahe Lösungen für die
+Netzintegration erneuerbarer Energien, die
+Sektorenkopplung, die Flexibilisierung der Industrie sowie 
+für wirksame politische Steuerungsinstrumente.
+Mit ihrem systemischen Ansatz liefern sie nicht 
+nur technologische Innovationen, sondern auch 
+Vorschläge für konkrete Handlungsoptionen für 
+Politik und Wirtschaft. Die Ergebnisse der
+Kopernikus-Projekte leisten einen unmittelbaren Beitrag 
+dazu, die Energiewende in Deutschland erfolgreich 
+umzusetzen – technisch verlässlich, wirtschaftlich 
+tragfähig und gesellschaftlich akzeptiert.
+Highlights aus den Kopernikus-Projekten:
+• Wo ist der optimale Standort für eine
+Power-to-X-Anlage? Forschende von P2X
+entwickeln eine Blaupause, mit der sich
+weltweit geeignete Orte identifizieren lassen.
+• Die Energiewende kosteneffizient gestalten:
+Das haben Forschende von Ariadne
+berechnet. Demnach werden die nötigen
+Investitionen zum Großteil durch Minderausgaben
+für fossile Energieträger ausgeglichen. Die
+europäische Integration spielt eine
+Schlüsselrolle, um die Kosten zu minimieren.
+• SynErgie hat ein hybrides Strahlheizrohr an
+einer Großanlage (Contiglühe) von
+thyssenkrupp Steel in Betrieb genommen. Dieser
+Demonstrator ermöglicht durch den
+automatisierten Wechsel zwischen Strom und
+Gas eine netzdienliche Flexibilisierung
+energieintensiver Thermoprozesse ohne
+Beeinträchtigung der Produktionsqualität.
+• Ergebnisse der gemeinsamen Kopernikus-
+Arbeitsgruppe Regulatorik zur
+systemdienlichen Weiterentwicklung der
+Stromnetzentgeltsystematik flossen direkt in den
+Konsultationsprozess der
+Bundesnetzagentur ein und wurden zu Teilen aufgegriffen.
+H I G H L I G H T S
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 46 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Sind Sie an weiteren 
+Informationen über die 
+anwendungsorientierte 
+Grundlagenforschung des 
+Bundesministeriums für Forschung, 
+Technologie und Raumfahrt interessiert?
+Diese finden Sie hier
+48 3. PROJEKTFÖRDERUNG DES BMFTR IN DER ANWENDUNGSORIENTIERTEN GRUNDLAGENFORSCHUNG
+3.2 Energiewende in den Verbrauchssektoren
+Eine erfolgreiche und tragfähige Energiewende erfordert das
+Zusammenwirken aller Sektoren. Nur wenn diese Bereiche systematisch
+miteinander verzahnt werden, kann die Transformation im erforderlichen 
+Tempo gelingen.
+Zentrale Hebel sind die intelligente Kopplung der Sektoren,
+leistungsfähige Speicherlösungen und eine effiziente Verteilung erneuerbarer 
+Energien. Klimaneutralem Wasserstoff kommt hierbei eine
+Schlüsselrolle zu: Er ermöglicht es, erneuerbare Energie flexibel nutzbar zu 
+machen, schwer elektrifizierbare Anwendungen zu dekarbonisieren und 
+damit die Energiewende insgesamt entscheidend voranzubringen. 
+Erneuerbare Energien und CO2 als nachhaltige Kraftstoffe
+Mobilitätsbereiche, die sich nicht oder nur schwer elektrifizieren lassen, 
+können zukünftig durch klimaneutrale Kraft- und Treibstoffe
+defossilisiert werden. Sustainable Aviation Fuels (SAF) können allerdings derzeit 
+je nach Herstellungsverfahren zwei- bis fünfmal so viel kosten wie
+herkömmliches Kerosin. BMFTR-geförderte Projekte arbeiten an Techno-
+• Forschende stellten Carbon2Chem bei der EU-
+Informationsplattform INCITE (Innovation Centre for Industrial Transformation 
+and Emissions) vor und integrierten es in deren Netzwerk. Es 
+erhält nun EU-weite Sichtbarkeit.
+• Das Carbon2Chem-CCU-Methanol fand im Projekt Power2
+Polymers Anwendung. Dort ist es zu Polymeren weiterverarbeitet
+worden, um eine Basis für Klebstoffe, Beschichtungsmaterialien
+sowie Schmier- und Dichtstoffe zu schaffen.
+• Das Kopernikus-Projekt P2X (siehe 3.1) entwickelt Verfahren zur
+Umwandlung von erneuerbarem Strom in synthetische
+Kraftstoffe. Damit entstehen weitere Optionen für Bereiche, die sich
+nur schwer direkt elektrifizieren lassen – wie die Luft- und
+Schifffahrt.
+• Das deutsch-südafrikanische Projekt CARE-O-SENE entwickelt
+verbesserte Katalysatoren für die Herstellung von nachhaltigem
+Kerosin. Ziel ist es, die Produktionskosten zu senken, CO2-
+Emissionen zu reduzieren und den Markthochlauf klimafreundlicher
+Flugkraftstoffe zu beschleunigen.
+H I G H L I G H T S
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 48 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+3. PROJEKTFÖRDERUNG DES BMFTR IN DER ANWENDUNGSORIENTIERTEN GRUNDLAGENFORSCHUNG 49
+logien für neue E-Fuels und daran, die Herstellungskosten zu senken. 
+Technologieoffen werden ebenso Innovationen für zukünftige
+Wasserstoffantriebe erforscht. 
+Die in diesen Projekten erzielten Ergebnisse bilden eine tragfähige 
+Grundlage, auf der die Bundesregierung im Rahmen der Hightech 
+Agenda Deutschland gezielt aufbauen kann. Sie ermöglichen es,
+Forschungserfolge schneller in marktfähige Technologien zu überführen 
+und konkrete Anwendungen für die Energiewende – insbesondere  
+ im Verkehrssektor – zügig voranzubringen.
+Flexibler Einsatz erneuerbarer Energien
+Mit dem wachsenden Anteil erneuerbarer Energien gewinnt die
+Flexibilität des Energiesystems entscheidend an Bedeutung. Neben der  
+Sektorenkopplung und dem Ausbau der Infrastruktur ist insbesondere 
+die Anpassungsfähigkeit der Industrie ein zentraler Hebel.
+Industrielle Prozesse sind bislang überwiegend auf eine gleichmäßige 
+Energieversorgung ausgerichtet. Durch gezielte Flexibilisierung können 
+sie künftig stärker auf das schwankende Angebot erneuerbarer Energien 
+reagieren. Das Kopernikus-Projekt SynErgie untersucht beispielsweise, 
+wie die Industrie diese Schwankungen ausgleichen könnte. Das kann 
+gelingen, indem Großverbraucher ihre Prozesse je nach
+Stromverfügbarkeit kurzzeitig hoch- oder runterfahren. Das ist ein entscheidender 
+Beitrag für ein stabiles, klimaneutrales und wettbewerbsfähiges
+Energiesystem.
+Die Integration erneuerbarer
+Energien in ein Gesamtsystem rückt 
+mehr und mehr in den Mittelpunkt.
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 49 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+50 3. PROJEKTFÖRDERUNG DES BMFTR IN DER ANWENDUNGSORIENTIERTEN GRUNDLAGENFORSCHUNG
+3.3 Energieerzeugung
+Erneuerbare Energien ersetzen zunehmend konventionelle Quellen. 
+Nach erfolgreichen Fortschritten beim Ausbau und bei der
+Kostensenkung rückt nun die Integration dieser Energien in ein verlässliches 
+Gesamtsystem in den Mittelpunkt.
+Die BMFTR-Förderung konzentriert sich dabei auf direkt speicherfähige 
+Energieformen. 
+Das Projekt H2Demo beispielsweise hat 2025 am Fraunhofer ISE eine 
+neue Anlage gebaut. Diese sogenannte Hochdurchsatz-Epitaxieanlage 
+kann besonders günstig spezielle Schichten für Tandemsolarzellen  
+herstellen. Diese werden gebraucht, um mit Sonnenlicht direkt Wasser 
+in Wasserstoff umzuwandeln.
+3.4 Systemintegration: Netze, Speicher, 
+Sektorenkopplung
+Der Ausbau und die Digitalisierung der Netze sowie neue
+Speicherlösungen bilden die Grundlage für ein flexibles Energiesystem und 
+gewährleisten Versorgungssicherheit.
+Stromnetze sind das Rückgrat der Energiewende. Das Kopernikus-
+Projekt ENSURE (siehe Kapitel 3.1) entwickelt Konzepte für ein
+zukunftsfähiges Netz mit Integration erneuerbarer und dezentral erzeugter
+Elektrizität, Flexibilitätsoptionen und digitaler Steuerung. RESIST hat einen 
+Resilienzmonitor entwickelt, welcher in der Lage ist, prognosefähige 
+Auswirkungen bei auftretenden Disruptionen im Stromnetz treffen zu  
+können (siehe Interview).
+Wasserstoff als zentrales Element
+Für die Sektorenkopplung ist Wasserstoff ein wichtiger Baustein. Daher 
+leistet die Energieforschung mit einer Vielzahl von Projekten einen  
+zentralen Beitrag zur Umsetzung der Nationalen Wasserstoffstrategie. 
+Im Mittelpunkt stehen die drei Wasserstoff-Leitprojekte (siehe Kapitel 3.1). 
+Ergänzend beschäftigt sich die Grundlagenforschung Grüner
+Wasserstoff mit der nächsten und übernächsten Generation von
+Wasserstofftechnologien. 
+Auch die geförderten
+exzellenten Nachwuchsgruppen des 
+BMFTR können 2025 tolle 
+Erfolge vorweisen. Dr. Jacob 
+Schneidewind und seine
+Mitarbeitenden des Projekts SolSTEP 
+sind unter vielen Bewerbern 
+ausgewählt worden, um am 
+MDR-Zukunftstag ihre Arbeiten 
+zur künstlichen Photosynthese 
+mit verschiedenen
+Medienvertretern zu diskutieren und den 
+Austausch zwischen
+Wissenschaft und Medien zu fördern. 
+Im Bereich Bioenergie fördert 
+das BMFTR Vorhaben in
+internationalen Kooperationen. Das 
+Projekt START untersucht, wie 
+mit Hilfe von energetisch
+optimierten Gewächshäusern
+Pflanzenanbau im trockenen globalen 
+Süden energieeffizient
+stattfinden kann. 
+Erneuerbare Energien ersetzen zunehmend Energien 
+aus konventionellen Quellen.
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 50 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Warum braucht unsere Stromversorgung eine 
+höhere Resilienz?
+Unser ursprünglich hierarchisch angelegtes
+Stromnetz verändert sich momentan sehr stark: Große 
+Kraftwerke fallen weg, erneuerbare Energie wird 
+dezentral eingespeist, reine Verbraucher sind nun 
+zusätzlich Produzenten und durch die
+Elektrifizierung steigt die Abhängigkeit von Strom.
+Gleichzeitig nehmen Extremwetterereignisse und
+Cyberangriffe zu. Ein resilientes System kann sich
+deutlich flexibler an diese Veränderungen anpassen, 
+eine Grundversorgung gewährleisten und sich 
+nach Störfällen schneller wieder erholen.
+Was ist der „Resilienzmonitor“, den Sie im Projekt 
+entwickelt haben?
+Der Monitor soll die Resilienz eines Stromnetzes  
+in Echtzeit abbilden. Dazu sammelt er alle
+verfügbaren Informationen zu Resilienz-Aspekten. Im 
+Projekt waren dies Aspekte des Stromnetzes, die 
+bislang nicht beachtet werden, zum Beispiel die 
+Verlässlichkeit der Kommunikation von Virtuellen 
+Kraftwerken oder die Cyberresilienz digitaler Um -
+spannwerke. Wir betrachteten auch zwei
+Anwendungsfälle für Teilnetze, die sich zeitweise selbst 
+mit Strom versorgen können. Für einen der Fälle 
+identifizierten wir die Anfahrtszeit der
+Mitarbeitenden als einen entscheidenden Aspekt für die 
+Resilienz des Systems.
+Wo sehen Sie Anwendungsmöglichkeiten für dieses 
+Werkzeug?
+Perspektivisch könnten Gemeinden den
+Resilienzmonitor zur Vorbereitung auf Ausfälle im
+übergeordneten Stromnetz nutzen. Er hilft ihnen dabei, 
+im Vorfeld die Selbstversorgungsmöglichkeiten 
+abzuschätzen und Resilienz-steigernde
+Maßnahmen frühzeitig einzuleiten. Während der
+Selbstversorgung überwacht der Resilienzmonitor unter 
+anderem den Ist-Zustand des Systems.
+Zuverlässige Stromversorgung – auch bei massiven Störungen
+Das Projekt RESIST entwickelte Methoden zur Analyse und Steigerung der Resilienz  
+des Stromnetzes. Die zentralen Fragen: Wodurch kann eine verlässliche Stromversorgung 
+gewährleistet werden und wie kann sie sich nach einer Störung schnell erholen?  
+Dr. Kris Schroven erarbeitete im Team dafür einen Resilienzmonitor. 
+„In Zeiten der Digitalisierung und 
+Elektrifizierung sind wir funda
+mental von einer funktionierenden 
+Strom versorgung abhängig.“
+Dr. Kris Schroven ist promovierte Physikerin 
+und arbeitet am Fraunhofer-Institut für 
+Kurzzeitdynamik, Ernst-Mach-Institut, EMI
+E R F O L G S G E S C H I C H T E
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 51 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+PROJEKT RESIST
+Technology Readiness Level  
+nach Projektende: 3 – 4
+Zuwendungsempfänger: Verbund aus 5  
+Fraunhofer-Instituten (Fraunhofer-Institut für  
+Kurzzeitdynamik (EMI); Fraunhofer-Institut für 
+Solare Energiesysteme (ISE); Fraunhofer-Institut 
+für Energiewirtschaft und
+Energiesystemtechnik (IEE); Fraunhofer-Institut für
+Energieinfrastrukturen und Geothermie (IEG);  
+Fraunhofer Institut Angewandte Systemtechnik 
+(IOSB-AST))
+Förderndes Ministerium:  
+Bundesministerium für Forschung, Technologie 
+und Raumfahrt
+Förderkennzeichen: 03SF0637
+Fördermittel: 6,63 Millionen Euro
+Projektlaufzeit: 08/2021 – 12/2025
+Projektbeschreibung auf EnArgus:
+I N F OWarum ist es wichtig, dass an diesem Thema  
+weiter geforscht wird?
+Das europäische Stromsystem gehört zu den
+verlässlichsten der Welt. Wir setzen auf diese
+Verlässlichkeit. Das beeinträchtigt unsere Bereitschaft, uns 
+frühzeitig um Resilienzmaßnahmen zu kümmern. 
+In Zeiten der Digitalisierung und Elektrifizierung 
+sind wir fundamental von einer funktionierenden 
+Stromversorgung abhängig. Gleichzeitig leben wir 
+aber in Zeiten, in denen die Verlässlichkeit des 
+Stromsystems unter Druck steht. Deswegen ist es 
+wichtig, das System zu monitoren und resilienter 
+auszugestalten. Dafür brauchen wir mehr
+Forschung.
+Welcher Aspekt Ihres Forschungsprojektes hat Sie 
+besonders überrascht?
+Es war spannend zu sehen, wie nah Einfachheit 
+und Komplexität bei diesem Thema beieinander 
+liegen. Zum Beispiel tragen simple Maßnahmen – 
+wie das gezielte Abschalten eines kleinen
+Netzabschnittes – dazu bei, Ausfallkaskaden im
+Verteilnetz zu verhindern. Gleichzeitig ist die Vielfalt an 
+Aspekten, die zu Resilienz-Kriterien beitragen, 
+enorm.
+Weitere analysierte  
+Möglichkeiten zur Resilienz-
+Steigerung:
+• Anomalieerkennung für die
+Kommunikation von
+Virtuellen Kraftwerken
+• Resiliente KI-
+Notfallregelung für optimierte
+Wärmepumpensysteme
+• Cyberresilienz von digitalen
+Umspannwerken
+• Inselnetzbetrieb mit
+Resilienzwechselrichter
+• Aufbau einer lokalen Netzinsel
+• Strategisches Netz-
+Planungstool
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 52 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+53
+3.5 Systemübergreifende Forschungsthemen der 
+Energiewende
+Interdisziplinäre Ansätze für die Energiewende verbinden Natur-,  
+Ingenieur-, Informations- und Sozialwissenschaften. Digitalisierung 
+und CO2-Technologien treiben Ressourceneffizienz und Nachhaltigkeit  
+systemisch voran.
+Energiesystemanalysen bilden die wissenschaftliche Grundlage für  
+Entscheidungen. Das Kopernikus-Projekt Ariadne (siehe Kapitel 3.1) 
+entwickelt Szenarien, wie Klimaziele effizient, kostengünstig und
+gesellschaftlich tragfähig erreicht werden können.
+Energiewende und Gesellschaft
+Die Energiewende ist nicht nur technologisch, sondern auch
+gesellschaftspolitisch. Sie eröffnet Chancen für Nachhaltigkeit und Teilhabe, 
+wirft aber auch Fragen nach Gerechtigkeit, Akzeptanz und Steuerung 
+auf. 
+Materialforschung und Ressourceneffizienz
+Materialforschung ist ein Schlüssel für Effizienz. Das Vorhaben CATLab 
+konnte neue Wirkweisen in chemischen Reaktionen nachweisen. Die 
+Ergebnisse wurden in renommierten Fachzeitschriften veröffentlicht 
+und zeigen, wie Katalysatoren während des Prozesses der
+Nitratreduktion in unerwarteten Formen verbleiben können. Das ist entscheidend, 
+weil genau diese Formen oft die eigentliche chemische
+Umwandlungseffizienz das katalytischen Prozesses bestimmen.
+Die Kopernikus-Projekte haben 
+mit der Babbel Bubble einen 
+einzigartigen Dialograum 
+geschaffen, der Forschende und 
+die Gesellschaft
+zusammenbringt. Menschen kommen ins 
+Gespräch und diskutieren Fragen 
+zur Energiewende. Forschung 
+gibt sich nahbar, zugänglich und 
+unverfälscht. Die Kopernikus-
+Projekte streamen die
+Fragestunden live, sodass ganz 
+Deutschland zuschauen kann.
+Die Babbel Bubble lädt, wie hier in 
+der Stadt Halle, zu Gesprächen mit 
+Forschenden der Kopernikus-
+Projekte über die Energiewende ein.
+3 . PROJEKTFÖRDERUNG DES BMFTR IN DER ANWENDUNGSORIENTIERTEN GRUNDLAGENFORSCHUNG
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 53 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+54 3. PROJEKTFÖRDERUNG DES BMFTR IN DER ANWENDUNGSORIENTIERTEN GRUNDLAGENFORSCHUNG
+Digitalisierung der Energiewende
+Für die Entwicklung neuer Geschäftsmodelle und die Integration
+erneuerbarer Energien sind intelligente Steuerungssysteme, Datenanalysen 
+und eine enge Vernetzung erforderlich. Das Projekt ODH@Jülich führt 
+eine datenbasierte vollumfängliche Betrachtung für die energetische 
+Bewirtschaftung von Quartieren durch. Ziel des Projekts ist es,
+Methoden und Software-Werkzeuge für Planungs- und
+Simulationsprogramme zu entwickeln.
+3.6 Aktionsplan Fusion und Förderprogramm Fusion 2040
+Der weltweit steigende Strombedarf erfordert sichere, grundlastfähige, 
+bezahlbare und CO2-neutrale Kraftwerkstechnologien, die Deutschland 
+unabhängiger von Energie- und Rohstoffimporten machen.
+Fusionskraftwerke haben das Potenzial, im Zusammenspiel mit erneuerbaren 
+Energien, diesen Bedarf zu decken.
+Stand der Forschung und Entwicklung
+Ausgehend von den vielbeachteten Ergebnissen der National Ignition 
+Facility (NIF) in den USA, bei denen in weiteren
+Trägheitsfusionsexperimenten inzwischen bis zu vier Mal mehr Fusionsenergie freigesetzt 
+wurde, als über das eingekoppelte Laserlicht zugeführt wurde, hat die 
+globale Fusionsforschung weiter deutlich an Dynamik gewonnen. Dies 
+spiegelt sich unter anderem in einem anhaltend starken Zufluss
+privaten Kapitals in Fusionsunternehmen wider. Parallel dazu schreiten
+zentrale internationale und europäische Vorhaben voran, etwa der Bau von 
+ITER sowie nationale Programme wie STEP im Vereinigten Königreich. 
+Auch in Deutschland und Europa werden die Aktivitäten entlang der 
+gesamten Innovationskette intensiviert. Im Bereich der Magnetfusion 
+sind weiterhin substanzielle Fortschritte sowohl für Tokamak- als auch 
+für Stellarator-Konzepte zu verzeichnen.
+Auf dem Weg zum Fusionskraftwerk ist noch intensive Forschung und 
+Entwicklung erforderlich. Dies betrifft zunächst vor allem die
+Weiterentwicklung der Technologiereifegrade der einzelnen technologischen
+Felder (beispielsweise Entwicklung von Materialien, Tritiumkreislauf,
+Lasersysteme). Diese sind zum Teil noch weit von einer Marktreife entfernt.
+Förderung der Fusionsforschung durch das BMFTR
+Zur beschleunigten Realisierung von Fusionskraftwerken strebt das 
+BMFTR den Aufbau eines Fusionsökosystems aus Industrie, Start-ups 
+und Wissenschaft an. Dabei werden Magnet- und Laserfusion gleicher-
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 54 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+55
+maßen adressiert. Grundlage ist die Hightech Agenda Deutschland, der 
+Aktionsplan „Deutschland auf dem Weg zum Fusionskraftwerk“ und das 
+Förderprogramm „Fusion 2040 – Forschung auf dem Weg zum
+Fusionskraftwerk“.
+Hauptziel der Förderung ist der Bau eines Fusionskraftwerks. Der im 
+Oktober 2025 veröffentlichte Aktionsplan Fusion konkretisiert dieses 
+Ziel: Das erste Demonstrations-Fusionskraftwerk der Welt soll durch ein 
+industriegeführtes Konsortium in Deutschland errichtet werden. Die 
+Maßnahmen setzen auf technologieorientierte Public Private
+Partnerships, um Erkenntnisse frühzeitig in die Industrie zu transferieren. Fünf 
+der weltweit mehr als 50 Fusionsstart-ups sind in Deutschland
+angesiedelt. Auch daher setzt die Förderung auf strategische Partnerschaften 
+zwischen Start-ups, Industrie und Wissenschaft.
+Das erste Demonstrations-
+Fusionskraftwerk der Welt soll durch ein 
+industriegeführtes Konsortium in 
+Deutschland errichtet werden.
+Highlight aus den Fusionsprojekten
+Im Projekt HTS4Fusion wurden die anvisierten elektromagnetischen Eigenschaften der neu
+entwickelten Hochtemperatursupraleiter-Tapes experimentell nachgewiesen. Insbesondere ist der
+Einfluss des kritischen Stroms, oberhalb dessen die supraleitenden Eigenschaften zusammenbrechen, 
+deutlich zurückgegangen. Damit ist ein wichtiger Schritt hin zur Validierung eines neuartigen 
+Hochtemperatursupraleiter-Designs erreicht worden.
+H I G H L I G H T
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 55 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+56 3. PROJEKTFÖRDERUNG DES BMFTR IN DER ANWENDUNGSORIENTIERTEN GRUNDLAGENFORSCHUNG
+Das Förderprogramm korreliert mit der institutionellen Förderung des 
+BMFTR. Die dabei getätigten Investitionen sichern Deutschland
+langfristig seine weltweite technologische Führungsrolle in der
+Magnetfusion, die besonders in der Stellaratorentwicklung sichtbar wird. Darüber 
+hinaus wird die institutionelle Förderung der Laserfusion aufgebaut.
+Ergänzend fördert die Bundesregierung den Aufbau von
+Forschungsinfrastrukturen und Technologiedemonstratoren. Für die Laserfusion, 
+für die in Deutschland bislang keine vergleichbaren Anlagen bestehen, 
+soll eine neue Forschungsinfrastruktur errichtet werden. Eine
+Bekanntmachung dazu wurde im Oktober 2025 veröffentlicht. Darüber hinaus 
+entstehen je ein Hub zur Magnet- und zur Laserfusion sowie zu
+Brennstoffkreislauf und Materialentwicklung. Sie sind als Kompetenz- und 
+Exzellenzzentren geplant, in denen Wissen aus Wissenschaft und
+Industrie als Keimzellen für Innovationen gebündelt wird. Die Konzeptphase 
+startete 2025. Nach einer Stakeholderbefragung wurde am 24. März 2026 
+eine entsprechende Förderbekanntmachung veröffentlicht.
+BMFTR-Projektförderung
+2025 wurden weitere Projekte der 2024 veröffentlichten
+Förderbekanntmachungen umgesetzt. Aus der Bekanntmachung „Basistechnologien“  
+wurden zwölf weitere Projekte aus gewählt und gestartet, sodass das 
+Port folio nun insgesamt 20 Projekte mit einer Gesamtzuwendung von  
+180 Millionen Euro umfasst. Die zweite Einreichungsfrist der
+Bekanntmachung zur Nachwuchsgruppenförderung ermöglichte die Auswahl 
+sieben weiterer Nachwuchswissenschaftlerinnen und -wissenschaftler, 
+die ab 2026 ihre Arbeitsgruppen im Bereich der Fusionsforschung
+aufbauen werden. Ende des Jahres 2025 wurden zudem zwei neue
+Förderbekanntmachungen veröffentlicht: „Basistechnologien für die Fusion, 
+Runde 3“ sowie „Explorative Forschungsansätze in der Fusion“, deren 
+Einreichungsfristen 2026 liegen und die das Förderportfolio gezielt 
+erweitern werden.
+Mit der Hightech Agenda Deutschland und dem Aktionsplan Fusion 
+wurde zudem die Grundlage für den weiteren Ausbau der Förderung 
+gelegt. Die öffentliche Finanzierung soll in dieser Legislaturperiode  
+auf insgesamt rund 2,4 Milliarden Euro erhöht werden.
+0
+5
+10
+15
+20
+25
+Basistechnologien 
+für die Fusion
+Nachwuchsgruppen
+Die Grafik zeigt die Anzahl  
+der bisher auf Grundlage der 
+jeweiligen
+Förderbekanntmachung geförderten  
+BMFTR-Fusionsprojekte.
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 56 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+4. Institutionelle
+Energieforschung
+Mit Forschung von den Grundlagen bis zur Anwendung 
+schafft Helmholtz Energy die wissenschaftlichen
+Voraussetzungen für eine klimaneutrale Energieversorgung,  
+die die Wettbewerbsfähigkeit stärkt und von der
+Gesellschaft mitgetragen wird.
+58
+Helmholtz Energy
+Helmholtz Energy, der Forschungsbereich Energie der Helmholtz-
+Gemeinschaft, zeichnet sich durch eine einzigartige Kombination von 
+systemischer Perspektive, breiter Forschung und umfangreichen  
+Forschungsinfrastrukturen aus. 
+In vier interdisziplinären Programmen entwickeln die mehr als 2200 
+Forschenden zukunftsweisende Lösungen für den nachhaltigen Umbau 
+der Energieversorgung in Deutschland und weltweit. Dafür erforschen, 
+entwickeln und bewerten sie innovative Wandlungs-, Verteilungs- und 
+Speichertechnologien – von der Materialentwicklung bis zur innovativen 
+Lösung. Unter Einbezug aller relevanten Ketten zur Energiewandlung 
+und zukunftssicherer technologischer Optionen erarbeitet Helmholtz 
+Energy ganzheitliche, sektorenübergreifende Konzepte und Lösungen 
+für ein Energiesystem der Zukunft. 
+An Helmholtz Energy sind folgende Helmholtz-Zentren beteiligt: das 
+Deutsche Zentrum für Luft- und Raumfahrt (DLR), das
+Forschungszentrum Jülich (FZJ), das Helmholtz-Zentrum Berlin für Materialien und 
+Energie (HZB), das Helmholtz-Zentrum Dresden-Rossendorf (HZDR) 
+und das Karlsruher Institut für Technologie (KIT) sowie das Max-Planck-
+Institut für Plasmaphysik (IPP) als wissenschaftlich assoziiertes
+Zentrum.
+Programme
+• Energiesystemdesign:
+Forschung mit einem
+ganzheitlichen Ansatz zum
+Aufbau eines nachhaltigen
+Energiesystems
+• Materialien und
+Technologien für die Energiewende:
+Entwicklung neuer
+Technologien entlang der gesamten
+Wertschöpfungskette
+inklusive der Entwicklung von
+Hochleistungsmaterialien
+• Fusion: Erforschung und
+Entwicklung von physikalischen
+und technischen Grundlagen
+für die Auslegung und den
+Bau von Fusionskraftwerken
+• Nukleare Entsorgung, 
+Sicherheit und
+Strahlenforschung: Forschung zur
+Zwischen- und Endlagerung
+radioaktiver Abfälle und zum
+sicheren Betrieb von
+Kernreaktoren
+Im Forschungsbereich Energie der 
+Helmholtz-Gemeinschaft
+entwickeln mehr als 2200 Forschende 
+zukunftsweisende Lösungen für den 
+nachhaltigen Umbau der
+Energieversorgung in Deutschland und 
+weltweit.
+4 . INSTITUTIONELLE ENERGIEFORSCHUNG
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 58 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Solar TAP hat sich zu einem zentralen Knotenpunkt 
+für die Zusammenarbeit zwischen Forschung und 
+Industrie im Bereich aufstrebender Photovoltaik-
+Technologien entwickelt, die integrierte und
+ressourceneffiziente Energielösungen ermöglichen.
+Solar TAP basiert auf der engen Kooperation
+zwischen dem Forschungszentrum Jülich (FZJ), dem 
+Helmholtz-Zentrum Berlin und dem Karlsruher 
+Institut für Technologie (KIT). Gemeinsam werden 
+Transferinstrumente strategisch weiterentwickelt. 
+Dazu gehören gemeinsame technische Grundlagen, 
+ein transparenter Bewertungsprozess für den
+Entwicklungsstand sowie standardisierte
+Zusammenarbeit. Auf dieser Basis werden ausgewählte 
+Forschungs infrastrukturen als gemeinsame
+Transferplattform für die Industrie geöffnet. Das
+Industrienetzwerk umfasst inzwischen über 50
+Unternehmen entlang der gesamten photovoltaischen 
+Wertschöpfungskette.
+Insgesamt wurden inzwischen mehr als 40
+Kooperations- und Transferprojekte initiiert. Im
+September 2025 wurde Solar TAP erfolgreich evaluiert.  
+Die sehr positive Bewertung bestätigte den
+Mehrwert des domänenspezifischen,
+zentrenübergreifenden Ansatzes für den Technologietransfer der 
+Helmholtz-Gemeinschaft. 
+Photovoltaikforschung als Erfolgsmodell für den Technologietransfer
+Die Helmholtz­Innovationsplattform Solar TAP zielt darauf, neue PV­Lösungen rasch zur 
+Marktreife zu führen. Der Fokus liegt auf gedruckten „Emerging PV“­Technologien auf Basis 
+von Perowskiten und organischen Halbleitern sowie deren Integration in Multi­
+BenefitAnwendungen wie Agrivoltaik, gebäudeintegrierte und mobile Photovoltaik.
+Bild links: Im Rahmen von Solar TAP werden an der Solarfabrik der Zukunft des Forschungszentrums Jülich mit  
+Industriepartnern Technologien für das Aufskalieren von gedruckten Solarmodulen entwickelt.  
+Bild rechts: Materialforschung an gedruckten Solarzellen: Mit dem Spincoating-Roboter erfolgt dies automatisiert.
+E R F O L G S G E S C H I C H T E
+Solar TAP
+Technology Readiness Level  
+nach Projektende: >6
+Zuwendungsempfänger: Forschungszentrum 
+Jülich, Helmholtz-Zentrum Berlin für  
+Materialien und Energie, Karlsruher Institut  
+für Technologie
+Förderndes Ministerium:  
+Bundesministerium für Forschung, Technologie 
+und Raumfahrt
+Fördermittel: 4,02 Millionen Euro pro Jahr
+Projektlaufzeit: unbefristet
+I N F O
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 59 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+5. Weitere
+Fördermaßnahmen der Bundesregierung
+mit Energiebezug
+Über das Energieforschungsprogramm hinaus setzt die
+Bundesregierung weitere Forschungsfördermaßnahmen mit Energiebezug um. 
+Diese verfolgen jedoch andere strategische Zielsetzungen und sind 
+daher in unterschiedlichen Politik feldern verankert.
+615. WEITERE FÖRDERMASSNAHMEN DER BUNDESREGIERUNG MIT ENERGIEBEZUG
+Während das Energieforschungsprogramm konsequent auf die
+Entwicklung eines resilienten, klimaneutralen und bezahlbaren Energiesystems 
+ausgerichtet ist und die gesamte Wertschöpfungskette von der
+Erzeugung über Umwandlung, Transport und Speicherung bis zur effizienten 
+Nutzung betrachtet, zielen andere Programme stärker auf industrie-, 
+klima- oder sicherheitspolitische Aspekte. Gleichwohl bestehen
+inhaltliche Schnittstellen, durch die sich die Programme gegenseitig ergänzen 
+und Impulse für Innovationen im Energiesystem setzen.
+Batterieforschung 
+Ein Beispiel hierfür ist die industriepolitisch motivierte
+Batterieforschung. Im Mittelpunkt stehen neue Materialien, innovative
+Produktionsverfahren sowie Recyclingkonzepte. Ziel ist es, die technologische 
+Souveränität und Wettbewerbsfähigkeit der deutschen und
+europäischen Industrie zu stärken. Gleichzeitig tragen die erzielten Fortschritte 
+unmittelbar zur Weiterentwicklung von Energiespeichern bei.
+Leistungsfähige, nachhaltige Batterie systeme sind eine zentrale
+Voraussetzung für die Integration erneuerbarer Energien, für die
+Sektorenkopplung sowie für neue Mobilitäts- und Industrieanwendungen. Damit 
+wirken die Ergebnisse der Batterieforschung mittelbar auch in die
+Energieforschung hinein.
+Nationale Klimaschutzinitiative (NKI) 
+Auch die Nationale Klimaschutzinitiative (NKI) des Bundesministeriums 
+für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) 
+weist enge Bezüge zur Energieforschung auf. Die NKI fördert vor allem 
+praxisorientierte Projekte zur Minderung von Treibhausgasemissionen 
+auf kommunaler Ebene sowie in Unternehmen und sozialen
+Einrichtungen. Dazu zählen Vorhaben zur energetischen Optimierung von 
+Gebäuden, Infrastrukturen und Prozessen ebenso wie innovative
+Klimaschutzlösungen mit direktem Energiebezug. Diese Projekte leisten einen 
+wichtigen Beitrag, indem sie zeigen, wie neue Technologien und 
+Konzepte im Alltag umgesetzt werden können und welche
+Rahmenbedingungen für eine erfolgreiche Anwendung erforderlich sind. So 
+entsteht eine Brücke zwischen Forschungsergebnissen und praktischer 
+Umsetzung.
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 61 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Kompetenz- und Nachwuchsentwicklung für die nukleare 
+Sicherheit (kerntechnischer Einrichtungen)
+Der Gesetzgeber hat den Ausstieg Deutschlands aus der gewerblichen 
+Nutzung der Kernspaltung zur Erzeugung von Elektrizität beschlossen 
+und der Leistungsbetrieb der Kernkraftwerke wurde im April 2023
+beendet. Kompetenz- und Nachwuchsentwicklung für die nukleare
+Sicherheit und den Strahlenschutz bleiben weiterhin in Deutschland wichtig. 
+Zum Erhalt der Sprechfähigkeit Deutschlands in internationalen
+Organisationen wie der Internationalen Atomenergie-Organisation (IAEO) 
+oder EURATOM, bei sicherheitstechnischen Fragestellungen
+ausländischer kerntechnischer Anlagen sowie der Weiterentwicklung und dem 
+Erhalt der wissenschaftlich-technischen Kompetenz für verbleibende 
+nationale Herausforderungen benötigt Deutschland trotz Ausstieg aus 
+der Kernenergie weiterhin Kompetenzen auf den genannten Gebieten 
+in Behörden, Industrie, Forschung und in der Medizin. Die
+Forschungsförderung des BMUKN umfasst anwendungsorientierte
+Grundlagenforschung zur Reaktorsicherheit, verlängerten Zwischenlagerung und 
+Behandlung hochradioaktiver Abfälle, Endlagerung sowie zu diesen 
+Gebieten übergreifenden Querschnittsthemen. Übergeordnete
+Förderziele dieser Maßnahme sind, die Sicherheit kerntechnischer Anlagen zu 
+verbessern, die wissenschaftlichen Grundlagen für die sichere
+Entsorgung radioaktiver Abfälle zu schaffen und weiterzuentwickeln sowie die 
+Kompetenzentwicklung in der nuklearen Sicherheit zu unterstützen.
+Das BMFTR fördert technikoffen die nukleare Sicherheits- und
+Strahlenforschung in den drei Fachbereichen Reaktorsicherheitsforschung, 
+Entsorgungsforschung und Strahlenforschung mit dem Ziel, den
+nationalen wissenschaftlichen Nachwuchs zu fördern und die nationale  
+Kompetenz auch unter Beobachtung internationaler Entwicklungen in 
+den Fachdisziplinen zu erhalten.
+Wissenschaftliche und
+technische Kompetenz im Bereich 
+nukleare Sicherheit und
+Strahlenschutz bleiben weiterhin in 
+Deutschland wichtig.
+Die Nationale Klimaschutzinitiative 
+fördert unter anderem energetische 
+Optimierungen zur Minderung von 
+Treibhausgasemissionen auf
+kommunaler Ebene, etwa in
+Krankenhäusern.
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 62 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+63
+Digitale Sektorenkopplung für das Energiesystem
+Im Rahmen der Fördermaßnahme „Manufacturing-X“ fördert das BMWE 
+das Projekt DataFleX. Dieses hat zum Ziel, einen sicheren,
+sektorübergreifenden Datenaustausch zu ermöglichen. Dazu bildet das Projekt eine 
+Brücke zwischen vorangegangenen Forschungsvorhaben aus dem Energie- 
+und Automobilsektor. Bisher unabhängige Datenökosysteme – wie 
+Catena-X oder energy data-X – werden im Rahmen des Projekts
+gekoppelt.
+Der sektorübergreifende Austausch von Daten ermöglicht die
+Integration dezentraler, kleinteiliger Flexibilitäten – wie zum Beispiel
+Elektrofahrzeuge, Wärmepumpen oder Heimspeicher – in das Energiesystem. 
+Verknüpfte Logiken und Marktmechanismen sollen hierzu abgeleitet 
+und entwickelt werden. Damit können diese Flexibilitäten für
+netzstabilisierende Maßnahmen nutzbar gemacht werden und einen
+unmittelbaren Beitrag zu Klimaschutz, Bezahlbarkeit und Systemsicherheit 
+leisten.
+Industrielle Gemeinschaftsforschung (IGF) 
+Schließlich adressiert auch die Industrielle Gemeinschaftsforschung 
+(IGF) mit regelmäßigen Förderaufrufen zu den „Leittechnologien der 
+Energiewende“ wichtige Fragestellungen mit Energiebezug. Diese
+vorwettbewerblichen Forschungsvorhaben orientieren sich inhaltlich am 
+Energieforschungsprogramm und ermöglichen insbesondere kleinen 
+und mittleren Unternehmen den Zugang zu aktuellen
+wissenschaftlichen Erkenntnissen. Die Ergebnisse fließen in neue Produkte,
+Verfahren und Dienstleistungen ein und stärken so die Innovationskraft des 
+Mittelstands.
+In ihrer Gesamtheit tragen diese Programme dazu bei, energiebezogene 
+Innovationen aus unterschiedlichen Perspektiven voranzubringen. Sie 
+ergänzen das Energieforschungsprogramm, indem sie
+industriepolitische, klimapolitische, sicherheitstechnische und mittelstandsorientierte 
+Ziele mit energiebezogenen Fragestellungen verbinden und so die
+Breitenwirkung von Forschung und Innovation im Energiesystem erhöhen.
+Die Industrielle
+Gemeinschaftsforschung adressiert mit
+Förderaufrufen zu den „Leittechnologien 
+der Energiewende“ wichtige 
+Fragestellungen mit
+Energiebezug.
+5. WEITERE FÖRDERMASSNAHMEN DER BUNDESREGIERUNG MIT ENERGIEBEZUG
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 63 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+6. Forschungsförderung
+der Länder
+Neben dem Bund setzen auch die Länder wichtige Impulse 
+für die Energieforschung in Deutschland. Mit regionalen 
+Schwerpunkten und praxisnaher Förderung bringen sie 
+innovative Technologien in die Anwendung und stärken 
+so heute das Energiesystem, Wertschöpfung und
+Wettbewerbsfähigkeit vor Ort.
+6. FORSCHUNGSFÖRDERUNG DER LÄNDER 65
+Der Projektträger Jülich (PtJ) führt im Auftrag des Bundesministeriums 
+für Wirtschaft und Energie jährlich Erhebungen zu den Aufwendungen 
+der Länder für die Forschung und Entwicklung innovativer
+Energietechnologien durch. 
+Im Zuge der jüngsten Abfrage für das Haushaltsjahr 2025 wurden von 
+Seiten der Länder Aufwendungen für die Energieforschung in Höhe von 
+521,5 Millionen Euro gemeldet. Hiervon entfielen 321,9 Millionen Euro 
+auf die Projektförderung und die verbleibenden 199,6 Millionen Euro 
+auf die Institutionelle Förderung. 
+Wie schon in den Vorjahren lag der länderseitige Förderschwerpunkt 
+2025 mit einer Gesamtmittelbereitstellung von 196,4 Millionen Euro im 
+übergreifenden Forschungsfeld „Wasserstoff und Brennstoffzellen“.  
+Mit einem Fördervolumen von 149,5 Millionen Euro standen hierbei  
+die Forschungsaktivitäten im Bereich der Wasserstofftechnologien im 
+länderseitigen Fokus.
+Alle technologieorientierten F&E-Maßnahmen zur Steigerung der
+Energieeffizienz in den spezifischen Verbrauchssektoren werden im Bereich 
+„Energieeffizienz/-endverbrauch“ gebündelt. Dieser wurde im
+Erhebungsjahr von Seiten der Länder mit Gesamtaufwendungen in Höhe 
+von 136,9 Millionen Euro gefördert. Die größte Mittelbereitstellung 
+innerhalb dieser Kategorie erfuhr im Jahr 2025 das Forschungsgebiet 
+„Energieeffizienz in Industrie, Handel und Gewerbe“ mit 65,8
+Millionen Euro.
+521,5
+Millionen Euro haben die Länder 
+2025 für die Energieforschung 
+ausgegeben.
+Abbildung 5: Aufwendungen der Länder für die Energieforschung 2025 nach Sektoren 
+in Mio. Euro
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 65 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+66 6. FORSCHUNGSFÖRDERUNG DER LÄNDER
+Der Förderbereich der „Erneuerbaren Energieerzeugung inkl. Fusion“ 
+vereint alle Forschungsanstrengungen zur technologischen
+Fortentwicklung regenerativer Energien sowie auch die in nur wenigen
+Ländern verfolgte Fusionsforschung. Der Förderbereich wurde von Seiten 
+der Länder 2025 mit insgesamt 108,8 Millionen Euro unterstützt. Die 
+Förderschwerpunkte bildeten dabei Forschungsaktivitäten im Bereich 
+der Solarthermie und Photovoltaik (29,3 Millionen Euro) sowie der
+Bioenergieforschung (19,6 Millionen Euro). 
+Das Forschungscluster „Sonstige Energie-/Speichertechnologien und 
+übergreifende Forschung“ umfasste länderseitige Gesamtaufwendungen 
+in Höhe von 79,4 Millionen Euro. Mit 39,4 Millionen Euro ist der größte 
+Förderbeitrag in Energiespeichertechnologien geflossen.
+Insgesamt tragen die Länder mit finanziellen Gesamtaufwendungen 
+von 521,5 Millionen Euro wesentlich zur Transformation des deutschen 
+Energiesystems bei. Die Fördergelder fließen in die Entwicklung
+innovativer Lösungen. Damit unterstützen die Länder den
+Wirtschaftsstandort Deutschland und bilden eine tragende Säule im gesamtstaatlichen 
+Energiewendeprozess.
+Der ausführliche Bericht „Förderung der Energieforschung durch die 
+Bundesländer im Jahre 2025“ kann neben den weiteren bislang
+veröffentlichten Länderberichten über folgende Website abgerufen werden:
+ www.energieforschung.de
+46,98
+149,47
+30,87
+16,43
+65,77
+39,42
+16,88
+19,60
+12,08
+2,75
+9,83
+25,23
+25,23
+23,78
+16,29
+3,63
+29,22
+Brennstoffzellen
+Energieeffizienz im Verkehr (inkl. Elektromobilität)
+Energieeffizienz in Gebäuden und Quartieren
+Energieeffizienz in Industrie, Handel und Gewerbe
+Energiespeichertechnologien
+Energiesystemanalyse/Modellierung
+Erneuerbare Energien – Bioenergie
+Erneuerbare Energien – Geothermie
+Erneuerbare Energien – Meeresenergie
+Wasserstofftechnologien
+Thermische Kraftwerke/CO
+2
+-Technologien
+Stromnetze (Elektrizitätsübertragung und -verteilung)
+Sonstige erneuerbare Energiequellen inklusive Fusion
+Sonstige Energieeffizienzmaßnahmen
+Erneuerbare Energien – Windenergie
+Erneuerbare Energien – Wasserkraft
+Erneuerbare Energien – Solarthermie und PV
+Abbildung 6: Aufwendungen der Länder für die Energieforschung nach Förderthemen 2025 
+in Mio. Euro
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 66 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+7. Europäische und
+internationale
+Zusammenarbeit
+Die Bundesregierung engagiert sich in der europäischen 
+und internationalen Zusammenarbeit, um die
+Energieforschung voranzubringen. Gemeinsam mit Partnerländern 
+und Organisationen stärkt sie gezielt Forschung und 
+Innovation von Energietechnologien, um damit globale 
+Klima- und Energieziele wirksam zu unterstützen.
+68
+Europäische Union
+Die europäische Zusammenarbeit ist ein zentraler Pfeiler der deutschen 
+Energieforschungsstrategie. Im Rahmen des EU-
+Forschungsrahmenprogramms Horizont Europa trägt Deutschland aktiv zur Gestaltung von 
+Förderprioritäten, Maßnahmen und Partnerschaften bei und stärkt 
+zugleich die internationale Vernetzung von Wissenschaft, Wirtschaft 
+und Politik.
+Im Themencluster 5 „Klima, Energie und Mobilität“ von Horizont 
+Europa wurden im Jahr 2025 wichtige programmatische Weichen 
+gestellt. Im Mai 2025 wurde das Arbeitsprogramm für 2025
+verabschiedet und veröffentlicht. Parallel dazu arbeitete der Programmausschuss 
+intensiv an der Ausgestaltung des Arbeitsprogramms 2026–2027, das im 
+Dezember 2025 beschlossen wurde. Derzeit laufen die Gespräche zur 
+Aktualisierung des Arbeitsprogramms 2026–2027, um auf neue
+technologische, wirtschaftliche und politische Entwicklungen flexibel
+reagieren zu können. Darüber hinaus beteiligt sich Deutschland aktiv an den 
+Verhandlungen zum nächsten mehrjährigen Finanzrahmen der
+Europäischen Union. In diesem Kontext werden zentrale Fragen zur
+zukünftigen Ausgestaltung des EU-Forschungsrahmenprogramms sowie eines 
+europäischen Wettbewerbsfonds ab dem Jahr 2028 diskutiert.
+Clean Energy Transition Partnership 
+Ein bedeutendes Instrument der europäischen Zusammenarbeit ist die 
+Clean Energy Transition Partnership (CETPartnership). Sie bündelt
+nationale und europäische Fördermittel und ermöglicht transnationale
+Forschungs- und Innovationsprojekte. Die Partnerschaft verzeichnet eine 
+steigende Nachfrage: Die Anzahl der eingereichten Projektskizzen (Pre-
+Proposals) ist über die vergangenen Ausschreibungsrunden hinweg
+kontinuierlich gewachsen. Bis einschließlich des Joint Calls 2024 entsprach 
+die Entwicklung in Deutschland diesem europäischen Trend. Seit dem 
+Joint Call 2024 ist die Zahl der Anträge mit deutscher Förderbeteiligung 
+jedoch leicht rückläufig. Die Themen der Förderaufrufe sind dabei in 
+circa 10–12 Call-Module unterteilt, die auf sieben Übergangsinitiativen 
+(TRIs) basieren, darunter saubere Energieerzeugung, Speicherung, 
+Wärme-/Kältesysteme, regionale/industrielle Energiesysteme und CO2-
+Verringerung. Bei den Projekten zeigt sich eine hohe Hebelwirkung der 
+europäischen Kooperation: Mit rund 12 Millionen Euro eingesetzten 
+Fördermitteln vom BMWE wurden Projekte mit einem Gesamtvolumen 
+von etwa 31 Millionen Euro ermöglicht. 
+7. EUROPÄISCHE UND INTERNATIONALE ZUSAMMENARBEIT
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 68 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Driving Urban Transitions 
+Auch die Driving Urban Transitions (DUT) Partnership leistet einen 
+wichtigen Beitrag zur Transformation urbaner Energiesysteme. Aus den 
+Joint Calls der Jahre 2022 bis 2024 werden insgesamt sechs europäische 
+Verbünde mit neun deutschen Partnern und einem Fördervolumen von 
+rund 1,8 Millionen Euro unterstützt. Die ersten dieser Projekte werden 
+im Jahr 2026 abgeschlossen. Im Joint Call 2025 wurden im
+Themenbereich „Positive Energy Districts“ insgesamt 54 Projektskizzen
+eingereicht, darunter 18 mit deutscher Beteiligung. Die Begutachtung läuft 
+derzeit noch. Für den Joint Call 2026 befindet sich die thematische
+Ausgestaltung aktuell im Scoping-Prozess, die Veröffentlichung der
+Ausschreibung ist für August 2026 vorgesehen.
+Ein besonderer Schwerpunkt der DUT Partnership liegt auf der
+Verwertung und Anwendung von Forschungsergebnissen. Deutschland
+übernimmt hierbei eine aktive Rolle. Im Rahmen des Arbeitspakets
+„Valorisation“ entwickelt der Projektträger Jülich im Auftrag des Governing 
+Boards der DUT neue Formate zur besseren Überführung von
+Forschungsergebnissen in die Praxis. Ziel ist es, den Übergang von Pilot- 
+und Demonstrationsprojekten hin zu einer breiten Umsetzung zu 
+beschleunigen. Im Jahr 2025 wurden hierzu unter anderem die Formate 
+„UrbanChallenge“ und „Urban Arena – Seasonal Heat Storage“ initiiert. 
+Sie vernetzen Wissenschaft und Praxis, ermöglichen den Zugang zu
+realen Anwendungsfällen und liefern wertvolle Impulse für die
+Weiterentwicklung der Forschungsförderung, insbesondere im Hinblick auf 
+Transfer und Wirkung.
+6
+europäische Verbünde mit neun 
+deutschen Partnern werden aus 
+den Joint Calls 2022 – 2024 der 
+DUT-Partnership mit rund  
+1,8 Millionen Euro unterstützt.
+Die internationale Zusammenarbeit in der Energieforschung bündelt Wissen, Infrastruktur und 
+Kompetenzen über Ländergrenzen hinweg und beschleunigt so die Entwicklung innovativer 
+Energietechnologien.
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 69 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+70 7. EUROPÄISCHE UND INTERNATIONALE ZUSAMMENARBEIT
+Deutsche Beteiligung an der europäischen Energieforschung
+Die starke Rolle Deutschlands in der europäischen Energieforschung 
+zeigt sich auch in der Beteiligung an Projekten: Bei den Förderaufrufen 
+des Jahres 2024 sind 109 deutsche Partner an 82 von insgesamt 117 
+geförderten Projekten beteiligt. Dabei haben sie ein Förderbudget von 
+rund 83 Millionen Euro eingeworben. Lediglich Projektbeteiligte aus 
+Spanien haben mit rund 96 Millionen Euro mehr Fördergelder bewilligt 
+bekommen. Hinter Deutschland folgen Frankreich (58 Mio. Euro), Italien 
+(46 Mio. Euro) und Belgien (39 Mio. Euro). Diese breite Beteiligung 
+unterstreicht die hohe Leistungsfähigkeit der deutschen
+Forschungslandschaft und ihre enge Einbindung in europäische
+Innovationsnetzwerke.
+Insgesamt verdeutlicht die Entwicklung auf europäischer Ebene die 
+wachsende Bedeutung koordinierter Forschungs- und
+Innovationsaktivitäten für die Energiewende. Durch die enge Zusammenarbeit
+innerhalb der Europäischen Union trägt Deutschland dazu bei, Synergien zu 
+nutzen, Investitionen zu bündeln und die Transformation hin zu einem 
+nachhaltigen, sicheren und wettbewerbsfähigen Energiesystem
+voranzutreiben.
+Internationale Energieagentur (IEA) 
+Die Internationale Energieagentur (IEA) ist eine eigenständige
+Organisation innerhalb der OECD. Sie fördert die globale Zusammenarbeit in 
+energiepolitischen, -technischen und -wirtschaftlichen Fragen. Die IEA 
+hat 32 Mitgliedsstaaten, darunter Deutschland, 13 assoziierte
+Partnerländer und vier Beitrittskandidaten. Damit deckt die Organisation mehr 
+als 80 Prozent der weltweiten Energienachfrage ab. Das
+Bundesministerium für Wirtschaft und Energie vertritt dabei federführend die
+Bundesregierung. 
+Alle wesentlichen Forschungs- und Entwicklungsaktivitäten im Bereich 
+der Energietechnologien werden über das Committee on Energy 
+Research and Technology (CERT) der IEA koordiniert. Das CERT
+übernimmt zudem strategische Aufgaben. Über Technology Collaboration 
+Programmes (TCPs) erfolgt die Umsetzung gemeinsamer Ziele in der 
+Energieforschungspolitik. Diese Programme bringen Regierungen, 
+Industrie, Forschungseinrichtungen und weitere Fachleute aus vielen 
+Ländern zusammen. Sie realisieren gemeinsame Forschungs-,
+Entwicklungs- und Demonstrationsprojekte zu technischen Lösungen für die 
+globale Energiepolitik. Im April 2025 haben die TCP ihren jährlichen 
+Innovationsreport veröffentlicht. Deutschland ist an 24 der insgesamt 
+37 laufenden TCPs beteiligt. 
+MEHR ZUR  
+EU-FÖRDERUNG 
+24
+Deutschland ist an 24 der 
+insgesamt 37 laufenden  
+Technology Collaboration  
+Programmes (TCPs) beteiligt.
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 70 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+7. EUROPÄISCHE UND INTERNATIONALE ZUSAMMENARBEIT 71
+Bi- und multinationale Fördermaßnahmen
+Die Bundesregierung engagiert sich in der Energieforschung auch im 
+Rahmen bi- und multilateraler Kooperationen mit Partnerländern.
+Förderinitiative „Electrochemical materials and processes for green 
+hydrogen and green chemistry“ (ECCM)
+Ein Beispiel ist die Zusammenarbeit zwischen Deutschland und den 
+Niederlanden im Bereich Wasserstoffinfrastruktur und Markthochlauf. 
+Beide Länder wollen die besonders günstigen Voraussetzungen für ein 
+grenzüberschreitendes Wasserstoffökosystem gezielt nutzen. Dazu  
+zählen vorhandene Pipeline- und Hafenstrukturen, geeignete geologische 
+Formationen zur Wasserstoffspeicherung sowie die hohe industrielle 
+Nachfrage nach Wasserstoff.
+Die Fördermaßnahme zielt darauf ab, durch deutsch-niederländische 
+Kooperationsprojekte innovative und praxisnahe Technologien für  
+grünen Wasserstoff und grüne Chemie zu entwickeln. Die Schwerpunkte 
+umfassen die Bereiche Forschung zur Elektrolyse, Speicherung von  
+Wasserstoff, Power-to-X-Technologien, Elektrosynthese, Materialien und 
+Katalyse, Entwicklung und Herstellungsverfahren für Elektrolysesyste me 
+sowie Systemdesign und -integration. Damit soll die technologische 
+Entwicklung hin zur Klimaneutralität beschleunigt und die
+Zusammenarbeit entlang der gesamten Innovationskette – von Forschung bis 
+Anwendung – gestärkt werden. Aus der Förderinitiative sind sechs
+Verbundprojekte hervorgegangen, zwei gefördert durch das BMWE, vier 
+durch das BMFTR. An jedem Verbund sind deutsche und niederländische 
+Partner beteiligt. Sie bündeln Kompetenzen beider Länder, um
+hochinnovative und praxisrelevante Verfahren zu entwickeln.
+6
+Verbundprojekte sind aus der 
+ECCM-Förderinitiative
+hervorgegangen, zwei gefördert durch 
+das BMWE, vier durch das 
+BMFTR. An jedem Verbund sind 
+deutsche und niederländische 
+Partner beteiligt.
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 71 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Internationale Kooperationen des BMFTR
+Das BMFTR fördert durch internationale und europäische
+Kooperationen die Energieforschung: Gemeinsame Projekte und Wissenstransfer 
+treiben Innovationen voran und sichern Deutschlands Beitrag zur 
+nachhaltigen Energiezukunft, und das über Grenzen hinweg.
+Neben nationalen Programmen setzt das BMFTR auch auf
+internationale Initiativen. Mit HyGATE wird gemeinsam mit Australien die
+Entwicklung und Erprobung von Wasserstofftechnologien vorangetrieben. 
+Das BMFTR unterstützt über die afrikanischen Klimakompetenzzentren 
+WASCAL und SASSCAL die akademische Ausbildung sowie die
+Forschung im Bereich Erneuerbare Energien, Energieeffizienz und grünen 
+Wasserstoffs in Westafrika und im südlichen Afrika. Besonders zu
+nennen sind auch das deutsch-japanische Kooperationsprojekt F3-Pylot zur 
+fluorfreien Elektrolyse und die deutsch-taiwanische
+Forschungskooperation zu grünem Wasserstoff. Zusätzlich engagiert sich das BMFTR in 
+deutsch-europäischen bilateralen Initiativen, die den Austausch mit 
+Partnerländern vertiefen und gemeinsame Forschungsprojekte zur 
+Energiewende ermöglichen, beispielsweise die Fördermaßnahme zu 
+internationalen Wasserstoffkooperationen gemeinsam mit dem BMWE. 
+Zu nennen ist auch die deutsch-französische Forschungskooperation. 
+Dabei werden unter anderem Ansätze für eine grenzüberschreitende 
+Wasserstoffwirtschaft erarbeitet. Daneben gibt es auch eine
+Zusammenarbeit mit Griechenland, Italien und den Niederlanden. Diese
+Forschungskooperationen fördern nicht nur die technologische
+Entwicklung, sondern auch die europäische Zusammenarbeit im Energiesektor. 
+Im März 2025 fand die Auftaktveranstaltung des Deutsch-Italienischen 
+Förderaufrufs HyBridge in Rom statt. Im Beisein des BMFTR und der 
+beteiligten italienischen Ministerien bot die Veranstaltung den drei 
+beteiligten Verbundprojekten die Möglichkeit, Wissen zu teilen und sich 
+über Wirkungen auszutauschen.
+72 7. EUROPÄISCHE UND INTERNATIONALE ZUSAMMENARBEIT
+Die Initiative HyGATE fördert den 
+Aufbau deutsch-australischer  
+Lieferketten für grünen Wasserstoff 
+mit praxisnahen Pilot-, Versuchs-, 
+Demonstrations- und
+Forschungsprojekten entlang der
+Wasserstoffversorgungskette.
+DEUTSCHLAND/ 
+AUSTRALIEN
+DEUTSCHLAND/ 
+AFRIKANISCHE STAATEN
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 72 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+8. Übersichten
+– 73 –
+8.1 Fördermittel in der Energieforschungsförderung des Bundes
+Thema Mittelabfluss in Mio. €
+2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Projektförderung BMWE 367,19 466,80 445,71 508,93 526,58 578,40 572,76 579,85 609,20 591,16
+Forschungsmission Energiesystem 29,10 38,27 41,90 49,25 59,31 73,14 81,79 88,59 96,71 98,95
+Forschungsmission Wärme 97,35 115,68 120,02 131,34 139,32 155,94 160,20 150,25 172,60 173,51
+Forschungsmission Strom 192,39 248,70 223,97 259,38 255,19 266,57 243,72 241,55 229,94 210,72
+Forschungsmission Wasserstoff 42,20 55,32 47,92 57,99 58,55 70,72 75,03 86,96 101,75 102,53
+Sonstige 6,16 8,83 11,90 10,96 14,22 12,04 12,02 12,50 8,20 5,46
+Projektförderung BMFTR 111,52 134,58 129,86 128,28 151,76 288,48 467,83 427,61 366,15 381,60
+Grundlagenforschung (nicht-nuklear) 95,31 119,79 117,94 116,19 141,77 274,84 453,59 412,74 339,73 327,34
+Fusionsforschung 3,12 2,23 9,68 41,21
+Nukleare Sicherheitsforschung  
+(Nachwuchsförderung)
+13,09 12,56 11,93 12,09 9,99 13,64 14,24 14,86 16,74 13,05
+Sonstige Projektförderung 1) 60,69 60,30 59,68 66,46 72,25 78,29 71,39 70,37
+Institutionelle Förderung 
+(Helmholtz Energy)
+362,81 379,63 393,75 410,29 415,78 422,59 430,70 438,98 494,63 502,40
+Begleitende Maßnahmen 35,03 28,20 25,76 34,47 50,16 51,38 54,53 58,50 60,44 64,54
+Gesamt 937,24 1.069,50 1.054,75 1.148,42 1.216,53 1.419,14 1.597,21 1.575,30 1.530,42 1.539,70
+Tabelle 1 | Übersicht über die Energieforschungsförderung des Bundes
+1) Ab 2024 sind die Biomasseförderung des BMLEH und die nukleare Sicherheitsforschung des BMUKN nicht mehr Teil der Energieforschungsförderung.
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 74 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Tabelle 2 | Mittelabfluss der Projektförderung der Forschungsmission Energiesystem des BMWE
+Förderthema Mittelabfluss in Mio. € Anzahl Projekte Fördersumme  
+in Mio. €
+2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 laufend 
+ in 2025
+neu 
+bewilligt 
+in 2025
+neu bewilligt  
+in 2025
+Industrie und Gewerbe1) 14,26 19,09 21,76 26,97 27,71 32,41 35,05 36,39 35,58 37,78 338 74 22,89
+Chemische
+Verfahrenstechnik (Energieeffizienz)
+0,35 0,72 0,58 0,57 0,52 2,18 3,80 5,32 6,91 6,10 57 3 0,53
+Digitalisierung in der  
+Industrie (Energieeffizienz)
+0,70 1,36 1,67 1,61 0,66 2,31 3,69 4,27 4,79 3,16 33 13 5,09
+Fertigungstechnik 9,31 12,59 15,58 19,77 20,53 19,08 17,06 17,30 13,91 9,90 152 34 8,75
+Hochtemperatursupraleitung und Elektrotechnik
+0,62 1,18 1,15 0,90 1,54 4,39 5,70 6,73 6,63 14,45 43 3 1,29
+Industriemotoren - - - - 0,12 0,33 0,35 0,48 0,12 0,11 - - -
+Sonstige (Energieeffizienz) 3,28 3,23 2,78 4,11 4,35 4,12 4,44 2,30 3,22 4,05 53 21 7,23
+Energiesystemanalyse,
+sektorübergreifende
+Systemmodellierung und -planung
+11,18 15,01 15,94 17,16 18,97 19,74 19,09 18,72 20,73 18,83 200 47 15,15
+Systemintegration und  
+digitale Lösungen
+- 2,68 5,10 8,68 10,73 13,13 14,33 127 26 8,87
+Energiewende und  
+Gesellschaft
+0,00 1,23 4,12 6,23 8,31 10,02 10,59 167 38 11,15
+Ressourceneffizienz und  
+zirkuläre Wirtschaft
+- - 0,07 2,29 4,88 6,69 7,28 150 32 7,93
+Energetische Nutzung biogener 
+Rest- und Abfallstoffe 1)
+3,66 4,17 4,20 5,12 8,72 11,70 10,44 9,56 10,55 10,14 175 29 8,78
+Gesamt 29,10 38,27 41,90 49,25 59,31 73,14 81,79 88,59 96,71 98,95 1.157 246 74,77
+1)  Ab dem Berichtsjahr 2025 hat das Bundesministerium für Wirtschaft und Energie eine Neuzuordnung einzelner Förderthemen vorgenommen. So sind mit dem Berichtsjahr 2025 
+die Förderthemen Energetische Nutzung biogener Rest- und Abfallstoffe sowie Industrie und Gewerbe (Energieeffizienz) der Forschungsmission Energiesystem zugeordnet. 
+Grund für die geänderte Zuordnung sind die Erkenntnisse aus dem Programm-Monitoring zur Abdeckung der Forschungsmissionen und ihrer Programmziele.
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 75 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Förderthema  Mittelabfluss in Mio. € Anzahl Projekte
+Fördersumme  
+in Mio. €
+2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 laufend  
+in 2025
+neu  
+bewilligt  
+in 2025
+neu  
+bewilligt  
+in 2025
+Geothermie 12,89 18,23 15,56 13,58 15,03 24,66 25,98 15,71 23,84 30,04 174 32 36,42
+Wärmepumpen und 
+ Kältetechnik
+5,17 5,11 4,97 5,45 5,69 9,04 8,35 11,79 16,49 19,36 182 58 21,30
+Wärmepumpen 5,17 5,11 4,97 5,45 5,61 8,34 7,09 9,94 14,15 16,43 150 51 18,86
+Kältetechnik - - - - 0,08 0,70 1,26 1,85 2,34 2,92 32 7 2,43
+Solarthermie 8,39 7,74 7,16 6,87 8,69 9,98 10,92 11,11 12,13 11,02 98 15 2,88
+Solarthermische Kraftwerke 8,39 7,74 7,16 6,87 8,69 9,98 10,84 10,66 10,81 8,81 78 7 1,63
+Solarthermische
+Wärmeanwendungen
+- - - - - - 0,08 0,45 1,31 2,21 20 8 1,26
+Wärme- und Kältenetze, 
+Wärme- und Kältespeicher
+11,71 9,95 9,08 7,79 8,81 12,92 18,72 19,95 19,01 19,30 223 51 17,57
+Wärme- und Kältenetze 3,64 3,67 3,51 3,06 3,80 7,94 13,90 14,18 11,14 12,80 151 29 10,02
+Wärme- und Kältespeicher 8,06 6,27 5,57 4,73 5,00 4,97 4,83 5,77 7,87 6,50 72 22 7,55
+Gebäude 32,00 36,29 39,33 49,41 47,25 45,13 42,11 35,14 33,27 26,37 336 68 21,52
+Neue Materialien und 
+ Komponenten
+- - - 0,51 2,06 3,32 3,49 3,34 2,75 2,11 32 10 2,60
+Gebäudetechnik - - - 0,04 0,65 1,65 3,16 3,73 5,53 3,37 39 1 0,08
+Digitale Werkzeuge - - - 0,00 0,92 3,09 4,68 5,89 6,09 6,30 72 22 7,85
+Gebäudehüllle - - - - 0,31 1,79 2,62 3,54 3,71 4,62 46 4 1,56
+Energieoptimierte Gebäude – 
+Erneuerbare Energien
+2,79 2,82 2,77 3,06 3,28 2,90 1,68 1,53 1,04 1,43 19 9 2,91
+Regelungstechnik,
+Betriebsoptimierung und Monitoring
+- - - 1,05 3,27 4,41 5,68 6,05 6,04 5,54 91 22 6,51
+Energieoptimierte und  
+klimaneutrale Gebäude
+2,38 3,97 3,54 2,86 1,08 0,15 0,09 0,03 - - - - -
+Sonstige 26,82 29,50 33,02 41,89 35,66 27,80 20,69 11,03 8,10 2,98 37 - -
+Quartiere 12,94 17,57 22,52 25,35 33,21 36,30 35,04 37,98 40,69 37,97 326 69 25,77
+Energieeffizienz im  
+Quartier – Konzepte und 
+Anwendungen
+11,82 16,15 20,41 22,99 29,17 29,91 26,26 28,58 29,58 25,40 279 68 25,69
+Energieeffizienz im  
+Quartier – Großskalige 
+Demonstration
+0,57 0,87 0,45 0,34 1,69 4,37 7,49 8,74 10,18 12,33 45 1 0,08
+Sonstige 0,55 0,56 1,66 2,02 2,35 2,02 1,28 0,67 0,93 0,24 2 - -
+Industrie und Gewerbe 14,26 20,78 21,40 22,89 20,64 17,92 19,09 18,56 27,16 29,45 276 61 28,31
+Abwärmenutzung 0,81 0,75 0,35 - 0,03 0,20 0,82 1,54 1,80 1,62 19 3 2,55
+Chemische Verfahrenstechnik 
+(Prozesswärme)
+4,85 6,24 6,15 6,01 4,87 3,97 3,82 2,38 2,43 1,59 20 5 3,22
+Digitalisierung in der Industrie 
+(Prozesswärme)
+0,37 0,22 0,02 0,25 0,46 0,52 0,72 0,49 1,14 1,81 29 14 4,87
+Eisen-, Stahl und  
+Nichteisenmetalle
+0,86 1,09 2,07 3,84 3,80 3,05 3,70 3,51 6,99 8,43 60 16 8,59
+Fertigungstechnik  
+(Prozesswärme)
+2,27 2,99 3,16 2,60 2,09 1,93 1,19 0,68 0,83 0,45 7 - -
+Thermoprozesstechnik 5,02 9,40 9,65 10,14 9,34 7,81 8,18 9,05 11,68 11,93 118 22 7,04
+Sonstige (Prozesswärme) 0,09 0,08 0,01 0,05 0,06 0,44 0,66 0,91 2,29 3,62 23 1 2,06
+Gesamt 97,35 115,68 120,02 131,34 139,32 155,94 160,20 150,25 172,60 173,51 1.615 354 153,78
+Tabelle 3 | Mittelabfluss der Projektförderung der Forschungsmission Wärme des BMWE
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 76 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Förderthema  Mittelabfluss in Mio. € Anzahl Projekte
+Fördersumme  
+in Mio. €
+2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 laufend  
+in 2025
+neu  
+bewilligt  
+in 2025
+neu  
+bewilligt  
+in 2025
+Windenergie 49,68 75,11 59,73 72,95 76,06 82,87 89,19 74,97 66,23 55,47 402 80 47,64
+Anlagenentwicklung 17,87 39,50 26,03 32,54 41,38 38,54 36,16 34,79 28,76 25,03 177 35 19,86
+Logistik, Installation,  
+Instandhaltung und Betrieb
+7,38 11,00 8,34 8,30 7,83 9,96 10,97 12,14 11,43 9,04 78 13 4,73
+Umweltaspekte der  
+Windenergie
+2,25 2,48 2,42 3,34 2,83 3,08 2,13 2,25 1,47 1,43 16 2 1,70
+Windenergie Onshore 4,12 3,42 3,10 2,15 0,44 4,25 7,68 4,65 4,41 4,10 21 - -
+Windenergie Offshore 10,45 11,56 12,03 15,88 17,61 18,67 25,31 12,94 11,30 7,94 56 22 17,71
+Windphysik und Meteorologie 3,03 3,06 2,33 2,96 3,70 6,18 5,45 6,84 7,39 6,42 34 3 1,19
+Sonstige 4,58 4,08 5,49 7,79 2,26 2,18 1,48 1,36 1,46 1,51 20 5 2,46
+Photovoltaik 53,61 78,39 76,91 95,99 83,92 84,01 68,80 72,37 60,19 58,20 418 107 53,48
+Fertigungsverfahren für  
+PV-Module
+7,34 17,23 16,91 16,08 16,47 13,22 11,48 8,62 9,05 8,57 48 11 4,89
+Nachhaltigkeit und Akzeptanz 0,99 1,14 0,82 1,01 1,16 1,72 1,05 1,13 1,13 2,40 23 5 0,86
+Produktionstechnologien  
+für Solarzellen
+24,04 33,13 33,48 35,18 32,75 30,42 23,02 15,21 16,59 14,24 98 26 18,14
+PV-Technologien 7,37 8,32 12,97 19,35 19,99 22,81 16,95 14,09 14,92 15,80 113 35 15,54
+Qualitätssicherung 3,79 4,60 3,65 3,97 3,83 5,24 7,25 9,73 10,10 6,09 69 8 3,03
+Systemfähigkeit 4,57 5,41 6,85 5,99 5,50 4,00 4,79 4,66 4,90 4,73 47 14 7,60
+Sonstige 5,51 8,56 2,24 14,41 4,23 6,60 4,27 18,93 3,51 6,38 20 8 3,42
+Stromnetze und  
+Stromspeicher
+87,09 93,05 85,93 88,73 92,95 98,76 82,17 75,09 75,68 68,56 667 144 56,49
+Batterietechnik für mobile 
+Anwendung
+13,87 14,28 15,63 17,06 18,24 18,07 14,27 12,44 10,93 8,29 58 2 0,38
+Elektrochemische Speicher 5,22 8,54 8,99 8,68 11,19 15,64 11,32 8,78 8,23 6,88 50 30 11,22
+Flexibilität im Stromnetz 6,60 6,30 7,13 7,14 10,71 13,88 11,90 9,06 7,29 7,17 96 37 11,81
+Netzplanung und
+Betriebsführung
+13,08 16,87 14,64 12,74 10,82 9,25 8,88 9,30 9,94 10,31 100 10 3,04
+Sonstige Stromspeicher 3,18 4,61 4,68 5,64 6,53 4,75 3,24 3,26 3,27 1,81 20 5 1,66
+Technik für das Stromnetz 17,52 21,07 17,71 22,50 19,36 20,83 17,50 14,81 16,30 12,29 143 36 16,44
+Versorgungssicherheit 19,12 15,79 13,62 11,62 13,59 12,81 11,22 11,87 12,15 12,84 120 24 11,95
+Sonstige 8,50 5,59 3,54 3,34 2,52 3,53 3,83 5,57 7,57 8,97 80 - -
+Wasserkraft und  
+Meeresenergie
+2,01 2,15 1,40 1,71 2,26 0,93 0,31 0,25 0,67 0,63 4 - -
+Flankierende Forschung  
+IPCEI Batteriezellfertigung
+- 3,24 18,87 27,17 27,86 160 4 3,27
+Gesamt 192,39 248,70 223,97 259,38 255,19 266,57 243,72 241,55 229,94 210,72 1.651 335 160,89
+Tabelle 4 | Mittelabfluss der Projektförderung der Forschungsmission Strom des BMWE
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 77 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Förderthema  Mittelabfluss in Mio. € Anzahl Projekte
+Fördersumme  
+in Mio. €
+2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 laufend  
+in 2025
+neu  
+bewilligt  
+in 2025
+neu  
+bewilligt  
+in 2025
+Produktion von Wasserstoff und 
+Derivaten; Brennstoffzellen;  
+Wiederverstromung
+39,69 51,19 43,03 52,26 54,45 66,22 70,29 78,31 92,18 92,25 618 133 77,99
+Brennstoffzellen 11,76 16,69 14,68 14,39 16,30 16,31 18,96 20,23 24,45 21,20 179 32 19,07
+Erzeugung von Wasserstoffderivaten 0,19 1,12 1,92 14,84 17,54 17,86 10,39 7,15 6,17 3,97 21 11 13,22
+Systemische Ansätze 0,99 0,32 0,33 0,46 0,43 2,14 4,31 5,44 3,98 4,47 45 6 2,86
+Wasserstofferzeugung 5,70 6,66 4,21 1,13 0,97 7,40 15,69 20,78 32,39 39,24 180 43 25,27
+Wiederverstromung mit Turbinen  
+und Motoren
+19,65 24,33 20,33 19,74 18,49 21,72 20,40 24,29 25,18 23,37 193 41 17,56
+Sonstige 1,40 2,07 1,56 1,69 0,71 0,79 0,53 0,42 - - - - -
+Wasserstoffspeicherung und  
+-transport
+2,50 4,14 4,89 5,73 4,10 4,50 4,74 8,66 9,57 10,28 89 26 11,91
+Gesamt 42,20 55,32 47,92 57,99 58,55 70,72 75,03 86,96 101,75 102,53 707 159 89,89
+Tabelle 5 | Mittelabfluss der Projektförderung der Forschungsmission Wasserstoff des BMWE
+Förderthema  Mittelabfluss in Mio. € Anzahl Projekte
+Fördersumme  
+in Mio. €
+2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 laufend  
+in 2025
+neu  
+bewilligt  
+in 2025
+neu  
+bewilligt  
+in 2025
+CO2-Technologien1) 6,11 6,31 7,68 5,49 9,31 6,33 7,38 8,60 8,20 5,46 66 - -
+Industrielle Gemeinschaftsforschung 
+(IGF)2)
+0,05 2,52 4,22 5,47 4,90 5,71 4,64 3,89
+Gesamt 6,16 8,83 11,90 10,96 14,22 12,04 12,02 12,50 8,20 5,46 66 - -
+Tabelle 6 |  Abgeschlossene Förderbereiche im Energieforschungsprogramm des BMWE
+1)  Ab 2024 nur noch auslaufende Projekte im Energieforschungsprogramm; Weiterführung des Förderthemas im Förderprogramm „Dekarbonisierung der Industrie“, 
+siehe Tabelle 10
+2)  Ab 2024 nicht mehr Teil des Energieforschungsprogramms. Bis 2023 Mittel aus 0903 / 68301 und 0901 / 68601 des BMWE; Weiterführung der Förderung der IGF 
+siehe Tabelle 10
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 78 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Förderthema  Mittelabfluss in Mio. € Anzahl Projekte
+Fördersumme  
+in Mio. €
+2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 laufend  
+in 2025
+neu  
+bewilligt  
+in 2025
+neu  
+bewilligt  
+in 2025
+Grundlagenforschung Energie 95,31 119,79 117,94 116,19 141,77 274,84 453,59 412,74 339,73 327,34 998 59 79,31
+Bioenergie 6,17 3,13 0,22 5,83 4,63 13,13 2,37 1,07 0,57 1,04 4 1 0,43
+Synthetische Kraftstoffe - - - 3,64 7,44 6,49 4,61 0,91 0,06 - - - -
+Energiewende und Gesellschaft 2,64 10,02 9,93 10,14 5,14 8,16 9,72 9,95 7,79 10,66 27 - -
+Energieoptimierte und klimaneutrale 
+Gebäude
+- 0,20 0,27 0,43 - - - - - - - - -
+Energieoptimierte und klimaneutrale 
+Quartiere
+3,88 2,73 7,50 10,22 13,63 9,92 15,53 7,49 12,72 3,62 30 1 0,19
+Versorgung mit Wärme und Kälte - - - - - 1,17 3,09 3,08 2,96 2,76 3 - -
+Flexible Industrieprozesse - 10,70 12,54 10,80 10,43 14,05 8,37 6,25 9,47 8,51 65 - -
+Materialforschung 27,87 26,68 18,21 10,30 2,90 3,96 2,05 0,44 1,40 0,08 1 - -
+Photovoltaik 6,17 3,51 1,33 2,69 2,27 4,39 1,34 1,07 1,63 3,77 1 - -
+Grundlagenforschung Sektorkopplung 
+und Wasserstoff
+4,63 15,53 17,36 17,78 35,99 80,12 99,54 105,44 123,16 116,37 306 32 60,72
+Strategische Leitprojekte: Speicher und 
+Transport
+10,71 28,72 31,34 28,94 26,56 104 - -
+Strategische Leitprojekte:
+Wasserstofferzeugung
+37,93 141,43 145,38 92,77 99,05 238 - -
+Sonstige Grundlagenforschung 9,96 11,64 15,22 10,42 6,64 15,70 11,57 23,15 5,68 6,91 10 4 5,50
+Stromnetze 10,01 18,11 13,15 10,85 10,58 12,97 11,78 14,74 13,14 12,45 40 4 1,53
+Stromspeicher 10,79 3,60 1,17 3,77 2,30 1,56 0,88 1,51 1,81 1,39 5 1 1,59
+CO2-Technologien 8,95 11,84 16,90 14,08 25,74 26,54 37,71 25,08 10,19 15,21 32 - -
+Technologieoffene Förderung mit 
+internationalem Fokus
+0,65 0,28 2,11 3,88 11,73 24,46 60,00 27,41 14,82 5,62 45 - -
+Grundlagenforschung Energierelevante 
+Nutzung des Untergrundes
+3,59 1,81 2,02 1,36 2,35 3,55 14,88 8,43 12,62 13,33 87 16 9,35
+Fusion 2040 – Forschung auf dem 
+Weg zum Fusionskraftwerk
+9,68 41,21 135 37 75,17
+Pilotprojekte Fusion 6,92 11,66 18 - -
+BKM Basistechnologien für die Fusion 2,77 28,95 111 31 54,86
+Nachwuchswettbewerb Fusionstalente 0,60 6 6 20,31
+Projektbezogene Fusionsforschung1) 3,12 2,23
+Nachwuchsförderung  
+in der Strahlenforschung
+13,09 12,56 11,93 12,09 9,99 13,64 14,24 14,86 16,74 13,05 105 24 12,31
+Reaktorsicherheitsforschung 2,68 1,73 1,23 1,19 0,79 1,32 3,03 2,76 7,67 3,66 31 9 5,03
+Forschung zur verlängerten  
+Zwischenlagerung und Behandlung 
+hochradioaktiver Abfälle2)
+3,64 4,22 3,61 2,48 2,97 21 8 3,04
+Strahlenforschung 8,58 8,05 7,89 7,36 6,36 8,69 6,98 8,49 6,59 6,43 53 7 4,24
+Endlager- und Entsorgungsforschung3) 1,83 2,78 2,81 3,54 2,85
+Gesamt 111,52 134,58 129,86 128,28 151,76 288,48 467,83 427,61 366,15 381,60 1.238 120 166,79
+Tabelle 7 | Mittelabfluss der Projektförderung der Energieforschung des BMFTR
+1) Teil des 5. und 6. Energieforschungsprogrammes, siehe Bundesbericht Energieforschung 2019
+2) Neue Systematik ab 2021, siehe Bundesbericht Energieforschung 2024 
+3) Alte Systematik bis 2020, siehe Bundesbericht Energieforschung 2024
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 79 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Tabelle 8 | Mittelabfluss in der institutionellen Energieforschung: Programmorientierte Förderung (PoF)  
+des Forschungsbereichs Energie der Helmholtz-Gemeinschaft Deutscher Forschungszentren (HGF Energy)
+Förderthema Mittelabfluss in Mio. €
+2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+PoF III-Periode 362,81 379,63 393,75 410,29 415,78
+Energieeffizienz, Materialien und Ressourcen 68,43 69,45 73,00 76,67 78,60
+Erneuerbare Energien 54,37 56,73 59,09 61,51 62,94
+Kernfusion (inkl. Wendelstein 7-X) 123,51 123,51 123,51 126,00 124,07
+Nukleare Entsorgung, Sicherheit  
+und Strahlenforschung
+37,27 38,84 40,47 42,16 43,32
+Technologie, Innovation und Gesellschaft 7,95 8,25 8,54 8,84 9,00
+Speicher und vernetzte Infrastrukturen 60,47 69,61 72,86 76,21 78,23
+Future Information Technology 10,81 13,24 16,28 18,90 19,63
+PoF IV-Periode1) 314,42 319,85 325,39 329,87 334,16
+Energiesystemdesign 34,60 34,89 35,19 35,40 35,53
+Materialien und Technologien  
+für die Energiewende
+208,09 212,13 216,25 219,59 222,94
+Fusion 31,28 32,03 32,79 33,46 34,03
+Nukleare Entsorgung, Sicherheit  
+und Strahlenforschung (NUSAFE II)
+38,46 38,81 39,16 39,41 39,66
+Zusätzliche Aktivitäten der HGF 48,46 49,14
+Forschungszentrum Jülich Helmholtz-Cluster  
+für Wasserstoffwirtschaft
+22,95 22,73
+Nicht in der PoF erfasste Aktivitäten  
+der Energieforschung
+25,51 26,41
+Max-Planck-Institut für Plasmaphysik2) 108,17 110,85 113,58 116,31 119,09
+Gesamt 362,81 379,63 393,75 410,29 415,78 422,59 430,70 438,98 494,63 502,40
+1) Die Gesamtsumme ab 2021 entspricht nicht der Summe der Einzelpositionen. Die Gesamtsumme enthält 2 Mio. Euro zusätzlich für einen Innovationspool.
+2) Nachträgliche Aufnahme dieses Mittelabflusses in 2025 rückwirkend ab 2021. Dadurch ändert sich die Gesamtsumme in Tabelle 1.
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 80 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Tabelle 9a | Übersicht über das Energieforschungsprogramm des Bundes nach Kapitel und Titel 
+im Bundeshaushalt
+Zuständiges
+Kapitelbezeichnung 1) Titelbezeichnung 1) Mittelabfluss in Mio. €
+Kapitel/Titel 1) Ressort 2) 2020 2021 2022 2023 2024 2025
+Projektförderung und begleitende Maßnahmen im Energieforschungsprogramm 800,75 996,55 1.166,51 1.136,33 1.035,78 1.037,30
+0903 / 68301 BMWE Energie und Nachhaltigkeit Energieforschung 535,03 572,61 530,94 509,81 510,28 474,84
+6092 / 68626 4) BMWE Energie- und Klimafonds Reallabore der Energiewende 5) 17,04
+0903 / 68608 3) BMWE Energie und Nachhaltigkeit Reallabore der Energiewende 5) 18,64 43,66 53,63 68,68 82,31
+6092 / 68304 BMWE Klima- und Transformationsfonds Maßnahmen zur Weiterentwicklung der Elektromobilität 14,64 15,37 14,34 13,07 10,98 7,92
+6092 / 68616 3) BMWE Klima- und Transformationsfonds CO2-Vermeidung und -Nutzung in Grundstoffindustrien 0,11 2,83 6,45 6,08 2,95
+6092 / 89203 3) BMWE Klima- und Transformationsfonds Umsetzung der Nationalen Wasserstoffstrategie 0,01 7,29 15,53 24,82 28,52
+6092 / 89303 8) BMWE Klima- und Transformationsfonds Transformation Wärmenetze 2,88 11,21
+6092 / 89304 3) BMWE Klima- und Transformationsfonds Industrielle Fertigung für mobile und stationäre Energiespeicher 0,00 3,24 18,87 27,17 27,86
+3004 / 68541 Nr. 1 BMFTR Forschung für Innovationen, 
+Zukunftsstrategie
+Grundlagenforschung Energieeffizienz und  
+Erneuerbare Energien, Grüner Wasserstoff
+117,77 185,84 201,61 178,16 189,59 211,96
+6092 / 68502 BMFTR Klima- und Transformationsfonds Anwendungsorientierte Grundlagenforschung  
+Grüner Wasserstoff 
+29,42 99,79 245,92 226,84 146,07 149,60
+3004 / 68541 Nr. 2 BMFTR Forschung für Innovationen, 
+Zukunftsstrategie
+Nachwuchsförderung nukleare Sicherheitsforschung 10,68 14,32 14,93 15,68 17,48 14,00
+3004 / 68542 3) BMFTR Forschung für Innovationen, 
+Hightech Agenda Deutschland
+Ressourcen, Kreislaufwirtschaft, Geoforschung 3,55 14,88 8,43 11,68 10,17
+0904 / 89602 9) 12) BMFTR Chancen der Globalisierung Wasserstoffstrategie Außenwirtschaft –  
+Internationale Kooperation Wasserstoff
+7,28 14,28
+6092 / 89601 9) 12) BMFTR Klima- und Transformationsfonds Wasserstoffstrategie Außenwirtschaft –  
+Internationale Kooperation Wasserstoff
+20,08 15,96
+0901 / 68601 3) 11) BMWE Innovation, Technologie und 
+Neue Mobilität
+Industrieforschung für Unternehmen 3,85 4,28 3,86
+1005 / 68611 & 
+1005 / 89311 11)
+BMLEH Nachhaltigkeit, Forschung und 
+Innovation
+Zuschüsse zur Förderung von Forschungs-, Entwicklungs- und 
+Demonstrationsvorhaben im Bereich der nachwachsenden 
+Rohstoffe und zur Förderung der nationalen Projekte der 
+nachhaltigen Waldwirtschaft & Zuschüsse zur Förderung von 
+Forschungs-, Entwicklungs- und Demonstrationsvorhaben im 
+Bereich der nachwachsenden Rohstoffe (Investitionen)
+37,83 42,11 35,17 29,46
+6092 / 68618 & 
+6092 / 68621 7) 11)
+BMLEH Klima- und Transformationsfonds Zuschüsse zur Förderung von Maßnahmen zur energetischen 
+Nutzung von Wirtschaftsdünger und zur Emissionsminderung 
+beim Wirtschaftsdüngermanagement & Zuschüsse zur
+Förderung von Maßnahmen zum Schutz von Moorböden und zur 
+Verringerung der Torfverwendung
+1,82 3,98
+0903 / 68602 6) 11) BMUKN Energie und Nachhaltigkeit Sicherheitsforschung für kerntechnische Anlagen 38,33 40,33
+1605 / 54401 6) 11) BMUKN Nukleare Sicherheit und  
+Strahlenschutz
+Forschung, Untersuchungen und Ähnliches 38,33 38,28
+Institutionelle Förderung (HGF Energy) 415,78 422,59 430,70 438,98 494,63 502,40
+0901 / 68531 & 
+0901 / 89431 10)
+BMFTR Innovation, Technologie und 
+Neue Mobilität
+Deutsches Zentrum für Luft- und Raumfahrt e. V. –  
+Betrieb & Deutsches Zentrum für Luft- und Raumfahrt e. V. – 
+Investitionen
+30,99 48,54 49,62 50,71 75,31 80,75
+3004 / 68570 & 
+3004 / 89470
+BMFTR Forschung für Innovationen, 
+Hightech-Strategie
+HGF-Zentren – Betrieb & 
+HGF-Zentren – Investitionen
+384,79 265,88 270,24 274,68 303,01 302,56
+3003 / 68540 & 
+3003 / 89440 13)
+BMFTR Wettbewerbsfähigkeit des  
+Wissenschafts- und
+Innovationssystems
+MPG – Betrieb & 
+MPG – Investitionen
+108,17 110,85 113,58 116,31 119,09
+Gesamt 1.216,53 1.419,14 1.597,21 1.575,30 1.530,42 1.539,70
+1) Bundeshaushalt 2025 bzw. bei weggefallenen Titeln das letzte Nutzungsjahr
+2) Zuständigkeit entsprechend dem Organisationserlass des Bundeskanzlers vom 09.05.2025, bei weggefallenen Titeln wird das aktuell zuständige Ressort angegeben
+3) Neu im Bundeshaushalt für 2021
+4) Weggefallen im Bundeshaushalt für 2021
+5) Die Mittel inkl. bestehender Mittelfestlegungen für die Reallabore wurden ab 2021 in den Bundeshaushalt Kapitel 0903 Titel 68608 verschoben.
+6) Zuständigkeitswechsel von BMWE zu BMUKN ab 2022 im Bundeshaushalt vollzogen
+7) Neu im Bundeshaushalt für 2022
+8) Neu im Bundeshaushalt für 2024
+9) Neu im Bundeshaushalt für 2022, im Jahr 2024 in den Klima- und Transformationsfonds verschoben
+ 10) Zuständigkeitswechsel von BMWE zu BMFTR wird ab 2025 im Bundeshaushalt vollzogen
+ 11)  Im Einklang mit internationalen Rechtsnormen sind dieser Politikbereich und die damit verbundenen Forschungsmaßnahmen von der Energiepolitik und den energiepolitischen 
+Prozessen, an denen sich das Energieforschungsprogramm orientiert, ab 2024 entkoppelt.
+ 12) Forschungsförderung erfolgt durch BMFTR, Themen der Außenwirtschaft außerhalb der Forschung liegen beim BMWE
+ 13) In 2025 rückwirkende Aufnahme der Fusionsförderung des Max-Planck-Instituts IPP ab 2021
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 81 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Tabelle 9b | Übersicht über die Energieforschungsförderung des Bundes nach Ressorts
+Ressort 1) Mittelabfluss in Mio. €
+2020 2021 2022 2023 2024 2025
+BMWE 597,71 659,14 656,19 671,93 726,20 635,61
+Klassische Projektförderung und begleitende Maßnahmen 561,18 592,30 566,07 573,77 590,40 550,67
+Reallabore der Energiewende 5,53 18,29 40,50 45,48 59,78 82,31
+Mikroprojekte 1,98 0,70 2,63
+Institutionelle Förderung DLR (HGF Energy) 30,99 48,54 49,62 50,71 75,31
+BMLEH2) 37,83 42,11 36,99 33,45
+Projektförderung und begleitende Maßnahmen 37,83 42,11 36,99 33,45
+BMUKN2) 38,33 40,33 38,33 38,28
+Projektförderung und begleitende Maßnahmen 38,33 40,33 38,33 38,28
+BMFTR 542,66 677,56 865,70 831,65 804,22 904,09
+Projektförderung und begleitende Maßnahmen 157,87 303,51 484,61 443,38 384,90 401,69
+Institutionelle Förderung (HGF Energy)3) 384,79 374,05 381,08 388,26 419,32 502,40
+Gesamt 1.216,53 1.419,14 1.597,21 1.575,30 1.530,42 1.539,70
+1) Zuständigkeit entsprechend dem Organisationserlass des Bundeskanzlers vom 09.05.2025, bei weggefallenen Titeln wird das aktuell zuständige Ressort angegeben
+2) Ab 2024 nicht mehr Teil der Energieforschungsförderung
+3) Ab 2025 inklusive DLR
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 82 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Tabelle 10 | Mittelabfluss der Projektförderung mit Bezug zur Energieforschung sowie zu innovativen 
+Energietechnologien in weiteren Förderprogrammen des Bundes
+Ressort/Thema Kapitel/Titel Mittelabfluss in Mio. €
+2022 2023 2024 2025
+BMWE 318,35 534,17 408,57 368,47
+Verbesserung der Rahmenbedingungen für die Landstromversorgung  
+in deutschen Häfen
+6092 / 88201 12,49 31,54 21,92 8,57
+Maritimes Forschungsprogramm und Klimaneutrales Schiff 0901 / 68312 & 
+6092 / 68626
+24,82 28,80 32,69 34,36
+Klimaneutrales Fliegen 6092 / 68305 46,19 155,61 61,41 68,13
+Forschungsförderung von Technologievorhaben der zivilen Luftfahrt 0901 / 68331 196,78 214,49 195,33 172,18
+IPCEI-CIS (IPCEI Next Generation Cloud Infrastructure and Services) 0901 / 89223 - 0,85 1,60 2,82
+Dekarbonisierung der Industrie (DDI) 6092 / 89201 - 7,20 10,23 12,62
+Förderprogramm Innovationskompetenz INNO-KOM 0901 / 68601 UT 1 5,97 13,38 20,17 19,94
+Industrielle Gemeinschaftsforschung (IGF) 0901 / 68601 UT 2 11,67 13,07 11,29 9,79
+Internationale Wasserstoffprojekte 6092 / 89601 - 0,45 0,10 -
+IPCEI Wasserstoff/Umsetzung der Nationalen Wasserstoffstrategie 6092 / 89207 - 50,00 39,45 20,65
+IPCEI Wasserstoff/DEU-FRA Projekte IPCEI Wasserstoff 6092 / 89203 - 1,29 0,79 4,79
+Zentrales Innovationsprogramm Mittelstand (ZIM) 0901 / 68301 20,42 17,51 13,60 13,77
+Manufacturing-X 0901 / 68624 - - - 0,85
+BMFTR 211,55 225,05 231,25 182,31
+Zukunftscluster; Validierungsförderung VIP+ 3004 / 68310 2,31 6,25 8,57 8,89
+Dachkonzept Batterieforschung 6092 / 68312 196,05 203,68 206,98 159,09
+KMU-innovativ 3004 / 68540 &  
+6092 / 68610
+8,33 8,13 7,16 5,80
+KlimPro-Industrie (ohne Begleitprojekt) 3004 / 68540 &  
+6092 / 68610
+4,87 6,99 6,68 4,68
+Geoforschung für Nachhaltigkeit (GEO:N) 6092 / 68504 &  
+3004 / 68542
+- - 1,86 3,84
+BMV 71,59 116,69 131,37 117,07
+Richtlinie zur Förderung von Maßnahmen zur Entwicklung regenerativer  
+Kraftstoffe und Förderung Technologieplattform für Power-to-Liquid-
+Kraftstoffe (TPP)
+6092 / 89204 0,28 23,12 57,57 59,78
+NIP II (2016 – 2026) 6092 / 89204, 89205, 
+89206, 89302, 89308
+71,31 93,57 73,80 57,29
+Gesamt 601,49 875,92 771,19 667,84
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 83 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Ta
+be
+lle
+ 1
+1 
+| A
+uf
+w
+en
+du
+ng
+en
+ d
+er
+ L
+än
+de
+r f
+ür
+ E
+ne
+rg
+ie
+fo
+rs
+ch
+un
+g 
+in
+ 2
+02
+5
+Fö
+rd
+er
+th
+em
+a
+M
+itt
+el
+ab
+flu
+ss
+ in
+ M
+io
+. €
+Ba
+de
+n-
+ 
+W
+ür
+tt
+em
+be
+rg
+Ba
+ye
+rn
+Be
+rl
+in
+Br
+an
+de
+nbu
+rg
+Br
+em
+en
+H
+am
+bu
+rg
+H
+es
+se
+n
+M
+ec
+kl
+en
+bu
+rg
+-
+V
+or
+po
+m
+m
+er
+n
+N
+ie
+de
+r-
+ 
+sa
+ch
+se
+n
+N
+or
+dr
+he
+in
+-
+W
+es
+tf
+al
+en
+Rh
+ei
+nl
+an
+d-
+Pf
+al
+z
+Sa
+ar
+la
+nd
+Sa
+ch
+se
+n
+Sa
+ch
+se
+n-
+A
+nh
+al
+t
+Sc
+hl
+es
+w
+ig
+-
+H
+ol
+st
+ei
+n
+Th
+ür
+in
+ge
+n
+G
+es
+am
+t
+Bi
+oe
+ne
+rg
+ie
+0,
+96
+7,
+51
+-
+-
+0,
+00
+0,
+99
+-
+0,
+42
+6,
+45
+0,
+69
+-
+-
+2,
+14
+-
+0,
+35
+0,
+10
+19
+,6
+0
+Br
+en
+ns
+to
+ff
+ze
+lle
+n
+29
+,6
+6
+-
+-
+-
+0,
+84
+0,
+96
+-
+0,
+01
+5,
+45
+5,
+53
+-
+-
+4,
+53
+-
+-
+0,
+01
+46
+,9
+8
+En
+er
+gi
+ee
+ff
+iz
+ie
+nz
+ im
+ V
+er
+ke
+hr
+ 
+(in
+kl
+. E
+le
+kt
+ro
+m
+ob
+ili
+tä
+t)
+8,
+92
+4,
+18
+0,
+04
+0,
+21
+0,
+13
+3,
+18
+5,
+81
+0,
+01
+0,
+96
+-
+0,
+19
+1,
+01
+2,
+41
+0,
+69
+2,
+25
+0,
+89
+30
+,8
+7
+En
+er
+gi
+ee
+ff
+iz
+ie
+nz
+ in
+ G
+eb
+äu
+de
+n 
+un
+d 
+Q
+ua
+rt
+ie
+re
+n
+9,
+09
+0,
+31
+0,
+77
+-
+0,
+03
+1,
+01
+0,
+31
+0,
+05
+1,
+00
+1,
+29
+0,
+12
+-
+1,
+58
+-
+0,
+60
+0,
+27
+16
+,4
+3
+En
+er
+gi
+ee
+ff
+iz
+ie
+nz
+ in
+ In
+du
+st
+rie
+, 
+H
+an
+de
+l u
+nd
+ G
+ew
+er
+be
+3,
+23
+24
+,8
+4
+-
+-
+0,
+08
+3,
+19
+0,
+75
+4,
+65
+9,
+23
+6,
+23
+0,
+68
+0,
+95
+10
+,8
+7
+0,
+14
+0,
+70
+0,
+21
+65
+,7
+7
+En
+er
+gi
+es
+pe
+ic
+he
+rt
+ec
+hn
+ol
+og
+ie
+n
+9,
+93
+-
+-
+0,
+19
+0,
+43
+1,
+39
+0,
+18
+2,
+12
+5,
+99
+6,
+27
+0,
+20
+0,
+38
+3,
+50
+-
+5,
+14
+3,
+70
+39
+,4
+2
+En
+er
+gi
+es
+ys
+te
+m
+an
+al
+ys
+e/
+M
+od
+el
+-
+lie
+ru
+ng
+3,
+85
+-
+0,
+07
+0,
+75
+0,
+41
+1,
+54
+-
+0,
+00
+4,
+39
+2,
+98
+-
+-
+1,
+43
+-
+0,
+92
+0,
+52
+16
+,8
+8
+G
+eo
+th
+er
+m
+ie
+0,
+23
+2,
+45
+-
+0,
+44
+-
+0,
+50
+-
+-
+4,
+06
+3,
+17
+-
+-
+1,
+20
+-
+0,
+02
+-
+12
+,0
+8
+M
+ee
+re
+se
+ne
+rg
+ie
+-
+-
+-
+-
+-
+0,
+41
+-
+-
+2,
+35
+-
+-
+-
+-
+-
+-
+-
+2,
+75
+So
+la
+rt
+he
+rm
+ie
+ u
+nd
+ P
+ho
+to
+vo
+lta
+ik
+4,
+38
+3,
+18
+2,
+99
+0,
+09
+0,
+01
+0,
+33
+1,
+03
+0,
+28
+8,
+38
+2,
+26
+-
+-
+4,
+60
+0,
+21
+0,
+84
+0,
+65
+29
+,2
+2
+St
+ro
+m
+ne
+tz
+e 
+(E
+le
+kt
+riz
+itä
+ts
+üb
+er
+-
+tr
+ag
+un
+g 
+un
+d 
+-v
+er
+te
+ilu
+ng
+)
+2,
+47
+0,
+41
+0,
+09
+-
+0,
+83
+1,
+65
+0,
+09
+0,
+73
+2,
+79
+1,
+89
+-
+-
+1,
+25
+-
+1,
+07
+-
+13
+,2
+8
+Th
+er
+m
+is
+ch
+e 
+K
+ra
+ft
+w
+er
+ke
+/ 
+CO
+2-
+Te
+ch
+no
+lo
+gi
+en
+0,
+07
+1,
+83
+-
+0,
+12
+1,
+00
+1,
+15
+-
+0,
+04
+0,
+23
+4,
+10
+-
+-
+0,
+37
+-
+0,
+90
+0,
+02
+9,
+83
+W
+as
+se
+rk
+ra
+ft
+-
+-
+-
+-
+-
+0,
+05
+-
+-
+3,
+36
+-
+-
+-
+0,
+22
+-
+-
+-
+3,
+63
+W
+as
+se
+rs
+to
+ff
+te
+ch
+no
+lo
+gi
+en
+12
+,7
+6
+2,
+56
+0,
+20
+0,
+09
+0,
+40
+3,
+54
+0,
+23
+9,
+89
+5,
+06
+10
+1,
+90
+1,
+91
+-
+8,
+33
+0,
+83
+1,
+24
+0,
+55
+14
+9,
+47
+W
+in
+de
+ne
+rg
+ie
+0,
+56
+-
+-
+-
+2,
+38
+0,
+88
+-
+0,
+44
+8,
+20
+1,
+76
+-
+-
+0,
+79
+0,
+08
+1,
+18
+0,
+02
+16
+,2
+9
+So
+ns
+tig
+e 
+ 
+En
+er
+gi
+ee
+ff
+iz
+ie
+nz
+m
+aß
+na
+hm
+en
+0,
+13
+-
+1,
+50
+-
+0,
+81
+0,
+17
+-
+0,
+04
+3,
+60
+6,
+22
+0,
+46
+3,
+47
+0,
+79
+0,
+90
+0,
+95
+4,
+75
+23
+,7
+8
+So
+ns
+tig
+e 
+Er
+ne
+ue
+rb
+ar
+e 
+(in
+kl
+. F
+us
+io
+n)
+9,
+41
+6,
+80
+0,
+02
+-
+-
+0,
+30
+-
+6,
+48
+0,
+70
+0,
+09
+-
+0,
+10
+0,
+17
+0,
+28
+0,
+86
+0,
+01
+25
+,2
+3
+G
+es
+am
+t
+95
+,6
+5
+54
+,0
+7
+5,
+69
+1,
+90
+7,
+34
+21
+,2
+4
+8,
+39
+25
+,1
+6
+72
+,1
+9
+14
+4,
+38
+3,
+56
+5,
+91
+44
+,1
+7
+3,
+13
+17
+,0
+3
+11
+,6
+9
+52
+1,
+50
+8.2 Fördermittel in der Energieforschungsförderung der Länder
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 84 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Tabelle 12 | Aufwendungen der Länder für Energieforschung nach Förderthemen
+entsprechend der IEA-Technologieklassifikation 1) ab 2018
+Gruppennummer1)
+Förderthema Mittelabfluss in Mio. €
+2018 2019 2020 2021 2022 2023 2024 2025
+11 Energieeffizienz in Industrie, Handel und 
+Gewerbe
+24,04 17,00 36,39 35,91 40,81 42,54 46,14 65,77
+12 Energieeffizienz in Gebäuden und Quartieren 16,97 13,62 12,68 9,69 9,00 12,36 15,39 16,43
+13 Energieeffizienz im Verkehr  
+(inkl. Elektromobilität)
+29,39 43,72 50,63 55,71 58,55 31,78 48,95 30,87
+14 Sonstige Energieeffizienzmaßnahmen 22,10 16,55 19,26 15,29 19,97 27,34 40,36 23,78
+2 Thermische Kraftwerke/CO2-Technologien 4,40 5,63 6,31 6,63 5,65 12,58 13,11 9,83
+31 Erneuerbare Energien – Solarthermie und PV 18,39 17,49 36,11 28,22 23,40 35,68 51,89 29,22
+32 Erneuerbare Energien – Windenergie 6,82 5,64 24,85 18,46 20,89 14,74 30,45 16,29
+33 Erneuerbare Energien – Meeresenergie 0,40 0,36 3,34 2,87 2,84 4,12 4,00 2,75
+34 Erneuerbare Energien – Bioenergie 10,86 9,54 21,96 13,74 15,54 37,19 17,38 19,60
+35 Erneuerbare Energien – Geothermie 6,55 5,74 9,79 10,15 14,67 15,37 17,38 12,08
+36 Erneuerbare Energien – Wasserkraft 0,95 0,44 3,42 5,10 8,56 3,57 4,51 3,63
+37 Sonstige Erneuerbare (inkl. Fusion) 19,48 19,92 20,03 42,67 16,04 26,80 24,71 25,23
+51 Wasserstofftechnologien 12,94 9,92 36,13 97,55 118,46 116,00 131,69 149,47
+52 Brennstoffzellen 6,49 10,47 20,70 18,44 29,47 38,04 28,40 46,98
+62 Stromnetze (Elektrizitätsübertragung  
+und -verteilung)
+6,43 11,06 9,12 9,92 21,39 13,44 16,01 13,28
+63 Energiespeichertechnologien 26,42 38,85 54,67 42,31 45,46 37,46 36,14 39,42
+71 Energiesystemanalyse/Modellierung 7,39 18,18 22,01 17,99 19,74 14,78 24,67 16,88
+Gesamt 220,04 244,12 387,37 430,64 470,43 483,78 551,20 521,50
+1) IEA-Technologieklassifikation, siehe https://www.iea.org/data-and-statistics/data-product/energy-technology-rd-and-d-budget-database-2#documentation
+Deutscher Bundestag – 21. Wahlperiode Drucksache 21/8150– 85 – 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+8.3 Entwicklungsstand von Technologien anhand des Technologiereifegrads
+Die Ressortzuständigkeit für die Projektförderung der nicht-nuklearen Energieforschung orientiert sich 
+am Entwicklungsstand von Technologien (s. auch 7. Energieforschungsprogramm der BReg).  
+Der Technologiereifegrad (TRL) wird auf einer Skala von 1 bis 9 dargestellt. 
+EntwicklungsstatusTechnologiereifegrad
+Beobachtung und Beschreibung des FunktionsprinzipsTRL 1
+BMFTR: 
+anwendungsorientierte 
+Grundlagenforschung
+BMWE: 
+angewandte 
+Energieforschung
+TRL 2
+TRL 3
+TRL 4
+TRL 5
+TRL 6
+TRL 7
+TRL 8
+TRL 9
+Beschreibung der Anwendung einer Technologie
+Nachweis der Funktionstüchtigkeit einer Technologie
+Versuchsaufbau im Labor
+Versuchsaufbau in Einsatzumgebung
+Prototyp in Einsatzumgebung
+Prototyp im Einsatz
+Qualiziertes System mit Nachweis der Funktionstüchtigkeit im Einsatzbereich
+Qualiziertes System mit Nachweis des erfolgreichen Einsatzes
+Drucksache 21/8150 Deutscher Bundestag – 21. Wahlperiode– 86 –
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
