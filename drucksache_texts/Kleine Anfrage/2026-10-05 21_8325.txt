@@ -1,105 +1,323 @@
-Deutscher Bundestag Drucksache 21/8326
+Deutscher Bundestag Drucksache 21/8325
 21. Wahlperiode 05.10.2026
 Kleine Anfrage
-der Abgeordneten Martin Sichert, Dr. Christina Baum, Carina Schießl, Claudia 
-Weiss, Kay-Uwe Ziegler, Thomas Dietz, Joachim Bloch, Tobias Ebenberger, 
-Nicole Hess, Dr. Christoph Birghan, Birgit Bessin, Kerstin Przygodda, Alexis 
-Leonard Giersch, Martina Kempf, Stefan Möller, Dr. Paul Schmidt, Gereon 
-Bollmann, Thomas Fetsch und der Fraktion der AfD
-Aktuelle Lage der sozialen Pflegeversicherung sowie Ansätze zur strukturellen 
-Weiterentwicklung der pflegerischen Versorgung
-Die finanzielle Lage der sozialen Pflegeversicherung (SPV) hat sich im Laufe 
-des Jahres 2026 weiter zugespitzt (www.zeit.de/gesundheit/2026-05/pflegeversi
-cherung-defizit-2026). Angesichts steigender Defizite und einer zunehmenden 
-Belastung sowohl der Beitragszahler als auch der Pflegebedürftigen durch
-steigende Eigenanteile steht die Frage nach einer grundlegenden Reform der
-Pflegestrukturen im Raum. Im parlamentarischen Raum wurden dazu verschiedene 
-Modelle diskutiert, unter anderem die strukturelle Differenzierung zwischen 
-allgemeiner Unterstützung im Alter und medizinisch induzierter Pflege (vgl. 
-Bundestagsdrucksache 21/1549). Vor diesem Hintergrund bedarf es für die
-Fragesteller einer Bestandsaufnahme der aktuellen Versorgungssituation sowie 
-einer Bewertung alternativer Steuerungsmodelle durch die Bundesregierung.
+der Abgeordneten Ruben Rupp, Robin Jünger, Alexander Arpaschi, Sebastian 
+Maack, Tobias Ebenberger, Lars Haise, Edgar Naujok, Steffen Janich, 
+Prof. Dr. Michael Kaufmann, Thomas Ladzinski, Micha Fehre, Beatrix von Storch, 
+Ronald Gläser, Peter Bohnhof und der Fraktion der AfD
+Zu Risiken und Grenzen großer KI-Sprachmodelle
+Seit dem ChatGPT-Moment vom November 2022 sind rund vier Jahre
+vergangen. Seitdem haben die großen Sprachmodelle (Large Language Models, 
+LLM), als deren Pionier der Konzern OpenAI gelten kann, den privaten und 
+beruflichen Alltag unzähliger Menschen verändert wie noch keine Applikation 
+zuvor. Schüler und Studenten schreiben damit Hausarbeiten, Journalisten
+recherchieren und analysieren Informationen, Rechtsanwälte lassen sich
+Standardverträge formulieren, in die allgemeine Websuche ist KI zur
+Zusammenfassung der Suchergebnisse integriert. Recherche- und Schreibarbeiten lassen sich 
+durch KI-Unterstützung in viel kürzerer Zeit erledigen, in verschiedenen
+Sprachen und auf verschiedenen Sprachniveaus. Selbst quasitherapeutische
+Gespräche werden mittlerweile „im Dialog“ mit LLM geführt. ChatGPT kommt
+derzeit auf rund 159 Mio. Nutzer in der EU im Monat (vgl. https://help.opena
+i.com/en/articles/8959649-eu-digital-services-act-dsa)
+So bestechend und komfortabel die Ergebnisse der LLM im Allgemeinen auch 
+sein mögen, wohnt ihnen doch auch ein beträchtliches Risiko inne. Im April 
+dieses Jahres hat das US-Unternehmen Anthropic mitgeteilt, sein bislang
+unveröffentlichtes KI-Modell Mythos sei imstande, binnen kurzer Zeit
+Schwachstellen in bestehendem Code zu identifizieren und als Angriffsziel für Hacker 
+aller Couleur zu markieren; fiele es in falsche Hände, würden digitale
+kriminelle oder terroristische Aktivitäten deutlich erleichtert. Die US-Regierung sperrte 
+daraufhin den Zugang zu diesem Modell für alle Nicht-Amerikaner (vgl. www.t
+agesschau.de/wirtschaft/unternehmen/usa-anthropic-ki-100.html). Im Juli ließ 
+eine Nachricht des konkurrierenden US-Unternehmens OpenAI aufhorchen. 
+Ein ebenfalls noch unveröffentlichtes Modell sollte unter Laborbedingungen 
+getestet werden. Das Modell suchte sich selbstständig einen Zugang zum
+Internet, verließ die eigentlich sterile Laborumgebung und attackierte die Webseite 
+HuggingFace (vgl. https://openai.com/de-DE/index/hugging-face-incident-and-
+the-road-ahead/). Nachrichten wie diese sind geeignet, die schwarzen Fantasien 
+zu einer allmächtigen Künstlichen Intelligenz, die sich der Kontrolle des
+Menschen entzieht, selbstständig aktiv wird, eigene Absichten verfolgt und sich 
+auch gegen den Menschen, seine Interessen und seine Lebenswelt wendet, zu 
+befeuern (vgl. www.gatesnotes.com/work/make-ai-work-for-everyone/reader/
+aturbulent-ai-era-and-critical-choices-to-make).
+Ein weiteres Risiko Künstlicher Intelligenz betrifft die enormen Summen, die 
+einige wenige Digitalunternehmen in KI-taugliche Rechenzentren investieren. 
+So wurden 2025 in den USA knapp 286 Mrd. USD an privatem Kapital für KI 
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+mobilisiert (vgl. [2606.15708] Artificial Intelligence Index Report 2026, 
+Seite 10). Selbst risikofreudige Wagniskapitalgeber fragen sich mittlerweile, 
+mit welchen Geschäftsmodellen die schwindelerregenden Summen wieder
+eingespielt werden sollen; die Gefahr einer gigantischen Geldvernichtung und
+damit einer Wertminderung einschlägiger Unternehmen mit unkalkulierbaren
+Folgen für die Weltwirtschaft wird von einzelnen Finanzinstituten als nicht
+abwegig eingeschätzt (vgl. https://sequoiacap.com/article/ais-600b-question, sowie 
+„Die KI‑Wette: Platzt eine Blase?“, in: Frankfurter Allgemeine Zeitung, 
+21. August 2026, Seite 27).
+Unklar sind auch die Folgen der laufenden KI-Revolution für den
+Arbeitsmarkt. Gerade geistige Arbeiten wie das Recherchieren, Gewichten und
+Analysieren großer komplexer Datenmengen, die bislang von Menschenhand erledigt 
+werden, weisen ein großes Automatisierungs- und damit Substitutionspotential 
+auf (vgl. www.deloitte.com/de/de/services/consulting/perspectives/generative-k
+i-und-die-zukunft-der-arbeit.html). Einem kurzfristigen Gewinn an Zeit und 
+Effizienz durch KI steht möglicherweise ein Verlust an Arbeitsplätzen
+gegenüber, ohne dass sich gegenwärtig abzeichnete, welche
+Kompensationsmöglichkeiten sich auftäten. Gerade Dienstleistungsgesellschaften mit einem hohen 
+Anteil an Beratungs-, Vermittlungs- und Servicetätigkeiten stehen vor der
+Aufgabe, den sich abzeichnenden Wandel des Arbeitsmarktes aktiv zu begleiten, 
+bei noch ungewissem Ausgang.
+Hinzu kommt der Aspekt der Verfügbarkeit leistungsfähiger KI-Sprachmodelle. 
+Die Entwicklung wird seit Jahren von US-amerikanischen und chinesischen 
+Konzernen dominiert, beide Staaten haben mehrfach den Anspruch einer
+globalen Technologieführerschaft auch bei KI bekräftigt. Europa und Deutschland 
+beobachten diesen Prozess vom Rande her und nehmen die Rolle der
+Anwender ein, ohne dass sich ein europäisches KI-Sprachmodell im globalen
+Wettbewerb ernstlich behaupten könnte (vgl. www.welt.de/wirtschaft/plus6a84613b3f
+3b2550f6df391c/kampf-um-ki-ist-europas-abhaengigkeit-von-usa-und-china-en
+dgueltig-besiegelt.html). Die Finanzkraft gerade US-amerikanischer
+Digitalkonzerne, der große heimische Markt, ihr Datenschatz aus dem Cloudgeschäft 
+und eine recht nachlässige Regulierung führen dazu, dass die Konkurrenz aus 
+Europa bislang das Nachsehen hat; ähnliches gilt für die großen chinesischen 
+Unternehmen, die von staatlichen Subventionen und exzellenten Universitäten 
+profitieren. Das führt zu gefährlichen Abhängigkeiten, die bei möglichen
+politischen Turbulenzen das Risiko bergen, dass KI-Anwendungen für Verbraucher, 
+Unternehmen, Wissenschaft und Verwaltung bis hin zum Militär in Teile
+unzugänglich werden. Dieses Erpressungspotential macht deutlich, dass
+Deutschland von einer viel beschworenen digitalen Souveränität noch weit entfernt ist. 
+KI-Politik ist immer auch Machtpolitik.
+Diese skizzierten Entwicklungen werden von den bisherigen
+Regulierungswerken speziell der Europäischen Union weitgehend ignoriert. Zwar stuft der 
+AI Act der EU KI-Anwendungen in Risikoklassen ein und erlegt den
+Herstellern entsprechend aufwändige Berichtspflichten auf. Allerdings sind die
+referenzierten Risiken individueller Natur: So sind KI-Anwendungen verboten, die 
+auf das Ausnutzen einer individuellen Schwäche wegen des Alters oder einer 
+Behinderung abzielen, die das Sozialverhalten von Menschen analysieren und 
+bewerten oder die ohne konkreten Verdacht kriminelles Verhalten eines
+Menschen vorhersagen sollen (vgl. https://ai-act-law.eu/de/artikel/5/). Sehr
+leistungsfähige große KI-Sprachmodelle mit allgemeinem Verwendungszweck 
+(i. e. LLM) werden durch den AI Act als systemisch riskant betrachtet, ohne 
+dass diese Einschätzung konkretisiert würde (vgl. https://ai-act-law.eu/de/artike
+l /51/). Die technische Entwicklung der KI-Sprachmodelle vollzieht sich in 
+einem derart rasanten Tempo, dass Regulierungsbemühungen, sobald sie nach 
+langen Diskussionen in Kraft treten, bereits als veraltet betrachtet können.
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+Nach Auffassung der Fragesteller zeigt sich die Bundesregierung gegenüber 
+den skizzierten Überlegungen zu den Risiken und Grenzen generativer KI
+seltsam passiv. So richtig es erscheint, die mit der KI einhergehenden Chancen
+beherzt zu ergreifen, so fahrlässig wirkt es, die fraglos vorhandenen Risiken und 
+Unwägbarkeiten einfach zu ignorieren. Es fehlt seitens der Bundesregierung ein 
+klar kommuniziertes Konzept zum Umgang mit dieser mächtigen emergenten 
+Technologie, die das soziale Leben in mutmaßlich bislang unbekannter Weise 
+transformieren wird. Fragen zu den Risiken und Grenzen Künstlicher
+Intelligenz sind nach Ansicht der Fragesteller nicht lediglich technologischer Natur, 
+sondern betreffen die Wirtschaft eines Landes ebenso wie sein
+Ausbildungswesen, seine Hochschulen, seine Medienlandschaft und nicht zuletzt seine Politik.
 Wir fragen die Bundesregierung:
- 1. Wie stellt sich die aktuelle Liquiditätslage der sozialen Pflegeversicherung 
-zum Ende des ersten Halbjahres 2026 bzw. nach den aktuellsten
-vorliegenden Quartalsdaten dar?
- 2. Mit welcher Entwicklung der Beitragssätze rechnet die Bundesregierung 
-für das Kalenderjahr 2027, um die Zahlungsfähigkeit der Pflegekassen 
-sicherzustellen?
- 3. Inwieweit sieht die Bundesregierung gegebenenfalls Spielräume für eine 
-Entlastung der Beitragszahler durch die Überführung
-versicherungsfremder Leistungen (wie etwa der Rentenversicherungsbeiträge für pflegende 
-Angehörige) in die Steuerfinanzierung?
- 4. Hat sich die Bundesregierung eine Positionierung erarbeitet zu dem
-Ansatz, zwischen einer allgemeinen, altersentsprechenden Unterstützung 
-(„natürliche Pflege“) und einer medizinisch orientierten Pflege zur
-Stabilisierung der Gesundheit deutlicher zu differenzieren, wie es beispielsweise 
-auf Bundestagsdrucksache 21/1549 vorgeschlagen wurde, und wenn ja, 
-wie lautet diese?
- 5. Sieht die Bundesregierung in einer solchen konzeptionellen Trennung ein 
-Potenzial, um die Pflegeversicherung finanziell zu stabilisieren und 
+ 1. Welche eigenen Erkenntnisse liegen der Bundesregierung zu dem von der 
+Firma Anthropic im April berichteten Modell „Mythos“ und dessen
+kommunizierter Fähigkeit vor, Schwachstellen in bestehendem Code binnen 
+kurzer Zeit zu identifizieren?
+Hat die Bundesregierung „Mythos“ unterdessen selbst testen können?
+ 2. Wie bewertet die Bundesregierung die zwischenzeitliche Entscheidung 
+der US-Regierung, den Zugang zu diesem Modell für Nicht-US-Bürger zu 
+sperren, insbesondere mit Blick auf potentielle deutsche und europäische 
+Nutzer aus Wirtschaft, Wissenschaft und Verwaltung?
+ 3. Liegen der Bundesregierung Kenntnisse über den von OpenAI im Juli
+gemeldeten Vorfall, bei dem sich ein Testmodell eigenständig
+Internetzugang verschafft und die Laborumgebung verlassen haben soll, um die 
+Plattform HuggingFace anzugreifen, die über den von OpenAI
+vorgelegten Bericht hinausgehen, vor (siehe Vorbemerkung, bitte ausführen)?
+ 4. Sieht die Bundesregierung in den unter 1 bis 3 beschriebenen Vorfällen 
+Hinweise auf ein grundsätzliches Kontrollproblem bei LLM, und wenn ja, 
+welche Konsequenzen zieht sie daraus für die deutsche und europäische 
+KI-Sicherheitsforschung?
+ 5. Existieren in einem Bundesministerium oder einer nachgeordneten
+Behörde (etwa dem Bundesamt für Sicherheit in der Informationstechnik BSI) 
+Verfahren zur systematischen Auswertung von international gemeldeten 
+KI-Sicherheitsvorfällen dieser Art, und wenn ja, wie sind diese
+ausgestaltet?
+ 6. Bestehen zwischen der Bundesregierung respektive dem BSI und den US-
+Unternehmen Anthropic und OpenAI Kontakte zum Austausch über
+sicherheitsrelevante Vorfälle bei nicht veröffentlichten Modellen (bitte
+ausführen)?
+ 7. Hält die Bundesregierung die derzeitigen Meldepflichten für KI-
+Sicherheitsvorfälle (national wie im Rahmen des AI Act) für ausreichend, 
+um vergleichbare Vorfälle bei in der EU betriebenen Modellen zeitnah zu 
+erfassen (bitte ausführen)?
+ 8. Welche Erkenntnisse liegen der Bundesregierung zum Umfang der
+Investitionen führender US-Digitalkonzerne in KI-taugliche Rechenzentren vor, 
+von deren Leistung indirekt auch deutsche Verbraucher, Unternehmen und 
+Verwaltungen profitieren, und wie schätzt sie deren Verhältnis zu bislang 
+tragfähigen digitalen Geschäftsmodellen ein?
+ 9. Teilt die Bundesregierung die Einschätzung einzelner
+Finanzmarkteilnehmer, wonach eine gigantische Fehlallokation von Kapital im KI-Sektor
 Vorabfassung - w
 ird durch die lektorierte Version ersetzt.
-gleichzeitig die medizinische Behandlungsqualität zu schärfen (vgl.
-Vorfrage)?
- 6. Welche Erkenntnisse liegen der Bundesregierung über die
-durchschnittlichen Stundensätze vor, die professionelle Pflegedienste bzw. anerkannte 
-Dienstleister den Pflegekassen für reine hauswirtschaftliche
-Unterstützungsleistungen und Alltagshilfen (z. B. Einkaufen, Botengänge) in
-Rechnung stellen?
- 7. Inwieweit sieht die Bundesregierung gegebenenfalls ein Einsparpotenzial 
-für die Pflegekassen darin, derartige alltägliche Hilfen (vgl. Vorfrage)
-unbürokratischer durch Nachbarschaftshilfe, Ehrenamtliche und familiäre 
-Netzwerke (etwa über steuerfreie Pauschalen oder
-Fahrtkostenerstattungen) erbringen zu lassen, anstatt hierfür gewerbliche Anbieterstrukturen 
-zu finanzieren?
- 8. Welche rechtlichen und bürokratischen Vorgaben (z. B. landesrechtliche 
-Anerkennungshürden nach § 45a/b SGB XI) verhindern nach Kenntnis 
-der Bundesregierung derzeit, dass Pflegebedürftige Entlastungsleistungen 
-vorrangig für private und ehrenamtliche Alltagshelfer anstelle
-professioneller Dienstleister einsetzen?
- 9. Ist die Bundesregierung der Ansicht, dass eine massive Stärkung der
-familiären Verantwortung – etwa durch attraktivere finanzielle und steuerliche 
-Rahmenbedingungen für pflegende Angehörige – ein notwendiger
-Baustein zur Begegnung des demografischen Wandels ist?
-10. Welche Maßnahmen hat die Bundesregierung im Jahr 2026
-gegebenenfalls ergriffen oder geplant, um die Vereinbarkeit von Pflege und Beruf 
-über die bisherigen Regelungen hinaus zu verbessern?
-11. Wie bewertet die Bundesregierung die Wirkung des aktuellen
-Pflegegeldes im Hinblick auf seine Funktion als echte Unterstützung für die
-häusliche Pflege im Vergleich zu den tatsächlichen Kostensteigerungen seit 
-2024?
-12. Wie viele Personen haben nach den der Bundesregierung zuletzt
-vorliegenden Daten der Sozialhilfestatistik Leistungen der Hilfe zur Pflege in 
-stationären Einrichtungen bezogen, und welche Erkenntnisse liegen ihr – 
-gegebenenfalls auch aus anderen Quellen – darüber vor, in welchem
-Umfang dieser Leistungsbezug auf die Deckung des einrichtungsindividuellen 
-Eigenanteils zurückzuführen ist?
-13. Welche Erkenntnisse liegen der Bundesregierung – etwa aus der
-Engpassanalyse und den Daten zu gemeldeten offenen Stellen der Bundesagentur 
-für Arbeit – zur Zahl unbesetzter Stellen in der Langzeitpflege vor,
-differenziert nach Pflegefachkräften und Pflegefachassistenten, soweit diese 
-Differenzierung statistisch abgebildet wird, sowie zu etwaigen regionalen 
-Unterschieden, und inwieweit weist sie auf mögliche Untererfassungen 
-durch nicht meldepflichtige Arbeitgeber hin?
-14. Welche Haltung nimmt die Bundesregierung zu Forderungen ein, die 
-Investitionskosten für Heimbewohner gesetzlich zu deckeln oder
-bundeseinheitlich zu begrenzen?
-15. Plant die Bundesregierung Initiativen gegenüber den Bundesländern, um 
-deren Pflicht zur Investitionskostenförderung nach § 9 SGB XI
-verbindlicher einzufordern, und welche Maßnahmen ergreift sie, um die daraus
-resultierende finanzielle Überforderung der Pflegebedürftigen abzuwenden?
-16. Welche konkreten Fortschritte und Bürokratieentlastungen im Pflegealltag 
-konnten durch die jüngsten gesetzlichen Maßnahmen zur Entbürokratisie-
+(„Geldvernichtung“) mit destabilisierenden Folgen für die Weltwirtschaft 
+ein reales Risiko darstellt (siehe Vorbemerkung, bitte ausführen)?
+10. Welche Auswirkungen hätte nach Einschätzung der Bundesregierung ein 
+möglicher Zusammenbruch einzelner marktbeherrschender KI-
+Unternehmen auf die deutsche Volkswirtschaft, insbesondere auf hiervon 
+abhängige Zulieferer, Cloud-Kunden und institutionelle Anleger?
+11. Beobachten die Bundesbank sowie die Bundesanstalt für
+Finanzdienstleistungsaufsicht (BaFin) systemische Risiken durch die Verflechtung
+deutscher respektive europäischer Finanzinstitute mit US-amerikanischen KI-
+Unternehmen und deren Finanzierungsstrukturen (Fremdkapital,
+Sonderzweckgesellschaften, zirkuläre Investitionsdeals)?
+Wenn ja, mit welchen Ergebnissen und Konsequenzen (bitte ausführen)?
+12. Trifft die Bundesregierung Vorkehrungen, um deutsche Unternehmen und 
+Behörden, die auf Cloud- und KI-Dienste US-amerikanischer Anbieter
+angewiesen sind, vor den Folgen einer möglichen Marktbereinigung im KI-
+Sektor zu schützen, und wenn ja, welche?
+13. Welche aktuellen Studien oder Prognosen liegen der Bundesregierung 
+zum Substitutionspotential generativer KI für geistige Tätigkeiten
+(Recherche, Analyse, Beratung, Vermittlung) in Deutschland vor?
+14. Welche Branchen und Berufsgruppen identifiziert die Bundesregierung als 
+besonders betroffen von einem eventuellen KI-bedingten
+Arbeitsplatzabbau, speziell in der Dienstleistungsbranche?
+15. Verfügt die Bundesregierung über ein Konzept zur Kompensation KI-
+bedingter Arbeitsplatzverluste, etwa durch Umschulung, Weiterbildung 
+oder weitere arbeitsmarktpolitische Instrumente, und wenn ja, wie ist
+dieses ausgestaltet?
+16. Welche Erkenntnisse liegen der Bundesregierung zum bisherigen
+tatsächlichen (nicht nur prognostizierten) Beschäftigungseffekt generativer KI in 
+Deutschland vor, aufgeschlüsselt nach Branchen?
+17. Plant die Bundesregierung die Einrichtung einer Enquête-Kommission, 
+das Verfassen eines Gutachtens oder die Einsetzung einer
+ressortübergreifenden Arbeitsgruppe zur systematischen Begleitung des KI-bedingten 
+Strukturwandels am Arbeitsmarkt (bitte ausführen)?
+18. Wie bewertet die Bundesregierung das Verhältnis von kurzfristigen Zeit- 
+und Effizienzgewinnen durch KI-Einsatz in Unternehmen zu
+mittelfristigen Beschäftigungsrisiken, und liegen ihr hierzu eigene
+Folgenabschätzungen und Handlungsempfehlungen vor?
+19. Wie bewertet die Bundesregierung den aktuellen Stand der
+Wettbewerbsfähigkeit europäischer respektive deutscher KI-Sprachmodelle im
+internationalen Vergleich zu US-amerikanischen und chinesischen Anbietern?
+20. Hat die Bundesregierung das Ziel, die Entwicklung eines global
+wettbewerbsfähigen europäischen KI-Sprachmodells zu fördern, und wenn ja, 
+welche Maßnahmen plant sie zum Erreichen dieses Zieles?
+21. Wie schätzt die Bundesregierung das Risiko ein, dass deutsche
+Verbraucher, Unternehmen, Wissenschaftseinrichtungen, Verwaltung und Militär 
+im Krisenfall von KI-Anwendungen US-amerikanischer oder, soweit
+vorhanden chinesischer Anbieter abgeschnitten werden könnten?
+22. Welche Erkenntnisse liegen der Bundesregierung darüber vor, in welchem 
+Umfang deutsche Bundesbehörden derzeit von KI-Anwendungen und
 Vorabfassung - w
 ird durch die lektorierte Version ersetzt.
-rung im Jahr 2026 bereits erzielt werden und welche weiteren Schritte zur 
-Reduzierung von Dokumentationspflichten sind geplant?
-17. Wie wird die Wirksamkeit der bisherigen Maßnahmen zur
-Fachkräftegewinnung aus dem Ausland (unter anderem durch beschleunigte
-Anerkennungsverfahren) für den Bereich der Pflege im Jahr 2026 durch die
-Bundesregierung evaluiert?
-Berlin, den 1. Oktober 2026
+Cloud-Infrastruktur US-amerikanischer Anbieter abhängig sind (bitte
+ausführen)?
+23. Hält die Bundesregierung die im Koalitionsvertrag beziehungsweise in 
+bisherigen Digitalstrategien formulierten Ziele zur digitalen Souveränität 
+angesichts der beschriebenen Marktdominanz von Unternehmen aus
+Übersee noch für erreichbar, und vor welchem Zeithorizont (bitte ausführen)?
+24. Welche Rolle spielt aus Sicht der Bundesregierung ein mögliches
+europäisches Gegengewicht (etwa in Form gemeinsamer EU-Initiativen,
+öffentlicher Förderprogramme oder Beteiligungen) zur Verringerung der
+Abhängigkeit von außereuropäischen KI-Anbietern (bitte ausführen)?
+25. Wie bewertet die Bundesregierung das Erpressungspotential, das sich aus 
+technologischen Abhängigkeiten im KI-Bereich für die deutsche Außen- 
+und Sicherheitspolitik ergeben könnte (bitte ausführen)?
+26. Wie bewertet die Bundesregierung die im Einleitungsteil geäußerte
+Einschätzung, dass der AI Act der EU vorrangig individuelle Risiken
+(Diskriminierung, Social Scoring, Verhaltensvorhersage) behandelt, systemische 
+Risiken sehr leistungsfähiger Sprachmodelle aber nur unzureichend vage 
+erfasst (bitte ausführen)?
+27. Sieht die Bundesregierung Nachbesserungsbedarf am AI Act, um dem
+raschen technologischen Fortschritt bei großen Sprachmodellen besser
+gerecht zu werden, und wenn ja, mit welchen konkreten Vorschlägen bringt 
+sie sich auf EU-Ebene ein (bitte ausführen)?
+28. Liegen der Bundesregierung Erkenntnisse darüber vor, ob und wenn ja, 
+wie die im April sowie Juli berichteten Modellverhalten (Mythos, 
+OpenAI-Vorfall) unter die bestehenden Melde- und Prüfpflichten des 
+AI Act für Modelle mit systemischem Risiko fallen würden (siehe
+Vorbemerkung, bitte ausführen)?
+29. Wie will die Bundesregierung sicherstellen, dass eine künftige nationale 
+Regulierung, die typischerweise erst nach einem langwierigen
+Gesetzgebungsverfahren, begleitet von Anhörungen mit Sachverständigen, in Kraft 
+tritt, mit dem Entwicklungstempo generativer KI Schritt hält?
+30. Verfügt die Bundesregierung über ein ressortübergreifendes
+Gesamtkonzept zum Umgang mit den Risiken und Grenzen generativer KI, das über 
+die Förderung von Anwendungschancen hinausgeht, und wenn ja, wo ist 
+dieses dokumentiert?
+31. Welche Bundesministerien beziehungsweise nachgeordneten Behörden 
+sind aktuell mit der Bewertung der hier genannten Risiken (Sicherheit,
+Finanzstabilität, Arbeitsmarkt, digitale Souveränität) befasst, und wie ist 
+deren Zusammenarbeit organisiert?
+32. Hält es die Bundesregierung ethisch für vertretbar, wenn KI-Systeme in 
+der Pflege schwer kranker und/oder dementer Patienten zum Einsatz
+kommen (vgl. www.zqp.de/thema/kuenstliche-intelligenz/)?
+a) Liegen der Bundesregierung unabhängige wissenschaftliche Studien 
+über den Einsatz von LLM in der Pflege vor?
+Wenn ja, was ist deren Quintessenz?
+b) Kann die Bundesregierung das Risiko einer Verletzung der
+Menschenwürde und der Intimsphäre einer zu pflegenden Person erkennen, 
+wenn Sensoren, Kameras und/oder Roboter KI-gesteuert in der Pflege 
+zum Einsatz kommen (bitte ausführen)?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+c) Kann die Bundesregierung das Risiko einer Verletzung der
+Selbstbestimmung einer zu pflegenden Person erkennen, wenn eine KI-
+gestützte Überwachung des persönlichen Lebensraumes und des
+Tagesablaufes Teil des individuellen Pflegeplanes werden (bitte
+ausführen)?
+d) Kann die Bundesregierung das Risiko einer Verletzung des Schutzes 
+der Daten einer zu pflegenden Person erkennen, wenn diese Daten im 
+Pflegeprozess automatisiert und digitalisiert werden und
+gegebenenfalls in der Cloud gespeichert werden (bitte ausführen)?
+33. Hält es die Bundesregierung ethisch für vertretbar, wenn KI-Systeme als 
+quasi therapeutische Korrespondenten genutzt werden können (vgl. www.
+tagesspiegel.de/wissen/junge-menschen-reden-mit-ki-uber-ihre-psyche-fa
+chleute-warnen-vor-gefahrlichem-trend-15530564.html)?
+a) Liegen der Bundesregierung unabhängige wissenschaftliche Studien 
+über den quasi therapeutischen Einsatz von LLM vor?
+Wenn ja, was ist deren Quintessenz?
+b) Kann die Bundesregierung das Risiko einer falschen Einschätzung 
+oder eines fatalen Ratschlags eines LLM in einer individuellen
+Krisensituation erkennen (bitte ausführen)?
+c) Kann die Bundesregierung das Risko einer Verletzung des Schutzes 
+der Daten eines Menschen, der mit einem LLM ein quasi
+therapeutisches Gespräch führt, erkennen, etwa, wenn diese Daten ohne Wissen 
+und Zustimmung fortan zum Training des Modells herangezogen
+werden (bitte ausführen)?
+d) Kann die Bundesregierung das Risiko einer psychischen Abhängigkeit 
+einer Person, die in therapeutischer Absicht mit einem LLM
+kommuniziert und dabei der Illusion erliegt, das Modell habe ein Bewusstsein 
+und zeige Empathie, erkennen (bitte ausführen)?
+34. Plant die Bundesregierung, dem Deutschen Bundestag einen Bericht zur 
+Gesamtrisikolage im Bereich generativer KI vorzulegen, und wenn ja, bis 
+wann?
+Wenn nein, warum nicht?
+35. Was soll nach den Vorstellungen der Bundesregierung die vom
+Bundesminister für Digitales und Staatsmodernisierung Dr. Karsten Wildberger 
+vorgeschlagene internationale KI-Kontrollbehörde, analog der
+internationalen Atomenergiebehörde IAEA, leisten können (vgl. www.zdfheute.de/
+politik/ki-modelle-kontrolle-karsten-wildberger-aufsichtsbehoerde-10
+0.html)?
+a) Auf welcher rechtlichen Grundlage soll eine solche internationale KI-
+Kontrollbehörde ihre Arbeit aufnehmen?
+b) Welche Staaten, Bündnisse und gegebenenfalls Unternehmen und
+wissenschaftliche Einrichtungen sollen an der Gründung und der
+operativen Arbeit eines derartigen Kontrollinstituts beteiligt sein?
+c) Wie groß wäre nach Einschätzung der Bundesregierung der jährliche 
+Etat dieser Behörde, der ihre Arbeitsfähigkeit sicherstellte?
+d) Was wären nach Einschätzung der Bundesregierung die Kernaufgaben 
+dieser KI-Kontrollbehörde?
+e) An welchen Prinzipien, Grundsätzen und Werten bezüglich
+Künstlicher Intelligenz sollte sich eine solche KI-Kontrollbehörde nach
+Auffassung der Bundesregierung orientieren?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+f) Welche Sanktionsmöglichkeiten sollte eine solche KI-Kontrollbehörde 
+nach Auffassung der Bundesregierung erhalten, und wie ließe sich 
+deren Durchsetzung im Konfliktfall garantieren?
+g) Ist die Bundesregierung der Ansicht, dass der Vergleich einer solchen 
+internationalen KI-Kontrollbehörde mit der bestehenden
+internationalen Atomenergiebehörde IAEA hinsichtlich der systemischen
+Risiken der KI sinnvoll und statthaft ist (bitte ausführen)?
+h) Welche systemischen Risiken künstlicher Intelligenz, die die
+Einrichtung einer internationalen KI-Sicherheitsbehörde, rechtfertigten, kann 
+die Bundesregierung identifizieren (bitte ausführen)?
+Berlin, den 30. September 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
 Vorabfassung - w
 ird durch die lektorierte Version ersetzt.

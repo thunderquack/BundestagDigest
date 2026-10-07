@@ -1,0 +1,277 @@
+Deutscher Bundestag Drucksache 21/8304
+21. Wahlperiode 30.09.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Sonja Lemke, Anne-Mieke Bremer, 
+Donata Vogtschmidt, weiterer Abgeordneter und der Fraktion Die Linke – 
+Drucksache 21/8030 –
+Entwicklungsstand der Deutschland-App
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Bundesregierung lässt derzeit einen Prototyp für die sogenannte
+Deutschland-App entwickeln. Nach Presseberichten hat sie damit SAP und Telekom 
+beauftragt (www.heise.de/hintergrund/Interview-zur-Deutschland-App-Wie-K
+I-komplizierte-Antraege-entwirren-soll-11306572.html). Die beiden zentralen 
+Komponenten sollen eine Plattform im Hintergrund und eine App im Frontend 
+sein.
+Ziel ist, dass die App mithilfe von Künstlicher Intelligenz, einer Crawler-
+Technik und einem Assistenzsystem den Zugang zur Verwaltung erleichtert. 
+Die App soll dabei auf die bestehenden Dienste der Behörden zugreifen. Die 
+Bürgerinnen und Bürger sollen dann also nur mit der App interagieren und so 
+leichter Verwaltungsleistungen beantragen können (www.heise.de/hintergrun
+d/Interview-zur-Deutschland-App-Wie-KI-komplizierte-Antraege-entwirren-s
+oll-11306572.html). Die App soll eng verzahnt werden mit der EUDI-Wallet 
+(www.welt.de/politik/deutschland/article69ce6693cdf80d124bb0c3b6/digitalis
+ierung-bundesregierung-plant-deutschland-app-fuer-staatliche-leistunge
+n .html), deren Start die Bundesregierung – mit begrenztem
+Funktionsumfang – für den 2. Januar 2027 angekündigt hat. Auch eine Anbindung an die 
+Sozialplattform, die zukünftig zu einem One-Stop-Shop für die
+Sozialverwaltung ausgebaut werden soll, ist geplant (https://bmds.bund.de/aktuelles/presse
+mitteilungen/detail/sozialplattform-soll-zum-zentralen-digitalen-one-stop-sho
+p-fuer-die-sozialverwaltung-entwickelt-werden).
+Der Prototyp soll zunächst in sechs Pilotkommunen getestet werden:
+Dortmund, Dresden, Erfurt, Hamburg, Nürnberg und Wiesbaden (www.kommune2
+1.de/k21-meldungen/pilot-fuer-deutschland-app/). Er soll folgende Dienste 
+umfassen: Wohnsitzanmeldung, Kindergeld-Überprüfung, Kinderzuschlag, 
+Wohngeldantrag, GmbH-Gründung und Anträge auf Einmalleistungen (www.
+sueddeutsche.de/wirtschaft/deutschland-app-verwaltung-sap-telekom-digitalm
+inisterium-li.3526292?reduced=true). Die App wird dabei nur einem kleinen 
+Kreis von Personen zur Verfügung stehen (www.kommune21.de/k21-meldung
+en/pilot-fuer-deutschland-app/).
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Digitales und
+Staatsmodernisierung vom 30. September 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Die Bundesregierung verfolgt mit dem Innovationsvorhaben einer KI-basierten 
+Verwaltungsplattform (Arbeitstitel: „Deutschland-App“) das zentrale Ziel, die 
+Menschen im Alltag spürbar zu entlasten. Die Interaktion mit Staat und
+Verwaltung muss bürgernäher, effizienter, und verständlicher werden. Das
+Vorhaben erprobt deshalb eine Plattform, die Verwaltungsinformationen und -
+leistungen verschiedener föderaler Ebenen mithilfe von Künstlicher Intelligenz
+identifizieren, über einen zentralen Zugang bereitstellen und die Antragsstellung
+unterstützen kann.
+Als ein zentraler Zugangspunkt zu allgemeinen Verwaltungsleistungen soll die 
+zugehörige App eine komfortable, schnelle Alternative zum traditionellen Gang 
+ins Amt bieten. Künstliche Intelligenz soll künftig sowohl Bürgerinnen und 
+Bürgern als auch Unternehmen dabei helfen, Leistungen besser zu finden und 
+Anträge jederzeit und mit möglichst geringem Aufwand zu stellen. Hierfür 
+setzt die App insbesondere auch auf eine intelligente Nutzerführung, die eine 
+einfache, schnelle und dialogbasierte Antragstellung ermöglicht.
+Das Vorhaben ist in diesem Jahr gestartet. In der aktuell laufenden Projektphase 
+wird zunächst ein Prototyp entwickelt und vertestet. Im Fokus steht ein
+zeitnaher Machbarkeitsnachweis. Hierfür fokussiert der in der Entwicklung
+befindliche Prototyp zunächst auf ausgewählte Verwaltungsleistungen aus den
+Bereichen Familienleistungen, Wohnen, Soziales und Unternehmensgründung.
+ 1. Sind neben SAP und Telekom weitere Firmen an der Entwicklung der 
+Deutschland-App beteiligt, und wenn ja, welche?
+Vertragspartnerin des Bundesministeriums für Digitales und
+Staatsmodernisierung ist die T-Systems International GmbH, die die Entwicklung des Prototyps 
+der KI-basierten Verwaltungsplattform und der zugehörigen App als
+Generalunternehmerin im Auftrag des BMDS verantwortet.
+Die Auswahl und Steuerung der Nachunternehmer und Lieferanten sowie die 
+Zuordnung der jeweiligen Leistungsanteile obliegen der Generalunternehmerin.
+ 2. Ist die Vergabe des Entwicklungsauftrags durch eine öffentliche
+Ausschreibung erfolgt?
+a) Wenn nein, warum nicht?
+b) Gab es auch Gespräche mit anderen möglichen Anbietern,
+insbesondere mit solchen, die bereits Apps im Bereich der Digitalisierung
+öffentlicher Dienstleistungen entwickelt haben?
+Die Fragen 2 bis 2b werden gemeinsam beantwortet.
+Die Beauftragung erfolgte als Einzelabruf aus bestehenden Rahmenverträgen 
+aus dem Kaufhaus des Bundes mit der T-Systems International GmbH. Dem 
+Abschluss der Rahmenverträge ist jeweils ein wettbewerbliches
+Vergabeverfahren vorausgegangen; eine erneute Ausschreibung war für den Abruf nicht
+erforderlich.
+c) Nach welchen Kriterien ist die Entscheidung für SAP, Telekom und 
+gegebenenfalls weitere beteiligte Firmen gefallen?
+Die T-Systems International GmbH hatte das Vergabeverfahren über die
+ursprünglichen Kriterien der genutzten Rahmenvereinbarung gewonnen. Sie war 
+daher für die geforderten Leistungen zu beauftragen.
+d) Ist die Vergabe über den GovTechCampus bzw. GovTech Deutschland 
+erfolgt?
+Nein.
+ 3. Welche Verträge hat die Bundesregierung im Rahmen des Projekts 
+Deutschland-App geschlossen oder genutzt (bitte jeweils Vertragspartner, 
+Vertragsgegenstand, Vertragslaufzeit und Vertragsvolumen angeben und 
+gegebenenfalls Rahmenverträge mit einbeziehen)?
+Für die zeitlich begrenzte Initialphase werden bestehende Rahmenverträge aus 
+dem Kaufhaus des Bundes genutzt. Für unterstützende Leistungen werden
+daneben bestehende Rahmenverträge mit der KPMG AG
+Wirtschaftsprüfungsgesellschaft und der Capgemini Deutschland GmbH sowie Leistungen des ITZ-
+Bund in Anspruch genommen. Die Umfänge der tatsächlichen
+Leistungserbringung und der damit korrespondierende Mittelabfluss hängen insbesondere
+davon ab, ob und in welchem Umfang im Projektverlauf des Piloten verschiedene 
+Bausteine, optionale Leistungen oder Unterstützungsbedarfe beauftragt werden. 
+Die maximalen Vertragsvolumina, inklusive optionaler Vertragsbestandteile, 
+sind in nachfolgender Tabelle dargestellt:
+Vertragspartner Vertragsgegenstand Vertragslaufzeit Maximales
+Vertragsvolumen (netto)
+ITZBund Unterstützung Testing/Abnahme 06/2026–03/2027 553 482,52
+KPMG AG
+Wirtschaftsprüfungsgesellschaft
+Unterstützung Projektmanagement 06/2026–12/2026 319 700,00
+Capgemini Deutschland 
+GmbH
+Unterstützung Produktsteuerung 08/2026–01/2027 285 696,00
+Gesamtvolumen (netto) 1 158 878,52
+ 4. Welchen konkreten Auftrag haben SAP, Telekom und gegebenenfalls die 
+weiteren beteiligten Firmen derzeit in Bezug auf die Entwicklung der 
+Deutschland-App?
+a) Welche Funktionalitäten sind mit der Telekom, SAP und
+gegebenenfalls den weiteren beteiligten Firmen für den Prototyp für die 
+Deutschland-App konkret verbindlich vereinbart?
+c) Beschränkt sich der Auftrag auf den Prototyp oder ist auch die
+Entwicklung einer fertigen Version für den Roll-Out vereinbart?
+Die Fragen 4, 4a und 4c werden gemeinsam beantwortet.
+Gegenstand des Auftrages an die T-Systems International GmbH sind die
+Konzeption und Implementierung eines Prototyps der KI-basierten
+Verwaltungsplattform sowie einer zugehörigen App, anhand ausgewählter
+Verwaltungsleistungen aus den Bereichen Familienleistungen, Wohnen, Soziales und
+Unternehmensgründung. Optional kann sich ein begrenzter Probewirkbetrieb
+anschließen.
+Zu weitergehenden Einzelheiten der vereinbarten Leistungen kann keine
+Auskunft erteilt werden, da insoweit Betriebs- und Geschäftsgeheimnisse Dritter 
+sowie sicherheitsrelevante Belange betroffen sind.
+b) Welcher Zeitrahmen ist mit SAP, Telekom und gegebenenfalls den 
+weiteren beteiligten Firmen vereinbart?
+Vereinbart ist mit der T-Systems International GmbH eine Umsetzung in zwei 
+Stufen, einem Proof of Concept und einem darauf aufbauenden Minimum
+Viable Product mit anschließendem Friendly User Test. Die Umsetzung erfolgt 
+agil; Erkenntnisse fließen fortlaufend in die weitere Zeitplanung und
+Entwicklung ein.
+Für den optionalen begrenzten Probewirkbetrieb ist eine Betriebsdurchführung 
+von bis zu zwölf Monaten vorgesehen.
+Etwaige Vereinbarungen zum Zeitrahmen mit Nachunternehmern obliegen der 
+Generalunternehmerin.
+ 5. Wie hoch sind die bisherigen Kosten für die Bundesregierung für das 
+Projekt Deutschland-App, und welcher Anteil dieser Kosten entfällt
+jeweils auf die Beauftragung von SAP, Telekom und gegebenenfalls den 
+weiteren einzelnen beteiligten Firmen?
+Für diese zeitlich begrenzte Initialphase werden bestehende Rahmenverträge 
+aus dem Kaufhaus des Bundes genutzt. Die konkrete Kostenhöhe sowie
+Personentage hängen insbesondere davon ab, ob und in welchem Umfang im
+Projektverlauf des Piloten verschiedene Bausteine, optionale Leistungen oder
+Unterstützungsbedarfe beauftragt werden.
+ 6. Welche weiteren Kosten erwartet die Bundesregierung für das laufende 
+Haushaltsjahr für das Projekt Deutschland-App, und welcher Anteil
+dieser Kosten entfällt auf die Beauftragung von SAP, Telekom und den
+anderen beteiligten Firmen?
+Es wird auf die Antwort zu den Fragen 3 und 5 verwiesen.
+ 7. Nach welchen Kriterien hat das Bundesministerium für Digitales und 
+Staatsmodernisierung (BMDS) die sechs Pilotkommunen Dortmund, 
+Dresden, Erfurt, Hamburg, Nürnberg und Wiesbaden für die
+Deutschland-App ausgewählt?
+Für die Auswahl der Pilotkommunen für eine entwicklungsbegleitende
+Vertestung des Prototyps der KI-basierten Verwaltungsplattform wurden insbesondere 
+folgende Kriterien herangezogen: Fallaufkommen, Digitalisierungsgrad,
+Verwaltungsstruktur und Nutzergruppen.
+ 8. Wurden die kommunalen Entscheidungsgremien (Stadtrat, Bürgerschaft 
+etc.) bei der Entscheidung für die Pilotkommunen einbezogen, und wenn 
+ja, in welcher Form?
+Die Auswahl der Pilotkommunen ist in Abstimmungen zwischen dem
+Bundesministerium für Digitales und Staatsmodernisierung und den jeweiligen
+Kommunen erfolgt. Eine etwaige Einbeziehung kommunaler Entscheidungsgremien 
+obliegt den Kommunen. Eine vollständige Übersicht von Beteiligungen
+kommunaler Entscheidungsgremien, einschließlich Form, durch die jeweiligen 
+Kommunen liegt dem Bundesministerium für Digitales und
+Staatsmodernisierung nicht vor.
+ 9. Welche Treffen haben bisher zwischen Entwicklerinnen und Entwicklern 
+sowie den Pilotkommunen stattgefunden (bitte jeweils Datum, Thema 
+des Treffens und die Anwesenden [Funktion und Arbeitgeber genügen] 
+angeben)?
+Der Austausch mit den Pilotkommunen erfolgt fortlaufend im Rahmen der
+Projektarbeit, insbesondere in Abstimmungsformaten zur Vorbereitung und
+Begleitung der entwicklungsbegleitenden Tests. Beteiligt sind dabei je nach Thema 
+Vertreterinnen und Vertreter des BMDS, der T-Systems International GmbH als 
+Generalunternehmerin sowie der jeweiligen Pilotkommunen.
+Eine vollständige Aufstellung sämtlicher Termine zwischen der
+Generalunternehmerin und den Pilotkommunen einschließlich Datum, Thema und
+Teilnehmenden liegt dem Bundesministerium für Digitales und Staatsmodernisierung 
+nicht vor. Die Terminplanung und -durchführung obliegt insoweit den
+Beteiligten.
+10. Wie ist der derzeitige Entwicklungsstand des Prototyps, und liegt schon 
+eine Version vor, die für den Pilotbetrieb tatsächlich einsatzfähig ist?
+Im Fokus der aktuellen Projektphase steht eine zeitnahe Machbarkeitsprüfung. 
+Dies umfasst unter anderem die Durchführung mehrstufiger Funktionstests, 
+User Acceptance Tests und sowie Tests mit Friendly Usern in Pilotkommunen.
+Die entwicklungsbegleitenden Tests erfolgen bereits auf Basis früher Prototyp-
+Versionen. Der Funktionsumfang wird schrittweise erweitert. Für den späteren 
+Einsatz in einem Wirkbetrieb fließen die Erkenntnisse aus den
+entwicklungsbegleitenden Tests fortlaufend in die Weiterentwicklung des Prototyps ein. Das 
+Vorhaben wir zudem kontinuierlich durch das Bundesamt für Sicherheit in der 
+Informationstechnik (BSI) und die Bundesbeauftragte für den Datenschutz und 
+die Informationsfreiheit (BfDI) begleitet.
+11. Wird ein einheitlicher Prototyp für alle sechs Pilotkommunen entwickelt 
+und implementiert oder gibt es Unterschiede zwischen den
+Pilotkommunen, wenn ja, welche, und warum?
+Es wird ein einheitlicher Prototyp der KI-basierten Verwaltungsplattform und 
+der zugehörigen App entwickelt.
+12. Welche der geplanten Funktionen werden in den einzelnen Kommunen 
+konkret gerade entwickelt, und wie ist der Stand im Einzelnen (bitte für 
+jede Pilotkommune einzeln die geplanten Funktionen und den
+Entwicklungsstand nennen)?
+Die Entwicklung von Funktionen der KI-basierten Verwaltungsplattform und 
+der zugehörigen App wird durch die T-Systems International GmbH als
+Generalunternehmerin im Auftrag des BMDS verantwortet, nicht in den einzelnen 
+Kommunen. Darüber hinaus wird auf die Antwort zu Frage 11 verwiesen.
+13. Wie ist der aktuelle Zeitplan für die Pilotphase der Deutschland-App in 
+den sechs Pilotkommunen?
+a) Wann startet der Pilotbetrieb jeweils?
+b) Für welche Dauer ist der Pilotbetrieb jeweils geplant?
+c) Welche Meilensteine sind für den Pilotbetrieb jeweils vereinbart?
+Die Fragen 13 bis 13c werden gemeinsam beantwortet.
+Die Vertestung des Prototyps in den Pilotkommunen erfolgt in Rahmen von 
+entwicklungsbegleitenden Tests. Die Tests erfolgen phasenweise und sind
+bereits für dieses Jahr vorgesehen. Im Fokus steht eine Machbarkeitsprüfung.
+Ein Pilotbetrieb im Sinne eines begrenzten Wirkbetriebes kann sich optional 
+anschließen. Die Festlegung des Starts eines solchen Pilotbetriebes erfolgt auf 
+Basis der Erkenntnisse aus den laufenden entwicklungsbegleitenden Tests. Für 
+den optionalen begrenzten Probewirkbetrieb ist eine Betriebsdurchführung von 
+bis zu zwölf Monaten vorgesehen. Die ersten drei Monate gelten dabei als
+HyperCare-Phase mit verschärften SLA-Anforderungen. Danach ginge der
+begrenzte Wirkbetrieb planmäßig in den sogenannten „Steady State“ über.
+14. Wie viele Personen werden in den einzelnen Pilotkommunen Zugang zu 
+dem Prototyp der App bekommen, und wie werden diese bestimmt?
+Der Prototyp der KI-basierten Verwaltungsplattform sowie der zugehörigen 
+App wird mit verschiedenen Nutzergruppen vertestet. Ziel ist es, eine Vielfalt 
+möglicher Anforderungen frühzeitig zu berücksichtigen. Die Vertestung erfolgt 
+phasenweise und die Zahl der Testpersonen wird bedarfsbezogen angepasst. 
+Insgesamt werden jedoch absehbar mehrere Hundert Personen Zugang zu dem 
+Prototyp der App bekommen.
+15. Wie aussagekräftig ist der Pilotbetrieb für die Bundesregierung, wenn 
+mit der Anbindung der EUDI-Wallet eine zentrale Komponente noch gar 
+nicht zur Verfügung steht?
+Die KI-basierte Verwaltungsplattform ist als offene und modulare Plattform 
+konzipiert. Eine entwicklungsbegleitende und phasenweise Vertestung des
+Prototyps ist möglich. Weitere Komponenten können stufenweise ergänzt werden. 
+Bereits in der aktuellen Projektphase erfolgt eine prototypische Verbindung mit 
+der EUDI-Wallet und Vertestung im Rahmen der EUDI-Wallet-Sandbox.
+16. Welche Möglichkeiten der Authentifizierung werden jenseits der
+Anbindung an die EUDI-Wallet in der Deutschland-App in jedem akzeptiert 
+werden, wie z. B. die eID?
+Der Prototyp der KI-basierte Verwaltungsplattform und zugehörigen App
+umfasst die Identifikation und Authentifizierung über die eID-Funktion des
+Personalausweises.
+17. Welchen konkreten Mehrwert sieht die Bundesregierung in Bezug auf 
+Leistungen der Sozialverwaltung durch die Deutschland App, wenn sie 
+gleichzeitig die Sozialplattform als One-Stop-Shop für Leistungen der 
+Sozialverwaltung ausbauen will?
+Die App soll nativ mobil den zentralen Zugang zu allgemeinen
+Verwaltungsleistungen ermöglichen und eine KI- sowie sprachbasierte Nutzerführung
+bieten. Die fachspezifische Sozialplattform ermöglicht entlang sozialer
+Lebenslagen den Zugang zu Sozialleistungen, bindet Fachverfahren an und bietet KI-
+Unterstützung in der Antragstellung. Die App setzt auf bestehenden
+Angeboten, auch der Sozialplattform, auf.
+18. Ist neben der App auch die Möglichkeit geplant, die Plattform über ein 
+Webinterface nutzen zu können, und wenn ja, welchen Zeitplan gibt es 
+dafür?
+Für den Prototyp der KI-basierten Verwaltungsplattform wird zunächst ein
+Mobile Client entwickelt. Bereits in der Prototyp-Phase ist die Möglichkeit einer 
+Nutzung der KI-basierten Verwaltungsplattform über ein Web-Interface
+konzeptionell berücksichtigt. Die zeitliche Konkretisierung einer Einbindung in ein 
+Web-Interface durch das BMDS erfolgt im Zuge des weiteren Projektverlaufs, 
+insbesondere auf Basis der Erkenntnisse aus den entwicklungsbegleitenden 
+Tests. Darüberhinausgehend sollen Funktionalitäten der Plattform zukünftig 
+auch von weiteren Frontend-Systemen eingebunden werden können.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
