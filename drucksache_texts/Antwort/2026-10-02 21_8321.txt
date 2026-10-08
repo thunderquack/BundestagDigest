@@ -1,0 +1,288 @@
+Deutscher Bundestag Drucksache 20/8321
+20. Wahlperiode 02.10.2023
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Ruben Rupp, Robin Jünger, Alexander 
+Arpaschi, weiterer Abgeordneter und der Fraktion der AfD 
+– Drucksache 21/7893 –
+Effiziente Strafverfolgung im digitalen Raum – Technische Methoden und digitale 
+Analyseverfahren des Bundeskriminalamts gegen Kinderpornografie
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Bekämpfung der Verbreitung von Darstellungen sexualisierter Gewalt 
+gegen Kinder (oftmals als Child Sexual Abuse Material (CSAM) bezeichnet) 
+und des sexuellen Missbrauchs von Kindern zählt zu den dringlichsten
+Aufgaben der deutschen Strafverfolgungsbehörden. Die fortschreitende
+Digitalisierung und die zunehmende Nutzung verschlüsselter Messengerdienste,
+globaler Cloudspeicher sowie international agierender Plattformen führen dazu, 
+dass Komplexität und Umfang entsprechender Ermittlungsverfahren in den 
+vergangenen Jahren massiv zugenommen haben. Gleichzeitig stehen Ermittler 
+vor der Herausforderung, stetig anwachsende und hochgradig datenintensive 
+Beweismengen forensisch auszuwerten.
+Die Dimension des Problems wird durch die offiziellen Zahlen des
+Bundeskriminalamts (BKA) verdeutlicht. Laut dem Bundeslagebild „Sexualdelikte zum 
+Nachteil von Kindern und Jugendlichen 2024“ verbleiben die registrierten 
+Straftaten des sexuellen Kindesmissbrauchs mit 16 354 Fällen auf einem
+hohen Niveau über dem Fünfjahresdurchschnitt, dabei wurden 18 085 Opfer 
+unter 14 Jahren erfasst (www.bka.de/DE/AktuelleInformationen/StatistikenLa
+gebilder/Lagebilder/SexualdeliktezNvKindernuJugendlichen/SexualdeliktezN
+vKindernuJugendlichen_node.html). Einen historischen Höchstwert erreichte 
+das Lagebild bei der Herstellung, Verbreitung, dem Erwerb und Besitz
+jugendpornografischer Inhalte mit 9 601 Fällen, was einem Anstieg von 8,5 Prozent 
+gegenüber dem Vorjahr entspricht (www.bka.de/DE/AktuelleInformationen/St
+atistikenLagebilder/Lagebilder/SexualdeliktezNvKindernuJugendlichen/Sexua
+ldeliktezNvKindernuJugendlichen_node.html). Die Delikte rund um
+kinderpornografische Inhalte verharren trotz eines leichten statistischen Rückgangs 
+bei 42 854 erfassten Fällen weiterhin auf einem hohen Niveau (www.bka.de/D
+E/AktuelleInformationen/StatistikenLagebilder/Lagebilder/SexualdeliktezNv
+KindernuJugendlichen/SexualdeliktezNvKindernuJugendlichen_node.html). 
+Sowohl das BKA als auch kriminologische Experten betonen jedoch, dass 
+diese Zahlen lediglich das Hellfeld der polizeilichen Registrierung abbilden. 
+Die tatsächliche Dunkelziffer an Opfern sexualisierter Gewalt sowie an
+unentdecktem Bild- und Videomaterial im Netz wird auf ein Vielfaches geschätzt 
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern
+vom 2. Oktober 2023 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+(www.swr.de/swraktuell-radio/das-problem-bei-der-bekaempfung-von-kindes
+missbrauch-ist-die-dunkelziffer-100.html).
+Eine zentrale Rolle bei der Erkennung dieser Delikte nimmt das BKA als 
+nationale Zentralstelle ein. Dies zeigt sich insbesondere an der Flut digitaler 
+Hinweise aus dem Ausland. Im Jahr 2024 leitete das US-amerikanische
+National Center for Missing and Exploited Children (NCMEC) insgesamt 205 728 
+Verdachtsmeldungen an das BKA weiter (www.bka.de/DE/AktuelleInformatio
+nen/StatistikenLagebilder/Lagebilder/SexualdeliktezNvKindernuJugendliche
+n/SexualdeliktezNvKindernuJugendlichen_node.html). Davon stufte das BKA 
+mit 106 353 Hinweisen mehr als die Hälfte nach deutschem Recht als
+strafrechtlich relevant ein (www.bka.de/DE/AktuelleInformationen/StatistikenLag
+ebilder/Lagebilder/SexualdeliktezNvKindernuJugendlichen/SexualdeliktezNv
+KindernuJugendlichen_node.html).
+Vor diesem Hintergrund wurden beim Bundeskriminalamt spezialisierte
+Organisationseinheiten ausgebaut, um im Rahmen der gesetzlichen
+Zentralstellenfunktion die steigende Zahl an Verfahren und die immensen Datenmengen
+bewältigen zu können. Zu den Kernaufgaben dieser Einheiten gehört es, die 
+Bundesländer bei der Identifizierung unbekannter Opfer und Täter zu
+unterstützen sowie nationale und internationale Ermittlungs- und
+Auswertungsmaßnahmen zu koordinieren. Die Bewältigung dieser stetig anwachsenden
+Beweismengen im digitalen Raum erfordert von den zuständigen Strukturen den 
+Einsatz moderner technischer, operativer und kriminalistischer Werkzeuge. 
+Die polizeiliche Praxis steht dabei vor der Herausforderung, neben
+herkömmlichen Ermittlungsmethoden auch auf softwaregestützte Verfahren zur Bild- 
+und Videoanalyse sowie auf moderne Methoden zur Strukturierung
+forensischer Massendaten zurückzugreifen, um eine zeitnahe Auswertung überhaupt 
+zu ermöglichen.
+Während die öffentliche Berichterstattung meist auf aggregierte Fallzahlen 
+oder einzelne Ermittlungserfolge blickt, bleibt für die parlamentarische
+Kontrolle weitgehend unklar, wie die im BKA installierten Spezialstrukturen im 
+Detail arbeiten und wie deren Effektivität bemessen wird. Es besteht daher ein 
+erhebliches parlamentarisches Informationsbedürfnis darüber, welche
+konkreten digitalen Ermittlungsmethoden und technischen Hilfsmittel angewandt 
+werden, in welchem Maße automatisierte Verfahren die Sichtung des
+Materials unterstützen und anhand welcher Kriterien die Bundesregierung die
+Erfolgsquote, den Ressourceneinsatz und die Effizienz dieser spezialisierten 
+Strukturen bewertet.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Die Bekämpfung der Verbreitung von Darstellungen sexualisierter Gewalt 
+gegen Kinder sowie des sexuellen Missbrauchs von Kindern stellt eine der
+prioritären Aufgaben der deutschen Strafverfolgungsbehörden dar.
+Das BKA nimmt im polizeilichen Gefüge des Bundes und der Länder im
+Deliktsbereich Sexualdelikte zum Nachteil von Kindern und Jugendlichen eine 
+Zentralstellenfunktion wahr. Für die Strafverfolgung sind nach der
+Kompetenzordnung des Grundgesetzes grundsätzlich die Strafverfolgungsbehörden der 
+Länder zuständig. Die im BKA spezialisierte Gruppe SO4 unterstützt die
+Länder insbesondere koordinierend. In der Funktion als nationale Zentralstelle 
+übernimmt das BKA auch die Verarbeitung internationaler Hinweise und den 
+Austausch mit internationalen Partnern.
+ 1. Wie stellt sich die personelle und materielle Ausstattung der
+spezialisierten Gruppe SO 4 (Gewalt- und Sexualdelikte zum Nachteil von Kindern 
+und Jugendlichen) im BKA im laufenden Haushaltsjahr 2026 dar (bitte 
+nach Referaten, Planstellen, tatsächlich besetzten Stellen sowie Sach- 
+und IT-Mitteln aufschlüsseln)?
+Für den Arbeitsbereich Sexualdelikte zum Nachteil von Kindern und
+Jugendlichen sind zurzeit 130 Planstellen im BKA vorgesehen. Die bis dato in 2026 
+verausgabten Sach- und IT-Mittel im Bereich Sexualdelikte zum Nachteil von 
+Kindern und Jugendlichen belaufen sich auf insgesamt 553 500 Euro. Zur
+Erreichung des gesetzlichen Auftrags des Gesetzes über das BKA und die
+Zusammenarbeit des Bundes und der Länder in kriminalpolizeilichen
+Angelegenheiten und im Kontext phänomenologischer Entwicklungen werden die
+vorhandenen (Personal-)Ressourcen schwerpunktbasiert priorisiert und zugewiesen.
+Eine sorgfältige Abwägung hat zu dem Ergebnis geführt, dass eine
+darüberhinausgehende Beantwortung der Frage aus Gründen des Staatswohls nicht – 
+auch nicht eingestuft – erfolgen kann. Die erbetenen Auskünfte sind
+geheimhaltungsbedürftig, weil sie Informationen enthalten, die im Zusammenhang mit 
+der Arbeitsweise und strategischen Entwicklung des BKA stehen. Würde die 
+Frage offen beantwortet, ließe dies im Ergebnis weitgehende Rückschlüsse auf 
+die kriminaltaktischen und kriminaltechnischen Fähigkeiten und Arbeitsweisen 
+des BKA sowie auf aktuelle und künftige Schwerpunktsetzungen zu. Dadurch 
+steht zu befürchten, dass die zur effektiven Strafverfolgung und
+Gefahrenabwehr notwendigen taktischen und technischen Fähigkeiten des BKA in
+erheblicher Weise negativ beeinflusst und somit auch zukünftige Maßnahmen der
+verdeckten und forensischen Informationsgewinnung erheblich erschwert
+beziehungsweise unmöglich werden. Eine öffentliche Bekanntgabe der erbetenen
+Informationen birgt das Risiko, dass die Entwicklung und die
+Schwerpunktsetzung bei der Bekämpfung von Sexualdelikten zum Nachteil von Kindern und 
+Jugendlichen auch unbefugten Dritten zur Kenntnis gelangen und dadurch die 
+Interessen der Bundesrepublik Deutschland oder eines ihrer Länder gefährdet 
+oder geschädigt werden. Insbesondere durch die Auskunft über die tatsächlich 
+besetzten Stellen und die Aufschlüsselung von Sach- und IT-Mitteln könnten 
+Rückschlüsse auf die Arbeitsweise und Schwerpunktsetzung des BKA gezogen 
+werden. Eine Offenlegung der entsprechenden Information würde die
+Aufgabenerfüllung des BKA beeinträchtigen, was wiederum schädlich für die
+Interessen der Bundesrepublik Deutschland wäre. Selbst die Bekanntgabe unter 
+Wahrung des Geheimschutzes durch die Übermittlung an die
+Geheimschutzstelle des Deutschen Bundestages birgt das geringfügige Risiko des
+Bekanntwerdens, das unter keinen Umständen hingenommen werden kann Die
+Information über die tatsächlich besetzten Stellen und die Aufschlüsselung von 
+Sach- und IT-Mitteln könnten Rückschlüsse auf die Arbeitsweise und
+Schwerpunktsetzung des BKA möglich machen. Insbesondere eine Verknüpfung mit 
+weiteren Informationsfragmenten aus anderen Quellen könnte auch
+Rückschlüsse auf die Personalsituation und -entwicklung der Abteilungen und
+Fachbereiche sowie entsprechende Bedarfseinschätzungen zulassen. Insbesondere 
+Angaben zur Stellenverteilung, die über die öffentlich bekannten Strukturdaten 
+über das BKA hinausgehen, sind daher aus Gründen der operativen Sicherheit 
+nicht angezeigt. Angesichts der beschriebenen besonderen Sensibilität der
+erfragten Daten ist ausnahmsweise auch eine eingestufte Zugänglichmachung 
+nicht möglich. Das Fragerecht der Abgeordneten muss hier daher
+ausnahmsweise gegenüber den Geheimhaltungsinteressen der Bundesregierung
+zurückstehen.
+ 2. Wie viele der in der Gruppe SO 4 beschäftigten Mitarbeiter sind speziell 
+im Bereich der IT-Forensik, Datenanalyse und Softwareentwicklung 
+tätig?
+In der Gruppe SO4 des BKA sind zwei Mitarbeitende mit den bezeichneten 
+Aufgaben betraut. Anlassbezogen erfolgt eine Unterstützung durch IT-
+Forensikerinnen und IT-Forensiker anderer Servicebereiche.
+ 3. In welchem Umfang und mit welchen spezifischen Softwarelösungen 
+nutzt das BKA das sogenannte Hashing-Verfahren, um bekanntes Bild- 
+und Videomaterial in sichergestellten Datenträgern oder Datenströmen 
+automatisiert zu identifizieren?
+Ein Abgleich von Bild- und Videomaterialien auf sichergestellten Datenträgern 
+mit Hashlisten erfolgt anlassbezogen und lediglich zum Zweck einer
+Vorfilterung kinderpornografischen Materials. Anschließend erfolgt in jedem Fall eine 
+manuelle Auswertung der sich auf dem Datenträger befindlichen Dateien. Als 
+Vergleichsbasis werden mehrere Millionen von Hashwerten polizeilich
+bekannter kinder- und jugendpornografischer Bilder und Videos genutzt. Das BKA 
+nutzt für den Abgleich Produkte der Firma Magnet Forensics. Ein
+automatisierter Hashlistenabgleich von Datenströmen erfolgt innerhalb der Gruppe SO4 des 
+BKA nicht.
+ 4. Wie wird sichergestellt, dass bei der Nutzung von Hashing-Verfahren die 
+Fehlerquote minimiert wird, und findet vor einer strafrechtlichen
+Verfolgung in jedem Fall eine manuelle Verifizierung durch menschliche
+Ermittler statt?
+Durch die Nutzung standardisierter Verfahren, wird sichergestellt, dass bei der 
+Verwendung von Hashing-Verfahren die Fehlerquote minimiert wird.
+Vor einer strafrechtlichen Verfolgung findet in jedem Fall eine manuelle
+Verifizierung durch Ermittlerinnen und Ermittler statt.
+ 5. Inwieweit nutzt das BKA Hashing-Datenbanken im internationalen
+Verbund (z. B. über Europol, Interpol oder das NCMEC), und wie ist der 
+datenschutzkonforme Austausch dieser Hashwerte rechtlich und
+technisch geregelt?
+Das BKA nutzt im Rahmen seiner gesetzlichen Zuständigkeit den
+datenschutzkonformen Austausch von Hashwerten. Dem BKA werden Hashes von Europol 
+und Interpol über die jeweiligen Plattformen zur Verfügung gestellt.
+Über den Abgleich von im Zuge der polizeilichen Ermittlungsarbeit erlangten 
+Bild- und Videodateien mit den im Rahmen des internationalen Austausches 
+zur Verfügung gestellten Hashwerten soll festgestellt werden, ob es sich um 
+neues, das heißt der Polizei noch nicht bekanntes, Material handelt. Sofern es 
+sich um Material handelt, was einen noch nicht geklärten und unter Umständen 
+noch andauernden sexuellen Missbrauch von Kindern zeigt, können geeignete 
+Maßnahmen zur Aufklärung und gegebenenfalls Beendigung des Missbrauchs 
+eingeleitet werden.
+ 6. Welche konkreten KI-gestützten oder automatisierten Bild- und
+Videoanalyseverfahren (z. B. zur Erkennung von Mustern, Objekten oder zur 
+Altersbestimmung auf Bilddateien) werden im BKA derzeit erprobt oder 
+bereits im Wirkbetrieb eingesetzt, um bisher unbekanntes Material
+vorzusortieren?
+Das BKA nutzt und erprobt keine KI-gestützten oder automatisierten Bild- und 
+Videoanalyseverfahren, um bisher unbekanntes Material vorzusortieren.
+ 7. Setzt das BKA im Rahmen der Bekämpfung von CSAM im In- oder 
+Ausland verdeckte Ermittlungsmethoden ein, bei denen eigene
+Plattformen, Foren oder Server als sogenannte Honeypots betrieben oder
+übernommen werden, um die Identität von Nutzern aufzudecken?
+a) Wenn ja, auf welchen rechtlichen Grundlagen (z. B. im
+Bundeskriminalamtgesetz oder der Strafprozessordnung) basiert das Betreiben 
+oder die Infiltration solcher Honeypots?
+b) Wenn ja, wie wird dabei das Spannungsfeld gelöst, dass staatliche 
+Stellen zur Aufrechterhaltung der Plattform unter Umständen
+illegales Material hosten, übertragen oder zugänglich machen müssen 
+(Problematik der staatlichen Tatprovokation bzw. Strafbarkeit der
+Ermittler)?
+Die Fragen 7 bis 7b werden gemeinsam beantwortet.
+Das BKA setzt keine der in der Fragestellung genannten Methoden ein.
+ 8. In wie vielen Fällen in den Jahren 2023, 2024 und 2025 haben Ermittler 
+des BKA verdeckt auf ausländischen Foren, Darknet-Marktplätzen oder 
+Chatplattformen agiert, und wie viele Täteridentifizierungen konnten 
+hieraus direkt abgeleitet werden?
+Die Anzahl der Fälle wird beim BKA, Gruppe SO4 statistisch nicht erfasst. 
+Verdeckte Ermittlungsmaßnahmen werden in der Regel nicht isoliert eingesetzt, 
+sondern als Teilelement. Eine Erhebung, welche der Einzelmaßnahmen letztlich 
+zur Identifizierung eines Täters geführt hat, erfolgt daher nicht.
+ 9. Wie stellt sich der genaue technische und administrative Ablauf dar,
+sobald eine Verdachtsmeldung des US-amerikanischen National Center for 
+Missing and Exploited Children (NCMEC) beim BKA eingeht (bitte den 
+Weg von der automatisierten Filterung bis zur Weiterleitung an die
+Bundesländer skizzieren)?
+Das National Center for Missing and Exploited Children leitet digital Hinweise 
+an das BKA als zentrale Eingangsstelle für Deutschland weiter. Das BKA prüft 
+die Hinweise hinsichtlich der strafrechtlichen Relevanz. Nach Feststellung 
+einer entsprechenden Relevanz sowie einer örtlichen Zuständigkeit werden die 
+Hinweise digital an das Landeskriminalamt des örtlich zuständigen Landes 
+weitergeleitet.
+10. Wie hoch war die durchschnittliche Bearbeitungszeit einer NCMEC-
+Meldung im BKA im Jahr 2024 und 2025 von der Übermittlung bis zur 
+Abgabe an das zuständige Bundesland?
+Daten zur Bearbeitungszeit werden beim BKA nicht statistisch erfasst.
+11. Wie viele der im Jahr 2024 vom BKA als strafrechtlich relevant
+eingestuften 106 353 NCMEC-Hinweise führten nach Kenntnis der
+Bundesregierung in den Bundesländern zu
+a) der Einleitung eines Ermittlungsverfahrens,
+b) der Durchführung von Durchsuchungsmaßnahmen,
+c) einer Anklageerhebung oder Verurteilung?
+Der Fortgang der an die Länder abgegebenen Hinweise des National Center for 
+Missing and Exploited Children im Hinblick auf die Einleitung von
+Ermittlungsverfahren, Durchführung von Durchsuchungsmaßnahmen und
+Anklageerhebungen oder Verurteilungen wird beim BKA nicht statistisch erfasst.
+12. Welche technischen oder rechtlichen Hürden bestehen beim direkten
+Datenaustausch und der IT-Interoperabilität zwischen der Spezialgruppe 
+SO 4 des BKA und den entsprechenden Dienststellen der 16
+Bundesländer?
+Zur Verbesserung der IT-Interoperabilität zwischen dem BKA und den Ländern 
+auf dem Gebiet der Sexualdelikte zum Nachteil von Kindern und Jugendlichen 
+wurde ein technischer Standard für den direkten Datenaustausch entwickelt, 
+welcher fortlaufend angepasst und optimiert wird. Rechtliche Hürden bestehen 
+nicht, der Informationsaustausch erfolgt gemäß § 2 Absatz 2 Nummer 2 des 
+Bundeskriminalamtgesetzes.
+13. Inwieweit sind die im BKA genutzten Analysewerkzeuge vollumfänglich 
+mit den Systemen der Bundesländer kompatibel, und welche
+Verzögerungen ergeben sich durch Medienbrüche bei der Übermittlung digitaler 
+Beweismittel?
+Durch den ständigen Austausch des BKA mit den Ländern ergeben sich keine 
+Verzögerungen, da die Übermittlung von digitalem Beweismaterial
+medienbruchfrei erfolgt.
+14. Anhand welcher konkreten, messbaren Indikatoren bewertet das BKA 
+die Effektivität und den Erfolg seiner spezialisierten Einheiten im
+Bereich der CSAM-Bekämpfung?
+Das BKA kann durch Ermittlungs- und Identifizierungserfolge durch die
+effiziente Bewältigung der stetig steigenden Anzahl von Hinweisen und
+polizeilichen Vorgängen sowie durch die Verfügbarkeitsstörung und -reduzierung
+Erfolge messen. Da die polizeiliche Arbeit insbesondere das Hellfeld abbildet, ist 
+eine isolierte Messung der Effektivität anhand einzelner Kennzeichen jedoch 
+nicht möglich.
+15. Welche der eingesetzten Methoden haben nach Einschätzung der
+Bundesregierung in den vergangenen fünf Jahren den größten Beitrag zur 
+Identifizierung von Opfern und Tatverdächtigen geleistet?
+Einen wesentlichen Beitrag zur Identifizierung von Betroffenen im Rahmen der 
+polizeilichen Maßnahmen des BKA im vorliegenden Deliktsbereich ergibt sich 
+aus der guten Zusammenarbeit der verschiedenen national und international
+zuständigen Dienststellen mit ihren jeweils spezialisierten Fähigkeiten.
+16. Welche Maßnahmen plant die Bundesregierung, um die Wirksamkeit der 
+eingesetzten Methoden zur Bekämpfung von Darstellungen sexualisierter 
+Gewalt gegen Kinder weiter zu erhöhen?
+Die Identifizierung von Handelnden anhand von IP-Adressen stellt ein
+wesentliches Instrument bei internetbasierten Straftaten dar. Die geplante
+Verpflichtung für Zugangsprovider, IP-Adressen befristet zu speichern, wird die
+Identifizierung von Tatverdächtigen und Opfern in vielen Fällen erleichtern oder sogar 
+erst ermöglichen.
+Im Bereich Löschung von Missbrauchsmaterial werden die eingesetzten
+Methoden in Abstimmung mit den Beschwerdestellen kontinuierlich evaluiert und 
+angepasst.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

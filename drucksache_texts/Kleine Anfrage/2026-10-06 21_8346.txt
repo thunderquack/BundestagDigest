@@ -1,0 +1,333 @@
+Deutscher Bundestag Drucksache 21/8346
+21. Wahlperiode 06.10.2026
+Kleine Anfrage
+der Abgeordneten Tobias Matthias Peterka, Ronald Gläser, Thomas Ladzinski, 
+Dr. Christoph Birghan, Ulrich von Zons, Peter Boehringer, Dr. Götz Frömming, 
+Wolfgang Wiehle, Dr. Malte Kaufmann, Thomas Dietz, Dr. Michael Kaufmann, 
+Alexis L. Giersch, Edgar Naujok, René Bochmann, Udo Theodor Hemmelgarn, 
+Martina Uhr, Jörg Zirwes, Kay-Uwe Ziegler, Heinrich Koch, Adam Balten, 
+Dr. Maximilian Krah, Stefan Keuter und der Fraktion der AfD
+Cyberangriff auf Teile der Berliner Landesverwaltung – mögliche Betroffenheit 
+und Schutz von Bundesdaten sowie Handeln der Bundesbehörden
+Am 11. Dezember 2023 war Manuel Atug, Gründer und Sprecher der
+unabhängigen AG KRITIS, in der Anhörung des Ausschusses für Inneres, Sicherheit 
+und Ordnung im Abgeordnetenhaus von Berlin als Sachverständiger zum
+Thema „Schutz vor Cyberangriffen: Stand und Entwicklungen“ geladen. Dort
+wurde er gefragt:
+„»Wie steht es um die gesamte Sicherheit oder die Sicht der Sicherheit in
+Berlin?« »Kurz und knapp: Gruselig und desolat wie in allen Bundesländern und 
+auch auf der Bundesebene, weil alle von Befugnissen, Tätern oder Palantir und 
+KI und Quellen-TKÜ reden, statt von Resilienz und
+Basissicherheitsmaßnahmen. Ich komme immer wieder auf diese zwei Punkte, weil das die wirkliche 
+Abwehr von Angriffen ist, und dann verpuffen die wirkungslos.«“
+(Wortprotokoll über die 27. Sitzung des Ausschusses für Inneres, Sicherheit und Ordnung 
+des Abgeordnetenhauses Berlin vom 11. Dezember 2023, abrufbar unter: www.
+parlament-berlin.de/ados/19/InnSichO/protokoll/iso19-027-wp.pdf).
+Im August 2026 wurden informationstechnische Systeme von Teilen der
+Berliner Landesverwaltung Ziel eines schwerwiegenden Cyberangriffs. Betroffen 
+waren die Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt 
+sowie die Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen. Der 
+SPIEGEL berichtete am 5. September 2026 hinter dem Angriff stehe die
+bekannte Ransomware-Gruppierung Rhysida (www.spiegel.de/panorama/hackera
+ngriff-in-berlin-gehaltslisten-kontoinformationen-kanzleramts-plaene-das-ist-zu
+m-leak-bekannt-a-bb6ae0de-e978-4d58-9e05-80383f156b68). Diese habe vom 
+Land Berlin die Zahlung von 30 Bitcoin, umgerechnet rund zwei Millionen 
+Euro, verlangt. Nachdem das Land Berlin die Forderung nicht erfüllt hatte,
+veröffentlichte Rhysida die erlangten Daten nach Ablauf des Ultimatums im
+Darknet. „DER SPIEGEL“ bezifferte den Umfang des veröffentlichten Datenpakets 
+auf rund 5,8 Terabyte (ebd.).
+Zum genauen Umfang des veröffentlichten Datenbestandes liegen
+unterschiedliche Angaben vor. Die Neue Zürcher Zeitung (NZZ) berichtete am 8.
+September 2026 von 1,44 Millionen Dateien mit einem Gesamtumfang von 5,8
+Terabyte, die zwischen dem 7. und dem 12. August 2026 aus der Berliner
+Landesverwaltung abgeflossen seien (www.nzz.ch/der-andere-blick/deutschland-kann-
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+nicht-jede-attacke-verhindern-aber-es-koennte-endlich-vorbereitet-sein-ld.1002
+2755). Der SPIEGEL berichtete am 7. September 2026 von rund 1,2 Millionen 
+zu diesem Zeitpunkt abrufbaren Dateien und wies darauf hin, dass das Land 
+Berlin den vollständigen Datenbestand noch nicht heruntergeladen und
+ausgewertet hatte (www.spiegel.de/panorama/cyberattacke-in-berlin-das-ist-das-aus
+mass-des-datenleaks-in-der-hauptstadt-a-4e953a20-cd77-4a7a-b284-5498d927
+aa78). Die Präsidentin des Bundesamtes für Sicherheit in der
+Informationstechnik (BSI), Claudia Plattner, erklärte nach diesem Bericht im Ausschuss für
+Digitalisierung und Datenschutz des Abgeordnetenhauses von Berlin, dass die 
+Bewältigung der Krise noch einige Zeit in Anspruch nehmen werde (www.spie
+gel.de/panorama/cyberattacke-in-berlin-das-ist-das-ausmass-des-datenleaks-
+inder-hauptstadt-a-4e953a20-cd77-4a7a-b284-5498d927aa78).
+Die NZZ berichtete am 8. September 2026, unter den veröffentlichten
+Informationen befänden sich Angaben zu Heizkraftwerken, Tanklagern,
+Notstromanlagen und Umspannwerken sowie Informationen über Gefängnisse, Wasserwerke 
+und Rüstungsunternehmen (www.nzz.ch/der-andere-blick/deutschland-kann-ni
+cht-jede-attacke-verhindern-aber-es-koennte-endlich-vorbereitet-sein-ld.1002
+2755). Zudem seien Daten mit Bezug zur Bundeswehr und zur Berliner
+Innenverwaltung veröffentlicht worden, die Verteidigungsangelegenheiten beträfen 
+(www.nzz.ch/der-andere-blick/deutschland-kann-nicht-jede-attacke-verhinder
+n-aber-es-koennte-endlich-vorbereitet-sein-ld.10022755). Die Zeitung wies 
+darauf hin, dass die erlangten Informationen unter anderem von ausländischen 
+Diensten, Saboteuren, Erpressern oder anderen Kriminellen genutzt werden 
+könnten (https://www.nzz.ch/der-andere-blick/deutschland-kann-nicht-jede-atta
+cke-verhindern-aber-es-koennte-endlich-vorbereitet-sein-ld.10022755).
+Nach einem Bericht der Tageszeitung vom 6. September 2026 teilte das
+Bundesamt für Sicherheit in der Informationstechnik mit, für Betroffene des
+Datenlecks bestehe die Gefahr von Identitätsdiebstahl und gezielten Phishing-
+Angriffen (https://taz.de/Fiasko-nach-Hackerangriff-in-Berlin/!6210542/). 
+Angaben zu kritischen Infrastrukturen, Unternehmen und Organisationen
+könnten zudem von fremden Mächten oder Terroristen missbraucht werden und
+abhängig von der Sensibilität der veröffentlichten Informationen die
+Bedrohungslage erhöhen. Nach demselben Bericht beteiligen sich auch das
+Bundeskriminalamt und das Bundesamt für Verfassungsschutz an der Aufarbeitung.
+Von besonderer Bedeutung ist für die Fragesteller die mögliche Betroffenheit 
+des Bundes. „DER SPIEGEL“ berichtete am 5. September 2026, eine
+Stichprobe des veröffentlichten Datenbestandes habe mehr als 550 Dateien mit Bezug 
+zur Erweiterung des Bundeskanzleramtes ergeben (www.spiegel.de/panorama/
+hackerangriff-in-berlin-gehaltslisten-kontoinformationen-kanzleramts-plaene-d
+as-ist-zum-leak-bekannt-a-bb6ae0de-e978-4d58-9e05-80383f156b68).
+Darunter befänden sich Gutachten, Pläne und Stellungnahmen. In weiteren Berichten 
+wurde zudem auf Unterlagen mit Bezug zur Bundeswehr und zu
+Verteidigungsangelegenheiten hingewiesen.
+Die Frankfurter Allgemeine Zeitung (FAZ) berichtete am 7. September 2026, 
+das Bundesministerium des Innern habe auf Anfrage mitgeteilt, dass das
+Bundesamt für Sicherheit in der Informationstechnik, das Bundeskriminalamt und 
+das Bundesamt für Verfassungsschutz das Land Berlin bei der Auswertung
+unterstützen (www.faz.net/aktuell/politik/inland/hackerangriff-berlin-schadensana
+lyse-dauert-wochen-201204151.html). Ein Sprecher der Bundesregierung habe 
+zugleich erklärt, Datensysteme des Bundes seien nach damaligem
+Kenntnisstand nicht betroffen. Eine Sprecherin des Operativen Führungskommandos der 
+Bundeswehr habe auf die laufende Auswertung möglicher Sicherheitsrisiken 
+verwiesen und angekündigt, nach deren Analyse die erforderlichen
+Maßnahmen zur Wahrung der militärischen Sicherheit einzuleiten. Zwischen den betei-
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+ligten Behörden erfolge nach Angaben der Bundesregierung ein
+kontinuierlicher Informationsabgleich auch über das Nationale Cyber-Abwehrzentrum.
+Die Aussage, Datensysteme des Bundes seien nach damaligem Kenntnisstand 
+nicht betroffen, beantwortet jedoch nicht die davon zu unterscheidende Frage, 
+ob Daten des Bundes, die auf informationstechnischen Systemen des Landes 
+Berlin gespeichert oder verarbeitet wurden, durch den Angriff kompromittiert 
+und veröffentlicht worden sind. Gerade die Unterscheidung zwischen einer
+unmittelbaren technischen Kompromittierung von Bundesnetzen und einer
+mittelbaren Kompromittierung von Bundesdaten auf Systemen eines Landes bildet 
+nach Auffassung der Fragesteller einen wesentlichen Aufklärungsgegenstand.
+Die Berliner Morgenpost berichtete am 7. September 2026, der Berliner
+Staatssekretär für Digitalisierung und Verwaltungsmodernisierung Florian Hauer
+habe erklärt, nach dem damaligen Stand seien lediglich Daten des
+Geheimhaltungsgrades „VS-NUR FÜR DEN DIENSTGEBRAUCH“ betroffen (www.mor
+genpost.de/berlin/article413089623/hackerangriff-senat-beruhigt-keine-hochsic
+herheitsdaten-betroffen.html). Mit Blick auf Einrichtungen des Bundes, die 
+Bundeswehr und die nationale Sicherheit seien nach seiner Darstellung keine 
+Daten mit erhöhter Sensibilität und Sicherheitsrelevanz kompromittiert worden. 
+Zugleich betonte Hauer nach dem Bericht, dass die Prüfung von mehr als 
+1,2 Millionen Dateien noch andauere und jede Datei untersucht werden müsse 
+(https://www.morgenpost.de/berlin/article413089623/hackerangriff-senat-beru
+higt-keine-hochsicherheitsdaten-betroffen.html).
+Wir fragen die Bundesregierung:
+ 1. Wann erhielten das Bundeskanzleramt, das Bundesministerium des
+Innern, das Bundesministerium für Digitales und Staatsmodernisierung, das 
+Bundesamt für Sicherheit in der Informationstechnik, das
+Bundeskriminalamt, das Bundesamt für Verfassungsschutz, das Bundesministerium der 
+Verteidigung und das Bundesamt für den Militärischen Abschirmdienst
+jeweils erstmals Kenntnis von dem Cyberangriff, einem tatsächlichen
+Datenabfluss, einer möglichen Betroffenheit von Daten oder
+Sicherheitsinteressen des Bundes sowie der angekündigten beziehungsweise erfolgten 
+Veröffentlichung der Daten im Darknet (bitte für jede der genannten
+Stellen die jeweiligen Kenntniszeitpunkte, die informierende Stelle und die 
+unmittelbar daraufhin veranlasste Maßnahme darstellen)?
+ 2. Welche Erkenntnisse liegen der Bundesregierung zum Zeitraum des
+erstmaligen Eindringens der Angreifer, zum Beginn und Ende des
+Datenabflusses, zum Zeitpunkt der Angriffserkennung und zum Zeitpunkt der
+technischen Unterbindung des Angriffs vor?
+ 3. Welche Bundesministerien, Bundesbehörden, bundesunmittelbaren
+Einrichtungen, Unternehmen im Eigentum des Bundes und Vorhaben des 
+Bundes sind nach bisherigem Kenntnisstand gegebenenfalls durch den
+abgeflossenen oder veröffentlichten Datenbestand betroffen (bitte
+gegebenenfalls nach betroffener Stelle bzw. betroffenem Vorhaben, Zahl der
+bislang zugeordneten Dateien, Datenkategorie und, soweit einschlägig, 
+Schutz- oder Geheimhaltungsgrad aufschlüsseln)?
+ 4. Hat die Bundesregierung aufgrund der Veröffentlichung von Unterlagen 
+zur Erweiterung des Bundeskanzleramtes geprüft, ob darin enthaltene
+Informationen zu baulichen, technischen oder organisatorischen
+Sicherheitsmaßnahmen noch aktuell und sicherheitsrelevant sind, und wurden
+aufgrund des Datenabflusses Änderungen an Sicherheitskonzepten,
+Planungen oder bereits vorgesehenen Maßnahmen erforderlich bzw. veranlasst; 
+wenn ja, welche zusätzlichen Kosten oder zeitlichen Verzögerungen ent-
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+stehen hierdurch voraussichtlich (vgl. Vorbemerkung, Angaben zu
+konkreten Sicherheitsmaßnahmen werden nicht erbeten)?
+ 5. Welche Daten mit Bezug zur Bundeswehr wurden nach Kenntnis der
+Bundesregierung bislang gegebenenfalls im abgeflossenen oder
+veröffentlichten Datenbestand identifiziert (bitte nach Anzahl, Datenkategorie,
+betroffener Dienststelle, Herkunft aus der Zusammenarbeit mit Behörden des 
+Landes Berlin und Schutz- oder Geheimhaltungsgrad aufschlüsseln)?
+ 6. Welche Maßnahmen der militärischen Sicherheit hat das
+Bundesministerium der Verteidigung aufgrund der festgestellten oder möglichen
+Betroffenheit von Bundeswehrdaten gegebenenfalls angeordnet, und zu welchen 
+Zeitpunkten wurden diese möglichen Maßnahmen jeweils veranlasst?
+ 7. Sind nach Kenntnis der Bundesregierung Zugangsdaten zu
+informationstechnischen Systemen des Bundes oder zu gemeinsam von Bund und
+Ländern genutzten Systemen abgeflossen oder veröffentlicht worden, und
+haben die gegebenenfalls daraufhin vorgenommenen Prüfungen Hinweise 
+auf eine missbräuchliche Nutzung solcher Zugangsdaten oder einen
+hierdurch ermöglichten unbefugten Zugriff auf Systeme des Bundes ergeben?
+ 8. Welche Verschlusssachen und sonstigen geheimschutzbedürftigen
+Informationen wurden nach bisherigem Kenntnisstand gegebenenfalls auf den 
+kompromittierten Berliner Systemen oder im veröffentlichten
+Datenbestand identifiziert (bitte gegebenenfalls die Anzahl der Verschlusssachen 
+des Bundes nach den Geheimhaltungsgraden „VS-NUR FÜR DEN 
+DIENSTGEBRAUCH“, „VS-VERTRAULICH“, „GEHEIM“ und 
+„STRENG GEHEIM“ aufschlüsseln sowie angeben, ob sich darunter
+Verschlusssachen oder sonstige schutzbedürftige Informationen ausländischer 
+Staaten, der NATO, der Europäischen Union oder anderer internationaler 
+Organisationen befanden, die Dienststellen des Bundes übermittelt
+worden waren und gegebenenfalls deren Herkunft, Schutz- oder
+Geheimhaltungsgrad sowie den Zeitpunkt der Unterrichtung des jeweiligen
+Herausgebers angeben)?
+ 9. Auf welcher rechtlichen, vertraglichen oder administrativen Grundlage 
+und zu welchem dienstlichen Zweck wurden die bislang gegebenenfalls 
+identifizierten sensiblen Daten oder Verschlusssachen des Bundes an
+Behörden des Landes Berlin übermittelt und nach Kenntnis der
+Bundesregierung dort gespeichert oder verarbeitet?
+10. Welche bundesrechtlichen und verwaltungsinternen
+Geheimschutzvorgaben waren auf die mögliche Weitergabe der jeweils betroffenen
+Bundesverschlusssachen an Behörden des Landes Berlin und deren dortige
+Speicherung oder Verarbeitung anwendbar, und aufgrund welcher Regelungen 
+oder Verpflichtungen des Landes Berlin gingen die jeweils übermittelnden 
+Dienststellen des Bundes davon aus, dass die Voraussetzungen des § 26 
+Absatz 2 der Verschlusssachenanweisung des Bundes (VSA) erfüllt
+waren?
+11. Welche Dienststellen des Bundes haben vor dem Cyberangriff
+gegebenenfalls geprüft, ob die informationstechnischen Systeme des Landes Berlin, 
+auf denen gegebenenfalls Bundesdaten oder Bundesverschlusssachen
+gespeichert oder verarbeitet wurden, die hierfür geltenden Sicherheits- und 
+Geheimschutzanforderungen erfüllten (bitte nach prüfender Stelle,
+Zeitpunkt, Prüfgegenstand und Ergebnis aufschlüsseln), und waren den
+gegebenenfalls prüfenden Dienststellen des Bundes die in den öffentlichen
+Anhörungen des Ausschusses für Inneres, Sicherheit und Ordnung des
+Abgeordnetenhauses von Berlin vom 11. Dezember 2023 und 3. November 
+2025 dokumentierten Hinweise auf IT-Sicherheitsdefizite bekannt (Wort-
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+protokoll über die 27. Sitzung des Ausschusses für Inneres, Sicherheit und 
+Ordnung des Abgeordnetenhauses Berlin vom 11. Dezember 2023,
+abrufbar unter: www.parlament-berlin.de/ados/19/InnSichO/protokoll/iso19-02
+7-wp.pdf)?
+12. Welche Vorgaben bestanden zum Zeitpunkt des Cyberangriffs für die 
+mögliche Aufbewahrung und Löschung der auf den betroffenen
+informationstechnischen Systemen des Landes Berlin gespeicherten Bundesdaten 
+und welche Kontrollen führten die jeweils datenübermittelnden
+Dienststellen des Bundes gegebenenfalls durch, um die Einhaltung dieser
+Vorgaben zu überprüfen?
+13. Befanden sich nach Kenntnis der Bundesregierung Bundesdaten oder 
+Bundesverschlusssachen auch in Sicherungskopien, Snapshots, Archiven, 
+E-Mail-Archiven oder sonstigen redundanten Datenbeständen, obwohl 
+ihre Speicherung im produktiven System bereits beendet oder ihre
+Löschung bereits veranlasst worden war (bitte gegebenenfalls nach
+Datenkategorie, Speicherform und, soweit feststellbar, Alter der Dateien
+aufschlüsseln)?
+14. Welche Beratungen, Sicherheitsanalysen, Warnungen oder konkreten 
+Empfehlungen hat das Bundesamt für Sicherheit in der
+Informationstechnik seit dem 1. Januar 2020 gegenüber dem Land Berlin oder den vom 
+Angriff betroffenen Senatsverwaltungen zu Ransomware, Phishing, 
+Mehrfaktor-Authentisierung, Passwortmanagement oder dem Schutz vor 
+unbemerktem Datenabfluss gegebenenfalls abgegeben, und welche
+Erkenntnisse lagen dem Bundesamt vor dem Angriff über die Umsetzung 
+dieser möglichen Empfehlungen vor?
+15. Seit welchem Zeitpunkt unterstützt das Bundesamt für Sicherheit in der 
+Informationstechnik das Land Berlin bei der Bewältigung des
+Cyberangriffs, und welche konkreten Leistungen hat es seitdem bei der
+forensischen Analyse, bei der Bewertung kompromittierter Daten, bei der
+Absicherung betroffener Systeme und bei der Warnung möglicherweise
+betroffener Bundesbehörden und sonstiger Einrichtungen des Bundes erbracht 
+(vgl. Vorbemerkung der Fragesteller)?
+16. Zu welchem Zeitpunkt und aufgrund welcher gesetzlichen Zuständigkeit 
+wurden das Bundeskriminalamt, das Bundesamt für Verfassungsschutz 
+und das Bundesamt für den Militärischen Abschirmdienst jeweils in die 
+Aufarbeitung des Cyberangriffs einbezogen, und welchen konkreten
+Gegenstand hat die Tätigkeit der jeweiligen Behörde (vgl. Vorbemerkung der 
+Fragesteller)?
+17. Wann wurde der Cyberangriff erstmals im Nationalen Cyber-
+Abwehrzentrum behandelt, welche Bundesbehörden waren an der
+dortigen fallbezogenen Bearbeitung beteiligt und welche konkreten
+Lagebewertungen, Warnungen oder abgestimmten Folgemaßnahmen mit Bezug 
+auf Bundesdaten oder sonstige Sicherheitsinteressen des Bundes gingen 
+aus dieser Befassung hervor (vgl. Vorbemerkung, bitte nach Datum,
+beteiligter Stelle, Gegenstand und veranlasster Maßnahme aufschlüsseln)?
+18. Auf welcher Tatsachen- und Erkenntnisgrundlage beruht die von der
+Bundesregierung am 7. September 2026 vertretene Einschätzung (www.bunde
+sregierung.de/breg-de/aktuelles/regierungspressekonferenz-vom-7-septem
+ber-2026-2451640), die Gruppierung Rhysida sei grundsätzlich als
+kriminell und finanziell motiviert einzuschätzen, und liegen der
+Bundesregierung Erkenntnisse vor, die auf eine staatliche Steuerung oder
+Unterstützung des Angriffs hindeuten?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+19. Liegen der Bundesregierung Erkenntnisse darüber vor, ob ausländische 
+Nachrichtendienste, staatliche Stellen, terroristische oder extremistische 
+Organisationen den veröffentlichten Datenbestand heruntergeladen,
+ausgewertet, weiterverbreitet oder für Ausspähungs-, Cyber-, Sabotage- oder 
+sonstige sicherheitsgefährdende Zwecke genutzt haben?
+20. Welche Kategorien von Anlagen oder Einrichtungen der kritischen
+Infrastruktur sind nach Kenntnis der Bundesregierung durch den
+veröffentlichten Datenbestand berührt, und welche Betreiber wurden deshalb durch das 
+Bundesamt für Sicherheit in der Informationstechnik, das Bundesamt für 
+Bevölkerungsschutz und Katastrophenhilfe oder weiteren Dienststellen 
+des Bundes gewarnt (vgl. Vorbemerkung der Fragesteller, bitte nach
+Sektor und Zahl der betroffenen Betreiber aufschlüsseln, ohne
+sicherheitsgefährdende Einzelheiten zu einzelnen Anlagen offenzulegen)?
+21. Sind bei Dienststellen des Bundes, deren Verschlusssachen von dem
+Datenabfluss betroffen sein könnten, nach Bekanntwerden des Cyberangriffs 
+Sachverhaltsfeststellungen oder Maßnahmen nach § 64 der
+Verschlusssachenanweisung des Bundes eingeleitet worden, und wenn ja, welche 
+Maßnahmen wurden eigeleitet und welche Verletzungen von
+Geheimschutzvorschriften oder unzureichenden Sicherheitsvorkehrungen wurden 
+hierbei bislang festgestellt, und wenn nein, aus welchen Gründen wurden 
+keine entsprechenden Maßnahmen eingeleitet?
+22. Sind aufgrund der im Zusammenhang mit dem Datenabfluss gewonnenen 
+Erkenntnisse Anhaltspunkte für strafrechtlich relevante Verletzungen von 
+Geheimhaltungs- oder sonstigen Dienstpflichten festgestellt und deshalb 
+durch Bundesbehörden oder sonstige Dienststellen des Bundes
+Strafverfolgungsbehörden unterrichtet oder Strafanzeigen erstattet worden (bitte 
+gegebenenfalls nach Dienststellen des Bundes, Zahl der Vorgänge und in 
+Betracht gezogener Strafvorschrift aufschlüsseln, soweit dies ohne
+Beeinträchtigung laufender Ermittlungen möglich ist)?
+23. Welche finanziellen Schäden oder zusätzlichen Aufwendungen sind dem 
+Bund gegebenenfalls infolge eines Datenabflusses und der
+Veröffentlichung von Daten mit Bundesbezug bislang entstanden oder nach
+gegenwärtigem Kenntnisstand zu erwarten (bitte nach betroffener
+Bundesbehörde bzw. sonstiger Einrichtung des Bundes und
+Schadensbeziehungsweise Aufwandskategorie aufschlüsseln)?
+24. Hat die Bundesregierung geprüft, ob dem Bund infolge des
+Datenabflusses oder der Veröffentlichung von Daten mit Bundesbezug Ersatz-, 
+Regress- oder sonstigen Ausgleichsansprüche gegen das Land Berlin oder 
+Dritte zustehen könnten, und wenn ja, mit welchem Ergebnis, welche
+Ansprüche wurden gegebenenfalls bereits geltend gemacht und welchen
+Verfahrensstand haben diese, und wenn nein, aus welchen Gründen ist eine 
+solche Prüfung bislang nicht erfolgt?
+25. Stand für die Übermittlung, Speicherung oder gemeinsame Bearbeitung 
+der von dem Datenabfluss betroffenen Bundesverschlusssachen zum
+jeweiligen Zeitpunkt eine im Rahmen der Bundesmaßnahme
+„Ressortübergreifende VS-Kommunikation“ (R-VSK) bereitgestellte oder eine andere 
+vom Bundesamt für Sicherheit in der Informationstechnik zugelassene 
+VS-IT-Lösung zur Verfügung, und wenn ja, bei welchen der betroffenen 
+Vorgänge wurde eine solche Lösung genutzt bzw. aus welchen Gründen 
+wurde sie gegebenenfalls nicht genutzt?
+26. Welche gesetzlichen, vertraglichen, geheimschutzrechtlichen oder
+administrativen Pflichten bestanden gegebenenfalls für Behörden des 
+Landes Berlin, die jeweils datenübermittelnden Dienststellen des Bundes
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+über Sicherheitsvorfälle, eine mögliche Kompromittierung der Systeme 
+oder einen Datenabfluss zu unterrichten, wann wurden diese Pflichten im 
+vorliegenden Fall jeweils ausgelöst und erfüllt, und wurden hierbei nach 
+Kenntnis der Bundesregierung vorgeschriebene oder vereinbarte
+Meldeoder Unterrichtungsfristen überschritten?
+Berlin, den 22. September 2026
+Dr. Alice Weidel, Tino Chrupalla und Fraktion
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
