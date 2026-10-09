@@ -1,0 +1,741 @@
+Deutscher Bundestag Drucksache 21/8300 
+21. Wahlperiode 02.10.2026 
+Unterrichtung 
+durch die Bundesregierung 
+Umweltradioaktivität und Strahlenbelastung im Jahr 2022
+Inhal tsverzeichnis  
+Seite 
+Übersicht zur Umweltradioaktivität und zur Strahlenbelastung ............ 3 
+I. Neuerungen im Strahlenschutzrecht ............................................... 6 
+1. Friständerung im Rahmen der Verordnung zum Schutz vor
+schädlichen Wirkungen nichtionisierender Strahlung bei der
+Anwendung am Menschen (NiSV) ..................................................... 6 
+2. Richtlinie „Ärztliche Überwachung exponierter Personen durch
+ermächtigte Ärzte nach Strahlenschutzrecht“ ..................................... 6 
+3. Radon – Harmonisierung der Messungen ........................................... 6 
+4. AVV-Aufsichtsprogramm ................................................................... 7 
+II. Angriffskrieg auf die Ukraine – KKW Tschornobyl,
+Saporischschja sowie Umweltüberwachung 2022 .......................... 7 
+1. Überfalls Russlands auf die Ukraine am 24. Februar 2022 ................. 7 
+2. Aufgabe des BMUV und BfS – Erstellung von
+Situationsdarstellungen ....................................................................... 9 
+3. Kernkraftwerke in der Ukraine Allgemeines ...................................... 10 
+4. Potenzielle Auswirkungen auf Deutschland,
+Gefährdungsanalysen .......................................................................... 13 
+5. Jodtabletten ......................................................................................... 13 
+III. Überprüfung des gegenwärtigen Strahlenschutzsystems
+durch die internationale Strahlenschutzkommission (ICRP) ....... 13 
+IV. Gemeinsame Europäische Forschung zum Strahlenschutz ........... 14 
+1. BfS Forschungsprogramm, Kooperation und Vernetzung .................. 14 
+2. PIANOFORTE (2022 bis 2027) – Europäische Partnerschaft
+für Strahlenschutzforschung ................................................................ 14 
+Zugeleitet mit Schreiben des Bundesministeriums für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit 
+vom 20. August 2026 gemäß § 164 Absatz 2 des Strahlenschutzgesetzes. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Seite 
+V. 7. internationaler Workshop zur Ursachenforschung von
+Leukämie im Kindesalter ................................................................. 15 
+VI. Beratungsergebnisse der Strahlenschutzkommission (SSK) ......... 16 
+1. Exposition durch Radon im Zusammenhang mit radioaktiven
+Altlasten .............................................................................................. 16 
+2. Faktenbasierte Risikokommunikation im gesellschaftlichen
+Diskurs ................................................................................................ 16 
+3. Therapeutische Verfahren in der Nuklearmedizin............................... 16 
+4. Bildgebende Diagnostik bei Kindern .................................................. 17 
+5. Verwendung von Patienten-Strahlenschutzmitteln bei
+röntgendiagnostischen Anwendungen ................................................. 17 
+6. Strahlenschutzdosimetrie in hochenergetischen
+Photonenfeldern .................................................................................. 18 
+7. Strahlennotfallmedizin – Handbuch für die medizinische
+Versorgung und Ausbildung ............................................................... 18 
+8. Schutzstrategien bei Nuklearwaffeneinsatz – Schutzwirkungen
+von Iodblockade und partikelfiltrierenden Halbmasken ..................... 18 
+VII. StrahlenschutzForum: Resilienz in der Multikrise ........................ 19 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Das Strahlenschutzgesetz (StrlSchG) sieht in § 164 Absatz 2 die jährliche Berichterstattung durch das
+Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) an den Deutschen 
+Bundestag und den Bundesrat über die Entwicklung der Radioaktivität in der Umwelt vor. Zusätzlich enthält 
+dieser Bericht Informationen über den Bereich „nichtionisierende Strahlung“. 
+Alle Angaben beziehen sich auf das Berichtsjahr 1. Januar bis 31. Dezember 2022, sofern nichts Anderes
+angegeben ist. Ausführlicheres Datenmaterial ist den Jahresberichten des BMUV über „Umweltradioaktivität und 
+Strahlenbelastung“ zu entnehmen. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Übersicht zur Umweltradioaktivität und zur Strahlenbelastung 
+Die Anteile an der mittleren Strahlenexposition der Bevölkerung der Bundesrepublik Deutschland im Jahr 2022 
+sind in Abbildung 1 nach den verschiedenen Strahlenquellen aufgeschlüsselt. Die mittlere effektive Dosis
+beträgt etwa 3,6 mSv pro Jahr und Person. Der größte Beitrag erfolgt durch medizinische Anwendungen,
+insbesondere aus Computertomographie-Untersuchungen. Eine weitere wesentliche Quelle der Strahlenexposition ist 
+das radioaktive Gas Radon und die Inhalation seiner Folgeprodukte, welche sich in Innenräumen ansammeln. 
+Hierbei ist zu beachten, dass die Werte über die gesamte Bevölkerung gemittelte effektive Dosen darstellen. Die 
+tatsächliche Jahresdosis einer Person hängt stark von den individuellen Gegebenheiten ab. 
+Abbildung 1  Anteil künstlicher Quellen ionisierender Strahlung an der effektiven Jahresdosis im 
+Jahr 2022, gemittelt über die Bevölkerung Deutschlands 
+Wesentliche Ergebnisse im Berichtsjahr Gesamtbewertung der ionisierenden Strahlung: 
+• Die berechnete Gesamtexposition der Bevölkerung in Deutschland im Jahr 2022 beträgt 3,6 mSv pro
+Person.
+Der Wert ist 0,2 mSv niedriger als im Vorjahr und ist bedingt durch eine um insgesamt 0,2 mSv gesunkene
+medizinische Strahlenexposition (siehe Bericht des BMUV „Umweltradioaktivität und Strahlenbelastung –
+Jahresbericht 2022“, Kapitel IV).
+Medizinische Strahlenexposition: 
+Für das Jahr 2021 wurde für Deutschland eine Gesamtzahl von 125 Millionen Röntgenanwendungen
+abgeschätzt (ohne zahnmedizinischen Bereich: etwa 75 Millionen Röntgenuntersuchungen). Die mittlere effektive 
+Jahresdosis der Bevölkerung durch medizinische Strahlenexposition bildgebender Verfahren beträgt ca. 1,4 mSv 
+(Daten für das Jahr 2021) und macht somit ca. 40 Prozent der durchschnittlichen Gesamtexposition pro Person 
+aus. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+• Eine starke Zunahme zwischen 2007 und 2021 ist insbesondere für die Häufigkeit von CT-Untersuchungen
+zu verzeichnen: Im ambulanten kassenärztlichen Bereich liegt diese bei 40 Prozent und im stationären
+Bereich sogar bei 100 Prozent. Demgegenüber nahm die effektive Dosis pro Einwohner für die Summe der
+restlichen Untersuchungsverfahren ab.
+• Zur Früherkennung von Brustkrebs ist seit 2009 in Deutschland das Mammographie-Screening-Programm
+bundesweit etabliert, für welches ca. 12 Millionen Frauen alle zwei Jahre anspruchsberechtigt sind. Die
+Teilnahmerate lag im Berichtsjahr 2022 mit 2,8 Millionen Teilnehmenden bei 50,5 und ist damit
+geringfügig niedriger als 2021 mit 3,0 Millionen Teilnehmenden bei 51,5 Prozent.
+Überwachung beruflicher Expositionen: 
+• Im Berichtsjahr wurden ca. 424 000 Personen strahlenschutzüberwacht. Die mittlere effektive Jahresdosis
+aller strahlenschutzüberwachten Personen beträgt 0,2 mSv. Etwa ein Viertel aller
+strahlenschutzüberwachten Personen hat eine messbare Dosis erhalten, deren mittlere effektive Jahresdosis 0,7 mSv beträgt.
+• Die mittlere effektive Jahresdosis beträgt im Jahr 2022 für fliegendes Personal 1,2 mSv. Der Wert liegt
+immer noch deutlich unterhalb der Werte vor der Covid-19-Pandemie (1,8 mSv im Jahr 2019), steigt
+jedoch seit 2020 wieder kontinuierlich an (0,6 mSv im Jahr 2020 und 0,8 mSv im Jahr 2021).
+Register hochradioaktiver Strahlenquellen (HRQ): 
+• Bis zum Ende des Jahres 2022 sind insgesamt 738 Genehmigungsinhaber zum Umgang mit HRQ (Vorjahr:
+735) zu verzeichnen. 81 Bundes- und Landesbehörden haben Zugang zum Register.
+Schachtanlage Asse: 
+• Bei der Ermittlung der Strahlenexposition ergeben sich für das Berichtsjahr 2022 effektive Jahresdosen von
+1,0 µSv für Erwachsene und 1,1 µSv für Säuglinge. Die Werte sind auf Grund unterschiedlicher
+meteorologischer Verhältnisse gegenüber dem Vorjahr gesunken, und liegen weiterhin weit unterhalb der
+gesetzlichen Grenzwerte.
+Auswirkungen von Kernkraftwerksunfällen: 
+• Die Cäsium-137-Inventare im Boden aus dem Unfall in Tschornobyl nahmen durch radioaktiven Zerfall
+gegenüber dem Vorjahr um 2,3 Prozent ab und umfassen im Berichtsjahr noch 43 Prozent der 1986
+deponierten Aktivität. Trotzdem ist die Kontamination von Wild und Pilzen in Deutschland verglichen mit
+anderen Lebensmitteln immer noch hoch; Überschreitungen der Grenzwerte gibt es weiterhin bei
+Wildschweinfleisch.
+• Fukushima: Seit 2012 wurden in Deutschland keine Radionuklidaktivitäten mehr gemessen, die auf den
+Unfall zurückgeführt werden können.
+Elektrische, magnetische und elektromagnetische Felder: 
+• Ein Schwerpunkt der Forschungs- und Kommunikationsaktivitäten von BMUV und dem 2020 gegründeten
+Kompetenzzentrum elektromagnetische Felder (KEMF) liegt bei der Einführung der 5.
+Mobilfunkgeneration (5G). Zukünftig werden für 5G wesentlich höhere Frequenzbereiche als bisher genutzt. Das BfS hat im
+Bereich der hohen Frequenzen Wissenslücken identifiziert und hierzu begleitende Forschungsvorhaben
+initiiert, die im Jahresbericht 2022 des BMUV über „Umweltradioaktivität und Strahlenbelastung“ aufgelistet
+sind. Nach derzeitigem Kenntnisstand gibt es keine wissenschaftlich gesicherten Belege für
+möglicherweise gesundheitsschädigende Effekte durch die elektromagnetischen Felder der 5. Mobilfunkgeneration,
+wenn die Grenzwerte eingehalten werden. Eine signifikante Erhöhung der Exposition durch Einführung der
+neuen Technologie ist nicht zu erwarten.
+• Ein weiterer Schwerpunkt ist der Ausbau der Stromnetze. Grundsätzlich gilt, dass bei Einhaltung der
+Grenzwerte gesundheitliche Risiken bis dato nicht nachgewiesen sind. Es bestehen jedoch in einigen
+Bereichen wissenschaftliche Unsicherheiten in der Risikobewertung. Daher führt das BfS ein begleitendes
+Forschungsprogramm zum „Strahlenschutz beim Stromnetzausbau“ mit insgesamt elf Themenfeldern und
+49 einzelnen Forschungsvorhaben durch. Über die Ergebnisse informiert das BfS transparent auf der
+Webseite.
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Optische Strahlung: 
+• Das Thema „Nutzung von UV-C-Strahlung zu Desinfektionszwecken“ ist auch im Jahr 2022 im Zuge der
+COVID-19-Pandemie relevant. Im Februar 2022 ist die Technische Spezifikation zu UV-C-
+Sekundärluftgeräten (DIN TS 67506) erschienen. Eine weitere aktuelle Fragestellung ist die Beurteilung
+der Sicherheit von Fern-UV-C-Quellen (meist mit Wellenlängen um 222 nm), die beispielsweise zur
+Desinfektion von Raumluft in Anwesenheit von Personen genutzt werden. Hier gilt das besondere Augenmerk
+der Sicherheit empfindlicher Personengruppen.
+• Der UV-Index erreichte im Juni und Juli 2022 im Norden und in der Mitte Deutschlands Werte von 6 bis 8,
+im Süden von 8 bis 9 und im alpinen Hochgebirgsraum Werte von 10 bis 11. Eine außergewöhnlich hohe
+Anzahl an Sonnenstunden im Sommer 2022 führte zu überdurchschnittlich vielen Tagen mit hohen und
+sehr hohen UV-Indexwerten. Werte ab 6 gelten als hoch, ab 8 als sehr hoch und ab 11 als extrem hoch.
+Entsprechend abgestufte Schutzmaßnahmen sind erforderlich.
+Die aufgeführten Daten entstammen dem Bericht des BMUV „Umweltradioaktivität und Strahlenbelastung
+– Jahresbericht 2022“.
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+I. Neuerungen im Strahlenschutzrecht 
+1. Friständerung im Rahmen der Verordnung zum Schutz vor schädlichen Wirkungen
+nichtionisierender Strahlung bei der Anwendung am Menschen (NiSV) 
+Mit der am 15. Oktober 2021 in Kraft getretenen „Verordnung zur weiteren Modernisierung des
+Strahlenschutzrechts – Friständerung zur Milderung der Folgen der epidemischen Lage aufgrund des Coronavirus“ (BGBl. I 
+2021 S. 4646) wurde das Inkrafttreten bestimmter Anforderungen der Verordnung zum Schutz vor schädlichen 
+Wirkungen nichtionisierender Strahlung bei der Anwendung am Menschen (NiSV) um ein Jahr vom 
+31. Dezember 2021 auf den 31. Dezember 2022 verschoben. 
+Es geht dabei vor allem um notwendige Schulungen zum Erwerb erforderlicher fachlicher Kenntnisse der
+Personen, die Anlagen zur Anwendung nichtionisierender Strahlung am Menschen einsetzen. Dies sind z. B. Laser 
+und intensive Lichtquellen (IPL) zur dauerhaften Haarentfernung oder von Ultraschall und Hochfrequenz, u. a. 
+zur Hautverjüngung. Infolge der Corona-Schutzmaßnahmen, insbesondere Kontaktbeschränkungen, konnten 
+Schulungen zum Erwerb dieser Fachkunde bis Ende 2021 nicht in dem benötigten Umfang durchgeführt
+werden. Der Aufschub soll vor allem kleinere Kosmetikstudios und selbständige Kosmetiker*innen vor
+übermäßiger Belastung schützen. Mit der Verschiebung der Frist wurde den Betroffenen die benötigte Zeit eingeräumt, 
+um den erforderlichen Nachweis der Fachkunde rechtzeitig erwerben zu können und Schulungskosten in eine 
+Zeit mit einer sich absehbar verbessernden Einnahmesituation verlagern zu können. 2022 wurde darüber hinaus 
+als Ergänzung der NiSV die Fachkunderichtlinie erarbeitet, die insbesondere Anforderungen an den Erwerb und 
+den Nachweis der Fachkunde und die Anerkennung der Schulungsanbieter betrifft. 
+2. Richtlinie „Ärztliche Überwachung exponierter Personen durch ermächtigte Ärzte nach 
+Strahlenschutzrecht“ 
+Im Jahr 2022 wurde die ärztliche Überwachung strahlenexponierter Personen untergesetzlich neu geregelt. Die 
+neue Richtlinie zum Strahlenschutzgesetz und zur Strahlenschutzverordnung „Ärztliche Überwachung
+exponierter Personen durch ermächtigte Ärzte nach Strahlenschutzrecht“ ersetzt die vorherige Richtlinie
+„Arbeitsmedizinische Vorsorge beruflich strahlenexponierter Personen durch ermächtigte Ärzte“, welche sich noch auf die 
+frühere Strahlenschutzverordnung sowie auf die Röntgenverordnung bezog. 
+Die Richtlinie schreibt die vorher bestehenden Regelungen, die dem Schutz und der Vorsorge beruflich
+exponierter Personen dienen, fort und aktualisiert sie unter den Gegebenheiten des neuen Strahlenschutzrechts. 
+Neu geregelt bzw. klargestellt werden insbesondere: 
+• Befristung der Ermächtigung auf fünf Jahre, 
+• Mitteilungspflicht für die Tätigkeit außerhalb der Zuständigkeit der ermächtigenden Behörde an die lokal 
+zuständige Behörde und 
+• nachgehende Untersuchungen nach Beendigung der Tätigkeit unter Berücksichtigung der
+Berufslebensdosis. 
+Die Anforderungen an die erforderliche Fachkunde sind nunmehr separat geregelt. 
+3. Radon – Harmonisierung der Messungen 
+Das Strahlenschutzgesetz und die Strahlenschutzverordnung enthalten die rechtlichen Vorgaben zum Schutz vor 
+Radon in Aufenthaltsräumen und an Arbeitsplätzen sowie zur Festlegung und Überprüfung von sogenannten 
+Radonvorsorgegebieten. Zur Bewertung der regionalen Radonsituation werden insbesondere Messungen in 
+Innenräumen von Wohnungen und Arbeitsplätzen sowie der Bodenluft herangezogen. Diese werden im Rahmen 
+der Bundesauftragsverwaltung durch die Bundesländer durchgeführt. Aufgrund der regional teils sehr
+unterschiedlichen Verteilung von Radon im Bundesgebiet können je nach Region angepasste Messstrategien
+angezeigt sein, um zur Lösung von konkreten Fragestellungen zielgerichtet beizutragen. Die gesammelten Messdaten 
+werden vom BfS für eine bundesweite Bewertung und zur Erarbeitung von Prognosen verwendet. 
+Die verschiedenen Messprogramme des Bundes sowie der Bundesländer werden regelmäßig im Bund-Länder-
+Gremium „Lenkungskreis Radonmaßnahmenplan“ (LK Radon) vorgestellt und die in den Messkampagnen
+gesammelten Erfahrungen ausgetauscht. Damit soll fortlaufend zu einem weiter harmonisierten Vorgehen bei 
+Messungen von Radon beigetragen werden. Das BfS führte im Berichtsjahr eine Zusammenstellung der
+gesammelten Erfahrungen durch. Diese „Lessons Learned“ sollen als Grundlage bei der Durchführung von
+gegenwärtigen und zukünftigen Messprogrammen berücksichtigt werden. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+4. AVV-Aufsichtsprogramm
+Die für den Strahlenschutz zuständigen Behörden überprüfen Betriebe vor Ort, die Tätigkeiten im Sinne des 
+Strahlenschutzrechts ausüben, also beispielsweise Genehmigungen für den Umgang mit radioaktiven Stoffen 
+oder den Betrieb von Röntgeneinrichtungen besitzen. Das Strahlenschutzgesetz fordert von den zuständigen 
+Behörden die Erstellung und Veröffentlichung länderspezifischer „Aufsichtsprogramme“, dessen Ausgestaltung 
+sich an den Risiken der Tätigkeiten anpasst. Diese Aufsichtsprogramme regeln, in welchem zeitlichen Abstand 
+Vor-Ort-Prüfungen bei solchen Genehmigungsinhabern durchzuführen sind. 
+Die Allgemeine Verwaltungsvorschrift zum Aufsichtsprogramm schafft die Grundlage für die Erstellung der 
+risikoorientierten Aufsichtsprogramme und trat am 1. April 2022 in Kraft. Tätigkeiten nach dem
+Strahlenschutzgesetz werden darin risikoorientierten Kategorien zugeordnet. Sie schafft damit eine wesentliche
+Grundlage für ein bundesweit einheitliches Vorgehen der Behörden. 
+II. Angriffskrieg auf die Ukraine – KKW Tschornobyl, Saporischschja sowie
+Umweltüberwachung 2022
+1. Überfalls Russlands auf die Ukraine am 24. Februar 2022
+Am Morgen des 24. Februar 2022 begann Russland einen Angriffskrieg gegen die Ukraine (Abbildung 2). Mit 
+Vorstößen von Süden, Osten und Norden sollte eine schnelle Eroberung Kiews und der Sturz der ukrainischen 
+Regierung erzielt werden. Dieses Kriegsziel wurde Ende März 2022 aufgrund der massiven Gegenwehr der 
+Ukraine aufgegeben. 
+Das Kriegsgeschehen verlagert sich seither, von Luftangriffen abgesehen, auf den Osten und Südosten des
+Landes. Hier fanden auch immer wieder Kampfhandlungen um das Kernkraftwerk Saporischschja statt. 
+Die russischen Luftangriffe zielen bevorzugt auf die kritische Energieinfrastruktur der Ukraine ab. In hohem 
+Maße betroffen sind auch die Hochspannungsnetze, an denen die ukrainischen Kernkraftwerke angeschlossen 
+sind. Immer wieder gibt es großflächige Stromausfälle, die auch zu einer Verschärfung der nuklearen
+Sicherheitslage in der Ukraine führen. 
+Das ukrainische Parlament verhängt zu Beginn des Krieges das Kriegsrecht. Die Ukraine befindet sich seither 
+im „Martial law“. Das bedeutet, dass zum Beispiel Männer im wehrpflichtigen Alter zwischen 18 und 60 Jahren 
+das Land nur in Ausnahmefällen verlassen dürfen. Zudem werden die regulären Parlaments- und
+Präsidentenwahlen ausgesetzt. Unter der Kennung „Martial law declared“ veröffentlicht die IAEA auf ihrer USIE1-Seite im 
+Zusammenhang mit dem russischen Angriffskrieg in der Ukraine stehenden Informationen. 
+Am 27. Februar 2022 versetzt der russische Präsident Putin die sogenannten „Abschreckungskräfte“ seines
+Landes in Alarmbereitschaft. Er begründet diesen Schritt mit „aggressiven Äußerungen“ von NATO-
+Mitgliedsstaaten und die als Reaktion auf den Einmarsch Russlands in die Ukraine gegen sein Land verhängten 
+Sanktionen. Die „Abschreckungskräfte“ umfassen auch Atomwaffen. 
+BfS-Mitarbeitende sind bezüglich des Krieges in der Ukraine in engem Austausch mit den internationalen
+Partnern, darunter auch der Internationalen Atomenergiebehörde in Wien (IAEA) und der Europäischen Union 
+(EU). 
+1  Die IAEA Plattform USIE (Unified System for Information Exchange in Incidents and Emergencies) ist eine geschützte Webseite der 
+IAEA (Internationalen Atomenergiebehörde in Wien) und kann von offiziellen Kontaktstellen der Vertragsparteien des
+Übereinkommens über die frühzeitige Benachrichtigung bei nuklearen Unfällen sowie des Übereinkommens über Hilfeleistung bei nuklearen
+Unfällen oder radiologischen Notfällen verwendet werden. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Abbildung 2  Europa Landkarte mit farblich hervorgehobener Ukraine, Quelle BfS 
+ 
+Abbildung 3  Ausbreitungsrechnungen ab 30. Dezember2022 für die vier Kernkraftwerksstandorte 
+in der Ukraine, Situationsdarstellung 
+ 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+2. Aufgabe des BMUV und BfS – Erstellung von Situationsdarstellungen
+Seit Beginn des Krieges verfasst das BfS in Abstimmung mit dem BMUV regelmäßig Situationsdarstellungen. 
+Bis Mitte April 2022 erstellte das BfS täglich, später dann zweimal wöchentlich, eine aktuelle
+Situationsdarstellung zur radiologischen Lage in der Ukraine. 
+Diese beinhaltet relevante Meldungen der IAEA, von SNRIU (ukrainische Aufsichtsbehörde) und Energoatom 
+(ukrainischer Betreiber der Kernkraftwerke). Im Jahr 2022 wurden über die IAEA-USIE-Webseite 54 ENFs 
+(Event Notice Forms) der ukrainischen Aufsichtsbehörde und 136 IAEA-Meldungen zur Ukraine versandt. 
+Der Deutsche Wetterdienst (DWD) berichtet in den Situationsdarstellungen von BfS/BMUV tagesaktuell zur 
+Wetterlage in der Ukraine. Das BfS berechnet zudem seit Beginn des Krieges mit Unterstützung des DWD 
+zweimal täglich, ob Luftmassen aus der Ukraine nach Deutschland gelangen könnten und stellt die Ergebnisse 
+in den Situationsdarstellungen dar. 
+BMUV berichtet mit Unterstützung durch die Gesellschaft für Anlagen- und Reaktorsicherheit (GRS) gGmbH 
+in den Situationsdarstellungen über die Situation in den kerntechnischen Anlagen der Ukraine. 
+Zudem überprüft das BfS täglich rund um die Uhr etwa 500 bis 600 Messwerte aus der gesamten Ukraine. Die 
+Daten kommen aus dem internationalen Datenaustausch mit der IAEA (IRMIS = International Radiation
+Monitoring Information System), der EU (EURDEP = Europäische Plattform zum Austausch radiologischer Daten) 
+und von SaveDnipro, einer ukrainischen Umweltschutzorganisation, die über die Plattform SaveEcoBot
+Umweltmessdaten unterschiedlicher, überwiegend amtlicher Quellen und eigene Messungen als Open Data zur 
+Verfügung stellt. Zu SaveDnipro wurde zudem ein direkter Kontakt aufgebaut und weiterhin gepflegt. 
+Darüber hinaus überprüft das BfS auch Messdaten eigener Sonden, die in Kiew und in benachbarten Ländern 
+stehen. 
+Die Messwerte aus der Ukraine und den Nachbarstaaten lieferten bisher keine Hinweise auf eine Freisetzung 
+radioaktiver Stoffe. 
+Die Situationsdarstellungen werden von den jeweils diensthabenden Rufbereitschaften im BfS erstellt und mit 
+dem BMUV abgestimmt. Sie werden auf ELAN, der webbasierten elektronischen Lagedarstellung des BfS, 
+veröffentlicht und an weitere Institutionen, wie der Bundeswehr, NATO und an das Bundeskanzleramt
+weitergeleitet. 
+Am 30. Dezember 2022 erschien die 115. Situationsdarstellung zur radiologischen Lage in der Ukraine (siehe 
+Abbildung 3 und Abbildung 4). 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Abbildung 4  Übersichtskarte der kerntechnischen Einrichtung und verfügbaren Messsonden in der 
+Ukraine. Messsonden mit aktueller Ortsdosisleistung vom 30.12.2022 in der Ukraine, 
+Situationsdarstellung (Stand 30.12.2022 08:00 MEZ). 
+ 
+3. Kernkraftwerke in der Ukraine Allgemeines 
+In der Ukraine stehen an vier Kernkraftwerk-Standorten 15 Reaktorblöcke (Abbildung 5). Bei allen Blöcken 
+handelt es sich um Druckwasserreaktoren russischer Bauart (WWER). Neben diesen Leistungsreaktoren gibt es 
+in Kiew einen Forschungsreaktor und in Charkiw eine unterkritische Neutronenquelle. 
+Die ukrainischen Kernkraftwerke (KKW) haben vor dem Krieg nach Angaben der Internationalen Energie 
+Agentur (IEA) mit einer jährlich erzeugten Strommenge von circa 75 Terawattstunden deutlich über die Hälfte 
+des dortigen Stromverbrauchs (circa 135 TWh im Jahr 2019) geliefert. 
+Alle Kernkraftwerke der Ukraine sind direkt oder indirekt von den russischen Angriffen betroffen. Insbesondere 
+der Ausfall des Stromnetzes führt regelmäßig zu Problemen wie Leistungsreduktionen oder Abschaltungen. 
+Das KKW Süd-Ukraine mit 1 230 Kilometer Entfernung zur deutschen Grenze besteht aus drei Reaktorblöcken 
+der WWER-1000-Baureihe. Sie sind seit 1983, 1985 und 1989 im Leistungsbetrieb. 
+Das KKW Riwne mit 760 Kilometer Entfernung zur deutschen Grenze befindet sich etwa 65 Kilometer südlich 
+der Grenze zu Belarus. Dort speisen zwei WWER-1000 Reaktorblöcke Strom in das ukrainische Landesnetz ein, 
+darunter mit Riwne-4 seit 2006 der jüngste ukrainische Reaktorblock. Der Reaktorblock Riwne-3 hat seinen 
+kommerziellen Betrieb 1987 aufgenommen. Seit 1981 bzw. 1982 produzieren außerdem zwei Reaktoren vom 
+Typ WWER-440 Strom. 
+Das KKW Chmelnyzkyj mit 820 Kilometer Entfernung zur deutschen Grenze liegt in rund 150 Kilometern
+Entfernung zur belarussischen Grenze. Hier befinden sich seit 1988 bzw. 2004 zwei Reaktoren der WWER-1000-
+Baureihe im Leistungsbetrieb. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Abbildung 5  Kernkraftwerksstandorte in der Ukraine, Quelle GRS 
+KKW Saporischschja 
+Das KKW Saporischschja liegt nahe der Stadt Enerhodar am Fluss Dnjepr und am Südufer des später (2023) 
+zerstörten Kachowka-Stausees. 55 Kilometer nordöstlich befindet sich die gleichnamige Stadt. Die Entfernung 
+zur deutschen Grenze beträgt 1 470 Kilometer. 
+Mit sechs Reaktorblöcken des Typs WWER-1000, die zwischen 1985 und 1996 ihren kommerziellen Betrieb 
+aufgenommen haben, ist es der größte KKW-Standort Europas. Jeder der Blöcke kann im Volllastbetrieb eine 
+elektrische Leistung von 950 Megawatt (MW) erzeugen. 
+Etwa eine Woche nach dem Einmarsch russischer Truppen in die Ukraine, in der Nacht zum 4. März 2022, 
+wurde das Kernkraftwerk Saporischschja in direkte Kamphandlungen verwickelt. Russischer Granatenbeschuss 
+beschädigt das Hauptgebäude von Block 1. Brände auf dem Gelände konnten schnell gelöscht werden. Seither 
+wird das KKW durch russische Truppen kontrolliert. 
+Die Radiologische Rufbereitschaft und später das Radiologische Lagezentrum im BMUV sowie im BfS erstellte 
+noch in der Nacht des 4. März 2022 und in den darauffolgenden Tagen sechs Radiologische Lagebilder (RLB) 
+mit aktuellen Geschehnissen in der Anlage, Ausbreitungsrechnungen und radiologischen Messdaten sowie einer 
+Bewertung der radiologischen Lage. Die Ausbreitungsrechnungen zeigten, dass Deutschland von einer
+möglicherweise radiologischen Freisetzung aus dem KKW nicht betroffen gewesen wäre. Es gab keine auffälligen 
+Messwerte, eine Freisetzung von radioaktiven Stoffen fand nicht statt. 
+Aufgrund anhaltender Kriegshandlungen wurden zum 11. September 20222 alle Reaktorblöcke
+heruntergefahren. Seither nimmt die Nachzerfallswärme der Brennelemente ab, das Risiko eines radiologischen Unfalls sinkt. 
+Kurzlebige radioaktive Stoffe wie beispielsweise Jod-131 sind inzwischen zerfallen. 
+Für die Kühlung und zur Aufrechterhaltung der Sicherheitssysteme ist die Anlage allerdings weiterhin abhängig 
+von einer funktionierenden Stromversorgung. Normalerweise sichern dies mehrere (Hochspannungs-)Leitungen, 
+die mit dem ukrainischen Stromnetz verbunden sind. Durch Kampfhandlungen wird die Anbindung an das 
+Stromnetz häufig unterbrochen. Nach Angaben des ukrainischen Betreibers kann die Stromversorgung seit Ende 
+2022 mit 20 Notstromdieselgeneratoren mehr als 10 Tage lang aufrechterhalten werden. 
+2  IAEA-Press-Release-Update 100 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Ab September 2022 ist die IAEA dauerhaft mit mehreren Mitarbeitern vor Ort und führt regelmäßige
+Inspektionsrundgänge auf dem Anlagengelände durch. Der uneingeschränkte Zugang zu allen Teilen des Geländes und 
+der Gebäude sowie offene Gespräche mit dem Personal des KKW wird dem IAEA-Team durch die russischen 
+Besatzer nicht gewährt. 
+Das Kraftwerksgelände ist rundherum vermint. Die IAEA-Experten vor Ort berichten von ständigen
+Militäroperationen und von Landminen-Explosionen außerhalb der Umzäunung des Kraftwerksgeländes, die vermutlich 
+durch Wildtiere verursacht werden. 
+Nach Angaben der IAEA sinkt die Zahl der Beschäftigten seit der Übernahme durch die russischen Besatzer von 
+ehemals mehr als 10 000 Mitarbeitern kontinuierlich auf einige Tausend ab. 
+Die IAEA weist zudem regelmäßig auf die Einhaltung der sieben3 Säulen der nuklearen Sicherheit hin, die in 
+diesem bewaffneten Konflikt in Gefahr sind. 
+Abgeschaltetes Kernkraftwerk Tschornobyl 
+Am Standort in Tschornobyl, unmittelbar an Belarus angrenzend, finden an drei Reaktorblöcken vom 
+Typ RBMK Stilllegungs- und Rückbauarbeiten statt. Der bei der Katastrophe 1986 zerstörte Reaktorblock 4 
+befindet sich mit dem in der Sowjetzeit errichteten Sarkophag seit 2016 unter einer Hülle, im „Neuen Sicheren 
+Einschluss (NSC)“. 
+Darüber hinaus werden auf dem Gelände ein Nass- und Trockenlager für etwa 20 000 bestrahlte Brennelemente 
+aus dem Betrieb des KKW Tschornobyl sowie Lager- und Verarbeitungseinrichtungen für flüssige und feste 
+radioaktive Abfälle betrieben. 
+Tschornobyl wurde am späten Nachmittag des 24. Februar 2022 von russischen Streitkräften eingenommen. 
+Russische Truppen marschierten von Belarus aus kommend über die Sperrzone am Kernkraftwerk Tschornobyl 
+Richtung Kiew. Die Soldaten vernachlässigten dabei vermutlich Strahlenschutzmaßnahmen. 
+Am 25. Februar 2022 meldet die ukrainische Aufsichtsbehörde erhöhte Gammastrahlungswerte aus der
+Sperrzone, deren Plausibilität aber nicht bestätigt werden konnte und die nach kurzer Zeit wieder auf Normalniveau 
+abfielen. Wahrscheinlichste Ursache für diesen Anstieg sind Datenmanipulationen. 
+Während der Besatzung hielten sich russische Truppen auch längerer Zeit in hochkontaminierten Gebieten in 
+der Sperrzone auf, zum Beispiel im sogenannten „Roten Wald“ in der Nähe des KKW. Sie wirbelten dabei
+radioaktiv kontaminierten Staub auf und atmeten diesen ein. Das BfS hat die Strahlenbelastung der Soldaten
+abgeschätzt. Mit Hilfe von äußerst konservativen Berechnungen ergeben sich maximale Werte von 130 Millisievert 
+(effektive Dosis). Bei dieser Dosis kann es im Laufe der nächsten Jahre und Jahrzehnte zu einer Erhöhung des 
+Risikos für stochastische Schäden (vor allem Krebserkrankungen) kommen (siehe Anhang 1), direkte
+Strahlenschäden sind aber nicht zu erwarten. 
+Am 9. März 2022 wurde das Atomkraftwerk Tschornobyl vom Stromnetz genommen. Damit fiel auch die 
+Stromversorgung der Pumpen aus, die zur Kühlung der abgebrannten Brennelemente erforderlich sind.
+Aufgrund der bereits langen Abklingzeit dieser Brennelemente war wegen ihrer nur noch geringen
+Nachzerfallswärme nur ein langsamer Anstieg der Temperatur zu befürchten, und ein Schmelzen der Brennelemente war 
+nicht zu erwarten. Nach wenigen Tagen wurde die Stromversorgung wiederhergestellt. 
+Für die an Erschöpfung leidende Betriebsmannschaft des KKW gab es erst nach vier Wochen durchgängigen 
+Dienst den ersten Austausch. Fachkräfte konnten ebenfalls erst wieder Ende März 2022 vor Ort technische 
+Mängel an Messsystemen beheben. 
+Laut SNRIU erfolgte am Abend des 31. März 2022 der Abzug der russischen Truppen, danach normalisierte 
+sich die Lage am KKW Tschornobyl wieder. 
+Die Messwerte liegen bis heute im üblichen Bereich. An einigen Standorten in der Sperrzone gibt es Messwerte, 
+die oberhalb des Indikatorwertes für radiologisch auffällige Messwerte liegen (> 0,3μSv/h, roter Punkt in der 
+Karte Abbildung 4). Diese erhöhten Werte werden auch heute noch durch die Ablagerungen von Radionukliden 
+direkt nach dem KKW-Unfall im Jahr 1986 verursacht. Die radiologisch auffälligen Messwerte sind daher
+plausibel und an diesem Standort nicht ungewöhnlich. 
+3  IAEA-Press-Release, 4. März 2022, Während eines bewaffneten Konflikts dürfe die physische Integrität der Nuklearanlagen nicht verletzt
+werden, alle Sicherheitssysteme müssten jederzeit funktionieren, die Angestellten müssten ihrer Arbeit ohne Druck nachgehen können, die 
+Stromversorgung müsse sichergestellt sein, die Versorgung mit lebenswichtigen Gütern dürfe nicht unterbrochen werden, die Strahlung auf 
+dem Gelände müsse ständig überwacht werden, und die Kommunikation mit der Aufsichtsbehörde müsse funktionieren. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Mit Beginn der Waldbrand-Saison im März 2022 berichtete das BfS auch über Waldbrände in der Sperrzone, 
+die anhand von Satellitenbildern der NASA ausgewertet wurden. Es kam immer wieder zu kleineren Bränden. 
+4. Potenzielle Auswirkungen auf Deutschland, Gefährdungsanalysen
+Das BfS hat bereits in der Vergangenheit untersucht, wie sich radioaktive Stoffe aus Kernkraftwerken verbreiten 
+und welche Auswirkungen auf Deutschland bei Freisetzung radioaktiver Stoffe in ukrainischen
+Kernkraftwerken zu erwarten wären. 
+Über das Jahr 2021 hinweg gelangten an etwa 120 Tagen Luftmassen aus der Ukraine nach Deutschland, das 
+heißt bei etwa 28 Prozent der Wetterlagen des ganzen Jahres. 
+Für den Fall, dass radioaktive Stoffe infolge einer Freisetzung in einem ukrainischen Kernkraftwerk nach 
+Deutschland gelangen würden, würden sich die erforderlichen Notfallmaßnahmen voraussichtlich auf die 
+Landwirtschaft und die Vermarktung landwirtschaftlicher Produkte beschränken. 
+Nach den Berechnungen des BfS ist nicht zu erwarten, dass weitergehende Maßnahmen zum Schutz der
+Bevölkerung notwendig wären. 
+5. Jodtabletten
+In Deutschland sind 189,5 Millionen hochdosierte Jodtabletten4 in dezentralen Lagern in den Bundesländern 
+verfügbar. Diese würden bei einem radiologischen Notfall, bei dem ein Eintrag von radioaktivem Jod in die Luft 
+zu erwarten ist, in den möglicherweise betroffenen Gebieten durch die Katastrophenschutzbehörden verteilt. Bei 
+radiologischen Notfällen in Kernkraftwerken in der Ukraine wäre es gemäß der BfS-Analysen mit großer
+Wahrscheinlichkeit nicht erforderlich, diese Jodtabletten einzunehmen. 
+III. Überprüfung des gegenwärtigen Strahlenschutzsystems durch die internationale
+Strahlenschutzkommission (ICRP)
+Seit ihrer Gründung im Jahr 1928 entwickelt die internationale Strahlenschutzkommission (ICRP)
+Empfehlungen, die weltweit als Grundlage für gesetzliche Regelungen, Normen und Richtlinien zum Strahlenschutz
+dienen. Beispielsweise basiert das aktuell gültige deutsche Strahlenschutzgesetz wesentlich auf den grundlegenden 
+Empfehlungen der ICRP. Das BMUV und das BfS begleiten den Prozess der Überprüfung und
+Weiterentwicklung des Strahlenschutzsystems durch die ICRP. 
+Auf ihrem alle zwei Jahre stattfindenden Symposium stellte die ICRP vom 7. bis 9. November 2022 in
+Vancouver in Kanada einem breiten Publikum erste Pläne zur Überprüfung ihrer gegenwärtig gültigen Empfehlungen 
+und zur Zukunft des Strahlenschutzsystems vor5. Während dieser drei Tage diskutierten fast 500 Teilnehmer aus 
+mehr als 60 Ländern, an welchen Stellen das gegenwärtige Strahlenschutzsystem, das die ICRP ab dem Jahre 
+2000 entwickelt und 2007 veröffentlicht hatte6, einer Verbesserung bedarf. Gründe für die Notwendigkeit einer 
+derartigen Überprüfung sind zum Beispiel der wissenschaftliche Fortschritt in der Strahlenforschung in den 
+letzten 20 Jahren, Veränderungen der Gesellschaft, zum Beispiel im Hinblick auf die Bewertung
+strahlenbedingter Gesundheitsrisiken, oder die praktischen Erfahrungen, die in den letzten 20 Jahren weltweit mit dem
+gegenwärtigen Strahlenschutzsystem gewonnen wurden. 
+Organisationen, die Interesse an der Weiterentwicklung des Strahlenschutzes haben, wurden von der ICRP in 
+Vancouver aufgerufen, sich aktiv zu beteiligen. Dies ist zum Beispiel möglich durch die Mitarbeit in
+Arbeitsgruppen der ICRP, die sich mit für den Überprüfungsprozess wichtigen Teilaspekten beschäftigen. Die
+Teilnahme an öffentlichen Webinaren und Workshops bietet eine weitere Möglichkeit, eigene Ideen einzubringen. 
+Zusammenfassende Berichte der Arbeitsgruppen der ICRP werden vor Veröffentlichung für einen Zeitraum von 
+mehreren Monaten auf der Website der ICRP zur freien Kommentierung veröffentlicht, um die Berichte
+inhaltlich zu verbessern und einen möglichst breiten internationalen Konsens herzustellen. Die Teilnehmenden des 
+4  Die Einnahme von Jodtabletten schützt ausschließlich vor der Aufnahme von radioaktivem Jod in die Schilddrüse, nicht vor der
+Wirkung anderer radioaktiver Stoffe. Von einer selbstständigen Einnahme der hochdosierten Jodtabletten rät das BfS ab. Eine Selbstmedikation 
+mit hochdosierten Jodtabletten birgt gesundheitliche Risiken insbesondere für ältere Personen, hat aktuell aber keinen Nutzen. Radioaktives 
+Jod hat eine Halbwertszeit von wenigen Tagen. Das bei dem Reaktorunfall von Tschornobyl vor über 35 Jahren freigesetzte radioaktive Jod ist 
+mittlerweile vollständig zerfallen und kann deshalb nicht mit dem Wind nach Deutschland transportiert werden. 
+5  Clement et al. (2021) Keeping the ICRP Recommendations Fit for Purpose. Journal of Radiological protection 41, 1390–1409 
+6  ICRP (2007) The 2007 Recommendations of the International Commission on Radiological Protection. ICRP Publication 103, Annals 
+of the ICRP 37 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+Symposiums begrüßten dieses Bestreben der ICRP, den Prozess der Überprüfung und Weiterentwicklung des 
+Strahlenschutzsystems transparent und partizipativ zu gestalten. 
+Die Weiterentwicklung des Strahlenschutzsystems erfordert auf verschiedensten Ebenen eine kontinuierliche 
+und nachhaltige Unterstützung durch verschiedene Akteure. Daher rief die ICRP auf ihrem Symposium in
+Vancouver dazu auf, das Fachwissen und die Kompetenz im Bereich des Strahlenschutzes weltweit zu stärken,
+indem 
+1.  die von Regierungen und internationalen Organisationen bereitgestellten Ressourcen zur Unterstützung der 
+Strahlenschutzforschung erhöht werden, 
+2.  Forschungseinrichtungen bestehende langfristige Forschungsprogramme erhalten bzw. neue auflegen, 
+3.  Universitäten relevante Bachelor- und Master-Universitätsprogramme anbieten und weiterentwickeln, 
+4.  die gesellschaftliche Bedeutung des Strahlenschutzes Entscheidungsträgern und der Öffentlichkeit mit 
+einer leicht verständlichen Sprache vermittelt wird und 
+5.  insbesondere bei Multiplikatoren das Bewusstsein für eine sinnvolle Anwendung ionisierender Strahlung 
+und für die Wichtigkeit des Strahlenschutzes durch Aus- und Weiterbildung gefördert wird7. 
+IV. Gemeinsame Europäische Forschung zum Strahlenschutz 
+1. BfS-Forschungsprogramm, Kooperation und Vernetzung 
+Das Forschungsprogramm des BfS dient als Grundlage für das wissenschaftliche Arbeiten und konkretisiert den 
+mittelfristigen Forschungsbedarf im Strahlenschutz, der sich aus dem gesetzlichen Auftrag und den daraus
+abgeleiteten Zielen des BfS ergibt. Das Forschungsprogramm beschreibt sowohl den fachlichen Fokus sowie die 
+thematische Einbindung in die Ressortforschung des BMUV als auch den Rahmen für Beteiligungen des BfS an 
+nationalen und internationalen Forschungsprojekten und -programmen Dritter zur Strahlenforschung. 
+Generell werden potenzielle wissenschaftliche Kooperationen dahingehend bewertet, ob sie dem öffentlichen 
+Interesse, dem Interesse und den Themen des BfS sowie dem gesetzlichen Auftrag und den jeweiligen
+Zielvorgaben des BfS dienlich sind. 
+Grundsätzlich sieht das BfS einen Vorteil für die Strahlenforschung in einer starken europäischen
+Forschungszusammenarbeit und hat daher das European Joint Programme CONCERT bis ins Jahr 2020 als Koordinator 
+verantwortet. Auch im Nachfolgeprojekt PIANOFORTE ist das BfS als Leitung eines Arbeitspakets
+(„Stakeholder Involvement“) und im Executive Board des Projekts vertreten und hat dessen Entstehung auch auf
+europäischer Ebene konsequent mit den europäischen Partnerinstitutionen begleitet.  
+2. PIANOFORTE (2022 bis 2027) – Europäische Partnerschaft für Strahlenschutzforschung 
+PIANOFORTE ist eine fünfjährige, kofinanzierte EU-Partnerschaft (Startdatum 1. Juni 2022 bis zum Enddatum 
+31. Mai 2027), an der zum Start 58 Partner aus 22 EU-Ländern sowie dem Vereinigten Königreich und
+Norwegen beteiligt sind (https://pianoforte-partnership.eu). Sie wird vom französischen Institut für Strahlenschutz und 
+nukleare Sicherheit (IRSN) koordiniert. Die Partnerschaft wurde im Mai 2022 mit dem Ziel ins Leben gerufen, 
+den Schutz der Bevölkerung, der Arbeitskräfte, der Patient*innen und der Umwelt vor umweltbedingter,
+beruflicher und medizinischer Exposition gegenüber ionisierender Strahlung zu verbessern. Zu diesem Zweck wird 
+PIANOFORTE drei offene Aufforderungen zur Einreichung von Forschungsprojekten zu Themen organisieren, 
+die von den sechs europäischen Strahlungsplattformen (www.meenas.eu) festgelegt und mit einem Gremium 
+von Interessenvertretern konsultiert wurden. 
+Im Rahmen dieser Partnerschaft werden drei Ausschreibungen geplant, die sich auf folgende Themen
+konzentrieren: a) Verbesserung des Strahlenschutzes im medizinischen Bereich, b) Verbesserung des Verständnisses 
+über individuelle Reaktionen auf Strahlenexposition, c) Untersuchung der Mechanismen bei chronischer
+Strahlenexposition im Niedrigdosisbereich und d) Verbesserung der Vorsorge und Resilienz in
+nuklearen/radiologischen Krisensituationen und der Bewältigung von Unfallfolgen. Das Gesamtbudget für die drei 
+Aufforderungen in den Jahren 2023, 2024 und 2025 beläuft sich auf ca. 34 Millionen Euro (davon 63 Prozent 
+aus dem EU Euratom-Programm und 37 Prozent Finanzierung durch die beteiligten Mitgliedstaaten). Darüber 
+hinaus verfügt PIANOFORTE über ein Budget von 0,9 Millionen Euro für Bildungs- und Ausbildungsaktivitä-
+ 
+7  Rühm et al. (2023) Vancouver Call for Action to Strengthen Expertise in Radiological Protection Worldwide. Radiation and
+Environmental Biophysics 62, 175–180 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+ten, einschließlich der Unterstützung von Mobilitätsprogrammen und Ausbildungskursen. Die Unterstützung der 
+europäischen Strahlungsforschungsinfrastrukturen ist ebenfalls im Budget enthalten. Durch die in seinem
+Rahmen durchgeführten Forschungstätigkeiten wird PIANOFORTE zur Umsetzung der europäischen Politik
+beitragen, wie z. B. dem Europäischen Plan zur Krebsbekämpfung, dem Grünen Pakt für Wachstum und der
+Umsetzung des Fahrplans zur Verringerung industrieller und natürlicher Risiken. Die Projektdetails, einschließlich des 
+Inhalts der Projektaufrufe, werden vorgestellt und diskutiert. 
+Das BfS ist als Leitung des Arbeitspakets „Stakeholder Involvement“ für eine breite wissenschaftliche und
+gesellschaftliche Verankerung der Forschungsfragen und -projekte verantwortlich. Als Mitglied des Vorstands der 
+Partnerschaft wird das BfS außerdem seine Erfahrung als Koordinator des Vorgängerprogramms CONCERT 
+(2015 bis 2020) einbringen.
+V. 7. internationaler Workshop zur Ursachenforschung von Leukämie im Kindesalter
+Leukämie ist weltweit die häufigste Krebsart bei Kindern und macht bis zu einem Drittel aller Krebsfälle aus. 
+Trotz intensiver Forschung ist der Kenntnisstand zu den Ursachen der Erkrankung aber bis heute
+unbefriedigend. Ein etablierter umweltbedingter Risikofaktor für Leukämie ist die Exposition gegenüber hohen oder
+moderaten Dosen ionisierender Strahlung. Die Exposition gegenüber niederfrequenten Magnetfeldern, wie sie 
+bspw. in der Nähe von Stromkabeln oder Hochspannungsleitungen auftreten, oder sehr niedrigen Dosen
+ionisierender Strahlung (bspw. durch Radon oder natürliche Hintergrundstrahlung) steht ebenfalls in Verdacht, das 
+Leukämierisiko zu erhöhen. Allerdings ist für die beiden letztgenannten Umweltrisikofaktoren ein
+Zusammenhang bis heute nicht nachgewiesen. 
+Dennoch waren die Hinweise auf einen möglichen Zusammenhang Anstoß, die Forschung auf diesem Gebiet 
+voranzutreiben. Seit 2008 organisiert das BfS daher regelmäßig mit Mitteln des BMUV finanzierte
+internationale Workshops mit dem Ziel, internationale Expert*innen auf dem Gebiet zusammenzubringen und gemeinsam 
+den wissenschaftlichen Fortschritt und neuste Erkenntnisse sowie Techniken auf verschiedenen Gebieten der 
+Ursachenforschung bei Leukämie im Kindesalter zusammenzutragen und zu diskutieren. 
+Der siebte internationale Workshop fand vom 28. bis 30. November 2022 in München als Hybridveranstaltung 
+statt. Er lieferte einen umfassenden Überblick über die aktuelle Forschung und Fortschritte bei der
+Identifizierung der komplexen Ursachen von Leukämie im Kindesalter. Er brachte neue Einblicke in die
+Entstehungsmechanismen der Erkrankung bei Vorliegen bestimmter vererbbarer sowie nicht vererbbarer genetischer
+Veränderungen. Die dadurch bedingte genetische Anfälligkeit für Leukämie ist ein Thema von wachsender Bedeutung. 
+Etwa 5 bis 10 Prozent der Leukämiepatient*innen tragen eine Keimbahnmutation (d. h. eine vererbbare
+Mutation), die eine Leukämieentstehung wahrscheinlicher macht. 
+In mehreren Vorträgen wurde die Rolle des Immunsystems bei der Entstehung von Leukämie in Kindern
+beleuchtet. Beobachtungsstudien an Menschen (epidemiologische Studien) und tierexperimentelle Daten weisen 
+darauf hin, dass Infektionen aber auch Impfungen die Entwicklung des Immunsystem und dessen Antwort auf 
+spätere Immunstimulationen verändern können. So gibt es Hinweise, dass durch ein angemessenes und
+rechtzeitiges Training des Immunsystems das Leukämierisiko gesenkt werden kann. Dadurch könnten sich neue
+Möglichkeiten der Intervention ergeben, dies ist aber noch Gegenstand aktueller Forschung. 
+In einer weiteren Session wurde der aktuelle Forschungsstand zu einem möglichen Zusammenhang zwischen
+niederfrequenten Magnetfeldern und Leukämie im Kindesalter vorgestellt. Ein solcher Zusammenhang wurde in
+epidemiologischen Studien oberhalb von Expositionen von 0,3 Mikrotesla beobachtet. Diese Exposition liegt deutlich 
+unterhalb des in der 26. Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes festgelegten
+Grenzwerts für niederfrequente Magnetfelder von 100 Mikrotesla, aber über dem Wert von 0,1 Mikrotesla, der als
+mittlere Alltagsexposition im häuslichen Umfeld angenommen wird. Neue epidemiologische Studien zeigen weiterhin 
+ein erhöhtes Risiko an Leukämie zu erkranken, wenn die Exposition 0,3 Mikrotesla überschreitet, allerdings ist das 
+beobachtete Erkrankungsrisiko in neueren Studien kleiner als in früheren Studien. Die genauen Gründe für die 
+Abnahme des beobachteten Risikos sind unbekannt, auch gibt es keine neuen Erkenntnisse hinsichtlich möglicher 
+Wirkmechanismen, durch die niederfrequente Magnetfelder Leukämie in Kindern auslösen könnten. 
+Mehrere Vorträge beleuchteten auch niedrige Dosen ionisierender Strahlung als potenziellen Risikofaktor für 
+die Entstehung von Leukämien. Dabei zeigten epidemiologische Daten keinen gesicherten Zusammenhang
+zwischen dem Auftreten von Leukämien und natürlicher Hintergrundstrahlung. Auch bezüglich Radonexposition 
+wurden keine gesicherten Daten gefunden. Hingegen können niedrige bis moderate Expositionen durch
+medizinische Strahlenanwendungen, wie CT-Scans, das Risiko erhöhen. Besonders sichtbar ist dieser Effekt in der 
+ersten Dekade nach postnataler Exposition. Mechanistische Studien weisen auf Veränderungen in der chemi-
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+schen Zusammensetzung der Erbsubstanz (DNA-Methylierung) hin, die die Genregulation und damit eine
+korrekte Zellfunktion beeinflussen könnten. 
+Der Bericht zum Workshop mit der Tagesordnung und den Abstracts ist online verfügbar. Die Workshop-Reihe 
+soll mit dem achten Leukämie-Workshop im Jahr 2026 fortgeführt werden. 
+VI. Beratungsergebnisse der Strahlenschutzkommission (SSK) 
+1. Exposition durch Radon im Zusammenhang mit radioaktiven Altlasten 
+Das System der Regelungen zum Schutz vor Radon für Einzelpersonen der Bevölkerung in Aufenthaltsräumen 
+beruht auf Referenzwerten der Radon-Aktivitätskonzentration in der (Innenraum-) Luft. Dagegen beruht das 
+System der Regelungen zum Schutz vor Radon für Einzelpersonen der Bevölkerung durch radioaktive Altlasten 
+− insbesondere bei bergbaulichen Altlasten – auf Dosisberechnungen. Dabei wird gegenwärtig der Radonanteil 
+einbezogen. Hier wird also die effektive Dosis aufgrund der Exposition durch Radon berechnet, während dies 
+ansonsten beim Schutz der Bevölkerung vor Radon nicht geschieht. Somit gibt es derzeit zwei unterschiedliche 
+Herangehensweisen für die Regelung von Expositionen durch Radon. 
+Zudem hat die ICRP in den vergangenen Jahren eine Reihe von Empfehlungen zur Radon-Dosiskonversion 
+herausgegeben, die auf eine Änderung der bisher verwendeten Dosiskoeffizienten hinauslaufen. Die SSK hat 
+2018 empfohlen, vorerst diese Radon-Dosiskoeffizienten in Deutschland nicht zu verändern, da sie derzeit mit 
+signifikanten Unsicherheiten behaftet und in diesem Zusammenhang die internationalen Diskussionen noch 
+nicht beendet sind. Vor diesem Hintergrund beauftragte das BMU am 31. Januar 2020 die SSK, ein Konzept 
+zum Schutz vor der Exposition durch Radon im Zusammenhang mit radioaktiven Altlasten zu erarbeiten. Die 
+Erarbeitung einer entsprechenden Empfehlung wurde durch den Ausschuss „Radioökologie“ vorgenommen. Mit 
+dem vorliegenden Text empfiehlt die SSK, auch für den Schutz der Bevölkerung vor Radon aus radioaktiven 
+Altlasten die Radon-Aktivitätskonzentration in der Luft heranzuziehen. Die Stellungnahme wurde in der 
+319. Sitzung der Strahlenschutzkommission am 28./29. März 2022 verabschiedet. 
+2. Faktenbasierte Risikokommunikation im gesellschaftlichen Diskurs 
+Im Oktober 2021 fand die SSK-Klausurtagung zum Thema „Faktenbasierte Risikokommunikation im
+gesellschaftlichen Diskurs“ in Hannover statt. Durch die sich seit Anfang 2020 entwickelnde Pandemiesituation
+bekam das Thema eine besondere Aktualität, da in ihr ganz ähnliche Aspekte der Risikowahrnehmung,
+Risikoabschätzung und Risikokommunikation, wie sie für den Strahlenschutz typisch sind, für eine breite Öffentlichkeit 
+sichtbar wurden. 
+Die Vorträge der Klausurtagung waren nach einer Einführung in die Blöcke „Wahrnehmung“, „Bewertung“, 
+„Kommunikation“ und „Praktische Kommunikation, Beispiele für aktuelle Herausforderungen inklusive der 
+Frage der Partizipation“ gegliedert. Das wissenschaftliche Hauptprogramm wurde von einem Abendvortrag zum 
+Thema „Wird KI zur unsichtbaren Gefahr?“, einem Science Slam und einer abschließenden Podiumsdiskussion 
+begleitet. Die Zusammenfassung der Klausurtagung wurde in der 320. Sitzung der Strahlenschutzkommission 
+am 7. Juli 2022 verabschiedet. 
+3. Therapeutische Verfahren in der Nuklearmedizin 
+Auf dem medizinischen Fachgebiet der Nuklearmedizin ist neben der etablierten Radioiodtherapie der
+Schilddrüsenerkrankungen in den letzten Jahren eine rasante Entwicklung bei der therapeutischen Anwendung von 
+radioaktiven Stoffen auch bei anderen (insbesondere onkologischen) Erkrankungen zu beobachten. Dies umfasst 
+kommerziell verfügbare Verfahren aber auch Therapien, die dezentral in den behandelnden Kliniken unter der 
+direkten fachlichen Verantwortung der therapierenden Ärzt*innen hergestellt und angewendet werden. Für
+einige dieser Therapien ist gerade bei schwerwiegenden Tumorerkrankungen Wirksamkeit auch dann dokumentiert, 
+wenn andere therapeutische Optionen nicht mehr greifen/zur Verfügung stehen. 
+Das BMU hat die SSK daher am 5. Februar 2019 um Erarbeitung einer Zusammenstellung aller aktuell in der 
+Nuklearmedizin therapeutisch angewendeten radioaktiven Stoffe gebeten. 
+Zur Optimierung und Sicherung des Strahlenschutzes gibt die SSK-Empfehlungen zu infrastrukturellen
+Voraussetzungen, der stationären Durchführung, zur Qualitätssicherung bei der Herstellung und zum Umgang mit
+radioaktiven Stoffen. Zusätzlich wurde eine systematische Übersicht aller gängigen Verfahren erstellt. Dabei
+wurden die wichtigsten Informationen zu z. B. Therapie, Indikationen, Bezug des Radiopharmakons/Herstellung, 
+Zulassungsstatus, Abfall und Entsorgung, Strahlenexposition in tabellarischer Form zusammengefasst. Zusätz-
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+lich wurden die wichtigsten physikalischen Eigenschaften der Nuklide in gesonderten Tabellen aufgeführt. Die 
+Empfehlung wurde in der 321. Sitzung der Strahlenschutzkommission am 22./23. September 2022
+verabschiedet (Bekanntmachung im BAnz AT 13.06.2023 B6). 
+4. Bildgebende Diagnostik bei Kindern
+In der „Verordnung zur weiteren Modernisierung des Strahlenschutzrechts“ (StrlSchV) wurde die Vorgabe der 
+Richtlinie 2013/59/Euratom zum Einsatz geeigneter medizinisch-radiologischer Ausrüstungen, Verfahren und 
+Zusatzausrüstung für medizinische Expositionen von Kindern umgesetzt und spezifiziert, um der besonderen 
+Strahlenempfindlichkeit dieser Personen Rechnung zu tragen. 
+Bei der Anwendung von ionisierender Strahlung und radioaktiven Stoffen an Kindern sind die Grundsätze des 
+Strahlenschutzes (Rechtfertigung, Einhaltung von Grenz- und Referenzwerten und Optimierung der
+Strahlenexposition) aufgrund deren höherer Strahlensensibilität besonders eng zu fassen. Bei der 2006 verabschiedeten 
+SSK-Empfehlung „Bildgebende Diagnostik beim Kind – Strahlenschutz, Rechtfertigung und Effektivität“
+wurde besonderes Augenmerk auf die Optimierung des Strahlenschutzes durch Anwendung und Nutzung der
+geeigneten Gerätetechnologie und Aufnahmetechnik gerichtet. Aufgrund enormer technischer Weiterentwicklungen 
+der bildgebenden Verfahren in den letzten Jahren und der zunehmenden Anwendung digitaler
+Röntgenverfahren, der Innovationen in der Multidetektor-Computertomografie sowie dem zunehmenden Einsatz von
+Hybridtechniken, wie dem PET-CT/PET-MRT wurde die SSK beauftragt, die relevanten Änderungen hinsichtlich der 
+Indikationsstellung und technischen Durchführung von Röntgenverfahren unter besonderer Einhaltung des 
+Strahlenschutzes zu prüfen und ihre Empfehlung aus dem Jahr 2006 unter Berücksichtigung von
+Alternativverfahren zu aktualisieren. Die Empfehlung wurde in der 321. Sitzung der Strahlenschutzkommission am 
+22./23. September 2022 verabschiedet. 
+5. Verwendung von Patienten-Strahlenschutzmitteln bei röntgendiagnostischen
+Anwendungen
+Der mit Abstand größte Teil der zivilisatorischen Strahlenexposition der deutschen Bevölkerung wird durch 
+Untersuchungen mittels diagnostisch angewandter Röntgenstrahlung verursacht. Der Einsatz von Patienten-
+Strahlenschutzmitteln kann bei ausgewählten Untersuchungen eine sinnvolle Komponente beim Schutz von 
+Patient*innen darstellen. 
+Seit Verabschiedung der SSK-Empfehlung „Verwendung von Patienten-Strahlenschutzmitteln bei
+röntgendiagnostischen Anwendungen“ im Jahr 2018 wurden Art und Anwendung von Patienten-Strahlenschutzmitteln
+(contact shielding) international allerdings diskutiert, da der nicht-adäquate Einsatz von Patienten-
+Strahlenschutzmitteln zu einer verminderten Schutzwirkung oder sogar zu einer Dosiserhöhung führen könnte. 
+In der Folge wurden von internationalen Fachgesellschaften und Behörden/Gremien entsprechend
+Empfehlungen zum Einsatz der Strahlenschutzmittel in letzter Zeit modifiziert. 
+Daher hat das Bundesumweltministerium in einer Beratungsanfrage an die Strahlenschutzkommission (SSK) 
+darum gebeten, die bestehende Empfehlung der SSK zum Einsatz von Patienten-Strahlenschutzmitteln aus dem 
+Jahr 2018 zu überarbeiten und dabei aktuelle Erkenntnisse über Konsequenzen aus dem Einsatz von
+Schutzmitteln einfließen zu lassen. Dabei sollte der Maßstab für den sinnvollen Einsatz sein, ob es unter Berücksichtigung 
+des Standes der Technik mit angemessenem Aufwand möglich ist, die Strahlenexposition außerhalb des
+diagnostisch relevanten Bereichs relevant zu reduzieren. Insbesondere sollten in der Empfehlung die Besonderheiten 
+der verschiedenen Untersuchungstechniken unter Einsatz von Röntgenstrahlung (wie z. B. Computertomografie 
+(CT), zahnmedizinische Röntgenverfahren, radiologische Interventionen) einbezogen werden, ebenso die
+Untersuchung verschiedener Körperteile sowie die besonderen Schutzerfordernisse bestimmter Patientengruppen, 
+z. B. Patient*innen mit erhöhter Strahlensensibilität, Kinder oder Schwangere.
+In dieser überarbeiteten Fassung ihrer Empfehlung aus dem Jahr 2018 hat die SSK ihre Empfehlungen
+weitgehend an das Konsensuspapier der EU angepasst, jedoch keinen generellen Verzicht auf Patienten-
+Strahlenschutzmittel empfohlen. Um dem Anwender die Entscheidung hinsichtlich der Verwendung von
+Patienten-Strahlenschutzmitteln zu erleichtern, wird ein Konzept mit drei Empfehlungskategorien eingeführt, und die 
+Möglichkeiten zur Dosiseinsparung werden für die verschiedenen Untersuchungen sowie ggf. für
+unterschiedliche Personengruppen dargestellt und erläutert. Die Empfehlung wurde in der 321. Sitzung der
+Strahlenschutzkommission am 22./23. September 2022 verabschiedet (Bekanntmachung im BAnz AT 27.04.2023 B5). 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+6. Strahlenschutzdosimetrie in hochenergetischen Photonenfeldern 
+Zur Gewährleistung des Strahlenschutzes ist die zuverlässige Durchführung von Strahlenschutzmessungen in 
+von Beschleunigeranlagen erzeugten hochenergetischen Strahlungsfeldern (Streustrahlungsfelder bzw.
+Strahlungsfelder hinter Abschirmungen) von wesentlicher Bedeutung. 
+Orts- und Personendosimeter für Photonenstrahlung unterliegen im Energiebereich bis 7 MeV dem gesetzlichen 
+Messwesen. Nicht selten werden in der Praxis jedoch auch Messgeräte benutzt, deren Bauartprüfung z. B. nur 
+bis zu 1,3 MeV durchgeführt wurde. Überdies ist zu berücksichtigen, dass die relevanten Strahlungsfelder
+häufig gepulst sind. Bei Sachverständigen, Betreibern und Behörden besteht daher erhebliche Unsicherheit
+bezüglich der Verwendbarkeit der Messgeräte und der mit diesen Geräten bestimmten Messwerte. 
+Da die überwiegende Mehrheit der betreffenden Anlagen medizinisch genutzte Linearbeschleuniger im
+Energiebereich bis 25 MeV sind, führte eine Arbeitsgruppe der SSK-Messungen an medizinischen
+Beschleunigeranlagen an verschiedenen Standorten durch. 
+Auf der Basis dieser orientierenden Messungen gibt die SSK-Empfehlungen, welche Kriterien für die Eignung 
+von Gerätetypen bzw. Messprinzipien für Messungen in gepulsten hochenergetischen Strahlungsfeldern
+herangezogen werden können. Außerdem gibt sie Hinweise, mit welchen Unsicherheiten Messungen in
+hochenergetischen Feldern verbunden sind, welche technischen Entwicklungen sinnvoll wären, um realistische Prüfungen 
+von Messgeräten vornehmen zu können und in welcher Hinsicht die bestehenden gesetzlichen Grundlagen 
+überprüft werden sollten. Die Empfehlung wurde in der 321. Sitzung der Strahlenschutzkommission am 
+22./23. September 2022 verabschiedet. 
+7. Strahlennotfallmedizin – Handbuch für die medizinische Versorgung und Ausbildung 
+Eine Arbeitsgruppe der Ausschüsse „Notfallschutz“ und „Strahlenschutz in der Medizin“ der SSK hat die
+Bände 4 „Medizinische Maßnahmen bei Kernkraftwerksunfällen“ und 32 „Der Strahlenunfall“ der Publikationsreihe 
+„Veröffentlichungen der Strahlenschutzkommission“ überarbeitet und in der Empfehlung
+„Strahlennotfallmedizin – Handbuch für die medizinische Versorgung und Ausbildung“ zusammengefasst. 
+In dem vorliegenden Handbuch werden die Vorgaben des neuen Strahlenschutzrechts ebenso berücksichtigt wie 
+die Szenarien im radiologischen und nuklearen Notfall, auf die sich Bund und Länder vorbereiten. Es werden 
+Ereignisse betrachtet, die sowohl bei Einzelpersonen als auch bei einer großen Anzahl an Personen zu
+gesundheitlichen Beeinträchtigungen durch eine vermutete oder tatsächlich erhaltene Strahlenexposition führen
+können. 
+Dieses Handbuch soll auch als operationeller Leitfaden dienen. Es kann für die Aus-, Fort- und Weiterbildung 
+der Strahlennotfallärzt*innen und des Weiteren eingesetzten Personals sowie als Wissensgrundlage für all
+diejenigen, die in der radiologischen Notfallvorsorge und -reaktion tätig sind, genutzt werden. 
+Das Handbuch kann das operativ tätige Personal in der akuten Unfallsituation unterstützen und gibt wichtige 
+Hinweise für die Behandlung in der Klinik. Neben den Strahlengrundlagen wird die medizinische und
+psychosoziale Versorgung ebenso behandelt wie organisatorisch-technische Aspekte rund um die verschiedenen
+Strahlen(unfall)szenarien. Zur Erleichterung der Anwendung in der Einsatzsituation sind wichtige
+Entscheidungshilfen und Zusammenfassungen im Druck farblich hervorgehoben. Die Empfehlung der Strahlenschutzkommission 
+wurde am 28. August 2022 im Umlaufverfahren verabschiedet. 
+8. Schutzstrategien bei Nuklearwaffeneinsatz – Schutzwirkungen von Iodblockade und
+partikelfiltrierenden Halbmasken 
+Im Zusammenhang mit dem Angriff Russlands auf die Ukraine wurde die SSK durch das Bundesministerium 
+für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) um eine Bewertung gebeten, 
+inwiefern die verschiedenen für radiologische Notfälle vorgeplanten Schutzmaßnahmen auch im Falle eines 
+Nuklearwaffeneinsatzes effektiv und aus radiologischer Sicht angemessen sein können. 
+In einem ersten vorläufigen Zwischenergebnis hat die SSK im März 2022 festgestellt, dass eine Einnahme von 
+hochdosierten Kaliumiodid-Tabletten (Iodblockade) in den ersten etwa 48 Stunden nach einem
+Kernwaffeneinsatz allenfalls eine untergeordnete Rolle spielt und als Schutzmaßnahme nicht als sinnvoll eingestuft wird. Die 
+Stellungnahme wurde in der 319. Sitzung der Strahlenschutzkommission am 29. März 2022 verabschiedet. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.
+VII. StrahlenschutzForum: Resilienz in der Multikrise
+Am 28. September 2022 fand die Jahresveranstaltung StrahlenschutzForum des BfS als hybrides Format in
+Berlin statt. Fachleute und Politiker*innen diskutierten dieses Mal über Resilienz in der Multikrise und
+Notfallschutz. 
+Hintergrund war, dass Politik und Gesellschaft durch Energiekrise, Klimakrise, Hochwasser, Waldbrände und 
+nukleare Bedrohungen durch den Krieg in der Ukraine vor großen Herausforderungen stehen. Insgesamt hätten 
+sich durch den Angriffskrieg Russlands gegen die Ukraine neue Szenarien im Rahmen des Notfallschutzes
+ergeben. Es wurde diskutiert wie der Staat auf neue, gleichzeitige Gefahrenlagen wissenschaftlich fundiert und 
+rasch antworten könne. 
+Außerdem wurde unterstrichen, dass der Strahlenschutz eng verbunden sei mit wichtigen Zukunftsthemen: etwa 
+dem Zivil- und Katastrophenschutz, der Energiewende und der Klimakrise. Um das hohe Schutzniveau in 
+Deutschland dauerhaft zu gewährleisten, braucht es daher einen gut ausgestatteten Notfallschutz und eine starke 
+Strahlenforschung. 
+V
+orabfassung – w
+ird durch die lektorierte Fassung ersetzt.

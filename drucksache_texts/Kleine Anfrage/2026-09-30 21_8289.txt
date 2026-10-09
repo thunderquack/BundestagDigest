@@ -6,7 +6,7 @@ Maack, Tobias Ebenberger, Lars Haise, Edgar Naujok, Steffen Janich, Dr. Michael
 Kaufmann, Micha Fehre, Beatrix von Storch, Ronald Gläser, Peter Bohnhof, 
 Thomas Ladzinski und der Fraktion der AfD
 Modernisierung des Informationsfreiheitsgesetzes – Funktionsfähigkeit der 
-Verwaltung und möglicher Anfragen-Missbrauch
+Verwaltung und möglicher Anfragemissbrauch
 Eine leistungsfähige und effiziente öffentliche Verwaltung ist das Fundament 
 eines funktionierenden Staates. Das Ziel der Staatsmodernisierung muss es
 daher sein, Verwaltungsprozesse von unnötigen administrativen Lasten zu
@@ -18,11 +18,11 @@ Bundesbehörden geführt hat.
 Die ursprüngliche Intention des IFG, die Ermöglichung des Zugangs zu
 amtlichen Informationen für den einzelnen Bürger in begründeten Einzelfällen, wird 
 auch durch eine systematische und teils automatisierte Abfragepraxis
-konterkariert. Insbesondere gewerbliche oder sogenannte „zivilgesellschaftliche“
+konterkariert. Insbesondere gewerbliche oder sogenannte zivilgesellschaftliche
 Transparenzplattformen nutzen das Gesetz für massenhafte, oft inhaltsgleiche
 Anfragen, die in den Behörden personellen und finanziellen Aufwand für die
 Sichtung, Schwärzung und rechtliche Prüfung von Dokumenten auslösen. Diese 
-Praxis bindet hochqualifizierte Kapazitäten, die für die eigentliche Sacharbeit 
+Praxis bindet hoch qualifizierte Kapazitäten, die für die eigentliche Sacharbeit 
 und den digitalen Umbau des Staates fehlen (vgl. auch www.baden-wuerttembe
 rg.datenschutz.de/ifk-kritik-kahlschlag-if/).
 Trotz der auch zu beobachtenden Fehlentwicklungen bei der Anwendung des 
@@ -32,19 +32,16 @@ systematischer Überlastung schützt. Statt die Staatsmodernisierung dazu zu nut
 Grenzen für missbräuchliche oder massenhafte Abfragen zu ziehen, verharrt die 
 Bundesregierung nach Auffassung der Fragesteller in einer passiven Haltung. 
 Dies führt nach ihrer Einschätzung dazu, dass weiterhin erhebliche
-Steuergelder für die Bearbeitung von Kleinstanfragen und politisch motivierten 
-Kampagnen-Abfragen verschwendet werden, während dringende
-Digitalisierungsprojekte stocken. Es ist in ihren Augen ein Ausdruck mangelnder
-Steuerungskompetenz, wenn die Bundesregierung einerseits von Bürokratieabbau 
-spricht, andererseits aber zulässt, dass spezialisierte Plattformen die
-behördliche Kapazität durch automatisierte Abfrage-Zyklen binden (vgl. auch www.deu
-tschlandfunk.de/informationsfreiheitsgesetz-ifg-reform-einschraenkung-kritik-1
-00.html).
+Steuergelder für die Bearbeitung von Kleinstanfragen und politisch motivierten
+Kampagnenabfragen verschwendet werden, während dringende Digitalisierungsprojekte 
+stocken. Es ist in ihren Augen ein Ausdruck mangelnder Steuerungskompetenz, 
+wenn die Bundesregierung einerseits von Bürokratieabbau spricht, andererseits 
+aber zulässt, dass spezialisierte Plattformen die behördliche Kapazität durch 
+automatisierte Abfrage-Zyklen binden (vgl. auch www.deutschlandfunk.de/info
+rmationsfreiheitsgesetz-ifg-reform-einschraenkung-kritik-100.html).
 Vor diesem Hintergrund besteht ein erhebliches parlamentarisches
-Informationsbedürfnis darüber, wie die Bundesregierung im Rahmen der geplanten Re-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-form des Informationsfreiheitsgesetzes sicherstellen will, dass künftige
+Informationsbedürfnis darüber, wie die Bundesregierung im Rahmen der geplanten
+Reform des Informationsfreiheitsgesetzes sicherstellen will, dass künftige
 gesetzliche Regelungen eine mögliche missbräuchliche Inanspruchnahme der
 Verwaltung effektiv verhindern. Es gilt zu klären, welche konkreten Maßnahmen im 
 reformierten Informationsfreiheitsgesetz vorgesehen sind, um den
@@ -59,15 +56,15 @@ personelle Aufwand sowie der damit verbundene Kostenaufwand, der jährlich für
 die Sichtung, Schwärzung und rechtliche Prüfung von IFG-Anfragen
 anfällt?
  3. Inwieweit hat die Bundesregierung eine Aufschlüsselung der Anfragen 
-vorgenommen, die durch automatisierte oder semi-automatisierte
+vorgenommen, die durch automatisierte oder semiautomatisierte
 Plattformen (z. B. FragDenStaat) generiert wurden?
  4. Wie viele der insgesamt eingegangenen Anfragen waren nach
-Einschätzung der Bundesregierung als „Kampagnen-Anfragen“ zu werten, bei 
+Einschätzung der Bundesregierung als „Kampagnenanfragen“ zu werten, bei 
 denen innerhalb kurzer Zeit eine Vielzahl nahezu identischer Fragen an 
 unterschiedliche Stellen gerichtet wurde?
  5. Wie viele IFG-Anfragen wurden in den Jahren 2024 und 2025 mit dem 
 Hinweis auf einen „rechtsmissbräuchlichen Antrag“ oder eine
-„unverhältnismäßige Belastung der Verwaltung“ abgelehnt und wie hat sich diese 
+„unverhältnismäßige Belastung der Verwaltung“ abgelehnt, und wie hat sich diese 
 Zahl im Vergleich zu den Vorjahren entwickelt?
  6. Inwieweit plant die Bundesregierung, im Rahmen der Überarbeitung des 
 IFG spezifische Ausschlusskriterien für Anfragen zu schaffen, die über 
@@ -83,7 +80,7 @@ rechtssicher ablehnen zu können?
  9. Warum hat die Bundesregierung trotz der bekannten Belastungssituation 
 bisher keine technischen oder rechtlichen Hürden (z. B.
 Identitätsnachweis ohne Portalschnittstelle) implementiert, um die Anonymität und 
-Massenhaftigkeit von Portal-Anfragen zu erschweren?
+Massenhaftigkeit von Portalanfragen zu erschweren?
 10. Wie stellt die Bundesregierung sicher, dass das Ziel der
 Staatsmodernisierung (Effizienzsteigerung) nicht durch eine uferlose Ausweitung von 
 Transparenzpflichten konterkariert wird, die im Kern nur von
@@ -93,10 +90,8 @@ eine Priorisierung festzulegen, nach der die operative Sacharbeit der
 Verwaltung grundsätzlich Vorrang vor der Bearbeitung von IFG-Anfragen 
 hat?
 12. Welche technischen Möglichkeiten prüft die Bundesregierung, um
-automatisierte Abfrage-Bots von Transparenzportalen an den digitalen Ein-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-gangsschnittstellen der Ministerien technisch zu identifizieren und
+automatisierte Abfrage-Bots von Transparenzportalen an den digitalen
+Eingangsschnittstellen der Bundesministerien technisch zu identifizieren und 
 gegebenenfalls zu filtern?
 13. Inwieweit sieht die Bundesregierung die Gefahr, dass
 Transparenzplattformen durch die Verknüpfung massenhaft abgefragter Daten eine „Schatten-
@@ -104,21 +99,17 @@ Datenbank“ staatlichen Handelns aufbauen, die die Datensouveränität des
 Bundes unterwandert?
 14. Verfolgt die Bundesregierung Pläne, die Auskunftspflicht von Behörden 
 auf Dokumente zu beschränken, die in der jeweiligen Behörde selbst
-erstellt wurden, und wenn ja, wie begründet sie dies und wie bewertet sie 
+erstellt wurden, und wenn ja, wie begründet sie dies, und wie bewertet sie 
 die dadurch entstehende bürokratische Mehrbelastung für Bürger, die für 
 einen Gesamtvorgang nun mehrere Behörden einzeln kontaktieren
 müssen?
-15. Wenn die Vorfrage bejaht wird, inwieweit widerspricht die etwaige
+15. Wenn Frage 14 bejaht wird, inwieweit widerspricht die etwaige
 Aufsplitterung von IFG-Anfragen dem Ziel der Staatsmodernisierung,
-Verwaltungsleistungen bürgerfreundlich und nach dem „Once-Only-Prinzip“ 
+Verwaltungsleistungen bürgerfreundlich und nach dem „Once-Only-Prinzip“
 effizient aus einer Hand anzubieten, anstatt Antragsteller zu einer Vielzahl 
 von Einzelanfragen bei unterschiedlichen Behörden zu zwingen?
 Berlin, den 25. August 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
