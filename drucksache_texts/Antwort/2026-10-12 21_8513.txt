@@ -1,0 +1,1337 @@
+Deutscher Bundestag Drucksache 21/8513
+21. Wahlperiode 12.10.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Dr. Michael Kaufmann, Nicole Höchst, 
+Adam Balten, weiterer Abgeordneter und der Fraktion der AfD 
+– Drucksache 21/7985 –
+Neurotechnologien – Chancen, Risiken, Forschungsförderung und 
+Regulierungsbedarf
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Neurotechnologien sind technische Systeme, die an der Schnittstelle zwischen 
+menschlichem Gehirn und Computer arbeiten. Sie können neuronale Signale 
+erfassen, analysieren oder zur Beeinflussung von Gehirnfunktionen eingesetzt 
+werden (www.unesco.de/themen/ethik-neuer-technologien/neurotechnologie/). 
+Eine Systematisierung neurotechnologischer Anwendungen nach ihrer
+Eingriffstiefe nimmt die Studie „Auf dem Weg in ein hybrides Zeitalter?“ (www.
+bmftr.bund.de/SharedDocs/Downloads/DE/s/wechselseitige-entgrenzung-lan
+g.pdf?__blob=publicationFile&v=3, S. 13, 66 ff.) des damaligen
+Bundesministeriums für Bildung und Forschung (BMBF; heute Bundesministerium 
+für Forschung, Technologie und Raumfahrt [BMFTR]) aus dem Jahr 2022 vor. 
+Sie unterscheidet nichtinvasive, einseitig ableitende oder stimulierende
+Verfahren – etwa Elektroenzephalographie (EEG) sowie transkranielle Magnet- 
+und Gleichstromstimulation – von invasiven und perspektivisch
+bidirektionalen Schnittstellen, beispielsweise Brain-to-Machine-, Brain-to-Brain- und 
+Brain-to-Cloud-Systemen.
+Neurotechnologien entwickeln sich von einer rein medizinischen Anwendung 
+zu einer Querschnittstechnologie mit Bedeutung für Medizin, Arbeitswelt, 
+Bildung, Sicherheit, Militär und Konsumgüterindustrie. Die United Nations 
+Educational, Scientific and Cultural Organization (UNESCO) verzeichnet 
+einen Anstieg der Investitionen in Neurotechnologie-Unternehmen zwischen 
+2014 und 2021 um 700 Prozent (www.unesco.org/en/articles/ethics-neurotech
+nology-unesco-adopts-first-global-standard-cutting-edge-technology). Auch 
+die Organisation for Economic Co-operation and Development (OECD)
+betont bereits seit 2019 das erhebliche wirtschaftliche Potenzial der Technologie 
+(www.oecd.org/content/dam/oecd/en/publications/reports/2019/10/responsibl
+e-innovation-in-neurotechnology-enterprises_2d346c46/9685e4fd-en.pdf), 
+und nach Marktanalysen von Fortune Business Insights soll der globale Markt 
+von rund 19 Mrd. US-Dollar im Jahr 2026 auf über 32 Mrd. US-Dollar bis 
+2034 wachsen (www.fortunebusinessinsights.com/neurotechnology-market-11
+5830).
+In Deutschland ordnet das Büro für Technikfolgen-Abschätzung beim
+Deutschen Bundestag (TAB) die Neurotechnologie derzeit in einer aktualisierten 
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Forschung, Technologie und 
+Raumfahrt vom 9. Oktober 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+TA‑Kompakt-Studie ein, die an eine TAB-Studie von 2016 anschließt und 
+unter anderem die Position Deutschlands im internationalen Wettbewerb
+sowie mögliche Regulierungslücken untersucht (www.tab-beim-bundestag.de/pr
+ojekte_entwicklungspotenziale-und-technologische-folgenabschatzung-invasi
+ver-und-nichtinvasiver-neuroelektrischer-schnittstellen.php).
+Mit der Verbreitung dieser Technologien, insbesondere neuartiger Brain-to-
+Brain-, Brain-to-Machine- und Brain-to-Cloud-Technologien, stellen sich 
+weitreichende ethische, rechtliche und gesellschaftliche Fragen. Als Ausdruck 
+dieser Erkenntnis hat sich für den Bereich der Forschung und technologischen 
+Entwicklung rund um das Gehirn mittlerweile der Begriff „Neuroethik“
+etabliert (www.iwe.uni-bonn.de/de/forschung_publikationen/neuroethik).
+Wie wichtig eine rechtzeitige Auseinandersetzung mit diesen ethischen Fragen 
+ist, zeigt sich nach Auffassung der Fragesteller unter anderem daran, dass laut 
+einer Untersuchung des Europäischen Parlaments aus dem Jahr 2024 78
+Prozent der kommerziellen Neurotech-Unternehmen sich in ihren
+Nutzungsbedingungen das Recht vorbehalten, anonymisierte Hirndaten an Dritte
+weiterzuverkaufen (www.europarl.europa.eu/RegData/etudes/STUD/2024/757807/EP
+RS_STU(2024)757807_EN.pdf). Łukasz Szoszkiewicz und Rafael Yuste
+warnen in einer 2025 in „EMBO Reports“ veröffentlichten Analyse, dass
+neuronale Daten die Grenze zwischen mentaler Aktivität und digitalen Daten
+auflösen, und fordern einen Regulierungsrahmen auf Basis von Nutzerautonomie, 
+Datensolidarität und Vorsorgeprinzip (https://pmc.ncbi.nlm.nih.gov/articles/P
+MC12287510/pdf/44319_2025_Article_505.pdf).
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Der Bereich der Neurotechnologien entwickelt sich dynamisch und bietet
+vielfältige Chancen für Patientinnen und Patienten, Verbraucherinnen und
+Verbraucher auf der einen, sowie für neue Wachstumsmärkte für deutsche und
+europäische Unternehmen auf der anderen Seite. Diese Chancen gehen unter anderem 
+mit erheblichen Risiken für den Schutz potentiell höchstpersönlicher Daten und 
+der konkreten Gefahr unfreiwilliger Einflussnahme einher. Viele Risiken
+werden durch bereits bestehende europa- und bundesrechtliche Regelungen
+adressiert und die Betroffenen sind bereits durch Grundrechte vor staatlichen
+Gefahren geschützt. Dessen ungeachtet nehmen die Bundesregierung und ihre
+internationalen Partner die Entwicklungen im Bereich der Neurotechnologien sehr 
+ernst, entwickeln gemeinsame Standards und beobachten die weitere Dynamik 
+genau. So hat zum Beispiel die Bundesbeauftragte für den Datenschutz und die 
+Informationsfreiheit (BfDI) am 10. Juli 2026 einen Workshop zu
+Neurotechnologien im Rahmen ihres Strategic Foresights unter Beteiligung der maßgeblich 
+betroffenen Ressorts ausgerichtet. Sobald die medizinischen Hintergründe und 
+technologischen Möglichkeiten in ihrer Kontur besser erkennbar sind, können 
+entsprechend konkrete nationale, europäische und internationale Regelungen 
+für Unternehmen, Staat und Bürgerinnen und Bürger auf den Weg gebracht 
+werden. Nach Auffassung der Bundesregierung ist dieser Punkt in vielen
+Aspekten der Neurotechnologien aktuell noch nicht erreicht.
+ 1. Hat die Bundesregierung sich zum Begriff „Neurotechnologie“ eine
+Arbeitsdefinition erarbeitet, wenn ja, wie lautet diese, und welche
+Technologien fasst sie darunter (bereits bestehende und solche, die noch
+Gegenstand von Forschung und Entwicklung sind)?
+Die Bundesregierung hat an den Definitionen der UNESCO (Empfehlung zum 
+ethischen Umgang mit Neurotechnologien) und der OECD (Empfehlung zu 
+verantwortungsvoller Innovation in den Neurotechnologien) mitgewirkt. Die 
+Bundesregierung hat den Begriff der „Neurotechnologie“ nicht nochmals für 
+sich gesondert definiert.
+ 2. Seit wann und in welcher Form befasst sich die Bundesregierung mit 
+Neurotechnologien als eigenständigem Politik- und Technologiefeld?
+Eine Erfassung von eigenständigen und nicht eigenständigen Feldern nimmt die 
+Bundesregierung nicht vor. Die Bundesregierung ist mit der Entwicklung neuer 
+Technologien dauerhaft befasst. Hierzu zählen auch die Vorläufer der aktuellen 
+Entwicklung im Bereich der Neurotechnologie.
+ 3. Welche Bundesressorts sind mit welchen Zuständigkeiten aktuell mit 
+Fragen der Neurotechnologie befasst, und existiert eine
+ressortübergreifende Koordinierung?
+Die Bundesregierung ist entlang ihrer bestehenden Zuständigkeiten unter
+anderem für Gesundheit, Wirtschaft, Verbraucherschutz und Forschung mit Fragen 
+der Neurotechnologie befasst und stimmt sich unter den zuständigen Stellen 
+vorgangsbezogen ab.
+ 4. Sind der Bundesregierung die Inhalte der öffentlichen Anhörung des 
+Deutschen Ethikrates vom 19. März 2026 zu „Neue Neurotechnologien – 
+Ethik, Recht und Gesellschaft“ (www.ethikrat.org/veranstaltungen/anhoe
+rungen/neue-neurotechnologien-ethik-recht-und-gesellschaft/) bekannt, 
+und wie bewertet sie deren Ergebnisse?
+Die Inhalte der öffentlichen Anhörung des Deutschen Ethikrates sind der
+Bundesregierung bekannt. Nach Kenntnis der Bundesregierung erarbeitet der
+Deutsche Ethikrat derzeit eine Stellungnahme zum Thema. Eine der Grundlagen ist 
+unter anderem die angeführte öffentliche Anhörung. Eine inhaltliche Befassung 
+der Bundesregierung mit der Stellungnahme erfolgt nach Veröffentlichung.
+ 5. Welche Erkenntnisse hat die Bundesregierung gegebenenfalls über die 
+Marktentwicklung von Neurotechnologien in Deutschland, Europa, den 
+USA und China, insbesondere hinsichtlich wirtschaftlicher Chancen für 
+den Innovationsstandort Deutschland?
+Die Bundesregierung beobachtet kontinuierlich die dynamischen
+Marktentwicklungen im Bereich der Neurotechnologien weltweit und erkennt das
+Potenzial von Neurotechnologie als wichtiges Innovationsfeld, insbesondere in der 
+Medizintechnik. Auch für den Standort Deutschland bieten sich hier
+wirtschaftliche Chancen. Die Stärkung des Forschungs- und Wirtschaftsstandorts 
+Deutschlands in Hochtechnologiebereichen erfolgt im Rahmen der allgemeinen 
+Technologie- und Innovationsförderung.
+ 6. Ist der Bundesregierung bekannt, dass in der öffentlichen Debatte auch 
+Behauptungen über den missbräuchlichen Einsatz neurotechnologischer 
+beziehungsweise angeblicher „Mind-Control“-Verfahren gegenüber
+Einzelpersonen kursieren, insbesondere unter den Stichwörtern „Voice-to-
+Skull“, „gezielte elektronische Belästigung“ und „Gang-Stalking“ 
+(https://targetedjustice.com/ oder www.army-technology.com/features/fe
+aturebrain-computer-interfacing-military-mind-control/?cf-view), und 
+liegen ihr eigene Erkenntnisse oder Einschätzungen zur
+wissenschaftlichen beziehungsweise technischen Belastbarkeit solcher Behauptungen 
+vor?
+Die Bundesregierung verfolgt aufmerksam öffentliche Debatten zum Einsatz 
+von Neurotechnologien. Es liegen der Bundesregierung jedoch keine
+belastbaren Hinweise auf einen etwaig missbräuchlichen Einsatz
+neurotechnologischer Verfahren vor. Nach dem aktuellen Stand der Wissenschaft und Technik 
+gibt es keine verifizierbaren Erkenntnisse darüber, dass aktuell Technologien 
+existieren, die eine Fernsteuerung („Mind Control“) oder gezieltes Eindringen 
+ins menschliche Bewusstsein über Distanz im behaupteten Sinne ermöglichen.
+ 7. Welche Chancen sieht die Bundesregierung gegebenenfalls in der
+medizinischen Anwendung von Neurotechnologien, etwa zur Behandlung 
+neurologischer Erkrankungen, zur Wiederherstellung von Bewegungs- 
+und Kommunikationsfähigkeit oder in der Depressions- und
+Parkinsonbehandlung (https://cordis.europa.eu/article/id/457204-adaptive-neurotec
+h-aims-to-restore-body-and-brain-functions/de)?
+Die Bundesregierung sieht in der medizinischen Anwendung von
+Neurotechnologien erhebliche Chancen, die Lebensqualität von Patientinnen und Patienten 
+mit neurologischen Erkrankungen fundamental zu verbessern. Diese
+Technologien ermöglichen nicht nur die Behandlung von Symptomen, sondern zielen 
+darauf ab, verloren gegangene Funktionen wie Bewegung und Kommunikation 
+wiederherzustellen.
+Ein zentraler Anwendungsbereich ist die Behandlung von
+Bewegungsstörungen, insbesondere bei Parkinson. Durch adaptive Systeme, die Hirnsignale in 
+Echtzeit analysieren und stimulieren, können Symptome wie Zittern oder
+Bewegungsarmut effektiver gelindert werden als mit herkömmlichen, statischen 
+Methoden. Dies führt zu einer stabileren Symptomkontrolle und weniger
+Nebenwirkungen.
+Auch bei der Wiederherstellung von Kommunikations- und
+Bewegungsfähigkeit nach Schlaganfällen oder bei Querschnittslähmungen bieten
+Neurotechnologien Möglichkeiten.
+Im Bereich der psychiatrischen Erkrankungen wie der Depression, eröffnen 
+neuartige Stimulationsverfahren, etwa die tiefe Hirnstimulation oder
+transkranielle Magnetstimulation, neue Therapieoptionen für schwer depressive Patienten 
+und Patientinnen, die auf herkömmliche Medikamente nicht ansprechen.
+Die Chancen liegen somit in einer personalisierten, oft rehabilitativen Medizin, 
+die über die reine Symptomlinderung hinausgeht und die Wiederherstellung 
+von Funktionen zum Ziel hat. Der Deutsche Ethikrat befasst sich aktuell
+fundiert mit Chancen und Risiken der Neurotechnologie, die Ergebnisse sind
+abzuwarten.
+ 8. Welche wirtschaftlichen Chancen sieht die Bundesregierung
+gegebenenfalls in nichtmedizinischen Anwendungsfeldern, beispielsweise
+Wellness, Gaming, Marketing, Arbeitsplatz und Bildung
+a) generell weltweit,
+b) für Europa und
+c) für Deutschland?
+Die Neurotechnologien gewinnen in vielen Bereichen zunehmend an
+Bedeutung.
+Aufgrund des klaren regulatorischen Rahmens für Neurotechnologien im
+Bereich Wellness, die dem Anhang XVI der europäischen
+Medizinprodukteverordnung (Verordnung (EU) 2017/745, MDR) unterliegen, sind die
+wirtschaftlichen Chancen für Europa grundsätzlich positiv zu bewerten.
+Im Bereich Gaming ist die Nutzung von Neurotechnologien noch nicht so weit 
+verbreitet, dass eine belastbare Beurteilung der wirtschaftlichen Chancen
+möglich wäre. Die Bundesregierung wird die weitere Entwicklung in diesem
+Bereich aufmerksam beobachten.
+ 9. Welche Risiken sieht die Bundesregierung gegebenenfalls insbesondere 
+hinsichtlich
+a) des Schutzes neuronaler Daten und der mentalen Privatsphäre,
+b) der Manipulation von Verhalten, Persönlichkeit und Identität,
+c) der informierten Einwilligung bei vulnerablen Gruppen,
+insbesondere Kindern, Menschen mit geistigen Beeinträchtigungen und schwer 
+kranken Patienten, und
+d) sozialer Ungleichheit beim Zugang zu kognitiv, mental und physisch 
+verbessernden Verfahren (Neuroenhancement)?
+Neuronale Daten sind je nach Erhebungskontext und Rückschlussmöglichkeit 
+auf den Gesundheitszustand als „Gesundheitsdaten“ oder „biometrische Daten“ 
+nach Artikel 9 der Verordnung (EU) 2016/679 (Datenschutz-Grundverordnung, 
+DSGVO) besonders geschützt. In beiden Fällen gilt damit nach europäischem 
+Datenschutzrecht ein Verbot mit Erlaubnisvorbehalt, d. h. die Verarbeitung ist 
+im Grundsatz untersagt und nur in engen Ausnahmefällen erlaubt.
+Bei Neurotechnologien, die der MDR unterliegen, muss der Hersteller im
+Rahmen eines Konformitätsbewertungsverfahren nachweisen, dass die Produkte 
+die grundlegenden Sicherheits- und Leistungsanforderungen erfüllen. Der
+Hersteller muss ein spezielles Qualitätsmanagementsystem etablieren, das unter
+anderem die Durchführung eines Verfahrens des Risikomanagements
+(Minimierung von Risiken) und einer klinischen Bewertung sicherstellt. Das
+Konformitätsbewertungsverfahren muss für diese Produkte mit Beteiligung einer
+privatrechtlich tätigen unabhängigen Prüf- und Zertifizierungsstelle (Benannte Stelle) 
+erfolgen. Damit wird sichergestellt, dass die individuellen Produktrisiken im 
+Hinblick auf die Zweckbestimmung des Produktes über den gesamten
+Produktlebenszyklus vertretbar sind und das Produkt ein positives Nutzen-Risiko-
+Verhältnis aufweist.
+Sollten Anwendungen der Brain-Machine Interfaces (BMI) bzw. Brain-
+Computer Interfaces (BCI) zudem KI-Systeme gemäß der EU KI-Verordnung
+darstellen, ist auch das Verbot der unterschwelligen Manipulation zu beachten
+(Artikel 5 EU KI-Verordnung).
+10. Wie bewertet die Bundesregierung das sicherheits- und
+verteidigungspolitische Risiko einer militärischen Nutzung von Neurotechnologien, etwa 
+im Zusammenhang mit gedankengesteuerten Waffensystemen (https://int
+ernational-review.icrc.org/sites/default/files/reviews-pdf/2025-06/mergin
+g-man-and-machine-a-legal-assessment-of-brain%E2%88%92computer-i
+nterfaces-in-armed-conflict-928.pdf), der Überwachung der kognitiven 
+Belastung von Soldaten (www.intechopen.com/chapters/1232800) oder 
+Gehirn-zu-Gehirn-Kommunikation (www.happyneuron.de/wissenschaftli
+che-themen/verbindung-von-zwei-menschlichen-gehirnen-uber-eine-sch
+nittstelle), und welche Erkenntnisse liegen ihr zu entsprechenden
+Entwicklungen in anderen Staaten vor?
+BMI bzw. BCI sowie ihre Kombination zu Brain-to-Brain Interfaces (BBI)
+befinden sich in einem sehr frühen Stadium der Erforschung und technologischen 
+Umsetzung. Im Rahmen der Wehrtechnischen Vorausschau (WTV) beobachtet 
+das Bundesministerium der Verteidigung weltweit naturwissenschaftliche und
+technische Zukunftsentwicklungen sowie deren potenzielle militärische
+Relevanz in regelmäßigen Abständen. Die gemeinsam mit dem Bundesministerium 
+des Innern finanzierte Cyberagentur unterhält ein Forschungsprogramm im
+Bereich BCI.
+Zum jetzigen Zeitpunkt lässt sich dabei kein sicherheits- und
+verteidigungspolitisches Risiko aus den Entwicklungen von BMI ableiten.
+11. Welche Erkenntnisse hat die Bundesregierung gegebenenfalls zur
+Verbreitung und dem zunehmenden Einsatz von Neurotechnologie-
+Wearables weltweit, in Europa und in Deutschland (bitte nach
+Anwendungsbereichen aufschlüsseln)?
+Neurotechnologische Wearables (z. B. EEG-Headsets zur Schlafanalyse,
+Meditation oder Konzentrationssteigerung) sind ein wachsendes Marktsegment im 
+Bereich der elektronischen Konsumgüter. Eine amtliche Erfassung der
+Verkaufs- oder Nutzungszahlen nach einzelnen Anwendungsbereichen erfolgt 
+durch die Bundesregierung nicht.
+12. Welche besonderen Risiken sieht die Bundesregierung gegebenenfalls 
+für Kinder und Jugendliche durch den zunehmenden Einsatz von
+Neurotechnologie-Wearables, und leitet sie daraus einen besonderen
+Regulierungsbedarf ab?
+Es wird auf die Antwort zu Frage 9 verwiesen.
+13. Wie schätzt die Bundesregierung das Risiko ein, dass Anbieter
+kommerzieller Neurotechnologieprodukte personenbezogene Hirndaten an Dritte 
+weiterverkaufen oder für Werbezwecke nutzen, und welche Maßnahmen 
+will sie gegebenenfalls dagegen ergreifen?
+14. Wie bewertet die Bundesregierung die sich aus der in der Vorbemerkung 
+der Fragesteller genannten Untersuchung des Europäischen Parlaments 
+ergebende Erkenntnis, dass 78 Prozent der Neurotech-Unternehmen sich 
+in ihren Allgemeinen Geschäftsbedingungen (AGB) vorbehalten,
+anonymisierte Hirndaten an Dritte weiterzuverkaufen (www.europarl.europ
+a.eu/RegData/etudes/STUD/2024/757807/EPRS_STU(2024)757807_E
+N.pdf)?
+Die Fragen 13 und 14 werden im Zusammenhang beantwortet.
+Die Bundesregierung hat die Ergebnisse der Studie zur Kenntnis genommen. 
+Hirndaten sind je nach Erhebungskontext und Rückschlussmöglichkeit auf den 
+Gesundheitszustand als „Gesundheitsdaten“ oder „biometrische Daten“ nach 
+Artikel 9 der DSGVO besonders geschützt. Ihre Verarbeitung ist im Grundsatz 
+untersagt und nur in engen Ausnahmefällen nach Artikel 9 Absatz 2 DSGVO 
+erlaubt.
+Bei einer Anonymisierung ist der Personenbezug so entfernt worden, dass er 
+nicht mehr wiederhergestellt werden kann. In diesem Falle handelt es sich nicht 
+mehr um personenbezogene Daten, so dass das Datenschutzrecht keine
+Anwendung mehr findet. Sollte aber eine Re-Identifizierung von Personen zum
+Beispiel anhand von Gehirnmustern möglich sein, handelt es sich weiterhin um 
+personenbezogene Daten, auf die das europäische Datenschutzrecht
+vollumfänglich Anwendung findet. Die Aufsicht über die Einhaltung obliegt den
+unabhängigen Datenschutzbehörden der Länder und des Bundes.
+15. Welche Forschungsprojekte im Bereich Neurotechnologie wurden in den 
+vergangenen zehn Jahren mit Bundesmitteln gefördert (bitte nach
+Projektbezeichnung, zuständigem Ressort, Fördersumme und Laufzeit
+auflisten)?
+Im Bereich der Neurotechnologie fördert die Bundesregierung unter anderem 
+die Forschungsprojekte in der tabellarischen Übersicht in der Anlage*.
+16. Welche Mittel hat der Bund insgesamt für Forschung im Bereich
+Neurotechnologie, Gehirn-Computer-Schnittstellen und verwandte
+Technologien seit 2015 jährlich bereitgestellt, und welche Mittel sind im Bundeshalt 
+2027 und in der mittelfristigen Finanzplanung dafür vorgesehen?
+Die Bundesregierung hat in den Jahren 2015 bis 2026 (für das Jahr 2026
+vorläufig) folgende Mittel bereitgestellt. Bei den Planungen zu künftigen
+Haushaltsjahren handelt es sich um ein internes Planungsinstrument der
+Bundesregierung.
+Ressort: Jahr: Summe in EURO:
+BMFTR 2015:  3.233.797,00
+2016:  4.402.927,00
+2017:  8.118.866,00
+2018:  8.878.728,00
+2019: 10.966.256,00
+2020:  8.651.398,00
+2021:  9.831.607,00
+2022: 13.825.936,00
+2023:  8.591.274,00
+2024:  8.493.972,00
+2025:  9.210.990,00
+2026 (vorläufig):  7.284.182,00
+Neben diesen gelisteten Forschungsprojekten fördert das Bundesministerium 
+für Forschung, Technologie und Raumfahrt (BMFTR) auch das Deutsche
+Zentrum für Neurodegenerative Erkrankungen e. V. (DZNE) jährlich institutionell. 
+Eine konkrete jährliche Mittelangabe für Neurotechnologieforschung lässt sich 
+im Sinne des Fragenstellers im Rahmen der Forschungsbereichsübergreifenden 
+Arbeit des DZNE nicht bestimmen.
+17. Welche konkreten Förderprogramme oder Förderlinien existieren derzeit 
+gegebenenfalls, über die Forschungsvorhaben zu Neurotechnologien
+beantragt werden können, und welches Ressort ist jeweils zuständig?
+Im Bereich der Neurotechnologie fördert die Bundesregierung unter anderem 
+die Förderrichtlinien KMU-innovativ – Medizintechnik (BMFTR) sowie
+Klinische Validierung innovativer medizintechnischer Lösungen (BMFTR).
+* Von einer Drucklegung der Anlage wird abgesehen. Diese ist auf Bundestagsdrucksache 21/8513 auf der Internetseite des Deutschen Bundestages abrufbar.
+18. Sind Ethikkommissionen in die Genehmigung klinischer Studien im
+Bereich invasiver Neurotechnologien eingebunden, und hält die
+Bundesregierung die bestehenden Prüfmaßstäbe angesichts der Eingriffstiefe 
+solcher Verfahren für ausreichend?
+Ärztinnen und Ärzte, die sich an einem Forschungsprojekt beteiligen, sind
+aufgrund der für sie geltenden berufsrechtlichen Vorgaben grundsätzlich
+verpflichtet, sich vor Beginn des Vorhabens durch die für sie zuständige Ethik-
+Kommission beraten zu lassen.
+Sofern im Rahmen eines Forschungsvorhabens die Sicherheit oder Leistung 
+eines Medizinprodukts bewertet werden soll, das noch nicht CE-
+gekennzeichnet ist, oder sofern das Medizinprodukt außerhalb der vom Hersteller
+festgelegten Zweckbestimmung angewendet werden soll, können darüber hinaus die
+regulatorischen Anforderungen an eine klinische Prüfung zur Anwendung
+kommen. In diesen Fällen darf mit der klinischen Prüfung grundsätzlich erst
+begonnen werden, wenn eine zustimmende Bewertung der zuständigen Ethik-
+Kommission vorliegt und die erforderliche Genehmigung durch die zuständige
+Bundesoberbehörde erteilt wurde. Durch beide Instanzen erfolgt eine detaillierte 
+Prüfung des geplanten Forschungsvorhabens.
+Der ethischen Bewertung liegen insbesondere die in der Deklaration von
+Helsinki niedergelegten ethischen Grundsätze sowie die Grundsätze der Good
+Clinical Practice zugrunde. Für klinische Prüfungen mit Medizinprodukten werden 
+diese insbesondere durch die DIN EN ISO 14155 konkretisiert. Die
+Prüfmaßstäbe werden von der Bundesregierung fortlaufend bewertet.
+19. Wie viele klinische Prüfungen mit Brain-Computer-Interfaces
+beziehungsweise vergleichbaren invasiven Neurotechnologien wurden nach 
+Kenntnis der Bundesregierung in den vergangenen zehn Jahren in 
+Deutschland gegebenenfalls durchgeführt oder sind derzeit aktiv (bitte 
+gegebenenfalls nach Standort, Indikation und zuständiger
+Ethikkommission auflisten)?
+Der Bundesregierung sind die nachfolgenden klinischen Studien der
+vergangenen 10 Jahre bekannt, bei denen es sich um klinische Prüfungen von
+Medizinprodukten handelt, die gemäß der MDR in Verbindung mit dem
+Medizinprodukte-Durchführungsgesetz einer Anzeige- oder Genehmigungspflicht bei der 
+Bundesoberbehörde unterliegen. Die Auflistung enthält auch klinische
+Prüfungen zur tiefen Hirnstimulation:
+Standort Indikation Ethik-Kommission Genehmigt Beendet
+Beta Klinik, 
+Bonn
+Behandlung von
+Bewegungsstörungen
+Ärztekammer 
+Nordrhein
+2018 2022
+Universitätsklinikum 
+Würzburg
+M. Parkinson Universität 
+Würzburg
+2018 2026
+Universitätsklinikum 
+Freiburg
+Medikamentenrefraktäre
+fokaler Epilepsie
+Universität 
+Freiburg
+2018 2023
+Universitätsklinikum 
+Freiburg
+Medikamentenrefraktäre
+fokaler Epilepsie
+Universität 
+Freiburg
+2019 2023
+Universitätsklinikum 
+Würzburg
+M. Parkinson Universität 
+Würzburg
+2021 2025
+20. In welchem Verhältnis steht die deutsche beziehungsweise europäische 
+Forschungsförderung im Bereich Neurotechnologie zu den Investitionen 
+anderer Staaten, insbesondere der USA und Chinas (quantitativ und
+qualitativ)?
+Eine systematische und vollständige Erfassung von Mitteln für die
+Forschungsförderung im Bereich der Neurotechnologie erfolgt nicht.
+Auch ein direkter quantitativer Vergleich mit den USA und China ist aufgrund 
+unterschiedlicher Förderstrukturen nur eingeschränkt möglich. Die verfügbaren 
+Daten zeigen, dass die USA und China Neurotechnologien zunehmend als
+strategisches Technologiefeld adressieren. Europa verfügt über eine starke
+wissenschaftliche Basis und langjährig angelegte, kooperative Forschungsprogramme. 
+Qualitativ unterscheiden sich die Förderansätze insbesondere in ihrer
+Ausrichtung: Während Europa stärker auf wissenschaftliche Exzellenz,
+Verbundforschung und Forschungsinfrastrukturen setzt, verfolgen die USA einen stärker 
+missions- und technologieorientierten Ansatz und China eine besonders
+strategisch koordinierte Verbindung von Forschung, Technologieentwicklung und
+industrieller Anwendung.
+21. Plant die Bundesregierung, die Forschungsförderung im Bereich
+Neurotechnologie in den kommenden Jahren auszuweiten, wenn ja, in welchem 
+Umfang, und mit welchen Schwerpunkten?
+Neurotechnologien sind derzeit in unterschiedlichsten Schwerpunkten
+förderfähig. Auch in Zukunft wird die Bundesregierung Maßnahmen umsetzten, die 
+Forschung im Bereich der Neurotechnologien unterstützt. Eine speziell auf 
+Neurotechnologien ausgerichtete Forschungsförderung ist nicht in Planung. 
+Darüber hinaus wird auf die Antwort zu Frage 17 verwiesen.
+22. Welche Rolle spielt die Neurotechnologieforschung gegebenenfalls in 
+der Hightech-Agenda beziehungsweise in anderen strategischen
+Rahmenprogrammen der Bundesregierung quantitativ und qualitativ,
+insbesondere im Zukunftsfeld „Mensch-Technik-Interaktion“ (www.bmftr.bun
+d.de/SharedDocs/Bekanntmachungen/DE/2019/08/2574_bekanntmachun
+g.html)?
+Die Neurotechnologieforschung ist in der Hightech Agenda Deutschland und in 
+anderen strategischen Rahmenprogrammen implizit als Gesundheitstechnologie 
+bzw. Medizintechnik enthalten.
+23. Welche Rolle spielt die Neurotechnologieforschung nach Kenntnis der 
+Bundesregierung im europäischen Forschungsrahmenprogramm Horizon 
+Europe beziehungsweise in anderen Forschungsförderungsprogrammen 
+der EU-Kommission quantitativ und qualitativ, insbesondere im
+Zukunftsfeld „Mensch-Technik-Kooperation“?
+Neurotechnologie ist in Horizont Europa nicht als eigenständiger, horizontaler 
+Förderbereich ausgewiesen. Sie wird in mehreren Programmteilen und
+thematischen Ausschreibungen indirekt oder ausdrücklich gefördert. Da dieses Thema 
+größtenteils in Projekten in offenen Calls behandelt wird und die thematischen 
+Zuordnungen nicht systematisch erfasst werden, lässt sich keine Angabe zur 
+Anzahl der Projekte machen, in denen neurotechnologische Fragen bearbeitet 
+werden. In der EU-Projektdatenbank CORDIS finden sich Projekte
+insbesondere in den Bereichen European Research Council (ERC), Marie-Skłodowska-
+Curie-Maßnahmen (MSCA), European Innovation Council (EIC) sowie – in 
+einzelnen Fällen – Cluster Digital, Industry and Space und Cluster Health.
+24. Welche ethischen Grundsätze legt die Bundesregierung derzeit
+gegebenenfalls ihrer Förder- und Regulierungspraxis im Bereich
+Neurotechnologie zugrunde, und wie wird deren Einhaltung gegebenenfalls
+überprüft?
+Neurotechnologie-spezifische ethische Grundsätze für die Förder- und
+Regulierungspraxis ergeben sich unter anderem durch die UNESCO-Empfehlung zum 
+ethischen Umgang mit Neurotechnologien und der OECD-Empfehlung zu
+verantwortungsvoller Innovation in den Neurotechnologien.
+25. Sieht die Bundesregierung Handlungsbedarf, eigenständige
+„Neurorechte“ (https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/2021/1
+0/menschenrechte-auf-die-neurotechnologie-ausweiten.html), etwa 
+kognitive Freiheit, mentale Privatsphäre, geistige Unversehrtheit und 
+psychologische Kontinuität, als ethische beziehungsweise rechtliche
+Kategorie zu verankern, und wenn ja, in welcher Form?
+Die Argumentation im zitierten Artikel ist nicht rechtlicher, sondern ethischer 
+Art. Die bestehenden Grundrechte bieten in rechtlicher Hinsicht bereits einen 
+umfassenden Schutz. Die Bundesregierung beobachtet die Lage weiter eng und 
+kontinuierlich und verweist im Übrigen auf die Vorbemerkung der
+Bundesregierung.
+26. Hat sich die Bundesregierung zur im November 2025 von der UNESCO-
+Generalkonferenz verabschiedeten „Recommendation on the Ethics of 
+Neurotechnology“ (www.unesco.org/en/legal-affairs/recommendation-et
+hics-neurotechnology) eine eigene Positionierung erarbeitet, wenn ja, 
+welche, und in welcher Form beabsichtigt sie gegebenenfalls deren
+Umsetzung auf nationaler Ebene?
+Die Bundesregierung hat sich umfassend in die Erarbeitungs- und
+Abstimmungsprozesse der Empfehlung eingebracht. Die meisten der dort formulierten 
+Werte und Prinzipien sind in der deutschen Rechtsordnung tief verankert.
+Zentrale Prinzipien der Empfehlung (wie Schutz von Gesundheit, Autonomie,
+Gedankenfreiheit, Gleichberechtigung, der mentalen Privatsphäre und
+personenbezogener Daten) genießen in Deutschland umfassenden grundrechtlichen 
+Schutz.
+In Absprache mit dem Auswärtigen Amt hat die Deutsche UNESCO-
+Kommission Ende des Jahres 2025 ein wissenschaftliches Gutachten in Auftrag
+gegeben. Dieses untersucht, inwieweit die Anforderungen der UNESCO-
+Empfehlung zur Ethik der Neurotechnologie in Deutschland bereits umgesetzt sind und 
+in welchen Bereichen weiterer Handlungsbedarf besteht.
+Das im Frühjahr des Jahres 2026 veröffentlichte Gutachten kommt zu dem
+Ergebnis, dass Deutschland die Anforderungen der Empfehlung für die
+Entwicklung und Anwendung von Neurotechnologien im medizinischen Bereich bereits 
+im Wesentlichen erfüllt. Die Ergebnisse des Gutachtens und der sich daraus
+gegebenenfalls noch ergebende Handlungsbedarf wird derzeit geprüft. Ergänzend 
+hierzu plant das Bundesministerium für Gesundheit aktuell ein eigenes
+Gutachten zu vergeben, um die gesundheitsspezifischen Umsetzungsbedarfe aus den 
+UNESCO-Empfehlungen für Deutschland zu prüfen und mögliche
+Wissenslücken zu schließen.
+27. Inwiefern berücksichtigt die Bundesregierung gegebenenfalls die
+Empfehlungen der OECD zu verantwortungsvoller Innovation im Bereich 
+Neurotechnologie („Responsible Innovation in Neurotechnology“, 2019) 
+in ihrer eigenen Förder- und Regulierungspraxis?
+Die Empfehlungen werden im Förderschwerpunkt des BMFTR zu ethischen, 
+rechtlichen und sozialen Aspekten in den Lebenswissenschaften adressiert. 
+Unter anderem wurden zwei Förderrichtlinien veröffentlicht (Richtlinie zur 
+Förderung von Zuwendungen für multinationale Forschungsprojekte zu
+ethischen, rechtlichen und sozialen Aspekten der Neurowissenschaften im Rahmen 
+des ERA‑NET NEURON vom 10. Januar 2023 und Förderrichtlinie zur
+Förderung von Forschungsprojekten zu ethischen, rechtlichen und sozialen Aspekten 
+der Neurowissenschaften vom 6. Oktober 2021), deren Ziel es auch war,
+Umsetzungsbeiträge zu liefern.
+28. Hat sich die Bundesregierung zu der Forderung von United Nations 
+International Children’s Emergency Fund (UNICEF), Kinderrechte 
+(www.unicef.org/innocenti/reports/neurotechnology-and-childrens-ri
+ghts) ausdrücklich in Regulierungsrahmen für Neurotechnologie
+einzubeziehen, eine eigene Auffassung erarbeitet, und wenn ja, wie lautet 
+diese?
+Die Bundesregierung teilt das Anliegen, die Rechte von Kindern und
+Jugendlichen im digitalen und technologischen Raum besonders zu schützen. Die UN-
+Kinderrechtskonvention bildet hierfür die Grundlage. Die Interessen
+Minderjähriger werden bereits im Rahmen bestehender Schutzbestimmungen im
+Datenschutz-, Produktsicherheits- und Jugendschutzrecht berücksichtigt.
+29. Welche bestehenden gesetzlichen Regelungen sieht die Bundesregierung 
+derzeit als einschlägig für den Einsatz von Neurotechnologien in 
+Deutschland?
+Spezialgesetzlich werden Neurotechnologien abhängig von ihrer
+Zweckbestimmung durch verschiedene gesetzliche Regelung adressiert. Für den
+Gesundheitsbereich finden sich rechtliche Vorgaben insbesondere für
+Neurotechnologien, die Medizinprodukte sind, in der MDR, dem Medizinprodukterecht-
+Durchführungsgesetz und der Medizinprodukte-Betreiberverordnung. Für die
+Erhebung und Auswertung neuronaler Daten gelten die DSGVO sowie das
+Bundesdatenschutzgesetz. Soweit Neurotechnologien Künstliche Intelligenz einsetzen 
+ist auch die europäische KI-Verordnung (Verordnung (EU) 2024/1689)
+relevant.
+30. Hält die Bundesregierung den bestehenden Rechtsrahmen für
+ausreichend, um neuronale Daten als besonders sensible personenbezogene 
+Daten zu schützen, oder sieht sie Regelungslücken?
+31. Plant die Bundesregierung ein eigenständiges Gesetz oder eine
+Novellierung bestehender Gesetze speziell zur Regulierung von
+Neurotechnologien, und wenn ja, mit welchem Zeitplan?
+32. Hat sich die Bundesregierung hinsichtlich der Einführung eigenständiger 
+„NeuroRights“-Gesetze in einzelnen US-Bundesstaaten (Colorado
+Privacy Act, General Assembly of the State of Colorado § 24‐1058,” (2024) 
+oder www.techpolicy.press/neural-data-and-consumer-privacy-california
+s-new-frontier-in-data-protection-and-neurorights/) sowie zur
+Verankerung von Neurorechten in der chilenischen Verfassung im Jahr 2021 
+(https://pmc.ncbi.nlm.nih.gov/articles/PMC11491849/) eine eigene
+Auffassung gebildet, wie lautet diese gegebenenfalls, und sieht sie darin
+gegebenenfalls Vorbilder für mögliche Regelungsansätze für Deutschland?
+33. Hat sich die Bundesregierung zu einer möglichen EU-weiten
+Regulierung von Neurotechnologien, etwa im Rahmen des KI-Rechts (AI Act; 
+KI = Künstliche Intelligenz, englisch: AI = Artificial Intelligence), der 
+Medizinprodukteverordnung (MDR) oder eines eigenständigen
+Rechtsakts, eine eigene Position erarbeitet, wie lautet diese gegebenenfalls, und 
+in welchen Gremien bringt sie sich hierzu gegebenenfalls ein?
+Die Fragen 30 bis 33 werden im Zusammenhang beantwortet.
+Das einschlägige Datenschutz-, Produktsicherheits- und Gesundheitsrecht
+bietet bereits einen technologieneutralen und wirksamen Rahmen. Neuronale
+Daten, die physiologische und gesundheitliche Informationen offenbaren, fallen 
+unter Artikel 9 DSGVO und genießen damit den höchsten Schutzstandard. Die 
+Bundesregierung prüft kontinuierlich, ob sich im Zuge des technologischen 
+Fortschritts regulatorischer Auslegungs- oder Anpassungsbedarf ergibt.
+Verfassungs- und datenschutzrechtliche Gesetzgebungsinitiativen anderer Staaten 
+werden aufmerksam verfolgt.
+Die MDR-Revision wird derzeit in Brüssel verhandelt. Aktuelle
+Verhandlungspositionen können zum jetzigen Zeitpunkt nicht kommentiert werden. Im
+sogenannten KI-Omnibus, einem Gesetzgebungspaket zur Anpassung der
+europäischen Regeln für künstliche Intelligenz, wurden Neurotechnologien nicht
+ausdrücklich berücksichtigt.
+34. Inwiefern sieht die Bundesregierung gegebenenfalls Parallelen zwischen 
+den in ihrer Antwort auf die Kleine Anfrage der Fraktion der AfD auf 
+Bundestagsdrucksache 21/5713 dargestellten Herausforderungen bei KI-
+gestützten und telemedizinischen Anwendungen im Gesundheitswesen –
+ insbesondere hinsichtlich Datenschutz, IT-Sicherheit und
+Medizinprodukterecht – und den in dieser Kleinen Anfrage aufgeworfenen Fragen 
+zur Regulierung von Neurotechnologien (vgl. Vorfragen), und plant sie 
+eine konsistente regulatorische Behandlung beider Technologiefelder?
+Wie in der Antwort zu Frage 29 dargestellt, unterliegen Neurotechnologien, die 
+Medizinprodukte sind, den einschlägigen europäischen Anforderungen,
+einschließlich Anforderungen an den Datenschutz und der Cybersicherheit.
+Die Europäische Kommission hat einen Reformvorschlag zur Änderung des 
+europäischen Medizinprodukterechts mit einem Bündel an Maßnahmen zur 
+Vereinfachung und Entbürokratisierung vorgelegt. Unter anderem wird eine 
+Vereinheitlichung von Anforderungen aus der europäischen KI-Verordnung für 
+Medizinprodukte vorgeschlagen. Zudem soll eine Pflicht eingeführt werden, 
+Cybersicherheitsvorfälle, die weder die öffentliche Gesundheit noch die
+Patientensicherheit gefährden, zu melden, damit die nationalen Computer-
+Notfallteams (CSIRTs) und die europäische Agentur der Europäischen Union für
+Cybersicherheit (ENISA) ein besseres Lagebild erhalten. Die Bundesregierung 
+verfolgt das Ziel einer konsistenten, technologieneutralen und ethisch
+fundierten Regulierung digitaler Gesundheitsanwendungen.
+35. Welche Erkenntnisse hat die Bundesregierung zu den in ihrer Antwort 
+auf die Kleine Anfrage der Fraktion der AfD auf Bundestagsdrucksache 
+21/316 zu Problemen bei der Umsetzung der EU-
+Medizinprodukteverordnung beschriebenen Engpässen bei „Benannten Stellen“ und
+Zertifizierungsverfahren, und welche Auswirkungen erwartet sie hieraus
+gegebenenfalls für die Zulassung neuartiger Hochrisiko-
+Neurotechnologieprodukte, etwa Hirnimplantate?
+Die Europäische Kommission hat mit Durchführungsverordnung (EU) 
+2026/977 auf strukturelle Herausforderungen reagiert, was zu einer
+Harmonisierung der Anforderungen an Benannten Stellen beitragen wird. Zudem hat die 
+Europäische Kommission mit dem Reformvorschlag zur Änderung des
+europäischen Medizinprodukterechts (siehe Antwort zu Frage 34) auch
+Vereinfachungen und Entbürokratisierungen im Hinblick auf Benannte Stellen
+vorgeschlagen. Ziel ist es die Vorhersehbarkeit und die Kosteneffizienz des
+Zertifizierungsverfahrens durch Benannten Stellen zu verbessern.
+Die Bundesregierung hat darüber hinaus keine neuen Erkenntnisse im Hinblick 
+auf Engpässe bei Benannten Stellen und Zertifizierungsverfahren. Insgesamt 
+sieht sie keine Funktionsdefizite im Zertifizierungssystem für die kommenden 
+Jahre.
+36. Welchen Regelungsbedarf sieht die Bundesregierung gegebenenfalls
+speziell für den Verkauf und die Nutzung von Neurotechnologie-
+Konsumgüterprodukten außerhalb des Medizinprodukterechts, beispielsweise
+Wellness- und Gaming-Anwendungen?
+Konsumgüter unterliegen dem allgemeinen Produktsicherheits- und
+Verbraucherschutzrecht sowie den europäischen Vorgaben für den Binnenmarkt. Sofern 
+von nicht-medizinischen Geräten keine direkten Gesundheitsgefahren
+ausgehen, sieht die Bundesregierung derzeit keinen unmittelbaren
+bereichsspezifischen Gesetzgebungsbedarf, beobachtet den Konsumgütermarkt jedoch
+aufmerksam.
+In Bezug auf Gaming wird auf die Antwort zu Frage 8 verwiesen. Die weitere 
+Entwicklung wird auch im Hinblick auf den Regelungsbedarf aufmerksam
+beobachtet.
+37. Hält die Bundesregierung gesetzliche Vorgaben zum Schutz von Kindern 
+und Jugendlichen im Umgang mit neurotechnologischen Wearables und 
+mit Anwendungen im Bildungsbereich für notwendig?
+a) Wenn ja, arbeitet sie bereits an einem Gesetzentwurf, und wann wird 
+dieser gegebenenfalls vorliegen?
+b) Wenn nein, aus welchen Gründen hält sie zusätzliche gesetzliche 
+Regelungen für nicht notwendig?
+Die Bundesregierung hält die bestehenden bereichsspezifischen
+Schutzregelungen im Jugendschutzrecht, Datenschutzrecht sowie im Schul- und
+Bildungsrecht der Länder derzeit für ausreichend. Spezifische Gesetzentwürfe für
+neurotechnologische Wearables sind aktuell nicht geplant.
+38. Welche Erkenntnisse hat die Bundesregierung gegebenenfalls zum Stand 
+von Forschung und Entwicklung für Anwendungen des sogenannten 
+Neuroenhancement weltweit, und sieht sie diesbezüglich bereits
+Regulierungsbedarf auf nationaler und internationaler Ebene?
+Die Bundesregierung verfolgt die aktuellen wissenschaftlichen Entwicklungen 
+und Fortschritte in den Neurotechnologien, zu denen auch das Thema
+Neuroenhancement gehört. Das Thema war zuletzt ein Aspekt bei den Abstimmungen 
+zur UNESCO-Empfehlungen in den Neurotechnologien. Auf
+Regulierungsbedarf wird die Bundesregierung reagieren.
+Anwendungen des „Neuroenhancement“, im Sinne pharmakologischer oder 
+technologisch basierter Steigerung kognitiver Leistungen ohne therapeutischen 
+Anlass, bewegen sich derzeit überwiegend im Bereich der akademischen
+Forschung sowie in Nischenanwendungen des Konsummarktes. Soweit
+Arzneimittel oder Medizinprodukte zulassungsüberschreitend genutzt werden („Off-
+Label-use“), greifen die bestehenden arzneimittel-, medizinprodukt- und
+apothekenrechtlichen Bestimmungen. Ein gesonderter Regulierungsbedarf für das 
+technologische Neuroenhancement wird im Zuge des technologischen
+Fortschritts fortlaufend geprüft.
+Es wird darüber hinaus auf die Antwort zu den Fragen 2 und 33 verwiesen.
+39. Welche Genehmigungs- und Zulassungsverfahren gelten in Deutschland 
+derzeit für invasive Neurotechnologien wie Hirnimplantate, und sieht die 
+Bundesregierung hier Anpassungsbedarf angesichts der rapiden
+Fortschritte in der technologischen Entwicklung?
+Für das Inverkehrbringen von Medizinprodukte gilt in Europa die MDR und in 
+Deutschland zusätzlich das Medizinprodukterecht-Durchführungsgesetz. Das 
+danach geltende Medizinprodukterecht gewährleistet für invasive
+Neurotechnologien aufgrund ihrer Einstufung in die höchste Risikoklasse III ein hohes
+regulatorisches Schutzniveau.
+40. Welche Risikoklassifizierung sieht die Medizinprodukteverordnung
+derzeit für invasive Hirn-Computer-Schnittstellen vor, und hält die
+Bundesregierung diese Einstufung angesichts der Eingriffstiefe und der
+Sensibilität neuronaler Daten für sachgerecht?
+Es wird auf die Antwort zu Frage 39 verwiesen.
+41. Werden nichtinvasive Neurotechnologien, etwa EEG-basierte
+Anwendungen, als Digitale Gesundheitsanwendungen (DiGA) nach § 33a des 
+Fünften Buches Sozialgesetzbuch (SGB V) zugelassen oder befinden 
+sich entsprechende Anträge derzeit im Prüfverfahren beim Bundesinstitut 
+für Arzneimittel und Medizinprodukte (BfArM)?
+Entsprechende Anwendungen waren bisher nicht im Antragsverfahren und sind 
+daher auch nicht im Digitale Gesundheitsanwendung (DiGA)-Verzeichnis
+gelistet. Ob eine solche Anwendung im Verzeichnis gelistet werden könnte, wäre 
+im Einzelfall anhand des konkreten Produkts, der in Anspruch genommenen 
+positiven Versorgungseffekte und der vorgelegten Daten im Abgleich mit den 
+gesetzlich vorgegebenen Kriterien zu prüfen.
+42. Werden neue neurotechnologische Verfahren, insbesondere invasive 
+Hirn-Computer-Schnittstellen, derzeit einer Frühbewertung durch den 
+Gemeinsamen Bundesausschuss (G‑BA) nach § 137h SGB V
+unterzogen, wenn ja, in wie vielen Verfahren, und mit welchem Ergebnis?
+Gemäß § 137h Sozialgesetzbuch (SGB) V werden neue Untersuchungs- und 
+Behandlungsmethoden, für die erstmalig eine Anfrage nach § 6 Absatz 2 Satz 3 
+des Krankenhausentgeltgesetzes oder nach § 6 Absatz 4 Satz 2 der
+Bundespflegesatzverordnung gestellt wird und wenn die Methode ein neues
+theoretischwissenschaftliches Konzept aufweist, vom Gemeinsamen Bundesausschuss 
+(GBA) bewertet. Das Nähere zum Verfahren regelt der GBA in seiner
+Verfahrensordnung, weitere Informationen sind im Internetangebot des GBA abrufbar.
+Die vom GBA gemäß § 137h SGB V durchgeführten Verfahren sind
+transparent im Internetangebot veröffentlicht. In der dort angebotenen Übersicht
+finden sich die Beschlüsse, Bekanntmachungen und Verfahrensstände zu allen 
+neuen Untersuchungs- und Behandlungsmethoden mit Medizinprodukten hoher 
+Risikoklasse, zu denen der GBA eine Beratung gemäß § 137h Absatz 6 SGB V 
+oder eine Bewertung gemäß § 137h Absatz 1 SGB V durchführt oder bereits 
+vorgenommen hat.
+43. Welche berufsrechtlichen Qualifikationsanforderungen bestehen derzeit 
+für Ärzte, die invasive neurotechnologische Eingriffe vornehmen oder 
+Neuroenhancement-Leistungen außerhalb einer medizinischen Indikation 
+anbieten?
+Grundlagen zum Verständnis neurotechnologischer Verfahren werden bereits 
+im Rahmen des Medizinstudiums vermittelt. Die Durchführung invasiver
+neurotechnologischer Eingriffe erfordert hingegen Handlungskompetenz, die
+üblicherweise erst im Rahmen der ärztlichen Fort- und Weiterbildung erworben 
+wird. Für die ärztliche Fort- und Weiterbildung sowie Fragen der
+Berufsausübung sind die Länder zuständig, die ihre Zuständigkeit auf die
+Landesärztekammern übertragen haben.
+44. Nach welchen Kriterien erfolgt nach Kenntnis der Bundesregierung
+derzeit die Erstattungsfähigkeit neurotechnologischer Behandlungen (z. B. 
+Neurofeedback) durch die gesetzliche Krankenversicherung, und sieht 
+die Bundesregierung hier gegebenenfalls Regelungsbedarf angesichts der 
+technologischen Entwicklung?
+Versicherte der gesetzlichen Krankenversicherung (GKV) haben Anspruch auf 
+eine ausreichende, bedarfsgerechte, dem allgemein anerkannten Stand der
+medizinischen Wissenschaft entsprechende medizinische Versorgung. Die
+Versorgung muss zweckmäßig sein, darf das Maß des Notwendigen nicht
+überschreiten und muss wirtschaftlich erbracht werden. Die Vertragsärzte sind im
+Rahmen ihres Sicherstellungsauftrages zur Erbringung dieser Leistungen
+verpflichtet. Jeder Vertragsarzt hat die vertragsärztlichen Leistungen nach den Regeln 
+der ärztlichen Kunst und unter Berücksichtigung des allgemein anerkannten 
+Standes der medizinischen Kenntnisse zu erbringen. Neurotechnologische
+Behandlungen können je nach Ausgestaltung, Zweckbestimmung und
+Anwendungsort unterschiedlichen Leistungsbereichen der gesetzlichen
+Krankenversicherung zugeordnet sein.
+Für neurotechnologische Produkte zur Eigenanwendung in der Häuslichkeit der 
+Versicherten kommt eine Erstattungsfähigkeit nach § 33 Absatz 1 SGB V in 
+Betracht. Voraussetzung ist, dass sie der Sicherung des Erfolgs der
+Krankenbehandlung dienen oder dazu bestimmt sind, einer drohenden Behinderung
+vorbeugen oder eine bestehende Behinderung ausgleichen. Dies kann
+beispielsweise bei neurotechnologischen Kommunikations- oder Steuerungshilfen für 
+Menschen mit schweren körperlichen Beeinträchtigungen der Fall sein. § 33 
+Absatz 1 SGB V ist dabei grundsätzlich technologieoffen konzipiert und
+erlaubt auch die Versorgung mit innovativen Produkten. Ist ein Produkt
+untrennbar mit einer neuen Untersuchungs- und Behandlungsmethode verbunden, ist 
+für die Erstattungsfähigkeit zunächst eine positive Bewertung dieser Methode 
+durch den GBA erforderlich.
+45. Sieht die Bundesregierung angesichts der zunehmenden Verbreitung von 
+Neuroenhancement-Angeboten Bedarf für eine berufsrechtliche oder
+gesetzliche Klarstellung, unter welchen Voraussetzungen Ärzte solche nicht 
+indikationsgebundenen Verfahren anbieten dürfen, vergleichbar
+bestehenden Regelungen im Arzneimittel- und Dopingrecht?
+Es wird auf die Antwort zu Frage 38 verwiesen.
+46. Existieren spezifische Anforderungen an die Einwilligungsfähigkeit und 
+Betreuung nicht einwilligungsfähiger Patientinnen und Patienten –
+insbesondere Kinder, Menschen mit geistigen Beeinträchtigungen und schwer 
+kranke Patienten – bei der Anwendung invasiver Neurotechnologien, und 
+sieht die Bundesregierung hier Regelungslücken gegenüber den
+allgemeinen betreuungsrechtlichen Vorgaben?
+In Hinblick auf die Anwendung invasiver Neurotechnologien existieren keine 
+spezifischen Anforderungen. Die Bundesregierung beobachtet die
+Entwicklungen und den sich daraus etwaig ergebenen Anpassungsbedarf kontinuierlich.
+47. Welche Regelungen des Patientendatenschutzes, insbesondere im
+Zusammenhang mit der elektronischen Patientenakte, finden nach
+Auffassung der Bundesregierung auf neuronale Daten Anwendung, und hält sie 
+diese für ausreichend, um der besonderen Sensibilität solcher Daten
+gerecht zu werden?
+Neuronale Daten, die Auskunft über den Gesundheitszustand einer natürlichen 
+Person geben können, unterliegen dem allgemeinen und bereichsspezifischen 
+Datenschutzrecht. Werden neuronale Daten im Rahmen der medizinischen
+Versorgung erhoben und in der elektronischen Patientenakte (ePA) verarbeitet,
+gelten die strengen Anforderungen des SGB V (§§ 334 ff.). Diese Regelungen
+garantieren den Schutz der Grundrechte der Betroffenen und gewähren den
+Patientinnen und Patienten umfassende Souveränität und Zugriffskontrolle über 
+ihre Daten. Die Bundesregierung hält diesen Rechtsrahmen für geeignet, der 
+besonderen Sensibilität neuronaler Daten Rechnung zu tragen.
+Kleine Anfrage der AfD auf BT-Drs.: 21/7985 
+Anlage 
+ 
+  
+Frage 15: 
+Welche Forschungsprojekte im Bereich Neurotechnologie wurden in den vergangenen zehn Jahren mit Bundesmitteln gefördert (bitte nach 
+Projektbezeichnung, zuständigem Ressort, Fördersumme und Laufzeit auflisten)? 
+ 
+Antwort: 
+Das Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) fördert(e) folgende Projekte: 
+ 
+Projektbezeichnung: (Gesamt)Fördersumme: Laufzeit: 
+   
+NEARBY: Rausch- und 
+variabilitätsfreie Brain-Computer-
+Interface Systeme für einen Einsatz 
+auch außerhalb des Labors 
+1.529.168 € 01.12.2023 – 28.02.2027 
+Software Sprint – Einzelvorhaben: 
+PsyLink - Plattformunabhängiges UI 
+zur Computersteuerung mit 
+Biosignalen 
+47.497 € 01.03.2024 – 31.08.2024 
+Verbundprojekt RenormalizedFlows: 
+Transparentes Tiefes Lernen mit 
+Renormalisierten Flows 
+2.369.706 € 01.01.2020 – 30.06.2023 
+Neuronales Elektroniksystem für 
+bidirektionale Verbindungen mit 
+Exoprothesen und Exoskeletten - 
+NerveRepack 
+756.976 € 15.07.2023 – 31.05.2027 
+Künstliche Intelligenz für mehr 
+Autonomie und Mobilität bei 
+Neurodefiziten - AI.D 
+4.986.302 € 01.07.2022 – 31.12.2026 
+Vertrauenswürdige und 
+energiesparsame Edge-Elektronik für 
+medizinische Anwendungen - 
+MEDGE 
+5.458.030 € 01.11.2022 – 31.01.2026 
+Kleine Anfrage der AfD auf BT-Drs.: 21/7985 
+Anlage 
+ 
+Elektroniksysteme für MRT-
+kompatible Neuroimplantate - MR-
+implant 
+2.004.767 € 01.03.2018 – 31.12.2021 
+DZPG Ausbauförderung - Standort 
+Tübingen - Arbeitspakete der 
+Universität Tübingen 
+5.258.647 € 01.09.2025 - 31.08.2030 
+NeuroPain – Präzise 
+Neuromodulation bei chronischen 
+Schmerzen – Integration von 
+funktioneller MRT und fokussiertem 
+Ultraschall für eine personalisierte 
+Behandlung 
+359.688 € 01.06.2026 - 31.05.2029 
+REWIRING - Personalisierte Gehirn-
+Körper-Schnittstellen zur 
+Wiederherstellung der Gehfähigkeit 
+nach Schlaganfall 
+350.429 € 01.05.2025 - 30.04.2028 
+RECAST - Wiederherstellung des 
+Schlaf-Wach-Gleichgewichts bei 
+Parkinson durch Tiefe Hirnstimulation 
+488.087 € 01.07.2023 - 31.12.2027 
+DC4MND - Wirkungsweise der 
+transspinalen Gleichstromstimulation 
+(tcDCS) bei Motoneuron-
+Erkrankungen 
+235.044 € 01.06.2023 - 31.05.2026 
+ReDyslexia - Entwicklungsbedingte 
+Legasthenie verstehen und gezielt 
+behandeln: vom Tiermodell zum 
+Menschen - Deutsches Teilprojekt 
+283.823 € 01.09.2022 - 31.05.2026 
+SCH-TRS-NIBS - Nicht-invasive 
+Hirnstimulation bei 
+behandlungsresistenter 
+Schizophrenie: ein systematisches 
+Review und eine Netzwerk-
+Metaanalyse 
+173.131 € 01.12.2022 - 31.12.2025 
+I-See - Verbesserte intra-kortikale 
+visuelle Prothesen durch komplexe 
+Kodierung und Einbindung spontaner 
+Aktivitätszustände  
+139.497 € 01.10.2021 - 31.12.2025 
+Kleine Anfrage der AfD auf BT-Drs.: 21/7985 
+Anlage 
+ 
+I-See - Verbesserte intra-kortikale 
+visuelle Prothesen durch komplexe 
+Kodierung und Einbindung spontaner 
+Aktivitätszustände, Teilprojekt 
+Bochum 
+1.024.763 € 01.10.2021 - 31.12.2025 
+DZPG Aufbauförderung - "Standort 
+Tübingen" - Individualisierte 
+Behandlungskonzepte durch 
+modellbasierte Integration 
+multimodaler Daten 
+2.342.102 € 01.05.2023 - 31.08.2025 
+REMOPD - Wiederherstellung der 
+motorischen Funktion in Parkinson 
+mit nicht-invasiver hybrider 
+transkranialer Neuromodulation – 
+Verwendung von Elektrischer 
+Interferenz zur gezielten Stimulation 
+definierter Hirnstrukturenströme 
+310.099 € 01.07.2021 - 31.12.2024 
+DIPS - Explorative Studie zur Bild- 
+und Computergestützten Einstellung 
+für die Tiefenhirnstimulation bei 
+Dystonie-Patienten 
+470.595 € 01.03.2021 - 31.12.2024 
+NeuroPhage - Gezielte
+Phagenbasierte neurale Stimulation bei 
+neurodegenerativen Erkrankungen - 
+Funktionalisierung und 
+Radiomarkierung von 
+maßgeschneiderten Nanophagen 
+523.981 € 01.06.2021 - 30.11.2024 
+REMOPD - Wiederherstellung der 
+motorischen Funktion in Parkinson 
+mit nicht-invasiver hybrider 
+transkranialer Neuromodulation - 
+Entwicklung eines Ultraschallsystems 
+zur niederfrequenten hybriden 
+Neurostimulation 
+319.350 € 01.06.2021 - 30.11.2024 
+Decodierung kortikaler und 
+subkortikaler Hirnaktivität auf Basis 
+künstlicher neuronaler Netzwerke zur 
+Entwicklung einer intelligenten und 
+adaptiven tiefen Hirnstimulation 
+432.623 € 01.03.2019 - 30.08.2024 
+Kleine Anfrage der AfD auf BT-Drs.: 21/7985 
+Anlage 
+ 
+DiSCoVeR - Untersuchung der 
+Effekte eines Videospiels zur 
+kognitiven Kontrolle und selbst 
+applizierter, nicht invasiver 
+Gehirnstimulation zur Behandlung 
+von Depression - Effizienz- und 
+Durchführbarkeitsprüfung 
+943.408 € 01.06.2019 - 31.05.2024 
+DYNASTI - Patientenspezifische 
+dynamische Modellierung und 
+Optimierung der Tiefen 
+Hirnstimulation - Elektrische 
+Stimulation zur Identifizierung neuer 
+Biomarker des Cortex-Basalganglien-
+Netzwerks 
+207.444 € 01.05.2021 - 30.04.2024 
+STIMCODE - Hirnstimulation neu 
+betrachtet – partizipative Entwicklung 
+eines Code of Conducts für die 
+Europäische Union - Teilprojekt 
+Partizipationsprozesse 
+263.427 € 01.04.2021 - 31.10.2023 
+STIMCODE - Hirnstimulation neu 
+betrachtet - partizipative Entwicklung 
+eines Code of Conducts für die 
+europäische Union - Teilprojekt 
+Sachstand Hirnstimulation 
+97.137 € 01.04.2021 - 30.04.2023 
+Verbundprojekt: Verbesserung von 
+Gedächtnisfunktionen bei älteren 
+Erwachsenen durch Training und 
+nicht-invasive Hirnstimulation 
+(TRAIN-STIM), Teilprojekt der 
+Charité - Universitätsmedizin Berlin 
+578.713 € 01.07.2015 - 31.12.2022 
+Verbundprojekt: Verbesserung von 
+Gedächtnisfunktionen bei älteren 
+Erwachsenen durch Training und 
+nicht-invasive Hirnstimulation 
+(TRAIN-STIM), Teilprojekt der TU 
+Dresden 
+581.479 € 01.07.2015 - 31.12.2022 
+Verbund GCBS im Forschungsnetz 
+psychische Erkrankungen: 
+PsychotherapiePlus- Augmentation 
+982.046 € 01.02.2015 - 31.08.2022 
+Kleine Anfrage der AfD auf BT-Drs.: 21/7985 
+Anlage 
+ 
+von Kognitiv-Behavioraler 
+Psychotherapie mit präfrontaler 
+Gleichstromstimulation bei Patienten 
+mit Major Depression - WP6 
+Verbund GCBS im Forschungsnetz 
+psychische Erkrankungen: 
+Transkranielle Gleichstromstimulation 
+(tDCS) zur Behandlung der Major 
+Depression - Eine prospektive, 
+multizentrische, doppelblinde, 
+randomisierte, plazebo-kontrollierte 
+Studie (DepressionDC) - WP7 
+1.194.345 € 01.02.2015 - 31.05.2022 
+Verbund GCBS im Forschungsnetz 
+psychische Erkrankungen: 
+Pathophysiologiespezifische 
+Entwicklung der transkraniellen 
+Gleichstromstimulation (tDCS) des 
+präfrontalen Kortex – 
+Untersuchungen zur funktionellen 
+MRT Konnektivität - WP5 
+505.888 € 01.02.2015 - 30.11.2021 
+Verbund GCBS im Forschungsnetz 
+psychische Erkrankungen: tDCS, 
+THS und rTMS in Tiermodellen 
+psychiatrisch relevanter Phänotypen - 
+eine komparative Studie, Projektteil 
+Bochum - WP1 
+499.954 € 01.02.2015 - 28.02.2021 
+Verbund GCBS im Forschungsnetz 
+psychische Erkrankungen: 
+PsychotherapiePlus- Augmentation 
+von Kognitiv-Behavioraler 
+Psychotherapie mit präfrontaler 
+Gleichstromstimulation bei Patienten 
+mit Major Depression - WP6 
+144.537 € 01.06.2019 - 31.01.2021 
+Verbundprojekt: Verbesserung von 
+Gedächtnisfunktionen bei älteren 
+Erwachsenen durch Training und 
+nicht-invasive Hirnstimulation 
+(TRAIN-STIM), Teilprojekte des 
+IfADo 
+1.024.288 € 01.07.2015 - 31.12.2020 
+Kleine Anfrage der AfD auf BT-Drs.: 21/7985 
+Anlage 
+ 
+Verbund GCBS im Forschungsnetz 
+psychische Erkrankungen: tDCS, 
+THS und rTMS in Tiermodellen 
+psychiatrisch relevanter Phänotypen - 
+eine komparative Studie (Teil Charité) 
+- WP1 
+435.847 € 01.02.2015 - 31.10.2020 
+Verbund GCBS im Forschungsnetz 
+psychische Erkrankungen: 
+Anhaltende Verbesserung 
+mangelnder kognitiver Kontrolle 
+durch mit transkranieller 
+Gleichstromstimulation (tDCS) 
+unterstütztem Training - WP4 
+454.885 € 01.02.2015 - 31.01.2020 
+Verbundprojekt: Verbesserung von 
+Gedächtnisfunktionen bei älteren 
+Erwachsenen durch Training und 
+nicht-invasive Hirnstimulation 
+(TRAIN-STIM) - Untersuchung der 
+Altersabhängigkeit des Effekts der 
+transkraniellen 
+Gleichstromstimulation auf die GABA-
+Konzentration und die 
+Ruhekonnektivität im Gehirn 
+82.412 € 01.07.2015 - 31.12.2018 
+NEURON-Verbund RD_aDBS: 
+Entwicklung feedback-kontrollierter 
+Neuromodulationsstrategien zur 
+Behandlung therapierefraktärer 
+repetitiver Bewegungsstörungen 
+341.314 € 01.05.2014 - 31.10.2017 
+NEURON-Verbund TYMON: 
+Unsicherheitsmonitoring versus 
+Inhibitionskontrolle: Zur Rolle des 
+Nuclues subthalamicus und Effekten 
+der Tiefen Hirnstimulation auf 
+oszillatorische neuronale Netzwerke 
+bei der Parkinson-Krankheit im 
+Vergleich zur Zwangsstörung. 
+314.645 € 01.08.2014 - 31.12.2017 
+Verbundprojekt: Verbesserung von 
+Gedächtnisfunktionen bei älteren 
+Erwachsenen durch Training und 
+146.420 € 01.07.2015 - 30.06.2017 
+Kleine Anfrage der AfD auf BT-Drs.: 21/7985 
+Anlage 
+ 
+nicht-invasive Hirnstimulation 
+(TRAIN-STIM), Teilprojekt des 
+Universitätsklinikums Hamburg-
+Eppendorf 
+Forschung ELSA Wissenstransfer: 
+Von der Wissenschaft zur 
+Öffentlichkeit: Das Beispiel der Tiefen 
+Hirnstimulation, TP 2 und TP 3 
+316.190 € 01.10.2013 - 31.05.2017 
+Forschung ELSA Wissenstransfer: 
+Von der Wissenschaft zur 
+Öffentlichkeit: Das Beispiel der Tiefen 
+Hirnstimulation, TP 1 
+204.307 € 01.10.2013 - 31.01.2017 
+NEURON-Verbund "REVIS": 
+Restitution von Sehleistungen nach 
+Schlaganfall durch nicht-invasive 
+elektrische Hirnstimulation 
+653.689 € 01.04.2012 - 31.03.2016 
+NEURON-Verbund "COGSTROKE": 
+Kognitive Erholung nach dem 
+Schlaganfall. Ein translationaler 
+Ansatz zur Entwicklung neuer 
+Therapien für höhere motorische 
+Defizite 
+277.270 € 01.04.2012 - 31.03.2016 
+NEO - NeuroAI ELSA Observatorium: 
+Kollaborative Ethik und Governance 
+für verantwortungsvolle neuromorphe 
+und KI-gestützte Technologien in den 
+Biomedizinischen Wissenschaften  
+941.637 € 01.03.2026 - 28.02.2029 
+RHUNE - Research Hub Neuroethik  997.863 € 01.03.2024 - 29.02.2028 
+PRIVETDIS - Mentale Privatheit, 
+Neurotechnologie und Behinderung: 
+ethische, rechtliche und soziale 
+Aspekte  
+264.264 € 01.05.2024 - 30.04.2027 
+HYBRIDMIND - Untersuchung 
+empirischer, ethischer und rechtlicher 
+Aspekte intelligenter Neuroprothesen  
+321.556 € 01.07.2021 - 31.12.2024 
+INPI - Internationale Neuroethik-
+Patent-Initiative - rechtliches 
+Teilprojekt 
+153.879 € 
+ 
+01.04.2021 - 31.12.2024 
+Kleine Anfrage der AfD auf BT-Drs.: 21/7985 
+Anlage 
+ 
+STIMCODE - Hirnstimulation neu 
+betrachtet – partizipative Entwicklung 
+eines Code of Conducts für die 
+Europäische Union  
+344.374 € 01.04.2021 - 31.10.2023 
+FUTUREBODY - Die Zukunft des 
+menschlichen Körpers im Lichte 
+neurotechnologischen Fortschritts  
+282.864 € 
+ 
+01.07.2018 - 31.12.2022 
+INTERFACES: Internationales 
+Forschungsprojekt zu ethischen, 
+rechtlichen und sozialen Aspekten 
+von Brain-Computer-Interfaces (BCI)  
+125.027 € 01.05.2016 - 31.12.2019 
+BIONIK: Bidirektionale Schnittstelle 
+zwischen Neuroorthesen und 
+Nutzenden zur interaktiven Kontrolle 
+958. 320 € 01.04.2026 - 31.03.2029 
+ISES: Interaktives 
+Schlafmonitoringsystem zur 
+frühzeitigen Erkennung 
+geschlechtsspezifischer 
+Schlafstörungen im Rahmen der 
+hausärztlichen 
+Vorsorgeuntersuchungen 
+1.335.547 € 01.11.2025 - 31.10.2028 
+PARLO: Entwicklung einer 
+innovativen Neurobandage mit 
+integrierter Mess- und 
+Stimulationsfunktion zur Reduktion 
+von Parkinson Tremor an der Hand 
+793. 573 € 01.02.2025 - 31.01.2028 
+InsomnAI: Mobile hirnelektrische 
+Stimulation zur Verbesserung der 
+Schlafqualität 
+593. 580 € 01.02.2025 - 31.01.2028 
+Neurofunktioneller Anzug-STS: 
+'SmartTexStim' - Integrierte 
+Elektrostimulationstextilien 
+1.281.993 € 01.01.2025 - 31.12.2027 
+Verbundprojekt: Brain-Computer-
+Interface gestützte Greifrehabilitation 
+(MindMove) 
+958.938 € 01.11.2025 - 31.10.2027 
+EMGRoll: Intuitive Steuerung von 
+Rollstühlen mittels hochaufgelöster 
+Muskelsignale 
+984.986 € 01.09.2024 - 31.08.2027 
+Kleine Anfrage der AfD auf BT-Drs.: 21/7985 
+Anlage 
+ 
+NeuroVR-Plus: Adaptives VR-
+Training & transkranielle 
+Gehirnstimulation zur Verbesserung 
+der Kognition älterer Menschen 
+749.246 € 01.04.2024 - 31.03.2027 
+NOE-EMY: Eingebettete KI für 
+Neuromuskuläre Orthesen 
+690.458 € 01.03.2024 - 28.02.2027 
+FACErehab: Heimbasiertes EMG-
+Biofeedbacktraining für Patienten mit 
+Gesichtsnervenlähmung - Interaktive 
+Rehabilitation im Patientenumfeld   
+1.237.092 € 01.01.2024 - 31.12.2026 
+Verbundprojekt: Bedarfsgerechte 
+Vagus-Nerv-Stimulation für die 
+Rehabilitation nach Schlaganfall 
+(BeVaReS) 
+1.739.836 € 01.09.2022 - 31.12.2026 
+Verbundprojekt: Neuromodulation bei 
+seltenen neuropsychiatrischen 
+Erkrankungen mit fokussiertem
+multimodalen-multi-parameter Ultraschall 
+(3MP-FUS) 
+7.798.283 € 01.05.2022 - 31.12.2026 
+ZURONET: Zukunftsweisende 
+Robotik in der Neurotherapie und 
+Rehabilitationsmedizin 
+928.674 € 01.02.2025 - 31.10.2026 
+PlexoMotion: Interaktive und 
+funktionsadaptierte Armorthese zur 
+Reaktivierung einer gelähmten 
+Armmotorik   
+679.970 € 01.04.2022 - 30.06.2025 
+UFO: Einsatz neUrophysiologischer 
+Schnittstellen und taktil unterstützter 
+virtueller Realität zur Förderung von 
+beruflicher InklusiOn 
+1.387.970 € 01.09.2021 - 28.02.2025 
+METIS: Mobile Sensortechnologien 
+für die Behandlung neurologischer 
+Störungen 
+460.933 € 01.08.2022 - 31.12.2024 
+Verbundprojekt: Sensorbasierte 
+transkutane adaptive 
+Rückenmarkstimulation zur 
+Spastizitätsreduktion (STARS) 
+844.037 € 01.04.2021 - 30.09.2024 
+Kleine Anfrage der AfD auf BT-Drs.: 21/7985 
+Anlage 
+ 
+RoboAppEE: Roboter-
+Assistenzsystem für die schnelle und 
+hochpräzise Applikation 
+mehrkanaliger EEG-Montagen 
+734.291 € 01.12.2020 - 31.12.2023 
+Verbundprojekt: Kombination von 
+virtueller Realität (VR) und Brain-
+Computer-Interface (BCI) zur 
+Therapie chronischer Schmerzen 
+(VirtualNoPain) 
+1.910.619 € 01.07.2020 - 31.12.2023 
+Konfigurierbare Elektronikplattform 
+zur individualiserten Rehabilitation 
+nach Schlaganfall und 
+Querschnittslähmung - 
+SmartSense4Life 
+2.050.011 € 01.02.2020 - 31.07.2023 
+Intelligenter emotional-empathischer 
+digitaler Assistent mit EEG-
+Zeitreihenanalyse zur Früherkennung 
+und Verlaufskontrolle bei Alzheimer-
+Demenz - IASON 
+654.241 € 01.07.2019 - 31.03.2023 
+REHOME: Effiziente und 
+motivierende 
+Schlaganfallrehabilitation zu Hause 
+892.968 € 01.02.2021 - 31.01.2023 
+Interaktive Neuroorthetik für die 
+Handfunktion nach Schlaganfall - 
+INERLINC 
+712.140 € 01.02.2019 - 31.12.2022 
+Neue, interaktive, individualisierte 
+und adaptive Hirnstimulationstherapie 
+bei Morbus Parkinson mit Hilfe von 
+Closed-Loop-Ansätzen - PD-
+interaktiv 
+1.901.854 € 01.11.2018 - 31.07.2022 
+Entwicklung eines 
+patientenspezifischen ADHS-
+Behandlungsverfahrens zur 
+niedrigschwelligen Anwendung der 
+nicht-invasiven transkraniellen 
+Elektrostimulation - CogniTor 
+341.470 € 01.07.2019 - 30.06.2022 
+Verbundprojekt: Interaktive 
+Mikroimplantate - INTAKT 
+9.000.332 € 01.11.2016 - 30.04.2022 
+Kleine Anfrage der AfD auf BT-Drs.: 21/7985 
+Anlage 
+ 
+Intelligente Orthetik und Prothetik für 
+eine verbesserte Mensch-Technik 
+Interaktion - INOPRO 
+9.335.465 € 01.11.2016 - 30.04.2022 
+Mobilitätsassistent für 
+Parkinsonpatienten - Mobil4Park 
+716.323 € 01.01.2019 - 31.03.2022 
+Kognitiver Arbeitsschutz für die 
+Mensch-Maschinen-Interaktion - 
+KAMeri 
+1.161.366 € 01.08.2018 - 31.07.2021 
+mobile EEG-basierte Hirnstimulation 
+zur Verbesserung des Hörens - 
+mEEGaHStim 
+1.716.365 € 01.04.2017 - 31.12.2020 
+Ein Trainings- und 
+Kommunikationssystem für schwer 
+hirngeschädigte pflegebedürftige 
+Patienten - NeuroCommTrainer 
+1.575.350 € 01.05.2017 - 30.11.2020 
+Adaptive und hochmotivierende 
+Rehabilitationsplattform für 
+Schlaganfallpatienten mit 
+Armlähmungen - AMoRSA 
+1.024.297 € 01.03.2017 - 31.08.2020 
+Selbstadministrierte, häusliche 
+Erfassung der Schlafgüte - 
+SOMNOgraph 
+1.162.953 € 01.05.2017 - 31.08.2020 
+lmplantierbare, bidirektionale Gehirn-
+Computer-Schnittstelle zur 
+Wiederherstellung motorischer 
+Funktionen (MOTOR-BIC) 
+5.702.610 € 01.05.2015 - 31.08.2020 
+Gehirn-Computer-Schnittstelle für 
+Patienten in minimalen 
+Bewusstseinszuständen - CoMiCon 
+1.108.646 € 01.02.2017 - 31.01.2020 
+Pflegerische Unterstützung 
+epilepsieerkrankter Menschen durch 
+sensorische Anfallsdetektion - 
+EPItect 
+1.969.841 € 01.03.2016 - 31.08.2019 
+Hirn-Computer-Schnittstelle zur 
+Emotionserkennung für
+neuroadaptive Assistenzsysteme - EMOIO 
+1.523.069 € 01.01.2015 - 30.06.2018 
+Intelligente Assistenzsysteme zur 
+Funktionsunterstützung und 
+823.842 € 01.12.2012 - 31.05.2016 
+Kleine Anfrage der AfD auf BT-Drs.: 21/7985 
+Anlage 
+ 
+Therapieüberwachung bei 
+neuromuskulären Störungen- 
+NASFIT 
+Industrie-in-Klinik-Plattform: 
+Konzeptionsphase - 
+Inkubationsplattform für 
+Medizininnovationen in der 
+Neurotechnologie am 
+Universitätsklinikum Tübingen 
+(NEUROTECH-LAUNCHPAD) 
+75.000 € 01.09.2015 - 29.02.2016 
+Industrie-in-Klinik-Plattform: 
+Konzeptionsphase - Mensch-
+Maschine-Interaktion in der 
+Neuromedizin (NeuroTechGate) 
+29.440 € 01.09.2015 - 29.02.2016 
+Verbesserung von 
+Gedächtnisfunktionen bei älteren 
+Erwachsenen durch Training und 
+nicht-invasive Hirnstimulation 
+(TRAIN-STIM) 
+2.984.159 € 01.07.2015 – 31.12.2022 
+EUPHEMIA - Entwicklung von 
+Ultraschallwandlern zur hochpräzisen 
+Ultraschall-Neurostimulation mittels 
+Cross-Beam-Technologie 
+309.099 € 01.01.2022 – 31.12.2024 
+COMMI - Computergestützte Modelle 
+der multisensorischen Integration der 
+oberen Gliedmaßen bei Humanoiden 
+und Amputierten 
+259.916 € 
+ 
+01.03.2022 – 28.02.2025 
+ 
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
