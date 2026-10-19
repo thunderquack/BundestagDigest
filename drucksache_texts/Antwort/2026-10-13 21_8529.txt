@@ -1,0 +1,2140 @@
+Deutscher Bundestag Drucksache 21/8529
+21. Wahlperiode 13.10.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Nicole Höchst, Dr. Michael Kaufmann, 
+Adam Balten, weiterer Abgeordneter und der Fraktion der AfD
+– Drucksache 21/8075 –
+Forschung, Förderung, Haushaltstitel und sicherheitsrelevante Aspekte 
+hochminiaturisierter vernetzter Sensorsysteme – von MEMS und NEMS über 
+Smart Dust, Wireless Sensor Networks und Internet of Nano-Things bis zu 
+Neural Dust, StimDust, BioMEMS und Brain-Computer-Interfaces
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Miniaturisierung elektronischer Systeme – von
+Mikroelektromechanischen Systemen (MEMS) bis hin zu hochsensiblen Brain-Computer-Interfaces 
+(BCI) – ist ein entscheidender Treiber für den technologischen Fortschritt. 
+Während etablierte MEMS-Technologien heute unverzichtbare
+Grundlagenkomponenten für mittelständische Unternehmen (z. B. Automobil- und
+Medizintechnik) und Industrie bilden, stellen neuartige Felder wie „Smart Dust“, 
+BioMEMS oder neuronale Schnittstellen sowohl ökonomische Chancen als 
+auch komplexe ethische und sicherheitsrelevante Herausforderungen dar.
+Unter dem wissenschaftlichen Begriff Smart Dust werden miniaturisierte, 
+drahtlos kommunizierende Sensorknoten („Motes“) verstanden, die Sensorik, 
+Datenverarbeitung, Kommunikation und Energieversorgung möglichst auf 
+kleinstem Raum – idealerweise in einem Volumen von etwa einem
+Kubikmillimeter – integrieren. Das Konzept wurde Ende der 1990er-Jahre von einer 
+Forschungsgruppe der University of California, Berkeley, unter Leitung von 
+Prof. Kristofer S. J. Pister im Rahmen des MEMS-Programms der Defense 
+Advanced Research Projects Agency (DARPA) entwickelt und beschrieb
+ausdrücklich sowohl zivile als auch militärische Anwendungsmöglichkeiten
+(Projektseite: https://people.eecs.berkeley.edu/~pister/SmartDust). Bereits 2001 
+legten Wissenschaftler der University of California, Berkeley die Grundlagen 
+dar: https://people.eecs.berkeley.edu/~pister/publications/2001/Warneke2001_
+Smart_Dust_communicating_with_a_cubic-millimeter_computer.pdf bzw. 
+https://ieeexplore.ieee.org/document/895117/).
+Aus dem Forschungsprogramm gingen kommerzielle Entwicklungen hervor; 
+Prof. Kristofer S. J. Pister war Mitgründer von Dust Networks. Parallel dazu 
+entwickelten sich das Forschungsgebiet des Internet of Nano-Things (IoNT) 
+sowie implantierbare Systeme wie Neural Dust und StimDust (exemplarisch: 
+https://news.berkeley.edu/2018/04/10/berkeley-engineers-build-smallest-volu
+me-most-efficient-wireless-nerve-stimulator/).
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Forschung, Technologie und 
+Raumfahrt vom 12. Oktober 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+Deutschland muss im internationalen Wettbewerb, insbesondere gegenüber 
+China und den USA, seine technologische Souveränität sichern. Gleichzeitig 
+beobachten die Fragesteller eine zunehmende Verwendung dieser
+Technologien im Rahmen einer „Dual-Use“-Strategie durch die Bundesregierung. Dies 
+steht in einem Spannungsverhältnis zur historischen Positionierung von
+einigen Regierungsparteien, die in der Vergangenheit durch das Propagieren von 
+„Zivilklauseln“ die Verbindung von Forschung und Verteidigungsinteressen 
+strikt ablehnten.
+Vor diesem Hintergrund besteht ein erhebliches parlamentarisches Interesse 
+daran, das Handeln der Bundesregierung hinsichtlich der
+Forschungsförderung, der Abgrenzung zwischen ziviler und militärischer Nutzung sowie des 
+Schutzes geistiger Integrität (Neurorechte) transparent zu machen.
+V o r b e m e r k u n g  d e r  B u n d e s r e g i e r u n g
+Die Bundesregierung verfolgt die in der Vorbemerkung der Fragesteller
+genannten Technologiefelder, insbesondere Mikroelektromechanischen
+Systemen (MEMS), BioMEMS, neuronale Schnittstellen bzw. Brain-Computer-
+Interfaces (BCI) sowie Konzepte wie „Smart Dust“, im Rahmen ihrer jeweiligen 
+Zuständigkeiten und unter Berücksichtigung des unterschiedlichen
+technologischen Reifegrades.
+Dabei handelt es sich um ein heterogenes Spektrum von Technologien: MEMS 
+sind bereits etablierte Schlüsseltechnologien mit vielfältigen industriellen und 
+medizinischen Anwendungen. BCI, BioMEMS und implantierbare neuronale 
+Sensorsysteme befinden sich je nach konkreter Anwendung in
+unterschiedlichen Stadien von Forschung, Entwicklung und Erprobung. Konzepte wie 
+„Smart Dust“ und „Neural Dust“ sind demgegenüber insbesondere hinsichtlich 
+der weiteren Miniaturisierung, Energieversorgung, Kommunikation und
+Biokompatibilität weiterhin mit erheblichen Forschungs- und Entwicklungsfragen 
+verbunden.
+Eine übergreifende Strategie der Bundesregierung für den Einsatz dieser
+Technologien in der inneren Sicherheit oder der Verteidigung besteht derzeit nicht. 
+Dies schließt Forschungs- und Entwicklungsaktivitäten sowie mögliche zivile 
+und dual‑use-fähige Anwendungsmöglichkeiten einzelner Technologien nicht 
+aus. Für die Förderung und Nutzung konkreter Technologien gelten die jeweils 
+einschlägigen fachlichen, rechtlichen und ethischen Rahmenbedingungen.
+ 1. Welche Forschungs- und Entwicklungsvorhaben mit einem
+Fördervolumen von jeweils mehr als 500 000 Euro, die sich auf hochsensible Felder 
+wie Neurotechnologien (Neural Dust, StimDust, Brain-Computer-
+Interfaces) oder hochminiaturisierte Sensorsysteme mit Dual-Use-Potenzial 
+(Smart Dust, IoNT, neuromorphe Sensorik) beziehen, wurden seit dem 
+1. Januar 2018 durch Bundesmittel gefördert (bitte nach Ressorts,
+Förderprogrammen, Zuwendungsempfänger, Laufzeiten, Fördersummen und 
+Projektzielen aufschlüsseln)?
+Eine tabellarische Übersicht ist als Anlage 1 beigefügt.*
+* Von einer Drucklegung der Anlage wird abgesehen. Diese ist auf Bundestagsdrucksache 21/8529 auf der Internetseite des Deutschen Bundestages abrufbar.
+ 2. Inwiefern ist die Förderung dieser Projekte in die Strategie der
+„Technologischen Souveränität“ eingebunden, und welche Vorhaben auf
+nationaler und EU-Ebene werden spezifisch dazu genutzt, Abhängigkeiten von 
+außereuropäischen Akteuren (insbesondere den USA und China) zu
+verringern?
+Der Bundesregierung ist die Strategie der „Technologischen Souveränität“ 
+nicht bekannt. Die Hightech Agenda Deutschland ist die zentrale forschungs-, 
+transfer- und innovationspolitische Strategie der Bundesregierung zur Stärkung 
+der Wettbewerbsfähigkeit und technologischen Souveränität Deutschlands und 
+der Europäischen Union, die durch technologiespezifische Roadmaps und 
+Fachprogramme umgesetzt wird. Die unter Frage 1 in Anlage 1* genannten 
+Vorhaben leisten einen wesentlichen Beitrag zur Stärkung dieser Ziele.
+ 3. Aus welchen Einzelplänen, Kapiteln und Haushaltstiteln sowie
+Sondervermögen werden diese genannten Forschungsbereiche finanziert (bitte 
+nach Haushaltsjahr von 2018 bis 2026 aufschlüsseln)?
+Eine tabellarische Übersicht ist als Anlage 2 beigefügt.*
+ 4. Wie bewertet die Bundesregierung die Rolle der Agentur für
+Sprunginnovationen (SPRIND) bei der Beschleunigung von Technologien, die ein 
+hohes Risiko für die informationelle Selbstbestimmung bergen?
+Die Bundesregierung hat die Bundesagentur für Sprunginnovationen (SPRIND) 
+mit den Aufgaben der Identifizierung, Validierung und öffentlichen Förderung 
+von Vorhaben mit Potential für eine Sprunginnovation beliehen. Als Beliehene 
+nimmt die Agentur die ihr übertragenen Aufgaben eigenständig wahr. Dabei ist 
+sie an Recht und Gesetz gebunden. Dies gilt auch mit Blick auf den Schutz des 
+Rechts auf informationelle Selbstbestimmung.
+ 5. Führten die zu Frage 1 aufgeführten Projekte bereits zu
+Patentanmeldungen, Lizenzvergaben und wirtschaftlichen Ausgründungen, und wenn ja, 
+welche sind das (bitte gegebenenfalls jeweils nennen: Patentanmelder, 
+Titel und Nummer des Patents, Lizenzgeber, Lizenznehmer, Name und 
+Rechtsform der Ausgründung)?
+Eine tabellarische Übersicht zu den der Bundesregierung bekannten
+Patentanmeldungen ist als Anlage 3 beigefügt.* Da die Projekte zum Teil noch laufen 
+und es sich um vorwettbewerbliche Forschungsprojekte handelt, ist davon
+auszugehen, dass weitere Patentanmeldungen sowie Lizenzvergaben folgen
+werden und auch Ausgründungen auf Basis der Projektergebnisse noch zu einem 
+späteren Zeitpunkt erfolgen.
+ 6. Sieht die Bundesregierung Maßnahmen vor, um sicherzustellen, dass 
+diese IP-Rechte nicht an ausländische Investoren fließen, wenn ja, 
+welche sind das, und wenn nein, warum nicht?
+Der Umgang mit im Vorhaben entstehendem geistigem Eigentum (IP) wird im 
+Förderbescheid insbesondere durch Vorgaben zu Nutzungsrechten, Verwertung 
+und Schutzrechten an den Projektergebnissen geregelt. Der
+Zuwendungsempfänger darf die im Vorhaben gewonnenen Ergebnisse außerhalb des
+Europäischen Wirtschaftsraums und der Schweiz nur mit vorheriger schriftlicher Zu-
+* Von einer Drucklegung der Anlage wird abgesehen. Diese ist auf Bundestagsdrucksache 21/8529 auf der Internetseite des Deutschen Bundestages abrufbar.
+stimmung des Zuwendungsgebers verwerten, sofern die Verwertung von den 
+Angaben im Antrag abweicht. Die Veräußerung von Patenten gilt als
+Verwertung.
+ 7. Welche deutschen Einrichtungen waren seit 2018 an europäischen bzw. 
+internationalen Projekten (z. B. Chips JU [Chips Joint Undertaking], 
+EDF [European Defence Fund], EIC [European Innovation Council])
+beteiligt, die explizit Technologien entwickeln, die sowohl zivil als auch für 
+Verteidigungszwecke (Dual‑Use) einsetzbar sind?
+Die Bundesregierung kann weder für die gesamte deutsche
+Forschungslandschaft noch für die europäische Forschungsförderung eine vollständige
+Auskunft zu Projektbeteiligungen von deutschen Einrichtungen geben, sondern
+lediglich eine Auskunft für die von der Bundesregierung (mit-)finanzierten
+Maßnahmen.
+Im aktuellen europäischen Rahmenprogramm für Forschung und Innovation 
+(Horizont Europa) und im Chips JU werden nur Projekte mit Schwerpunkt im 
+zivilen Bereich gefördert. Insofern werden dort keine expliziten Technologien 
+für den Verteidigungszweck entwickelt.
+Der Europäische Verteidigungsfonds (EVF) ist ein Industrieförderprogramm in 
+Durchführung der Europäischen Kommission. Im EVF sind diverse Deutsche 
+Forschungsinstitute (z. B. Fraunhofer-Gesellschaft, Deutsches Zentrum für 
+Luft- und Raumfahrt, Hochschulen) in den jährlich ausgewählten Projekten der 
+Arbeitsprogramme beteiligt.
+Das Bundesministerium der Verteidigung (BMVg) finanziert nur
+Forschungsvorhaben, deren Ergebnisse für Verteidigungszwecke der Bundeswehr
+verwendet werden können. Das BMVg verfolgt nicht nach, ob diese Ergebnisse auch 
+zu zivilen Zwecken genutzt werden. Die Vorgaben des Geheimschutzes sind in 
+jedem Vorhaben einzuhalten.
+ 8. Wie positioniert sich die Bundesregierung zur historisch von Teilen der 
+Koalition der Fraktionen der CDU/CSU und SPD geforderten
+„Zivilklausel“ an Forschungseinrichtungen, angesichts der heutigen massiven
+staatlichen Förderung von Dual-Use-Technologien (z. B. EDF-Projekte)
+sowie zur geänderten geopolitischen und wirtschaftlichen Weltlage?
+Die Bundesregierung steht zur umfassenden Gewährleistung der
+Wissenschaftsfreiheit gemäß Artikel 5 Absatz 3 Grundgesetz. Diese umfasst in ihrem 
+Schutzbereich auch Dual-Use Forschungsfelder und zivil-militärische
+Fragestellungen.
+ 9. Welche Kenntnisse hat die Bundesregierung über Kooperationen
+deutscher Forschungseinrichtungen mit der DARPA oder anderen US-
+Verteidigungsbehörden im Bereich der Neurotechnologie?
+Über Kooperationen von deutschen Forschungseinrichtungen mit der Defense 
+Advanced Research Projects Agency oder anderen US-
+Verteidigungseinrichtungen im Bereich der Neurotechnologie liegen der Bundesregierung keine 
+Kenntnisse vor.
+10. Welche Exportkontrollmechanismen greifen, um zu verhindern, dass in 
+Deutschland mit Bundesmitteln entwickelte Hochtechnologien (z. B. 
+Smart Dust, Sensor-Knoten) ungewollt in die Hände ausländischer
+Nachrichtendienste, autoritärer Regime oder solcher, die sich in kriegerischen 
+Konflikten befinden, gelangen?
+Der Außenwirtschaftsverkehr – also u. a. der Verkehr mit Gütern und
+Dienstleistungen mit dem Ausland – ist grundsätzlich frei, unterliegt jedoch
+Einschränkungen, die sich aus dem Recht der EU, unter anderem der EU‑Dual-
+Use-Verordnung, den EU-Embargoverordnungen und aus dem
+Außenwirtschaftsgesetz (AWG) sowie der Außenwirtschaftsverordnung (AWV) ergeben.
+Die Verantwortung für die Einhaltung des Exportkontrollrechts liegt in 
+Deutschland bei den Ausführern, etwa geförderten Hochschulen,
+Forschungseinrichtungen und Unternehmen. Diese haben hierzu die notwendigen
+Vorkehrungen zu treffen.
+11. Welche Vorhaben mit Bezug zu hochminiaturisierten Sensoren wurden 
+seit 2018 durch das Bundesministerium der Verteidigung (BMVg)
+gefördert, und welche dieser Projekte dienen explizit dem Schutz kritischer 
+Infrastrukturen (KRITIS) oder der Sicherung der europäischen
+Außengrenzen?
+Das BMVg hat keine entsprechenden Forschungsvorhaben gefördert.
+12. Sieht die Bundesregierung in der Nutzung von „Smart Dust“-
+Technologien ein effektives Instrument zur lückenlosen Grenzüberwachung, wenn 
+ja, welche konkreten Pilotprojekte existieren hierzu, und wenn nein, aus 
+welchen Gründen nicht?
+Die Bundesregierung verfügt über keine Erkenntnisse, die eine Bewertung des 
+Einsatzes von „Smart Dust“-Technologien zur Grenzüberwachung oder eine 
+Aussage zu entsprechenden Pilotprojekten ermöglichen.
+13. Welche sicherheitsrelevanten Verwundbarkeiten (Manipulation,
+Spoofing) wurden in geförderten Projekten identifiziert, und welche
+Absicherungsstrategien für KRITIS wurden hieraus abgeleitet?
+Der Bundesregierung liegen hierzu keine Erkenntnisse vor.
+14. Liegen Erkenntnisse darüber vor, ob aus Bundesmitteln finanzierte
+Patente in sicherheitskritischen Anwendungen im Ausland genutzt werden, 
+ohne dass eine deutsche oder europäische Verwertung erfolgte?
+Der Bundesregierung liegen hierzu keine Erkenntnisse vor.
+Im Übrigen wird auf die Antwort zu Frage 10 verwiesen.
+15. Welche datenschutzrechtlichen und ethischen Bewertungen hat die
+Bundesregierung seit 2018 spezifisch zu Projekten im Bereich Brain-
+Computer-Interfaces vorgenommen, um die „kognitive Freiheit“ (Cognitive
+Liberty) der Bürger zu schützen?
+Die Bundesregierung befasst sich fortlaufend mit den Auswirkungen von
+technologischen Entwicklungen, unter anderem auch zu BCI im Förderschwerpunkt
+zu ethischen, rechtlichen und sozialen Aspekten (ELSA) in den
+Lebenswissenschaften. Die Ergebnisse bilden eine der Bewertungsgrundlagen der
+Bundesregierung.
+16. Wie bewertet die Bundesregierung die Übernahme von Vorgaben durch 
+supranationale Organisationen (z. B. EU-Kommission,
+Weltgesundheitsorganisation [WHO]) bei der Regulierung von Neurotechnologien, und 
+inwieweit wird hierbei die nationale Souveränität des deutschen
+Gesetzgebers eingeschränkt?
+Die Bundesregierung begrüßt, dass sich multilaterale Organisationen wie
+zuletzt die OECD und die UNESCO mit dem Thema befassen, und bringt
+entsprechend eigene Positionen ein.
+17. Hält die Bundesregierung die bestehenden Gesetze für ausreichend, um 
+neuronale Daten als eigenständige, besonders schützenswerte Kategorie 
+zu definieren (analog zu Biometrie-Daten), und wenn nein, wann plant 
+sie eine entsprechende Gesetzesinitiative?
+Neuronale Daten sind grundsätzlich als personenbezogene Daten zu
+klassifizieren und fallen somit in den Anwendungsbereich der Datenschutz-
+Grundverordnung (DSGVO). Sofern sie darüber hinaus Auskunft über die neuronalen
+Abläufe im Gehirn einer Person geben, beispielsweise über neuronale
+Reaktionsmuster, sind sie zudem als Gesundheitsdaten einzuordnen und unterliegen
+gemäß Artikel 9 Absatz 1 DSGVO einem besonderen Schutz. Die
+Bundesregierung verfolgt die technologischen Entwicklungen mit großer Aufmerksamkeit, 
+um etwaige Schutzlücken zu identifizieren und wirksam zu adressieren. Neue 
+gesetzgeberische Maßnahmen sind in diesem Zusammenhang derzeit nicht
+geplant.
+18. Welche Maßnahmen plant die Bundesregierung zum Schutz vulnerabler 
+Personengruppen (Minderjährige, nicht einwilligungsfähige Personen) 
+vor einer potenziellen Beeinflussung durch BCI-Technologien?
+19. Plant die Bundesregierung eine ressortübergreifende Strategie, die
+industrielle Innovationskraft in der Sensorik mit einem robusten Schutz der 
+Bürgerrechte und der nationalen Sicherheit verbindet?
+Die Fragen 18 und 19 werden im Zusammenhang beantwortet.
+Es wird auf die Vorbemerkung der Bundesregierung verwiesen.
+20. Welche interministeriellen Abstimmungsmechanismen existieren, um 
+sicherzustellen, dass die Forschungsförderung nicht die technologische 
+Souveränität Deutschlands untergräbt, indem sie Forschungsergebnisse 
+ohne hinreichende Verwertungssicherung an globale
+Technologiekonzerne abfließen lässt?
+Die Bundesregierung verweist auf die etablierten interministeriellen
+Abstimmungsprozesse und -mechanismen im Rahmen des Außenwirtschaftsrechts. 
+Dieses umfasst insbesondere die Instrumente der Investitionsprüfung und der 
+Exportkontrolle.
+21. Beabsichtigt die Bundesregierung, dem Deutschen Bundestag jährlich 
+einen Bericht über den Stand der Dual-Use-Forschung, die Einhaltung 
+ethischer Standards und den Schutz der Bevölkerung vor
+missbräuchlicher Nutzung hochminiaturisierter Technologien vorzulegen, um die
+parlamentarische Kontrolle zu gewährleisten, und wenn nein, aus welchen 
+Gründen sieht sie davon ab?
+Die Bundesregierung misst der parlamentarischen Kontrolle hohe Bedeutung 
+bei und trägt ihr im Rahmen der bestehenden parlamentarischen Informations- 
+und Kontrollinstrumente umfassend Rechnung. Hierzu zählen insbesondere das 
+parlamentarische Frage- und Informationsrecht sowie die Befassung in den
+zuständigen Ausschüssen.
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+Anlage 1 zu Frage 1 
+Einzelvorhaben mit einer Fördersumme unter 500T€ werden genannt, insofern das entsprechende Verbundvorhaben eine Gesamtfördersumme von über 500T€ aufweist. 
+ 
+Ressort Förderprogramm Zuwendungsempfänger Laufzeit 
+von 
+Laufzeit bis Fördersumme 
+(Euro) 
+Projektziel 
+Bundes
+ministe
+rium 
+für 
+Forschu
+ng, 
+Techno
+logie 
+und 
+Raumfa
+hrt 
+(BMFT
+R) 
+Initiativprojekt: AI.D  Technische Universität München 01.07.2022 31.12.2026 3.608.719   Das Projekt AI.D zielt darauf ab, neurologisch und 
+neuromuskulär geschädigten Patienten durch eine neue 
+Generation von auf menschlichen Modellen basierenden und 
+lernfähigen Neuro-Maschinen, die nach den Grundsätzen der 
+menschlichen Neuromechanik und motorischen Kontrolle 
+entwickelt und gesteuert werden, mit Hilfe einer Gehirn-
+Maschine-Schnittstelle (BMI) ihre ADL (Aktivitäten des 
+täglichen Lebens)-Funktionen wieder zurückzugeben. Um 
+dieses ehrgeizige Ziel zu erreichen, wird sich der strategische 
+Ansatz auf drei Säulen stützen: I. Gehirn-Maschine-
+Schnittstelle: Menschliche, modellgestützte kausale 
+Signalverarbeitung II. Human-informierte KI/
+Menschenbasierte KI: Intelligente Steuerungs- und Lernalgorithmen III. 
+Klinische Studien: Von der Technologievalidierung zur 
+klinischen Validierung Die folgenden Systeme und Szenarien 
+beschreiben die konkret erwarteten Ergebnisse und 
+angestrebten Resultate. Neuro-Maschine I: KI-basierte 
+Neuroprothesen für die oberen Extremitäten Zielszenario 1: 
+Patienten mit Oberarmamputation tragen eine intelligente 
+Prothese und verrichten alltägliche Aufgaben durch 
+koordinierte, natürliche Bewegungen. Die entwickelte Prothese 
+ist teilautonom. Neuro-Maschine II: KI-basierte Neuro-
+Assistenten Zielszenario 2: Ein tetraplegischer Patient steuert 
+über ein neuronales Hirnimplantat einen Roboterhandarm, um 
+seine Unabhängigkeit bei ADLs zu verbessern, z. B. beim 
+Greifen von Gegenständen, beim Füttern oder beim Trinken 
+und Abstellen eines Trinkbechers. Der entwickelte 
+hirngesteuerte Roboterassistent ist teilautonom. Neuro-
+Maschine III: KI-basierte Neurorehabilitationssysteme 
+Zielszenario 3: Einem schwer betroffenen 
+Schlaganfallpatienten hilft ein Assistenzsystem bei der 
+Frühmobilisierung seiner unteren Extremitäten. Das System 
+bietet ein angemessenes Maß an Unterstützung, um die 
+Sicherheit des Patienten zu gewährleisten und gleichzeitig das 
+Engagement des Patienten zu optimieren. 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+BMFTR Initiativprojekt: AI.D  Klinikum der Technischen 
+Universität München (TUM 
+Klinikum) 
+01.07.2022 31.12.2026 887.540   Das Verbundprojekt AI.D zielt darauf ab, die Aktivitäten des 
+täglichen Lebens für neurologisch und neuromuskulär 
+beeinträchtigte Patienten durch eine neue Generation von 
+modellbasierten lernfähigen Neuromaschinen 
+wiederherzustellen, die nach den Prinzipien der menschlichen 
+Neuromechanik und Motorsteuerung entworfen und gesteuert 
+werden. Das AI.D-Konsortium arbeitet bei der Entwicklung 
+dieser sog. Brain-Machine-Interfaces (BMI) in drei 
+wesentlichen Bereichen. Erstens, modellbasierte kausale 
+Signalverarbeitung; zweitens, auf Künstlicher Intelligenz (KI) 
+basierenden Steuerungs- und Lernalgorithmen. Drittens, 
+Validierung der entwickelten Technologien in klinischen 
+Studien. Das vorliegende Projekt ist primär Teil der ersten und 
+3 Säule, in der wir zum Ziel haben, aktuell vorhandene Lücken 
+in der BMI-Technologie zu schließen und die Interaktion bis 
+hin zu klinischen Studien voranzutreiben. Zum einen wird die 
+Neuroplastizität bei den jeweiligen Patienten untersucht und 
+die in dem Gesamtprojekt vorangetriebene technische 
+Entwicklung in die Klinik überführt. Wir erhoffen uns davon 
+nicht nur ein tieferes Verständnis der 
+Neurorehabilitationsmechanismen, die während der 
+Verwendung verschiedener Neuromaschinen zum Tragen 
+kommen können, sondern auch die Entwicklung des Projektes 
+hin zu einem echten klinischen Nutzen für neurologisch und 
+neuromuskulär beeinträchtigte Patienten. 
+BMFTR Initiativprojekt: AI.D  Klinikum der Technischen 
+Universität München (TUM 
+Klinikum) 
+01.07.2022 31.12.2026 490.043   Das Verbundprojekt AI.D zielt darauf ab, die Aktivitäten des 
+täglichen Lebens für neurologisch und neuromuskulär 
+beeinträchtigte Patienten durch eine neue Generation von 
+modellbasierten lernfähigen Neuromaschinen 
+wiederherzustellen, die nach den Prinzipien der menschlichen 
+Neuromechanik und Motorsteuerung entworfen und gesteuert 
+werden. Das AI.D-Konsortium arbeitet bei der Entwicklung 
+dieser sog. Brain-Machine-Interfaces (BMI) in drei 
+wesentlichen Bereichen. Erstens, modellbasierte kausale 
+Signalverarbeitung; zweitens, auf Künstlicher Intelligenz (KI) 
+basierenden Steuerungs- und Lernalgorithmen. Drittens, 
+Validierung der entwickelten Technologien in klinischen 
+Studien. Das vorliegende Projekt ist Teil der ersten Säule, in der 
+wir zum Ziel haben, aktuell vorhandene Lücken in der BMI-
+Technologie zu schließen. Anstatt die implantierten 
+neuronalen Sensoren weiter zu verbessern, konzentrieren wir 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+uns auf die Entwicklung und Optimierung der 
+Datenverarbeitungskette, welche die Sensoren mit dem 
+technischen Assistenzsystem verbindet. Dies umfasst die 
+Aufzeichnung neuronaler Signale mit automatischer Auswahl 
+der am besten für das BMI geeigneten Kanäle, die 
+Signalübertragung, die Vorverarbeitung, die Kalibrierung und 
+schließlich die Dekodierung. Dieses Projekt leistet 
+Grundlagenarbeit für andere Projekte im Verbund, in denen 
+aus diesen neuronalen und neuromuskulären Steuersignalen 
+die von den Patienten beabsichtigten Bewegungsmuster 
+extrahiert werden. Darüber hinaus werden wir 
+Konnektivitätsprofile aus den gesammelten neuronalen Daten 
+vor und nach Training mit den robotischen Assistenzsystemen 
+ableiten, um Unterschiede zwischen gesunden Probanden und 
+neurologischen Patienten beim Ausführen motorischer 
+Aufgaben oder auch nur bei Vorstellung derselben zu 
+identifizieren. Wir erhoffen uns davon ein tieferes Verständnis 
+der Neurorehabilitationsmechanismen, die während der 
+Verwendung verschiedener Neuromaschinen zum Tragen 
+kommen können. 
+BMFTR BKM KDT Call 
+2/2022: NerveRepack  
+Fraunhofer-Gesellschaft zur 
+Förderung der angewandten 
+Forschung eingetragener Verein 
+15.07.2023 31.05.2027 371.114   Das Hauptziel des Projektes ist die Entwicklung einer neuen 
+Generation bidirektionaler implantierbarer Elektroden, die das 
+menschliche Nervensystem mit externen mechatronischen 
+Hilfsmitteln wie Exoskeletten und Exo-Prothesen verbinden, 
+und somit Menschen mit Armamputationen oder 
+Beinlähmungen helfen, ihre motorischen und sensorischen 
+Funktionen wiederzuerlangen. Das NerveRepack-Projekt soll 
+drei Demonstratoren für die bidirektionale Kommunikation 
+zwischen der technologischen Schnittstelle und dem 
+menschlichen Nervensystem hervorbringen: 1. Eine 
+Exoprothese für Amputationen der oberen Gliedmaßen, die in 
+einer klinischen Studie mit einem Patienten getestet und 
+validiert werden; 2. Ein zweibeiniges Exoskelett, das unter 
+Laborbedingungen getestet werden soll; 3. Ein einbeiniges 
+Exoskelett, das unter Laborbedingungen getestet werden soll; 4. 
+Das IZM wird sich in erster Linie mit der Etablierung der 
+konformen Dünnschicht-Verkapselungstechnologie zur 
+Beschichtung von implantierbaren Systemen und 
+Einzelkomponenten befassen und dabei die für langlebige 
+Implantate erforderlichen Haftungs- und 
+Wasserbarriereeigenschaften nachweisen. 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+BMFTR BKM KDT Call 
+2/2022: NerveRepack  
+Chemnitzer Werkstoffmechanik 
+GmbH 
+15.07.2023 31.05.2027 131.663   Im Projekt NerveRepack werden elektronische Komponenten 
+und Systeme (ECS) zur bidirektionalen Verbindung des 
+menschlichen Nervensystems mit einer neuen Generation von 
+Exoprothesen und Exoskeletten für Menschen mit amputierten 
+oder gelähmten Gliedmaßen entwickelt. Die CWM wird sich im 
+Rahmen des Teilvorhabens mit der Zuverlässigkeitsanalyse 
+und -sicherung an implantierbaren Elektronikkomponenten 
+mittels Bildkorrelation in optischen 2D- und 
+computertomografischen 3D-Bildern befassen. Hierbei wird 
+die CWM insbesondere Fragen der Zuverlässigkeit, Robustheit, 
+Lebensdauersicherung und Verfügbarkeit der 
+projektspezifischen Systeme thematisieren, welche sich aus 
+den besonderen Anforderungen an die Elektronik im 
+Anwendungsfall ergeben. Implantierbare Elektronik ist durch 
+den engen Kontakt zu feuchten und korrosiven Medien und 
+die Notwendigkeit des direkten Kontakts zu körpereigenem 
+Gewebe besonderen Beanspruchungen ausgesetzt, die ihre 
+Lebensdauer und ihren störungsfreien Betrieb beeinträchtigen 
+können. Insbesondere eingebrachte Elektroden zur Ableitung 
+neuraler Potentiale haben derzeit eine noch sehr geringe 
+zulässige Verweildauer im Körper. Andererseits ist der 
+potentielle Patient auf eine zuverlässige und verlässliche 
+Funktion seiner Hilfsmittel angewiesen, so dass sowohl 
+mögliche Ausfälle als auch häufig notwendige Operationen 
+vermieden werden müssen. CWM wird in NerveRepack diese 
+Themenbereiche adressieren und mit Hilfe ihrer 
+eigenentwickelten Technologien der Deformationsanalyse an 
+digitalen 2D- und 3D-(Volumen)Bildern Methoden und 
+experimentelle messtechnische Versuchsträgeraufbauten 
+erforschen, die unter Berücksichtigung der völlig neuen 
+Anforderungen aus dem humanmedizinischen Bereich 
+(biologische Feuchtumgebung, Temperaturgradienten
+außeninnen, mechanische Beanspruchungen durch Kräfte in der 
+Prothetik) zur Untersuchung der Zuverlässigkeitseigenschaften 
+der in NerveRepack erforschten implantierbaren Systeme und 
+deren elektronischen Aufbauten geeignet sind. 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+BMFTR BKM KDT Call 
+2/2022: NerveRepack  
+Acquandas GmbH 01.01.2024 31.05.2027 254.199   Das Hauptziel des Projektes ist die Entwicklung einer neuen 
+Generation bidirektionaler implantierbarer Elektroden, die das 
+menschliche Nervensystem mit externen mechatronischen 
+Hilfsmitteln wie Exoskeletten und Exoprothesen verbinden. 
+Menschen die von Armamputationen oder einer Beinlähmung 
+betroffen sind erhalten darüber ihre motorischen und 
+sensorischen Funktionen zurück. Teilziel der ACQUANDAS ist 
+die Auslegung, der Aufbau, die Herstellung und die 
+Erforschung einer neuen weichen Cuff-Elektroden-Plattform, 
+zur Ankopplung an motorische Nervenfasern. Zusätzlich ein 
+gas-/flüssigkeitsdicht-gekapselter, hoch-integrierter starrer & 
+flexibler Mikroelektronik-Träger/Packaging für Mikro-
+Elektronikbausteine. Dabei soll mittels neuen additiven 
+Dünnschicht-Fertigungsverfahren und -technologien 
+möglichst modulare Mikro-Komponenten zum Aufbau aktiver 
+medizinische Langzeit-Implantate realisiert werden. Diese 
+aktiven Mikro-Komponenten bilden die Schnittstelle zwischen 
+menschlichem Körper und der Neuroprothesen. Elektronik- 
+und Elektroden-Komponenten des aktiven Implantates 
+müssen hermetisch dicht, langzeitstabil, biokompatibel, 
+miniaturisiert und sicher die elektrischen und mechanischen 
+Funktionen der Ankopplung an den Nerven ermöglichen. Die 
+Innovation im Teilvorhaben liegt insbesondere in der 
+Konzipierung, Auslegung und Fertigung miniaturisierter, 
+modularer Mikro-Komponenten für hoch-integrierte 
+Mikroelektronikbausteine (als Chip-Träger) und der 
+eigentlichen weichen Cuff-Elektroden-Struktur zur Kopplung 
+mit den motorischen Nervenfasern mit additiven 
+Mikrotechnologien. Diese Plattform soll zusätzlich über zwei 
+technische Verkapselungs-Routen realisiert werden: 1. In 
+Kooperation mit dem Partner Fraunhofer IZM wird eine 
+hermetische soft-flexible Nano-Verkapselung umgesetzt und 
+über 2. Eine klassische harte Mikro-Einhausung ("Deckel & 
+Träger" Wafer/Die-Level) sollen die Elektronikkomponenten 
+genauso hermetisch einzuhausen sein. 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+BMFTR BKM OCTOPUS: 
+MEDGE  
+Infineon Technologies AG 01.11.2022 31.01.2026 379.846   Mit dem Projekt M/EDGE soll eine Elektronik-Plattform für 
+hochintegrierte medizinische Edge-Intelligenz entwickelt und 
+auf einem gemeinsamen technologischen Kern prototypisch 
+umgesetzt werden. Damit soll ein Beitrag zur digitalen 
+Transformation von besonders kleinen und mobilen 
+Medizinprodukten geschaffen werden, bestehend aus 
+künstlicher Intelligenz für die Personalisierung und für das 
+föderierte Lernen, z.B. in einem Implantat, aber auch für 
+drahtlose Sensorik. Für die technologischen Anforderungen 
+sollen mit M/EDGE Lösungen u.a. für höhere Energieeffizienz, 
+verbesserte Betriebssicherheit, erhöhte IT-Sicherheit und 
+vereinfachte Zulassung entwickelt werden. Bestehende 
+Regulierungen, wie MDR2, DSGV und IT-SiG-1/-2 sollen als 
+Leitplanken dienen. An drei Praxisbeispielen sollen 
+Hochintegrationen, wie System on Chip, aber auch KI-
+assistierte Wissenssysteme implementiert und demonstriert 
+werden, wie auch eine sichere und intelligente Cloud 
+Anbindung. Durch das Konsortium soll komplementäres 
+Wissen zu Medizinprodukten, zu Edge-Computing, zu KI-
+Algorithmen, zu Mikro-/Nanoelektronik, zu Energie- und 
+Datenmanagement, zu Cyber- und Betriebssicherheit, aber 
+auch zu gesetzlich vorgeschriebenen Zulassungsverfahren 
+zusammengetragen werden. Vitalkritische Medizinprodukte 
+sollen besonders berücksichtigt werden. Medizintechnische 
+Innovationsführer, High-Tech Partner der Mikro-
+/Nanoelektronik und bedeutende Forschungseinrichtungen 
+sollen im Konsortium die wissenschaftlichen als auch die 
+kommerziellen Herausforderungen erfolgreich lösen und 
+damit deutsche Anbieter von Medizinprodukten im 
+internationalen Markt stärken. 
+BMFTR BKM OCTOPUS: 
+MEDGE  
+exelonix GmbH 01.11.2022 31.01.2026 430.152   Mit dem Projekt M/EDGE soll eine Elektronik-Plattform für 
+hochintegrierte medizinische Edge-Intelligenz entwickelt und 
+auf einem gemeinsamen technologischen Kern prototypisch 
+umgesetzt wer-den. Damit soll ein Beitrag zur digitale 
+Transformation von besonders kleinen und mobilen
+Medizinprodukten geschaffen werden, bestehend aus künstlicher 
+Intelligenz für die Personalisierung und für das föderierte 
+Lernen, z.B. in einem Implantat, aber auch für drahtlose 
+Sensorik. Für die technologi-schen Anforderungen sollen mit 
+M/EDGE Lösungen u.a. für höhere Energieeffizienz, verbesserte 
+Betriebssicherheit, erhöhte IT-Sicherheit und vereinfachte 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+Zulassung entwickelt werden. Bestehende Regulierungen, wie 
+MDR2, DSGV und IT-SiG-1/-2 sollen als Leitplanken dienen. 
+An drei Praxisbeispie-len sollen Hochintegrationen, wie 
+System on Chip, aber auch KI-assistierte Wissenssysteme 
+imple-mentiert und demonstriert werden, wie auch eine 
+sichere und intelligente Cloud Anbindung. Durch das 
+Konsortium soll komplementäres Wissen zu 
+Medizinprodukten, zu Edge-Computing, zu KI-Algorithmen, zu 
+Mikro-/Nanoelektronik, zu Energie- und Datenmanagement, 
+zu Cyber- und Betriebssi-cherheit, aber auch zu gesetzlich 
+vorgeschriebene Zulassungsverfahren zusammengetragen 
+werden. Vitalkritische Medizinprodukte sollen besonders 
+berücksichtigt werden. Medizintechnische Innovati-onsführer, 
+High-Tech Partner der Mikro-/Nanoelektronik und 
+bedeutende Forschungseinrichtungen sollen im Konsortium 
+die wissenschaftlichen als auch die kommerziellen 
+Herausforderungen erfolg-reich lösen und damit deutsche 
+Anbieter von Medizinprodukten im internationalen Markt 
+stärken. 
+BMFTR BKM OCTOPUS: 
+MEDGE  
+Ovesco Endoscopy AG 01.11.2022 31.01.2026 460.662   Die digitale Transformation von Medizinprodukten zu
+Cloudvernetzten cybermedizinischen Systemen bietet durch 
+Künstliche Intelligenz (KI), Personalisierung und föderiertes 
+Lernen revolutionäre Chancen. Für wichtige medizinische 
+Anwendungen wie die Kapselendoskopie ist eine traditionelle 
+Cloud-Anbindung jedoch ungeeignet: eine breitbandige und 
+unterbrechungsfreie Netzwerkanbindung ist nicht realisierbar, 
+weshalb die Echtzeitanwendung von KI bisher nicht realisiert 
+ist. Die Lösung dafür ist die Integration von Intelligenz in das 
+Kapselendoskop. Durch die Nutzbarmachung von KI-
+Funktionen in Echtzeit für ein Kapselendoskop, lässt sich das 
+Verhalten des Geräts auf neue Art steuern, sodass 
+Energieeffizienz, diagnostische Qualität und Patientenkomfort 
+deutlich profitieren. Im Teilprojekt "Versuchsträger 
+Kapselendoskopie" wird eine Anwendung für Edge-Computing 
+für die Kapselendoskopie geschaffen und verifiziert. Ovesco hat 
+hier alle notwendigen Kompetenzen im Bereich 
+Kapselintegration, medizinische Anwendungen und Zulassung 
+von Medizinprodukten und kann auf ein gutes klinisches 
+Netzwerk zurückgreifen, um eine anwendungsnahe 
+Umsetzung zu beeinflussen. 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+BMFTR BKM OCTOPUS: 
+MEDGE  
+Barkhausen Institut gGmbH 01.11.2022 31.01.2026 1.142.793   Mit dem Projekt MEDGE soll eine Elektronik-Plattform für 
+hochintegrierte medizinische Edge-Intelligenz entwickelt und 
+auf einem gemeinsamen technologischen Kern prototypisch 
+umgesetzt werden. Damit soll ein Beitrag zur digitale 
+Transformation von besonders kleinen und mobilen 
+Medizinprodukten geschaffen werden, bestehend aus 
+künstlicher Intelligenz für die Personalisierung und für das 
+föderierte Lernen, z.B. in einem Implantat, aber auch für 
+drahtlose Sensorik. Für die technologischen Anforderungen 
+sollen mit MEDGE Lösungen u.a. für höhere Energieeffizienz, 
+verbesserte Betriebssicherheit, erhöhte IT-Sicherheit und 
+vereinfachte Zulassung entwickelt werden. Bestehende 
+Regulierungen, wie MDR2, DSGV und IT-SiG-1/-2 sollen als 
+Leitplanken dienen. An drei Praxisbeispielen sollen 
+Hochintegrationen, wie System on Chip, aber auch KI-
+assistierte Wissenssysteme implementiert und demonstriert 
+werden, wie auch eine sichere und intelligente Cloud 
+Anbindung. Durch das Konsortium soll komplementäres 
+Wissen zu Medizinprodukten, zu Edge-Computing, zu KI-
+Algorithmen, zu Mikro-/Nanoelektronik, zu Energie- und 
+Datenmanagement, zu Cyber- und Betriebssicherheit, aber 
+auch zu gesetzlich vorgeschriebene Zulassungsverfahren 
+zusammengetragen werden. Vitalkritische Medizinprodukte 
+sollen besonders berücksichtigt werden. Medizintechnische 
+Innovationsführer, High-Tech Partner der Mikro-
+/Nanoelektronik und bedeutende Forschungseinrichtungen 
+sollen im Konsortium die wissenschaftlichen als auch die 
+kommerziellen Herausforderungen erfolgreich lösen und 
+damit deutsche Anbieter von Medizinprodukten im 
+internationalen Markt stärken. Das BI beschäftigt sich in 
+seinem Teilvorhaben mit der Erforschung, Entwicklung und 
+Implementierung einer vertrauenswürdigen modularen 
+Hardware-Sicherheitsarchitektur für die im MEDGE 
+definierten medizinischen Anwendungen. 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+BMFTR BKM OCTOPUS: 
+MEDGE  
+Technische Universität Dresden 01.11.2022 31.01.2026 666.540   Mit dem Projekt M/EDGE soll eine Elektronik-Plattform für 
+hochintegrierte medizinische Edge-Intelligenz entwickelt und 
+auf einem gemeinsamen technologischen Kern prototypisch 
+umgesetzt wer-den. Damit soll ein Beitrag zur digitale 
+Transformation von besonders kleinen und mobilen 
+Medizinprodukten geschaffen werden, bestehend aus 
+künstlicher Intelligenz für die Personalisierung und für das 
+föderierte Lernen, z.B. in einem Implantat, aber auch für 
+drahtlose Sensorik. Für die technologischen Anforderungen 
+sollen mit M/EDGE Lösungen u.a. für höhere Energieeffizienz, 
+verbesserte Betriebssicherheit, erhöhte IT-Sicherheit und 
+vereinfachte Zulassung entwickelt werden. Bestehende 
+Regulierungen, wie MDR2, DSGV und IT-SiG-1/-2 sollen als 
+Leitplanken dienen. An drei Praxisbeispielen sollen 
+Hochintegrationen, wie System on Chip, aber auch KI-
+assistierte Wissenssysteme implementiert und demonstriert 
+werden, wie auch eine sichere und intelligente Cloud 
+Anbindung. Durch das Konsortium soll komplementäres 
+Wissen zu Medizinprodukten, zu Edge-Computing, zu KI-
+Algorithmen, zu Mikro-/Nanoelektronik, zu Energie- und 
+Datenmanagement, zu Cyber- und Betriebssicherheit, aber 
+auch zu gesetzlich vorgeschriebene Zulassungsverfahren 
+zusammengetragen werden. Vitalkritische Medizinprodukte 
+sollen besonders berücksichtigt werden. Medizintechnische 
+Innovationsführer, High-Tech Partner der Mikro-
+/Nanoelektronik und bedeutende Forschungseinrichtungen 
+sollen im Konsortium die wissenschaftlichen als auch die 
+kommerziellen Herausforderungen erfolgreich lösen und 
+damit deutsche Anbieter von Medizinprodukten im 
+internationalen Markt stärken. 
+BMFTR BKM OCTOPUS: 
+MEDGE  
+Technische Universität Dresden 01.11.2022 31.01.2026 269.874   Das ICCL (TUD) übernimmt im Projektverbund die Aspekte der 
+Grundlagenforschung auf den Gebieten der logikbasierten 
+Wissensrepräsentation sowie erklärbaren künstlichen 
+Intelligenz. Zentrale Beiträge umfassen die Entwicklung von 
+logikbasierten formalen Sprachen zur Repräsentation 
+modularer Assurance-Cases sowie Techniken zur semantischen 
+Analyse solcher Repräsentationen (z.B. Prüfung der 
+Korrektheit, Vollständigkeit, Anwendbarkeit). Dabei werden 
+die digitalen Assurance-Cases aus dem Forschungsprojekt "KI-
+assistierte Zertifizierung medizinischer Software"(KIMEDS) 
+weiterentwickelt, um deren Wiederverwendbarkeit entlang 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+modularer Systemarchitekturen zu erho¨hen. Die Beiträge 
+werden nach umfangreichen Anforderungsanalysen und im 
+intensiven Austausch mit dem EKFZ und den 
+Anwendungspartnern erzielt. Unter anderem beinhaltet dies 
+die Unterstützung der Projektpartner bei der Formalisierung 
+sowohl des projektspezifischen Domänenwissens als auch der 
+modularen Systemarchitektur. 
+BMFTR BKM OCTOPUS: 
+MEDGE  
+Eberhard Karls Universität 
+Tübingen 
+01.11.2022 31.01.2026 753.942   Mit dem Projekt M/EDGE soll eine Elektronik-Plattform für 
+hochintegrierte medizinische Edge-Intelligenz entwickelt und 
+auf einem gemeinsamen technologischen Kern prototypisch 
+umgesetzt wer-den. Damit soll ein Beitrag zur digitale 
+Transformation von besonders kleinen und mobilen 
+Medizinprodukten geschaffen werden, bestehend aus 
+künstlicher Intelligenz für die Personalisierung und für das 
+föderierte Lernen, z.B. in einem Implantat, aber auch für 
+drahtlose Sensorik. Für die technologischen Anforderungen 
+sollen mit M/EDGE Lösungen u.a. für höhere Energieeffizienz, 
+verbesserte Betriebssicherheit, erhöhte IT-Sicherheit und 
+vereinfachte Zulassung entwickelt werden. Bestehende 
+Regulierungen, wie MDR2, DSGV und IT-SiG-1/-2 sollen als 
+Leitplanken dienen. An drei Praxisbeispielen sollen 
+Hochintegrationen, wie System on Chip, aber auch KI-
+assistierte Wissenssysteme imple-mentiert und demonstriert 
+werden, wie auch eine sichere und intelligente Cloud 
+Anbindung. Durch das Konsortium soll komplementäres 
+Wissen zu Medizinprodukten, zu Edge-Computing, zu KI-
+Algorithmen, zu Mikro-/Nanoelektronik, zu Energie- und 
+Datenmanagement, zu Cyber- und Betriebssi-cherheit, aber 
+auch zu gesetzlich vorgeschriebene Zulassungsverfahren 
+zusammengetragen werden. Vitalkritische Medizinprodukte 
+sollen besonders berücksichtigt werden. Medizintechnische 
+Innovati-onsführer, High-Tech Partner der Mikro-
+/Nanoelektronik und bedeutende Forschungseinrichtungen 
+sollen im Konsortium die wissenschaftlichen als auch die 
+kommerziellen Herausforderungen erfolgreich lösen und 
+damit deutsche Anbieter von Medizinprodukten im 
+internationalen Markt stärken. 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+BMFTR BKM OCTOPUS: 
+MEDGE  
+Technische Universität Dresden 01.11.2022 31.01.2026 360.168   Mit dem Projekt EDGE soll eine Elektronik-Plattform für 
+hochintegrierte medizinische Edge-Intelligenz entwickelt und 
+auf einem gemeinsamen technologischen Kern prototypisch 
+umgesetzt werden. Damit soll ein Beitrag zur digitalen 
+Transformation von besonders kleinen und mobilen 
+Medizinprodukten geschaffen werden, bestehend aus 
+künstlicher Intelligenz für die Personalisierung und für das 
+föderierte Lernen, z.B. in einem Implantat, aber auch für 
+drahtlose Sensorik. Für die technologischen Anforderungen 
+sollen mit MEDGE Lösungen u.a. für höhere Energieeffizienz, 
+verbesserte Betriebssicherheit, erhöhte IT-Sicherheit und 
+vereinfachte Zulassung entwickelt werden. Bestehende 
+Regulierungen, wie MDR2, DSGV und IT-SiG-1/-2 sollen als 
+Leitplanken dienen. An drei Praxisbeispielen sollen 
+Hochintegrationen, wie System on Chip, aber auch KI-
+assistierte Wissenssysteme implementiert und demonstriert 
+werden, wie auch eine sichere und intelligente Cloud-
+Anbindung. Durch das Konsortium soll komplementäres 
+Wissen zu Medizinprodukten, zu Edge-Computing, zu KI-
+Algorithmen, zu Mikro-/Nanoelektronik, zu Energie- und 
+Datenmanagement, zu Cyber- und Betriebssicherheit, aber 
+auch zu gesetzlich vorgeschriebenen Zulassungsverfahren 
+zusammengetragen werden. Vitalkritische Medizinprodukte 
+sollen besonders berücksichtigt werden. Medizintechnische 
+Innovationsführer, High-Tech-Partner der Mikro-
+/Nanoelektronik und bedeutende Forschungseinrichtungen 
+sollen im Konsortium die wissenschaftlichen und die 
+kommerziellen Herausforderungen erfolgreich lösen und 
+damit deutsche Anbieter von Medizinprodukten im 
+internationalen Markt stärken. Im Teilvorhaben werden 
+hinsichtlich medizintechnischer Umsetzung die 
+Anforderungen eines Ultraschalllaborsystems ermittelt, das 
+neuartige MEMS-Technologiekombinationen mit 
+fortschrittlicher Signalverarbeitung vereint. Gemäß dem 
+MEDGE-Konzept wird ein Ultraschallsystem in Edge-
+Architektur entwickelt, das mit der MEDGE-Plattform zu 
+einem Table-Top-Demonstrator integriert wird. 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+BMFTR BKM OCTOPUS: 
+MEDGE  
+Charité - Universitätsmedizin 
+Berlin 
+01.11.2022 31.01.2026 275.634   Mit dem Projekt M/EDGE soll eine Elektronik-Plattform für 
+hochintegrierte medizinische Edge-Intelligenz entwickelt und 
+auf einem gemeinsamen technologischen Kern prototypisch 
+umgesetzt wer-den. Damit soll ein Beitrag zur digitalen 
+Transformation von besonders kleinen und mobilen
+Medizinprodukten geschaffen werden, bestehend aus künstlicher 
+Intelligenz für die Personalisierung und für das föderierte 
+Lernen, z.B. in einem Implantat, aber auch für drahtlose 
+Sensorik. Für die technologi-schen Anforderungen sollen mit 
+M/EDGE Lösungen u.a. für höhere Energieeffizienz, verbesserte 
+Betriebssicherheit, erhöhte IT-Sicherheit und vereinfachte 
+Zulassung entwickelt werden. Bestehende Regulierungen, wie 
+MDR2, DSGV und IT-SiG-1/-2 sollen als Leitplanken dienen. 
+An drei Praxisbeispie-len sollen Hochintegrationen, wie 
+System on Chip, aber auch KI-assistierte Wissenssysteme 
+imple-mentiert und demonstriert werden, wie auch eine 
+sichere und intelligente Cloud Anbindung. Durch das 
+Konsortium soll komplementäres Wissen zu 
+Medizinprodukten, zu Edge-Computing, zu KI-Algorithmen, zu 
+Mikro-/Nanoelektronik, zu Energie- und Datenmanagement, 
+zu Cyber- und Betriebssi-cherheit, aber auch zu gesetzlich 
+vorgeschriebene Zulassungsverfahren zusammengetragen 
+werden. Vitalkritische Medizinprodukte sollen besonders 
+berücksichtigt werden. Medizintechnische Innovati-onsführer, 
+High-Tech Partner der Mikro-/Nanoelektronik und 
+bedeutende Forschungseinrichtungen sollen im Konsortium 
+die wissenschaftlichen als auch die kommerziellen 
+Herausforderungen erfolg-reich lösen und damit deutsche 
+Anbieter von Medizinprodukten im internationalen Markt 
+stärken. 
+BMFTR BKM OCTOPUS: 
+MEDGE  
+PRECISIS GmbH 01.12.2022 31.01.2026 718.419   Im Rahmen des Gesamtvorhabens wird Precisis einen 
+Versuchsträger für Neurostimulationsimplantate realisieren. 
+Hierbei werden drei Use-Cases mit Relevanz zur Realisierung 
+im Implantat für die Therapie von Epilepsie berücksichtigt 
+werden. Auf Basis dieser Use-Cases werden auf der einen Seite 
+Anforderungen und Spezifikationen aus technischer und 
+regulatorischer Sicht an eine sichere und energieeffiziente Edge 
+Computing Plattform erarbeitet und dokumentiert. Diese 
+werden in eine Generalisierung von Anforderungen an eine 
+M/Edge Computing Plattform einfließen. Auf der anderen 
+Seite wird der Prototyp (Eval-Board), der im Rahmen des 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+Projektes entwickelt wird, zur Evaluation der erarbeitenden 
+Konzepte auf Basis der Spezifikation verwendet werden. 
+Folgende relevante Use-Cases werden hierbei berücksichtigt: 1. 
+ein KI basierte closed-loop Lösungen (edge computing) zur 
+Realisierung einer Anfalls Erkennung-basierten gezielten 
+Stimulation; 2. die Edge basierte Verarbeitung im Implantat 
+von neurologischer Aktivität auf Basis von Biosignalen und die 
+Kommunikation (secure edge communication) mit dem 
+Patienten als ein Informations- und Warnsystem; 3. 
+Konzeption zur Kommunikation von Biosensor-Daten zwecks 
+Verbesserung und Individualisierung von KI-Algorithmen zur 
+Anfallserkennung aus dem Implantat sowie die sichere 
+Aktualisierung (Update) der Therapie-Konfiguration im 
+Implantat. 
+BMFTR BKM Smart Health: 
+MR-implant 
+CorTec GmbH 01.03.2018 31.12.2021 554.006   Neurologische und psychiatrische Erkrankungen verursachen 
+schon heute in den Industrienationen ca. ein Drittel aller 
+Gesundheitskosten. Neurotechnologische Innovationen bieten 
+hierbei die Möglichkeiten, dieser Entwicklung entgegen zu 
+steuern, indem sie – neben der klassischen pharmakologischen 
+Behandlung – neue Therapieformen für ein breites Spektrum 
+dieser Erkrankungen eröffnen. Die Magnetresonanztomografie 
+ist eines der wichtigsten diagnostischen Verfahren der 
+modernen Medizin und wird alleine in Deutschland 
+zehntausendfach pro Tag an Patienten durchgeführt. Die 
+Kompatibilität von passiven und aktiven Implantaten 
+(Prothesen, Herzschrittmacher, Clips, Stents usw.) bei MRT-
+Untersuchungen bezüglich Sicherheit ist daher essentiell, und 
+eine diagnostische Bildqualität in der Nähe der Implantate ist 
+wünschenswert. Moderne Neuroimplantate mit oftmals langen 
+Verbindungskabeln zwischen Elektronik und Sensoren sind 
+aber bis heute nicht MR-kompatibel, und nur wenige 
+Ausnahmen können unter sehr begrenzten Parametern ins 
+MRT eingebracht werden. Um diesem Problem moderner 
+Neurotechnologie und der MR-Bildgebung zu begegnen, 
+werden in diesem Projekt neue Elektronik-Lösungen 
+identifiziert, entwickelt und getestet, welche die MR -
+Kompatibilität aktiver Implantate verbessern können. Die 
+entwickelten Technologien lassen sich auf eine Vielzahl 
+moderner aktiver Implantate anwenden und werden 
+exemplarisch am Brain Interchange (BIC) Implantat der Firma 
+CorTec erarbeitet und umgesetzt. 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+BMFTR BKM Smart Health: 
+MR-implant 
+Universität Ulm 01.03.2018 31.12.2021 438.670   Primäres Ziel des Gesamtvorhabens ist es, Neuroimplantate 
+und MR-Bildgebung gegenseitig kompatibler zu machen, d.h. 
+die Artefaktbildung durch Neuroimplantate bei der MR 
+Bildgebung zu reduzieren, sowie funktionale Störung oder 
+unsicheren Betrieb der Neuroimplantate im MRT zu 
+vermeiden. Dafür werden in diesem Projekt neue Elektronik-
+Lösungen identifiziert, entwickelt und getestet, welche die MR 
+-Kompatibilität aktiver Implantate verbessern können. Im 
+Teilvorhaben Chip-integrierte Implantat-Elektronik wird dafür 
+sowohl neue Elektronik für das Power Management, neue 
+Elektronik für den Neuromodulator sowie neue Elektronik zur 
+Impedanzanpassung von Elektrodenzuleitungen entworfen. 
+BMFTR BKM Smart Health: 
+MR-implant 
+eesy-ic GmbH 01.03.2018 31.12.2021 642.703   Entwurf eines Mikrochips für eine Kommunikation mit hoher 
+Datenrate und geringer Verlustleistung. eesy-ic wird einen 
+gänzlich neuen Kommunikations-ASIC aufbauen. Die 
+drahtlose Übertragung von mehreren Mbits/s findet meist 
+Trägergebunden z.B. bei 2.4GHz oder im Impulsbetrieb bei 5-
+8GHz statt. Zum Erreichen der Frequenzen werden integrierte 
+Schaltungen üblicherweise auf 90-130nm oder sogar noch 
+weiter skalierten CMOS Prozessen entworfen, bei denen ein 
+Maskensatz mehrere 100T€ kostet. Kommerziell werden 
+deshalb eher die Massenmärkte anvisiert (insbesondere 
+Mobilfunk). eesy-ic plant, sich bei diesem Projekt auf die RF-
+Schaltung zu limitieren, um eine hohe Integrationsdichte zu 
+vermeiden. Dadurch kann ein schneller Silizium-Germanium-
+Prozess verwendet werden, der eine breitere Strukturgröße 
+haben darf (z.B. 350nm) und daher kostengünstiger als 
+hochdichte CMOS-Schaltungen zu realisieren ist. Mögliche 
+Prozesse wären S35 von AMS oder der 250nm SiGe Prozess 
+vom IHP. Wegen der wesentlich niedrigeren 
+Herstellungskosten kann die Schaltung speziell auf eine 
+Nahfeldkommunikation ausgelegt werden. Die Sendeleistung 
+kann dadurch gegenüber heutigen kommerziellen Lösungen 
+deutlich reduziert werden. Dadurch kann auch die 
+Verlustleistung der Sendeschaltung reduziert werden (Ziel: 
+<10mW). Dies wird insbesondere durch den favorisierten 
+Impulsbetrieb (UWB) des implantierten Datensenders erreicht, 
+der hohe Leistungseffizienz aufweist. Es werden 2 
+Generationen eines Mikrochips entworfen und entsprechende 
+Demonstratoren hergestellt. Ein weiterer Arbeitspunkt 
+betrachtet Design-for-Test und automatisierte RF-
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+Testlösungen für den ASIC. Damit sollen die Grundlagen für 
+einen späteren Produktionstest gelegt werden, der 
+kostengünstig ist und doch einen hohen Qualitätsstandard 
+realisiert. Des Weiteren wird eine miniaturisierte Antenne für 
+den WBAN Chipsatz entwickelt. 
+BMFTR BKM Smart Health: 
+MR-implant 
+Max-Planck-Gesellschaft zur 
+Förderung der Wissenschaften 
+e.V. 
+01.03.2018 31.12.2021 369.389   Erkrankungen des Gehirns verursachen in den 
+Industrienationen ca. ein Drittel aller Gesundheitskosten. 
+Neurotechnologische Innovationen bieten hierbei die 
+Möglichkeiten, dieser Entwicklung entgegen zu steuern, indem 
+sie neue Therapieformen für ein breites Spektrum dieser 
+Erkrankungen eröffnen. Die Magnetresonanztomografie (MRT) 
+ist eines der wichtigsten diagnostischen Verfahren und wird in 
+Deutschland zehntausendfach pro Tag an Patienten 
+durchgeführt. Die Kompatibilität von passiven und aktiven 
+Implantaten mit MRT-Untersuchungen ist daher essentiell, 
+und eine diagnostische Bildqualität in der Nähe der Implantate 
+ist wünschenswert. Moderne Neuroimplantate sind aber bis 
+heute nicht MR-kompatibel, und nur wenige Ausnahmen 
+können unter sehr begrenzten Parametern ins MRT 
+eingebracht werden. Um diesem Problem zu begegnen, werden 
+in diesem Projekt neue Elektronik-Lösungen identifiziert, 
+entwickelt und getestet, welche die MR-Kompatibilität aktiver 
+Implantate verbessern können. Die entwickelten Technologien 
+lassen sich auf eine Vielzahl moderner aktiver Implantate 
+anwenden und werden exemplarisch am Brain Interchange 
+(BIC) Implantat der Firma CorTec erarbeitet und umgesetzt. 
+BMFTR Prospektive 
+Projektförderung 
+DFKI: NEARBY 
+Deutsches Forschungszentrum 
+für Künstliche Intelligenz GmbH 
+01.12.2023 28.02.2027 1.529.168   NEARBY entwickelt KI-gestützte motorische und 
+sprachbasierte Brain-Computer-Interfaces, die trotz 
+Störsignalen und schwankender Gehirnaktivität zuverlässig im 
+Alltag funktionieren sollen. 
+BMFTR IKT2020: MAMOKO Friedrich-Alexander-Universität 
+Erlangen-Nürnberg, Technische 
+Universität München, Christian-
+01.11.2018 31.10.2022 3.241.123   Im Vorhaben "MAMOKO" soll die Eignung von molekularer 
+Kommunikation für makroskopische industrielle 
+Anwendungen untersucht werden. Zu diesem Zweck müssen 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+Albrechts-Universität zu Kiel, 
+Rheinland-Pfälzische Technische 
+Universität Kaiserslautern-
+Landau, Technische Universität 
+Berlin 
+die notwendigen kommunikations- und 
+informationstheoretischen Werkzeuge, eine leistungsfähige 
+Simulationsumgebung und flexible Testbeds und 
+Demonstratoren entwickelt werden. 
+BMFTR Forschungsprogram
+m 
+Kommunikationssys
+teme "Souverän. 
+Digital. Vernetzt.": 
+IoBNT 
+Technische Universität Berlin, 
+Friedrich-Alexander-Universität 
+Erlangen-Nürnberg, Technische 
+Universität München, Deutsches 
+Forschungszentrum für 
+Künstliche Intelligenz GmbH, 
+Universität zu Lübeck, Technische 
+Universität Darmstadt, 
+Technische Universität Dresden 
+01.01.2024 31.12.2026 4.466.136   Im Rahmen des IoBNT-Projekts wird ein 
+Kommunikationssystem erforscht und entwickelt, welches u. a. 
+für individualisierte Medizinanwendungen relevant ist. Das 
+IoBNT ist dabei auf die Überwachung und Steuerung von 
+biologischen Prozessen im menschlichen Körper 
+zugeschnitten. Das Projekt umfasst folglich auch die 
+Erforschung möglicher Interfaces zwischen biologischen und 
+digitalen Systemen, sogenannten Bio-Cyber Interfaces. Das 
+methodische Spektrum des Gesamtprojekts über alle 
+Projektpartner beinhaltet theoretische Modellierung, 
+informationstheoretische Analysen, Simulationen sowie
+Proofof-Concept-Experimente von integrierten IoBNT-Systemen. 
+Die erwarteten Ergebnisse umfassen die 
+informationstheoretische Charakterisierung integrierter 
+Kommunikationskanäle im menschlichen Körper, Methoden 
+und Algorithmen für die Übertragung, Erfassung, Bestimmung 
+und Erkennung in molekularen Kommunikationssystemen 
+und Simulationswerkzeuge für integrierte IoBNT-Systeme.  
+BMFTR Interaktive 
+Technologien für 
+eine 
+geschlechtsspezifisch
+e Gesundheit (GeGe) 
+- ISES: Interaktives 
+Schlafmonitoringsys
+tem zur frühzeitigen 
+Erkennung 
+geschlechtsspezifisch
+er Schlafstörungen 
+im Rahmen der 
+hausärztlichen 
+Vorsorgeuntersuchu
+ngen 
+- avisé labs GmbH 
+- Brain Products GmbH 
+- Carl von Ossietzky Universität 
+Oldenburg 
+- Fraunhofer IDMT 
+- Otto-von-Guericke-Universität 
+Magdeburg - Medizinische 
+Fakultät und 
+Universitätsklinikum 
+01.11.2025 31.10.2028 1.335.547   Das Verbundprojekt hat zum Ziel, ein interaktives 
+Schlafmonitoringsystem als Screening-Tool für die 
+hausärztliche Versorgung zu entwickeln und zu erproben, um 
+über objektive Sensordaten Erkenntnisse zu 
+geschlechtsspezifischen Aspekten bei Schlafstörungen zu 
+gewinnen und in die Diagnose einzubringen. 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+BMFTR START-interaktiv: 
+Interaktive 
+Technologien für 
+Gesundheit und 
+Lebensqualität - 
+InsomnAI: Mobile 
+hirnelektrische 
+Stimulation zur 
+Verbesserung der 
+Schlafqualität 
+- Institute of Affective Computing 
+e.V. 
+01.02.2025 31.01.2028 593.580   Das Einzelvorhaben hat sich zum Ziel gesetzt, ein System zur 
+Verbesserung der Schlafqualität basierend auf transkraniellen 
+elektrischen Hirnstimulationen (tDCS) zu entwickeln. Im 
+Zentrum stehen eine automatisierte EEG-basierte 
+Schlafstadienerkennung und eine auf Schlafstadien 
+synchronisierte tDCS-Stimulation. 
+BMFTR Mehr Therapieerfolg 
+durch innovative 
+medizintechnische 
+Lösungen für 
+Menschen mit
+Funktionseinschränkungen - 
+Verbundprojekt: 
+Brain-Computer-
+Interface gestützte 
+Greifrehabilitation 
+(MindMove) 
+- medica – Medizintechnik GmbH 
+- Ambulanticum GmbH, 
+Herdecke 
+- SNAP DISCOVERY AG 
+- Ruhr Universität Bochum 
+01.11.2025 31.10.2027 958.938   Projektziel ist ein innovatives, automatisiertes 
+Rehabilitationssystem für die Greiftherapie neurologischer 
+Patienten, das mittels Brain-Computer-Interfaces, Robotik 
+sowie AR- und vibrotaktilem Feedback neuronale 
+Bewegungsintentionen erfasst und maschinell mit der 
+Bewegungsausführung synchronisiert, um den Therapieerfolg 
+präzise zu steuern und zu evaluieren. 
+BMFTR START-interaktiv: 
+Interaktive 
+Technologien für 
+Gesundheit und 
+Lebensqualität - 
+NeuroVR-Plus: 
+Adaptives VR-
+Training & 
+transkranielle 
+Gehirnstimulation 
+zur Verbesserung der 
+Kognition älterer 
+Menschen 
+- VRalive UG 
+- Uniklinik Göttingen 
+01.04.2024 31.03.2027 749.246   Die im Projekt Forschenden entwickeln ein 
+Trainingsprogramm, das speziell darauf ausgerichtet ist, die 
+kognitive Leistungsfähigkeit älterer Menschen zu verbessern. 
+Dazu kombinieren sie die medizinischen Verfahren der 
+transkraniellen elektrischen Gehirnstimulation (tES) und der 
+Pupillometrie zur Messung von Pupillenveränderungen mit 
+VR-Technologie. 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+BMFTR Interaktive Systeme 
+in virtuellen und 
+realen Räumen – 
+Innovative 
+Technologien für die 
+digitale Gesellschaft 
+(VAR2) - UFO: 
+Einsatz 
+neUrophysiologische
+r Schnittstellen und 
+taktil unterstützter 
+virtueller Realität zur 
+Förderung von 
+beruflicher 
+InklusiOn 
+- Fraunhofer IAO 
+- Universität Stuttgart 
+- auticon GmbH 
+- NIRx Medizintechnik GmbH 
+- Sensovo GmbH 
+01.09.2021 28.02.2025 1.387.970   Das Ziel des Projekts bestand darin, berufliche Teilhabe bei 
+sozio-emotionalen Unterstützungsbedarfen zu sichern und 
+dazu gezielt Kompetenzen in der Wahrnehmung und 
+Interpretation emotionaler Befindlichkeiten aufzubauen. Im 
+Konsortium wurde ein neuartiges Trainingssystem entwickelt, 
+das Hirnsignale erfasst und abgeleitete emotionale Zustände in 
+spürbare Sinneswahrnehmungen umwandelt. 
+BMFTR Chronische 
+Schmerzen – 
+Innovative 
+medizintechnische 
+Lösungen zur 
+Verbesserung von 
+Prävention, 
+Diagnostik und 
+Therapie - 
+Verbundprojekt: 
+Kombination von 
+virtueller Realität 
+(VR) und Brain-
+Computer-Interface 
+(BCI) zur Therapie 
+chronischer 
+Schmerzen 
+(VirtualNoPain) 
+- VTplus GmbH 
+- Brain Products GmbH 
+- ZTM Bad Kissingen GmbH 
+- Julius-Maximilians-Universität 
+Würzburg 
+- Universitätsklinikum Würzburg 
+01.07.2020 31.12.2023 1.910.619   Ziel des Vorhabens ist ein kompaktes, für den klinischen und 
+häuslichen Einsatz geeignetes VR-System mit integriertem 
+Brain-Computer-Interface (EEG), das Patienten mit 
+chronischen Schmerzen durch gezieltes EEG-Neurofeedback 
+eine eigenverantwortliche, medikationsreduzierende 
+Schmerzlinderung ermöglicht. 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+BMFTR KMU-innovativ: 
+Interaktive 
+Technologien für 
+Gesundheit und 
+Lebensqualität - 
+Konfigurierbare 
+Elektronikplattform 
+zur individualiserten 
+Rehabilitation nach 
+Schlaganfall und 
+Querschnittslähmun
+g - SmartSense4Life 
+- Hamburg Applications MES UG 
+- Universitätsklinikum Hamburg-
+Eppendorf 
+- Fraunhofer IIS 
+- WearHealth UG  
+- MEDEL Medizinische Elektronik 
+Handelsgesellschaft mbH 
+- Ruprecht-Karls-Universität 
+Heidelberg 
+01.02.2020 31.07.2023 2.050.011   Ziel des Vorhabens ist der Aufbau einer konfigurierbaren 
+Multimess-Elektronikplattform zur vernetzten, mehrkanaligen 
+Bio- und Sensordatensignalerfassung und -auswertung sowie 
+deren Integration in ein rückgekoppeltes, selbstlernendes 
+(ClosedLoop) Elektrostimulationssystem. Dies soll der 
+Verbesserung von eingeschränkten motorischen Funktionen 
+dienen. 
+BMFTR START-interaktiv: 
+Interaktive 
+Technologien für 
+Gesundheit und 
+Lebensqualität - 
+Intelligenter
+emotionalempathischer 
+digitaler Assistent 
+mit EEG-
+Zeitreihenanalyse 
+zur Früherkennung 
+und 
+Verlaufskontrolle bei 
+Alzheimer-Demenz - 
+IASON 
+- Tokeya Deep Data Dive GmbH & 
+Co. KG 
+- Friedrich-Alexander-Universität 
+Erlangen-Nürnberg 
+01.07.2019 31.03.2023 654.241   Das Verbundvorhaben hat sich zum Ziel gesetzt, ein 
+Assistenzsystem zur besseren Früherkennung von Alzheimer-
+Demenz zu entwickeln. Dabei wird ein automatisierter, 
+neuropsychologischer Test (mit Schriftanalyse) kombiniert mit 
+der Auswertung der Alzheimer-typischen Merkmale im EEG 
+sowie einer KI-gestützten Sprachanalyse. 
+BMFTR KMU-innovativ: 
+Interaktive 
+Technologien für 
+Gesundheit und 
+Lebensqualität - 
+Interaktive 
+Neuroorthetik für 
+die Handfunktion 
+nach Schlaganfall - 
+INERLINC 
+- neuroConn GmbH 
+- Universitätsklinikum Tübingen 
+01.02.2019 31.12.2022 712.140   Das Ziel des Verbundvorhabens war die Entwicklung und 
+Optimierung einer Rehabilitationstechnologie für
+chronischmotorische Einschränkungen der Finger- und Handfunktion 
+nach Schlaganfall. Hierfür werden u. a. Signale des zentralen 
+(EEG) und autonomen Nervensystems (EKG) mit motorischen 
+Rehabilitationsgeräten in einer Feedbackschleife integriert. 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+BMFTR KMU-innovativ: 
+Interaktive 
+Technologien für 
+Gesundheit und 
+Lebensqualität - 
+Neue, interaktive, 
+individualisierte und 
+adaptive 
+Hirnstimulationsthe
+rapie bei Morbus 
+Parkinson mit Hilfe 
+von Closed-Loop-
+Ansätzen - PD-
+interaktiv 
+- CorTec GmbH 
+- Universitätsklinikum Freiburg 
+- Albert-Ludwigs-Universität 
+Freiburg 
+01.11.2018 31.07.2022 1.901.854   Das Verbundvorhaben hatte das Ziel, eine neue Therapieform 
+für Parkinsonpatienten zu entwickeln. Hierbei sollen 
+Neuroimplantate zum Einsatz kommen, welche über eine tiefe 
+Hirnstimulation den Auswirkungen der Parkinsonkrankheit 
+entgegenwirken. Statt konstanten vorgegebenen Mustern 
+sollen adaptive, kontextspezifische und auf den momentanen 
+Gehirnzustand angepasste Stimulationen erfolgen. 
+BMFTR KMU-innovativ: 
+Interaktive 
+Technologien für 
+Gesundheit und 
+Lebensqualität - 
+Kognitiver 
+Arbeitsschutz für die 
+Mensch-Maschinen-
+Interaktion - KAMeri 
+- eemagine Medical Imaging 
+Solutions GmbH 
+- August-Wilhelm Scheer Institut 
+- Deutsches Forschungszentrum 
+für Künstliche Intelligenz (DFKI) 
+GmbH 
+- NEXT. robotics GmbH & Co. KG 
+01.08.2018 31.07.2021 1.161.366   Ziel des Projektes war es, Mitarbeiterinnen und Mitarbeiter zu 
+unterstützen, die heute schon – etwa in der Montage - mit 
+Robotern zusammenarbeiten. Um auszuführende 
+Arbeitsabläufe anzupassen, werden permanent EEG-
+Gehirnströme der Arbeitenden erfasst und ausgewertet. Dies 
+geschieht durch in Schutzbrillen integrierte Brain-Computer-
+Interfaces. 
+BMFTR Gesundheitsforschu
+ng – Richtlinie zur 
+Förderung von 
+Forschungsprojekten 
+zu ethischen, 
+rechtlichen und 
+sozialen Aspekten 
+der 
+Neurowissenschafte
+n: NeurOPTICS 
+Martin-Luther-Universität Halle-
+Wittenberg 
+01.06.2023 31.05.2026 646.762   Die neuronale Optogenetik wirft (medizin-)ethische und 
+rechtliche Fragen sowie Fragen der sozialen Akzeptanz auf. Das 
+Vorhaben NeurOPTICS greift diese ethischen rechtlichen und 
+sozialen (ELSI)Fragen auf und entwickelt in einem 
+interdisziplinären Konsortium aus ethischer, rechtlicher und 
+lichtkünstlerischer Expertise kohärente Lösungsansätze. Dazu 
+wird das Vorhaben NeurOPTICS den (medizin-)ethischen und 
+rechtlichen Rahmen der Optogenetik analysieren sowie 
+ethische und rechtliche Empfehlungen zur Handhabung dieser 
+Technologie erarbeiten. Zusätzlich will das Konsortium eine 
+weitere Perspektive auf die Optogenetik in den akademischen 
+(ELSI) Diskurs einbringen und die Diskussion über die 
+Bedeutung der neuronalen Optogenetik und die damit 
+verbundenen ethischen und rechtlichen Fragen in einer 
+breiteren gesellschaftlichen Debatte anstoßen. Zu diesem 
+Zweck nutzt das Konsortium einen bisher ungenutzten 
+Vermittlungsansatz und wird diese Themen durch 
+Lichtkunstreflexionen vermitteln. Die Kunst bietet einen 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+anderen Ansatz als Ethik und Recht bisher vermochten. 
+Während sich Ethik und Recht auf sprachliche und schriftliche 
+Mittel stützen, objektiviert die Lichtkunst Inhalte durch 
+Installationen und andere künstlerische Produkte. Ziel des 
+Vorhabens NeurOPTICS ist die Weiterentwicklung des 
+wissenschaftlichen ELSI-Diskurses sowie die Förderung des 
+gesellschaftlichen Diskurses zur Optogenetik. Die Ergebnisse 
+des Vorhabens dienen dadurch einem informierten und 
+rationalen wissenschaftlichen und gesellschaftlichen Diskurs 
+zur Optogenetik. 
+BMFTR Insight II: 
+NEUROENHANCE 
+Universität Mannheim, 
+Universität Freiburg, Karlsruher 
+Institut für Technologie, 
+Universität Tübingen, Universität 
+Köln 
+01.07.2026 30.06.2028 778.361   Das Verbundprojekt „NEUROENHANCE – Soziotechnische, 
+regulatorische und partizipative Perspektiven auf 
+neurotechnologisches Human Enhancement im Kontext von 
+Arbeit“ hat zum Ziel, die Möglichkeiten der Unterstützung und 
+Verbesserung der menschlichen Hirnaktivität durch
+nichtmedizinische Neurotechnologien aufzuzeigen sowie auf der 
+Basis unterschiedlicher Entwicklungsszenarien die 
+konzeptionellen und empirischen Grundlagen für künftige 
+Governance-Anforderungen abzuleiten. Hierzu sollen 
+mögliche Entwicklungspfade von neurotechnologischen 
+Enhancement-Ansätzen ermittelt sowie anschließend im 
+Hinblick auf Chancen und Risiken aus unterschiedlichen 
+Blickwinkeln unter Einbezug aller Interessensgruppen 
+abgewogen und umfassend erörtert werden. Diese münden in 
+der Formulierung politisch-regulatorischer 
+Handlungsempfehlungen im Hinblick auf Governance-
+Richtlinien und Normungsprozesse. 
+BMFTR Zuwendung zur 
+Unternehmensneugr
+ündung: HALO 
+GENESIS 
+Auryal GmbH 01.06.2025 31.05.2026 938.952   HALO GENESIS – Entwicklung eines kognitionsadaptiven KI-
+Agenten auf Basis multimodaler Nutzersignale  
+ 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+ 
+Anlage 2 zu Frage 3 
+Einzel
+plan 
+Kapi
+tel 
+Haushalt
+stitel 
+Förderprogramm Zuwendungsemp
+fänger 
+Fördersu
+mme 
+2018 
+(Euro) 
+Fördersu
+mme 
+2019 
+(Euro) 
+Fördersu
+mme 
+2020 
+(Euro) 
+Fördersu
+mme 
+2021 
+(Euro) 
+Fördersu
+mme 
+2022 
+(Euro) 
+Fördersu
+mme 
+2023 
+(Euro) 
+Fördersu
+mme 
+20204 
+(Euro) 
+Fördersu
+mme 
+2025 
+(Euro) 
+Fördersu
+mme 
+2026 
+(Euro) 
+30 3004 68321 Initiativprojekt: 
+AI.D  
+Technische 
+Universität 
+München 
+0   0   0   0   343.332   788.232   927.436   956.176   593.544   
+30 3004 68321 Initiativprojekt: 
+AI.D  
+Klinikum der 
+Technischen 
+Universität 
+München (TUM 
+Klinikum) 
+0   0   0   0   90.000   180.000   180.000   310.254   127.286   
+30 3004 68321 Initiativprojekt: 
+AI.D  
+Klinikum der 
+Technischen 
+Universität 
+München (TUM 
+Klinikum) 
+0   0   0   0   28.718   146.369   83.030   144.210   87.716   
+30 3004 68323 BKM KDT Call 
+2/2022: 
+NerveRepack  
+Fraunhofer-
+Gesellschaft zur 
+Förderung der 
+angewandten 
+Forschung 
+eingetragener 
+Verein 
+0   0   0   0   0   40.000   75.000   107.500   63.500   
+30 3004 68323 BKM KDT Call 
+2/2022: 
+NerveRepack  
+Chemnitzer 
+Werkstoffmecha
+nik GmbH 
+0   0   0   0   0   7.807   30.541   32.872   34.121   
+30 3004 68323 BKM KDT Call 
+2/2022: 
+NerveRepack  
+Acquandas 
+GmbH 
+0   0   0   0   0   0   58.735   44.220   77.689   
+30 3004 68323 BKM OCTOPUS: 
+MEDGE  
+Infineon 
+Technologies AG 
+0   0   0   0   0   199.728   112.084   39.274   9.761   
+30 3004 68323 BKM OCTOPUS: 
+MEDGE  
+exelonix GmbH 0   0   0   0   0   164.128   100.858   148.299   0   
+30 3004 68323 BKM OCTOPUS: 
+MEDGE  
+Ovesco 
+Endoscopy AG 
+0   0   0   0   0   262.773   114.563   50.555   14.400   
+30 3004 68323 BKM OCTOPUS: 
+MEDGE  
+Barkhausen 
+Institut gGmbH 
+0   0   0   0   0   369.115   417.212   267.829   68.754   
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+ 
+30 3004 68323 BKM OCTOPUS: 
+MEDGE  
+Technische 
+Universität 
+Dresden 
+0   0   0   0   0   160.800   229.200   276.540   0   
+30 3004 68323 BKM OCTOPUS: 
+MEDGE  
+Technische 
+Universität 
+Dresden 
+0   0   0   0   0   82.759   100.378   71.094   2.142   
+30 3004 68323 BKM OCTOPUS: 
+MEDGE  
+Eberhard Karls 
+Universität 
+Tübingen 
+0   0   0   0   0   352.948   261.125   139.869   0   
+30 3004 68323 BKM OCTOPUS: 
+MEDGE  
+Technische 
+Universität 
+Dresden 
+0   0   0   0   0   171.249   74.361   86.719   14.040   
+30 3004 68323 BKM OCTOPUS: 
+MEDGE  
+Charité - 
+Universitätsmedi
+zin Berlin 
+0   0   0   0   0   68.660   105.804   99.353   69   
+30 3004 68323 BKM OCTOPUS: 
+MEDGE  
+PRECISIS GmbH 0   0   0   0   0   111.480   175.058   299.090   96.891   
+30 3004 68323 BKM Smart 
+Health: MR-
+implant 
+CorTec GmbH 69.071   146.860   157.481   118.775   0   61.819   0   0   0   
+30 3004 68323 BKM Smart 
+Health: MR-
+implant 
+Universität Ulm 51.074   133.681   147.844   106.071   0   0   0   0   0   
+30 3004 68323 BKM Smart 
+Health: MR-
+implant 
+eesy-ic GmbH 78.092   353.467   127.036   61.510   0   22.598   0   0   0   
+30 3004 68323 BKM Smart 
+Health: MR-
+implant 
+Max-Planck-
+Gesellschaft zur 
+Förderung der 
+Wissenschaften 
+e.V. 
+67.761   72.111   183.611   45.906   0   0   0   0   0   
+30 3004 68321 Prospektive 
+Projektförderung 
+DFKI: NEARBY 
+Deutsches 
+Forschungszentr
+um für 
+Künstliche 
+Intelligenz GmbH 
+0   0   0   0   0   0   366.100   574.136   474.322   
+30 3004 68320 IKT2020: 
+MAMOKO 
+Friedrich-
+Alexander-
+Universität 
+Erlangen-
+Nürnberg, 
+55.014   835.119   859.262   721.216   585.517   103.288   81.707   0   0   
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+ 
+Technische 
+Universität 
+München, 
+Christian-
+Albrechts-
+Universität zu 
+Kiel, Rheinland-
+Pfälzische 
+Technische 
+Universität 
+Kaiserslautern-
+Landau, 
+Technische 
+Universität Berlin 
+30 3004 68320 Forschungsprogr
+amm 
+Kommunikations
+systeme 
+"Souverän. 
+Digital. 
+Vernetzt.": IoBNT 
+Technische 
+Universität 
+Berlin, Friedrich-
+Alexander-
+Universität 
+Erlangen-
+Nürnberg, 
+Technische 
+Universität 
+München, 
+Deutsches 
+Forschungszentr
+um für 
+Künstliche 
+Intelligenz 
+GmbH, 
+Universität zu 
+Lübeck, 
+Technische 
+Universität 
+Darmstadt, 
+Technische 
+Universität 
+Dresden 
+0   0   0   0   0   0   800.671   1.228.342   1.731.139   
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+ 
+30 3004 683 31 Interaktive 
+Technologien für 
+eine 
+geschlechtsspezifi
+sche Gesundheit 
+(GeGe) - ISES: 
+Interaktives 
+Schlafmonitoring
+system zur 
+frühzeitigen 
+Erkennung 
+geschlechtsspezifi
+scher 
+Schlafstörungen 
+im Rahmen der 
+hausärztlichen 
+Vorsorgeuntersuc
+hungen 
+- avisé labs GmbH 
+- Brain Products 
+GmbH 
+- Carl von 
+Ossietzky 
+Universität 
+Oldenburg 
+- Fraunhofer 
+IDMT 
+- Otto-von-
+Guericke-
+Universität 
+Magdeburg - 
+Medizinische 
+Fakultät und 
+Universitätsklinik
+um 
+0   0   0   0   0   0   0   17.107   368.508   
+30 3004 683 31 START-
+interaktiv: 
+Interaktive 
+Technologien für 
+Gesundheit und 
+Lebensqualität - 
+InsomnAI: 
+Mobile 
+hirnelektrische 
+Stimulation zur 
+Verbesserung der 
+Schlafqualität 
+- Institute of 
+Affective 
+Computing e.V. 
+0   0   0   0   0   0   0   135.807   171.050   
+30 3004 683 31 Mehr 
+Therapieerfolg 
+durch innovative 
+medizintechnisch
+e Lösungen für 
+Menschen mit 
+Funktionseinschr
+än-kungen - 
+Verbundprojekt: 
+Brain-Computer-
+Interface 
+- medica – 
+Medizintechnik 
+GmbH 
+- Ambulanticum 
+GmbH, Herdecke 
+- SNAP 
+DISCOVERY AG 
+- Ruhr 
+Universität 
+Bochum 
+0   0   0   0   0   0   0   15.648   317.142   
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+ 
+gestützte 
+Greifrehabilitatio
+n (MindMove) 
+30 3004 683 31 START-
+interaktiv: 
+Interaktive 
+Technologien für 
+Gesundheit und 
+Lebensqualität - 
+NeuroVR-Plus: 
+Adaptives VR-
+Training & 
+transkranielle 
+Gehirnstimulatio
+n zur 
+Verbesserung der 
+Kognition älterer 
+Menschen 
+- VRalive UG 
+- Uniklinik 
+Göttingen 
+0   0   0   0   0   0   278.160   252.506   112.215   
+30 3004 683 31 Interaktive 
+Systeme in 
+virtuellen und 
+realen Räumen – 
+Innovative 
+Technologien für 
+die digitale 
+Gesellschaft 
+(VAR2) - UFO: 
+Einsatz 
+neUrophysiologis
+cher 
+Schnittstellen 
+und taktil 
+unterstützter 
+virtueller Realität 
+zur Förderung 
+von beruflicher 
+InklusiOn 
+- Fraunhofer IAO 
+- Universität 
+Stuttgart 
+- auticon GmbH 
+- NIRx 
+Medizintechnik 
+GmbH 
+- Sensovo GmbH 
+0   0   0   71.421   323.214   505.876   399.008   88.451   0   
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+ 
+30 3004 683 31 Chronische 
+Schmerzen – 
+Innovative 
+medizintechnisch
+e Lösungen zur 
+Verbesserung von 
+Prävention, 
+Diagnostik und 
+Therapie - 
+Verbundprojekt: 
+Kombination von 
+virtueller Realität 
+(VR) und Brain-
+Computer-
+Interface (BCI) 
+zur Therapie 
+chronischer 
+Schmerzen 
+(VirtualNoPain) 
+- VTplus GmbH 
+- Brain Products 
+GmbH 
+- ZTM Bad 
+Kissingen GmbH 
+- Julius-
+Maximilians-
+Universität 
+Würzburg 
+- 
+Universitätsklinik
+um Würzburg 
+0   0   0   832.194   683.826   294.592   63.006   37.000   0   
+30 3004 683 31 KMU-innovativ: 
+Interaktive 
+Technologien für 
+Gesundheit und 
+Lebensqualität - 
+Konfigurierbare 
+Elektronikplattfo
+rm zur 
+individualiserten 
+Rehabilitation 
+nach Schlaganfall 
+und 
+Querschnittslähm
+ung - 
+SmartSense4Life 
+- Hamburg 
+Applications MES 
+UG 
+- 
+Universitätsklinik
+um Hamburg-
+Eppendorf 
+- Fraunhofer IIS 
+- WearHealth UG  
+- MEDEL 
+Medizinische 
+Elektronik 
+Handelsgesellsch
+aft mbH 
+- Ruprecht-Karls-
+Universität 
+Heidelberg 
+0   0   371.711   629.846   757.164   208.261   80.573   2.456   0   
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+ 
+30 3004 683 31 START-
+interaktiv: 
+Interaktive 
+Technologien für 
+Gesundheit und 
+Lebensqualität - 
+Intelligenter
+emotionalempathischer 
+digitaler Assistent 
+mit EEG-
+Zeitreihenanalyse 
+zur 
+Früherkennung 
+und 
+Verlaufskontrolle 
+bei Alzheimer-
+Demenz - IASON 
+- Tokeya Deep 
+Data Dive GmbH 
+& Co. KG 
+- Friedrich-
+Alexander-
+Universität 
+Erlangen-
+Nürnberg 
+0   147.455   236.098   170.733   83.329   16.257   370   0   0   
+30 3004 683 31 KMU-innovativ: 
+Interaktive 
+Technologien für 
+Gesundheit und 
+Lebensqualität - 
+Interaktive 
+Neuroorthetik für 
+die Handfunktion 
+nach Schlaganfall 
+- INERLINC 
+- neuroConn 
+GmbH 
+- 
+Universitätsklinik
+um Tübingen 
+0   77.155   110.589   218.255   306.141   0   0   0   0   
+30 3004 683 31 KMU-innovativ: 
+Interaktive 
+Technologien für 
+Gesundheit und 
+Lebensqualität - 
+Neue, interaktive, 
+individualisierte 
+und adaptive 
+Hirnstimulationst
+herapie bei 
+Morbus 
+Parkinson mit 
+Hilfe von Closed-
+- CorTec GmbH 
+- 
+Universitätsklinik
+um Freiburg 
+- Albert-Ludwigs-
+Universität 
+Freiburg 
+18.640   485.978   537.359   571.799   188.205   99.873   0   0   0   
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+ 
+Loop-Ansätzen - 
+PD-interaktiv 
+30 3004 683 31 KMU-innovativ: 
+Interaktive 
+Technologien für 
+Gesundheit und 
+Lebensqualität - 
+Kognitiver 
+Arbeitsschutz für 
+die Mensch-
+Maschinen-
+Interaktion - 
+KAMeri 
+- eemagine 
+Medical Imaging 
+Solutions GmbH 
+- August-
+Wilhelm Scheer 
+Institut 
+- Deutsches 
+Forschungszentr
+um für 
+Künstliche 
+Intelligenz (DFKI) 
+GmbH 
+- NEXT. robotics 
+GmbH & Co. KG 
+110.887   361.966   376.616   288.271   23.626   0   0   0   0   
+30 3004 68531 Gesundheitsforsc
+hung – Richtlinie 
+zur Förderung 
+von 
+Forschungsprojek
+ten zu ethischen, 
+rechtlichen und 
+sozialen Aspekten 
+der 
+Neurowissenscha
+ften: NeurOPTICS 
+Martin-Luther-
+Universität Halle-
+Wittenberg 
+0   0   0   0   0   93.982   172.800   204.000   84.844   
+30 3004 54101 Insight II: 
+NEUROENHANC
+E 
+Universität 
+Mannheim, 
+Universität 
+Freiburg, 
+Karlsruher 
+Institut für 
+Technologie, 
+Universität 
+0   0   0   0   0   0   0   0   212.637   
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+ 
+Tübingen, 
+Universität Köln 
+30 3004 68514 Zuwendung zur 
+Unternehmensne
+ugründung: 
+HALO GENESIS 
+Auryal GmbH 0   0   0   0   0   0   0   767.302   171.650   
+ 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+ 
+Anlage 3 zu Frage 5 
+Förderprogramm Zuwendungsempfänger Patentanmelder  Titel des Patents
+Patentnummer
+Lizenzgeber
+Lizenznehmer  
+Name der
+Ausgründung 
+Rechtsform 
+der
+Ausgründung 
+BKM Smart Health: MR-
+implant 
+CorTec GmbH CorTec GmbH Implantable 
+array with a 
+reference 
+structure and 
+method of 
+manufacturing 
+the same 
+EP 4 076 172 
+A1 
+- - - - 
+Forschungsprogramm 
+Kommunikationssysteme 
+"Souverän. Digital. 
+Vernetzt.": IoBNT 
+Technische Universität 
+Berlin, Friedrich-
+Alexander-Universität 
+Erlangen-Nürnberg, 
+Technische Universität 
+München, Deutsches 
+Forschungszentrum für 
+Künstliche Intelligenz 
+GmbH, Universität zu 
+Lübeck, Technische 
+Universität Darmstadt, 
+Technische Universität 
+Dresden 
+Friedrich-
+Alexander-
+Universität 
+Erlangen-Nürnberg 
+Method and 
+Apparatus for 
+Generating 
+Identical 
+Cryptographic 
+Keys Based on 
+Signals of the 
+Same Human 
+Body 
+EP26176986 - - - - 
+Forschungsprogramm 
+Kommunikationssysteme 
+"Souverän. Digital. 
+Vernetzt.": IoBNT 
+Technische Universität 
+Berlin, Friedrich-
+Alexander-Universität 
+Erlangen-Nürnberg, 
+Technische Universität 
+München, Deutsches 
+Forschungszentrum für 
+Künstliche Intelligenz 
+GmbH, Universität zu 
+Lübeck, Technische 
+Universität Darmstadt, 
+Technische Universität 
+Dresden 
+Technische 
+Universität 
+München, 
+Technische 
+Universität 
+Braunschweig, 
+Deutsche Telekom 
+AG 
+Steuerung und 
+Kontrolle 
+autonomer 
+Mikro-
+Flugmaschinen 
+mit Hilfe von 
+Post 
+Shannon‘scher 
+Identifikation 
+(Environment 
+Sensing and 
+Identification) 
+EP25201196.0 - - - - 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+ 
+Forschungsprogramm 
+Kommunikationssysteme 
+"Souverän. Digital. 
+Vernetzt.": IoBNT 
+Technische Universität 
+Berlin, Friedrich-
+Alexander-Universität 
+Erlangen-Nürnberg, 
+Technische Universität 
+München, Deutsches 
+Forschungszentrum für 
+Künstliche Intelligenz 
+GmbH, Universität zu 
+Lübeck, Technische 
+Universität Darmstadt, 
+Technische Universität 
+Dresden 
+Technische 
+Universität 
+München, 
+Technische 
+Universität 
+Braunschweig, 
+Deutsche Telekom 
+AG 
+System und 
+Verfahren zur 
+nicht-invasiven 
+Tumortherapie 
+mit Hilfe von 
+Joint Detection 
+and 
+Identification. 
+EP25201197.8 - - - - 
+Forschungsprogramm 
+Kommunikationssysteme 
+"Souverän. Digital. 
+Vernetzt.": IoBNT 
+Technische Universität 
+Berlin, Friedrich-
+Alexander-Universität 
+Erlangen-Nürnberg, 
+Technische Universität 
+München, Deutsches 
+Forschungszentrum für 
+Künstliche Intelligenz 
+GmbH, Universität zu 
+Lübeck, Technische 
+Universität Darmstadt, 
+Technische Universität 
+Dresden 
+Technische 
+Universität 
+München, 
+Technische 
+Universität 
+Braunschweig, 
+Deutsche Telekom 
+AG 
+Steuerung und 
+Kontrolle 
+autonomer 
+Tauchroboter mit 
+Hilfe von Joint 
+Detection and 
+Identification 
+EP25201193.7 - - - - 
+Forschungsprogramm 
+Kommunikationssysteme 
+"Souverän. Digital. 
+Vernetzt.": IoBNT 
+Technische Universität 
+Berlin, Friedrich-
+Alexander-Universität 
+Erlangen-Nürnberg, 
+Technische Universität 
+München, Deutsches 
+Forschungszentrum für 
+Künstliche Intelligenz 
+GmbH, Universität zu 
+Lübeck, Technische 
+Universität Darmstadt, 
+Technische Universität 
+Dresden 
+Technische 
+Universität 
+München, 
+Technische 
+Universität 
+Braunschweig, 
+Deutsche Telekom 
+AG 
+System und 
+Verfahren zur 
+Feststellung 
+verteilten Zufalls 
+bei Joint 
+Detection and 
+Sensing mit Hilfe 
+einer 
+gemeinsamen 
+Messung (Joint 
+Identification 
+and Sensing) 
+EP25201192.9 - - - - 
+Kleine Anfrage BT-Drs. Nr. 21/8075 der Fraktion der AfD 
+ 
+ 
+Zuwendung zur 
+Unternehmensneugründung
+: HALO GENESIS 
+Auryal GmbH Auryal GmbH Das Patent ist 
+noch nicht 
+veröffentlicht 
+und 
+dementsprechen
+d liegt uns 
+lediglich die 
+Auskunft über 
+die eingereichte 
+Anmeldung vor. 
+- - - Auryal GmbH 
+ 
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
