@@ -1,0 +1,908 @@
+Deutscher Bundestag Drucksache 21/8735
+21. Wahlperiode 20.10.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Ruben Rupp, Robin Jünger, Alexander 
+Arpaschi, weiterer Abgeordneter und der Fraktion der AfD 
+– Drucksache 21/8325 –
+Zu Risiken und Grenzen großer KI-Sprachmodelle
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Seit dem ChatGPT-Moment vom November 2022 sind rund vier Jahre
+vergangen. Seitdem haben die großen Sprachmodelle (Large Language Models 
+(LLM)), als deren Pionier der Konzern OpenAI gelten kann, den privaten und 
+beruflichen Alltag unzähliger Menschen verändert wie noch keine Applikation 
+zuvor. Schüler und Studenten schreiben damit Hausarbeiten, Journalisten
+recherchieren und analysieren Informationen, Rechtsanwälte lassen sich
+Standardverträge formulieren, in die allgemeine Websuche ist künstliche
+Intelligenz (KI) zur Zusammenfassung der Suchergebnisse integriert. Recherche- 
+und Schreibarbeiten lassen sich durch KI-Unterstützung in viel kürzerer Zeit 
+erledigen, in verschiedenen Sprachen und auf verschiedenen Sprachniveaus. 
+Selbst quasitherapeutische Gespräche werden mittlerweile „im Dialog“ mit 
+LLM geführt. ChatGPT kommt derzeit auf rund 159 Millionen Nutzer in der 
+Europäischen Union (EU) im Monat (vgl. https://help.openai.com/en/articles/8
+959649-eu-digital-services-act-dsa).
+So bestechend und komfortabel die Ergebnisse der LLM im Allgemeinen auch 
+sein mögen, wohnt ihnen doch auch ein beträchtliches Risiko inne. Im April 
+dieses Jahres hat das US-Unternehmen Anthropic mitgeteilt, sein bislang
+unveröffentlichtes KI-Modell Mythos sei imstande, binnen kurzer Zeit
+Schwachstellen in bestehendem Code zu identifizieren und als Angriffsziel für Hacker 
+aller Couleur zu markieren; fiele es in falsche Hände, würden digitale
+kriminelle oder terroristische Aktivitäten deutlich erleichtert. Die US-Regierung 
+sperrte daraufhin den Zugang zu diesem Modell für alle Nicht-Amerikaner 
+(vgl. www.tagesschau.de/wirtschaft/unternehmen/usa-anthropic-ki-100.html). 
+Im Juli 2026 ließ eine Nachricht des konkurrierenden US-Unternehmens 
+OpenAI aufhorchen. Ein ebenfalls noch unveröffentlichtes Modell sollte unter 
+Laborbedingungen getestet werden. Das Modell suchte sich selbstständig 
+einen Zugang zum Internet, verließ die eigentlich sterile Laborumgebung und 
+attackierte die Webseite HuggingFace (vgl. https://openai.com/de-DE/index/h
+ugging-face-incident-and-the-road-ahead/). Nachrichten wie diese sind
+geeignet, die schwarzen Fantasien zu einer allmächtigen künstlichen Intelligenz, die 
+sich der Kontrolle des Menschen entzieht, selbstständig aktiv wird, eigene
+Absichten verfolgt und sich auch gegen den Menschen, seine Interessen und 
+seine Lebenswelt wendet, zu befeuern (vgl. www.gatesnotes.com/work/
+makeai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make).
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Digitales und
+Staatsmodernisierung vom 19. Oktober 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+Ein weiteres Risiko künstlicher Intelligenz betrifft die enormen Summen, die 
+einige wenige Digitalunternehmen in KI-taugliche Rechenzentren investieren. 
+So wurden im Jahr 2025 in den USA knapp 286 Mrd. US-Dollar an privatem 
+Kapital für KI mobilisiert (vgl. [2606.15708] Artificial Intelligence Index
+Report 2026, S. 10). Selbst risikofreudige Wagniskapitalgeber fragen sich
+mittlerweile, mit welchen Geschäftsmodellen die schwindelerregenden Summen 
+wieder eingespielt werden sollen; die Gefahr einer gigantischen
+Geldvernichtung und damit einer Wertminderung einschlägiger Unternehmen mit
+unkalkulierbaren Folgen für die Weltwirtschaft wird von einzelnen Finanzinstituten 
+als nicht abwegig eingeschätzt (vgl. https://sequoiacap.com/article/ais-600b-q
+uestion, sowie „Die KI‑Wette: Platzt eine Blase?“, in: Frankfurter Allgemeine 
+Zeitung, 21. August 2026, S. 27).
+Unklar sind auch die Folgen der laufenden KI-Revolution für den
+Arbeitsmarkt. Gerade geistige Arbeiten wie das Recherchieren, Gewichten und
+Analysieren großer komplexer Datenmengen, die bislang von Menschenhand
+erledigt werden, weisen ein großes Automatisierungs- und damit
+Substitutionspotenzial auf (vgl. www.deloitte.com/de/de/services/consulting/perspectives/gen
+erative-ki-und-die-zukunft-der-arbeit.html). Einem kurzfristigen Gewinn an 
+Zeit und Effizienz durch KI steht möglicherweise ein Verlust an
+Arbeitsplätzen gegenüber, ohne dass sich gegenwärtig abzeichnete, welche
+Kompensationsmöglichkeiten sich auftäten. Gerade Dienstleistungsgesellschaften mit 
+einem hohen Anteil an Beratungs-, Vermittlungs- und Servicetätigkeiten 
+stehen vor der Aufgabe, den sich abzeichnenden Wandel des Arbeitsmarktes 
+aktiv zu begleiten, bei noch ungewissem Ausgang.
+Hinzu kommt der Aspekt der Verfügbarkeit leistungsfähiger KI-
+Sprachmodelle. Die Entwicklung wird seit Jahren von US-amerikanischen und
+chinesischen Konzernen dominiert, beide Staaten haben mehrfach den Anspruch 
+einer globalen Technologieführerschaft auch bei KI bekräftigt. Europa und 
+Deutschland beobachten diesen Prozess vom Rande her und nehmen die Rolle 
+der Anwender ein, ohne dass sich ein europäisches KI-Sprachmodell im
+globalen Wettbewerb ernstlich behaupten könnte (vgl. www.welt.de/wirtschaft/pl
+us6a84613b3f3b2550f6df391c/kampf-um-ki-ist-europas-abhaengigkeit-von-u
+sa-und-china-endgueltig-besiegelt.html). Die Finanzkraft gerade US-
+amerikanischer Digitalkonzerne, der große heimische Markt, ihr Datenschatz aus dem 
+Cloud-Geschäft und eine recht nachlässige Regulierung führen dazu, dass die 
+Konkurrenz aus Europa bislang das Nachsehen hat; Ähnliches gilt für die
+großen chinesischen Unternehmen, die von staatlichen Subventionen und
+exzellenten Universitäten profitieren. Das führt zu gefährlichen Abhängigkeiten, 
+die bei möglichen politischen Turbulenzen das Risiko bergen, dass KI-
+Anwendungen für Verbraucher, Unternehmen, Wissenschaft und Verwaltung bis 
+hin zum Militär in Teilen unzugänglich werden. Dieses Erpressungspotenzial 
+macht deutlich, dass Deutschland von einer viel beschworenen digitalen
+Souveränität noch weit entfernt ist. KI-Politik ist immer auch Machtpolitik.
+Diese skizzierten Entwicklungen werden von den bisherigen
+Regulierungswerken speziell der Europäischen Union weitgehend ignoriert. Zwar stuft der 
+AI Act der EU KI-Anwendungen in Risikoklassen ein und erlegt den
+Herstellern entsprechend aufwendige Berichtspflichten auf. Allerdings sind die
+referenzierten Risiken individueller Natur: So sind KI-Anwendungen verboten, 
+die auf das Ausnutzen einer individuellen Schwäche wegen des Alters oder 
+einer Behinderung abzielen, die das Sozialverhalten von Menschen
+analysieren und bewerten oder die ohne konkreten Verdacht kriminelles Verhalten 
+eines Menschen vorhersagen sollen (vgl. https://ai-act-law.eu/de/artikel/5/). 
+Sehr leistungsfähige große KI-Sprachmodelle mit allgemeinem
+Verwendungszweck (i. e. LLM) werden durch den AI Act als systemisch riskant betrachtet, 
+ohne dass diese Einschätzung konkretisiert würde (vgl. https://ai-act-law.eu/d
+e/artikel/51/). Die technische Entwicklung der KI-Sprachmodelle vollzieht 
+sich in einem derart rasanten Tempo, dass Regulierungsbemühungen, sobald 
+sie nach langen Diskussionen in Kraft treten, bereits als veraltet betrachtet 
+können.
+Nach Auffassung der Fragesteller zeigt sich die Bundesregierung gegenüber 
+den skizzierten Überlegungen zu den Risiken und Grenzen generativer KI
+seltsam passiv. So richtig es erscheint, die mit der KI einhergehenden Chancen 
+beherzt zu ergreifen, so fahrlässig wirkt es, die fraglos vorhandenen Risiken 
+und Unwägbarkeiten einfach zu ignorieren. Es fehlt seitens der
+Bundesregierung ein klar kommuniziertes Konzept zum Umgang mit dieser mächtigen 
+emergenten Technologie, die das soziale Leben in mutmaßlich bislang
+unbekannter Weise transformieren wird. Fragen zu den Risiken und Grenzen
+künstlicher Intelligenz sind nach Ansicht der Fragesteller nicht lediglich
+technologischer Natur, sondern betreffen die Wirtschaft eines Landes ebenso wie sein 
+Ausbildungswesen, seine Hochschulen, seine Medienlandschaft und nicht
+zuletzt seine Politik.
+ 1. Welche eigenen Erkenntnisse liegen der Bundesregierung zu dem von 
+der Firma Anthropic im April berichteten Modell „Mythos“ und dessen 
+kommunizierter Fähigkeit vor, Schwachstellen in bestehendem Code
+binnen kurzer Zeit zu identifizieren, und hat die Bundesregierung „Mythos“ 
+unterdessen selbst testen können?
+Der Bundesregierung sind die öffentlichen Angaben der Firma Anthropic zu 
+„Claude Mythos“ und dessen Fähigkeiten zur automatisierten Identifizierung 
+von Schwachstellen in Software bekannt. Nach Angaben des Unternehmens 
+verfügt das Modell über weitreichende Fähigkeiten im Bereich der IT-
+Sicherheit, insbesondere bei der Identifizierung und weiteren Analyse von Software-
+Schwachstellen.
+Das Bundesamt für Sicherheit in der Informationstechnik (BSI) steht hierzu mit 
+Anthropic im Austausch und hat Einblicke in die Funktionsweise des Modells 
+erhalten. Einen eigenen Test von „Claude Mythos“ hat das BSI bislang nicht 
+durchgeführt. Die Bundesregierung beobachtet die weitere Entwicklung und 
+steht neben Anthropic auch mit anderen Herstellern im Austausch.
+ 2. Wie bewertet die Bundesregierung die zwischenzeitliche Entscheidung 
+der US-Regierung, den Zugang zu diesem Modell für Nicht-US-Bürger 
+zu sperren, insbesondere mit Blick auf potenzielle deutsche und
+europäische Nutzer aus Wirtschaft, Wissenschaft und Verwaltung?
+Die Bundesregierung hat zur Kenntnis genommen, dass die US-Regierung im 
+Juni 2026 den Zugang ausländischer Staatsangehöriger zu den damals neuesten 
+KI-Modellen des US-Unternehmens Anthropic aus Gründen der nationalen
+Sicherheit vorübergehend beschränkt hatte. Die Beschränkungen wurden
+zwischenzeitlich wieder aufgehoben.
+Grundsätzlich unterstreicht der Vorgang die Bedeutung eines verlässlichen und 
+uneingeschränkten Zugangs zu leistungsfähigen KI-Modellen für Staat,
+Wirtschaft, Wissenschaft und Gesellschaft.
+Die Bundesregierung beobachtet die weitere Entwicklung aufmerksam und 
+setzt sich im europäischen und internationalen Rahmen für sichere, verlässliche 
+und offene Rahmenbedingungen für die Nutzung und Weiterentwicklung von 
+Künstlicher Intelligenz ein.
+ 3. Liegen der Bundesregierung Kenntnisse über den von OpenAI im 
+Juli 2026 gemeldeten Vorfall, bei dem sich ein Testmodell eigenständig 
+Internetzugang verschafft und die Laborumgebung verlassen haben soll, 
+um die Plattform HuggingFace anzugreifen, die über den von OpenAI 
+vorgelegten Bericht hinausgehen, vor (siehe Vorbemerkung der
+Fragesteller, bitte ausführen)?
+Der Bundesregierung liegen über die von OpenAI zunächst öffentlich
+mitgeteilten Informationen hinaus Erkenntnisse zum Vorfall vor. Das BSI hat den 
+Vorfall analysiert und daraus Rückschlüsse für die Cybersicherheit gezogen. 
+Die Bundesregierung steht hierzu auch im Austausch mit dem EU AI Office 
+und mit internationalen Partnern und beobachtet die weitere Aufklärung des 
+Vorfalls.
+Im Übrigen wird auf die zwischenzeitlich veröffentlichten ergänzenden
+technischen Erkenntnisse von OpenAI, die technische Darstellung von Hugging Face 
+sowie auf die unabhängigen Untersuchungen, insbesondere von METR und 
+Redwood Research, verwiesen.
+ 4. Sieht die Bundesregierung in den in den Fragen 1 bis 3 beschriebenen 
+Vorfällen, Hinweise auf ein grundsätzliches Kontrollproblem bei LLM, 
+und wenn ja, welche Konsequenzen zieht sie daraus für die deutsche und 
+europäische KI-Sicherheitsforschung?
+Die Bundesregierung beobachtet die Entwicklung der Fähigkeiten und der
+damit verbundenen Risiken fortgeschrittener KI-Modelle aufmerksam. Die
+beschriebenen Vorfälle unterstreichen aus Sicht der Bundesregierung die
+Bedeutung einer kontinuierlichen technischen Bewertung der Kontrollierbarkeit und 
+des sicheren Einsatzes solcher leistungsfähiger KI-Modelle. Konzepte zur
+Absicherung von KI-Agenten sind Gegenstand aktueller Forschung und sollten 
+weiter gefördert werden.
+Die Bundesregierung baut deshalb ihre Fähigkeiten zur unabhängigen Analyse 
+und Evaluierung fortgeschrittener KI-Modelle aus. Hierzu dient insbesondere 
+das AI Safety and Security Institute Deutschland (AISI Deutschland), das
+Risiken und Fähigkeiten leistungsfähiger KI-Modelle untersuchen und
+entsprechende Expertise bündeln soll. Zugleich wird die Zusammenarbeit mit
+internationalen Partnern und vergleichbaren Einrichtungen intensiviert.
+In der Europäischen Union bestehen mit der Verordnung (EU) 2024/1689 (KI-
+Verordnung) bereits verbindliche Vorgaben für die Evaluierung und
+Risikominderung bei KI-Modellen mit systemischen Risiken, deren Einhaltung durch das 
+EU AI Office (Europäische Kommission) überwacht werden. Die
+Bundesregierung wird sich im Rahmen der europäischen und internationalen
+Zusammenarbeit auch weiterhin für belastbare wissenschaftliche Grundlagen, geeignete 
+Evaluierungsverfahren und gemeinsame Sicherheitsstandards einsetzen.
+ 5. Existieren in einem Bundesministerium oder einer nachgeordneten
+Behörde (etwa dem Bundesamt für Sicherheit in der Informationstechnik 
+(BSI)) Verfahren zur systematischen Auswertung von international
+gemeldeten KI-Sicherheitsvorfällen dieser Art, und wenn ja, wie sind diese 
+ausgestaltet?
+Die Bundesregierung beobachtet und bewertet sicherheitsrelevante
+Entwicklungen im Bereich Künstlicher Intelligenz fortlaufend. Hierzu werden unter
+anderem öffentlich verfügbare Informationen, Erkenntnisse nationaler, europäischer 
+und internationaler Partner sowie Meldungen und Lageinformationen aus dem 
+Bereich der Informations- und Cybersicherheit ausgewertet.
+Beim BSI bestehen etablierte Verfahren zur Erfassung und Auswertung von IT-
+Sicherheitsvorfällen. Das BSI sammelt und bewertet hierzu Informationen über 
+Schwachstellen, Schadprogramme sowie erfolgte oder versuchte Angriffe und 
+nutzt diese unter anderem zur Erstellung von Lagebildern und zur Information 
+betroffener Stellen. Diese Verfahren können auch sicherheitsrelevante Vorfälle 
+im Zusammenhang mit dem Einsatz von KI erfassen.
+Darüber hinaus werden im Zuge der Durchführung der KI-Verordnung
+Verfahren zur Meldung und behördlichen Bearbeitung schwerwiegender KI-Vorfälle 
+etabliert. Gemäß Artikel 55 der KI-Verordnung sind die Anbieter von KI-
+Modellen mit allgemeinem Verwendungszweck mit systemischen Risiken
+verpflichtet, dem EU AI Office (Europäische Kommission) und gegebenenfalls 
+den zuständigen nationalen Behörden relevante Informationen über
+schwerwiegende Vorfälle zu melden. Nach Artikel 73 der KI-Verordnung sind
+schwerwiegende Vorfälle im Zusammenhang mit Hochrisiko-KI-Systemen den
+zuständigen Marktüberwachungsbehörden zu melden und durch die Anbieter solcher 
+Systeme zu untersuchen, hinsichtlich ihrer Risiken zu bewerten sowie zu
+korrigieren.
+ 6. Bestehen zwischen der Bundesregierung respektive dem BSI und den 
+US-Unternehmen Anthropic und OpenAI Kontakte zum Austausch über 
+sicherheitsrelevante Vorfälle bei nicht veröffentlichten Modellen (bitte 
+ausführen)?
+Die Bundesregierung verfolgt die Entwicklung und die sicherheitsrelevanten 
+Fähigkeiten sogenannter Frontier-AI-Modelle aufmerksam. Sowohl die
+Bundesregierung als auch das BSI stehen im Austausch mit den Anbietern von
+besonders leistungsfähigen KI-Modellen, darunter Anthropic und OpenAI.
+Zu etwaigen vertraulichen Gesprächen und deren konkreten Inhalten macht die 
+Bundesregierung grundsätzlich keine Angaben.
+ 7. Hält die Bundesregierung die derzeitigen Meldepflichten für KI-
+Sicherheitsvorfälle (national wie im Rahmen des AI Act) für ausreichend, um 
+vergleichbare Vorfälle bei in der EU betriebenen Modellen zeitnah zu
+erfassen (bitte ausführen)?
+Die bestehenden Regelungen in Artikel 55 und 73 der KI-Verordnung
+betreffend die Meldung schwerwiegender Vorfälle sind wesentlich zur frühzeitigen 
+Erkennung und Bewertung von Risiken. Der General-Purpose AI Code of
+Practice (Verhaltenskodex für KI mit allgemeinem Verwendungszweck, GPAI‑
+Verhaltenskodex), der in einem breiten Stakeholderprozess auch unter
+Einbeziehung zahlreicher KI-Modellanbieter erarbeitet wurde und den OpenAI,
+Anthropic, Google, Mistral und andere unterzeichnet haben, operationalisiert die
+Meldepflicht gemäß Artikel 55 der KI-Verordnung weiter. Das für die
+Überwachung dieser Meldepflicht zuständige EU AI Office, mit dem die
+Bundesregierung in engem Austausch steht, hat auf Basis von Maßnahme 9.2 des 
+GPAI‑Verhaltenskodexes eine Berichtsvorlage veröffentlicht (https://digital-stra
+tegy.ec.europa.eu/de/library/ai-act-commission-publishes-reporting-template-se
+rious-incidents-involving-general-purpose-ai). Diese Maßnahme legt ein
+Minimum an Informationen fest, die die Unterzeichner im Zusammenhang mit 
+schwerwiegenden Vorfällen erfassen, dokumentieren und melden müssen. Das 
+EU AI Office hat insbesondere Informationen über den schwerwiegenden
+Vorfall im Zusammenhang mit Hugging‑Face gegenüber OpenAI angefordert und 
+erhalten. Das EU AI Office steht mit OpenAI und weiteren Providern zur
+Einhaltung der Verpflichtungen der KI-Verordnung in engem Austausch.
+Neben den Meldepflichten nach Artikel 55 und 73 der KI-Verordnung bestehen 
+je nach Anwendungsfall weitere unionsrechtliche und nationale Melde-,
+Informations- und Registrierungspflichten, insbesondere nach sektorspezifischen 
+Regelungen, etwa im Bereich der Cybersicherheit und des Datenschutzes.
+Die Bundesregierung wird die praktische Anwendung dieser Regelungen und 
+ihre Wirksamkeit bei der Erfassung und Bewertung von KI-bezogenen
+Vorfällen fortlaufend beobachten.
+ 8. Welche Erkenntnisse liegen der Bundesregierung zum Umfang der 
+Investitionen führender US-Digitalkonzerne in KI-taugliche
+Rechenzentren vor, von deren Leistung indirekt auch deutsche Verbraucher,
+Unternehmen und Verwaltungen profitieren, und wie schätzt sie deren
+Verhältnis zu bislang tragfähigen digitalen Geschäftsmodellen ein?
+Der Bundesregierung sind verschiedene Investitionsankündigungen und
+laufende Projekte von US-Digitalkonzernen wie z. B. Microsoft, Amazon Web
+Services, Google und NVIDIA in Recheninfrastrukturen bekannt. Teilweise
+erfolgen diese in Rechenzentren im Besitz dieser Unternehmen, teilweise in Co-
+Location-Rechenzentren, bei dem der Betreiber und Besitzer des Rechenzentrums 
+ein Drittunternehmen ist. Auch wenn dabei häufig vom Aufbau von KI-
+Rechenkapazitäten gesprochen wird, entscheidet sich in der Regel jedoch erst im 
+letzten Schritt der Umsetzung der Investitionsprojekte und ist abhängig von der 
+Nachfrage, welchen Anteil KI-taugliche Rechenkapazitäten am Gesamtangebot 
+von Rechenkapazitäten im jeweiligen Rechenzentrum ausmachen. Bei der 
+Wettbewerbsfähigkeit verschiedener Geschäftsmodelle wird darauf
+hingewiesen, dass es heute bereits über Geschäftsmodelle verschiedenster Unternehmen 
+einschließlich auch der oben genannten aufgrund von KI-Rechenkapazitäten 
+auch in Deutschland gibt.
+ 9. Teilt die Bundesregierung die Einschätzung einzelner
+Finanzmarktteilnehmer, wonach eine gigantische Fehlallokation von Kapital im KI-
+Sektor („Geldvernichtung“) mit destabilisierenden Folgen für die
+Weltwirtschaft ein reales Risiko darstellt (siehe Vorbemerkung der Fragesteller; 
+bitte ausführen)?
+Der KI-Sektor hat in der Vergangenheit sehr starke Wertzuwächse erzielt und 
+entwickelt sich ständig weiter. Die weitere Entwicklung wird maßgeblich
+davon abhängen, inwieweit sich die erheblichen Investitionen nachhaltig in
+wirtschaftlich tragfähige Geschäftsmodelle übersetzen lassen. Angesichts der
+Dynamik des Sektors und der Vielzahl miteinander verflochtener Einflussfaktoren 
+erscheint es zum jetzigen Zeitpunkt nicht möglich, sich auf eine pauschale
+Einschätzung festzulegen.
+10. Welche Auswirkungen hätte nach Einschätzung der Bundesregierung ein 
+möglicher Zusammenbruch einzelner marktbeherrschender KI-
+Unternehmen auf die deutsche Volkswirtschaft, insbesondere auf hiervon
+abhängige Zulieferer, Cloud-Kunden und institutionelle Anleger?
+Die Entwicklungen im KI-Sektor und ihre möglichen Wechselwirkungen mit 
+der deutschen Volkswirtschaft werden vor dem Hintergrund der
+fortschreitenden technologischen und wirtschaftlichen Integration zu beobachten sein. Die 
+Auswirkungen auf einzelne Unternehmen, Nutzergruppen und
+Kapitalmarktteilnehmer dürften dabei je nach Exponierung und den jeweiligen
+Marktbedingungen unterschiedlich ausfallen. Zu hypothetischen Zukunftsszenarien, deren
+Eintritt nicht vorhersehbar ist, nimmt die Bundesregierung keine Stellung. 
+Wichtig ist aus Sicht der Bundesregierung, dass mögliche aus KI-Technologien 
+entstehende Risiken und Abhängigkeiten im Blick behalten werden und
+deutsche Unternehmen resilient sind.
+11. Beobachten die Bundesbank sowie die Bundesanstalt für
+Finanzdienstleistungsaufsicht (Bafin) systemische Risiken durch die Verflechtung 
+deutscher respektive europäischer Finanzinstitute mit US-
+amerikanischen KI-Unternehmen und deren Finanzierungsstrukturen
+(Fremdkapital, Sonderzweckgesellschaften, zirkuläre Investitionsdeals), und wenn 
+ja, mit welchen Ergebnissen und Konsequenzen (bitte ausführen)?
+Die Deutsche Bundesbank und die Bundesanstalt für
+Finanzdienstleistungsaufsicht (Bafin) analysieren fortlaufend das Exposure deutscher bzw. europäischer 
+Finanzakteure gegenüber US-amerikanischen KI-Unternehmen sowie etwaige 
+Risiken in diesem Zusammenhang.
+Die Deutsche Bundesbank und die Bafin behalten die Entwicklungen und
+mögliche Auswirkungen auf die Stabilität des deutschen Finanzsystems im Blick 
+und können bei Bedarf geeignete Maßnahmen ergreifen.
+12. Trifft die Bundesregierung Vorkehrungen, um deutsche Unternehmen 
+und Behörden, die auf Cloud- und KI-Dienste US-amerikanischer
+Anbieter angewiesen sind, vor den Folgen einer möglichen Marktbereinigung 
+im KI-Sektor zu schützen, und wenn ja, welche?
+Bei der Entwicklung des KI-Sektors handelt es sich um Marktprozesse.
+Angesichts der Vielzahl von Anbietern gehört auch das Ausscheiden einzelner
+Anbieter zu den üblichen Konsolidierungsprozessen eines Marktes.
+Unternehmerische Herausforderungen dieser Art kann und wird der Staat nicht lösen.
+Unabhängig davon verfolgt die Bundesregierung das Ziel, einseitige
+strategische Abhängigkeiten von einzelnen Technologieanbietern zu reduzieren und 
+die Resilienz digitaler Infrastrukturen und Anwendungen zu stärken.
+Eine besondere Rolle kommt dabei dem Staat als Ankerkunde für souveräne 
+Cloud- und KI-Angebote zu. Unter anderem. mit dem Abschluss des
+Vergabeverfahrens für einen Rahmenvertrag für sichere, souveräne und leistungsstarke 
+KI-PaaS in Höhe von bis zu 250 Mio. Euro an die Konsortien der T-Systems 
+International GmbH und SVA System Vertrieb Alexander GmbH wurde das 
+deutsche KI-Ökosystem gestärkt. Darüber hinaus wurde mit dem Agentic AI 
+Hub der virtuelle, standortübergreifende „Maschinenraum“ für Agentic AI zur 
+Verknüpfung von Startups mit der (kommunalen) Verwaltung geschaffen. In 
+der ersten Pilotierung erprobten 19 Kommunen mit neun Startups wie
+autonome KI-Systeme Prozesse beschleunigen, Anträge prüfen und Mitarbeiterinnen 
+und Mitarbeiter entlasten können. Mit der im Oktober begonnenen zweiten 
+Phase bringen 38 Kommunen und 17 Start- bzw. Scaleups agentische KI-
+Lösungen in die Verwaltungspraxis. Dabei wird der Agentic AI Hub Lösungen 
+vom validierten Pilotstatus in den Regelbetrieb überführen, neue Use Cases
+erschließen und die KI-Lösungen weiter in die Fläche bringen. Eine Übersicht 
+über die teilnehmenden Kommunen und Startups ist abrufbar unter: https://bmd
+s.bund.de/themen/kuenstliche-intelligenz/ki-in-der-verwaltung/agentic-ai-hub.
+Darüber hinaus setzt die Bundesregierung insbesondere mit der
+Rechenzentrumsstrategie und auch der Hightech Agenda Deutschland auf die Stärkung 
+eigener technologischer Fähigkeiten, die Förderung wettbewerbsfähiger
+europäischer Cloud- und KI-Angebote sowie die Verfügbarkeit offener Standards 
+und interoperabler Lösungen. Diese sollen die Wahl- und
+Wechselmöglichkeiten für Unternehmen und öffentliche Einrichtungen verbessern und damit auch 
+Risiken entgegenwirken, die sich aus Veränderungen der Marktstruktur oder 
+dem Wegfall einzelner Anbieter (auch im KI-Bereich) ergeben können.
+Konkrete Maßnahmen für die Digitalisierung der Verwaltung sind unter
+anderem der Deutschland-Stack, mit dem die Bundesregierung auf Grundlage
+offener Standards und interoperabler Komponenten eine souveräne, leistungsfähige 
+digitale Infrastruktur aufbaut. Hinzu kommen die Förderung offener und
+souveräner digitaler Lösungen durch das Zentrum für Digitale Souveränität der
+Öffentlichen Verwaltung (ZenDiS) z. B. dessen Open-Source-Arbeitsplatzlösung 
+openDesk sowie die Unterstützung offener digitaler Basistechnologien durch 
+die Sovereign Tech Agency (SovTech). Mit der Nationalen
+Rechenzentrumsstrategie stärkt die Bundesregierung zudem die heimischen
+Rechenzentrumskapazitäten und die Voraussetzungen für leistungsfähige und souveräne digitale 
+Infrastrukturen.
+Ergänzend unterstützt die Bundesregierung die Zusammenarbeit mit
+vertrauenswürdigen internationalen Partnern. Ein Beispiel hierfür ist die politische 
+Unterstützung des geplanten Zusammenschlusses des deutschen KI-
+Unternehmens Aleph Alpha mit dem kanadischen Unternehmen Cohere. Ziel ist die
+Entwicklung eines international wettbewerbsfähigen Anbieters souveräner KI-
+Lösungen und damit die Schaffung zusätzlicher technologischer Alternativen zu 
+marktbeherrschenden Anbietern.
+13. Welche aktuellen Studien oder Prognosen liegen der Bundesregierung 
+zum Substitutionspotenzial generativer KI für geistige Tätigkeiten
+(Recherche, Analyse, Beratung, Vermittlung) in Deutschland vor?
+14. Welche Branchen und Berufsgruppen identifiziert die Bundesregierung 
+als besonders betroffen von einem eventuellen KI-bedingten
+Arbeitsplatzabbau, speziell in der Dienstleistungsbranche?
+Die Fragen 13 und 14 werden gemeinsam beantwortet.
+Die Bundesregierung beobachtet die Entwicklungen im Zusammenhang mit 
+dem Einsatz von KI und ihren Auswirkungen auf den Arbeitsmarkt sehr genau. 
+Das erfolgt u. a. im Rahmen des bereits seit 2020 im Bundesministerium für 
+Arbeit und Soziales (BMAS) angesiedelten Observatorium KI in Arbeit und 
+Gesellschaft (kurz: KI-Observatorium). Beispielhafte Studien und Berichte zu 
+den genannten Fragestellungen sind:
+• Eine IAB-Szenarioanalyse (Zika et al. 2025, IAB-Forschungsbericht 
+23/2025) zeigt, dass KI das jährliche Wirtschaftswachstum über 15 Jahre 
+um durchschnittlich 0,8 Prozentpunkte erhöhen kann. Abgebaute und neu 
+aufgebaute Arbeitsplätze gleichen sich nach 15 Jahren insgesamt aus, es 
+kommt aber zu deutlichen Verschiebungen zwischen Wirtschaftsbereichen, 
+die rund 1,6 Millionen Arbeitsplätze betreffen.
+• Ein IAB-Kurzbericht auf Grundlage des IAB-Betriebspanels (Friedrich und 
+Kagerl 2026 (IAB-Kurzbericht 08/2026)) zeigt, dass der Anteil der
+Betriebe, die generative KI nutzen, von 5 Prozent im Jahr 2023 auf knapp 
+25 Prozent im Jahr 2025 gestiegen ist. Genutzt wird sie u. a. für
+Textbearbeitung, Programmierung und Kundenkommunikation in großen und jungen 
+Betrieben sowie in wissensintensiven Dienstleistungsbranchen und im
+Finanz- und Versicherungswesen.
+• Der Policy Brief des Kiel Instituts für Weltwirtschaft (Engberg et al. 2026, 
+Policy Brief Nr. 198) zeigt, dass kognitive, wenig körperliche und sozial
+interaktionsarme Berufe wie Datenanalysten, Softwareentwickler und
+Übersetzer durch KI hoch betroffen sind. Auf Unternehmensebene zeigen sich 
+keine erkennbaren Auswirkungen der KI-Exposition auf die
+Gesamtbeschäftigung, wohl aber eine deutliche Verbesserung der Qualifikationen.
+• Für die US-Studie, in der erstmals behauptet wurde, dass der
+Beschäftigungsrückgang der Berufseinsteigenden auf den Einsatz von KI
+zurückzuführen sei (https://digitaleconomy.stanford.edu/publication/canaries-in-the-c
+oal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intellig
+ence), räumen die Autoren in einem Update ein, dass sich der Effekt erst ab 
+2024 belastbar zeigt und daher eher mit der veränderten Zinspolitik im
+Zusammenhang steht.
+• Das vom BMAS geförderte Forschungsprojekt GENKIA (WZB,
+Weizenbaum-Institut, HIIG) zeigt in Fallstudien zu Marketing,
+Personalmanagement, Programmierung, Journalismus und öffentlicher Verwaltung, dass
+generative KI in der Wissensarbeit bislang eher als Unterstützung denn als
+Ersatz menschlicher Arbeit wirkt.
+• Die vom BMAS beauftragte Szenariostudie „Generative KI:
+Technologieszenarien und Auswirkungen auf Arbeit bis 2030“ (Hubel et al., 2025) 
+zeigt, dass die Beschäftigungswirkung generativer KI von strategischen 
+Entscheidungen in Politik und Wirtschaft abhängt.
+Diese Studien messen überwiegend KI-Exposition oder beruhen auf
+Szenarioannahmen. Ob automatisierbare Tätigkeiten tatsächlich von KI übernommen 
+werden, hängt von wirtschaftlichen, organisatorischen, rechtlichen und
+ethischen Faktoren ab. Nach aktuellem Kenntnisstand führt der Einsatz von KI in 
+Deutschland bislang nicht zu einem systematischen Beschäftigungsabbau. Die 
+Bundesregierung nimmt keine Einstufung bestimmter Branchen oder
+Berufsgruppen als besonders betroffen vor.
+Veränderungen sind vor allem dort zu erwarten, wo informationsintensive, 
+regelbasierte Kerntätigkeiten dominieren. Nach der Szenarioanalyse des IAB 
+könnte der Arbeitskräftebedarf in IT- und Informationsdienstleistungen sowie 
+in Erziehung und Unterricht steigen und in unternehmensnahen
+Dienstleistungen und der Lagerei sinken. In Berufen mit hoher sozialer Komponente, etwa in 
+Pflege und Erziehung, kann KI einzelne Aufgaben wie die Dokumentation
+unterstützen. Zugleich bietet KI die Chance, bislang ins Ausland verlagerte
+Tätigkeiten wieder an den Standort Deutschland zurückzuholen (Reshoring). Dies 
+betrifft zum Beispiel die Softwareentwicklung. So betreibt z. B. Mercedes-
+Benz nach Presseberichten seit einigen Jahren eine gezielte Insourcing- und 
+„Reshoring“-Strategie bei der Fahrzeugsoftware, um die Abhängigkeit von
+externen Zulieferern zu verringern und die digitale Kontrolle über das eigene
+Produkt zurückzugewinnen. Im Übrigen wird auf die Antwort der
+Bundesregierung zu den Fragen 1 und 2 auf Bundestagsdrucksache 21/7620 verwiesen.
+Allgemeine Informationen zu möglichen Beschäftigungswirkungen der
+digitalen Transformation können zudem der Themenseite „Transformation“ im
+Internet-Angebot der Statistik der Bundesagentur für Arbeit (BA) entnommen
+werden (Link: https://statistik.arbeitsagentur.de/DE/Navigation/Statistiken/Theme
+n-im-Fokus/Transformation/Transformation-Nav.html).
+15. Verfügt die Bundesregierung über ein Konzept zur Kompensation KI-
+bedingter Arbeitsplatzverluste, etwa durch Umschulung, Weiterbildung 
+oder weitere arbeitsmarktpolitische Instrumente, und wenn ja, wie ist 
+dieses ausgestaltet?
+Nach aktuellem Kenntnisstand der Bundesregierung führt der zunehmende
+Einsatz von KI in Deutschland bislang nicht zu einem systematischen
+Beschäftigungsabbau. Es führt aktuell vielmehr zu einem Umbau von Tätigkeiten und 
+Aufgabenprofilen. Beispielsweise können sich Tätigkeitsschwerpunkte
+innerhalb von Berufen verschieben, sodass künftig andere Qualifikationen und 
+Kompetenzen – auch durch den Umgang mit KI – benötigt werden. Für den 
+produktiven, sicheren und menschenzentrierten KI-Einsatz ist es aus Sicht der 
+Bundesregierung zentral, dass Beschäftigte in der Breite befähigt werden, KI 
+verantwortungsvoll bei der Arbeit einsetzen zu können. Gezielte Weiterbildung 
+gewinnt an Bedeutung.
+Hierzu steht bei Erfüllen der Fördervoraussetzungen auch die
+Weiterbildungsförderung der Bundesagentur für Arbeit für entsprechende Qualifizierungen zur 
+Verfügung. Dabei berücksichtigen die Agenturen für Arbeit die regionalen
+Bedürfnisse des Arbeitsmarktes. Darüber hinaus setzt die Bundesregierung die 
+Nationale Weiterbildungsstrategie in der 21. Legislaturperiode ambitioniert fort 
+und wird sich unter anderem mit den Chancen von KI für die Weiterbildung 
+auseinandersetzen (Bundestagsdrucksache 21/3730). Im Rahmen der im
+Koalitionsvertrag vorgesehenen Weiterentwicklung der Fachkräftestrategie schlägt 
+das BMAS zudem vor, die Fachkräftestrategie um das Handlungsfeld „Einsatz 
+Künstlicher Intelligenz (KI) und Digitalisierung“ zu ergänzen.
+Bei einem perspektivisch ohne Qualifizierung drohenden Verlust des
+Arbeitsplatzes durch strukturwandelbedingte Veränderungen wie zum Beispiel durch 
+Digitalisierung, können Unternehmen auch mit dem Qualifizierungsgeld dabei 
+unterstützt werden, Beschäftigte durch Qualifizierungen im Unternehmen zu 
+halten. Sollte ein Personalabbau unausweichlich sein, kann die Bundesagentur 
+für Arbeit mit Transferinstrumenten Betroffene dabei unterstützen, möglichst 
+ohne Zeiten der Arbeitslosigkeit in eine neue Beschäftigung zu wechseln. Die 
+Bundesagentur für Arbeit kann notwendige Weiterbildungen durch die
+vollständige oder teilweise Übernahme der Weiterbildungskosten fördern. Die
+Transferinstrumente können bei Bedarf auch mit Arbeitsmarktdrehscheiben
+verbunden werden.
+Ziel der Bundesregierung ist es, den Einsatz von KI so zu gestalten, dass
+Unternehmen die Produktivitätspotenziale von KI erschließen können und dabei 
+gleichzeitig gute Jobs und Beschäftigung insgesamt entstehen oder durch
+Zusatzqualifizierungen erhalten bleiben. Das BMAS unterstützt das ganz konkret 
+z. B. mit der Förderrichtlinie „Produktiver und beschäftigungsorientierter
+Einsatz von KI in Wirtschaft und Arbeit“ (PROKIWA). Um Unternehmen,
+insbesondere kleine und mittlere Unternehmen, bei Herausforderungen im Bereich 
+KI zu begleiten, fördert das BMAS zudem die Zukunftszentren, die
+Geschäftsführende und Beschäftigte mit Beratung und Qualifizierung unterstützen. Das 
+BMWE unterstützt mit dem Förderschwerpunkt Mittelstand-Digital u. a. die 
+Qualifizierung von Mitarbeitenden und Führungskräften in KMU zu
+Digitalisierung, KI-Einführung und -Anwendung sowie zu Cybersicherheit.
+Zugleich bietet der Einsatz von KI die Chance, bislang ins Ausland verlagerte 
+Tätigkeiten wieder am Standort Deutschland anzusiedeln.
+16. Welche Erkenntnisse liegen der Bundesregierung zum bisherigen
+tatsächlichen (nicht nur prognostizierten) Beschäftigungseffekt generativer 
+KI in Deutschland vor, aufgeschlüsselt nach Branchen?
+Nach aktuellem Kenntnisstand der Bundesregierung führt der zunehmende
+Einsatz von KI in Deutschland bislang nicht zu einem systematischen
+Beschäftigungsabbau. Die Wirkungen von KI sind nur schwer von den Folgen der
+wirtschaftlichen Schwächephase und des Strukturwandels durch Demographie,
+Dekarbonisierung und Digitalisierung zu trennen.
+Eher wird ein Wandel von Tätigkeiten und Aufgabenprofilen beobachtet. Mit 
+dem seit 2021 geförderten Forschungsprojekt „ai:conomics“ werden die
+Auswirkungen von KI in der betrieblichen Praxis in experimentellen Feldstudien in 
+Großunternehmen untersucht. Eine im Rahmen dieses Projekts erstellte
+Synthese bestehender Mikroevidenz (Fregin et al. 2026) zeigt, dass KI die Arbeit in 
+Betrieben bislang eher verändert als verdrängt. Das ebenfalls vom BMAS
+geförderte Forschungsprojekt „Generative KI in der Arbeitswelt“ (GENKIA)
+untersucht die Auswirkungen in Marketing, Personalmanagement,
+Programmierung, Journalismus und öffentlicher Verwaltung. Nach den bisherigen
+Ergebnissen wirkt generative KI eher als Unterstützung denn als Ersatz menschlicher 
+Arbeit. Neue Anforderungen an die Beschäftigten sind die Bewertung von KI-
+Ergebnissen und der Erhalt fachlicher Tiefe. Zu den Chancen einer
+Rückverlagerung von Tätigkeiten an den Standort Deutschland wird auf die Antwort zu 
+den Fragen 13 und 14 verwiesen. Für den Berufseinstieg wird auf die Antwort 
+der Bundesregierung zu den Fragen 1 bis 3 und 7 auf Bundestagsdrucksache 
+21/7620 verwiesen.
+17. Plant die Bundesregierung die Einrichtung einer Enquete-Kommission, 
+das Verfassen eines Gutachtens oder die Einsetzung einer
+ressortübergreifenden Arbeitsgruppe zur systematischen Begleitung des KI-
+bedingten Strukturwandels am Arbeitsmarkt (bitte ausführen)?
+Die Einsetzung einer Enquête-Kommission obliegt dem Deutschen Bundestag. 
+Die Bundesregierung begleitet den Strukturwandel durch KI bereits
+systematisch durch bestehende Strukturen und laufende Vorhaben. Dazu gehört die im 
+Jahr 2018 im BMAS eingerichtete Denkfabrik Digitale Arbeitsgesellschaft. Seit 
+2020 ist dort auch das KI-Observatorium angesiedelt, welches gemeinsam mit 
+Unternehmen, Wissenschaft, Gewerkschaften und Zivilgesellschaft die
+Auswirkungen von KI auf die Arbeitswelt untersucht (mehr Informationen unter
+folgendem Link: www.ki-observatorium.de). Auch die ressortübergreifende
+Zusammenarbeit ist seit langem etabliert und findet derzeit zum Beispiel im
+Rahmen der KI-Task Force und der KI-Roadmap der Hightech Agenda
+Deutschland statt, welche auch arbeitsmarktbezogene Meilensteine und Maßnahmen 
+beinhaltet.
+18. Wie bewertet die Bundesregierung das Verhältnis von kurzfristigen Zeit- 
+und Effizienzgewinnen durch KI-Einsatz in Unternehmen zu
+mittelfristigen Beschäftigungsrisiken, und liegen ihr hierzu eigene
+Folgenabschätzungen und Handlungsempfehlungen vor?
+Die Bundesregierung sieht in Produktivitätsgewinnen durch KI und in der 
+Sicherung von Beschäftigung keinen grundsätzlichen Gegensatz. Deutschland 
+ist als alternde Arbeitsgesellschaft auf die produktive Nutzung technologischer 
+Innovationen angewiesen. Diverse Studien zeigen das Potenzial von KI für
+Produktivitätssteigerungen und Wachstum (vgl. Filipucci et al., 2026 [OECD]; 
+KfW Research 2026; Bick et al., 2026). Produktivitätsgewinne stellen sich
+jedoch nicht automatisch ein, sondern setzen u. a. komplementäre Investitionen, 
+die Einbettung in Arbeitsabläufe und entsprechenden Kompetenzaufbau voraus. 
+Sie können zu positiven Beschäftigungseffekten führen, wenn sie durch
+Mitbestimmung, Investitionen in Kompetenzen und einer vorausschauenden
+Arbeitsmarktpolitik begleitet werden.
+Dies gilt auch für den Berufseinstieg. KI kann Tätigkeiten übernehmen, die
+bislang dem Kompetenzerwerb und der Einarbeitung von Berufseinsteigerinnen 
+und Berufseinsteigern dienten. Unternehmen werden gleichwohl auch künftig 
+in die Besetzung von Juniorstellen sowie in strukturierte Ausbildungs- und
+Einarbeitungsformate investieren müssen, damit der Personalbedarf gedeckt und 
+Fachkräfteengpässen vorgebeugt wird. Mit Blick auf die demografische
+Entwicklung wäre es zudem kurzsichtig, nicht auszubilden (vgl. auch
+Bundestagsdrucksache 21/7620).
+Zu den Folgenabschätzungen wird auf die Antwort zu Frage 13 verwiesen. Als 
+Handlungsempfehlungen verfolgt die Bundesregierung die Qualifizierung in 
+der Breite und die Förderung der beschäftigungsorientierten Anwendung von 
+KI im Betrieb (vgl. auch die Antwort zu Frage 15).
+19. Wie bewertet die Bundesregierung den aktuellen Stand der
+Wettbewerbsfähigkeit europäischer respektive deutscher KI-Sprachmodelle im
+internationalen Vergleich zu US-amerikanischen und chinesischen Anbietern?
+20. Hat die Bundesregierung das Ziel, die Entwicklung eines global
+wettbewerbsfähigen europäischen KI-Sprachmodells zu fördern, und wenn ja, 
+welche Maßnahmen plant sie zum Erreichen dieses Zieles?
+24. Welche Rolle spielt aus Sicht der Bundesregierung ein mögliches
+europäisches Gegengewicht (etwa in Form gemeinsamer EU-Initiativen,
+öffentlicher Förderprogramme oder Beteiligungen) zur Verringerung der 
+Abhängigkeit von außereuropäischen KI-Anbietern (bitte ausführen)?
+Die Fragen 19, 20 und 24 werden gemeinsam beantwortet.
+Deutschland und Europa verfügen über starke Forschung, innovative Start-ups 
+und einzigartige Kompetenzen in Mittelstand und Industrie. Besondere Stärken 
+liegen dabei in der Vertrauenswürdigkeit und der Eignung für den Einsatz in 
+sensiblen Anwendungsfeldern in Industrie und Verwaltung. Besondere
+Chancen bestehen zudem im Bereich der industriellen KI (Industrial AI).
+Bereits heute verfügt Deutschland über KI-Unternehmen, die in ihren
+Bereichen international führend sind. Dies umfasst z. B. Black Forests Labs im
+Bereich von KI-Modellen für die Bildgenerierung, DeepL im Bereich Sprache/
+Übersetzung, Neura Robotics im Bereich intelligenter KI- und Robotic
+Lösungen, Prior Labs für tabellarische Foundation Models, Aleph Alpha mit dem 
+neuen Modell Kolibri, Langdock (reverse flip) und n8n. Mit SOOFI-S gibt es 
+außerdem z. B. ein deutsch und europäisch eingebettetes Konsortialprojekt zur 
+Entwicklung souveräner KI-Basismodelle.
+Gleichzeitig arbeitet die Bundesregierung sowohl alleine als auch gemeinsam 
+mit Partnern in Europa intensiv daran, die Position weiter auszubauen. Dies
+betrifft zum Beispiel den Ausbau der Rechenkapazitäten und die Aktivitäten etwa 
+im Rahmen der Next Frontier AI Challenge der SPRIND und dem IPCEI AI. 
+Zudem stärkt das BMDS als Ankerkunde im Rahmen des Agentic AI Hub
+gezielt KI-Startups. Bislang wurden insgesamt KI-Lösungen von 26 Startups im 
+Hub eingebracht. Eine Übersicht über die teilnehmenden Kommunen und
+Startups ist abrufbar unter: https://bmds.bund.de/themen/kuenstliche-intelligenz/ki-i
+n-der-verwaltung/agentic-ai-hub.
+Auch international setzt sich die Bundesregierung für sichere und souveräne KI 
+ein. Die gemeinsam mit Kanada angekündigte Förderung des LawZero-
+Vorhabens „Scientist AI“ verfolgt beispielsweise einen „Safe-by-Design“-Ansatz, bei 
+dem Sicherheit und Vertrauenswürdigkeit bereits bei der Entwicklung
+fortschrittlicher KI-Systeme berücksichtigt werden sollen.
+21. Wie schätzt die Bundesregierung das Risiko ein, dass deutsche
+Verbraucher, Unternehmen, Wissenschaftseinrichtungen, Verwaltung und Militär 
+im Krisenfall von KI-Anwendungen US-amerikanischer oder, soweit 
+vorhanden, chinesischer Anbieter abgeschnitten werden könnten?
+Derzeit liegen der Bundesregierung keine Hinweise auf einen solchen Fall vor.
+22. Welche Erkenntnisse liegen der Bundesregierung darüber vor, in
+welchem Umfang deutsche Bundesbehörden derzeit von KI-Anwendungen 
+und Cloud-Infrastruktur US-amerikanischer Anbieter abhängig sind 
+(bitte ausführen)?
+Die Bundesregierung ist sich bewusst, dass auf dem deutschen (wie auch dem 
+europäischen) Markt für KI-Anwendung und Cloud-Infrastruktur einige US-
+amerikanische Anbieter hohe Marktanteile verzeichnen. Einseitige
+Abhängigkeiten bringen Risiken mit sich. Um diese Risiken zu minimieren, verfolgt die 
+Bundesregierung strategische Gegenmaßnahmen wie den verstärkten Einsatz 
+von Open-Source-Alternativen und den Ausbau und die Nutzung europäischer 
+Infrastrukturen. Zudem sollen einheitliche Souveränitätskriterien, wie sie im 
+Moment auch im Rahmen des EU Cloud and AI Development Act verhandelt 
+werden, bei öffentlichen Ausschreibungen dazu beitragen, die technologische 
+Eigenständigkeit der Verwaltung langfristig zu erhöhen. Die zentrale KI-
+Plattform der Bundesverwaltung KIPITZ beispielsweise wird in den Rechenzentren 
+des ITZBund betrieben, ist modular und modellagnostisch aufgebaut und nutzt 
+OpenSource und OpenWeight-Modelle verschiedener Anbieter. Zudem nutzt 
+der Bund seine Nachfrage als Ankerkunde gezielt, um souveräne Cloud- und 
+KI-Angebote zu stärken. Im Rahmen des Vergabeverfahrens für einen
+Rahmenvertrag für sichere, souveräne und leistungsstarke KI-PaaS in Höhe von bis zu 
+250 Mio. Euro standen gezielt Souveränitätskriterien im Fokus der
+Vergabekriterien. Und mit dem Agentic AI Hub fördert das BMDS gezielt das KI-Startup-
+Ökosystem in Deutschland und Europa. Insoweit wird auf die Antwort zu 
+Frage 12 verwiesen.
+Im Übrigen wird auf die Antwort der Bundesregierung auf
+Bundestagsdrucksache 21/1264 verwiesen sowie hinsichtlich der Übersicht zu etwaigen KI-
+Systemen auf den Marktplatz der KI-Möglichkeiten, abrufbar unter: https://maki.be
+ki.bund.de/a/bmi-makimo-app.
+23. Hält die Bundesregierung die im Koalitionsvertrag zwischen CDU, CSU 
+und SPD beziehungsweise in bisherigen Digitalstrategien formulierten 
+Ziele zur digitalen Souveränität angesichts der beschriebenen
+Marktdominanz von Unternehmen aus Übersee noch für erreichbar, und vor
+welchem Zeithorizont (bitte ausführen)?
+Die Bundesregierung hält die Ziele zur Stärkung der digitalen Souveränität 
+Deutschlands und Europas weiterhin für erreichbar und verfolgt diese
+konsequent.
+Digitale Souveränität bedeutet dabei nicht vollständige technologische
+Unabhängigkeit oder Abschottung von internationalen Märkten. Vielmehr geht es 
+darum, die Fähigkeit zur selbstbestimmten Gestaltung der digitalen
+Transformation zu stärken, einseitige strategische Abhängigkeiten zu reduzieren und 
+eigene technologische Fähigkeiten sowie wettbewerbsfähige digitale
+Wertschöpfung in Deutschland und Europa auszubauen.
+Die Bundesregierung verfolgt hierzu einen langfristig angelegten Ansatz, der 
+insbesondere auf die Stärkung digitaler Infrastrukturen, die Entwicklung
+wettbewerbsfähiger europäischer Technologien und Unternehmen sowie die
+Förderung offener und interoperabler Lösungen ausgerichtet ist.
+Die Stärkung der digitalen Souveränität ist eine langfristige Daueraufgabe, die 
+angesichts der fortlaufenden technologischen und wirtschaftlichen
+Entwicklungen kontinuierlich verfolgt und weiterentwickelt werden muss und wird.
+25. Wie bewertet die Bundesregierung das Erpressungspotenzial, das sich 
+aus technologischen Abhängigkeiten im KI-Bereich für die deutsche
+Außen- und Sicherheitspolitik ergeben könnte (bitte ausführen)?
+Die Bundesregierung misst der digitalen Souveränität im Bereich der
+Künstlichen Intelligenz hohe Bedeutung bei. Sie verfolgt dabei das Ziel, einseitige
+Abhängigkeiten zu vermeiden und die eigene Handlungsfähigkeit dauerhaft zu 
+sichern. Die Bundesregierung arbeitet dabei etwa mit europäischen Partnern 
+eng zusammen und investiert außerdem gezielt in Daten- und
+Recheninfrastruktur.
+26. Wie bewertet die Bundesregierung die im Einleitungsteil geäußerte
+Einschätzung, dass der AI Act der EU vorrangig individuelle Risiken
+(Diskriminierung, Social Scoring, Verhaltensvorhersage) behandelt,
+systemische Risiken sehr leistungsfähiger Sprachmodelle aber nur unzureichend 
+vage erfasst (bitte ausführen)?
+Die EU KI-VO folgt einem risikobasierten Ansatz, der sich grundsätzlich nach 
+dem Verwendungszweck eines KI-Systems richtet. Darüber hinaus sieht die KI-
+Verordnung Pflichten für Anbieter von KI-Modellen mit allgemeinem
+Verwendungszweck vor und weitergehende für Anbieter solcher Modelle mit
+systemischen Risiken. Systemische Risiken ergeben sich aus den Fähigkeiten bzw. 
+Eigenschaften eines Modells. Anbieter von KI-Modellen mit systemischem
+Risiko verpflichtet Artikel 55 der KI-Verordnung insbesondere zu systematischen 
+adversarialen Tests, zur Identifizierung und Minimierung systemischer Risiken, 
+zur unverzüglichen Meldung schwerwiegender Vorfälle sowie zur
+Gewährleistung angemessener Cybersicherheit, um Risiken wie unkontrollierte
+Modellhandlungen, Sicherheitslücken und unbefugte Zugriffe wirksam zu verhindern 
+und zu begrenzen. Diese Bestimmungen werden durch weitere Instrumente wie 
+Durchführungsrechtsakte, Praxisleitfäden und Leitlinien weiter ausgelegt und 
+operationalisiert, insbesondere durch den Praxisleitfaden für KI-Modelle mit 
+allgemeinem Verwendungszweck und die Leitlinien zu den Verpflichtungen für 
+Anbieter von KI-Modellen mit allgemeinem Verwendungszweck (siehe auch 
+oben die Antwort zu Frage 7).
+27. Sieht die Bundesregierung Nachbesserungsbedarf am AI Act, um dem 
+raschen technologischen Fortschritt bei großen Sprachmodellen besser 
+gerecht zu werden, und wenn ja, mit welchen konkreten Vorschlägen 
+bringt sie sich auf EU-Ebene ein (bitte ausführen)?
+Der Rechtsrahmen selbst bietet bereits verschiedene Anpassungsmöglichkeiten, 
+beispielsweise durch nachgelagerte Rechtsakte, Leitlinien etc. Zudem wurde 
+kürzlich mit dem sogenannten KI-Omnibus auf erste Erfahrungen in der
+Durchführung der KI-VO und aktuelle Entwicklungen reagiert. Unabhängig davon 
+steht die Bundesregierung mit Blick auf die aktuellen KI-Sicherheitsvorfälle in 
+engem Austausch mit dem EU AI Office als zuständiger Aufsichtsbehörde. Sie 
+wird die praktische Anwendung der KI-Modelle betreffenden Regelungen der 
+KI-Verordnung und ihre Wirksamkeit fortlaufend beobachten.
+28. Liegen der Bundesregierung Erkenntnisse darüber vor, ob, und wenn ja, 
+wie die im April sowie Juli 2026 berichteten Modellverhalten (Mythos, 
+OpenAI-Vorfall) unter die bestehenden Melde- und Prüfpflichten des 
+AI Act für Modelle mit systemischem Risiko fallen würden (siehe
+Vorbemerkung der Fragesteller, bitte ausführen)?
+Für die Aufsicht von KI-Modellen mit allgemeinem Verwendungszweck ist 
+grundsätzlich die EU KOM (AI Office) zuständig. Dazu gehören u. a. die
+Evaluierung von Modellen mit systemischem Risiko und die Überwachung der 
+Einhaltung der einschlägigen Melde- und Prüfpflichten. Es wird auf die
+Antworten zu den Fragen 7 und 26 verwiesen. Die Bundesregierung steht mit dem 
+für die Aufsicht über die Regelungen der KI-Verordnung betreffend KI-
+Modellen zuständige EU AI Office in engem Austausch. Im Zusammenhang mit dem 
+Hugging‑Face-Vorfall hat das EU AI Office z. B. Informationen angefordert 
+und erhalten und steht mit dem Unternehmen dazu im Austausch.
+29. Wie will die Bundesregierung sicherstellen, dass eine künftige nationale 
+Regulierung, die typischerweise erst nach einem langwierigen
+Gesetzgebungsverfahren, begleitet von Anhörungen mit Sachverständigen, in 
+Kraft tritt, mit dem Entwicklungstempo generativer KI Schritt hält?
+Angesichts der hohen Dynamik im Bereich der generativen KI erscheint es
+zunächst sachgerecht, die aus der Anwendung und praktischen Umsetzung des 
+bestehenden europäischen Rechtsrahmens, insbesondere der KI-Verordnung, 
+gewonnenen Erfahrungen auszuwerten. Erst auf dieser Grundlage lässt sich
+belastbar beurteilen, ob und in welchen Bereichen ergänzende nationale
+Regelungen erforderlich sind. Dabei wird auch zu berücksichtigen sein, dass der 
+europäische Rechtsrahmen selbst Mechanismen zur Weiterentwicklung und 
+Anpassung an den technologischen Fortschritt vorsieht, etwa durch
+regelmäßige Evaluierungen und Überprüfungen der KI-Verordnung sowie die
+Möglichkeit, bestimmte Anhänge und technische Anforderungen im Wege
+delegierter Rechtsakte anzupassen. Zudem gilt es, ein ausgewogenes Verhältnis
+zwischen notwendiger Regulierung und der Förderung von Innovationen zu
+wahren.
+30. Verfügt die Bundesregierung über ein ressortübergreifendes
+Gesamtkonzept zum Umgang mit den Risiken und Grenzen generativer KI, das über 
+die Förderung von Anwendungschancen hinausgeht, und wenn ja, wo ist 
+dieses dokumentiert?
+31. Welche Bundesministerien beziehungsweise nachgeordneten Behörden 
+sind aktuell mit der Bewertung der hier genannten Risiken (Sicherheit, 
+Finanzstabilität, Arbeitsmarkt, digitale Souveränität) befasst, und wie ist 
+deren Zusammenarbeit organisiert?
+Die Fragen 30 und 31 werden gemeinsam beantwortet.
+Die genannten Risiken betreffen querschnittlich viele verschiedene
+Handlungsfelder, die sich nicht auf den Zuständigkeitsbereich einzelner Ressorts der
+Bundesregierung oder nachgeordneter Behörden beschränken. Jede Bewertung der 
+genannten Risiken in ihrem jeweiligen spezifischen Kontext erfolgt daher 
+innerhalb der Bundesregierung nach dem Ressortprinzip, wobei je nach
+konkreter Fragestellung unterschiedliche Ressorts und Behörden eingebunden werden.
+32. Hält es die Bundesregierung ethisch für vertretbar, wenn KI-Systeme in 
+der Pflege schwer kranker und/oder dementer Patienten zum Einsatz 
+kommen (vgl. www.zqp.de/thema/kuenstliche-intelligenz/)?
+a) Liegen der Bundesregierung unabhängige wissenschaftliche Studien 
+über den Einsatz von LLM in der Pflege vor, und wenn ja, was ist 
+deren Quintessenz?
+b) Kann die Bundesregierung das Risiko einer Verletzung der
+Menschenwürde und der Intimsphäre einer zu pflegenden Person
+erkennen, wenn Sensoren, Kameras und/oder Roboter KI-gesteuert in der 
+Pflege zum Einsatz kommen (bitte ausführen)?
+c) Kann die Bundesregierung das Risiko einer Verletzung der
+Selbstbestimmung einer zu pflegenden Person erkennen, wenn eine KI-
+gestützte Überwachung des persönlichen Lebensraumes und des
+Tagesablaufes Teil des individuellen Pflegeplanes werden (bitte
+ausführen)?
+d) Kann die Bundesregierung das Risiko einer Verletzung des Schutzes 
+der Daten einer zu pflegenden Person erkennen, wenn diese Daten im 
+Pflegeprozess automatisiert und digitalisiert und gegebenenfalls in 
+der Cloud gespeichert werden (bitte ausführen)?
+Die Fragen 32 bis 32d werden gemeinsam beantwortet.
+Künstliche Intelligenz birgt sehr große Chancen für eine älter werdende
+Gesellschaft. Vor diesem Hintergrund hält es die Bundesregierung grundsätzlich für 
+vertretbar, KI-Systeme auch in der Pflege unterstützend einzusetzen. Der
+Koalitionsvertrag hält hierzu beispielsweise fest: „Wir wollen eine KI-unterstützte 
+Behandlungs- und Pflegedokumentation ermöglichen“. International nimmt 
+insbesondere Japan beim Einsatz von KI und Robotik in der Pflege eine
+Vorreiterrolle ein. Für die ethische Einordnung verweist die Bundesregierung auf die 
+Stellungnahmen des Deutschen Ethikrates (Robotik für gute Pflege (2020); 
+Mensch und Maschine – Herausforderungen durch Künstliche Intelligenz 
+(2023)).
+Zur Fragestellung ob und wie der Einsatz von sozialer Robotik in der Pflege 
+verantwortungsvoll gelingen kann, hat das Bundesministerium für Gesundheit 
+im Zeitraum vom 1. November 2022 bis zum 31. August 2025 das Projekt 
+E-cARE „Ethics Guidelines for Socially Assistive Robots in Elderly Care: An 
+Empirical-Participatory Approach“ gefördert. Im Rahmen des Projekts fand 
+u. a. eine Bürgerkonferenz statt, bei der durch einen partizipatorischen Ansatz 
+diese Frage, zusätzlich zur wissenschaftlichen Auseinandersetzung,
+ausgehandelt wurde.
+Ob eine Verletzung der Menschenwürde oder des Rechts auf informationelle 
+Selbstbestimmung gegeben sein kann, hängt von näheren Umständen ab (u. a. 
+vom Vorliegen der Einwilligung und der Einwilligungsfähigkeit), die in den 
+Fragen nicht beschrieben sind. Die Bundesregierung verweist zudem auf die 
+EU KI-Verordnung und die EU Datenschutz-Grundverordnung (DSGVO). Die 
+darin enthaltenen Vorgaben und Verbote adressieren auch die von den
+Fragestellenden aufgeworfenen Risiken.
+33. Hält es die Bundesregierung ethisch für vertretbar, wenn KI-Systeme als 
+quasi therapeutische Korrespondenten genutzt werden können (vgl. 
+www.tagesspiegel.de/wissen/junge-menschen-reden-mit-ki-uber-ihre-psy
+che-fachleute-warnen-vor-gefahrlichem-trend-15530564.html)?
+a) Liegen der Bundesregierung unabhängige wissenschaftliche Studien 
+über den quasi therapeutischen Einsatz von LLM vor, und wenn ja, 
+was ist deren Quintessenz?
+b) Kann die Bundesregierung das Risiko einer falschen Einschätzung 
+oder eines fatalen Ratschlags eines LLM in einer individuellen
+Krisensituation erkennen (bitte ausführen)?
+c) Kann die Bundesregierung das Risiko einer Verletzung des Schutzes 
+der Daten eines Menschen, der mit einem LLM ein quasi
+therapeutisches Gespräch führt, erkennen, etwa wenn diese Daten ohne Wissen 
+und Zustimmung fortan zum Training des Modells herangezogen 
+werden (bitte ausführen)?
+d) Kann die Bundesregierung das Risiko einer psychischen
+Abhängigkeit einer Person, die in therapeutischer Absicht mit einem LLM 
+kommuniziert und dabei der Illusion erliegt, das Modell habe ein
+Bewusstsein und zeige Empathie, erkennen (bitte ausführen)?
+Die Fragen 33 bis 33d werden gemeinsam beantwortet.
+Der Bundesregierung sind Studien bekannt, die beispielsweise die Erfahrungen 
+beleuchten von Menschen mit Depression, die dialogische Gespräche mit KI-
+Systemen über ihre Erkrankung führen. Der Bundesregierung sind
+Schilderungen über die in den Fragen 33b bis 33d genannten Risiken bekannt.
+Beim Einsatz von KI-Systemen als Medizinprodukte werden Risiken durch die 
+Vorgaben des europäischen Medizinprodukterechts und der EU KI-Verordnung 
+adressiert. Hersteller solcher Produkte müssen im Rahmen eines
+Konformitätsbewertungsverfahrens nachweisen, dass die grundlegenden Sicherheits- und 
+Leistungsanforderungen erfüllt werden. Der Hersteller muss ein spezielles
+Qualitätsmanagementsystem, einschließlich eines Risikomanagements zur
+Minimierung von Risiken, etablieren und eine klinische Bewertung durchführen. 
+Das Konformitätsbewertungsverfahren muss in Abhängigkeit der Risikoklasse 
+des Produktes mit Beteiligung einer privatrechtlich tätigen unabhängigen Prüf- 
+und Zertifizierungsstelle (Benannte Stelle) erfolgen. Damit wird sichergestellt, 
+dass die individuellen Produktrisiken im Hinblick auf die Zweckbestimmung 
+des Produktes über den gesamten Produktlebenszyklus vertretbar sind und das 
+Produkt ein positives Nutzen-Risiko-Verhältnis aufweist.
+Für KI-Chatbots, die nicht unter das Medizinprodukterecht fallen, gelten die 
+allgemeinen rechtlichen Vorgaben inklusive den allgemeinen
+Verbraucherschutz- und Datenschutzregelungen und der Vorgaben der EU KI-Verordnung. 
+Die EU KI-Verordnung enthält unter anderem ab August 2026 anzuwendende 
+Transparenzvorschriften nach Artikel 50 der EU KI-Verordnung, wonach
+Anbieter und Betreiber von KI-Systemen unter anderem verpflichtet sind, KI-
+generierte Inhalte zu kennzeichnen und sicherzustellen, dass KI-Systeme, die für 
+die direkte Interaktion mit natürlichen Personen bestimmt sind, so konzipiert 
+und entwickelt werden, dass die betreffenden Personen darüber informiert
+werden, dass sie mit einem KI-System interagieren, sofern dies nicht offensichtlich 
+ist. Die Fragestellenden beziehen sich in ihrer Fragestellung auf eine
+Berichterstattung des Tagesspiegels. KI-Modelle der darin genannten US-
+amerikanischen Anbieter könnten gemäß EU KI-Verordnung als KI-Modelle mit
+systemischem Risiko eingestuft werden. In diesem Falle wären weitere Vorgaben
+einschlägig, deren Einhaltung vom EU AI Office der EU-Kommission überwacht 
+wird.
+Die Bundesregierung beobachtet die weitere Entwicklung unter Beachtung der 
+damit verbundenen Chancen und Risiken.
+34. Plant die Bundesregierung, dem Deutschen Bundestag einen Bericht zur 
+Gesamtrisikolage im Bereich generativer KI vorzulegen, wenn ja, bis 
+wann, und wenn nein, warum nicht?
+Die Bundesregierung sieht bei Künstlicher Intelligenz nicht nur Risiken,
+sondern vor allem große Chancen.
+Ein eigenständiger Bericht der Bundesregierung zur Gesamtrisikolage im
+Bereich generativer Künstlicher Intelligenz ist derzeit nicht vorgesehen.
+Die Bundesregierung verfolgt die Entwicklung leistungsfähiger und
+zunehmend autonomer KI-Systeme sehr genau und bewertet die damit verbundenen 
+Risiken kontinuierlich. Hierzu zählen unter anderem Risiken für die
+Cybersicherheit sowie weitere sicherheitsrelevante Risiken. Mit dem Aufbau des 
+nationalen KI-Sicherheitsinstituts werden die entsprechenden Analyse- und
+Bewertungskapazitäten weiter gestärkt.
+Darüber hinaus bestehen mit der KI-Verordnung bereits risikobasierte Vorgaben 
+für den Umgang mit KI-Systemen, einschließlich spezifischer Regelungen für 
+KI-Modelle mit allgemeinem Verwendungszweck.
+Die Bundesregierung wird die technologische Entwicklung und die Risikolage 
+auch weiterhin beobachten und den Handlungsbedarf bei Bedarf prüfen.
+35. Was soll nach den Vorstellungen der Bundesregierung die vom
+Bundesminister für Digitales und Staatsmodernisierung, Dr. Karsten Wildberger, 
+vorgeschlagene internationale KI-Kontrollbehörde, analog der
+Internationalen Atomenergie-Organisation (IAEA), leisten können (vgl. www.zdfh
+eute.de/politik/ki-modelle-kontrolle-karsten-wildberger-aufsichtsbehoerd
+e-100.html)?
+a) Auf welcher rechtlichen Grundlage soll eine solche internationale 
+KI-Kontrollbehörde ihre Arbeit aufnehmen?
+b) Welche Staaten, Bündnisse und gegebenenfalls Unternehmen und 
+wissenschaftliche Einrichtungen sollen an der Gründung und der 
+operativen Arbeit eines derartigen Kontrollinstituts beteiligt sein?
+c) Wie groß wäre nach Einschätzung der Bundesregierung der jährliche 
+Etat dieser Behörde, der ihre Arbeitsfähigkeit sicherstellte?
+d) Was wären nach Einschätzung der Bundesregierung die
+Kernaufgaben dieser KI-Kontrollbehörde?
+e) An welchen Prinzipien, Grundsätzen und Werten bezüglich
+künstlicher Intelligenz sollte sich eine solche KI-Kontrollbehörde nach
+Auffassung der Bundesregierung orientieren?
+f) Welche Sanktionsmöglichkeiten sollte eine solche KI-
+Kontrollbehörde nach Auffassung der Bundesregierung erhalten, und wie ließe 
+sich deren Durchsetzung im Konfliktfall garantieren?
+g) Ist die Bundesregierung der Ansicht, dass der Vergleich einer solchen 
+internationalen KI-Kontrollbehörde mit der bestehenden
+Internationalen Atomenergie-Organisation hinsichtlich der systemischen
+Risiken der KI sinnvoll und statthaft ist (bitte ausführen)?
+h) Welche systemischen Risiken künstlicher Intelligenz, die die
+Einrichtung einer internationalen KI-Sicherheitsbehörde, rechtfertigten, 
+kann die Bundesregierung identifizieren (bitte ausführen)?
+Die Fragen 35 bis 35h werden gemeinsam beantwortet.
+Die Bundesregierung setzt sich für eine verstärkte internationale
+Zusammenarbeit bei der Sicherheit besonders leistungsfähiger und zunehmend autonom
+agierender KI-Systeme ein. Bundesminister Dr. Karsten Wildberger hat sich
+daher öffentlich für eine internationale Aufsicht bzw. Kontrollinstanz nach dem 
+Vorbild der Internationalen Atomenergie-Organisation (IAEO/IAEA)
+ausgesprochen. Ziel soll es sein, die Fähigkeiten und Risiken besonders
+leistungsfähiger KI-Modelle international besser zu erfassen, gemeinsame
+Sicherheitsstandards und Testverfahren zu entwickeln sowie die Meldung und den Austausch 
+über schwerwiegende Sicherheitsvorfälle zu verbessern. Die Bundesregierung 
+bringt sich zum Umgang mit besonders leistungsfähigen KI-Modellen auch auf 
+Ebene der G7 ein. Die konkrete Ausgestaltung der vorgeschlagenen
+internationalen Aufsicht bzw. Kontrollinstanz – insbesondere hinsichtlich konkretem 
+Aufgabenprofil, Ausstattung und Befugnissen – wird im weiteren Prozess
+näher zu bestimmen und an den jeweiligen Anforderungen auszurichten sein.
+Dabei werden insbesondere die raschen technischen Entwicklungen und die
+daraus resultierenden Risiken künstlicher Intelligenz zu berücksichtigen sein, 
+etwa durch den Missbrauch für Cyber- oder biologische Angriffe, Manipulation 
+und Desinformation sowie langfristig durch zunehmende Autonomie und einen 
+möglichen Verlust menschlicher Kontrolle.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

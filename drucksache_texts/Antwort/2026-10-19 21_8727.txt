@@ -1,0 +1,238 @@
+Deutscher Bundestag Drucksache 21/8727
+21. Wahlperiode 19.10.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Ruben Rupp, Robin Jünger, Alexander 
+Arpaschi, weiterer Abgeordneter und der Fraktion der AfD
+– Drucksache 21/8351 –
+Das AI Safety and Security Institute Deutschland – Organisationsstruktur, 
+Ressourcen und parlamentarische Kontrolle
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Künstliche Intelligenz ist eine bedeutende Zukunftstechnologie mit
+erheblicher Relevanz für die Wirtschaft, Wissenschaft, Verwaltung und Gesellschaft. 
+Ihre Weiterentwicklung und Anwendung tragen wesentlich dazu bei, die
+technologische Wettbewerbsfähigkeit und digitale Souveränität Deutschlands zu 
+stärken. Zugleich können mit der zunehmenden Leistungsfähigkeit einzelner 
+KI-Modelle auch Fragen der IT-Sicherheit, des Umgangs mit sensiblen Daten 
+und möglicher Missbrauchsrisiken verbunden sein, die einer sachlichen und 
+verhältnismäßigen Prüfung bedürfen.
+Nachdem der Nationale Sicherheitsrat im Juni 2026 die Einrichtung eines 
+deutschen KI-Sicherheitsinstituts beschlossen hatte, nahm das „AI Safety and 
+Security Institute Deutschland“ (AISI Deutschland) am 31. August 2026 seine 
+Arbeit auf. Das Institut soll fortschrittliche KI-Modelle technisch evaluieren, 
+sicherheitsrelevante Auswirkungen von KI analysieren und die
+Bundesregierung strategisch beraten (www.bsi.bund.de/DE/Themen/Unternehmen-und-Or
+ganisationen/Informationen-und-Empfehlungen/AISI/aisi_node.html). Nach 
+Angaben der Bundesregierung handelt es sich nicht um eine
+Regulierungsbehörde, sondern um ein analytisch-operatives Kompetenzzentrum an der 
+Schnittstelle von Sicherheit, Technologieanalyse, Innovation und strategischer 
+Beratung (https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisati
+onen/Informationen-und-Empfehlungen/AISI/aisi_node.html).
+Die Ausgestaltung des AISI soll schrittweise erfolgen. In einer ersten Phase 
+bilden das Bundesamt für Sicherheit in der Informationstechnik und die
+Bundesnetzagentur einen gemeinsamen „virtuellen“ Kern des Instituts (www.bsi.b
+und.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Em
+pfehlungen/AISI/aisi_node.html). Die Fachaufsicht liegt gemeinsam beim 
+Bundesministerium für Digitales und Staatsmodernisierung sowie beim
+Bundesministerium des Innern. Darüber hinaus soll die spezialisierte Expertise 
+weiterer Sicherheitsbehörden einbezogen werden. Damit verteilt sich die
+Zuständigkeit für das Institut zunächst auf mehrere Bundesministerien und
+Behörden, ohne dass bislang erkennbar ist, wie Entscheidungswege und
+Verantwortlichkeiten konkret voneinander abgegrenzt werden. Zum Zeitpunkt der 
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Digitales und
+Staatsmodernisierung vom 19. Oktober 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+Arbeitsaufnahme lagen zudem keine konkreten Angaben zur personellen und 
+finanziellen Ausstattung des Instituts vor.
+Vor diesem Hintergrund besteht ein erhebliches parlamentarisches
+Informationsbedürfnis darüber, welchen konkreten Auftrag das AISI Deutschland
+erfüllen soll, wie sein organisatorischer, personeller und finanzieller Aufbau
+ausgestaltet wird, wie die Zuständigkeiten der beteiligten Bundesministerien sowie 
+Behörden voneinander abgegrenzt werden und wie die Bundesregierung
+sicherstellen will, dass eine wirksame Bewertung sicherheitsrelevanter
+Eigenschaften von KI-Modellen mit innovationsfreundlichen Rahmenbedingungen 
+verbunden wird.
+ 1. Welche konkreten Aufgaben soll das AI Safety and Security Institute 
+Deutschland nach den Planungen der Bundesregierung in der ersten und 
+in den weiteren Ausbaustufen übernehmen?
+Zentrales Ziel des Instituts ist es, die Chancen und Risiken, die sich durch
+fortschrittliche KI-Modelle für Deutschland ergeben, zu evaluieren und die
+Resilienz des Staates, der Wirtschaft und der Gesellschaft im Bereich künstlicher 
+Intelligenz nachhaltig zu stärken. Der Auf- und Ausbau erfolgt schrittweise. 
+Das Bundesamt für Sicherheit in der Informationstechnik (BSI) und die
+Bundesnetzagentur (BNetzA) bilden in einer ersten Phase den „virtuellen“ Nukleus 
+des KI-Sicherheitsinstituts und es erfolgt eine Aufgabenteilung entlang der
+Dimensionen (Cyber-)Security (BSI) und Safety (BNetzA). Zudem werden
+weitere Akteure aus dem Sicherheitsbereich eng eingebunden.
+In einer zweiten Phase wird das KI-Sicherheitsinstitut thematisch und kapazitär 
+weiter ausgebaut. Ziel ist die Bündelung technischer, strategischer und
+sicherheitspolitischer Expertise in einer zentralen Einrichtung. Zu den Kernaufgaben 
+des Instituts zählen insbesondere die technische Evaluierung leistungsfähiger 
+KI-Modelle (u. a. Cyberfähigkeiten, Autonomiegrade, Robustheit,
+Missbrauchspotenziale), die Analyse sicherheitsrelevanter Auswirkungen von KI 
+auf Staat, Wirtschaft und Gesellschaft, die strategische Beratung der
+Bundesregierung zu KI-bezogenen Sicherheits- und Souveränitätsfragen, internationale 
+Technologiebeobachtung und Lageanalyse sowie der Aufbau nationaler
+Expertise und internationaler Kooperationsfähigkeit im Bereich KI-Sicherheit.
+ 2. Nach welchen Kriterien bestimmt die Bundesregierung, welche KI-
+Modelle, Systeme oder Anwendungen durch das AISI Deutschland
+technisch evaluiert werden sollen?
+Die Auswahl der zu evaluierenden KI-Modelle wird sich insbesondere an ihrer 
+Leistungsfähigkeit, den mit ihnen verbundenen sicherheitsrelevanten Risiken 
+sowie der jeweiligen aktuellen Bedrohungs- und Technologielage orientieren.
+ 3. Über welche technischen Prüfverfahren, Evaluierungsmethoden oder 
+Testumgebungen verfügt das AISI Deutschland nach Kenntnis der
+Bundesregierung bereits, und welche sollen noch entwickelt werden?
+Das AISI Deutschland bündelt zunächst bestehende Kompetenzen und
+Kapazitäten, insbesondere des BSI und der Bundesnetzagentur, zur technischen
+Analyse und Evaluierung fortgeschrittener KI-Modelle und ihrer Risiken. Hierzu 
+werden vorhandene Prüf- und Evaluierungsmethoden genutzt und
+weiterentwickelt. Im Zuge des weiteren Auf- und Ausbaus werden die technischen
+Fähigkeiten und Evaluierungskapazitäten des AISI entsprechend dem umfassenderen 
+Aufgabenspektrum, dem technologischen Fortschritt und den sich daraus
+ergebenden Sicherheitsrisiken erweitert. Dies ist Teil der regierungsinternen
+laufenden Aufbauarbeit bzw. Konzeptionierung betreffend die zweite Aufbauphase.
+ 4. Wie grenzt die Bundesregierung die Aufgaben des AISI Deutschland
+gegenüber den bestehenden Zuständigkeiten des Bundesamtes für
+Sicherheit in der Informationstechnik, der Bundesnetzagentur, der Zentralen 
+Stelle für Informationstechnik im Sicherheitsbereich sowie der
+Nachrichtendienste des Bundes ab?
+Das AISI Deutschland ergänzt die bestehenden Zuständigkeiten. Es ist als 
+Kompetenzzentrum an der Schnittstelle von Sicherheit, Technologieanalyse 
+und strategischer Beratung konzipiert. Die jeweiligen gesetzlichen Aufgaben 
+bestehender Bundesbehörden bleiben davon unberührt. Insbesondere
+übernimmt das AISI Deutschland keine Regulierungs- oder Aufsichtsfunktion und 
+keine nachrichtendienstlichen Aufgaben.
+ 5. Welche Aufgaben nehmen das Bundesamt für Sicherheit in der
+Informationstechnik und die Bundesnetzagentur nach Kenntnis der
+Bundesregierung jeweils innerhalb des „virtuellen“ Kerns des AISI Deutschland 
+wahr?
+Der virtuelle „BSI/BNetzA-Nukleus“ baut auf den Ressourcen, Erfahrungen 
+und Strukturen der bestehenden Behörden BSI und BNetzA auf und beschäftigt 
+sich schwerpunktmäßig mit den Aspekten der „KI-Cybersicherheit“ (BSI) und 
+der KI-Sicherheit („AI Safety“, BNetzA).
+ 6. Über welche konkreten Entscheidungsbefugnisse und
+Fachaufsichtsrechte verfügen das Bundesministerium für Digitales und
+Staatsmodernisierung sowie das Bundesministerium des Innern nach Angaben der
+Bundesregierung jeweils gegenüber dem AISI Deutschland?
+Das AISI Deutschland wird unter gemeinsamer Federführung des BMDS und 
+des BMI auf- und ausgebaut. Die beiden Ressorts haben die Gründung der
+ersten Phase des AISI Deutschland sowie die entsprechende Aufgabenübertragung 
+an den zunächst aus BSI und Bundesnetzagentur gebildeten virtuellen „BSI/
+BNetzA-Nukleus“ veranlasst. Eine Entscheidung über die endgültige
+Rechtsform des AISI Deutschland ist noch nicht gefallen.
+ 7. Wie stellt die Bundesregierung sicher, dass bei geteilter Fachaufsicht 
+Entscheidungen über fachliche Prioritäten, den Ressourceneinsatz und 
+die Zusammenarbeit mit weiteren Behörden einheitlich und zügig
+getroffen werden?
+Die beiden federführenden Ressorts BMDS und BMI stimmen sich
+untereinander eng ab und arbeiten zudem eng mit den weiteren, am AISI Deutschland 
+beteiligten Ressorts und Behörden zusammen, um sicherzustellen, dass
+sämtliche Entscheidungen im Kontext des AISI Deutschland einheitlich, effizient und 
+zügig getroffen werden.
+ 8. In welcher organisatorischen und rechtlichen Form soll das AISI 
+Deutschland nach den Planungen der Bundesregierung langfristig geführt 
+werden?
+11. In welchem Umfang plant die Bundesregierung, für den Aufbau oder
+Betrieb des AISI Deutschland externe Beratungsunternehmen,
+Forschungsinstitute oder sonstige private Dienstleister zu beauftragen, und welche 
+Mittel sind hierfür vorgesehen?
+Die Fragen 8 und 11 werden gemeinsam beantwortet.
+Zu weitergehenden Detailplanungen des späteren Ausbaus können derzeit noch 
+keine Angaben gemacht werden. Insbesondere ist die konkrete Ausgestaltung 
+des Instituts, seines Aufgabenzuschnitts, seiner organisatorischen und
+rechtlichen Form, seiner personellen und technischen Ausstattung sowie weiterer
+organisatorischer, rechtlicher und haushalterischer Fragen Gegenstand laufender 
+regierungsinterner Abstimmungen.
+ 9. Wie viele Personalstellen sind für das AISI Deutschland in der ersten 
+Phase vorgesehen, und wie viele zusätzliche Stellen plant die
+Bundesregierung für den weiteren Ausbau (bitte nach Haushaltsjahren und
+Behörden aufschlüsseln)?
+Für die erste Phase des AISI Deutschland sind keine gesonderten
+Personalstellen ausgewiesen, vielmehr baut der virtuelle BSI/BNetzA-Nukleus auf den
+bestehenden Ressourcen und Kompetenzen des BSI und der Bundesnetzagentur 
+auf. Des Weiteren wird auf die Antwort zu Frage 8 verwiesen.
+10. Welche Haushaltsmittel hat die Bundesregierung für die Tätigkeit des 
+AISI Deutschland im Jahr 2026 bereitgestellt, und welche Mittel sind für 
+die Jahre 2027, 2028 sowie 2029 vorgesehen (bitte nach Personal-, Sach- 
+und Investitionsmitteln aufschlüsseln)?
+Es wird auf die Antworten zu den Fragen 8 und 9 verwiesen.
+12. Über welche technischen Ressourcen, insbesondere Rechenkapazitäten, 
+gesicherten Testumgebungen und Analysewerkzeuge verfügt das AISI 
+Deutschland nach Kenntnis der Bundesregierung bereits, und welche 
+weiteren Kapazitäten sollen geschaffen werden?
+Es wird auf die Antworten zu den Fragen 3 und 8 verwiesen.
+13. Wie will die Bundesregierung sicherstellen, dass das AISI Deutschland 
+Zugang zu denjenigen KI-Modellen, Trainingsdaten und technischen 
+Schnittstellen erhält, die für eine belastbare technische Bewertung
+erforderlich sind?
+Die Bundesregierung steht in engem Austausch mit den führenden KI-
+Entwicklern und Anbietern, um einen Zugang zu den leistungsfähigsten KI-Modellen 
+für das AISI Deutschland sicherzustellen.
+14. Auf welcher Rechtsgrundlage sollen Entwickler, Anbieter oder Betreiber 
+fortschrittlicher KI-Modelle nach den Planungen der Bundesregierung 
+dem AISI Deutschland Informationen oder Modellzugang bereitstellen, 
+soweit diese nicht freiwillig kooperieren?
+Das AISI Deutschland ist als Kompetenzzentrum und nicht als
+Regulierungsbehörde ausgestaltet. Eine eigenständige Befugnis des AISI Deutschland, gegen 
+den Willen von Entwicklern, Anbietern oder Betreibern fortgeschrittener KI-
+Modelle Informationen oder Modellzugang zu verlangen, ist daher nicht
+vorgesehen. Soweit für technische Evaluierungen hoheitliche Informations- oder
+Zugriffsrechte erforderlich sind, richten sich diese nach den jeweils einschlägigen 
+gesetzlichen Befugnissen der zuständigen Behörden, insbesondere nach der 
+europäischen KI-Verordnung (KI-VO).
+15. Wie will die Bundesregierung verhindern, dass die Tätigkeit des AISI 
+Deutschland zu zusätzlichen, über die Vorgaben des europäischen AI 
+Acts hinausgehenden Bürokratie- oder Dokumentationspflichten für 
+deutsche KI-Unternehmen und Start-ups führt?
+Die Bundesregierung verfolgt das Ziel einer innovationsfreundlichen und
+bürokratiearmen Durchführung der KI-VO. Das AISI Deutschland ist keine
+Regulierungsbehörde und begründet keine über die geltenden rechtlichen Vorgaben 
+hinausgehenden allgemeinen Dokumentations- oder Berichtspflichten für
+Unternehmen.
+16. Welche Rolle soll das AISI Deutschland nach den Planungen der
+Bundesregierung bei der Umsetzung des europäischen AI Acts übernehmen?
+Das AISI Deutschland wird keine Aufsichtsaufgaben nach der KI-VO
+übernehmen.
+17. Welche Formen der Zusammenarbeit bestehen oder sind nach Kenntnis 
+der Bundesregierung geplant zwischen dem AISI Deutschland und
+entsprechenden Einrichtungen in Frankreich, dem Vereinigten Königreich 
+sowie dem European AI Office?
+Das Institut strebt eine enge Zusammenarbeit mit vergleichbaren Einrichtungen 
+anderer Staaten sowie mit multilateralen Strukturen an, beispielsweise wurden 
+bereits Joint Statements zu einer künftigen engen Zusammenarbeit mit dem
+britischen UK AISI und dem französischen INESIA vereinbart. Auch mit dem EU 
+AI Office wird das AISI Deutschland eng zusammenarbeiten und sich
+komplementär aufstellen.
+18. Wie beabsichtigt die Bundesregierung, eine wirksame parlamentarische 
+Kontrolle des AISI Deutschland sicherzustellen, insbesondere durch 
+welche regelmäßigen Berichte an den Deutschen Bundestag?
+Die parlamentarische Kontrolle des AISI Deutschland erfolgt im Rahmen der 
+allgemeinen parlamentarischen Kontroll- und Informationsrechte gegenüber der 
+Bundesregierung. Das AISI Deutschland unterliegt dabei insbesondere der
+parlamentarischen Kontrolle über die für seinen Aufbau und seine Steuerung
+zuständigen Ressorts. Ein eigenständiger regelmäßiger Bericht des AISI
+Deutschland an den Deutschen Bundestag ist nicht vorgesehen.
+19. Welche Vorgaben macht die Bundesregierung für den Umgang mit
+Geschäftsgeheimnissen, sicherheitsrelevanten Informationen und
+personenbezogenen Daten, die dem AISI Deutschland im Rahmen seiner
+Tätigkeit bekannt werden?
+Für das AISI Deutschland gelten die jeweils einschlägigen gesetzlichen
+Vorgaben zum Schutz von Geschäftsgeheimnissen, Verschlusssachen,
+sicherheitsrelevanten Informationen und personenbezogenen Daten.
+20. Bis zu welchem Zeitpunkt soll der weitere organisatorische, personelle 
+und finanzielle Ausbau des AISI Deutschland nach den Planungen der 
+Bundesregierung abgeschlossen sein?
+Der weitere organisatorische, personelle und finanzielle Auf- und Ausbau des 
+AISI Deutschland erfolgt schrittweise, ein konkreter Zeitpunkt für dessen
+Abschluss ist daher bislang nicht festgelegt. Des Weiteren sei auf die Antwort zu 
+Frage 8 verwiesen.
+21. Anhand welcher messbaren Ziele oder Kriterien bewertet die
+Bundesregierung den Erfolg des AISI Deutschland bei der Erfüllung seines
+Auftrags?
+Die Bundesregierung wird den Erfolg des AISI Deutschland anhand der
+Erfüllung seines Auftrags und der erzielten Wirkung bewerten. Näheres ist
+Gegenstand der laufenden regierungsinternen Konzeptionierung.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

@@ -1,0 +1,230 @@
+Deutscher Bundestag Drucksache 21/8737
+21. Wahlperiode 20.10.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Ruben Rupp, Robin Jünger, Alexander 
+Arpaschi, weiterer Abgeordneter und der Fraktion der AfD
+– Drucksache 21/8324 –
+Sicherheitsrisiken bei Software in der Bundesverwaltung durch Einsatz von 
+Künstlicher Intelligenz bei der Programmierung
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Als „Vibe Coding“ wird die Nutzung generativer künstlicher Intelligenz (KI) 
+zur Erstellung von Quellcode bezeichnet, bei der Entwickelnde in natürlicher 
+Sprache mit einem KI‑System interagieren, anstatt Programmcode manuell zu 
+schreiben. Der Begriff wurde im Februar 2025 vom früheren OpenAI-
+Mitgründer Andrej Karpathy geprägt (www.egovernment.de/ist-vibe-coding-etwa
+s-fuer-den-oeffentlichen-dienst-a-57740587f05aa7d49e6d1b231c765ba0/). 
+Als Treiber der wachsenden Verbreitung werden schnelle
+Produktivitätssteigerungen, geringere Qualifikationsbarrieren, eine entsprechende kulturelle
+Dynamik in Entwicklercommunities sowie zunehmend ausgereifte KI‑Dienste 
+innerhalb von Entwicklungsumgebungen genannt (www.com p u t e r w e e k l
+y.com/de/tipp/Sicherheitsrisiken-beim-Vibe-Coding-und-wie-man-sie-einda
+emmt).
+Für den öffentlichen Dienst werden dem Ansatz Chancen zugeschrieben, etwa 
+die Digitalisierung bislang manuell mit Tabellenkalkulationen, E‑Mail-Ketten 
+oder veralteter Software bearbeiteter Verwaltungsprozesse, die schnellere
+Erstellung bürgerfreundlicher Anwendungen sowie eine Stärkung von
+Fachabteilungen, die eigenständig Softwarelösungen für ihre Aufgaben entwickeln 
+könnten. Zugleich wird auf die Gefahr von „Schatten‑IT“ hingewiesen, wenn 
+Fachabteilungen ohne Einbindung zentraler IT‑Stellen eigene Anwendungen 
+erstellen, sowie auf die Notwendigkeit, Rechenschaftspflicht, Sicherheit und 
+Datenschutz entsprechender Anwendungen zu gewährleisten und festzulegen, 
+wie weit die Rechte der Endnutzenden reichen, wenn grundsätzlich jede
+Person innerhalb einer Organisation Software entwickeln kann (www.egovernme
+nt.de/ist-vibe-coding-etwas-fuer-den-oeffentlichen-dienst-a-57740587f05aa7d
+49e6d1b231c765ba0/).
+Im Zusammenhang mit Vibe Coding werden mehrere Kategorien von
+Sicherheitsrisiken benannt: Risiken durch unzureichend geschulte Entwickelnde im 
+Umgang mit KI, Risiken durch unsachgemäß trainierte oder durch
+manipulierte Trainingsdaten „vergiftete“ KI‑Modelle, von Entwickelnden verursachte
+Risiken wie Datenlecks durch sensible Informationen in Prompts sowie Prompt-
+Injection durch versteckte Anweisungen, von KI‑Agenten verursachte Risiken 
+wie unsicherer Code mit Schwachstellen etwa für SQL-Injection oder Cross-
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Digitales und
+Staatsmodernisierung vom 19. Oktober 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+Site-Scripting, fehlerhafte oder nicht funktionsfähige Ergebnisse durch
+Halluzinationen der KI sowie Lieferkettenrisiken durch die Einbindung
+verwundbarer Programmbibliotheken, und schließlich organisatorische Risiken wie die 
+Anhäufung technischer Schulden und verschwimmende Verantwortlichkeiten 
+in großen Codebasen. Als Gegenmaßnahmen werden unter anderem eine
+solide Governance mit KI-Beauftragten, Human-in-the-Loop-Prozesse, klare
+Nutzungsrichtlinien, Sichtbarkeit über eingesetzte KI‑Werkzeuge, die Bereinigung 
+von Prompts von sensiblen Daten sowie Codeüberprüfungen und statische wie 
+dynamische Sicherheitsanalysen empfohlen.
+Nach Auffassung der Fragesteller besteht angesichts der zunehmenden
+Verbreitung von Vibe Coding in der Softwareentwicklung die Gefahr, dass auch 
+von der Bundesverwaltung beschaffte Software, etwa im Rahmen von
+Auftragsentwicklungen oder dem Zukauf kommerzieller Produkte, unerkannt
+Anteile KI-generierten Codes enthält, ohne dass die damit verbundenen
+Sicherheitsrisiken im Beschaffungs- oder Abnahmeprozess systematisch erfasst und 
+geprüft werden. Nach Auffassung der Fragesteller könnte dies zu einer
+unbemerkten Anhäufung von Sicherheitslücken in der Informationstechnik der 
+Bundesverwaltung führen.
+Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat
+gemeinsam mit der französischen Cybersicherheitsbehörde ANSSI im Oktober 2024 
+Empfehlungen für den sicheren Einsatz von KI-Programmierassistenten
+veröffentlicht, die insbesondere auf zwei Risikofelder hinweisen: die
+Vertraulichkeit der in solche Systeme eingegebenen Daten sowie die Qualität und
+Sicherheit des generierten Codes (www.bsi.bund.de/DE/Service-Navi/Presse/Alle-M
+eldungen-News/Meldungen/ANSSI_BSI_KI-Programmierassistenten_24100
+4.html). In einer Cybersicherheitswarnung vom Juni 2026 weist das BSI
+zudem darauf hin, dass aktuelle KI‑Systeme so leistungsfähig geworden seien, 
+dass Schwachstellen in Software „innerhalb kurzer Zeit sowohl umfassend als 
+auch teilweise autonom erkannt, analysiert und in verwertbare Angriffspfade 
+überführt“ werden könnten und dass KI den Aufwand sowie die
+Einstiegshürden für offensive Cyberfähigkeiten maßgeblich senke (www.bsi.bund.de/Shar
+edDocs/Cybersicherheitswarnungen/DE/2026/2026-262788-1032_bits.html). 
+Bereits im Jahr 2023 hatte das BSI im Rahmen einer Stellungnahme
+gegenüber dem Digitalausschuss des Deutschen Bundestages darauf hingewiesen, 
+dass derzeit keine vollständig zuverlässigen und wirksamen Technologien 
+existierten, um KI‑generierte Inhalte zu erkennen oder zu kennzeichnen 
+(www.bundestag.de/resource/blob/949326/67af46a4995d91070d4dfd8275c43
+eb8/Stellungnahme-BSI.pdf).
+Vor diesem Hintergrund erscheint eine nähere Befassung der Bundesregierung 
+mit den Sicherheitsrisiken durch den Einsatz künstlicher Intelligenz bei der 
+Programmierung von Software für die Bundesverwaltung sowie mit den
+bestehenden Mechanismen zur Qualitätssicherung bei der Softwarebeschaffung und 
+Softwareentwicklung des Bundes erforderlich.
+ 1. Welche Kenntnisse hat die Bundesregierung über die Verbreitung des 
+Einsatzes KI-gestützter Programmierwerkzeuge (Vibe Coding) bei der 
+Entwicklung von Software, die von Stellen der Bundesverwaltung
+beschafft oder eingesetzt wird?
+ 2. Wie schätzt die Bundesregierung das Risiko ein, dass in von der
+Bundesverwaltung beschaffter Software unerkannt Anteile KI-generierten Codes 
+enthalten sind, ohne dass dies im Beschaffungs- oder Abnahmeprozess 
+erfasst wird (siehe Vorbemerkung der Fragesteller)?
+14. Welche Kenntnisse hat die Bundesregierung darüber, welche in der
+Bundesverwaltung eingesetzten Software-Tools KI-Programmierassistenz-
+Funktionen enthalten oder mithilfe solcher Werkzeuge erstellt wurden?
+Die Fragen 1, 2 und 14 werden gemeinsam beantwortet.
+Künstliche Intelligenz (KI) wird im Bereich der Softwareentwicklung von
+Entwicklern genutzt. Dies ist auch für Software, die von Stellen der
+Bundesverwaltung beschafft werden, der Fall und ist positiv zu bewerten, denn der Einsatz 
+von KI bei der Softwareentwicklung kann dazu beitragen, die Qualität von
+Entwicklungsleistungen zu verbessern und die Entwicklungen zu beschleunigen. 
+Entscheidend im Rahmen der Entwicklung ist letztlich die Qualität der
+Software, nicht die konkret im Rahmen der Entwicklung genutzten Werkzeuge.
+ 3. Welche Vorgaben bestehen bei der Beschaffung von Software für die 
+Bundesverwaltung etwa im Rahmen der Ergänzenden
+Vertragsbedingungen für die Beschaffung von IT‑Leistungen (EVB‑IT) oder
+vergleichbarer vertraglicher Regelungen zur Offenlegung des Anteils KI-generierten 
+Codes durch Auftragnehmende?
+a) Welche Konsequenzen sieht die Bundesregierung vor, sofern
+entsprechende Angaben von Auftragnehmern unzutreffend oder
+unvollständig gemacht werden?
+b) Plant die Bundesregierung die Einführung oder Weiterentwicklung 
+von Offenlegungspflichten für KI-generierte Codeanteile bei der IT-
+Beschaffung des Bundes, sofern solche Vorgaben nach derzeitigem 
+Stand nicht bestehen?
+Die Fragen 3 bis 3b werden gemeinsam beantwortet.
+Generell finden die Regelungen des EVB-IT Anwendung. Beschaffungen
+erfolgen anhand von fachlichen und technischen Anforderungen. Für sensible
+Softwareentwicklungen wurden zusätzliche Klauseln im ITZBund erstellt. Derzeit 
+bestehen in den EVB-IT keine besonderen Offenlegungspflichten für KI-
+generierte Code-Anteile.
+Hinsichtlich der Bereitstellung von Code als Open Source sowie der
+Verwendung offener Standards setzt die Bundesverwaltung im Sinne des § 16 EGovG 
+bei Eigenentwicklungen sowie bei durch die Bundesverwaltung in Auftrag
+gegebener Softwareentwicklung vorrangig auf Open-Source-Software. Daraus
+ergibt sich jedoch keine generelle Open-Source-Pflicht für jedwede
+Softwarebeschaffung, insbesondere nicht in Fällen, in denen bestehende Softwarelösungen 
+am Markt beschafft werden.
+ 4. Welche Vorgaben bestehen unabhängig von der Entstehungsweise des 
+Codes für Sicherheitsprüfungen wie Codeüberprüfungen sowie statische 
+und dynamische Sicherheitsanalysen von für die Bundesverwaltung
+entwickelter oder beschaffter Software?
+ 5. Inwiefern werden die im Oktober 2024 veröffentlichten gemeinsamen 
+Empfehlungen des BSI und der französischen Cybersicherheitsbehörde 
+ANSSI zum sicheren Einsatz von KI-Programmierassistenten innerhalb 
+der Bundesverwaltung sowie gegenüber IT-Dienstleistern des Bundes 
+verbindlich angewendet?
+Die Fragen 4 und 5 werden gemeinsam beantwortet.
+Es gelten die bestehenden IT-Sicherheitsrelevanten Regelungen unabhängig 
+von der konkreten Art der Entwicklungsleistung. Die geltenden Vorgaben. des 
+BSI werden berücksichtigt.
+Im Übrigen wird auf die Antwort zu Frage 3 verwiesen.
+ 6. Welche Richtlinien oder Governance-Strukturen, etwa in Form von KI-
+Beauftragten, bestehen innerhalb der Bundesverwaltung für den Einsatz 
+von KI-Programmierassistenten durch eigene Beschäftigte bei der
+Softwareentwicklung?
+a) Für welche Bundesbehörden gelten diese Richtlinien
+beziehungsweise Governance-Strukturen nach Kenntnis der Bundesregierung?
+b) Plant die Bundesregierung deren Einführung oder einheitliche
+Ausweitung, sofern solche Strukturen nach derzeitigem Stand nicht
+flächendeckend bestehen?
+Die Fragen 6 bis 6b werden gemeinsam beantwortet.
+Die geltenden gesetzlichen Vorgaben, u. a. aus der KI-Verordnung (KI-VO)
+sowie die geltenden Vorgaben des BSI und anderer Aufsichtsbehörden werden 
+berücksichtigt.
+ 7. Welche Kenntnisse hat die Bundesregierung über den Schulungsstand 
+von Beschäftigten der Bundesverwaltung im risikobewussten Umgang 
+mit KI-Programmierassistenten?
+Die geltenden gesetzlichen Bestimmungen insbesondere von Artikel 4 KI-VO 
+werden vor Nutzung durchgeführt. Zusätzliche Schulungsbedarfe werden in 
+diesem Themenfeld unmittelbar durch die IT-Dienstleister des Bundes
+realisiert.
+ 8. Wie wird sichergestellt, dass bei der Entwicklung von Software für die 
+Bundesverwaltung mithilfe von KI-Programmierassistenten keine
+verwundbaren Programmbibliotheken in die Software-Lieferkette
+eingebunden werden?
+Die Vorgaben des BSI werden berücksichtigt. Im ITZBund beispielsweise
+findet ein mehrstufiges Softwarequalitätsmanagement statt, in dem Code gescannt 
+(CVE, Viren, Schwachstellen) und funktional getestet wird. Regelmäßige 
+Code-Reviews gehören zum normalen Prozess.
+ 9. Welche Vorgaben bestehen, um zu verhindern, dass beim Einsatz von KI-
+Programmierassistenten in der Bundesverwaltung sensible Informationen 
+über an externe KI-Dienste übermittelte Eingaben (Prompts) offengelegt 
+werden?
+Die Nutzung von KI zur Verarbeitung von sensiblen Informationen im Sinne 
+der Fragestellung, insbesondere geheimschutzrelevanten Informationen, erfolgt 
+auf OnPrem bereitgestellten Entwicklungsinstanzen unter Nutzung von in
+eigenen Rechenzentren des ITZBund gehosteten Sprachmodellen ohne Verbindung 
+zum Internet. Ein Abfluss sensibler Informationen über an externe KI-Dienste 
+übermittelte Eingaben (Promps) ist hierdurch technisch ausgeschlossen. Die 
+Mitarbeitenden der IT-Dienstleister des Bundes sind über Schulungen und
+entsprechende Hausanweisungen zudem im Hinblick auf die Verarbeitung
+sensibler Daten in KI-Diensten sensibilisiert.
+10. Wie bewertet die Bundesregierung die in der Cybersicherheitswarnung 
+des BSI vom Juni 2026 beschriebene Fähigkeit aktueller KI-Systeme, 
+Schwachstellen in Software autonom zu erkennen und in Angriffe
+umzusetzen, mit Blick auf die IT-Sicherheit der Bundesverwaltung?
+Die beschriebenen Fähigkeiten von KI zur Ausnutzung von Schwachstellen 
+und zur Durchführung von Cyberangriffen führen nach Einschätzung des BSI 
+insgesamt zu einer erhöhten Bedrohungslage. Gleichzeitig ist davon
+auszugehen, dass Schwachstellen nach dem Bekanntwerden schneller ausgenutzt
+werden und Betreiber somit weniger Zeit zur Umsetzung von Schutzmaßnahmen 
+haben. Dem wirkt die Bundesregierung entgegen. Entscheidend bleibt eine
+sicherheitssensitive Implementierung von IT-Gesamtsystemen und
+entsprechender Pre-Tests der Gesamtsysteme (Pen-Tests etc.) sowie die permanente
+Überwachung bspw. durch ein Security Operations Center (SOC). Die
+beschriebenen Risiken sind mit den skizzierten Maßnahmen beherrschbar.
+11. Welche Erkenntnisse hat die Bundesregierung über Fälle, in denen
+Sicherheitslücken in Software der Bundesverwaltung auf mithilfe von KI 
+generierten Code zurückzuführen waren?
+Der Bundesregierung liegen keine diesbezüglichen Erkenntnisse vor. Im
+Übrigen wird auf die Antwort zu Frage 1 verwiesen.
+12. Wie werden Verantwortlichkeiten zwischen Auftraggeber und
+Auftragnehmer geregelt, wenn sich nach Auslieferung von Software für die
+Bundesverwaltung herausstellt, dass Sicherheitslücken auf KI-generierten 
+Code zurückgehen?
+Die Verantwortlichkeiten richten sich nach der Vertragsgestaltung,
+insbesondere den gewährleistungsrechtlichen Festlegungen.
+13. Wie bewertet die Bundesregierung die in der Vorbemerkung der
+Fragesteller dargestellte Einschätzung, wonach Regelungen zu
+Rechenschaftspflicht, Sicherheit und Datenschutz erforderlich seien, sobald
+Beschäftigte einer Organisation eigenständig Software mittels generativer KI
+entwickeln können?
+Regelungen zu Rechenschaftspflicht, Sicherheit und Datenschutz sind
+grundsätzlich bei der Entwicklung von Software bzw. bei der Verarbeitung von Daten 
+erforderlich. Die geltenden gesetzlichen Bestimmungen werden berücksichtigt.
+15. Welche Möglichkeiten sieht die Bundesregierung angesichts der in der 
+Vorbemerkung der Fragesteller dargestellten Sicherheitsrisiken, eine
+zentrale Anlaufstelle für Fragen des sicheren Einsatzes künstlicher
+Intelligenz bei der Softwareentwicklung und Softwarebeschaffung der
+Bundesverwaltung einzurichten?
+Zum Einsatz und zur Nutzung von KI in der Bundesverwaltung bestehen
+bereits entsprechende Strukturen bzw. sind im Ausbau.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
