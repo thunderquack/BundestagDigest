@@ -14,41 +14,38 @@ Kriminalität frühzeitig zu erkennen und grenzpolizeiliche Lagebilder schneller
 zu erstellen.
 Hierzu kommen insbesondere Wärmebild- und Infrarottechnik, stationäre und 
 mobile Kamerasysteme, weitere Detektionssensorik, unbemannte
-Luftfahrtsysteme (Unmanned Aircraft Systems – UAS), automatische
+Luftfahrtsysteme (Unmanned Aircraft Systems [UAS]), automatische
 Kennzeichenerfassung sowie automatisierte Verfahren zur Datenanalyse in Betracht.
 Die Fraktion der AfD hat mit ihrem Antrag „Deutschlands Grenzen wirksam 
-sichern – KI-Grenzschutz jetzt einführen“ auf Bundestagsdrucksache 21/6822 
-ein technologiebasiertes Grenzschutzkonzept vorgeschlagen. Dieses sieht unter 
-anderem Wärmebild- und Infrarotsensorik, Bewegungs- und Bodensensoren, 
-Drohnen, KI-gestützte Videosysteme sowie die Weiterentwicklung bestehender 
-Strukturen zu einem KI-gestützten Grenzlage- und Analysezentrum vor. Der 
-Deutsche Bundestag hat den Antrag am 25. September 2026 in erster Lesung 
-beraten und zur weiteren Beratung an die Ausschüsse überwiesen; federführend 
-ist der Innenausschuss. (https://dserver.bundestag.de/btd/21/068/2106822.pdf)
+sichern – KI-Grenzschutz [KI = Künstliche Intelligenz] jetzt einführen“ auf 
+Bundestagsdrucksache 21/6822 ein technologiebasiertes Grenzschutzkonzept 
+vorgeschlagen. Dieses sieht unter anderem Wärmebild- und Infrarotsensorik, 
+Bewegungs- und Bodensensoren, Drohnen, KI-gestützte Videosysteme sowie 
+die Weiterentwicklung bestehender Strukturen zu einem KI-gestützten 
+Grenzlage- und Analysezentrum vor. Der Deutsche Bundestag hat den Antrag 
+am 25. September 2026 in erster Lesung beraten und zur weiteren Beratung an 
+die Ausschüsse überwiesen; federführend ist der Innenausschuss.
 Die Bundespolizei setzt bereits unterschiedliche technische Systeme ein. Nach 
 Angaben der Bundesregierung setzt die Bundespolizei seit 2025 im Rahmen 
-einer Pilotierung Unmanned Aircraft Systems (UAS) zur Unterstützung der
-allgemeinen Aufgabenwahrnehmung – einschließlich grenzpolizeilicher
-Aufgaben – als ergänzendes Führungs- und Einsatzmittel ein. Im Jahr 2026 wurden 
-nach Angaben der Bundesregierung darüber hinaus keine weiteren
-Aufklärungsdrohnen speziell für den Grenzschutz beschafft. Über den künftigen
-Einsatz von UAS soll auf Grundlage der Ergebnisse der Pilotierung entschieden 
-werden. (https://dserver.bundestag.de/btd/21/051/2105159.pdf; S. 9; Antworten 
-auf die Fragen 12 und 13)
+einer Pilotierung Unmanned Aircraft Systems zur Unterstützung der
+allgemeinen Aufgabenwahrnehmung – einschließlich grenzpolizeilicher Aufgaben – als 
+ergänzendes Führungs- und Einsatzmittel ein. Im Jahr 2026 wurden nach
+Angaben der Bundesregierung darüber hinaus keine weiteren Aufklärungsdrohnen 
+speziell für den Grenzschutz beschafft. Über den künftigen Einsatz von UAS 
+soll auf Grundlage der Ergebnisse der Pilotierung entschieden werden
+(Antworten zu den Fragen 12 und 13 auf Bundestagsdrucksache 21/5159).
 § 27 des Bundespolizeigesetzes (BPolG) ermöglicht der Bundespolizei den 
 Einsatz selbsttätiger Bildaufnahme- und Bildaufzeichnungsgeräte, um
 unerlaubte Grenzübertritte oder Gefahren für die Sicherheit an der Grenze zu
-erkennen. (www.gesetze-im-internet.de/bgsg_1994/__27.html)
+erkennen (www.gesetze-im-internet.de/bgsg_1994/__27.html).
 § 27b BPolG ermöglicht der Bundespolizei zur Erfüllung ihrer Aufgaben nach 
 § 2 Absatz 2 BPolG unter den dort genannten Voraussetzungen im öffentlichen 
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Verkehrsraum eine vorübergehende und nicht flächendeckende automatische 
 Erhebung von Fahrzeugkennzeichen. Die erhobenen Daten können mit dem 
 Fahndungsbestand nach § 34 Absatz 1 Satz 2 BPolG automatisiert abgeglichen 
 werden. Liegt kein Treffer vor, sind die Daten nach § 27b Absatz 4 BPolG
-sofort und spurenlos zu löschen. (www.gesetze-im-internet.de/bgsg_1994/__27
-b.html)
+sofort und spurenlos zu löschen (www.gesetze-im-internet.de/bgsg_1994/__27
+b.html).
 Vor diesem Hintergrund besteht nach Auffassung der Fragesteller ein
 parlamentarisches Interesse an einem umfassenden Überblick über den gegenwärtigen 
 technischen Ausstattungsstand der Bundespolizei im Grenzraum, die
@@ -89,8 +86,6 @@ Regelbetrieb übernommen?
  7. Welchen konkreten Stand hat die seit 2025 durchgeführte UAS-
 Pilotierung der Bundespolizei, und wann soll die abschließende
 Evaluierung vorliegen?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
  8. Wie viele UAS stehen der Bundespolizei derzeit zur Verfügung (bitte nach 
 System beziehungsweise Größenklasse und Bundespolizeidirektion
 aufschlüsseln)?
@@ -125,7 +120,7 @@ a) Identitätsfeststellungen,
 b) Festnahmen,
 c) Sicherstellungen,
 d) Feststellungen im Zusammenhang mit Schleusungskriminalität oder
-e) sonstigen polizeilichen Maßnahmen?
+e) sonstige polizeiliche Maßnahmen?
 15. Über wie viele für Maßnahmen nach § 27b des Bundespolizeigesetzes
 geeignete mobile beziehungsweise stationäre technische Systeme verfügt die 
 Bundespolizei derzeit?
@@ -136,10 +131,8 @@ Bundespolizeigesetzes festgestellt?
 Daten setzt die Bundespolizei derzeit ein oder erprobt sie, und welche
 davon stuft die Bundesregierung als Systeme der Künstlichen Intelligenz 
 ein?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 18. Welche konkreten grenzpolizeilichen Aufgaben werden mit diesen
-Verfahren unterstützt (vgl. Vorfrage)?
+Verfahren unterstützt (vgl. Frage 17)?
 19. Können gegenwärtig Daten beziehungsweise Hinweise aus
 unterschiedlichen Quellen, insbesondere Kamerasystemen, UAS, automatischer
 Kennzeichenerfassung, Fahndungsbeständen und mobilen Einsatzkräften,
@@ -147,8 +140,8 @@ technisch in einem gemeinsamen Lagebild zusammengeführt werden, und
 wenn ja, welche Systeme und Datenquellen sind hierfür miteinander
 verbunden?
 20. Erfolgt diese Zusammenführung beziehungsweise Bereitstellung
-a) in Echtzeit?
-b) annähernd in Echtzeit?
+a) in Echtzeit,
+b) annähernd in Echtzeit oder
 c) zeitversetzt?
 21. Welche technischen oder rechtlichen Hindernisse verhindern derzeit eine 
 weitergehende Zusammenführung und automatisierte Auswertung
@@ -158,39 +151,37 @@ grenzpolizeilich relevanter Daten?
 23. Welche grenzpolizeilich relevanten Daten können dort automatisiert
 beziehungsweise digital zusammengeführt werden?
 24. Welche technischen Schnittstellen bestehen hierbei zu
-a) dem Bundeskriminalamt?
-b) dem Zoll
-c) den Polizeien der Länder?
-d) den Polizeibehörden der deutschen Nachbarstaaten?
+a) dem Bundeskriminalamt,
+b) dem Zoll,
+c) den Polizeien der Länder,
+d) den Polizeibehörden der deutschen Nachbarstaaten und
 e) der Europäischen Agentur für die Grenz- und Küstenwache (Frontex)?
 25. Welche technischen Fähigkeitslücken hat die Bundespolizei seit dem 
 1. Januar 2023 bei der Überwachung und Sicherung der deutschen
 Grenzen identifiziert?
-26. Bei welchen dieser Fähigkeitslücken (vgl. Vorfrage) sieht die
+26. Bei welchen dieser Fähigkeitslücken (vgl. Frage 25) sieht die
 Bundesregierung derzeit vorrangigen Beschaffungs-, Entwicklungs- oder
 gesetzlichen Handlungsbedarf?
 27. Welche technischen Systeme beziehungsweise Fähigkeiten wurden von 
-der Bundespolizei für die Haushaltsjahre 2027 bis 2030 als zusätzlicher 
-Bedarf angemeldet?
-28. Welche Haushaltsmittel wurden seit 2020 jährlich für Beschaffung,
-Erprobung und Betrieb technischer Systeme zur grenzpolizeilichen
-Überwachung und Lageerfassung aufgewendet (bitte nach Haushaltsjahr und 
-wesentlichen Systemgruppen aufschlüsseln)?
+der Bundespolizei für die Haushaltsjahre von 2027 bis 2030 als
+zusätzlicher Bedarf angemeldet?
+28. Welche Haushaltsmittel wurden seit 2020 jährlich für die Beschaffung,
+Erprobung und den Betrieb technischer Systeme zur grenzpolizeilichen 
+Überwachung und Lageerfassung aufgewendet (bitte nach
+Haushaltsjahren und wesentlichen Systemgruppen aufschlüsseln)?
 29. Welche Beschaffungs- und Modernisierungsvorhaben mit einem
-jeweiligen Finanzvolumen von mehr als einer Million Euro sind nach Kenntnis 
-der Bundesregierung für die Jahre 2027 bis 2030 im Bereich des technisch 
-unterstützten Grenzschutzes vorgesehen beziehungsweise von der
+jeweiligen Finanzvolumen von mehr als 1 Mio. Euro sind nach Kenntnis der 
+Bundesregierung für die Jahre von 2027 bis 2030 im Bereich des
+technisch unterstützten Grenzschutzes vorgesehen beziehungsweise von der 
 Bundespolizei angemeldet?
 30. Anhand welcher quantitativen und qualitativen Kriterien bewertet die 
 Bundesregierung die Wirksamkeit neuer Grenzschutztechnik,
 insbesondere hinsichtlich
-a) Detektionswahrscheinlichkeit?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-b) Fehlalarmquote?
-c) Reaktionszeit?
-d) Zahl hierdurch veranlasster erfolgreicher Kontrollen?
-e) Aufgriffen?
+a) Detektionswahrscheinlichkeit,
+b) Fehlalarmquote,
+c) Reaktionszeit,
+d) Zahl hierdurch veranlasster erfolgreicher Kontrollen,
+e) Aufgriffen,
 f) Personalaufwand?
 31. Welche Erkenntnisse hat die Bundespolizei seit 2020 im Rahmen des
 Erfahrungsaustausches mit Frontex oder den Grenzbehörden anderer
@@ -201,7 +192,7 @@ c) weiterer Sensorik,
 d) automatisierter Kennzeichenerfassung und
 e) automatisierter Datenanalyse beziehungsweise Künstlicher Intelligenz
 gewonnen?
-32. Welche dort eingesetzten Technologien oder Verfahren (vgl. Vorfrage) 
+32. Welche dort eingesetzten Technologien oder Verfahren (vgl. Frage 31) 
 wurden von der Bundesregierung beziehungsweise der Bundespolizei
 daraufhin geprüft, ob sie auf den Schutz deutscher Grenzen übertragbar 
 sind?
@@ -213,14 +204,6 @@ d) verworfen,
 und aus welchen Gründen?
 Berlin, den 13. Oktober 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
