@@ -5,23 +5,23 @@ der Abgeordneten Ruben Rupp, Robin Jünger, Alexander Arpaschi, Sebastian
 Maack, Tobias Ebenberger, Lars Haise, Edgar Naujok, Steffen Janich, Dr. Michael 
 Kaufmann, Micha Fehre, Beatrix von Storch, Ronald Gläser, Peter Bohnhof, 
 Thomas Ladzinski und der Fraktion der AfD
-Der Deutschland Stack – Entwicklungsstand, Verbindlichkeit und digitale 
+Der Deutschland-Stack – Entwicklungsstand, Verbindlichkeit und digitale 
 Souveränität der Verwaltungsarchitektur des Bundes
-Die Bundesregierung verfolgt mit dem Konzept des sogenannten 
-„Deutschland-Stacks“ das Ziel, eine einheitliche, souveräne und modulare IT-
-Architektur für die digitale Verwaltung zu schaffen. Dieser Ansatz soll die
-bislang zersplitterte Systemlandschaft der Bundesverwaltung durch
-standardisierte, wiederverwendbare Basiskomponenten ablösen und damit sowohl die
-technische Interoperabilität als auch die digitale Souveränität des Staates stärken 
-(https://bmds.bund.de/themen/digitaler-staat/deutschland-stack). Angesichts der 
-massiven strukturellen Defizite, die der Bundesrechnungshof in seinem Bericht 
-zur Umsetzung der Empfehlungen für die 21. Legislaturperiode dokumentiert 
-hat, kommt dem Deutschland-Stack eine besondere Bedeutung zu (www.bunde
-srechnungshof.de/SharedDocs/Downloads/DE/Berichte/2025/verwaltungsdigita
-lisierung-volltext.pdf?__blob=publicationFile&v=2). Er soll als technisches 
-Fundament dienen, um die vom Bundesrechnungshof bemängelte
-Standardisierungslücke und das Nebeneinander redundanter IT-Systeme in den Ressorts 
-endlich zu überwinden.
+Die Bundesregierung verfolgt mit dem Konzept des sogenannten Deutschland-
+Stacks das Ziel, eine einheitliche, souveräne und modulare IT-Architektur für 
+die digitale Verwaltung zu schaffen. Dieser Ansatz soll die bislang zersplitterte 
+Systemlandschaft der Bundesverwaltung durch standardisierte,
+wiederverwendbare Basiskomponenten ablösen und damit sowohl die technische
+Interoperabilität als auch die digitale Souveränität des Staates stärken (https://bmds.bun
+d.de/themen/digitaler-staat/deutschland-stack). Angesichts der massiven
+strukturellen Defizite, die der Bundesrechnungshof in seinem Bericht zur
+Umsetzung der Empfehlungen für die 21. Legislaturperiode dokumentiert hat, kommt 
+dem Deutschland-Stack eine besondere Bedeutung zu (www.bundesrechnungsh
+of.de/SharedDocs/Downloads/DE/Berichte/2025/verwaltungsdigitalisierung-vo
+lltext.pdf?__blob=publicationFile&v=2). Er soll als technisches Fundament 
+dienen, um die vom Bundesrechnungshof bemängelte Standardisierungslücke 
+und das Nebeneinander redundanter IT-Systeme in den Ressorts endlich zu 
+überwinden.
 Anlass der vorliegenden Kleinen Anfrage sind Berichte, wonach die konkrete 
 Umsetzung des Deutschland-Stacks bislang durch dieselben strukturellen 
 Schwächen belastet wird, die bereits frühere Digitalisierungsvorhaben der
@@ -40,11 +40,9 @@ Eine erfolgreiche Staatsmodernisierung setzt voraus, dass zentrale
 Basiskomponenten nicht nur konzipiert, sondern auch mit verbindlicher Geltungskraft, 
 ausreichenden Ressourcen und einer wirksamen Erfolgskontrolle in der
 gesamten Bundesverwaltung implementiert werden. Es ist daher von zentraler
-Bedeutung zu klären, ob der Deutschland-Stack tatsächlich den notwendigen
-strukturellen Bruch mit der bisherigen fragmentierten IT-Landschaft des Bundes mar-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-kiert oder ob er lediglich eine neue technische Hülle für altbekannte
+Bedeutung, zu klären, ob der Deutschland-Stack tatsächlich den notwendigen
+strukturellen Bruch mit der bisherigen fragmentierten IT-Landschaft des Bundes
+markiert oder ob er lediglich eine neue technische Hülle für altbekannte
 Steuerungsprobleme darstellt.
 Vor diesem Hintergrund besteht ein erhebliches parlamentarisches
 Informationsbedürfnis darüber, wie der aktuelle Entwicklungsstand des Deutschland-
@@ -53,66 +51,59 @@ ausgestaltet wird, welche Ressourcen hierfür bereitgestellt werden und wie die
 Bundesregierung sicherstellen will, dass dieses Vorhaben nicht die bekannten Fehler 
 früherer Digitalisierungsprojekte wiederholt.
 Wir fragen die Bundesregierung:
- 1. Wie ist der aktuelle Entwicklungsstand des „Deutschland-Stacks“ und 
+ 1. Wie ist der aktuelle Entwicklungsstand des Deutschland-Stacks, und 
 welche konkreten Basiskomponenten (Module) sind bereits in einer
 produktiv nutzbaren Version verfügbar?
  2. Nach welchem Zeitplan sollen die noch ausstehenden Basiskomponenten 
 des Deutschland-Stacks fertiggestellt und flächendeckend zur Verfügung 
 gestellt werden?
  3. Welche technischen Standards (z. B. Schnittstellen, Datenformate,
-Sicherheitsprotokolle) liegen der Architektur des Deutschland-Stacks zugrunde 
+Sicherheitsprotokolle) liegen der Architektur des Deutschland-Stacks zugrunde, 
 und wer definiert deren verbindliche Ausgestaltung?
  4. Ist die Nutzung des Deutschland-Stacks für neue IT-Vorhaben der
-Bundesverwaltung rechtlich oder organisatorisch verbindlich vorgeschrieben, 
-oder handelt es sich um ein Angebot, dessen Nutzung im Ermessen der 
+Bundesverwaltung rechtlich oder organisatorisch verbindlich vorgeschrieben oder 
+handelt es sich um ein Angebot, dessen Nutzung im Ermessen der
 einzelnen Ressorts liegt?
  5. Welche Konsequenzen sieht die Bundesregierung vor, wenn einzelne
 Ressorts oder nachgeordnete Behörden eigene, nicht mit dem Deutschland-
 Stack kompatible IT-Lösungen entwickeln oder beschaffen?
  6. Inwieweit ist die Nutzung des Deutschland-Stacks auch für die Länder 
-und Kommunen verbindlich vorgesehen und über welche vertraglichen 
+und Kommunen verbindlich vorgesehen, und über welche vertraglichen 
 oder gesetzlichen Mechanismen soll dies sichergestellt werden?
  7. Wie stellt die Bundesregierung sicher, dass laufende oder bereits geplante 
-IT-Großprojekte der Ressorts nachträglich an die Architektur des 
-Deutschland-Stacks angepasst werden, anstatt parallel fortgeführt zu
-werden?
+IT-Großprojekte der Ressorts nachträglich an die Architektur des
+Deutschland-Stacks angepasst werden, anstatt parallel fortgeführt zu werden?
  8. Welche Haushaltsmittel wurden für die Entwicklung des Deutschland-
-Stacks in den Jahren 2024, 2025 und 2026 bereitgestellt und welche Mittel 
-sind für die kommenden Haushaltsjahre eingeplant (bitte nach
+Stacks in den Jahren 2024, 2025 und 2026 bereitgestellt, und welche
+Mittel sind für die kommenden Haushaltsjahre eingeplant (bitte nach
 Komponenten aufschlüsseln)?
  9. Wie viele Personalstellen (Vollzeitäquivalente) sind aktuell für die
 Entwicklung, den Betrieb und die Weiterentwicklung des Deutschland-Stacks 
-vorgesehen und in welchem Umfang werden hierfür externe Dienstleister 
+vorgesehen, und in welchem Umfang werden hierfür externe Dienstleister 
 beauftragt?
 10. Welche Gesamtkosten sind nach Kenntnis der Bundesregierung für
 externe Beratungsleistungen im Zusammenhang mit der Konzeption und
 Umsetzung des Deutschland-Stacks bereits angefallen?
-11. Inwieweit basiert der Deutschland-Stack auf Open-Source-Software und 
+11. Inwieweit basiert der Deutschland-Stack auf Open-Source-Software, und 
 welche Abhängigkeiten von proprietären, insbesondere außereuropäischen 
 Software- oder Cloud-Anbietern bestehen bei einzelnen Komponenten 
 weiterhin?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 12. Welche Maßnahmen sieht die Bundesregierung vor, um die im Rahmen 
 des Deutschland-Stacks entstehende Software und Dokumentation
 dauerhaft offen und für Dritte nachnutzbar bereitzustellen?
 13. Welche konkreten Risiken wurden nach Kenntnis der Bundesregierung im 
 Hinblick darauf identifiziert, dass der Deutschland-Stack mangels
 verbindlicher Vorgaben zu einer weiteren, parallelen IT-Struktur neben den 
-bestehenden Systemen der Ressorts wird und welche Maßnahmen sollen 
+bestehenden Systemen der Ressorts wird, und welche Maßnahmen sollen 
 dies verhindern?
 14. Welche IT-Sicherheitsanforderungen wurden für die Basiskomponenten 
-des Deutschland-Stacks definiert und welche Stelle ist für deren Prüfung 
+des Deutschland-Stacks definiert, und welche Stelle ist für deren Prüfung 
 und Zertifizierung zuständig?
-15. Wie ist der langfristige Betrieb und die Wartung des Deutschland-Stacks 
-organisatorisch sichergestellt und welche Behörde trägt hierfür die
+15. Wie sind der langfristige Betrieb und die Wartung des Deutschland-Stacks 
+organisatorisch sichergestellt, und welche Behörde trägt hierfür die
 zentrale Verantwortung?
 Berlin, den 21. September 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
