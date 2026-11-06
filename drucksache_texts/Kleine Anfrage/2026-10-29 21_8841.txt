@@ -7,25 +7,26 @@ Kaufmann, Micha Fehre, Beatrix von Storch, Ronald Gläser, Peter Bohnhof,
 Thomas Ladzinski, Sascha Lensing und der Fraktion der AfD
 Künstliche Intelligenz bei Cyberangriffen und technische Vorfallunterstützung 
 des Bundes
-Die zunehmende Nutzung generativer Künstlicher Intelligenz verändert nach 
-Einschätzung nationaler und europäischer Sicherheitsbehörden die
+Die zunehmende Nutzung generativer Künstlicher Intelligenz (KI) verändert 
+nach Einschätzung nationaler und europäischer Sicherheitsbehörden die
 Rahmenbedingungen für Cyberangriffe. Das Bundesamt für Sicherheit in der
 Informationstechnik (BSI) führt in seiner Analyse zum Einfluss von Künstlicher
 Intelligenz auf die Cyberbedrohungslage unter anderem aus, dass große
-Sprachmodelle bei missbräuchlicher Nutzung die Erstellung und Anpassung von
-Schadsoftware, Social Engineering sowie die Auswertung von Daten unterstützen 
-können. Das BSI verweist dabei ausdrücklich auch auf die Verwendung
-„unzensierter“ öffentlicher Modelle, bei denen zusätzliche Schritte zur Umgehung 
-von Filtern nicht erforderlich seien (www.bsi.bund.de/SharedDocs/Downloads/
-DE/BSI/KI/Einfluss_KI_auf_Cyberbedrohungslage.pdf?__blob=publication
-File).
+Sprachmodelle bei missbräuchlicher Nutzung die Erstellung und Anpassung von 
+Schadsoftware, Social Engineering sowie die Auswertung von Daten
+unterstützen können. Das BSI verweist dabei ausdrücklich auch auf die Verwendung 
+„unzensierter“ öffentlicher Modelle, bei denen zusätzliche Schritte zur
+Umgehung von Filtern nicht erforderlich seien (www.bsi.bund.de/SharedDocs/Downl
+oads/DE/BSI/KI/Einfluss_KI_auf_Cyberbedrohungslage.pdf?__blob=publicati
+onFile).
 Die Agentur der Europäischen Union für Cybersicherheit (ENISA) beschreibt 
 im „ENISA Threat Landscape 2025“ neben der Nutzung kommerzieller großer 
 Sprachmodelle durch Bedrohungsakteure auch die Verwendung von
 manipulierten, mittels Jailbreak veränderten oder umtrainierten Modellen und nennt in 
 diesem Zusammenhang unter anderem die Bezeichnungen WormGPT,
-EscapeGPT und FraudGPT (www.enisa.europa.eu/sites/default/files/2025-11/ENIS
-A%20Threat%20Landscape%202025.pdf).
+EscapeGPT und FraudGPT (GPT = Generative Pre-trained Transformer; www.enis
+a.europa.eu/sites/default/files/2025-11/ENISA%20Threat%20Landscape%2020
+25.pdf).
 Die öffentlich zugänglichen Erkenntnisse erlauben jedoch keine Gleichsetzung 
 jedes unter einer entsprechenden Bezeichnung angebotenen Dienstes mit einem 
 eigenständig entwickelten KI-Modell. Es bleibt insbesondere zu unterscheiden, 
@@ -40,25 +41,24 @@ ansteigend“ bezeichnet. Nach ihrer Antwort entwickeln unter anderem das BSI
 und die Agentur für Innovation in der Cybersicherheit geeignete
 Abwehrsysteme. Angaben zu mehreren konkreten Cybervorfällen, betroffenen Stellen,
 Angriffszielen und technischen Umständen beantwortete die Bundesregierung auf 
-derselben Drucksache dagegen nicht, weil sie Rückschlüsse auf den
-nachrichtendienstlichen Kenntnisstand, die Einsatzbereitschaft, Arbeitsschwerpunkte 
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-und Aufklärungsfähigkeiten der Nachrichtendienste des Bundes ermöglichen 
-könnten.
+derselben Bundestagsdrucksache dagegen nicht, weil sie Rückschlüsse auf den 
+nachrichtendienstlichen Kenntnisstand, die Einsatzbereitschaft,
+Arbeitsschwerpunkte und Aufklärungsfähigkeiten der Nachrichtendienste des Bundes
+ermöglichen könnten.
 Mit Beschluss vom 22. Juli 2026 hat die Bundesregierung das
-ressortübergreifende Programm CyberGovSecure zur Steigerung der Cybersicherheit und 
--resilienz der Bundesverwaltung eingerichtet. Ein Lenkungskreis unter Vorsitz 
-des Bundesministeriums für Digitales und Staatsmodernisierung (BMDS) legt 
-danach den strategischen Rahmen fest. Zu den prioritären Handlungsfeldern
-gehören sichere Konfiguration und Systemhärtung, Schwachstellenmanagement 
-sowie Protokollierung und Detektion. Nach dem veröffentlichten
-Programmbeschluss soll der CISO Bund zudem Beauftragungsmöglichkeiten und Angebote 
-identifizieren oder bereitstellen, die von den Ressorts für fachliche Begleitung 
-und Kompetenztransfer genutzt werden können. Das BMDS hat nach eigenen 
-Angaben hierfür zusätzliche Personal- und Sachmittel im
-Haushaltsaufstellungsverfahren 2027 angemeldet (https://bmds.bund.de/aktuelles/pressemitteilu
-ngen/detail/digitale-wehrhaftigkeit-des-staates-staerken).
+ressortübergreifende Programm CyberGovSecure zur Steigerung der Cybersicherheit und
+Cyberresilienz der Bundesverwaltung eingerichtet. Ein Lenkungskreis unter
+Vorsitz des Bundesministeriums für Digitales und Staatsmodernisierung (BMDS) 
+legt danach den strategischen Rahmen fest. Zu den prioritären
+Handlungsfeldern gehören sichere Konfiguration und Systemhärtung,
+Schwachstellenmanagement sowie Protokollierung und Detektion. Nach dem veröffentlichten 
+Programmbeschluss soll der Chief Information Security Officer Bund (CISO 
+Bund) zudem Beauftragungsmöglichkeiten und Angebote identifizieren oder 
+bereitstellen, die von den Ressorts für fachliche Begleitung und
+Kompetenztransfer genutzt werden können. Das BMDS hat nach eigenen Angaben hierfür 
+zusätzliche Personal- und Sachmittel im Haushaltsaufstellungsverfahren 2027 
+angemeldet (https://bmds.bund.de/aktuelles/pressemitteilungen/detail/digitale-
+wehrhaftigkeit-des-staates-staerken).
 Bei der Bewältigung bereits eingetretener IT-Sicherheitsvorfälle verfügt der 
 Bund sowohl über eigene als auch über externe Unterstützungsoptionen. Das 
 BSI nennt für die Bundesverwaltung unter anderem Schadprogrammanalyse, 
@@ -95,9 +95,7 @@ fortlaufend aktualisierte Übersicht oder Klassifikation, gegebenenfalls seit wa
 mit welcher Aktualisierungsfrequenz und unter welcher fachlichen
 Federführung?
  4. In wie vielen dem Bund seit Beginn der 21. Wahlperiode bekannt
-gewordenen IT‑Sicherheitsvorfällen bei Einrichtungen des Bundes wurde nach
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
+gewordenen IT‑Sicherheitsvorfällen bei Einrichtungen des Bundes wurde nach 
 Abschluss der jeweiligen fachlichen Bewertung eine Nutzung generativer 
 Künstlicher Intelligenz festgestellt, bestanden belastbare Anhaltspunkte 
 hierfür oder blieb eine solche Nutzung ungeklärt, und welche tatsächlich 
@@ -107,12 +105,12 @@ betroffene Einrichtungen zu benennen)?
  5. Bei welchen Phasen eines Cyberangriffs hat die Bundesregierung seit
 Beginn der 21. Wahlperiode aufgrund eigener Erkenntnisse eine tatsächliche 
 Nutzung generativer Künstlicher Intelligenz bei Vorfällen mit
-Bundesbezug festgestellt, insbesondere bei Aufklärung und Zielauswahl,
-automatisierter Schwachstellensuche, Social Engineering oder Phishing,
-Codeoder Schadprogrammerstellung, Verschleierung, Zugriffsausweitung,
-Datenanalyse oder Aktivitäten nach erfolgreicher Kompromittierung, und 
-wie viele entsprechende Feststellungen entfielen jeweils auf diese
-Kategorien, soweit eine aggregierte Angabe möglich ist?
+Bundesbezug festgestellt, insbesondere bei der Aufklärung und Zielauswahl,
+automatisierten Schwachstellensuche, bei Social Engineering oder Phishing, 
+der Code- oder Schadprogrammerstellung, Verschleierung,
+Zugriffsausweitung, Datenanalyse oder bei Aktivitäten nach erfolgreicher
+Kompromittierung, und wie viele entsprechende Feststellungen entfielen jeweils 
+auf diese Kategorien, soweit eine aggregierte Angabe möglich ist?
  6. Auf welche nicht geheimhaltungsbedürftigen quantitativen oder
 qualitativen Indikatoren, Lageentwicklungen und eigenen Erkenntnisse stützt die 
 Bundesregierung ihre auf Bundestagsdrucksache 21/7929 mitgeteilte
@@ -140,27 +138,25 @@ Secure vorgesehen oder im Haushaltsaufstellungsverfahren angemeldet,
 die der Erkennung, Analyse oder Abwehr KI‑gestützter beziehungsweise 
 automatisierter Cyberangriffe zugeordnet werden können, und auf welche 
 Haushaltstitel sowie verantwortlichen Stellen entfallen diese Mittel?
-10. Welchen Umsetzungsstand haben die im Koalitionsvertrag für die 
-21. Wahlperiode angekündigte Stärkung des Bundesamtes für Sicherheit 
-in der Informationstechnik zu einer Zentralstelle für Fragen der 
-Informations- und Cybersicherheit sowie die Fortentwicklung des
-Nationalen Cyber-Abwehrzentrums und die Intensivierung des
-Informationsaustauschs erreicht, soweit diese Vorhaben die behördenübergreifende
-Erkennung und Bewertung KI‑gestützter Cyberbedrohungen betreffen, und 
-welche weiteren Meilensteine, Rechtsgrundlagen und Fristen sind hierfür 
-bis Ende 2027 vorgesehen?
+10. Welchen Umsetzungsstand haben die im Koalitionsvertrag zwischen 
+CDU, CSU und SPD für die 21. Wahlperiode angekündigte Stärkung des 
+Bundesamtes für Sicherheit in der Informationstechnik zu einer
+Zentralstelle für Fragen der Informations- und Cybersicherheit sowie die
+Fortentwicklung des Nationalen Cyber-Abwehrzentrums und die Intensivierung 
+des Informationsaustauschs erreicht, soweit diese Vorhaben die
+behördenübergreifende Erkennung und Bewertung KI‑gestützter
+Cyberbedrohungen betreffen, und welche weiteren Meilensteine, Rechtsgrundlagen und 
+Fristen sind hierfür bis Ende 2027 vorgesehen?
 11. Welche externen Beratungs-, Forschungs- oder sonstigen
-Unterstützungsleistungen haben das Bundesministerium für Digitales und Staatsmoderni-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-sierung, das Bundesministerium des Innern mit Ausnahme des
+Unterstützungsleistungen haben das Bundesministerium für Digitales und
+Staatsmodernisierung, das Bundesministerium des Innern mit Ausnahme des
 Bundesamtes für Verfassungsschutz sowie das Bundesamt für Sicherheit in der 
 Informationstechnik seit Beginn der 21. Wahlperiode zur Analyse,
 Bewertung, Erkennung oder Abwehr KI-gestützter beziehungsweise
 automatisierter Cyberbedrohungen vergeben, fortgeführt oder aus
-Rahmenvereinbarungen abgerufen (bitte je Auftrag die beauftragende Stelle,
+Rahmenvereinbarungen abgerufen (bitte je Auftrag die beauftragende Stelle, die
 Projektbezeichnung und Zielsetzung, Auftragnehmer und gegebenenfalls
-Subunternehmer, Vergabeverfahren, Auftrags- oder Abrufwert, bislang
+Subunternehmer, Vergabeverfahren, den Auftrags- oder Abrufwert, bislang
 verausgabten Betrag und Leistungszeitraum angeben)?
 12. Bei welchen der in Frage 11 erfragten Aufträge wurden der
 Leistungsumfang, der Leistungszeitraum oder das finanzielle Auftragsvolumen nach 
@@ -207,16 +203,14 @@ ausweisen)?
 Kriterien werden externe Dienstleister für digitale Forensik und Incident
 Response für Einrichtungen des Bundes ausgewählt, welche Bedeutung hat 
 dabei eine Qualifizierung als Advanced-Persistent-Threat-Response-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Dienstleister durch das Bundesamt für Sicherheit in der
 Informationstechnik, und mit welchen Abnahme- oder Qualitätskriterien wird die erbrachte 
 Leistung gegenüber dem Bund überprüft?
 18. Wie viele nationale Attribuierungsverfahren zu Cyberangriffen wurden 
 seit Beginn der 21. Wahlperiode von der Bundesregierung eingeleitet, wie 
 viele davon abgeschlossen, wie viele führten zu einer öffentlichen
-Attribution, wie viele wurden ohne öffentliche Attribution abgeschlossen und wie 
-viele Verfahren dauern noch an (bitte ausschließlich aggregierte
+Attribution, wie viele wurden ohne öffentliche Attribution abgeschlossen, und 
+wie viele Verfahren dauern noch an (bitte ausschließlich aggregierte
 Fallzahlen angeben)?
 19. Welche fachlichen Kategorien oder Vertrauensgrade verwendet die
 Bundesregierung im nationalen Attribuierungsverfahren zur Bewertung der 
@@ -231,10 +225,10 @@ Attribuierungsverfahren führten zu einer öffentlichen Zuordnung eines
 Cyberangriffs zu einem Staat oder einem staatlich gesteuerten
 beziehungsweise unterstützten Akteur, und wurde in einem dieser öffentlich
 attribuierten Fälle nach Erkenntnis der Bundesregierung auch eine Nutzung
-generativer Künstlicher Intelligenz für Vorbereitung oder Durchführung des 
-Angriffs festgestellt (bitte jeweils Datum der öffentlichen Attribution,
-öffentlich benannten Akteur beziehungsweise Staat und gegebenenfalls Art 
-des festgestellten KI‑Einsatzes angeben)?
+generativer Künstlicher Intelligenz für die Vorbereitung oder Durchführung 
+des Angriffs festgestellt (bitte jeweils Datum der öffentlichen Attribution, 
+öffentlich benannten Akteur beziehungsweise Staat und gegebenenfalls 
+Art des festgestellten KI‑Einsatzes angeben)?
 21. In wie vielen seit Beginn der 21. Wahlperiode abgeschlossenen, aber nicht 
 öffentlich attribuierten Verfahren bestanden nach Abschluss der fachlichen 
 Bewertung Erkenntnisse, die eine Einordnung als staatlich gesteuerter 
@@ -249,14 +243,6 @@ aggregiert und ohne Benennung nicht öffentlich attribuierter Staaten oder
 Akteure antworten)?
 Berlin, den 26. Oktober 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
