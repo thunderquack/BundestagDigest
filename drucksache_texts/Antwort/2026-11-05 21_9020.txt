@@ -1,0 +1,241 @@
+Deutscher Bundestag Drucksache 21/9020
+21. Wahlperiode 05.11.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Ruben Rupp, Robin Jünger, Alexander 
+Arpaschi, weiterer Abgeordneter und der Fraktion der AfD 
+– Drucksache 21/8765 –
+Der Deutschland-Stack – Entwicklungsstand, Verbindlichkeit und digitale 
+Souveränität der Verwaltungsarchitektur des Bundes
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Bundesregierung verfolgt mit dem Konzept des sogenannten
+Deutschland-Stacks das Ziel, eine einheitliche, souveräne und modulare IT-
+Architektur für die digitale Verwaltung zu schaffen. Dieser Ansatz soll die bislang
+zersplitterte Systemlandschaft der Bundesverwaltung durch standardisierte,
+wiederverwendbare Basiskomponenten ablösen und damit sowohl die technische 
+Interoperabilität als auch die digitale Souveränität des Staates stärken (https://
+bmds.bund.de/themen/digitaler-staat/deutschland-stack). Angesichts der
+massiven strukturellen Defizite, die der Bundesrechnungshof in seinem Bericht 
+zur Umsetzung der Empfehlungen für die 21. Legislaturperiode dokumentiert 
+hat, kommt dem Deutschland-Stack eine besondere Bedeutung zu (www.bund
+esrechnungshof.de/SharedDocs/Downloads/DE/Berichte/2025/verwaltungsdig
+italisierung-volltext.pdf?__blob=publicationFile&v=2). Er soll als technisches 
+Fundament dienen, um die vom Bundesrechnungshof bemängelte
+Standardisierungslücke und das Nebeneinander redundanter IT-Systeme in den Ressorts 
+endlich zu überwinden.
+Anlass der vorliegenden Kleinen Anfrage sind Berichte, wonach die konkrete 
+Umsetzung des Deutschland-Stacks bislang durch dieselben strukturellen 
+Schwächen belastet wird, die bereits frühere Digitalisierungsvorhaben der 
+Bundesverwaltung zum Scheitern gebracht haben. Kritisiert werden
+insbesondere eine unklare Zuständigkeitsverteilung zwischen dem Bundesministerium 
+für Digitales und Staatsmodernisierung und den übrigen Ressorts, eine
+unzureichende verbindliche Festlegung technischer Standards sowie eine
+Finanzierungsstruktur, die einzelne Ressorts weiterhin zu eigenständigen, nicht
+abgestimmten IT-Entwicklungen veranlasst (https://netzpolitik.org/2026/verwaltun
+gsdigitalisierung-digitalminister-wildberger-wiederholt-alte-fehler/). Sollte 
+sich der Deutschland-Stack als bloßes Konzeptpapier ohne verbindliche 
+Durchsetzungsmechanismen erweisen, drohen dieselben Fehler wie beim
+Onlinezugangsgesetz (OZG), dessen Umsetzung an der fehlenden zentralen
+Steuerung und uneinheitlichen technischen Vorgaben gescheitert ist.
+Eine erfolgreiche Staatsmodernisierung setzt voraus, dass zentrale
+Basiskomponenten nicht nur konzipiert, sondern auch mit verbindlicher Geltungskraft, 
+ausreichenden Ressourcen und einer wirksamen Erfolgskontrolle in der ge-
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Digitales und
+Staatsmodernisierung vom 5. November 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+samten Bundesverwaltung implementiert werden. Es ist daher von zentraler 
+Bedeutung, zu klären, ob der Deutschland-Stack tatsächlich den notwendigen 
+strukturellen Bruch mit der bisherigen fragmentierten IT-Landschaft des
+Bundes markiert oder ob er lediglich eine neue technische Hülle für altbekannte 
+Steuerungsprobleme darstellt.
+Vor diesem Hintergrund besteht ein erhebliches parlamentarisches
+Informationsbedürfnis darüber, wie der aktuelle Entwicklungsstand des Deutschland-
+Stacks aussieht, nach welchen technischen Standards die Architektur
+ausgestaltet wird, welche Ressourcen hierfür bereitgestellt werden und wie die
+Bundesregierung sicherstellen will, dass dieses Vorhaben nicht die bekannten
+Fehler früherer Digitalisierungsprojekte wiederholt.
+ 1. Wie ist der aktuelle Entwicklungsstand des Deutschland-Stacks, und 
+welche konkreten Basiskomponenten (Module) sind bereits in einer
+produktiv nutzbaren Version verfügbar?
+Am 18. März 2026 legte der IT-Planungsrat auf Initiative des
+Bundesministeriums für Digitales und Staatsmodernisierung (BMDS) ein initiales Portfolio 
+und erste Standards fest. Am 17. Juni 2026 hat der IT-Planungsrat
+grundlegende Weichenstellungen für den D-Stack vorgenommen (B-2026/18-IT, www.
+it-planungsrat.de/beschluss/b-2026-18-it) und fünf Basiskomponenten
+beschlossen.
+• Identität und Vertrauen (eID, EUDI-Wallet)
+• Datenaustausch (FIT-Connect)
+• Datenabruf (NOOTS) im Rahmen der Verpflichtungen des NOOTS-
+Staatsvertrags
+• Bezahlkomponente (in Ausgestaltung)
+• Postfach (in Ausgestaltung).
+Hiervon sind Fit-Connect und NOOTS bereits nutzbar, die EUDI-Wallet d-you 
+folgt zum 2. Januar 2027.
+Zahlungsabwicklung (ZBDS) und Postfach/Benachrichtigung (ZaPuk) sind
+Gegenstand einer Konzeptionierung inklusive Betriebs- und Finanzierungsmodell 
+bis spätestens zur 52. Sitzung des IT-Planungsrats.
+ 2. Nach welchem Zeitplan sollen die noch ausstehenden Basiskomponenten 
+des Deutschland-Stacks fertiggestellt und flächendeckend zur Verfügung 
+gestellt werden?
+Für die weitere Ausgestaltung des D-Stacks stellt der Bund eine verbindliche 
+Meilensteinplanung spätestens zur 52. Sitzung zur Verfügung. Die Länder
+legen eine darauf abgestimmte verbindliche Meilensteinplanung für die
+Umsetzung der verbindlichen Anbindung und Flächendeckung der Basiskomponenten 
+ebenfalls spätestens zur 52. Sitzung vor.
+ 3. Welche technischen Standards (z. B. Schnittstellen, Datenformate,
+Sicherheitsprotokolle) liegen der Architektur des Deutschland-Stacks
+zugrunde, und wer definiert deren verbindliche Ausgestaltung?
+Der Beschluss B-2026/03-IT (www.it-planungsrat.de/beschluss/b-2026-03-it) 
+des IT-Planungsrates vom 18. März 2026 legt in Nr. 3. verbindlich die
+Standards des Deutschland-Stacks und in Nr. 4 die Fortschreibung der Standards 
+fest.
+Gemäß Beschluss erfolgt die kontinuierliche Weiterentwicklung dieser
+Standards und Entwicklung neuer Standards für den Deutschland-Stack unter
+Beachtung der IT-Architekturrichtlinie im Rahmen der für das Föderale IT-
+Standardisierungsboard festgelegten Prozesse gemeinsam mit dem Bund als
+Federführer für den Deutschland-Stack.
+ 4. Ist die Nutzung des Deutschland-Stacks für neue IT-Vorhaben der
+Bundesverwaltung rechtlich oder organisatorisch verbindlich vorgeschrieben 
+oder handelt es sich um ein Angebot, dessen Nutzung im Ermessen der 
+einzelnen Ressorts liegt?
+ 5. Welche Konsequenzen sieht die Bundesregierung vor, wenn einzelne 
+Ressorts oder nachgeordnete Behörden eigene, nicht mit dem
+Deutschland-Stack kompatible IT-Lösungen entwickeln oder beschaffen?
+Die Fragen 4 und 5 werden gemeinsam beantwortet.
+Mit dem Deutschland-Stack werden Basiskomponenten etabliert. Der IT-
+Zustimmungsvorbehalt als ein Steuerungsinstrument des BMDS dient dazu, die 
+Einhaltung der Standards und Plattformansätze des Deutschland-Stacks
+ressortübergreifend sicherzustellen. Nichtdestotrotz kann es grundsätzlich
+vorkommen, dass in begründeten Fällen von architektonischen Vorgaben abgewichen 
+wird. Der Deutschland-Stack wird als offene, interoperable Technologie-
+Rahmenarchitektur und nicht als abgeschlossenes IT-System aufgebaut. Die
+einzelnen Produkte wurden unabhängig voneinander initiiert und sind in Neu- und 
+Fortentwicklungen auf Basis offener Schnittstellen integrierbar. Insofern setzt 
+der Deutschland-Stack auf einen unabhängigen modularen Aufbau.
+ 6. Inwieweit ist die Nutzung des Deutschland-Stacks auch für die Länder 
+und Kommunen verbindlich vorgesehen, und über welche vertraglichen 
+oder gesetzlichen Mechanismen soll dies sichergestellt werden?
+Gemäß Beschluss (B-2026/18-IT) des 50. IT-Planungsrats übernimmt der Bund 
+die Finanzierung der Plattformkernbasisdienste Identität und Vertrauen (eID, 
+EUDI-Wallet), Datenaustausch (FIT-Connect) und Datenabruf (NOOTS). Im 
+Gegenzug verpflichten sich die Länder zur flächendeckenden Anbindung und 
+Nutzung der in Antwort zu Frage 1 genannten Dienste.
+ 7. Wie stellt die Bundesregierung sicher, dass laufende oder bereits
+geplante IT-Großprojekte der Ressorts nachträglich an die Architektur des 
+Deutsch- land-Stacks angepasst werden, anstatt parallel fortgeführt zu 
+werden?
+Der Deutschland-Stack wird als offene, interoperable Technologie-
+Rahmenarchitektur und nicht als abgeschlossenes IT-System aufgebaut. Die einzelnen 
+Produkte wurden unabhängig voneinander initiiert und sind in Neu- und
+Fortentwicklungen auf Basis offener Schnittstellen integrierbar. Das BMDS steht 
+mit den umsetzenden Ressorts in einem regelmäßigen Austausch, um die
+Einhaltung der Standards und Plattformansätze des Deutschland-Stacks auch bei 
+laufenden Projekten sicherzustellen.
+ 8. Welche Haushaltsmittel wurden für die Entwicklung des Deutschland-
+Stacks in den Jahren 2024, 2025 und 2026 bereitgestellt, und welche 
+Mittel sind für die kommenden Haushaltsjahre eingeplant (bitte nach 
+Komponenten aufschlüsseln)?
+Der Deutschland-Stack wird als offene, interoperable Technologie-
+Rahmenarchitektur und nicht als abgeschlossenes IT-System aufgebaut. Laufende
+Projekte werden in dem organisatorischen und architekturellen Rahmen des 
+Deutschland-Stacks geordnet und künftige Projekt richten sich an den Vorgaben 
+des Deutschland-Stacks aus.
+Im Jahr 2024 wurde der Deutschland-Stack noch nicht umgesetzt oder geplant. 
+Für konzeptionelle organisatorische und architekturelle Arbeiten zum
+Deutschland-Stack wurden für die Jahre 2025 und 2026 3 676 484,75 Euro
+bereitgestellt.
+ 9. Wie viele Personalstellen (Vollzeitäquivalente) sind aktuell für die
+Entwicklung, den Betrieb und die Weiterentwicklung des Deutschland-
+Stacks vorgesehen, und in welchem Umfang werden hierfür externe 
+Dienstleister beauftragt?
+Der Deutschland-Stack wird als offene, interoperable Technologie-
+Rahmenarchitektur und nicht als abgeschlossenes IT-System aufgebaut. Laufende
+Projekte werden in dem organisatorischen und architekturellen Rahmen des 
+Deutschland-Stacks geordnet und künftige Projekt richten sich an den Vorgaben 
+des Deutschland-Stacks aus. Eine abschließende Aufzählung aller
+Personalstellen (Vollzeitäquivalente), die allein mit der Entwicklung, dem Betrieb und der 
+Weiterentwicklung des Deutschland-Stacks vorgesehen sind, ist daher nicht 
+möglich.
+10. Welche Gesamtkosten sind nach Kenntnis der Bundesregierung für
+externe Beratungsleistungen im Zusammenhang mit der Konzeption und
+Umsetzung des Deutschland-Stacks bereits angefallen?
+Die Bundesregierung hat unter Zugrundelegung der Definition für
+Beratungsleistungen (HA-Drucksache 19(8)8703) für Konzeption und Umsetzung des 
+Deutschland-Stacks externe Beratungsleistungen in Höhe von 5 903,01 Euro 
+verausgabt.
+11. Inwieweit basiert der Deutschland-Stack auf Open-Source-Software, und 
+welche Abhängigkeiten von proprietären, insbesondere
+außereuropäischen Software- oder Cloud-Anbietern bestehen bei einzelnen
+Komponenten weiterhin?
+Der Deutschland-Stack wird als offene, interoperable Technologie-
+Rahmenarchitektur und nicht als abgeschlossenes IT-System aufgebaut. Laufende
+Projekte werden in dem organisatorischen und architekturellen Rahmen des 
+Deutschland-Stacks geordnet und künftige Projekt richten sich an den Vorgaben 
+des Deutschland-Stacks aus. Eine abschließende Aufzählung aller
+Komponenten des Deutschland-Stacks ist daher sachlich nicht möglich. Auch die in 
+Frage 1 genannten Projekte stellen lediglich das initial in den Blick
+genommene, nicht abschließende Portfolio dar. Digitale Souveränität ist eine Vorgabe der 
+Architekturprinzipien., welche die Bundesregierung bei der Auswahl der
+Portfoliokomponenten des Deutschland-Stacks prüft.
+12. Welche Maßnahmen sieht die Bundesregierung vor, um die im Rahmen 
+des Deutschland-Stacks entstehende Software und Dokumentation
+dauerhaft offen und für Dritte nachnutzbar bereitzustellen?
+Die dauerhafte Nutzungsmöglichkeit auch durch Dritte und der generelle
+Zugang zu Software, die durch den Deutschland-Stack entsteht, soll über einen 
+kuratierten Marktzugang, der einen Qualifizierungsprozess vorsieht,
+gewährleistet werden. Bei diesem sollen Open Source und digitale Souveränität Teil 
+des Kriterienkatalogs sein werden. Mit openCode steht eine Plattform zur
+Veröffentlichung von Software-Code und deren Dokumentation bereit und wird 
+genutzt.
+13. Welche konkreten Risiken wurden nach Kenntnis der Bundesregierung 
+im Hinblick darauf identifiziert, dass der Deutschland-Stack mangels 
+verbindlicher Vorgaben zu einer weiteren, parallelen IT-Struktur neben 
+den bestehenden Systemen der Ressorts wird, und welche Maßnahmen 
+sollen dies verhindern?
+Der Deutschland-Stack wird als offene, interoperable Technologie-
+Rahmenarchitektur und nicht als abgeschlossenes IT-System aufgebaut. Das größte
+Risiko besteht in der heterogenen IT-Landschaft und der daraus erschwerten
+Flächendeckung für bereitgestellte Lösungen. Für den Plattformkern wurde eine 
+Nutzung durch die Länder inklusive der Kommunen vom IT-Planungsrat
+beschlossen. Darüber hinaus adressiert der Deutschland-Stack durch Definition 
+der Interoperabilitätskriterien genau das Risiko fehlender weiterer Nutzungen.
+14. Welche IT-Sicherheitsanforderungen wurden für die Basiskomponenten 
+des Deutschland-Stacks definiert, und welche Stelle ist für deren Prüfung 
+und Zertifizierung zuständig?
+In Ergänzung zu den geltenden bzw. in Kraft tretenden IT-Sicherheitsrelevanten 
+EU-Verordnungen (Cyber Resilience Act (CRA) www.bsi.bund.de/DE/Theme
+n/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Cyber_
+Resilience_Act/cyber_resilience_act_node.html) – das nationale Gesetz tritt im 
+Dezember 2027 in Kraft (www.bsi.bund.de/DE/Themen/Unternehmen-und-Org
+anisationen/Informationen-und-Empfehlungen/Cyber_Resilience_Act/Notifizie
+rung-CRA/notifizierung-cra_node.html) und der „Zweiten Richtlinie zur Netz- 
+und Informationssicherheit“ NIS-2 – www.bsi.bund.de/DE/Das-BSI/Auftrag/G
+esetze-und-Verordnungen/NIS-2-Richtlinie/nis-2-richtlinie_node.html) sind 
+gegebenenfalls weitere spezifische Vorgaben (Verschlusssachen des Bundes – 
+VSA) bzw. Prinzipien (Zero-Trust) im Deutschland-Stack zu beachten.
+Ergänzend sind bei den IT-Sicherheitsanforderungen für die Basiskomponenten 
+des Deutschland-Stacks, die im Tech-Stack (https://technologie.deutschland-sta
+ck.gov.de/?group=alle) des Deutschland-Stacks – insbesondere die
+„Sicherheitsstandards“ – zu beachten. Bei diesen Standards handelt es sich i. d. R. um 
+offene Industriestandards, die gegebenenfalls durch entsprechende Technische 
+Richtlinien des BSI präzisiert werden.
+Das BSI agiert beispielsweise im Kontext des CRAs als Aufsichtsinstanz bzw. 
+Notifizierungsinstanz. Zudem können in Abhängigkeit der Sensitivität
+technischer Komponenten beispielsweise „Qualifizierte Signaturerstellungseinheit“ 
+eine Zertifizierung auf Grundlage der Common Criteria durch das BSI im
+Rahmen gesetzlicher Erfordernisse vorgenommen werden.
+15. Wie sind der langfristige Betrieb und die Wartung des Deutschland-
+Stacks organisatorisch sichergestellt, und welche Behörde trägt hierfür 
+die zentrale Verantwortung?
+Der Deutschland-Stack wird als offene, interoperable Technologie-
+Rahmenarchitektur und nicht als abgeschlossenes IT-System aufgebaut. Eine
+abschließende Aufzählung aller Komponenten des Deutschland-Stacks ist daher sachlich 
+nicht möglich. Auch die in Frage 1 genannten Projekte stellen lediglich das
+initial in den Blick genommene, nicht abschließende Portfolio dar. Die Frage des 
+Betriebs wird daher individuell je Lösung adressiert. Für die Bundesebene wird 
+zukünftig das neu aufgestellte Digitalcenter eine tragende Rolle im Bereich 
+Deutschland-Stack übernehmen. Verfahren und Verantwortlichkeiten befinden 
+sich in Planung.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
