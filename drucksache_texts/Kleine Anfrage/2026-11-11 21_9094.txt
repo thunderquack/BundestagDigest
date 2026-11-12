@@ -1,0 +1,126 @@
+Deutscher Bundestag Drucksache 21/9094
+21. Wahlperiode 11.11.2026
+Kleine Anfrage
+der Abgeordneten Robin Jünger, Ruben Rupp, Alexander Arpaschi, Sebastian 
+Maack, Tobias Ebenberger, Lars Haise, Edgar Naujok, Steffen Janich, Dr. Michael 
+Kaufmann, Micha Fehre, Beatrix von Storch, Ronald Gläser, Peter Bohnhof, 
+Thomas Ladzinski, Sascha Lensing und der Fraktion der AfD
+Steuerung der Informationssicherheit und Verantwortung von IT-Dienstleistern 
+des Bundes
+Die Wirksamkeit der Informationssicherheit der Bundesverwaltung hängt nach 
+Ansicht der Fragesteller neben technischen Schutzmaßnahmen wesentlich von 
+eindeutig geregelten Verantwortlichkeiten, verbindlichen Sicherheitsvorgaben 
+und funktionierenden Eskalationswegen ab. Dies gilt insbesondere für eine 
+Bundesverwaltung, in der Bundesministerien, nachgeordnete Behörden,
+zentrale IT-Dienstleister, ressortübergreifende Kommunikationsinfrastrukturen und 
+externe Auftragnehmer bei Bereitstellung und Betrieb von Informationstechnik 
+zusammenwirken. Werden fachliche Verantwortung, technischer Betrieb,
+Informationssicherheitsmanagement und operative Sicherheitsmaßnahmen auf
+mehrere Stellen verteilt, muss insbesondere für den Fall eines Cyberangriffs
+eindeutig festgelegt sein, welche Stelle Warnmeldungen bewertet, technische
+Schutzmaßnahmen veranlasst, kompromittierte Komponenten isoliert und festgestellte 
+Sicherheitsmängel beseitigt.
+Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat in seiner 
+Stellungnahme vom 10. Oktober 2025 zum Entwurf des NIS‑2-
+Umsetzungsgesetzes für die Bundesverwaltung ein einheitliches
+Cybersicherheitsniveau gefordert. Zur Begründung führte das BSI aus, dass Einrichtungen 
+des Bundes teilweise dieselben Netz- und Lieferstrukturen nutzen und
+unzureichend geschützte Einrichtungen dadurch zu einem Einfallstor für andere Teile 
+der Bundesverwaltung werden können. Die Aussage bezieht sich auf technische 
+und betriebliche Verflechtungen innerhalb der Bundesverwaltung. Das BSI
+leitete daraus insbesondere die Notwendigkeit einheitlicher Sicherheitsvorgaben, 
+einer stärkeren ressortübergreifenden Koordinierung sowie einer Bündelung 
+von Fähigkeiten und Ressourcen für die Umsetzung von Resilienzmaßnahmen 
+ab (www.bundestag.de/resource/blob/1114918/21-4-069-Stellungnahme-BSI-N
+IS-2-Richtlinie-21-1501.pdf). Das geltende BSI-Gesetz ordnet die
+Verantwortung auf mehreren Ebenen. Nach § 43 Absatz 1 des BSI-Gesetzes ist die
+Leitung der jeweiligen Einrichtung der Bundesverwaltung dafür verantwortlich, 
+die Voraussetzungen zur Gewährleistung der Informationssicherheit zu
+schaffen. Werden öffentlich-rechtliche oder privatrechtliche Stellen mit Leistungen 
+für die Informationstechnik des Bundes beauftragt, muss nach § 43 Absatz 3 
+vertraglich sichergestellt werden, dass diese die Anforderungen an die
+Informationssicherheit einhalten. Die Verantwortung der Einrichtungsleitung bleibt 
+hiervon unberührt. Für wesentliche Digitalisierungsvorhaben und
+Kommunikationsinfrastrukturen, insbesondere bei ressortübergreifendem Betrieb oder
+ressortübergreifendem Datenaustausch, sieht § 47 eigene Informationssicherheits-
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+beauftragte vor. Die Leitung des BSI nimmt nach § 48 zugleich die Aufgaben 
+der Koordinatorin oder des Koordinators der Bundesregierung für
+Informationssicherheit wahr und koordiniert das operative
+Informationssicherheitsmanagement des Bundes. Mit dem Programm „CyberGovSecure“ hat die
+Bundesregierung im Juli 2026 zusätzlich eine ressortübergreifende Steuerungsstruktur 
+geschaffen. Das Programm soll unter anderem Maßnahmen zur Systemhärtung, 
+zum Schwachstellenmanagement sowie zur Protokollierung und Detektion
+bündeln. Hierfür sollen konkrete Zielwerte festgelegt und Umsetzungsstände
+ressortübergreifend nachverfolgt werden (https://bmds.bund.de/aktuelles/pressemi
+tteilungen/detail/digitale-wehrhaftigkeit-des-staates-staerken). Besondere 
+Bedeutung kommt nach Auffassung der Fragesteller zentralen und externen IT-
+Dienstleistern zu. Zentral bereitgestellte Dienste können einheitliche
+Sicherheitsmaßnahmen ermöglichen, zugleich aber Abhängigkeiten mehrerer
+Behörden von denselben technischen Komponenten schaffen. Bei einem
+Sicherheitsvorfall muss daher eindeutig bestimmt sein, wer für Angriffserkennung,
+Incident Response, Isolation betroffener Systeme, forensische Untersuchungen und 
+die Beseitigung kritischer Schwachstellen verantwortlich ist. Dies gilt
+entsprechend für externe IT-Dienstleister und Cloud-Anbieter. Die Auslagerung des 
+technischen Betriebs lässt die Sicherheitsverantwortung der Bundesverwaltung 
+nicht entfallen.
+Wir fragen die Bundesregierung:
+1. Wie sind die jeweiligen Verantwortlichkeiten des Bundesministeriums für 
+Digitales und Staatsmodernisierung, der Koordinators der Bundesregierung 
+für Informationssicherheit, des Bundesamtes für Sicherheit in der
+Informationstechnik, der Ressort-Informationssicherheitsbeauftragten, der
+Einrichtungsleitungen und der zentralen IT-Dienstleister des Bundes hinsichtlich 
+Angriffserkennung, Incident Response und Beseitigung festgestellter
+Sicherheitsmängel voneinander abgegrenzt?
+2. Für welche Kategorien zentral oder ressortübergreifend genutzter IT-
+Dienste des Bundes ist verbindlich festgelegt, welche Stelle im Fall eines 
+laufenden Cyberangriffs über die Isolation oder Abschaltung einer
+kompromittierten Komponente entscheidet und welche Stelle für die anschließende 
+Wiederaufnahme des Betriebs verantwortlich ist?
+3. Welche nach § 29 des BSI-Gesetzes erfassten Kategorien von IT-
+Dienstleistern sind in das Informationssicherheitscontrolling
+beziehungsweise das Berichtswesen von „CyberGovSecure“ einbezogen, und bei
+welchen Kategorien bestehen noch Abdeckungslücken?
+4. Welche Angaben zu festgestellten Sicherheitsabweichungen,
+Behebungsfristen, verbleibenden Risiken und Umsetzungsständen müssen
+Einrichtungen und IT-Dienstleister des Bundes im Rahmen des
+Informationssicherheitscontrollings an die jeweils zuständige übergeordnete Steuerungsebene 
+übermitteln, und in welchen zeitlichen Abständen erfolgt diese
+Berichterstattung?
+5. Nach welchem Verfahren werden erhebliche Sicherheitsdefizite oder nicht 
+fristgerecht umgesetzte Schutzmaßnahmen von der betroffenen Einrichtung 
+beziehungsweise dem IT-Dienstleister über die Ressortebene an die
+Koordinatorin beziehungsweise den Koordinator der Bundesregierung für
+Informationssicherheit und gegebenenfalls an ein ressortübergreifendes
+Steuerungsgremium eskaliert, und wie viele entsprechende Eskalationsfälle
+wurden seit dem 1. Januar dokumentiert?
+6. Welche verbindlichen Mindestanforderungen gelten in Verträgen mit
+externen IT-Dienstleistern hinsichtlich der unverzüglichen Meldung sicherheits-
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+relevanter Ereignisse, der Bereitstellung von Protokoll- und Forensikdaten, 
+der Mitwirkung an Incident-Response-Maßnahmen sowie der Absicherung 
+privilegierter Administrations- und Fernwartungszugänge?
+7. Durch welche technischen und organisatorischen Maßnahmen stellt die 
+Bundesregierung bei zentral oder von mehreren Einrichtungen genutzten 
+IT-Diensten sicher, dass die Kompromittierung einer einzelnen
+angeschlossenen Einrichtung, eines Benutzerkontos oder eines Dienstleisterzugangs 
+nicht ohne zusätzliche Autorisierung einen Zugriff auf Systeme oder
+Datenbestände anderer Bundeseinrichtungen ermöglicht?
+8. Welche Fälle sind der Bundesregierung seit Beginn der 21. Wahlperiode
+bekannt geworden, in denen die Beseitigung eines erheblichen
+Sicherheitsmangels oder die Einleitung einer erforderlichen Schutzmaßnahme
+innerhalb der Bundesverwaltung aufgrund ungeklärter, geteilter oder
+unterschiedlich bewerteter Zuständigkeiten zwischen Bundesstellen oder IT-
+Dienstleistern verzögert wurde, und welche organisatorischen oder
+technischen Folgerungen wurden hieraus gezogen?
+Berlin, den 6. November 2026
+Dr. Alice Weidel, Tino Chrupalla und Fraktion
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.

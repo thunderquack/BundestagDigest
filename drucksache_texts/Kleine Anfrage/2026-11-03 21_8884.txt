@@ -22,7 +22,7 @@ ehmen-und-Organisationen/Informationen-und-Empfehlungen/Cyber_Resilienc
 e_Act/cyber_resilience_act.html). In Deutschland wurde das Bundesamt für 
 Sicherheit in der Informationstechnik (BSI) als zentrale Meldestelle benannt.
 Nach einer repräsentativen, im Frühjahr 2026 durchgeführten Befragung des 
-Digitalverbands Bitkom unter 1 003 Unternehmen ab 10 Beschäftigten,
+Digitalverbands Bitkom unter 1 003 Unternehmen ab zehn Beschäftigten,
 veröffentlicht am 10. September 2026, also einen Tag vor Beginn der
 Meldepflicht, war zwar 67 Prozent der befragten Unternehmen der Cyber Resilience 
 Act dem Namen nach bekannt, jedoch konnten nur 29 Prozent einschätzen, was 
@@ -38,12 +38,10 @@ Meldungen deutscher Hersteller entgegennimmt, erst zum Stichtag des 11.
 September 2026 selbst in Betrieb genommen wurde. Selbst gut vorbereitete
 Unternehmen konnten sich damit im Vorfeld weder auf der Plattform registrieren 
 noch die vorgeschriebenen Meldewege erproben.
-Auch auf Seiten der zuständigen Behörde zeigen sich erhebliche
+Auch aufseiten der zuständigen Behörde zeigen sich erhebliche
 Anlaufschwierigkeiten. Bereits seit dem 11. Juni 2026 gilt nach Artikel 71 des Cyber
 Resilience Act der rechtliche Rahmen für die Notifizierung von
 Konformitätsbewertungsstellen gemäß Kapitel IV der Verordnung (https://cyber-resilience-act.de/c
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 ra/kapitel-4/). Nach Artikel 35 Absatz 2 des Cyber Resilience Act müssen die 
 Mitgliedstaaten bis zum 11. Dezember 2026 dafür sorgen, dass eine
 ausreichende Zahl notifizierter Stellen zur Verfügung steht, die
@@ -67,12 +65,13 @@ Compliance-Abteilungen verfügen (www.itsa365.de/de-de/news-knowledge/20
 26/09/cyber-resilience-act-enisa-playbook-fuer-hersteller).
 Nach Auffassung der Fragesteller zeigt sich damit ein wiederkehrendes Muster 
 europäischer und nationaler Digitalgesetzgebung, nach dem bereits nach der 
-Datenschutz-Grundverordnung und der NIS‑2-Richtlinie erneut weitreichende 
-Meldepflichten mit engen Fristen in Kraft gesetzt werden, ohne dass die für den 
-Vollzug zuständigen Behörden und insbesondere der deutsche Mittelstand
-ausreichend Zeit und Unterstützung erhalten, sich auf die neuen Anforderungen 
-vorzubereiten. Dies gefährdet nicht nur die digitale Souveränität, sondern auch 
-die Wettbewerbsfähigkeit des deutschen Mittelstands.
+Datenschutz-Grundverordnung und der NIS (Network and Information 
+Security)‑2-Richtlinie erneut weitreichende Meldepflichten mit engen Fristen 
+in Kraft gesetzt werden, ohne dass die für den Vollzug zuständigen Behörden 
+und insbesondere der deutsche Mittelstand ausreichend Zeit und Unterstützung 
+erhalten, sich auf die neuen Anforderungen vorzubereiten. Dies gefährdet nicht 
+nur die digitale Souveränität, sondern auch die Wettbewerbsfähigkeit des
+deutschen Mittelstands.
 Vor diesem Hintergrund besteht ein erhebliches parlamentarisches
 Informationsbedürfnis darüber, über welche personellen und technischen Kapazitäten das 
 BSI für die Umsetzung der neuen Meldepflichten tatsächlich verfügt und 
@@ -82,9 +81,9 @@ zukommen lässt.
 Wir fragen die Bundesregierung:
  1. Wie viele Meldungen nach Artikel 14 des Cyber Resilience Act sind beim 
 BSI seit dem 11. September 2026 bis zum aktuellen Zeitpunkt
-eingegangen (aufgeschlüsselt nach Frühwarnmeldungen, Aktualisierungen und
-Abschlussberichten sowie, soweit bekannt, nach der Größe der meldenden 
-Hersteller in Kleinst-, kleine, mittlere und große Unternehmen)?
+eingegangen (bitte nach Frühwarnmeldungen, Aktualisierungen und
+Abschlussberichten sowie, soweit bekannt, nach der Größe der meldenden Hersteller 
+in Kleinst-, kleine, mittlere und große Unternehmen aufschlüsseln)?
  2. Wie viele dieser Meldungen betrafen aktiv ausgenutzte Schwachstellen 
 und wie viele schwerwiegende Sicherheitsvorfälle im Sinne des Cyber 
 Resilience Act?
@@ -94,13 +93,11 @@ Strafverfolgungsbehörden weitergegeben oder auf deren Grundlage Warnungen
 an betroffene Nutzer oder Unternehmen herausgegeben, und wie viele
 Ermittlungsverfahren wurden nach Kenntnis der Bundesregierung daraufhin 
 eingeleitet?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
  4. Über wie viele Vollzeitäquivalente verfügt das BSI aktuell für die
 Bearbeitung und Auswertung der nach dem Cyber Resilience Act
 eingehenden Meldungen?
  5. Wie viele dieser Stellen waren zum 11. September 2026 tatsächlich
-besetzt und wie viele befanden sich zu diesem Zeitpunkt noch im
+besetzt, und wie viele befanden sich zu diesem Zeitpunkt noch im
 Besetzungsverfahren?
  6. Innerhalb welcher durchschnittlichen Zeitspanne wurden die seit dem 
 11. September 2026 eingegangenen Meldungen durch das BSI bearbeitet?
@@ -120,7 +117,7 @@ Vereinbarung durch die DAkkS im Bereich des Cyber Resilience Act
 akkreditiert worden?
 12. Wie viele Anträge auf Akkreditierung als Konformitätsbewertungsstelle 
 im Bereich des Cyber Resilience Act liegen der DAkkS aktuell zur
-Bearbeitung vor und wie viele davon werden nach Einschätzung der
+Bearbeitung vor, und wie viele davon werden nach Einschätzung der
 Bundesregierung bis zum 11. Dezember 2026 abgeschlossen sein können?
 13. Mit welcher durchschnittlichen Bearbeitungsdauer rechnet die
 Bundesregierung für ein vollständiges Akkreditierungsverfahren einer
@@ -140,14 +137,12 @@ Unterstützung kleiner und mittlerer Unternehmen bei der Umsetzung des
 Cyber Resilience Act bereitgestellt?
 18. Wie viele Anfragen kleiner und mittlerer Unternehmen zur Umsetzung 
 des Cyber Resilience Act sind beim BSI seit dem 11. September 2026
-eingegangen und innerhalb welcher durchschnittlichen Zeitspanne wurden 
+eingegangen, und innerhalb welcher durchschnittlichen Zeitspanne wurden 
 diese Anfragen durch das BSI beantwortet?
 19. Welche Erkenntnisse liegen der Bundesregierung zu den Ergebnissen der 
 Bitkom-Umfrage vom 10. September 2026 vor, wonach nur 29 Prozent 
 der befragten Unternehmen einschätzen konnten, was der Cyber
 Resilience Act konkret für das eigene Unternehmen bedeutet?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 20. Wann wurde die Bundesregierung durch die ENISA über den Zeitpunkt 
 der Inbetriebnahme der zentralen Meldeplattform informiert?
 21. Wie viele nach dem Cyber Resilience Act notifizierte
@@ -156,12 +151,10 @@ und in Deutschland bekannt?
 22. Inwieweit wird die Bundesregierung die Frist aus Artikel 35 Absatz 2 des 
 Cyber Resilience Act, wonach bis zum 11. Dezember 2026 eine
 ausreichende Zahl notifizierter Konformitätsbewertungsstellen zur Verfügung 
-stehen muss, nach heutigem Kenntnisstand einhalten können und welche 
+stehen muss, nach heutigem Kenntnisstand einhalten können, und welche 
 Maßnahmen ergreift sie andernfalls?
 Berlin, den 2. November 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
