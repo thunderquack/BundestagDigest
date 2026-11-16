@@ -1,0 +1,222 @@
+Deutscher Bundestag Drucksache 21/9091
+21. Wahlperiode 11.11.2026
+Kleine Anfrage
+der Abgeordneten Robin Jünger, Ruben Rupp, Alexander Arpaschi, Sebastian 
+Maack, Tobias Ebenberger, Lars Haise, Edgar Naujok, Steffen Janich, Dr. Michael 
+Kaufmann, Micha Fehre, Beatrix von Storch, Ronald Gläser, Peter Bohnhof, 
+Thomas Ladzinski, Sascha Lensing und der Fraktion der AfD
+Netzsegmentierung und Virtualisierungsinfrastrukturen der Bundesverwaltung
+Der Cyberangriff auf Teile der Berliner Landesverwaltung im August 2026 hat 
+die Bedeutung einer wirksamen Begrenzung der Bewegungsmöglichkeiten von 
+Angreifern innerhalb staatlicher Informationssysteme erneut verdeutlicht. Nach 
+Angaben des Landes Berlin verschaffte sich eine kriminelle Angreifergruppe 
+Zugriff auf das digitale Netzwerk der Berliner Verwaltung und kopierte
+Datenbestände. Der wesentliche Teil des bislang bekannten Datenabflusses erfolgte 
+zwischen dem 7. und 12. August 2026. Die betroffenen Senatsverwaltungen 
+wurden am 14. August 2026 vom Berliner Landesnetz getrennt. Die
+forensische Untersuchung des Vorfalls und die Ermittlung von Inhalt und Umfang der 
+abgeflossenen Daten dauerten anschließend fort (www.berlin.de/cyberangriff/in
+formationen-fuer-buergerinnen-und-buerger/).
+Der Vorfall wirft für die Fragesteller die grundsätzliche Frage auf, wie die
+Sicherheitsarchitektur der Bundesverwaltung nach einem erfolgreichen initialen 
+Zugriff verhindern oder begrenzen soll, dass ein Angreifer weitere Systeme
+erreicht, zusätzliche Berechtigungen erlangt und sich zwischen unterschiedlichen 
+Teilen einer IT-Infrastruktur bewegt. Diese sogenannte laterale Bewegung ist 
+insbesondere dann von Bedeutung, wenn Angreifer legitime Benutzer- oder 
+Administrationskonten übernehmen oder auf zentrale Dienste zugreifen
+können, denen innerhalb der Infrastruktur weitreichende Vertrauensstellungen
+eingeräumt werden.
+Das Bundesamt für Sicherheit in der Informationstechnik (BSI) beschreibt Zero 
+Trust als einen Architekturansatz, bei dem Zugriffe nicht allein aufgrund einer 
+Position innerhalb eines vermeintlich vertrauenswürdigen Netzes zugelassen 
+werden. Identitäten, Geräte, Kommunikationsbeziehungen und
+Zugriffsentscheidungen sollen vielmehr fortlaufend geprüft und auf den jeweils
+erforderlichen Umfang begrenzt werden. Das BSI unterscheidet zugleich
+unterschiedliche Reifegrade der Netzwerksegmentierung bis hin zu einer feingranularen 
+Mikrosegmentierung, bei der Kommunikationsbeziehungen möglichst eng an 
+den tatsächlichen Bedarf einzelner Systeme und Anwendungen gebunden
+werden (www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Technis
+cheLeitlinien/Zero-Trust/Zero-Trust_04072023.pdf?__blob=publicationFile
+&v=4).
+Die Bundesregierung hat in ihrer Antwort auf Bundestagsdrucksache 21/7929 
+bereits erklärt, dass Netztrennung ein Kernelement der Absicherung aktueller 
+Regierungsnetze sei und Zero-Trust-Ansätze ergänzend zu weiteren
+Sicherheitsmaßnahmen eingesetzt würden. Für das neu geplante Netz der Bundes-
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+regierung solle Zero Trust bis zum Jahr 2030, soweit möglich, verstärkt
+implementiert werden.
+Mit dem am 22. Juli 2026 vom Bundeskabinett beschlossenen Programm
+„CyberGovSecure“ hat die Bundesregierung die Verhinderung lateraler
+Bewegungen ausdrücklich zu einem Gegenstand der weiteren Härtung der
+Bundesverwaltung gemacht. Im Handlungsfeld „Sichere Konfiguration und
+Systemhärtung“ sollen einheitliche Sicherheitsrichtlinien für Clients, Server und zentrale 
+Verzeichnisdienste eine laterale Bewegung von Angreifern verhindern
+beziehungsweise erschweren. Im Handlungsfeld „Netzwerksicherheit“ nennt das 
+Programm ausdrücklich Sicherheits-Gateways auch in virtualisierten
+Umgebungen, Segmentierung, Zero-Trust-Architektur, Anomalieerkennung und
+Protokollierung. Das Programm sieht zudem vor, auf Grundlage der gesetzlichen 
+Sicherheitsvorgaben sowie der Erhebungen und Prüfungen des Bundesamtes 
+konkrete Handlungsbedarfe und Zielwerte für die Bundesverwaltung
+festzulegen (https://bmds.bund.de/aktuelles/pressemitteilungen/detail/digitale-wehrha
+ftigkeit-des-staates-staerken).
+Von besonderer Bedeutung sind aus Sicht der Fragesteller die
+Virtualisierungsinfrastrukturen der Bundesverwaltung. In modernen Rechenzentren werden auf 
+einem physischen Virtualisierungsserver regelmäßig mehrere virtuelle IT-
+Systeme betrieben. Die Virtualisierungssoftware, der sogenannte Hypervisor, 
+bildet dabei eine zentrale technische Ebene. Das Bundesamt für Sicherheit in 
+der Informationstechnik weist in seinem IT-Grundschutz-Baustein zur
+Virtualisierung darauf hin, dass eine erfolgreiche Kompromittierung des Hypervisors 
+dazu führen kann, dass auch die auf dem betreffenden Virtualisierungsserver 
+ausgeführten virtuellen IT-Systeme kompromittiert sind. Ebenso kommt dem 
+Verwaltungs- beziehungsweise Managementsystem der
+Virtualisierungsinfrastruktur eine besondere Bedeutung zu, weil darüber zentrale Funktionen der 
+virtuellen Infrastruktur gesteuert und administriert werden können (www.bsi.bu
+nd.de/SharedDocs/Downloads/DE/BSI/Grundschutz/IT-GS-Kompendium_Einz
+el_PDFs_2023/07_SYS_IT_Systeme/SYS_1_5_Virtualisierung_Edition_2023.
+pdf?__blob=publicationFile&v=3).
+Für Virtualisierungsumgebungen reicht deshalb nach Auffassung der
+Fragesteller eine Trennung gewöhnlicher Client- und Servernetze allein nicht aus. 
+Administrations- und Managementschnittstellen von Hypervisoren und
+Virtualisierungsplattformen müssen besonders geschützt werden. Dies betrifft unter 
+anderem die Trennung von Management- und Produktivnetzen, die
+Beschränkung administrativer Berechtigungen, die Absicherung privilegierter Zugänge, 
+eine hinreichende Protokollierung sowie die Überwachung von Zugriffen auf 
+zentrale Managementebenen. Das Bundesamt sieht für
+Virtualisierungsumgebungen zudem regelmäßige Audits und bei erhöhtem Schutzbedarf zusätzliche 
+Härtungs- und Isolierungsmaßnahmen vor (ebd.).
+Ein unbefugter Zugriff auf eine Hypervisor- oder
+Virtualisierungsmanagementebene lässt für sich genommen noch keinen belastbaren Schluss auf den
+ursprünglichen Angriffsweg zu. Ein solcher Zugriff kann unter anderem durch 
+zuvor kompromittierte privilegierte Konten, entwendete Zugangsdaten, eine 
+Rechteausweitung nach dem initialen Eindringen, Schwachstellen oder
+Fehlkonfigurationen ermöglicht werden. Ebenso ist im Rahmen eines
+angemessenen Bedrohungsmodells zu berücksichtigen, dass bereits legitim berechtigte 
+interne Beschäftigte oder externe Administratoren ihre vorhandenen
+Zugriffsrechte missbrauchen könnten. Die technische Sicherheitsarchitektur muss
+deshalb sowohl die Übernahme privilegierter Identitäten durch externe Angreifer 
+als auch den möglichen Missbrauch bereits vorhandener privilegierter
+Berechtigungen berücksichtigen. Entscheidend ist, ob atypische oder unzulässige
+Administrationshandlungen erkannt, ihre Reichweite begrenzt und besonders kriti-
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+sche Managementebenen gegen den Zugriff aus gewöhnlichen Produktivnetzen 
+abgeschottet werden.
+Für die Kontrolle ist nach Ansicht der Fragesteller von Interesse, ob die
+Bundesregierung Segmentierung und Zero Trust grundsätzlich als geeignete
+Sicherheitsansätze betrachtet. Zu klären ist vielmehr, in welchem Umfang diese 
+Schutzprinzipien tatsächlich umgesetzt sind, welche Anforderungen speziell für 
+Virtualisierungs- und Managementebenen gelten, wie privilegierte Zugriffe 
+kontrolliert werden und ob bestehende Detektionssysteme laterale Bewegungen 
+auch dann erkennen können, wenn ein Angreifer legitime Zugangsdaten
+verwendet. Ebenso ist zu klären, welche Zielwerte die Bundesregierung für
+„CyberGovSecure“ beschlossen hat und wie sie überprüft, ob sich der mögliche 
+Schadensradius eines kompromittierten Benutzer- oder Administrationskontos 
+tatsächlich verringert.
+Wir fragen die Bundesregierung:
+ 1. Welche konkreten Reifegrade, Zielwerte und Zwischenfristen hat die
+Bundesregierung für die Umsetzung von Zero-Trust-Prinzipien und einer
+weitergehenden Netzwerksegmentierung in den gegenwärtigen und
+zukünftigen Kommunikations- und Informationssystemen der Bundesverwaltung 
+für den Zeitraum bis 2030 festgelegt?
+ 2. Bei welchem Anteil der Einrichtungen der Bundesverwaltung sind nach 
+den der Bundesregierung beziehungsweise dem BSI vorliegenden
+Erkenntnissen Client-, Server-, Administrations- und Managementnetze 
+technisch so voneinander getrennt, dass Kommunikationsbeziehungen 
+zwischen diesen Bereichen grundsätzlich auf die für den jeweiligen
+Betriebszweck erforderlichen Verbindungen beschränkt werden?
+ 3. Bei welchem Anteil der Einrichtungen der Bundesverwaltung sind
+Managementschnittstellen von Hypervisoren und zentralen
+Virtualisierungsplattformen ausschließlich aus besonders geschützten
+Administrationsumgebungen erreichbar, und welche verbindlichen Mindestanforderungen 
+gelten für die technische Trennung dieser Managementebenen von
+gewöhnlichen Client- und Produktivnetzen?
+ 4. Welche verbindlichen Anforderungen gelten in der Bundesverwaltung für 
+privilegierte Zugriffe auf Hypervisoren,
+Virtualisierungsmanagementsysteme und vergleichbare zentrale Infrastrukturkomponenten hinsichtlich 
+Mehrfaktorauthentisierung, Beschränkung der Administrationsrechte, 
+Trennung von gewöhnlichen und administrativen Benutzerkonten,
+Protokollierung sowie zeitlicher oder bedarfsbezogener Freigabe von
+Zugriffsrechten?
+ 5. Welche einheitlichen Sicherheits- und Härtungsanforderungen wurden im 
+Rahmen von „CyberGovSecure“ für zentrale Verzeichnisdienste,
+Virtualisierungsplattformen und deren Managementsysteme beschlossen oder zur 
+Beschlussfassung vorbereitet, und welche Zieltermine bestehen für ihre 
+Umsetzung in den von den jeweiligen Vorgaben erfassten Einrichtungen 
+des Bundes?
+ 6. Welche technischen Fähigkeiten bestehen in der Bundesverwaltung zur 
+Erkennung einer lateralen Bewegung zwischen Clients, Servern, zentralen 
+Verzeichnisdiensten, Administrationssystemen und virtualisierten
+Umgebungen, und in welchem Umfang können hierbei auch atypische oder
+unautorisierte Zugriffe auf Hypervisoren und
+Virtualisierungsmanagementsysteme erkannt und einer sicherheitsfachlichen Bewertung zugeführt 
+werden?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+ 7. Welche Anforderungen gelten für virtuelle Netzwerkstrukturen, virtuelle 
+Switches und Sicherheits-Gateways in Virtualisierungsumgebungen der 
+Bundesverwaltung, damit bestehende Segmentierungs-, Filter- oder
+Überwachungsmechanismen nicht durch interne Kommunikationswege
+zwischen virtuellen Systemen umgangen werden können?
+ 8. Welche Sicherheitsanforderungen gelten für privilegierte Fernwartungs- 
+und Administrationszugänge externer IT-Dienstleister, Cloud-Anbieter 
+oder sonstiger Auftragnehmer zu Hypervisoren,
+Virtualisierungsmanagementsystemen oder vergleichbaren zentralen Infrastrukturkomponenten, 
+und wie wird die Einhaltung dieser Anforderungen durch die jeweils
+verantwortliche Bundesstelle überprüft?
+ 9. Welche technischen und organisatorischen Kontrollen setzt die
+Bundesverwaltung ein, um bei der Nutzung legitimer privilegierter Zugangsdaten 
+zwischen regulären Administrationshandlungen und sicherheitsrelevanten 
+atypischen Zugriffsmustern zu unterscheiden, insbesondere wenn dabei 
+zentrale Verzeichnisdienste, Virtualisierungsmanagementsysteme,
+Hypervisoren, Backup-Systeme oder mehrere voneinander getrennte
+Netzwerkbereiche nacheinander oder gleichzeitig angesprochen werden?
+10. In welchen seit Beginn der 21. WP durchgeführten ressortübergreifenden 
+Angriffssimulationen, Red-Team-Übungen oder vergleichbaren
+technischen Prüfungen wurde untersucht, ob ein Angreifer nach der
+Kompromittierung eines gewöhnlichen oder privilegierten Benutzerkontos
+beziehungsweise durch den Missbrauch bereits bestehender berechtigter
+interner oder externer Administrationszugänge eine laterale Bewegung bis zu 
+zentralen Verzeichnisdiensten, Virtualisierungsmanagementsystemen oder 
+Hypervisoren durchführen könnte, welche übergreifenden Kategorien von 
+Sicherheitsdefiziten wurden hierbei festgestellt, und welche dieser
+Defizite sind noch nicht vollständig behoben?
+11. Welche verbindlichen Anforderungen gelten in der Bundesverwaltung für 
+sogenannte Notfall-, Break-Glass- oder sonstige besonders privilegierte 
+Administrationskonten für Hypervisoren,
+Virtualisierungsmanagementsysteme und zentrale Verzeichnisdienste hinsichtlich Einrichtung, personeller 
+Zuordnung, Mehrfaktorauthentisierung, zeitlicher Begrenzung,
+Protokollierung und nachträglicher Kontrolle ihrer Nutzung, und bei welchem
+Anteil der betroffenen Einrichtungen werden diese Anforderungen mit Stand 
+30. September 2026 vollständig erfüllt?
+12. Welche Anforderungen bestehen an die manipulationsgeschützte
+Protokollierung und Aufbewahrung administrativer Zugriffe auf Hypervisoren, 
+Virtualisierungsmanagementsysteme, zentrale Verzeichnisdienste und
+vergleichbare Managementebenen, und bei welchem Anteil der
+Einrichtungen der Bundesverwaltung können nach Kenntnis der Bundesregierung 
+administrative Änderungen, Rechtevergaben und Zugriffe auf virtuelle 
+Systeme nachträglich einer konkreten Identität und einem konkreten
+Zeitpunkt zugeordnet werden?
+13. Welche Verfahren bestehen in der Bundesverwaltung, um neu bekannt
+gewordene kritische Schwachstellen in Hypervisoren,
+Virtualisierungsplattformen und deren Managementkomponenten kurzfristig zu identifizieren, 
+betroffene Systeme vollständig zu erfassen und erforderliche
+Sicherheitsupdates oder kompensierende Schutzmaßnahmen umzusetzen, und wie 
+viele als kritisch eingestufte Schwachstellen in solchen Komponenten wa-
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+ren zum 30. September 2026 länger als die jeweils vorgesehene
+Behebungsfrist offen?
+Berlin, den 6. November 2026
+Dr. Alice Weidel, Tino Chrupalla und Fraktion
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
