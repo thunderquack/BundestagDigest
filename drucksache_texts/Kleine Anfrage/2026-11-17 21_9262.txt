@@ -1,0 +1,160 @@
+Deutscher Bundestag Drucksache 21/9262
+21. Wahlperiode 17.11.2026
+Kleine Anfrage
+der Abgeordneten Tobias Matthias Peterka, Dr. Christoph Birghan, Knuth Meyer-
+Soltau, Gerrit Huy, Dr. Ingo Hahn, Dr. Michael Blos, Dr. Malte Kaufmann, Kay-
+Uwe Ziegler, Rocco Kever, Sascha Lensing, Martina Uhr, Edgar Naujok, Thomas 
+Ladzinsi, Stefan Keuter, Kurt Kleinschmidt, Andreas Mayer, Adam Balten und der 
+Fraktion der AfD
+Forschung, Datenzugriff und militärische Nutzung sensorfähiger Unterseekabel
+Glasfaserbasierte Unterseekabel können neben ihrer Funktion für die
+Telekommunikation auch zur Erfassung physikalischer Vorgänge in ihrer Umgebung
+genutzt werden. Beim sogenannten Distributed Acoustic Sensing werden
+Veränderungen rückgestreuter Lichtsignale bestehender Glasfasern ausgewertet. 
+Bei sogenannten SMART Cables (Science Monitoring and Reliable
+Telecommunications) werden zusätzliche Sensoren, etwa zur Messung von Druck,
+Temperatur und Bodenbewegungen, in neue Kabelsysteme integriert.
+Das GFZ Helmholtz-Zentrum für Geoforschung und das GEOMAR 
+Helmholtz-Zentrum für Ozeanforschung Kiel bauen seit März 2025 die
+Forschungsinfrastruktur SAFAtor (SMART Cables And Fiber-optic Sensing
+Amphibious Demonstrator) auf. Nach Angaben des GFZ wird das auf fünf Jahre 
+angelegte Vorhaben mit 30 Mio. Euro durch die Helmholtz-Gemeinschaft als 
+strategische Ausbauinvestition gefördert (www.gfz.de/presse/meldungen/detail
+ansicht/30-mio-euro-fuer-neuartiges-monitoring-der-weltmeere-und-kuestenreg
+ionen-mit-telekommunikationskabeln). Neben der Nutzung bestehender
+Glasfasern als Sensoren ist vorgesehen, ein unterseeisches Telekommunikationskabel 
+vor seiner Verlegung mit rund 40 Sensorstationen auszustatten. Die
+gewonnenen Daten sollen zentral gesammelt und über einen Datendienst am GFZ
+zugänglich gemacht werden.
+Das inzwischen abgeschlossene EU-Forschungsprojekt SUBMERSE (SUB
+MarinE cables for ReSearch and Exploration) nutzte ebenfalls bestehende
+Telekommunikationskabel für Distributed Acoustic Sensing und weitere
+Messverfahren. Nach Angaben der Europäischen Kommission beliefen sich die
+Gesamtkosten und der EU-Beitrag auf jeweils 9 744 100 Euro (https://cordis.euro
+pa.eu/article/id/467337-transforming-submarine-cables-into-a-european-researc
+h-machine). Die Europäische Kommission stellte im März 2026 im Rahmen 
+der Connecting Europe Facility zudem 20 Mio. Euro für Vorhaben zur
+intelligenten Aufrüstung digitaler Infrastruktur bereit, die unter anderem eine
+Echtzeitüberwachung zum Schutz kritischer Infrastruktur ermöglichen sollen 
+(https://germany.representation.ec.europa.eu/nachrichten-und-veranstaltungen/
+pressemitteilungen/connecting-europe-kommission-stellt-200-millionen-euro-f
+ur-unterseekabel-und-digitale-2026-03-17_de).
+Nach einem Beitrag der Frankfurter Allgemeinen Sonntagszeitung vom 
+27. September 2026 befasst sich auch die Europäische Verteidigungsagentur 
+mit der sicherheitspolitischen Nutzung glasfaserbasierter Sensorik (www.fa
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+z.net/aktuell/wissen/physik-mehr/ueberwachung-mit-glasfaserkabeln-der-spio
+n-der-vom-meeresgrund-kam-accg-201253674.html). In dem Beitrag wird 
+unter anderem über Arbeiten an SMART Cables sowie über ein Vorhaben
+„Civil Infrastructure Protection“ berichtet, bei dem Anwendungen zur Erkennung 
+von Unterseedrohnen und anderen Gefährdungen kritischer
+Unterwasserinfrastruktur demonstriert werden sollen. Zugleich beschreibt der Beitrag mögliche 
+Konflikte zwischen wissenschaftlicher Datenoffenheit und
+Sicherheitsinteressen. Wissenschaftler hätten im Zusammenhang mit Entwicklungsarbeiten
+Geheimhaltungsklauseln akzeptiert. Daten könnten danach unter bestimmten
+Voraussetzungen nur mit verringerter Auflösung oder zeitverzögert veröffentlicht 
+werden.
+Vor diesem Hintergrund ist aus Sicht der Fragesteller zu klären, nach welchen 
+förderrechtlichen und sicherheitspolitischen Maßstäben der Bund die
+Finanzierung, Nutzung und Zugänglichkeit der im Rahmen solcher Vorhaben
+gewonnenen Sensordaten bewertet.
+Wir fragen die Bundesregierung:
+ 1. In welcher Höhe sind dem Vorhaben SAFAtor seit Beginn des Vorhabens 
+unmittelbar oder mittelbar Mittel aus dem Bundeshaushalt zugeflossen, 
+aufgeschlüsselt nach Haushaltsjahr, Einzelplan, Kapitel, Titel sowie
+Empfänger der Mittel?
+ 2. Welche zusätzlichen Mittel des Bundes sind seit dem 1. Januar 2023 für 
+SAFAtor, SUBMERSE oder andere Forschungsprojekte gegebenenfalls 
+bereitgestellt worden, deren Gegenstand die Nutzung von
+Telekommunikationskabeln mittels Distributed Acoustic Sensing oder eingebauter
+Unterwassersensorik ist, aufgeschlüsselt nach Projekt,
+Zuwendungsempfänger, Förderzeitraum und Fördersumme?
+ 3. Wurde vor der Entscheidung über die öffentliche Finanzierung von 
+SAFAtor durch eine Stelle des Bundes oder unter Beteiligung von
+Vertretern des Bundes der militärische Dual-Use-Charakter der entwickelten 
+Sensorik geprüft, und wenn ja, wann und durch welche Stelle?
+ 4. Sofern eine Prüfung im Sinne der Frage 3 erfolgte, zu welchem Ergebnis 
+gelangte die in Frage 3 bezeichnete Prüfung hinsichtlich einer Nutzung 
+der entwickelten Sensorik für militärische Aufklärung oder die Erstellung 
+von Unterwasserlagebildern?
+ 5. Welche Bundesministerien, Bundesbehörden oder sonstigen Stellen des 
+Bundes haben seit dem 1. Januar 2023 Forschungs- oder
+Entwicklungsvorhaben zum Einsatz von Distributed Acoustic Sensing oder SMART 
+Cables für sicherheitsbehördliche oder militärische Zwecke durchgeführt 
+oder daran mitgewirkt, aufgeschlüsselt nach Stelle und Vorhaben?
+ 6. Hat die Bundeswehr seit dem 1. Januar 2023 Distributed Acoustic Sensing 
+oder mit Sensoren ausgestattete Telekommunikationskabel operativ
+erprobt oder genutzt, und wenn ja, wann und im Rahmen welchen
+Vorhabens?
+ 7. Beteiligen sich Bundesministerien, die Bundeswehr, Bundesbehörden 
+oder sonstige Stellen des Bundes an dem in der Berichterstattung als
+Vorhaben der Europäischen Verteidigungsagentur bezeichneten Projekt „Civil 
+Infrastructure Protection“, und wenn ja, in welcher institutionellen Form?
+ 8. Ist eine Beteiligung von Bundesministerien, der Bundeswehr,
+Bundesbehörden oder sonstigen Stellen des Bundes an einer für November 2026 
+berichteten Demonstration der Europäischen Verteidigungsagentur zur
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+Nutzung sensorfähiger Kabel vorgesehen, und wenn ja, durch welche
+Stelle?
+ 9. Welche Bundesbehörden oder sonstigen Stellen des Bundes verfügen
+aufgrund welcher gesetzlichen, vertraglichen oder förderrechtlichen
+Grundlage über ein Recht auf Zugang zu Mess- oder Rohdaten, die im Rahmen 
+von SAFAtor oder der deutschen Beteiligung an SUBMERSE gewonnen 
+wurden oder werden?
+10. Welche Bundesbehörden oder sonstigen Stellen des Bundes haben seit 
+dem 1. Januar 2023 beim GFZ Helmholtz-Zentrum für Geoforschung, 
+beim GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel oder bei 
+einem anderen deutschen Projektpartner Zugang zu nicht allgemein
+zugänglichen Mess- oder Rohdaten aus glasfaserbasierter
+Unterwassersensorik beantragt, aufgeschlüsselt nach Stelle, Zeitpunkt, Projektpartner und 
+angegebenem Verwendungszweck?
+11. Welchen Bundesbehörden oder sonstigen Stellen des Bundes wurde seit 
+dem 1. Januar 2023 durch das GFZ Helmholtz-Zentrum für
+Geoforschung, das GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel oder 
+einen anderen deutschen Projektpartner tatsächlich Zugang zu nicht
+allgemein zugänglichen Mess- oder Rohdaten aus glasfaserbasierter
+Unterwassersensorik eingeräumt, aufgeschlüsselt nach Stelle, Zeitpunkt, Umfang 
+des Datenzugangs und zugrunde liegender rechtlicher oder vertraglicher 
+Grundlage?
+12. Welche verbindlichen Regelungen und Entscheidungsgrundlagen bestehen 
+nach Kenntnis der Bundesregierung bei SAFAtor dafür, Messdaten nicht 
+zu veröffentlichen, zeitverzögert zu veröffentlichen oder nur mit
+verringerter räumlicher, zeitlicher oder sonstiger Auflösung bereitzustellen, und 
+welche Stelle trifft die jeweilige Entscheidung?
+13. Welche staatlichen Stellen oder privaten Unternehmen verfügen nach 
+Kenntnis der Bundesregierung aufgrund gesetzlicher, vertraglicher,
+förderrechtlicher oder sonstiger Grundlage über rechtliche Befugnisse
+hinsichtlich der im Rahmen von SAFAtor gewonnenen Sensordaten, insbesondere 
+zu deren Zugriff, Nutzung, Auswertung, Weitergabe, Veröffentlichung 
+oder zur Beschränkung einer solchen Verwendung?
+14. Ist der Bundesregierung bekannt, dass Wissenschaftler des GFZ 
+Helmholtz-Zentrums für Geoforschung oder anderer aus Bundesmitteln 
+institutionell oder projektbezogen finanzierter Forschungseinrichtungen 
+im Zusammenhang mit Unterseekabelsensorik
+Geheimhaltungsvereinbarungen mit Sensorherstellern, Kabelherstellern oder Kabelbetreibern
+abgeschlossen haben, und wenn ja, bei welchen Einrichtungen?
+15. Welche förderrechtlichen oder sonstigen Anforderungen stellt der Bund an 
+Geheimhaltungsvereinbarungen, wenn dadurch die Veröffentlichung,
+Weitergabe oder Nutzung von mit öffentlichen Mitteln gewonnenen
+Forschungsdaten eingeschränkt wird?
+16. Hat die Bundesregierung geprüft, ob die Ausstattung ziviler
+Telekommunikationskabel mit Sensorik oder ihre Nutzung für militärische Zwecke 
+das Gefährdungsprofil dieser Infrastruktur verändert, und wenn ja, wann, 
+durch welche Stelle und mit welchem Ergebnis?
+17. Hat die Bundesregierung eine völkerrechtliche Bewertung vorgenommen, 
+unter welchen Voraussetzungen ein ziviles Telekommunikationskabel
+aufgrund einer zusätzlichen militärisch genutzten Sensorfunktion als
+militärisches Ziel im Sinne des humanitären Völkerrechts qualifiziert werden
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+könnte, und wenn ja, wann wurde diese Bewertung abgeschlossen und mit 
+welchem Ergebnis?
+Berlin, den 26. Oktober 2026
+Dr. Alice Weidel, Tino Chrupalla und Fraktion
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
