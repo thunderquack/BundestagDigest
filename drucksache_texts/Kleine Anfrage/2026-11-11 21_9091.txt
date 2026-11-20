@@ -41,10 +41,8 @@ cheLeitlinien/Zero-Trust/Zero-Trust_04072023.pdf?__blob=publicationFile
 Die Bundesregierung hat in ihrer Antwort auf Bundestagsdrucksache 21/7929 
 bereits erklärt, dass Netztrennung ein Kernelement der Absicherung aktueller 
 Regierungsnetze sei und Zero-Trust-Ansätze ergänzend zu weiteren
-Sicherheitsmaßnahmen eingesetzt würden. Für das neu geplante Netz der Bundes-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-regierung solle Zero Trust bis zum Jahr 2030, soweit möglich, verstärkt
+Sicherheitsmaßnahmen eingesetzt würden. Für das neu geplante Netz der
+Bundesregierung solle Zero Trust bis zum Jahr 2030, soweit möglich, verstärkt
 implementiert werden.
 Mit dem am 22. Juli 2026 vom Bundeskabinett beschlossenen Programm
 „CyberGovSecure“ hat die Bundesregierung die Verhinderung lateraler
@@ -82,8 +80,8 @@ Virtualisierungsplattformen müssen besonders geschützt werden. Dies betrifft u
 anderem die Trennung von Management- und Produktivnetzen, die
 Beschränkung administrativer Berechtigungen, die Absicherung privilegierter Zugänge, 
 eine hinreichende Protokollierung sowie die Überwachung von Zugriffen auf 
-zentrale Managementebenen. Das Bundesamt sieht für
-Virtualisierungsumgebungen zudem regelmäßige Audits und bei erhöhtem Schutzbedarf zusätzliche 
+zentrale Managementebenen. Das BSI sieht für Virtualisierungsumgebungen 
+zudem regelmäßige Audits und bei erhöhtem Schutzbedarf zusätzliche 
 Härtungs- und Isolierungsmaßnahmen vor (ebd.).
 Ein unbefugter Zugriff auf eine Hypervisor- oder
 Virtualisierungsmanagementebene lässt für sich genommen noch keinen belastbaren Schluss auf den
@@ -97,10 +95,8 @@ Zugriffsrechte missbrauchen könnten. Die technische Sicherheitsarchitektur muss
 deshalb sowohl die Übernahme privilegierter Identitäten durch externe Angreifer 
 als auch den möglichen Missbrauch bereits vorhandener privilegierter
 Berechtigungen berücksichtigen. Entscheidend ist, ob atypische oder unzulässige
-Administrationshandlungen erkannt, ihre Reichweite begrenzt und besonders kriti-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-sche Managementebenen gegen den Zugriff aus gewöhnlichen Produktivnetzen 
+Administrationshandlungen erkannt, ihre Reichweite begrenzt und besonders
+kritische Managementebenen gegen den Zugriff aus gewöhnlichen Produktivnetzen 
 abgeschottet werden.
 Für die Kontrolle ist nach Ansicht der Fragesteller von Interesse, ob die
 Bundesregierung Segmentierung und Zero Trust grundsätzlich als geeignete
@@ -134,9 +130,9 @@ gewöhnlichen Client- und Produktivnetzen?
  4. Welche verbindlichen Anforderungen gelten in der Bundesverwaltung für 
 privilegierte Zugriffe auf Hypervisoren,
 Virtualisierungsmanagementsysteme und vergleichbare zentrale Infrastrukturkomponenten hinsichtlich 
-Mehrfaktorauthentisierung, Beschränkung der Administrationsrechte, 
+der Mehrfaktorauthentisierung, Beschränkung der Administrationsrechte, 
 Trennung von gewöhnlichen und administrativen Benutzerkonten,
-Protokollierung sowie zeitlicher oder bedarfsbezogener Freigabe von
+Protokollierung sowie zeitlichen oder bedarfsbezogenen Freigabe von
 Zugriffsrechten?
  5. Welche einheitlichen Sicherheits- und Härtungsanforderungen wurden im 
 Rahmen von „CyberGovSecure“ für zentrale Verzeichnisdienste,
@@ -151,8 +147,6 @@ Umgebungen, und in welchem Umfang können hierbei auch atypische oder
 unautorisierte Zugriffe auf Hypervisoren und
 Virtualisierungsmanagementsysteme erkannt und einer sicherheitsfachlichen Bewertung zugeführt 
 werden?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
  7. Welche Anforderungen gelten für virtuelle Netzwerkstrukturen, virtuelle 
 Switches und Sicherheits-Gateways in Virtualisierungsumgebungen der 
 Bundesverwaltung, damit bestehende Segmentierungs-, Filter- oder
@@ -171,24 +165,24 @@ atypischen Zugriffsmustern zu unterscheiden, insbesondere wenn dabei
 zentrale Verzeichnisdienste, Virtualisierungsmanagementsysteme,
 Hypervisoren, Backup-Systeme oder mehrere voneinander getrennte
 Netzwerkbereiche nacheinander oder gleichzeitig angesprochen werden?
-10. In welchen seit Beginn der 21. WP durchgeführten ressortübergreifenden 
-Angriffssimulationen, Red-Team-Übungen oder vergleichbaren
-technischen Prüfungen wurde untersucht, ob ein Angreifer nach der
-Kompromittierung eines gewöhnlichen oder privilegierten Benutzerkontos
-beziehungsweise durch den Missbrauch bereits bestehender berechtigter
-interner oder externer Administrationszugänge eine laterale Bewegung bis zu 
-zentralen Verzeichnisdiensten, Virtualisierungsmanagementsystemen oder 
-Hypervisoren durchführen könnte, welche übergreifenden Kategorien von 
-Sicherheitsdefiziten wurden hierbei festgestellt, und welche dieser
+10. In welchen seit Beginn der 21. Wahlperiode durchgeführten
+ressortübergreifenden Angriffssimulationen, Red-Team-Übungen oder
+vergleichbaren technischen Prüfungen wurde untersucht, ob ein Angreifer nach der 
+Kompromittierung eines gewöhnlichen oder privilegierten Benutzerkontos 
+beziehungsweise durch den Missbrauch bereits bestehender berechtigter 
+interner oder externer Administrationszugänge eine laterale Bewegung bis 
+zu zentralen Verzeichnisdiensten, Virtualisierungsmanagementsystemen 
+oder Hypervisoren durchführen könnte, welche übergreifenden Kategorien 
+von Sicherheitsdefiziten wurden hierbei festgestellt, und welche dieser 
 Defizite sind noch nicht vollständig behoben?
 11. Welche verbindlichen Anforderungen gelten in der Bundesverwaltung für 
 sogenannte Notfall-, Break-Glass- oder sonstige besonders privilegierte 
 Administrationskonten für Hypervisoren,
-Virtualisierungsmanagementsysteme und zentrale Verzeichnisdienste hinsichtlich Einrichtung, personeller 
-Zuordnung, Mehrfaktorauthentisierung, zeitlicher Begrenzung,
-Protokollierung und nachträglicher Kontrolle ihrer Nutzung, und bei welchem
-Anteil der betroffenen Einrichtungen werden diese Anforderungen mit Stand 
-30. September 2026 vollständig erfüllt?
+Virtualisierungsmanagementsysteme und zentrale Verzeichnisdienste hinsichtlich der Einrichtung,
+personellen Zuordnung, Mehrfaktorauthentisierung, zeitlichen Begrenzung, 
+Protokollierung und nachträglichen Kontrolle ihrer Nutzung, und bei
+welchem Anteil der betroffenen Einrichtungen werden diese Anforderungen 
+mit Stand 30. September 2026 vollständig erfüllt?
 12. Welche Anforderungen bestehen an die manipulationsgeschützte
 Protokollierung und Aufbewahrung administrativer Zugriffe auf Hypervisoren, 
 Virtualisierungsmanagementsysteme, zentrale Verzeichnisdienste und
@@ -202,21 +196,11 @@ gewordene kritische Schwachstellen in Hypervisoren,
 Virtualisierungsplattformen und deren Managementkomponenten kurzfristig zu identifizieren, 
 betroffene Systeme vollständig zu erfassen und erforderliche
 Sicherheitsupdates oder kompensierende Schutzmaßnahmen umzusetzen, und wie 
-viele als kritisch eingestufte Schwachstellen in solchen Komponenten wa-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-ren zum 30. September 2026 länger als die jeweils vorgesehene
+viele als kritisch eingestufte Schwachstellen in solchen Komponenten
+waren zum 30. September 2026 länger als die jeweils vorgesehene
 Behebungsfrist offen?
 Berlin, den 6. November 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.

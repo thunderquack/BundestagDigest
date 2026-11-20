@@ -17,20 +17,20 @@ ann/!6220000/). Nach seinen Angaben sind Verschärfungen im Umgang mit
 sogenannten Data Brokern erforderlich. Zur Begründung verwies er auf
 bekannt gewordene Missstände, bei denen sensible Daten von Bürgern
 unkontrolliert aus der Europäischen Union abgeflossen seien.
-Recherchen von netzpolitik.org und dem Bayerischen Rundfunk („Databroker 
-Files“) machten im Juli 2024 zudem das Ausmaß des kommerziellen Handels 
-mit Standortdaten deutlich (https://netzpolitik.org/2024/databroker-files-us-sen
-ator-schaltet-pentagon-ein-bundesministerium-fordert-eu-gesetze/ und www.b
-r.de/unternehmen/inhalt/public-value/medienpreise/databrokerfiles-auszeichnu
-ng-br-recherche-datenhandel-100.html). Die Journalisten erhielten über einen 
-Berliner Datenmarktplatz von einem Datenhändler aus den Vereinigten Staaten 
-einen Datensatz mit rund 3,6 Milliarden Standortdaten aus Deutschland und 
-rund 11 Millionen unterschiedlichen Gerätekennungen. Nach Angaben der
-Autoren stammten die Standortdaten aus einem Zeitraum von rund zwei Monaten 
-im Herbst 2023. Anhand des Datensatzes ließen sich detaillierte
-Bewegungsprofile erstellen und einzelne Personen identifizieren. Die Autoren weisen
-zugleich darauf hin, dass die Zahl der tatsächlich erfassten Geräte niedriger als 
-die Zahl der enthaltenen Gerätekennungen sein dürfte.
+Recherchen von netzpolitik.org und dem „Bayerischen Rundfunk“
+(„Databroker Files“) machten im Juli 2024 zudem das Ausmaß des kommerziellen
+Handels mit Standortdaten deutlich (https://netzpolitik.org/2024/databroker-files-u
+s-senator-schaltet-pentagon-ein-bundesministerium-fordert-eu-gesetze/ und 
+www.br.de/unternehmen/inhalt/public-value/medienpreise/databrokerfiles-ausz
+eichnung-br-recherche-datenhandel-100.html). Die Journalisten erhielten über 
+einen Berliner Datenmarktplatz von einem Datenhändler aus den Vereinigten 
+Staaten einen Datensatz mit rund 3,6 Milliarden Standortdaten aus Deutschland 
+und rund 11 Millionen unterschiedlichen Gerätekennungen. Nach Angaben der 
+Autoren stammten die Standortdaten aus einem Zeitraum von rund zwei
+Monaten im Herbst 2023. Anhand des Datensatzes ließen sich detaillierte
+Bewegungsprofile erstellen und einzelne Personen identifizieren. Die Autoren
+weisen zugleich darauf hin, dass die Zahl der tatsächlich erfassten Geräte niedriger 
+als die Zahl der enthaltenen Gerätekennungen sein dürfte.
 Data Broker sammeln, bündeln, vermitteln oder veräußern Daten aus
 unterschiedlichen Quellen. Von besonderer Bedeutung sind aus Sicht der
 Fragesteller Standort- und Bewegungsdaten, weil sich aus ihnen Aufenthaltsorte,
@@ -41,8 +41,6 @@ Unternehmen übermittelt werden. Bei mehrstufigen Datenübermittlungen stellt si
 sie die Frage, welche Unternehmen über die Daten verfügen, zu welchen
 Zwecken sie verarbeitet werden und ob sie an Empfänger außerhalb der
 Europäischen Union oder des Europäischen Wirtschaftsraums weitergegeben werden.
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
 Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit hat 
 zugleich darauf hingewiesen, dass die Datenschutzaufsicht über den größten 
 Teil der Wirtschaft bei den Datenschutzaufsichtsbehörden der Länder liegt und 
@@ -67,8 +65,8 @@ Handels mit Standort- und Bewegungsdaten von Personen oder
 Endgeräten in Deutschland fachlich zuständig?
  2. Welche Erkenntnisse zum kommerziellen Handel mit Standort- und
 Bewegungsdaten von Personen oder Endgeräten in Deutschland liegen der 
-Bundesregierung vor, aufgeschlüsselt nach Erkenntnisgegenstand und
-Erkenntnisgrundlage?
+Bundesregierung vor (bitte nach Erkenntnisgegenstand und
+Erkenntnisgrundlage aufschlüsseln)?
  3. In welchem Umfang ist der Bundesregierung bekannt, dass in mobile
 Anwendungen eingebundene Software Development Kits Standort- oder
 Bewegungsdaten von Personen oder Endgeräten in Deutschland erheben 
@@ -94,16 +92,14 @@ automatisierter digitaler Werbeverfahren Standort- oder Bewegungsdaten
 von Personen oder Endgeräten in Deutschland erhalten, und welcher 
 Funktion als Werbenetzwerk, Datenhändler, Analyseanbieter oder
 Betreiber einer Datenplattform sind diese Unternehmen jeweils zuzuordnen?
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
  9. Welche Unternehmen oder Datenmarktplätze sind der Bundesregierung 
 seit dem 1. Januar 2024 bekannt geworden, die Standort- oder
 Bewegungsdaten von Personen oder Endgeräten in Deutschland entgeltlich
 anbieten oder deren entgeltlichen Handel vermitteln?
 10. Welche Probleme bei der Feststellung der datenschutzrechtlich
 Verantwortlichen innerhalb mehrstufiger kommerzieller Datenketten sind der 
-Bundesregierung seit dem 1. Januar 2024 bekannt geworden, unter
-Angabe der jeweiligen Erkenntnisquelle?
+Bundesregierung seit dem 1. Januar 2024 bekannt geworden (bitte die
+jeweiligen Erkenntnisquelle angeben)?
 11. In welchem Umfang sind der Bundesregierung seit dem 1. Januar 2024 
 gegebenenfalls Übermittlungen von Standort- oder Bewegungsdaten von 
 Personen oder Endgeräten in Deutschland an Empfänger außerhalb der 
@@ -142,18 +138,14 @@ sieht sie?
 Rechtsrahmens für den kommerziellen Handel mit Standort- und Bewegungsdaten 
 oder deren Übermittlung an Empfänger in Drittstaaten hat die
 Bundesregierung gegebenenfalls geprüft, und in welchem Verfahrensstand
-befinden sich diese jeweils, unter Angabe des zuständigen Bundesministeriums 
-sowie unter Zuordnung zu einem der folgenden Verfahrensstände:
-Prüfung, Ressortabstimmung, Beschluss der Bundesregierung, Einbringung 
-in ein nationales Gesetzgebungsverfahren, Einbringung oder Unterstüt-
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
-zung in einem Rechtsetzungsverfahren der Europäischen Union,
-zurückgestellt oder nicht weiterverfolgt?
+befinden sich diese jeweils (bitte das zuständige Bundesministerium sowie 
+unter Zuordnung zu einem der folgenden Verfahrensstände: Prüfung,
+Ressortabstimmung, Beschluss der Bundesregierung, Einbringung in ein 
+nationales Gesetzgebungsverfahren, Einbringung oder Unterstützung in 
+einem Rechtsetzungsverfahren der Europäischen Union, zurückgestellt 
+oder nicht weiterverfolgt, angeben)?
 Berlin, den 12. November 2026
 Dr. Alice Weidel, Tino Chrupalla und Fraktion
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-Vorabfassung - w
-ird durch die lektorierte Version ersetzt.
