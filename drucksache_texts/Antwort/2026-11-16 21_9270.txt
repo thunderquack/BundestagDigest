@@ -1,0 +1,396 @@
+Deutscher Bundestag Drucksache 21/9270
+21. Wahlperiode 16.11.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Rocco Kever, Matthias Rentzsch, 
+Denis Pauli, weiterer Abgeordneter und der Fraktion der AfD 
+– Drucksache 21/8713 –
+SAP-Umstellung S/4HANA bei der Deutschen Gesellschaft für Internationale 
+Zusammenarbeit (GIZ) GmbH
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Die Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH 
+(GIZ GmbH) führt im Auftrag der Bundesregierung Projekte der
+internationalen Zusammenarbeit in zahlreichen Ländern durch und soll dabei unter
+anderem moderne und verlässliche digitale Strukturen fördern.
+Zum 1. Januar 2026 stellte die GIZ GmbH ihre weltweite IT-Systemlandschaft 
+auf SAP S/4HANA um. Bereits im Frühjahr 2026 wurden erhebliche
+Störungen bei der Rechnungsbearbeitung und Zahlungsabwicklung bekannt. Die 
+Bundesregierung bestätigte in ihrer Antwort auf die Kleine Anfrage auf
+Bundestagsdrucksache 21/4936, dass es infolge der Systemumstellung zu
+Einschränkungen bei Zahlungen gekommen sei. Alle Länder, in denen die 
+GIZ GmbH Projekte umsetzt, seien von den Einschränkungen betroffen
+gewesen. Vereinzelt sei es zu Verzögerungen bei der Umsetzung von
+Projektaktivitäten und zu Kündigungen durch Dienstleister gekommen. Eine Bezifferung 
+der Anzahl und Höhe der betroffenen Rechnungsvorgänge war nach Angaben 
+der Bundesregierung zu diesem Zeitpunkt nicht möglich.
+Für die SAP-Transformation entstanden nach Angaben der Bundesregierung 
+Kosten in Höhe von 101,6 Mio. Euro, davon 60,2 Mio. Euro für externe
+Berater und externe Dienstleister (a. a. O.).
+Bereits in der ursprünglichen Berichterstattung über die IT-Probleme wurde 
+darauf hingewiesen, dass externe Partner, darunter Hotels, wegen ausstehender 
+Zahlungen Schwierigkeiten bei der Zusammenarbeit mit der GIZ GmbH
+gehabt haben sollen. Demnach hätten erste Hotels die Buchung von
+Tagungsräumen verweigert. Die Bundesregierung erklärte hierzu, dass die genaue Anzahl 
+der Zahlungsaufforderungen durch externe Partner nicht statistisch erfasst 
+werde (a. a. O.).
+Die Berichterstattung über die Folgen der SAP-Umstellung setzte sich auch 
+nach der Antwort der Bundesregierung fort. In einem am 6. Mai 2026
+veröffentlichten Bericht berichtete die „WELT“ unter der Überschrift „Nach 
+Technik-Panne: Deutsche Entwicklungsagentur GIZ kann unbezahlte
+Rechnungen nicht beziffern“, dass die GIZ GmbH zu diesem Zeitpunkt weiterhin 
+weder die Anzahl noch die Gesamthöhe der aufgelaufenen Rechnungen bezif-
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums für Wirtschaft und Energie vom 
+16. November 2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+fern konnte. Zugleich wurde über externe Dienstleister berichtet, die weiterhin 
+auf ihr Geld warteten. Nach Darstellung eines betroffenen Dienstleisters
+könnten die Verzögerungen für Auftragnehmer in sensiblen Kontexten
+existenzbedrohend sein (vgl. www.welt.de/politik/deutschland/article69fb14cdc6d2944c
+8df69c27/nach-technik-panne-deutsche-entwicklungsagentur-giz-kann-unbeza
+hlte-rechnungen-nicht-beziffern.html).
+In demselben Bericht wurde unter Berufung auf die GIZ GmbH dargestellt, 
+dass die Schwierigkeiten im System zu diesem Zeitpunkt „weitgehend
+behoben“ seien und ausstehende Rechnungen schnellstmöglich abgearbeitet
+würden. Gleichzeitig wurden abweichende Einschätzungen aus dem Kreis von 
+GIZ GmbH-Mitarbeitern sowie weiterhin bestehende Probleme bei der
+Abwicklung von Zahlungen und bei externen Partnern dargestellt (a. a. O.).
+Über weitere konkrete Auswirkungen berichtete der „Westdeutsche
+Rundfunk“ (WDR). Demnach soll die DHL die Zustellung von Paketen an
+beziehungsweise aus der GIZ GmbH-Zentrale in Eschborn zeitweise eingestellt
+haben, nachdem es infolge der Zahlungsprobleme zu Schwierigkeiten bei der 
+Begleichung von Rechnungen gekommen sei. Zugleich wurde über weiterhin 
+bestehende technische Probleme bei der GIZ GmbH berichtet (vgl.
+Westdeutscher Rundfunk, „Deutsche Entwicklungshilfe – Weiter massive Probleme bei 
+der GIZ“, 24. April 2026, veröffentlicht auf www.tagesschau.de/investigativ/
+wdr/giz-software-probleme-100.html).
+Auch die Bundesregierung bestätigte im weiteren Verlauf, dass die Folgen der 
+IT-Umstellung nicht unmittelbar vollständig beseitigt waren. In ihrer Antwort 
+auf eine weitere Kleine Anfrage führte sie aus, dass kritische technische
+Fehler zwar behoben worden seien, jedoch weiterhin Einschränkungen bei der
+Bearbeitungsgeschwindigkeit verschiedener Geschäftsprozesse bestanden hätten. 
+Als Ursachen wurden unter anderem Verzögerungen bei der komplexen
+Datenmigration sowie technische und prozessuale Herausforderungen infolge der 
+erstmaligen vollständigen Integration von Zentrale und Außenstruktur genannt 
+(vgl. Bundestagsdrucksache 21/5899).
+Die Fragesteller fragen die Bundesregierung daher nach dem aktuellen Stand 
+zum 1. Oktober 2026 und insbesondere nach den inzwischen feststellbaren 
+Schadensfällen, Folgekosten, Vertragskündigungen, Projektverzögerungen 
+und Auswirkungen auf externe Partner der GIZ GmbH.
+ 1. Sind die infolge der Einführung von SAP S/4HANA bei der GIZ GmbH 
+aufgetretenen technischen, organisatorischen und prozessualen Probleme 
+nach Kenntnis der Bundesregierung zum 1. Oktober 2026 vollständig
+behoben (vgl. Vorbemerkung der Fragesteller), und wenn nein, welche
+Probleme bestehen weiterhin?
+Die in der Vorbemerkung der Fragesteller ausgeführten Einschränkungen sind 
+nach Kenntnis der Bundesregierung behoben.
+ 2. Wie viele Rechnungen der GIZ GmbH an externe Dienstleister, Berater, 
+Lieferanten, Hotels, Veranstaltungsstätten und sonstige Vertragspartner 
+waren zum 1. Oktober 2026 noch nicht bezahlt oder nicht fristgerecht
+bezahlt, und wie hoch ist die Gesamtsumme dieser Rechnungen (vgl.
+Vorbemerkung der Fragesteller)?
+ 3. Wie lange betrug zum 1. Oktober 2026 die durchschnittliche
+Verzugsdauer der betroffenen Rechnungen, und wie viele Rechnungen waren 
+länger als einen, zwei, drei oder vier Monate überfällig (vgl.
+Vorbemerkung der Fragesteller)?
+ 4. Kann die Bundesregierung zum 1. Oktober 2026 erstmals eine belastbare 
+Zahl über die insgesamt von den Zahlungsproblemen betroffenen
+Rechnungsvorgänge und deren Gesamtvolumen vorlegen (vgl. Vorbemerkung 
+der Fragesteller), und wenn nein, warum ist dies weiterhin nicht
+möglich?
+ 5. Wie viele externe Vertragspartner haben nach Kenntnis der
+Bundesregierung aufgrund der Zahlungsverzögerungen der GIZ GmbH seit dem 
+1. Januar 2026
+a) Mahnungen ausgesprochen,
+b) Verzugszinsen oder Schadenersatz verlangt,
+c) Verträge gekündigt,
+d) die Zusammenarbeit eingeschränkt oder
+e) weitere Leistungen nur noch gegen Vorkasse oder sonstige
+Sicherheiten angeboten
+(vgl. Vorbemerkung der Fragesteller)?
+Die Fragen 2, 3, 4 sowie 5 bis 5e werden zusammen beantwortet.
+Es wurden im Zusammenhang mit den S/4HANA-bedingten
+Systemumstellungen seit Jahresbeginn 18 Mahnverfahren gegen die Deutsche Gesellschaft für 
+Internationale Zusammenarbeit (GIZ) GmbH eingeleitet und von 105
+Lieferanten Verzugszinsen verlangt.
+Darüber hinaus werden inzwischen alle sachlich und rechnerisch korrekten 
+Rechnungen innerhalb des vorgesehenen Zahlungsziels beglichen. Unabhängig 
+davon bestehen, wie im Regelbetrieb üblich, einzelne klärungsbedürftige
+Sachverhalte, beispielsweise bei Abweichungen zwischen Rechnungspositionen, 
+Steuer- oder Kontodaten bzw. ausgewiesenen Leistungen und den vertraglichen 
+Grundlagen.
+Darüber hinaus erfolgt keine zentrale Datenerfassung im Sinne der
+Fragestellungen.
+ 6. Wie viele Hotels, Tagungsstätten oder sonstige Veranstaltungsorte haben 
+nach Kenntnis der Bundesregierung aufgrund ausstehender Zahlungen 
+der GIZ GmbH Buchungen abgelehnt, storniert oder von einer
+vorherigen Zahlung abhängig gemacht (vgl. Vorbemerkung der Fragesteller)?
+ 7. Welche konkreten Fälle sind der Bundesregierung bekannt, in denen
+aufgrund der Zahlungsprobleme der GIZ GmbH Hotels, Lieferanten,
+Logistikunternehmen, Berater oder sonstige Dienstleister ihre Leistungen
+eingestellt oder eingeschränkt haben (vgl. Vorbemerkung der Fragesteller)?
+Die Fragen 6 und 7 werden zusammen beantwortet.
+Es erfolgt keine zentrale Datenerfassung im Sinne der Fragestellungen. Bzgl. 
+des in der Vorbemerkung der Fragesteller erwähnten Falls von DHL wird auf 
+die Antwort auf Frage 8 verwiesen.
+ 8. Trifft es nach Kenntnis der Bundesregierung zu, dass die DHL oder
+andere Logistik- beziehungsweise Versanddienstleister aufgrund offener 
+Forderungen gegenüber der GIZ GmbH Leistungen zeitweise eingestellt 
+oder eingeschränkt haben (vgl. Vorbemerkung der Fragesteller), und 
+wenn ja, welche finanziellen und organisatorischen Folgen entstanden 
+daraus?
+Von Eschborn aus waren DHL-Expresslieferungen an zwei Werktagen nicht 
+möglich. Der Normalversand per DHL und Expresslieferungen von anderen 
+Standorten aus waren nicht betroffen. Finanzielle oder organisatorische Folgen 
+entstanden nicht.
+ 9. Welche konkreten Schadensfälle sind der Bundesregierung
+beziehungsweise der GIZ GmbH infolge der SAP S/4HANA-Umstellung bekannt, 
+und wie hoch ist der jeweils entstandene oder geltend gemachte Schaden 
+(vgl. Vorbemerkung der Fragesteller; bitte die Schadensfälle nach
+Möglichkeit nach Ländern aufschlüsseln)?
+Die Fragestellung ist in Bezug auf die SAP-S/4HANA-Umstellung
+definitorisch nicht eindeutig erfassbar.
+Im Übrigen wird auf die Antwort auf Frage 10 verwiesen.
+10. Wie hoch sind die bislang entstandenen Kosten für Mahngebühren,
+Verzugszinsen, Schadenersatz, Vertragsstrafen, Stornierungen,
+Umbuchungen und sonstige finanzielle Folgekosten der SAP-bedingten
+Zahlungsprobleme (vgl. Vorbemerkung der Fragesteller)?
+Zum Stichtag 30. September 2026 lagen die Kosten für Verzugszinsen bei der 
+GIZ bei einem Betrag in Höhe von etwa 217.040 Euro. Die Mahngebühren
+betrugen ca. 10.443 Euro. Zu den anderen genannten Posten sind nach Kenntnis 
+der Bundesregierung keine Kosten angefallen.
+11. Sind der Bundesregierung Fälle bekannt, in denen externe Dienstleister 
+oder lokale Partnerorganisationen aufgrund der Zahlungsverzögerungen 
+der GIZ GmbH selbst in finanzielle Schwierigkeiten geraten sind (vgl. 
+Vorbemerkung der Fragesteller), wenn ja, wie viele Fälle sind bekannt, 
+und auf welche Kontinente und Länder verteilen sich diese?
+Nein. Es erfolgt keine zentrale Datenerfassung im Sinne der Fragestellung.
+12. In wie vielen Fällen kam es nach Kenntnis der Bundesregierung infolge 
+der Zahlungsprobleme zu Kündigungen oder sonstigen Beendigungen 
+von Verträgen mit Dienstleistern, Projektpartnern oder Lieferanten (vgl. 
+Vorbemerkung der Fragesteller)?
+16. Liegen der Bundesregierung Hinweise darauf vor, dass Vertragspartner 
+aufgrund der Zahlungsprobleme ihre Geschäftsbeziehungen mit der 
+GIZ GmbH dauerhaft beendet oder deren Umfang reduziert haben (vgl. 
+Vorbemerkung der Fragesteller), wenn ja, wie viele Fälle sind bekannt, 
+und auf welche Kontinente und Länder entfallen diese?
+Die Fragen 12 und 16 werden zusammen beantwortet.
+Der Bundesregierung sind keine Informationen zu Kündigungen laufender
+Verträge bekannt.
+13. Welche Projekte oder Projektaktivitäten der GIZ GmbH wurden infolge 
+der SAP-bedingten Zahlungsprobleme verzögert, eingeschränkt oder
+abgesagt, und wie verteilen sich die betroffenen Fälle auf die Kontinente
+a) Afrika,
+b) Asien,
+c) Europa,
+d) Nordamerika,
+e) Südamerika,
+f) Australien und Ozeanien sowie
+g) gegebenenfalls weitere Regionen
+(vgl. Vorbemerkung der Fragesteller; bitte nach Möglichkeit zusätzlich 
+nach den jeweils betroffenen Ländern, Projekten und der Art der
+entstandenen Beeinträchtigung aufschlüsseln)?
+14. In wie vielen Fällen mussten nach Kenntnis der Bundesregierung
+Veranstaltungen, Tagungen, Schulungen, Dienstreisen oder sonstige
+Projektaktivitäten aufgrund der Zahlungsprobleme verschoben, abgesagt oder
+anderweitig organisiert werden, und wie verteilen sich diese Fälle nach 
+Kontinenten (vgl. Vorbemerkung der Fragesteller)?
+Die Fragen 13 bis 13g und 14 werden zusammen beantwortet.
+Es traten Verzögerungen in der Umsetzung von Aktivitäten in allen Ländern 
+auf, in denen die GIZ tätig ist. In einzelnen Ländern beeinträchtigten technische 
+Fehler im System – insbesondere im Steuerbereich – Beschaffungs- und
+Zahlungsprozesse. Davon abhängige Projektaktivitäten (z. B.
+Sachgüterbeschaffungen, Beauftragungen von Dienstleistern, Ausstellung von
+Finanzierungsverträgen oder Ausrichtung von Veranstaltungen) konnten dadurch teilweise nur
+verzögert erfolgen. Eine Absage von Projekten im Sinne eines Abbruchs fand 
+nicht statt. Im Übrigen erfolgt keine zentrale Datenerfassung im Sinne der
+Fragestellung.
+15. Welche Auswirkungen hatten die Zahlungsprobleme nach Kenntnis der 
+Bundesregierung auf die Zusammenarbeit der GIZ GmbH mit ihren 
+internationalen und lokalen Partnern, und liegen hierzu nach Kontinenten 
+oder Ländern aufgeschlüsselte Erkenntnisse vor (vgl. Vorbemerkung der 
+Fragesteller)?
+30. Welche Erkenntnisse liegen der Bundesregierung über die Auswirkungen 
+der SAP-bedingten Zahlungsprobleme auf das internationale Ansehen 
+der GIZ GmbH beziehungsweise der deutschen
+Entwicklungszusammenarbeit vor, insbesondere in den betroffenen Partnerländern und Regionen 
+(vgl. Vorbemerkung der Fragesteller)?
+Die Fragen 15 und 30 werden zusammen beantwortet.
+Anliegen von lokalen Partnern in Bezug auf die o. g. Verzögerung von
+Projektaktivitäten wurden von der GIZ beantwortet und geklärt. Es liegt keine
+Aufschlüsselung dazu nach Ländern/Kontinenten vor. Eine dauerhafte Auswirkung 
+auf die Zusammenarbeit der GIZ mit lokalen und internationalen Partnern ist 
+nach Kenntnis der Bundesregierung nicht gegeben.
+17. Welche Maßnahmen hat die GIZ GmbH seit Bekanntwerden der
+Probleme ergriffen, um die Zahlungsrückstände abzubauen und weitere
+Schäden bei Vertragspartnern zu verhindern (vgl. Vorbemerkung der
+Fragesteller)?
+Nach Kenntnis der Bundesregierung hat die GIZ unverzüglich die Umsetzung 
+technischer und prozessualer Optimierungen in den Beschaffungs- und
+Bezahlprozessen veranlasst. Es wurden kurzfristig umsetzbare Lösungen erarbeitet 
+und umgesetzt, die zu Vereinfachungen und Beschleunigungen geführt haben. 
+Darunter fallen Vereinfachungen in den Genehmigungsworkflows sowie
+Optimierungen in der Verrechnung und Kontierung, im Rechnungsprozess und im 
+Zahllauf.
+Zur Steuerung der Stabilisierungs- und Optimierungsmaßnahmen wurde die 
+standardmäßig vorgesehene sogenannte Hypercare-Phase nach dem Go‑live 
+von drei auf fünf Monate verlängert und für die Übergangs- und
+Stabilisierungsphase temporär organisatorische Strukturen aufgebaut, um technische und 
+prozessuale Einschränkungen schnellstmöglich zu beheben.
+18. Wie viele der infolge der SAP-Umstellung aufgelaufenen Rechnungen 
+konnten bis zum 1. Oktober 2026 abgearbeitet werden, und wie viele 
+sind noch offen (vgl. Vorbemerkung der Fragesteller)?
+Die Bearbeitung von Rechnungen erfolgt, bis auf einzelne Ausnahmen,
+inzwischen im regulären Prüfungs-, Buchungs- und Zahlungsprozess. Im Übrigen
+erfolgt keine Erfassung, die eine stichtagsbezogene Auskunft entlang der
+Fragestellung erlaubt.
+19. Welche technischen, organisatorischen oder prozessualen
+Einschränkungen bestehen nach Kenntnis der Bundesregierung zum 1. Oktober 2026 
+noch in den Bereichen Rechnungsbearbeitung, Zahlungsabwicklung, 
+Buchhaltung, Beschaffung, Vertragsverwaltung und Finanzierung (vgl. 
+Vorbemerkung der Fragesteller)?
+Die genannten kaufmännischen Aufgabenbereiche sind technisch,
+organisatorisch und prozessual stabilisiert.
+Im Übrigen wird auf die Antwort zu Frage 1 verwiesen.
+20. Welche der von der Bundesregierung in ihrer Antwort auf die Kleine
+Anfrage auf Bundestagsdrucksache 21/5899 beschriebenen
+Einschränkungen bestehen zum 1. Oktober 2026 weiterhin (vgl. Vorbemerkung der 
+Fragesteller)?
+Die Einschränkungen, die zum Zeitpunkt der o. g. Kleinen Anfrage bestanden, 
+sind behoben.
+Im Übrigen wird auf die Antwort zu Frage 1 verwiesen.
+21. Wie hoch sind die Gesamtkosten der SAP S/4HANA-Transformation bei 
+der GIZ GmbH zum 1. Oktober 2026, einschließlich der Kosten für
+externe Berater, externe Dienstleister, Datenmigration, Nachbesserungen 
+und sonstige Folgekosten (vgl. Vorbemerkung der Fragesteller)?
+Zum 1. Oktober 2026 sind Gesamtkosten in Höhe von 127,85 Mio. Euro
+angefallen.
+22. Wie hoch sind die seit dem 1. Januar 2026 zusätzlich entstandenen
+Personal-, Beratungs-, IT- und Verwaltungskosten zur Behebung der Folgen 
+der SAP-Umstellung (vgl. Vorbemerkung der Fragesteller)?
+Bei Transformationsprojekten dieser Art und Größe ist mit Herausforderungen 
+und Disruptionen zu rechnen, die einer schnellen Fehlerbehebung bedürfen. 
+Dies wurde in der Budgetplanung berücksichtigt, sodass das Projekt auch mit 
+den Kosten zur Behebung der Folgen der SAP-Umstellung im Rahmen seines 
+Gesamtbudgets bleibt.
+23. Wurde vor der Inbetriebnahme von SAP S/4HANA ein sogenannter
+Readiness Check oder eine vergleichbare technische und organisatorische 
+Prüfung durchgeführt (vgl. Vorbemerkung der Fragesteller), wenn ja, 
+wann, durch wen, und mit welchem Ergebnis?
+24. Welche Warnungen, Risikoanalysen, Prüfberichte oder sonstigen
+Hinweise auf mögliche erhebliche Beeinträchtigungen der Zahlungs- und 
+Rechnungsprozesse lagen der GIZ GmbH vor dem weltweiten Go‑live 
+am 1. Januar 2026 vor (vgl. Vorbemerkung der Fragesteller)?
+25. Welche Belastungs-, Integrations-, Migrations- und Zahlungstests
+wurden vor der Inbetriebnahme durchgeführt, und welche wesentlichen
+Fehler oder Risiken wurden dabei festgestellt (vgl. Vorbemerkung der
+Fragesteller)?
+26. Welche Gründe waren nach Kenntnis der Bundesregierung dafür
+ausschlaggebend, die weltweite Umstellung auf SAP S/4HANA trotz der 
+bekannten Risiken zum 1. Januar 2026 durchzuführen (vgl.
+Vorbemerkung der Fragesteller)?
+Die Fragen 23 bis 26 werden zusammen beantwortet.
+Entsprechend der marktüblichen, standardisierten Methode zu SAP-
+Einführungen wurden Tests, insbesondere ein Readiness Check, der technische und
+organisatorische Aspekte abdeckte, ab August 2025 durchgeführt. Die Tests haben 
+die grundsätzliche Funktionsfähigkeit der Systeme, inklusive der Zahlungs- 
+und Rechnungsprozesse, bestätigt. Zudem haben die beteiligten externen
+Beratungsunternehmen die Go-Live Bereitschaft gegenüber der GIZ bestätigt. Auf 
+verbleibende Risiken in der sogenannten Hypercare-Phase nach dem Go-live 
+hat sich das Unternehmen vorbereitet. Fehler wurden behoben und Risiken 
+unter Einbeziehung externer Experten in die Abwägungen vor den
+Systemumstellungen einbezogen. Die Zahlungsfähigkeit war zu keiner Zeit gefährdet.
+Da damit der Reifegrad des Systems als ausreichend bewertet wurde und
+zudem ein standardisierter Begleitprozess (Hypercare-Phase) für die
+Stabilisierung nach Go-Live vorgesehen war, fiel die Entscheidung für den Go‑Live zum 
+1. Januar 2026.
+27. Welche unabhängigen Prüfungen der SAP-Umstellung und ihrer Folgen 
+wurden seit dem 1. Januar 2026 durchgeführt oder beauftragt, und 
+welche Ergebnisse liegen der Bundesregierung hierzu vor (vgl.
+Vorbemerkung der Fragesteller)?
+Wie bei solchen IT-Transformationsprojekten üblich, wurde die Einführung 
+durch die interne Revision wie auch durch regelmäßige Qualitätsprüfungen 
+durch SAP begleitet.
+28. Welche organisatorischen oder personellen Konsequenzen wurden
+innerhalb der GIZ GmbH aus den aufgetretenen Zahlungs- und IT-Problemen 
+gezogen (vgl. Vorbemerkung der Fragesteller)?
+Es wird auf die Antwort zu Frage 17 verwiesen.
+Zu etwaigen Entscheidungen personeller Art können nach sorgfältiger
+Abwägung des parlamentarischen Informationsrechts aus Artikel 38 Absatz 1 Satz 2 
+in Verbindung mit Artikel 20 Absatz 2 Grundgesetz (GG) mit dem Recht auf 
+informationelle Selbstbestimmung der betroffenen Beschäftigten aus Artikel 2 
+Absatz 1 in Verbindung mit Artikel 1 Absatz 1 GG keine Angaben im Sinne 
+der Fragestellung erfolgen. Mangels einer dahingehenden Einwilligung wäre 
+eine entsprechende Auskunft mit einer Offenbarung von Informationen
+verbunden, die einen Eingriff in das Grundrecht auf informationelle Selbstbestimmung 
+der Betroffenen bedeuten würde. Da der Eingriff in das Grundrecht auf
+informationelle Selbstbestimmung auch bei einer eingestuften Übermittlung der
+erbetenen Informationen eintreten würde, kommt auch keine Beantwortung
+mittels Verschlusssache in Betracht.
+29. Wurden Vergütungen oder erfolgsabhängige Bonuszahlungen von
+Mitgliedern des Vorstands oder anderer Führungskräfte mit der erfolgreichen 
+Umsetzung der SAP-Transformation verknüpft (vgl. Vorbemerkung der 
+Fragesteller), wenn ja, in welcher Form, und in welcher Höhe?
+Vorstandsziele werden zwischen Gesellschafterin und Vorstand jeweils für ein 
+oder mehrere Jahre im Voraus vereinbart. Der Zielerreichungsgrad wird
+anschließend durch den Aufsichtsrat festgelegt. Die Vorstandsziele unterliegen als 
+personenbezogene Daten grundsätzlich der Vertraulichkeit. Die im jeweils
+vergangenen Jahr ausgezahlte Vergütung an die Vorstandsmitglieder wird im
+jährlichen Corporate Governance Bericht auf der Website der GIZ veröffentlicht. 
+Für die Umsetzung von S/4HANA sind für das Jahr 2025 keine
+Bonuszahlungen an den Vorstand erfolgt.
+Individuelle Zielvereinbarungen mit anderen Führungskräften unterliegen der 
+Vertraulichkeit, vgl. Antwort zu Frage 28.
+31. Welche konkreten Konsequenzen zieht die Bundesregierung aus den
+Vorgängen für die Steuerung, Kontrolle und Überwachung zukünftiger
+großer IT‑Projekte der GIZ GmbH und anderer bundeseigener
+Durchführungsorganisationen (vgl. Vorbemerkung der Fragesteller)?
+Es wird auf die Antwort der Bundesregierung zu Frage 12 der Kleinen Anfrage 
+der Fraktion der AfD auf Bundestagsdrucksache 21/4936 verwiesen.
+32. Beabsichtigt die Bundesregierung, dem Deutschen Bundestag nach
+Abschluss der Aufarbeitung einen umfassenden Bericht über die Ursachen 
+der SAP-Probleme, die entstandenen Schäden und Folgekosten, die
+betroffenen Vertragspartner und Projekte sowie die daraus gezogenen
+organisatorischen und politischen Konsequenzen vorzulegen (vgl.
+Vorbemerkung der Fragesteller), und wenn nein, warum nicht?
+Der Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung des
+Deutschen Bundestages befasste sich am 10. Juni 2026 ausführlich mit der
+Thematik.
+33. Welche internen oder externen Stellen haben die Entscheidung über den 
+weltweiten Go-live von SAP S/4HANA vorbereitet, empfohlen,
+freigegeben oder mitgetragen, und welche Entscheidungsgrundlagen lagen
+dieser Entscheidung zugrunde (vgl. Vorbemerkung der Fragesteller)?
+Wie in der Umsetzungsmethode vorgesehen, wurden vor dem Go-live die 
+wesentlichen Go‑live Kriterien intern und extern bewertet und die Risiken eines 
+Go‑live zum geplanten Zeitpunkt mit Risiken bei einer Verschiebung des 
+Go‑live verglichen (vgl. Antwort zu Fragen 23 bis 26). Auf dieser Basis
+entschied der Vorstand, den Go‑live wie geplant zum 1. Januar 2026 zu vollziehen. 
+Dies entsprach auch der Empfehlung der externen Beratungen.
+34. In welchem Umfang wurden seit dem 1. Januar 2026 zusätzliche externe 
+Berater oder Dienstleister mit der Behebung der SAP-Probleme
+beauftragt, welche Kosten sind hierfür bislang entstanden, und aus welchen 
+Gründen waren diese zusätzlichen Beauftragungen erforderlich?
+Es wurden seit dem 1. Januar 2026 keine zusätzlichen Dienstleister mit der
+Behebung der SAP-Probleme beauftragt.
+35. Welche personellen, organisatorischen, finanziellen oder vertraglichen 
+Konsequenzen wurden aufgrund der bei der Einführung von SAP S/
+4HANA aufgetretenen technischen und organisatorischen Probleme
+bislang gezogen, wurden insbesondere Verantwortliche von ihren Aufgaben 
+entbunden, von Bonuszahlungen ausgeschlossen oder anderweitig zur 
+Verantwortung gezogen, und wenn keine entsprechenden Konsequenzen 
+gezogen wurden, warum nicht?
+Es wird auf die Antworten zu den Fragen 28 und 29 verwiesen.
+36. Wurde geprüft, ob der GIZ GmbH aufgrund der bei der Einführung von 
+SAP S/4HANA aufgetretenen technischen und organisatorischen
+Probleme gegenüber der SAP SE oder anderen an der Transformation
+beteiligten Unternehmen vertragliche oder gesetzliche Ansprüche, insbesondere 
+auf Schadenersatz, Kostenerstattung, Minderung oder Rückzahlung von 
+Vergütungen, zustehen?
+a) Wenn ja, zu welchem Ergebnis kam diese Prüfung, und wurden
+entsprechende Ansprüche bereits geltend gemacht oder rechtliche 
+Schritte eingeleitet?
+b) Wenn nein, warum wurde eine solche Prüfung nicht durchgeführt?
+Die GIZ prüft derzeit, ob ihr infolge der S/4HANA-bedingten
+Systemumstellungen justiziable Schäden entstanden sind.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333

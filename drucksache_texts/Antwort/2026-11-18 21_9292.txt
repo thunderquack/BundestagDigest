@@ -1,0 +1,299 @@
+Deutscher Bundestag Drucksache 21/9292
+21. Wahlperiode 19.11.2026
+Antwort 
+der Bundesregierung 
+auf die Kleine Anfrage der Abgeordneten Ruben Rupp, Robin Jünger, 
+Alexander Arpaschi, weiterer Abgeordneter und der Fraktion der AfD 
+– Drucksache 21/8884 –
+Umsetzung des Cyber Resilience Act – Meldepflichten, Prüfkompetenzen und 
+Unterstützung für Unternehmen
+V o r b e m e r k u n g  d e r  F r a g e s t e l l e r
+Mit dem Cyber Resilience Act (CRA) hat die Europäische Union erstmals 
+EU‑weit verbindliche Mindestanforderungen für die Cybersicherheit von
+Produkten mit digitalen Elementen eingeführt. Die vollständige Anwendung der 
+Verordnung ist erst für den 11. Dezember 2027 vorgesehen, einzelne Pflichten 
+gelten jedoch bereits deutlich früher. Seit dem 11. September 2026 sind
+Hersteller verpflichtet, aktiv ausgenutzte Schwachstellen sowie schwerwiegende 
+Sicherheitsvorfälle innerhalb von 24 Stunden gegenüber der zuständigen 
+nationalen Behörde zu melden, diese Meldung innerhalb von 72 Stunden zu 
+ergänzen und spätestens 14 Tage nach einer Abhilfemaßnahme (bei
+Schwachstellen) beziehungsweise einen Monat nach der Meldung (bei
+schwerwiegenden Vorfällen) einen Abschlussbericht vorzulegen (www.bsi.bund.de/DE/The
+men/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Cy
+ber_Resilience_Act/cyber_resilience_act.html). In Deutschland wurde das 
+Bundesamt für Sicherheit in der Informationstechnik (BSI) als zentrale
+Meldestelle benannt.
+Nach einer repräsentativen, im Frühjahr 2026 durchgeführten Befragung des 
+Digitalverbands Bitkom unter 1 003 Unternehmen ab zehn Beschäftigten,
+veröffentlicht am 10. September 2026, also einen Tag vor Beginn der
+Meldepflicht, war zwar 67 Prozent der befragten Unternehmen der Cyber Resilience 
+Act dem Namen nach bekannt, jedoch konnten nur 29 Prozent einschätzen, 
+was das Gesetz konkret für das eigene Unternehmen bedeutet (www.bitkom.or
+g/Presse/Presseinformation/Cyber-Resilience-Act-3-von-10-Unternehmen-vor
+bereitet). 38 Prozent hatten zwar davon gehört, konnten die Bedeutung für den 
+eigenen Betrieb aber nicht einschätzen, 28 Prozent kannten den Cyber
+Resilience Act zum Zeitpunkt der Befragung überhaupt nicht (www.bitkom.org/Pre
+sse/Presseinformation/Cyber-Resilience-Act-3-von-10-Unternehmen-vorbere
+itet). Erschwerend kommt hinzu, dass die von der EU-Agentur für
+Cybersicherheit (ENISA) bereitgestellte zentrale Meldeplattform, über die auch das 
+BSI die Meldungen deutscher Hersteller entgegennimmt, erst zum Stichtag 
+des 11. September 2026 selbst in Betrieb genommen wurde. Selbst gut
+vorbereitete Unternehmen konnten sich damit im Vorfeld weder auf der Plattform 
+registrieren noch die vorgeschriebenen Meldewege erproben.
+Die Antwort wurde namens der Bundesregierung mit Schreiben des Bundesministeriums des Innern vom 19. November 
+2026 übermittelt.
+Die Drucksache enthält zusätzlich – in kleinerer Schrifttype – den Fragetext.
+Auch aufseiten der zuständigen Behörde zeigen sich erhebliche
+Anlaufschwierigkeiten. Bereits seit dem 11. Juni 2026 gilt nach Artikel 71 des Cyber
+Resilience Act der rechtliche Rahmen für die Notifizierung von
+Konformitätsbewertungsstellen gemäß Kapitel IV der Verordnung (https://cyber-resilience-act.de/
+cra/kapitel-4/). Nach Artikel 35 Absatz 2 des Cyber Resilience Act müssen die 
+Mitgliedstaaten bis zum 11. Dezember 2026 dafür sorgen, dass eine
+ausreichende Zahl notifizierter Stellen zur Verfügung steht, die
+Konformitätsbewertungen durchführen können, um Engpässe und Hindernisse mit Blick auf den 
+Marktzugang zu verhindern (https://cyber-resilience-act.de/cra/kapitel-4/). Die 
+auf deutscher Seite dafür notwendige Prüfkompetenz wurde jedoch erst mehr 
+als drei Monate nach Beginn des Notifizierungsrahmens geschaffen. Am 
+24. September 2026, und damit weniger als elf Wochen vor Ablauf der Frist 
+aus Artikel 35 Absatz 2, haben das BSI und die Deutsche
+Akkreditierungsstelle (DAkkS) eine aktualisierte Verwaltungsvereinbarung unterzeichnet, mit der 
+weitere Geltungsbereiche für die Benennung des BSI als Befugnis erteilende 
+Behörde geschaffen sowie die Bereitstellung von Fachbegutachtern des BSI 
+für Akkreditierungsverfahren der DAkkS im Bereich der
+Informationssicherheit geregelt werden (www.bsi.bund.de/DE/Service-Navi/Presse/Alle-Meldun
+gen-News/Meldungen/2026/CRA-Konformitaet_BSI_DAkkS_260925.html). 
+Aus der Praxis, unter anderem von Branchenverbänden des Mittelstands, wird 
+zudem Kritik laut, dass insbesondere kleine und mittlere Unternehmen (KMU) 
+bei der Umsetzung der umfangreichen neuen Anforderungen nur unzureichend 
+unterstützt würden, während größere Unternehmen über eigene Rechts- und 
+Compliance-Abteilungen verfügen (www.itsa365.de/de-de/news-knowledge/2
+026/09/cyber-resilience-act-enisa-playbook-fuer-hersteller).
+Nach Auffassung der Fragesteller zeigt sich damit ein wiederkehrendes
+Muster europäischer und nationaler Digitalgesetzgebung, nach dem bereits nach 
+der Datenschutz-Grundverordnung und der NIS (Network and Information
+Security)‑2-Richtlinie erneut weitreichende Meldepflichten mit engen Fristen in 
+Kraft gesetzt werden, ohne dass die für den Vollzug zuständigen Behörden 
+und insbesondere der deutsche Mittelstand ausreichend Zeit und
+Unterstützung erhalten, sich auf die neuen Anforderungen vorzubereiten. Dies
+gefährdet nicht nur die digitale Souveränität, sondern auch die Wettbewerbsfähigkeit 
+des deutschen Mittelstands.
+Vor diesem Hintergrund besteht ein erhebliches parlamentarisches
+Informationsbedürfnis darüber, über welche personellen und technischen Kapazitäten 
+das BSI für die Umsetzung der neuen Meldepflichten tatsächlich verfügt und 
+welche konkrete Unterstützung die Bundesregierung kleinen und mittleren 
+Unternehmen bei der Erfüllung der Anforderungen des Cyber Resilience Act 
+zukommen lässt.
+ 1. Wie viele Meldungen nach Artikel 14 des Cyber Resilience Act sind 
+beim BSI seit dem 11. September 2026 bis zum aktuellen Zeitpunkt
+eingegangen (bitte nach Frühwarnmeldungen, Aktualisierungen und
+Abschlussberichten sowie, soweit bekannt, nach der Größe der meldenden 
+Hersteller in Kleinst-, kleine, mittlere und große Unternehmen
+aufschlüsseln)?
+Das BSI hat bislang 51 Frühwarnungen, 94 Aktualisierungs-Meldungen
+innerhalb der 72‑Stunden-Frist sowie sieben Abschlussberichte erhalten (Stand: 
+5. November 2026, 15:32 Uhr).
+Eine statistische Auswertung nach Unternehmensgröße erfolgt dabei nicht.
+ 2. Wie viele dieser Meldungen betrafen aktiv ausgenutzte Schwachstellen 
+und wie viele schwerwiegende Sicherheitsvorfälle im Sinne des Cyber 
+Resilience Act?
+Von den in der Antwort zu 1. benannten Meldungen beziehen sich 34
+Frühwarnungen, 57 Aktualisierungs-Meldungen und 54 Abschlussberichte auf aktiv 
+ausgenutzte Schwachstellen. Entsprechend entfallen 17 Frühwarnungen, 
+37 Aktualisierungs-Meldungen und 21 Abschlussberichte auf schwerwiegende 
+Sicherheitsvorfälle im Sinne des Cyber Resilience Act (kurz CRA).
+ 3. In wie vielen Fällen hat das BSI seit dem 11. September 2026
+Erkenntnisse aus Meldungen nach Artikel 14 des Cyber Resilience Act an
+Strafverfolgungsbehörden weitergegeben oder auf deren Grundlage
+Warnungen an betroffene Nutzer oder Unternehmen herausgegeben, und wie 
+viele Ermittlungsverfahren wurden nach Kenntnis der Bundesregierung 
+daraufhin eingeleitet?
+Das BSI hat keine Informationen mit den Strafverfolgungsbehörden geteilt. 
+Das BSI hat zwei Meldungen nach § 3 BSI-Gesetz veröffentlicht. Dies geschah 
+in Absprache mit den jeweiligen Herstellern.
+ 4. Über wie viele Vollzeitäquivalente verfügt das BSI aktuell für die
+Bearbeitung und Auswertung der nach dem Cyber Resilience Act
+eingehenden Meldungen?
+Für die Erstbearbeitung der eingehenden Meldungen sind derzeit zwei
+Vollzeitäquivalente (VZÄ) direkt zugeordnet. Anlassbezogen erfolgt eine
+bedarfsgerechte Unterstützung durch weiteres Personal.
+ 5. Wie viele dieser Stellen waren zum 11. September 2026 tatsächlich
+besetzt, und wie viele befanden sich zu diesem Zeitpunkt noch im
+Besetzungsverfahren?
+Zum 11. September 2026 war ein VZÄ besetzt. Ein weiteres VZÄ wird ab dem 
+1. Dezember 2026 besetzt sein.
+ 6. Innerhalb welcher durchschnittlichen Zeitspanne wurden die seit dem 
+11. September 2026 eingegangenen Meldungen durch das BSI
+bearbeitet?
+Das BSI führt in einer Zeitspanne von fünf bis 35 Minuten eine erste Triage 
+eingegangener Meldungen durch.
+ 7. Welche technischen Systeme und Schnittstellen nutzt das BSI zur
+Entgegennahme und Weiterverarbeitung der über die europäische
+Meldeplattform der ENISA eingehenden Meldungen?
+Die europäische Meldeplattform der ENISA erstellt für jede Meldung eine 
+E‑Mail-Benachrichtigung, welche über die etablierten Meldeprozesse im BSI-
+Lagezentrum entgegengenommen, bewertet und in die Fachprozesse überführt 
+wird.
+ 8. Zu welchem Zeitpunkt waren diese technischen Systeme und
+Schnittstellen des BSI vollständig einsatzbereit?
+Die Systeme und Schnittstellen waren zum Start der Meldeplattform der ENI-
+SA am 11. September 2026 voll einsetzbar.
+ 9. Welche Geltungsbereiche und Produktkategorien umfasst die am 
+24. September 2026 zwischen dem BSI und der Deutschen
+Akkreditierungsstelle (DAkkS) unterzeichnete Verwaltungsvereinbarung konkret?
+Die zwischen BSI und Deutscher Akkreditierungsstelle (DAkkS) geschlossene 
+Verwaltungsvereinbarung umfasst die Bereiche der Verordnungen (EU) 
+2019/881 (Cybersecurity Act), (EU) 2024/2847 (Cyber Resilience Act), (EU) 
+2024/1689 (AI Act). Weiterhin ist die Verwaltungsvereinbarung offengehalten, 
+um auch potentielle zukünftige Rechtsakte abdecken zu können, sofern dafür 
+der Bedarf besteht.
+10. Wie viele Fachbegutachter stellt das BSI der DAkkS auf Grundlage
+dieser Vereinbarung für Akkreditierungsverfahren im Bereich der
+Informationssicherheit zur Verfügung?
+Das BSI stellt im Rahmen seiner personellen Kapazitäten eine ausreichende 
+Anzahl von Fachbegutachtern für eine Begutachtung sicher. Der DAkkS
+wurden bislang neun Fachbegutachter des BSI im Bereich der
+Informationssicherheit gemeldet. Die Fachbegutachter können im Einzelfall je nach fachlichem 
+Bezug an einem oder mehreren Verfahren zeitgleich mitwirken. Im Einzelfall 
+und nach vorheriger Absprache mit dem BSI kann die DAkkS andere geeignete 
+externe oder eigene Begutachter heranziehen.
+11. Wie viele Konformitätsbewertungsstellen sind seit Unterzeichnung der 
+Vereinbarung durch die DAkkS im Bereich des Cyber Resilience Act
+akkreditiert worden?
+Seit der Erneuerung der Verwaltungsvereinbarung zwischen DAkkS und BSI 
+ist keine Konformitätsbewertungsstelle im Bereich des CRA akkreditiert
+worden.
+12. Wie viele Anträge auf Akkreditierung als Konformitätsbewertungsstelle 
+im Bereich des Cyber Resilience Act liegen der DAkkS aktuell zur
+Bearbeitung vor, und wie viele davon werden nach Einschätzung der
+Bundesregierung bis zum 11. Dezember 2026 abgeschlossen sein können?
+Bisher liegen der DAkkS neun Anträge zur Bearbeitung vor. Ein Abschluss der 
+Anträge zum 11. Dezember 2026 wird angestrebt.
+13. Mit welcher durchschnittlichen Bearbeitungsdauer rechnet die
+Bundesregierung für ein vollständiges Akkreditierungsverfahren einer
+Konformitätsbewertungsstelle nach dem Cyber Resilience Act?
+Die Bearbeitungsdauer ist unterschiedlich, je nachdem, ob es sich um eine 
+Konformitätsbewertungsstelle handelt, die bereits eine Akkreditierung für einen 
+anderen Geltungsbereich hält und ihre Tätigkeiten erweitert, oder eine Stelle, 
+die eine Erstakkreditierung anstrebt. Für Erweiterungen nach Modul H mit
+Nutzung des behördlichen Programms des BSI sind sechs bis neun Monate ab
+Antragstellung realistisch, bei Erstakkreditierungen mit Entwurf eines eigenen 
+Konformitätsbewertungsschemas für Modul B ist eher mit einem Jahr zu
+rechnen.
+14. Für welche Produktkategorien nach dem Cyber Resilience Act wird ab 
+dem 11. Dezember 2027 eine Konformitätsbewertung durch eine
+unabhängige Stelle erforderlich sein?
+Die unterschiedlichen Konformitätsbewertungsverfahren je nach Produkt
+finden sich in Artikel 32 CRA in Verbindung mit Anhang 3.
+Aktuell gilt, dass für wichtige Produkte Klasse 2 eine Konformitätsbewertung 
+nach Modul B oder Modul H durchgeführt werden muss.
+Für die Kategorie „Kritische Produkte“ gilt ebenfalls, dass die Konformität 
+über Modul B oder Modul H nachgewiesen werden muss. Die EU-Kommission 
+hat jedoch die Möglichkeit, über einen delegierten Rechtsakt Zertifizierungen 
+nach dem Cybersecurity Act (CSA) für die Konformitätsvermutung nach dem 
+CRA freizugeben.
+Bei wichtigen Produkten Klasse 1 ist es davon abhängig, ob für die
+entsprechende Produktkategorie eine von der EU-Kommission im Amtsblatt der
+Europäischen Union für die Konformitätsvermutung zitierte harmonisierte
+Europäische Norm vorhanden ist. Ist dies bis zum 11. Dezember 2027 der Fall, kann 
+die Konformität auf dieser Grundlage über die interne Kontrolle (Modul A) 
+durch den Hersteller bzw. Importeur durchgeführt werden. Sind die
+entsprechenden Normen nicht im Amtsblatt der Europäischen Union zitiert, muss hier 
+eines der einschlägigen Konformitätsbewertungsmodule (Modul B oder
+Modul H) herangezogen und eine notifizierte Stelle beauftragt werden.
+15. Wie viele Konformitätsbewertungsstellen müssen nach Einschätzung der 
+Bundesregierung bis zum 11. Dezember 2027 akkreditiert sein, damit 
+Hersteller entsprechender Produkte fristgerecht eine Bewertung erhalten 
+können?
+Die konkrete Anzahl notwendiger Konformitätsbewertungsstellen wurden im 
+CRA nicht festgelegt. Da diese stark von der Größe und Leistungsfähigkeit der 
+privatwirtschaftlichen Konformitätsbewertungsstellen sowie derer
+Zertifizierungsprogrammen abhängt, kann eine konkrete Zahl derzeit nicht benannt
+werden.
+16. Welche konkreten Informations- und Unterstützungsangebote stellt die 
+Bundesregierung kleinen und mittleren Unternehmen zur Erfüllung der 
+Meldepflichten nach dem Cyber Resilience Act zur Verfügung?
+Das BSI informiert über seine Webseite, stellt verschiedene Handreichungen 
+(z. B. das „Management-Blitzlicht CRA“) zur Verfügung und hat das Thema 
+CRA in sein Standard-Vortragsprogramm aufgenommen.
+Technische Orientierung gibt zudem die Technische Richtlinie des BSI 
+TR-03183. Insbesondere in Teil 3 „Vulnerability Reports and Notifications“ 
+wird der Umgang mit eingehenden Schwachstellenmeldungen beschrieben.
+Das Bundesministerium für Wirtschaft und Energie unterstützt im Rahmen
+seines Förderschwerpunkts Mittelstand-Digital mit der Initiative IT-Sicherheit in 
+der Wirtschaft KMU, Start-ups und Handwerksbetriebe mit Hilfsangeboten
+dabei, ihre IT- und Cybersicherheit zu verbessern. Innerhalb der Initiative
+adressieren die Transferstelle Cybersicherheit im Mittelstand sowie verschiedene 
+breitenwirksame Fokusprojekte Fragen des CRA, z. B. EASY.CRA (praktische 
+Umsetzung, Produkteinordnung, Dokumentation), OT‑CRAft (CRA-konforme, 
+vernetzte Produktionsanlagen), LegalTrustNavigator (rechtliche Orientierung 
+zu IT- und Cybersicherheitsgesetzen insgesamt). Ab Januar 2027 werden im 
+Förderschwerpunkt in den voraussichtlich 17 neuen Mittelstand-Digital
+Zentren, die bis Juli 2027 starten, sogenannte CYBERsicher-Trainer für kleinste, 
+kleine und mittlere Unternehmen Schulungen und individuelle Betreuung
+angeboten, die u. a. auch zum CRA beraten können. Im Übrigen wird auf die
+Leitlinien der Europäischen Kommission zur Umsetzung des CRA verwiesen: 
+https://digital-strategy.ec.europa.eu/en/library/commission-publishes-new-gui-
+dance-support-timely-cyber-resilience-act-implementation.
+17. Welche finanziellen Mittel hat die Bundesregierung im Jahr 2026 für die 
+Unterstützung kleiner und mittlerer Unternehmen bei der Umsetzung des 
+Cyber Resilience Act bereitgestellt?
+Unterstützungsleistungen für KMU zu IT- und Cybersicherheit werden nicht je 
+Rechtsakt bzw. nach Unternehmensgröße erhoben, sodass eine trennscharfe 
+Angabe zu Mitteln für die Umsetzung des CRA durch KMU nicht möglich ist.
+18. Wie viele Anfragen kleiner und mittlerer Unternehmen zur Umsetzung 
+des Cyber Resilience Act sind beim BSI seit dem 11. September 2026 
+eingegangen, und innerhalb welcher durchschnittlichen Zeitspanne
+wurden diese Anfragen durch das BSI beantwortet?
+In der Zeit vom 11. September 2026 bis 5. November 2026, 12 Uhr, sind über 
+die Kanäle des BSI Service-Centers insgesamt 30 Anfragen aus der Zielgruppe 
+Wirtschaft zum Thema CRA eingegangen. Eine statistische Aufschlüsselung 
+speziell nach KMU erfolgt dabei nicht. Ebenso liegen zu einer
+durchschnittlichen Bearbeitungsdauer einer Anfrage keine belastbaren aufbereiteten
+statistischen Daten vor. Anfragen über andere Kommunikationskanäle des BSI
+können statistisch nicht ausgewertet werden. Deshalb kann die exakte Anzahl an 
+Anfragen nicht abschließend benannt werden.
+19. Welche Erkenntnisse liegen der Bundesregierung zu den Ergebnissen der 
+Bitkom-Umfrage vom 10. September 2026 vor, wonach nur 29 Prozent 
+der befragten Unternehmen einschätzen konnten, was der Cyber
+Resilience Act konkret für das eigene Unternehmen bedeutet?
+Das BSI arbeitet aktiv an Informationsangeboten zum CRA, auch in
+Zusammenarbeit mit relevanten Herstellerverbänden wie bspw. dem Bitkom sowie mit 
+eigenen Kommunikationsmaßnahmen wie Messeauftritten, Vorträgen, Social 
+Media, Webinaren und Angeboten auf der BSI-Webseite. Viel Klarheit schaffen 
+zudem die Leitlinien der Europäischen Kommission, die zeitnah auch auf 
+Deutsch veröffentlicht werden sollen: https://digital-strategy.ec.europa.eu/en/
+library/commission-publishes-new-guidance-support-timely-cyber-
+resilienceact-implementation.
+20. Wann wurde die Bundesregierung durch die ENISA über den Zeitpunkt 
+der Inbetriebnahme der zentralen Meldeplattform informiert?
+Das BSI war seit Bekanntwerden der Umsetzung einer zentralen
+Meldeplattform über die Entwicklung der Inbetriebnahme informiert.
+21. Wie viele nach dem Cyber Resilience Act notifizierte
+Konformitätsbewertungsstellen sind der Bundesregierung zum aktuellen Zeitpunkt 
+EU‑weit und in Deutschland bekannt?
+Zum gegenwärtigen Zeitpunkt sind auf der Seite des NANDO-
+Informationssystems (New Approach Notified and Designated Organisations,
+Informationssystem für die nach dem neuen Konzept notifizierten und benannten
+Organisationen) keine Konformitätsbewertungsstellen für einen Mitgliedsstaat der
+Europäischen Union veröffentlicht und somit ist derzeit keine
+Konformitätsbewertungsstelle für den CRA notifiziert (Stand 6. November 2026.).
+22. Inwieweit wird die Bundesregierung die Frist aus Artikel 35 Absatz 2 
+des Cyber Resilience Act, wonach bis zum 11. Dezember 2026 eine
+ausreichende Zahl notifizierter Konformitätsbewertungsstellen zur
+Verfügung stehen muss, nach heutigem Kenntnisstand einhalten können, und 
+welche Maßnahmen ergreift sie andernfalls?
+Ob bis zum 11. Dezember 2026 Konformitätsbewertungsstellen seitens des BSI 
+notifiziert werden können, ist derzeit noch nicht absehbar. Die notwendigen 
+Akkreditierungsverfahren dauern an und sind noch nicht abgeschlossen. Es ist 
+die Aufgabe der Deutschen Akkreditierungsstelle GmbH (DAkkS) als nationale 
+Akkreditierungsstelle, Stellen zu akkreditieren, wenn diese ihre Kompetenz für 
+den jeweiligen Rechtsakt bewiesen haben. Die nationalen
+Akkreditierungsstellen arbeiten nach EU-Recht frei von fachlichen Eingriffen durch die nationalen 
+Regierungen, insofern sind hier keine Maßnahmen zu ergreifen.
+Das BSI als notifizierende Behörde wirkt auf europäischer Ebene in der
+Arbeitsgruppe zur Verwaltungszusammenarbeit der Notifizierungsbehörden mit 
+und tauscht sich über die Verfügbarkeit von Konformitätsbewertungsstellen 
+regelmäßig mit den europäischen Partnerbehörden aus.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
