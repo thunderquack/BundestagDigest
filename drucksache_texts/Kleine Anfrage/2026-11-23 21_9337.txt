@@ -1,0 +1,119 @@
+Deutscher Bundestag Drucksache 21/9337
+21. Wahlperiode 23.11.2026
+Kleine Anfrage
+der Abgeordneten Ruben Rupp, Robin Jünger, Alexander Arpaschi, Sebastian 
+Maack, Tobias Ebenberger, Lars Haise, Edgar Naujok, Steffen Janich, 
+Prof. Dr. Michael Kaufmann, Carina Schießl, Beatrix von Storch, Micha Fehre, 
+Peter Bohnhof, Ronald Gläser und der Fraktion der AfD
+Zur möglichen Gefährdung der Lebensmittelversorgung in Deutschland durch 
+Cyberangriffe auf vernetzte Kühlsysteme
+In europäischen Nachbarländern kam es jüngst zu einer Serie offenbar
+koordinierter Cyberangriffe auf den Lebensmitteleinzelhandel. Presseberichten
+zufolge wurden in Frankreich in mehreren hundert Supermärkten führender
+Handelsketten vernetzte Steuerungssysteme der gewerblichen Kältetechnik durch 
+unbekannte Angreifer fernmanipuliert. Die Kühlanlagen kühlten in der Folge 
+die gelagerte Ware nicht mehr, sondern heizten die Kühlmöbel teils
+stundenlang auf bis zu 50 Grad Celsius auf. Dies führte zur massenhaften Vernichtung 
+frischer und tiefgekühlter Lebensmittel, zu erheblichen Sachschäden und
+Ausfällen im Verkaufsbetrieb sowie zu potenziellen Brand- und
+Gesundheitsgefahren. Auch in den Niederlanden wurden zeitgleich erhebliche Störungen der IT- 
+und Steuerungssysteme großer Handelskonzerne registriert (vgl. www.welt.de/
+politik/ausland/article6acf3caac8c6305416e42480/cyberangriff-hacker-
+drehenkuehlsysteme-in-bis-zu-700-supermaerkten-auf-50-grad-hoch.html).
+Sicherheitsbehörden wie die französische Agence nationale de la sécurité des 
+systèmes d'information (ANSSI) und das deutsche Bundesamt für Sicherheit in 
+der Informationstechnik (BSI) warnen vor der Verwundbarkeit industrieller 
+Fernwartungsschnittstellen sowie vor potenziellen Nachahmungstaten (vgl. 
+www.mdr.de/nachrichten/deutschland/gesellschaft/cyberangriff-frankreich-sma
+rt-home-sichern,cybersicherheit-124.html). Zwischenzeitlich ist es auch in 
+Deutschland zu böswilligen Attacken auf Kühlsysteme von Supermärkten
+gekommen (vgl. www.handelsblatt.com/unternehmen/handel-konsumgueter/einze
+lhandel-hackerangriffe-auf-supermarkt-kuehlsysteme-in-deutschland/10026698
+4.html).
+Die bedarfsgerechte, unterbrechungsfreie Versorgung der Bürger mit
+Grundnahrungsmitteln gehört zur elementaren Daseinsvorsorge und stellt einen
+Kernbereich Kritischer Infrastrukturen dar. Vor diesem Hintergrund sehen die
+Fragesteller die Notwendigkeit einer Aufklärung über die hiesige Gefährdungslage 
+sowie über administrative und gewerbliche Schutzkonzepte der deutschen
+Handelsinfrastruktur.
+Wir fragen die Bundesregierung:
+ 1. Welche konkreten Erkenntnisse besitzt die Bundesregierung, insbesondere 
+das Bundesamt für Sicherheit in der Informationstechnik (BSI) und das 
+Bundeskriminalamt (BKA), über die jüngsten Cyberangriffe auf Kühlsys-
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+teme und IT-Infrastrukturen des Lebensmitteleinzelhandels in Frankreich 
+und den Niederlanden?
+ 2. Wurden nach Kenntnis der Bundesregierung im Zusammenhang mit
+dieser Angriffsserie bereits Täterkreise, Angriffsmethoden oder konkrete 
+Motive (beispielsweise staatliche Sabotage, Erpressung, politischer
+Aktivismus) identifiziert (bitte ausführen)?
+ 3. Kann die Bundesregierung einen Zusammenhang zwischen den Attacken 
+auf zunächst niederländische und französische und jetzt auf deutsche 
+Kühlsysteme im Lebensmitteleinzelhandel und der
+Lebensmittelgroßmärkte erkennen (bitte ausführen)?
+ 4. Wie bewertet die Bundesregierung die aktuelle Gefährdungslage für die 
+IT-Systeme im deutschen Lebensmitteleinzelhandel vor dem Hintergrund 
+behördlicher Warnungen vor Nachahmungstätern?
+ 5. Welche Unternehmen, Zentrallager oder Filialnetze des
+Lebensmitteleinzelhandels fallen nach den Schwellenwerten der BSI-Kritis-
+Verordnung (vgl. www.gesetze-im-internet.de/bsi-kritisv/) aktuell unter 
+den Sektor „Ernährung“?
+Kann die Bundesregierung angesichts der dezentralen Filialstruktur und 
+vernetzter Fernwartungslösungen regulatorischen Nachbesserungsbedarf 
+bei diesen Kriterien erkennen?
+ 6. Welche verbindlichen Mindestanforderungen an die Cybersicherheit und 
+an die Abschottung von Steuerungs- und Kühltechnik gegenüber dem
+offenen Internet gelten derzeit für gewerbliche Lebensmittelhändler in 
+Deutschland?
+Wie wird deren Einhaltung kontrolliert?
+ 7. Welche Vorkehrungen und Resilienzkonzepte existieren nach Kenntnis der 
+Bundesregierung seitens der gewerblichen Marktteilnehmer, um bei
+Ausfall oder Manipulation vernetzter Kühlsysteme eine Kontamination von 
+Lebensmitteln rechtzeitig zu detektieren und den Totalausfall lokaler
+Versorgungsstrukturen zu verhindern?
+ 8. Wie bewertet die Bundesregierung das Risiko, dass manipulierte
+Kühlsysteme durch unbemerkte Temperaturabweichungen zu einer
+Gesundheitsgefährdung der Bevölkerung durch verdorbene oder mit Keimen belastete 
+Lebensmittel führen?
+Welche behördlichen Kontrollmechanismen greifen in einem solchen
+Sabotagefall?
+ 9. Bestehen nach Kenntnis der Bundesregierung ausreichende
+Meldepflichten für Handelsketten gegenüber den Lebensmittelüberwachungsbehörden 
+der Länder, wenn es zu sabotage- oder hackerbedingten Unterbrechungen 
+der Kühlkette käme (bitte ausführen)?
+10. Welche Entsorgungs- und Nachweispflichten greifen im Falle großflächig 
+verdorbener Kühl- und Tiefkühlwaren, um ein rechtswidriges
+Inverkehrbringen manipulierter oder verdorbener Chargen lückenlos
+auszuschließen?
+11. Steht die Bundesregierung beziehungsweise das BSI im direkten
+Austausch mit den führenden Herstellern industrieller Kühl- und
+Steuerungstechnik sowie den Branchenverbänden des Handels, um möglicherweise 
+bestehende Sicherheitslücken in Bestandsgeräten zügig zu schließen (bitte 
+ausführen)?
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+12. Hat das BSI im Zuge des geschilderten Cyberangriffs auf französische
+Supermärkte konkrete Handlungsempfehlungen oder Sicherheitswarnungen 
+an deutsche Handelsunternehmen bezüglich der Absicherung von
+Gebäudeleitsystemen, Schnittstellen für Fernwartung und des Einspielens von 
+Sicherheitsupdates herausgegeben (bitte ausführen)?
+13. Gibt es seitens der Bundesregierung Überlegungen, Hersteller und
+Dienstleister von Fernwartungssystemen in kritischen Sektoren gesetzlich
+strenger zur unverzüglichen Behebung von Sicherheitsmängeln und zur
+Abschaltung unsicherer Standardzugänge zu verpflichten (bitte ausführen)?
+14. Welche Notfallpläne und Vorhaltekapazitäten bestehen auf Bundes- und 
+Länderebene (etwa im Rahmen des Ernährungssicherstellungs- und -
+vorsorgegesetz (ESVG) und der zivilen Notfallvorsorge), um im Szenario 
+eines großflächigen, softwarebedingten Ausfalls gewerblicher Kühlketten 
+die Grundversorgung der Bürger mit frischen Lebensmitteln
+aufrechtzuerhalten?
+Berlin, den 17. November 2026
+Dr. Alice Weidel, Tino Chrupalla und Fraktion
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
+Vorabfassung - w
+ird durch die lektorierte Version ersetzt.
